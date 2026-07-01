@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img">
+  <title>GradesBooster</title>
+  <desc>GradesBooster logo on dark background</desc>
+
+  <!-- Badge -->
+  <rect x="0" y="0" width="100" height="100" rx="20" fill="#0d9488"/>
+
+  <!-- Cap board -->
+  <rect x="26" y="14" width="48" height="12" rx="4" fill="white"/>
+  <circle cx="50" cy="14" r="6" fill="white"/>
+  <line x1="72" y1="20" x2="82" y2="34" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="82" cy="34" r="4" fill="white"/>
+
+  <g stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 50 26 A 30 30 0 1 0 80 56"/>
+    <path d="M 80 56 L 64 56 L 64 38"/>
+    <path d="M 58 46 L 64 36 L 70 46"/>
+  </g>
+
+  <!-- Wordmark: white + light teal -->
+  <text y="67" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" letter-spacing="-0.5">
+    <tspan x="114" font-weight="800" fill="white">Grades</tspan><tspan font-weight="500" fill="#5eead4">Booster</tspan>
+  </text>
+
+  <text x="116" y="86" font-family="system-ui,-apple-system,sans-serif" font-size="13" fill="#5eead4" letter-spacing="1">Smart learning for K–12</text>
+</svg>
