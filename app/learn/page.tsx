@@ -91,7 +91,7 @@ function SubjectQuiz({
   }
 
   const liveScore = submitted
-    ? answers.reduce((acc, a, i) => acc + (a === content.quiz[i].answer ? 1 : 0), 0)
+    ? answers.reduce((acc: number, a, i) => acc + (a === content.quiz[i].answer ? 1 : 0), 0)
     : null;
   const displayScore = liveScore ?? savedScore;
   const total = content.quiz.length;
