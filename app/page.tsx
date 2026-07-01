@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState } from 'react';
 import { useAuth } from '@/components/auth-provider';
 import { Button } from '@/components/ui/button';
@@ -95,9 +96,8 @@ export default function LandingPage() {
       {/* ── Top nav ── */}
       <header className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="mx-auto max-w-6xl px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2 font-bold text-lg text-foreground">
-            <GraduationCap className="h-6 w-6 text-primary" />
-            GradesBooster
+          <Link href="/" className="flex items-center">
+            <Image src="/logo.svg" alt="GradesBooster" width={160} height={38} priority />
           </Link>
           <div className="flex items-center gap-2">
             {!loading && (
