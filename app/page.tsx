@@ -39,7 +39,7 @@ const FAQS = [
   },
   {
     q: 'Which grades have content right now?',
-    a: 'Kindergarten and Grades 1–5, 7, and 9 are fully available with 30 days of content each. Grades 6, 8, 10, 11, and 12 are being added now — check back soon.',
+    a: 'All grades — Kindergarten through Grade 12 — are fully available with 30 days of content each. Every grade has been written and aligned to Ontario curriculum expectations.',
   },
   {
     q: 'Do my kids need their own accounts?',
@@ -88,9 +88,9 @@ function FAQItem({ q, a }: { q: string; a: string }) {
 const GRADE_GROUPS = [
   { label: 'Kindergarten', grades: ['K'], ready: [true] },
   { label: 'Primary', grades: ['1', '2', '3'], ready: [true, true, true] },
-  { label: 'Junior', grades: ['4', '5', '6'], ready: [true, true, false] },
-  { label: 'Intermediate', grades: ['7', '8'], ready: [true, false] },
-  { label: 'High School', grades: ['9', '10', '11', '12'], ready: [true, false, false, false] },
+  { label: 'Junior', grades: ['4', '5', '6'], ready: [true, true, true] },
+  { label: 'Intermediate', grades: ['7', '8'], ready: [true, true] },
+  { label: 'High School', grades: ['9', '10', '11', '12'], ready: [true, true, true, true] },
 ];
 
 // ── Landing page ─────────────────────────────────────────────────────────────

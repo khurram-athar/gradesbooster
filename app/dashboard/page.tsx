@@ -1,13 +1,16 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
+import { EmailAuthProvider, reauthenticateWithCredential } from 'firebase/auth';
+import { auth } from '@/lib/firebase';
 import { useAuth } from '@/components/auth-provider';
 import { loadKids, loadAllKidResults } from '@/lib/firestore';
 import { Nav } from '@/components/nav';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Input } from '@/components/ui/input';
 import {
   Select,
   SelectContent,
@@ -24,7 +27,7 @@ import {
   TableRow,
 } from '@/components/ui/table';
 import type { KidProfile, QuizResult, DashboardRow } from '@/types';
-import { Download, TrendingUp } from 'lucide-react';
+import { Download, TrendingUp, Lock, Eye, EyeOff, Sparkles, X } from 'lucide-react';
 
 function pctBadge(pct: number) {
   if (pct >= 80) return 'bg-green-100 text-green-800 border-green-200';
@@ -70,21 +73,196 @@ function kidAvgScore(kidId: string, allResults: Map<string, Map<string, QuizResu
   return Math.round(total / count);
 }
 
+// ── Re-auth modal ────────────────────────────────────────────
+
+function ReAuthGate({ onSuccess }: { onSuccess: () => void }) {
+  const [password, setPassword] = useState('');
+  const [showPw, setShowPw] = useState(false);
+  const [error, setError] = useState('');
+  const [busy, setBusy] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    inputRef.current?.focus();
+  }, []);
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setError('');
+    setBusy(true);
+    try {
+      const currentUser = auth.currentUser;
+      if (!currentUser?.email) throw new Error('No signed-in user');
+      const credential = EmailAuthProvider.credential(currentUser.email, password);
+      await reauthenticateWithCredential(currentUser, credential);
+      onSuccess();
+    } catch {
+      setError('Incorrect password. Please try again.');
+      setPassword('');
+      inputRef.current?.focus();
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  return (
+    <div className="flex flex-col min-h-screen">
+      <Nav />
+      <div className="flex-1 flex items-center justify-center px-4">
+        <Card className="w-full max-w-sm">
+          <CardHeader className="text-center pb-2">
+            <div className="mx-auto mb-3 h-12 w-12 rounded-full bg-violet-100 flex items-center justify-center">
+              <Lock className="h-5 w-5 text-violet-600" />
+            </div>
+            <CardTitle className="text-lg">Confirm your identity</CardTitle>
+            <p className="text-sm text-muted-foreground mt-1">
+              Enter your password to view quiz results.
+            </p>
+          </CardHeader>
+          <CardContent>
+            <form onSubmit={handleSubmit} className="space-y-3">
+              <div className="relative">
+                <Input
+                  ref={inputRef}
+                  type={showPw ? 'text' : 'password'}
+                  placeholder="Your password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  className="pr-10"
+                  required
+                  disabled={busy}
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowPw((v) => !v)}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+                  tabIndex={-1}
+                >
+                  {showPw ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+                </button>
+              </div>
+              {error && (
+                <p className="text-sm text-red-600">{error}</p>
+              )}
+              <Button type="submit" className="w-full" disabled={busy || !password}>
+                {busy ? 'Verifying…' : 'View Results'}
+              </Button>
+            </form>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+}
+
+// ── AI Assessment modal ──────────────────────────────────────
+
+function AssessmentModal({
+  kid,
+  results,
+  onClose,
+}: {
+  kid: KidProfile;
+  results: Map<string, QuizResult>;
+  onClose: () => void;
+}) {
+  const [report, setReport] = useState('');
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
+
+  useEffect(() => {
+    async function generate() {
+      try {
+        const resultsList = Array.from(results.values()).map((r) => ({
+          subject: r.subject,
+          day: r.day,
+          dayLabel: r.dayLabel,
+          score: r.score,
+          total: r.total,
+          date: r.date,
+        }));
+
+        const res = await fetch('/api/assessment', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ kidName: kid.name, grade: kid.grade, results: resultsList }),
+        });
+
+        if (!res.ok) throw new Error('Failed to generate report');
+        const data = await res.json();
+        setReport(data.report);
+      } catch {
+        setError('Could not generate report. Please try again.');
+      } finally {
+        setLoading(false);
+      }
+    }
+    generate();
+  }, [kid, results]);
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4" onClick={onClose}>
+      <div
+        className="bg-background rounded-2xl border border-border shadow-xl w-full max-w-lg p-6 relative"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <button
+          onClick={onClose}
+          className="absolute top-4 right-4 text-muted-foreground hover:text-foreground"
+        >
+          <X className="h-5 w-5" />
+        </button>
+
+        <div className="flex items-center gap-3 mb-4">
+          <div className="h-10 w-10 rounded-xl bg-violet-100 flex items-center justify-center">
+            <Sparkles className="h-5 w-5 text-violet-600" />
+          </div>
+          <div>
+            <h2 className="font-bold text-lg">{kid.name}&apos;s End-of-Term Report</h2>
+            <p className="text-xs text-muted-foreground">
+              Grade {kid.grade === 0 ? 'K' : kid.grade} · AI-generated assessment
+            </p>
+          </div>
+        </div>
+
+        {loading ? (
+          <div className="py-10 text-center text-muted-foreground text-sm">
+            <Sparkles className="h-6 w-6 mx-auto mb-3 text-violet-400 animate-pulse" />
+            Generating personalised report…
+          </div>
+        ) : error ? (
+          <p className="text-red-600 text-sm py-4">{error}</p>
+        ) : (
+          <div className="space-y-3">
+            {report.split('\n\n').filter(Boolean).map((para, i) => (
+              <p key={i} className="text-sm leading-relaxed text-foreground">{para}</p>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+// ── Main dashboard ───────────────────────────────────────────
+
 export default function DashboardPage() {
   const { user, loading } = useAuth();
   const router = useRouter();
+  const [authed, setAuthed] = useState(false);
   const [kids, setKids] = useState<KidProfile[]>([]);
   const [allResults, setAllResults] = useState<Map<string, Map<string, QuizResult>>>(new Map());
   const [pageLoading, setPageLoading] = useState(true);
   const [filterKid, setFilterKid] = useState<string>('all');
   const [filterToday, setFilterToday] = useState(false);
+  const [assessmentKid, setAssessmentKid] = useState<KidProfile | null>(null);
 
   useEffect(() => {
     if (!loading && !user) router.replace('/auth');
   }, [user, loading, router]);
 
   useEffect(() => {
-    if (!user) return;
+    if (!user || !authed) return;
     async function load() {
       const kidsData = await loadKids(user!.uid);
       setKids(kidsData);
@@ -93,7 +271,34 @@ export default function DashboardPage() {
       setPageLoading(false);
     }
     load();
-  }, [user]);
+  }, [user, authed]);
+
+  if (loading || !user) {
+    return (
+      <div className="flex flex-col min-h-screen">
+        <Nav />
+        <div className="flex-1 flex items-center justify-center">
+          <p className="text-muted-foreground text-sm">Loading…</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Show re-auth gate before any data is displayed
+  if (!authed) {
+    return <ReAuthGate onSuccess={() => setAuthed(true)} />;
+  }
+
+  if (pageLoading) {
+    return (
+      <div className="flex flex-col min-h-screen">
+        <Nav />
+        <div className="flex-1 flex items-center justify-center">
+          <p className="text-muted-foreground text-sm">Loading results…</p>
+        </div>
+      </div>
+    );
+  }
 
   const today = new Date().toISOString().slice(0, 10);
   const allRows = buildRows(kids, allResults);
@@ -121,17 +326,6 @@ export default function DashboardPage() {
     URL.revokeObjectURL(url);
   }
 
-  if (loading || !user || pageLoading) {
-    return (
-      <div className="flex flex-col min-h-screen">
-        <Nav />
-        <div className="flex-1 flex items-center justify-center">
-          <p className="text-muted-foreground text-sm">Loading…</p>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="flex flex-col min-h-screen">
       <Nav />
@@ -142,12 +336,18 @@ export default function DashboardPage() {
             <h1 className="text-2xl font-bold">Parent Dashboard</h1>
             <p className="text-sm text-muted-foreground mt-0.5">Track each child&apos;s progress across all subjects.</p>
           </div>
-          {filteredRows.length > 0 && (
-            <Button variant="outline" size="sm" onClick={downloadCSV}>
-              <Download className="h-4 w-4 mr-1.5" />
-              Export CSV
+          <div className="flex items-center gap-2">
+            {filteredRows.length > 0 && (
+              <Button variant="outline" size="sm" onClick={downloadCSV}>
+                <Download className="h-4 w-4 mr-1.5" />
+                Export CSV
+              </Button>
+            )}
+            <Button variant="ghost" size="sm" onClick={() => setAuthed(false)}>
+              <Lock className="h-4 w-4 mr-1.5" />
+              Lock
             </Button>
-          )}
+          </div>
         </div>
 
         {/* Kid summary cards */}
@@ -164,12 +364,23 @@ export default function DashboardPage() {
                   </CardHeader>
                   <CardContent>
                     {avg !== null ? (
-                      <div className="flex items-center gap-2">
-                        <TrendingUp className="h-4 w-4 text-muted-foreground" />
-                        <span className={`text-lg font-bold ${avg >= 80 ? 'text-green-600' : avg >= 60 ? 'text-yellow-600' : 'text-red-500'}`}>
-                          {avg}%
-                        </span>
-                        <span className="text-xs text-muted-foreground">avg · {count} quizzes</span>
+                      <div className="space-y-3">
+                        <div className="flex items-center gap-2">
+                          <TrendingUp className="h-4 w-4 text-muted-foreground" />
+                          <span className={`text-lg font-bold ${avg >= 80 ? 'text-green-600' : avg >= 60 ? 'text-yellow-600' : 'text-red-500'}`}>
+                            {avg}%
+                          </span>
+                          <span className="text-xs text-muted-foreground">avg · {count} quizzes</span>
+                        </div>
+                        <Button
+                          size="sm"
+                          variant="outline"
+                          className="w-full text-xs"
+                          onClick={() => setAssessmentKid(kid)}
+                        >
+                          <Sparkles className="h-3 w-3 mr-1.5 text-violet-500" />
+                          AI Term Report
+                        </Button>
                       </div>
                     ) : (
                       <p className="text-sm text-muted-foreground">No quizzes yet</p>
@@ -253,6 +464,14 @@ export default function DashboardPage() {
           </div>
         )}
       </main>
+
+      {assessmentKid && (
+        <AssessmentModal
+          kid={assessmentKid}
+          results={allResults.get(assessmentKid.id) ?? new Map()}
+          onClose={() => setAssessmentKid(null)}
+        />
+      )}
     </div>
   );
 }

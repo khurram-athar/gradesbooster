@@ -1,0 +1,35 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ── Helper functions ─────────────────────────────────────
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    // ── User data: only the authenticated user can read/write their own data ──
+    match /users/{uid} {
+      allow read, write: if isOwner(uid);
+
+      // Kid profiles
+      match /kids/{kidId} {
+        allow read, write: if isOwner(uid);
+
+        // Quiz results
+        match /results/{resultId} {
+          allow read, write: if isOwner(uid);
+        }
+      }
+    }
+
+    // ── Deny everything else ─────────────────────────────────
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
