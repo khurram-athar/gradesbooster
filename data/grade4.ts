@@ -47,7 +47,7 @@ const curriculum: DayContent[] = [
      {q:"An interrogative sentence ends with a ___.", options:["period","exclamation mark","question mark","comma"], answer:2},
      {q:"An imperative sentence gives a ___.", options:["fact","question","command or request","strong feeling"], answer:2},
      {q:"An exclamatory sentence expresses ___.", options:["a fact","a question","a command","strong emotion"], answer:3},
-     {q:""Close the door!" is a ___ sentence.", options:["declarative","interrogative","imperative","exclamatory"], answer:2}
+     {q:"'Close the door!' is a ___ sentence.", options:["declarative","interrogative","imperative","exclamatory"], answer:2}
    ]},
   {subject:"Math", title:"Division Basics", summary:"Grade 4 Number strand: division is sharing equally or grouping. Students divide with dividends to 100 using multiplication facts.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
@@ -81,8 +81,8 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Synonyms and Antonyms", summary:"Grade 4 Language strand: synonyms are words with similar meanings; antonyms have opposite meanings. Using them enriches vocabulary and writing.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
-     {q:"A synonym for "happy" is ___.", options:["sad","joyful","angry","tired"], answer:1},
-     {q:"An antonym for "ancient" is ___.", options:["old","historic","modern","past"], answer:2},
+     {q:"A synonym for 'happy' is ___.", options:["sad","joyful","angry","tired"], answer:1},
+     {q:"An antonym for 'ancient' is ___.", options:["old","historic","modern","past"], answer:2},
      {q:"Which pair are synonyms?", options:["hot/cold","big/large","fast/slow","night/day"], answer:1},
      {q:"Which pair are antonyms?", options:["glad/happy","quick/fast","bright/dim","small/tiny"], answer:2},
      {q:"Using synonyms in writing helps to ___.", options:["confuse the reader","avoid repetition and add variety","shorten writing","change the topic"], answer:1}
@@ -119,11 +119,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Prefixes and Suffixes", summary:"Grade 4 Language strand: a prefix is added before a root word to change its meaning; a suffix is added after. Examples: un-, re-, -ful, -less.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
-     {q:"What does the prefix "un-" mean?", options:["again","before","not","after"], answer:2},
-     {q:"What does "unhappy" mean?", options:["very happy","not happy","happy again","before happy"], answer:1},
-     {q:"What does the suffix "-ful" mean?", options:["without","full of","before","again"], answer:1},
-     {q:"Which word means "without hope"?", options:["hopeful","hopefully","hopeless","rehope"], answer:2},
-     {q:"What does "redo" mean?", options:["not do","do before","do again","do after"], answer:2}
+     {q:"What does the prefix 'un-' mean?", options:["again","before","not","after"], answer:2},
+     {q:"What does 'unhappy' mean?", options:["very happy","not happy","happy again","before happy"], answer:1},
+     {q:"What does the suffix '-ful' mean?", options:["without","full of","before","again"], answer:1},
+     {q:"Which word means 'without hope'?", options:["hopeful","hopefully","hopeless","rehope"], answer:2},
+     {q:"What does 'redo' mean?", options:["not do","do before","do again","do after"], answer:2}
    ]},
   {subject:"Math", title:"Introduction to Long Division", summary:"Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
@@ -160,7 +160,7 @@ const curriculum: DayContent[] = [
      {q:"The main idea is ___.", options:["a small detail","the topic sentence only","what the entire text is mostly about","the last sentence"], answer:2},
      {q:"Supporting details ___.", options:["are unrelated to the main idea","explain or prove the main idea","are always at the beginning","are more important than the main idea"], answer:1},
      {q:"Where is the main idea often found?", options:["Only in the middle","In a caption","Often in the first or last paragraph as the topic sentence","Only at the end"], answer:2},
-     {q:"How do you identify the main idea?", options:["Read only the title","Ask "What is this MOSTLY about?"","Count the paragraphs","Read only the last line"], answer:1},
+     {q:"How do you identify the main idea?", options:["Read only the title","Ask 'What is this MOSTLY about?'","Count the paragraphs","Read only the last line"], answer:1},
      {q:"Which is a main idea sentence?", options:["The cat was orange.","She walked to the store.","Recycling has many benefits for the environment.","He ate lunch at noon."], answer:2}
    ]},
   {subject:"Math", title:"Fractions: Equal Parts", summary:"Grade 4 Number strand: a fraction represents equal parts of a whole. The numerator shows how many parts are selected; the denominator shows total equal parts.",
@@ -344,14 +344,14 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
-  {subject:"Language", title:"Spelling: ie/ei Words", summary:"Grade 4 Language strand: the "i before e except after c" rule helps spell many words, but has exceptions. Students apply this pattern in context.",
+  {subject:"Language", title:"Spelling: ie/ei Words", summary:"Grade 4 Language strand: the 'i before e except after c' rule helps spell many words, but has exceptions. Students apply this pattern in context.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
      {q:"Which spelling is correct?", options:["recieve","recieve","receive","receve"], answer:2},
-     {q:""I before E except after C" means in the word BELIEVE you write ___.", options:["ei","ie","e only","i only"], answer:1},
+     {q:"'I before E except after C' means in the word BELIEVE you write ___.", options:["ei","ie","e only","i only"], answer:1},
      {q:"Which is spelled correctly?", options:["freind","friend","freind","frend"], answer:1},
      {q:"After the letter C, you usually write ___ (not ei).", options:["ie","ei","only e","only i"], answer:1},
-     {q:"Which word follows the "i before e except after c" rule?", options:["their","weird","believe","neither"], answer:2}
+     {q:"Which word follows the 'i before e except after c' rule?", options:["their","weird","believe","neither"], answer:2}
    ]},
   {subject:"Math", title:"Money: Making Change", summary:"Grade 4 Number strand: students calculate change by subtracting the price from the amount paid, using coins and bills up to $20.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
@@ -424,9 +424,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
      {q:"Context clues are ___.", options:["definitions found in the glossary","words and ideas near an unknown word that suggest its meaning","only synonyms","only antonyms"], answer:1},
-     {q:"Which type of context clue gives a definition within the text?", options:["Synonym clue","Restatement clue: "X, which means..."","Antonym clue","Inference clue"], answer:1},
+     {q:"Which type of context clue gives a definition within the text?", options:["Synonym clue","Restatement clue: 'X, which means...'","Antonym clue","Inference clue"], answer:1},
      {q:"Using context clues helps readers ___.", options:["skip unknown words","look up every word in a dictionary","figure out word meanings while reading continuously","memorize vocabulary lists"], answer:2},
-     {q:"In "The magnanimous king gave generously to the poor," magnanimous means ___.", options:["cruel","stingy","generous and kind","quiet"], answer:2},
+     {q:"In 'The magnanimous king gave generously to the poor,' magnanimous means ___.", options:["cruel","stingy","generous and kind","quiet"], answer:2},
      {q:"Which strategy helps most with a word you do not know?", options:["Ignore it","Read the surrounding sentences for clues","Skip to the next chapter","Ask someone immediately"], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Angles", summary:"Grade 4 Geometry strand: an angle is formed by two rays with a common endpoint. A right angle = 90°, acute angle < 90°, obtuse angle > 90°.",
@@ -496,12 +496,12 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
-  {subject:"Language", title:"Figurative Language: Similes", summary:"Grade 4 Language strand: a simile compares two unlike things using "like" or "as". Example: "brave as a lion," "runs like the wind".",
+  {subject:"Language", title:"Figurative Language: Similes", summary:"Grade 4 Language strand: a simile compares two unlike things using 'like' or 'as'. Example: 'brave as a lion,' 'runs like the wind'.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
      {q:"A simile compares two things using ___.", options:["and/but","is/was","like or as","metaphor words"], answer:2},
      {q:"Which is a simile?", options:["The car is a beast.","Time flies.","She ran like the wind.","The moon smiled."], answer:2},
-     {q:"What does "brave as a lion" mean?", options:["The person is a lion","The person is extremely brave","Lions are brave animals","A comparison without meaning"], answer:1},
+     {q:"What does 'brave as a lion' mean?", options:["The person is a lion","The person is extremely brave","Lions are brave animals","A comparison without meaning"], answer:1},
      {q:"Similes make writing more ___.", options:["difficult","confusing","boring","vivid and relatable"], answer:3},
      {q:"Which is NOT a simile?", options:["white as snow","quiet as a mouse","The thunder roared","cold as ice"], answer:2}
    ]},
@@ -534,13 +534,13 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
-  {subject:"Language", title:"Figurative Language: Metaphors", summary:"Grade 4 Language strand: a metaphor directly states that one thing IS another unlike thing, without using "like" or "as". Example: "Life is a journey."",
+  {subject:"Language", title:"Figurative Language: Metaphors", summary:"Grade 4 Language strand: a metaphor directly states that one thing IS another unlike thing, without using 'like' or 'as'. Example: 'Life is a journey.'",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
      {q:"A metaphor says one thing ___ another.", options:["is similar to","is like/as","IS directly","is bigger than"], answer:2},
      {q:"Which is a metaphor?", options:["She ran like a cheetah.","He is as strong as an ox.","The world is a stage.","The rain fell like tears."], answer:2},
-     {q:"What does "Time is money" mean?", options:["Time is currency","Time is valuable and should not be wasted","Clocks cost money","Time is free"], answer:1},
-     {q:"A metaphor differs from a simile because it ___.", options:["uses "like" or "as"","makes no comparison","directly states one thing is another","is only used in poetry"], answer:2},
+     {q:"What does 'Time is money' mean?", options:["Time is currency","Time is valuable and should not be wasted","Clocks cost money","Time is free"], answer:1},
+     {q:"A metaphor differs from a simile because it ___.", options:["uses 'like' or 'as'","makes no comparison","directly states one thing is another","is only used in poetry"], answer:2},
      {q:"Which is a metaphor?", options:["quiet as a mouse","brave as a lion","Her voice was music to my ears.","He runs like a gazelle."], answer:2}
    ]},
   {subject:"Math", title:"Mass and Volume Measurement", summary:"Grade 4 Measurement strand: mass is measured in grams (g) and kilograms (kg). Volume is measured in litres (L) and millilitres (mL). 1 kg = 1000 g; 1 L = 1000 mL.",
@@ -579,14 +579,14 @@ const curriculum: DayContent[] = [
      {q:"Which signal word shows a sequence?", options:["However","In contrast","Next","Because"], answer:2},
      {q:"Why is sequence important in a how-to text?", options:["It is not","Steps must be in order to be followed correctly","Only the first step matters","All steps can be done in any order"], answer:1},
      {q:"Which goes last in a story's sequence?", options:["The problem","The beginning","The introduction","The resolution/ending"], answer:3},
-     {q:""First mix the batter, then bake it" shows ___.", options:["contrast","cause and effect","sequence","comparison"], answer:2}
+     {q:"'First mix the batter, then bake it' shows ___.", options:["contrast","cause and effect","sequence","comparison"], answer:2}
    ]},
   {subject:"Math", title:"Data: Bar Graphs", summary:"Grade 4 Data strand: a bar graph uses horizontal or vertical bars to compare quantities across categories. Students read, create, and interpret bar graphs.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
    quiz:[
      {q:"A bar graph is used to ___.", options:["show sequence","compare quantities across categories","measure angles","calculate perimeter"], answer:1},
      {q:"The vertical axis of a bar graph usually shows ___.", options:["categories","frequency or quantity","colours","dates"], answer:1},
-     {q:"If the "Dogs" bar reaches 12 and "Cats" bar reaches 8, there are ___ more dogs.", options:["2","3","4","5"], answer:2},
+     {q:"If the 'Dogs' bar reaches 12 and 'Cats' bar reaches 8, there are ___ more dogs.", options:["2","3","4","5"], answer:2},
      {q:"What is the title of a graph used for?", options:["Decoration","To tell what data the graph shows","To label the axes","To list all data"], answer:1},
      {q:"A bar graph differs from a pictograph because ___.", options:["bar graphs use bars instead of pictures/symbols","bar graphs are less accurate","only bar graphs have titles","pictographs are always better"], answer:0}
    ]},
@@ -654,16 +654,16 @@ const curriculum: DayContent[] = [
      {q:"A conjunction joins ___.", options:["only nouns","only verbs","words, phrases, or clauses","only sentences"], answer:2},
      {q:"Which is a coordinating conjunction?", options:["because","although","but","since"], answer:2},
      {q:"Which is a subordinating conjunction?", options:["and","or","but","because"], answer:3},
-     {q:""I wanted to go, ___ it was raining." Which conjunction fits?", options:["and","but","or","nor"], answer:1},
+     {q:"'I wanted to go, ___ it was raining.' Which conjunction fits?", options:["and","but","or","nor"], answer:1},
      {q:"FANBOYS stands for the ___ conjunctions.", options:["subordinating","correlative","coordinating","preposition"], answer:2}
    ]},
   {subject:"Math", title:"Probability: Likely and Unlikely", summary:"Grade 4 Data and Probability strand: probability describes the likelihood of an event: certain, likely, unlikely, or impossible.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
    quiz:[
-     {q:"If an event is "impossible," the probability is ___.", options:["1","close to 1","0","close to 0"], answer:2},
-     {q:"If an event is "certain," the probability is ___.", options:["0","close to 0","close to 1","1"], answer:3},
+     {q:"If an event is 'impossible,' the probability is ___.", options:["1","close to 1","0","close to 0"], answer:2},
+     {q:"If an event is 'certain,' the probability is ___.", options:["0","close to 0","close to 1","1"], answer:3},
      {q:"A bag has 4 red and 1 blue marble. Picking red is ___.", options:["impossible","unlikely","likely","certain"], answer:2},
-     {q:"Which outcome is "impossible" when rolling a 6-sided die?", options:["Rolling a 3","Rolling a 6","Rolling a 7","Rolling a 1"], answer:2},
+     {q:"Which outcome is 'impossible' when rolling a 6-sided die?", options:["Rolling a 3","Rolling a 6","Rolling a 7","Rolling a 1"], answer:2},
      {q:"Probability can be expressed as a fraction. If 3 of 10 marbles are yellow, P(yellow) = ?", options:["7/10","1/3","3/10","10/3"], answer:2}
    ]},
   {subject:"Science", title:"Physical and Chemical Changes", summary:"Grade 4 Science Materials strand: a physical change alters the form but not the substance (e.g., cutting). A chemical change produces a new substance (e.g., burning).",
@@ -691,8 +691,8 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"A pronoun takes the place of a ___.", options:["verb","noun","adjective","conjunction"], answer:1},
      {q:"The word a pronoun refers back to is called the ___.", options:["subject","object","antecedent","predicate"], answer:2},
-     {q:"In "Maria took her book," "her" refers to ___.", options:["the book","a third person","Maria","another girl"], answer:2},
-     {q:"Which pronoun agrees with "students" (plural)?", options:["he","she","they","it"], answer:2},
+     {q:"In 'Maria took her book,' 'her' refers to ___.", options:["the book","a third person","Maria","another girl"], answer:2},
+     {q:"Which pronoun agrees with 'students' (plural)?", options:["he","she","they","it"], answer:2},
      {q:"Pronouns must agree with their antecedent in ___ and ___.", options:["size and colour","number and gender","place and time","subject and object"], answer:1}
    ]},
   {subject:"Math", title:"3-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 3-digit numbers by 1-digit numbers using expanded form and the standard algorithm.",
@@ -756,7 +756,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Confederation in 1867 united which four provinces?", options:["BC, AB, ON, QC","ON, QC, NB, NS","NL, PE, NB, NS","MB, SK, AB, BC"], answer:1},
      {q:"Canadian identity is shaped by ___.", options:["only one cultural group","English and French heritage, Indigenous cultures, and immigration from around the world","only British traditions","only geography"], answer:1},
-     {q:"What does "bilingual" mean in Canada's context?", options:["Speaking three languages","Canada has two official languages: English and French","Everyone speaks English","Only Quebec speaks French"], answer:1},
+     {q:"What does 'bilingual' mean in Canada's context?", options:["Speaking three languages","Canada has two official languages: English and French","Everyone speaks English","Only Quebec speaks French"], answer:1},
      {q:"Canada became officially multicultural by law in ___.", options:["1867","1931","1971 (Multiculturalism Policy) / 1988 (Act)","2000"], answer:2},
      {q:"Canadian identity includes ___.", options:["only hockey and maple syrup","kindness, diversity, democracy, rule of law, and Indigenous heritage","only British traditions","only French culture"], answer:1}
    ]},
@@ -785,15 +785,15 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The Moon produces its own light.", options:["True","False","Only at night","Only in summer"], answer:1},
      {q:"The Moon phases are caused by ___.", options:["Earth blocking sunlight (eclipse)","The Moon moving in and out of shadow","Different portions of the Moon's sunlit side being visible from Earth","The Moon changing shape"], answer:2},
-     {q:"A "full moon" occurs when ___.", options:["The Moon is between Earth and the Sun","We see the entire sunlit face of the Moon","The Moon is in shadow","The Moon is at its farthest from Earth"], answer:1},
-     {q:"A "new moon" is when ___.", options:["We see the entire lit face","The Moon is invisible (lit side faces away from Earth)","The Moon is smallest","It is a new month"], answer:1},
+     {q:"A 'full moon' occurs when ___.", options:["The Moon is between Earth and the Sun","We see the entire sunlit face of the Moon","The Moon is in shadow","The Moon is at its farthest from Earth"], answer:1},
+     {q:"A 'new moon' is when ___.", options:["We see the entire lit face","The Moon is invisible (lit side faces away from Earth)","The Moon is smallest","It is a new month"], answer:1},
      {q:"The Moon completes one full orbit around Earth in about ___.", options:["7 days","14 days","28–29 days","365 days"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Economics: Needs, Wants, Supply, and Demand", summary:"Grade 4 Social Studies: needs are essentials (food, shelter); wants are desires. Supply is how much is available; demand is how much people want.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
    quiz:[
-     {q:"A "need" is ___.", options:["something desirable but not essential","a luxury item","something essential for survival","something you want but cannot have"], answer:2},
-     {q:"A "want" is ___.", options:["essential for survival","something desirable but not necessary for survival","the same as a need","only food and water"], answer:1},
+     {q:"A 'need' is ___.", options:["something desirable but not essential","a luxury item","something essential for survival","something you want but cannot have"], answer:2},
+     {q:"A 'want' is ___.", options:["essential for survival","something desirable but not necessary for survival","the same as a need","only food and water"], answer:1},
      {q:"When demand for a product increases and supply stays the same, prices usually ___.", options:["fall","stay the same","rise","disappear"], answer:2},
      {q:"Supply means ___.", options:["the desire for a product","how much of a product is available","the cost of making something","the price charged"], answer:1},
      {q:"Which is a NEED?", options:["A new video game","Clean drinking water","Designer clothing","A vacation"], answer:1}
@@ -842,7 +842,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
      {q:"A preposition shows the ___ between words.", options:["colour","relationship (especially location or time)","sound","size"], answer:1},
-     {q:"Which is a preposition in: "The cat sat on the mat"?", options:["The","cat","on","mat"], answer:2},
+     {q:"Which is a preposition in: 'The cat sat on the mat'?", options:["The","cat","on","mat"], answer:2},
      {q:"Which sentence uses a preposition?", options:["Dogs run fast.","She is happy.","The book is on the table.","He jumped high."], answer:2},
      {q:"Which is NOT a preposition?", options:["under","through","happy","between"], answer:2},
      {q:"A preposition is usually followed by a ___.", options:["verb","adjective","noun or pronoun (the object of the preposition)","adverb"], answer:2}
@@ -861,8 +861,8 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Sustainable means ___.", options:["using as much as possible","meeting present needs without compromising future generations' ability to meet theirs","never using resources","spending less money"], answer:1},
      {q:"Which is a sustainable practice?", options:["Buying single-use plastics","Leaving lights on","Composting organic waste","Printing one page per word"], answer:2},
-     {q:""Reduce" means ___.", options:["finding new uses for old items","recycling materials","using less of something","throwing away more"], answer:2},
-     {q:""Reuse" means ___.", options:["throwing items away after one use","finding new uses for old items","melting and reforming materials","burning waste"], answer:1},
+     {q:"'Reduce' means ___.", options:["finding new uses for old items","recycling materials","using less of something","throwing away more"], answer:2},
+     {q:"'Reuse' means ___.", options:["throwing items away after one use","finding new uses for old items","melting and reforming materials","burning waste"], answer:1},
      {q:"Composting converts food scraps into ___.", options:["plastic","electricity","nutrient-rich soil","medicine"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Immigration: Building Canada", summary:"Grade 4 Social Studies: immigrants have come to Canada from all over the world, contributing to its economy, culture, and identity. Immigration continues today.",
@@ -917,11 +917,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Vocabulary Review and Word Study", summary:"Grade 4 Language strand review: students apply knowledge of synonyms, antonyms, prefixes, suffixes, context clues, and figurative language.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
    quiz:[
-     {q:"The prefix "un-" in "unhappy" means ___.", options:["again","very","not","before"], answer:2},
-     {q:"The suffix "-less" in "hopeless" means ___.", options:["full of","not/without","again","before"], answer:1},
+     {q:"The prefix 'un-' in 'unhappy' means ___.", options:["again","very","not","before"], answer:2},
+     {q:"The suffix '-less' in 'hopeless' means ___.", options:["full of","not/without","again","before"], answer:1},
      {q:"A simile uses ___ to compare.", options:["is/was","like or as","only nouns","verb to be"], answer:1},
      {q:"A metaphor ___ uses like or as.", options:["always","sometimes","never","rarely"], answer:2},
-     {q:"Synonym for "ancient" = ?", options:["modern","new","old/historic","young"], answer:2}
+     {q:"Synonym for 'ancient' = ?", options:["modern","new","old/historic","young"], answer:2}
    ]},
   {subject:"Math", title:"Coordinate Grid", summary:"Grade 4 Geometry strand: students locate and plot points on a coordinate grid using ordered pairs (x, y). The x-axis is horizontal; y-axis is vertical.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",

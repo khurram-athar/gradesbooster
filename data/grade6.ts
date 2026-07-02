@@ -571,7 +571,6 @@ const curriculum: DayContent[] = [
      {q:"Who is often called the 'Father of Confederation' and was Canada's first Prime Minister?", options:["Wilfrid Laurier","Georges-Étienne Cartier","John A. Macdonald","Louis Riel"], answer:2},
    ]},
 ]},
-];
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Literary Devices: Foreshadowing and Flashback", summary:"Students identify and analyse foreshadowing (hints at future events) and flashback (interruption to show past events) in narratives.",
    resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
@@ -653,7 +652,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
    quiz:[
      {q:"Media literacy involves ___.", options:["only watching more television","the ability to access, analyse, evaluate, and create media in a variety of forms","only reading newspapers","only creating videos"], answer:1},
-     {q:"The "bandwagon" advertising technique says ___.", options:["only experts use this product","this product is dangerous","everyone is using this — join in or miss out","a celebrity likes this"], answer:2},
+     {q:"The 'bandwagon' advertising technique says ___.", options:["only experts use this product","this product is dangerous","everyone is using this — join in or miss out","a celebrity likes this"], answer:2},
      {q:"Emotional appeal in advertising works by ___.", options:["listing technical facts","triggering emotions (happiness, fear, nostalgia, belonging) to influence purchasing decisions","giving accurate statistics only","showing product ingredients"], answer:1},
      {q:"Why is it important to analyse advertising critically?", options:["It is not","Understanding persuasion techniques helps you make informed choices rather than being manipulated","Only for marketing students","Only for adults"], answer:1},
      {q:"A disclaimer in small print at the bottom of an ad is there to ___.", options:["decorate the ad","make it look longer","provide legally required disclosures that qualify or limit the main claim","show the logo"], answer:2}
@@ -739,7 +738,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"A variable in algebra is ___.", options:["always the letter x","a letter or symbol that represents an unknown or changing quantity","always equal to 0","only used in equations"], answer:1},
      {q:"Evaluate 3n + 5 when n = 4.", options:["17","22","12","16"], answer:0},
-     {q:"Which expression means "5 more than twice a number n"?", options:["5n + 2","2n + 5","5 + 2 + n","2 + 5n"], answer:1},
+     {q:"Which expression means '5 more than twice a number n'?", options:["5n + 2","2n + 5","5 + 2 + n","2 + 5n"], answer:1},
      {q:"Simplify: 4x + 3x", options:["7x²","12x","7x","43x"], answer:2},
      {q:"In the expression 6y − 2, the coefficient of y is ___.", options:["2","6","−2","y"], answer:1}
    ]},
@@ -757,7 +756,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Renaissance means ___.", options:["revolution","new beginning","rebirth — referring to the revival of classical Greek and Roman ideas in Europe","darkness"], answer:2},
      {q:"Humanism during the Renaissance emphasised ___.", options:["only religious devotion","the potential, dignity, and achievements of human beings and earthly life","only military conquest","only farming improvements"], answer:1},
-     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he was only a painter","he was a master of painting, sculpture, engineering, anatomy, and science — a "Renaissance man"","he invented firearms","he was a military general"], answer:1},
+     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he was only a painter","he was a master of painting, sculpture, engineering, anatomy, and science — a 'Renaissance man'","he invented firearms","he was a military general"], answer:1},
      {q:"The printing press, invented by Gutenberg around 1440, changed society by ___.", options:["making books more expensive","allowing rapid, cheap reproduction of books, spreading ideas, literacy, and the Reformation","reducing communication","only helping artists"], answer:1},
      {q:"Which period of exploration coincided with the Renaissance?", options:["Ancient times","The Dark Ages","The Age of Exploration — European navigators explored the Americas, Africa, and Asia","The Industrial Revolution"], answer:2}
    ]},
@@ -779,7 +778,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: x − 4 = 9", options:["x = 5","x = 13","x = 36","x = 4"], answer:1},
      {q:"Solve: 3x = 24", options:["x = 72","x = 21","x = 8","x = 27"], answer:2},
      {q:"Solve: x/5 = 6", options:["x = 1.2","x = 30","x = 11","x = 0.83"], answer:1},
-     {q:"The idea of "inverse operations" means ___.", options:["doing the same thing to both sides","using opposite operations to undo and isolate the variable","only adding or subtracting","multiplying only"], answer:1}
+     {q:"The idea of 'inverse operations' means ___.", options:["doing the same thing to both sides","using opposite operations to undo and isolate the variable","only adding or subtracting","multiplying only"], answer:1}
    ]},
   {subject:"Science", title:"Optics: Light and Mirrors", summary:"Students explore how light behaves with mirrors. They learn the law of reflection (angle of incidence = angle of reflection) and how concave/convex mirrors form images.",
    resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
@@ -918,7 +917,7 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Novel Study: Character Development", summary:"Students track and analyse how the protagonist and key supporting characters change over the course of a novel, identifying motivations, conflicts, and growth.",
    resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
    quiz:[
-     {q:"Character development (or "character arc") refers to ___.", options:["the list of characters in a novel","the physical description of characters","the way a character changes, grows, or learns through the events of the story","the number of times a character appears"], answer:2},
+     {q:"Character development (or 'character arc') refers to ___.", options:["the list of characters in a novel","the physical description of characters","the way a character changes, grows, or learns through the events of the story","the number of times a character appears"], answer:2},
      {q:"A character's motivation is ___.", options:["how they look","where they live","what drives their actions and decisions — their goals, fears, desires","their name only"], answer:2},
      {q:"An internal conflict is ___.", options:["a fight between two characters","a battle between the character and nature","a struggle within a character — their own emotions, values, and choices","a conflict with society"], answer:2},
      {q:"An external conflict is ___.", options:["a character's internal doubt","a struggle between a character and an outside force (person, society, nature, technology)","only a physical fight","only the villain"], answer:1},
@@ -1023,9 +1022,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The Statute of Westminster (1931) ___.", options:["made Canada fully independent from Britain overnight","gave Canada full control over its foreign policy and laws, effectively recognising Canadian sovereignty within the Commonwealth","dissolved the British Empire","gave Quebec independence"], answer:1},
      {q:"The Great Depression (1929–1939) in Canada caused ___.", options:["economic prosperity","only minor disruptions","massive unemployment, poverty, drought (the Dust Bowl in the Prairies), and political unrest","only stock market issues"], answer:2},
-     {q:"The "Dirty Thirties" in the Prairie provinces were worsened by ___.", options:["too much rainfall","industrial pollution","severe drought and poor farming practices that caused massive topsoil erosion and crop failure","foreign invasion"], answer:2},
+     {q:"The 'Dirty Thirties' in the Prairie provinces were worsened by ___.", options:["too much rainfall","industrial pollution","severe drought and poor farming practices that caused massive topsoil erosion and crop failure","foreign invasion"], answer:2},
      {q:"The CCF (Co-operative Commonwealth Federation), founded in 1932, advocated for ___.", options:["continued free-market capitalism without regulation","eliminating all taxation","democratic socialism: public ownership of key industries and social programs to help workers and the unemployed","monarchy only"], answer:1},
-     {q:"Canada's response to WWI veterans, including benefits and pensions, was ___.", options:["generous from the start","completely ignored","inadequate, leading to protests like the Regina Riot (1935) during the "On to Ottawa Trek"","only handled by charities"], answer:2}
+     {q:"Canada's response to WWI veterans, including benefits and pensions, was ___.", options:["generous from the start","completely ignored","inadequate, leading to protests like the Regina Riot (1935) during the 'On to Ottawa Trek'","only handled by charities"], answer:2}
    ]},
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
@@ -1073,7 +1072,7 @@ const curriculum: DayContent[] = [
      {q:"A documentary is a type of ___.", options:["fiction film","animation","non-fiction film or media that presents facts about real-world events, people, or topics","only a school project"], answer:2},
      {q:"A script for a documentary includes ___.", options:["only visuals","only music","narration, dialogue, visual directions, and interview questions — all working together to tell a true story","only facts and statistics"], answer:2},
      {q:"Why do documentaries often include interviews?", options:["Only for entertainment","To meet a time requirement","First-hand accounts and expert opinions make the story more credible, human, and engaging","Interviews replace all narration"], answer:2},
-     {q:"A "hook" at the start of a documentary ___.", options:["puts audiences to sleep","introduces all facts immediately","is a compelling opening (striking visual, intriguing question, shocking fact) that grabs the audience's attention","is only a song"], answer:2},
+     {q:"A 'hook' at the start of a documentary ___.", options:["puts audiences to sleep","introduces all facts immediately","is a compelling opening (striking visual, intriguing question, shocking fact) that grabs the audience's attention","is only a song"], answer:2},
      {q:"When writing documentary narration, the tone should be ___.", options:["always humorous","always angry","matched to the subject — serious for serious topics, accessible and clear, and based on verified facts","identical for all documentaries"], answer:2}
    ]},
   {subject:"Math", title:"Probability: Theoretical and Experimental", summary:"Students distinguish theoretical probability (what should happen) from experimental probability (what does happen). They run probability experiments and compare results.",
@@ -1097,7 +1096,7 @@ const curriculum: DayContent[] = [
   {subject:"SocialStudies", title:"Canada After WWII: Social and Political Change", summary:"Students explore Canada's post-WWII social changes: the baby boom, immigration, multiculturalism, the welfare state (Medicare, CPP), and the growth of suburbs.",
    resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
    quiz:[
-     {q:"The "baby boom" after WWII referred to ___.", options:["a decline in birth rates","a large spike in birth rates as returning soldiers started families (approx. 1946–1964)","an immigration wave","a government housing program"], answer:1},
+     {q:"The 'baby boom' after WWII referred to ___.", options:["a decline in birth rates","a large spike in birth rates as returning soldiers started families (approx. 1946–1964)","an immigration wave","a government housing program"], answer:1},
      {q:"Multiculturalism became official Canadian policy in ___.", options:["1867","1919","1971 under Prime Minister Pierre Trudeau, recognising and celebrating cultural diversity","1999"], answer:2},
      {q:"Medicare (universal health care) in Canada ___.", options:["was established in 1867","has always existed","began in Saskatchewan in 1962 under Tommy Douglas and was adopted federally in 1966","was never established"], answer:2},
      {q:"Post-WWII immigration to Canada was significant because ___.", options:["it had no effect","immigrants came from fewer countries","large numbers of displaced Europeans and later people from around the world reshaped Canada's population, economy, and culture","only European refugees came"], answer:2},

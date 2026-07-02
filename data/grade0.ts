@@ -82,7 +82,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
    quiz:[
      {q:"Which word starts with C?", options:["Dog","Cat","Ball","Egg"], answer:1},
-     {q:"What sound does C make in "cat"?", options:["Sss","Shh","Kuh","Chh"], answer:2},
+     {q:"What sound does C make in 'cat'?", options:["Sss","Shh","Kuh","Chh"], answer:2},
      {q:"Which C word is an animal?", options:["Car","Cow","Clock","Cloud"], answer:1},
      {q:"Find all C words: cat, dog, cow, cup", options:["cat only","dog only","cat, cow, and cup","cow only"], answer:2},
      {q:"Lowercase c looks like ___.", options:["a straight line","a circle with a gap on the right","a rectangle","two bumps"], answer:1}
@@ -272,7 +272,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
    quiz:[
      {q:"Which word starts with G?", options:["Dog","Apple","Goat","Fish"], answer:2},
-     {q:"What sound does G make in "goat"?", options:["Juh","Kuh","Guh","Shh"], answer:2},
+     {q:"What sound does G make in 'goat'?", options:["Juh","Kuh","Guh","Shh"], answer:2},
      {q:"Which G word is a fruit?", options:["Goat","Grape","Grass","Grain"], answer:1},
      {q:"Find the G: dog, goat, green, frog", options:["dog","goat","green","goat and green"], answer:3},
      {q:"G is a ___.", options:["vowel","consonant","number","colour"], answer:1}
@@ -369,7 +369,7 @@ const curriculum: DayContent[] = [
      {q:"Which tool measures temperature outside?", options:["A ruler","A scale","A thermometer","A compass"], answer:2},
      {q:"On a rainy day, you would wear ___.", options:["sandals and shorts","a swimsuit","a raincoat and boots","a heavy winter coat"], answer:2},
      {q:"Why does weather change from day to day?", options:["It does not change","Movements of air, moisture, and temperature differences cause weather changes","Only in spring","Only the Sun affects weather"], answer:1},
-     {q:"Which weather word means "no clouds and bright sunshine"?", options:["Foggy","Cloudy","Snowy","Sunny"], answer:3}
+     {q:"Which weather word means 'no clouds and bright sunshine'?", options:["Foggy","Cloudy","Snowy","Sunny"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Family Traditions", summary:"Students learn that families celebrate traditions: special events, foods, stories, and practices that are passed down and shared. All traditions are valued.",
    resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
@@ -436,7 +436,7 @@ const curriculum: DayContent[] = [
      {q:"If you win a race, you are in ___ place.", options:["last","second","third","first"], answer:3},
      {q:"Third means ___.", options:["2nd in order","3rd in order","4th in order","5th in order"], answer:1},
      {q:"In a line of 5: cat, dog, bird, fish, rabbit — which is SECOND?", options:["cat","dog","bird","fish"], answer:1},
-     {q:"The word "second" describes ___.", options:["a unit of time only","a place in an ordered sequence","only sports rankings","only book chapters"], answer:1}
+     {q:"The word 'second' describes ___.", options:["a unit of time only","a place in an ordered sequence","only sports rankings","only book chapters"], answer:1}
    ]},
   {subject:"Science", title:"Materials: Natural and Human-Made", summary:"Students sort materials into natural (wood, cotton, water, wool) and human-made/manufactured (plastic, glass, metal, nylon). Both types have different properties and uses.",
    resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
@@ -994,8 +994,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
    quiz:[
      {q:"A sentence has a naming part and an ___ part.", options:["eating","describing","action","colouring"], answer:2},
-     {q:"In "The cat runs fast," the naming part is ___.", options:["runs","fast","The cat","fast and runs"], answer:2},
-     {q:"In "The dog jumps high," the action part is ___.", options:["The dog","jumps high","high","The"], answer:1},
+     {q:"In 'The cat runs fast,' the naming part is ___.", options:["runs","fast","The cat","fast and runs"], answer:2},
+     {q:"In 'The dog jumps high,' the action part is ___.", options:["The dog","jumps high","high","The"], answer:1},
      {q:"A complete sentence needs ___.", options:["only a noun","only a verb","a naming part (noun) and an action part (verb)","only adjectives"], answer:2},
      {q:"Which is a complete sentence?", options:["The big red.","Runs fast.","The bird sings.","Jumping high quickly."], answer:2}
    ]},

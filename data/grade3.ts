@@ -55,7 +55,7 @@ const curriculum: DayContent[] = [
      {q:"47 + 35 = ?", options:["72","82","73","83"], answer:1},
      {q:"When a column in addition totals 10 or more, you ___.", options:["write the full number","subtract 10 and carry 1 to the next column","start over","ignore the extra"], answer:1},
      {q:"256 + 138 = ?", options:["394","384","494","494"], answer:0},
-     {q:"What does "regrouping" mean in addition?", options:["Starting over","Carrying a group of 10 to the next place value column","Subtracting","Multiplying"], answer:1},
+     {q:"What does 'regrouping' mean in addition?", options:["Starting over","Carrying a group of 10 to the next place value column","Subtracting","Multiplying"], answer:1},
      {q:"149 + 67 = ?", options:["206","216","226","196"], answer:1}
    ]},
   {subject:"Science", title:"Habitats and Ecosystems", summary:"Students learn that a habitat provides the living and non-living things an animal needs to survive: food, water, shelter, and space. Ecosystems include all living and non-living parts of an environment.",
@@ -82,8 +82,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
      {q:"Context clues are ___.", options:["clues found in a picture only","words and information surrounding an unfamiliar word that help explain its meaning","a type of dictionary","always found in the title"], answer:1},
-     {q:"In "The enormous elephant, nearly as tall as a house, walked slowly," enormous means ___.", options:["tiny","fast","very large","colourful"], answer:2},
-     {q:"In "She was famished and couldn't wait to eat dinner," famished means ___.", options:["excited","very hungry","tired","late"], answer:1},
+     {q:"In 'The enormous elephant, nearly as tall as a house, walked slowly,' enormous means ___.", options:["tiny","fast","very large","colourful"], answer:2},
+     {q:"In 'She was famished and couldn't wait to eat dinner,' famished means ___.", options:["excited","very hungry","tired","late"], answer:1},
      {q:"Why are context clues useful?", options:["They are not useful","They let readers figure out word meanings from the text without stopping to use a dictionary","Only for hard books","Only for adults"], answer:1},
      {q:"Which strategy uses context clues?", options:["Skipping the word","Looking at how the word is used in the sentence and paragraph to guess its meaning","Only using a dictionary","Sounding out letters"], answer:1}
    ]},
@@ -195,10 +195,10 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Punctuation: Commas and Apostrophes", summary:"Students use commas in lists (I have a cat, a dog, and a bird) and apostrophes for contractions (don't, can't) and possessives (Tom's book).",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
-     {q:"In a list of three items, where do commas go?", options:["Only after the last item","Between each item (and before "and" in the series)","Only at the start","Nowhere"], answer:1},
+     {q:"In a list of three items, where do commas go?", options:["Only after the last item","Between each item (and before 'and' in the series)","Only at the start","Nowhere"], answer:1},
      {q:"Which sentence uses commas correctly in a list?", options:["I bought apples oranges and bananas.","I bought apples, oranges, and bananas.","I bought, apples, oranges and bananas.","I bought apples, oranges and, bananas."], answer:1},
-     {q:"An apostrophe in "don't" shows ___.", options:["possession","a missing letter (contraction of "do not")","a question","a list"], answer:1},
-     {q:"An apostrophe in "Maria's backpack" shows ___.", options:["a contraction","a question","that the backpack belongs to Maria (possession)","a list"], answer:2},
+     {q:"An apostrophe in 'don't' shows ___.", options:["possession","a missing letter (contraction of 'do not')","a question","a list"], answer:1},
+     {q:"An apostrophe in 'Maria's backpack' shows ___.", options:["a contraction","a question","that the backpack belongs to Maria (possession)","a list"], answer:2},
      {q:"Which word is a contraction?", options:["Cannot","Can't","Cant","Cannt"], answer:1}
    ]},
   {subject:"Math", title:"Division: Sharing and Grouping", summary:"Students explore division as fair sharing and as grouping. 12 ÷ 3 means sharing 12 into 3 equal groups (4 each) or making groups of 3 from 12 (4 groups).",
@@ -312,8 +312,8 @@ const curriculum: DayContent[] = [
      {q:"A noun names a ___.", options:["feeling or action","person, place, thing, or animal","movement or sound","only a building"], answer:1},
      {q:"A verb is a word that describes ___.", options:["a person or place","a colour or size","an action or state of being","only running"], answer:2},
      {q:"An adjective ___.", options:["names a person","shows an action","describes a noun","tells when"], answer:2},
-     {q:"In "The tall girl ran quickly", the adjective is ___.", options:["girl","ran","quickly","tall"], answer:3},
-     {q:"In "The dog barked loudly", the verb is ___.", options:["The","dog","barked","loudly"], answer:2}
+     {q:"In 'The tall girl ran quickly', the adjective is ___.", options:["girl","ran","quickly","tall"], answer:3},
+     {q:"In 'The dog barked loudly', the verb is ___.", options:["The","dog","barked","loudly"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication: Facts 6 to 10", summary:"Students practise multiplication facts with factors from 6 to 10.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
@@ -388,8 +388,8 @@ const curriculum: DayContent[] = [
      {q:"First-person point of view uses the pronouns ___.", options:["he, she, they","I, me, my, we","you, your","it, its"], answer:1},
      {q:"Third-person point of view uses the pronouns ___.", options:["I, me, my","you, your","he, she, they, his, her, their","we, us"], answer:2},
      {q:"The point of view affects ___.", options:["only the length of the story","what information the reader receives and how connected they feel to the narrator","only the setting","only the font"], answer:1},
-     {q:"In "I ran as fast as I could," the narrator is speaking in ___.", options:["third person","second person","first person","no person"], answer:2},
-     {q:"In "She grabbed her bag and ran," the narrator is speaking in ___.", options:["first person","second person","third person","fourth person"], answer:2}
+     {q:"In 'I ran as fast as I could,' the narrator is speaking in ___.", options:["third person","second person","first person","no person"], answer:2},
+     {q:"In 'She grabbed her bag and ran,' the narrator is speaking in ___.", options:["first person","second person","third person","fourth person"], answer:2}
    ]},
   {subject:"Math", title:"Data: Tally Charts and Bar Graphs", summary:"Students collect data using tally marks and represent it in a bar graph. They read and interpret graphs to answer questions.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
@@ -397,7 +397,7 @@ const curriculum: DayContent[] = [
      {q:"In a tally chart, a group of 5 is shown as ___.", options:["IIIII","||||","|||||  (four vertical lines with one diagonal line through)","VVVVV"], answer:2},
      {q:"A bar graph shows data using ___.", options:["dots","lines only","bars (rectangles) of different heights or lengths","only circles"], answer:2},
      {q:"What does the y-axis (vertical axis) of a bar graph typically show?", options:["Labels (categories)","Only colours","The quantity or amount","Only time"], answer:2},
-     {q:"If the bar for "apples" reaches 8 on the graph, how many apples were counted?", options:["4","6","8","10"], answer:2},
+     {q:"If the bar for 'apples' reaches 8 on the graph, how many apples were counted?", options:["4","6","8","10"], answer:2},
      {q:"Why do we organise data in charts and graphs?", options:["To make it confusing","To make it easier to read, compare, and draw conclusions","Only for decoration","Only for adults"], answer:1}
    ]},
   {subject:"Science", title:"Weathering and Erosion", summary:"Students learn how wind, water, ice, and plants break down and move rocks (weathering and erosion), shaping the landscape over time.",
@@ -415,18 +415,18 @@ const curriculum: DayContent[] = [
      {q:"A map grid uses ___ and ___ to name locations.", options:["colours and shapes","letters and numbers","symbols and pictures","flags and icons"], answer:1},
      {q:"If a city is at B3 on a grid map, where is it?", options:["Row A, column 3","Row B, column 3","Row 3, column B","Row C, column 2"], answer:1},
      {q:"Why do maps use grids?", options:["Only for decoration","To make maps look better","To help locate specific places quickly and accurately","Only for large maps"], answer:2},
-     {q:"In a grid reference "C5", the letter usually refers to the ___.", options:["column","row","scale","compass direction"], answer:1},
+     {q:"In a grid reference 'C5', the letter usually refers to the ___.", options:["column","row","scale","compass direction"], answer:1},
      {q:"Which tool would you use to find grid coordinates on a map?", options:["A thermometer","A ruler and map index","A scale model","A photograph"], answer:1}
    ]},
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
-  {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the "look-cover-write-check" strategy to spell words accurately.",
+  {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the 'look-cover-write-check' strategy to spell words accurately.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
-     {q:"The "look, cover, write, check" strategy helps you ___.", options:["read faster","do maths","practise spelling by seeing, hiding, writing, and verifying the word","draw pictures"], answer:1},
+     {q:"The 'look, cover, write, check' strategy helps you ___.", options:["read faster","do maths","practise spelling by seeing, hiding, writing, and verifying the word","draw pictures"], answer:1},
      {q:"A word family shares the same ___.", options:["first letter","word origin and spelling pattern (e.g., -at: cat, bat, hat)","number of syllables","only vowels"], answer:1},
-     {q:"To spell "because," you could remember ___.", options:["the letters B-E-C-A-U-S-E","only the first letter","it has 3 syllables","it starts with a vowel"], answer:0},
-     {q:"Looking for smaller words inside bigger words helps ___.", options:["make words longer","you remember how to spell longer words (e.g., "there" contains "here")","nothing","replace spelling practice"], answer:1},
+     {q:"To spell 'because,' you could remember ___.", options:["the letters B-E-C-A-U-S-E","only the first letter","it has 3 syllables","it starts with a vowel"], answer:0},
+     {q:"Looking for smaller words inside bigger words helps ___.", options:["make words longer","you remember how to spell longer words (e.g., 'there' contains 'here')","nothing","replace spelling practice"], answer:1},
      {q:"Which of these is spelled correctly?", options:["Becaus","Becawse","Because","Becaze"], answer:2}
    ]},
   {subject:"Math", title:"Fractions: Comparing and Equivalent", summary:"Students compare fractions with the same denominator and explore simple equivalent fractions (1/2 = 2/4).",
@@ -464,7 +464,7 @@ const curriculum: DayContent[] = [
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","activate prior knowledge and set a purpose for reading","write better","skip the hard parts"], answer:1},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","think more deeply and check your understanding as you go","avoid the confusing parts","copy the text"], answer:1},
      {q:"After reading, you might ask ___.", options:["What is this book's font?","Why did this happen? What would I do differently? What does this teach me?","How many pages did I read?","Who published this?"], answer:1},
-     {q:"A "thick question" is one ___.", options:["with a yes/no answer","with a one-word answer","that requires thinking and discussion — no single right answer","about the author"], answer:2},
+     {q:"A 'thick question' is one ___.", options:["with a yes/no answer","with a one-word answer","that requires thinking and discussion — no single right answer","about the author"], answer:2},
      {q:"Asking questions about a text is a sign of ___.", options:["poor reading","active and engaged reading","not understanding at all","skimming only"], answer:1}
    ]},
   {subject:"Math", title:"Time: Hours, Minutes, and Elapsed Time", summary:"Students tell time to the nearest minute using an analogue clock and calculate elapsed time.",
@@ -473,7 +473,7 @@ const curriculum: DayContent[] = [
      {q:"On an analogue clock, the short hand shows ___.", options:["minutes","seconds","hours","days"], answer:2},
      {q:"On an analogue clock, the long hand shows ___.", options:["hours","seconds","days","minutes"], answer:3},
      {q:"It is 2:15. What time is it 45 minutes later?", options:["2:45","3:00","3:15","2:60"], answer:1},
-     {q:"What does "elapsed time" mean?", options:["The time on the clock","How much time passes between a start and end time","The time zone","The exact time right now"], answer:1},
+     {q:"What does 'elapsed time' mean?", options:["The time on the clock","How much time passes between a start and end time","The time zone","The exact time right now"], answer:1},
      {q:"A movie starts at 1:30 pm and ends at 3:00 pm. How long is the movie?", options:["1 hour","1.5 hours","2 hours","2.5 hours"], answer:1}
    ]},
   {subject:"Science", title:"Energy: Forms and Sources", summary:"Students explore forms of energy (light, heat, sound, electrical, mechanical) and sources (Sun, wind, water, fossil fuels).",
@@ -546,8 +546,8 @@ const curriculum: DayContent[] = [
   {subject:"Math", title:"Probability: Likely, Unlikely, Certain, Impossible", summary:"Students use probability language to describe the likelihood of events.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
-     {q:"An event is "certain" if ___.", options:["it will never happen","it happens by chance","it will definitely happen every time","it sometimes happens"], answer:2},
-     {q:"An event is "impossible" if ___.", options:["it might happen","it will definitely happen","it has never happened before","it cannot possibly happen"], answer:3},
+     {q:"An event is 'certain' if ___.", options:["it will never happen","it happens by chance","it will definitely happen every time","it sometimes happens"], answer:2},
+     {q:"An event is 'impossible' if ___.", options:["it might happen","it will definitely happen","it has never happened before","it cannot possibly happen"], answer:3},
      {q:"Rolling a number between 1 and 6 on a standard die is ___.", options:["impossible","unlikely","likely","certain"], answer:3},
      {q:"Getting tails on a fair coin flip is ___.", options:["certain","impossible","equally likely as getting heads","always impossible"], answer:2},
      {q:"Drawing a red marble from a bag of only blue marbles is ___.", options:["certain","likely","unlikely","impossible"], answer:3}
@@ -578,7 +578,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence is in the PAST tense?", options:["I walk to school.","She is running.","He ate his lunch.","They will play tomorrow."], answer:2},
      {q:"Which sentence is in the PRESENT tense?", options:["She ran yesterday.","They will come soon.","We are playing now.","He had left already."], answer:2},
      {q:"Future tense uses the word ___.", options:["was","is","are","will"], answer:3},
-     {q:"Change "I run" to past tense.", options:["I will run","I am running","I ran","I running"], answer:2},
+     {q:"Change 'I run' to past tense.", options:["I will run","I am running","I ran","I running"], answer:2},
      {q:"Which word signals the past tense?", options:["Tomorrow","Now","Yesterday","Soon"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication Facts: Review to 10×10", summary:"Students consolidate multiplication facts up to 10×10 and use strategies to solve unknown facts.",
@@ -587,7 +587,7 @@ const curriculum: DayContent[] = [
      {q:"7 × 8 = ?", options:["54","56","58","60"], answer:1},
      {q:"9 × 6 = ?", options:["48","52","54","58"], answer:2},
      {q:"6 × 6 = ?", options:["32","34","36","40"], answer:2},
-     {q:"What strategy helps remember 9× facts?", options:["Count by 5s","The "10× minus 1 group" strategy: 9×7 = 70−7 = 63","Random guessing","Skip by 4s"], answer:1},
+     {q:"What strategy helps remember 9× facts?", options:["Count by 5s","The '10× minus 1 group' strategy: 9×7 = 70−7 = 63","Random guessing","Skip by 4s"], answer:1},
      {q:"10 × 10 = ?", options:["10","20","100","1000"], answer:2}
    ]},
   {subject:"Science", title:"Magnets", summary:"Students explore properties of magnets: poles (N/S), attraction, repulsion, magnetic fields, and everyday uses.",
@@ -652,8 +652,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
      {q:"Rhyme in poetry means ___.", options:["repeating the same word","ending lines with words that have the same ending sound","making lines very long","using no punctuation"], answer:1},
-     {q:"A simile compares two things using "like" or "as." Which is a simile?", options:["The moon is a lantern in the sky","He ran like the wind","She is a shining star","The thunder spoke to the rain"], answer:1},
-     {q:"A metaphor compares two things WITHOUT "like" or "as." Which is a metaphor?", options:["She runs like a deer","He is as tall as a tree","Life is a journey","The rain falls like tears"], answer:2},
+     {q:"A simile compares two things using 'like' or 'as.' Which is a simile?", options:["The moon is a lantern in the sky","He ran like the wind","She is a shining star","The thunder spoke to the rain"], answer:1},
+     {q:"A metaphor compares two things WITHOUT 'like' or 'as.' Which is a metaphor?", options:["She runs like a deer","He is as tall as a tree","Life is a journey","The rain falls like tears"], answer:2},
      {q:"A haiku has ___ syllables in the pattern 5-7-5.", options:["15","17","19","21"], answer:1},
      {q:"A stanza in a poem is like a ___ in prose writing.", options:["sentence","paragraph","chapter","word"], answer:1}
    ]},
@@ -689,11 +689,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Non-Fiction: Cause and Effect in Science Texts", summary:"Students practise identifying cause-and-effect relationships in non-fiction science texts using text clues and structure.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
-     {q:"In a science text, "because" often signals ___.", options:["a sequence of events","an effect","a cause coming next","the main idea"], answer:2},
-     {q:"In a science text, "therefore" often signals ___.", options:["a cause","an effect or result","a new topic","an example"], answer:1},
+     {q:"In a science text, 'because' often signals ___.", options:["a sequence of events","an effect","a cause coming next","the main idea"], answer:2},
+     {q:"In a science text, 'therefore' often signals ___.", options:["a cause","an effect or result","a new topic","an example"], answer:1},
      {q:"Which sentence contains a cause-and-effect relationship?", options:["The sky is blue.","Dogs are mammals.","Because the temperature dropped, water in the pond froze.","Animals need food."], answer:2},
-     {q:"The cause in "The plant died because it had no water" is ___.", options:["The plant died","it had no water","The plant","because"], answer:1},
-     {q:"The effect in "The animal population declined because the habitat was destroyed" is ___.", options:["the habitat was destroyed","because","The animal population declined","The habitat"], answer:0}
+     {q:"The cause in 'The plant died because it had no water' is ___.", options:["The plant died","it had no water","The plant","because"], answer:1},
+     {q:"The effect in 'The animal population declined because the habitat was destroyed' is ___.", options:["the habitat was destroyed","because","The animal population declined","The habitat"], answer:0}
    ]},
   {subject:"Math", title:"Patterns: Growing and Shrinking", summary:"Students identify and extend growing (increasing) and shrinking (decreasing) patterns using numbers, shapes, and objects.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
@@ -718,8 +718,8 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The UNCRC is ___.", options:["a type of food","a Canadian law only","an international agreement on children's rights signed by most countries","a school rule"], answer:2},
      {q:"According to the UNCRC, all children have the right to ___.", options:["only education","only health care","education, protection from harm, health care, and participation in decisions affecting them","only play"], answer:2},
-     {q:"Which right is described: "No child should be made to work in dangerous conditions."", options:["Right to education","Right to play","Right to protection from exploitation and harm","Right to a name"], answer:2},
-     {q:"Which right is described: "Children should be able to share their views on matters affecting them."", options:["Right to food","Right to health","Right to protection","Right to participate and be heard"], answer:3},
+     {q:"Which right is described: 'No child should be made to work in dangerous conditions.'", options:["Right to education","Right to play","Right to protection from exploitation and harm","Right to a name"], answer:2},
+     {q:"Which right is described: 'Children should be able to share their views on matters affecting them.'", options:["Right to food","Right to health","Right to protection","Right to participate and be heard"], answer:3},
      {q:"Why is knowing your rights important?", options:["It is not","It empowers children to recognise when rights are being violated and to seek help","Only for lawyers","Only for adults"], answer:1}
    ]},
 ]},
@@ -767,7 +767,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"An inference is ___.", options:["something stated directly in the text","a guess with no evidence","a conclusion drawn from text clues plus prior knowledge","only for non-fiction"], answer:2},
      {q:"When you infer, you use ___.", options:["only pictures","only the title","text clues plus what you already know","only the last paragraph"], answer:2},
-     {q:"In "She grabbed her umbrella and slammed the door," we can infer ___.", options:["She is happy","She is going swimming","She might be upset and it could be raining","She has a new umbrella"], answer:2},
+     {q:"In 'She grabbed her umbrella and slammed the door,' we can infer ___.", options:["She is happy","She is going swimming","She might be upset and it could be raining","She has a new umbrella"], answer:2},
      {q:"Inference helps readers ___.", options:["only read faster","understand meaning beyond what is directly stated","only for tests","only for long books"], answer:1},
      {q:"Which question requires an inference?", options:["How many pages is this book?","Who is the author?","Why did the character act so nervously?","What is the title?"], answer:2}
    ]},
@@ -804,9 +804,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
      {q:"An adverb modifies a ___.", options:["noun","pronoun","adjective only","verb, adjective, or other adverb"], answer:3},
-     {q:"In "She sang beautifully," the adverb is ___.", options:["She","sang","beautifully","is"], answer:2},
+     {q:"In 'She sang beautifully,' the adverb is ___.", options:["She","sang","beautifully","is"], answer:2},
      {q:"A preposition shows ___.", options:["an action","a description of a noun","a relationship between a noun and another word (position, time, direction)","only movement"], answer:2},
-     {q:"In "The cat sat under the table," the preposition is ___.", options:["cat","sat","under","table"], answer:2},
+     {q:"In 'The cat sat under the table,' the preposition is ___.", options:["cat","sat","under","table"], answer:2},
      {q:"Which word is an adverb?", options:["Happy","Quickly","Dog","Soft"], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Congruence and Symmetry", summary:"Students identify congruent shapes (same size and shape) and lines of symmetry. They recognise symmetrical shapes by folding.",
@@ -918,10 +918,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
    quiz:[
      {q:"A prefix is added to the ___ of a base word.", options:["end","middle","beginning","random position"], answer:2},
-     {q:"What does the prefix "un-" mean?", options:["Again","Before","Not or the opposite","After"], answer:2},
-     {q:"What does "unhappy" mean?", options:["Very happy","Happy again","Not happy","About to be happy"], answer:2},
+     {q:"What does the prefix 'un-' mean?", options:["Again","Before","Not or the opposite","After"], answer:2},
+     {q:"What does 'unhappy' mean?", options:["Very happy","Happy again","Not happy","About to be happy"], answer:2},
      {q:"A suffix is added to the ___ of a word.", options:["beginning","middle","end","random position"], answer:2},
-     {q:"What does "careful" mean?", options:["Without care","Full of care","Before care","Not care"], answer:1}
+     {q:"What does 'careful' mean?", options:["Without care","Full of care","Before care","Not care"], answer:1}
    ]},
   {subject:"Math", title:"Data: Pictographs and Surveys", summary:"Students conduct simple surveys, organise data in a pictograph, and draw conclusions.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
@@ -977,7 +977,7 @@ const curriculum: DayContent[] = [
      {q:"After brainstorming solutions you ___.", options:["stop the process","select the best design and build a prototype","start over","test without designing"], answer:1},
      {q:"Testing a prototype helps you ___.", options:["skip to the end","identify what works and what needs to be improved","guarantee the design is perfect","only look at it"], answer:1},
      {q:"A prototype is ___.", options:["the final, perfect product","an early model used to test a design concept","only a drawing","a computer simulation only"], answer:1},
-     {q:"Why is the "improve" step important in engineering design?", options:["It is not","Real-world designs rarely work perfectly the first time; testing and improving leads to better solutions","Only for professional engineers","Only for complex machines"], answer:1}
+     {q:"Why is the 'improve' step important in engineering design?", options:["It is not","Real-world designs rarely work perfectly the first time; testing and improving leads to better solutions","Only for professional engineers","Only for complex machines"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ontario's Geography: Lakes and Rivers", summary:"Students identify Ontario's major lakes (Great Lakes) and rivers (Ottawa, St. Lawrence, Thames) and their importance.",
    resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
@@ -1060,7 +1060,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Which level of government runs local parks and garbage collection?", options:["Federal","Provincial","Municipal","International"], answer:2},
      {q:"What are Ontario's two major physical regions?", options:["Desert and rainforest","Canadian Shield and Great Lakes–St. Lawrence Lowlands","Prairies and mountains","Ocean coast and tundra"], answer:1},
-     {q:"What does "sustainable" use of resources mean?", options:["Use as fast as possible","Only use renewable resources","Use resources in a way that preserves them for future generations","Never use any resources"], answer:2},
+     {q:"What does 'sustainable' use of resources mean?", options:["Use as fast as possible","Only use renewable resources","Use resources in a way that preserves them for future generations","Never use any resources"], answer:2},
      {q:"Confederation took place in ___.", options:["1776","1812","1867","1982"], answer:2},
      {q:"A responsible citizen in Canada ___.", options:["ignores community needs","follows laws, pays taxes, participates, and contributes to the community","only votes","only obeys rules they like"], answer:1}
    ]},
@@ -1072,7 +1072,7 @@ const curriculum: DayContent[] = [
      {q:"Revising a piece of writing means ___.", options:["correcting only spelling errors","checking and improving content, organization, word choice, and style","rewriting the whole text from scratch","only fixing punctuation"], answer:1},
      {q:"Sensory details appeal to the ___.", options:["only visual sense","five senses (sight, sound, smell, taste, touch)","only hearing","only imagination"], answer:1},
      {q:"Varying sentence length means ___.", options:["making all sentences the same length","sometimes writing short, punchy sentences and sometimes longer, more descriptive ones","only writing long sentences","only writing short sentences"], answer:1},
-     {q:"Strong verbs like "sprinted" and "whispered" are better than "ran" and "said" because ___.", options:["they are longer","they add more precise, vivid meaning and make the writing more engaging","they are always correct","they use more punctuation"], answer:1},
+     {q:"Strong verbs like 'sprinted' and 'whispered' are better than 'ran' and 'said' because ___.", options:["they are longer","they add more precise, vivid meaning and make the writing more engaging","they are always correct","they use more punctuation"], answer:1},
      {q:"After revising for content, you should ___ your writing.", options:["stop working","edit/proofread for spelling, grammar, and punctuation errors","rewrite entirely","submit immediately"], answer:1}
    ]},
   {subject:"Math", title:"Financial Literacy: Saving and Spending", summary:"Students learn the basics of saving, spending, and the concept of earning money through work.",
