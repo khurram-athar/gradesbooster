@@ -16,6 +16,7 @@ import {
   Star,
   Sparkles,
   Globe,
+  Lock,
 } from 'lucide-react';
 
 // ── FAQ accordion ────────────────────────────────────────────────────────────
@@ -110,9 +111,18 @@ export default function LandingPage() {
           <div className="flex items-center gap-2">
             {!loading && (
               user ? (
-                <Button asChild>
-                  <Link href="/home">Go to Dashboard →</Link>
-                </Button>
+                <>
+                  <Button asChild variant="outline" className="gap-1.5">
+                    <Link href="/dashboard">
+                      <Lock className="h-3.5 w-3.5" />
+                      <span className="hidden sm:inline">Parent Dashboard</span>
+                      <span className="sm:hidden">Dashboard</span>
+                    </Link>
+                  </Button>
+                  <Button asChild>
+                    <Link href="/home">On to Today&apos;s Lesson →</Link>
+                  </Button>
+                </>
               ) : (
                 <>
                   <Button asChild variant="ghost">
