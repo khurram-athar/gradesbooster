@@ -15,6 +15,7 @@ import {
   HelpCircle,
   Shield,
   Home,
+  MessageSquareHeart,
 } from 'lucide-react';
 
 export function Nav() {
@@ -39,6 +40,7 @@ export function Nav() {
     { href: '/#how-it-works', label: 'How It Works', icon: Info },
     { href: '/#faq', label: 'FAQ', icon: HelpCircle },
     { href: '/privacy', label: 'Privacy Policy', icon: Shield },
+    { href: '/feedback', label: 'Send Feedback', icon: MessageSquareHeart },
   ];
 
   return (

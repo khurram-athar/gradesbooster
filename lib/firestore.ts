@@ -97,6 +97,25 @@ export async function saveResult(
   });
 }
 
+// ── Feedback ──────────────────────────────────────────────────
+
+export async function submitFeedback(
+  uid: string,
+  email: string | null,
+  message: string,
+  category: string,
+): Promise<void> {
+  const ref = doc(collection(db, 'feedback'));
+  await setDoc(ref, {
+    uid,
+    email: email ?? null,
+    message,
+    category,
+    page: typeof window !== 'undefined' ? window.location.pathname : null,
+    createdAt: serverTimestamp(),
+  });
+}
+
 export async function loadAllKidResults(
   uid: string,
   kids: KidProfile[],

@@ -27,6 +27,17 @@ service cloud.firestore {
       }
     }
 
+    // ── Feedback: any signed-in user can submit; no one can read,
+    //    edit, or delete via the client (reviewed via Console) ──
+    match /feedback/{feedbackId} {
+      allow create: if isSignedIn()
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.message is string
+        && request.resource.data.message.size() > 0
+        && request.resource.data.message.size() <= 4000;
+      allow read, update, delete: if false;
+    }
+
     // ── Deny everything else ─────────────────────────────────
     match /{document=**} {
       allow read, write: if false;
