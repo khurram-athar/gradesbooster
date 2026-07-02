@@ -2,7 +2,12 @@
 
 import { useEffect, useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import { EmailAuthProvider, reauthenticateWithCredential } from 'firebase/auth';
+import {
+  EmailAuthProvider,
+  GoogleAuthProvider,
+  reauthenticateWithCredential,
+  reauthenticateWithPopup,
+} from 'firebase/auth';
 import { auth } from '@/lib/firebase';
 import { useAuth } from '@/components/auth-provider';
 import { loadKids, loadAllKidResults } from '@/lib/firestore';
@@ -82,16 +87,19 @@ function ReAuthGate({ onSuccess }: { onSuccess: () => void }) {
   const [busy, setBusy] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  useEffect(() => {
-    inputRef.current?.focus();
-  }, []);
+  const currentUser = auth.currentUser;
+  const isGoogleUser = !!currentUser?.providerData.some((p) => p.providerId === 'google.com');
+  const isPasswordUser = !!currentUser?.providerData.some((p) => p.providerId === 'password');
 
-  async function handleSubmit(e: React.FormEvent) {
+  useEffect(() => {
+    if (isPasswordUser) inputRef.current?.focus();
+  }, [isPasswordUser]);
+
+  async function handlePasswordSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError('');
     setBusy(true);
     try {
-      const currentUser = auth.currentUser;
       if (!currentUser?.email) throw new Error('No signed-in user');
       const credential = EmailAuthProvider.credential(currentUser.email, password);
       await reauthenticateWithCredential(currentUser, credential);
@@ -100,6 +108,20 @@ function ReAuthGate({ onSuccess }: { onSuccess: () => void }) {
       setError('Incorrect password. Please try again.');
       setPassword('');
       inputRef.current?.focus();
+    } finally {
+      setBusy(false);
+    }
+  }
+
+  async function handleGoogleReauth() {
+    setError('');
+    setBusy(true);
+    try {
+      if (!currentUser) throw new Error('No signed-in user');
+      await reauthenticateWithPopup(currentUser, new GoogleAuthProvider());
+      onSuccess();
+    } catch {
+      setError('Could not confirm your identity with Google. Please try again.');
     } finally {
       setBusy(false);
     }
@@ -116,38 +138,54 @@ function ReAuthGate({ onSuccess }: { onSuccess: () => void }) {
             </div>
             <CardTitle className="text-lg">Confirm your identity</CardTitle>
             <p className="text-sm text-muted-foreground mt-1">
-              Enter your password to view quiz results.
+              {isGoogleUser
+                ? 'Confirm with Google to view quiz results.'
+                : 'Enter your password to view quiz results.'}
             </p>
           </CardHeader>
           <CardContent>
-            <form onSubmit={handleSubmit} className="space-y-3">
-              <div className="relative">
-                <Input
-                  ref={inputRef}
-                  type={showPw ? 'text' : 'password'}
-                  placeholder="Your password"
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  className="pr-10"
-                  required
-                  disabled={busy}
-                />
-                <button
+            {isGoogleUser ? (
+              <div className="space-y-3">
+                {error && <p className="text-sm text-red-600">{error}</p>}
+                <Button
                   type="button"
-                  onClick={() => setShowPw((v) => !v)}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
-                  tabIndex={-1}
+                  className="w-full"
+                  disabled={busy}
+                  onClick={handleGoogleReauth}
                 >
-                  {showPw ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
-                </button>
+                  {busy ? 'Confirming…' : 'Continue with Google'}
+                </Button>
               </div>
-              {error && (
-                <p className="text-sm text-red-600">{error}</p>
-              )}
-              <Button type="submit" className="w-full" disabled={busy || !password}>
-                {busy ? 'Verifying…' : 'View Results'}
-              </Button>
-            </form>
+            ) : (
+              <form onSubmit={handlePasswordSubmit} className="space-y-3">
+                <div className="relative">
+                  <Input
+                    ref={inputRef}
+                    type={showPw ? 'text' : 'password'}
+                    placeholder="Your password"
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                    className="pr-10"
+                    required
+                    disabled={busy}
+                  />
+                  <button
+                    type="button"
+                    onClick={() => setShowPw((v) => !v)}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+                    tabIndex={-1}
+                  >
+                    {showPw ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+                  </button>
+                </div>
+                {error && (
+                  <p className="text-sm text-red-600">{error}</p>
+                )}
+                <Button type="submit" className="w-full" disabled={busy || !password}>
+                  {busy ? 'Verifying…' : 'View Results'}
+                </Button>
+              </form>
+            )}
           </CardContent>
         </Card>
       </div>
