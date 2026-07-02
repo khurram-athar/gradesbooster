@@ -72,6 +72,7 @@ export default function KidsPage() {
   }, [user]);
 
   const regions = country === 'CA' ? CA_PROVINCES : US_STATES;
+  const regionSupported = country === 'CA' && province === 'ON';
 
   function resetForm() {
     setEditId(null);
@@ -102,6 +103,10 @@ export default function KidsPage() {
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!user) return;
+    if (!regionSupported) {
+      setFormError('Curriculum for this province/state is coming soon — currently only Ontario, Canada is supported.');
+      return;
+    }
     setFormError('');
     setBusy(true);
     try {
@@ -153,7 +158,8 @@ export default function KidsPage() {
         ) : (
           <div className="space-y-3 mb-8">
             {kids.map((kid) => {
-              const hasContent = AVAILABLE_GRADES.includes(kid.grade);
+              const hasContent =
+                AVAILABLE_GRADES.includes(kid.grade) && kid.country === 'CA' && kid.province === 'ON';
               return (
                 <div
                   id={`kid-${kid.id}`}
@@ -261,6 +267,17 @@ export default function KidsPage() {
                 </div>
               </div>
 
+              {!regionSupported && (
+                <Alert>
+                  <AlertCircle className="h-4 w-4" />
+                  <AlertDescription>
+                    {country === 'CA'
+                      ? `Curriculum for ${regions.find(([code]) => code === province)?.[1] ?? 'this province'} is coming soon — currently only Ontario is available.`
+                      : `Curriculum for ${regions.find(([code]) => code === province)?.[1] ?? 'this state'} is coming soon — GradesBooster currently only supports Ontario, Canada.`}
+                  </AlertDescription>
+                </Alert>
+              )}
+
               {formError && (
                 <Alert variant="destructive">
                   <AlertCircle className="h-4 w-4" />
@@ -269,7 +286,7 @@ export default function KidsPage() {
               )}
 
               <div className="flex gap-3 pt-1">
-                <Button type="submit" disabled={busy}>
+                <Button type="submit" disabled={busy || !regionSupported}>
                   {busy ? (editId ? 'Updating…' : 'Saving…') : (editId ? 'Update Child' : 'Save Child')}
                 </Button>
                 {editId && (
