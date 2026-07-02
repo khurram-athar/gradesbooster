@@ -223,7 +223,7 @@ export default function KidsPage() {
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent>
-                    {Array.from({ length: 12 }, (_, i) => i + 1).map((g) => (
+                    {Array.from({ length: 13 }, (_, i) => i).map((g) => (
                       <SelectItem key={g} value={String(g)}>
                         {gradeLabel(g)}
                       </SelectItem>
