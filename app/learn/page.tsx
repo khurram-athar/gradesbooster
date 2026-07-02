@@ -26,12 +26,25 @@ import {
   Trophy,
 } from 'lucide-react';
 
+import grade0 from '@/data/grade0';
+import grade1 from '@/data/grade1';
 import grade2 from '@/data/grade2';
+import grade3 from '@/data/grade3';
+import grade4 from '@/data/grade4';
 import grade5 from '@/data/grade5';
+import grade6 from '@/data/grade6';
 import grade7 from '@/data/grade7';
+import grade8 from '@/data/grade8';
 import grade9 from '@/data/grade9';
+import grade10 from '@/data/grade10';
+import grade11 from '@/data/grade11';
+import grade12 from '@/data/grade12';
 
-const CURRICULUM_MAP: Record<number, DayContent[]> = { 2: grade2, 5: grade5, 7: grade7, 9: grade9 };
+const CURRICULUM_MAP: Record<number, DayContent[]> = {
+  0: grade0, 1: grade1, 2: grade2, 3: grade3, 4: grade4,
+  5: grade5, 6: grade6, 7: grade7, 8: grade8, 9: grade9,
+  10: grade10, 11: grade11, 12: grade12,
+};
 function loadCurriculum(grade: number): DayContent[] {
   return CURRICULUM_MAP[grade] ?? [];
 }
@@ -40,6 +53,35 @@ function loadCurriculum(grade: number): DayContent[] {
 function youtubeId(url: string): string {
   const match = url.match(/(?:v=|youtu\.be\/|embed\/)([A-Za-z0-9_-]{11})/);
   return match ? match[1] : url;
+}
+
+/** Build the iframe src URL for a subject.
+ *  - If content.videoUrl is already a full embed URL → use it directly.
+ *  - If content.videoUrl has a video ID / watch URL → standard embed.
+ *  - Otherwise → YouTube search embed matched to the topic title + grade.
+ */
+function buildVideoEmbedUrl(content: SubjectContent, grade: number): string {
+  if (content.videoUrl) {
+    if (content.videoUrl.includes('/embed/') || content.videoUrl.includes('listType=search')) {
+      return content.videoUrl;
+    }
+    return `https://www.youtube.com/embed/${youtubeId(content.videoUrl)}?rel=0&modestbranding=1`;
+  }
+  const gradeStr = grade === 0 ? 'kindergarten' : `grade ${grade}`;
+  const query = encodeURIComponent(`${content.title} ${gradeStr} educational`);
+  return `https://www.youtube.com/embed?listType=search&list=${query}&rel=0&modestbranding=1`;
+}
+
+/** Build the "Watch on YouTube" fallback link URL */
+function buildVideoLinkUrl(content: SubjectContent, grade: number): string {
+  if (content.videoUrl && !content.videoUrl.includes('listType=search')) {
+    return content.videoUrl.includes('/embed/')
+      ? content.videoUrl.replace('/embed/', '/watch?v=')
+      : content.videoUrl;
+  }
+  const gradeStr = grade === 0 ? 'kindergarten' : `grade ${grade}`;
+  const query = encodeURIComponent(`${content.title} ${gradeStr} educational`);
+  return `https://www.youtube.com/results?search_query=${query}`;
 }
 
 function scoreColor(pct: number) {
@@ -193,12 +235,14 @@ function SubjectQuiz({
 
 function SubjectPanel({
   content,
+  grade,
   savedScore,
   onComplete,
   onNext,
   isLast,
 }: {
   content: SubjectContent;
+  grade: number;
   savedScore: number | null;
   onComplete: (score: number, total: number) => void;
   onNext: () => void;
@@ -217,31 +261,32 @@ function SubjectPanel({
       {/* Summary */}
       <p className="text-base text-foreground leading-relaxed">{content.summary}</p>
 
-      {/* YouTube embed — shown when videoUrl is present */}
-      {content.videoUrl && (
-        <div className="space-y-2">
-          <div className="rounded-xl overflow-hidden border border-border shadow-sm">
-            <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
-              <iframe
-                src={`https://www.youtube.com/embed/${youtubeId(content.videoUrl)}?rel=0&modestbranding=1`}
-                title={content.title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="absolute inset-0 w-full h-full"
-              />
-            </div>
+      {/* YouTube embed — topic-matched video for every day */}
+      <div className="space-y-2">
+        <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+          Watch the video, then take the quiz below
+        </p>
+        <div className="rounded-xl overflow-hidden border border-border shadow-sm">
+          <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+            <iframe
+              src={buildVideoEmbedUrl(content, grade)}
+              title={content.title}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              className="absolute inset-0 w-full h-full"
+            />
           </div>
-          <a
-            href={content.videoUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-primary transition-colors"
-          >
-            <ExternalLink className="h-3 w-3" />
-            Watch on YouTube if video doesn&apos;t load
-          </a>
         </div>
-      )}
+        <a
+          href={buildVideoLinkUrl(content, grade)}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-primary transition-colors"
+        >
+          <ExternalLink className="h-3 w-3" />
+          Search YouTube if video doesn&apos;t load
+        </a>
+      </div>
 
       {/* Resource button — shown alongside or when no video */}
       {content.resourceUrl && (
@@ -531,6 +576,7 @@ function LearnContent() {
             <SubjectPanel
               key={`${currentDay}-${currentSubject}`}
               content={activeSubject}
+              grade={grade}
               savedScore={activeResult?.score ?? null}
               onComplete={(score, total) => handleQuizComplete(activeSubject.subject, day, score, total)}
               onNext={goNextSubject}

@@ -30,12 +30,16 @@ const FAQS = [
     a: 'Currently aligned to the Ontario K–12 curriculum. Support for other Canadian provinces and US states is on the way.',
   },
   {
+    q: 'How does each lesson work?',
+    a: 'Each subject lesson has two parts: first, your child watches a short curated YouTube video on that day\'s topic, then completes a 5-question multiple-choice quiz. The video and quiz together take about 10–15 minutes per subject.',
+  },
+  {
     q: 'How much time does it take each day?',
-    a: 'Summer mode is designed for 1–2 hours on weekdays. Year-round mode is lighter at 30–60 minutes per day.',
+    a: 'Typically 30–60 minutes per day covering 4 subjects. Each subject has a short video plus a 5-question quiz, so the pace is relaxed and focused.',
   },
   {
     q: 'Which grades have content right now?',
-    a: 'Grades 2, 5, 7, and 9 are fully available. We are actively building content for all other grades from Kindergarten to Grade 12.',
+    a: 'Kindergarten and Grades 1–5, 7, and 9 are fully available with 30 days of content each. Grades 6, 8, 10, 11, and 12 are being added now — check back soon.',
   },
   {
     q: 'Do my kids need their own accounts?',
@@ -52,6 +56,10 @@ const FAQS = [
   {
     q: 'What subjects are covered?',
     a: 'Elementary grades cover Language Arts, Mathematics, Science, and Social Studies. High school grades include subject-specific courses like Physics, Chemistry, Biology, History, and Geography.',
+  },
+  {
+    q: 'What if a video doesn\'t load?',
+    a: 'Each video is matched to the day\'s topic using YouTube search. If a video doesn\'t load, a "Search YouTube" link appears below it so your child can find an alternative video on the same topic instantly.',
   },
 ];
 
@@ -78,9 +86,9 @@ function FAQItem({ q, a }: { q: string; a: string }) {
 // ── Grade grid ────────────────────────────────────────────────────────────────
 
 const GRADE_GROUPS = [
-  { label: 'Kindergarten', grades: ['K'], ready: false },
-  { label: 'Primary', grades: ['1', '2', '3'], ready: [false, true, false] },
-  { label: 'Junior', grades: ['4', '5', '6'], ready: [false, true, false] },
+  { label: 'Kindergarten', grades: ['K'], ready: [true] },
+  { label: 'Primary', grades: ['1', '2', '3'], ready: [true, true, true] },
+  { label: 'Junior', grades: ['4', '5', '6'], ready: [true, true, false] },
   { label: 'Intermediate', grades: ['7', '8'], ready: [true, false] },
   { label: 'High School', grades: ['9', '10', '11', '12'], ready: [true, false, false, false] },
 ];
@@ -236,24 +244,30 @@ export default function LandingPage() {
               <p className="text-muted-foreground text-lg">No app to download. Works in any browser.</p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
               {[
                 {
                   step: '1',
                   title: 'Create a free account',
-                  desc: 'Sign up with your email or Google. Takes under a minute.',
+                  desc: 'Sign up with your email. Takes under a minute — no credit card needed.',
                   color: 'bg-teal-600',
                 },
                 {
                   step: '2',
                   title: 'Add your children',
-                  desc: 'Enter each child\'s name, grade, and province. Multiple kids supported.',
+                  desc: 'Enter each child\'s name and grade. One parent account covers all your kids.',
                   color: 'bg-emerald-600',
                 },
                 {
                   step: '3',
-                  title: 'Start learning',
-                  desc: 'Pick Summer Plan or Year-Round mode and hand the device to your child.',
+                  title: 'Watch & learn',
+                  desc: 'Each subject starts with a short curated YouTube video matched to that day\'s topic.',
+                  color: 'bg-green-600',
+                },
+                {
+                  step: '4',
+                  title: 'Quiz & track',
+                  desc: 'After the video, a 5-question quiz checks understanding. Results appear instantly in your Parent Dashboard.',
                   color: 'bg-green-700',
                 },
               ].map(({ step, title, desc, color }) => (

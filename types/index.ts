@@ -7,7 +7,11 @@ export type SubjectKey =
   | 'Chemistry'
   | 'Biology'
   | 'History'
-  | 'Geography';
+  | 'Geography'
+  | 'English'
+  | 'Functions'
+  | 'AdvancedFunctions'
+  | 'Calculus';
 
 export const SUBJECT_LABELS: Record<SubjectKey, string> = {
   Language: 'Language Arts',
@@ -19,6 +23,10 @@ export const SUBJECT_LABELS: Record<SubjectKey, string> = {
   Biology: 'Biology',
   History: 'History',
   Geography: 'Geography',
+  English: 'English',
+  Functions: 'Functions',
+  AdvancedFunctions: 'Advanced Functions',
+  Calculus: 'Calculus & Vectors',
 };
 
 export const SUBJECT_COLORS: Record<SubjectKey, string> = {
@@ -31,6 +39,10 @@ export const SUBJECT_COLORS: Record<SubjectKey, string> = {
   Biology: 'bg-emerald-600',
   History: 'bg-amber-600',
   Geography: 'bg-rose-500',
+  English: 'bg-sky-600',
+  Functions: 'bg-violet-600',
+  AdvancedFunctions: 'bg-fuchsia-600',
+  Calculus: 'bg-red-600',
 };
 
 export const SUBJECT_BORDER_COLORS: Record<SubjectKey, string> = {
@@ -43,6 +55,10 @@ export const SUBJECT_BORDER_COLORS: Record<SubjectKey, string> = {
   Biology: 'border-l-emerald-600',
   History: 'border-l-amber-600',
   Geography: 'border-l-rose-500',
+  English: 'border-l-sky-600',
+  Functions: 'border-l-violet-600',
+  AdvancedFunctions: 'border-l-fuchsia-600',
+  Calculus: 'border-l-red-600',
 };
 
 export interface QuizQuestion {
@@ -103,4 +119,4 @@ export interface DashboardRow {
 }
 
 // Grades that currently have curriculum content
-export const AVAILABLE_GRADES = [2, 5, 7, 9];
+export const AVAILABLE_GRADES = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
