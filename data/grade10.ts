@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: Elements of Fiction", summary:"Students analyse the key elements of fiction — plot, character, setting, conflict, theme, point of view, and style — in preparation for novel and short story study.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Literary Analysis: Elements of Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Elements%20of%20Fiction%20grade%2010%20educational",
    quiz:[
      {q:"Which element of fiction asks 'how is the story told and in whose voice?'", options:["Plot","Setting","Theme","Point of view and narrative style"], answer:3},
      {q:"The climax of a narrative is ___.", options:["the opening situation","the falling action","the point of highest tension where the central conflict reaches its peak","the resolution where conflict is resolved"], answer:2},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Style in fiction refers to ___.", options:["only the plot structure","the author's characteristic way of using language — sentence structure, diction, imagery, rhythm, and tone","only genre","the length of the work"], answer:1}
    ]},
   {subject:"Math", title:"Linear Systems: Two Variables", summary:"Students review and extend solving systems of linear equations (two variables) graphically, by substitution, and by elimination. They interpret solutions in context.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Linear Systems: Two Variables", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Systems%3A%20Two%20Variables%20grade%2010%20educational",
    quiz:[
      {q:"A system of two linear equations with one unique solution means ___.", options:["the lines are parallel","the equations are identical","the lines intersect at exactly one point","there are infinite solutions"], answer:2},
      {q:"Solve by elimination: 3x + y = 11 and x − y = 1", options:["x = 3, y = 2","x = 2, y = 5","x = 4, y = −1","x = 3, y = −2"], answer:0},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"In context, the solution (3, 150) to a cost system where x = hours and y = dollars means ___.", options:["the minimum cost is 3","the maximum hours are 150","at 3 hours, the cost is $150 — the two pricing options cost the same","3 hours costs $0"], answer:2}
    ]},
   {subject:"Science", title:"Chemistry: Atomic Theory and the Periodic Table", summary:"Students examine the development of atomic theory (Dalton, Thomson, Rutherford, Bohr) and how the periodic table organises elements by atomic structure.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Chemistry: Atomic Theory and the Periodic Table", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Atomic%20Theory%20and%20the%20Periodic%20Table%20grade%2010%20educational",
    quiz:[
      {q:"Rutherford's gold foil experiment showed ___.", options:["atoms are solid spheres","electrons orbit in shells","atoms have a small, dense, positively charged nucleus with mostly empty space around it","atoms contain no neutrons"], answer:2},
      {q:"The Bohr model of the atom shows electrons ___.", options:["randomly distributed throughout","in the nucleus","orbiting the nucleus in specific energy levels (shells)","only on one side of the nucleus"], answer:2},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"Mass number equals ___.", options:["atomic number only","number of electrons","number of protons","protons + neutrons"], answer:3}
    ]},
   {subject:"History", title:"Canada and World War II: Causes and Outbreak", summary:"Students examine the causes of WWII — rise of fascism, appeasement, Nazi aggression — and Canada's declaration of war and early contributions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada and World War II: Causes and Outbreak", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20World%20War%20II%3A%20Causes%20and%20Outbreak%20grade%2010%20educational",
    quiz:[
      {q:"The policy of appeasement pursued by Britain and France in the 1930s meant ___.", options:["confronting Hitler's aggression immediately","imposing economic sanctions only","making concessions to Hitler (notably at Munich, 1938) to avoid war — ultimately failing when Germany invaded Poland","supporting Germany's expansion"], answer:2},
      {q:"Canada declared war on Germany in September 1939 ___.", options:["the same day as Britain, demonstrating full dependence","before Britain, showing independence","a week after Britain, demonstrating growing autonomy as a sovereign nation","only after Japan attacked Pearl Harbor"], answer:2},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Writing: The Literary Essay", summary:"Students write analytical literary essays with a clear thesis, developed body paragraphs using textual evidence, and effective conclusions. They apply the writing process.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: The Literary Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Essay%20grade%2010%20educational",
    quiz:[
      {q:"A literary essay thesis should ___.", options:["summarise the plot","ask a question about the text","state an arguable, specific interpretation of the text that the essay will prove through close analysis","describe the author's biography"], answer:2},
      {q:"Body paragraphs in a literary essay should follow ___.", options:["no particular structure","the PEEL or similar structure: Point, Evidence (quotation), Explanation/Analysis, Link","only description of events","the plot chronologically"], answer:1},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"A counterargument paragraph in a literary essay ___.", options:["proves your thesis is wrong","is always required","acknowledges a competing interpretation and then refutes it, making your argument more sophisticated","only appears in persuasive essays"], answer:2}
    ]},
   {subject:"Math", title:"Quadratic Equations: Factoring and the Quadratic Formula", summary:"Students solve quadratic equations by factoring and applying the quadratic formula. They connect solutions to graphs of parabolas.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratic Equations: Factoring and the Quadratic Formula", resourceUrl:"https://www.youtube.com/results?search_query=Quadratic%20Equations%3A%20Factoring%20and%20the%20Quadratic%20Formula%20grade%2010%20educational",
    quiz:[
      {q:"The quadratic formula is ___.", options:["x = −b/2a","x = (−b ± √(b²−4ac)) / 2a","x = b² − 4ac","x = a(x−h)² + k"], answer:1},
      {q:"The discriminant b² − 4ac tells you ___.", options:["the vertex of the parabola","the y-intercept","the nature of solutions: positive = 2 real roots, zero = 1 repeated root, negative = no real roots","the axis of symmetry"], answer:2},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"The solutions of a quadratic equation correspond to ___.", options:["the y-intercepts of the parabola","the vertex of the parabola","the x-intercepts (zeros/roots) of the corresponding parabola","the axis of symmetry"], answer:2}
    ]},
   {subject:"Science", title:"Chemistry: Chemical Bonding", summary:"Students explore ionic bonding (transfer of electrons between metals and non-metals) and covalent bonding (sharing of electrons between non-metals).",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Chemistry: Chemical Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Bonding%20grade%2010%20educational",
    quiz:[
      {q:"Ionic bonds form when ___.", options:["two non-metals share electrons","a metal transfers electrons to a non-metal, forming positive and negative ions that attract each other","two metals combine","atoms share electrons equally"], answer:1},
      {q:"Covalent bonds form when ___.", options:["metals and non-metals combine","two non-metals share one or more pairs of electrons to achieve stable electron configurations","electrons are transferred","ionic compounds dissolve"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Valence electrons are important in bonding because ___.", options:["they are in the nucleus","only metals have them","they are the outermost electrons that atoms share or transfer during chemical bonding","they are irrelevant to chemical reactions"], answer:2}
    ]},
   {subject:"History", title:"Canada's War Effort: Military Contributions", summary:"Students examine Canada's major military contributions in WWII — Battle of Britain, Dieppe, Sicily, Italy, and D-Day.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's War Effort: Military Contributions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20War%20Effort%3A%20Military%20Contributions%20grade%2010%20educational",
    quiz:[
      {q:"The British Commonwealth Air Training Plan (BCATP) located in Canada was significant because ___.", options:["it trained only British pilots","Canada refused to participate","it trained nearly 140,000 air crew from Allied nations in Canada, making Canada crucial to Allied air power","it was a failure"], answer:2},
      {q:"The Dieppe Raid (August 1942) was significant because ___.", options:["it was a major Allied victory","Canada was not involved","despite being a costly failure with enormous Canadian casualties, it provided crucial lessons that improved the planning of D-Day","it ended the war in Europe"], answer:2},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Shakespeare: Studying a Play", summary:"Students read and analyse a Shakespearean play in depth, examining dramatic conventions, language, themes, and historical context. (e.g., Romeo and Juliet, Macbeth, A Midsummer Night's Dream)",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Shakespeare: Studying a Play", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Studying%20a%20Play%20grade%2010%20educational",
    quiz:[
      {q:"Tragic heroes in Shakespeare typically possess ___.", options:["no admirable qualities","only virtues with no flaws","a fundamental flaw (hamartia) that, combined with fate and circumstance, leads to their destruction despite their admirable qualities","complete knowledge of their fate"], answer:2},
      {q:"Shakespeare's language uses iambic pentameter, which ___.", options:["is a type of rhyme scheme","has 12 syllables per line","has 10 syllables per line alternating unstressed and stressed (da-DUM), creating a natural speech rhythm","is always rhymed"], answer:2},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing Shakespeare's language involves ___.", options:["only translating into modern English","ignoring the poetry","examining metaphor, imagery, verse vs. prose, wordplay, and how specific language choices reveal character and develop theme","memorising speeches"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Graphing Parabolas", summary:"Students graph parabolas using vertex form y = a(x−h)² + k, identify key features (vertex, axis of symmetry, direction of opening, x- and y-intercepts), and use transformations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratics: Graphing Parabolas", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Graphing%20Parabolas%20grade%2010%20educational",
    quiz:[
      {q:"In y = a(x − h)² + k, the vertex is ___.", options:["(h, k)","(k, h)","(−h, k)","(a, k)"], answer:0},
      {q:"If a > 0, the parabola opens ___.", options:["downward","horizontally","upward","sideways"], answer:2},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Converting from standard form (ax² + bx + c) to vertex form requires ___.", options:["factoring only","the quadratic formula","completing the square","graphing first"], answer:2}
    ]},
   {subject:"Science", title:"Chemistry: Chemical Reactions", summary:"Students classify chemical reactions (synthesis, decomposition, single displacement, double displacement, combustion) and balance equations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Chemistry: Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Reactions%20grade%2010%20educational",
    quiz:[
      {q:"A balanced chemical equation has ___.", options:["more products than reactants","the same number of atoms of each element on both sides of the equation","different total masses on each side","fewer products than reactants"], answer:1},
      {q:"In a synthesis reaction ___.", options:["one compound breaks into two products","two or more reactants combine to form one product","one element replaces another in a compound","two ionic compounds exchange ions"], answer:1},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Balance: H₂ + O₂ → H₂O. The balanced equation is ___.", options:["H₂ + O₂ → H₂O","2H₂ + O₂ → 2H₂O","H₂ + 2O₂ → H₂O","H₂ + O₂ → 2H₂O"], answer:1}
    ]},
   {subject:"History", title:"Canada's Home Front in WWII", summary:"Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's Home Front in WWII", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
    quiz:[
      {q:"The internment of Japanese Canadians during WWII involved ___.", options:["voluntary relocation for safety","about 100 people","the forced removal of approximately 22,000 Japanese Canadians from BC, confiscation of their property, and internment in camps — a serious violation of civil rights","immediate restoration of rights after the war"], answer:2},
      {q:"Women's roles changed during WWII because ___.", options:["women were prohibited from wartime work","nothing changed significantly","with men overseas, women entered the industrial workforce in large numbers, taking on roles previously closed to them","only nursing was available"], answer:2},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"English", title:"Media Studies: Advertising and Persuasion", summary:"Students critically analyse advertising texts across media, examining techniques of persuasion, target audiences, construction of identity, and representation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Media Studies: Advertising and Persuasion", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Studies%3A%20Advertising%20and%20Persuasion%20grade%2010%20educational",
    quiz:[
      {q:"Semiotics in media analysis is the study of ___.", options:["statistics about media use","only visual art","signs and symbols and how they create meaning — how images, words, sounds, and colours communicate culturally specific messages","only written language"], answer:2},
      {q:"A target audience is ___.", options:["all people everywhere","only children","the specific group of people an advertiser intends to reach, defined by demographics, interests, and values","only people who buy the product"], answer:2},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Decoding media means ___.", options:["fixing broken signals","only describing what you see","actively analysing the constructed meanings, assumptions, and ideological messages embedded in media texts — asking who made it, for what purpose, and whose interests it serves","only for professional critics"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Standard Form and Applications", summary:"Students work with quadratic functions in standard form (y = ax² + bx + c), find the vertex using x = −b/2a, and model real-world situations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratics: Standard Form and Applications", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Standard%20Form%20and%20Applications%20grade%2010%20educational",
    quiz:[
      {q:"In the standard form y = ax² + bx + c, the axis of symmetry is ___.", options:["x = c","x = a/b","x = −b/2a","x = b/2a"], answer:2},
      {q:"A ball is thrown and its height (in metres) is h = −5t² + 20t + 2. The t-value at max height = ?", options:["2 s (from t = −20/(2×−5) = 2)","4 s","10 s","1 s"], answer:0},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"The parabola y = −x² + 4x − 3 opens ___ and its vertex is at ___.", options:["upward, (2, 1)","downward, (2, 1)","downward, (−2, 1)","upward, (−2, −1)"], answer:1}
    ]},
   {subject:"Science", title:"Biology: Cell Biology Review and DNA", summary:"Students review cell structure and extend understanding to DNA structure, the genetic code, and the processes of transcription and translation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Biology: Cell Biology Review and DNA", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Cell%20Biology%20Review%20and%20DNA%20grade%2010%20educational",
    quiz:[
      {q:"DNA is a double helix composed of ___.", options:["amino acids and lipids","nucleotides — each with a sugar (deoxyribose), phosphate group, and one of four nitrogenous bases (A, T, G, C)","proteins only","lipids and carbohydrates"], answer:1},
      {q:"Complementary base pairing in DNA means ___.", options:["any base can pair with any other","Adenine pairs with Thymine (A-T) and Guanine pairs with Cytosine (G-C)","bases pair randomly","only A-T pairs exist"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"A mutation is ___.", options:["always harmful","a change in the DNA sequence, which may be neutral, beneficial, or harmful, and can be caused by errors in replication or environmental factors (mutagens)","always beneficial","only in cancer cells"], answer:1}
    ]},
   {subject:"History", title:"The Cold War: Origins and Canada's Role", summary:"Students examine the ideological conflict between the USA and USSR, Canada's participation in NATO and NORAD, and the Korean War.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: The Cold War: Origins and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=The%20Cold%20War%3A%20Origins%20and%20Canada%27s%20Role%20grade%2010%20educational",
    quiz:[
      {q:"The Cold War was primarily ___.", options:["a hot shooting war between the US and USSR","an economic partnership","a military conflict in Asia only","a political, economic, and ideological struggle between the capitalist West (led by the US) and the communist East (led by the USSR), 1945–1991"], answer:3},
      {q:"The NATO alliance, which Canada joined in 1949, committed members to ___.", options:["economic cooperation only","trade agreements","collective defence: an attack on one member is considered an attack on all","a shared currency"], answer:2},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Independent Reading: Novel Selection and Response", summary:"Students select a Canadian novel or a world novel in English translation and write analytical reading journal entries tracking theme, character, and author's craft.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Independent Reading: Novel Selection and Response", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Selection%20and%20Response%20grade%2010%20educational",
    quiz:[
      {q:"When selecting a novel for independent study, you should consider ___.", options:["only page count","only genre","whether the novel offers complexity — rich characters, thematic depth, and stylistic choices worth analysing","only how popular it is"], answer:2},
      {q:"A reading response that analyses theme goes beyond plot by ___.", options:["listing chapter summaries","counting characters","examining how specific events, characters, and images work together to develop the author's central insight about human experience","only describing the ending"], answer:2},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"An analytical journal entry differs from a summary by ___.", options:["being longer","having no plot references","asking 'why' and 'how' rather than only 'what' — examining the author's choices and their effects rather than retelling events","using more quotations"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Revenue, Profit, and Projectile Problems", summary:"Students apply quadratic models to real-world situations: projectile motion, revenue and profit maximisation, area optimisation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratics: Revenue, Profit, and Projectile Problems", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Revenue%2C%20Profit%2C%20and%20Projectile%20Problems%20grade%2010%20educational",
    quiz:[
      {q:"A projectile is launched with height h = −4.9t² + 30t + 1.5. Maximum height occurs at t = ?", options:["approximately 3.06 s (using t = −b/2a = −30/(2×−4.9))","5 s","0 s","1.5 s"], answer:0},
      {q:"Revenue = price × quantity sold. If quantity decreases as price increases according to q = 200 − 2p, then Revenue = ?", options:["200p","p(200 − 2p) = 200p − 2p² — a downward parabola","2p − 200","200 − 2p"], answer:1},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"The maximum area of the garden from the previous question is ___.", options:["400 m²","200 m²","100 m²","25 m²"], answer:2}
    ]},
   {subject:"Science", title:"Biology: Genetics and Heredity", summary:"Students apply Mendelian genetics — dominant/recessive, codominance, incomplete dominance, multiple alleles — to dihybrid crosses and inheritance patterns.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Biology: Genetics and Heredity", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Genetics%20and%20Heredity%20grade%2010%20educational",
    quiz:[
      {q:"In a dihybrid cross between two AaBb parents, the expected phenotype ratio of offspring is ___.", options:["1:2:1","1:1","3:1","9:3:3:1"], answer:3},
      {q:"Codominance means ___.", options:["one allele is dominant over another","the heterozygote shows a blend of both traits","both alleles are fully expressed simultaneously in the phenotype (e.g., AB blood type showing both A and B antigens)","one allele disappears"], answer:2},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"Genetic disorders such as cystic fibrosis are ___.", options:["always dominant","caused by environmental factors only","autosomal recessive — two copies of the recessive allele are needed for the disorder to manifest","always sex-linked"], answer:2}
    ]},
   {subject:"History", title:"The Quiet Revolution and Canadian Identity", summary:"Students examine Quebec's Quiet Revolution, bilingualism, the October Crisis, and the evolution of Canadian identity in the 1960s-70s.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: The Quiet Revolution and Canadian Identity", resourceUrl:"https://www.youtube.com/results?search_query=The%20Quiet%20Revolution%20and%20Canadian%20Identity%20grade%2010%20educational",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960-66 and beyond) involved ___.", options:["a violent uprising","no significant change to Quebec society","rapid secularisation, nationalisation of industries, modernisation of education and social services, and a strong assertion of Québécois identity under Premier Jean Lesage","Quebec separating from Canada"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only French official at the federal level","made only English official","declared English and French both official languages of Canada at the federal level, requiring government services in both languages","ended all language disputes"], answer:2},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Grammar and Style: Sophisticated Sentence Construction", summary:"Students apply advanced grammar — parallel structure, varied syntax, subordination and coordination, active vs. passive voice — to improve the quality of their analytical writing.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Grammar and Style: Sophisticated Sentence Construction", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20and%20Style%3A%20Sophisticated%20Sentence%20Construction%20grade%2010%20educational",
    quiz:[
      {q:"Active voice means ___.", options:["the verb is in present tense","the subject performs the action (e.g., 'The author develops tension')","the subject receives the action","only simple sentences"], answer:1},
      {q:"Passive voice is appropriate when ___.", options:["always","never","the actor is unknown or less important than the action, or in formal scientific writing (e.g., 'The sample was heated')","only in news writing"], answer:2},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"Wordiness in academic writing should be ___.", options:["encouraged for formal tone","eliminated — each word should earn its place; unnecessary padding weakens analytical writing","only avoided in creative writing","only a concern in short essays"], answer:2}
    ]},
   {subject:"Math", title:"Analytic Geometry: Distance, Midpoint, and Slopes", summary:"Students apply the distance formula, midpoint formula, and slope relationships to classify and verify geometric shapes.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Analytic Geometry: Distance, Midpoint, and Slopes", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Distance%2C%20Midpoint%2C%20and%20Slopes%20grade%2010%20educational",
    quiz:[
      {q:"The midpoint formula for points (x₁,y₁) and (x₂,y₂) is ___.", options:["((x₁+x₂)/2, (y₁+y₂)/2)","(x₂−x₁, y₂−y₁)","((x₁×x₂)/2, (y₁×y₂)/2)","(x₁−x₂, y₁−y₂)"], answer:0},
      {q:"Two lines are perpendicular if their slopes satisfy ___.", options:["m₁ = m₂","m₁ + m₂ = 0","m₁ × m₂ = −1","m₁ − m₂ = 1"], answer:2},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"The median of a triangle from vertex A to the midpoint M of the opposite side is ___.", options:["the altitude from A","the line from A to M (midpoint of BC)","the perpendicular bisector","the angle bisector from A"], answer:1}
    ]},
   {subject:"Science", title:"Biology: Evolution and Natural Selection", summary:"Students examine Darwin's theory of evolution by natural selection, evidence for evolution, and mechanisms of evolutionary change.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Biology: Evolution and Natural Selection", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Evolution%20and%20Natural%20Selection%20grade%2010%20educational",
    quiz:[
      {q:"Natural selection operates on ___.", options:["individual organisms's acquired traits","genetic mutations only","heritable variation — individuals with traits better suited to their environment survive and reproduce more, passing those traits to offspring","all members of a species equally"], answer:2},
      {q:"Evidence for evolution includes ___.", options:["only fossil records","only DNA comparisons","the fossil record, comparative anatomy (homologous structures), biogeography, comparative embryology, and DNA/protein similarities","only direct observation of new species forming"], answer:2},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Speciation occurs when ___.", options:["two populations exchange genes freely","populations become more similar","a population splits, the two parts become reproductively isolated, and they diverge genetically until they can no longer interbreed — forming two distinct species","only in isolated island ecosystems"], answer:2}
    ]},
   {subject:"History", title:"Canada and the United States: A Complex Relationship", summary:"Students examine the economic, military, cultural, and political dimensions of the Canada-US relationship.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada and the United States: A Complex Relationship", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20the%20United%20States%3A%20A%20Complex%20Relationship%20grade%2010%20educational",
    quiz:[
      {q:"Canada and the US share the world's largest ___.", options:["economic agreement","military alliance","land border — approximately 8,891 km — and maintain one of the world's most integrated economic relationships","cultural exchange program"], answer:2},
      {q:"NAFTA (1994), replaced by CUSMA (2020), is significant because ___.", options:["it had no economic impact","it only affects agriculture","about 70-75% of Canadian exports go to the United States — free trade has deeply integrated the two economies","it was rejected by Canada initially"], answer:2},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"English", title:"Oral Communication: Seminar and Discussion", summary:"Students participate in and lead Socratic seminars on literary and media texts. They apply skills in active listening, analytical speaking, text-based evidence, and respectful dialogue.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Oral Communication: Seminar and Discussion", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20and%20Discussion%20grade%2010%20educational",
    quiz:[
      {q:"A Socratic seminar is ___.", options:["a teacher-led lecture","a competitive debate","a student-led discussion in which participants explore ideas from a shared text through open-ended questions, building on each other's interpretations","a formal presentation with slides"], answer:2},
      {q:"An open-ended question in a seminar ___.", options:["has one correct answer","can be answered yes or no","requires reading only one passage","opens rich discussion by asking 'why,' 'how,' or 'what does this mean' — inviting multiple interpretations rather than a single correct answer"], answer:3},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"The purpose of a Socratic seminar is ___.", options:["to determine who is right","to assign grades for speaking","to reach a single agreed conclusion","to deepen everyone's understanding through collaborative inquiry — the process of thinking together is the goal"], answer:3}
    ]},
   {subject:"Math", title:"Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)", summary:"Students apply sine, cosine, and tangent ratios in right triangles to find unknown sides and angles. They solve problems in context.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Primary%20Trig%20Ratios%20%28SOH-CAH-TOA%29%20grade%2010%20educational",
    quiz:[
      {q:"SOH-CAH-TOA means ___.", options:["a method for factoring quadratics","a type of geometric proof","the definitions of the three primary trig ratios: Sin = Opposite/Hypotenuse, Cos = Adjacent/Hypotenuse, Tan = Opposite/Adjacent","only used in advanced calculus"], answer:2},
      {q:"In a right triangle with angle θ, opposite side 5, and hypotenuse 13, sin θ = ___.", options:["13/5","5/13","12/13","5/12"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"The angle of elevation of the top of a building is 35° from 50 m away. Height = ?", options:["50 × tan 35° ≈ 35.0 m","50 × sin 35° ≈ 28.7 m","50 / tan 35°","50 × cos 35°"], answer:0}
    ]},
   {subject:"Science", title:"Physics: Kinematics — Motion in One Dimension", summary:"Students analyse motion using displacement, velocity, acceleration, and time. They apply kinematics equations and interpret distance-time and velocity-time graphs.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Kinematics — Motion in One Dimension", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Kinematics%20%E2%80%94%20Motion%20in%20One%20Dimension%20grade%2010%20educational",
    quiz:[
      {q:"Displacement differs from distance because ___.", options:["they are identical","displacement is always larger","displacement is a vector quantity describing change in position (with direction), while distance is the total path length travelled (scalar)","distance is a vector quantity"], answer:2},
      {q:"Average velocity = ___.", options:["total distance / total time","displacement / time","speed only","final velocity only"], answer:1},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"A car accelerates from 0 to 30 m/s in 10 s. Acceleration = ?", options:["3 m/s²","30 m/s²","300 m/s²","0.3 m/s²"], answer:0}
    ]},
   {subject:"History", title:"The Charter of Rights and Freedoms", summary:"Students examine the Canadian Charter of Rights and Freedoms (1982), key rights it protects, important court cases, and its limitations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: The Charter of Rights and Freedoms", resourceUrl:"https://www.youtube.com/results?search_query=The%20Charter%20of%20Rights%20and%20Freedoms%20grade%2010%20educational",
    quiz:[
      {q:"The Charter of Rights and Freedoms is part of ___.", options:["the Criminal Code","the Constitution Act, 1982 — making it the supreme law of Canada that overrides any inconsistent legislation","the Civil Code of Quebec only","the BNA Act of 1867"], answer:1},
      {q:"Section 33 of the Charter, the 'notwithstanding clause,' allows ___.", options:["courts to override government decisions","individuals to exempt themselves from laws","Parliament or a provincial legislature to pass laws that override certain Charter rights for up to five years","the courts to strike down the Constitution"], answer:2},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"English", title:"Writing: The Comparative Essay", summary:"Students write a comparative literary essay analysing similarities and differences between two texts (novels, plays, poems, films) in terms of theme, technique, or character.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: The Comparative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2010%20educational",
    quiz:[
      {q:"A comparative essay thesis must ___.", options:["only list the texts being compared","only identify similarities","describe only differences","establish a meaningful analytical point about both texts — arguing what the comparison reveals about theme, technique, or human experience"], answer:3},
      {q:"Two common structures for comparative essays are ___.", options:["block only","point-by-point only","block (all of text A, then all of text B) and point-by-point (compare both texts on each criterion in sequence), each with advantages","random alternation"], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"When writing a paragraph in a comparative essay, you should ___.", options:["write a full paragraph about text A, then a full paragraph about text B each time","only analyse one text thoroughly","avoid linking the two texts in the same paragraph","aim to discuss both texts within most analytical paragraphs, building a layered comparison"], answer:3}
    ]},
   {subject:"Math", title:"Trigonometry: Angles in Standard Position", summary:"Students extend trig to angles in standard position (0°–360°), the CAST rule, and the unit circle. They find exact trig values for special angles.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Trigonometry: Angles in Standard Position", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Angles%20in%20Standard%20Position%20grade%2010%20educational",
    quiz:[
      {q:"An angle in standard position has its vertex at the origin and its initial arm ___.", options:["along the negative x-axis","along the positive y-axis","along the positive x-axis","along the negative y-axis"], answer:2},
      {q:"The CAST rule tells you which trig functions are positive in each quadrant: ___.", options:["All positive in Q1 only","Sin positive in Q1 and Q2; Cos positive in Q1 and Q4; Tan positive in Q1 and Q3","All functions negative in Q2","Only Cos is ever positive"], answer:1},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"cos 270° = ___.", options:["0","1","−1","undefined"], answer:0}
    ]},
   {subject:"Science", title:"Physics: Forces and Newton's Laws", summary:"Students apply Newton's three laws of motion to analyse forces and predict the behaviour of objects. They work with free body diagrams.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Forces and Newton's Laws", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Forces%20and%20Newton%27s%20Laws%20grade%2010%20educational",
    quiz:[
      {q:"Newton's First Law (Inertia) states ___.", options:["force equals mass times acceleration","for every action there is an equal and opposite reaction","an object at rest stays at rest and an object in motion stays in motion with constant velocity unless acted upon by a net external force","heavier objects fall faster"], answer:2},
      {q:"Newton's Second Law states ___.", options:["objects always move in circles","F = ma: net force equals mass times acceleration","for every action there is a reaction","inertia keeps objects at rest"], answer:1},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"If a 10 kg object experiences a net force of 30 N, its acceleration is ___.", options:["300 m/s²","0.33 m/s²","3 m/s²","30 m/s²"], answer:2}
    ]},
   {subject:"History", title:"Multiculturalism and Immigration in Canada", summary:"Students examine the evolution of Canadian immigration policy from exclusion to multiculturalism, and the ongoing debates about Canadian identity.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Multiculturalism and Immigration in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20and%20Immigration%20in%20Canada%20grade%2010%20educational",
    quiz:[
      {q:"Canada's pre-WWII immigration policy was ___.", options:["open and welcoming to all","consistently multicultural","explicitly racially discriminatory, favouring white British and Northern European immigrants and using mechanisms like the Chinese Head Tax, Continuous Journey Regulation, and order-in-council to exclude others","neutral and based only on economics"], answer:2},
      {q:"The Immigration Act of 1967 introduced a ___.", options:["racial preference system","points-based system that evaluated applicants on education, skills, and language ability, effectively removing explicit racial discrimination","quota system by country of origin","policy of accepting only refugees"], answer:1},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Novel Study: Examining a Contemporary Canadian Novel", summary:"Students deeply read a contemporary Canadian novel, examining how the text engages with specifically Canadian themes — landscape, identity, colonial history, immigration, or social justice.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Novel Study: Examining a Contemporary Canadian Novel", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Examining%20a%20Contemporary%20Canadian%20Novel%20grade%2010%20educational",
    quiz:[
      {q:"Canadian literature often reflects ___.", options:["only rural themes","identical concerns to American and British literature","specifically Canadian preoccupations: the vastness of the landscape, settler-colonial history, multicultural identity, and the ongoing question of what it means to be Canadian","only Quebec themes"], answer:2},
      {q:"Postcolonial literary criticism examines ___.", options:["only novels set in the past","how literature reinforces colonial power","how literary texts engage with the history and legacy of colonialism — examining power dynamics, representation of Indigenous peoples, and resistance and reclamation","only British literature"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"Reading a Canadian novel critically includes asking ___.", options:["only what happens","only who the main character is","whose perspective dominates, whose voices are absent, what assumptions about Canada are embedded in the narrative, and how the text challenges or reinforces those assumptions","only what the theme is"], answer:2}
    ]},
   {subject:"Math", title:"Trigonometry: The Sine Law", summary:"Students apply the Sine Law (a/sinA = b/sinB = c/sinC) to find unknown sides and angles in non-right triangles.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Trigonometry: The Sine Law", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Sine%20Law%20grade%2010%20educational",
    quiz:[
      {q:"The Sine Law applies to ___.", options:["only right triangles","only equilateral triangles","any triangle where you know two angles and a side (AAS or ASA) or two sides and an angle opposite one of them (SSA)","only when all three sides are known"], answer:2},
      {q:"The Sine Law states ___.", options:["a² = b² + c² − 2bc cosA","a/sinA = b/sinB = c/sinC","sinA + sinB + sinC = 1","a × sinA = b × sinB"], answer:1},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"To use the Sine Law, the angle must be ___.", options:["90° always","opposite to a known side (so that angle-side pair appears in the same ratio)","adjacent to both known sides","the largest angle"], answer:1}
    ]},
   {subject:"Science", title:"Physics: Work, Energy, and Power", summary:"Students apply the concepts of work (W = Fd cosθ), kinetic and potential energy, conservation of energy, and power (P = W/t).",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Work, Energy, and Power", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Work%2C%20Energy%2C%20and%20Power%20grade%2010%20educational",
    quiz:[
      {q:"Work is done on an object when ___.", options:["a force is applied","an object is at rest but a force is applied","a force causes displacement in the direction of the force (W = Fd cosθ)","any force is present"], answer:2},
      {q:"Kinetic energy is ___.", options:["energy stored in position","energy due to motion: KE = ½mv²","energy from chemical bonds","energy from heat"], answer:1},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Power is ___.", options:["force times distance","the total energy used","the rate at which work is done: P = W/t (measured in watts, W)","energy per unit mass"], answer:2}
    ]},
   {subject:"History", title:"Indigenous Rights and Land Claims in Canada", summary:"Students examine the historical and legal context of Indigenous land claims, treaty rights, and the Supreme Court's evolving jurisprudence.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Indigenous Rights and Land Claims in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Rights%20and%20Land%20Claims%20in%20Canada%20grade%2010%20educational",
    quiz:[
      {q:"The Royal Proclamation of 1763 is significant to Indigenous rights because ___.", options:["it removed all Indigenous land rights","it had no lasting legal significance","it explicitly recognised Indigenous peoples' right to their lands and required the Crown to negotiate treaties before settlement — its principles remain relevant in Canadian law","it only applied to Quebec"], answer:2},
      {q:"Section 35 of the Constitution Act (1982) ___.", options:["removed treaty rights","was a minor symbolic clause","recognises and affirms existing Aboriginal and treaty rights, providing constitutional protection that has enabled significant court victories for First Nations","only protects Métis rights"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Film Study: Cinematic Techniques", summary:"Students study film as a literary medium. They analyse how directors use camera work, editing, sound, mise-en-scène, and narrative structure to create meaning.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Film Study: Cinematic Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Film%20Study%3A%20Cinematic%20Techniques%20grade%2010%20educational",
    quiz:[
      {q:"Mise-en-scène refers to ___.", options:["only camera movement","only dialogue","the editing choices in a film","everything visible in the frame: set design, lighting, costumes, actor placement and movement — the visual environment of a scene"], answer:3},
      {q:"A close-up shot in film is used to ___.", options:["show the entire scene","establish location","emphasise a character's facial expression, revealing emotion or psychological state","only show objects"], answer:2},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing film as a text means ___.", options:["only describing the plot","listing all the actors","watching it for entertainment only","examining the choices the director makes and the effects they create — film is a constructed text like a novel, with meaning made through deliberate artistic decisions"], answer:3}
    ]},
   {subject:"Math", title:"Trigonometry: The Cosine Law", summary:"Students apply the Cosine Law (a² = b² + c² − 2bc cosA) to find unknown sides and angles in triangles where the Sine Law cannot be applied directly.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Trigonometry: The Cosine Law", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Cosine%20Law%20grade%2010%20educational",
    quiz:[
      {q:"The Cosine Law is used when ___.", options:["two angles and a side are known","only right triangles","you have two sides and the included angle (SAS) or all three sides and need an angle (SSS)","any triangle problem"], answer:2},
      {q:"The Cosine Law states: a² = ___.", options:["b × c × cosA","b² + c² − 2bc cosA","b + c − 2bc cosA","sinA × sinB × sinC"], answer:1},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"When would you choose the Cosine Law over the Sine Law?", options:["Always","When you have AAS or ASA","When you know SAS or SSS — cases where the Sine Law cannot be applied directly","Never"], answer:2}
    ]},
   {subject:"Science", title:"Physics: Waves and Sound", summary:"Students examine the properties of waves (transverse, longitudinal, amplitude, wavelength, frequency, speed) and sound as a longitudinal wave.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Waves and Sound", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Waves%20and%20Sound%20grade%2010%20educational",
    quiz:[
      {q:"A transverse wave has ___.", options:["particles moving parallel to wave direction","no amplitude","no frequency","particles oscillating perpendicular to the direction of wave travel (e.g., water waves, light)"], answer:3},
      {q:"A longitudinal wave has particles moving ___.", options:["perpendicular to wave direction","in circles","parallel to the direction of wave travel (e.g., sound waves)","only vertically"], answer:2},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"The Doppler effect is ___.", options:["a change in wave amplitude","a standing wave pattern","the apparent change in frequency of a wave due to relative motion between the source and observer — sound from an approaching ambulance has higher pitch than one moving away","only applies to light"], answer:2}
    ]},
   {subject:"History", title:"Canada's Environmental History", summary:"Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's Environmental History", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
    quiz:[
      {q:"Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.", options:["protect Indigenous territory","serve purely ecological goals","attract tourists and protect scenic landscapes, though the conservation mission grew over time — a complex history that included displacing Indigenous peoples from park lands","protect endangered species"], answer:2},
      {q:"The Kyoto Protocol (1997) committed Canada to ___.", options:["no specific emissions targets","only monitoring emissions","reducing greenhouse gas emissions below 1990 levels — though Canada later withdrew in 2011 without meeting its targets","only renewable energy"], answer:2},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"English", title:"Writing: The Reflective Essay", summary:"Students write a personal reflective essay on a significant literary or cultural experience. They combine analytical rigour with genuine personal voice and insight.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: The Reflective Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Reflective%20Essay%20grade%2010%20educational",
    quiz:[
      {q:"A reflective essay differs from a personal narrative because ___.", options:["reflective essays are shorter","narratives are more accurate","a reflective essay doesn't just describe an experience but critically examines what it meant and what the writer learned from it — the reflection is the point","only narratives use personal voice"], answer:2},
      {q:"Effective reflective writing moves between ___.", options:["only description","only analysis","only emotion","the specific (concrete events, quotations, images) and the general (broader insights, connections to larger ideas or universal experiences)"], answer:3},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"The best reflective essays are ___.", options:["always positive","free of any analysis","written about trivial events only","honest, specific, and intellectually curious — they take a risk by exploring genuine complexity rather than offering safe, expected conclusions"], answer:3}
    ]},
   {subject:"Math", title:"Financial Literacy: Earning, Saving, and Investing", summary:"Students examine income types, taxes, budgeting, compound interest, and basic investing principles relevant to their near future.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Financial Literacy: Earning, Saving, and Investing", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Earning%2C%20Saving%2C%20and%20Investing%20grade%2010%20educational",
    quiz:[
      {q:"Canada's progressive income tax system means ___.", options:["everyone pays the same rate","lower incomes pay more","higher income earners pay a higher marginal tax rate on income above each bracket threshold","taxes are optional"], answer:2},
      {q:"A TFSA (Tax-Free Savings Account) ___.", options:["has no contribution limit","removes all income tax on your salary","allows Canadians to contribute up to an annual limit and earn investment income tax-free inside the account","is only for retirement"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"The Rule of 72 estimates ___.", options:["how long to pay off debt at any rate","how many years to accumulate $1000","your retirement age","how many years it takes to double an investment: 72 ÷ annual interest rate ≈ years to double"], answer:3}
    ]},
   {subject:"Science", title:"Physics: Light — Reflection, Refraction, Optics", summary:"Students study the behaviour of light: law of reflection, refraction (Snell's Law), total internal reflection, and optical instruments.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Light — Reflection, Refraction, Optics", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Light%20%E2%80%94%20Reflection%2C%20Refraction%2C%20Optics%20grade%2010%20educational",
    quiz:[
      {q:"Snell's Law (n₁sinθ₁ = n₂sinθ₂) describes ___.", options:["the reflection of light","the absorption of light","how light bends when passing from one medium to another — the angle of refraction depends on the ratio of the refractive indices","only applies to lenses"], answer:2},
      {q:"Total internal reflection occurs when ___.", options:["light enters a denser medium","light hits a mirror","light travels from a denser to a less dense medium at an angle greater than the critical angle — it reflects completely rather than refracting","light hits a coloured surface"], answer:2},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"The index of refraction (n) of a medium is ___.", options:["the speed of light in that medium","the wavelength of light in that medium","c/v — the ratio of the speed of light in a vacuum to the speed of light in the medium (always ≥ 1)","the colour of light in that medium"], answer:2}
    ]},
   {subject:"History", title:"Charter Rights: Case Studies", summary:"Students examine landmark Supreme Court of Canada cases under the Charter, analysing the legal reasoning and social implications.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Charter Rights: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Charter%20Rights%3A%20Case%20Studies%20grade%2010%20educational",
    quiz:[
      {q:"R v Oakes (1986) established ___.", options:["that the Charter has no limits","the Oakes Test — a two-part framework for determining whether a law that limits a Charter right can be justified under Section 1","that all laws are constitutional","that Section 33 is never valid"], answer:1},
      {q:"Singh v Minister of Employment and Immigration (1985) established ___.", options:["only citizens have Charter rights","refugee claimants have no rights in Canada","that Convention refugees have Charter rights, including the right to an oral hearing before being denied protection — a landmark case for refugee rights in Canada","only landed immigrants have Charter rights"], answer:2},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Literature: Poetry — Voice, Identity, and Social Justice", summary:"Students read and analyse contemporary poetry by Canadian poets, particularly from Indigenous, Black Canadian, and immigrant voices, examining how poetry enacts identity and challenges injustice.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Literature: Poetry — Voice, Identity, and Social Justice", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Poetry%20%E2%80%94%20Voice%2C%20Identity%2C%20and%20Social%20Justice%20grade%2010%20educational",
    quiz:[
      {q:"Contemporary Canadian poetry by marginalised voices ___.", options:["is identical to traditional British poetry","has no political dimension","often challenges dominant narratives, reclaims cultural identity, uses code-switching between languages, and speaks truth about lived experiences of colonialism, racism, and displacement","is only about nature"], answer:2},
      {q:"Code-switching in poetry refers to ___.", options:["only a technical error","a poetic device unrelated to identity","switching between computer codes in a poem","alternating between two or more languages or registers within a single poem, often reflecting the speaker's multiple cultural identities"], answer:3},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"The intersection of identity and poetry means ___.", options:["poets should not write about their identity","only confessional poetry has value","all poetry is political","a poet's race, gender, sexuality, class, and cultural background shape what they write about, how they write, and what literary conventions they accept, reject, or subvert"], answer:3}
    ]},
   {subject:"Math", title:"Review: Quadratics, Trigonometry, and Analytic Geometry", summary:"Students consolidate Grade 10 math topics.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Review: Quadratics, Trigonometry, and Analytic Geometry", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
    quiz:[
      {q:"Solve by the quadratic formula: x² − 4x − 5 = 0", options:["x = 5 and x = −1","x = −5 and x = 1","x = 4 and x = −5","x = 4 and x = 1"], answer:0},
      {q:"In a triangle with A = 40°, B = 75°, a = 12, find b using the Sine Law.", options:["b = 12 sin75° / sin40° ≈ 18.0","b = 12 sin40° / sin75°","b = sin75° / sin40°","b = 12 / sin75°"], answer:0},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"The distance between (−1, 2) and (3, −1) is ___.", options:["5","7","√7","3"], answer:0}
    ]},
   {subject:"Science", title:"Physics: Electromagnetism Basics", summary:"Students explore electric fields, electric potential, magnetic fields, and how they interact — culminating in understanding electromagnetic induction.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Electromagnetism Basics", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetism%20Basics%20grade%2010%20educational",
    quiz:[
      {q:"Electric field lines show ___.", options:["the path a positive test charge would take if released in the field","the direction of electron flow only","the location of neutral particles","magnetic force only"], answer:0},
      {q:"A magnetic field is created by ___.", options:["stationary electric charges","temperature differences","light waves","moving electric charges (current-carrying conductors) and permanent magnets"], answer:3},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"An electric generator converts ___.", options:["electrical energy to heat","electrical energy to mechanical energy","light to electricity","mechanical energy (e.g., from a turbine) to electrical energy through electromagnetic induction"], answer:3}
    ]},
   {subject:"History", title:"Contemporary Canadian Issues: Technology and Society", summary:"Students examine how digital technology and social media have transformed Canadian society, politics, and economy.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Contemporary Canadian Issues: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canadian%20Issues%3A%20Technology%20and%20Society%20grade%2010%20educational",
    quiz:[
      {q:"The digital economy has changed Canadian employment by ___.", options:["having no significant effect","only reducing jobs","creating entirely new sectors (tech companies, the gig economy, platform work) while automating or displacing some traditional jobs — raising questions about the future of work and worker protections","only benefiting urban workers"], answer:2},
      {q:"Social media platforms in Canada raise concerns about ___.", options:["only privacy issues","only political advertising","no significant concerns","privacy, disinformation, mental health impacts (especially on youth), algorithmic content curation, and foreign interference in democratic processes"], answer:3},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Writing: The Research Essay — Advanced Skills", summary:"Students research and write a multi-source academic essay on a literary, historical, or social topic, applying MLA or APA citation, synthesis, and academic argument.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: The Research Essay — Advanced Skills", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Research%20Essay%20%E2%80%94%20Advanced%20Skills%20grade%2010%20educational",
    quiz:[
      {q:"An annotated bibliography includes ___.", options:["only titles and authors","only the URL","a full citation plus a brief critical summary of each source — evaluating its relevance, credibility, and contribution to your research","only books, not websites"], answer:2},
      {q:"Synthesising multiple sources means ___.", options:["only summarising each source separately","summarising sources in alphabetical order","weaving ideas from multiple sources together to build a complex argument — connecting, comparing, and contrasting perspectives rather than simply reporting them one by one","only using the most recent sources"], answer:2},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Academic writing avoids ___.", options:["first-person entirely always","logical argument","evidence","vague generalisations, unsupported claims, colloquialisms, and hedging that avoids taking a clear position"], answer:3}
    ]},
   {subject:"Math", title:"Geometry: Circle and Line Relationships", summary:"Students explore the geometry of circles — tangent lines, chords, secants — and prove circle theorems using congruence and angle relationships.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Geometry: Circle and Line Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20and%20Line%20Relationships%20grade%2010%20educational",
    quiz:[
      {q:"A tangent to a circle ___.", options:["passes through the centre","intersects the circle at two points","is perpendicular to the radius at the point of tangency","is parallel to any chord"], answer:2},
      {q:"An inscribed angle in a circle is ___.", options:["a central angle","an angle between two tangents","an angle formed by two chords that meet at a point on the circle, and equals half the central angle that subtends the same arc","an angle outside the circle"], answer:2},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"The angle in a semicircle (inscribed angle subtending a diameter) is always ___.", options:["45°","60°","180°","90°"], answer:3}
    ]},
   {subject:"Science", title:"Physics and Chemistry: Nuclear Science", summary:"Students explore nuclear structure, radioactive decay (alpha, beta, gamma), half-life, nuclear fission and fusion, and their applications and risks.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics and Chemistry: Nuclear Science", resourceUrl:"https://www.youtube.com/results?search_query=Physics%20and%20Chemistry%3A%20Nuclear%20Science%20grade%2010%20educational",
    quiz:[
      {q:"Radioactive decay occurs when ___.", options:["any atom is heated","only man-made isotopes break down","an unstable nucleus releases energy/particles to reach a more stable configuration, changing its atomic number or mass number","electrons are removed from atoms"], answer:2},
      {q:"Alpha radiation is ___.", options:["a high-energy photon","a fast electron","a helium nucleus (2 protons + 2 neutrons) — most massive and least penetrating (stopped by paper or skin)","a neutron"], answer:2},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Nuclear fission differs from fusion in that ___.", options:["fission joins nuclei; fusion splits them","only fusion produces energy","fission splits heavy nuclei (releasing energy), while fusion joins light nuclei (also releasing energy but requiring enormous temperatures and pressure — the process powering the sun)","both are identical processes"], answer:2}
    ]},
   {subject:"History", title:"Global Citizenship and Human Rights", summary:"Students examine international human rights frameworks (UDHR, ICC), Canada's role, and the responsibilities of individuals and states in a globalised world.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Global Citizenship and Human Rights", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Citizenship%20and%20Human%20Rights%20grade%2010%20educational",
    quiz:[
      {q:"The Universal Declaration of Human Rights (1948) ___.", options:["only applies to UN member states","was drafted without Canadian involvement","is legally binding on all nations","was proclaimed by the UN General Assembly as a foundational statement of universal human rights — though it is not legally binding on its own, it has inspired binding human rights treaties"], answer:2},
      {q:"The International Criminal Court (ICC) ___.", options:["is the same as the International Court of Justice","has no jurisdiction over heads of state","was established in 2002 to try individuals for genocide, war crimes, and crimes against humanity where national courts are unable or unwilling to do so","only tries non-state actors"], answer:2},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Oral and Media: Podcasting and Digital Storytelling", summary:"Students plan and create a short digital story or podcast episode, applying media production principles, research, and narrative skills.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Oral and Media: Podcasting and Digital Storytelling", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20and%20Media%3A%20Podcasting%20and%20Digital%20Storytelling%20grade%2010%20educational",
    quiz:[
      {q:"A podcast script differs from a written essay because ___.", options:["it requires no research","it uses casual language only","it never uses evidence","it is designed to be heard — it uses conversational language, shorter sentences, audio cues, and engaging pacing, while still requiring solid research and clear structure"], answer:3},
      {q:"Digital storytelling combines ___.", options:["only text","only images","only audio","narrative, images, video, music, and/or sound effects to tell a story or explain a topic in a multi-modal format accessible to modern audiences"], answer:3},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Audience awareness in digital storytelling means ___.", options:["ignoring who will see your work","only making content for your teacher","making content as long as possible","constantly making decisions about content, tone, language, and format based on who you are trying to reach and what you want them to take away"], answer:3}
    ]},
   {subject:"Math", title:"Linear and Quadratic Systems", summary:"Students find the intersection of a linear equation and a quadratic (parabola), solving graphically and algebraically.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Linear and Quadratic Systems", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20and%20Quadratic%20Systems%20grade%2010%20educational",
    quiz:[
      {q:"To find where y = x + 3 meets y = x², you set them equal and solve ___.", options:["y = y","x + 3 = x², then x² − x − 3 = 0","x = x²","y = 0"], answer:1},
      {q:"The number of intersections of a line and a parabola can be ___.", options:["only 1","only 2","always 0","0, 1, or 2, depending on the discriminant of the resulting quadratic equation"], answer:3},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"Graphically, the solution(s) to a linear-quadratic system are ___.", options:["the x-intercepts of the parabola","the y-intercepts of both graphs","the point(s) where the line and parabola cross","the vertex of the parabola"], answer:2}
    ]},
   {subject:"Science", title:"Science Review: Connecting Chemistry, Biology, Physics", summary:"Students connect the three Grade 10 science strands and their real-world applications.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science Review: Connecting Chemistry, Biology, Physics", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Connecting%20Chemistry%2C%20Biology%2C%20Physics%20grade%2010%20educational",
    quiz:[
      {q:"Biochemistry connects chemistry and biology through ___.", options:["only DNA","only enzymes","the study of chemical reactions in living things — photosynthesis (chemistry of carbon fixation), cellular respiration (oxidation of glucose), and protein synthesis (chemistry of the genetic code)","only cell division"], answer:2},
      {q:"Biophysics connects biology and physics through ___.", options:["only anatomy","only genetics","the application of physical principles to biological systems — fluid dynamics in blood flow, optics in vision, electricity in nerve impulses, and mechanics in muscle and bone","only ecology"], answer:2},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"The synthesis of penicillin from a biological source (Penicillium mold) into a pharmaceutical involves ___.", options:["only biology","only physics","a combination of biology (identifying the natural compound), chemistry (purifying and synthesising it), and physics (understanding its mechanism of action)","only chemistry"], answer:2}
    ]},
   {subject:"History", title:"Year-End Review: Canadian History and Civics", summary:"Students synthesise learning across Grade 10 history, connecting historical developments to contemporary Canadian issues.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Year-End Review: Canadian History and Civics", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Review%3A%20Canadian%20History%20and%20Civics%20grade%2010%20educational",
    quiz:[
      {q:"Which concept best connects Canada's experience in WWI and WWII to Canada's contemporary foreign policy?", options:["Isolationism","Military dominance","Colonial dependence","Canada as a 'middle power' — committed to multilateralism, collective security, and peacekeeping rather than unilateral military action"], answer:3},
      {q:"The connection between the Quiet Revolution, the Official Languages Act, and the Quebec referendums is ___.", options:["no meaningful connection","the growth of English dominance","the ongoing tension between Quebec's desire for self-determination and the federal vision of a bilingual, multicultural Canada","only economic issues"], answer:2},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"Writing: Exam Preparation — Timed Literary Response", summary:"Students practise timed literary analysis, applying strategies for close reading under time pressure, efficient evidence selection, and focused analytical argumentation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: Exam Preparation — Timed Literary Response", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Exam%20Preparation%20%E2%80%94%20Timed%20Literary%20Response%20grade%2010%20educational",
    quiz:[
      {q:"For a timed literary essay (45-60 min), the best planning approach is ___.", options:["writing without planning","planning for 20+ minutes before writing","spending 5-7 minutes forming a clear thesis, selecting 2-3 pieces of evidence, and making a quick outline, then writing efficiently","only writing a conclusion first"], answer:1},
      {q:"Under time pressure, you should prioritise ___.", options:["perfect spelling throughout","covering every detail in the text","a clear argument with well-selected evidence over quantity of points — depth beats breadth in a time-limited analytical response","the longest quotations possible"], answer:2},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"After writing a timed essay, use any remaining time to ___.", options:["rewrite the entire introduction","add random quotations","add as many new points as possible","check that your thesis is clear, your evidence is relevant, and your analysis actually explains the connection between evidence and argument"], answer:3}
    ]},
   {subject:"Math", title:"Review: Grade 10 Math Comprehensive", summary:"Students review all major Grade 10 mathematics topics.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Review: Grade 10 Math Comprehensive", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grade%2010%20Math%20Comprehensive%20grade%2010%20educational",
    quiz:[
      {q:"Solve the system: 2x + 3y = 12 and x − y = 1", options:["x = 3, y = 2","x = 2, y = 3","x = 4, y = 3","x = 5, y = 1"], answer:0},
      {q:"Factor: x² − 9", options:["(x − 3)²","(x + 9)(x − 1)","(x − 3)(x + 3)","(x + 9)(x − 9)"], answer:2},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Two tangents from external point P to a circle each have length 10 cm. The angle between them is 60°. This is a ___ problem.", options:["trigonometry and circle geometry","pure algebra","systems of equations","only requiring the Pythagorean theorem"], answer:0}
    ]},
   {subject:"Science", title:"Science: Sustainability and Future Technologies", summary:"Students examine sustainable technologies — renewable energy, green chemistry, biotechnology — and their role in addressing 21st century challenges.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Sustainability and Future Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Sustainability%20and%20Future%20Technologies%20grade%2010%20educational",
    quiz:[
      {q:"Green chemistry principles aim to ___.", options:["increase chemical production","maximise energy consumption","design chemical products and processes that reduce or eliminate hazardous substances — making chemistry more environmentally sustainable from the start","only apply to pharmaceuticals"], answer:2},
      {q:"Solar cells (photovoltaics) convert ___.", options:["heat to electricity","chemical energy to electricity","nuclear energy to electricity","light (photons) directly to electrical energy using semiconductor materials"], answer:3},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"The sustainable development concept of 'meeting the needs of the present without compromising the ability of future generations to meet their own needs' was defined in ___.", options:["the Paris Agreement","the Kyoto Protocol","only recently","the 1987 Brundtland Report — and remains the foundational definition of sustainability"], answer:3}
    ]},
   {subject:"History", title:"Citizenship: Civic Participation and Democratic Engagement", summary:"Students examine forms of civic engagement, the responsibilities of citizenship, and how they can participate meaningfully in Canadian democracy now.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Citizenship: Civic Participation and Democratic Engagement", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%3A%20Civic%20Participation%20and%20Democratic%20Engagement%20grade%2010%20educational",
    quiz:[
      {q:"Voting is ___.", options:["the only form of civic engagement","the most effective form of advocacy","not important for young people","a fundamental right and responsibility in democracy — but just one of many forms of civic participation"], answer:3},
      {q:"Active citizenship includes ___.", options:["only voting","only serving in government","boycotting elections","staying informed, engaging with community issues, contacting elected representatives, participating in public consultations, joining community organisations, and advocating for change"], answer:3},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Reading: Short Fiction and the Short Story Form", summary:"Students analyse the distinctive features of the short story — economy of language, compressed plot, a single dominant effect — through close reading of examples.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Reading: Short Fiction and the Short Story Form", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Short%20Fiction%20and%20the%20Short%20Story%20Form%20grade%2010%20educational",
    quiz:[
      {q:"The 'single effect' principle (Poe) in short fiction means ___.", options:["stories must have only one character","stories should produce one dominant emotional or intellectual effect in the reader, to which every element contributes","stories must end happily","only one literary device is used"], answer:1},
      {q:"Economy in short fiction means ___.", options:["stories must be under 1000 words","every word must count — short stories cannot afford excess, so each detail, word, and image must do multiple jobs simultaneously","using only simple vocabulary","avoiding all description"], answer:1},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing setting in a short story involves ___.", options:["only noting the location","ignoring setting for plot","examining how place and time create mood, reflect character psychology, and create symbolic meaning that extends beyond the physical","only noting the weather"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Completing the Square", summary:"Students convert quadratic equations from standard to vertex form by completing the square, then use vertex form for graphing and solving.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratics: Completing the Square", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Completing%20the%20Square%20grade%2010%20educational",
    quiz:[
      {q:"Completing the square transforms ax² + bx + c into ___.", options:["factored form","slope-intercept form","vertex form a(x − h)² + k, revealing the vertex directly","scientific notation"], answer:2},
      {q:"To complete the square for x² + 6x, you add and subtract ___.", options:["9 (half of 6, squared: (6/2)² = 9)","6","3","36"], answer:0},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"Why is vertex form useful?", options:["It is never useful","Only for graphing horizontal lines","It directly reveals the vertex (h, k) and direction of opening, making graphing and optimisation problems much easier","It eliminates all other methods"], answer:2}
    ]},
   {subject:"Science", title:"Chemistry: Acids, Bases, and pH", summary:"Students examine Arrhenius acid/base definitions, the pH scale, neutralisation reactions, and indicators.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Chemistry: Acids, Bases, and pH", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Acids%2C%20Bases%2C%20and%20pH%20grade%2010%20educational",
    quiz:[
      {q:"An Arrhenius acid ___.", options:["accepts a proton","produces hydroxide ions in solution","produces hydrogen ions (H⁺) when dissolved in water","is always corrosive"], answer:2},
      {q:"An Arrhenius base ___.", options:["donates a proton","produces hydrogen ions","produces hydroxide ions (OH⁻) when dissolved in water","is always a liquid"], answer:2},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Universal indicator or pH paper measures ___.", options:["temperature","concentration of the solution","the approximate pH of a solution by changing colour","only strong acids and bases"], answer:2}
    ]},
   {subject:"History", title:"Post-War Canada: Social Change 1945-1970", summary:"Students examine the baby boom, suburbanisation, the welfare state, women's liberation, and shifting Canadian values in the post-WWII decades.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Post-War Canada: Social Change 1945-1970", resourceUrl:"https://www.youtube.com/results?search_query=Post-War%20Canada%3A%20Social%20Change%201945-1970%20grade%2010%20educational",
    quiz:[
      {q:"Canada's post-WWII welfare state included ___.", options:["only pensions","no new social programs","the creation of unemployment insurance (1940), family allowances (1944), hospital insurance (1957), Medicare (1966), and the Canada Pension Plan (1965)","only healthcare"], answer:2},
      {q:"The women's liberation movement in Canada in the 1960s-70s fought for ___.", options:["only voting rights (already won)","no significant changes","equal pay, reproductive rights, equal access to education and careers, and an end to legal and social discrimination","only workplace safety"], answer:2},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"English", title:"Writing: Voice and Style in Creative Non-Fiction", summary:"Students examine and practise creative non-fiction (personal essay, literary journalism) — writing that uses narrative and literary techniques to engage with real events and ideas.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: Voice and Style in Creative Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Voice%20and%20Style%20in%20Creative%20Non-Fiction%20grade%2010%20educational",
    quiz:[
      {q:"Creative non-fiction differs from journalism because ___.", options:["it invents facts","it ignores truth","it is shorter","while factually accurate, it uses literary techniques — scene-setting, character, metaphor, dialogue, and personal voice — to make real events and ideas as compelling as fiction"], answer:3},
      {q:"The personal essay is ___.", options:["a formal academic essay in first person","only for personal stories with no ideas","always about childhood memories","a literary form that uses personal experience as a lens to explore larger intellectual, social, or philosophical questions"], answer:3},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"The ethical obligation in creative non-fiction is ___.", options:["to entertain at all costs","to be as emotional as possible","to avoid research","to represent facts, people, and events truthfully — even when using literary techniques, you cannot invent or fabricate"], answer:3}
    ]},
   {subject:"Math", title:"Analytic Geometry: Circles and Equations", summary:"Students write and analyse equations of circles in the form (x−h)² + (y−k)² = r², identify centre and radius, and find intersections with lines.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Analytic Geometry: Circles and Equations", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Circles%20and%20Equations%20grade%2010%20educational",
    quiz:[
      {q:"The equation (x − 3)² + (y + 2)² = 25 represents a circle with centre ___ and radius ___.", options:["(3, −2) and 5","(−3, 2) and 5","(3, 2) and 25","(−3, −2) and 5"], answer:0},
      {q:"A circle centred at the origin with radius 7 has equation ___.", options:["x + y = 7","x² + y² = 49","x² + y² = 7","(x+7)² + (y+7)² = 0"], answer:1},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"The radius of a circle with centre (1, 2) passing through (4, 6) is ___.", options:["5 (distance from (1,2) to (4,6) = √9+16 = 5)","7","√7","3"], answer:0}
    ]},
   {subject:"Science", title:"Biology: Ecosystems and Human Impact", summary:"Students examine ecosystem dynamics, human impacts on biodiversity, and conservation approaches including stewardship and sustainable development.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Biology: Ecosystems and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Ecosystems%20and%20Human%20Impact%20grade%2010%20educational",
    quiz:[
      {q:"A trophic cascade occurs when ___.", options:["the sun provides less energy","rainfall increases","a change in one trophic level (typically through predator loss or addition) causes large changes in population sizes at other levels","only in marine ecosystems"], answer:2},
      {q:"Eutrophication of lakes is caused by ___.", options:["acid rain only","oil spills","excess nutrients (often nitrogen and phosphorus from agricultural runoff) causing algal blooms, oxygen depletion, and ecosystem collapse","only industrial pollution"], answer:2},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"An ecosystem service is ___.", options:["a government program","only about food production","a service provided only by coral reefs","a benefit that humans receive from functioning ecosystems: clean water, air purification, pollination, climate regulation, flood control"], answer:3}
    ]},
   {subject:"History", title:"Canada and International Relations: 1970-2000", summary:"Students examine Canada's foreign policy — peacekeeping, the G7, NAFTA, and humanitarian commitments — in the late 20th century.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada and International Relations: 1970-2000", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20International%20Relations%3A%201970-2000%20grade%2010%20educational",
    quiz:[
      {q:"Canada's peacekeeping role, established by Lester Pearson's Suez Crisis proposal (1956), meant ___.", options:["Canada sending troops to fight in all wars","Canada staying neutral in all conflicts","Canada contributing military personnel to UN peacekeeping operations to separate warring parties and maintain ceasefires — earning an international reputation for peace","Canada avoiding all international commitments"], answer:2},
      {q:"NAFTA (North American Free Trade Agreement, 1994) ___.", options:["only applied to Mexico and the US","was rejected by Canada","eliminated most tariffs on goods traded between Canada, the US, and Mexico, deeply integrating the three economies","had no impact on Canadian employment"], answer:2},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Media Literacy: News Literacy and Misinformation", summary:"Students develop skills for critically evaluating news sources, identifying misinformation, and understanding how false information spreads.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Media Literacy: News Literacy and Misinformation", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20News%20Literacy%20and%20Misinformation%20grade%2010%20educational",
    quiz:[
      {q:"Misinformation differs from disinformation in that ___.", options:["they are identical","misinformation is always worse","misinformation is false information spread without intent to deceive, while disinformation is deliberately false or misleading information spread to deceive","disinformation is accidental"], answer:2},
      {q:"A 'deepfake' is ___.", options:["a credible news source","a type of documentary","a satire article","AI-generated video or audio that realistically depicts someone saying or doing something they never did — a growing tool for disinformation"], answer:3},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Lateral reading for fact-checking means ___.", options:["reading a page very carefully from top to bottom","relying on the website's 'about' page","never reading news online","opening multiple new tabs to look for what other credible sources say about this source or claim, rather than judging the source only from the source itself"], answer:3}
    ]},
   {subject:"Math", title:"Functions: Introduction to Polynomial Functions", summary:"Students are introduced to polynomial functions — degree, end behaviour, zeros, and graphical features — as a bridge from Grade 10 quadratics to Grade 11 functions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Functions: Introduction to Polynomial Functions", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Introduction%20to%20Polynomial%20Functions%20grade%2010%20educational",
    quiz:[
      {q:"A polynomial function of degree n has ___.", options:["only n terms","exactly n roots always","a graph that crosses the x-axis n times always","at most n real zeros (x-intercepts), and its end behaviour is determined by the leading term"], answer:3},
      {q:"The end behaviour of a polynomial is determined by ___.", options:["all terms equally","the constant term","the leading term (the term with the highest degree and its coefficient)","the number of terms"], answer:2},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"A polynomial function y = (x − 2)(x + 1)(x − 4) has x-intercepts at ___.", options:["x = 2, 1, 4","x = −2, 1, −4","x = 2, −1, 4","x = 0, 2, −1, 4"], answer:2}
    ]},
   {subject:"Science", title:"Physics: Nuclear Energy and Radiation Safety", summary:"Students examine nuclear fission reactors, CANDU reactor technology, radioactive waste management, and radiation safety.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Nuclear Energy and Radiation Safety", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Nuclear%20Energy%20and%20Radiation%20Safety%20grade%2010%20educational",
    quiz:[
      {q:"The CANDU (CANada Deuterium Uranium) reactor is notable because ___.", options:["it uses enriched uranium","it was built in the US","it produces no radiation","it uses natural (unenriched) uranium as fuel and heavy water (D₂O) as a moderator — a uniquely Canadian nuclear technology"], answer:3},
      {q:"A nuclear reactor moderator ___.", options:["splits uranium atoms","provides the reaction's fuel","transfers heat to a generator","slows neutrons to the speed needed to sustain a fission chain reaction — in CANDU, heavy water is the moderator"], answer:3},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"A significant advantage of nuclear power over fossil fuels is ___.", options:["no waste produced","no safety concerns","it produces no air pollution and very low greenhouse gas emissions during operation, providing large amounts of reliable baseload electricity","it uses renewable fuel"], answer:2}
    ]},
   {subject:"History", title:"Social Movements: Civil Rights and Equality in Canada", summary:"Students examine the civil rights struggles of Black Canadians, the women's movement, LGBTQ+ rights, and disability rights in the 20th-21st century.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Social Movements: Civil Rights and Equality in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%3A%20Civil%20Rights%20and%20Equality%20in%20Canada%20grade%2010%20educational",
    quiz:[
      {q:"The Viola Desmond case (1946) is significant because ___.", options:["it involved a legal dispute about property","it was about voting rights","she successfully argued her case","a Black Nova Scotian woman was arrested for refusing to leave a whites-only section of a movie theatre — her case became a landmark in the civil rights history of Black Canadians"], answer:3},
      {q:"The Nova Scotia Human Rights Act (1963) and the Canadian Human Rights Act (1977) were ___.", options:["purely symbolic","unenforceable","legislation that prohibited discrimination in public life on grounds of race, religion, sex, and other grounds, providing legal tools to fight discrimination","only about employment"], answer:2},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"English", title:"Shakespeare: A Midsummer Night's Dream or Julius Caesar", summary:"Students study a second Shakespeare play, analysing dramatic structure, language, and themes with greater independence and sophistication than in Grade 9.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Shakespeare: A Midsummer Night's Dream or Julius Caesar", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20A%20Midsummer%20Night%27s%20Dream%20or%20Julius%20Caesar%20grade%2010%20educational",
    quiz:[
      {q:"In Shakespeare's comedies, the central disruption is ___.", options:["a tragic death","a political crisis","a major war","a social or romantic disorder that is resolved by the play's end — usually through marriage or reconciliation"], answer:3},
      {q:"In Julius Caesar, Brutus's fatal flaw is arguably ___.", options:["cowardice","greed","ambition","an idealism that blinds him to political realities and allows him to be manipulated by Cassius"], answer:3},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Studying Shakespeare with greater independence means ___.", options:["only reading sparknotes","the teacher explains everything","making your own interpretive choices — selecting which scenes to focus on, forming your own thematic arguments, and supporting them with textual evidence","avoiding personal interpretation"], answer:2}
    ]},
   {subject:"Math", title:"Review: Functions, Geometry, and Systems", summary:"Students consolidate Grade 10 mathematics — quadratics, trigonometry, analytic geometry, linear systems, and an introduction to polynomial functions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Review: Functions, Geometry, and Systems", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Functions%2C%20Geometry%2C%20and%20Systems%20grade%2010%20educational",
    quiz:[
      {q:"The parabola y = −3(x + 2)² + 7 has vertex ___ and opens ___.", options:["(2, 7) downward","(−2, 7) downward","(−2, 7) upward","(2, −7) upward"], answer:1},
      {q:"Find the angle in a triangle where cos A = (9 + 25 − 16)/(2 × 3 × 5) = 18/30.", options:["A ≈ 53°","A = 90°","A ≈ 37°","A = 60°"], answer:0},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"A polynomial y = x(x − 3)(x + 2) has zeros at ___.", options:["x = 0, 3, −2","x = 0, −3, 2","x = 1, 3, −2","x = 3 and x = −2 only"], answer:0}
    ]},
   {subject:"Science", title:"Science: Energy Systems and Sustainability", summary:"Students examine Ontario's energy mix, the transition to renewable energy, and the science behind solar, wind, hydro, and nuclear power.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Energy Systems and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Energy%20Systems%20and%20Sustainability%20grade%2010%20educational",
    quiz:[
      {q:"Ontario's electricity mix includes ___.", options:["mostly coal","only nuclear","mostly imported US electricity","a combination of nuclear (~60%), hydro (~24%), wind and solar (~9%), and gas — making it one of the lowest-carbon grids in the world"], answer:3},
      {q:"Solar photovoltaic (PV) cells convert ___.", options:["heat directly to electricity","chemical energy to electricity","wind energy to electricity","light (photons) to electricity via the photovoltaic effect in semiconductor materials"], answer:3},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"A major challenge of renewable energy transition is ___.", options:["renewables produce too much electricity","nuclear is already renewable","fossil fuels will run out soon","intermittency — solar produces no electricity at night, and wind is variable — requiring energy storage solutions like batteries or pumped hydro"], answer:3}
    ]},
   {subject:"History", title:"Canada's Constitution and Federalism", summary:"Students examine the Canadian Constitution — the division of powers, federalism, constitutional amendments, and ongoing debates about the constitutional order.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's Constitution and Federalism", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Constitution%20and%20Federalism%20grade%2010%20educational",
    quiz:[
      {q:"The division of powers in the Constitution Act (1867) allocates ___.", options:["all power to provinces","all power to the federal government","certain powers exclusively to the federal government (e.g., defence, criminal law), others to provinces (e.g., education, health care), and some to both (concurrent)","powers only based on tradition"], answer:2},
      {q:"Section 91 lists federal powers, which include ___.", options:["education and hospitals","property and civil rights","criminal law, banking, currency, navigation, and trade — matters of national concern","only defence and foreign affairs"], answer:2},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Independent Novel Study: Final Essay", summary:"Students write a full independent analytical essay on their novel, demonstrating the full range of Grade 10 literary analysis skills.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Independent Novel Study: Final Essay", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Final%20Essay%20grade%2010%20educational",
    quiz:[
      {q:"The most important quality of a Grade 10 analytical essay is ___.", options:["length","number of quotations","correct spelling","a clear, arguable thesis supported by well-chosen evidence and analytical reasoning that connects evidence to argument"], answer:3},
      {q:"Literary analysis differs from plot summary in that ___.", options:["plot summary is more valuable","they are identical","literary analysis requires less detail","literary analysis asks 'how' and 'why' — examining the author's choices and their effects — while plot summary only describes 'what happens'"], answer:3},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Receiving and using feedback means ___.", options:["accepting all suggestions uncritically","rejecting all external input","writing without revision","reading feedback carefully, asking what specific concerns underlie the comments, and making deliberate choices about what to change and why"], answer:3}
    ]},
   {subject:"Math", title:"Introduction to Functions: Domain, Range, Notation", summary:"Students are introduced to functions formally — function notation f(x), domain, range, mapping diagrams, and identifying functions vs. relations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Introduction to Functions: Domain, Range, Notation", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Functions%3A%20Domain%2C%20Range%2C%20Notation%20grade%2010%20educational",
    quiz:[
      {q:"A function is a relation in which ___.", options:["every y-value maps to one x-value","every x-value maps to exactly one y-value","all x and y values are positive","every ordered pair is (x, x)"], answer:1},
      {q:"The domain of a function is ___.", options:["the set of all output values","the graph of the function","the set of all possible input values (x-values)","the rule of the function"], answer:2},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"The vertical line test determines ___.", options:["the domain","the range","the y-intercept","whether a graph represents a function — if any vertical line intersects the graph more than once, it is not a function"], answer:3}
    ]},
   {subject:"Science", title:"Chemistry: Organic Chemistry Introduction", summary:"Students are introduced to organic compounds — hydrocarbons (alkanes, alkenes, alkynes), functional groups, and their importance in medicine, materials, and environment.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Chemistry: Organic Chemistry Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Organic%20Chemistry%20Introduction%20grade%2010%20educational",
    quiz:[
      {q:"Organic chemistry is the study of ___.", options:["all chemical reactions","only natural substances","only laboratory-made substances","compounds containing carbon — the chemistry of life and of most fuels, medicines, plastics, and synthetic materials"], answer:3},
      {q:"Hydrocarbons are compounds containing only ___.", options:["carbon and oxygen","carbon and nitrogen","carbon and hydrogen","carbon only"], answer:2},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Functional groups in organic chemistry are ___.", options:["always carbon only","specific atoms or groups of atoms that determine the characteristic chemical reactions of a molecule (e.g., –OH = alcohol, –COOH = carboxylic acid)","only found in natural compounds","only in plastics"], answer:1}
    ]},
   {subject:"History", title:"The Environment and Politics: Canada's Climate Debate", summary:"Students examine the political dimensions of climate change in Canada — carbon pricing, oil sands, Indigenous rights, and intergenerational justice.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: The Environment and Politics: Canada's Climate Debate", resourceUrl:"https://www.youtube.com/results?search_query=The%20Environment%20and%20Politics%3A%20Canada%27s%20Climate%20Debate%20grade%2010%20educational",
    quiz:[
      {q:"Canada's carbon pricing system (federal carbon tax/backstop) ___.", options:["gives money to oil companies","increases government profit directly","has faced no political opposition","puts a price on carbon emissions to incentivise reduction, with proceeds returned to Canadians as rebates — controversial politically, especially in fossil fuel-dependent provinces"], answer:3},
      {q:"Alberta's oil sands are significant because ___.", options:["they are small and economically minor","they represent a conflict between environmental and economic interests — a massive economic resource and employer that also produces some of the world's most GHG-intensive oil, intersecting with Indigenous rights issues","they are already shut down","they are internationally praised universally"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"Media Creation: Short Film or Podcast Episode", summary:"Students plan, script, and produce a short media piece (podcast episode or video essay) on a literary or social topic, applying media literacy and production skills.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Media Creation: Short Film or Podcast Episode", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Creation%3A%20Short%20Film%20or%20Podcast%20Episode%20grade%2010%20educational",
    quiz:[
      {q:"A video essay differs from a documentary in that ___.", options:["it uses no research","it is always shorter","it is fictional","it is usually narrated by a single voice presenting a personal analytical argument, often directly to camera — blending documentary and persuasive essay forms"], answer:3},
      {q:"Pre-production in media making includes ___.", options:["only editing","only recording","only publishing","all the planning work before recording begins: research, scripting, storyboarding, location scouting, and equipment preparation"], answer:3},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Publishing a media piece to a real audience (school website, YouTube) means ___.", options:["no additional responsibility","only technical quality matters","all facts must be perfect","it is a public act with real consequences — accuracy, fairness, and quality matter far more than when the audience is only your teacher"], answer:3}
    ]},
   {subject:"Math", title:"Quadratics and Functions: Consolidation", summary:"Students review and consolidate Grade 10 quadratic and function concepts, preparing for Grade 11 Functions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Quadratics and Functions: Consolidation", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%20and%20Functions%3A%20Consolidation%20grade%2010%20educational",
    quiz:[
      {q:"Convert y = x² − 6x + 11 to vertex form.", options:["y = (x − 3)² + 2","y = (x + 3)² − 11","y = (x − 6)² + 2","y = (x − 3)² − 9 + 11 = (x−3)²+2"], answer:0},
      {q:"A function has domain {x ∈ ℝ | x ≠ −2}. What type of function likely has this restriction?", options:["A linear function","A polynomial function","A rational function with denominator (x + 2)","A quadratic function"], answer:2},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"A quadratic with vertex (2, −3) and passing through (0, 1) has a = ___.", options:["a = 1","a = −1","a = 4","a = 0"], answer:0}
    ]},
   {subject:"Science", title:"Science: Human Health and Biotechnology", summary:"Students examine how scientific knowledge is applied in medicine — vaccines, antibiotics, gene therapy, and CRISPR — and the ethical questions raised.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Human Health and Biotechnology", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Human%20Health%20and%20Biotechnology%20grade%2010%20educational",
    quiz:[
      {q:"mRNA vaccines (like those developed for COVID-19) work by ___.", options:["injecting a weakened virus","injecting DNA into the nucleus","using a live pathogen","delivering messenger RNA instructions that cause your cells to produce a viral protein, training your immune system to recognise and fight the real pathogen"], answer:3},
      {q:"Antibiotic resistance is a growing problem because ___.", options:["antibiotics are now weaker","bacteria have evolved to survive antibiotic treatment, often due to overuse or misuse of antibiotics — a major public health threat requiring careful prescribing and new antibiotic development","viruses have become resistant","resistance only affects hospitals"], answer:1},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"The ethical principle of informed consent in medicine means ___.", options:["doctors decide what is best","patients must accept recommended treatment","patients have the right to receive complete, understandable information about a proposed treatment or research study before deciding whether to participate","only applies in research"], answer:2}
    ]},
   {subject:"History", title:"Canada Today: Contemporary Challenges", summary:"Students examine contemporary challenges facing Canada: reconciliation, climate, housing, inequality, and democratic participation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada Today: Contemporary Challenges", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Today%3A%20Contemporary%20Challenges%20grade%2010%20educational",
    quiz:[
      {q:"Canada's housing crisis affects young Canadians because ___.", options:["housing is affordable everywhere","only major cities have issues","the crisis is limited to coastal cities","rapidly rising home prices and rents in most Canadian cities have made homeownership essentially unattainable for most people your age, raising fundamental questions about intergenerational equity"], answer:3},
      {q:"Income inequality in Canada has ___.", options:["decreased dramatically","remained perfectly stable","has no effect on social outcomes","grown significantly since the 1980s, with the top income earners capturing an increasing share of income growth while wages for middle and lower income Canadians have stagnated in real terms"], answer:3},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Writing: Final Culminating Task", summary:"Students complete a major writing task — analytical essay, creative work, or multimodal project — that demonstrates the full range of Grade 10 English skills.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: Final Culminating Task", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Final%20Culminating%20Task%20grade%2010%20educational",
    quiz:[
      {q:"A culminating writing task should demonstrate ___.", options:["only your vocabulary knowledge","only your grammar skills","a wide range of skills learned over the year: analytical thinking, thesis development, evidence use, stylistic control, and sophisticated engagement with ideas","only your length capabilities"], answer:2},
      {q:"Self-editing a major piece means ___.", options:["fixing only spelling errors","asking a friend to rewrite it","reading aloud to catch awkward phrasing","systematically reviewing for argument clarity, evidence quality, analytical depth, cohesion, and then surface errors — in that order"], answer:3},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Reflecting on a year of writing development means ___.", options:["only comparing grades","ignoring what you've learned","recognising that writing is a thinking skill — as your writing has improved, so has your ability to form, develop, and communicate complex ideas","only noting what still needs work"], answer:2}
    ]},
   {subject:"Math", title:"Exam Preparation: Grade 10 Mathematics Review", summary:"Students review all major Grade 10 math concepts for assessment readiness.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Exam Preparation: Grade 10 Mathematics Review", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Grade%2010%20Mathematics%20Review%20grade%2010%20educational",
    quiz:[
      {q:"Solve: x² + 2x − 15 = 0", options:["x = 3 and x = −5","x = −3 and x = 5","x = 5 and x = −5","x = 3 and x = 5"], answer:0},
      {q:"In triangle ABC, a = 10, b = 7, B = 30°. Use the Sine Law to find sin A.", options:["sin A = 10 sin30° / 7 = 5/7 ≈ 0.714","sin A = 7/10","sin A = sin30°","sin A = 1"], answer:0},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"If f(x) = 2x² − 3, find f(−2).", options:["f(−2) = 2(4) − 3 = 5","f(−2) = −11","f(−2) = 4 − 3 = 1","f(−2) = −4 − 3 = −7"], answer:0}
    ]},
   {subject:"Science", title:"Science: Review and Synthesis", summary:"Students synthesise all three Grade 10 science strands — chemistry, biology, and physics — and their interconnections.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Review%20and%20Synthesis%20grade%2010%20educational",
    quiz:[
      {q:"Chemical bonding concepts explain ___.", options:["only why acids are sour","physical, biological, and chemical properties of all substances: why water is liquid at room temperature, why DNA has a double helix, why metals conduct electricity","only laboratory reactions","only ionic compounds"], answer:1},
      {q:"Evolution (biology) connects to chemistry through ___.", options:["no connection exists","only fossil records","mutation being a chemical process — changes in DNA base sequences caused by chemical damage, replication errors, or mutagens lead to the genetic variation on which natural selection acts","only protein structure"], answer:2},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"The most important lesson from Grade 10 Science is ___.", options:["memorising all the formulas","science is a collection of fixed facts","only chemistry is important","science is a way of thinking — a method for using evidence, model-building, and testing to understand the world, which applies across disciplines and to the decisions of everyday life"], answer:3}
    ]},
   {subject:"History", title:"Grade 10 History: Looking Back and Forward", summary:"Students synthesise Grade 10 history and connect it to their emerging understanding of citizenship and their role in the future of Canada.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Grade 10 History: Looking Back and Forward", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20History%3A%20Looking%20Back%20and%20Forward%20grade%2010%20educational",
    quiz:[
      {q:"The thread connecting Canada's WWII experience, the Charter, and reconciliation is ___.", options:["only conflict","only politics","the ongoing expansion of who is recognised as a full, rights-bearing member of the Canadian community — from enfranchising women and fighting fascism to protecting minority rights and acknowledging Indigenous sovereignty","only economic growth"], answer:2},
      {q:"Canada's relationship with the United States, seen across the 20th century, is best described as ___.", options:["complete Canadian independence","identical interests always","complete American dominance","deep economic and cultural integration combined with persistent efforts to maintain a distinct Canadian identity — a relationship of both partnership and ongoing negotiation of sovereignty"], answer:3},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Reading and Writing: Synthesis Task", summary:"Students read two or three related texts on a contemporary issue and write a synthesis essay that integrates ideas across sources with an original argument.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Reading and Writing: Synthesis Task", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20and%20Writing%3A%20Synthesis%20Task%20grade%2010%20educational",
    quiz:[
      {q:"Synthesising sources means ___.", options:["summarising each source separately","using only one source at a time","copying from all sources equally","building a unified, original argument that draws on multiple sources — connecting, comparing, and using them to support your own analytical position"], answer:3},
      {q:"A synthesis essay differs from a research essay in that ___.", options:["it uses no sources","it is always shorter","it requires original research","it focuses on connecting and integrating a given set of sources rather than independently researching a topic, though both require original analytical argument"], answer:3},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"The most common weakness in synthesis writing is ___.", options:["too much original argument","over-reliance on quotations","too many sources","the 'laundry list' structure — listing what each source says without building a coherent, unified analytical argument that advances your own thesis"], answer:3}
    ]},
   {subject:"Math", title:"Trigonometry Extension: Sine and Cosine Graphs", summary:"Students explore the graphs of y = sinx and y = cosx, identifying amplitude, period, phase shift, and vertical shift for transformations.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Trigonometry Extension: Sine and Cosine Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%20Extension%3A%20Sine%20and%20Cosine%20Graphs%20grade%2010%20educational",
    quiz:[
      {q:"The period of y = sinx is ___.", options:["180°","90°","360° (or 2π radians) — the function completes one full cycle every 360°","720°"], answer:2},
      {q:"The amplitude of y = 3sin(x) is ___.", options:["3 — the maximum displacement from the midline","9","1/3","1"], answer:0},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"The vertical shift in y = sinx + 2 is ___.", options:["the period changes to 2","the amplitude is 2","the graph shifts up 2 units","the frequency doubles"], answer:2}
    ]},
   {subject:"Science", title:"Physics: Modern Physics Concepts", summary:"Students are introduced to key modern physics concepts: quantum theory, the photoelectric effect, the wave-particle duality of light, and relativistic effects.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Physics: Modern Physics Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Modern%20Physics%20Concepts%20grade%2010%20educational",
    quiz:[
      {q:"The photoelectric effect showed that ___.", options:["light is purely a wave","electrons have no mass","light behaves as particles (photons) — each photon carries energy proportional to its frequency, and can eject electrons from metal surfaces if its energy exceeds a threshold","electricity can produce light"], answer:2},
      {q:"Wave-particle duality means ___.", options:["waves and particles are unrelated","only light has this duality","quantum objects like electrons and photons exhibit both wave-like and particle-like properties depending on how they are observed or measured","all objects behave this way at human scale"], answer:2},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"The uncertainty principle (Heisenberg) states ___.", options:["scientists are not precise enough","measurement is always perfect","position and momentum can always both be determined precisely","you cannot precisely know both the position and momentum of a particle simultaneously — a fundamental limit of nature, not of measurement technology"], answer:3}
    ]},
   {subject:"History", title:"Historical Thinking: Applying Concepts", summary:"Students apply the six historical thinking concepts to a contemporary Canadian issue, demonstrating the relevance of historical reasoning to present-day problems.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Historical Thinking: Applying Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Historical%20Thinking%3A%20Applying%20Concepts%20grade%2010%20educational",
    quiz:[
      {q:"Applying historical significance to a contemporary issue means asking ___.", options:["is this event recent?","is this in the news?","how many people are affected?","why does this matter? Who is affected, and what long-term consequences might it have — the same criteria we use to assess historical events"], answer:3},
      {q:"Using cause and consequence thinking about climate policy means ___.", options:["only looking at economic causes","assuming one cause","only considering future consequences","tracing the multiple causes of current emissions, the complex consequences of different policy choices, and the interconnected systems that make climate change both a cause and consequence of other issues"], answer:3},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Literature: A Non-Western Perspective", summary:"Students read and analyse a novel or collection of short stories from a non-Western tradition (translated or originally in English), examining cultural context and literary universality.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Literature: A Non-Western Perspective", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20A%20Non-Western%20Perspective%20grade%2010%20educational",
    quiz:[
      {q:"Why study literature from non-Western traditions?", options:["Only Western literature has universal themes","Non-Western literature is too difficult","World literature uses only different settings","World literature expands our understanding of universal human experiences while also challenging Western assumptions about how stories work, what values matter, and whose experiences are central"], answer:3},
      {q:"When reading literature in translation, it is important to acknowledge ___.", options:["translations are always perfect","the original text is irrelevant","no meaning is lost in translation","that translation always involves interpretation — choices made by the translator shape the text, and some nuances of the original language and culture may be altered or lost"], answer:3},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Avoiding cultural projection means ___.", options:["learning nothing from other cultures","reading non-Western literature as confirmation of Western views","interpreting cultural differences as deficiencies from a Western norm","reading literature from other traditions on its own terms, with curiosity about difference rather than measuring it against Western literary standards"], answer:3}
    ]},
   {subject:"Math", title:"Exam Readiness: Problem Solving and Communication", summary:"Students practise explaining their mathematical reasoning clearly in writing — an essential skill for senior math assessments.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Exam Readiness: Problem Solving and Communication", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Readiness%3A%20Problem%20Solving%20and%20Communication%20grade%2010%20educational",
    quiz:[
      {q:"Mathematical communication means ___.", options:["only showing numerical steps","avoiding words in solutions","always using symbols only","clearly explaining your reasoning in words alongside mathematical work — describing what you did and why, so a reader can follow your thinking"], answer:3},
      {q:"When solving a word problem, the first step is ___.", options:["doing the calculation immediately","drawing a picture","defining variables and restating what is given and what is being asked — this prevents errors and demonstrates clear thinking","checking the answer first"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"The most effective exam preparation for math is ___.", options:["reading the textbook","memorising formulas only","re-reading your notes","practising problems under time pressure, then reviewing errors carefully to understand what went wrong — not just redoing problems you already know"], answer:3}
    ]},
   {subject:"Science", title:"Science: Career Connections", summary:"Students explore STEM careers and how Grade 10 science knowledge connects to post-secondary pathways and the workforce.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Career Connections", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Career%20Connections%20grade%2010%20educational",
    quiz:[
      {q:"Environmental science careers connect to ___.", options:["only biology from Grade 10","only physics","a combination of biology (ecosystems), chemistry (pollution analysis), and physics (atmospheric science) from Grade 10, plus mathematics, geography, and policy","only laboratory work"], answer:2},
      {q:"Biomedical engineering connects to ___.", options:["only physics","only chemistry","biology (cell and human biology) and physics (mechanics, fluids, imaging) and chemistry (biomaterials)","only medicine"], answer:2},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"The most transferable skill from Grade 10 science to any career is ___.", options:["memorising formulas","lab technique","only knowing specific content","evidence-based reasoning — the ability to define a problem, gather data, analyse it critically, and draw justified conclusions"], answer:3}
    ]},
   {subject:"History", title:"Reflection: My Canada", summary:"Students write a personal reflection on what Canada means to them, connecting historical learning to personal identity and future citizenship commitments.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Reflection: My Canada", resourceUrl:"https://www.youtube.com/results?search_query=Reflection%3A%20My%20Canada%20grade%2010%20educational",
    quiz:[
      {q:"A thoughtful reflection on Canadian identity should ___.", options:["only celebrate Canada","only criticise Canada","remain neutral on all issues","acknowledge both Canada's genuine achievements and its significant failures, and consider what kind of Canada you want to help build"], answer:3},
      {q:"Canada's history of Indigenous dispossession, Japanese-Canadian internment, and racial exclusion in immigration policy teaches ___.", options:["that Canada has always been perfect","that these were unavoidable","that only some Canadians are responsible for the past","that good intentions and democratic structures are not sufficient protection against injustice — active vigilance and institutional accountability are always needed"], answer:3},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"English", title:"Language Conventions: Grammar for Academic Writing", summary:"Students master advanced grammar for academic writing: subordination, parallelism, active vs. passive voice, avoiding wordiness, and punctuation (semicolons, colons, dashes).",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Language Conventions: Grammar for Academic Writing", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Conventions%3A%20Grammar%20for%20Academic%20Writing%20grade%2010%20educational",
    quiz:[
      {q:"A semicolon can join ___.", options:["a dependent and independent clause","any two phrases","two independent clauses that are closely related in meaning — stronger than a comma, weaker than a period","a list of only two items"], answer:2},
      {q:"A colon is used to ___.", options:["end a sentence","separate subjects from verbs","introduce a list, explanation, or quotation that follows a complete independent clause","before every quotation"], answer:2},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Parallelism errors in lists mean ___.", options:["the list has too many items","items are alphabetical","mixing grammatical forms: 'She likes swimming, to run, and hikes' — all items must be in the same form: 'swimming, running, and hiking'","the list is too long"], answer:2}
    ]},
   {subject:"Math", title:"Functions and Graphs: Transformations", summary:"Students apply transformations (stretch, compress, reflect, shift) to parent functions, building intuition for Grade 11 Functions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Functions and Graphs: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Functions%20and%20Graphs%3A%20Transformations%20grade%2010%20educational",
    quiz:[
      {q:"The transformation y = f(x) + 3 shifts the graph ___.", options:["right 3 units","down 3 units","left 3 units","up 3 units"], answer:3},
      {q:"The transformation y = f(x − 2) shifts the graph ___.", options:["up 2 units","left 2 units","right 2 units — replacing x with (x − c) shifts the graph RIGHT by c","down 2 units"], answer:2},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"The transformation y = 2f(x) ___.", options:["compresses vertically","stretches the graph horizontally","shifts up 2","stretches vertically by a factor of 2 (all y-values are doubled)"], answer:3}
    ]},
   {subject:"Science", title:"Biology: Human Reproduction and Development", summary:"Students examine human reproduction, the menstrual cycle, fertilisation, prenatal development, and related health topics.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Biology: Human Reproduction and Development", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Human%20Reproduction%20and%20Development%20grade%2010%20educational",
    quiz:[
      {q:"Fertilisation occurs when ___.", options:["the ovum is released from the ovary","implantation occurs in the uterus","the embryo develops all its organs","a sperm cell penetrates the ovum, combining their 23 chromosomes each to form a 46-chromosome zygote"], answer:3},
      {q:"The placenta's function is ___.", options:["to produce eggs","to contract during birth","to produce testosterone","to exchange nutrients, oxygen, and waste between the mother's blood and the developing foetus without allowing blood to mix"], answer:3},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Reproductive health education is important because ___.", options:["it encourages sexual activity","it is only for biology class","it is unrelated to well-being","informed young people can make healthier decisions, understand their bodies, and recognise and respond to reproductive health issues effectively"], answer:3}
    ]},
   {subject:"History", title:"Media and History: How History is Represented", summary:"Students examine how films, television, novels, and social media represent historical events, and how to critically evaluate historical representation in popular media.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Media and History: How History is Represented", resourceUrl:"https://www.youtube.com/results?search_query=Media%20and%20History%3A%20How%20History%20is%20Represented%20grade%2010%20educational",
    quiz:[
      {q:"Historical films and television often ___.", options:["perfectly represent historical events","have no influence on public understanding of history","are always based entirely on primary sources","prioritise dramatic narrative over historical accuracy — compressing timelines, inventing dialogue, and simplifying complex events for entertainment purposes"], answer:3},
      {q:"The danger of Hollywood historical films is ___.", options:["they are too long","only that they use old footage","they are always good for education","they can shape public understanding of historical events more powerfully than academic history, potentially spreading inaccuracies, anachronisms, or ideological distortions at large scale"], answer:3},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Year-End Celebration: Reading and Writing Portfolio", summary:"Students curate and present a portfolio of their best reading and writing work from Grade 10, reflecting on their development.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Year-End Celebration: Reading and Writing Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Writing%20Portfolio%20grade%2010%20educational",
    quiz:[
      {q:"A portfolio of best work shows ___.", options:["only your first piece","only your longest piece","only error-free work","a curated selection demonstrating the range and depth of your skills — showing growth, versatility, and your strongest analytical and creative moments"], answer:3},
      {q:"Selecting pieces for a portfolio involves ___.", options:["taking the highest-graded pieces only","random selection","choosing based on teacher preference","deliberate reflection: which pieces best demonstrate your analytical thinking, voice, and growth as a reader and writer"], answer:3},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"The most valuable thing in a writing portfolio is ___.", options:["the piece with the best grade","the longest essay","the piece with the most quotations","the piece that shows who you are as a thinker — your voice, your ideas, and your genuine engagement with literature and language"], answer:3}
    ]},
   {subject:"Math", title:"Looking Ahead: Grade 11 Mathematics Pathways", summary:"Students learn about the three Grade 11 math pathways — Functions (MCR3U), Functions and Applications (MCF3M), and Foundations for College (MBF3C) — and make informed choices.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Looking Ahead: Grade 11 Mathematics Pathways", resourceUrl:"https://www.youtube.com/results?search_query=Looking%20Ahead%3A%20Grade%2011%20Mathematics%20Pathways%20grade%2010%20educational",
    quiz:[
      {q:"MCR3U (Grade 11 Functions) is the pathway for students planning ___.", options:["a direct path to the workforce","college-level programs not requiring advanced math","post-secondary programs requiring calculus or advanced math: university STEM, business, economics, or health science programs","all Grade 12 courses equally"], answer:2},
      {q:"Functions in Grade 11 extend Grade 10 quadratics to ___.", options:["linear equations only","polynomial, rational, exponential, and trigonometric functions — a significantly more abstract and rigorous treatment","geometry only","financial math only"], answer:1},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"Mathematics beyond high school is used in ___.", options:["only pure math careers","only engineering","only science","nearly every professional field: architecture, nursing, social science (statistics), finance, data analysis, education, and increasingly in arts and humanities through digital tools"], answer:3}
    ]},
   {subject:"Science", title:"Science: Looking Forward to Grade 11", summary:"Students preview Grade 11 science pathways — Biology, Chemistry, Physics — and understand how Grade 10 learning connects.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Looking Forward to Grade 11", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Forward%20to%20Grade%2011%20grade%2010%20educational",
    quiz:[
      {q:"Grade 11 Biology extends Grade 10 knowledge of ___.", options:["only evolution","only cells","atomic theory","cellular processes, genetics, evolution, and ecosystems into greater depth — including animal and plant physiology, population ecology, and evolution through natural selection"], answer:3},
      {q:"Grade 11 Chemistry builds directly on ___.", options:["only physics concepts","only biology","no Grade 10 content","atomic theory, chemical bonding, and reaction types from Grade 10 — extending to stoichiometry (quantitative reactions), solution chemistry, and gas laws"], answer:2},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Choosing Grade 11 sciences based on future interests means ___.", options:["taking all sciences always","taking no sciences","only choosing based on the teacher","considering whether you want to continue toward health sciences (biology + chemistry), engineering (physics + chemistry), environmental science (all three), or other pathways"], answer:3}
    ]},
   {subject:"History", title:"History Final Reflection: What Did We Learn?", summary:"Students write a final synthesis on the most significant lessons from Grade 10 History for their identity and future as Canadian citizens.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: History Final Reflection: What Did We Learn?", resourceUrl:"https://www.youtube.com/results?search_query=History%20Final%20Reflection%3A%20What%20Did%20We%20Learn%3F%20grade%2010%20educational",
    quiz:[
      {q:"The most significant lesson from WWII for democratic citizens is ___.", options:["democracies always win wars","only military power matters","history has no lessons","even democratic societies can engage in serious injustices (internment, racism) — democratic structures do not automatically prevent human rights violations; active vigilance and rights protection are essential"], answer:3},
      {q:"The Charter of Rights and Freedoms matters to Grade 10 students because ___.", options:["it only applies to adults","only lawyers need to know it","it is already fully implemented","it protects your rights right now, and understanding it empowers you to recognise when your rights or others' rights are violated and to seek remedy"], answer:3},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Media: Social Media and Identity", summary:"Students analyse how social media platforms construct and perform identity, and examine the mental health, social, and political implications.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Media: Social Media and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Social%20Media%20and%20Identity%20grade%2010%20educational",
    quiz:[
      {q:"Social media platforms are ___.", options:["neutral tools that reflect real life","always harmful","only entertainment","designed environments shaped by algorithmic choices, monetisation incentives, and design psychology — they actively shape how users present themselves and what they consume"], answer:3},
      {q:"The 'performance of self' on social media means ___.", options:["social media shows the real you always","only celebrities perform identity online","everyone acts completely natural online","users actively curate and construct a version of themselves for an audience — social media identity is a performance, not a transparent window into the self"], answer:3},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"Being a responsible social media user means ___.", options:["avoiding all social media","only using private accounts","sharing everything immediately without thinking","thinking critically about what you consume, being aware of how platforms manipulate you, respecting others' dignity online, and not sharing unverified information"], answer:3}
    ]},
   {subject:"Math", title:"Personal Finance: Practical Mathematics", summary:"Students apply math to real personal finance scenarios — tax filing, credit, mortgages, insurance — relevant to their near future.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Personal Finance: Practical Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Personal%20Finance%3A%20Practical%20Mathematics%20grade%2010%20educational",
    quiz:[
      {q:"A credit score measures ___.", options:["your income","how much money you have","your tax bracket","your creditworthiness — based on payment history, amount owed, length of credit history, and types of credit — used by lenders to decide whether to lend and at what rate"], answer:3},
      {q:"Compound interest on debt (like a credit card at 20% APR) is ___.", options:["beneficial to the borrower","easy to pay off","irrelevant if you make minimum payments","extremely expensive over time — minimum payments barely cover interest, so debt can grow exponentially if not paid down aggressively"], answer:3},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"OSAP (Ontario Student Assistance Program) provides ___.", options:["employment","guaranteed employment after graduation","unlimited funding for any student","needs-based grants and loans to eligible post-secondary students to help cover tuition and living costs"], answer:3}
    ]},
   {subject:"Science", title:"Science: Environmental Decision Making", summary:"Students apply scientific knowledge to make and justify environmental decisions, practising evidence-based reasoning and ethical analysis.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Environmental Decision Making", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Environmental%20Decision%20Making%20grade%2010%20educational",
    quiz:[
      {q:"A life cycle assessment (LCA) ___.", options:["only considers manufacturing cost","only measures CO₂","evaluates only the end-of-life disposal","examines the environmental impact of a product or service across its entire life: raw materials, manufacturing, transportation, use, and disposal — giving a complete picture of its environmental cost"], answer:3},
      {q:"Greenwashing refers to ___.", options:["genuine environmental improvement","government environmental regulation","reducing a company's carbon footprint","companies making misleading claims about their products' environmental benefits to attract eco-conscious consumers without making substantive changes"], answer:3},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Effective environmental citizenship includes ___.", options:["only personal recycling","only political activism","ignoring environmental issues","a combination of personal choices (reducing consumption), political engagement (voting for climate action), and community action (supporting local environmental initiatives)"], answer:3}
    ]},
   {subject:"History", title:"Year-End Exam Preparation: Canadian History and Civics", summary:"Students review key concepts and practise historical thinking skills for assessment.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Year-End Exam Preparation: Canadian History and Civics", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Exam%20Preparation%3A%20Canadian%20History%20and%20Civics%20grade%2010%20educational",
    quiz:[
      {q:"The most testable skill in Canadian history is ___.", options:["memorising dates and names","only knowing WWII","only understanding the Constitution","historical thinking — using concepts of significance, causation, continuity and change, perspective, evidence, and ethical judgement to analyse and interpret historical events and issues"], answer:3},
      {q:"When answering a source-analysis question in history, you should ___.", options:["copy the source text","describe what you see only","ignore the source's context","identify the source's origin (author, audience, purpose, date), analyse its content, evaluate its reliability and limitations, and connect it to your historical knowledge"], answer:3},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Writing: Reflecting on Grade 10 English", summary:"Students write a final metacognitive reflection on their development as readers, writers, and thinkers in Grade 10.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Writing: Reflecting on Grade 10 English", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Reflecting%20on%20Grade%2010%20English%20grade%2010%20educational",
    quiz:[
      {q:"Metacognitive reflection means ___.", options:["listing all the books read","summarising essay grades","only writing what you enjoyed","thinking carefully about your own learning process — how you have grown, what strategies work for you, and what skills you still want to develop"], answer:3},
      {q:"The most important growth in Grade 10 English is ___.", options:["vocabulary size","writing speed","perfect grammar","the development of analytical thinking — the ability to form, support, and communicate complex interpretive arguments about texts and ideas"], answer:3},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"The most powerful thing writing can do is ___.", options:["earn good grades","fill required pages","meet word counts","make meaning — writing develops thought, communicates ideas, and connects human experiences across time and culture"], answer:3}
    ]},
   {subject:"Math", title:"Mathematics: Year-End Summary and Growth Reflection", summary:"Students reflect on their mathematical growth in Grade 10 and the role of mathematical thinking in their lives.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Mathematics: Year-End Summary and Growth Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Mathematics%3A%20Year-End%20Summary%20and%20Growth%20Reflection%20grade%2010%20educational",
    quiz:[
      {q:"The key mathematical concept connecting all Grade 10 topics is ___.", options:["only algebra","only geometry","functions — the relationship between two quantities, expressed through equations, graphs, and tables, underlies quadratics, trig, analytic geometry, and data management","only trigonometry"], answer:2},
      {q:"Mathematical persistence means ___.", options:["getting every answer right immediately","only doing easy problems","giving up when confused","continuing to work on a challenging problem, trying different approaches, and learning from errors — the most important mathematical disposition"], answer:3},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"Grade 10 mathematics has prepared you for ___.", options:["nothing useful in life","only Grade 11 exams","only STEM careers","a wide range of future study and careers, but most importantly for logical, quantitative thinking — a fundamental skill for navigating a complex world full of data, models, and numerical claims"], answer:3}
    ]},
   {subject:"Science", title:"Science: Science and Society — A Final Reflection", summary:"Students reflect on the role of science in society and their responsibilities as scientifically literate citizens.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Science and Society — A Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Science%20and%20Society%20%E2%80%94%20A%20Final%20Reflection%20grade%2010%20educational",
    quiz:[
      {q:"Scientific literacy means ___.", options:["knowing all scientific facts","only being good at labs","being a scientist","being able to read, understand, and critically evaluate scientific claims — distinguishing evidence-based science from pseudoscience, and understanding the nature and limits of scientific knowledge"], answer:3},
      {q:"The relationship between science and policy is ___.", options:["science automatically determines policy","scientists should make all decisions","science has no role in policy","complex — science provides evidence and analysis, but policy decisions also involve values, economics, and politics: science informs but does not determine policy"], answer:3},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Science's greatest achievement is ___.", options:["only medicine","only technology","only the internet","the method itself — a self-correcting system of knowledge-building based on evidence, peer review, and revision, which has transformed human understanding and wellbeing despite being a very recent human invention"], answer:3}
    ]},
   {subject:"History", title:"Canada's Story: A Continuing Narrative", summary:"Students write a final historical essay on the most significant development in Canadian history and its relevance to their lives as future citizens.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's Story: A Continuing Narrative", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Story%3A%20A%20Continuing%20Narrative%20grade%2010%20educational",
    quiz:[
      {q:"Canada's most significant unresolved historical challenge is ___.", options:["the 1867 Confederation debt","WWI conscription crisis","the implementation of Responsible Government","the relationship between the Canadian state and Indigenous peoples — a relationship marked by colonisation, dispossession, and injustice that requires ongoing reconciliation, not just acknowledgement"], answer:3},
      {q:"The Charter of Rights and Freedoms (1982) is significant because ___.", options:["it was Canada's first constitution","it only affects criminal law","it was only a ceremonial change","it transformed Canada into a rights-based constitutional democracy where courts can strike down laws that violate fundamental rights — a genuine revolution in the relationship between citizens and the state"], answer:3},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"English", title:"Exam Skills: The Unseen Poem", summary:"Students practise analysing an unseen poem under exam conditions — applying close reading, identifying form and content, and writing a focused analytical response.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Exam Skills: The Unseen Poem", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20The%20Unseen%20Poem%20grade%2010%20educational",
    quiz:[
      {q:"Approaching an unseen poem for the first time, you should ___.", options:["write immediately","read only the first stanza","guess the theme from the title","read the entire poem at least twice: once for overall meaning and feeling, then again for specific craft choices to analyse"], answer:3},
      {q:"In an unseen poem analysis, you should prioritise ___.", options:["identifying the rhyme scheme before anything else","memorising all literary terms","proving you know many techniques","analysing HOW specific craft choices create meaning and effect — the technique is never the point; its effect is"], answer:3},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"A strong response to an unseen poem ___.", options:["identifies every literary term","summarises the poem","avoids quoting the poem","makes an argument about how the poem creates meaning, supports it with specific quotation and analysis, and returns to the central argument in a conclusion"], answer:3}
    ]},
   {subject:"Math", title:"Exam Skills: Mathematical Problem Solving Strategies", summary:"Students practise multi-step problem solving strategies for exam conditions.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Exam Skills: Mathematical Problem Solving Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20Mathematical%20Problem%20Solving%20Strategies%20grade%2010%20educational",
    quiz:[
      {q:"When a math problem seems impossible, the best strategy is ___.", options:["leave it blank immediately","only try one approach","panic","write what you know: draw a diagram, define variables, write related formulas — starting the solution often reveals the path forward"], answer:3},
      {q:"Working backwards in a problem means ___.", options:["guessing the answer","only for simple problems","never used in real math","starting from what you want to find and determining what you would need to know — useful for complex problems where the path forward is unclear"], answer:3},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"The most important strategy for a difficult exam problem is ___.", options:["copying from a neighbour","skipping and never returning","showing partial work earns no marks","attempting every part and showing all work — partial marks for method are available even when the final answer is wrong"], answer:3}
    ]},
   {subject:"Science", title:"Science: Exam Preparation and Review", summary:"Students review key concepts from all three Grade 10 science strands for assessment readiness.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Science: Exam Preparation and Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Exam%20Preparation%20and%20Review%20grade%2010%20educational",
    quiz:[
      {q:"The difference between ionic and covalent bonding is ___.", options:["no difference","only in crystal structure","only in state at room temperature","ionic bonding involves electron transfer between a metal and non-metal forming ions; covalent bonding involves electron sharing between non-metals"], answer:3},
      {q:"Natural selection requires ___.", options:["directed change by an organism","a single generation to produce new species","no genetic variation","heritable variation within a population, differential reproductive success (some variants reproduce more), and inheritance of advantageous traits"], answer:3},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"The conservation of energy means ___.", options:["energy is destroyed in friction","energy can be created in nuclear reactions","machines can exceed 100% efficiency","the total energy in a closed system remains constant — energy transforms between forms (kinetic to potential, chemical to thermal) but is neither created nor destroyed"], answer:3}
    ]},
   {subject:"History", title:"History Exam: Practise Essay", summary:"Students practise a 45-minute historical essay, applying all historical thinking skills to a significant Canadian history question.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: History Exam: Practise Essay", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%3A%20Practise%20Essay%20grade%2010%20educational",
    quiz:[
      {q:"A strong history essay begins with ___.", options:["a question restated verbatim","a general statement about history","a list of facts","a clear, specific thesis that states your argument — not just the topic, but your interpretive claim about it"], answer:3},
      {q:"Historical evidence in an essay should ___.", options:["only come from memory","be as general as possible","include only dates","be specific: named people, events, dates, and details that directly support your analytical argument"], answer:3},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Year-End: English as a Lifelong Practice", summary:"A final celebration of reading, writing, and thinking. Students share work, set goals, and understand English as a practice they will carry into all areas of their lives.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Year-End: English as a Lifelong Practice", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%3A%20English%20as%20a%20Lifelong%20Practice%20grade%2010%20educational",
    quiz:[
      {q:"Reading great literature develops ___.", options:["only vocabulary","only knowledge of plots","only grammar skills","empathy, critical thinking, historical and cultural awareness, and the capacity for sustained engagement with complex ideas — skills that transfer to every area of life"], answer:3},
      {q:"Writing is a thinking tool because ___.", options:["writing is only for communication","you think first, then write","writing and thinking are separate activities","the act of writing forces you to clarify, organise, and develop your thinking — ideas that seem clear in your head often reveal their gaps and complexities when you write them down"], answer:3},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"The most important thing you've learned in Grade 10 English is ___.", options:["how to avoid comma splices","the plot of every text","only Shakespeare's language","that language and story are not decorations on top of human experience — they are the medium through which we understand, make sense of, and share that experience"], answer:3}
    ]},
   {subject:"Math", title:"Grade 10 Math: Final Celebration and Reflection", summary:"A final review and reflection on mathematical growth, connecting the year's learning to lifelong mathematical thinking.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Grade 10 Math: Final Celebration and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20Math%3A%20Final%20Celebration%20and%20Reflection%20grade%2010%20educational",
    quiz:[
      {q:"The most useful mathematical idea from Grade 10 for daily life is ___.", options:["the quadratic formula specifically","factoring polynomials","the Cosine Law","the concept of function — understanding relationships between variables — which underlies everything from budgeting to understanding health statistics to evaluating environmental claims"], answer:3},
      {q:"Mathematical confidence is built by ___.", options:["only solving easy problems","avoiding all challenging problems","only memorising formulas","working through difficulty, making mistakes, learning from them, and developing the persistence to try new approaches — not by only doing what already feels comfortable"], answer:3},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"Finishing Grade 10 Math means ___.", options:["you've learned all the math you'll ever need","math is finished for most of you","only engineers need to remember this","you've built a foundation — functions, geometry, data, and algebraic reasoning — that will serve you in whatever you do next, from everyday decisions to advanced study"], answer:3}
    ]},
   {subject:"Science", title:"Grade 10 Science: Final Synthesis", summary:"A final celebration of scientific learning and a look ahead to senior science and life as a scientifically literate citizen.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Grade 10 Science: Final Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20Science%3A%20Final%20Synthesis%20grade%2010%20educational",
    quiz:[
      {q:"The three Grade 10 science strands connect through ___.", options:["having nothing in common","only sharing lab equipment","only being about Canada","the fundamental idea that the world operates through consistent, discoverable principles — whether in the chemical behaviour of atoms, the evolution of life, or the motion of objects"], answer:3},
      {q:"Science is not a set of facts to memorise but ___.", options:["a way to pass tests","a collection of correct answers","only relevant for scientists","a method for building knowledge through observation, hypothesis, experimentation, and revision — the facts are important, but the method is more powerful"], answer:3},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"The greatest scientific frontier for your generation is ___.", options:["already fully mapped out","only space exploration","only artificial intelligence","genuinely unknown — questions about consciousness, quantum computing, the origins of life, dark matter, and the full potential of biotechnology remain open, and some of you may contribute to answering them"], answer:3}
    ]},
   {subject:"History", title:"Canada's Future: Your Role as a Citizen", summary:"A final reflection on Canadian history, citizenship, and the responsibilities of the Grade 10 generation.",
-   resourceLabel:"TVO Learn: Grade 10", resourceUrl:"https://tvolearn.com/pages/grade-10",
+   resourceLabel:"YouTube: Canada's Future: Your Role as a Citizen", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Your%20Role%20as%20a%20Citizen%20grade%2010%20educational",
    quiz:[
      {q:"Canada's most important strength as you enter adulthood is ___.", options:["its military power","only its natural resources","only its geography","its commitment — imperfect but genuine and ongoing — to democratic governance, human rights, diversity, and international cooperation: values worth defending and improving"], answer:3},
      {q:"The generation entering high school now will determine ___.", options:["nothing important about Canada's future","only their personal futures","only economic outcomes","whether reconciliation moves from aspiration to reality, whether Canada meets its climate commitments, and whether democracy remains a genuine tool for all Canadians or only for the privileged"], answer:3},

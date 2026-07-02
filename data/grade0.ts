@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Letter A", summary:"Explore uppercase and lowercase A. Students identify the letter, practise its short /a/ sound, and find words beginning with A such as apple, ant, and astronaut.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter A", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20A%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with A?", options:["Ball","Cat","Apple","Dog"], answer:2},
      {q:"What sound does short A make?", options:["Ah as in apple","Oh as in open","Ee as in see","Oo as in boot"], answer:0},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Find the A: cat, apple, dog, sun", options:["cat","apple","dog","sun"], answer:1}
    ]},
   {subject:"Math", title:"Counting 1 to 5", summary:"Students count objects up to 5, match numerals to quantities, and begin to understand one-to-one correspondence.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting 1 to 5", resourceUrl:"https://www.youtube.com/results?search_query=Counting%201%20to%205%20kindergarten%20educational",
    quiz:[
      {q:"How many fingers on one hand?", options:["3","4","5","6"], answer:2},
      {q:"What number comes after 3?", options:["2","4","5","1"], answer:1},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"What number comes before 5?", options:["3","4","6","2"], answer:1}
    ]},
   {subject:"Science", title:"Living and Non-Living Things", summary:"Students learn to distinguish living things (grow, breathe, need food/water) from non-living things (do not grow on their own, do not breathe).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Living and Non-Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Things%20kindergarten%20educational",
    quiz:[
      {q:"A living thing ___.", options:["cannot move ever","never changes","grows and needs food, water, and air","is made of metal"], answer:2},
      {q:"Which is a living thing?", options:["Rock","Tree","Chair","Book"], answer:1},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"A bird is living because it ___.", options:["is colourful","makes noise","breathes, eats, and grows","can fly only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Students explore different family structures — large, small, single-parent, grandparent families — and appreciate that all families are special.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20kindergarten%20educational",
    quiz:[
      {q:"A family is a group of ___.", options:["strangers","people who care for and support each other","only parents and children","only people who look alike"], answer:1},
      {q:"Which is an example of a family member?", options:["Teacher","Neighbour","Grandparent","Doctor"], answer:2},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Letter B", summary:"Explore uppercase and lowercase B. Students identify the letter, practise its /b/ sound, and name B words such as ball, bear, and butterfly.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter B", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20B%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with B?", options:["Dog","Cat","Ball","Frog"], answer:2},
      {q:"What sound does B make?", options:["Puh","Buh","Duh","Kuh"], answer:1},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"How many bumps does lowercase b have?", options:["0","1","2","3"], answer:1}
    ]},
   {subject:"Math", title:"Counting 6 to 10", summary:"Students count objects from 6 to 10, match numerals to quantities, and practise counting on from 5.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting 6 to 10", resourceUrl:"https://www.youtube.com/results?search_query=Counting%206%20to%2010%20kindergarten%20educational",
    quiz:[
      {q:"What number comes after 7?", options:["6","8","9","10"], answer:1},
      {q:"Count: ●●●●●●●● How many dots?", options:["6","7","8","9"], answer:2},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"Count by 1s: 6, 7, ___", options:["5","8","9","10"], answer:1}
    ]},
   {subject:"Science", title:"Plants Around Us", summary:"Students explore plants in their environment. All plants have basic needs: sunlight, water, and soil. Plant parts include roots, stem, leaves, and sometimes flowers.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Plants Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Plants%20Around%20Us%20kindergarten%20educational",
    quiz:[
      {q:"All plants need ___ to grow.", options:["Snow and ice","Sunlight, water, and soil","Only water","Only sunlight"], answer:1},
      {q:"Which part of a plant soaks up water from the soil?", options:["Leaves","Flowers","Stem","Roots"], answer:3},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a plant?", options:["Cat","Rock","Daisy","Cloud"], answer:2}
    ]},
   {subject:"SocialStudies", title:"My Home and Community", summary:"Students explore different types of homes (house, apartment, townhouse) and the idea that home is within a neighbourhood and community.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: My Home and Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20Home%20and%20Community%20kindergarten%20educational",
    quiz:[
      {q:"A home is a place where ___.", options:["only adults live","people live and feel safe and cared for","only families with pets live","only babies live"], answer:1},
      {q:"Which is a type of home?", options:["School","Hospital","Apartment building","Library"], answer:2},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Letter C", summary:"Explore uppercase and lowercase C. Students identify the letter, practise its hard /k/ sound (cat, car), and find C words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter C", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20C%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with C?", options:["Dog","Cat","Ball","Egg"], answer:1},
      {q:"What sound does C make in 'cat'?", options:["Sss","Shh","Kuh","Chh"], answer:2},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"Lowercase c looks like ___.", options:["a straight line","a circle with a gap on the right","a rectangle","two bumps"], answer:1}
    ]},
   {subject:"Math", title:"2D Shapes: Circle and Square", summary:"Students identify, name, sort, and describe circles and squares. Circles have no corners; squares have 4 equal sides and 4 corners.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: 2D Shapes: Circle and Square", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%3A%20Circle%20and%20Square%20kindergarten%20educational",
    quiz:[
      {q:"A circle has ___ corners.", options:["1","2","3","0"], answer:3},
      {q:"A square has ___ equal sides.", options:["2","3","4","5"], answer:2},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Which shape has no straight sides?", options:["Square","Triangle","Rectangle","Circle"], answer:3}
    ]},
   {subject:"Science", title:"Seasons: Autumn", summary:"Students explore the characteristics of autumn in Ontario — shorter days, falling leaves, cooler temperatures, and animals preparing for winter.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Seasons: Autumn", resourceUrl:"https://www.youtube.com/results?search_query=Seasons%3A%20Autumn%20kindergarten%20educational",
    quiz:[
      {q:"What season comes after summer?", options:["Winter","Autumn/Fall","Spring","Rainy season"], answer:1},
      {q:"In autumn, many trees ___.", options:["grow new leaves","bloom with flowers","lose their leaves","stay exactly the same"], answer:2},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"What do you wear in autumn?", options:["Swimsuit and sandals","Light jacket or sweater","Heavy winter coat","Nothing different"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Helping at Home", summary:"Students explore household responsibilities and how children can contribute by tidying, setting the table, and caring for pets.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
    quiz:[
      {q:"Helping at home means ___.", options:["only watching TV","doing chores and tasks that help the family","only doing homework","only playing games"], answer:1},
      {q:"Which is an example of helping at home?", options:["Leaving toys everywhere","Putting toys away neatly","Eating all the snacks","Ignoring chores"], answer:1},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Letter D", summary:"Explore uppercase and lowercase D. Students identify the letter, practise its /d/ sound, and name D words such as dog, duck, and drum.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter D", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20D%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with D?", options:["Cat","Ball","Dog","Frog"], answer:2},
      {q:"What sound does D make?", options:["Tuh","Buh","Duh","Puh"], answer:2},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Find the D words: door, cat, duck, ball", options:["cat and ball","door and duck","duck only","ball only"], answer:1}
    ]},
   {subject:"Math", title:"Number Order 1-10", summary:"Students arrange numbers 1-10 in order, identify missing numbers, and understand more/fewer using a number line.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Number Order 1-10", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Order%201-10%20kindergarten%20educational",
    quiz:[
      {q:"What number is missing? 1, 2, ___, 4, 5", options:["3","6","7","0"], answer:0},
      {q:"Which number is greater: 7 or 4?", options:["4","7","Equal","Cannot tell"], answer:1},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"Which has MORE: a group of 2 or a group of 9?", options:["2","9","Equal","Cannot tell"], answer:1}
    ]},
   {subject:"Science", title:"Water Around Us", summary:"Students explore water in their environment. Water is a liquid that flows, takes the shape of its container, and is essential for all life.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Water Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Water%20Around%20Us%20kindergarten%20educational",
    quiz:[
      {q:"Water is a ___.", options:["solid","gas","liquid","powder"], answer:2},
      {q:"Living things need water to ___.", options:["only look nice","survive and stay healthy","only taste good","only wash"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Why is clean water important?", options:["Only for swimming","For drinking, cooking, and keeping animals and plants alive","Only for cleaning","It is not important"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Community Helpers: Police and Firefighters", summary:"Students learn how police officers keep communities safe and how firefighters protect people and property. Both are important community helpers.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Community Helpers: Police and Firefighters", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Police%20and%20Firefighters%20kindergarten%20educational",
    quiz:[
      {q:"What do police officers do?", options:["Teach in schools","Keep communities safe and uphold laws","Fix buildings","Deliver mail"], answer:1},
      {q:"What do firefighters do?", options:["Only drive trucks","Protect people from fires and respond to emergencies","Teach children to read","Only put out campfires"], answer:1},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Vowels: A, E, I, O, U", summary:"Students learn to identify the five vowels and their short sounds. Vowels are special letters: a (apple), e (egg), i (igloo), o (octopus), u (umbrella).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Vowels: A, E, I, O, U", resourceUrl:"https://www.youtube.com/results?search_query=Vowels%3A%20A%2C%20E%2C%20I%2C%20O%2C%20U%20kindergarten%20educational",
    quiz:[
      {q:"How many vowels are in the alphabet?", options:["3","4","5","6"], answer:2},
      {q:"Which letter is a vowel?", options:["B","C","E","F"], answer:2},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"The vowels are ___.", options:["B, C, D, F, G","A, E, I, O, U","Only A and E","Only I and O"], answer:1}
    ]},
   {subject:"Math", title:"Addition to 5", summary:"Students use objects, fingers, and drawings to add two groups and find totals up to 5.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Addition to 5", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%205%20kindergarten%20educational",
    quiz:[
      {q:"2 + 3 = ?", options:["4","5","6","3"], answer:1},
      {q:"1 + 4 = ?", options:["4","5","6","3"], answer:1},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"What does + mean?", options:["Take away","Put together to find the total","Multiply","Divide"], answer:1}
    ]},
   {subject:"Science", title:"The Sun and Moon", summary:"Students explore the Sun as Earth's main light and heat source. The Moon reflects sunlight and can be seen at night. They observe day and night.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: The Sun and Moon", resourceUrl:"https://www.youtube.com/results?search_query=The%20Sun%20and%20Moon%20kindergarten%20educational",
    quiz:[
      {q:"The Sun gives us ___ and ___.", options:["ice and darkness","light and heat","rain and snow","cold and wind"], answer:1},
      {q:"The Sun is a ___.", options:["planet","moon","very large star","comet"], answer:2},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"Why should you never look directly at the Sun?", options:["It is invisible","It moves too fast","Its intense light can damage your eyes","It is too far away to matter"], answer:2}
    ]},
   {subject:"SocialStudies", title:"My School Community", summary:"Students explore the school as a community. They identify key helpers: principal, teacher, custodian, librarian, and secretary.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: My School Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20School%20Community%20kindergarten%20educational",
    quiz:[
      {q:"Who is the leader of a school?", options:["The student","The custodian","The principal","The librarian"], answer:2},
      {q:"What is a teacher's main role?", options:["Fix the building","Cook food","Help students learn","Answer phones"], answer:2},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Letter E", summary:"Explore uppercase and lowercase E. Students practise the short /e/ sound (egg, elephant) and identify E words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter E", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20E%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with E?", options:["Dog","Apple","Egg","Cat"], answer:2},
      {q:"What is the short E sound?", options:["Ay as in day","Ee as in see","Eh as in egg","Oh as in go"], answer:2},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"E is a ___.", options:["consonant","number","vowel","colour"], answer:2}
    ]},
   {subject:"Math", title:"Patterns: ABAB", summary:"Students identify, copy, extend, and create simple repeating AB patterns using colours, shapes, sounds, and actions.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Patterns: ABAB", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20ABAB%20kindergarten%20educational",
    quiz:[
      {q:"What comes next? Red, Blue, Red, Blue, ___", options:["Red","Green","Yellow","Blue"], answer:0},
      {q:"What is the pattern? Circle, Square, Circle, Square", options:["AAAA","ABAB","AABB","ABBA"], answer:1},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Create an ABAB pattern: Star, Heart, Star, Heart, ___", options:["Circle","Heart","Star","Triangle"], answer:2}
    ]},
   {subject:"Science", title:"Pets and Their Needs", summary:"Students explore common pets (dog, cat, fish, bird) and their needs: food, water, shelter, exercise, and love.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Pets and Their Needs", resourceUrl:"https://www.youtube.com/results?search_query=Pets%20and%20Their%20Needs%20kindergarten%20educational",
    quiz:[
      {q:"What do all pets need to stay healthy?", options:["Only toys","Food, water, shelter, and care","Only a bed","Only food"], answer:1},
      {q:"Why do dogs need daily exercise?", options:["They do not","Exercise keeps them healthy and happy","Only puppies need exercise","Only for big dogs"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to care well for pets?", options:["It is not","Animals feel pain and need care just as people do; owners are responsible","Only if you want to","Only for expensive pets"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibility", summary:"Students explore why communities have rules: to keep people safe and ensure fairness. They discuss school rules and why following them matters.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Rules and Responsibility", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibility%20kindergarten%20educational",
    quiz:[
      {q:"Rules help ___.", options:["create chaos","keep people safe and ensure fairness","only help teachers","only help adults"], answer:1},
      {q:"Which is a school rule?", options:["Run in the halls","Push others in line","Listen when someone is speaking","Never ask questions"], answer:2},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Letter F", summary:"Explore uppercase and lowercase F. Students practise the /f/ sound and name F words such as fish, frog, and flower.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter F", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20F%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with F?", options:["Dog","Cat","Fish","Egg"], answer:2},
      {q:"What sound does F make?", options:["Vvv","Buh","Fff","Puh"], answer:2},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"Lowercase f looks like ___.", options:["a straight line","a hook at the top with a crossbar","two bumps","a circle"], answer:1}
    ]},
   {subject:"Math", title:"Counting to 20", summary:"Students count forward from any number to 20, identify missing numbers, and begin to recognise teen numbers as ten and some more.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting to 20", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%2020%20kindergarten%20educational",
    quiz:[
      {q:"What comes after 13?", options:["12","14","15","16"], answer:1},
      {q:"Count: 15, 16, 17, ___", options:["18","19","20","14"], answer:0},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"Count on from 17: 17, 18, 19, ___", options:["16","20","21","22"], answer:1}
    ]},
   {subject:"Science", title:"Wild Animals", summary:"Students explore wild animals in Ontario and beyond. Wild animals live in natural habitats, find their own food, and are not tamed.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Wild Animals", resourceUrl:"https://www.youtube.com/results?search_query=Wild%20Animals%20kindergarten%20educational",
    quiz:[
      {q:"A wild animal is one that ___.", options:["lives in a cage","is someone's pet","lives in a natural habitat and finds its own food","is always dangerous"], answer:2},
      {q:"Which is a wild animal?", options:["Dog","Cat","Moose","Goldfish"], answer:2},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"What do wild animals eat?", options:["Food from grocery stores","Only vegetables","What they find in their natural habitat (prey, plants, insects)","Only what humans give them"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Being a Good Friend", summary:"Students explore qualities of friendship: kindness, sharing, taking turns, listening, and including others. Good friends treat each other with respect.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Being a Good Friend", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Good%20Friend%20kindergarten%20educational",
    quiz:[
      {q:"A good friend ___.", options:["takes your things without asking","is kind and includes others","only plays with you if you have toys","ignores you when busy"], answer:1},
      {q:"Sharing means ___.", options:["keeping everything for yourself","letting others use or enjoy what you have","only sharing food","only sharing with best friends"], answer:1},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Letter G", summary:"Explore uppercase and lowercase G. Students practise the hard /g/ sound (goat, grape) and find G words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter G", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20G%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with G?", options:["Dog","Apple","Goat","Fish"], answer:2},
      {q:"What sound does G make in 'goat'?", options:["Juh","Kuh","Guh","Shh"], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"G is a ___.", options:["vowel","consonant","number","colour"], answer:1}
    ]},
   {subject:"Math", title:"Non-Standard Measurement: Length", summary:"Students measure the length of objects using non-standard units (paper clips, blocks, hands) and use the words longer, shorter, and same.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Non-Standard Measurement: Length", resourceUrl:"https://www.youtube.com/results?search_query=Non-Standard%20Measurement%3A%20Length%20kindergarten%20educational",
    quiz:[
      {q:"Measuring tells you ___.", options:["the colour of something","how long, tall, or heavy something is","what something smells like","where something is"], answer:1},
      {q:"Non-standard units for measuring include ___.", options:["metres and centimetres","paper clips, hand spans, or blocks","kilograms","thermometers"], answer:1},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"If a desk is 3 shoe lengths long, shoe length is a ___.", options:["standard unit","non-standard unit","weight unit","temperature unit"], answer:1}
    ]},
   {subject:"Science", title:"Parts of a Plant", summary:"Students name and describe the function of plant parts: roots (absorb water), stem (transport water and support), leaves (make food), flower (reproduction), seed (new plant).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Parts of a Plant", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%20kindergarten%20educational",
    quiz:[
      {q:"Roots help a plant by ___.", options:["making food using sunlight","producing flowers","absorbing water and nutrients from the soil","protecting seeds"], answer:2},
      {q:"The stem of a plant ___.", options:["only makes flowers","only holds seeds","supports the plant and carries water from roots to leaves","absorbs sunlight directly"], answer:2},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"A seed will grow into ___.", options:["a flower only","a root only","a new plant","only a stem"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Students learn symbols that represent Canada: the maple leaf flag, beaver, and Parliament Buildings. These symbols create a shared Canadian identity.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20kindergarten%20educational",
    quiz:[
      {q:"What appears on the Canadian flag?", options:["A beaver","An eagle","A maple leaf","A moose"], answer:2},
      {q:"Canada's national animal is the ___.", options:["moose","beaver","bear","wolf"], answer:1},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Letter H", summary:"Explore uppercase and lowercase H. Students practise the /h/ sound and name H words such as house, horse, and hat.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter H", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20H%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with H?", options:["Dog","Apple","House","Frog"], answer:2},
      {q:"What sound does H make?", options:["Kuh","Huh (a breathy sound)","Puh","Shh"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"H is a ___.", options:["vowel","consonant","number","colour"], answer:1}
    ]},
   {subject:"Math", title:"Subtraction from 5", summary:"Students subtract within 5 using objects, pictures, and fingers. They understand subtraction as taking away.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Subtraction from 5", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%205%20kindergarten%20educational",
    quiz:[
      {q:"5 - 2 = ?", options:["2","3","4","5"], answer:1},
      {q:"4 - 4 = ?", options:["0","1","4","8"], answer:0},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"You have 5 grapes and eat 3. How many are left?", options:["1","2","3","4"], answer:1}
    ]},
   {subject:"Science", title:"Winter Season", summary:"Students explore characteristics of winter in Ontario: cold temperatures, ice and snow, shorter days, and how animals and plants respond.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Winter Season", resourceUrl:"https://www.youtube.com/results?search_query=Winter%20Season%20kindergarten%20educational",
    quiz:[
      {q:"What is winter like in Ontario?", options:["Very hot and sunny","Cold with snow and ice","Always rainy","Never changes"], answer:1},
      {q:"In winter, deciduous trees (like maples) ___.", options:["grow new leaves","bloom with flowers","lose their leaves (they fell in autumn)","stay green"], answer:2},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"What do humans wear in winter to stay warm?", options:["Swimsuits","T-shirts and shorts","Heavy coats, mittens, and boots","No special clothing"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Our Environment: Caring for Nature", summary:"Students learn that the environment includes air, water, land, plants, and animals. Everyone can help protect it by reducing waste and not littering.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Our Environment: Caring for Nature", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Environment%3A%20Caring%20for%20Nature%20kindergarten%20educational",
    quiz:[
      {q:"The environment includes ___.", options:["only animals","only plants","the air, water, land, plants, and all living things around us","only what we can see in cities"], answer:2},
      {q:"Littering means ___.", options:["recycling properly","dropping waste on the ground instead of in a bin","composting","picking up litter"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Short Vowel Sounds", summary:"Students review and practise identifying short vowel sounds: a (cat), e (hen), i (pig), o (dog), u (bug) in spoken words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Short Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%20kindergarten%20educational",
    quiz:[
      {q:"Which word has the short A sound?", options:["Bike","Name","Cat","Cute"], answer:2},
      {q:"Which word has the short I sound?", options:["Cake","Pig","Pete","Tube"], answer:1},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"All short vowel sounds come from ___.", options:["consonants","the vowels A, E, I, O, U","only A and E","numbers"], answer:1}
    ]},
   {subject:"Math", title:"3D Shapes: Sphere, Cube, Cylinder", summary:"Students identify and describe 3D shapes they encounter daily. A sphere (ball), cube (dice), and cylinder (can) are explored.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: 3D Shapes: Sphere, Cube, Cylinder", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Sphere%2C%20Cube%2C%20Cylinder%20kindergarten%20educational",
    quiz:[
      {q:"A sphere looks like ___.", options:["a box","a flat circle","a ball","a cone"], answer:2},
      {q:"A cube has ___ flat faces.", options:["4","5","6","8"], answer:2},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"How many corners (vertices) does a cube have?", options:["4","6","8","12"], answer:2}
    ]},
   {subject:"Science", title:"Weather", summary:"Students explore types of weather (sunny, cloudy, rainy, snowy, windy) and learn that weather affects what we wear and do each day.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Weather", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20kindergarten%20educational",
    quiz:[
      {q:"Weather is ___.", options:["the same every day","the condition of the air outside at a particular time","only about temperature","only rain or sunshine"], answer:1},
      {q:"Which tool measures temperature outside?", options:["A ruler","A scale","A thermometer","A compass"], answer:2},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Which weather word means 'no clouds and bright sunshine'?", options:["Foggy","Cloudy","Snowy","Sunny"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Family Traditions", summary:"Students learn that families celebrate traditions: special events, foods, stories, and practices that are passed down and shared. All traditions are valued.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Family Traditions", resourceUrl:"https://www.youtube.com/results?search_query=Family%20Traditions%20kindergarten%20educational",
    quiz:[
      {q:"A family tradition is ___.", options:["something only old people do","a special practice, story, or celebration that a family shares and passes down","only a holiday","only about food"], answer:1},
      {q:"An example of a family tradition could be ___.", options:["ignoring family members","a special meal made every year for a holiday","arguing about rules","never celebrating anything"], answer:1},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Letter I", summary:"Explore uppercase and lowercase I. Students practise the short /i/ sound (igloo, insect) and the long /i/ sound (ice, island).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter I", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20I%20kindergarten%20educational",
    quiz:[
      {q:"Which word has the short I sound?", options:["Ice","Bike","Igloo","Fire"], answer:2},
      {q:"Which word starts with I and is a cold home?", options:["Island","Iron","Igloo","Ivy"], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Which I word is a small creature?", options:["Island","Iron","Insect","Ice"], answer:2}
    ]},
   {subject:"Math", title:"Addition to 10", summary:"Students add two groups with totals up to 10. They use number lines, counters, and drawings.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Addition to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2010%20kindergarten%20educational",
    quiz:[
      {q:"4 + 6 = ?", options:["8","9","10","11"], answer:2},
      {q:"7 + 3 = ?", options:["8","9","10","11"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"8 + 2 = ?", options:["9","10","11","12"], answer:1}
    ]},
   {subject:"Science", title:"Farm Animals", summary:"Students learn about common farm animals (cow, pig, chicken, sheep, horse) and how farms provide food and other products for communities.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Farm Animals", resourceUrl:"https://www.youtube.com/results?search_query=Farm%20Animals%20kindergarten%20educational",
    quiz:[
      {q:"Which animal lives on a farm and gives us milk?", options:["Dog","Cow","Cat","Fish"], answer:1},
      {q:"Which farm animal gives us wool for clothing?", options:["Pig","Cow","Horse","Sheep"], answer:3},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is a farm animal?", options:["Tiger","Elephant","Horse","Polar bear"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Kinds of Families", summary:"Students learn that families can look different — some have two parents, some one parent, some grandparents as caregivers, blended families — and all are equally valid.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Kinds of Families", resourceUrl:"https://www.youtube.com/results?search_query=Kinds%20of%20Families%20kindergarten%20educational",
    quiz:[
      {q:"All families are ___.", options:["the same","small","different and equally special and valid","only large"], answer:2},
      {q:"Which is an example of a family type?", options:["A country","A school","A single-parent family","A city"], answer:2},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Letter J", summary:"Explore uppercase and lowercase J. Students practise the /j/ sound and name J words such as jump, jungle, and jar.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter J", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20J%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with J?", options:["Dog","Cat","Jump","Kite"], answer:2},
      {q:"What sound does J make?", options:["Yuh","Juh (as in jump)","Shh","Kuh"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"J is a ___.", options:["vowel","consonant","number","colour"], answer:1}
    ]},
   {subject:"Math", title:"Ordinal Numbers: 1st to 5th", summary:"Students use ordinal numbers (first, second, third, fourth, fifth) to describe position in a line or sequence.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Ordinal Numbers: 1st to 5th", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%201st%20to%205th%20kindergarten%20educational",
    quiz:[
      {q:"First means ___.", options:["last in line","in the middle","number one in position","second"], answer:2},
      {q:"If you win a race, you are in ___ place.", options:["last","second","third","first"], answer:3},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"The word 'second' describes ___.", options:["a unit of time only","a place in an ordered sequence","only sports rankings","only book chapters"], answer:1}
    ]},
   {subject:"Science", title:"Materials: Natural and Human-Made", summary:"Students sort materials into natural (wood, cotton, water, wool) and human-made/manufactured (plastic, glass, metal, nylon). Both types have different properties and uses.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Materials: Natural and Human-Made", resourceUrl:"https://www.youtube.com/results?search_query=Materials%3A%20Natural%20and%20Human-Made%20kindergarten%20educational",
    quiz:[
      {q:"A natural material is one that ___.", options:["is made in a factory","comes from nature (plants, animals, or the earth)","is always plastic","is never used for clothing"], answer:1},
      {q:"Which is a natural material?", options:["Plastic","Nylon","Glass","Wood"], answer:3},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Wool comes from ___.", options:["trees","sheep","factories","plastic plants"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Our Town/City", summary:"Students explore the features of their local community: streets, buildings, parks, services, and how the town/city helps people meet their needs.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Our Town/City", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Town%2FCity%20kindergarten%20educational",
    quiz:[
      {q:"What is a community?", options:["Only one house","Only a school","A group of people living and working together in an area","Only a shopping centre"], answer:2},
      {q:"Which feature do most towns have?", options:["A volcano","An ocean beach","Roads, schools, and emergency services","Only one store"], answer:2},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Letter K", summary:"Explore uppercase and lowercase K. Students practise the /k/ sound (same as hard C) and name K words such as kite, king, and kangaroo.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter K", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20K%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with K?", options:["Cat","Kite","Ball","Door"], answer:1},
      {q:"K makes the same sound as ___.", options:["hard C (kuh)","soft C (sss)","G","H"], answer:0},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"K is a ___.", options:["vowel","consonant","number","colour"], answer:1}
    ]},
   {subject:"Math", title:"ABC Patterns", summary:"Students identify, extend, and create ABC patterns (three repeating units) using colours, shapes, and objects.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: ABC Patterns", resourceUrl:"https://www.youtube.com/results?search_query=ABC%20Patterns%20kindergarten%20educational",
    quiz:[
      {q:"In an ABC pattern, what comes after A, B, C?", options:["D","C","A (the pattern repeats)","B"], answer:2},
      {q:"What comes next? Red, Blue, Green, Red, Blue, ___", options:["Red","Yellow","Green","Blue"], answer:2},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"Create: Cat, Dog, Bird, Cat, Dog, ___", options:["Cat","Dog","Fish","Bird"], answer:3}
    ]},
   {subject:"Science", title:"Sound and Light", summary:"Students explore that sound travels as vibrations and light travels in straight lines. They investigate different sources of both.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Sound and Light", resourceUrl:"https://www.youtube.com/results?search_query=Sound%20and%20Light%20kindergarten%20educational",
    quiz:[
      {q:"Sound is produced by ___.", options:["light waves","vibrations","magnetic fields","heat only"], answer:1},
      {q:"You can make sound by ___.", options:["only pressing a button","banging, plucking, blowing, or vibrating objects","looking at things","only singing"], answer:1},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Why do we need light?", options:["Only for reading","To see, grow plants, and feel warmth — light is essential for life on Earth","Only at night","Only in winter"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Rights and Responsibilities", summary:"Students learn that rights (things they are entitled to: safety, education, play) come with responsibilities (duties: respect, cooperation, looking after things).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Rights and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20and%20Responsibilities%20kindergarten%20educational",
    quiz:[
      {q:"A right is something you ___.", options:["must give up","are entitled to have or do","can take from others","never deserve"], answer:1},
      {q:"A responsibility is something you ___.", options:["are expected to do or look after","can ignore","only do when adults watch","never have as a child"], answer:0},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Letter L", summary:"Explore uppercase and lowercase L. Students practise the /l/ sound and name L words such as leaf, lion, and lemon.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter L", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20L%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with L?", options:["Dog","Apple","Leaf","Mango"], answer:2},
      {q:"What sound does L make?", options:["Ruh","Lll (as in leaf)","Buh","Puh"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Lowercase l looks like ___.", options:["a bump","a tall straight line","a curve","two bumps"], answer:1}
    ]},
   {subject:"Math", title:"Number Words 1 to 10", summary:"Students match numerals to number words: one, two, three, four, five, six, seven, eight, nine, ten.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Number Words 1 to 10", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Words%201%20to%2010%20kindergarten%20educational",
    quiz:[
      {q:"Which number word means 5?", options:["Three","Four","Five","Six"], answer:2},
      {q:"The number 8 is spelled ___.", options:["Eight","Eight — that's correct","Ate","Ayt"], answer:0},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"How do you spell 7?", options:["Sevan","Sevun","Seven","Siven"], answer:2}
    ]},
   {subject:"Science", title:"Spring Season", summary:"Students explore characteristics of spring in Ontario: warming temperatures, returning birds, blossoming plants, and rain showers.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Spring Season", resourceUrl:"https://www.youtube.com/results?search_query=Spring%20Season%20kindergarten%20educational",
    quiz:[
      {q:"What season comes after winter?", options:["Autumn","Spring","Summer","Rainy season"], answer:1},
      {q:"In spring, plants ___.", options:["die off","go dormant","start growing again — new leaves and flowers appear","have no change"], answer:2},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"What is one sign that spring has arrived?", options:["Snow on the ground","Leaves falling from trees","Flowers blooming and birds singing","Very cold temperatures"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Special People in My Life", summary:"Students identify and appreciate special people in their lives: family members, friends, teachers, and community helpers who contribute to their wellbeing.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Special People in My Life", resourceUrl:"https://www.youtube.com/results?search_query=Special%20People%20in%20My%20Life%20kindergarten%20educational",
    quiz:[
      {q:"A special person in your life is someone who ___.", options:["ignores you","does not care about you","cares about you, helps you, and makes you feel valued","only gives you gifts"], answer:2},
      {q:"How can you show appreciation to someone special?", options:["Ignore them","Take their things","Say thank you and show kindness","Never talk to them"], answer:2},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Letter M", summary:"Explore uppercase and lowercase M. Students practise the /m/ sound and name M words such as moon, monkey, and mango.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter M", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20M%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with M?", options:["Dog","Apple","Moon","Kite"], answer:2},
      {q:"What sound does M make?", options:["Mmm (lips together)","Nnn","Buh","Puh"], answer:0},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Lowercase m has ___.", options:["one bump","two bumps","three bumps","no bumps"], answer:1}
    ]},
   {subject:"Math", title:"Counting by 2s to 20", summary:"Students skip-count by 2s (2, 4, 6, 8...) to 20, recognising the pattern of even numbers.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting by 2s to 20", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20by%202s%20to%2020%20kindergarten%20educational",
    quiz:[
      {q:"Count by 2s: 2, 4, 6, ___", options:["7","8","9","10"], answer:1},
      {q:"Count by 2s: 10, 12, 14, ___", options:["15","16","17","18"], answer:1},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Which list is counting by 2s?", options:["1,2,3,4,5","2,4,6,8,10","1,3,5,7,9","2,3,5,7,11"], answer:1}
    ]},
   {subject:"Science", title:"Seasons Review", summary:"Students review the four seasons in Ontario, reinforcing what changes during each — temperatures, clothing, plants, animals, and activities.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Seasons Review", resourceUrl:"https://www.youtube.com/results?search_query=Seasons%20Review%20kindergarten%20educational",
    quiz:[
      {q:"Which season comes after summer?", options:["Winter","Spring","Fall/Autumn","Rainy season"], answer:2},
      {q:"In spring, many animals ___.", options:["hibernate","have babies and become active again","migrate south","go dormant"], answer:1},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"Which season is it when you can make a snowman?", options:["Spring","Summer","Fall","Winter"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Community Helpers: Doctors and Teachers", summary:"Students explore how doctors keep us healthy and how teachers help us learn. They appreciate that community helpers work to improve the lives of everyone.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Community Helpers: Doctors and Teachers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Doctors%20and%20Teachers%20kindergarten%20educational",
    quiz:[
      {q:"What does a doctor do?", options:["Build houses","Help people stay healthy and treat illness","Teach reading and writing","Drive a fire truck"], answer:1},
      {q:"Why is a teacher an important community helper?", options:["They fix cars","They help children learn and grow","They deliver mail","They cook food"], answer:1},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Letter P", summary:"Explore uppercase and lowercase P. Students identify the letter, practise its sound, and name words beginning with P such as penguin, pizza, and purple.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter P", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20P%20kindergarten%20educational",
    quiz:[
      {q:"What sound does the letter P make?", options:["Buh","Puh","Duh","Guh"], answer:1},
      {q:"Which word starts with P?", options:["Dog","Cat","Pig","Run"], answer:2},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Find the P word: sun, moon, ___, stars", options:["Sky","Planet","Cloud","Rain"], answer:1}
    ]},
   {subject:"Math", title:"Numbers 1-20: Recognition", summary:"Students read and write numerals 1 to 20, connecting each numeral to its quantity.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Numbers 1-20: Recognition", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%201-20%3A%20Recognition%20kindergarten%20educational",
    quiz:[
      {q:"What number comes after 15?", options:["14","16","17","18"], answer:1},
      {q:"Which numeral means fifteen?", options:["51","5","15","150"], answer:2},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"Write the number: nineteen", options:["91","9","19","190"], answer:2}
    ]},
   {subject:"Science", title:"Push and Pull: Forces", summary:"Students explore how pushing and pulling are forces that move objects. They observe that heavier objects need more force.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Push and Pull: Forces", resourceUrl:"https://www.youtube.com/results?search_query=Push%20and%20Pull%3A%20Forces%20kindergarten%20educational",
    quiz:[
      {q:"A push moves an object ___ you.", options:["toward","away from","beside","under"], answer:1},
      {q:"A pull moves an object ___ you.", options:["away from","beside","toward","under"], answer:2},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"A heavy object needs ___ force to move than a light one.", options:["less","the same","more","no"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Our School Community", summary:"Students explore the school as a community. They identify helpers such as the principal, caretaker, librarian, and office staff.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Our School Community", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Community%20kindergarten%20educational",
    quiz:[
      {q:"Who is the leader of a school?", options:["Teacher","Principal","Librarian","Caretaker"], answer:1},
      {q:"What does a librarian do?", options:["Fix the building","Help with books and reading","Cook food","Drive the bus"], answer:1},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Letter Q", summary:"Explore uppercase and lowercase Q. Students identify the letter, practise its sound, and recognise that Q is almost always followed by U in English words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter Q", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Q%20kindergarten%20educational",
    quiz:[
      {q:"What sound does Q make?", options:["Kw","Sh","Th","Zh"], answer:0},
      {q:"Q is almost always followed by ___.", options:["A","E","U","O"], answer:2},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Which Q word describes something fast?", options:["Quiet","Queen","Quick","Quarter"], answer:2}
    ]},
   {subject:"Math", title:"Sorting by Size and Colour", summary:"Students sort collections by size (big/small) and colour. They explain their sorting rule.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Sorting by Size and Colour", resourceUrl:"https://www.youtube.com/results?search_query=Sorting%20by%20Size%20and%20Colour%20kindergarten%20educational",
    quiz:[
      {q:"When you sort by size, you group objects that are ___.", options:["the same colour","the same size","the same shape","the same weight"], answer:1},
      {q:"Which sorting rule is used if all red things are together?", options:["Shape","Size","Colour","Weight"], answer:2},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"You have 3 big blocks and 5 small blocks. How many blocks in all?", options:["3","5","7","8"], answer:3}
    ]},
   {subject:"Science", title:"Sinking and Floating", summary:"Students predict and test whether objects sink or float in water, discovering that shape and material affect floating.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Sinking and Floating", resourceUrl:"https://www.youtube.com/results?search_query=Sinking%20and%20Floating%20kindergarten%20educational",
    quiz:[
      {q:"An object that stays on top of water ___.", options:["sinks","floats","dissolves","disappears"], answer:1},
      {q:"An object that goes to the bottom of water ___.", options:["floats","dissolves","sinks","melts"], answer:2},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"What can change whether something floats?", options:["Only its colour","Its shape and the material it is made of","Only its colour and smell","Nothing"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Needs and Wants", summary:"Students learn to distinguish between needs (things necessary to survive) and wants (things we desire but do not need).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Needs and Wants", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20and%20Wants%20kindergarten%20educational",
    quiz:[
      {q:"A need is something you ___ to survive.", options:["want","must have","choose","enjoy"], answer:1},
      {q:"A want is something you ___ to survive.", options:["must have","do not need","cannot live without","must buy"], answer:1},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Letter R", summary:"Explore uppercase and lowercase R. Students identify the letter, practise its /r/ sound, and name words beginning with R such as rabbit, rain, and rainbow.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter R", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20R%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with R?", options:["Ball","Cake","Rain","Dog"], answer:2},
      {q:"What sound does R make?", options:["Luh","Ruh","Wuh","Nuh"], answer:1},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Which colour starts with R?", options:["Blue","Green","Red","Purple"], answer:2}
    ]},
   {subject:"Math", title:"Patterns: ABAB and AABB", summary:"Students identify, copy, extend, and create repeating patterns using objects, sounds, and actions.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Patterns: ABAB and AABB", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20ABAB%20and%20AABB%20kindergarten%20educational",
    quiz:[
      {q:"In an ABAB pattern, what comes after A?", options:["A","C","B","D"], answer:2},
      {q:"What comes next? Red, Blue, Red, Blue, ___", options:["Red","Green","Yellow","Purple"], answer:0},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"Creating a pattern means you ___.", options:["mix things randomly","make a random pile","repeat a rule over and over","count to 10"], answer:2}
    ]},
   {subject:"Science", title:"Living Things: Animals", summary:"Students explore characteristics of animals. All animals move, eat, grow, and produce offspring. They are sorted by habitat and diet.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Living Things: Animals", resourceUrl:"https://www.youtube.com/results?search_query=Living%20Things%3A%20Animals%20kindergarten%20educational",
    quiz:[
      {q:"All animals ___.", options:["make their own food from sunlight","can fly","eat other organisms to get energy","live in water"], answer:2},
      {q:"An animal that eats only plants is a ___.", options:["carnivore","herbivore","omnivore","decomposer"], answer:1},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a characteristic all animals share?", options:["They all fly","They all swim","They all breathe","They all have fur"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Our Neighbourhood", summary:"Students explore their neighbourhood as a community with homes, parks, stores, schools, and community services close together.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Our Neighbourhood", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Neighbourhood%20kindergarten%20educational",
    quiz:[
      {q:"A neighbourhood is a ___.", options:["country","planet","city","small area where people live close together"], answer:3},
      {q:"Which place would you find in a neighbourhood?", options:["A mountain range","A desert","A park or playground","An ocean"], answer:2},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Letter S", summary:"Explore uppercase and lowercase S. Students identify the letter, practise its /s/ sound, and name S words such as sun, snake, and star.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter S", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20S%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with S?", options:["Hat","Bat","Sun","Run"], answer:2},
      {q:"What sound does S make?", options:["Shh","Sss","Zzz","Tss"], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"How many S words: sun, moon, star, sky, cloud?", options:["1","2","3","4"], answer:2}
    ]},
   {subject:"Math", title:"Addition to 10", summary:"Students add two groups of objects to find the total. They use pictures, counters, and number lines to explore addition.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Addition to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2010%20kindergarten%20educational",
    quiz:[
      {q:"3 + 4 = ?", options:["5","6","7","8"], answer:2},
      {q:"How many in all: 2 apples + 5 apples?", options:["3","6","7","8"], answer:2},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"1 + 9 = ?", options:["8","10","11","9"], answer:1}
    ]},
   {subject:"Science", title:"The Sun and Sky", summary:"Students explore the Sun as Earth's main source of light and heat. They observe that the sky changes from day to night.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: The Sun and Sky", resourceUrl:"https://www.youtube.com/results?search_query=The%20Sun%20and%20Sky%20kindergarten%20educational",
    quiz:[
      {q:"The Sun gives Earth ___ and ___.", options:["cold and dark","light and heat","rain and wind","snow and ice"], answer:1},
      {q:"The Sun is a ___.", options:["planet","moon","star","comet"], answer:2},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Why should you never look directly at the Sun?", options:["It is dark","It is too cold","Its light can damage your eyes","It is invisible"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Students learn about symbols that represent Canada: the maple leaf, beaver, Canadian flag, Parliament Buildings, and the national anthem.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20kindergarten%20educational",
    quiz:[
      {q:"What is Canada's national symbol on the flag?", options:["Rose","Beaver","Maple leaf","Moose"], answer:2},
      {q:"The beaver is a Canadian symbol of ___.", options:["danger","hard work and industry","beauty","sport"], answer:1},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Letter T", summary:"Explore uppercase and lowercase T. Students identify the letter, practise its /t/ sound, and name T words such as tiger, table, and turtle.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter T", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20T%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with T?", options:["Dog","Cat","Fish","Tiger"], answer:3},
      {q:"What sound does T make?", options:["Duh","Tuh","Buh","Kuh"], answer:1},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"How many T words: tree, flower, turtle, table, apple?", options:["1","2","3","4"], answer:2}
    ]},
   {subject:"Math", title:"Subtraction from 10", summary:"Students subtract within 10 using objects, pictures, and number lines. They understand subtraction as taking away.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Subtraction from 10", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%2010%20kindergarten%20educational",
    quiz:[
      {q:"10 - 3 = ?", options:["6","7","8","9"], answer:1},
      {q:"8 - 5 = ?", options:["2","3","4","5"], answer:1},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"6 - 2 = ?", options:["2","3","4","5"], answer:2}
    ]},
   {subject:"Science", title:"Air and Wind", summary:"Students explore air as a real substance that takes up space, and that moving air is called wind. Wind can be gentle or strong.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Air and Wind", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Wind%20kindergarten%20educational",
    quiz:[
      {q:"Moving air is called ___.", options:["Rain","Wind","Snow","Clouds"], answer:1},
      {q:"Air takes up ___.", options:["no space","space (even if we cannot see it)","only a little space","only hot space"], answer:1},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"What can wind do?", options:["Nothing","Move leaves, fly kites, and power windmills","Only feel cold","Only dry laundry"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Feelings and Emotions", summary:"Students explore a range of emotions and learn healthy ways to express feelings and manage emotions in social situations.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Feelings and Emotions", resourceUrl:"https://www.youtube.com/results?search_query=Feelings%20and%20Emotions%20kindergarten%20educational",
    quiz:[
      {q:"A feeling that makes you smile and feel happy inside is ___.", options:["anger","sadness","joy","fear"], answer:2},
      {q:"When you feel angry, a healthy response is to ___.", options:["hit someone","yell loudly","take deep breaths and talk about it","ignore it forever"], answer:2},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Letter U", summary:"Explore uppercase and lowercase U. Students identify the letter, practise its short /u/ sound (umbrella) and long /u/ sound (uniform), and find U words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter U", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20U%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with U?", options:["Apple","Egg","Umbrella","Ice"], answer:2},
      {q:"The short U sound is heard in ___.", options:["Unite","Umbrella","Use","Cube"], answer:1},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Find the U: apple, umbrella, orange, egg", options:["apple","umbrella","orange","egg"], answer:1}
    ]},
   {subject:"Math", title:"Graphs: Bar Graphs", summary:"Students create and read simple picture and bar graphs. They answer questions about the data shown.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Graphs: Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Graphs%3A%20Bar%20Graphs%20kindergarten%20educational",
    quiz:[
      {q:"A bar graph uses ___ to show information.", options:["colours only","bars (rectangles) of different heights","circles","only numbers"], answer:1},
      {q:"The tallest bar in a bar graph shows the ___ amount.", options:["smallest","same","largest","unknown"], answer:2},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"The title of a graph tells you ___.", options:["how many bars there are","what the graph is about","the exact numbers","the colours used"], answer:1}
    ]},
   {subject:"Science", title:"Day and Night", summary:"Students explore why we have day and night — Earth rotates on its axis, causing each side to face toward or away from the Sun.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Day and Night", resourceUrl:"https://www.youtube.com/results?search_query=Day%20and%20Night%20kindergarten%20educational",
    quiz:[
      {q:"Day and night are caused by ___.", options:["the Moon moving","clouds covering the Sun","Earth rotating (spinning) on its axis","the Sun moving around Earth"], answer:2},
      {q:"When your part of Earth faces the Sun, it is ___.", options:["night","raining","day","cold"], answer:2},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"The Moon is best seen at ___.", options:["noon","daytime","nighttime","sunrise only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Friends and Kindness", summary:"Students explore what makes a good friend and practise acts of kindness. They discuss how kind actions make communities happier.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Friends and Kindness", resourceUrl:"https://www.youtube.com/results?search_query=Friends%20and%20Kindness%20kindergarten%20educational",
    quiz:[
      {q:"A good friend ___.", options:["always agrees","is kind, listens, and includes others","ignores your feelings","only plays with you if you have toys"], answer:1},
      {q:"Kindness means ___.", options:["always winning","saying and doing things that make others feel valued","only sharing food","ignoring others"], answer:1},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Letter V", summary:"Explore uppercase and lowercase V. Students identify the letter, practise its /v/ sound, and name V words such as van, vest, and vegetables.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter V", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20V%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with V?", options:["Ball","Van","Cat","Door"], answer:1},
      {q:"What sound does V make?", options:["Fuh","Vvv","Buh","Wuh"], answer:1},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"How many V words: van, vase, apple, vine, umbrella?", options:["2","3","4","5"], answer:1}
    ]},
   {subject:"Math", title:"2D Shapes Review", summary:"Students review circles, squares, triangles, and rectangles. They identify, describe, and sort shapes by their properties.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: 2D Shapes Review", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%20Review%20kindergarten%20educational",
    quiz:[
      {q:"A circle has ___ corners.", options:["0","1","2","4"], answer:0},
      {q:"A square has ___ equal sides.", options:["2","3","4","5"], answer:2},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"A shape with no straight sides and no corners is a ___.", options:["triangle","square","rectangle","circle"], answer:3}
    ]},
   {subject:"Science", title:"Plants Need Water and Light", summary:"Students investigate what happens to plants without water or light, reinforcing that plants need both to grow.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Plants Need Water and Light", resourceUrl:"https://www.youtube.com/results?search_query=Plants%20Need%20Water%20and%20Light%20kindergarten%20educational",
    quiz:[
      {q:"Plants need ___ and ___ to grow.", options:["ice and darkness","water and sunlight","mud and shade","sand and wind"], answer:1},
      {q:"What would most likely happen to a plant with no water?", options:["It grows faster","It stays the same","It wilts and eventually dies","It glows"], answer:2},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Plants make their food using ___.", options:["soil alone","only water","sunlight, water, and carbon dioxide","only air"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Helping at Home", summary:"Students explore how family members share responsibilities at home: cooking, cleaning, caring for younger siblings, and yard work.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
    quiz:[
      {q:"Responsibilities at home are ___.", options:["only for adults","tasks that all family members share to keep the home running well","only chores for children","optional extras"], answer:1},
      {q:"Which is an example of helping at home?", options:["Leaving your toys everywhere","Cleaning up after yourself","Watching TV all day","Eating all the snacks"], answer:1},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Letter W", summary:"Explore uppercase and lowercase W. Students identify the letter, practise its /w/ sound, and name W words such as water, whale, and winter.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter W", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20W%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with W?", options:["Rain","Snow","Water","Ice"], answer:2},
      {q:"What sound does W make?", options:["Vvv","Wuh","Buh","Muh"], answer:1},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"How many W words: well, wall, ball, walk, tall?", options:["1","2","3","4"], answer:2}
    ]},
   {subject:"Math", title:"Measurement: Length", summary:"Students use non-standard units (paper clips, blocks) to measure and compare the length of objects. They use terms: longer, shorter, same.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Measurement: Length", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Length%20kindergarten%20educational",
    quiz:[
      {q:"Measurement tells you ___.", options:["the colour of something","how long, tall, or heavy something is","how hot something is","what something smells like"], answer:1},
      {q:"If you measure a pencil with paper clips, you are using a ___.", options:["standard unit","non-standard unit","ruler","metre stick"], answer:1},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"A book is 8 paper clips long. A pencil is 5 paper clips long. The book is ___.", options:["shorter","the same length","longer","impossible to compare"], answer:2}
    ]},
   {subject:"Science", title:"Animals in Winter", summary:"Students learn how animals survive winter: some hibernate, some migrate south, and some stay active by adapting their behaviour.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Animals in Winter", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20in%20Winter%20kindergarten%20educational",
    quiz:[
      {q:"Hibernation means ___.", options:["flying south for winter","sleeping deeply through winter to save energy","growing a thicker coat","building a nest"], answer:1},
      {q:"Which animal is known for hibernating in winter?", options:["Goose","Butterfly","Bear","Robin"], answer:2},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Some animals grow thicker fur in winter to ___.", options:["look better","keep warm","find food faster","swim better"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Weather and Our Lives", summary:"Students explore how weather affects daily decisions: what to wear, what activities to do, and how communities prepare for extreme weather.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Weather and Our Lives", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Our%20Lives%20kindergarten%20educational",
    quiz:[
      {q:"Weather affects what we ___.", options:["eat for breakfast","wear and what activities we do","dream about","read"], answer:1},
      {q:"On a rainy day you would wear ___.", options:["a swimsuit","a t-shirt and shorts","a raincoat and boots","nothing different"], answer:2},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Letter X", summary:"Explore uppercase and lowercase X. Students identify the letter, practise its /ks/ sound, and note that X rarely starts words in English.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter X", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20X%20kindergarten%20educational",
    quiz:[
      {q:"What sound does X usually make?", options:["Zuh","Ks (as in fox)","Sh","Tuh"], answer:1},
      {q:"X is found at the ___ of most English words.", options:["beginning","middle or end","never","only at the start"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Which word ends in X?", options:["Ball","Box","Bat","Bag"], answer:1}
    ]},
   {subject:"Math", title:"Measurement: Capacity", summary:"Students compare the capacity (how much a container holds) using non-standard units. They use terms: more, less, same.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Measurement: Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Capacity%20kindergarten%20educational",
    quiz:[
      {q:"Capacity means ___.", options:["how heavy something is","how much a container can hold","how long something is","how hot something is"], answer:1},
      {q:"A bucket holds ___ water than a cup.", options:["less","the same","more","no"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Which holds the most: a teaspoon, a cup, or a pot?", options:["Teaspoon","Cup","Pot","They are all equal"], answer:2}
    ]},
   {subject:"Science", title:"Properties of Water", summary:"Students explore water as a liquid that takes the shape of its container, that it freezes into solid ice and evaporates into invisible vapour.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Properties of Water", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Water%20kindergarten%20educational",
    quiz:[
      {q:"Water is a ___.", options:["solid","gas","liquid at room temperature","powder"], answer:2},
      {q:"When water freezes it becomes ___.", options:["gas","vapour","liquid","solid ice"], answer:3},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Which temperature turns liquid water into ice?", options:["Above 0°C","At 0°C (or below)","At 100°C","At 50°C"], answer:1}
    ]},
   {subject:"SocialStudies", title:"My Country: Canada", summary:"Students explore Canada as their country: its size, capital city, official languages, and symbols that make it unique.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: My Country: Canada", resourceUrl:"https://www.youtube.com/results?search_query=My%20Country%3A%20Canada%20kindergarten%20educational",
    quiz:[
      {q:"Canada is located in ___.", options:["South America","Europe","Africa","North America"], answer:3},
      {q:"Canada's capital city is ___.", options:["Toronto","Montreal","Ottawa","Vancouver"], answer:2},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Letter Y", summary:"Explore uppercase and lowercase Y. Students identify the letter, practise its /y/ sound, and name Y words such as yak, yarn, and yes.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter Y", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Y%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with Y?", options:["Zoo","Fox","Yak","Ant"], answer:2},
      {q:"What sound does Y make at the start of a word?", options:["Wuh","Yuh","Juh","Iuh"], answer:1},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"How many Y words: yes, year, no, yesterday, red?", options:["1","2","3","4"], answer:1}
    ]},
   {subject:"Math", title:"Numbers to 20: Addition and Subtraction", summary:"Students add and subtract within 20 using number lines, counters, and mental strategies.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Numbers to 20: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2020%3A%20Addition%20and%20Subtraction%20kindergarten%20educational",
    quiz:[
      {q:"12 + 5 = ?", options:["16","17","18","15"], answer:1},
      {q:"18 - 4 = ?", options:["12","13","14","15"], answer:2},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"A number line helps you ___.", options:["measure weight","add and subtract by counting forward and backward","find shapes","measure temperature"], answer:1}
    ]},
   {subject:"Science", title:"Insects", summary:"Students explore characteristics of insects: 6 legs, 3 body parts (head, thorax, abdomen), and often wings. Common Ontario insects are identified.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Insects", resourceUrl:"https://www.youtube.com/results?search_query=Insects%20kindergarten%20educational",
    quiz:[
      {q:"All insects have ___ legs.", options:["4","6","8","10"], answer:1},
      {q:"The three body parts of an insect are head, thorax, and ___.", options:["wing","tail","abdomen","shell"], answer:2},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Which Ontario insect is known for its orange and black wings?", options:["Bumblebee","Monarch butterfly","Firefly","Dragonfly"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Exploring Our Differences and Similarities", summary:"Students celebrate diversity by exploring how people are alike and different in appearance, language, food, and traditions.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Exploring Our Differences and Similarities", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Our%20Differences%20and%20Similarities%20kindergarten%20educational",
    quiz:[
      {q:"People from different cultures may have different ___.", options:["Only food","Only language","Languages, foods, celebrations, and traditions","Only names"], answer:2},
      {q:"Celebrating our differences helps us ___.", options:["fight more","feel confused","learn from and respect each other","stay separate"], answer:2},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Letter Z", summary:"Explore uppercase and lowercase Z. Students identify the letter, practise its /z/ sound, and name Z words such as zebra, zero, and zip.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Letter Z", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Z%20kindergarten%20educational",
    quiz:[
      {q:"Which word starts with Z?", options:["Animal","Bee","Zebra","Dog"], answer:2},
      {q:"What sound does Z make?", options:["Sss","Zzz","Tuh","Shh"], answer:1},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Z is the ___ letter of the English alphabet.", options:["1st","13th","25th","26th"], answer:3}
    ]},
   {subject:"Math", title:"Sorting 3D Shapes", summary:"Students identify and sort 3D shapes: sphere, cube, cylinder, and cone. They describe them using faces, edges, and vertices.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Sorting 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Sorting%203D%20Shapes%20kindergarten%20educational",
    quiz:[
      {q:"A sphere looks like ___.", options:["a box","a ball","a can","a cone"], answer:1},
      {q:"A cube has ___ flat faces.", options:["4","5","6","8"], answer:2},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"Which 3D shape can roll?", options:["Cube","Cone and sphere","Only sphere","Rectangle"], answer:1}
    ]},
   {subject:"Science", title:"Taking Care of Our Environment", summary:"Students learn about littering and waste, and simple actions to protect the environment: picking up litter, reducing waste, and recycling.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Taking Care of Our Environment", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Environment%20kindergarten%20educational",
    quiz:[
      {q:"Litter means ___.", options:["recycled material","waste thrown on the ground instead of in a bin","a type of animal home","a bed for kittens only"], answer:1},
      {q:"Recycling means ___.", options:["throwing everything away","using objects again or making them into new things","burning waste","ignoring waste"], answer:1},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to look after the environment?", options:["It is not","We share the planet with all living things and must keep it healthy","Only scientists care","Only for adults"], answer:1}
    ]},
   {subject:"SocialStudies", title:"All About Me: Reflection", summary:"Students reflect on their learning through the year, identifying what they have learned, how they have grown, and what they are proud of.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: All About Me: Reflection", resourceUrl:"https://www.youtube.com/results?search_query=All%20About%20Me%3A%20Reflection%20kindergarten%20educational",
    quiz:[
      {q:"Reflecting on your learning means ___.", options:["ignoring what happened","thinking about what you learned and how you grew","copying someone else","only thinking about bad things"], answer:1},
      {q:"I am most proud when ___.", options:["I give up","I try my best and do not give up","I do nothing","I copy others"], answer:1},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading: Simple Sentences", summary:"Students read and understand simple sentences. They identify the naming part (who or what) and the action part (what they do).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Reading: Simple Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Simple%20Sentences%20kindergarten%20educational",
    quiz:[
      {q:"A sentence has a naming part and an ___ part.", options:["eating","describing","action","colouring"], answer:2},
      {q:"In 'The cat runs fast,' the naming part is ___.", options:["runs","fast","The cat","fast and runs"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a complete sentence?", options:["The big red.","Runs fast.","The bird sings.","Jumping high quickly."], answer:2}
    ]},
   {subject:"Math", title:"Counting Back: Subtraction", summary:"Students use counting back as a strategy for subtraction within 20.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting Back: Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Back%3A%20Subtraction%20kindergarten%20educational",
    quiz:[
      {q:"To subtract 3 from 9, count back 3 from 9. Answer = ?", options:["5","6","7","8"], answer:1},
      {q:"10 - 4: count back 4 from 10. Answer = ?", options:["5","6","7","8"], answer:1},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy helps with subtraction?", options:["Adding more","Counting back from the starting number","Multiplication","Dividing"], answer:1}
    ]},
   {subject:"Science", title:"Materials Around Us", summary:"Students explore everyday materials (wood, plastic, metal, fabric, glass) and their properties such as hard, soft, bendy, and transparent.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Materials Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Materials%20Around%20Us%20kindergarten%20educational",
    quiz:[
      {q:"Wood is usually described as ___.", options:["soft and bendy","transparent","hard and solid","liquid"], answer:2},
      {q:"Which material lets light through (is transparent)?", options:["Wood","Metal","Glass","Fabric"], answer:2},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"We choose materials based on their ___.", options:["colour only","size only","properties (what they are like and what they can do)","weight only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Special Days and Celebrations", summary:"Students explore special days celebrated in their community and around the world, recognising that different cultures celebrate in unique ways.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Special Days and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Special%20Days%20and%20Celebrations%20kindergarten%20educational",
    quiz:[
      {q:"A celebration is ___.", options:["a type of food","a special occasion that people mark with activities","a type of building","a school subject"], answer:1},
      {q:"Which is a Canadian celebration?", options:["Diwali (Hindu/Sikh)","Canada Day (July 1)","Eid al-Fitr (Islamic)","Chinese New Year"], answer:1},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: My Favourite Thing", summary:"Students practise simple sentence writing about a personal favourite topic, using a capital letter, words, and a period.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Writing: My Favourite Thing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Favourite%20Thing%20kindergarten%20educational",
    quiz:[
      {q:"A sentence starts with a ___ letter.", options:["lowercase","capital (uppercase)","random","number"], answer:1},
      {q:"A sentence ends with a ___.", options:["comma","capital letter","period, question mark, or exclamation mark","slash"], answer:2},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"A picture can help your reader ___.", options:["add more letters","understand your writing better","change your topic","erase your work"], answer:1}
    ]},
   {subject:"Math", title:"Number Stories", summary:"Students create and solve simple addition and subtraction number stories using pictures and equations.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Number Stories", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Stories%20kindergarten%20educational",
    quiz:[
      {q:"A number story is ___.", options:["a book about numbers","a maths problem described in words","only about counting","a fairy tale"], answer:1},
      {q:"There are 3 birds on a branch. 2 more land. How many now?", options:["3","4","5","6"], answer:2},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"A number story always includes ___.", options:["a character, a problem, and a number answer","only an equation","only a picture","only letters"], answer:0}
    ]},
   {subject:"Science", title:"Living and Non-Living Review", summary:"Students review the differences between living things (grow, breathe, reproduce, respond) and non-living things (do not do these things).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Living and Non-Living Review", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Review%20kindergarten%20educational",
    quiz:[
      {q:"Living things can ___.", options:["fly always","grow, breathe, and reproduce","glow in the dark","never change"], answer:1},
      {q:"A rock is non-living because it ___.", options:["breathes","grows","reproduces","does not grow, breathe, or reproduce"], answer:3},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the best example of a non-living thing?", options:["Fish","Flower","Water","Mushroom"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Caring for the Earth", summary:"Students review environmental responsibility: conserving water, reducing waste, protecting animals and plants, and making choices that help the planet.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Caring for the Earth", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Earth%20kindergarten%20educational",
    quiz:[
      {q:"Conserving water means ___.", options:["using as much water as possible","wasting water daily","using water carefully and not wasting it","only drinking water"], answer:2},
      {q:"Which action helps protect the Earth?", options:["Leaving taps running","Throwing litter in parks","Turning off lights when leaving a room","Buying more plastic bags"], answer:2},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Rhyming Words", summary:"Students identify and generate rhyming words. Rhyming words have the same ending sound (e.g., cat/hat, dog/log, play/day).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Rhyming Words", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20kindergarten%20educational",
    quiz:[
      {q:"Rhyming words have the same ___.", options:["beginning sound","middle sound","ending sound","number of letters"], answer:2},
      {q:"Which word rhymes with CAT?", options:["Dog","Hat","Cup","Sun"], answer:1},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"If CAKE rhymes with LAKE, which also rhymes?", options:["Like","Bike","Make","Milk"], answer:2}
    ]},
   {subject:"Math", title:"Counting to 100 by 2s and 5s", summary:"Students count forward by 2s and 5s to 100, building number sense and a foundation for multiplication.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Counting to 100 by 2s and 5s", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%20100%20by%202s%20and%205s%20kindergarten%20educational",
    quiz:[
      {q:"Count by 2s: 2, 4, 6, ___, 10", options:["7","8","9","11"], answer:1},
      {q:"Count by 5s: 5, 10, 15, ___", options:["16","18","20","25"], answer:2},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"Counting by 2s gives you only ___ numbers.", options:["odd","even","random","prime"], answer:1}
    ]},
   {subject:"Science", title:"Science Review: All Strands", summary:"Students review life science (plants, animals), earth science (seasons, weather), and physical science (forces, materials).",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Science Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20kindergarten%20educational",
    quiz:[
      {q:"Plants make food using ___, water, and carbon dioxide.", options:["Soil","Sunlight","Fertilizer","Rain"], answer:1},
      {q:"Animals need food, water, shelter, and ___ to survive.", options:["Toys","Air","Television","Money"], answer:1},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a property of metal?", options:["Soft and bendy","Transparent","Usually hard and conducts electricity","Light as a feather"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Social Studies Review", summary:"Students review communities, Canadian geography, symbols, seasons, and citizenship topics covered through the year.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Social Studies Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%20kindergarten%20educational",
    quiz:[
      {q:"What is the capital city of Canada?", options:["Toronto","Vancouver","Ottawa","Montreal"], answer:2},
      {q:"A community is ___.", options:["a type of animal","a group of people living and working together in an area","only a city","only a village"], answer:1},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Alphabet Review and Simple Reading", summary:"Students review all 26 letters, their sounds, and demonstrate early reading of simple CVC (consonant-vowel-consonant) words.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Alphabet Review and Simple Reading", resourceUrl:"https://www.youtube.com/results?search_query=Alphabet%20Review%20and%20Simple%20Reading%20kindergarten%20educational",
    quiz:[
      {q:"How many letters are in the English alphabet?", options:["24","25","26","27"], answer:2},
      {q:"Which is a vowel?", options:["B","C","D","E"], answer:3},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"Reading means ___.", options:["colouring pictures","turning letters into words and understanding their meaning","only looking at books","only writing"], answer:1}
    ]},
   {subject:"Math", title:"Year Review: Math", summary:"Students review all Kindergarten math concepts: counting, shapes, patterns, measurement, and addition/subtraction.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Year Review: Math", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Math%20kindergarten%20educational",
    quiz:[
      {q:"Count: How many in 3 + 4?", options:["5","6","7","8"], answer:2},
      {q:"What shape has 4 equal sides?", options:["Triangle","Circle","Rectangle","Square"], answer:3},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"Which is longer: a desk or a pencil?", options:["Pencil","Desk","They are the same","Cannot tell"], answer:1}
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Students review all Kindergarten science: living and non-living, plants, animals, seasons, weather, forces, and materials.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20kindergarten%20educational",
    quiz:[
      {q:"A plant is a ___ thing.", options:["non-living","living","neither","both"], answer:1},
      {q:"Animals need food, water, shelter, and air. These are called ___.", options:["Wants","Needs","Options","Extras"], answer:1},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Which material is transparent (see-through)?", options:["Wood","Metal","Glass","Rubber"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies and Citizenship", summary:"Students review community helpers, Canadian symbols, rights and responsibilities, celebrations, and caring for the Earth.",
-   resourceLabel:"TVO Learn: Kindergarten", resourceUrl:"https://tvolearn.com/pages/kindergarten",
+   resourceLabel:"YouTube: Year Review: Social Studies and Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20and%20Citizenship%20kindergarten%20educational",
    quiz:[
      {q:"Who helps keep you healthy by giving check-ups?", options:["Teacher","Doctor","Librarian","Caretaker"], answer:1},
      {q:"What symbol appears on the Canadian flag?", options:["Eagle","Maple leaf","Beaver","Moose"], answer:1},

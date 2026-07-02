@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Short Vowel Sounds", summary:"Practice blending short vowel sounds (a, e, i, o, u) in simple words like cat, bed, pig, hop, sun — a Grade 1 foundation skill Grade 2 builds on.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Short Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%20grade%202%20educational",
    videoUrl:"https://www.youtube.com/watch?v=69qq1D3j8w8",
    quiz:[
      {q:"Which word has the short 'a' sound?", options:["cake","cat","car","cane"], answer:1},
@@ -13,7 +13,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has a short 'e' sound?", options:["bee","bed","be","bead"], answer:1},
    ]},
   {subject:"Math", title:"Numbers to 50", summary:"Ontario Number strand: count, read, and represent whole numbers to 50, and compare quantities.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Numbers to 50", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2050%20grade%202%20educational",
    videoUrl:"https://www.youtube.com/watch?v=9XZypM2Z3Ro",
    quiz:[
      {q:"Which number comes right after 39?", options:["38","40","41","30"], answer:1},
@@ -23,7 +23,7 @@ const curriculum: DayContent[] = [
      {q:"Count by 1s: 45, 46, 47, __?", options:["48","49","50","44"], answer:0},
    ]},
   {subject:"Science", title:"Living vs. Nonliving Things", summary:"Ontario Life Systems strand: living things grow, need food/water/air, and respond to their environment; nonliving things do not.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Living vs. Nonliving Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20vs.%20Nonliving%20Things%20grade%202%20educational",
    quiz:[
      {q:"Which of these is a living thing?", options:["Rock","Tree","Chair","Cloud"], answer:1},
      {q:"Which of these is NOT living?", options:["Dog","Flower","Bicycle","Bird"], answer:2},
@@ -32,7 +32,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a sign something is alive?", options:["It is hard","It breathes","It is blue","It is heavy"], answer:1},
    ]},
   {subject:"SocialStudies", title:"My Family and Community", summary:"Ontario Heritage & Identity strand: families and communities have traditions, celebrations, and roles that make up our personal and community identity.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: My Family and Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20and%20Community%20grade%202%20educational",
    quiz:[
      {q:"A community is a place where people...", options:["Live alone","Live and help each other","Never meet","Only work"], answer:1},
      {q:"Which of these is part of a community?", options:["School","The moon","An ocean far away","A different planet"], answer:0},
@@ -43,7 +43,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Long Vowel Sounds", summary:"Long vowels often say their own name, like in cake, bee, kite, boat, and cube.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Long Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%20grade%202%20educational",
    quiz:[
      {q:"Which word has a long 'a' sound?", options:["cat","cake","cap","cab"], answer:1},
      {q:"Which word has a long 'e' sound?", options:["bed","bee","bet","beg"], answer:1},
@@ -52,7 +52,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has a long 'u' sound?", options:["cup","cube","cut","cuff"], answer:1},
    ]},
   {subject:"Math", title:"Addition Within 20", summary:"Ontario Number/Algebra strands: add two numbers with a total to 20 using counting on, doubles, and number lines.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Addition Within 20", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%2020%20grade%202%20educational",
    videoUrl:"https://www.youtube.com/watch?v=ZgzpTx-s9Zo",
    quiz:[
      {q:"7 + 6 = ?", options:["12","13","14","11"], answer:1},
@@ -62,7 +62,7 @@ const curriculum: DayContent[] = [
      {q:"6 + 7 = ?", options:["12","13","14","11"], answer:1},
    ]},
   {subject:"Science", title:"Growth and Changes in Animals", summary:"Ontario Life Systems strand for Grade 2: animals grow and change through life cycles and need certain things to survive.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%202%20educational",
    quiz:[
      {q:"What is a life cycle?", options:["A type of bicycle","The stages an animal goes through as it grows","A kind of food","A season"], answer:1},
      {q:"A caterpillar changes into a...", options:["Frog","Butterfly or moth","Bird","Fish"], answer:1},
@@ -71,7 +71,7 @@ const curriculum: DayContent[] = [
      {q:"As most animals grow, they...", options:["Get smaller","Stay exactly the same","Change in size and sometimes shape","Disappear"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Traditions and Celebrations", summary:"Different families and communities in Canada celebrate different traditions, and learning about them builds understanding and respect.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Traditions and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20and%20Celebrations%20grade%202%20educational",
    quiz:[
      {q:"Why do families have traditions?", options:["To follow rules only","To celebrate and share what is important to them","Because they must","No real reason"], answer:1},
      {q:"Learning about other families' traditions helps us...", options:["Ignore differences","Understand and respect each other","Copy everyone exactly","Forget our own traditions"], answer:1},
@@ -82,7 +82,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Nouns: People, Places, Things", summary:"A noun names a person, place, animal, or thing, like teacher, park, dog, or book.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Nouns: People, Places, Things", resourceUrl:"https://www.youtube.com/results?search_query=Nouns%3A%20People%2C%20Places%2C%20Things%20grade%202%20educational",
    quiz:[
      {q:"Which word is a noun?", options:["Run","Happy","Dog","Quickly"], answer:2},
      {q:"Which word names a place?", options:["School","Jump","Blue","Sing"], answer:0},
@@ -91,7 +91,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a thing (object) noun?", options:["Book","Run","Quiet","Slowly"], answer:0},
    ]},
   {subject:"Math", title:"Subtraction Within 20", summary:"Practice taking away numbers within 20, using counting back and known facts.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Subtraction Within 20", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%2020%20grade%202%20educational",
    quiz:[
      {q:"15 - 7 = ?", options:["8","7","9","6"], answer:0},
      {q:"18 - 9 = ?", options:["10","9","8","11"], answer:1},
@@ -100,7 +100,7 @@ const curriculum: DayContent[] = [
      {q:"16 - 8 = ?", options:["7","8","9","6"], answer:1},
    ]},
   {subject:"Science", title:"Properties of Liquids and Solids", summary:"Ontario Matter & Energy strand for Grade 2: solids hold their shape; liquids take the shape of their container and can be poured.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Properties of Liquids and Solids", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Liquids%20and%20Solids%20grade%202%20educational",
    quiz:[
      {q:"Which of these is a solid?", options:["Water","Juice","Rock","Milk"], answer:2},
      {q:"A liquid will...", options:["Keep one shape always","Take the shape of its container","Never move","Disappear instantly"], answer:1},
@@ -109,7 +109,7 @@ const curriculum: DayContent[] = [
      {q:"You can pour a...", options:["Solid","Liquid","Both equally well","Neither"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Communities Around the World", summary:"Ontario People & Environment strand: communities around the world look different based on climate, land, and culture, but all communities help meet people's needs.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20Around%20the%20World%20grade%202%20educational",
    quiz:[
      {q:"Why do communities around the world look different?", options:["No reason","Different climates, land, and cultures","They are all the same","Random chance only"], answer:1},
      {q:"A community near the ocean might rely on...", options:["Fishing","Desert farming only","Snowplowing year round","Nothing special"], answer:0},
@@ -120,7 +120,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Action Verbs", summary:"A verb shows action — what someone or something does, like run, jump, eat, or read.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Action Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Action%20Verbs%20grade%202%20educational",
    quiz:[
      {q:"Which word is a verb (action word)?", options:["Jump","Table","Blue","Happy"], answer:0},
      {q:"In 'The dog runs fast,' which word is the verb?", options:["Dog","Runs","Fast","The"], answer:1},
@@ -129,7 +129,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT a verb?", options:["Eat","Sleep","Chair","Run"], answer:2},
    ]},
   {subject:"Math", title:"Place Value: Tens and Ones", summary:"Two-digit numbers are made of tens and ones, like 34 = 3 tens + 4 ones — a key Ontario Number strand idea.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Place Value: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Tens%20and%20Ones%20grade%202%20educational",
    quiz:[
      {q:"In the number 47, how many tens are there?", options:["4","7","47","0"], answer:0},
      {q:"In the number 62, how many ones are there?", options:["6","2","8","60"], answer:1},
@@ -138,7 +138,7 @@ const curriculum: DayContent[] = [
      {q:"What is 2 tens + 9 ones?", options:["92","11","29","20"], answer:2},
    ]},
   {subject:"Science", title:"Structures and Mechanisms: Movement", summary:"Ontario Structures & Mechanisms strand for Grade 2: simple mechanisms like wheels, levers, and gears help things move.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Structures and Mechanisms: Movement", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20and%20Mechanisms%3A%20Movement%20grade%202%20educational",
    quiz:[
      {q:"What helps a wagon move easily?", options:["Wheels","A flat bottom with no wheels","Glue","Nothing"], answer:0},
      {q:"A lever can help you...", options:["Lift a heavy object with less effort","Make food","Paint a picture","Sing a song"], answer:0},
@@ -147,7 +147,7 @@ const curriculum: DayContent[] = [
      {q:"Gears work together to...", options:["Make sounds only","Transfer movement from one part to another","Stay still forever","Melt"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Maps and Globes", summary:"A map is a flat drawing of a place, and a globe is a round model of the whole Earth.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Maps and Globes", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20and%20Globes%20grade%202%20educational",
    quiz:[
      {q:"A globe is shaped like a...", options:["Square","Sphere (ball)","Triangle","Line"], answer:1},
      {q:"A map shows...", options:["Sounds","Smells","Places from above","Nothing real"], answer:2},
@@ -158,7 +158,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4 to check what's sticking before moving on.", subjects:[
   {subject:"Language", title:"Review: Vowel Sounds, Nouns & Verbs", summary:"Mixed review of short/long vowels, nouns, and action verbs.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Review: Vowel Sounds, Nouns & Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Vowel%20Sounds%2C%20Nouns%20%26%20Verbs%20grade%202%20educational",
    quiz:[
      {q:"Which word has a long vowel sound?", options:["cat","cake","cap","cab"], answer:1},
      {q:"Which word is a noun?", options:["Run","Park","Quickly","Happy"], answer:1},
@@ -167,7 +167,7 @@ const curriculum: DayContent[] = [
      {q:"In 'The girl reads a book,' which word is the verb?", options:["Girl","Reads","Book","The"], answer:1},
    ]},
   {subject:"Math", title:"Review: Numbers, Addition & Subtraction", summary:"Mixed review of counting to 50, addition and subtraction within 20, and place value.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Review: Numbers, Addition & Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Addition%20%26%20Subtraction%20grade%202%20educational",
    quiz:[
      {q:"8 + 7 = ?", options:["14","15","16","13"], answer:1},
      {q:"17 - 9 = ?", options:["7","8","9","6"], answer:1},
@@ -176,7 +176,7 @@ const curriculum: DayContent[] = [
      {q:"What is 10 more than 33?", options:["23","43","34","44"], answer:1},
    ]},
   {subject:"Science", title:"Review: Living Things, Matter & Movement", summary:"Mixed review of living/nonliving things, animal life cycles, solids/liquids, and simple machines.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Review: Living Things, Matter & Movement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Matter%20%26%20Movement%20grade%202%20educational",
    quiz:[
      {q:"Which is a living thing?", options:["Rock","Bird","Chair","Cloud"], answer:1},
      {q:"A tadpole grows into a...", options:["Butterfly","Frog","Bird","Fish"], answer:1},
@@ -185,7 +185,7 @@ const curriculum: DayContent[] = [
      {q:"A liquid takes the shape of...", options:["Nothing","Its container","A square always","A ball always"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Review: Community, Traditions & Maps", summary:"Mixed review of community, family traditions, world communities, and maps/globes.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Review: Community, Traditions & Maps", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Community%2C%20Traditions%20%26%20Maps%20grade%202%20educational",
    quiz:[
      {q:"A community is a group of people who...", options:["Never meet","Live and help each other","Live alone","Only work"], answer:1},
      {q:"A family tradition is something done...", options:["Once and forgotten","Together regularly to celebrate","Never","By strangers only"], answer:1},
@@ -196,7 +196,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Describing Words (Adjectives)", summary:"An adjective describes a noun, telling more about its size, colour, shape, or feeling.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Describing Words (Adjectives)", resourceUrl:"https://www.youtube.com/results?search_query=Describing%20Words%20%28Adjectives%29%20grade%202%20educational",
    quiz:[
      {q:"Which word describes a noun (an adjective)?", options:["Run","Big","Jump","Quickly"], answer:1},
      {q:"In 'The red ball bounced,' which word describes the ball?", options:["Red","Ball","Bounced","The"], answer:0},
@@ -205,7 +205,7 @@ const curriculum: DayContent[] = [
      {q:"Which word could describe a feeling?", options:["Happy","Table","Run","Door"], answer:0},
    ]},
   {subject:"Math", title:"Skip Counting by 2s, 5s, and 10s", summary:"Ontario Algebra strand: skip counting helps see number patterns and prepares for multiplication.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Skip Counting by 2s, 5s, and 10s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%2C%205s%2C%20and%2010s%20grade%202%20educational",
    quiz:[
      {q:"Count by 2s: 2, 4, 6, __?", options:["7","8","9","10"], answer:1},
      {q:"Count by 5s: 5, 10, 15, __?", options:["18","20","25","16"], answer:1},
@@ -214,7 +214,7 @@ const curriculum: DayContent[] = [
      {q:"What comes next: 6, 8, 10, __?", options:["11","12","13","14"], answer:1},
    ]},
   {subject:"Science", title:"Air and Water in the Environment", summary:"Ontario Earth & Space Systems strand for Grade 2: air and water are essential resources found all around us and need to be kept clean.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Air and Water in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Water%20in%20the%20Environment%20grade%202%20educational",
    quiz:[
      {q:"Why is clean water important?", options:["It is not important","Living things need it to survive","Only for swimming","No reason"], answer:1},
      {q:"Which of these can pollute the air?", options:["Smoke from factories or cars","Fresh wind","Clouds","Rain"], answer:0},
@@ -223,7 +223,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a way to conserve (save) water?", options:["Turning off the tap when not using it","Leaving the tap running","Wasting water on purpose","Ignoring leaks"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibilities", summary:"Rules and laws keep people safe and help communities run smoothly and fairly.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Rules and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibilities%20grade%202%20educational",
    quiz:[
      {q:"Why do we have rules?", options:["To make things confusing","To keep people safe and fair","To stop fun","No reason"], answer:1},
      {q:"A rule at school might be...", options:["Run in the halls","Raise your hand to speak","Yell during class","Ignore the teacher"], answer:1},
@@ -234,7 +234,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Finding the Main Idea", summary:"The main idea is what a story or text is mostly about.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Finding the Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Finding%20the%20Main%20Idea%20grade%202%20educational",
    quiz:[
      {q:"The main idea of a story is...", options:["A small detail","What the story is mostly about","The last word","The title only"], answer:1},
      {q:"If a story is about a dog learning tricks, the main idea is about...", options:["The weather","A dog learning tricks","A car","A house"], answer:1},
@@ -243,7 +243,7 @@ const curriculum: DayContent[] = [
      {q:"To find the main idea, you should...", options:["Read only the last sentence","Think about what most of the text is about","Guess randomly","Skip reading"], answer:1},
    ]},
   {subject:"Math", title:"Comparing and Ordering Numbers", summary:"Use greater than, less than, and equal to in order to compare numbers up to 100.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Comparing and Ordering Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20and%20Ordering%20Numbers%20grade%202%20educational",
    quiz:[
      {q:"Which symbol means 'greater than'?", options:["<",">","=","+"], answer:1},
      {q:"Which is true: 45 ___ 54", options:["45 > 54","45 < 54","45 = 54","Cannot compare"], answer:1},
@@ -252,7 +252,7 @@ const curriculum: DayContent[] = [
      {q:"23 ___ 23 — which symbol fits?", options:["<",">","=","+"], answer:2},
    ]},
   {subject:"Science", title:"Pushes and Pulls", summary:"Forces like pushes and pulls make objects start moving, stop moving, speed up, slow down, or change direction.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Pushes and Pulls", resourceUrl:"https://www.youtube.com/results?search_query=Pushes%20and%20Pulls%20grade%202%20educational",
    quiz:[
      {q:"Opening a door is an example of a...", options:["Push or pull","Liquid","Habitat","Tradition"], answer:0},
      {q:"A push can make an object...", options:["Disappear","Move away from you","Become a liquid","Grow"], answer:1},
@@ -261,7 +261,7 @@ const curriculum: DayContent[] = [
      {q:"Forces can make a moving object...", options:["Speed up or slow down","Never change","Disappear","Become a solid"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Jobs and Community Helpers", summary:"People in a community have different jobs that help everyone — like firefighters, teachers, and doctors.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Jobs and Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Jobs%20and%20Community%20Helpers%20grade%202%20educational",
    quiz:[
      {q:"Who helps put out fires?", options:["Firefighters","Teachers","Bakers","Pilots"], answer:0},
      {q:"Who helps you learn at school?", options:["Doctors","Teachers","Firefighters","Farmers"], answer:1},
@@ -272,7 +272,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Sequencing Events", summary:"Sequencing means putting events in the order they happened — first, next, then, last.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Sequencing Events", resourceUrl:"https://www.youtube.com/results?search_query=Sequencing%20Events%20grade%202%20educational",
    quiz:[
      {q:"Which word usually signals the FIRST event?", options:["Finally","First","Then","Last"], answer:1},
      {q:"Which word usually signals the LAST event?", options:["First","Next","Finally","Then"], answer:2},
@@ -281,7 +281,7 @@ const curriculum: DayContent[] = [
      {q:"Which set is in correct time order?", options:["Lunch, breakfast, dinner","Breakfast, lunch, dinner","Dinner, breakfast, lunch","Lunch, dinner, breakfast"], answer:1},
    ]},
   {subject:"Math", title:"Telling Time to the Hour and Half Hour", summary:"Ontario Spatial Sense / Measurement: read clocks to tell time to the hour and half hour.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Telling Time to the Hour and Half Hour", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%20to%20the%20Hour%20and%20Half%20Hour%20grade%202%20educational",
    quiz:[
      {q:"When the minute hand points to 12 and hour hand points to 3, the time is...", options:["3:00","12:00","6:00","9:00"], answer:0},
      {q:"When the minute hand points to 6, how many minutes past the hour is it?", options:["15","30","45","60"], answer:1},
@@ -290,7 +290,7 @@ const curriculum: DayContent[] = [
      {q:"The short hand on a clock shows the...", options:["Minutes","Hours","Seconds","Day"], answer:1},
    ]},
   {subject:"Science", title:"Changes in Matter: Melting and Freezing", summary:"Matter can change state — solids can melt into liquids, and liquids can freeze into solids.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Changes in Matter: Melting and Freezing", resourceUrl:"https://www.youtube.com/results?search_query=Changes%20in%20Matter%3A%20Melting%20and%20Freezing%20grade%202%20educational",
    quiz:[
      {q:"What happens to ice when it gets warm?", options:["It melts into water","It disappears completely","It becomes a gas instantly","Nothing happens"], answer:0},
      {q:"What happens to water when it gets very cold?", options:["It freezes into ice","It becomes a gas","It disappears","Nothing happens"], answer:0},
@@ -299,7 +299,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of melting?", options:["An ice cream cone melting in the sun","Water turning to ice in a freezer","A rock staying a rock","A cloud forming"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Finding Directions on a Map", summary:"Maps use symbols, a compass rose, and directions (N, S, E, W) to help people find their way.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Finding Directions on a Map", resourceUrl:"https://www.youtube.com/results?search_query=Finding%20Directions%20on%20a%20Map%20grade%202%20educational",
    quiz:[
      {q:"A compass rose on a map shows...", options:["The weather","Directions like North, South, East, West","The population","Nothing useful"], answer:1},
      {q:"Which direction is opposite of North?", options:["East","South","West","Up"], answer:1},
@@ -310,7 +310,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Rhyming Words and Syllables", summary:"Rhyming words end with the same sound, and syllables are the beats in a word.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Rhyming Words and Syllables", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20and%20Syllables%20grade%202%20educational",
    quiz:[
      {q:"Which word rhymes with 'cat'?", options:["Dog","Hat","Cup","Sun"], answer:1},
      {q:"How many syllables are in the word 'elephant'?", options:["1","2","3","4"], answer:2},
@@ -319,7 +319,7 @@ const curriculum: DayContent[] = [
      {q:"Which pair of words rhymes?", options:["Cake / Lake","Cake / Cup","Cake / Dog","Cake / Run"], answer:0},
    ]},
   {subject:"Math", title:"2D Shapes and 3D Shapes", summary:"Ontario Spatial Sense strand: identify and describe 2D shapes (flat) and 3D shapes (solid).",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: 2D Shapes and 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%20and%203D%20Shapes%20grade%202%20educational",
    quiz:[
      {q:"How many sides does a triangle have?", options:["2","3","4","5"], answer:1},
      {q:"Which of these is a 3D shape?", options:["Circle","Square","Cube","Triangle"], answer:2},
@@ -328,7 +328,7 @@ const curriculum: DayContent[] = [
      {q:"Which shape has no corners?", options:["Square","Circle","Triangle","Rectangle"], answer:1},
    ]},
   {subject:"Science", title:"Weather and Seasons", summary:"Weather changes day to day, and the four seasons (spring, summer, fall, winter) bring different patterns of weather.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Weather and Seasons", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Seasons%20grade%202%20educational",
    quiz:[
      {q:"How many seasons are there in a year?", options:["2","3","4","5"], answer:2},
      {q:"Which season usually comes after winter?", options:["Summer","Spring","Fall","Winter again"], answer:1},
@@ -337,7 +337,7 @@ const curriculum: DayContent[] = [
      {q:"In fall, what often happens to leaves on many trees?", options:["They turn colours and fall off","They turn blue","Nothing changes","They grow bigger only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Comparing Communities", summary:"Communities can be urban (city), suburban, or rural (countryside), each with different features and ways of life.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Comparing Communities", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20grade%202%20educational",
    quiz:[
      {q:"A city is an example of a...", options:["Rural community","Urban community","Neither","A planet"], answer:1},
      {q:"A rural community is usually...", options:["Very crowded with tall buildings","In the countryside, with farms and open land","Underwater","On the moon"], answer:1},
@@ -348,7 +348,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of vowels, nouns, verbs, adjectives, main idea, sequencing, and rhyming.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%202%20educational",
    quiz:[
      {q:"Which word is an adjective?", options:["Run","Big","Jump","Quickly"], answer:1},
      {q:"What is the main idea of a story?", options:["A small detail","What it's mostly about","The title only","The last word"], answer:1},
@@ -357,7 +357,7 @@ const curriculum: DayContent[] = [
      {q:"In 'The big dog barked loudly,' which word is the verb?", options:["Big","Dog","Barked","Loudly"], answer:2},
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of addition, subtraction, place value, skip counting, comparing numbers, time, and shapes.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%202%20educational",
    quiz:[
      {q:"9 + 8 = ?", options:["16","17","18","15"], answer:1},
      {q:"14 - 6 = ?", options:["7","8","9","6"], answer:1},
@@ -366,7 +366,7 @@ const curriculum: DayContent[] = [
      {q:"How many sides does a triangle have?", options:["2","3","4","5"], answer:1},
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of living things, life cycles, matter, forces, weather, and air/water.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%202%20educational",
    quiz:[
      {q:"Which is a living thing?", options:["Rock","Tree","Chair","Cloud"], answer:1},
      {q:"A push or pull is an example of a...", options:["Force","Liquid","Season","Tradition"], answer:0},
@@ -375,7 +375,7 @@ const curriculum: DayContent[] = [
      {q:"Why is clean water important?", options:["It isn't important","Living things need it","Only for swimming","No reason"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of community, traditions, maps, rules, jobs, and types of communities.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%202%20educational",
    quiz:[
      {q:"A community is a group of people who...", options:["Never meet","Live and help each other","Live alone","Only work"], answer:1},
      {q:"What does a map legend explain?", options:["The weather","Symbols on the map","Nothing","A story"], answer:1},
@@ -386,7 +386,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Compound Words", summary:"A compound word is two smaller words joined together to make a new word, like sun + flower = sunflower or rain + bow = rainbow.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%20grade%202%20educational",
    quiz:[
      {q:"Which word is a compound word?", options:["Sunflower","Running","Quickly","Beautiful"], answer:0},
      {q:"What two words make up 'cupcake'?", options:["Cup + cake","Cu + pcake","Cupc + ake","Cup + cup"], answer:0},
@@ -395,7 +395,7 @@ const curriculum: DayContent[] = [
      {q:"What compound word do 'tooth' and 'brush' make?", options:["Toothbrush","Brushooth","Toobrush","Teethbrush"], answer:0},
    ]},
   {subject:"Math", title:"Addition Within 100 (No Regrouping)", summary:"We can add two-digit numbers by adding the tens together and the ones together, like 32 + 15 = 47.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Addition Within 100 (No Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
    quiz:[
      {q:"23 + 14 = ?", options:["37","36","38","27"], answer:0},
      {q:"41 + 25 = ?", options:["65","66","64","56"], answer:1},
@@ -404,7 +404,7 @@ const curriculum: DayContent[] = [
      {q:"61 + 28 = ?", options:["88","89","90","79"], answer:1},
    ]},
   {subject:"Science", title:"What Plants Need to Grow", summary:"Plants need four things to grow: sunlight, water, soil (nutrients), and air. Without any of these, a plant cannot stay healthy.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: What Plants Need to Grow", resourceUrl:"https://www.youtube.com/results?search_query=What%20Plants%20Need%20to%20Grow%20grade%202%20educational",
    quiz:[
      {q:"Which of these do plants need to grow?", options:["Sunlight","Darkness only","Rocks to eat","Wind only"], answer:0},
      {q:"What do plants take in through their roots?", options:["Water and nutrients from soil","Sunlight","Air only","Nothing"], answer:0},
@@ -413,7 +413,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is NOT something a plant needs?", options:["Water","Soil","Sunlight","A television"], answer:3},
    ]},
   {subject:"SocialStudies", title:"Symbols of Canada", summary:"Canada has special symbols that represent who we are as a country — like the maple leaf, the Canadian flag, and our national anthem 'O Canada'.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Symbols of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Symbols%20of%20Canada%20grade%202%20educational",
    quiz:[
      {q:"What leaf is a symbol of Canada?", options:["Oak leaf","Maple leaf","Pine needle","Fern leaf"], answer:1},
      {q:"What are the two colours on the Canadian flag?", options:["Blue and white","Green and white","Red and white","Red and blue"], answer:2},
@@ -424,7 +424,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Contractions", summary:"A contraction is two words joined together with an apostrophe (') to replace missing letters, like do + not = don't, or I + am = I'm.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Contractions", resourceUrl:"https://www.youtube.com/results?search_query=Contractions%20grade%202%20educational",
    quiz:[
      {q:"What is the contraction for 'do not'?", options:["don't","dont","do'nt","dn't"], answer:0},
      {q:"What two words make up 'I'm'?", options:["I + am","I + my","I + me","I + mine"], answer:0},
@@ -433,7 +433,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the correct contraction for 'they are'?", options:["ther're","they're","theyre","theyare"], answer:1},
    ]},
   {subject:"Math", title:"Subtraction Within 100 (No Regrouping)", summary:"We can subtract two-digit numbers by taking away the tens and the ones separately, like 57 - 23 = 34.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Subtraction Within 100 (No Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
    quiz:[
      {q:"57 - 23 = ?", options:["34","33","35","24"], answer:0},
      {q:"86 - 42 = ?", options:["43","44","45","54"], answer:1},
@@ -442,7 +442,7 @@ const curriculum: DayContent[] = [
      {q:"68 - 14 = ?", options:["53","54","55","64"], answer:1},
    ]},
   {subject:"Science", title:"Animal Habitats", summary:"An animal's habitat is the place where it lives and finds food, water, and shelter. Different animals live in different habitats like forests, oceans, and the arctic.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Animal Habitats", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20grade%202%20educational",
    quiz:[
      {q:"A polar bear's habitat is the...", options:["Tropical rainforest","Arctic (cold, snowy)","Desert","Ocean only"], answer:1},
      {q:"Fish live in a __ habitat.", options:["Forest","Desert","Water/ocean","Arctic only"], answer:2},
@@ -451,7 +451,7 @@ const curriculum: DayContent[] = [
      {q:"If a habitat is destroyed, the animals that live there may...", options:["Not be affected at all","Struggle to survive or have to move","Grow bigger","Get more food"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples and First Nations of Canada", summary:"Canada is home to many Indigenous peoples — the First Nations, Métis, and Inuit — who have lived on this land for thousands of years and have rich cultures and traditions.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Indigenous Peoples and First Nations of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20and%20First%20Nations%20of%20Canada%20grade%202%20educational",
    quiz:[
      {q:"Who were the first people to live in Canada?", options:["French settlers","Indigenous peoples (First Nations, Métis, Inuit)","British settlers","American explorers"], answer:1},
      {q:"The word 'Indigenous' means...", options:["New to a place","Originally from a place","From another country","Living in cities only"], answer:1},
@@ -462,7 +462,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Synonyms", summary:"Synonyms are words that mean the same or nearly the same thing, like happy and glad, or big and large.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Synonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20grade%202%20educational",
    quiz:[
      {q:"Which word is a synonym for 'happy'?", options:["Sad","Glad","Angry","Tired"], answer:1},
      {q:"Which word means the same as 'big'?", options:["Small","Tiny","Large","Little"], answer:2},
@@ -471,7 +471,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has the same meaning as 'scared'?", options:["Brave","Afraid","Calm","Happy"], answer:1},
    ]},
   {subject:"Math", title:"Counting Coins", summary:"Canadian coins have different values: a penny = 1¢, a nickel = 5¢, a dime = 10¢, and a quarter = 25¢. We can add them together to find the total.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Counting Coins", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Coins%20grade%202%20educational",
    quiz:[
      {q:"How much is one quarter worth?", options:["10¢","5¢","25¢","1¢"], answer:2},
      {q:"How much is one dime worth?", options:["5¢","10¢","25¢","1¢"], answer:1},
@@ -480,7 +480,7 @@ const curriculum: DayContent[] = [
      {q:"How many pennies equal one nickel?", options:["1","2","5","10"], answer:2},
    ]},
   {subject:"Science", title:"The Five Senses", summary:"We learn about the world using our five senses: sight (eyes), hearing (ears), smell (nose), taste (tongue), and touch (skin).",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: The Five Senses", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20grade%202%20educational",
    quiz:[
      {q:"Which sense do you use to see a rainbow?", options:["Hearing","Smell","Sight","Touch"], answer:2},
      {q:"Which body part do you use for the sense of hearing?", options:["Eyes","Nose","Ears","Tongue"], answer:2},
@@ -489,7 +489,7 @@ const curriculum: DayContent[] = [
      {q:"Which sense would tell you that something is rough or smooth?", options:["Sight","Hearing","Taste","Touch"], answer:3},
    ]},
   {subject:"SocialStudies", title:"How Communities Change Over Time", summary:"Communities change over time — buildings get built or torn down, technology changes, and people's ways of life are different from long ago.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: How Communities Change Over Time", resourceUrl:"https://www.youtube.com/results?search_query=How%20Communities%20Change%20Over%20Time%20grade%202%20educational",
    quiz:[
      {q:"Long ago, how did most people travel?", options:["By airplane","By horse, walking, or boat","By car","By subway"], answer:1},
      {q:"How have communities changed over time?", options:["They haven't changed at all","Buildings, technology, and ways of life have changed","Only the weather changed","Communities disappear and reappear"], answer:1},
@@ -500,7 +500,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Antonyms", summary:"Antonyms are words that mean the opposite, like hot and cold, or up and down.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Antonyms%20grade%202%20educational",
    quiz:[
      {q:"What is the antonym (opposite) of 'hot'?", options:["Warm","Cold","Cool","Frozen"], answer:1},
      {q:"Which word is the opposite of 'up'?", options:["Over","High","Down","Above"], answer:2},
@@ -509,7 +509,7 @@ const curriculum: DayContent[] = [
      {q:"What is the antonym of 'start'?", options:["Begin","Open","Finish","Launch"], answer:2},
    ]},
   {subject:"Math", title:"Measuring Length with Non-Standard Units", summary:"We can measure how long things are using non-standard units like paper clips, cubes, or hand spans — then count how many units fit.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Measuring Length with Non-Standard Units", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20with%20Non-Standard%20Units%20grade%202%20educational",
    quiz:[
      {q:"If a pencil is 8 paper clips long, and a book is 12 paper clips long, which is longer?", options:["Pencil","Book","They are the same","Cannot tell"], answer:1},
      {q:"Why do we need to use the SAME unit when comparing lengths?", options:["No reason","So our measurements are fair and accurate","To make it harder","Because units are the same always"], answer:1},
@@ -518,7 +518,7 @@ const curriculum: DayContent[] = [
      {q:"When measuring length, you should line up your units...", options:["In a circle","End to end in a straight line","With gaps between them","Randomly"], answer:1},
    ]},
   {subject:"Science", title:"Ramps and Inclined Planes", summary:"A ramp (inclined plane) is a simple machine that makes it easier to move things up or down. The less steep the ramp, the easier it is to push something up.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Ramps and Inclined Planes", resourceUrl:"https://www.youtube.com/results?search_query=Ramps%20and%20Inclined%20Planes%20grade%202%20educational",
    quiz:[
      {q:"A ramp is also called an...", options:["Inclined plane","Lever","Wheel","Pulley"], answer:0},
      {q:"What does a ramp help you do?", options:["Move things up or down more easily","Make things disappear","Add colour","Create sound"], answer:1},
@@ -527,7 +527,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is an example of using a ramp?", options:["Pushing a box down a slide","Hitting a ball with a bat","Pulling a rope","Pouring water"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Needs vs. Wants", summary:"Needs are things we must have to survive, like food, water, clothing, and shelter. Wants are things we would like to have but do not need to survive, like toys or candy.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Needs vs. Wants", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20vs.%20Wants%20grade%202%20educational",
    quiz:[
      {q:"Which of these is a NEED?", options:["Toys","Video games","Food","Candy"], answer:2},
      {q:"Which of these is a WANT?", options:["Shelter","Water","New sneakers","Clothing"], answer:2},
@@ -538,7 +538,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Week 3 review — mixed questions from Days 11–14", subjects:[
   {subject:"Language", title:"Review: Compound Words, Contractions, Synonyms & Antonyms", summary:"Mixed review of compound words, contractions, synonyms, and antonyms.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Review: Compound Words, Contractions, Synonyms & Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Compound%20Words%2C%20Contractions%2C%20Synonyms%20%26%20Antonyms%20grade%202%20educational",
    quiz:[
      {q:"Which word is a compound word?", options:["Bedroom","Running","Slowly","Beautiful"], answer:0},
      {q:"What is the contraction for 'I am'?", options:["Im","I'm","Iam","I'am"], answer:1},
@@ -547,7 +547,7 @@ const curriculum: DayContent[] = [
      {q:"What does the apostrophe in 'don't' represent?", options:["Extra letters","Missing letters","A period","Nothing"], answer:1},
    ]},
   {subject:"Math", title:"Review: Addition, Subtraction, Coins & Measuring", summary:"Mixed review of two-digit addition, two-digit subtraction, counting coins, and measuring with non-standard units.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Review: Addition, Subtraction, Coins & Measuring", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Addition%2C%20Subtraction%2C%20Coins%20%26%20Measuring%20grade%202%20educational",
    quiz:[
      {q:"34 + 23 = ?", options:["56","57","58","67"], answer:1},
      {q:"76 - 42 = ?", options:["33","34","35","44"], answer:1},
@@ -556,7 +556,7 @@ const curriculum: DayContent[] = [
      {q:"When measuring with non-standard units, you should line units...", options:["In a circle","End to end in a straight line","Randomly","With big gaps"], answer:1},
    ]},
   {subject:"Science", title:"Review: Plants, Habitats, Senses & Ramps", summary:"Mixed review of what plants need, animal habitats, the five senses, and inclined planes.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Review: Plants, Habitats, Senses & Ramps", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plants%2C%20Habitats%2C%20Senses%20%26%20Ramps%20grade%202%20educational",
    quiz:[
      {q:"What do plants need to grow?", options:["Sunlight, water, soil, and air","Darkness, salt, and stones","Only water","Nothing special"], answer:0},
      {q:"A polar bear lives in which habitat?", options:["Rainforest","Desert","Arctic","Ocean only"], answer:2},
@@ -565,7 +565,7 @@ const curriculum: DayContent[] = [
      {q:"How many senses do humans have?", options:["3","4","5","6"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Review: Canada Symbols, Indigenous Peoples, Change & Needs", summary:"Mixed review of Canadian symbols, Indigenous peoples, how communities change, and needs vs. wants.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Review: Canada Symbols, Indigenous Peoples, Change & Needs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canada%20Symbols%2C%20Indigenous%20Peoples%2C%20Change%20%26%20Needs%20grade%202%20educational",
    quiz:[
      {q:"What leaf is on the Canadian flag?", options:["Oak leaf","Maple leaf","Pine needle","Fern"], answer:1},
      {q:"Who were the first people to live in Canada?", options:["French settlers","British settlers","Indigenous peoples","American explorers"], answer:2},
@@ -576,7 +576,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Story Elements: Character, Setting, Plot", summary:"Every story has three main elements: characters (who is in the story), setting (where and when it happens), and plot (what happens — beginning, middle, end).",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Story Elements: Character, Setting, Plot", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Elements%3A%20Character%2C%20Setting%2C%20Plot%20grade%202%20educational",
    quiz:[
      {q:"The 'setting' of a story is...", options:["Who is in the story","Where and when the story happens","What happens at the end","The lesson learned"], answer:1},
      {q:"The 'characters' in a story are...", options:["The places in the story","The main problem","The people or animals in the story","The time of day"], answer:2},
@@ -585,7 +585,7 @@ const curriculum: DayContent[] = [
      {q:"A forest in winter is an example of a story's...", options:["Character","Plot","Setting","Lesson"], answer:2},
    ]},
   {subject:"Math", title:"Growing and Shrinking Patterns", summary:"In a growing pattern, something gets bigger each time (like 1, 3, 5, 7). In a shrinking pattern, something gets smaller each time (like 20, 17, 14, 11).",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Growing and Shrinking Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Growing%20and%20Shrinking%20Patterns%20grade%202%20educational",
    quiz:[
      {q:"What comes next in this growing pattern: 2, 5, 8, 11, __?", options:["12","13","14","15"], answer:2},
      {q:"What kind of pattern is 20, 17, 14, 11?", options:["Growing","Shrinking","Random","Repeating only"], answer:1},
@@ -594,7 +594,7 @@ const curriculum: DayContent[] = [
      {q:"Which pattern is a GROWING pattern?", options:["10, 8, 6, 4","5, 4, 3, 2","2, 4, 6, 8","9, 6, 3, 0"], answer:2},
    ]},
   {subject:"Science", title:"Properties of Materials", summary:"Materials have properties that describe what they are like — hard or soft, rough or smooth, flexible or stiff, shiny or dull. These properties help us decide how to use them.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Properties of Materials", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Materials%20grade%202%20educational",
    quiz:[
      {q:"Which word describes a surface you might feel on sandpaper?", options:["Smooth","Rough","Soft","Wet"], answer:1},
      {q:"A material that can bend without breaking is called...", options:["Stiff","Hard","Flexible","Heavy"], answer:2},
@@ -603,7 +603,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a property of a metal spoon?", options:["Soft and fluffy","Hard and shiny","Rough and bendy","Light and see-through"], answer:1},
    ]},
   {subject:"SocialStudies", title:"How Money and Trading Work", summary:"Long ago, people traded goods they had for goods they needed (called bartering). Today, we use money — coins and bills — to buy and sell things in a fair way.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: How Money and Trading Work", resourceUrl:"https://www.youtube.com/results?search_query=How%20Money%20and%20Trading%20Work%20grade%202%20educational",
    quiz:[
      {q:"What is 'bartering'?", options:["Buying things with coins","Trading one item for another without money","Saving money in a bank","Spending all your money"], answer:1},
      {q:"Why do we use money?", options:["Just for fun","As a fair way to buy and sell things","To fill piggy banks only","Because it is heavy"], answer:1},
@@ -614,7 +614,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Plural Nouns (-s and -es)", summary:"A plural noun means more than one. Most nouns add -s (cats, books), but nouns ending in -s, -sh, -ch, or -x add -es (buses, boxes, lunches).",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Plural Nouns (-s and -es)", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%20%28-s%20and%20-es%29%20grade%202%20educational",
    quiz:[
      {q:"What is the plural of 'cat'?", options:["Cates","Cats","Catses","Caties"], answer:1},
      {q:"What is the plural of 'box'?", options:["Boxs","Boxies","Boxes","Box"], answer:2},
@@ -623,7 +623,7 @@ const curriculum: DayContent[] = [
      {q:"What is the plural of 'lunch'?", options:["Lunchs","Lunches","Lunchies","Lunch"], answer:1},
    ]},
   {subject:"Math", title:"Fractions: Halves and Quarters", summary:"A fraction shows equal parts of a whole. When something is cut into 2 equal parts, each part is one half (1/2). When cut into 4 equal parts, each part is one quarter (1/4).",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Fractions: Halves and Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%20and%20Quarters%20grade%202%20educational",
    quiz:[
      {q:"If a pizza is cut into 2 equal pieces, each piece is...", options:["One quarter","One half","One third","One whole"], answer:1},
      {q:"If a square is cut into 4 equal parts, each part is...", options:["One half","One third","One quarter","One whole"], answer:2},
@@ -632,7 +632,7 @@ const curriculum: DayContent[] = [
      {q:"If you eat 1 out of 4 equal slices of an apple, you ate...", options:["1/2","1/3","1/4","1/1"], answer:2},
    ]},
   {subject:"Science", title:"Day, Night, and Shadows", summary:"The Earth rotates (spins), causing day and night. Shadows are made when something blocks light. Shadows change in length and direction through the day.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Day, Night, and Shadows", resourceUrl:"https://www.youtube.com/results?search_query=Day%2C%20Night%2C%20and%20Shadows%20grade%202%20educational",
    quiz:[
      {q:"What causes day and night on Earth?", options:["The moon moving around Earth","The Earth rotating (spinning)","The sun moving around Earth","Clouds covering the sun"], answer:1},
      {q:"A shadow is formed when an object...", options:["Reflects light","Blocks light","Creates light","Absorbs all light perfectly"], answer:1},
@@ -641,7 +641,7 @@ const curriculum: DayContent[] = [
      {q:"At night, we cannot see our shadows because...", options:["We are too small","There is little or no sunlight","Shadows disappear forever at night","The Earth stops spinning"], answer:1},
    ]},
   {subject:"SocialStudies", title:"The Seven Continents and Five Oceans", summary:"Earth has seven continents (large land areas): Africa, Antarctica, Asia, Australia, Europe, North America, and South America. The five oceans are: Pacific, Atlantic, Indian, Southern, and Arctic.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: The Seven Continents and Five Oceans", resourceUrl:"https://www.youtube.com/results?search_query=The%20Seven%20Continents%20and%20Five%20Oceans%20grade%202%20educational",
    quiz:[
      {q:"How many continents are there on Earth?", options:["5","6","7","8"], answer:2},
      {q:"Which continent do we live on in Canada?", options:["Asia","Europe","South America","North America"], answer:3},
@@ -652,7 +652,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Possessive Nouns", summary:"A possessive noun shows ownership. We add an apostrophe + s ('s) to a noun to show it belongs to someone, like 'the dog's bone' means the bone belongs to the dog.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Possessive Nouns", resourceUrl:"https://www.youtube.com/results?search_query=Possessive%20Nouns%20grade%202%20educational",
    quiz:[
      {q:"Which sentence uses a possessive noun correctly?", options:["The dogs bone","The dog's bone","The dogs' bone's","Dogs bone"], answer:1},
      {q:"'Sara's hat' means...", options:["A hat named Sara","The hat belongs to Sara","Many hats","Sara is a hat"], answer:1},
@@ -661,7 +661,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the possessive form of 'the cat'?", options:["The cats","The cat's","Cat's the","The's cat"], answer:1},
    ]},
   {subject:"Math", title:"Reading Pictographs and Bar Graphs", summary:"A pictograph uses pictures to show data, and a bar graph uses bars. Both have a title and labels to help us read the information.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Reading Pictographs and Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Pictographs%20and%20Bar%20Graphs%20grade%202%20educational",
    quiz:[
      {q:"What is a pictograph?", options:["A written story","A graph that uses pictures to show data","A type of calculator","A map of a picture"], answer:1},
      {q:"In a bar graph, a taller bar means...", options:["Less of something","More of something","Nothing special","The same as shorter bars"], answer:1},
@@ -670,7 +670,7 @@ const curriculum: DayContent[] = [
      {q:"Why do we use graphs?", options:["To decorate pages","To organise and compare data easily","To write stories","To draw pictures only"], answer:1},
    ]},
   {subject:"Science", title:"Light and Sound as Forms of Energy", summary:"Light and sound are both forms of energy. Light travels in straight lines and helps us see. Sound is made by vibrations and travels through air to reach our ears.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Light and Sound as Forms of Energy", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Sound%20as%20Forms%20of%20Energy%20grade%202%20educational",
    quiz:[
      {q:"What makes a sound?", options:["Only electricity","Vibrations (things shaking back and forth)","Hot air only","Light bouncing"], answer:1},
      {q:"Light travels in...", options:["Curved lines only","Straight lines","Circles","Random directions only"], answer:1},
@@ -679,7 +679,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a source of light?", options:["A shadow","A candle flame","A rock","Silence"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Caring for the Environment", summary:"We can help protect our environment by reducing waste, reusing things, recycling, and not polluting our air, water, or land. Everyone can help keep our planet healthy.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Caring for the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Environment%20grade%202%20educational",
    quiz:[
      {q:"What does 'recycling' mean?", options:["Throwing things in the garbage","Turning old materials into new products","Burning old items","Buying more things"], answer:1},
      {q:"Which action helps protect the environment?", options:["Littering","Leaving taps running","Turning off lights when not in use","Throwing garbage in rivers"], answer:2},
@@ -690,7 +690,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Question Words", summary:"Question words help us ask questions: Who (asks about a person), What (asks about a thing), Where (asks about a place), When (asks about a time), Why (asks about a reason), and How (asks about the way something is done).",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Question Words", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%20grade%202%20educational",
    quiz:[
      {q:"Which question word asks about a PERSON?", options:["What","Where","Who","When"], answer:2},
      {q:"Which question word asks about a PLACE?", options:["Why","How","When","Where"], answer:3},
@@ -699,7 +699,7 @@ const curriculum: DayContent[] = [
      {q:"'__ did the party start?' is asking about...", options:["A person","A place","A time","A reason"], answer:2},
    ]},
   {subject:"Math", title:"Equal Groups as Early Multiplication", summary:"When we put things into equal groups, we can count them faster. For example, 3 groups of 4 = 12. This is the beginning of multiplication!",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Equal Groups as Early Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=Equal%20Groups%20as%20Early%20Multiplication%20grade%202%20educational",
    quiz:[
      {q:"How many are in 2 groups of 5?", options:["7","8","10","12"], answer:2},
      {q:"How many are in 3 groups of 3?", options:["6","9","12","3"], answer:1},
@@ -708,7 +708,7 @@ const curriculum: DayContent[] = [
      {q:"2 groups of 6 equals...", options:["8","10","12","14"], answer:2},
    ]},
   {subject:"Science", title:"Parts of the Human Body", summary:"Our body has many parts that work together: head, shoulders, arms, hands, chest, stomach, legs, knees, and feet. Each part has an important job.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Parts of the Human Body", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20the%20Human%20Body%20grade%202%20educational",
    quiz:[
      {q:"Which body part helps you walk and run?", options:["Arms","Legs and feet","Ears","Nose"], answer:1},
      {q:"What does your heart do?", options:["Helps you smell","Pumps blood through your body","Helps you move your arms","Helps you see"], answer:1},
@@ -717,7 +717,7 @@ const curriculum: DayContent[] = [
      {q:"Which body part connects your hand to your shoulder?", options:["Knee","Elbow and arm","Ankle","Hip"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Good Citizenship", summary:"A good citizen is someone who helps their community, follows rules, respects others, and takes care of shared spaces. Being a helpful community member makes life better for everyone.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Good Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Good%20Citizenship%20grade%202%20educational",
    quiz:[
      {q:"What is a good citizen?", options:["Someone who only thinks about themselves","Someone who helps their community and follows rules","Someone who breaks rules","Someone who never talks to neighbours"], answer:1},
      {q:"Which is an example of good citizenship?", options:["Littering in the park","Helping pick up litter in the park","Ignoring others who need help","Bullying classmates"], answer:1},
@@ -728,7 +728,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Week 4 review — mixed questions from Days 16–19", subjects:[
   {subject:"Language", title:"Review: Story Elements, Plurals, Possessives & Question Words", summary:"Mixed review of story elements, plural nouns, possessive nouns, and question words.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Review: Story Elements, Plurals, Possessives & Question Words", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Story%20Elements%2C%20Plurals%2C%20Possessives%20%26%20Question%20Words%20grade%202%20educational",
    quiz:[
      {q:"The 'setting' of a story is...", options:["Who is in it","What happens","Where and when it takes place","The lesson"], answer:2},
      {q:"What is the plural of 'box'?", options:["Boxs","Boxies","Boxes","Boxxes"], answer:2},
@@ -737,7 +737,7 @@ const curriculum: DayContent[] = [
      {q:"Characters in a story are...", options:["The setting","The people or animals in it","What happens","The title"], answer:1},
    ]},
   {subject:"Math", title:"Review: Patterns, Fractions, Graphs & Equal Groups", summary:"Mixed review of growing/shrinking patterns, fractions, reading graphs, and equal groups.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Review: Patterns, Fractions, Graphs & Equal Groups", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Patterns%2C%20Fractions%2C%20Graphs%20%26%20Equal%20Groups%20grade%202%20educational",
    quiz:[
      {q:"What comes next: 4, 8, 12, 16, __?", options:["18","19","20","22"], answer:2},
      {q:"A pizza cut into 4 equal parts — each part is...", options:["One half","One third","One quarter","One whole"], answer:2},
@@ -746,7 +746,7 @@ const curriculum: DayContent[] = [
      {q:"The pattern 15, 12, 9, 6 is a __ pattern.", options:["Growing","Repeating","Shrinking","Random"], answer:2},
    ]},
   {subject:"Science", title:"Review: Materials, Shadows, Light & Body", summary:"Mixed review of properties of materials, day/night/shadows, light and sound, and the human body.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Review: Materials, Shadows, Light & Body", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Materials%2C%20Shadows%2C%20Light%20%26%20Body%20grade%202%20educational",
    quiz:[
      {q:"Which word describes the feel of sandpaper?", options:["Smooth","Soft","Rough","Wet"], answer:2},
      {q:"What causes day and night?", options:["The moon moving","The Earth rotating","The sun moving around Earth","Clouds"], answer:1},
@@ -755,7 +755,7 @@ const curriculum: DayContent[] = [
      {q:"When is your shadow the shortest?", options:["Morning","Evening","Noon","Night"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Review: Money, Continents, Environment & Citizenship", summary:"Mixed review of money and trading, continents and oceans, caring for the environment, and good citizenship.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Review: Money, Continents, Environment & Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
    quiz:[
      {q:"What is bartering?", options:["Buying things with money","Trading goods without money","Saving coins","Spending all money"], answer:1},
      {q:"How many continents are there?", options:["5","6","7","8"], answer:2},
@@ -766,7 +766,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Alphabetical Order", summary:"Alphabetical order means putting words in the order of the letters in the alphabet (a, b, c… z). When words start with the same letter, look at the second letter.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Alphabetical Order", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Order%20grade%202%20educational",
    quiz:[
      {q:"Which word would come FIRST in alphabetical order?", options:["Cat","Ant","Dog","Ball"], answer:1},
      {q:"Put these in alphabetical order: sun, moon, star. Which comes first?", options:["Sun","Moon","Star","All the same"], answer:1},
@@ -775,7 +775,7 @@ const curriculum: DayContent[] = [
      {q:"Which word comes first alphabetically: apple or ant?", options:["Apple","Ant","Both the same","Cannot tell"], answer:1},
    ]},
   {subject:"Math", title:"Position Words", summary:"Position words describe where things are — over, under, above, below, beside, left, right, in front, and behind.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Position Words", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%20grade%202%20educational",
    quiz:[
      {q:"If a ball is on TOP of a box, the ball is __ the box.", options:["Under","Beside","Over/above","Behind"], answer:2},
      {q:"Which word means the OPPOSITE of 'left'?", options:["Up","Down","Back","Right"], answer:3},
@@ -784,7 +784,7 @@ const curriculum: DayContent[] = [
      {q:"Your right hand is on which side?", options:["The same side as your heart","The opposite side from your heart","Behind you","Above you"], answer:1},
    ]},
   {subject:"Science", title:"Living vs. Non-Living Things (Deeper Look)", summary:"Living things need food, water, air, and space to grow. They also respond to their environment and reproduce (have offspring). Non-living things do not do these things.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Living vs. Non-Living Things (Deeper Look)", resourceUrl:"https://www.youtube.com/results?search_query=Living%20vs.%20Non-Living%20Things%20%28Deeper%20Look%29%20grade%202%20educational",
    quiz:[
      {q:"Which is a characteristic of ALL living things?", options:["They can fly","They need food, water, and air to survive","They are always green","They always live in water"], answer:1},
      {q:"Which of these is a non-living thing?", options:["A worm","A flower","A cloud","A mushroom"], answer:2},
@@ -793,7 +793,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is a living thing?", options:["Water","Air","A butterfly","A cloud"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Transportation Long Ago vs. Today", summary:"Transportation has changed a lot over time. Long ago, people walked, rode horses, or travelled by boat. Today, we have cars, trains, airplanes, and buses.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Transportation Long Ago vs. Today", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20Long%20Ago%20vs.%20Today%20grade%202%20educational",
    quiz:[
      {q:"Long ago, before cars existed, how did most people travel on land?", options:["By airplane","By subway","By horse, foot, or horse-drawn carriage","By rocket ship"], answer:2},
      {q:"Which of these is a MODERN form of transportation?", options:["Horse and buggy","Sailboat from long ago","Airplane","Walking"], answer:2},
@@ -804,7 +804,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Punctuation in Context", summary:"Sentences end with different punctuation marks: a period (.) ends a statement, a question mark (?) ends a question, and an exclamation mark (!) ends an exciting or surprising sentence.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Punctuation in Context", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%20in%20Context%20grade%202%20educational",
    quiz:[
      {q:"Which punctuation mark ends a question?", options:["Period (.)","Exclamation mark (!)","Question mark (?)","Comma (,)"], answer:2},
      {q:"'The cat sat on the mat' should end with a...", options:["Question mark","Exclamation mark","Period","Comma"], answer:2},
@@ -813,7 +813,7 @@ const curriculum: DayContent[] = [
      {q:"A period is used at the end of a...", options:["Question","Exclamation","Statement","Title only"], answer:2},
    ]},
   {subject:"Math", title:"Estimation Then Counting to Check", summary:"Estimation means making a good guess about a number without counting exactly. After estimating, you count to check how close your guess was.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Estimation Then Counting to Check", resourceUrl:"https://www.youtube.com/results?search_query=Estimation%20Then%20Counting%20to%20Check%20grade%202%20educational",
    quiz:[
      {q:"What is an estimate?", options:["An exact answer","A good guess about a number","The wrong answer always","A type of graph"], answer:1},
      {q:"If you see about 30 marbles in a jar, a good estimate would be...", options:["1","500","30","1,000"], answer:2},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the best strategy for estimating?", options:["Always guess 1","Always guess 100","Think about what you already know to make a reasonable guess","Never guess"], answer:2},
    ]},
   {subject:"Science", title:"Using Tools: Thermometers and Magnifying Glasses", summary:"Scientists use special tools to observe and measure. A thermometer measures temperature (how hot or cold something is). A magnifying glass makes small things look bigger so we can study them.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Using Tools: Thermometers and Magnifying Glasses", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Tools%3A%20Thermometers%20and%20Magnifying%20Glasses%20grade%202%20educational",
    quiz:[
      {q:"What does a thermometer measure?", options:["Length","Weight","Temperature","Time"], answer:2},
      {q:"What does a magnifying glass do?", options:["Measures temperature","Makes objects look bigger","Measures length","Weighs objects"], answer:1},
@@ -831,7 +831,7 @@ const curriculum: DayContent[] = [
      {q:"You would use a magnifying glass to...", options:["Check the temperature outside","Look closely at a tiny insect","Weigh a rock","Measure a pencil's length"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Celebrations and Traditions Around the World", summary:"Families and communities around the world celebrate many different holidays and traditions, like Diwali, Hanukkah, Eid, Christmas, Lunar New Year, and Kwanzaa. Each celebration has its own meaning and customs.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Celebrations and Traditions Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Celebrations%20and%20Traditions%20Around%20the%20World%20grade%202%20educational",
    quiz:[
      {q:"Diwali is often called the...", options:["Festival of Harvest","Festival of Lights","Festival of Water","Festival of Snow"], answer:1},
      {q:"Lunar New Year is celebrated by many people from...", options:["African cultures","Asian cultures (e.g., Chinese, Vietnamese)","European cultures only","No specific culture"], answer:1},
@@ -842,7 +842,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Types of Sentences", summary:"There are three types of sentences: a statement tells something (ends with a period), a question asks something (ends with a question mark), and an exclamation shows strong feeling (ends with an exclamation mark).",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Types of Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Sentences%20grade%202%20educational",
    quiz:[
      {q:"Which sentence is a STATEMENT?", options:["Where are you going?","The sun is bright.","Watch out!","Are you ready?"], answer:1},
      {q:"Which sentence is a QUESTION?", options:["I like cats.","Go away!","What is your name?","The sky is blue."], answer:2},
@@ -851,7 +851,7 @@ const curriculum: DayContent[] = [
      {q:"'How many apples are there?' is what type of sentence?", options:["Statement","Exclamation","Question","Command"], answer:2},
    ]},
   {subject:"Math", title:"Doubles Facts", summary:"Doubles facts are when you add a number to itself: 1+1=2, 2+2=4, 3+3=6, 4+4=8, 5+5=10, 6+6=12. Knowing doubles makes adding much faster!",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Doubles Facts", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%20Facts%20grade%202%20educational",
    quiz:[
      {q:"What is 4 + 4?", options:["6","7","8","9"], answer:2},
      {q:"What is 6 + 6?", options:["10","11","12","13"], answer:2},
@@ -860,7 +860,7 @@ const curriculum: DayContent[] = [
      {q:"Doubles facts are when you add...", options:["A number plus 1","A number to itself","Two different numbers","A number plus 10"], answer:1},
    ]},
   {subject:"Science", title:"Animal Habitats (Deeper Look)", summary:"Animals are specially suited for their habitats — their body features help them survive. A polar bear has thick fur for the cold arctic. A fish has gills for breathing underwater.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Animal Habitats (Deeper Look)", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20%28Deeper%20Look%29%20grade%202%20educational",
    quiz:[
      {q:"Why does a polar bear have thick white fur?", options:["Just for looks","To keep warm in the cold arctic and blend in with snow","Because all bears have white fur","To swim faster"], answer:1},
      {q:"A fish breathes underwater using...", options:["Lungs","Fins","Gills","Its skin only"], answer:2},
@@ -869,7 +869,7 @@ const curriculum: DayContent[] = [
      {q:"A duck's webbed feet help it...", options:["Climb trees","Swim in water","Run fast on land","Fly higher"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Alphabetical Review: Canadian Communities", summary:"Canada has many communities from coast to coast — from big cities like Toronto, Vancouver, and Montreal to smaller towns and rural areas. Each place has unique features that make it special.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Alphabetical Review: Canadian Communities", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Review%3A%20Canadian%20Communities%20grade%202%20educational",
    quiz:[
      {q:"Which city is the capital of Canada?", options:["Toronto","Vancouver","Ottawa","Montreal"], answer:2},
      {q:"Canada stretches from coast to coast — from which ocean to which ocean?", options:["Pacific to Atlantic","Arctic to Indian","Atlantic to Pacific","Only one ocean"], answer:0},
@@ -880,7 +880,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Predicting What Happens Next", summary:"Good readers make predictions — they use clues in the story and what they already know to guess what might happen next.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Predicting What Happens Next", resourceUrl:"https://www.youtube.com/results?search_query=Predicting%20What%20Happens%20Next%20grade%202%20educational",
    quiz:[
      {q:"What is a prediction when reading?", options:["Copying the story","A guess about what might happen next, based on clues","Remembering what happened","Reading backwards"], answer:1},
      {q:"What do good readers use to make a prediction?", options:["Random guesses only","Clues from the story and their own knowledge","The last word in the book","Nothing"], answer:1},
@@ -889,7 +889,7 @@ const curriculum: DayContent[] = [
      {q:"Why is making predictions helpful when reading?", options:["It is not helpful","It keeps readers thinking and engaged with the story","It replaces reading","It is only for teachers"], answer:1},
    ]},
   {subject:"Math", title:"Comparing Capacity and Mass Informally", summary:"Capacity is how much something can hold. Mass is how heavy something is. We can compare by asking: which holds more? Which is heavier?",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Comparing Capacity and Mass Informally", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Capacity%20and%20Mass%20Informally%20grade%202%20educational",
    quiz:[
      {q:"Which holds MORE: a bathtub or a teacup?", options:["Teacup","Bathtub","Both the same","Cannot compare"], answer:1},
      {q:"Which is HEAVIER: a schoolbag full of books or an empty bag?", options:["Empty bag","Full schoolbag with books","Both the same","Cannot compare"], answer:1},
@@ -898,7 +898,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a good tool to compare mass (weight)?", options:["Ruler","Balance scale","Measuring cup","Thermometer"], answer:1},
    ]},
   {subject:"Science", title:"The Five Senses in Science Observations", summary:"Scientists use all five senses to make observations — they look, listen, smell, feel, and sometimes taste (safely!) to learn about the world around them.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: The Five Senses in Science Observations", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20in%20Science%20Observations%20grade%202%20educational",
    quiz:[
      {q:"What is a scientific observation?", options:["Guessing randomly","Using your senses to notice details about something","Reading a textbook only","Drawing a picture only"], answer:1},
      {q:"Which senses can a scientist use to observe a lemon?", options:["Only sight","Only smell","Sight, smell, touch, and taste","Hearing only"], answer:2},
@@ -907,7 +907,7 @@ const curriculum: DayContent[] = [
      {q:"Observing means...", options:["Guessing about something","Noticing details using your senses","Measuring only with tools","Reading about something"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Transportation and Its Impact on Communities", summary:"Transportation connects communities — roads, trains, and airports allow people and goods to move between towns, cities, and countries. This helps communities grow and trade.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Transportation and Its Impact on Communities", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20and%20Its%20Impact%20on%20Communities%20grade%202%20educational",
    quiz:[
      {q:"How does transportation help communities?", options:["It does not help","It connects people and allows goods to move between places","It only brings problems","It only helps cities"], answer:1},
      {q:"Which form of transportation connects cities very quickly over long distances?", options:["Walking","Horse","Airplane","Bicycle"], answer:2},
@@ -918,7 +918,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24", subjects:[
   {subject:"Language", title:"Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", summary:"Mixed review of alphabetical order, punctuation marks, types of sentences, and making predictions.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Alphabetical%20Order%2C%20Punctuation%2C%20Sentence%20Types%20%26%20Predictions%20grade%202%20educational",
    quiz:[
      {q:"Which word comes first in alphabetical order: dog, ant, cat?", options:["Dog","Ant","Cat","All the same"], answer:1},
      {q:"A question ends with a...", options:["Period","Exclamation mark","Question mark","Comma"], answer:2},
@@ -927,7 +927,7 @@ const curriculum: DayContent[] = [
      {q:"'We won!' is what type of sentence?", options:["Statement","Question","Exclamation","Command"], answer:2},
    ]},
   {subject:"Math", title:"Review: Position Words, Doubles, Estimation & Capacity", summary:"Mixed review of position words, doubles facts, estimating, and comparing capacity and mass.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Review: Position Words, Doubles, Estimation & Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Position%20Words%2C%20Doubles%2C%20Estimation%20%26%20Capacity%20grade%202%20educational",
    quiz:[
      {q:"Which word describes where something is below another object?", options:["Over","Beside","Under","In front"], answer:2},
      {q:"What is 5 + 5?", options:["8","9","10","11"], answer:2},
@@ -936,7 +936,7 @@ const curriculum: DayContent[] = [
      {q:"What is 3 + 3?", options:["5","6","7","8"], answer:1},
    ]},
   {subject:"Science", title:"Review: Living Things, Animal Adaptations, Tools & Senses", summary:"Mixed review of living vs. non-living, animal adaptations, science tools, and using senses to observe.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Review: Living Things, Animal Adaptations, Tools & Senses", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Animal%20Adaptations%2C%20Tools%20%26%20Senses%20grade%202%20educational",
    quiz:[
      {q:"Which is a characteristic of all living things?", options:["They can fly","They need food, water, and air","They are always green","They live in water only"], answer:1},
      {q:"Why does a polar bear have thick white fur?", options:["For looks","To stay warm and blend in with snow","Because all bears do","To swim faster"], answer:1},
@@ -945,7 +945,7 @@ const curriculum: DayContent[] = [
      {q:"What is a scientific observation?", options:["A random guess","Using your senses to notice details","Reading a book only","Drawing only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Review: Transportation, Celebrations, Canadian Communities & Environment", summary:"Mixed review of transportation history, world celebrations, Canadian communities, and caring for the environment.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Review: Transportation, Celebrations, Canadian Communities & Environment", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Transportation%2C%20Celebrations%2C%20Canadian%20Communities%20%26%20Environment%20grade%202%20educational",
    quiz:[
      {q:"Long ago, how did most people travel on land?", options:["By airplane","By subway","By horse or foot","By car"], answer:2},
      {q:"Diwali is called the Festival of...", options:["Harvest","Water","Lights","Snow"], answer:2},
@@ -956,7 +956,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Retelling a Story in Your Own Words", summary:"Retelling a story means explaining what happened in your own words — including the main characters, the setting, the problem, and the solution.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Retelling a Story in Your Own Words", resourceUrl:"https://www.youtube.com/results?search_query=Retelling%20a%20Story%20in%20Your%20Own%20Words%20grade%202%20educational",
    quiz:[
      {q:"When retelling a story, you should include...", options:["Only the last event","The characters, setting, and what happened","Only the title","Random details"], answer:1},
      {q:"What does 'in your own words' mean?", options:["Copy the book exactly","Say the story using your own language, not copying word for word","Rewrite every single word differently","Not speak at all"], answer:1},
@@ -965,7 +965,7 @@ const curriculum: DayContent[] = [
      {q:"When retelling, which order should you follow?", options:["Randomly","End, beginning, middle","Beginning, middle, end","Middle, end, beginning"], answer:2},
    ]},
   {subject:"Math", title:"Addition Within 100 (Review and Challenge)", summary:"Practice adding two-digit numbers. Remember to add the ones first, then the tens. Some questions will challenge your thinking!",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Addition Within 100 (Review and Challenge)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28Review%20and%20Challenge%29%20grade%202%20educational",
    quiz:[
      {q:"45 + 32 = ?", options:["76","77","78","67"], answer:1},
      {q:"63 + 15 = ?", options:["77","78","79","88"], answer:1},
@@ -974,7 +974,7 @@ const curriculum: DayContent[] = [
      {q:"33 + 44 = ?", options:["76","77","78","87"], answer:1},
    ]},
   {subject:"Science", title:"What Plants Need: Deeper Exploration", summary:"Plants make their own food using sunlight, water, and air (carbon dioxide) — this process is called photosynthesis. Roots absorb water and nutrients; leaves capture sunlight.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: What Plants Need: Deeper Exploration", resourceUrl:"https://www.youtube.com/results?search_query=What%20Plants%20Need%3A%20Deeper%20Exploration%20grade%202%20educational",
    quiz:[
      {q:"What is photosynthesis?", options:["How plants move around","How plants use sunlight, water, and air to make their own food","How plants sleep at night","How plants eat insects"], answer:1},
      {q:"Which part of the plant absorbs water from the soil?", options:["Leaves","Flowers","Roots","Stem only"], answer:2},
@@ -983,7 +983,7 @@ const curriculum: DayContent[] = [
      {q:"What do plants release into the air that helps people breathe?", options:["Carbon dioxide","Oxygen","Nitrogen","Water vapour only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"People and the Environment: Making a Difference", summary:"People can both harm and help the environment. Pollution harms nature, but acts like planting trees, picking up litter, and saving energy help protect it for future generations.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: People and the Environment: Making a Difference", resourceUrl:"https://www.youtube.com/results?search_query=People%20and%20the%20Environment%3A%20Making%20a%20Difference%20grade%202%20educational",
    quiz:[
      {q:"Which human action HARMS the environment?", options:["Planting trees","Picking up litter","Dumping garbage in a river","Using reusable bags"], answer:2},
      {q:"Which action helps protect the environment for future generations?", options:["Wasting electricity","Planting trees and gardens","Littering","Burning waste in the open air"], answer:1},
@@ -994,7 +994,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Using Describing Words in Writing", summary:"Describing words (adjectives and adverbs) make writing more interesting and detailed. Instead of 'The cat ran,' you could write 'The small, fluffy cat ran quickly.'",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Using Describing Words in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Describing%20Words%20in%20Writing%20grade%202%20educational",
    quiz:[
      {q:"Which sentence uses the BEST describing words?", options:["The cat ran.","The small fluffy cat ran quickly across the yard.","A thing moved.","Something happened."], answer:1},
      {q:"Which word is an adjective (describes a noun)?", options:["Run","Quickly","Fluffy","Jumped"], answer:2},
@@ -1003,7 +1003,7 @@ const curriculum: DayContent[] = [
      {q:"Choose the best describing word for the blank: 'The __ puppy played in the snow.'", options:["Run","Tiny playful","Table","Quickly"], answer:1},
    ]},
   {subject:"Math", title:"Subtraction Within 100 (Review and Challenge)", summary:"Practice subtracting two-digit numbers. Remember to subtract the ones first, then the tens.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Subtraction Within 100 (Review and Challenge)", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28Review%20and%20Challenge%29%20grade%202%20educational",
    quiz:[
      {q:"87 - 34 = ?", options:["52","53","54","63"], answer:1},
      {q:"69 - 25 = ?", options:["43","44","45","54"], answer:1},
@@ -1012,7 +1012,7 @@ const curriculum: DayContent[] = [
      {q:"56 - 31 = ?", options:["24","25","26","35"], answer:1},
    ]},
   {subject:"Science", title:"Weather and How We Measure It", summary:"Scientists called meteorologists study weather. They use thermometers to measure temperature, rain gauges to measure rainfall, and wind vanes to find wind direction.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Weather and How We Measure It", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20How%20We%20Measure%20It%20grade%202%20educational",
    quiz:[
      {q:"What is a meteorologist?", options:["A doctor","A scientist who studies weather","An astronaut","A geologist"], answer:1},
      {q:"What tool measures how much rain has fallen?", options:["Thermometer","Wind vane","Rain gauge","Magnifying glass"], answer:2},
@@ -1021,7 +1021,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to measure and record weather?", options:["It is not useful","It helps predict future weather and keep people safe","Only scientists need to know","Weather never changes"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Regions and Geography", summary:"Canada is a huge country with many different regions — the mountains of British Columbia, the prairies of Alberta and Saskatchewan, the Great Lakes area, and the Atlantic coast all have different landscapes and ways of life.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Canada's Regions and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Regions%20and%20Geography%20grade%202%20educational",
    quiz:[
      {q:"Which province is known for the Rocky Mountains?", options:["Ontario","Nova Scotia","British Columbia","Prince Edward Island"], answer:2},
      {q:"The prairies in Canada are known for...", options:["Tall mountains","Flat farmland and wheat fields","Tropical beaches","Deep oceans"], answer:1},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Reading for Details", summary:"When we read for details, we look for specific information — who, what, where, when, and how. Details support the main idea and help us understand the story better.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Reading for Details", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20for%20Details%20grade%202%20educational",
    quiz:[
      {q:"What are 'details' in a text?", options:["The main idea only","Specific pieces of information that support the main idea","The title only","Random words"], answer:1},
      {q:"If a story says 'Maya walked her golden dog to the sunny park,' what detail tells us WHAT the dog looks like?", options:["Maya","Walked","Golden","Park"], answer:2},
@@ -1041,7 +1041,7 @@ const curriculum: DayContent[] = [
      {q:"Details in a story can tell you...", options:["Only the lesson","Who, what, where, when, and how things happened","Nothing important","Only the ending"], answer:1},
    ]},
   {subject:"Math", title:"Counting Coins and Making Change", summary:"We can add different coins together to make a total. We can also figure out how much change we receive when we pay for something.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Counting Coins and Making Change", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Coins%20and%20Making%20Change%20grade%202%20educational",
    quiz:[
      {q:"What is the total value of 1 quarter, 1 dime, and 1 nickel?", options:["35¢","40¢","45¢","30¢"], answer:1},
      {q:"If something costs 20¢ and you pay with a quarter (25¢), how much change do you get?", options:["4¢","5¢","10¢","15¢"], answer:1},
@@ -1050,7 +1050,7 @@ const curriculum: DayContent[] = [
      {q:"If you have 1 dime and 3 nickels, how much money do you have?", options:["20¢","25¢","30¢","35¢"], answer:1},
    ]},
   {subject:"Science", title:"Simple Machines Around Us", summary:"Simple machines make work easier. We have learned about levers, ramps (inclined planes), and wheels. Other simple machines include pulleys and wedges. They help us lift, move, or cut things.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Simple Machines Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20Around%20Us%20grade%202%20educational",
    quiz:[
      {q:"Which simple machine is a ramp also known as?", options:["Lever","Inclined plane","Pulley","Wedge"], answer:1},
      {q:"A door stopper that holds a door open is an example of a...", options:["Pulley","Lever","Wedge","Wheel"], answer:2},
@@ -1059,7 +1059,7 @@ const curriculum: DayContent[] = [
      {q:"Simple machines help us by...", options:["Making work harder","Making work easier by reducing the force needed","Adding more steps to tasks","Making things slower always"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Why Rules and Laws are Important", summary:"Communities use rules and laws to make sure everyone is treated fairly and can stay safe. Laws are made by governments, and everyone in a community must follow them.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Why Rules and Laws are Important", resourceUrl:"https://www.youtube.com/results?search_query=Why%20Rules%20and%20Laws%20are%20Important%20grade%202%20educational",
    quiz:[
      {q:"Who creates laws for a community or country?", options:["One person alone","The government","Children only","Nobody"], answer:1},
      {q:"Why are traffic laws like traffic lights important?", options:["They just look nice","They help keep drivers and pedestrians safe","They are optional","They are only for trucks"], answer:1},
@@ -1070,7 +1070,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Simple Poetry and Rhythm", summary:"Poems often use rhythm (a beat) and rhyming words to make them fun to read aloud. Each line in a poem has a pattern of sounds. Poetry helps us play with language!",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Simple Poetry and Rhythm", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Poetry%20and%20Rhythm%20grade%202%20educational",
    quiz:[
      {q:"What is rhythm in a poem?", options:["Rhyming words at the end","The beat or pattern of sounds when you read it aloud","The title of the poem","The number of words"], answer:1},
      {q:"Which pair of words RHYMES?", options:["Tree / table","Moon / spoon","Cat / dog","Sing / blue"], answer:1},
@@ -1079,7 +1079,7 @@ const curriculum: DayContent[] = [
      {q:"What makes a poem different from a regular sentence?", options:["Poems have no words","Poems often use rhythm, rhyme, and creative language","Poems are always very long","Poems never have punctuation"], answer:1},
    ]},
   {subject:"Math", title:"Numbers to 200: Counting and Comparing", summary:"We can count, read, and write numbers past 100 — all the way to 200. A number like 134 has 1 hundred, 3 tens, and 4 ones.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Numbers to 200: Counting and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20200%3A%20Counting%20and%20Comparing%20grade%202%20educational",
    quiz:[
      {q:"What number comes right after 109?", options:["100","108","110","120"], answer:2},
      {q:"Which number is greater: 145 or 154?", options:["145","154","They are equal","Cannot tell"], answer:1},
@@ -1088,7 +1088,7 @@ const curriculum: DayContent[] = [
      {q:"Count by 10s: 150, 160, 170, __?", options:["175","178","180","190"], answer:2},
    ]},
   {subject:"Science", title:"Earth and Space: The Sun, Moon, and Stars", summary:"The sun is a star that gives Earth light and warmth. The moon orbits Earth and reflects sunlight. Stars are very far away and look small in the night sky because of the distance.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Earth and Space: The Sun, Moon, and Stars", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Space%3A%20The%20Sun%2C%20Moon%2C%20and%20Stars%20grade%202%20educational",
    quiz:[
      {q:"What is the sun?", options:["A planet","A moon","A star that gives Earth light and heat","A very large cloud"], answer:2},
      {q:"Why does the moon seem to glow at night?", options:["It makes its own light","It reflects light from the sun","It is on fire","It is very close to Earth"], answer:1},
@@ -1097,7 +1097,7 @@ const curriculum: DayContent[] = [
      {q:"What would happen to life on Earth without the sun?", options:["Nothing would change","Plants could not grow and it would be very cold and dark","We would see better","Animals would be happier"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Our Rights and the Rights of Children", summary:"Every child has rights — things they are entitled to, like the right to safety, education, a family, and to be treated with respect. The United Nations Convention on the Rights of the Child protects these rights.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Our Rights and the Rights of Children", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Rights%20and%20the%20Rights%20of%20Children%20grade%202%20educational",
    quiz:[
      {q:"What is a 'right'?", options:["Something you must give away","Something every person is entitled to have","A type of direction","A school subject"], answer:1},
      {q:"Which of these is a right that every child should have?", options:["The right to have the most toys","The right to education and to be safe","The right to never follow rules","The right to stay up all night"], answer:1},
@@ -1108,7 +1108,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Day 30 Final Review — mixed questions from Days 26–29", subjects:[
   {subject:"Language", title:"Final Review: Retelling, Describing Words, Details & Poetry", summary:"Mixed review of retelling stories, using describing words, reading for details, and simple poetry.",
-   resourceLabel:"TVO Learn: Grade 2 Language", resourceUrl:"https://tvolearn.com/pages/grade-2-language",
+   resourceLabel:"YouTube: Final Review: Retelling, Describing Words, Details & Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Retelling%2C%20Describing%20Words%2C%20Details%20%26%20Poetry%20grade%202%20educational",
    quiz:[
      {q:"When retelling a story, what should you include?", options:["Only the title","Characters, setting, problem, and solution","Only the last event","Random details"], answer:1},
      {q:"Which word is a describing word (adjective)?", options:["Run","Fluffy","Quickly","Jump"], answer:1},
@@ -1117,7 +1117,7 @@ const curriculum: DayContent[] = [
      {q:"Which pair of words rhymes?", options:["Dog / cat","Moon / spoon","Tree / run","Jump / book"], answer:1},
    ]},
   {subject:"Math", title:"Final Review: Coins, Subtraction, Numbers to 200 & Capacity", summary:"Mixed review of counting coins, two-digit subtraction, numbers to 200, and comparing capacity and mass.",
-   resourceLabel:"TVO Learn: Grade 2 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-2-mathematics",
+   resourceLabel:"YouTube: Final Review: Coins, Subtraction, Numbers to 200 & Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Coins%2C%20Subtraction%2C%20Numbers%20to%20200%20%26%20Capacity%20grade%202%20educational",
    quiz:[
      {q:"What is the total of 1 quarter and 1 dime?", options:["30¢","35¢","40¢","25¢"], answer:1},
      {q:"87 - 54 = ?", options:["32","33","34","43"], answer:1},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
      {q:"What number comes right after 199?", options:["198","200","201","210"], answer:1},
    ]},
   {subject:"Science", title:"Final Review: Plants, Simple Machines, Weather Tools & Space", summary:"Mixed review of plant needs and photosynthesis, simple machines, measuring weather, and the sun, moon, and stars.",
-   resourceLabel:"TVO Learn: Grade 2 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-2-science-and-technology",
+   resourceLabel:"YouTube: Final Review: Plants, Simple Machines, Weather Tools & Space", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Plants%2C%20Simple%20Machines%2C%20Weather%20Tools%20%26%20Space%20grade%202%20educational",
    quiz:[
      {q:"What do plants use to make their own food?", options:["Soil only","Sunlight, water, and carbon dioxide","Darkness and salt","Nothing — they eat insects"], answer:1},
      {q:"A pulley helps lift...", options:["Temperature","A flag up a flagpole","Sound louder","Light brighter"], answer:1},
@@ -1135,7 +1135,7 @@ const curriculum: DayContent[] = [
      {q:"Which part of a plant absorbs water from the soil?", options:["Leaves","Flowers","Roots","Stem"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Final Review: Environment, Geography, Laws & Children's Rights", summary:"Mixed review of protecting the environment, Canada's regions, rules and laws, and children's rights.",
-   resourceLabel:"TVO Learn: Grade 2 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-2-social-studies",
+   resourceLabel:"YouTube: Final Review: Environment, Geography, Laws & Children's Rights", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Geography%2C%20Laws%20%26%20Children%27s%20Rights%20grade%202%20educational",
    quiz:[
      {q:"Which action protects the environment?", options:["Littering","Planting trees and recycling","Pouring chemicals into lakes","Wasting electricity"], answer:1},
      {q:"Which province is known for the Rocky Mountains?", options:["Ontario","Nova Scotia","British Columbia","Quebec"], answer:2},

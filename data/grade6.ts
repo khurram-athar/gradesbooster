@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Author's Purpose: Inform, Persuade, Entertain", summary:"Ontario Reading strand: understanding why an author wrote a text helps readers think critically. Authors write to inform, persuade, or entertain — and sometimes for all three reasons at once.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Author's Purpose: Inform, Persuade, Entertain", resourceUrl:"https://www.youtube.com/results?search_query=Author%27s%20Purpose%3A%20Inform%2C%20Persuade%2C%20Entertain%20grade%206%20educational",
    quiz:[
      {q:"What is the main purpose of a newspaper article reporting on a city council decision?", options:["To entertain readers with a funny story","To inform readers about what happened","To persuade readers to vote","To advertise a product"], answer:1},
      {q:"An author writes a story about a dragon who learns to share. The MAIN purpose is to:", options:["Inform readers about dragons","Persuade readers to donate money","Entertain and teach a lesson","Report on a news event"], answer:2},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"If an author uses emotional language like 'You MUST act now to save our planet!', their purpose is most likely to:", options:["Entertain","Inform neutrally","Persuade","Retell a historical event"], answer:2},
    ]},
   {subject:"Math", title:"Fractions: Equivalent Fractions and Comparing", summary:"Ontario Number strand: equivalent fractions represent the same amount using different numerators and denominators. Students compare fractions using benchmarks like 0, 1/2, and 1.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Fractions: Equivalent Fractions and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Equivalent%20Fractions%20and%20Comparing%20grade%206%20educational",
    quiz:[
      {q:"Which fraction is equivalent to 2/3?", options:["4/9","4/6","3/4","6/8"], answer:1},
      {q:"Which fraction is greater: 3/4 or 5/8?", options:["5/8","3/4","They are equal","Cannot be compared"], answer:1},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"To make equivalent fractions, you must:", options:["Add the same number to numerator and denominator","Multiply both numerator and denominator by the same number","Subtract from the denominator only","Divide only the numerator"], answer:1},
    ]},
   {subject:"Science", title:"Biodiversity: What It Is and Why It Matters", summary:"Ontario Grade 6 Life Systems strand: biodiversity refers to the variety of life on Earth, including ecosystems, species, and genetic diversity. Biodiversity supports healthy, resilient ecosystems.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Biodiversity: What It Is and Why It Matters", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20What%20It%20Is%20and%20Why%20It%20Matters%20grade%206%20educational",
    quiz:[
      {q:"What does 'biodiversity' mean?", options:["The study of birds only","The variety of life in all its forms in an area","A type of plant disease","The number of humans on Earth"], answer:1},
      {q:"Which of the following is an example of an ecosystem?", options:["A single oak tree","A forest with many species of plants, animals, and fungi","A jar of water","A single bacterium"], answer:1},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"Genetic diversity within a species means:", options:["All members look identical","Individuals have variations that can help some survive changing conditions","There are too many of one species","The species cannot reproduce"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Place in the World", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: Canada interacts with other nations through trade, diplomacy, and international organizations. Geographic and cultural ties shape these relationships.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Canada's Place in the World", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Place%20in%20the%20World%20grade%206%20educational",
    quiz:[
      {q:"Canada is a member of which international organization that promotes peace and security?", options:["FIFA","UN (United Nations)","NHL","OPEC"], answer:1},
      {q:"Canada's largest trading partner is:", options:["China","Mexico","The United States","France"], answer:2},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Text Features in Non-Fiction", summary:"Ontario Reading strand: text features such as headings, captions, diagrams, bold words, and tables of contents help readers navigate and understand informational texts.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Text Features in Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%20in%20Non-Fiction%20grade%206%20educational",
    quiz:[
      {q:"What is the purpose of a heading in a non-fiction text?", options:["To make the page look decorative","To tell readers what a section is about","To list all the authors","To provide a glossary"], answer:1},
      {q:"A caption appears:", options:["At the beginning of a chapter","Below an image to explain what it shows","In the index","At the top of every page"], answer:1},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"A diagram with labelled parts in a science book is useful because:", options:["It replaces the need to read anything","It visually shows how something is organized or works","It is only for decoration","It contains all the book's information"], answer:1},
    ]},
   {subject:"Math", title:"Ratios and Rates", summary:"Ontario Number strand: a ratio compares two quantities. A rate is a special ratio comparing quantities with different units, such as speed (km/h) or price ($/kg).",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Ratios and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20and%20Rates%20grade%206%20educational",
    quiz:[
      {q:"A recipe uses 2 cups of flour for every 3 cups of sugar. What is the ratio of flour to sugar?", options:["3:2","2:3","5:1","1:5"], answer:1},
      {q:"A car travels 120 km in 2 hours. What is its rate (speed)?", options:["60 km/h","240 km/h","30 km/h","120 km/h"], answer:0},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"Which of the following is a RATE (not just a ratio)?", options:["3:4","5 to 7","80 km per hour","2:5"], answer:2},
    ]},
   {subject:"Science", title:"Species in Ecosystems: Producers, Consumers, Decomposers", summary:"Ontario Life Systems strand: in any ecosystem, organisms play roles as producers (plants), consumers (animals), or decomposers (fungi, bacteria). These roles form food webs.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Species in Ecosystems: Producers, Consumers, Decomposers", resourceUrl:"https://www.youtube.com/results?search_query=Species%20in%20Ecosystems%3A%20Producers%2C%20Consumers%2C%20Decomposers%20grade%206%20educational",
    quiz:[
      {q:"Which organism is a producer?", options:["A wolf","A mushroom","A green plant","A frog"], answer:2},
      {q:"Decomposers are important because they:", options:["Produce oxygen only","Break down dead matter and return nutrients to the soil","Hunt prey","Grow very tall"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"What happens to an ecosystem if all the decomposers disappear?", options:["Nothing changes","Dead matter piles up and nutrient cycling stops","All plants die immediately","Animals grow larger"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Physical Geography and Regions", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: Canada's seven physical regions (including the Canadian Shield, Interior Plains, and Appalachians) shape its climate, resources, and human settlement patterns.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Canada's Physical Geography and Regions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Physical%20Geography%20and%20Regions%20grade%206%20educational",
    quiz:[
      {q:"What is the largest physical region in Canada?", options:["Interior Plains","Great Lakes–St. Lawrence Lowlands","Canadian Shield","Western Cordillera"], answer:2},
      {q:"Which region contains much of Canada's wheat farming?", options:["Canadian Shield","Interior Plains","Appalachian Region","Arctic Lowlands"], answer:1},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Expository Writing: Structure and Purpose", summary:"Ontario Writing strand: expository writing explains or informs. A well-structured expository text has an introduction with a controlling idea, body paragraphs with supporting details, and a conclusion.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Expository Writing: Structure and Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Expository%20Writing%3A%20Structure%20and%20Purpose%20grade%206%20educational",
    quiz:[
      {q:"What is the main purpose of expository writing?", options:["To entertain with a made-up story","To explain or inform about a topic","To argue one side of a debate","To describe a personal experience only"], answer:1},
      {q:"In expository writing, the introduction should:", options:["Tell the ending of the story","Present the controlling idea or thesis","List every detail of the topic","Be written last"], answer:1},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"The conclusion of an expository text should:", options:["Introduce new arguments not mentioned before","Restate the main idea and summarize key points","Repeat the introduction word for word","End with a question mark"], answer:1},
    ]},
   {subject:"Math", title:"Fractions Greater Than One: Mixed Numbers and Improper Fractions", summary:"Ontario Number strand: improper fractions have a numerator larger than the denominator. They can be converted to mixed numbers, which combine a whole number and a proper fraction.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Fractions Greater Than One: Mixed Numbers and Improper Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%20Greater%20Than%20One%3A%20Mixed%20Numbers%20and%20Improper%20Fractions%20grade%206%20educational",
    quiz:[
      {q:"What is 7/4 written as a mixed number?", options:["1 1/2","1 3/4","2 1/4","1 1/4"], answer:1},
      {q:"What is 2 3/5 written as an improper fraction?", options:["10/5","13/5","11/5","8/5"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"A recipe calls for 2 2/3 cups of oats. Written as an improper fraction, that is:", options:["4/3","6/3","8/3","7/3"], answer:2},
    ]},
   {subject:"Science", title:"Biodiversity Threats: Habitat Loss and Invasive Species", summary:"Ontario Life Systems strand: major threats to biodiversity include habitat destruction, pollution, overexploitation, climate change, and invasive species. Invasive species outcompete native species for resources.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Biodiversity Threats: Habitat Loss and Invasive Species", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20Threats%3A%20Habitat%20Loss%20and%20Invasive%20Species%20grade%206%20educational",
    quiz:[
      {q:"An invasive species is one that:", options:["Was always native to an area","Was introduced to an area where it causes ecological harm","Is endangered and needs protection","Lives only underground"], answer:1},
      {q:"Which is an example of habitat destruction?", options:["Planting a native garden","Draining a wetland to build a mall","Removing an invasive plant","Protecting a national park"], answer:1},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Which human action would MOST help protect biodiversity?", options:["Introducing more exotic pets into the wild","Establishing protected natural areas and corridors","Removing all predators from forests","Draining wetlands"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Trade and Economic Relationships", summary:"Ontario Grade 6 Social Studies: Canada exports natural resources and manufactured goods, and imports products it cannot efficiently produce. Trade agreements like CUSMA shape Canada's economic connections.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Canada's Trade and Economic Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Trade%20and%20Economic%20Relationships%20grade%206%20educational",
    quiz:[
      {q:"An 'export' is:", options:["Something Canada buys from another country","Something Canada sells to another country","A type of tax on goods","A natural resource found underground"], answer:1},
      {q:"CUSMA (formerly NAFTA) is a trade agreement between:", options:["Canada, UK, and Australia","Canada, USA, and Mexico","Canada, France, and Germany","Canada, China, and Japan"], answer:1},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Argumentative Writing: Taking a Position", summary:"Ontario Writing strand: argumentative writing presents a clear claim and uses evidence, reasoning, and counterarguments to persuade readers. A strong argument acknowledges opposing views.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Argumentative Writing: Taking a Position", resourceUrl:"https://www.youtube.com/results?search_query=Argumentative%20Writing%3A%20Taking%20a%20Position%20grade%206%20educational",
    quiz:[
      {q:"In argumentative writing, a 'claim' is:", options:["A question the writer asks","The writer's main position or argument","A piece of evidence","A summary of the other side"], answer:1},
      {q:"Why should a good argument address the counterargument?", options:["It makes the essay longer","Acknowledging and refuting the other side makes the argument stronger","It confuses the reader","Counterarguments should be ignored"], answer:1},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"A rebuttal in an argument is:", options:["Another word for the introduction","The writer's response that disproves or weakens the counterargument","A list of references","The final sentence"], answer:1},
    ]},
   {subject:"Math", title:"Introduction to Integers", summary:"Ontario Number strand: integers include all positive whole numbers, negative whole numbers, and zero. They are used to represent quantities like temperature, elevation, and debt.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Introduction to Integers", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Integers%20grade%206%20educational",
    quiz:[
      {q:"Which integer is farthest from zero on a number line?", options:["-3","5","-8","4"], answer:2},
      {q:"What is the opposite of -7?", options:["-7","0","7","-1/7"], answer:2},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"A submarine is at -40 m. It rises 15 m. Where is it now?", options:["-55 m","-25 m","25 m","-40 m"], answer:1},
    ]},
   {subject:"Science", title:"Flight: The Four Forces", summary:"Ontario Grade 6 Science — Flight strand: four forces act on a flying object — lift (upward), weight/gravity (downward), thrust (forward), and drag (backward). Flight occurs when lift exceeds weight and thrust exceeds drag.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Flight: The Four Forces", resourceUrl:"https://www.youtube.com/results?search_query=Flight%3A%20The%20Four%20Forces%20grade%206%20educational",
    quiz:[
      {q:"Which force acts downward on a flying airplane?", options:["Lift","Thrust","Drag","Weight/Gravity"], answer:3},
      {q:"Lift is created mainly by:", options:["The engines of the plane","The shape of the wing (airfoil) and its interaction with air","The weight of the passengers","The fuel burning in the engine"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"An airfoil is shaped so that air moves faster over the top. This creates:", options:["More drag on top","Lower pressure on top, producing lift","Higher pressure on top","Equal pressure on all sides"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Ancient Mesopotamia: The Cradle of Civilization", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Mesopotamia, located between the Tigris and Euphrates rivers, was home to some of the world's first cities, writing systems, and laws.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Ancient Mesopotamia: The Cradle of Civilization", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Mesopotamia%3A%20The%20Cradle%20of%20Civilization%20grade%206%20educational",
    quiz:[
      {q:"Mesopotamia was located between which two rivers?", options:["Nile and Congo","Tigris and Euphrates","Amazon and Orinoco","Ganges and Indus"], answer:1},
      {q:"The world's first writing system, cuneiform, was developed by:", options:["Ancient Egyptians","Ancient Greeks","The Sumerians of Mesopotamia","The Romans"], answer:2},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Reading Strategies: Inference and Text Evidence", summary:"Ontario Reading strand: making inferences means drawing conclusions that go beyond what is stated, using clues in the text combined with prior knowledge. Good readers support inferences with evidence.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Reading Strategies: Inference and Text Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Text%20Evidence%20grade%206%20educational",
    quiz:[
      {q:"An inference is:", options:["A direct quote from the text","A conclusion drawn from clues in the text plus background knowledge","A summary of the whole text","A prediction before reading"], answer:1},
      {q:"A character walks in slowly, drops their bag, and sighs. What can you infer?", options:["They are excited","They are likely tired or upset","They are running late","They are happy"], answer:1},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Which question requires an inference to answer?", options:["What is the character's name?","Where does the story take place?","Why did the character decide to leave without saying goodbye?","How old is the main character?"], answer:2},
    ]},
   {subject:"Math", title:"Adding and Subtracting Fractions with Unlike Denominators", summary:"Ontario Number strand: to add or subtract fractions with unlike denominators, find a common denominator first. Equivalent fractions allow the numerators to be added or subtracted.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Adding and Subtracting Fractions with Unlike Denominators", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
    quiz:[
      {q:"1/2 + 1/3 = ?", options:["2/5","2/6","5/6","3/5"], answer:2},
      {q:"3/4 - 1/3 = ?", options:["2/7","5/12","2/3","1/4"], answer:1},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"5/6 - 1/2 = ?", options:["4/4","4/6","1/3","2/6"], answer:2},
    ]},
   {subject:"Science", title:"Bernoulli's Principle and Wing Shape", summary:"Ontario Flight strand: Bernoulli's principle states that faster-moving air exerts less pressure. A curved wing (airfoil) makes air move faster over the top, creating lower pressure and generating lift.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Bernoulli's Principle and Wing Shape", resourceUrl:"https://www.youtube.com/results?search_query=Bernoulli%27s%20Principle%20and%20Wing%20Shape%20grade%206%20educational",
    quiz:[
      {q:"Bernoulli's principle states that as the speed of a fluid increases, its pressure:", options:["Increases","Stays the same","Decreases","Doubles"], answer:2},
      {q:"Why is the top surface of a wing curved?", options:["For aesthetic reasons only","To make air travel faster over the top, reducing pressure and creating lift","To increase drag","To slow down the aircraft"], answer:1},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"What is the shape of a cross-section of an airplane wing called?", options:["Propeller","Airfoil","Fuselage","Aileron"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Ancient Egypt: Society, Government, and Achievements", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Ancient Egypt was organized around the Nile River. Its society was highly structured with a pharaoh at the top, and it achieved remarkable advances in architecture, medicine, and writing.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Ancient Egypt: Society, Government, and Achievements", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Egypt%3A%20Society%2C%20Government%2C%20and%20Achievements%20grade%206%20educational",
    quiz:[
      {q:"The ruler of Ancient Egypt was called a:", options:["Emperor","Pharaoh","Sultan","King"], answer:1},
      {q:"The ancient Egyptian writing system made up of pictures and symbols is called:", options:["Cuneiform","Alphabet","Hieroglyphics","Sanskrit"], answer:2},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Writing Expository Paragraphs with Evidence", summary:"Ontario Writing strand: each paragraph in an expository text should focus on one main idea, supported by specific details and evidence. The topic sentence states the main idea clearly.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Writing Expository Paragraphs with Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Expository%20Paragraphs%20with%20Evidence%20grade%206%20educational",
    quiz:[
      {q:"What is the purpose of a topic sentence in a paragraph?", options:["To end the paragraph","To state the main idea of the paragraph","To give a list of sources","To provide a definition of every word"], answer:1},
      {q:"Which sentence would make the best topic sentence for a paragraph about the importance of sleep?", options:["There are many things people do at night.","Getting enough sleep is essential for concentration, mood, and physical health.","Some people sleep eight hours.","Sleep is when people close their eyes."], answer:1},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"A well-structured paragraph in expository writing follows this order:", options:["Evidence, topic sentence, conclusion","Topic sentence, supporting details, concluding sentence","Concluding sentence, evidence, topic sentence","Details, conclusion, introduction"], answer:1},
    ]},
   {subject:"Math", title:"Multiplying Fractions", summary:"Ontario Number strand: to multiply fractions, multiply the numerators together and the denominators together. Simplify the result if possible. Multiplying a fraction by a whole number is a useful real-world skill.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Multiplying Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Fractions%20grade%206%20educational",
    quiz:[
      {q:"2/3 × 3/4 = ?", options:["5/7","6/12 = 1/2","6/7","5/12"], answer:1},
      {q:"What is 1/2 × 4/5?", options:["5/10","4/10 = 2/5","4/7","3/5"], answer:1},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Which property lets you multiply 2/3 × 3/2 and get 1 (a whole)?", options:["Commutative property","These are reciprocals — any fraction times its reciprocal equals 1","Associative property","Distributive property"], answer:1},
    ]},
   {subject:"Science", title:"Types of Aircraft and How They Fly", summary:"Ontario Flight strand: different aircraft use different principles to fly. Airplanes use fixed wings and engines; helicopters use rotating blades; hot air balloons use buoyancy; gliders use air currents.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Types of Aircraft and How They Fly", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Aircraft%20and%20How%20They%20Fly%20grade%206%20educational",
    quiz:[
      {q:"A glider flies without an engine by:", options:["Using rocket fuel","Riding rising air currents (thermals) and converting altitude to forward motion","Flapping its wings","Using a balloon"], answer:1},
      {q:"How does a hot air balloon rise?", options:["Using propellers","Warm air inside the balloon is less dense than cool outside air, creating buoyancy","Burning jet fuel","Spinning rotors"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"The Wright Brothers' first successful powered flight took place in:", options:["1888","1903","1920","1895"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Mesopotamia and Egypt: Comparing Civilizations", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: comparing Mesopotamia and Egypt reveals similarities in their use of river systems, complex social structures, and written records, while highlighting differences in geography and beliefs.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Mesopotamia and Egypt: Comparing Civilizations", resourceUrl:"https://www.youtube.com/results?search_query=Mesopotamia%20and%20Egypt%3A%20Comparing%20Civilizations%20grade%206%20educational",
    quiz:[
      {q:"Both Mesopotamia and Ancient Egypt depended heavily on:", options:["Ocean trade routes","Major river systems for agriculture and transportation","Mountain passes","Rainforests"], answer:1},
      {q:"How were the governments of Ancient Egypt and Mesopotamia similar?", options:["Both were democracies","Both had powerful rulers at the top of a social hierarchy","Both had elected presidents","Both had no central government"], answer:1},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Complex Sentences and Subordinate Clauses", summary:"Ontario Grammar strand: a complex sentence contains an independent clause and one or more dependent (subordinate) clauses. Subordinating conjunctions like 'because,' 'although,' and 'when' connect clauses.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Complex Sentences and Subordinate Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Complex%20Sentences%20and%20Subordinate%20Clauses%20grade%206%20educational",
    quiz:[
      {q:"Which sentence is a complex sentence?", options:["The dog barked.","She ran and he walked.","Although it was raining, they played outside.","I like pizza."], answer:2},
      {q:"A subordinating conjunction:", options:["Joins two independent clauses","Connects a dependent clause to an independent clause","Is the same as a coordinating conjunction","Is always placed at the end of a sentence"], answer:1},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"'I will go to the park when it stops raining.' — The dependent clause is:", options:["I will go to the park","when it stops raining","I will go","it stops raining"], answer:1},
    ]},
   {subject:"Math", title:"Dividing Fractions", summary:"Ontario Number strand: to divide by a fraction, multiply by its reciprocal. The reciprocal of a/b is b/a. This concept is used in real-life situations like portioning and scaling.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Dividing Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Dividing%20Fractions%20grade%206%20educational",
    quiz:[
      {q:"What is the reciprocal of 3/4?", options:["3/4","4/3","1/4","4/1"], answer:1},
      {q:"1/2 ÷ 1/4 = ?", options:["1/8","2","4","1/2"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"Dividing by 1/3 is the same as:", options:["Dividing by 3","Multiplying by 3","Multiplying by 1/3","Adding 3"], answer:1},
    ]},
   {subject:"Science", title:"Structures that Enable Flight: Wings and Propellers", summary:"Ontario Flight strand: engineers design wings and propellers using the airfoil shape and principles of lift. The design of these structures determines the performance and efficiency of aircraft.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Structures that Enable Flight: Wings and Propellers", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20that%20Enable%20Flight%3A%20Wings%20and%20Propellers%20grade%206%20educational",
    quiz:[
      {q:"What is the main function of a propeller on an airplane?", options:["To generate lift","To provide thrust by spinning and pushing air backward","To act as a brake","To steer up and down"], answer:1},
      {q:"Why are airplane wings typically swept back?", options:["For decoration","To reduce drag at high speeds","To increase the weight of the plane","To make the plane turn left"], answer:1},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"Winglets (the small vertical tips on some airplane wings) reduce:", options:["Lift","Thrust","Induced drag at the wingtip","Fuel consumption always"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Ancient Greece: Democracy and Philosophy", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Ancient Greece gave the world early democratic ideas, philosophy, and advances in science, art, and mathematics that still influence modern society.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Ancient Greece: Democracy and Philosophy", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Greece%3A%20Democracy%20and%20Philosophy%20grade%206%20educational",
    quiz:[
      {q:"The word 'democracy' comes from ancient Greek and means:", options:["Rule by one","Rule by the people","Rule by priests","Rule by soldiers"], answer:1},
      {q:"Athens is famous for developing:", options:["The first monarchy","An early form of direct democracy","The Roman legal system","Cuneiform writing"], answer:1},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Vocabulary in Context: Using Clues to Find Meaning", summary:"Ontario Reading strand: when encountering unfamiliar words, skilled readers use context clues — surrounding words and sentences — to determine meaning. Prefixes, suffixes, and root words also help.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Vocabulary in Context: Using Clues to Find Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20in%20Context%3A%20Using%20Clues%20to%20Find%20Meaning%20grade%206%20educational",
    quiz:[
      {q:"'The parched traveller drank three glasses of water.' The word 'parched' most likely means:", options:["Wet","Extremely thirsty","Frightened","Tall"], answer:1},
      {q:"The prefix 'un-' in 'unhappy' means:", options:["Very","Not","Before","Again"], answer:1},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"The root word 'port' (as in transport, portable) means:", options:["Time","Write","Carry","Speak"], answer:2},
    ]},
   {subject:"Math", title:"Percents: Meaning and Conversion", summary:"Ontario Number strand: a percent is a ratio comparing a quantity to 100. Percents, fractions, and decimals are all ways to represent parts of a whole and can be converted between forms.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Percents: Meaning and Conversion", resourceUrl:"https://www.youtube.com/results?search_query=Percents%3A%20Meaning%20and%20Conversion%20grade%206%20educational",
    quiz:[
      {q:"What does 'percent' literally mean?", options:["Per thousand","Per ten","Per hundred","Per million"], answer:2},
      {q:"Express 3/4 as a percent.", options:["34%","40%","75%","70%"], answer:2},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"A store sells 25% off a $40 item. How much is saved?", options:["$5","$10","$15","$20"], answer:1},
    ]},
   {subject:"Science", title:"Electricity: Static and Current Electricity", summary:"Ontario Grade 6 Science — Electricity strand: static electricity results from a buildup of electric charge. Current electricity is the flow of electrons through a conductor, powering devices in circuits.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Electricity: Static and Current Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20Electricity%20grade%206%20educational",
    quiz:[
      {q:"Static electricity is caused by:", options:["Moving electrons in a wire","A buildup of electric charge on the surface of objects","Running water","Magnetic fields only"], answer:1},
      {q:"Current electricity involves:", options:["Electrons staying still","The flow of electrons through a conductor","Only positive charges moving","Light particles moving"], answer:1},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"What does a switch do in an electric circuit?", options:["Stores electricity","Controls the flow of current (opens or closes the circuit)","Generates electricity","Converts AC to DC"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Medieval Societies: Feudalism and Daily Life", summary:"Ontario Grade 6 Social Studies — Medieval Societies: medieval European society was organized under feudalism, a system where land was exchanged for military service. Most people were peasants whose lives were shaped by the Church and the seasons.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Medieval Societies: Feudalism and Daily Life", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Societies%3A%20Feudalism%20and%20Daily%20Life%20grade%206%20educational",
    quiz:[
      {q:"Feudalism was a system based on:", options:["Democratic elections","The exchange of land for military service and loyalty","A free-market economy","Religious rule alone"], answer:1},
      {q:"In medieval Europe, who was at the top of the feudal hierarchy?", options:["Knights","Serfs","The King or Queen","Bishops"], answer:2},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Point of View: First, Second, Third Person", summary:"Ontario Reading strand: point of view determines who tells the story. First person uses 'I/we,' second uses 'you,' and third person uses 'he/she/they.' Third-person omniscient narrators know all characters' thoughts.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Point of View: First, Second, Third Person", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%3A%20First%2C%20Second%2C%20Third%20Person%20grade%206%20educational",
    quiz:[
      {q:"Which pronoun signals first-person point of view?", options:["You","They","I","He"], answer:2},
      {q:"A narrator who knows the thoughts and feelings of ALL characters is using:", options:["First-person limited","Second person","Third-person omniscient","Third-person limited"], answer:2},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"In third-person limited narration, the narrator knows:", options:["All characters' thoughts","No characters' thoughts","Only one character's thoughts and feelings","Only what happens externally"], answer:2},
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Ontario Patterning and Algebra strand: variables are letters that represent unknown quantities. Algebraic expressions combine variables, numbers, and operations. Evaluating an expression means substituting a value for the variable.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
    quiz:[
      {q:"In the expression 3n + 5, what does 'n' represent?", options:["Always the number 3","An unknown variable (a quantity that can vary)","The number 5","The operation of addition"], answer:1},
      {q:"Evaluate 2x + 4 when x = 3.", options:["9","10","14","8"], answer:1},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"If t = 6, what is the value of 3t - 4?", options:["14","10","18","22"], answer:0},
    ]},
   {subject:"Science", title:"Series and Parallel Circuits", summary:"Ontario Electricity strand: in a series circuit, components are connected in one loop and current flows through each one. In a parallel circuit, components are on separate branches and each receives full voltage.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Series and Parallel Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Circuits%20grade%206%20educational",
    quiz:[
      {q:"In a series circuit, if one bulb burns out:", options:["Only that bulb goes out","All bulbs go out because the circuit is broken","Nothing changes","The other bulbs get brighter and survive"], answer:1},
      {q:"In a parallel circuit, if one bulb burns out:", options:["All lights go out","The other bulbs continue to work","All bulbs get dimmer","The battery dies instantly"], answer:1},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Which symbol represents a battery in a circuit diagram?", options:["A circle with an X","A long and short parallel line symbol","A zigzag line","A rectangle"], answer:1},
    ]},
   {subject:"SocialStudies", title:"The Role of the Church in Medieval Society", summary:"Ontario Grade 6 Social Studies — Medieval Societies: the Catholic Church was the dominant institution in medieval Europe, shaping education, art, politics, and daily life. Monasteries preserved knowledge during this period.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: The Role of the Church in Medieval Society", resourceUrl:"https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Church%20in%20Medieval%20Society%20grade%206%20educational",
    quiz:[
      {q:"Medieval monasteries were important because they:", options:["Were military bases only","Preserved ancient texts, educated monks, and provided hospitals and shelter","Had no connection to religion","Were only found in Rome"], answer:1},
      {q:"The Pope was important in medieval Europe because:", options:["He commanded all armies","He was the leader of the Catholic Church and had immense political and religious power","He was elected democratically","He controlled trade routes"], answer:1},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Media Literacy: Identifying Bias", summary:"Ontario Media Literacy strand: all media texts have a perspective. Bias is a tendency to favour one viewpoint. Recognizing bias helps readers and viewers think critically about the information they receive.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Media Literacy: Identifying Bias", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Identifying%20Bias%20grade%206%20educational",
    quiz:[
      {q:"Media bias means:", options:["Balanced reporting of all sides","A tendency in media to favour one perspective or viewpoint","Incorrect information always","Only political opinions"], answer:1},
      {q:"Which question helps identify bias in a news article?", options:["Who is the author and what is their perspective?","What font is used?","How long is the article?","Is the article in colour?"], answer:0},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"To get a balanced view of a current event, you should:", options:["Read only one source you trust","Consult multiple sources with different perspectives","Only watch TV news","Accept the first article you find"], answer:1},
    ]},
   {subject:"Math", title:"Solving Equations with One Variable", summary:"Ontario Patterning and Algebra strand: solving an equation means finding the value of the variable that makes the equation true. Use inverse operations (opposite operations) to isolate the variable.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Solving Equations with One Variable", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Equations%20with%20One%20Variable%20grade%206%20educational",
    quiz:[
      {q:"Solve: x + 7 = 15", options:["x = 6","x = 7","x = 8","x = 22"], answer:2},
      {q:"Solve: 3n = 24", options:["n = 6","n = 7","n = 8","n = 21"], answer:2},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"What operation would you use to solve x + 9 = 20?", options:["Add 9 to both sides","Subtract 9 from both sides","Multiply both sides by 9","Divide both sides by 9"], answer:1},
    ]},
   {subject:"Science", title:"Electrical Safety and Energy Conservation", summary:"Ontario Electricity strand: electrical safety involves understanding hazards like overloaded circuits and water near outlets. Conserving electricity reduces energy use, costs, and environmental impact.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Electrical Safety and Energy Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Electrical%20Safety%20and%20Energy%20Conservation%20grade%206%20educational",
    quiz:[
      {q:"Why should you never use electrical appliances near water?", options:["Water makes appliances work better","Water conducts electricity, creating a risk of electric shock","Water improves battery life","Water only affects old appliances"], answer:1},
      {q:"An overloaded circuit is dangerous because it can:", options:["Save electricity","Cause wires to overheat and start a fire","Make appliances run faster","Reduce electricity bills"], answer:1},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Renewable energy sources that reduce reliance on fossil fuels include:", options:["Coal and natural gas","Wind, solar, and hydroelectric power","Nuclear power and oil","Diesel and gasoline"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Medieval Trade and the Growth of Towns", summary:"Ontario Grade 6 Social Studies — Medieval Societies: as trade expanded along routes like the Silk Road and Mediterranean sea lanes, medieval towns grew into busy centres of commerce. Guilds controlled craft production and trade.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Medieval Trade and the Growth of Towns", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Trade%20and%20the%20Growth%20of%20Towns%20grade%206%20educational",
    quiz:[
      {q:"The Silk Road was:", options:["A road paved with silk","A network of trade routes connecting Europe and Asia","A medieval highway in France","A type of medieval cloth"], answer:1},
      {q:"A guild in medieval Europe was:", options:["A type of castle","An association of craftspeople or merchants that controlled trade and quality in their craft","A religious group","A peasant farming community"], answer:1},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Persuasion Techniques in Advertising", summary:"Ontario Media Literacy strand: advertisers use techniques like celebrity endorsement, bandwagon appeal, fear appeals, and repetition to persuade consumers. Recognizing these techniques builds critical media skills.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Persuasion Techniques in Advertising", resourceUrl:"https://www.youtube.com/results?search_query=Persuasion%20Techniques%20in%20Advertising%20grade%206%20educational",
    quiz:[
      {q:"The 'bandwagon' technique in advertising appeals to:", options:["Fear of missing out — 'everyone is doing it, so you should too'","Celebrity authority","Scientific evidence","Logical reasoning"], answer:0},
      {q:"A celebrity endorses a product in a commercial. This technique works because:", options:["Celebrities always test products before advertising them","People transfer their positive feelings about the celebrity to the product","It provides scientific evidence","It gives the consumer facts"], answer:1},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Being 'media literate' means:", options:["Reading and watching as much media as possible","Critically analyzing media messages to understand their purpose and techniques","Only reading print media","Avoiding all media"], answer:1},
    ]},
   {subject:"Math", title:"Decimals: Multiplying and Dividing", summary:"Ontario Number strand: multiplying decimals is similar to multiplying whole numbers, then placing the decimal point. Dividing decimals uses similar strategies, and estimation helps check reasonableness.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Decimals: Multiplying and Dividing", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Multiplying%20and%20Dividing%20grade%206%20educational",
    quiz:[
      {q:"2.4 × 3 = ?", options:["6.4","7.2","7.12","0.72"], answer:1},
      {q:"0.6 × 0.4 = ?", options:["2.4","0.24","0.024","24"], answer:1},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"$12.60 ÷ 3 people = how much per person?", options:["$3.60","$4.20","$4.60","$6.20"], answer:1},
    ]},
   {subject:"Science", title:"The Solar System: Planets and Their Order", summary:"Ontario Grade 6 Science — Space Exploration strand: our solar system contains the Sun and eight planets. The inner rocky planets differ from the outer gas giants in composition, size, and distance from the Sun.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: The Solar System: Planets and Their Order", resourceUrl:"https://www.youtube.com/results?search_query=The%20Solar%20System%3A%20Planets%20and%20Their%20Order%20grade%206%20educational",
    quiz:[
      {q:"Which planet is closest to the Sun?", options:["Venus","Mars","Mercury","Earth"], answer:2},
      {q:"What is the correct order of the first four planets from the Sun?", options:["Earth, Venus, Mercury, Mars","Mercury, Venus, Earth, Mars","Venus, Mercury, Earth, Mars","Mars, Earth, Venus, Mercury"], answer:1},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Saturn is famous for:", options:["Being the largest planet","Its extensive ring system made of ice and rock","Being the closest planet to the Sun","Having the most moons of any planet"], answer:1},
    ]},
   {subject:"SocialStudies", title:"The Renaissance: Art, Science, and Humanism", summary:"Ontario Grade 6 Social Studies — Renaissance and Reformation: the Renaissance was a period of renewed interest in art, science, and classical learning. Humanism placed human potential and reason at the centre of thought.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: The Renaissance: Art, Science, and Humanism", resourceUrl:"https://www.youtube.com/results?search_query=The%20Renaissance%3A%20Art%2C%20Science%2C%20and%20Humanism%20grade%206%20educational",
    quiz:[
      {q:"The Renaissance began in which country?", options:["France","Germany","Italy","England"], answer:2},
      {q:"Renaissance humanism emphasized:", options:["The importance of afterlife over earthly concerns","The value of human achievement, reason, and individual potential","Strict religious obedience above all","The rejection of ancient Greek and Roman learning"], answer:1},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Oral Communication: Elements of Effective Presentations", summary:"Ontario Oral Communication strand: effective presentations use clear organization, appropriate volume and pace, eye contact, and visual aids. Speakers engage their audience and manage nervous energy.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Oral Communication: Elements of Effective Presentations", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Elements%20of%20Effective%20Presentations%20grade%206%20educational",
    quiz:[
      {q:"Why is eye contact important in a presentation?", options:["It shows you memorized the text","It connects with the audience and demonstrates confidence","It is not important","It helps you read from notes"], answer:1},
      {q:"Speaking too fast in a presentation is a problem because:", options:["The audience has too much time to think","It makes the audience feel rushed and listeners may miss important points","It shows too much enthusiasm","It always makes audiences laugh"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"The 'introduction' of a presentation should:", options:["Cover all the details of the topic","Capture the audience's attention and state what the presentation is about","Summarize the conclusion","Include all the research sources"], answer:1},
    ]},
   {subject:"Math", title:"Geometry: Angles — Types and Measurement", summary:"Ontario Geometry strand: angles are classified as acute (less than 90°), right (90°), obtuse (90°–180°), straight (180°), and reflex (more than 180°). A protractor is used to measure angles.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Geometry: Angles — Types and Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20%E2%80%94%20Types%20and%20Measurement%20grade%206%20educational",
    quiz:[
      {q:"An angle of 135° is classified as:", options:["Acute","Right","Obtuse","Reflex"], answer:2},
      {q:"How many degrees are in a right angle?", options:["45°","90°","180°","360°"], answer:1},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"What tool is used to measure angles?", options:["Ruler","Compass","Protractor","Set square"], answer:2},
    ]},
   {subject:"Science", title:"Exploring Space: Telescopes and Space Missions", summary:"Ontario Space Exploration strand: humans have explored space using telescopes, satellites, and crewed missions. Space exploration has led to technological advances and a better understanding of our solar system and universe.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Exploring Space: Telescopes and Space Missions", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Space%3A%20Telescopes%20and%20Space%20Missions%20grade%206%20educational",
    quiz:[
      {q:"The Hubble Space Telescope is valuable because:", options:["It travels to other galaxies","It orbits Earth and takes extremely clear images free from atmospheric distortion","It is on Mars","It was the first satellite in space"], answer:1},
      {q:"Which was the first crewed mission to land on the Moon?", options:["Apollo 7","Apollo 11","Gemini 4","Mercury 3"], answer:1},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"What makes conditions on Mars challenging for human exploration?", options:["Mars is too hot","Mars has too much oxygen","Mars has a very thin atmosphere, extreme cold, and high radiation","Mars rotates too slowly"], answer:2},
    ]},
   {subject:"SocialStudies", title:"The Reformation: Challenging Church Authority", summary:"Ontario Grade 6 Social Studies — Renaissance and Reformation: the Protestant Reformation began when reformers like Martin Luther challenged the practices and authority of the Catholic Church, leading to the formation of Protestant churches.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: The Reformation: Challenging Church Authority", resourceUrl:"https://www.youtube.com/results?search_query=The%20Reformation%3A%20Challenging%20Church%20Authority%20grade%206%20educational",
    quiz:[
      {q:"Martin Luther's 95 Theses (1517) were a:", options:["Poem about the Renaissance","List of complaints against practices of the Catholic Church, sparking the Reformation","Letter to the Pope requesting a new pope","Document creating a new country"], answer:1},
      {q:"The practice of selling 'indulgences' that Luther criticized was:", options:["A way for the poor to buy land","The selling of pardons for sins by the Church to raise money","A type of Renaissance art","A medieval farming technique"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Debate: Structure and Argumentation", summary:"Ontario Oral Communication strand: a structured debate has opening statements, rebuttal periods, and closing arguments. Effective debaters use evidence, stay on topic, and respond to the opposing team's points.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Debate: Structure and Argumentation", resourceUrl:"https://www.youtube.com/results?search_query=Debate%3A%20Structure%20and%20Argumentation%20grade%206%20educational",
    quiz:[
      {q:"In a debate, a 'rebuttal' is:", options:["The opening statement","A response that addresses and counters the opposing side's arguments","A type of visual aid","The closing argument"], answer:1},
      {q:"The most effective arguments in a debate are supported by:", options:["Only personal opinions","Specific evidence, facts, and logical reasoning","Shouting louder than the other side","Making fun of the other team"], answer:1},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Which behaviour would be considered poor debate etiquette?", options:["Waiting your turn to speak","Making eye contact with the audience","Interrupting the opposing speaker","Using evidence to support claims"], answer:2},
    ]},
   {subject:"Math", title:"Geometry: Transformations — Translation, Reflection, Rotation", summary:"Ontario Geometry strand: transformations move or change shapes. A translation slides a shape, a reflection flips it over a line of symmetry, and a rotation turns it around a point.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Geometry: Transformations — Translation, Reflection, Rotation", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20%E2%80%94%20Translation%2C%20Reflection%2C%20Rotation%20grade%206%20educational",
    quiz:[
      {q:"Which transformation slides a shape to a new position without turning or flipping it?", options:["Rotation","Reflection","Translation","Dilation"], answer:2},
      {q:"A reflection flips a shape over:", options:["A centre point","A line of symmetry (mirror line)","A circle","An angle"], answer:1},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"A shape has a line of symmetry if:", options:["It has four sides","It can be folded so both halves match exactly","It is a triangle","It has no curved edges"], answer:1},
    ]},
   {subject:"Science", title:"Canada's Contributions to Space Exploration", summary:"Ontario Space Exploration strand: Canada has made significant contributions to space exploration, including the Canadarm robotic arm, the RADARSAT satellite, and Canadian astronauts aboard the International Space Station.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Canada's Contributions to Space Exploration", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Contributions%20to%20Space%20Exploration%20grade%206%20educational",
    quiz:[
      {q:"The Canadarm is a Canadian-designed robotic arm that was used on:", options:["The Apollo missions to the Moon","The Space Shuttle and International Space Station","Mars rover missions","Russia's Soyuz spacecraft"], answer:1},
      {q:"Chris Hadfield is notable in Canadian space history because:", options:["He invented the Canadarm","He was the first Canadian to command the ISS and he inspired science interest in Canada","He designed the first Canadian satellite","He was the first human to walk in space"], answer:1},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Why is microgravity on the ISS useful for scientific research?", options:["It has no benefits","It allows experiments in conditions impossible on Earth, such as studying fluid behaviour and human physiology in weightlessness","It makes experiments cheaper","It only benefits engineering research"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Early Modern Period: Exploration and Contact", summary:"Ontario Grade 6 Social Studies — Early Modern Period: European explorers from Portugal, Spain, England, and France sailed to new regions from the 15th century onward, leading to exchanges of goods, diseases, and cultures with profound consequences.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Early Modern Period: Exploration and Contact", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Modern%20Period%3A%20Exploration%20and%20Contact%20grade%206%20educational",
    quiz:[
      {q:"What motivated European countries to explore new sea routes in the 1400s–1500s?", options:["To find new land to give away for free","To find faster sea routes to Asia for trade and access to spices and goods","To flee from wars at home","Only scientific curiosity"], answer:1},
      {q:"Christopher Columbus's 1492 voyage led to:", options:["A direct route to Asia","Contact between Europe and the Americas, initiating the 'Columbian Exchange'","The discovery of Australia","The end of the spice trade"], answer:1},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Research Writing: Finding and Evaluating Sources", summary:"Ontario Writing strand: research writing requires finding reliable sources. Evaluating sources involves checking authorship, currency, purpose, and accuracy. Primary sources are original; secondary sources interpret them.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Research Writing: Finding and Evaluating Sources", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Writing%3A%20Finding%20and%20Evaluating%20Sources%20grade%206%20educational",
    quiz:[
      {q:"A primary source is:", options:["A summary written 100 years later","An original document or first-hand account (e.g., a diary, photograph, original data)","Any book from a library","A website with .com"], answer:1},
      {q:"When evaluating a website for research, which factor is MOST important?", options:["Whether it has lots of pictures","The authority and credibility of the author or organization behind it","How colourful the design is","How long the website has existed"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Which source is likely MOST reliable for a research report on climate science?", options:["A social media post","A government or university-affiliated scientific organization's website","An anonymous blog","A company that profits from selling oil"], answer:1},
    ]},
   {subject:"Math", title:"Data Management: Reading and Creating Graphs", summary:"Ontario Data Management strand: bar graphs, line graphs, and circle graphs display data in different ways. Choosing the right graph type depends on the data and what story you want to tell.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Data Management: Reading and Creating Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Reading%20and%20Creating%20Graphs%20grade%206%20educational",
    quiz:[
      {q:"Which type of graph is best for showing change over time?", options:["Bar graph","Circle (pie) graph","Line graph","Pictograph"], answer:2},
      {q:"A circle graph (pie chart) is best used to show:", options:["Change over time","How parts of a whole relate to each other as percentages","Comparing separate categories with similar values","Two sets of data side by side"], answer:1},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"The 'mode' in a set of data is:", options:["The middle value when sorted","The average (mean)","The most frequently occurring value","The range"], answer:2},
    ]},
   {subject:"Science", title:"Mechanical Advantage: Simple Machines", summary:"Ontario Grade 6 Science — Mechanical Advantage strand: simple machines (lever, wheel and axle, pulley, inclined plane, wedge, screw) reduce the force needed to do work by increasing distance or changing direction of force.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Mechanical Advantage: Simple Machines", resourceUrl:"https://www.youtube.com/results?search_query=Mechanical%20Advantage%3A%20Simple%20Machines%20grade%206%20educational",
    quiz:[
      {q:"What does 'mechanical advantage' mean?", options:["The speed of a machine","The ratio of output force to input force — how much a machine multiplies your effort","The weight of a machine","The type of energy used"], answer:1},
      {q:"A lever consists of:", options:["A wheel and a rope","A rigid bar that pivots on a fulcrum","An inclined surface","A curved screw thread"], answer:1},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a wedge?", options:["A bottle opener (lever)","An axe blade splitting wood","A wheelchair ramp","A water wheel"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Early Colonial History and New France", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: French colonists established New France along the St. Lawrence River. The fur trade shaped relationships between Europeans and First Nations peoples.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Canada's Early Colonial History and New France", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Early%20Colonial%20History%20and%20New%20France%20grade%206%20educational",
    quiz:[
      {q:"New France was established primarily along:", options:["The Pacific coast","The St. Lawrence River and Great Lakes region","The Rocky Mountains","The Atlantic coast only"], answer:1},
      {q:"The fur trade was important to New France because:", options:["Fur was used only for decoration","Beaver pelts were highly valued in Europe for hats and clothing, driving the colonial economy","New France had no other resources","Fur was exchanged only among First Nations"], answer:1},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Writing a Research Report: Organization and Citation", summary:"Ontario Writing strand: a well-organized research report has an introduction, body sections with headings, and a conclusion. Proper citation gives credit to sources and avoids plagiarism.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   resourceLabel:"YouTube: Writing a Research Report: Organization and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Research%20Report%3A%20Organization%20and%20Citation%20grade%206%20educational",
    quiz:[
      {q:"When paraphrasing a source in your report, you should:", options:["Copy the exact words and put them in quotes","Rewrite the idea in your own words and still cite the source","Not cite it since you used your own words","Only use the information if it agrees with your thesis"], answer:1},
      {q:"The introduction of a research report should:", options:["Include all your conclusions","Hook the reader, provide background, and state the research focus","List all sources","Be the longest section"], answer:1},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"The conclusion of a research report should:", options:["Introduce new arguments","Restate the key findings, answer the research question, and suggest further questions","Copy the introduction exactly","List all the research sources again"], answer:1},
    ]},
   {subject:"Math", title:"Probability: Introduction and Simple Experiments", summary:"Ontario Data Management strand: probability describes how likely an event is to happen, expressed as a fraction, decimal, or percent from 0 (impossible) to 1 (certain). Experimental probability is based on actual trials.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   resourceLabel:"YouTube: Probability: Introduction and Simple Experiments", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Introduction%20and%20Simple%20Experiments%20grade%206%20educational",
    quiz:[
      {q:"A bag has 3 red marbles and 7 blue marbles. The probability of picking a red marble is:", options:["3/10","7/10","3/7","1/3"], answer:0},
      {q:"An event with a probability of 0 is:", options:["Certain to happen","Likely to happen","Impossible","Uncertain"], answer:2},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"A spinner has 4 equal sections: red, blue, green, yellow. The probability of NOT landing on red is:", options:["1/4","1/2","3/4","1"], answer:2},
    ]},
   {subject:"Science", title:"Compound Machines and Mechanical Systems", summary:"Ontario Mechanical Advantage strand: compound machines combine two or more simple machines. Gears, pulleys, and levers work together in mechanical systems to transfer and multiply forces efficiently.",
-   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   resourceLabel:"YouTube: Compound Machines and Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Machines%20and%20Mechanical%20Systems%20grade%206%20educational",
    quiz:[
      {q:"A compound machine is:", options:["A very large simple machine","A combination of two or more simple machines working together","A type of electric motor","A machine with only one moving part"], answer:1},
      {q:"Gears are used in machines to:", options:["Only change the colour of output","Transfer and change the speed, direction, or force of rotational motion","Generate electricity","Store energy"], answer:1},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"What is 'efficiency' in a machine?", options:["How fast the machine moves","The ratio of useful output work to total input work — no real machine is 100% efficient due to friction","How colourful a machine is","The size of the machine"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Confederation: The Birth of Canada", summary:"Ontario Grade 6 Social Studies — Canada's History: Confederation in 1867 united the Province of Canada, New Brunswick, and Nova Scotia into the Dominion of Canada. Factors including trade, defence, and political deadlock motivated the union.",
-   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   resourceLabel:"YouTube: Confederation: The Birth of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20The%20Birth%20of%20Canada%20grade%206%20educational",
    quiz:[
      {q:"Canada became a Dominion through Confederation in:", options:["1812","1850","1867","1900"], answer:2},
      {q:"The four founding provinces of Confederation were:", options:["Ontario, Quebec, Nova Scotia, New Brunswick","British Columbia, Alberta, Saskatchewan, Manitoba","Ontario, Quebec, Prince Edward Island, New Brunswick","All provinces joined at once"], answer:0},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Literary Devices: Foreshadowing and Flashback", summary:"Students identify and analyse foreshadowing (hints at future events) and flashback (interruption to show past events) in narratives.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Literary Devices: Foreshadowing and Flashback", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Devices%3A%20Foreshadowing%20and%20Flashback%20grade%206%20educational",
    quiz:[
      {q:"Foreshadowing in a story means ___.", options:["looking back at a past event","a hint or clue given early in the story about events that will happen later","a character's thoughts only","dialogue between characters"], answer:1},
      {q:"A flashback is ___.", options:["a prediction of future events","a scene that interrupts the present narrative to reveal something from the past","a type of simile","a character description"], answer:1},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Which literary device interrupts the current timeline to show past events?", options:["Foreshadowing","Metaphor","Flashback","Onomatopoeia"], answer:2}
    ]},
   {subject:"Math", title:"Ratios", summary:"Students understand ratios as comparisons of two quantities. They write ratios in three forms (a:b, a to b, a/b) and find equivalent ratios.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20grade%206%20educational",
    quiz:[
      {q:"A ratio compares ___.", options:["a fraction and a decimal","only percentages","two quantities or amounts","only whole numbers"], answer:2},
      {q:"The ratio of 3 red to 5 blue balls can be written as ___.", options:["3/5 only","3:5, 3 to 5, or 3/5 — all three forms are equivalent","only 3 to 5","5:3 only"], answer:1},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"Ratios can be used to ___.", options:["only add numbers","compare, scale, and solve proportion problems in real contexts","only subtract","only multiply"], answer:1}
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Students explore the eight planets, dwarf planets, moons, asteroids, and comets. They compare planet characteristics and orbital patterns.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%206%20educational",
    quiz:[
      {q:"The correct order of planets from the Sun is ___.", options:["Venus, Mercury, Earth, Mars...","Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune","Earth, Venus, Mars, Jupiter...","Mars, Venus, Mercury, Earth..."], answer:1},
      {q:"Which planet is the largest in our solar system?", options:["Saturn","Uranus","Jupiter","Neptune"], answer:2},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is NOT a planet in our solar system?", options:["Uranus","Pluto (dwarf planet)","Neptune","Saturn"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Rome", summary:"Students explore the rise and fall of the Roman Empire, its government structure, engineering achievements, and lasting influence on the Western world.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Ancient Civilisations: Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Rome%20grade%206%20educational",
    quiz:[
      {q:"The Roman Republic was governed by ___.", options:["a single king with unlimited power","a Senate and elected magistrates representing different classes of citizens","only military generals","only priests"], answer:1},
      {q:"Julius Caesar was ___.", options:["the first Roman Emperor","a Roman general and statesman who was assassinated in 44 BCE, leading to the end of the Republic","a Greek philosopher","a Carthaginian general"], answer:1},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Argumentative Essay", summary:"Students write a multi-paragraph argumentative essay with a clear claim, organized supporting points with evidence, counterargument acknowledgement, and a conclusion.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Writing: Argumentative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Argumentative%20Essay%20grade%206%20educational",
    quiz:[
      {q:"The claim in an argumentative essay is ___.", options:["a question about the topic","the writer's main position or argument that the essay will defend","a list of facts only","the conclusion alone"], answer:1},
      {q:"Why is it important to address the counterargument in an essay?", options:["It is not important","Acknowledging and refuting opposing views strengthens your argument and shows you've considered multiple perspectives","Only for long essays","Only for debate class"], answer:1},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"The conclusion of an argumentative essay should ___.", options:["introduce new evidence","simply list facts again","restate the claim, summarise key points, and leave the reader with a final thought","apologise for the opinion"], answer:2}
    ]},
   {subject:"Math", title:"Percentages", summary:"Students understand percentages as rates per 100. They convert between fractions, decimals, and percentages, and solve percent problems.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Percentages", resourceUrl:"https://www.youtube.com/results?search_query=Percentages%20grade%206%20educational",
    quiz:[
      {q:"A percentage is a ratio out of ___.", options:["10","50","100","1000"], answer:2},
      {q:"50% as a decimal is ___.", options:["5.0","0.05","0.5","500"], answer:2},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"A shirt costs $40 and is 25% off. How much do you save?", options:["$8","$10","$12","$15"], answer:1}
    ]},
   {subject:"Science", title:"Biodiversity and Classification", summary:"Students explore the classification of living things (Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species) and the importance of biodiversity.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Biodiversity and Classification", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20and%20Classification%20grade%206%20educational",
    quiz:[
      {q:"Taxonomy is the science of ___.", options:["measuring animals","naming, describing, and classifying living things into groups","only studying bacteria","counting species"], answer:1},
      {q:"The eight levels of biological classification from broadest to most specific are ___.", options:["Species first to Domain last","Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species","Kingdom to Species only","Only Kingdom, Phylum, Species"], answer:1},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Why is biodiversity important?", options:["It is not","Diverse ecosystems are more resilient, provide more resources, and support healthier environments for all life including humans","Only for scientists","Only for forests"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Greece", summary:"Students study ancient Greek city-states (Athens and Sparta), the origins of democracy, Greek philosophy, and the legacy of Greek culture.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Ancient Civilisations: Greece", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Greece%20grade%206%20educational",
    quiz:[
      {q:"The two main rival city-states in ancient Greece were ___.", options:["Rome and Athens","Athens and Sparta","Corinth and Thebes","Olympia and Delphi"], answer:1},
      {q:"Ancient Athens is credited with developing ___.", options:["monarchy for all cities","the earliest form of direct democracy in which citizens voted on laws and leaders","only military power","the Roman senate"], answer:1},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Advertising Techniques", summary:"Students analyse advertising strategies including emotional appeal, bandwagon, celebrity endorsement, and fear appeal. They evaluate the purpose and impact of media messages.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Media Literacy: Advertising Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Advertising%20Techniques%20grade%206%20educational",
    quiz:[
      {q:"Media literacy involves ___.", options:["only watching more television","the ability to access, analyse, evaluate, and create media in a variety of forms","only reading newspapers","only creating videos"], answer:1},
      {q:"The 'bandwagon' advertising technique says ___.", options:["only experts use this product","this product is dangerous","everyone is using this — join in or miss out","a celebrity likes this"], answer:2},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"A disclaimer in small print at the bottom of an ad is there to ___.", options:["decorate the ad","make it look longer","provide legally required disclosures that qualify or limit the main claim","show the logo"], answer:2}
    ]},
   {subject:"Math", title:"Integers: Introduction", summary:"Students extend their number sense to negative numbers. They place integers on a number line, compare them, and understand real-world contexts (temperature, elevation, debt).",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Integers: Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Integers%3A%20Introduction%20grade%206%20educational",
    quiz:[
      {q:"An integer is ___.", options:["only a positive whole number","a whole number that can be positive, negative, or zero","a fraction","a decimal"], answer:1},
      {q:"Which number is greatest?", options:["−5","−10","0","3"], answer:3},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"On a number line, numbers to the left of 0 are ___.", options:["positive","neutral","greater","negative"], answer:3}
    ]},
   {subject:"Science", title:"Electricity and Circuits", summary:"Students explore electrical circuits, including series and parallel circuits, conductors, insulators, voltage, current, and resistance.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Electricity and Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%20and%20Circuits%20grade%206%20educational",
    quiz:[
      {q:"In a series circuit, if one bulb burns out ___.", options:["all other bulbs stay on","only the next bulb goes out","all bulbs go out (single path for current)","nothing changes"], answer:2},
      {q:"In a parallel circuit, if one bulb burns out ___.", options:["all bulbs go out","all other bulbs stay on (each branch has its own path)","only the bulb before it goes out","the battery dies"], answer:1},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Resistance in a circuit ___.", options:["increases current flow","has no effect","opposes the flow of electric current, converting electrical energy to heat","makes voltage higher"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: China", summary:"Students study the Han Dynasty, the Silk Road, major inventions (paper, compass, printing, gunpowder), and China's influence on world history.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Ancient Civilisations: China", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20China%20grade%206%20educational",
    quiz:[
      {q:"The Silk Road was ___.", options:["a road made of silk","a type of Chinese fabric","a vast network of trade routes connecting China to Central Asia, the Middle East, and Europe","a river route only"], answer:2},
      {q:"Which of these was NOT invented in ancient China?", options:["Paper","Gunpowder","The printing press (woodblock printing)","The telephone"], answer:3},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Reading: Synthesising Information from Multiple Sources", summary:"Students gather information from two or more sources and synthesise it into a unified understanding, noting similarities, differences, and gaps.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Reading: Synthesising Information from Multiple Sources", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Synthesising%20Information%20from%20Multiple%20Sources%20grade%206%20educational",
    quiz:[
      {q:"Synthesising information means ___.", options:["summarising one source","copying from multiple sources","combining and connecting ideas from multiple sources to form a new, deeper understanding","only comparing sources"], answer:2},
      {q:"When synthesising, you should look for ___.", options:["only agreements between sources","similarities, differences, unique insights, and gaps in the information","only facts that agree","only contradictions"], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"When writing a synthesis paragraph, you should ___.", options:["simply list what each source says separately","blend ideas from multiple sources into your own analytical statement","only quote directly","never use your own words"], answer:1}
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"Students apply the correct order of operations: Brackets, Exponents, Division/Multiplication (left to right), Addition/Subtraction (left to right).",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Order of Operations (BEDMAS)", resourceUrl:"https://www.youtube.com/results?search_query=Order%20of%20Operations%20%28BEDMAS%29%20grade%206%20educational",
    quiz:[
      {q:"BEDMAS stands for ___.", options:["Brackets, Exponents, Division, Multiplication, Addition, Subtraction","Base, Equation, Data, Method, Answer, Step","Brackets, Equation, Division, Math, Addition, Subtraction","None of these"], answer:0},
      {q:"What is 3 + 4 × 2?", options:["14","11","10","8"], answer:1},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"Which operation is performed FIRST in 8 − 2² + 1?", options:["Subtraction","Addition","The exponent (2² = 4)","Division"], answer:2}
    ]},
   {subject:"Science", title:"Flight and Aerodynamics", summary:"Students explore the four forces of flight (lift, weight, thrust, drag) and Bernoulli's principle. They investigate how wing shape generates lift.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Flight and Aerodynamics", resourceUrl:"https://www.youtube.com/results?search_query=Flight%20and%20Aerodynamics%20grade%206%20educational",
    quiz:[
      {q:"The four forces acting on an aircraft in flight are ___.", options:["push, pull, spin, and float","lift, weight, thrust, and drag","gravity, wind, speed, and size","hot air, cold air, wind, speed"], answer:1},
      {q:"Lift is a force that acts ___.", options:["downward","backward","forward","upward, opposing gravity"], answer:3},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Which wing shape generates more lift?", options:["Flat, symmetrical","Curved on top and flatter on the bottom (aerofoil/airfoil shape)","Pointed at both ends","Thick rectangular shape"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Medieval Europe", summary:"Students explore the feudal system, the role of the Church, the Crusades, the Black Death, and the transition from the Middle Ages to the Renaissance.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Medieval Europe", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Europe%20grade%206%20educational",
    quiz:[
      {q:"The feudal system in Medieval Europe was ___.", options:["a democratic government","a hierarchical structure: monarch → nobles → knights → serfs/peasants who exchanged land and service for protection","a merchant economy","an early republic"], answer:1},
      {q:"The Black Death (bubonic plague) in the 14th century ___.", options:["had no major effects","killed roughly one-third of Europe's population, disrupting the feudal system and accelerating social change","only affected Asia","only lasted one year"], answer:1},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Grammar: Complex Sentences and Clauses", summary:"Students identify and write complex sentences using independent and dependent clauses. They use subordinating conjunctions (because, although, when, if, while, unless).",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Grammar: Complex Sentences and Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Complex%20Sentences%20and%20Clauses%20grade%206%20educational",
    quiz:[
      {q:"An independent clause can ___.", options:["not stand on its own","stand alone as a complete sentence","never be part of a complex sentence","only be one word"], answer:1},
      {q:"A dependent clause ___.", options:["can stand alone","is always a complete thought","cannot stand alone — it depends on an independent clause to make sense","is never combined with other clauses"], answer:2},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a complex sentence?", options:["The dog barked and the cat ran.","She sings.","Although it was raining, the game continued.","Run quickly."], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Students write and evaluate algebraic expressions. They use variables to represent unknown quantities and substitute values to find results.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
    quiz:[
      {q:"A variable in algebra is ___.", options:["always the letter x","a letter or symbol that represents an unknown or changing quantity","always equal to 0","only used in equations"], answer:1},
      {q:"Evaluate 3n + 5 when n = 4.", options:["17","22","12","16"], answer:0},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"In the expression 6y − 2, the coefficient of y is ___.", options:["2","6","−2","y"], answer:1}
    ]},
   {subject:"Science", title:"Climate and Climate Change", summary:"Students examine the difference between weather and climate, greenhouse gases, global warming, and human impacts on Earth's climate system.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Climate and Climate Change", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20and%20Climate%20Change%20grade%206%20educational",
    quiz:[
      {q:"Climate is ___.", options:["today's temperature","the average weather patterns over a long time period (decades) in a region","only temperature and precipitation","only summer and winter temperatures"], answer:1},
      {q:"The greenhouse effect is ___.", options:["always harmful","the natural process by which greenhouse gases trap heat, warming Earth enough to support life","only caused by humans","a type of pollution only"], answer:1},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Which action reduces an individual's carbon footprint?", options:["Flying more often","Driving alone always","Using public transit, eating less meat, and using renewable energy","Buying more products"], answer:2}
    ]},
   {subject:"SocialStudies", title:"The Renaissance", summary:"Students explore the Renaissance as a period of renewed interest in classical learning, humanism, art, science, and exploration (14th–17th century).",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: The Renaissance", resourceUrl:"https://www.youtube.com/results?search_query=The%20Renaissance%20grade%206%20educational",
    quiz:[
      {q:"Renaissance means ___.", options:["revolution","new beginning","rebirth — referring to the revival of classical Greek and Roman ideas in Europe","darkness"], answer:2},
      {q:"Humanism during the Renaissance emphasised ___.", options:["only religious devotion","the potential, dignity, and achievements of human beings and earthly life","only military conquest","only farming improvements"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Poetry: Form, Tone, and Theme", summary:"Students analyse the form (structure, rhyme scheme, stanza patterns), tone (author's attitude), and theme (central message) of a variety of poems.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Poetry: Form, Tone, and Theme", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%3A%20Form%2C%20Tone%2C%20and%20Theme%20grade%206%20educational",
    quiz:[
      {q:"A poem's tone is ___.", options:["the subject of the poem","the central message or lesson","the author's attitude toward the subject, conveyed through word choice and structure","the poem's rhyme scheme"], answer:2},
      {q:"A poem's theme is ___.", options:["the number of stanzas","the rhyming pattern","the central message or insight about life that the poem conveys","only a stated lesson in the last line"], answer:2},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing a poem's tone helps you understand ___.", options:["how many words it has","the poet's feelings toward the subject and the emotional effect on the reader","only the rhyme scheme","only the punctuation"], answer:1}
    ]},
   {subject:"Math", title:"Equations: Solving One-Step", summary:"Students solve one-step equations involving addition, subtraction, multiplication, and division. They use inverse operations to isolate the variable.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Equations: Solving One-Step", resourceUrl:"https://www.youtube.com/results?search_query=Equations%3A%20Solving%20One-Step%20grade%206%20educational",
    quiz:[
      {q:"To solve x + 7 = 15, you ___.", options:["add 7 to both sides","multiply both sides by 7","subtract 7 from both sides","divide both sides by 7"], answer:2},
      {q:"Solve: x − 4 = 9", options:["x = 5","x = 13","x = 36","x = 4"], answer:1},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"The idea of 'inverse operations' means ___.", options:["doing the same thing to both sides","using opposite operations to undo and isolate the variable","only adding or subtracting","multiplying only"], answer:1}
    ]},
   {subject:"Science", title:"Optics: Light and Mirrors", summary:"Students explore how light behaves with mirrors. They learn the law of reflection (angle of incidence = angle of reflection) and how concave/convex mirrors form images.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Optics: Light and Mirrors", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Light%20and%20Mirrors%20grade%206%20educational",
    quiz:[
      {q:"The law of reflection states that ___.", options:["light is absorbed by mirrors","the angle of incidence always equals the angle of reflection","mirrors bend light","light speeds up after reflecting"], answer:1},
      {q:"The angle of incidence is measured from ___.", options:["the surface of the mirror","the normal (a line perpendicular to the mirror surface at the point of reflection)","the edge of the mirror","the light source"], answer:1},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"A flat (plane) mirror produces an image that is ___.", options:["magnified and inverted","reduced and upright","the same size as the object, upright, and laterally reversed (mirror image)","always blurry"], answer:2}
    ]},
   {subject:"SocialStudies", title:"The Age of Exploration", summary:"Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: The Age of Exploration", resourceUrl:"https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
    quiz:[
      {q:"The main motivations for European exploration were ___.", options:["only curiosity","Gold, God, and Glory — the pursuit of trade wealth, spreading Christianity, and national prestige","only scientific discovery","only escaping disease"], answer:1},
      {q:"Christopher Columbus's 1492 voyage ___.", options:["reached Asia as planned","discovered Australia","established contact between Europe and the Americas, beginning sustained transatlantic interaction","proved the Earth was flat"], answer:1},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Research Project: Planning and Sourcing", summary:"Students plan a research project by developing a research question, identifying key subtopics, evaluating sources for credibility, and organising notes.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Research Project: Planning and Sourcing", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Project%3A%20Planning%20and%20Sourcing%20grade%206%20educational",
    quiz:[
      {q:"A good research question is ___.", options:["one with a simple yes/no answer","so broad it can never be answered","focused, specific, open-ended, and answerable through research","already answered in one book"], answer:2},
      {q:"A primary source is ___.", options:["always more reliable than a secondary source","a first-hand account or original document (diary, photograph, interview, speech, artefact)","a textbook summary","only an internet source"], answer:1},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Why should you organise your notes by subtopic?", options:["It is not necessary","It makes copying easier","It creates a logical structure for your research, making writing much easier","Only for long projects"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: Transformations", summary:"Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Geometry: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
    quiz:[
      {q:"A translation (slide) moves a shape ___.", options:["by flipping it over a line","by rotating it around a point","by sliding it in a direction without turning or flipping it","by resizing it"], answer:2},
      {q:"A reflection (flip) produces ___.", options:["the same orientation as the original","a mirror image of the shape across a line of reflection","a smaller version of the shape","a rotated version"], answer:1},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"Which transformation preserves the size and shape of the original figure?", options:["Dilation (enlargement)","Translation only","All three: translation, reflection, and rotation preserve size and shape","None of them"], answer:2}
    ]},
   {subject:"Science", title:"Biodiversity: Food Webs and Human Impact", summary:"Students analyse multi-level food webs, identify keystone species, and examine how human activities alter ecosystems and biodiversity.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Biodiversity: Food Webs and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20Food%20Webs%20and%20Human%20Impact%20grade%206%20educational",
    quiz:[
      {q:"A keystone species is ___.", options:["always the largest animal in an ecosystem","any common animal","a species that has a disproportionately large effect on its ecosystem relative to its abundance","only an endangered species"], answer:2},
      {q:"If a top predator is removed from an ecosystem, the most likely effect is ___.", options:["no change","only the prey population changes","a population explosion of prey, which overgrazes vegetation, collapsing the ecosystem (trophic cascade)","only the plants change"], answer:2},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Which human activity has the greatest impact on global biodiversity loss?", options:["Recycling","Habitat destruction (primarily for agriculture and urban expansion)","Fishing for food","Walking in parks"], answer:1}
    ]},
   {subject:"SocialStudies", title:"The British Empire and Colonialism", summary:"Students examine how Britain built a global empire through trade, military power, and colonisation, and explore the complex consequences for colonised peoples.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: The British Empire and Colonialism", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Empire%20and%20Colonialism%20grade%206%20educational",
    quiz:[
      {q:"At its height, the British Empire was ___.", options:["only in North America","only in Africa","the largest empire in history, spanning roughly one-quarter of the world's land area","only in Asia"], answer:2},
      {q:"Colonialism involved ___.", options:["only trading with other nations","a foreign power taking control of another territory, settling it, exploiting its resources, and governing its people","only building roads abroad","only sending aid"], answer:1},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Oral Literacy: Debate and Discussion", summary:"Students participate in structured debates and discussions. They learn to present arguments clearly, listen actively, ask probing questions, and respond respectfully to opposing views.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Oral Literacy: Debate and Discussion", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Literacy%3A%20Debate%20and%20Discussion%20grade%206%20educational",
    quiz:[
      {q:"In a formal debate, the proposition side ___.", options:["asks questions only","agrees with the resolution and argues in favour of it","opposes the resolution","only listens"], answer:1},
      {q:"Listening actively during a debate means ___.", options:["planning your rebuttal only","truly attending to what others say, identifying their key points and evidence, so you can respond thoughtfully","waiting for your turn to speak only","ignoring opposing points"], answer:1},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Citing evidence during a debate ___.", options:["is optional","weakens your argument","makes your argument more persuasive and credible","only helps the opposition"], answer:2}
    ]},
   {subject:"Math", title:"Data: Mean, Median, Mode, Range", summary:"Students calculate and interpret mean, median, mode, and range for data sets and understand which measure is most appropriate in different contexts.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Data: Mean, Median, Mode, Range", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Mean%2C%20Median%2C%20Mode%2C%20Range%20grade%206%20educational",
    quiz:[
      {q:"The mean is ___.", options:["the middle value","the most frequent value","the sum of all values divided by the number of values","the difference between the highest and lowest values"], answer:2},
      {q:"For the data set 3, 7, 7, 10, 13, the mode is ___.", options:["3","7","10","8"], answer:1},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"When data has an extreme outlier, which measure of centre is most misleading?", options:["Median","Mode","Range","Mean"], answer:3}
    ]},
   {subject:"Science", title:"Optics: Lenses and the Eye", summary:"Students explore how convex and concave lenses refract light to form images, and how the eye uses a convex lens (the cornea and lens) to focus images on the retina.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Optics: Lenses and the Eye", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Lenses%20and%20the%20Eye%20grade%206%20educational",
    quiz:[
      {q:"A convex lens ___.", options:["diverges light rays outward","has no effect on light","converges (brings together) light rays to a focal point on the other side","absorbs light only"], answer:2},
      {q:"A concave lens ___.", options:["converges light rays","diverges (spreads out) light rays, making objects appear smaller","has no effect","only reflects light"], answer:1},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"A concave lens corrects myopia because it ___.", options:["converges light before it enters the eye","absorbs extra light","diverges light slightly so it reaches the retina rather than focusing in front of it","thickens the lens of the eye"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Trade and Economic Systems", summary:"Students explore mercantilism, the triangular trade, the Industrial Revolution's economic impact, and how trade systems shaped world history.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Trade and Economic Systems", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Economic%20Systems%20grade%206%20educational",
    quiz:[
      {q:"Mercantilism was the belief that ___.", options:["trade benefits all countries equally","a country's wealth is limited and colonies exist to supply raw materials to and buy goods from the mother country","free trade is best","industrial production should be shared"], answer:1},
      {q:"The Triangular Trade involved ___.", options:["three equal partners trading peacefully","the exchange of enslaved Africans for American raw materials and European manufactured goods in a cycle of exploitation","only food and clothing","only European countries"], answer:1},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Writing: Memoir", summary:"Students write a personal memoir — a piece of narrative non-fiction drawn from their own life experiences. They use vivid detail, reflection, and a clear focus.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Writing: Memoir", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Memoir%20grade%206%20educational",
    quiz:[
      {q:"A memoir is ___.", options:["a fictional story about a historical figure","a biography written by someone else","a piece of narrative non-fiction told from the author's perspective, reflecting on personal experience","a report on current events"], answer:2},
      {q:"What distinguishes a memoir from an autobiography?", options:["They are identical","A memoir covers one's entire life; an autobiography focuses on one event","A memoir focuses on a particular theme or period in the author's life, while an autobiography covers the whole life story","An autobiography is fiction"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"The voice in a memoir should be ___.", options:["completely neutral and without personality","identical to a newspaper report","the authentic, personal voice of the author — their thoughts, feelings, and perspective shine through","always formal"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: Area of Triangles and Parallelograms", summary:"Students apply the formulas for area of triangles (A = ½bh) and parallelograms (A = bh), and understand how these relate to rectangles.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Geometry: Area of Triangles and Parallelograms", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Area%20of%20Triangles%20and%20Parallelograms%20grade%206%20educational",
    quiz:[
      {q:"The area formula for a parallelogram is ___.", options:["A = l × w","A = b × h","A = ½ × b × h","A = π × r²"], answer:1},
      {q:"The area formula for a triangle is ___.", options:["A = b × h","A = 2 × b × h","A = ½ × b × h","A = b + h"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Why does the triangle formula have ½?", options:["Only tradition","A triangle is half of a rectangle/parallelogram with the same base and height","Triangles are smaller than rectangles","No real reason"], answer:1}
    ]},
   {subject:"Science", title:"Simple and Complex Machines", summary:"Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Simple and Complex Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
    quiz:[
      {q:"A screw is essentially ___.", options:["a type of lever","a wheel-and-axle","an inclined plane wrapped in a spiral around a cylinder","a type of pulley"], answer:2},
      {q:"A wedge is ___.", options:["two inclined planes joined at their thick ends to split, hold, or tighten materials","a type of wheel","a screw without threads","a fixed pulley"], answer:0},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Simple machines make work easier by ___.", options:["increasing the amount of work done","reducing the total energy needed","changing the direction and/or size of the input force required to do work","only reducing speed"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Causes of World War I", summary:"Students explore the long- and short-term causes of WWI: militarism, alliances, imperialism, nationalism (MAIN), and the assassination of Archduke Franz Ferdinand.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Causes of World War I", resourceUrl:"https://www.youtube.com/results?search_query=Causes%20of%20World%20War%20I%20grade%206%20educational",
    quiz:[
      {q:"The acronym MAIN summarises the long-term causes of WWI. It stands for ___.", options:["Military, Alliances, Imperialism, Nationalism","Motivation, Army, Industry, Nations","Manufacturing, Alliances, International, Nationalism","Military, Aggression, Independence, Neutrality"], answer:0},
      {q:"The immediate trigger for WWI was ___.", options:["Germany invading France","Britain declaring war on Germany","the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo (June 28, 1914)","the sinking of the Lusitania"], answer:2},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Novel Study: Character Development", summary:"Students track and analyse how the protagonist and key supporting characters change over the course of a novel, identifying motivations, conflicts, and growth.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Novel Study: Character Development", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20Development%20grade%206%20educational",
    quiz:[
      {q:"Character development (or 'character arc') refers to ___.", options:["the list of characters in a novel","the physical description of characters","the way a character changes, grows, or learns through the events of the story","the number of times a character appears"], answer:2},
      {q:"A character's motivation is ___.", options:["how they look","where they live","what drives their actions and decisions — their goals, fears, desires","their name only"], answer:2},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Tracking character development through a novel means ___.", options:["memorising all character names","noting how characters speak, think, act, and change in response to events and conflicts throughout the story","only analysing the hero","only counting interactions"], answer:1}
    ]},
   {subject:"Math", title:"Data: Graphing and Interpreting", summary:"Students create and interpret various graphs (bar, line, circle/pie) and draw conclusions from data, considering bias and sample size.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Data: Graphing and Interpreting", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Graphing%20and%20Interpreting%20grade%206%20educational",
    quiz:[
      {q:"A line graph is most useful for showing ___.", options:["comparisons between categories at one point in time","how data changes over time (trends)","parts of a whole","individual values only"], answer:1},
      {q:"A circle (pie) graph is most useful for showing ___.", options:["data trends over time","comparisons of categories","how parts relate to a whole (percentages/proportions)","exact values"], answer:2},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"If a graph's y-axis doesn't start at 0, it can ___.", options:["make data more accurate","have no effect","exaggerate differences between values, making them look larger than they are","always be trusted"], answer:2}
    ]},
   {subject:"Science", title:"Earth's Systems: Rock Cycle and Plate Tectonics", summary:"Students explore the rock cycle (igneous, sedimentary, metamorphic), plate tectonics, and how Earth's internal processes shape the surface.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Earth's Systems: Rock Cycle and Plate Tectonics", resourceUrl:"https://www.youtube.com/results?search_query=Earth%27s%20Systems%3A%20Rock%20Cycle%20and%20Plate%20Tectonics%20grade%206%20educational",
    quiz:[
      {q:"The rock cycle describes ___.", options:["only how rocks fall down hills","the continuous process by which rocks transform between igneous, sedimentary, and metamorphic forms","how rocks grow","only weathering and erosion"], answer:1},
      {q:"Plate tectonics theory explains that ___.", options:["continents are fixed forever","Earth's lithosphere is divided into plates that move slowly over the mantle, causing earthquakes, volcanoes, and mountain building","only volcanoes","only earthquakes"], answer:1},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Earthquakes occur because ___.", options:["plates are stationary","only volcanoes cause them","tectonic plates suddenly slip past each other, releasing stored energy as seismic waves","rain erodes the surface"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canada in World War I", summary:"Students study Canada's contributions to WWI (Vimy Ridge, Passchendaele), the impact on the home front, conscription crisis, and how the war shaped Canadian identity.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Canada in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20World%20War%20I%20grade%206%20educational",
    quiz:[
      {q:"Canada's most celebrated WWI military achievement is ___.", options:["the invasion of Germany","the Battle of Vimy Ridge (April 1917) where Canadian forces captured a German stronghold that others had failed to take","the liberation of Paris","the naval blockade of Germany"], answer:1},
      {q:"The conscription crisis of 1917 caused ___.", options:["no controversy","a deep division in Canada, particularly between English Canadians (generally supporting conscription) and French Canadians (largely opposing it)","French and English Canadians to unite completely","only economic problems"], answer:1},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Writing: Research Essay — Drafting", summary:"Students draft a multi-paragraph research essay: introduction with thesis, body paragraphs with topic sentences and evidence, and a conclusion that synthesises findings.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Writing: Research Essay — Drafting", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Research%20Essay%20%E2%80%94%20Drafting%20grade%206%20educational",
    quiz:[
      {q:"A thesis statement in a research essay ___.", options:["asks a question","summarises the entire essay in a single sentence","is the writer's central argument or claim that the essay will prove","is only in the conclusion"], answer:2},
      {q:"Each body paragraph in a research essay should begin with ___.", options:["a quotation","a topic sentence that states the paragraph's main point","a new thesis","a conclusion"], answer:1},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to paraphrase rather than copy sources?", options:["It is not","To avoid plagiarism and to demonstrate your own understanding of the material","Only for professional writers","Only in exams"], answer:1}
    ]},
   {subject:"Math", title:"Volume: Rectangular Prisms", summary:"Students calculate the volume of rectangular prisms (V = l × w × h) and solve real-world problems involving volume.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Volume: Rectangular Prisms", resourceUrl:"https://www.youtube.com/results?search_query=Volume%3A%20Rectangular%20Prisms%20grade%206%20educational",
    quiz:[
      {q:"Volume measures ___.", options:["the area of a flat surface","the perimeter of a shape","the amount of three-dimensional space enclosed by a solid","the weight of an object"], answer:2},
      {q:"The formula for the volume of a rectangular prism is ___.", options:["V = l + w + h","V = l × w","V = l × w × h","V = 2(lw + lh + wh)"], answer:2},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"A fish tank is 80 cm × 30 cm × 40 cm. Its volume in litres (1 L = 1000 cm³) is ___.", options:["96 L","960 L","9600 L","2.4 L"], answer:0}
    ]},
   {subject:"Science", title:"Human Body Systems", summary:"Students explore body systems and how they interrelate: digestive, circulatory, respiratory, nervous, and musculoskeletal systems.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Human Body Systems", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20grade%206%20educational",
    quiz:[
      {q:"The digestive system breaks food into ___.", options:["bones","only protein","nutrients small enough to be absorbed into the bloodstream","only sugars"], answer:2},
      {q:"The main function of the circulatory system is ___.", options:["controlling movement","digesting food","breathing","transporting oxygen, nutrients, hormones, and waste products through the blood"], answer:3},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Body systems work together. Which describes their interaction?", options:["They work independently and never interact","The digestive system passes nutrients to the circulatory system, which delivers them throughout the body — this shows how systems depend on each other","Only the nervous system affects others","They work in pairs only"], answer:1}
    ]},
   {subject:"SocialStudies", title:"World War I: Impact and Consequences", summary:"Students examine the human cost of WWI, the Treaty of Versailles, and the seeds of future conflict.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: World War I: Impact and Consequences", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Impact%20and%20Consequences%20grade%206%20educational",
    quiz:[
      {q:"WWI resulted in approximately ___.", options:["10 000 deaths","50 million deaths","17 million deaths (including military and civilian)","1 million deaths"], answer:2},
      {q:"The Treaty of Versailles (1919) punished Germany by ___.", options:["rewarding Germany with new territory","making Germany pay reparations, accept blame (War Guilt Clause), lose territory, and limit its military","offering Germany generous aid","only restricting trade"], answer:1},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading: Independent Novel Study", summary:"Students read a self-selected novel and demonstrate comprehension through journal responses, tracking plot structure, character development, and thematic connections.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Reading: Independent Novel Study", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Independent%20Novel%20Study%20grade%206%20educational",
    quiz:[
      {q:"A reading journal helps you ___.", options:["avoid rereading","only count pages","track your thoughts, questions, and responses to the text as you read, deepening your engagement","only write summaries"], answer:2},
      {q:"The climax of a novel is ___.", options:["the very beginning","the falling action","the point of highest tension where the central conflict reaches its peak","the resolution"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"A literary discussion of a novel goes beyond plot summary by ___.", options:["listing all events","only naming characters","analysing the author's choices and exploring the deeper meanings and themes of the text","only describing the cover"], answer:2}
    ]},
   {subject:"Math", title:"Patterning and Algebra: Graphing Relationships", summary:"Students represent and analyse linear relationships using tables of values, graphs (on a coordinate plane), and equations.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Patterning and Algebra: Graphing Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%20and%20Algebra%3A%20Graphing%20Relationships%20grade%206%20educational",
    quiz:[
      {q:"A linear relationship produces points that ___.", options:["curve unpredictably","form a straight line when graphed","always go through the origin only","scatter randomly"], answer:1},
      {q:"A table of values shows ___.", options:["only one pair of values","corresponding input and output values for a relationship","only addition facts","only random numbers"], answer:1},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"The slope of a line represents ___.", options:["the y-intercept value","the x-axis value","the rate of change — how much y changes for every 1-unit increase in x","only the direction of the line"], answer:2}
    ]},
   {subject:"Science", title:"Ecosystems and Environmental Stewardship", summary:"Students examine ecosystem services, the impact of pollution, and what students and communities can do to protect natural environments.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Ecosystems and Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Environmental%20Stewardship%20grade%206%20educational",
    quiz:[
      {q:"Ecosystem services are ___.", options:["products sold in nature stores","the benefits humans receive from ecosystems (clean air, clean water, food, climate regulation, pollination, etc.)","only recreational benefits","only services provided by animals"], answer:1},
      {q:"The main cause of freshwater pollution in Ontario is ___.", options:["natural processes only","industrial and agricultural runoff, sewage discharge, and urban stormwater contamination","only littering","only oil spills"], answer:1},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Environmental stewardship is ___.", options:["ignoring environmental problems","the responsible care and management of the environment, accepting that humans have a duty to protect natural resources","only for scientists","only about recycling"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canada Between the Wars (1919–1939)", summary:"Students examine Canada's political maturation (Statute of Westminster 1931), economic boom and crash (1929), and rise of Social Credit and Co-operative Commonwealth Federation.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Canada Between the Wars (1919–1939)", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Between%20the%20Wars%20%281919%E2%80%931939%29%20grade%206%20educational",
    quiz:[
      {q:"The Statute of Westminster (1931) ___.", options:["made Canada fully independent from Britain overnight","gave Canada full control over its foreign policy and laws, effectively recognising Canadian sovereignty within the Commonwealth","dissolved the British Empire","gave Quebec independence"], answer:1},
      {q:"The Great Depression (1929–1939) in Canada caused ___.", options:["economic prosperity","only minor disruptions","massive unemployment, poverty, drought (the Dust Bowl in the Prairies), and political unrest","only stock market issues"], answer:2},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Students refine their writing through systematic editing (content, organisation, style) and proofreading (grammar, spelling, punctuation), using editing marks and checklists.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%206%20educational",
    quiz:[
      {q:"Editing focuses on ___.", options:["only spelling errors","only punctuation","improving content, organisation, clarity, and style — the big-picture issues","only finding typos"], answer:2},
      {q:"Proofreading focuses on ___.", options:["content and ideas","paragraph structure","fixing spelling, grammar, punctuation, and formatting errors — the surface-level details","changing the thesis"], answer:2},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"Which comes first: editing or proofreading?", options:["Proofreading","They are done simultaneously","Editing (big-picture revisions to content and structure) should come before proofreading (surface-level corrections)","Neither is needed"], answer:2}
    ]},
   {subject:"Math", title:"Fractions, Decimals, and Percents: Connecting", summary:"Students convert fluently between fractions, decimals, and percentages, and apply these conversions to real-world problems.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Fractions, Decimals, and Percents: Connecting", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%2C%20Decimals%2C%20and%20Percents%3A%20Connecting%20grade%206%20educational",
    quiz:[
      {q:"Convert 3/5 to a decimal.", options:["0.3","0.6","0.35","0.53"], answer:1},
      {q:"Convert 0.45 to a percentage.", options:["4.5%","0.45%","45%","450%"], answer:2},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"A student scored 18/24 on a test. What percentage is this?", options:["18%","24%","75%","80%"], answer:2}
    ]},
   {subject:"Science", title:"Light: Colour and the Electromagnetic Spectrum", summary:"Students explore how white light splits into the visible spectrum, how objects absorb/reflect/transmit light to produce colour, and the broader electromagnetic spectrum.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Light: Colour and the Electromagnetic Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=Light%3A%20Colour%20and%20the%20Electromagnetic%20Spectrum%20grade%206%20educational",
    quiz:[
      {q:"White light is ___.", options:["a single colour","only yellow and white","a mixture of all visible colours of the spectrum","not actually light"], answer:2},
      {q:"A red object appears red because ___.", options:["it produces red light","it absorbs all colours and reflects red wavelengths to our eyes","it is transparent to red only","it contains red pigment only"], answer:1},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Which part of the electromagnetic spectrum is used in medical X-rays?", options:["Radio waves","Infrared","Visible light","X-rays"], answer:3}
    ]},
   {subject:"SocialStudies", title:"World War II: Causes and Canada's Role", summary:"Students examine the rise of fascism, appeasement, and Canada's significant contributions to WWII on land, sea, and air.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: World War II: Causes and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20II%3A%20Causes%20and%20Canada%27s%20Role%20grade%206%20educational",
    quiz:[
      {q:"The main ideological forces driving WWII were ___.", options:["communism vs. democracy only","fascism/Nazism in Germany and Italy, militarism in Japan, vs. the Allied democracies","only economic disputes","only nationalism"], answer:1},
      {q:"Appeasement in the 1930s meant ___.", options:["fighting back aggressively","the British and French policy of granting concessions to Hitler to avoid war — famously at Munich in 1938","only economic sanctions","helping Germany rebuild"], answer:1},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Media: Creating a Documentary Script", summary:"Students plan and write a short documentary script, incorporating research, narration, interview questions, and visual descriptions.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Media: Creating a Documentary Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Creating%20a%20Documentary%20Script%20grade%206%20educational",
    quiz:[
      {q:"A documentary is a type of ___.", options:["fiction film","animation","non-fiction film or media that presents facts about real-world events, people, or topics","only a school project"], answer:2},
      {q:"A script for a documentary includes ___.", options:["only visuals","only music","narration, dialogue, visual directions, and interview questions — all working together to tell a true story","only facts and statistics"], answer:2},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"When writing documentary narration, the tone should be ___.", options:["always humorous","always angry","matched to the subject — serious for serious topics, accessible and clear, and based on verified facts","identical for all documentaries"], answer:2}
    ]},
   {subject:"Math", title:"Probability: Theoretical and Experimental", summary:"Students distinguish theoretical probability (what should happen) from experimental probability (what does happen). They run probability experiments and compare results.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Probability: Theoretical and Experimental", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Theoretical%20and%20Experimental%20grade%206%20educational",
    quiz:[
      {q:"Theoretical probability is based on ___.", options:["only past experiments","what actually happens in a trial","what mathematically should happen under ideal conditions (favourable outcomes / total outcomes)","only computer simulations"], answer:2},
      {q:"Experimental probability is based on ___.", options:["mathematical calculation only","actual results from repeated trials of an experiment","only one trial","only paper calculations"], answer:1},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"The theoretical probability of rolling a 4 on a standard die is ___.", options:["1/4","4/6","1/6","4/1"], answer:2}
    ]},
   {subject:"Science", title:"Review: Science Connections", summary:"Students connect the science strands studied in Grade 6 — biodiversity, flight, electricity, optics, and Earth systems — and see how they relate to real-world issues and careers.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Review: Science Connections", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20grade%206%20educational",
    quiz:[
      {q:"Which science strand explains why an eagle can be seen as a keystone species?", options:["Electricity","Optics","Flight","Biodiversity and ecosystems"], answer:3},
      {q:"Engineers who design aircraft apply principles from which science topic?", options:["Rock cycle","Biodiversity","Electricity","Flight and aerodynamics"], answer:3},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Knowledge of plate tectonics helps ___.", options:["design aircraft","classify species","build better circuits","predict earthquakes and volcanic eruptions, and understand mineral deposits"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Canada After WWII: Social and Political Change", summary:"Students explore Canada's post-WWII social changes: the baby boom, immigration, multiculturalism, the welfare state (Medicare, CPP), and the growth of suburbs.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Canada After WWII: Social and Political Change", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20After%20WWII%3A%20Social%20and%20Political%20Change%20grade%206%20educational",
    quiz:[
      {q:"The 'baby boom' after WWII referred to ___.", options:["a decline in birth rates","a large spike in birth rates as returning soldiers started families (approx. 1946–1964)","an immigration wave","a government housing program"], answer:1},
      {q:"Multiculturalism became official Canadian policy in ___.", options:["1867","1919","1971 under Prime Minister Pierre Trudeau, recognising and celebrating cultural diversity","1999"], answer:2},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year-End Celebration: Reflecting on Learning", summary:"Students reflect on their literacy growth through the year, share writing accomplishments, and set goals for Grade 7 language arts.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Year-End Celebration: Reflecting on Learning", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reflecting%20on%20Learning%20grade%206%20educational",
    quiz:[
      {q:"Reflecting on your learning means ___.", options:["forgetting what you studied","thinking critically about how your skills have grown, what you found challenging, and what you're proud of","copying your best work","only reviewing test scores"], answer:1},
      {q:"Setting a literacy goal for Grade 7 means ___.", options:["giving up on improving","identifying a specific reading, writing, or communication skill you want to develop and making a plan","only choosing what books to read","only for students who failed"], answer:1},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"The most important writing habit you can build is ___.", options:["only writing when required","writing only for teachers","writing regularly, reading widely, and viewing revision as an essential part of the process","only grammar"], answer:2}
    ]},
   {subject:"Math", title:"Grade 6 Math Year Review", summary:"Students consolidate key Grade 6 math concepts: ratios, percentages, integers, algebra, geometry, measurement, and data.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Grade 6 Math Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Math%20Year%20Review%20grade%206%20educational",
    quiz:[
      {q:"Simplify the ratio 15:25.", options:["15:25","3:5","5:3","1:5"], answer:1},
      {q:"What is 30% of 150?", options:["45","30","50","40"], answer:0},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"What is the mean of 8, 12, 15, 9, 11?", options:["11","55","10","12"], answer:0}
    ]},
   {subject:"Science", title:"Grade 6 Science Year Review", summary:"Students review all Grade 6 science strands: biodiversity, flight, electricity, optics, and Earth systems.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Grade 6 Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Science%20Year%20Review%20grade%206%20educational",
    quiz:[
      {q:"Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species — this is the ___.", options:["water cycle","rock cycle","electromagnetic spectrum","biological classification hierarchy (taxonomy)"], answer:3},
      {q:"The four forces of flight are ___.", options:["push, pull, up, down","lift, weight, thrust, drag","air, gravity, speed, angle","force, mass, acceleration, velocity"], answer:1},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Plate tectonics explains ___.", options:["why it rains","how electricity works","why light bends","why continents move and why earthquakes and volcanoes occur at plate boundaries"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Grade 6 Social Studies Year Review", summary:"Students review ancient civilisations, exploration, WWI and WWII, and Canada's development into a modern nation.",
-   resourceLabel:"TVO Learn: Grade 6", resourceUrl:"https://tvolearn.com/pages/grade-6",
+   resourceLabel:"YouTube: Grade 6 Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Social%20Studies%20Year%20Review%20grade%206%20educational",
    quiz:[
      {q:"Which ancient civilisation first developed democracy?", options:["Rome","Egypt","Greece (specifically Athens)","China"], answer:2},
      {q:"The Columbian Exchange describes ___.", options:["a stock market","the transfer of goods, species, diseases, and ideas between the Old and New Worlds after 1492","a peace treaty","only gold and silver trade"], answer:1},

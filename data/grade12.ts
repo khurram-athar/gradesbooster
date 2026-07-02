@@ -11,7 +11,7 @@ const curriculum: DayContent[] = [
      {q:"Integrating literary criticism responsibly means ___.", options:["copying the critic's argument as your own","only agreeing with critics","avoiding critics who disagree with you","engaging critically with secondary sources — using them to inform, enrich, or challenge your reading, while maintaining your own analytical voice and making your own contribution"], answer:3},
      {q:"The most important difference between high school and university English is ___.", options:["university requires less reading","university essays are always longer","grammar is more important at university","intellectual independence: university expects you to formulate genuine, original questions about texts and pursue them with rigour, not just respond to provided prompts"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Polynomial Functions: Deep Dive into Graphs and Equations", summary:"Students investigate polynomial functions of all degrees — connecting multiplicity of zeros, end behaviour, turning points, and algebraic form to graphical behaviour.",
+  {subject:"AdvancedFunctions", title:"Polynomial Functions: Deep Dive into Graphs and Equations", summary:"Students investigate polynomial functions of all degrees — connecting multiplicity of zeros, end behaviour, turning points, and algebraic form to graphical behaviour.",
    resourceLabel:"Khan Academy: Polynomial Graphs", resourceUrl:"https://www.youtube.com/watch?v=1WRYEBHLLm8",
    quiz:[
      {q:"A polynomial of degree n can have at most ___ real zeros and at most ___ turning points.", options:["n zeros and n turning points","n-1 zeros and n turning points","n zeros and n-1 turning points (a degree-n polynomial has at most n zeros and at most n-1 local maxima/minima)","n+1 zeros and n turning points"], answer:2},
@@ -49,7 +49,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing a novel's prose style means ___.", options:["only counting long sentences","identifying the author's country of origin","only noting the vocabulary level","examining sentence length and rhythm, syntax, imagery, diction, tone, and the relationship between these choices and the novel's themes and effects"], answer:3},
      {q:"A sophisticated novel reading at Grade 12 produces ___.", options:["a plot summary with quotations","only a character description","a thematic overview without formal analysis","an argument about how the novel's formal choices create and enrich its meaning — form and content are inseparable"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Rational Functions: Analysis and Graphing", summary:"Students perform complete analysis of rational functions — identifying all asymptotes, holes, intercepts, and behaviour — and graph them without technology.",
+  {subject:"AdvancedFunctions", title:"Rational Functions: Analysis and Graphing", summary:"Students perform complete analysis of rational functions — identifying all asymptotes, holes, intercepts, and behaviour — and graph them without technology.",
    resourceLabel:"Khan Academy: Graphing Rational Functions", resourceUrl:"https://www.youtube.com/watch?v=5TkIe60y2GI",
    quiz:[
      {q:"To find all features of a rational function, you must ___.", options:["only find where it equals zero","only find vertical asymptotes","only graph it with technology","factor both numerator and denominator completely to identify zeros, holes, vertical asymptotes, and simplify for horizontal/oblique asymptotes"], answer:3},
@@ -87,7 +87,7 @@ const curriculum: DayContent[] = [
      {q:"Contemporary tragic narratives (film, novel, theatre) typically ___.", options:["avoid tragic form entirely","only follow the Greek model","reproduce the Shakespearean model exactly","adapt the tragic form to modern concerns: the tragic hero may be ordinary rather than royal, the forces of doom may be social and psychological rather than divine, and catharsis may be replaced by critique"], answer:3},
      {q:"Comparing tragic forms across cultures illuminates ___.", options:["only historical differences","only literary technique","that tragedy is purely a Western form","how different cultures understand fate, justice, individual agency, and what makes human suffering meaningful — tragedy is a cross-cultural form, but its specific expression reflects distinct world views"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Exponential and Logarithmic Functions: Advanced Applications", summary:"Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
+  {subject:"AdvancedFunctions", title:"Exponential and Logarithmic Functions: Advanced Applications", summary:"Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
    resourceLabel:"Khan Academy: Logarithm Properties", resourceUrl:"https://www.youtube.com/watch?v=TMmxKZaCqe0",
    quiz:[
      {q:"The change of base formula log_b(x) = log(x)/log(b) allows ___.", options:["converting bases only in specific cases","converting only to base 10","only base-2 conversions","evaluating logarithms in any base using a calculator (which typically has only base-10 or base-e), and simplifying logarithmic expressions"], answer:3},
@@ -125,7 +125,7 @@ const curriculum: DayContent[] = [
      {q:"The difference between analysis and description in an extended essay is ___.", options:["they are the same at university level","description is more academic","analysis only appears in conclusions","description reports what the text does; analysis explains how and why specific choices create specific effects — every paragraph must be driven by analysis, not description"], answer:3},
      {q:"Concluding a long essay effectively requires ___.", options:["summarising all body paragraphs in order","repeating the thesis word for word","adding new evidence at the end","synthesising the essay's argument, extending the thesis to its larger implications, and leaving the reader with a new perspective or unresolved question — not just restating what has been said"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Trigonometric Functions: Identities and Equations (Advanced)", summary:"Students prove and apply advanced trigonometric identities including compound angle, double angle, and sum-to-product formulas, and solve complex trigonometric equations.",
+  {subject:"AdvancedFunctions", title:"Trigonometric Functions: Identities and Equations (Advanced)", summary:"Students prove and apply advanced trigonometric identities including compound angle, double angle, and sum-to-product formulas, and solve complex trigonometric equations.",
    resourceLabel:"Khan Academy: Trig Identities", resourceUrl:"https://www.youtube.com/watch?v=T9lt6MZKLck",
    quiz:[
      {q:"To prove a trigonometric identity, you must ___.", options:["substitute specific values","start from both sides simultaneously","cross-multiply to eliminate fractions","work on one side only, transforming it to equal the other, using only known identities and algebraic operations — never treating it like an equation to solve"], answer:3},
@@ -163,7 +163,7 @@ const curriculum: DayContent[] = [
      {q:"Disinformation campaigns in digital media are effective because ___.", options:["false information is never shared widely","digital platforms always verify content","most people are incapable of critical thinking","corrections rarely spread as far as the original false claim; outrage drives engagement (and algorithmic amplification); and false information may be deliberately designed to be emotionally compelling and hard to disprove quickly"], answer:3},
      {q:"A digitally literate citizen evaluates political content by ___.", options:["sharing immediately if it confirms their views","trusting verified accounts automatically","only reading mainstream media","checking the source, looking for corroboration from multiple independent credible sources, examining who benefits from the claim, and being especially skeptical of content that produces strong emotional reactions"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Combining Functions: Operations and Compositions", summary:"Students perform operations on functions (sum, difference, product, quotient) and compositions, including finding domains of combined functions.",
+  {subject:"AdvancedFunctions", title:"Combining Functions: Operations and Compositions", summary:"Students perform operations on functions (sum, difference, product, quotient) and compositions, including finding domains of combined functions.",
    resourceLabel:"Khan Academy: Composite Functions", resourceUrl:"https://www.youtube.com/watch?v=z_tEsVMKOjk",
    quiz:[
      {q:"The domain of (f + g)(x) is ___.", options:["the domain of f only","the domain of g only","the domain of f union domain of g","the intersection of the domains of f and g — both must be defined"], answer:3},
@@ -201,7 +201,7 @@ const curriculum: DayContent[] = [
      {q:"Contemporary lyric poetry engages with ___.", options:["only traditional subjects like love and death","only formal experimentation","only nature as a subject","a vast range of subjects and forms — from personal trauma and identity politics to ecological crisis and digital culture — often in hybrid forms mixing prose and verse"], answer:3},
      {q:"Close reading a lyric poem involves ___.", options:["only identifying the rhyme scheme","only determining whether the speaker is happy or sad","only summarising what the poem is about","attending to every word, sound, line break, and formal choice — lyric poetry is maximally compressed, so nothing is accidental"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Polynomial and Rational Equations: Problem Solving", summary:"Students solve higher-degree polynomial equations and applied rational equations, applying the factor theorem, synthetic division, and rational root theorem.",
+  {subject:"AdvancedFunctions", title:"Polynomial and Rational Equations: Problem Solving", summary:"Students solve higher-degree polynomial equations and applied rational equations, applying the factor theorem, synthetic division, and rational root theorem.",
    resourceLabel:"Khan Academy: Polynomial Division", resourceUrl:"https://www.youtube.com/watch?v=FxHWoUOq2iQ",
    quiz:[
      {q:"The Rational Root Theorem states ___.", options:["all roots of a polynomial are rational","irrational roots don't exist","a polynomial has n rational roots always","if P(x) has integer coefficients, any rational root p/q (in lowest terms) must have p dividing the constant term and q dividing the leading coefficient"], answer:3},
@@ -239,7 +239,7 @@ const curriculum: DayContent[] = [
      {q:"Reading a play script for performance means ___.", options:["only reading the dialogue","only finding the themes","ignoring stage directions","imagining all dimensions: the spatial relationships, physicality, rhythm of speech, silences, and theatrical choices that a director, designer, and actors would bring to the text"], answer:3},
      {q:"Theatre's unique power compared to film or prose is ___.", options:["better special effects","permanent record of performance","greater budget for production design","liveness — the co-presence of performer and audience creates an unrepeatable event, a shared experience of risk and immediacy that no recording can replicate"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Rates of Change: Introduction to Calculus Concepts", summary:"Students explore the concept of instantaneous rate of change as a limit, preparing the foundation for Grade 12 Calculus and making explicit the connection between Advanced Functions and Calculus.",
+  {subject:"AdvancedFunctions", title:"Rates of Change: Introduction to Calculus Concepts", summary:"Students explore the concept of instantaneous rate of change as a limit, preparing the foundation for Grade 12 Calculus and making explicit the connection between Advanced Functions and Calculus.",
    resourceLabel:"Khan Academy: Average vs Instantaneous Rate of Change", resourceUrl:"https://www.youtube.com/watch?v=BVZNMm6GaKw",
    quiz:[
      {q:"Average rate of change of f(x) over [a, b] is ___.", options:["f'(a)","f(a)/f(b)","[f(b) − f(a)] × (b − a)","[f(b) − f(a)]/(b − a) — the slope of the secant line through (a, f(a)) and (b, f(b))"], answer:3},
@@ -277,7 +277,7 @@ const curriculum: DayContent[] = [
      {q:"The most common fatal flaw in university personal writing is ___.", options:["being too specific","mentioning personal interests","having too unique a perspective","being generic — writing could apply to any student, at any school, in any program — producing no sense of who this specific person is or why this specific school is right for them"], answer:3},
      {q:"Your personal statement is most valuable to you personally because ___.", options:["it guarantees admission","it impresses admission officers","only the grade matters","it requires you to reflect seriously on who you are, what you care about, and where you want to go — the act of writing it is itself valuable, not just the finished product"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Discrete Functions: Advanced Sequences, Series, and Financial Math", summary:"Students apply geometric series formulas to financial mathematics — annuities, mortgages, and investment growth — with university-preparatory rigour.",
+  {subject:"AdvancedFunctions", title:"Discrete Functions: Advanced Sequences, Series, and Financial Math", summary:"Students apply geometric series formulas to financial mathematics — annuities, mortgages, and investment growth — with university-preparatory rigour.",
    resourceLabel:"Khan Academy: Geometric Series Formula", resourceUrl:"https://www.youtube.com/watch?v=RMa1QSEfzVA",
    quiz:[
      {q:"The future value of an annuity (regular payment R, interest rate i per period, n periods) is ___.", options:["FV = R × n","FV = R(1+i)ⁿ","FV = R × i × n","FV = R[(1+i)ⁿ − 1]/i — a geometric series: each payment earns compound interest for a different number of periods"], answer:3},
@@ -315,7 +315,7 @@ const curriculum: DayContent[] = [
      {q:"Pastiche differs from parody in that ___.", options:["pastiche has no relationship to prior works","pastiche is always comic","they are identical","pastiche imitates a style without the critical distance of parody — it celebrates or mourns a style rather than mocking it; Fredric Jameson saw pastiche as the dominant mode of postmodern culture"], answer:3},
      {q:"Reading postmodern fiction productively requires ___.", options:["abandoning all interpretive frameworks","accepting that meaning is completely arbitrary","only reading plot summaries","tolerating and enjoying ambiguity — learning to read with pleasure the way meaning is deferred, multiplied, and complicated rather than seeking a definitive single meaning"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Introduction to Vectors", summary:"Students are introduced to vectors — geometric and component representations, operations, dot product, and applications to displacement and work.",
+  {subject:"AdvancedFunctions", title:"Introduction to Vectors", summary:"Students are introduced to vectors — geometric and component representations, operations, dot product, and applications to displacement and work.",
    resourceLabel:"Khan Academy: Vectors Introduction", resourceUrl:"https://www.youtube.com/watch?v=fNk_zzaMoSs",
    quiz:[
      {q:"A vector differs from a scalar in that ___.", options:["vectors are always larger","vectors have no application in physics","scalars can be negative","a vector has both magnitude and direction (e.g., displacement, velocity, force); a scalar has only magnitude (e.g., distance, speed, mass)"], answer:3},
@@ -353,7 +353,7 @@ const curriculum: DayContent[] = [
      {q:"A sophisticated comparison of two texts examines ___.", options:["only their plots","only their dates of publication","only whether one is better than the other","how each text's formal choices, cultural context, and thematic concerns illuminate the other — finding meaningful connections and tensions that reveal something about both"], answer:3},
      {q:"The value of global and comparative literature for Canadian students is ___.", options:["only preparation for international travel","only useful for English majors","no connection to Canadian identity","it places Canada in a global conversation — students discover both what is distinctive about Canadian literature and what connects it to the broader human story"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Proof and Mathematical Reasoning", summary:"Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
+  {subject:"AdvancedFunctions", title:"Proof and Mathematical Reasoning", summary:"Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
    resourceLabel:"Khan Academy: Mathematical Induction", resourceUrl:"https://www.youtube.com/watch?v=wblW_M_HVQ8",
    quiz:[
      {q:"A direct proof establishes a theorem by ___.", options:["testing many specific cases","showing the opposite leads to a contradiction","finding a counterexample","starting from known axioms and definitions, and deriving the theorem through valid logical steps"], answer:3},
@@ -391,7 +391,7 @@ const curriculum: DayContent[] = [
      {q:"Academic integrity in a social issues essay requires ___.", options:["only using your own knowledge","only paraphrasing to avoid citation","never using sources","citing all sources of information, ideas, and argument (whether quoted or paraphrased), distinguishing your own claims from sourced claims, and being transparent about the evidential basis of all arguments"], answer:3},
      {q:"The most important quality of an argumentative essay on a controversial topic is ___.", options:["passionate expression of opinion","length and number of sources","an absence of counterarguments","intellectual honesty — acknowledging uncertainty where it exists, representing opposing views fairly, and grounding your argument in evidence rather than only in conviction"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Functions Review: Connecting All Function Families", summary:"Students synthesise the entire Advanced Functions course, connecting all function families and preparing for final assessment.",
+  {subject:"AdvancedFunctions", title:"Functions Review: Connecting All Function Families", summary:"Students synthesise the entire Advanced Functions course, connecting all function families and preparing for final assessment.",
    resourceLabel:"Khan Academy: Advanced Functions Review", resourceUrl:"https://www.youtube.com/watch?v=LkwT1GQVJP8",
    quiz:[
      {q:"The fundamental difference between polynomial and rational functions is ___.", options:["degree only","number of terms","they are always different in shape","rational functions involve division by a variable expression, creating domain restrictions (vertical asymptotes or holes) absent in polynomials"], answer:3},
@@ -429,7 +429,7 @@ const curriculum: DayContent[] = [
      {q:"Designing a digital portfolio involves ___.", options:["only choosing a colour scheme","no aesthetic choices","no connection to writing skills","decisions about organisation, hierarchy, visual design, and navigation that reflect the same principles as good writing: clarity, purpose, coherence, and attention to audience"], answer:3},
      {q:"The most important quality in a digital portfolio for university or career purposes is ___.", options:["the most elaborate visual design","only the most technical work","as many pieces as possible","authentic evidence of your thinking — not just correct answers but genuine intellectual engagement, growth, and the distinctive qualities of your mind"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Exam Preparation: Comprehensive Review", summary:"Students complete comprehensive review of all Advanced Functions content in preparation for final assessment.",
+  {subject:"AdvancedFunctions", title:"Exam Preparation: Comprehensive Review", summary:"Students complete comprehensive review of all Advanced Functions content in preparation for final assessment.",
    resourceLabel:"Khan Academy: Advanced Math Review", resourceUrl:"https://www.youtube.com/watch?v=jKrEFOTScwU",
    quiz:[
      {q:"Find all zeros of P(x) = x⁴ − 5x² + 4.", options:["x = ±1 and x = ±2 (factor as (x²−1)(x²−4) = (x−1)(x+1)(x−2)(x+2))","x = 1 and x = 4 only","x = ±2 only","x = ±√5"], answer:0},
@@ -467,7 +467,7 @@ const curriculum: DayContent[] = [
      {q:"Reading widely beyond the curriculum benefits you by ___.", options:["only improving your exam marks","replacing academic literary study","only for entertainment","building vocabulary, background knowledge, cultural awareness, empathy, narrative intelligence, and the capacity for sustained attention — all of which transfer to academic and professional life"], answer:3},
      {q:"The lifelong reader develops ___.", options:["only factual knowledge from books","only literary knowledge from fiction","a disinterest in other media","a distinctive relationship to language and narrative — a richer inner life, a wider frame of reference, and a deeper capacity for understanding perspectives and experiences beyond their own"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Mathematical Modelling: Choosing the Right Function", summary:"Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
+  {subject:"AdvancedFunctions", title:"Mathematical Modelling: Choosing the Right Function", summary:"Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
    resourceLabel:"Khan Academy: Mathematical Modeling", resourceUrl:"https://www.youtube.com/watch?v=A3M9Ksxrd9c",
    quiz:[
      {q:"When data shows exponential growth that eventually levels off, the best model is ___.", options:["a polynomial function","a trigonometric function","a pure exponential function","a logistic function — capturing rapid initial growth that slows as the population approaches carrying capacity"], answer:3},
@@ -505,7 +505,7 @@ const curriculum: DayContent[] = [
      {q:"Engaging with literary criticism in a culminating essay shows ___.", options:["only that you have read critics","that you have no original ideas","that critics are always right","that you can position your own reading in relation to existing scholarly perspectives — agreeing, disagreeing, extending, or qualifying a critical position with textual evidence"], answer:3},
      {q:"The last step before submitting a major essay is ___.", options:["only checking spelling","reading the conclusion only","only counting the words","reading the complete essay as a skeptical stranger would: does the argument actually hold? Is each claim supported? Does the conclusion follow from the evidence? Is the voice consistent and clear?"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Advanced Functions Final Assessment Review", summary:"Students review all major course concepts and practise exam-level problems.",
+  {subject:"AdvancedFunctions", title:"Advanced Functions Final Assessment Review", summary:"Students review all major course concepts and practise exam-level problems.",
    resourceLabel:"Khan Academy: Functions Final Review", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
    quiz:[
      {q:"The graph of f(x) = x(x−2)²(x+1)³ has x-intercepts at ___.", options:["x = 0, 2, −1 with multiplicities 1, 2, 3 respectively — crosses at 0 and −1, touches at 2","x = 0, 4, 3","x = 0, 2, 1","x = 0 and x = 1 only"], answer:0},
@@ -543,7 +543,7 @@ const curriculum: DayContent[] = [
      {q:"The writers you have studied in Grade 12 ___.", options:["are now no longer relevant","are only relevant in academic contexts","have taught you only literary technique","have given you intellectual companions — voices you can return to throughout your life, finding new meaning as your own experience grows"], answer:3},
      {q:"English, as a discipline and a practice, is ___.", options:["a set of skills you've now mastered and completed","only about grammar and spelling","only about fiction and poetry","a lifelong pursuit — language and literature are not finished, not mastered, not set aside after graduation but lived with, returned to, and deepened throughout a human life"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Looking Back, Looking Forward", summary:"Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
+  {subject:"AdvancedFunctions", title:"Looking Back, Looking Forward", summary:"Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
    resourceLabel:"Khan Academy: Looking Ahead to Calculus", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
    quiz:[
      {q:"Advanced Functions has prepared you for university mathematics by ___.", options:["teaching you all the mathematics you will ever need","only for students in STEM programs","being equivalent to first-year university calculus","developing fluency in function analysis — the foundation for calculus, linear algebra, statistics, and all quantitative reasoning at university level"], answer:3},
@@ -581,7 +581,7 @@ const curriculum: DayContent[] = [
      {q:"Hybridity (Homi Bhabha) in postcolonial literature refers to ___.", options:["mixing languages only","a purely biological concept","cultural purity in new nations","the complex cultural mixing produced by colonialism — neither purely coloniser nor colonised, but a 'third space' of negotiated identity"], answer:3},
      {q:"Applying postcolonial theory to a Canadian text requires ___.", options:["recognising Canada has no colonial history","only examining French-English relations","treating all colonial experiences as identical","acknowledging Canada's specific colonial history — both as a British colony and as a settler-colonial state with ongoing impacts on Indigenous peoples — a complex dual position"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Vectors in Three Dimensions", summary:"Students extend 2D vector concepts to 3D — Cartesian coordinates, vector operations, magnitude, dot product, and angle between vectors.",
+  {subject:"AdvancedFunctions", title:"Vectors in Three Dimensions", summary:"Students extend 2D vector concepts to 3D — Cartesian coordinates, vector operations, magnitude, dot product, and angle between vectors.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=k7RM-ot2NWY",
    quiz:[
      {q:"A vector in 3D is written as ___.", options:["(x, y)","[x:y:z]","x + y + z","a = (a₁, a₂, a₃) or a₁i + a₂j + a₃k — three components corresponding to x, y, z directions"], answer:3},
@@ -619,7 +619,7 @@ const curriculum: DayContent[] = [
      {q:"The most sophisticated comparative essays ___.", options:["only describe similarities","only note obvious differences","treat texts independently and in parallel only","find a productive tension — a similarity that conceals difference, or a difference that reveals a shared concern — and use this to generate genuine analytical insight"], answer:3},
      {q:"Works from different languages in translation present ___.", options:["no issues since translation is neutral","opportunities to compare style directly","no analytical interest","a specific interpretive challenge — you are reading the translator's choices as well as the author's, and you should acknowledge this while still engaging meaningfully with the available text"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Lines and Planes in Three Dimensions", summary:"Students write vector and parametric equations of lines in 3D, and scalar and vector equations of planes.",
+  {subject:"AdvancedFunctions", title:"Lines and Planes in Three Dimensions", summary:"Students write vector and parametric equations of lines in 3D, and scalar and vector equations of planes.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=1DfkHs6MFJk",
    quiz:[
      {q:"The vector equation of a line through point P₀=(x₀,y₀,z₀) with direction d=(a,b,c) is ___.", options:["r = (x₀+a, y₀+b, z₀+c)","r = d × P₀","r = P₀ + t (the direction is missing)","r = (x₀,y₀,z₀) + t(a,b,c) — a point plus a scalar multiple of the direction vector"], answer:3},
@@ -657,7 +657,7 @@ const curriculum: DayContent[] = [
      {q:"Psychoanalytic literary criticism (Freud, Lacan) examines ___.", options:["only mentally ill characters","only the author's biography","only obvious symbolism","the unconscious dimensions of texts — repression, desire, the uncanny, dream logic, the dynamics of id/ego/superego or Lacanian registers (Symbolic, Imaginary, Real)"], answer:3},
      {q:"The danger of applying theory mechanically is ___.", options:["the theory becomes irrelevant","theory always improves a reading","no danger exists in using theory","the text is reduced to an illustration of the theory — sophisticated critical work uses theory as a lens to illuminate specific textual details, not as a formula that produces predetermined readings"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"The Cross Product in 3D", summary:"Students compute cross products of 3D vectors and apply them to find normals to planes, areas of parallelograms, and equations of planes.",
+  {subject:"AdvancedFunctions", title:"The Cross Product in 3D", summary:"Students compute cross products of 3D vectors and apply them to find normals to planes, areas of parallelograms, and equations of planes.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=pJzmiywagfY",
    quiz:[
      {q:"The cross product a × b produces ___.", options:["a scalar equal to |a||b|cosθ","the component-wise product of two vectors","the dot product of two vectors","a vector perpendicular to both a and b — with magnitude |a||b|sinθ"], answer:3},
@@ -695,7 +695,7 @@ const curriculum: DayContent[] = [
      {q:"Jonathan Swift's 'A Modest Proposal' uses ___.", options:["straightforward rhetorical argument","direct emotional appeal","pure comedy without bite","sustained irony — the narrator's reasonable tone and logical precision make the monstrous proposal (eating Irish babies) more horrifying, not less; the gap between manner and content is the satirical engine"], answer:3},
      {q:"The ethics of satire involve ___.", options:["no ethical considerations","only attacking powerful institutions","that any target is fair game","difficult questions about power: satire that 'punches down' (mocks the vulnerable) is ethically different from satire that challenges power — and the line is not always clear"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Equations of Lines and Planes: Intersections and Distances", summary:"Students find intersections of lines and planes in 3D and calculate distances from points to lines and planes.",
+  {subject:"AdvancedFunctions", title:"Equations of Lines and Planes: Intersections and Distances", summary:"Students find intersections of lines and planes in 3D and calculate distances from points to lines and planes.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=5AWob_z74Ks",
    quiz:[
      {q:"To find where a line intersects a plane, substitute the ___ into the plane equation.", options:["normal vector of the plane","coordinates of any point on the plane","parametric equations of the line (in terms of t) and solve for t","direction vector of the line"], answer:2},
@@ -733,7 +733,7 @@ const curriculum: DayContent[] = [
      {q:"MLA citation requires ___.", options:["only in-text page numbers for everything","only a bibliography, no in-text citation","only footnotes, no bibliography","in-text citations (author page#) and a corresponding Works Cited page — for online sources, include URL or DOI and access date as applicable"], answer:3},
      {q:"Academic integrity in a research essay means ___.", options:["only quoting correctly","only avoiding copy-paste","only citing sources you agree with","citing every source of ideas, information, and argument (whether quoted, paraphrased, or summarised) and presenting your own original synthesis and argument — not reproducing others' analysis as your own"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Geometric Vectors: Applications to Physics and Engineering", summary:"Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
+  {subject:"AdvancedFunctions", title:"Geometric Vectors: Applications to Physics and Engineering", summary:"Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=ozwodzD5bte",
    quiz:[
      {q:"Resolving a force into components in 3D uses ___.", options:["trigonometry only","the dot product alone","only the magnitude of the force","F = Fₓi + F_yj + F_zk — decomposing the force vector into x, y, z components using direction cosines or given angles"], answer:3},
@@ -771,7 +771,7 @@ const curriculum: DayContent[] = [
      {q:"The danger of reading a novel only as a social document is ___.", options:["it always misidentifies the social context","it makes the novel more interesting","it is the correct approach","reducing the novel to a source of sociological information while ignoring its formal complexity, aesthetic achievements, and the ways form and content are inseparable"], answer:3},
      {q:"Contemporary fiction as social document includes ___.", options:["no claim to documentary accuracy","only 'issues novels' without literary merit","only literary fiction set in the past","novels that address climate change, algorithmic culture, economic precarity, migration, and racial justice — fiction as a mode of social imagination that can reveal what statistics and journalism cannot"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Vectors: Applications to Navigation and Problem Solving", summary:"Students apply 3D vector techniques to navigation, structural problems, and multi-step applied problems.",
+  {subject:"AdvancedFunctions", title:"Vectors: Applications to Navigation and Problem Solving", summary:"Students apply 3D vector techniques to navigation, structural problems, and multi-step applied problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=ml4NSzCQobk",
    quiz:[
      {q:"A boat travels at 20 km/h in a river with current 5 km/h perpendicular. Its actual speed is ___.", options:["25 km/h","15 km/h","10 km/h","√(20² + 5²) = √425 ≈ 20.6 km/h — vector addition of boat velocity and current velocity"], answer:3},
@@ -809,7 +809,7 @@ const curriculum: DayContent[] = [
      {q:"Chekhov's famous 'gun' principle states ___.", options:["every story needs violence","guns are important in Russian fiction","stories should be realistic only","if a gun is shown in the first act, it must be fired by the third — dramatic economy requires that every element introduced must be relevant; details are significant precisely because they are selected"], answer:3},
      {q:"Compression in short fiction achieves ___.", options:["nothing that a longer story could not do better","less than the novel in all respects","only brevity without depth","a different kind of intensity — the reader carries more weight; implication, suggestion, and what is left unsaid become as important as what is stated, creating resonant ambiguity"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Counting Principles and Permutations", summary:"Students apply the fundamental counting principle, permutations (with and without repetition), and circular permutations to combinatorics problems.",
+  {subject:"AdvancedFunctions", title:"Counting Principles and Permutations", summary:"Students apply the fundamental counting principle, permutations (with and without repetition), and circular permutations to combinatorics problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=XqQTXW7XfYA",
    quiz:[
      {q:"The fundamental counting principle: if event A can occur in m ways and event B in n ways, then A then B can occur in ___.", options:["m + n ways (addition applies when events are mutually exclusive alternatives)","m × n ways — the multiplication principle: each choice for A pairs with each choice for B","m! ways","m − n ways"], answer:1},
@@ -847,7 +847,7 @@ const curriculum: DayContent[] = [
      {q:"The ethics of documentary representation include ___.", options:["no ethical obligations since subjects consented","only legal considerations","no issue if filming in public spaces","obligations around consent, fair representation, potential harm to subjects, and the power differential between filmmaker and subject — particularly when filming vulnerable communities"], answer:3},
      {q:"Analysing a documentary as a text means ___.", options:["accepting it as a neutral truth document","only checking factual accuracy","only watching without analysis","examining its rhetorical strategies, cinematic choices, ideological assumptions, and the relationship between its claims and the evidence it presents — treating it as an argument, not just a record"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Combinations and the Binomial Theorem", summary:"Students calculate combinations, apply Pascal's triangle, and expand binomials using the Binomial Theorem.",
+  {subject:"AdvancedFunctions", title:"Combinations and the Binomial Theorem", summary:"Students calculate combinations, apply Pascal's triangle, and expand binomials using the Binomial Theorem.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=Eu2oYKiPxu0",
    quiz:[
      {q:"The number of combinations of n objects taken r at a time is ___.", options:["n!/r!","n!/(n−r)!","n!","C(n,r) = n!/(r!(n−r)!) — order does not matter in combinations; fewer than permutations by a factor of r!"], answer:3},
@@ -885,7 +885,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing a contemporary play without seeing it in production requires ___.", options:["imagining a specific production as if it were the only one","admitting analysis is impossible without performance","only reading the dialogue as prose","imaginative performance reading — envisioning how the text could be staged, what choices are available, and how different productions might emphasise different aspects of the text"], answer:3},
      {q:"The most important question when analysing a scene in a contemporary play is ___.", options:["what happens in the plot","what time period is the play set in","how many characters appear","what does each character want in this scene, and what theatrical means are used to create or frustrate that desire — dramatic action is always about want and obstacle"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Probability Distributions: Binomial and Geometric", summary:"Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
+  {subject:"AdvancedFunctions", title:"Probability Distributions: Binomial and Geometric", summary:"Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=J8jNoF-K8Z8",
    quiz:[
      {q:"The binomial distribution applies when ___.", options:["trials have more than two outcomes","probability changes each trial","only one trial is performed","there are n independent identical trials, each with two outcomes (success/failure), and probability of success p is constant — counting the number of successes X"], answer:3},
@@ -923,7 +923,7 @@ const curriculum: DayContent[] = [
      {q:"When evidence does not support your claim, the correct response is ___.", options:["delete the evidence","misrepresent the evidence to fit","ignore the problem","revise either the claim to match the evidence, or find better evidence for the existing claim — intellectual honesty requires alignment between claim and evidence"], answer:3},
      {q:"Academic voice in a research essay is characterised by ___.", options:["only long, complex sentences","avoiding the first person always","only formal vocabulary","precision, economy, and analytical clarity — making specific, defensible claims; avoiding vague assertions; using evidence not to decorate but to prove; maintaining a consistently critical and engaged voice"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Probability: Conditional Probability and Independence", summary:"Students apply conditional probability, Bayes' Theorem, and independence to complex probability problems.",
+  {subject:"AdvancedFunctions", title:"Probability: Conditional Probability and Independence", summary:"Students apply conditional probability, Bayes' Theorem, and independence to complex probability problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=H02B3aMNKzE",
    quiz:[
      {q:"Conditional probability P(A|B) = ___.", options:["P(A) + P(B)","P(A) × P(B)","P(A)/P(B)","P(A∩B)/P(B) — the probability of A given that B has occurred; restricts the sample space to outcomes in B"], answer:3},
@@ -961,7 +961,7 @@ const curriculum: DayContent[] = [
      {q:"The purpose of requiring textual evidence in a seminar is ___.", options:["to show you did the reading","to fill time in the discussion","to penalise students who didn't prepare","to ground claims in specific textual detail — preventing discussion from floating into vague assertion, and ensuring claims about texts are based on what texts actually say and do"], answer:3},
      {q:"The highest level of seminar participation involves ___.", options:["speaking longest","making the most points","never asking questions","asking a question that genuinely opens up new thinking for the group — the best seminar contributions change the direction of the discussion productively"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Advanced Functions: Comprehensive Review", summary:"Students review the full MHF4U course with examination-level practice problems spanning all strands.",
+  {subject:"AdvancedFunctions", title:"Advanced Functions: Comprehensive Review", summary:"Students review the full MHF4U course with examination-level practice problems spanning all strands.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=MKQR_acrFOA",
    quiz:[
      {q:"A function f has an inverse f⁻¹ if and only if ___.", options:["f is continuous","f is differentiable","f is defined for all x","f is one-to-one (passes the horizontal line test) — a bijection from its domain to its range, so the inverse is also a function"], answer:3},
@@ -999,7 +999,7 @@ const curriculum: DayContent[] = [
      {q:"The difference between a precise word and an approximate one is ___.", options:["only a matter of style","unimportant if the meaning is roughly correct","only important in poetry","enormous in academic writing — 'the passage suggests ambivalence' is analytically precise; 'the passage shows something complicated' is not; precision in diction is precision in thinking"], answer:3},
      {q:"Revision at the sentence level should happen ___.", options:["before revising the argument structure","only for the introduction","never — first drafts are always good enough","after the larger revision (argument, structure, evidence) is complete — it is inefficient to perfect sentences in a paragraph that may be restructured or deleted"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Advanced Functions: Final Exam Preparation", summary:"Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
+  {subject:"AdvancedFunctions", title:"Advanced Functions: Final Exam Preparation", summary:"Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=LkwT1GQVJP8",
    quiz:[
      {q:"Determine all values of k for which x³ + 5x² + kx + 2 has (x+2) as a factor.", options:["P(−2) = 0: −8+20−2k+2=0 → 14−2k=0 → k=7","k = 3","k = −7","k = 5"], answer:0},
@@ -1037,7 +1037,7 @@ const curriculum: DayContent[] = [
      {q:"Ending a timed essay effectively: the conclusion should ___.", options:["repeat the introduction word for word","only name the texts again","introduce new evidence","synthesise the essay's argument in 3-5 sentences — showing how the evidence collectively demonstrates the thesis, and opening one genuinely new perspective or question without introducing new evidence"], answer:3},
      {q:"A student who has genuinely mastered Grade 12 English will find timed writing ___.", options:["impossible without notes","irrelevant to real university skill","only useful for English exams","challenging but empowering — demonstrating that analytical thinking and articulate expression under pressure are real intellectual capacities, not just performances"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Advanced Functions: Culminating Task", summary:"Students complete a culminating task integrating multiple strands of the MHF4U course.",
+  {subject:"AdvancedFunctions", title:"Advanced Functions: Culminating Task", summary:"Students complete a culminating task integrating multiple strands of the MHF4U course.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=jKrEFOTScwU",
    quiz:[
      {q:"Part 1: Identify all features of f(x) = (x²−4)/(x²−x−2) and sketch.", options:["Factor: (x−2)(x+2)/((x−2)(x+1)); hole at x=2; VA at x=−1; HA y=1 (equal degrees); x-int at x=−2; y-int at f(0)=4/−2=−2; hole at (2, 4/3)","VA at x=2 and x=1 only","HA at y = 0","x-int at x = ±2 with no hole"], answer:0},
@@ -1075,7 +1075,7 @@ const curriculum: DayContent[] = [
      {q:"The most significant intellectual growth in Grade 12 English occurs when ___.", options:["you finish all the assessments","you get the highest mark","you have memorised the most quotations","you move from seeking the 'right answer' to generating your own well-supported, genuinely original interpretive arguments — from passive consumer to active maker of meaning"], answer:3},
      {q:"Grade 12 English is fundamentally about ___.", options:["learning to write five-paragraph essays","memorising literary terms","preparing for English at university","developing your capacity to think carefully, feel deeply, and communicate precisely — using literature as the site and language as the tool of that development"], answer:3}
    ]},
-  {subject:"Advanced Functions", title:"Advanced Functions: Final Reflection and Looking Forward", summary:"Students reflect on the year's learning in Advanced Functions and its significance for future study.",
+  {subject:"AdvancedFunctions", title:"Advanced Functions: Final Reflection and Looking Forward", summary:"Students reflect on the year's learning in Advanced Functions and its significance for future study.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
    quiz:[
      {q:"The central organising concept of Advanced Functions is ___.", options:["the derivative of a function","only polynomial equations","only trigonometric functions","the function — as a general mathematical object with domain, range, graph, and multiple representations; all topics in the course are about different families of functions and their properties"], answer:3},
@@ -1113,7 +1113,7 @@ const curriculum: DayContent[] = [
      {q:"Looking back on all of Grade 12, the subject that will most surprise you at university is ___.", options:["the one that gave you the worst grade","the one that was easiest in high school","the one you studied least","the one that opens up into a vast new world — where high school content was the surface of an ocean; at university you begin to dive"], answer:3},
      {q:"The best preparation for university and adult life that Grade 12 has provided is ___.", options:["knowing all the curriculum content","achieving the highest possible marks","only having specific skills","the experience of sustained intellectual effort — wrestling with difficulty, revising your thinking, producing work you genuinely stand behind, and discovering what you are actually capable of"], answer:3}
    ]},
-  {subject:"Advanced Functions and Calculus", title:"Grade 12 Mathematics: Final Day Celebration", summary:"Students celebrate completing two of Ontario's most rigorous mathematics courses and look ahead with confidence.",
+  {subject:"AdvancedFunctions", title:"Grade 12 Mathematics: Final Day Celebration", summary:"Students celebrate completing two of Ontario's most rigorous mathematics courses and look ahead with confidence.",
    resourceLabel:"Khan Academy: Encouragement for Math Students", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
    quiz:[
      {q:"Completing both Advanced Functions and Calculus in Grade 12 demonstrates ___.", options:["only that you like mathematics","only good test-taking strategy","nothing about future capabilities","genuine mathematical maturity — you have engaged with the deepest mathematical ideas taught in Ontario secondary school, and you have the foundation for any quantitatively demanding university program"], answer:3},

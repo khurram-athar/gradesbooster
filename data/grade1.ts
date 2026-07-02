@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Short Vowel Sounds", summary:"Ontario Grade 1 Reading strand: students blend short vowel sounds in CVC words such as cat, bed, pig, hop, sun.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Short Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%20grade%201%20educational",
    quiz:[
      {q:"Which word has the short A sound?", options:["Cake","Cat","Cape","Cane"], answer:1},
      {q:"Which word has the short E sound?", options:["Bead","Beat","Bed","Bean"], answer:2},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has the short U sound?", options:["Cube","Mule","Fun","Tune"], answer:2}
    ]},
   {subject:"Math", title:"Counting to 20", summary:"Ontario Grade 1 Number strand: students count forward and backward by 1s within 20 and represent quantities using objects and numerals.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Counting to 20", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%2020%20grade%201%20educational",
    quiz:[
      {q:"What number comes after 15?", options:["14","16","17","13"], answer:1},
      {q:"What number is one less than 10?", options:["9","11","8","12"], answer:0},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"How many fingers on two hands?", options:["8","9","10","11"], answer:2}
    ]},
   {subject:"Science", title:"Living and Non-living Things", summary:"Ontario Grade 1 Life Systems strand: living things grow, reproduce, and respond to their environment; non-living things do not.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Living and Non-living Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-living%20Things%20grade%201%20educational",
    quiz:[
      {q:"Which of these is a living thing?", options:["Rock","Chair","Tree","Table"], answer:2},
      {q:"Which is NOT a living thing?", options:["Bird","Flower","Dog","Brick"], answer:3},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"A plant is a living thing because it ___.", options:["Is made of wood","Grows and makes seeds","Is green","Cannot move"], answer:1}
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Ontario Grade 1 Social Studies Heritage and Identity strand: students describe their family and recognize that families differ in structure and traditions.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20grade%201%20educational",
    quiz:[
      {q:"A family is a group of people who ___.", options:["Work at the same job","Live on the same street","Care for each other","All look the same"], answer:2},
      {q:"Which of these is a family member?", options:["Teacher","Parent","Neighbour","Friend"], answer:1},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Long Vowel Sounds", summary:"Ontario Grade 1 Reading strand: long vowels say their name, as in cake, bee, kite, boat, cube. The silent E rule often signals a long vowel.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Long Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%20grade%201%20educational",
    quiz:[
      {q:"Which word has a long A sound?", options:["Cat","Cab","Cake","Cap"], answer:2},
      {q:"Which word has a long E sound?", options:["Bed","Bed","Bee","Bet"], answer:2},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has a long U sound?", options:["Cup","Cut","Cub","Cube"], answer:3}
    ]},
   {subject:"Math", title:"Numbers to 50", summary:"Ontario Grade 1 Number strand: students count, read, write, and represent whole numbers to 50, and describe their positions on a number line.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Numbers to 50", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2050%20grade%201%20educational",
    quiz:[
      {q:"What number comes after 39?", options:["38","40","41","37"], answer:1},
      {q:"Which is greater: 27 or 32?", options:["27","32","Equal","Cannot tell"], answer:1},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"Count by 1s: 45, 46, 47, ___", options:["48","49","44","50"], answer:0}
    ]},
   {subject:"Science", title:"Seasonal Changes: Fall", summary:"Ontario Grade 1 Earth and Space Systems strand: in fall, days shorten, leaves change colour and drop, and animals prepare for winter.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Seasonal Changes: Fall", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Fall%20grade%201%20educational",
    quiz:[
      {q:"In fall, leaves on deciduous trees ___.", options:["Stay green","Turn colour and fall off","Grow bigger","Turn white"], answer:1},
      {q:"Fall days are ___ than summer days.", options:["Longer","The same length","Shorter","Hotter"], answer:2},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Fall comes after which season?", options:["Spring","Winter","Summer","Rainy season"], answer:2}
    ]},
   {subject:"SocialStudies", title:"My School Community", summary:"Ontario Grade 1 Social Studies strand: students identify school community members and their roles, and describe how everyone contributes.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: My School Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20School%20Community%20grade%201%20educational",
    quiz:[
      {q:"Who is usually the leader of a whole school?", options:["A student","The principal","A teacher","A librarian"], answer:1},
      {q:"What is a teacher's main job?", options:["Cook lunch","Help students learn","Fix the building","Drive the bus"], answer:1},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Consonant Blends: bl, cl, fl, pl", summary:"Ontario Grade 1 Reading strand: consonant blends are two or more consonants together where each sound is heard, such as bl in black and cl in clap.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Consonant Blends: bl, cl, fl, pl", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20bl%2C%20cl%2C%20fl%2C%20pl%20grade%201%20educational",
    quiz:[
      {q:"Which word starts with the BL blend?", options:["Clock","Floor","Black","Play"], answer:2},
      {q:"Which word starts with the CL blend?", options:["Blue","Clap","Floor","Plane"], answer:1},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"A consonant blend means ___.", options:["A single letter","Two consonants you hear separately","Only vowels","Silent letters"], answer:1}
    ]},
   {subject:"Math", title:"Addition to 10", summary:"Ontario Grade 1 Number strand: students add two one-digit numbers with sums to 10 using objects, drawings, and number lines.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Addition to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2010%20grade%201%20educational",
    quiz:[
      {q:"3 + 4 = ?", options:["6","7","8","5"], answer:1},
      {q:"5 + 5 = ?", options:["9","10","11","8"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"4 + 3 = ?", options:["6","7","8","5"], answer:1}
    ]},
   {subject:"Science", title:"Materials: Solid, Liquid, Gas", summary:"Ontario Grade 1 Matter and Materials strand: students identify the three states of matter by exploring everyday examples of solids, liquids, and gases.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Materials: Solid, Liquid, Gas", resourceUrl:"https://www.youtube.com/results?search_query=Materials%3A%20Solid%2C%20Liquid%2C%20Gas%20grade%201%20educational",
    quiz:[
      {q:"Which state of matter has a definite shape?", options:["Liquid","Gas","Solid","Steam"], answer:2},
      {q:"Water is an example of a ___.", options:["Solid","Liquid","Gas","Rock"], answer:1},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Steam is water in a ___ state.", options:["Solid","Liquid","Gas","Cold"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Maps and Directions", summary:"Ontario Grade 1 Social Studies strand B: students use directional language and simple maps to describe locations in familiar places.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Maps and Directions", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20and%20Directions%20grade%201%20educational",
    quiz:[
      {q:"A map is a ___.", options:["Photo from space","Drawing of a real place from above","Painting of nature","Written story"], answer:1},
      {q:"If you face north, south is ___.", options:["Behind you","To your left","To your right","Above you"], answer:0},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Sight Words", summary:"Ontario Grade 1 Reading strand: students recognize high-frequency Dolch sight words automatically, supporting reading fluency. Examples: the, and, a, to, said, is, you, in, was.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Sight Words", resourceUrl:"https://www.youtube.com/results?search_query=Sight%20Words%20grade%201%20educational",
    quiz:[
      {q:"Which of these is a common sight word?", options:["Elephant","the","xylophone","umbrella"], answer:1},
      {q:"Why do we practise sight words?", options:["They are long words","We see them very often in reading","They are nouns only","They are hard to spell"], answer:1},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT a typical sight word?", options:["and","the","is","rhinoceros"], answer:3}
    ]},
   {subject:"Math", title:"Subtraction from 10", summary:"Ontario Grade 1 Number strand: students subtract one-digit numbers from numbers up to 10 using objects, drawings, and number lines.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Subtraction from 10", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%2010%20grade%201%20educational",
    quiz:[
      {q:"10 - 3 = ?", options:["6","7","8","5"], answer:1},
      {q:"8 - 4 = ?", options:["3","4","5","6"], answer:1},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"6 - 6 = ?", options:["0","1","2","3"], answer:0}
    ]},
   {subject:"Science", title:"Needs of Living Things", summary:"Ontario Grade 1 Life Systems strand: all living things need air, water, food, and shelter. Plants also need sunlight to make food through photosynthesis.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Needs of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20of%20Living%20Things%20grade%201%20educational",
    quiz:[
      {q:"Which is NOT a basic need of living things?", options:["Water","Food","Television","Air"], answer:2},
      {q:"Plants use sunlight to make their own ___.", options:["Soil","Food","Water","Shelter"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a basic need ALL living things share?", options:["Transportation","Water","Money","Television"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Community Workers", summary:"Ontario Grade 1 Social Studies strand B: students identify community workers and explain how their work benefits everyone in the community.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Community Workers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Workers%20grade%201%20educational",
    quiz:[
      {q:"Who builds houses and buildings?", options:["A teacher","A construction worker","A doctor","A chef"], answer:1},
      {q:"What does a bus driver do?", options:["Teach students","Carry passengers from place to place","Fix roads","Cook food"], answer:1},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Word Families: -at and -an", summary:"Ontario Grade 1 Reading strand: word families share the same rime (ending pattern). The -at family includes cat, bat, hat, sat; the -an family includes can, man, ran, tan.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Word Families: -at and -an", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-at%20and%20-an%20grade%201%20educational",
    quiz:[
      {q:"Which word belongs to the -AT family?", options:["Can","Run","Hat","Men"], answer:2},
      {q:"Which word belongs to the -AN family?", options:["Cat","Bat","Hat","Can"], answer:3},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Word families help us ___.", options:["Count numbers","Recognize spelling patterns and read new words","Draw pictures","Do experiments"], answer:1}
    ]},
   {subject:"Math", title:"Place Value: Tens and Ones", summary:"Ontario Grade 1 Number strand: students decompose two-digit numbers into tens and ones using base-ten blocks, understanding that the position of a digit determines its value.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Place Value: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Tens%20and%20Ones%20grade%201%20educational",
    quiz:[
      {q:"In the number 23, the digit 2 means ___.", options:["2 ones","20 tens","2 tens","20 ones"], answer:2},
      {q:"How many tens are in 35?", options:["3","5","35","2"], answer:0},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"In the number 16, the 6 means ___.", options:["6 tens","6 ones","16 ones","1 ten"], answer:1}
    ]},
   {subject:"Science", title:"Seasonal Changes: Winter", summary:"Ontario Grade 1 Earth and Space Systems strand: in winter, temperatures drop, many trees are bare, some animals hibernate, and people wear warm clothing.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Seasonal Changes: Winter", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Winter%20grade%201%20educational",
    quiz:[
      {q:"What season comes after fall?", options:["Spring","Summer","Winter","Rainy season"], answer:2},
      {q:"In winter, many deciduous trees ___.", options:["Grow new leaves","Have bare branches","Grow taller","Turn green"], answer:1},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"Days in winter are ___ than in summer.", options:["Longer","The same","Shorter","Always sunny"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibilities", summary:"Ontario Grade 1 Social Studies strand A: students describe their rights and responsibilities at home, at school, and in the community.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Rules and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibilities%20grade%201%20educational",
    quiz:[
      {q:"Why do schools have rules?", options:["To be unfair","To keep everyone safe and learning","To punish students","Rules are not needed"], answer:1},
      {q:"A responsibility is something you ___.", options:["Are allowed to ignore","Must do for yourself or others","Can always skip","Only adults do"], answer:1},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Writing Complete Sentences", summary:"Ontario Grade 1 Writing strand: a complete sentence has a subject and a verb, begins with a capital letter, and ends with a punctuation mark.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Writing Complete Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Complete%20Sentences%20grade%201%20educational",
    quiz:[
      {q:"Every sentence must start with a ___.", options:["lowercase letter","Period","Capital letter","Number"], answer:2},
      {q:"Which is a complete sentence?", options:["the dog","Runs fast.","The dog runs fast.","Fast dog."], answer:2},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"A sentence needs a subject (who) and a ___ (action).", options:[], answer:0}
    ]},
   {subject:"Math", title:"Skip Counting by 2s", summary:"Ontario Grade 1 Number strand: students skip count by 2s from 0, landing on even numbers: 0, 2, 4, 6, 8, 10...",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Skip Counting by 2s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%20grade%201%20educational",
    quiz:[
      {q:"Skip count by 2s: 2, 4, 6, ___", options:["5","7","8","9"], answer:2},
      {q:"Skip count by 2s: 10, 12, 14, ___", options:["15","16","17","13"], answer:1},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Skip counting by 2s helps us count ___ faster.", options:["Odd numbers","By tens","Pairs or groups of 2","By fives"], answer:2}
    ]},
   {subject:"Science", title:"Animals and Their Young", summary:"Ontario Grade 1 Life Systems strand: animals reproduce and care for their young; baby animals resemble their parents and grow to look like them.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Animals and Their Young", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20and%20Their%20Young%20grade%201%20educational",
    quiz:[
      {q:"A baby dog is called a ___.", options:["Kitten","Calf","Puppy","Foal"], answer:2},
      {q:"A baby cat is called a ___.", options:["Puppy","Kitten","Cub","Lamb"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Which baby animal hatches from an egg?", options:["Puppy","Kitten","Duckling","Lamb"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Our Province: Ontario", summary:"Ontario Grade 1 Social Studies strand B: students identify Ontario on a map of Canada, name its capital city, and describe some key features.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Our Province: Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Province%3A%20Ontario%20grade%201%20educational",
    quiz:[
      {q:"What is the capital city of Ontario?", options:["Ottawa","Toronto","Vancouver","Montreal"], answer:1},
      {q:"Ontario is located in ___.", options:["Far west Canada","Far north","East-central Canada","The far east"], answer:2},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Question Words: Who, What, Where, When, Why", summary:"Ontario Grade 1 Reading and Writing strands: students identify and use the five W question words to gather information from texts and to formulate questions.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Question Words: Who, What, Where, When, Why", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%3A%20Who%2C%20What%2C%20Where%2C%20When%2C%20Why%20grade%201%20educational",
    quiz:[
      {q:"Which question word asks about a person?", options:["What","Where","Who","When"], answer:2},
      {q:"Which question word asks about a place?", options:["Who","What","When","Where"], answer:3},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"What question word asks about an object or event?", options:["Who","What","Where","When"], answer:1}
    ]},
   {subject:"Math", title:"Skip Counting by 5s", summary:"Ontario Grade 1 Number strand: students skip count by 5s from 0, recognising the pattern: 0, 5, 10, 15, 20...",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Skip Counting by 5s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20grade%201%20educational",
    quiz:[
      {q:"Skip count by 5s: 5, 10, 15, ___", options:["18","20","19","17"], answer:1},
      {q:"Skip count by 5s: 20, 25, 30, ___", options:["32","35","33","38"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"5, 10, 15, 20 — what comes next?", options:["21","22","25","30"], answer:2}
    ]},
   {subject:"Science", title:"Parts of a Plant", summary:"Ontario Grade 1 Life Systems strand: students identify and describe the functions of the main parts of a plant: roots, stem, leaves, and flower.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Parts of a Plant", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%20grade%201%20educational",
    quiz:[
      {q:"Which part of a plant is usually underground?", options:["Leaves","Flower","Stem","Roots"], answer:3},
      {q:"What do roots do?", options:["Make food from sunlight","Attract bees","Anchor the plant and absorb water","Make flowers"], answer:2},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"What does the flower help the plant make?", options:["More leaves","Seeds","Bigger roots","Stems"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Ontario Grade 1 Social Studies strand B: students identify major Canadian symbols including the maple leaf, beaver, flag, and national anthem.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20grade%201%20educational",
    quiz:[
      {q:"What animal is a symbol of Canada?", options:["Eagle","Beaver","Bear","Moose"], answer:1},
      {q:"What is the main symbol on the Canadian flag?", options:["A star","A bear","A maple leaf","A sun"], answer:2},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Punctuation: Period, Question Mark, Exclamation Mark", summary:"Ontario Grade 1 Writing strand: students use end punctuation correctly — period for statements, question mark for questions, and exclamation mark for strong emotion.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Punctuation: Period, Question Mark, Exclamation Mark", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Period%2C%20Question%20Mark%2C%20Exclamation%20Mark%20grade%201%20educational",
    quiz:[
      {q:"Which punctuation ends a statement?", options:["?","!",".","..."], answer:2},
      {q:"Which punctuation ends a question?", options:[".",",","?","!"], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Is the cat big ___?", options:[".",",","?","!"], answer:2}
    ]},
   {subject:"Math", title:"Skip Counting by 10s", summary:"Ontario Grade 1 Number strand: students skip count by 10s from 0, recognising the pattern: 0, 10, 20, 30, 40, 50.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Skip Counting by 10s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%2010s%20grade%201%20educational",
    quiz:[
      {q:"Skip count by 10s: 10, 20, 30, ___", options:["35","40","45","50"], answer:1},
      {q:"Skip count by 10s: 50, 60, 70, ___", options:["75","80","85","90"], answer:1},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"Skip counting by 10s is the same as counting ___.", options:["by ones","by fives","groups of 10","groups of 2"], answer:2}
    ]},
   {subject:"Science", title:"Seeds and How Plants Grow", summary:"Ontario Grade 1 Life Systems strand: students investigate how seeds germinate and grow into plants when given water, warmth, air, and light.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Seeds and How Plants Grow", resourceUrl:"https://www.youtube.com/results?search_query=Seeds%20and%20How%20Plants%20Grow%20grade%201%20educational",
    quiz:[
      {q:"What do seeds need to germinate (sprout)?", options:["Ice and darkness","Water, warmth, and air","Only sunlight","Only soil"], answer:1},
      {q:"What is germination?", options:["When a plant dies","When a seed starts to grow into a plant","When leaves fall off","When flowers bloom"], answer:1},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the correct order: seed, ___, plant?", options:["Leaf","Root only","Seedling","Flower"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples of Canada", summary:"Ontario Grade 1 Social Studies strand A: students learn that Indigenous peoples were the first peoples of Canada and have rich cultures, languages, and traditions.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Indigenous Peoples of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20of%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Who were the first peoples of Canada?", options:["European settlers","Indigenous peoples","American visitors","Recent immigrants"], answer:1},
      {q:"Indigenous peoples have lived in Canada for ___.", options:["A few years","About 200 years","Thousands of years","50 years"], answer:2},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Retelling a Story", summary:"Ontario Grade 1 Reading strand: students retell stories in sequence using the language of beginning, middle, and end, and story elements: characters, setting, problem, solution.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Retelling a Story", resourceUrl:"https://www.youtube.com/results?search_query=Retelling%20a%20Story%20grade%201%20educational",
    quiz:[
      {q:"The beginning of a story tells us ___.", options:["How it ends","Who the characters are and the setting","The solution","A lesson only"], answer:1},
      {q:"The middle of a story contains the ___.", options:["Happy ending","Problem or challenge","Introduction of characters only","Title"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"Setting means ___.", options:["The character's name","Where and when the story takes place","The problem","The solution"], answer:1}
    ]},
   {subject:"Math", title:"2D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe properties of 2D shapes: circle, square, rectangle, and triangle.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: 2D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%20grade%201%20educational",
    quiz:[
      {q:"How many sides does a triangle have?", options:["2","3","4","5"], answer:1},
      {q:"How many corners does a square have?", options:["3","4","5","6"], answer:1},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Which shape has four equal sides?", options:["Rectangle","Triangle","Circle","Square"], answer:3}
    ]},
   {subject:"Science", title:"Pushes and Pulls", summary:"Ontario Grade 1 Science Physical Education strand: a force is a push or pull that can move, stop, or change the direction of an object.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Pushes and Pulls", resourceUrl:"https://www.youtube.com/results?search_query=Pushes%20and%20Pulls%20grade%201%20educational",
    quiz:[
      {q:"A push moves an object ___.", options:["Toward you","Away from you","Up only","Down only"], answer:1},
      {q:"A pull moves an object ___.", options:["Away from you","Toward you","To the side only","Upward"], answer:1},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a pull?", options:["Kicking a ball","Pushing a door open","Opening a drawer","Throwing a ball"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Families Around the World", summary:"Ontario Grade 1 Social Studies strand A: students learn that families around the world share common needs but meet them in different ways through their cultures.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Families Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Families%20Around%20the%20World%20grade%201%20educational",
    quiz:[
      {q:"Families around the world all need ___.", options:["The same food","The same clothing","Food, shelter, and love","Electricity"], answer:2},
      {q:"Different families may speak ___.", options:["Only English","Only French","Many different languages","The same language always"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Main Idea", summary:"Ontario Grade 1 Reading strand: the main idea is what a text is mostly about. Supporting details give more information about the main idea.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Main%20Idea%20grade%201%20educational",
    quiz:[
      {q:"The main idea of a text is ___.", options:["A small detail","What the text is mostly about","The last sentence","A character's name"], answer:1},
      {q:"Supporting details ___.", options:["Are the most important idea","Explain the main idea with examples","Are not connected to the main idea","Are always at the beginning"], answer:1},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence is a main idea?", options:["The dog has brown spots.","Dogs make wonderful pets for many reasons.","The dog ran fast.","My dog is named Rex."], answer:1}
    ]},
   {subject:"Math", title:"3D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe 3D figures: sphere, cube, cylinder, and cone, relating them to everyday objects.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%20grade%201%20educational",
    quiz:[
      {q:"Which 3D shape looks like a ball?", options:["Cube","Cylinder","Sphere","Cone"], answer:2},
      {q:"Which 3D shape looks like a box?", options:["Sphere","Cylinder","Cone","Cube"], answer:3},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"A cube has how many faces?", options:["4","5","6","8"], answer:2}
    ]},
   {subject:"Science", title:"Sound and Hearing", summary:"Ontario Grade 1 Science strand: sounds are made by vibrations. The ear detects sound waves, and sounds can be loud or soft, high-pitched or low-pitched.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Sound and Hearing", resourceUrl:"https://www.youtube.com/results?search_query=Sound%20and%20Hearing%20grade%201%20educational",
    quiz:[
      {q:"Sounds are made by ___.", options:["Light","Vibrations","Heat","Gravity"], answer:1},
      {q:"Which body part do we use to hear?", options:["Eyes","Nose","Ears","Hands"], answer:2},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Covering your ears reduces sound because ___.", options:["Sound stops completely","Less sound reaches your eardrums","Your hearing improves","Vibrations increase"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Being a Good Citizen", summary:"Ontario Grade 1 Social Studies strand A: students describe what it means to be a responsible and caring member of their school and community.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Being a Good Citizen", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Good%20Citizen%20grade%201%20educational",
    quiz:[
      {q:"A good citizen ___.", options:["Takes others' things","Helps others and follows rules","Is always noisy","Litters"], answer:1},
      {q:"What does it mean to be responsible?", options:["Doing whatever you want","Taking care of your duties","Being unkind","Ignoring others"], answer:1},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Characters and Setting", summary:"Ontario Grade 1 Reading strand: characters are the people or animals in a story; setting is where and when the story takes place.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Characters and Setting", resourceUrl:"https://www.youtube.com/results?search_query=Characters%20and%20Setting%20grade%201%20educational",
    quiz:[
      {q:"Characters are ___.", options:["The place of the story","The people or animals in the story","The ending","The problem"], answer:1},
      {q:"Setting means ___.", options:["What happens in the story","Who is in the story","Where and when the story takes place","The solution"], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Can a story have more than one character?", options:["No, only one character","Yes, stories can have many characters","Only in long stories","Only in fairy tales"], answer:1}
    ]},
   {subject:"Math", title:"Measuring Length", summary:"Ontario Grade 1 Measurement strand: students measure length using non-standard units (paperclips, cubes) and compare objects using longer, shorter, taller.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Measuring Length", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20grade%201%20educational",
    quiz:[
      {q:"Which unit is NOT a standard unit of measurement?", options:["Centimetre","Metre","Paperclip","Kilometre"], answer:2},
      {q:"If a pencil is 8 cubes long and a crayon is 5 cubes long, which is longer?", options:["Crayon","Pencil","Equal","Cannot tell"], answer:1},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"Which tool measures length in centimetres?", options:["Scale","Ruler","Thermometer","Clock"], answer:1}
    ]},
   {subject:"Science", title:"Light", summary:"Ontario Grade 1 Science strand: light travels in a straight line, can reflect off surfaces, and allows us to see. The sun is the main natural source of light on Earth.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Light", resourceUrl:"https://www.youtube.com/results?search_query=Light%20grade%201%20educational",
    quiz:[
      {q:"What is the main natural source of light on Earth?", options:["The moon","A lamp","The sun","Stars"], answer:2},
      {q:"Light travels in a ___.", options:["Curve","Circle","Straight line","Zigzag"], answer:2},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"We need light to ___.", options:["Hear sounds","See objects","Smell things","Taste food"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Rights of Children", summary:"Ontario Grade 1 Social Studies strand A: students identify children's rights as outlined by the United Nations Convention on the Rights of the Child (UNCRC).",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Rights of Children", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20of%20Children%20grade%201%20educational",
    quiz:[
      {q:"Children have the right to ___.", options:["Do whatever they want","Be safe, cared for, and educated","Ignore school rules","Have no responsibilities"], answer:1},
      {q:"What is the UNCRC?", options:["A type of book","A United Nations document protecting children's rights worldwide","A school subject","A type of toy"], answer:1},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Making Predictions", summary:"Ontario Grade 1 Reading strand: students use text clues, pictures, and prior knowledge to predict what will happen next in a story or text.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Making Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Predictions%20grade%201%20educational",
    quiz:[
      {q:"Making a prediction means ___.", options:["Guessing what might happen next using clues","Reading the end first","Looking at pictures only","Counting words"], answer:0},
      {q:"What clues help you make a prediction?", options:["Random guessing","Title, pictures, and what you have read so far","Only the last page","The font size"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Predictions can be ___.", options:["Always correct","Always wrong","Sometimes right and sometimes wrong, and that is okay","Only for science"], answer:2}
    ]},
   {subject:"Math", title:"Measuring Mass", summary:"Ontario Grade 1 Measurement strand: students compare the mass of objects using non-standard units and a balance scale, using language like heavier and lighter.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Measuring Mass", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Mass%20grade%201%20educational",
    quiz:[
      {q:"Which object is likely heavier: a book or a feather?", options:["Feather","Book","They are equal","Cannot tell"], answer:1},
      {q:"A balance scale tips toward ___.", options:["The lighter object","The heavier object","Neither side","The centre"], answer:1},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"If one side of a balance is heavier, the other side ___.", options:["Goes down","Goes up","Stays level","Disappears"], answer:1}
    ]},
   {subject:"Science", title:"Magnetism", summary:"Ontario Grade 1 Science strand: magnets attract certain metals (iron, steel, nickel). They have north and south poles; like poles repel, opposite poles attract.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Magnetism", resourceUrl:"https://www.youtube.com/results?search_query=Magnetism%20grade%201%20educational",
    quiz:[
      {q:"What does a magnet attract?", options:["All metals","Certain metals like iron and steel","Plastic","Wood"], answer:1},
      {q:"A magnet has two ___.", options:["Colours","Sizes","Poles (north and south)","Faces"], answer:2},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Opposite poles of a magnet ___.", options:["Repel each other","Do nothing","Attract each other","Break apart"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Community Helpers", summary:"Ontario Grade 1 Social Studies strand B: students describe the roles of community helpers including firefighters, police, medical workers, and educators.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%20grade%201%20educational",
    quiz:[
      {q:"Who helps put out fires?", options:["A teacher","A firefighter","A doctor","A librarian"], answer:1},
      {q:"Who keeps the neighbourhood safe?", options:["A baker","A police officer","A dentist","A librarian"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Cause and Effect", summary:"Ontario Grade 1 Reading strand: cause is why something happens; effect is what happens as a result. Signal words include because, so, and as a result.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20grade%201%20educational",
    quiz:[
      {q:"The cause is ___.", options:["What happens","Why something happens","When it happens","Who does it"], answer:1},
      {q:"The effect is ___.", options:["Why something happens","What happens as a result","Where it happens","Who does it"], answer:1},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"She studied hard, so she did well on the test. What is the cause?", options:["She did well on the test","She studied hard","The test was easy","The teacher helped"], answer:1}
    ]},
   {subject:"Math", title:"Fractions: Halves", summary:"Ontario Grade 1 Number strand: students divide shapes and sets into two equal parts, using the language of halves and one-half.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Fractions: Halves", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%20grade%201%20educational",
    quiz:[
      {q:"A half means dividing something into ___ equal parts.", options:["1","2","3","4"], answer:1},
      {q:"Which shows a half of a circle?", options:["3/4 of a circle","A whole circle","2 equal semicircles","1 quarter"], answer:2},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"If you eat one half of a pizza, what fraction is left?", options:["1/3","1/4","1/2","2/3"], answer:2}
    ]},
   {subject:"Science", title:"Weather Patterns", summary:"Ontario Grade 1 Earth and Space Systems strand: students observe and record daily weather conditions including temperature, precipitation, and cloud cover, identifying patterns over time.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Weather Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20grade%201%20educational",
    quiz:[
      {q:"Which tool measures air temperature?", options:["Ruler","Thermometer","Scale","Clock"], answer:1},
      {q:"What type of precipitation falls as solid flakes?", options:["Rain","Hail","Sleet","Snow"], answer:3},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"What instrument measures rainfall?", options:["Thermometer","Rain gauge","Barometer","Wind vane"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Land and Water in Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify landforms and bodies of water in Canada including lakes, rivers, mountains, and plains.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Land and Water in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Land%20and%20Water%20in%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Which of these is a body of water?", options:["Mountain","Prairie","Lake Superior","Forest"], answer:2},
      {q:"Which is a landform?", options:["Lake Ontario","Atlantic Ocean","Rocky Mountain","St. Lawrence River"], answer:2},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Describing Words: Adjectives", summary:"Ontario Grade 1 Writing strand: adjectives are describing words that tell us more about a noun — they describe colour, size, shape, number, and feeling.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Describing Words: Adjectives", resourceUrl:"https://www.youtube.com/results?search_query=Describing%20Words%3A%20Adjectives%20grade%201%20educational",
    quiz:[
      {q:"An adjective is a ___.", options:["Naming word","Action word","Describing word","Connecting word"], answer:2},
      {q:"Which word is an adjective in: The big dog ran?", options:["The","Big","Dog","Ran"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Adjectives help us ___.", options:["Name things","Show actions","Describe things more clearly","Connect sentences"], answer:2}
    ]},
   {subject:"Math", title:"Data: Tally Charts", summary:"Ontario Grade 1 Data strand: students collect and organise data using tally marks, where each mark represents one item and a bundle of five is shown with a diagonal line.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Data: Tally Charts", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Tally%20Charts%20grade%201%20educational",
    quiz:[
      {q:"One tally mark represents ___.", options:["5 items","2 items","1 item","10 items"], answer:2},
      {q:"A group of 5 tally marks looks like ___.", options:["IIII","Four vertical lines","Four lines crossed by one diagonal line","IIIII"], answer:2},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"IIII I (5 marks) represents how many?", options:["4","5","6","7"], answer:1}
    ]},
   {subject:"Science", title:"The Sun", summary:"Ontario Grade 1 Earth and Space Systems strand: the Sun is a star, the centre of our solar system, and Earth's main source of heat and light. It causes day and night through Earth's rotation.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: The Sun", resourceUrl:"https://www.youtube.com/results?search_query=The%20Sun%20grade%201%20educational",
    quiz:[
      {q:"The Sun is a ___.", options:["Planet","Moon","Star","Comet"], answer:2},
      {q:"The Sun gives Earth heat and ___.", options:["Rain","Light","Wind","Snow"], answer:1},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Why is the Sun important for life on Earth?", options:["It is not important","It provides heat and light needed by plants and animals","Only humans need it","Only plants need it"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canada's Natural Resources", summary:"Ontario Grade 1 Social Studies strand B: students identify natural resources in Canada such as trees, water, minerals, and farmland and explain why they are important.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Canada's Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Natural%20Resources%20grade%201%20educational",
    quiz:[
      {q:"A natural resource is ___.", options:["Something people make in a factory","Something found in nature that people use","A type of money","A building"], answer:1},
      {q:"Which of these is a natural resource?", options:["A plastic bottle","A car","Fresh water","A computer"], answer:2},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Action Words: Verbs", summary:"Ontario Grade 1 Writing strand: verbs are action words that tell what a subject does. Every complete sentence needs a verb.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Action Words: Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Action%20Words%3A%20Verbs%20grade%201%20educational",
    quiz:[
      {q:"A verb is a ___.", options:["Naming word","Describing word","Action word","Connecting word"], answer:2},
      {q:"Which word is a verb: The cat runs fast?", options:["The","Cat","Runs","Fast"], answer:2},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence uses a verb correctly?", options:["The dog happy.","The big dog.","The dog runs.","Dog the runs."], answer:2}
    ]},
   {subject:"Math", title:"Data: Pictographs", summary:"Ontario Grade 1 Data strand: a pictograph uses pictures or symbols to represent data. A key shows what each symbol means.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Data: Pictographs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Pictographs%20grade%201%20educational",
    quiz:[
      {q:"In a pictograph, each picture represents ___.", options:["A word","A number or amount shown in the key","A colour","A shape"], answer:1},
      {q:"What is the purpose of a key in a pictograph?", options:["To make it pretty","To explain what each symbol means","To list all students","To show the title"], answer:1},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Which type of data is best shown in a pictograph?", options:["Favourite colours of students in a class","The alphabet","How to add numbers","A story"], answer:0}
    ]},
   {subject:"Science", title:"Soil and Earth Materials", summary:"Ontario Grade 1 Earth and Space Systems strand: soil is made of rock particles, organic matter, air, and water. Different soils have different properties.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Soil and Earth Materials", resourceUrl:"https://www.youtube.com/results?search_query=Soil%20and%20Earth%20Materials%20grade%201%20educational",
    quiz:[
      {q:"Soil is made of small pieces of ___ and organic matter.", options:["Plastic","Metal","Rock","Wood"], answer:2},
      {q:"Why is soil important for plants?", options:["It is not","Soil holds the roots and provides nutrients","Soil provides sunlight","Soil provides rain"], answer:1},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"What is humus?", options:["A food dip","Decayed organic matter that enriches soil","A type of rock","A type of sand"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Multiculturalism in Canada", summary:"Ontario Grade 1 Social Studies strand A: Canada is a multicultural country where people from many backgrounds live and contribute, enriching Canadian society.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Multiculturalism in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20in%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Canada is described as multicultural because ___.", options:["Everyone speaks the same language","People from many different cultures live here","Only Canadian-born people live here","Everyone follows the same traditions"], answer:1},
      {q:"How does multiculturalism make Canada stronger?", options:["It causes problems","It brings different ideas, foods, arts, and perspectives","It does not affect Canada","Only big cities benefit"], answer:1},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Nouns: People, Places, Things", summary:"Ontario Grade 1 Writing strand: a noun names a person, place, or thing. Proper nouns name specific people, places, or things and begin with a capital letter.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Nouns: People, Places, Things", resourceUrl:"https://www.youtube.com/results?search_query=Nouns%3A%20People%2C%20Places%2C%20Things%20grade%201%20educational",
    quiz:[
      {q:"A noun is a ___.", options:["Describing word","Action word","Naming word","Connecting word"], answer:2},
      {q:"Which word is a noun: The dog runs fast?", options:["The","Dog","Runs","Fast"], answer:1},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is a common noun?", options:["Toronto","Canada","Maria","school"], answer:3}
    ]},
   {subject:"Math", title:"Addition to 20", summary:"Ontario Grade 1 Number strand: students add two numbers with sums up to 20 using strategies such as counting on, making tens, and using doubles.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Addition to 20", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2020%20grade%201%20educational",
    quiz:[
      {q:"7 + 6 = ?", options:["12","13","14","11"], answer:1},
      {q:"9 + 9 = ?", options:["16","17","18","19"], answer:2},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"6 + 7 = ?", options:["12","13","14","11"], answer:1}
    ]},
   {subject:"Science", title:"Food Chains", summary:"Ontario Grade 1 Life Systems strand: a food chain shows how energy passes from one living thing to another. It starts with a plant (producer), then a herbivore (consumer), then a carnivore.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20grade%201%20educational",
    quiz:[
      {q:"In a food chain, plants are called ___.", options:["Consumers","Herbivores","Producers","Carnivores"], answer:2},
      {q:"An animal that eats only plants is called a ___.", options:["Carnivore","Omnivore","Herbivore","Producer"], answer:2},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"A carnivore is an animal that eats ___.", options:["Only plants","Only animals","Both plants and animals","Only grass"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Global Communities", summary:"Ontario Grade 1 Social Studies strand B: students compare communities around the world, identifying similarities and differences in how people meet their basic needs.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Global Communities", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Communities%20grade%201%20educational",
    quiz:[
      {q:"Communities around the world are ___.", options:["Exactly the same","All different with nothing in common","Different in some ways and similar in others","Only similar"], answer:2},
      {q:"What basic need do all communities around the world share?", options:["The same language","The same food","Food, shelter, and water","Electricity"], answer:2},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Pronouns", summary:"Ontario Grade 1 Writing strand: pronouns take the place of nouns. Examples: I, you, he, she, it, we, they.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Pronouns", resourceUrl:"https://www.youtube.com/results?search_query=Pronouns%20grade%201%20educational",
    quiz:[
      {q:"A pronoun takes the place of a ___.", options:["Verb","Adjective","Noun","Adverb"], answer:2},
      {q:"What pronoun replaces 'Maria'?", options:["He","It","She","They"], answer:2},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence uses a pronoun correctly?", options:["Dog runs fast.","Maria she runs fast.","She runs fast.","Running fast."], answer:2}
    ]},
   {subject:"Math", title:"Subtraction from 20", summary:"Ontario Grade 1 Number strand: students subtract single-digit numbers from teens numbers and find differences within 20 using various strategies.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Subtraction from 20", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%2020%20grade%201%20educational",
    quiz:[
      {q:"15 - 7 = ?", options:["7","8","9","6"], answer:1},
      {q:"20 - 9 = ?", options:["10","11","12","9"], answer:1},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"17 - 9 = ?", options:["7","8","9","6"], answer:1}
    ]},
   {subject:"Science", title:"Animal Habitats", summary:"Ontario Grade 1 Life Systems strand: a habitat is the natural environment where an animal lives, providing food, water, shelter, and space.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Animal Habitats", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20grade%201%20educational",
    quiz:[
      {q:"A habitat provides animals with food, water, shelter, and ___.", options:["Toys","Space","Television","Money"], answer:1},
      {q:"Which habitat does a polar bear live in?", options:["Jungle","Desert","Arctic tundra","Rainforest"], answer:2},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"What happens to an animal if its habitat is destroyed?", options:["Nothing changes","It may struggle to survive or must find a new habitat","It gets bigger","It becomes stronger"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Helping Others in the Community", summary:"Ontario Grade 1 Social Studies strand A: students explore ways they can contribute to their community through volunteering, kindness, and helping neighbours.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Helping Others in the Community", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20Others%20in%20the%20Community%20grade%201%20educational",
    quiz:[
      {q:"How can you help your community?", options:["Taking things","Littering","Volunteering and being kind to others","Ignoring others"], answer:2},
      {q:"Why is volunteering important?", options:["It is not","It benefits others and makes the community stronger","Only adults volunteer","It earns money"], answer:1},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Compound Words", summary:"Ontario Grade 1 Reading strand: a compound word is made of two smaller words joined together to make a new word, such as sunshine, raincoat, and backpack.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%20grade%201%20educational",
    quiz:[
      {q:"A compound word is ___.", options:["A very long word","Two small words joined to make a new word","A word with a silent letter","A nonsense word"], answer:1},
      {q:"Which is a compound word?", options:["Apple","Beautiful","Sunshine","Elephant"], answer:2},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is a compound word?", options:["Running","Quickly","Strangely","Starfish"], answer:3}
    ]},
   {subject:"Math", title:"Ordinal Numbers", summary:"Ontario Grade 1 Number strand: ordinal numbers describe position in a sequence: first (1st), second (2nd), third (3rd), and so on.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Ordinal Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%20grade%201%20educational",
    quiz:[
      {q:"What is the ordinal form of 1?", options:["Onest","First","Oneish","1nd"], answer:1},
      {q:"What is the ordinal form of 3?", options:["Threeth","Thirdly","Third","Threest"], answer:2},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"The ordinal number '2nd' means ___.", options:["Second","Twoth","Twoeth","Secondly"], answer:0}
    ]},
   {subject:"Science", title:"Plants and the Environment", summary:"Ontario Grade 1 Life Systems strand: plants are producers that provide food and oxygen for other living things; they also prevent soil erosion and provide habitats.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Plants and the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Plants%20and%20the%20Environment%20grade%201%20educational",
    quiz:[
      {q:"Plants produce oxygen through a process called ___.", options:["Digestion","Hibernation","Photosynthesis","Respiration"], answer:2},
      {q:"Why are plants important for animals?", options:["They are not","They provide food and oxygen for animals","They provide electricity","They provide money"], answer:1},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"How do plants help improve air quality?", options:["They do not","They absorb carbon dioxide and release oxygen","They create pollution","They absorb oxygen"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Celebrations and Traditions", summary:"Ontario Grade 1 Social Studies strand A: students explore different cultural celebrations and traditions, recognising the diversity of practices and their importance to families.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Celebrations and Traditions", resourceUrl:"https://www.youtube.com/results?search_query=Celebrations%20and%20Traditions%20grade%201%20educational",
    quiz:[
      {q:"A tradition is ___.", options:["Something done only once","A special activity a family or culture repeats over time","Always about food","Only for children"], answer:1},
      {q:"Why do families celebrate traditions?", options:["They have to","To mark important events and strengthen bonds","It is boring","To spend money"], answer:1},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Synonyms", summary:"Ontario Grade 1 Writing strand: synonyms are words that have the same or similar meanings. Using synonyms makes writing more interesting.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Synonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20grade%201%20educational",
    quiz:[
      {q:"A synonym is a word that means the ___.", options:["Opposite","Same or similar thing","Nothing at all","Bigger thing"], answer:1},
      {q:"Which is a synonym for big?", options:["Small","Large","Tiny","Little"], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Using synonyms in writing makes it ___.", options:["More confusing","More boring","More interesting and varied","Shorter"], answer:2}
    ]},
   {subject:"Math", title:"Money: Coins", summary:"Ontario Grade 1 Number strand: students identify Canadian coins (penny, nickel, dime, quarter) and their values, and count small collections of coins.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Money: Coins", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Coins%20grade%201%20educational",
    quiz:[
      {q:"How much is a nickel worth?", options:["1 cent","5 cents","10 cents","25 cents"], answer:1},
      {q:"How much is a dime worth?", options:["1 cent","5 cents","10 cents","25 cents"], answer:2},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"How many nickels make a dime?", options:["1","2","3","4"], answer:1}
    ]},
   {subject:"Science", title:"Energy and Movement", summary:"Ontario Grade 1 Science Physical Education strand: energy can cause objects to move. Stored energy (potential) and moving energy (kinetic) are two basic forms.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Energy and Movement", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20and%20Movement%20grade%201%20educational",
    quiz:[
      {q:"What is energy?", options:["The ability to do work or cause change","A type of rock","A kind of animal","A colour"], answer:0},
      {q:"A ball sitting on a hill has ___ energy.", options:["No","Kinetic (moving)","Potential (stored)","Electrical"], answer:2},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"What energy does the Sun give to Earth?", options:["Mechanical","Heat and light (solar energy)","Chemical","Nuclear"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Traditions from Around the World", summary:"Ontario Grade 1 Social Studies strand A: students explore cultural traditions from different countries, building respect and appreciation for diversity.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Traditions from Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20from%20Around%20the%20World%20grade%201%20educational",
    quiz:[
      {q:"Why do countries have their own traditions?", options:["They have to","Traditions reflect the culture, history, and values of a people","Everyone chose the same ones","Rules forced them to"], answer:1},
      {q:"Which festival involves lanterns and is celebrated in China?", options:["Diwali","Hanukkah","Chinese Lantern Festival","Carnival"], answer:2},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Antonyms", summary:"Ontario Grade 1 Writing strand: antonyms are words that have opposite meanings, such as hot/cold, happy/sad, and big/small.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Antonyms%20grade%201%20educational",
    quiz:[
      {q:"An antonym is a word that means the ___ of another word.", options:["Same","Opposite","Similar","Bigger"], answer:1},
      {q:"What is the antonym of BIG?", options:["Large","Huge","Small","Giant"], answer:2},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Using antonyms helps us ___.", options:["Make writing longer","Compare and contrast ideas","Confuse readers","Remove nouns"], answer:1}
    ]},
   {subject:"Math", title:"Time: Reading Clocks", summary:"Ontario Grade 1 Measurement strand: students tell time to the hour and half hour on both analogue and digital clocks.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Time: Reading Clocks", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Reading%20Clocks%20grade%201%20educational",
    quiz:[
      {q:"On a clock, the short hand points to the ___.", options:["Minutes","Seconds","Hour","Day"], answer:2},
      {q:"What time is shown when both hands point to 12?", options:["6:00","12:00","3:00","9:00"], answer:1},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"How many hours are in one day?", options:["12","24","48","60"], answer:1}
    ]},
   {subject:"Science", title:"Simple Machines", summary:"Ontario Grade 1 Science strand: simple machines make work easier. Examples include lever, wheel and axle, pulley, inclined plane, wedge, and screw.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Simple Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20grade%201%20educational",
    quiz:[
      {q:"A simple machine makes work ___.", options:["Harder","Slower","Easier","More confusing"], answer:1},
      {q:"A ramp is an example of an ___.", options:["Lever","Pulley","Inclined plane","Wheel and axle"], answer:2},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"How many types of simple machines are there?", options:["3","4","5","6"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Canada Day and National Holidays", summary:"Ontario Grade 1 Social Studies strand B: students learn about Canada Day and other national holidays, understanding what they celebrate and why they are important.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Canada Day and National Holidays", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Day%20and%20National%20Holidays%20grade%201%20educational",
    quiz:[
      {q:"Canada Day is celebrated on ___.", options:["July 4","July 1","October 1","November 11"], answer:1},
      {q:"What does Canada Day celebrate?", options:["Christmas","Canada's birthday as a nation","Thanksgiving","Halloween"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Prefixes: un- and re-", summary:"Ontario Grade 1 Reading strand: a prefix is added to the beginning of a word to change its meaning. Un- means not; re- means again.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Prefixes: un- and re-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20un-%20and%20re-%20grade%201%20educational",
    quiz:[
      {q:"What does the prefix UN- mean?", options:["Again","Before","Not","After"], answer:2},
      {q:"What does UNKIND mean?", options:["Very kind","Not kind","Kind again","Extremely kind"], answer:1},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Which word has a prefix?", options:["Running","Jumped","Unhappy","Cats"], answer:2}
    ]},
   {subject:"Math", title:"Number Patterns", summary:"Ontario Grade 1 Algebra and Patterning strand: students identify, describe, and extend number patterns involving addition or subtraction.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Number Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Patterns%20grade%201%20educational",
    quiz:[
      {q:"What comes next? 2, 4, 6, 8, ___", options:["9","10","12","11"], answer:1},
      {q:"What is the rule? 10, 20, 30, 40...", options:["Add 5","Add 10","Add 2","Add 15"], answer:1},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"What comes next? 5, 10, 15, 20, ___", options:["21","22","25","30"], answer:2}
    ]},
   {subject:"Science", title:"Rocks and Their Properties", summary:"Ontario Grade 1 Earth and Space Systems strand: rocks can be described by colour, texture, hardness, and size. Different rocks have different properties and uses.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Rocks and Their Properties", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Their%20Properties%20grade%201%20educational",
    quiz:[
      {q:"Rocks can be described by ___.", options:["Their feelings","Their colour, texture, and hardness","Their names only","Their families"], answer:1},
      {q:"Which rock is used to make jewellery?", options:["Limestone","Granite","Diamond (a mineral)","Sandstone"], answer:2},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is made from a natural rock or mineral?", options:["Plastic cup","Salt (a mineral)","Glass window (made from sand, a mineral)","Both b and c"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Maps of Canada", summary:"Ontario Grade 1 Social Studies strand B: students read simple maps of Canada, identifying provinces, territories, capital cities, and geographic regions.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Maps of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20of%20Canada%20grade%201%20educational",
    quiz:[
      {q:"How many provinces does Canada have?", options:["8","9","10","12"], answer:2},
      {q:"How many territories does Canada have?", options:["1","2","3","4"], answer:2},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Suffixes: -er and -ing", summary:"Ontario Grade 1 Reading strand: a suffix is added to the end of a word to change its meaning. -Er means one who does; -ing indicates an ongoing action.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Suffixes: -er and -ing", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20-er%20and%20-ing%20grade%201%20educational",
    quiz:[
      {q:"What does the suffix -ER mean when added to a verb?", options:["The action itself","One who does the action","Doing the action now","Having done the action"], answer:1},
      {q:"What does TEACHER mean?", options:["To teach","One who teaches","Is teaching","Taught"], answer:1},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Adding -ING to a verb creates a ___.", options:["Noun","Adjective","Present participle (ongoing action)","Prefix"], answer:2}
    ]},
   {subject:"Math", title:"Addition Strategies", summary:"Ontario Grade 1 Number strand: students use mental math strategies such as doubles, near doubles, make ten, and counting on to add efficiently.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Addition Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Strategies%20grade%201%20educational",
    quiz:[
      {q:"Counting on means starting at the bigger number and ___.", options:["Subtracting","Adding backwards","Counting forward the smaller number","Counting from 1"], answer:2},
      {q:"6 + 6 = 12 is an example of a ___.", options:["Near double","Double","Make ten","Counting on"], answer:1},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy works best for 9 + 4?", options:["Count from 1","Doubles","Make ten: 9+1+3=13","Subtraction"], answer:2}
    ]},
   {subject:"Science", title:"Water on Earth", summary:"Ontario Grade 1 Earth and Space Systems strand: water covers most of Earth's surface. It exists in three states and cycles through the environment.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Water on Earth", resourceUrl:"https://www.youtube.com/results?search_query=Water%20on%20Earth%20grade%201%20educational",
    quiz:[
      {q:"What percentage of Earth's surface is covered by water?", options:["About 30 percent","About 50 percent","About 70 percent","About 90 percent"], answer:2},
      {q:"Water in three states: ___.", options:["Solid, liquid, gas","Hot, warm, cold","Fast, slow, still","Deep, shallow, wide"], answer:0},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Why is clean water important?", options:["It is not","All living things need clean water to survive","Only fish need clean water","Only humans need water"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Provinces of Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify the ten provinces of Canada and some facts about each, locating them on a map.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Provinces of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provinces%20of%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Which province is on the west coast of Canada?", options:["Ontario","Quebec","British Columbia","Manitoba"], answer:2},
      {q:"Which province is Canada's largest by area?", options:["Ontario","Quebec","Alberta","British Columbia"], answer:1},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Poetry", summary:"Ontario Grade 1 Reading and Writing strands: students read and write simple poems, identifying rhyme, rhythm, and descriptive language, and appreciating how poets choose words carefully.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%20grade%201%20educational",
    quiz:[
      {q:"Poetry often uses ___.", options:["Only long sentences","Rhyme, rhythm, and descriptive language","Only facts","Lots of numbers"], answer:1},
      {q:"Which lines rhyme?", options:["The cat sat on the mat / The dog ran to school","Roses are red / Violets are blue","Today is Monday / I ate my lunch","She ran fast / He jumped high"], answer:1},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of descriptive language in a poem?", options:["She went to the store","The shimmering silver moon glowed softly","It was night","He walked home"], answer:1}
    ]},
   {subject:"Math", title:"Subtraction Strategies", summary:"Ontario Grade 1 Number strand: students use strategies such as counting back, fact families, and think-addition to subtract efficiently.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Subtraction Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Strategies%20grade%201%20educational",
    quiz:[
      {q:"Counting back: 12 - 3 means start at 12 and count back ___.", options:["12 steps","1 step","3 steps","2 steps"], answer:2},
      {q:"Think-addition: 13 - 5 = ? Think 5 + ___ = 13", options:["7","8","9","6"], answer:1},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"14 - 6 = ?", options:["7","8","9","6"], answer:1}
    ]},
   {subject:"Science", title:"Stars and Space", summary:"Ontario Grade 1 Earth and Space Systems strand: the Sun is the closest star to Earth. Stars are large balls of hot gas. The Moon orbits Earth.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Stars and Space", resourceUrl:"https://www.youtube.com/results?search_query=Stars%20and%20Space%20grade%201%20educational",
    quiz:[
      {q:"The Sun is a ___.", options:["Planet","Moon","Large ball of hot gas called a star","Comet"], answer:2},
      {q:"Which planet do we live on?", options:["Mars","Venus","Earth","Jupiter"], answer:2},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"How does the Moon appear to change shape?", options:["It actually changes shape","We see different amounts of its lit side as it orbits Earth","Clouds cover it","It grows and shrinks"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Caring for the Environment", summary:"Ontario Grade 1 Social Studies strand B: students identify ways to protect the environment including reducing waste, recycling, and conserving water and energy.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Caring for the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Environment%20grade%201%20educational",
    quiz:[
      {q:"What does REDUCE mean in reduce, reuse, recycle?", options:["Throw away more","Use less of something","Make something bigger","Buy more"], answer:1},
      {q:"Which is an example of recycling?", options:["Throwing a bottle in the garbage","Turning a used newspaper into new paper","Buying new items","Wasting water"], answer:1},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Non-Fiction Text Features", summary:"Ontario Grade 1 Reading strand: non-fiction texts contain features like headings, photographs, captions, table of contents, and indexes that help readers find and understand information.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Non-Fiction Text Features", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%20Text%20Features%20grade%201%20educational",
    quiz:[
      {q:"What is a heading in a non-fiction text?", options:["A type of hat","A bold title that tells what a section is about","A picture at the top","The author's name"], answer:1},
      {q:"What is a caption?", options:["A title","Words that explain a photograph or illustration","A type of heading","The conclusion"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is a non-fiction book?", options:["The Three Little Pigs","Charlotte's Web","Encyclopaedia of Animals","Harry Potter"], answer:2}
    ]},
   {subject:"Math", title:"Review: Number Sense to 50", summary:"Ontario Grade 1 Number strand review: students count, compare, order, and represent numbers to 50, and demonstrate understanding of place value and operations.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Number Sense to 50", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20to%2050%20grade%201%20educational",
    quiz:[
      {q:"What is 3 tens and 7 ones?", options:["30","37","73","13"], answer:1},
      {q:"Which is greatest: 24, 42, or 34?", options:["24","34","42","44"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Skip count by 5s: 25, 30, ___", options:["33","35","40","32"], answer:1}
    ]},
   {subject:"Science", title:"Seasons Review", summary:"Ontario Grade 1 Earth and Space Systems strand review: students review the four seasons, their characteristics, and how plants, animals, and people respond to seasonal changes.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Seasons Review", resourceUrl:"https://www.youtube.com/results?search_query=Seasons%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the four seasons in order starting with spring?", options:["Spring, Summer, Fall, Winter","Summer, Fall, Winter, Spring","Winter, Spring, Summer, Fall","Fall, Winter, Spring, Summer"], answer:0},
      {q:"In which season do most plants grow flowers?", options:["Winter","Fall","Spring and Summer","No season"], answer:2},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"In Ontario, which season has the coldest temperatures?", options:["Fall","Spring","Summer","Winter"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Rights Review", summary:"Ontario Grade 1 Social Studies strand A review: students review children's rights, responsibilities, and what it means to be a responsible citizen in the school and community.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Rights Review", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the three main rights of all children?", options:["Work, play, travel","Education, safety, and being cared for","Money, toys, vacations","Adults choose their rights"], answer:1},
      {q:"What is a responsibility?", options:["Something we are paid for","Something we are expected to do for ourselves and others","Something only adults have","Something we can always skip"], answer:1},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Creative Writing", summary:"Ontario Grade 1 Writing strand: students write short creative stories with a beginning, middle, and end, using descriptive language, interesting characters, and a simple plot.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Creative Writing", resourceUrl:"https://www.youtube.com/results?search_query=Creative%20Writing%20grade%201%20educational",
    quiz:[
      {q:"Creative writing lets you ___.", options:["Write only facts","Create imaginary stories and characters","Write only your name","Copy other stories"], answer:1},
      {q:"A good creative story has a ___.", options:["Beginning only","Beginning, middle, and end","Middle only","Only a problem"], answer:1},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"A story's solution is ___.", options:["The problem","How the character solves the problem","The setting","The beginning"], answer:1}
    ]},
   {subject:"Math", title:"Review: Patterns and Shapes", summary:"Ontario Grade 1 Geometry and Patterning review: students identify and extend patterns, and describe properties of 2D and 3D shapes.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Patterns and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Patterns%20and%20Shapes%20grade%201%20educational",
    quiz:[
      {q:"Which 2D shape has three sides?", options:["Square","Rectangle","Circle","Triangle"], answer:3},
      {q:"What comes next? Triangle, Square, Triangle, Square, ___", options:["Circle","Triangle","Rectangle","Square"], answer:1},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"What is the pattern rule? 5, 10, 15, 20...", options:["Add 2","Add 5","Add 10","Add 3"], answer:1}
    ]},
   {subject:"Science", title:"Life Cycles Review", summary:"Ontario Grade 1 Life Systems strand review: students review life cycles of different animals including butterfly, frog, and chicken, identifying the stages.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Life Cycles Review", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycles%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the four stages of a butterfly's life cycle?", options:["Egg, larva, pupa, adult","Baby, child, teen, adult","Seed, sprout, plant, flower","Egg, chick, chicken, adult"], answer:0},
      {q:"What is a tadpole?", options:["A baby butterfly","A baby frog","A type of fish","A baby bird"], answer:1},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"What is metamorphosis?", options:["A type of habitat","A kind of rock","A process of dramatic change in form during a life cycle","A season change"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Community Review", summary:"Ontario Grade 1 Social Studies review: students review the concept of community, types of communities, community workers, and the importance of caring for the environment.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Community Review", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Review%20grade%201%20educational",
    quiz:[
      {q:"What is a community?", options:["A building","A group of people living and working together in a place","A type of map","A natural resource"], answer:1},
      {q:"Name two types of communities.", options:["Urban and rural","Big and small","Old and new","Rich and poor"], answer:0},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Story Structure Review", summary:"Ontario Grade 1 Reading and Writing strands review: students apply understanding of story structure (characters, setting, problem, solution) to read and write stories.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Story Structure Review", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Structure%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the five main story elements?", options:["Title, pages, words, pictures, cover","Characters, setting, problem, events, solution","Beginning, ending, middle, pictures, words","Nouns, verbs, adjectives, adverbs, pronouns"], answer:1},
      {q:"The setting tells us ___.", options:["The characters' feelings","Where and when the story takes place","The main problem","The lesson"], answer:1},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Which element is most important in a story?", options:["Setting","Characters","All elements work together","Pictures"], answer:2}
    ]},
   {subject:"Math", title:"Review: Addition and Subtraction", summary:"Ontario Grade 1 Number strand review: students apply addition and subtraction strategies to solve problems within 20.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Addition%20and%20Subtraction%20grade%201%20educational",
    quiz:[
      {q:"14 + 5 = ?", options:["18","19","20","21"], answer:1},
      {q:"17 - 8 = ?", options:["8","9","10","7"], answer:1},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"20 - 11 = ?", options:["8","9","10","11"], answer:1}
    ]},
   {subject:"Science", title:"Animal Review", summary:"Ontario Grade 1 Life Systems strand review: students review key concepts about animals including needs, habitats, young, and adaptations.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Animal Review", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Review%20grade%201%20educational",
    quiz:[
      {q:"What do all animals need to survive?", options:["Television","Food, water, air, and shelter","Only food","Money"], answer:1},
      {q:"An adaptation is ___.", options:["A type of habitat","A special feature that helps an animal survive","A kind of food","A life cycle stage"], answer:1},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Baby animals grow to look like their ___.", options:["Owners","Teachers","Parents","Friends"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Heritage Review", summary:"Ontario Grade 1 Social Studies strand A review: students review concepts of heritage, identity, family, traditions, and cultural celebrations.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Heritage Review", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Review%20grade%201%20educational",
    quiz:[
      {q:"Heritage includes ___.", options:["Only buildings","The traditions, stories, values, and culture passed through generations","Only money","Only food"], answer:1},
      {q:"How does learning about our heritage help us?", options:["It does not","It helps us understand who we are and where we come from","It is boring","Only adults need to learn heritage"], answer:1},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading Fluency", summary:"Ontario Grade 1 Reading strand: reading fluency means reading smoothly, at an appropriate pace, with expression. Practice with familiar texts builds fluency.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Reading Fluency", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Fluency%20grade%201%20educational",
    quiz:[
      {q:"Reading fluency means ___.", options:["Reading as fast as possible","Reading smoothly, accurately, and with expression","Reading silently only","Reading only short books"], answer:1},
      {q:"Which practice builds reading fluency?", options:["Reading a new book every day only","Re-reading familiar texts and reading aloud","Only reading in your head","Only reading alone"], answer:1},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"Why is reading fluency important?", options:["It is not","Fluent reading allows you to focus on understanding the meaning","Only speed matters","Only accuracy matters"], answer:1}
    ]},
   {subject:"Math", title:"Review: Measurement", summary:"Ontario Grade 1 Measurement strand review: students apply understanding of length, mass, capacity, and time to solve problems.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20grade%201%20educational",
    quiz:[
      {q:"Which tool measures length?", options:["Scale","Ruler","Thermometer","Clock"], answer:1},
      {q:"Which measures how heavy something is?", options:["Ruler","Thermometer","Scale","Clock"], answer:2},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"What unit do we use to measure length in metric system?", options:["Pounds","Kilograms","Centimetres","Degrees"], answer:2}
    ]},
   {subject:"Science", title:"Plant Review", summary:"Ontario Grade 1 Life Systems and Earth strand review: students review plant parts, plant needs, life cycles, and the importance of plants to the environment.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Plant Review", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Review%20grade%201%20educational",
    quiz:[
      {q:"Which part of a plant makes food?", options:["Root","Stem","Leaf (through photosynthesis)","Seed"], answer:2},
      {q:"What are the four things plants need to grow?", options:["Books, pencils, chairs, desks","Sunlight, water, air, and nutrients from soil","Money, toys, television, games","Electricity, heat, noise, colour"], answer:1},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Why are plants important to the environment?", options:["They are not","They produce oxygen, provide food, and support habitats","Only for decoration","Only for food"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Culture Review", summary:"Ontario Grade 1 Social Studies strand A review: students review key vocabulary and concepts related to culture, including traditions, celebrations, language, and respect for diversity.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Culture Review", resourceUrl:"https://www.youtube.com/results?search_query=Culture%20Review%20grade%201%20educational",
    quiz:[
      {q:"Culture includes ___.", options:["Only clothing","Language, traditions, art, food, and values of a group of people","Only food","Only music"], answer:1},
      {q:"How do we show respect for different cultures?", options:["Ignoring them","Making fun of them","Learning about them and treating everyone fairly","Copying everything"], answer:2},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Spelling Patterns: -ight, -ake, -ine", summary:"Ontario Grade 1 Reading strand: spelling patterns help students decode and spell new words. Word families like night, sight, light; cake, lake, make; mine, fine, pine share patterns.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Spelling Patterns: -ight, -ake, -ine", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Patterns%3A%20-ight%2C%20-ake%2C%20-ine%20grade%201%20educational",
    quiz:[
      {q:"Which word belongs to the -IGHT family?", options:["Lake","Mine","Night","Cake"], answer:2},
      {q:"Which word belongs to the -AKE family?", options:["Night","Light","Right","Cake"], answer:3},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"Learning spelling patterns helps us ___.", options:["Only spell one word","Read and spell many words in the same family","Draw letters only","Sound out every letter always"], answer:1}
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Ontario Grade 1 Data strand review: students collect, organise, and interpret data using tally charts and pictographs, and explore basic probability.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Data and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Data%20and%20Probability%20grade%201%20educational",
    quiz:[
      {q:"A tally chart uses ___ to count data.", options:["Pictures","Numbers only","Tally marks","Coins"], answer:2},
      {q:"A pictograph uses ___ to show data.", options:["Only numbers","Pictures or symbols","Only tally marks","Letters"], answer:1},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"If a bag has 3 red and 1 blue marble, reaching in without looking gives you a better chance of pulling out a ___.", options:["Blue","Red","Green","Cannot tell"], answer:1}
    ]},
   {subject:"Science", title:"Earth and Weather Review", summary:"Ontario Grade 1 Earth and Space Systems review: students review weather patterns, the water cycle, rocks, soil, and the Sun's role in Earth's systems.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Earth and Weather Review", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Weather%20Review%20grade%201%20educational",
    quiz:[
      {q:"What causes day and night?", options:["Earth moving around the Sun","Earth rotating on its axis","The Moon blocking the Sun","Clouds covering the sky"], answer:1},
      {q:"The water cycle involves ___.", options:["Evaporation, condensation, and precipitation","Only rain falling","Only rivers flowing","Only clouds forming"], answer:0},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"The Sun provides Earth with ___.", options:["Only light","Only heat","Heat and light energy essential for life","Water"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Citizenship and Community", summary:"Ontario Grade 1 Social Studies review: students review civic concepts including rights, responsibilities, community participation, and environmental stewardship.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Citizenship and Community", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%20and%20Community%20grade%201%20educational",
    quiz:[
      {q:"What does it mean to be a good citizen?", options:["Following only favourite rules","Ignoring community issues","Being responsible, respectful, and contributing to your community","Doing whatever you want"], answer:2},
      {q:"Why is voting important in a democracy?", options:["It is not","Citizens choose their leaders and have a voice in decisions","Only important people vote","Votes do not count"], answer:1},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Reading Skills Review", summary:"Ontario Grade 1 Reading strand review: students review key reading strategies including predicting, retelling, identifying main idea, making connections, and using text features.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Reading Skills Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Skills%20Review%20grade%201%20educational",
    quiz:[
      {q:"Which reading strategy helps you guess what happens next?", options:["Retelling","Connecting","Predicting","Summarising"], answer:2},
      {q:"Retelling a story means ___.", options:["Reading it again","Telling the main events in your own words in order","Drawing pictures","Changing the ending"], answer:1},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"Non-fiction text features include ___.", options:["Plot and characters","Headings, captions, and index","Only pictures","Stories and poems"], answer:1}
    ]},
   {subject:"Math", title:"Review: Number Sense", summary:"Ontario Grade 1 Number strand review: students review counting, place value, addition, subtraction, fractions, and money.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Review: Number Sense", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20grade%201%20educational",
    quiz:[
      {q:"4 tens + 7 ones = ?", options:["40","47","74","17"], answer:1},
      {q:"18 + 5 = ?", options:["22","23","24","21"], answer:1},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"A dime is worth ___ cents.", options:["5","10","25","50"], answer:1}
    ]},
   {subject:"Science", title:"Life Science Review", summary:"Ontario Grade 1 Life Systems strand review: students review living vs non-living, needs of living things, plants, animals, food chains, and habitats.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Life Science Review", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Science%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the four needs of all living things?", options:["Sun, moon, stars, planets","Air, water, food, and shelter","Books, toys, music, games","Electricity, light, heat, money"], answer:1},
      {q:"Name two parts of a plant.", options:["Wheel and pedal","Root and leaf","Lens and frame","Door and window"], answer:1},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Which best describes metamorphosis?", options:["A type of habitat","A food chain","A dramatic change in form during a life cycle","A kind of rock"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Review: Communities and Canada", summary:"Ontario Grade 1 Social Studies review: students demonstrate understanding of communities, Canadian geography, symbols, and civic values.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Review: Communities and Canada", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Communities%20and%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Which Canadian symbol has a maple leaf?", options:["The flag","The coat of arms","The dollar bill","All three"], answer:3},
      {q:"What is the capital city of Canada?", options:["Toronto","Ottawa","Montreal","Vancouver"], answer:1},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Ontario Grade 1 Language strand comprehensive review: students demonstrate reading, writing, and oral communication skills developed throughout the year.",
-   resourceLabel:"TVO Learn: Grade 1 Language", resourceUrl:"https://tvolearn.com/pages/grade-1-language",
+   resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%201%20educational",
    quiz:[
      {q:"A noun names a ___.", options:["Action","Person, place, or thing","Describing word","Connecting word"], answer:1},
      {q:"A verb shows ___.", options:["A name","An action or state of being","A description","A connection"], answer:1},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"Why is reading every day important?", options:["It is not","It builds vocabulary, comprehension, and imagination","Only for school","Only for homework"], answer:1}
    ]},
   {subject:"Math", title:"Year Review: Mathematics", summary:"Ontario Grade 1 Mathematics comprehensive review covering number sense, geometry, measurement, patterning, and data.",
-   resourceLabel:"TVO Learn: Grade 1 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-1-mathematics",
+   resourceLabel:"YouTube: Year Review: Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%201%20educational",
    quiz:[
      {q:"3 tens + 5 ones = ?", options:["53","30","35","45"], answer:2},
      {q:"9 + 8 = ?", options:["16","17","18","15"], answer:1},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"Skip count by 2s: 16, 18, 20, ___", options:["21","22","24","23"], answer:1}
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Ontario Grade 1 Science comprehensive review covering life systems, earth and space, matter, and physical science.",
-   resourceLabel:"TVO Learn: Grade 1 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-1-science-and-technology",
+   resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%201%20educational",
    quiz:[
      {q:"Living things need ___.", options:["Electricity and television","Air, water, food, and shelter","Money and toys","Books and pencils"], answer:1},
      {q:"Earth has ___ seasons.", options:["2","3","4","5"], answer:2},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Plants make their food using sunlight through ___.", options:["Digestion","Hibernation","Photosynthesis","Respiration"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies", summary:"Ontario Grade 1 Social Studies comprehensive review covering family, community, Canada, and civic values.",
-   resourceLabel:"TVO Learn: Grade 1 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-1-social-studies",
+   resourceLabel:"YouTube: Year Review: Social Studies", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%201%20educational",
    quiz:[
      {q:"What is the capital of Canada?", options:["Toronto","Montreal","Ottawa","Vancouver"], answer:2},
      {q:"Community workers ___.", options:["Create problems","Provide services that help people","Only work for money","Are not important"], answer:1},

@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Complex Sentences and Clauses", summary:"Review independent/dependent clauses and how subordinating conjunctions build complex sentences (ENL1W Strand A/B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Complex Sentences and Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Complex%20Sentences%20and%20Clauses%20grade%209%20educational",
    quiz:[
      {q:"A subordinating conjunction like 'although' introduces a...", options:["Dependent clause","Independent clause only","A new paragraph","A title"], answer:0},
      {q:"A complex sentence contains...", options:["Only one independent clause","An independent clause and at least one dependent clause","No clauses at all","Only dependent clauses"], answer:1},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"A comma splice occurs when...", options:["Two independent clauses are joined with only a comma","A sentence has correct punctuation","A sentence has no clauses","A paragraph ends properly"], answer:0},
    ]},
   {subject:"Math", title:"Algebraic Expressions Review", summary:"Simplify and evaluate algebraic expressions, applying order of operations (MTH1W Number Sense/Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Algebraic Expressions Review", resourceUrl:"https://www.youtube.com/results?search_query=Algebraic%20Expressions%20Review%20grade%209%20educational",
    quiz:[
      {q:"Simplify: 3x + 5x - 2x", options:["6x","8x","10x","4x"], answer:0},
      {q:"Evaluate 2x + 3 when x = 4", options:["10","11","9","14"], answer:1},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify: 5x - (2x - 3)", options:["3x-3","3x+3","7x-3","3x"], answer:1},
    ]},
   {subject:"Science", title:"Sustainable Ecosystems Review", summary:"Review interdependence in ecosystems and human impact on sustainability, leading into SNC1W's ecosystems strand.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Sustainable Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Ecosystems%20Review%20grade%209%20educational",
    quiz:[
      {q:"A sustainable ecosystem is one that can...", options:["Maintain itself over time without collapsing","Never change","Only exist with no human impact","Always be artificial"], answer:0},
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","Only the number of trees","A single species count","Water levels only"], answer:0},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"Sustainability involves balancing...", options:["Human needs with the health of ecosystems","Only economic growth","Only population growth","Nothing in particular"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Introduction to Geographic Inquiry", summary:"CGC1W begins with geographic inquiry — asking questions, gathering geographic data, and analyzing spatial patterns.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Introduction to Geographic Inquiry", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Geographic%20Inquiry%20grade%209%20educational",
    quiz:[
      {q:"Geographic inquiry typically begins with...", options:["Asking a geographic question","Skipping research entirely","Only memorizing maps","Avoiding data"], answer:0},
      {q:"Spatial patterns refer to...", options:["How things are arranged or distributed across space","Only population numbers","Government structures","Currency exchange rates"], answer:0},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Thesis Statements and Essay Structure", summary:"A strong thesis statement presents a clear, arguable claim that guides the structure of an essay (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Thesis Statements and Essay Structure", resourceUrl:"https://www.youtube.com/results?search_query=Thesis%20Statements%20and%20Essay%20Structure%20grade%209%20educational",
    quiz:[
      {q:"A thesis statement should be...", options:["Vague and broad","Clear and arguable","A simple fact with no claim","A question only"], answer:1},
      {q:"Where is a thesis statement usually located?", options:["In the introduction","Only in the conclusion","Nowhere in the essay","In a footnote"], answer:0},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of an arguable thesis?", options:["'Canada is a country in North America.'","'Climate policy should prioritize renewable energy investment.'","'Water is wet.'","'The sky is blue.'"], answer:1},
    ]},
   {subject:"Math", title:"Linear Relations: Intro to Slope", summary:"Slope describes the rate of change of a linear relation — rise over run (MTH1W Algebra/Linear Relations strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Linear Relations: Intro to Slope", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Relations%3A%20Intro%20to%20Slope%20grade%209%20educational",
    quiz:[
      {q:"Slope is calculated as...", options:["Rise over run","Run over rise","X times Y","X plus Y"], answer:0},
      {q:"A line with a slope of 0 is...", options:["Vertical","Horizontal","Diagonal","Undefined"], answer:1},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"A vertical line has a slope that is...", options:["Zero","One","Undefined","Negative"], answer:2},
    ]},
   {subject:"Science", title:"Nature of Matter: Atomic Theory", summary:"Review atomic structure (protons, neutrons, electrons) and the periodic table, a foundation of SNC1W's chemistry strand.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Nature of Matter: Atomic Theory", resourceUrl:"https://www.youtube.com/results?search_query=Nature%20of%20Matter%3A%20Atomic%20Theory%20grade%209%20educational",
    quiz:[
      {q:"Protons have what charge?", options:["Positive","Negative","Neutral","Variable"], answer:0},
      {q:"Electrons have what charge?", options:["Positive","Negative","Neutral","Variable"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"The nucleus of an atom contains...", options:["Protons and neutrons","Only electrons","Only protons","Nothing"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Natural Resources and Industries in Canada", summary:"CGC1W explores how Canada's natural resources support various industries and regional economies.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Natural Resources and Industries in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20and%20Industries%20in%20Canada%20grade%209%20educational",
    quiz:[
      {q:"Canada's forestry industry depends on...", options:["Forest resources","Ocean fisheries only","Desert land","Tropical climates"], answer:0},
      {q:"The Prairie provinces' economy relies heavily on...", options:["Agriculture and energy resources","Only tourism","Only fishing","Only forestry"], answer:0},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Persuasive Texts", summary:"Identify rhetorical devices, bias, and persuasive techniques used by authors to influence readers (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Analyzing Persuasive Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Persuasive%20Texts%20grade%209%20educational",
    quiz:[
      {q:"Bias in a text refers to...", options:["A balanced, neutral viewpoint","A slanted or one-sided perspective","A grammar error","A type of citation"], answer:1},
      {q:"An ad hominem argument attacks...", options:["The argument's evidence","The person making the argument rather than their argument","Neither the person nor the argument","Only statistics"], answer:1},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"A credible source is one that is...", options:["Always anonymous","Reliable, accurate, and well-supported","Always biased","Irrelevant to the topic"], answer:1},
    ]},
   {subject:"Math", title:"Solving Linear Equations", summary:"Solve multi-step linear equations involving variables on both sides (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Solving Linear Equations", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Linear%20Equations%20grade%209%20educational",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=5","x=6","x=7","x=8"], answer:1},
      {q:"Solve: 3x - 4 = 2x + 6", options:["x=8","x=10","x=2","x=6"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 2(x+3) = 3x - 1", options:["x=5","x=7","x=9","x=3"], answer:1},
    ]},
   {subject:"Science", title:"Chemical Reactions Introduction", summary:"Chemical reactions rearrange atoms to form new substances and can be represented with chemical equations (SNC1W strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Chemical Reactions Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Reactions%20Introduction%20grade%209%20educational",
    quiz:[
      {q:"In a chemical reaction, the substances you start with are called...", options:["Reactants","Products","Catalysts","Isotopes"], answer:0},
      {q:"The new substances formed in a chemical reaction are called...", options:["Reactants","Products","Elements only","Mixtures only"], answer:1},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"A catalyst is a substance that...", options:["Speeds up a reaction without being consumed","Always slows a reaction","Is always a product","Has no effect on reactions"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Land Use and Sustainability", summary:"CGC1W examines how land is used (urban, agricultural, industrial) and the importance of sustainable land-use planning.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Land Use and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Land%20Use%20and%20Sustainability%20grade%209%20educational",
    quiz:[
      {q:"Urban sprawl refers to...", options:["The uncontrolled expansion of urban areas into surrounding land","Compact, dense city planning","Tropical deforestation only","A type of farming"], answer:0},
      {q:"Sustainable land use aims to...", options:["Meet current needs without compromising future generations","Use land without any planning","Always prevent any development","Ignore environmental impact"], answer:0},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Literary Devices in Fiction", summary:"Identify and analyze literary devices like foreshadowing, irony, symbolism, and motif in fiction (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Literary Devices in Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Devices%20in%20Fiction%20grade%209%20educational",
    quiz:[
      {q:"Foreshadowing is a hint about...", options:["Events that will happen later in the story","The author's biography","The book's price","The table of contents"], answer:0},
      {q:"Irony occurs when...", options:["Events unfold exactly as expected","There is a contrast between expectation and reality","A character speaks formally","A setting is described in detail"], answer:1},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Dramatic irony occurs when...", options:["The audience knows something a character does not","No one knows anything","The author is unknown","The setting changes"], answer:0},
    ]},
   {subject:"Math", title:"Graphing Linear Relations", summary:"Graph linear relations using a table of values, slope, and y-intercept (MTH1W Algebra/Linear Relations strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Graphing Linear Relations", resourceUrl:"https://www.youtube.com/results?search_query=Graphing%20Linear%20Relations%20grade%209%20educational",
    quiz:[
      {q:"In y = mx + b, what does 'b' represent?", options:["The slope","The y-intercept","The x-intercept","The variable"], answer:1},
      {q:"In y = mx + b, what does 'm' represent?", options:["The y-intercept","The slope","A constant only","The x-value"], answer:1},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"A line with equation y = 4 is...", options:["Vertical","Horizontal","Diagonal","Undefined"], answer:1},
    ]},
   {subject:"Science", title:"Static and Current Electricity", summary:"Explore static electricity (charge buildup) and current electricity (flow of charge through circuits), part of SNC1W's electricity strand.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Static and Current Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Static%20and%20Current%20Electricity%20grade%209%20educational",
    quiz:[
      {q:"Static electricity involves...", options:["A buildup of electric charge on a surface","Constant flow of charge through a wire","Only magnetism","Nothing related to charge"], answer:0},
      {q:"Current electricity refers to...", options:["The continuous flow of electric charge through a conductor","A stationary charge only","Only static charges","Light energy only"], answer:0},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Voltage is a measure of...", options:["Electrical potential difference","Resistance only","Time only","Mass"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Indigenous Perspectives on the Land", summary:"CGC1W incorporates Indigenous perspectives on land stewardship, relationships with the environment, and territory.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Indigenous Perspectives on the Land", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Perspectives%20on%20the%20Land%20grade%209%20educational",
    quiz:[
      {q:"Many Indigenous perspectives view land as...", options:["A resource to exploit with no responsibility","Something to be respected and cared for across generations","Irrelevant to identity","Owned only by governments"], answer:1},
      {q:"Land stewardship refers to...", options:["Responsible care and management of land","Ignoring environmental impact","Selling land quickly","Building without any planning"], answer:0},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Sentences, Essays, and Devices", summary:"Mixed review of clauses, thesis statements, persuasive analysis, and literary devices.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Review: Sentences, Essays, and Devices", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Sentences%2C%20Essays%2C%20and%20Devices%20grade%209%20educational",
    quiz:[
      {q:"A complex sentence contains an independent clause and...", options:["At least one dependent clause","No other clauses","Only a verb","Only a noun"], answer:0},
      {q:"A thesis statement should be...", options:["Clear and arguable","Vague","A question","Irrelevant"], answer:0},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Loaded language is meant to...", options:["Evoke strong emotion","Stay neutral","Confuse with facts","Avoid persuasion"], answer:0},
    ]},
   {subject:"Math", title:"Review: Algebra and Linear Relations", summary:"Mixed review of expressions, equations, slope, and graphing.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Review: Algebra and Linear Relations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Linear%20Relations%20grade%209%20educational",
    quiz:[
      {q:"Simplify: 6x - 2x", options:["4x","8x","3x","2x"], answer:0},
      {q:"Solve: 2x + 4 = 14", options:["x=5","x=6","x=7","x=8"], answer:0},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 3x - 5 = 10", options:["x=5","x=4","x=6","x=3"], answer:0},
    ]},
   {subject:"Science", title:"Review: Ecosystems, Matter, and Electricity", summary:"Mixed review of sustainable ecosystems, atomic theory, chemical reactions, and electricity.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Review: Ecosystems, Matter, and Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Electricity%20grade%209%20educational",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","A single species","Water levels only","Soil type only"], answer:0},
      {q:"Protons carry what charge?", options:["Positive","Negative","Neutral","Variable"], answer:0},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"A keystone species has a...", options:["Large effect on its ecosystem relative to abundance","No effect on its ecosystem","Effect only in oceans","Effect only as a predator"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Geography and Resources", summary:"Mixed review of geographic inquiry, natural resources, land use, and Indigenous perspectives.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Review: Geography and Resources", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Geography%20and%20Resources%20grade%209%20educational",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Asking a geographic question","Skipping research","Memorizing only","Avoiding data"], answer:0},
      {q:"Canada's forestry industry depends on...", options:["Forest resources","Desert land","Ocean fisheries only","Tropical climates"], answer:0},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Sources", summary:"Evaluate media messages for purpose, audience, and credibility (ENL1W Strand C - Media Studies).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Media Literacy: Analyzing Sources", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Sources%20grade%209%20educational",
    quiz:[
      {q:"Media literacy involves the ability to...", options:["Critically analyze and evaluate media messages","Only watch media passively","Avoid all media","Memorize media headlines"], answer:0},
      {q:"Considering 'who created this and why' helps identify...", options:["The purpose and potential bias of a source","The font used","The page count","The colour scheme"], answer:0},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"Fact-checking a claim before sharing it helps...", options:["Prevent spreading misinformation","Spread more misinformation","Has no purpose","Slow down communication for no reason"], answer:0},
    ]},
   {subject:"Math", title:"Systems of Linear Equations (Intro)", summary:"Solve simple systems of two linear equations by graphing or substitution (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Systems of Linear Equations (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20of%20Linear%20Equations%20%28Intro%29%20grade%209%20educational",
    quiz:[
      {q:"A system of linear equations can be solved by...", options:["Graphing or substitution","Only guessing","Ignoring one equation","Multiplying randomly"], answer:0},
      {q:"The solution to a system of two lines is the point where...", options:["The lines intersect","The lines are parallel only","One line ends","Neither line exists"], answer:0},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"If two equations represent the same line, the system has...", options:["Infinite solutions","No solution","Exactly one solution","Exactly two solutions"], answer:0},
    ]},
   {subject:"Science", title:"Circuits and Electrical Safety", summary:"Understand series and parallel circuits, and basic electrical safety principles (SNC1W electricity strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Circuits and Electrical Safety", resourceUrl:"https://www.youtube.com/results?search_query=Circuits%20and%20Electrical%20Safety%20grade%209%20educational",
    quiz:[
      {q:"In a series circuit, components are connected...", options:["Along a single path","Along multiple independent paths","Not connected at all","Only in parallel"], answer:0},
      {q:"In a parallel circuit, components are connected...", options:["Along multiple paths so current can take more than one route","Only along a single path","Not connected at all","Randomly with no structure"], answer:0},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"An insulator is a material that...", options:["Resists the flow of electric current","Always conducts electricity well","Generates its own electricity","Has no electrical properties"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Careers Related to Geography", summary:"CGC1W links geographic skills to potential career paths, such as urban planning, environmental science, and resource management.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Careers Related to Geography", resourceUrl:"https://www.youtube.com/results?search_query=Careers%20Related%20to%20Geography%20grade%209%20educational",
    quiz:[
      {q:"An urban planner is involved in...", options:["Designing how land and cities are used","Only weather forecasting","Only farming","Only mining"], answer:0},
      {q:"An environmental scientist studies...", options:["Interactions between humans and the environment","Only sports statistics","Only ancient history","Only stock markets"], answer:0},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Tone, Voice, and Style in Writing", summary:"Develop awareness of how tone, voice, and style shape a piece of writing's impact on readers (ENL1W Strand B/D).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Tone, Voice, and Style in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Tone%2C%20Voice%2C%20and%20Style%20in%20Writing%20grade%209%20educational",
    quiz:[
      {q:"Voice in writing refers to...", options:["The author's distinct personality coming through the writing","Only the volume of speech","A type of punctuation","The font size"], answer:0},
      {q:"Formal style is generally used in...", options:["Academic essays and professional writing","Texting friends casually","Diary entries only","Never used"], answer:0},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"Sentence variety helps writing by...", options:["Keeping the reader engaged and adding rhythm","Making text repetitive","Having no effect","Confusing all readers"], answer:0},
    ]},
   {subject:"Math", title:"Polynomials: Adding and Subtracting", summary:"Add and subtract polynomial expressions by combining like terms (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Polynomials: Adding and Subtracting", resourceUrl:"https://www.youtube.com/results?search_query=Polynomials%3A%20Adding%20and%20Subtracting%20grade%209%20educational",
    quiz:[
      {q:"Simplify: (3x + 2) + (5x - 4)", options:["8x-2","8x+2","2x-2","2x+2"], answer:0},
      {q:"Simplify: (4x² + 3x) - (2x² + x)", options:["2x²+2x","6x²+4x","2x²+4x","2x²-2x"], answer:0},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify: (5x² - 2x) - (3x² - 2x)", options:["2x²","2x²-4x","8x²","2x²+4x"], answer:0},
    ]},
   {subject:"Science", title:"Earth and Space Science: The Solar System", summary:"Review the structure of the solar system and basic astronomical concepts (SNC1W Earth & Space Science strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Earth and Space Science: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Space%20Science%3A%20The%20Solar%20System%20grade%209%20educational",
    quiz:[
      {q:"Which planet is closest to the Sun?", options:["Mercury","Venus","Earth","Mars"], answer:0},
      {q:"A year on Earth is defined by...", options:["One full orbit around the Sun","One full rotation on its axis","A random time period","One moon cycle"], answer:0},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"A light-year measures...", options:["A distance light travels in one year","A unit of time only","A unit of mass","A type of telescope"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Population Geography", summary:"CGC1W explores patterns of population distribution, density, and demographic change.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Population Geography", resourceUrl:"https://www.youtube.com/results?search_query=Population%20Geography%20grade%209%20educational",
    quiz:[
      {q:"Population density measures...", options:["The number of people per unit of area","Only the total population","Only birth rates","Only the land area"], answer:0},
      {q:"Which factor often increases population density in cities?", options:["Jobs and services concentrated in urban areas","Lack of any infrastructure","Always poor soil quality","Cold climates only"], answer:0},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Research and Citing Sources", summary:"Conduct basic research and properly cite sources to avoid plagiarism (ENL1W Strand B/C).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Research and Citing Sources", resourceUrl:"https://www.youtube.com/results?search_query=Research%20and%20Citing%20Sources%20grade%209%20educational",
    quiz:[
      {q:"Plagiarism is...", options:["Using someone else's work without giving credit","Always citing sources correctly","A type of formatting","A grammar rule"], answer:0},
      {q:"A citation gives credit to...", options:["The original source of information or ideas","No one in particular","The reader","The publisher only"], answer:0},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Using multiple credible sources in research helps...", options:["Provide a well-supported, balanced perspective","Make an essay biased on purpose","Replace the need for any argument","Confuse the reader intentionally"], answer:0},
    ]},
   {subject:"Math", title:"Multiplying Polynomials and Factoring Basics", summary:"Multiply simple polynomials and factor out common terms (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Multiplying Polynomials and Factoring Basics", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Polynomials%20and%20Factoring%20Basics%20grade%209%20educational",
    quiz:[
      {q:"Expand: 2x(x + 3)", options:["2x²+6x","2x²+3x","x²+6x","2x+6x"], answer:0},
      {q:"Factor out the common term: 4x + 8", options:["4(x+2)","2(2x+4)","4x(1+2)","8(x+1)"], answer:0},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"Expand: x(x + 5)", options:["x²+5x","x²+5","5x²+x","x+5x"], answer:0},
    ]},
   {subject:"Science", title:"Climate Change and Human Impact", summary:"Examine evidence for climate change and the role of human activity in altering Earth's climate systems (SNC1W strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Climate Change and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20Change%20and%20Human%20Impact%20grade%209%20educational",
    quiz:[
      {q:"Greenhouse gases trap heat by...", options:["Absorbing and re-emitting infrared radiation in the atmosphere","Blocking all sunlight completely","Cooling the surface directly","Having no effect on temperature"], answer:0},
      {q:"Which of these is a greenhouse gas?", options:["Carbon dioxide","Oxygen","Nitrogen","Argon"], answer:0},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"Renewable energy sources can help...", options:["Reduce greenhouse gas emissions compared to fossil fuels","Increase emissions always","Have no climate benefit","Only work in summer"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Urbanization and City Growth", summary:"CGC1W examines patterns of urbanization, the growth of cities, and challenges like sprawl and infrastructure demand.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Urbanization and City Growth", resourceUrl:"https://www.youtube.com/results?search_query=Urbanization%20and%20City%20Growth%20grade%209%20educational",
    quiz:[
      {q:"Urbanization refers to...", options:["The growth of cities and the movement of people into them","The decline of all cities","Only rural population growth","A type of farming method"], answer:0},
      {q:"A megacity is generally defined as a city with a population over...", options:["10 million","10,000","100,000","1 million"], answer:0},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Reviewing for Oral Communication", summary:"Strong oral presentations use clear organization, appropriate tone, and effective delivery techniques (ENL1W Strand D).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Reviewing for Oral Communication", resourceUrl:"https://www.youtube.com/results?search_query=Reviewing%20for%20Oral%20Communication%20grade%209%20educational",
    quiz:[
      {q:"Eye contact during a presentation helps...", options:["Engage the audience","Distract the audience","Has no effect","Is never recommended"], answer:0},
      {q:"Pacing in a presentation refers to...", options:["The speed and rhythm of speech","Only hand gestures","The font of slides","The room temperature"], answer:0},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"Active listening during a presentation involves...", options:["Paying attention and engaging with the speaker's ideas","Ignoring the speaker","Talking over the speaker","Looking at your phone the whole time"], answer:0},
    ]},
   {subject:"Math", title:"Review: Algebra, Equations, and Polynomials", summary:"Mixed review of expressions, equations, systems, and polynomials.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Review: Algebra, Equations, and Polynomials", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%2C%20Equations%2C%20and%20Polynomials%20grade%209%20educational",
    quiz:[
      {q:"Solve: 3x + 2 = 14", options:["x=4","x=3","x=5","x=6"], answer:0},
      {q:"Simplify: (2x+3)+(4x-1)", options:["6x+2","6x+4","2x+2","6x-2"], answer:0},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 2x - 4 = 6", options:["x=5","x=4","x=6","x=3"], answer:0},
    ]},
   {subject:"Science", title:"Review: Chemistry, Electricity, and Earth Science", summary:"Mixed review of atomic theory, chemical reactions, circuits, and the solar system.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Review: Chemistry, Electricity, and Earth Science", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Electricity%2C%20and%20Earth%20Science%20grade%209%20educational",
    quiz:[
      {q:"Protons are found in the...", options:["Nucleus","Outer shell only","Nowhere in an atom","Only in compounds"], answer:0},
      {q:"The substances formed in a reaction are called...", options:["Products","Reactants","Catalysts","Mixtures only"], answer:0},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Greenhouse gases trap heat by...", options:["Absorbing and re-emitting infrared radiation","Blocking all sunlight","Cooling the surface","Having no effect"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Geography, Resources, and Cities", summary:"Mixed review of resources, land use, population, and urbanization.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Review: Geography, Resources, and Cities", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Geography%2C%20Resources%2C%20and%20Cities%20grade%209%20educational",
    quiz:[
      {q:"Population density measures people per...", options:["Unit of area","Total country","Year","Income level"], answer:0},
      {q:"Urbanization refers to growth of...", options:["Cities","Farmland only","Forests only","Deserts only"], answer:0},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: English Skills", summary:"Mixed review of sentence structure, essays, media literacy, and presentations.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Final Review: English Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20English%20Skills%20grade%209%20educational",
    quiz:[
      {q:"A complex sentence needs an independent clause and a...", options:["Dependent clause","Title only","Footnote","Citation"], answer:0},
      {q:"Media literacy means being able to...", options:["Critically evaluate media messages","Only consume media passively","Avoid media entirely","Memorize headlines"], answer:0},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"Eye contact in a presentation helps...", options:["Engage the audience","Distract listeners","Nothing","Avoid connection"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of expressions, equations, slope, systems, and polynomials.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%209%20educational",
    quiz:[
      {q:"Solve: 4x - 6 = 10", options:["x=4","x=3","x=5","x=2"], answer:0},
      {q:"Slope formula is...", options:["Rise over run","Run over rise","X over Y","Constant only"], answer:0},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"In a system of two non-parallel lines, the solution is...", options:["The intersection point","Always zero","Always infinite","Never solvable"], answer:0},
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of ecosystems, atomic theory, electricity, and Earth science.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%209%20educational",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","One species only","Soil type only","Water levels only"], answer:0},
      {q:"Protons have what charge?", options:["Positive","Negative","Neutral","Variable"], answer:0},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Greenhouse gases contribute to...", options:["Trapping heat in the atmosphere","Cooling the planet directly","No climate effect","Blocking all sunlight"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Geography Skills", summary:"Mixed review of geographic inquiry, resources, land use, population, and Indigenous perspectives.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Final Review: Geography Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Geography%20Skills%20grade%209%20educational",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Asking a geographic question","Skipping research","Memorizing maps only","Avoiding data collection"], answer:0},
      {q:"Population density is people per...", options:["Unit of area","Total income","Calendar year","Square of language spoken"], answer:0},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Theme and Conflict in a Short Story", summary:"Analyze how a short story's central conflict drives its theme — the underlying message about human experience (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Theme and Conflict in a Short Story", resourceUrl:"https://www.youtube.com/results?search_query=Theme%20and%20Conflict%20in%20a%20Short%20Story%20grade%209%20educational",
    quiz:[
      {q:"The theme of a story is best described as...", options:["The underlying message or insight about human experience","The list of characters","The opening sentence only","The page count"], answer:0},
      {q:"An internal conflict in a story involves...", options:["A character struggling with their own thoughts or emotions","Two characters fighting physically","A natural disaster","A setting change"], answer:0},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Which phrase best describes a 'man vs. society' conflict?", options:["A character challenging a community's norms or laws","A character surviving a storm","A character doubting themselves","Two friends arguing"], answer:0},
    ]},
   {subject:"Math", title:"Solving and Graphing Inequalities", summary:"Solve one- and two-step inequalities and represent the solution set on a number line (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Solving and Graphing Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20and%20Graphing%20Inequalities%20grade%209%20educational",
    quiz:[
      {q:"Solve: x + 3 > 7", options:["x > 4","x > 10","x < 4","x = 4"], answer:0},
      {q:"When you multiply or divide both sides of an inequality by a negative number, you must...", options:["Flip the inequality sign","Keep the sign the same","Remove the variable","Set the expression equal to zero"], answer:0},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"An open dot on a number line indicates that the endpoint is...", options:["Not included in the solution","Included in the solution","Always equal to zero","The only solution"], answer:0},
    ]},
   {subject:"Science", title:"Cell Structure and Organelle Functions", summary:"Identify the major organelles of plant and animal cells and explain their roles (SNC1W Biology strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Cell Structure and Organelle Functions", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Structure%20and%20Organelle%20Functions%20grade%209%20educational",
    quiz:[
      {q:"The organelle that controls cell activities and contains DNA is the...", options:["Nucleus","Mitochondria","Ribosome","Vacuole"], answer:0},
      {q:"Mitochondria are often called the 'powerhouse of the cell' because they...", options:["Produce energy (ATP) through cellular respiration","Store water","Build proteins","Control cell division"], answer:0},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Ribosomes are responsible for...", options:["Protein synthesis","Energy production","Photosynthesis","Cell division"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Natural Hazards and Geographic Risk", summary:"Examine how geographic location determines a region's exposure to natural hazards like earthquakes, floods, and volcanoes (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Natural Hazards and Geographic Risk", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Hazards%20and%20Geographic%20Risk%20grade%209%20educational",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["Tectonic plate boundaries","The centres of continents","Ocean surfaces only","Mountain peaks only"], answer:0},
      {q:"A flood plain is a geographic area that is...", options:["Prone to flooding because it lies beside a river or low-lying area","Always located near volcanoes","Found only in desert regions","Never at risk from natural hazards"], answer:0},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Comparing Print and Digital Media Texts", summary:"Compare how print and digital texts present information differently and consider the effects on the audience (ENL1W Strand C).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Comparing Print and Digital Media Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Print%20and%20Digital%20Media%20Texts%20grade%209%20educational",
    quiz:[
      {q:"One key difference between print and digital media is that digital texts can include...", options:["Hyperlinks and interactive multimedia","Only still images","Never include data","Longer paragraphs only"], answer:0},
      {q:"When comparing two texts on the same topic, a reader should consider...", options:["Purpose, audience, and how each text presents its evidence","Only which text is longer","Only which text was published first","The font choice alone"], answer:0},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Evaluating the credibility of both print and digital sources requires checking...", options:["The author's expertise, evidence provided, and publication source","Only the number of images","Only the length of the article","Only whether it is free to read"], answer:0},
    ]},
   {subject:"Math", title:"Expanding Using the Distributive Property", summary:"Apply the distributive property to expand algebraic expressions including binomial multiplication (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Expanding Using the Distributive Property", resourceUrl:"https://www.youtube.com/results?search_query=Expanding%20Using%20the%20Distributive%20Property%20grade%209%20educational",
    quiz:[
      {q:"Expand: 4(3x - 5)", options:["12x - 20","12x - 5","7x - 20","12x + 20"], answer:0},
      {q:"Expand: (x + 3)(x + 2)", options:["x² + 5x + 6","x² + 6x + 6","x² + 5x + 5","x² + 6"], answer:0},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"Expand: 3x(2x + 5)", options:["6x² + 15x","6x² + 5x","5x² + 15x","6x + 15x"], answer:0},
    ]},
   {subject:"Science", title:"Photosynthesis and Cellular Respiration Overview", summary:"Compare photosynthesis and cellular respiration as complementary processes that cycle energy and matter in living organisms (SNC1W).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Photosynthesis and Cellular Respiration Overview", resourceUrl:"https://www.youtube.com/results?search_query=Photosynthesis%20and%20Cellular%20Respiration%20Overview%20grade%209%20educational",
    quiz:[
      {q:"Photosynthesis converts light energy into...", options:["Chemical energy stored in glucose","Mechanical energy","Electrical energy","Sound energy"], answer:0},
      {q:"The raw materials for photosynthesis are...", options:["Carbon dioxide and water","Oxygen and glucose","Nitrogen and water","Carbon dioxide and oxygen"], answer:0},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Chloroplasts are the site of...", options:["Photosynthesis","Cellular respiration","Protein synthesis","Cell division"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Globalization and Local Economies", summary:"Examine how globalization — the increasing interconnectedness of world economies, cultures, and trade — affects local communities (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Globalization and Local Economies", resourceUrl:"https://www.youtube.com/results?search_query=Globalization%20and%20Local%20Economies%20grade%209%20educational",
    quiz:[
      {q:"Globalization refers to...", options:["The increasing interconnectedness of economies, cultures, and trade across the world","The isolation of national economies from each other","Only the spread of a single language worldwide","A type of local farming practice"], answer:0},
      {q:"One potential benefit of globalization for consumers is...", options:["Access to a wider variety of goods often at lower prices","Always higher prices for all products","Reduced variety in stores","No access to foreign-made goods"], answer:0},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Persuasive Speech Writing", summary:"Plan and write a persuasive speech using a clear position, evidence, rhetorical appeals, and a strong call to action (ENL1W Strand B/D).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Persuasive Speech Writing", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Speech%20Writing%20grade%209%20educational",
    quiz:[
      {q:"A persuasive speech should open with...", options:["A hook that grabs the audience's attention and states your position","A long list of unrelated facts","An apology for your opinion","A summary of the opposing view only"], answer:0},
      {q:"Ethos in a persuasive speech refers to...", options:["Establishing the speaker's credibility and trustworthiness","Appealing to the audience's emotions only","Using logic and statistics only","A type of sentence structure"], answer:0},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Acknowledging a counterargument in a speech and then refuting it...", options:["Strengthens the speaker's credibility by showing awareness of other views","Weakens the argument automatically","Should never be done","Replaces the need for evidence"], answer:0},
    ]},
   {subject:"Math", title:"Factoring Using the Greatest Common Factor", summary:"Factor algebraic expressions by identifying and extracting the greatest common factor (GCF) (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Factoring Using the Greatest Common Factor", resourceUrl:"https://www.youtube.com/results?search_query=Factoring%20Using%20the%20Greatest%20Common%20Factor%20grade%209%20educational",
    quiz:[
      {q:"What is the GCF of 12x² and 8x?", options:["4x","2x","8x","12x"], answer:0},
      {q:"Factor: 6x² + 9x", options:["3x(2x + 3)","3(2x² + 3x)","6x(x + 9)","9x(x + 6)"], answer:0},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"After factoring out the GCF, you can verify your answer by...", options:["Expanding (distributing) and checking you get the original expression","Dividing both terms by 2","Adding the terms together","Ignoring the check step"], answer:0},
    ]},
   {subject:"Science", title:"The Periodic Table — Families and Periodic Trends", summary:"Explore the organisation of the periodic table into groups and periods and identify key periodic trends in properties (SNC1W Chemistry strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: The Periodic Table — Families and Periodic Trends", resourceUrl:"https://www.youtube.com/results?search_query=The%20Periodic%20Table%20%E2%80%94%20Families%20and%20Periodic%20Trends%20grade%209%20educational",
    quiz:[
      {q:"Elements in the same group (column) of the periodic table have the same number of...", options:["Valence electrons","Protons","Neutrons","Isotopes"], answer:0},
      {q:"The noble gases (Group 18) are known for being...", options:["Largely unreactive because their outer electron shells are full","Highly reactive metals","Always liquid at room temperature","Radioactive always"], answer:0},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Halogens (Group 17) tend to...", options:["Gain one electron to form negative ions","Lose electrons to form positive ions","Be completely unreactive","Always exist as solids"], answer:0},
    ]},
   {subject:"SocialStudies", title:"World Climate Zones and Biomes", summary:"Identify the major climate zones and their associated biomes, and explain how latitude, elevation, and ocean currents shape climate (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: World Climate Zones and Biomes", resourceUrl:"https://www.youtube.com/results?search_query=World%20Climate%20Zones%20and%20Biomes%20grade%209%20educational",
    quiz:[
      {q:"The main factor that determines a region's climate zone is its...", options:["Latitude (distance from the equator)","Longitude only","Elevation above sea level alone","Proximity to cities"], answer:0},
      {q:"A tropical rainforest biome is characterized by...", options:["High rainfall and warm temperatures year-round near the equator","Cold temperatures and low rainfall","Seasonal drought and sparse vegetation","Permanently frozen ground"], answer:0},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Point of View and Unreliable Narrators", summary:"Distinguish between narrative points of view and analyze how an unreliable narrator affects the reader's interpretation of events (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Point of View and Unreliable Narrators", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%20and%20Unreliable%20Narrators%20grade%209%20educational",
    quiz:[
      {q:"A first-person narrator tells the story using...", options:["'I' and 'me,' giving a personal but limited perspective","'He,' 'she,' and 'they' for all characters","An omniscient all-knowing view","No perspective at all"], answer:0},
      {q:"A third-person omniscient narrator can...", options:["Access the thoughts and feelings of all characters","Only describe what one character sees","Never describe inner thoughts","Only describe setting"], answer:0},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Understanding point of view helps readers...", options:["Evaluate whose perspective shapes the story and what may be left out","Identify only the setting","Count the characters","Determine the page count"], answer:0},
    ]},
   {subject:"Math", title:"Difference of Squares and Perfect Square Trinomials (Intro)", summary:"Recognise and factor the difference of squares pattern and perfect square trinomials (MTH1W Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Difference of Squares and Perfect Square Trinomials (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Difference%20of%20Squares%20and%20Perfect%20Square%20Trinomials%20%28Intro%29%20grade%209%20educational",
    quiz:[
      {q:"The difference of squares pattern factors as a² - b² = ...", options:["(a+b)(a-b)","(a-b)²","(a+b)²","(a²+b²)"], answer:0},
      {q:"Factor: x² - 16", options:["(x+4)(x-4)","(x-4)²","(x+4)²","(x²-4)(x²+4)"], answer:0},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"Factor: 4x² - 9", options:["(2x+3)(2x-3)","(4x+3)(x-3)","(2x-3)²","(2x+9)(2x-9)"], answer:0},
    ]},
   {subject:"Science", title:"Ionic vs Covalent Bonding (Intro)", summary:"Distinguish between ionic bonds (electron transfer between metals and non-metals) and covalent bonds (electron sharing between non-metals) (SNC1W Chemistry strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Ionic vs Covalent Bonding (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Ionic%20vs%20Covalent%20Bonding%20%28Intro%29%20grade%209%20educational",
    quiz:[
      {q:"An ionic bond forms when...", options:["One atom transfers electrons to another, forming oppositely charged ions","Two atoms share electrons equally","Atoms lose all their protons","Neutrons are exchanged between atoms"], answer:0},
      {q:"Covalent bonds typically form between...", options:["Two non-metal atoms sharing electrons","A metal and a non-metal","Two metals","A proton and a neutron"], answer:0},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Ionic compounds tend to have...", options:["High melting points and conduct electricity when dissolved in water","Low melting points and never conduct electricity","The same properties as covalent compounds","No defined structure"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Global Water Resources and Access Issues", summary:"Examine the distribution of fresh water globally, the concept of water scarcity, and geographic factors affecting water access (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Global Water Resources and Access Issues", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Water%20Resources%20and%20Access%20Issues%20grade%209%20educational",
    quiz:[
      {q:"Approximately what percentage of Earth's water is fresh water?", options:["About 3%","About 50%","About 25%","About 70%"], answer:0},
      {q:"Water scarcity means that...", options:["A region lacks sufficient clean, accessible fresh water to meet its population's needs","A region has too much rain","Only ocean water is unavailable","Water scarcity never occurs in developed countries"], answer:0},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Week 3 review — mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Story Analysis, Media, Speech, and Narrators", summary:"Mixed review of theme and conflict, comparing media texts, persuasive speech, and point of view.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Review: Story Analysis, Media, Speech, and Narrators", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Story%20Analysis%2C%20Media%2C%20Speech%2C%20and%20Narrators%20grade%209%20educational",
    quiz:[
      {q:"The theme of a story is best described as...", options:["The underlying message about human experience","The list of characters","The opening sentence","The page count"], answer:0},
      {q:"A persuasive speech's 'call to action' asks the audience to...", options:["Do something specific in response to the argument","Forget the speech","Ask no questions","Read another speech"], answer:0},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Acknowledging a counterargument in a speech and refuting it...", options:["Strengthens the speaker's credibility","Weakens the argument always","Should never be done","Replaces evidence"], answer:0},
    ]},
   {subject:"Math", title:"Review: Inequalities, Distributive Property, GCF, and Factoring Patterns", summary:"Mixed review of inequalities on a number line, expanding with the distributive property, GCF factoring, and difference of squares.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Review: Inequalities, Distributive Property, GCF, and Factoring Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Inequalities%2C%20Distributive%20Property%2C%20GCF%2C%20and%20Factoring%20Patterns%20grade%209%20educational",
    quiz:[
      {q:"Solve: 3x + 1 > 10", options:["x > 3","x > 11","x < 3","x = 3"], answer:0},
      {q:"Expand: (x + 5)(x - 2)", options:["x² + 3x - 10","x² - 3x - 10","x² + 3x + 10","x² - 10"], answer:0},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"When dividing both sides of an inequality by a negative, the sign...", options:["Flips direction","Stays the same","Is removed","Becomes an equals sign"], answer:0},
    ]},
   {subject:"Science", title:"Review: Cells, Photosynthesis, Periodic Table, and Bonding", summary:"Mixed review of cell organelles, photosynthesis/respiration, periodic trends, and ionic vs covalent bonds.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Review: Cells, Photosynthesis, Periodic Table, and Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Photosynthesis%2C%20Periodic%20Table%2C%20and%20Bonding%20grade%209%20educational",
    quiz:[
      {q:"The organelle that controls cell activities and contains DNA is the...", options:["Nucleus","Mitochondria","Ribosome","Vacuole"], answer:0},
      {q:"Photosynthesis takes place in the...", options:["Chloroplast","Mitochondria","Nucleus","Ribosome"], answer:0},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"Cellular respiration breaks down glucose to release...", options:["Energy (ATP)","More glucose","Carbon dioxide only (no energy)","Water only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Natural Hazards, Globalization, Climate Zones, and Water", summary:"Mixed review of geographic risk, globalization, climate zones and biomes, and global water access.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Review: Natural Hazards, Globalization, Climate Zones, and Water", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Natural%20Hazards%2C%20Globalization%2C%20Climate%20Zones%2C%20and%20Water%20grade%209%20educational",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["Tectonic plate boundaries","The centre of continents","Ocean surfaces only","Mountain peaks only"], answer:0},
      {q:"One potential negative effect of globalization on a local economy is...", options:["Local industries losing business to cheaper foreign competitors","Always lower unemployment","Increased demand for local products","No impact on businesses"], answer:0},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary in Complex Texts: Using Context Clues", summary:"Use context clues (definition, example, contrast, inference) to determine the meaning of unfamiliar words in complex texts (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Vocabulary in Complex Texts: Using Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20in%20Complex%20Texts%3A%20Using%20Context%20Clues%20grade%209%20educational",
    quiz:[
      {q:"A definition context clue directly...", options:["Provides the meaning of a word right in the sentence or nearby","Only hints at meaning through contrast","Gives an example of the word in action","Requires a dictionary always"], answer:0},
      {q:"In the sentence 'She was laconic — rarely speaking more than a few words,' the context clue is...", options:["A definition clue following a dash","A contrast clue using 'but'","An example clue","No clue at all"], answer:0},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Building vocabulary through reading complex texts helps with...", options:["Comprehension, communication, and academic success across all subjects","Nothing beyond English class","Only spelling tests","Only creative writing"], answer:0},
    ]},
   {subject:"Math", title:"The Pythagorean Theorem and Applications", summary:"Apply the Pythagorean theorem (a² + b² = c²) to find missing side lengths in right triangles and solve real-world problems (MTH1W Geometry strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: The Pythagorean Theorem and Applications", resourceUrl:"https://www.youtube.com/results?search_query=The%20Pythagorean%20Theorem%20and%20Applications%20grade%209%20educational",
    quiz:[
      {q:"The Pythagorean theorem states that in a right triangle...", options:["a² + b² = c², where c is the hypotenuse","a + b = c","a × b = c²","c² - a² = b instead of b²"], answer:0},
      {q:"Find the hypotenuse of a right triangle with legs 3 and 4.", options:["5","7","6","√7"], answer:0},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"The Pythagorean theorem can be used in real life to...", options:["Find the length of a diagonal path, ramp, or structural support","Only work in mathematics classrooms","Determine temperature","Calculate speed only"], answer:0},
    ]},
   {subject:"Science", title:"Balancing Chemical Equations Practice", summary:"Practice balancing chemical equations by adjusting coefficients so that the number of each type of atom is equal on both sides (SNC1W Chemistry strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Balancing Chemical Equations Practice", resourceUrl:"https://www.youtube.com/results?search_query=Balancing%20Chemical%20Equations%20Practice%20grade%209%20educational",
    quiz:[
      {q:"When balancing a chemical equation, you may only change...", options:["The coefficients (numbers in front of formulas)","The subscripts inside chemical formulas","The names of the elements","The side of the equation the products are on"], answer:0},
      {q:"The Law of Conservation of Mass states that in a chemical reaction...", options:["Matter is neither created nor destroyed — atom counts must balance","New atoms can be created if needed","Some atoms can disappear","Mass always increases"], answer:0},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"A correctly balanced equation has equal numbers of each type of...", options:["Atom on both the reactant and product sides","Molecule on each side (molecules may differ from atoms)","Coefficients on each side","Compounds on each side"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Food Security and Agricultural Geography", summary:"Examine global patterns of food production and access, and the geographic factors that shape food security or insecurity (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Food Security and Agricultural Geography", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Security%20and%20Agricultural%20Geography%20grade%209%20educational",
    quiz:[
      {q:"Food security means that people have...", options:["Reliable access to sufficient, safe, and nutritious food","Unlimited farmland","No need for imported food","Food only from local sources"], answer:0},
      {q:"Which geographic factor most directly supports productive agriculture?", options:["Fertile soil, adequate rainfall, and a suitable climate","Cold temperatures and rocky terrain","Dense forest cover","High elevation alone"], answer:0},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Formal Report Writing Structure", summary:"Understand the conventions of a formal report: title, introduction, body sections with headings, conclusion, and references (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Formal Report Writing Structure", resourceUrl:"https://www.youtube.com/results?search_query=Formal%20Report%20Writing%20Structure%20grade%209%20educational",
    quiz:[
      {q:"Which section of a formal report introduces the topic and states the report's purpose?", options:["The introduction","The conclusion","The reference list","The table of contents"], answer:0},
      {q:"Headings in a formal report help readers...", options:["Navigate sections and understand the structure at a glance","Make the report look less formal","Replace paragraph transitions","Add colour to the document"], answer:0},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"A reference list or bibliography in a formal report is important because...", options:["It credits sources and allows readers to verify information","It adds length to the report","It replaces the need for a conclusion","It is optional in formal writing"], answer:0},
    ]},
   {subject:"Math", title:"Similar Triangles and Basic Trig Ratios", summary:"Use properties of similar triangles and introduce the sine, cosine, and tangent ratios to find unknown sides and angles in right triangles (MTH1W Geometry strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Similar Triangles and Basic Trig Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Similar%20Triangles%20and%20Basic%20Trig%20Ratios%20grade%209%20educational",
    quiz:[
      {q:"Two triangles are similar if...", options:["Their corresponding angles are equal and their sides are proportional","They have exactly the same side lengths","They share at least one side","They are both right triangles"], answer:0},
      {q:"In a right triangle, sin(θ) is defined as...", options:["Opposite ÷ Hypotenuse","Adjacent ÷ Hypotenuse","Opposite ÷ Adjacent","Hypotenuse ÷ Opposite"], answer:0},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"The mnemonic SOH-CAH-TOA helps you remember...", options:["The definitions of sine, cosine, and tangent in a right triangle","The quadratic formula","The order of operations","The names of triangle types"], answer:0},
    ]},
   {subject:"Science", title:"Types of Chemical Reactions", summary:"Classify chemical reactions as synthesis, decomposition, single displacement, or double displacement, and identify examples of each (SNC1W Chemistry strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Types of Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Chemical%20Reactions%20grade%209%20educational",
    quiz:[
      {q:"In a synthesis reaction...", options:["Two or more reactants combine to form a single product","A single compound breaks apart","One element replaces another in a compound","Two compounds exchange partners"], answer:0},
      {q:"In a decomposition reaction...", options:["A single compound breaks down into two or more simpler substances","Two substances join together","One element replaces another","Two ionic compounds swap ions"], answer:0},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Which of the following is an example of a synthesis reaction?", options:["2Mg + O₂ → 2MgO","2H₂O → 2H₂ + O₂","Fe + CuSO₄ → FeSO₄ + Cu","NaCl + AgNO₃ → AgCl + NaNO₃"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Transportation Networks and Trade Routes", summary:"Examine how transportation networks — roads, railways, ports, and air routes — shape trade patterns and regional economic development (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Transportation Networks and Trade Routes", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20Networks%20and%20Trade%20Routes%20grade%209%20educational",
    quiz:[
      {q:"Transportation networks are important to trade because they...", options:["Connect producers to markets, enabling the movement of goods and services","Have no effect on trade","Only matter for passenger travel","Only exist in wealthy countries"], answer:0},
      {q:"A hub port is a major port that...", options:["Acts as a central point for redistributing container shipping to other destinations","Only handles a single type of cargo","Is located only in landlocked regions","Has no connection to global trade"], answer:0},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Visual and Multimodal Texts", summary:"Critically analyze how visual elements (images, layout, colour, typography) in infographics and memes create meaning and influence the audience (ENL1W Strand C).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Analyzing Visual and Multimodal Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Visual%20and%20Multimodal%20Texts%20grade%209%20educational",
    quiz:[
      {q:"A multimodal text is one that combines...", options:["Two or more modes of communication, such as text, image, and sound","Only written words with no visuals","Only spoken language","Images with no text ever"], answer:0},
      {q:"In an infographic, colour is often used to...", options:["Organize information, highlight key data, and guide the reader's eye","Have no communicative purpose","Replace all written text","Make the infographic harder to read"], answer:0},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Layout and white space in a visual text affect...", options:["How the reader's attention is directed and how easy the text is to understand","Nothing about meaning","Only the printing cost","Only digital formats"], answer:0},
    ]},
   {subject:"Math", title:"Area and Perimeter of Composite 2D Shapes", summary:"Calculate the area and perimeter of composite shapes made from rectangles, triangles, circles, and semicircles (MTH1W Geometry strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Area and Perimeter of Composite 2D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20of%20Composite%202D%20Shapes%20grade%209%20educational",
    quiz:[
      {q:"A composite shape is made up of...", options:["Two or more basic geometric shapes combined","Only a single shape","Only circles","Shapes that cannot be measured"], answer:0},
      {q:"To find the area of a composite shape, you should...", options:["Divide it into simple shapes, find each area, then add (or subtract) them","Only estimate without calculating","Multiply all side lengths together","Use only the perimeter formula"], answer:0},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"The perimeter of a composite shape is found by...", options:["Adding the lengths of all outer edges (being careful not to include interior boundaries)","Only adding the longest sides","Multiplying all sides","Using only the area formula"], answer:0},
    ]},
   {subject:"Science", title:"Ohm's Law and Circuit Calculations", summary:"Apply Ohm's Law (V = IR) to calculate voltage, current, and resistance in simple circuits (SNC1W Physics/Electricity strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Ohm's Law and Circuit Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Ohm%27s%20Law%20and%20Circuit%20Calculations%20grade%209%20educational",
    quiz:[
      {q:"Ohm's Law states that V = IR, where V is voltage, I is current, and R is...", options:["Resistance","Rate","Radius","Reaction time"], answer:0},
      {q:"If a circuit has a voltage of 12 V and a resistance of 4 Ω, the current is...", options:["3 A","48 A","8 A","16 A"], answer:0},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Increasing the resistance in a circuit (while voltage stays constant) will...", options:["Decrease the current","Increase the current","Have no effect on the current","Increase the voltage"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Global Energy Resources and Consumption Patterns", summary:"Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Global Energy Resources and Consumption Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
    quiz:[
      {q:"Fossil fuels include...", options:["Coal, oil, and natural gas","Solar, wind, and hydro","Nuclear and geothermal","Biomass and tidal only"], answer:0},
      {q:"Renewable energy sources are those that...", options:["Are naturally replenished on a human timescale, such as solar and wind","Will run out in decades","Are always more expensive than fossil fuels","Only work in tropical climates"], answer:0},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Pronoun-Antecedent Agreement", summary:"Ensure pronouns agree with their antecedents in number and gender, including with indefinite pronouns and collective nouns (ENL1W Strand B — Grammar).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Pronoun-Antecedent Agreement", resourceUrl:"https://www.youtube.com/results?search_query=Pronoun-Antecedent%20Agreement%20grade%209%20educational",
    quiz:[
      {q:"The antecedent of a pronoun is...", options:["The noun the pronoun refers to or replaces","The verb in the sentence","The adjective describing the noun","The punctuation mark after the pronoun"], answer:0},
      {q:"Which sentence shows correct pronoun-antecedent agreement?", options:["Each student must bring their own pencil.","Each student must bring their own pencils and they is prepared.","The students brought its lunch.","Each student must bring his or her own pencil (both are acceptable forms)."], answer:3},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Using 'they/them' as a singular pronoun is now...", options:["Widely accepted in modern English for gender-neutral or non-binary reference","Never acceptable in any context","Only used for animals","A grammar error in all style guides"], answer:0},
    ]},
   {subject:"Math", title:"Surface Area and Volume of Prisms and Cylinders", summary:"Calculate the surface area and volume of rectangular prisms, triangular prisms, and cylinders using formulas (MTH1W Geometry strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Surface Area and Volume of Prisms and Cylinders", resourceUrl:"https://www.youtube.com/results?search_query=Surface%20Area%20and%20Volume%20of%20Prisms%20and%20Cylinders%20grade%209%20educational",
    quiz:[
      {q:"The volume of a rectangular prism is found using...", options:["V = length × width × height","V = 2(lw + lh + wh)","V = πr²h","V = base area only"], answer:0},
      {q:"The surface area of a rectangular prism is the sum of...", options:["The areas of all six faces","Only the top and bottom faces","Only the four side faces","Volume divided by height"], answer:0},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to distinguish surface area from volume?", options:["Surface area measures the outer covering; volume measures the space inside — they are used in different real-world applications","They are the same measurement","Surface area is always greater than volume","Volume is measured in square units"], answer:0},
    ]},
   {subject:"Science", title:"The Electromagnetic Spectrum", summary:"Describe the electromagnetic spectrum — from radio waves to gamma rays — and identify properties and everyday applications of each region (SNC1W Physics strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: The Electromagnetic Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=The%20Electromagnetic%20Spectrum%20grade%209%20educational",
    quiz:[
      {q:"The electromagnetic spectrum is arranged by...", options:["Frequency (and wavelength) — from lowest frequency/longest wavelength to highest frequency/shortest wavelength","Colour only","Speed through a vacuum (which varies greatly)","The year each type was discovered"], answer:0},
      {q:"Which type of electromagnetic radiation has the highest frequency and most energy?", options:["Gamma rays","Radio waves","Visible light","Microwaves"], answer:0},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"All electromagnetic waves travel through a vacuum at...", options:["The same speed — the speed of light (approximately 3 × 10⁸ m/s)","Different speeds depending on wavelength","Slower than sound","Speeds that depend on the medium only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Development Indicators: HDI and Literacy Rate (Intro)", summary:"Introduce development indicators such as the Human Development Index (HDI) and literacy rate as tools for comparing quality of life across countries (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Development Indicators: HDI and Literacy Rate (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Development%20Indicators%3A%20HDI%20and%20Literacy%20Rate%20%28Intro%29%20grade%209%20educational",
    quiz:[
      {q:"The Human Development Index (HDI) measures a country's development using...", options:["Life expectancy, education level, and income per person","Only GDP","Only population size","Only geographic area"], answer:0},
      {q:"A high literacy rate in a country generally indicates...", options:["A well-educated population with greater access to education","High levels of poverty","A very large population","A very small population"], answer:0},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Week 4 review — mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Vocabulary, Formal Reports, Visual Texts, and Pronouns", summary:"Mixed review of context clues, formal report structure, multimodal text analysis, and pronoun-antecedent agreement.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Review: Vocabulary, Formal Reports, Visual Texts, and Pronouns", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Vocabulary%2C%20Formal%20Reports%2C%20Visual%20Texts%2C%20and%20Pronouns%20grade%209%20educational",
    quiz:[
      {q:"A contrast context clue reveals meaning through...", options:["An opposing word or idea nearby","A direct definition","An example","A synonym in the same sentence"], answer:0},
      {q:"The introduction of a formal report should...", options:["State the topic and purpose of the report","List all sources","Give the final recommendation only","Be written after the conclusion"], answer:0},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Formal reports use a third-person tone because...", options:["The focus should be on the information, not the writer's personal feelings","First person is forbidden by law","Contractions are required","Third person is always less accurate"], answer:0},
    ]},
   {subject:"Math", title:"Review: Pythagorean Theorem, Similar Triangles, Trig Ratios, and Composite Shapes", summary:"Mixed review of right-triangle calculations, similarity, SOH-CAH-TOA, and composite area/volume.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Review: Pythagorean Theorem, Similar Triangles, Trig Ratios, and Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Pythagorean%20Theorem%2C%20Similar%20Triangles%2C%20Trig%20Ratios%2C%20and%20Composite%20Shapes%20grade%209%20educational",
    quiz:[
      {q:"In a right triangle with legs 5 and 12, the hypotenuse is...", options:["13","17","√7","10"], answer:0},
      {q:"sin(θ) in a right triangle equals...", options:["Opposite ÷ Hypotenuse","Adjacent ÷ Hypotenuse","Opposite ÷ Adjacent","Hypotenuse ÷ Opposite"], answer:0},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"Two triangles are similar if their corresponding angles are equal and their sides are...", options:["Proportional","Identical in length","All right angles","All 60°"], answer:0},
    ]},
   {subject:"Science", title:"Review: Balancing Equations, Reaction Types, Ohm's Law, and EM Spectrum", summary:"Mixed review of balancing equations, reaction classification, Ohm's Law calculations, and the electromagnetic spectrum.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Review: Balancing Equations, Reaction Types, Ohm's Law, and EM Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Balancing%20Equations%2C%20Reaction%20Types%2C%20Ohm%27s%20Law%2C%20and%20EM%20Spectrum%20grade%209%20educational",
    quiz:[
      {q:"When balancing chemical equations, you adjust...", options:["Coefficients only (not subscripts)","Subscripts only","Both coefficients and subscripts freely","The names of elements"], answer:0},
      {q:"A reaction where two compounds swap ion partners is a...", options:["Double displacement reaction","Synthesis reaction","Decomposition reaction","Single displacement reaction"], answer:0},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"In a synthesis reaction, two or more reactants combine to form...", options:["A single product","Multiple products","Only gases","Only solids"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Food Security, Transport Networks, Energy Resources, and Development Indicators", summary:"Mixed review of agricultural geography, transportation and trade, global energy, and HDI.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Review: Food Security, Transport Networks, Energy Resources, and Development Indicators", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Food%20Security%2C%20Transport%20Networks%2C%20Energy%20Resources%2C%20and%20Development%20Indicators%20grade%209%20educational",
    quiz:[
      {q:"Food security means people have...", options:["Reliable access to sufficient, safe, nutritious food","Unlimited local farmland","No need for food imports","Food only grown within 100 km"], answer:0},
      {q:"Landlocked countries face a trade disadvantage because...", options:["They lack direct sea access, increasing transport costs","They have no roads","They are always small countries","They have no natural resources"], answer:0},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Subject-Verb Agreement in Complex Sentences", summary:"Apply subject-verb agreement rules in sentences with compound subjects, intervening phrases, and indefinite pronouns (ENL1W Strand B — Grammar).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Subject-Verb Agreement in Complex Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Subject-Verb%20Agreement%20in%20Complex%20Sentences%20grade%209%20educational",
    quiz:[
      {q:"Which sentence is correct?", options:["The box of chocolates is on the table.","The box of chocolates are on the table.","The boxes of chocolate is on the table.","The box of chocolates were on the tables."], answer:0},
      {q:"Compound subjects joined by 'and' require a...", options:["Plural verb","Singular verb always","Verb that matches only the first subject","No verb"], answer:0},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"In the sentence 'The team of players is practising,' why is the verb singular?", options:["'Team' is the subject — a collective noun treated as a singular unit here","'Players' is the subject","'Practising' is always singular","Verbs after 'of' are always singular"], answer:0},
    ]},
   {subject:"Math", title:"Rate of Change and Direct Variation", summary:"Interpret rate of change as slope in context and distinguish direct variation (y = kx) from other linear relations (MTH1W Algebra/Linear Relations strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Rate of Change and Direct Variation", resourceUrl:"https://www.youtube.com/results?search_query=Rate%20of%20Change%20and%20Direct%20Variation%20grade%209%20educational",
    quiz:[
      {q:"Rate of change in a linear relation represents...", options:["How much the dependent variable changes for each unit increase in the independent variable (i.e., the slope)","The starting value of the relation","The y-intercept only","A constant that never changes"], answer:0},
      {q:"A direct variation has the form y = kx. Its graph always passes through...", options:["The origin (0, 0)","The point (1, 1) only","The y-axis at y = k","Any random point"], answer:0},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"The slope of a direct variation y = kx equals...", options:["k, the constant of variation","0","1 always","The y-intercept"], answer:0},
    ]},
   {subject:"Science", title:"Plate Tectonics and Continental Drift Evidence", summary:"Describe the theory of plate tectonics and evaluate the evidence for continental drift, including fossil records and coastline fit (SNC1W Earth Science strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Plate Tectonics and Continental Drift Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Plate%20Tectonics%20and%20Continental%20Drift%20Evidence%20grade%209%20educational",
    quiz:[
      {q:"The theory of continental drift, proposed by Alfred Wegener, suggests that...", options:["The continents were once joined in a supercontinent called Pangaea and have moved apart over millions of years","The continents have always been in their current positions","Continents move rapidly in human lifetimes","Only the ocean floors move, not the continents"], answer:0},
      {q:"One piece of evidence for continental drift is...", options:["Matching fossils of the same species found on continents that are now separated by oceans","The fact that all continents have the same climate","Identical languages across all continents","All rivers flow in the same direction"], answer:0},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"At a convergent plate boundary where one oceanic plate meets a continental plate...", options:["The denser oceanic plate subducts (sinks) beneath the continental plate, which can cause volcanic activity and earthquakes","The continental plate always sinks","The two plates merge into one","No mountains or volcanoes form"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Cultural Geography: Language and Religion Distribution", summary:"Examine the global distribution of major world languages and religions as geographic and cultural phenomena (CGC1W — factual and respectful treatment).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Cultural Geography: Language and Religion Distribution", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Geography%3A%20Language%20and%20Religion%20Distribution%20grade%209%20educational",
    quiz:[
      {q:"The study of how languages are distributed across the world is part of...", options:["Cultural geography","Physical geography only","Economic geography only","Political geography only"], answer:0},
      {q:"Mandarin Chinese is spoken by the largest number of native speakers globally. Its distribution is concentrated in...", options:["China and parts of Southeast Asia","Europe and South America","Sub-Saharan Africa","North America and Australia"], answer:0},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Analyzing Symbolism in a Poem", summary:"Identify and interpret symbols in poetry, and explain how imagery and figurative language build layers of meaning (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Analyzing Symbolism in a Poem", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Symbolism%20in%20a%20Poem%20grade%209%20educational",
    quiz:[
      {q:"In literature, a symbol is an object, person, or place that...", options:["Represents something beyond its literal meaning","Has only a literal, physical meaning","Is always described in a simile","Only appears in novels, not poetry"], answer:0},
      {q:"Imagery in a poem refers to...", options:["Descriptive language that appeals to the senses to create a mental picture","Only rhyme schemes","The length of each line","Only the title of the poem"], answer:0},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Why do poets use symbols rather than always stating their ideas directly?", options:["Symbols allow richer, multi-layered meaning and invite the reader to participate in creating meaning","Symbols make poems shorter","Symbols replace all other literary devices","Poets are required to use symbols by a rule"], answer:0},
    ]},
   {subject:"Math", title:"Simple vs Compound Interest", summary:"Calculate simple interest using I = Prt and compare it to compound interest to understand how investments and loans grow over time (MTH1W Financial Literacy strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Simple vs Compound Interest", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20vs%20Compound%20Interest%20grade%209%20educational",
    quiz:[
      {q:"The formula for simple interest is I = Prt, where P is principal, r is annual rate, and t is...", options:["Time in years","The total amount","The interest rate as a whole number","The number of payments"], answer:0},
      {q:"Calculate simple interest on $500 at 4% per year for 3 years.", options:["$60","$20","$500","$560"], answer:0},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"Why is understanding interest important in everyday financial life?", options:["It helps you make informed decisions about savings, loans, and credit cards","It has no practical application outside school","Only banks need to understand interest","Interest only applies to very large amounts of money"], answer:0},
    ]},
   {subject:"Science", title:"The Rock Cycle and Rock Types", summary:"Describe the three main rock types (igneous, sedimentary, metamorphic) and explain how rocks transform through the rock cycle (SNC1W Earth Science strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: The Rock Cycle and Rock Types", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20and%20Rock%20Types%20grade%209%20educational",
    quiz:[
      {q:"Igneous rocks form from...", options:["Cooling and solidifying magma or lava","Compressed sediment layers","Heat and pressure applied to existing rock","Dissolved minerals in water"], answer:0},
      {q:"Sedimentary rocks form from...", options:["Layers of sediment (sand, mud, shells) compressed and cemented over time","Cooling magma","Heat and pressure on metamorphic rocks","Volcanic lava only"], answer:0},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Which rock type would most likely contain fossils?", options:["Sedimentary rock","Igneous rock","Metamorphic rock","All rock types equally"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Migration Patterns and Causes (Push/Pull Factors)", summary:"Examine why people migrate — distinguishing push factors (reasons to leave) from pull factors (reasons to move to a destination) — and describe global migration patterns (CGC1W — factual).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Migration Patterns and Causes (Push/Pull Factors)", resourceUrl:"https://www.youtube.com/results?search_query=Migration%20Patterns%20and%20Causes%20%28Push%2FPull%20Factors%29%20grade%209%20educational",
    quiz:[
      {q:"A push factor in migration is something that...", options:["Motivates a person to leave their current location (e.g., lack of jobs, conflict, natural disaster)","Attracts a person to a destination","Only applies to international migration","Has no effect on migration decisions"], answer:0},
      {q:"A pull factor in migration is something that...", options:["Attracts a person to a new location (e.g., job opportunities, family, safety, better services)","Forces a person to leave their home","Only applies to internal migration within a country","Is always related to climate"], answer:0},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Understanding Satire and Parody", summary:"Define satire and parody, identify their targets and techniques, and analyze how they comment on society, culture, or human behaviour (ENL1W Strand A/C).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Understanding Satire and Parody", resourceUrl:"https://www.youtube.com/results?search_query=Understanding%20Satire%20and%20Parody%20grade%209%20educational",
    quiz:[
      {q:"Satire is a form of writing or media that uses...", options:["Humour, irony, or exaggeration to criticize or mock social, political, or human failings","Only straightforward praise of social institutions","Only factual reporting","Only children's humour with no critical intent"], answer:0},
      {q:"Parody specifically imitates...", options:["A particular work, genre, or creator's style in an exaggerated way for comic or critical effect","Current events without reference to any existing text","Only political speeches","Scientific research papers"], answer:0},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"What distinguishes satire from straightforward comedy?", options:["Satire has a critical or corrective social purpose behind the humour","Satire has no humour at all","Satire only uses puns","Comedy always has a social target while satire never does"], answer:0},
    ]},
   {subject:"Math", title:"Scatter Plots and Trend Lines", summary:"Create and interpret scatter plots, identify correlation (positive, negative, none), and draw a line of best fit to make predictions (MTH1W Data Literacy strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Scatter Plots and Trend Lines", resourceUrl:"https://www.youtube.com/results?search_query=Scatter%20Plots%20and%20Trend%20Lines%20grade%209%20educational",
    quiz:[
      {q:"A scatter plot is used to show...", options:["The relationship between two numerical variables","Only one variable at a time","A frequency of categorical data","Time series only"], answer:0},
      {q:"A positive correlation in a scatter plot means...", options:["As one variable increases, the other tends to increase as well","As one variable increases, the other decreases","There is no relationship between the variables","Both variables are always equal"], answer:0},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"An outlier in a scatter plot is a data point that...", options:["Falls far from the general trend of the other data","Is always the largest value","Is always the smallest value","Must be removed from the data set"], answer:0},
    ]},
   {subject:"Science", title:"Life Cycle of Stars and Types of Galaxies", summary:"Describe the stages in the life cycle of stars of different masses and identify types of galaxies in the universe (SNC1W Earth and Space Science strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Life Cycle of Stars and Types of Galaxies", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20Stars%20and%20Types%20of%20Galaxies%20grade%209%20educational",
    quiz:[
      {q:"Stars begin their lives in...", options:["Nebulae — clouds of gas and dust that collapse under gravity","Black holes","Galaxies' outer edges only","Supernovae explosions"], answer:0},
      {q:"Our Sun is currently in the main sequence stage, which means it is...", options:["Fusing hydrogen into helium in its core, in a stable phase that can last billions of years","About to explode as a supernova","A red giant","A white dwarf"], answer:0},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Elliptical galaxies are characterized by...", options:["An oval or spherical shape, generally older stars, and little active star formation","A flat disc with spiral arms","Highly irregular, asymmetric shapes","Always being smaller than spiral galaxies"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Geography of Resources and Political Tensions (General)", summary:"Examine how uneven distribution of natural resources can create geographic and political tensions between regions and nations, using general patterns and principles (CGC1W — balanced).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Geography of Resources and Political Tensions (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Resources%20and%20Political%20Tensions%20%28General%29%20grade%209%20educational",
    quiz:[
      {q:"Why can the uneven geographic distribution of resources lead to political tensions?", options:["Countries or regions that control key resources may have disproportionate economic and political power, creating imbalances","Resources are always evenly distributed so tensions rarely occur","Political tensions are never related to geography","Only military strength, not resources, causes political tensions"], answer:0},
      {q:"Water rights disputes between countries or regions typically arise because...", options:["Rivers and aquifers cross political borders and demand often exceeds supply in certain areas","Water is always evenly available everywhere","Only one country in the world faces water shortages","Water disputes only occur in deserts"], answer:0},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Close Reading and Annotation Strategies", summary:"Apply close reading strategies — annotating for main idea, key details, author's craft, and questions — to extract deep understanding from a complex text (ENL1W Strand A).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Close Reading and Annotation Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Close%20Reading%20and%20Annotation%20Strategies%20grade%209%20educational",
    quiz:[
      {q:"Close reading involves...", options:["Carefully examining a text in detail to understand not just what it says but how and why it is written that way","Only reading a text once quickly","Skipping unfamiliar words","Only identifying the main character"], answer:0},
      {q:"Annotation (marking up a text) is useful because...", options:["It helps you actively engage with the text, track ideas, and remember key points for later analysis","It damages the text and should never be done","It is only helpful for creative writing, not analysis","It replaces the need to re-read the text"], answer:0},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Re-reading a complex text multiple times, each time with a different focus (e.g., first for plot, then for theme, then for craft), is an example of...", options:["A structured close reading strategy","A sign that the text is too difficult","An inefficient use of reading time","Only something teachers need to do"], answer:0},
    ]},
   {subject:"Math", title:"Probability of Combined Events and Tree Diagrams", summary:"Calculate the probability of combined independent and dependent events and use tree diagrams to organize outcomes (MTH1W Probability strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Probability of Combined Events and Tree Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20of%20Combined%20Events%20and%20Tree%20Diagrams%20grade%209%20educational",
    quiz:[
      {q:"Two events are independent if the outcome of one...", options:["Does not affect the probability of the other","Always affects the other","Are always equally likely","Must occur at the same time"], answer:0},
      {q:"The probability of two independent events A and B both occurring is...", options:["P(A) × P(B)","P(A) + P(B)","P(A) - P(B)","P(A) ÷ P(B)"], answer:0},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"If P(A) = 1/2 and P(B) = 1/3, and A and B are independent, then P(A and B) = ...", options:["1/6","1/5","2/5","5/6"], answer:0},
    ]},
   {subject:"Science", title:"Renewable Energy Technologies and Engineering", summary:"Describe how solar, wind, hydroelectric, and geothermal technologies convert natural energy sources into electricity, and evaluate engineering trade-offs (SNC1W strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Renewable Energy Technologies and Engineering", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20Energy%20Technologies%20and%20Engineering%20grade%209%20educational",
    quiz:[
      {q:"Solar panels (photovoltaic cells) convert...", options:["Light energy from the sun directly into electrical energy","Wind energy into electricity","Thermal energy into mechanical energy","Chemical energy into light"], answer:0},
      {q:"Wind turbines generate electricity by using wind to...", options:["Turn blades connected to a generator","Heat water to create steam","Compress air into fuel","Split water molecules"], answer:0},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"A key engineering trade-off when siting a wind farm is...", options:["Choosing a location with sufficient consistent wind but balancing this against impacts on wildlife, aesthetics, and nearby communities","Ensuring zero electricity output in all seasons","Using only fossil fuels as a backup","Ignoring the local geography entirely"], answer:0},
    ]},
   {subject:"SocialStudies", title:"GPS, GIS, and Remote Sensing Technology", summary:"Describe how GPS, Geographic Information Systems (GIS), and remote sensing (satellites, aerial photography) are used as geographic tools for mapping, analysis, and decision-making (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: GPS, GIS, and Remote Sensing Technology", resourceUrl:"https://www.youtube.com/results?search_query=GPS%2C%20GIS%2C%20and%20Remote%20Sensing%20Technology%20grade%209%20educational",
    quiz:[
      {q:"GPS (Global Positioning System) works by...", options:["Receiving signals from a network of satellites to calculate precise location coordinates anywhere on Earth","Using internet cell towers only","Reading paper maps electronically","Measuring air pressure to determine elevation only"], answer:0},
      {q:"GIS (Geographic Information System) is a tool that allows geographers to...", options:["Store, analyze, and display spatial data in layers to reveal patterns and relationships","Only create paper maps","Track the weather exclusively","Store non-geographic data only"], answer:0},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", summary:"Mixed review of agreement rules, poetry analysis, satire/parody, and annotation strategies.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Subject-Verb%20Agreement%2C%20Symbolism%2C%20Satire%2C%20and%20Close%20Reading%20grade%209%20educational",
    quiz:[
      {q:"Which sentence is correct?", options:["Everyone is responsible for their own work.","Everyone are responsible for their own work.","Everyone were responsible for their own work.","Everyones is responsible for their own work."], answer:0},
      {q:"In poetry, a symbol represents...", options:["Something beyond its literal meaning","Only its literal physical object","A rhyme scheme","The title of the poem"], answer:0},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Compound subjects joined by 'and' take a...", options:["Plural verb","Singular verb always","Verb that matches the last subject","No verb at all"], answer:0},
    ]},
   {subject:"Math", title:"Review: Rate of Change, Simple/Compound Interest, Scatter Plots, and Probability", summary:"Mixed review of direct variation, interest calculations, scatter plot interpretation, and combined probability.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Review: Rate of Change, Simple/Compound Interest, Scatter Plots, and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Rate%20of%20Change%2C%20Simple%2FCompound%20Interest%2C%20Scatter%20Plots%2C%20and%20Probability%20grade%209%20educational",
    quiz:[
      {q:"In a direct variation y = kx, the graph passes through...", options:["The origin (0, 0)","The point (k, 0)","The y-axis at y = k","Any arbitrary point"], answer:0},
      {q:"Simple interest on $400 at 5% per year for 2 years is...", options:["$40","$20","$80","$400"], answer:0},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"With compound interest, the total grows faster than simple interest because...", options:["Interest is calculated on both principal and previously earned interest","Interest is calculated only on the principal every period","The rate changes over time","Time is measured differently"], answer:0},
    ]},
   {subject:"Science", title:"Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", summary:"Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
    quiz:[
      {q:"Continental drift theory proposes that continents were once joined in a supercontinent called...", options:["Pangaea","Gondwana only","Laurasia only","Atlantis"], answer:0},
      {q:"Which rock type would most likely contain fossils?", options:["Sedimentary","Igneous","Metamorphic","None — rocks cannot contain fossils"], answer:0},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"At a convergent boundary where oceanic meets continental plate, the oceanic plate...", options:["Subducts beneath the continental plate","Rises above the continental plate","Stays stationary","Merges with the continental plate"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", summary:"Mixed review of language/religion distribution, push/pull migration factors, resource tensions, and GPS/GIS tools.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cultural%20Geography%2C%20Migration%2C%20Resources%2FTensions%2C%20and%20Geospatial%20Tech%20grade%209%20educational",
    quiz:[
      {q:"A lingua franca is a language used as...", options:["A common means of communication between people with different native languages","The most common native language in the world","Only a written language, never spoken","Only used in the United Nations"], answer:0},
      {q:"A push factor in migration motivates a person to...", options:["Leave their current location","Move to a specific attractive destination","Stay permanently in their home","Increase their income without moving"], answer:0},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Compare-and-Contrast Essay Writing", summary:"Plan and write a compare-and-contrast essay using either a block or point-by-point structure, with clear transitions and a thesis that conveys the significance of the comparison (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Compare-and-Contrast Essay Writing", resourceUrl:"https://www.youtube.com/results?search_query=Compare-and-Contrast%20Essay%20Writing%20grade%209%20educational",
    quiz:[
      {q:"In a block structure compare-and-contrast essay, you...", options:["Discuss all points about Subject A first, then all points about Subject B","Alternate point by point between the two subjects in each paragraph","Only discuss similarities, never differences","Only discuss differences, never similarities"], answer:0},
      {q:"In a point-by-point structure, each paragraph...", options:["Focuses on one criterion and compares both subjects on that criterion","Covers only one subject fully","Covers only similarities","Has no structure requirement"], answer:0},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"The purpose of comparing and contrasting two subjects in an essay is typically to...", options:["Arrive at a meaningful insight or argument that neither subject alone would produce","Simply list similarities and differences with no conclusion","Prove that one subject is always better","Confuse the reader with too many details"], answer:0},
    ]},
   {subject:"Math", title:"Midpoint and Length of a Line Segment", summary:"Calculate the midpoint and length (distance) of a line segment given two endpoints using formulas, and apply these in coordinate geometry contexts (MTH1W Analytic Geometry strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Midpoint and Length of a Line Segment", resourceUrl:"https://www.youtube.com/results?search_query=Midpoint%20and%20Length%20of%20a%20Line%20Segment%20grade%209%20educational",
    quiz:[
      {q:"The midpoint of a line segment with endpoints (x₁, y₁) and (x₂, y₂) is...", options:["((x₁+x₂)/2, (y₁+y₂)/2)","(x₁-x₂, y₁-y₂)","(x₁×x₂, y₁×y₂)","(x₁+y₁, x₂+y₂)"], answer:0},
      {q:"Find the midpoint of the segment with endpoints (2, 4) and (8, 10).", options:["(5, 7)","(6, 8)","(3, 5)","(10, 14)"], answer:0},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"The distance formula is derived from...", options:["The Pythagorean theorem, treating the segment as the hypotenuse of a right triangle","The slope formula","The area formula for a triangle","Direct variation"], answer:0},
    ]},
   {subject:"Science", title:"DNA Structure and Heredity Basics", summary:"Describe the structure of DNA (double helix, base pairs) and explain how genetic information is inherited from parents (SNC1W Biology strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: DNA Structure and Heredity Basics", resourceUrl:"https://www.youtube.com/results?search_query=DNA%20Structure%20and%20Heredity%20Basics%20grade%209%20educational",
    quiz:[
      {q:"DNA is organized in a shape called a...", options:["Double helix","Single strand only","Triple helix","Flat circular ring"], answer:0},
      {q:"The four nitrogen bases in DNA are adenine, thymine, guanine, and cytosine. Adenine always pairs with...", options:["Thymine","Guanine","Cytosine","Itself"], answer:0},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Humans have 46 chromosomes in most cells, organized into...", options:["23 pairs, with one chromosome in each pair inherited from each parent","23 single chromosomes only","46 pairs","46 chromosomes all from one parent"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Conservation Areas and Protected Ecosystems", summary:"Examine the purpose and geographic distribution of protected areas (national parks, biosphere reserves, marine protected areas) and their role in conserving biodiversity (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Conservation Areas and Protected Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20Areas%20and%20Protected%20Ecosystems%20grade%209%20educational",
    quiz:[
      {q:"A national park is a protected area established primarily to...", options:["Preserve natural ecosystems and biodiversity for current and future generations","Maximize resource extraction","Allow unlimited industrial development","Only provide recreation with no conservation goal"], answer:0},
      {q:"A biosphere reserve is a UNESCO-designated area that...", options:["Balances conservation of biodiversity with sustainable human use in surrounding zones","Bans all human activity within its boundary","Only protects marine environments","Only exists in tropical rainforests"], answer:0},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Audience and Purpose in Writing", summary:"Analyze how audience and purpose shape every choice a writer makes — from tone and vocabulary to format and evidence — and apply this to your own writing (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Audience and Purpose in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Audience%20and%20Purpose%20in%20Writing%20grade%209%20educational",
    quiz:[
      {q:"Identifying your audience before writing helps you choose...", options:["Appropriate vocabulary, tone, examples, and level of detail for that reader","Only the font size","Only the page margins","The number of paragraphs regardless of content"], answer:0},
      {q:"The purpose of a piece of writing might be to...", options:["Inform, persuade, entertain, or reflect — or a combination","Only use the longest words possible","Only reach exactly 500 words","Never use the first person"], answer:0},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"If the purpose of a text is to reflect, the writer typically...", options:["Explores personal thoughts, feelings, and what they have learned from an experience","Provides only objective data","Argues a controversial position","Lists facts without any personal connection"], answer:0},
    ]},
   {subject:"Math", title:"Solving Proportions and Rates", summary:"Set up and solve proportions and use unit rates to solve real-world problems involving ratios and comparisons (MTH1W Number Sense/Proportional Reasoning strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Solving Proportions and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Proportions%20and%20Rates%20grade%209%20educational",
    quiz:[
      {q:"A proportion states that two ratios are...", options:["Equal","Added together","Subtracted","Multiplied"], answer:0},
      {q:"Solve the proportion: 3/4 = x/12", options:["x = 9","x = 4","x = 6","x = 16"], answer:0},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"Proportional reasoning is useful in real life for tasks such as...", options:["Scaling recipes, converting units, calculating discounts, and reading maps","Only pure mathematics with no applications","Only currency exchange","Only speed calculations"], answer:0},
    ]},
   {subject:"Science", title:"The Carbon and Nitrogen Cycles", summary:"Describe how carbon and nitrogen cycle through living organisms and the environment, and explain the impact of human activity on these cycles (SNC1W Biology/Environment strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: The Carbon and Nitrogen Cycles", resourceUrl:"https://www.youtube.com/results?search_query=The%20Carbon%20and%20Nitrogen%20Cycles%20grade%209%20educational",
    quiz:[
      {q:"The carbon cycle describes how carbon moves between...", options:["The atmosphere, living organisms, oceans, and Earth's crust through processes like photosynthesis, respiration, and decomposition","Only plants and animals","Only the atmosphere and the ocean","Only living organisms, with no role for rocks or water"], answer:0},
      {q:"Human burning of fossil fuels affects the carbon cycle by...", options:["Releasing stored carbon back into the atmosphere as CO₂, increasing greenhouse gas concentrations","Removing CO₂ from the atmosphere","Having no measurable effect on the cycle","Only affecting ocean carbon, not the atmosphere"], answer:0},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Agricultural use of nitrogen-based fertilizers can disrupt the nitrogen cycle by...", options:["Causing nitrogen runoff into waterways, leading to eutrophication (excessive algae growth that depletes oxygen)","Always improving water quality","Having no effect on aquatic ecosystems","Removing nitrogen from the atmosphere permanently"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Geography of Public Health and Disease Spread (General)", summary:"Examine how geographic factors — climate, density, mobility, access to healthcare — influence the spread of disease and public health outcomes (CGC1W — general and factual).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Geography of Public Health and Disease Spread (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Public%20Health%20and%20Disease%20Spread%20%28General%29%20grade%209%20educational",
    quiz:[
      {q:"Geographic factors that can influence how a disease spreads include...", options:["Population density, transportation networks, climate, and access to healthcare","Only the political system of a country","Only the temperature of a region","Only urban land use with no connection to healthcare access"], answer:0},
      {q:"A pandemic is defined as a disease outbreak that...", options:["Spreads across multiple countries or continents, affecting a large number of people globally","Only affects one city","Only affects wildlife","Only occurs in tropical climates"], answer:0},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Revising for Clarity and Conciseness", summary:"Apply revision strategies to eliminate wordiness, awkward phrasing, and redundancy, and to ensure every sentence clearly communicates its intended meaning (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Revising for Clarity and Conciseness", resourceUrl:"https://www.youtube.com/results?search_query=Revising%20for%20Clarity%20and%20Conciseness%20grade%209%20educational",
    quiz:[
      {q:"Concise writing means...", options:["Expressing ideas clearly using as few words as necessary — no unnecessary filler","Using as many words as possible to fill space","Only writing one-sentence paragraphs","Avoiding all descriptive language"], answer:0},
      {q:"Which revision improves clarity and conciseness? Original: 'Due to the fact that it was raining, we decided to go inside.'", options:["'Because it was raining, we went inside.'","'The rain caused us to make the decision that we should go inside the building.'","'We went inside.' (removing all reason)","'Due to rain, a decision was made by us to proceed inside.'"], answer:0},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"When revising, reading your writing aloud helps you...", options:["Hear awkward phrasing, run-on sentences, and unclear passages that are hard to spot silently","Memorize the essay","Increase the word count","Check only spelling errors"], answer:0},
    ]},
   {subject:"Math", title:"Unit Rates in Real-World Contexts", summary:"Calculate and apply unit rates (cost per item, speed, pay per hour) to compare options and solve practical problems (MTH1W Number Sense/Proportional Reasoning strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Unit Rates in Real-World Contexts", resourceUrl:"https://www.youtube.com/results?search_query=Unit%20Rates%20in%20Real-World%20Contexts%20grade%209%20educational",
    quiz:[
      {q:"To find a unit rate, divide the quantity by...", options:["1 unit of the comparison measure (so the denominator becomes 1)","The numerator","The total cost","The number of categories"], answer:0},
      {q:"Store A sells 5 apples for $3.00. Store B sells 8 apples for $4.40. Which has the better unit price?", options:["Store B ($0.55 per apple vs. $0.60 per apple at Store A)","Store A","They are identical","Cannot be determined"], answer:0},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"A car travels 390 km on 30 L of gas. Its fuel efficiency as a unit rate is...", options:["13 km/L","10 km/L","30 km/L","390 km/L"], answer:0},
    ]},
   {subject:"Science", title:"Pollution Types and Environmental Effects", summary:"Identify major types of pollution (air, water, soil, noise, light) and describe their sources, mechanisms, and effects on ecosystems and human health (SNC1W Environment strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Pollution Types and Environmental Effects", resourceUrl:"https://www.youtube.com/results?search_query=Pollution%20Types%20and%20Environmental%20Effects%20grade%209%20educational",
    quiz:[
      {q:"Acid rain is primarily caused by...", options:["Sulfur dioxide and nitrogen oxides from burning fossil fuels reacting with water vapour in the atmosphere","Volcanic activity alone with no human contribution","Natural forest fires only","Evaporation of ocean water"], answer:0},
      {q:"Eutrophication in lakes and rivers is caused by...", options:["Excess nutrients (especially nitrogen and phosphorus from fertilizer runoff) causing algal blooms that deplete oxygen","Too little sunlight reaching the water","Very cold water temperatures","Only industrial chemical discharge"], answer:0},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Bioaccumulation refers to...", options:["The build-up of toxic substances in an organism's tissue over time, becoming more concentrated at higher levels of a food chain","Toxins being removed by digestion","A type of water filtration","A natural process that reduces pollution"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Circular Economy and Waste Management Geography", summary:"Describe the principles of the circular economy (reduce, reuse, recycle, recover) and examine the geographic dimensions of waste generation and management (CGC1W).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Circular Economy and Waste Management Geography", resourceUrl:"https://www.youtube.com/results?search_query=Circular%20Economy%20and%20Waste%20Management%20Geography%20grade%209%20educational",
    quiz:[
      {q:"A circular economy differs from a linear economy ('take, make, dispose') in that it aims to...", options:["Keep materials and products in use for as long as possible by reducing waste and recovering resources","Extract and dispose of resources as quickly as possible","Only recycle plastics, not other materials","Have no economic activity"], answer:0},
      {q:"E-waste (discarded electronic devices) is a growing geographic issue because...", options:["It often contains toxic materials and is disproportionately shipped to lower-income countries for informal processing, creating health hazards","It is always safely recycled in the country of origin","It has no toxic components","It only affects wealthy countries"], answer:0},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Structuring an Argument with Counter-Arguments", summary:"Build a well-structured argument that acknowledges and refutes counter-arguments (concession and rebuttal), strengthening the overall case (ENL1W Strand B).",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Structuring an Argument with Counter-Arguments", resourceUrl:"https://www.youtube.com/results?search_query=Structuring%20an%20Argument%20with%20Counter-Arguments%20grade%209%20educational",
    quiz:[
      {q:"A counter-argument is...", options:["An opposing view to the argument being made in the essay","Another supporting point for the same argument","A type of transition word","Only used in speeches, not essays"], answer:0},
      {q:"A concession in an argument is when the writer...", options:["Acknowledges that the opposing view has some merit before going on to refute it","Completely abandons their own argument","Ignores the opposition entirely","Ends the essay early"], answer:0},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"The structure 'Although some argue that [X], [your claim] because [evidence and reasoning]' is a template for...", options:["Integrating a concession and rebuttal smoothly into a sentence or paragraph","Only informal writing","Only spoken debate","Starting a narrative story"], answer:0},
    ]},
   {subject:"Math", title:"Integer and Fraction Operations Applied to Algebra", summary:"Apply operations with integers and fractions within algebraic expressions and equations, including solving equations that contain fractions (MTH1W Number Sense/Algebra strand).",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Integer and Fraction Operations Applied to Algebra", resourceUrl:"https://www.youtube.com/results?search_query=Integer%20and%20Fraction%20Operations%20Applied%20to%20Algebra%20grade%209%20educational",
    quiz:[
      {q:"Solve: x/3 = 5", options:["x = 15","x = 5/3","x = 8","x = 2"], answer:0},
      {q:"Simplify: (1/2)x + (1/4)x", options:["(3/4)x","(1/6)x","x","(2/6)x"], answer:0},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 2x - (1/2) = (3/2)", options:["x = 1","x = 2","x = 1/2","x = 3"], answer:0},
    ]},
   {subject:"Science", title:"Experimental Design and Scientific Method Review", summary:"Apply the steps of the scientific method to design a controlled experiment, identifying variables, hypothesis, controls, and how to analyze results (SNC1W Science Practices strand).",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Experimental Design and Scientific Method Review", resourceUrl:"https://www.youtube.com/results?search_query=Experimental%20Design%20and%20Scientific%20Method%20Review%20grade%209%20educational",
    quiz:[
      {q:"A hypothesis is...", options:["A testable prediction about the outcome of an experiment, based on prior knowledge or observation","A proven scientific fact","The final conclusion of an experiment","A list of materials needed"], answer:0},
      {q:"The independent variable in an experiment is...", options:["The variable the experimenter deliberately changes to observe its effect","The variable that is measured as the outcome","A variable that is kept constant","The control group"], answer:0},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it important to repeat an experiment multiple times?", options:["To check whether results are consistent and reduce the impact of random error, increasing reliability","One trial is always sufficient for a valid conclusion","Repetition only matters in chemistry, not other sciences","To fill time during the experiment period"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Geographic Inquiry Project Design (Capstone Skill)", summary:"Apply the geographic inquiry process to design a mini-project: identify a geographic question, select appropriate data sources and tools, plan an investigation, and outline how to communicate findings (CGC1W capstone).",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Geographic Inquiry Project Design (Capstone Skill)", resourceUrl:"https://www.youtube.com/results?search_query=Geographic%20Inquiry%20Project%20Design%20%28Capstone%20Skill%29%20grade%209%20educational",
    quiz:[
      {q:"The first step in a geographic inquiry project is to...", options:["Formulate a clear, focused geographic question that can be investigated with evidence","Collect all data before forming a question","Write the final report before gathering evidence","Choose a presentation format before identifying a topic"], answer:0},
      {q:"Primary geographic data sources a student might collect include...", options:["Field observations, surveys, photographs, and GPS measurements they conduct themselves","Only textbook content","Only government statistics published online","Only information from encyclopedias"], answer:0},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Final Review — mixed questions from Days 26–29.", subjects:[
   {subject:"Language", title:"Final Review: Compare/Contrast, Audience, Revising, and Argument Structure", summary:"Mixed review of essay structures, audience/purpose, revision strategies, and integrating counter-arguments.",
-   resourceLabel:"TVO Learn: ENL1W English", resourceUrl:"https://tvolearn.com/products/enl1w-english",
+   resourceLabel:"YouTube: Final Review: Compare/Contrast, Audience, Revising, and Argument Structure", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Compare%2FContrast%2C%20Audience%2C%20Revising%2C%20and%20Argument%20Structure%20grade%209%20educational",
    quiz:[
      {q:"In a point-by-point compare-and-contrast essay, each paragraph focuses on...", options:["One criterion and compares both subjects on it","All points about one subject only","Only similarities between the subjects","The conclusion only"], answer:0},
      {q:"Identifying your audience before writing helps you choose...", options:["Appropriate vocabulary, tone, and format for that reader","Only the page length","Only the font size","Whether to use a pen or pencil"], answer:0},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"A rebuttal explains why the counter-argument is...", options:["Less convincing or flawed despite its apparent merits","Completely correct","Not relevant to mention","The same as the writer's own view"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Coordinate Geometry, Rates, Fractions in Algebra, and Probability", summary:"Mixed review of midpoint and distance, unit rates, proportions, fraction equations, and combined probability.",
-   resourceLabel:"TVO Learn: MTH1W Mathematics", resourceUrl:"https://tvolearn.com/products/mth1w-mathematics",
+   resourceLabel:"YouTube: Final Review: Coordinate Geometry, Rates, Fractions in Algebra, and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Rates%2C%20Fractions%20in%20Algebra%2C%20and%20Probability%20grade%209%20educational",
    quiz:[
      {q:"The midpoint of the segment from (0, 2) to (6, 8) is...", options:["(3, 5)","(6, 10)","(3, 6)","(0, 8)"], answer:0},
      {q:"The distance from (1, 1) to (4, 5) is...", options:["5","4","3","√7"], answer:0},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"P(A) = 1/3 and P(B) = 1/4, independent. P(A and B) = ...", options:["1/12","1/7","7/12","4/3"], answer:0},
    ]},
   {subject:"Science", title:"Final Review: DNA, Carbon/Nitrogen Cycles, Pollution, and Scientific Method", summary:"Mixed review of heredity, biogeochemical cycles, pollution types, and experimental design.",
-   resourceLabel:"TVO Learn: SNC1W Science", resourceUrl:"https://tvolearn.com/products/snc1w-science",
+   resourceLabel:"YouTube: Final Review: DNA, Carbon/Nitrogen Cycles, Pollution, and Scientific Method", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20DNA%2C%20Carbon%2FNitrogen%20Cycles%2C%20Pollution%2C%20and%20Scientific%20Method%20grade%209%20educational",
    quiz:[
      {q:"Genes are segments of DNA that carry instructions for...", options:["Making specific proteins and determining traits","Storing water in cells","Producing energy directly","Cell division only"], answer:0},
      {q:"Human burning of fossil fuels affects the carbon cycle by...", options:["Releasing stored carbon as CO₂, increasing greenhouse gas levels","Removing CO₂ from the atmosphere","Having no measurable effect","Only affecting ocean carbon"], answer:0},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Bioaccumulation means toxic substances build up...", options:["In organisms' tissues, becoming more concentrated at higher levels of a food chain","Only in water, never in organisms","In the atmosphere only","At the base of a food chain only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Conservation, Public Health Geography, Circular Economy, and Inquiry Design", summary:"Mixed review of protected areas, disease geography, waste management, and geographic inquiry project design.",
-   resourceLabel:"Ontario Curriculum: CGC1W Expectations", resourceUrl:"https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-social-science/courses/cgc1w",
+   resourceLabel:"YouTube: Final Review: Conservation, Public Health Geography, Circular Economy, and Inquiry Design", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Conservation%2C%20Public%20Health%20Geography%2C%20Circular%20Economy%2C%20and%20Inquiry%20Design%20grade%209%20educational",
    quiz:[
      {q:"National parks are established primarily to...", options:["Preserve natural ecosystems and biodiversity for current and future generations","Maximize resource extraction","Allow unlimited development","Only provide recreation with no conservation goal"], answer:0},
      {q:"High population density in cities can accelerate disease spread because...", options:["People are in closer contact more often, making transmission easier","Dense areas always have better healthcare","Only rural areas have infectious disease risk","Density has no connection to disease transmission"], answer:0},

@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Parts of Speech", summary:"Grade 4 Language strand: nouns name people/places/things, verbs show actions, adjectives describe nouns, adverbs describe verbs.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Parts of Speech", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20Speech%20grade%204%20educational",
    quiz:[
      {q:"A noun names a person, place, or ___.", options:["action","thing","description","conjunction"], answer:1},
      {q:"Which word is a verb in: The quick dog ran?", options:["The","quick","dog","ran"], answer:3},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an adverb?", options:["dog","blue","quickly","house"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication Facts to 10×10", summary:"Grade 4 Number strand: students recall multiplication facts to 10×10 fluently and use them to solve problems.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Multiplication Facts to 10×10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20to%2010%C3%9710%20grade%204%20educational",
    quiz:[
      {q:"7 × 8 = ?", options:["48","54","56","64"], answer:2},
      {q:"6 × 9 = ?", options:["48","54","56","63"], answer:1},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"8 × 6 = ?", options:["42","46","48","54"], answer:2}
    ]},
   {subject:"Science", title:"Habitats and Communities", summary:"Grade 4 Science Life Systems strand: a habitat is where organisms live; a community is all the organisms sharing a habitat and interacting.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Habitats and Communities", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20and%20Communities%20grade%204%20educational",
    quiz:[
      {q:"A habitat provides food, water, shelter, and ___.", options:["money","space","television","electricity"], answer:1},
      {q:"A community includes ___.", options:["only plants","only animals","all living things in an area","only predators"], answer:2},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"A forest habitat includes trees, soil, water, and ___.", options:["buildings","roads","animals and plants that live there","factories"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilizations Overview", summary:"Grade 4 Social Studies Heritage strand: ancient civilizations developed organized societies with government, art, writing, and technology.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Ancient Civilizations Overview", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilizations%20Overview%20grade%204%20educational",
    quiz:[
      {q:"An ancient civilization is ___.", options:["a modern city","a society from thousands of years ago","a type of government","a geography term"], answer:1},
      {q:"Which of these is NOT an ancient civilization?", options:["Egypt","Greece","Rome","Canada (modern)"], answer:3},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Sentence Types", summary:"Grade 4 Language strand: the four sentence types are declarative (statement), interrogative (question), imperative (command), and exclamatory.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Sentence Types", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Types%20grade%204%20educational",
    quiz:[
      {q:"A declarative sentence ___.", options:["asks a question","gives a command","makes a statement","shows surprise"], answer:2},
      {q:"An interrogative sentence ends with a ___.", options:["period","exclamation mark","question mark","comma"], answer:2},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"'Close the door!' is a ___ sentence.", options:["declarative","interrogative","imperative","exclamatory"], answer:2}
    ]},
   {subject:"Math", title:"Division Basics", summary:"Grade 4 Number strand: division is sharing equally or grouping. Students divide with dividends to 100 using multiplication facts.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Division Basics", resourceUrl:"https://www.youtube.com/results?search_query=Division%20Basics%20grade%204%20educational",
    quiz:[
      {q:"35 ÷ 7 = ?", options:["4","5","6","7"], answer:1},
      {q:"48 ÷ 6 = ?", options:["7","8","9","6"], answer:1},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"If 8 × 7 = 56, then 56 ÷ 8 = ?", options:["6","7","8","9"], answer:1}
    ]},
   {subject:"Science", title:"Food Chains and Webs", summary:"Grade 4 Science Life Systems: a food chain shows energy flow from producer to consumer. A food web shows interconnected food chains.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Food Chains and Webs", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20and%20Webs%20grade%204%20educational",
    quiz:[
      {q:"Producers in a food chain are ___.", options:["animals that eat plants","plants that make their own food","carnivores","decomposers"], answer:1},
      {q:"A herbivore is an animal that eats ___.", options:["only meat","only plants","both plants and meat","nothing"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"A decomposer ___.", options:["eats only plants","eats only animals","breaks down dead matter and recycles nutrients","makes its own food"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Ancient Egypt", summary:"Grade 4 Social Studies: Ancient Egypt flourished along the Nile River, developing writing (hieroglyphics), monumental architecture, and complex government.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Ancient Egypt", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Egypt%20grade%204%20educational",
    quiz:[
      {q:"Ancient Egypt was located in ___.", options:["Asia","Europe","Africa","South America"], answer:2},
      {q:"The Nile River was important because ___.", options:["it was the longest river","it provided fertile soil and water for farming","it separated Egypt from enemies","it had gold"], answer:1},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Synonyms and Antonyms", summary:"Grade 4 Language strand: synonyms are words with similar meanings; antonyms have opposite meanings. Using them enriches vocabulary and writing.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Synonyms and Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20and%20Antonyms%20grade%204%20educational",
    quiz:[
      {q:"A synonym for 'happy' is ___.", options:["sad","joyful","angry","tired"], answer:1},
      {q:"An antonym for 'ancient' is ___.", options:["old","historic","modern","past"], answer:2},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"Using synonyms in writing helps to ___.", options:["confuse the reader","avoid repetition and add variety","shorten writing","change the topic"], answer:1}
    ]},
   {subject:"Math", title:"2-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 2-digit numbers by 1-digit numbers using the distributive property and place value.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: 2-Digit × 1-Digit Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=2-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
    quiz:[
      {q:"23 × 4 = ?", options:["82","92","72","102"], answer:1},
      {q:"45 × 3 = ?", options:["125","135","145","115"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Which is correct: 58 × 3 = ?", options:["164","174","154","184"], answer:1}
    ]},
   {subject:"Science", title:"Adaptations", summary:"Grade 4 Science Life Systems: adaptations are physical or behavioural features that help organisms survive in their habitat.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Adaptations", resourceUrl:"https://www.youtube.com/results?search_query=Adaptations%20grade%204%20educational",
    quiz:[
      {q:"An adaptation is ___.", options:["a type of habitat","a feature that helps an organism survive","a food chain stage","a community interaction"], answer:1},
      {q:"A polar bear's white fur is an adaptation that helps it ___.", options:["attract mates","camouflage in snowy environments","swim faster","stay warmer in summer"], answer:1},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Camouflage is an adaptation that helps animals ___.", options:["run faster","stay hidden from predators or prey","find water","digest food better"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ancient Greece", summary:"Grade 4 Social Studies: Ancient Greece developed democracy, philosophy, the Olympics, and architecture that influenced the Western world.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Ancient Greece", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Greece%20grade%204%20educational",
    quiz:[
      {q:"Ancient Greece was located in ___.", options:["Africa","Asia","Southern Europe","North America"], answer:2},
      {q:"Democracy was developed in ___.", options:["Ancient Egypt","Ancient Rome","Ancient China","Ancient Greece (Athens)"], answer:3},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Prefixes and Suffixes", summary:"Grade 4 Language strand: a prefix is added before a root word to change its meaning; a suffix is added after. Examples: un-, re-, -ful, -less.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Prefixes and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%20and%20Suffixes%20grade%204%20educational",
    quiz:[
      {q:"What does the prefix 'un-' mean?", options:["again","before","not","after"], answer:2},
      {q:"What does 'unhappy' mean?", options:["very happy","not happy","happy again","before happy"], answer:1},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"What does 'redo' mean?", options:["not do","do before","do again","do after"], answer:2}
    ]},
   {subject:"Math", title:"Introduction to Long Division", summary:"Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Introduction to Long Division", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Long%20Division%20grade%204%20educational",
    quiz:[
      {q:"In division, the number being divided is the ___.", options:["divisor","quotient","remainder","dividend"], answer:3},
      {q:"In division, the number dividing is the ___.", options:["dividend","quotient","remainder","divisor"], answer:3},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"A remainder in division is ___.", options:["the answer","how many are left over","the divisor","the quotient"], answer:1}
    ]},
   {subject:"Science", title:"Biodiversity", summary:"Grade 4 Science Life Systems: biodiversity means the variety of living organisms in an ecosystem. Greater biodiversity usually means a healthier ecosystem.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20grade%204%20educational",
    quiz:[
      {q:"Biodiversity means ___.", options:["only one type of organism","the variety of living organisms in an area","the number of plants only","the size of an ecosystem"], answer:1},
      {q:"Greater biodiversity usually means ___.", options:["a less stable ecosystem","a healthier, more stable ecosystem","fewer species","only large animals"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"What threatens biodiversity?", options:["Too much rain","Habitat destruction, pollution, and invasive species","More trees","Clean water"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ancient Rome", summary:"Grade 4 Social Studies: Ancient Rome built a vast empire, developing law, engineering, and governance that influenced modern Western civilization.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Ancient Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Rome%20grade%204%20educational",
    quiz:[
      {q:"Ancient Rome was centred in what is now ___.", options:["Spain","France","Italy","Greece"], answer:2},
      {q:"The Roman Republic had a system of ___.", options:["absolute monarchy","representative government with a Senate","complete democracy","religious rule"], answer:1},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Reading: Main Idea and Supporting Details", summary:"Grade 4 Reading strand: the main idea is what a text is mostly about. Supporting details give more information and evidence for the main idea.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Main Idea and Supporting Details", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Main%20Idea%20and%20Supporting%20Details%20grade%204%20educational",
    quiz:[
      {q:"The main idea is ___.", options:["a small detail","the topic sentence only","what the entire text is mostly about","the last sentence"], answer:2},
      {q:"Supporting details ___.", options:["are unrelated to the main idea","explain or prove the main idea","are always at the beginning","are more important than the main idea"], answer:1},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a main idea sentence?", options:["The cat was orange.","She walked to the store.","Recycling has many benefits for the environment.","He ate lunch at noon."], answer:2}
    ]},
   {subject:"Math", title:"Fractions: Equal Parts", summary:"Grade 4 Number strand: a fraction represents equal parts of a whole. The numerator shows how many parts are selected; the denominator shows total equal parts.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Fractions: Equal Parts", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20Parts%20grade%204%20educational",
    quiz:[
      {q:"In the fraction 3/4, the denominator is ___.", options:["3","4","7","1"], answer:1},
      {q:"In the fraction 3/4, the numerator is ___.", options:["3","4","7","1"], answer:0},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"The denominator in a fraction tells you ___.", options:["how many parts you have","the total number of equal parts","the size of each part","whether the fraction is big"], answer:1}
    ]},
   {subject:"Science", title:"Human Impact on Ecosystems", summary:"Grade 4 Science Life Systems: human activities such as deforestation, pollution, and urbanization negatively affect ecosystems; conservation actions help protect them.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Human Impact on Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Impact%20on%20Ecosystems%20grade%204%20educational",
    quiz:[
      {q:"Which human activity HARMS ecosystems?", options:["Planting trees","Creating nature reserves","Dumping waste in rivers","Composting"], answer:2},
      {q:"Deforestation means ___.", options:["planting forests","cutting down forests","protecting forests","studying forests"], answer:1},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"What can individuals do to reduce environmental impact?", options:["Use more plastic","Reduce, reuse, recycle and conserve energy","Drive more cars","Cut down more trees"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples of North America", summary:"Grade 4 Social Studies: Indigenous peoples of North America include many diverse nations, each with unique cultures, languages, and governance systems.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Indigenous Peoples of North America", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20of%20North%20America%20grade%204%20educational",
    quiz:[
      {q:"Indigenous peoples of North America ___.", options:["arrived recently","have lived here for thousands of years","all speak the same language","are a single unified group"], answer:1},
      {q:"There are ___ Indigenous cultures in North America.", options:["only 1","only 2 or 3","many hundreds of diverse nations","only 5"], answer:2},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Reading: Inference", summary:"Grade 4 Reading strand: inference means using evidence from the text plus your own knowledge to understand something not directly stated.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Inference", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Inference%20grade%204%20educational",
    quiz:[
      {q:"An inference is ___.", options:["directly stated in the text","a guess with no evidence","a conclusion drawn from evidence in the text plus prior knowledge","the main idea"], answer:2},
      {q:"What clues help you make an inference?", options:["Only pictures","Text evidence plus what you already know","Random guessing","The book cover only"], answer:1},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"After making an inference, a good reader ___.", options:["Ignores it","Reads on to confirm or revise the inference","Tells others","Stops reading"], answer:1}
    ]},
   {subject:"Math", title:"Comparing Fractions", summary:"Grade 4 Number strand: to compare fractions with the same denominator, compare numerators. To compare different denominators, find equivalent fractions.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Comparing Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Fractions%20grade%204%20educational",
    quiz:[
      {q:"Which is greater: 3/5 or 1/5?", options:["1/5","3/5","Equal","Cannot tell"], answer:1},
      {q:"Which fraction is closest to 1 (whole)?", options:["1/4","2/4","3/4","0/4"], answer:2},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Which is the largest fraction?", options:["2/3","1/3","1/6","5/6"], answer:3}
    ]},
   {subject:"Science", title:"Rocks and Minerals", summary:"Grade 4 Science Earth strand: rocks are made of minerals. The three rock types are igneous, sedimentary, and metamorphic, each formed by different processes.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Rocks and Minerals", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Minerals%20grade%204%20educational",
    quiz:[
      {q:"The three types of rocks are igneous, sedimentary, and ___.", options:["volcanic","metamorphic","crystal","fossil"], answer:1},
      {q:"Igneous rock forms from ___.", options:["compressed sediment","plant material","cooled magma or lava","other rocks under pressure"], answer:2},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Fossils are most often found in ___.", options:["igneous rock","metamorphic rock","sedimentary rock","granite"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Early Canadian History", summary:"Grade 4 Social Studies: Canada's early history includes Indigenous peoples, European exploration, New France, and British colonization.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Early Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Canadian%20History%20grade%204%20educational",
    quiz:[
      {q:"Who were the first people to live in what is now Canada?", options:["French settlers","British settlers","Indigenous peoples","American explorers"], answer:2},
      {q:"New France was a colony established by ___.", options:["England","France","Spain","Portugal"], answer:1},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Writing: Paragraphs", summary:"Grade 4 Writing strand: a well-organized paragraph has a topic sentence, supporting details, and a concluding sentence. All sentences relate to one main idea.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%204%20educational",
    quiz:[
      {q:"The topic sentence in a paragraph ___.", options:["gives a detail","ends the paragraph","states the main idea of the paragraph","is unrelated to the other sentences"], answer:2},
      {q:"Supporting sentences in a paragraph ___.", options:["introduce new topics","give details, reasons, or examples that support the topic sentence","end the paragraph","are optional"], answer:1},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"Which would make a good topic sentence for a paragraph about dogs?", options:["Dogs are brown.","Dogs can run.","Dogs make excellent pets for many reasons.","My dog is named Rex."], answer:2}
    ]},
   {subject:"Math", title:"Adding Fractions with Same Denominator", summary:"Grade 4 Number strand: to add fractions with the same denominator, add the numerators and keep the denominator the same.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Adding Fractions with Same Denominator", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20Fractions%20with%20Same%20Denominator%20grade%204%20educational",
    quiz:[
      {q:"1/5 + 2/5 = ?", options:["2/10","3/5","3/10","1/5"], answer:1},
      {q:"2/7 + 3/7 = ?", options:["5/14","5/7","6/7","1/7"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"1/4 + 2/4 = ?", options:["3/4","3/8","2/4","1/2"], answer:0}
    ]},
   {subject:"Science", title:"Rock Cycle", summary:"Grade 4 Science Earth strand: rocks cycle continuously between igneous, sedimentary, and metamorphic forms through geological processes.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Rock Cycle", resourceUrl:"https://www.youtube.com/results?search_query=Rock%20Cycle%20grade%204%20educational",
    quiz:[
      {q:"What drives the rock cycle?", options:["The moon's gravity","Heat and pressure from Earth's interior, and weathering at the surface","Wind and rain only","Only volcanic eruptions"], answer:1},
      {q:"Weathering and erosion break rocks into ___.", options:["magma","sediment","crystals","lava"], answer:1},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"The rock cycle shows that rocks ___.", options:["never change","are always igneous","can be transformed from one type to another over time","only come from volcanoes"], answer:2}
    ]},
   {subject:"SocialStudies", title:"European Explorers", summary:"Grade 4 Social Studies: European explorers from the 1400s–1600s sailed to North America, changing the world and affecting Indigenous peoples significantly.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: European Explorers", resourceUrl:"https://www.youtube.com/results?search_query=European%20Explorers%20grade%204%20educational",
    quiz:[
      {q:"Why did Europeans explore the world in the 1400s–1600s?", options:["They were lost","They sought new trade routes and resources","They were looking for Canada specifically","They wanted to meet Indigenous peoples"], answer:1},
      {q:"Christopher Columbus (1492) sailed for ___.", options:["England","France","Portugal","Spain"], answer:3},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Writing: Descriptive Writing", summary:"Grade 4 Writing strand: descriptive writing uses sensory details (sight, sound, smell, touch, taste) and vivid language to create a clear picture for the reader.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Descriptive Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Descriptive%20Writing%20grade%204%20educational",
    quiz:[
      {q:"Descriptive writing uses ___.", options:["only facts and numbers","sensory details and vivid language","only dialogue","only action verbs"], answer:1},
      {q:"Which is a more descriptive sentence?", options:["The flower was nice.","The flower was red.","The velvety crimson rose filled the air with a sweet perfume.","I saw a flower."], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Which word is more vivid?", options:["happy","okay","fine","ecstatic"], answer:3}
    ]},
   {subject:"Math", title:"Decimals: Tenths", summary:"Grade 4 Number strand: a decimal is another way to write a fraction. Tenths represent parts of a whole divided into 10 equal parts (e.g., 0.3 = 3/10).",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Decimals: Tenths", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Tenths%20grade%204%20educational",
    quiz:[
      {q:"0.7 means ___.", options:["7 ones","7 hundredths","7 tenths","70 ones"], answer:2},
      {q:"Which decimal equals 3/10?", options:["0.03","3.0","0.3","30.0"], answer:2},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"Which is less than 0.5?", options:["0.6","0.8","0.3","0.9"], answer:2}
    ]},
   {subject:"Science", title:"Soil Formation", summary:"Grade 4 Science Earth strand: soil forms over thousands of years by weathering of rock and addition of organic matter. It has layers called horizons.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Soil Formation", resourceUrl:"https://www.youtube.com/results?search_query=Soil%20Formation%20grade%204%20educational",
    quiz:[
      {q:"Soil forms from ___.", options:["only sand","only plants","weathered rock and organic matter","water alone"], answer:2},
      {q:"The top layer of soil is ___.", options:["bedrock","parent material","subsoil","topsoil (humus-rich)"], answer:3},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"What does humus in soil come from?", options:["Rocks only","Decayed plants and animals","Water","Sand and gravel"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Government: Democracy and Monarchy", summary:"Grade 4 Social Studies: governments organize society and make laws. A democracy gives citizens a voice; a monarchy is led by a king or queen.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Government: Democracy and Monarchy", resourceUrl:"https://www.youtube.com/results?search_query=Government%3A%20Democracy%20and%20Monarchy%20grade%204%20educational",
    quiz:[
      {q:"In a democracy, leaders are ___.", options:["inherited through family","appointed by religious leaders","chosen by the citizens through voting","selected by the military"], answer:2},
      {q:"Canada is a ___.", options:["republic","absolute monarchy","constitutional monarchy and parliamentary democracy","dictatorship"], answer:2},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Writing: Persuasive Writing", summary:"Grade 4 Writing strand: persuasive writing argues for a position using reasons, evidence, and a call to action. It has a clear opinion statement.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Persuasive Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Persuasive%20Writing%20grade%204%20educational",
    quiz:[
      {q:"The purpose of persuasive writing is to ___.", options:["tell a story","describe something","convince the reader to agree or take action","explain how to do something"], answer:2},
      {q:"A persuasive text should include ___.", options:["a clear opinion, reasons, and evidence","only opinions with no evidence","only facts with no opinion","a fictional story"], answer:0},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"A call to action at the end of a persuasive text asks the reader to ___.", options:["stop reading","do something or change their view","summarize what they read","find more information"], answer:1}
    ]},
   {subject:"Math", title:"Decimals: Hundredths", summary:"Grade 4 Number strand: hundredths represent parts of a whole divided into 100 equal parts. 0.23 = 23/100 = 2 tenths + 3 hundredths.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Decimals: Hundredths", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Hundredths%20grade%204%20educational",
    quiz:[
      {q:"0.47 means ___.", options:["47 tenths","47 hundredths","4 tenths 7 ones","47 ones"], answer:1},
      {q:"Which decimal equals 15/100?", options:["1.5","0.015","0.15","15.0"], answer:2},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Which is greater: 0.3 or 0.30?", options:["0.3","0.30","Equal — they are the same","Cannot compare"], answer:2}
    ]},
   {subject:"Science", title:"Properties of Light: Reflection", summary:"Grade 4 Science Energy strand: light travels in straight lines and reflects off surfaces. The angle of incidence equals the angle of reflection.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Properties of Light: Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Reflection%20grade%204%20educational",
    quiz:[
      {q:"Light travels in ___.", options:["curves","circles","straight lines","zigzags"], answer:2},
      {q:"Reflection occurs when light ___.", options:["is absorbed by a surface","bends as it passes through","bounces off a surface","disappears into an object"], answer:2},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Why does a mirror show your reflection?", options:["It glows","It is transparent","Its smooth surface reflects light at the same angle it hits","It absorbs light"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Trade and Commerce in History", summary:"Grade 4 Social Studies: trade is the exchange of goods and services. Ancient and early modern civilizations developed trade routes that spread culture and ideas.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Trade and Commerce in History", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Commerce%20in%20History%20grade%204%20educational",
    quiz:[
      {q:"Trade is the exchange of ___.", options:["soldiers","goods and services","land only","animals only"], answer:1},
      {q:"The Silk Road connected ___.", options:["North and South America","Africa and Australia","Europe, the Middle East, and Asia","Canada and the USA"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Spelling: ie/ei Words", summary:"Grade 4 Language strand: the 'i before e except after c' rule helps spell many words, but has exceptions. Students apply this pattern in context.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Spelling: ie/ei Words", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%3A%20ie%2Fei%20Words%20grade%204%20educational",
    quiz:[
      {q:"Which spelling is correct?", options:["recieve","recieve","receive","receve"], answer:2},
      {q:"'I before E except after C' means in the word BELIEVE you write ___.", options:["ei","ie","e only","i only"], answer:1},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"Which word follows the 'i before e except after c' rule?", options:["their","weird","believe","neither"], answer:2}
    ]},
   {subject:"Math", title:"Money: Making Change", summary:"Grade 4 Number strand: students calculate change by subtracting the price from the amount paid, using coins and bills up to $20.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Money: Making Change", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20grade%204%20educational",
    quiz:[
      {q:"An item costs $3.75. You pay $5.00. Your change is ___.", options:["$1.25","$1.75","$2.25","$1.00"], answer:0},
      {q:"An item costs $12.49. You pay $15.00. Your change is ___.", options:["$2.41","$2.51","$3.51","$2.61"], answer:1},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"You have $20. You buy items for $14.37. Change = ?", options:["$5.63","$6.63","$5.37","$6.37"], answer:0}
    ]},
   {subject:"Science", title:"Properties of Light: Refraction", summary:"Grade 4 Science Energy strand: refraction is the bending of light as it passes from one medium to another (e.g., from air to water).",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Properties of Light: Refraction", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Refraction%20grade%204%20educational",
    quiz:[
      {q:"Refraction is the ___ of light.", options:["speeding up","slowing down","bending","absorption"], answer:2},
      {q:"Refraction occurs when light passes from one ___ to another.", options:["colour","direction","medium (material)","source"], answer:2},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"A rainbow is an example of ___.", options:["only reflection","only absorption","refraction and dispersion of sunlight through water droplets","diffraction only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Human Rights", summary:"Grade 4 Social Studies: human rights are basic rights all people deserve. The Universal Declaration of Human Rights (UDHR, 1948) protects these rights globally.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Human Rights", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Rights%20grade%204%20educational",
    quiz:[
      {q:"Human rights are rights that ___.", options:["only wealthy people have","all people have equally, regardless of background","only adults have","only citizens have"], answer:1},
      {q:"The Universal Declaration of Human Rights was adopted in ___.", options:["1776","1867","1948","2000"], answer:2},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Grammar: Adverbs", summary:"Grade 4 Language strand: adverbs modify verbs, adjectives, or other adverbs. They tell how, when, where, or to what degree something happens.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Grammar: Adverbs", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20grade%204%20educational",
    quiz:[
      {q:"An adverb modifies a ___.", options:["noun only","verb, adjective, or another adverb","pronoun only","preposition only"], answer:1},
      {q:"Which word is an adverb in: She spoke softly?", options:["She","spoke","softly","(no adverb)"], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Many adverbs end in ___.", options:["–er","–ing","–ly","–tion"], answer:2}
    ]},
   {subject:"Math", title:"Patterns: Numeric and Geometric", summary:"Grade 4 Algebra and Patterning strand: numeric patterns follow a mathematical rule; geometric patterns involve shapes. Students identify rules and extend patterns.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Patterns: Numeric and Geometric", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Numeric%20and%20Geometric%20grade%204%20educational",
    quiz:[
      {q:"What is the rule? 3, 6, 9, 12...", options:["add 2","add 3","add 4","multiply by 2"], answer:1},
      {q:"What comes next? 1, 2, 4, 8, 16, ___", options:["18","24","32","20"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a geometric pattern?", options:["2,4,6,8","triangle, square, triangle, square","red, blue, green, red","A,B,C,A,B,C"], answer:1}
    ]},
   {subject:"Science", title:"Sound: Vibration and Frequency", summary:"Grade 4 Science Energy strand: sounds are made by vibrations. Frequency determines pitch — higher frequency = higher pitch. Amplitude determines volume.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Sound: Vibration and Frequency", resourceUrl:"https://www.youtube.com/results?search_query=Sound%3A%20Vibration%20and%20Frequency%20grade%204%20educational",
    quiz:[
      {q:"Sound is caused by ___.", options:["light waves","electrical signals","vibrations","magnetic fields"], answer:2},
      {q:"Frequency refers to ___.", options:["how loud a sound is","how many vibrations per second (determines pitch)","how far sound travels","the speed of light"], answer:1},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"In which medium does sound travel fastest?", options:["Vacuum (space)","Air","Water","Solid materials (like steel)"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Canadian Geography: Provinces and Territories", summary:"Grade 4 Social Studies: Canada has 10 provinces and 3 territories. Each has a capital city and distinct geographic features.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Canadian Geography: Provinces and Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Geography%3A%20Provinces%20and%20Territories%20grade%204%20educational",
    quiz:[
      {q:"How many provinces does Canada have?", options:["8","9","10","12"], answer:2},
      {q:"How many territories does Canada have?", options:["1","2","3","4"], answer:2},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Vocabulary: Context Clues", summary:"Grade 4 Language strand: context clues are words and phrases near an unknown word that help you determine its meaning without a dictionary.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Vocabulary: Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%204%20educational",
    quiz:[
      {q:"Context clues are ___.", options:["definitions found in the glossary","words and ideas near an unknown word that suggest its meaning","only synonyms","only antonyms"], answer:1},
      {q:"Which type of context clue gives a definition within the text?", options:["Synonym clue","Restatement clue: 'X, which means...'","Antonym clue","Inference clue"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy helps most with a word you do not know?", options:["Ignore it","Read the surrounding sentences for clues","Skip to the next chapter","Ask someone immediately"], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Angles", summary:"Grade 4 Geometry strand: an angle is formed by two rays with a common endpoint. A right angle = 90°, acute angle < 90°, obtuse angle > 90°.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Geometry: Angles", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20grade%204%20educational",
    quiz:[
      {q:"A right angle measures exactly ___.", options:["45°","60°","90°","180°"], answer:2},
      {q:"An acute angle measures ___.", options:["exactly 90°","more than 90°","less than 90°","180°"], answer:2},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"Which tool measures angles?", options:["Ruler","Compass","Protractor","Scale"], answer:2}
    ]},
   {subject:"Science", title:"Pulleys and Gears", summary:"Grade 4 Science Energy strand: pulleys and gears are simple machines that redirect or change force. Gears can speed up or slow down motion and change direction.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Pulleys and Gears", resourceUrl:"https://www.youtube.com/results?search_query=Pulleys%20and%20Gears%20grade%204%20educational",
    quiz:[
      {q:"A pulley is used to ___.", options:["generate electricity","make objects glow","lift or move loads by redirecting force","increase temperature"], answer:2},
      {q:"In a fixed pulley, the force needed to lift a load ___.", options:["doubles","stays the same (only direction changes)","halves","triples"], answer:1},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"A larger gear turning a smaller gear makes the smaller gear rotate ___.", options:["slower","at the same speed","faster","backwards only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Ontario Geography", summary:"Grade 4 Social Studies: Ontario is Canada's most populous province with diverse geography including the Great Lakes, Canadian Shield, and Great Lakes–St. Lawrence Lowlands.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Ontario Geography", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%20Geography%20grade%204%20educational",
    quiz:[
      {q:"Ontario borders how many of the Great Lakes?", options:["2","3","4","5"], answer:2},
      {q:"The Canadian Shield in Ontario is characterized by ___.", options:["flat prairies","ancient rock, forests, and lakes","mountain ranges","dry desert"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Compare and Contrast", summary:"Grade 4 Reading strand: comparing shows how two things are alike; contrasting shows how they differ. Signal words: both, similarly, however, but, in contrast.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Compare%20and%20Contrast%20grade%204%20educational",
    quiz:[
      {q:"Comparing means finding how things are ___.", options:["different","the same or similar","unrelated","bigger"], answer:1},
      {q:"Contrasting means finding how things are ___.", options:["the same","similar","different","related"], answer:2},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Which text type often uses comparison and contrast?", options:["A recipe","A poem","A report about two animals","A personal diary"], answer:2}
    ]},
   {subject:"Math", title:"Area and Perimeter", summary:"Grade 4 Measurement strand: perimeter is the distance around a shape; area is the space inside. Area of a rectangle = length × width; perimeter = 2(l + w).",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Area and Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%204%20educational",
    quiz:[
      {q:"Perimeter is the ___.", options:["space inside a shape","distance around the outside of a shape","weight of a shape","height of a shape"], answer:1},
      {q:"Area is measured in ___.", options:["linear units (cm)","square units (cm²)","cubic units (cm³)","grams"], answer:1},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"Area of a square with side 7 cm = ?", options:["28 cm²","49 cm²","14 cm²","21 cm²"], answer:1}
    ]},
   {subject:"Science", title:"Electricity: Static and Current", summary:"Grade 4 Science Energy strand: static electricity is a build-up of charge; current electricity is a flow of electrons through a conductor.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Electricity: Static and Current", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20grade%204%20educational",
    quiz:[
      {q:"Static electricity is caused by ___.", options:["a flow of electrons in a circuit","a build-up of electric charge on a surface","burning fuel","magnetism"], answer:1},
      {q:"Current electricity flows through ___.", options:["insulators","a vacuum","conductors in a circuit","non-metals only"], answer:2},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of static electricity?", options:["Turning on a light bulb","A lightning bolt and rubbing a balloon on hair","Using a toaster","Charging a phone"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Maps: Physical Features", summary:"Grade 4 Social Studies: physical maps show natural features like mountains, rivers, lakes, and plains. They use colour and symbols to represent terrain.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Maps: Physical Features", resourceUrl:"https://www.youtube.com/results?search_query=Maps%3A%20Physical%20Features%20grade%204%20educational",
    quiz:[
      {q:"A physical map shows ___.", options:["roads and cities","political boundaries","natural features like mountains and rivers","population density"], answer:2},
      {q:"On most physical maps, blue represents ___.", options:["land","water (rivers, lakes, oceans)","mountains","grasslands"], answer:1},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Similes", summary:"Grade 4 Language strand: a simile compares two unlike things using 'like' or 'as'. Example: 'brave as a lion,' 'runs like the wind'.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Figurative Language: Similes", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Similes%20grade%204%20educational",
    quiz:[
      {q:"A simile compares two things using ___.", options:["and/but","is/was","like or as","metaphor words"], answer:2},
      {q:"Which is a simile?", options:["The car is a beast.","Time flies.","She ran like the wind.","The moon smiled."], answer:2},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT a simile?", options:["white as snow","quiet as a mouse","The thunder roared","cold as ice"], answer:2}
    ]},
   {subject:"Math", title:"Metric Measurement: Length", summary:"Grade 4 Measurement strand: the metric system uses kilometres (km), metres (m), centimetres (cm), and millimetres (mm). 1 m = 100 cm; 1 km = 1000 m.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Metric Measurement: Length", resourceUrl:"https://www.youtube.com/results?search_query=Metric%20Measurement%3A%20Length%20grade%204%20educational",
    quiz:[
      {q:"1 metre = ___ centimetres.", options:["10","100","1000","1"], answer:1},
      {q:"1 kilometre = ___ metres.", options:["10","100","1000","10000"], answer:2},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"Convert 3 m to cm.", options:["3 cm","30 cm","300 cm","3000 cm"], answer:2}
    ]},
   {subject:"Science", title:"Electric Circuits", summary:"Grade 4 Science Energy strand: a complete circuit allows electricity to flow. It needs a power source, conductors, and a load (device). Circuits can be series or parallel.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Electric Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Electric%20Circuits%20grade%204%20educational",
    quiz:[
      {q:"For electricity to flow, a circuit must be ___.", options:["open","broken","complete (closed)","very long"], answer:2},
      {q:"Which is NOT needed in a basic circuit?", options:["Power source (battery)","Wire (conductor)","Load (light bulb)","A magnet"], answer:3},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"If a bulb in a series circuit burns out, the other bulbs ___.", options:["keep working","get brighter","also go out (circuit is broken)","explode"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canada's Natural Resources", summary:"Grade 4 Social Studies: Canada is rich in natural resources including forests, minerals, freshwater, oil, and agricultural land. These support the economy but must be managed sustainably.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Canada's Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Natural%20Resources%20grade%204%20educational",
    quiz:[
      {q:"Which of these is NOT a natural resource?", options:["Fresh water","Gold","A car","Timber/wood"], answer:2},
      {q:"Why are Canada's forests valuable?", options:["Only for scenery","They provide lumber, paper, habitat, and help regulate climate","They are not valuable","Only for tourism"], answer:1},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Figurative Language: Metaphors", summary:"Grade 4 Language strand: a metaphor directly states that one thing IS another unlike thing, without using 'like' or 'as'. Example: 'Life is a journey.'",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Figurative Language: Metaphors", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Metaphors%20grade%204%20educational",
    quiz:[
      {q:"A metaphor says one thing ___ another.", options:["is similar to","is like/as","IS directly","is bigger than"], answer:2},
      {q:"Which is a metaphor?", options:["She ran like a cheetah.","He is as strong as an ox.","The world is a stage.","The rain fell like tears."], answer:2},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a metaphor?", options:["quiet as a mouse","brave as a lion","Her voice was music to my ears.","He runs like a gazelle."], answer:2}
    ]},
   {subject:"Math", title:"Mass and Volume Measurement", summary:"Grade 4 Measurement strand: mass is measured in grams (g) and kilograms (kg). Volume is measured in litres (L) and millilitres (mL). 1 kg = 1000 g; 1 L = 1000 mL.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Mass and Volume Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Mass%20and%20Volume%20Measurement%20grade%204%20educational",
    quiz:[
      {q:"1 kilogram = ___ grams.", options:["10","100","1000","10000"], answer:2},
      {q:"1 litre = ___ millilitres.", options:["10","100","1000","10000"], answer:2},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"A bag weighs 2500 g. How many kilograms is that?", options:["0.25 kg","2.5 kg","25 kg","250 kg"], answer:1}
    ]},
   {subject:"Science", title:"Forces: Gravity and Friction", summary:"Grade 4 Science Energy strand: gravity is the force that pulls objects toward Earth. Friction is the force that resists movement between surfaces in contact.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Forces: Gravity and Friction", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20and%20Friction%20grade%204%20educational",
    quiz:[
      {q:"Gravity is a force that ___.", options:["pushes objects upward","pulls objects toward each other (especially toward Earth)","stops all motion","only exists in space"], answer:1},
      {q:"Friction is a force that ___.", options:["speeds objects up","pulls objects down","resists sliding motion between surfaces","pushes objects sideways"], answer:2},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"Without gravity, objects on Earth would ___.", options:["fall faster","stay in one place forever","float away into space","get heavier"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Environment: Conservation", summary:"Grade 4 Social Studies: conservation means protecting and managing natural resources wisely to prevent their depletion and preserve environments for future generations.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Environment: Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Environment%3A%20Conservation%20grade%204%20educational",
    quiz:[
      {q:"Conservation means ___.", options:["using all resources immediately","protecting and wisely managing natural resources","never using resources","only saving money"], answer:1},
      {q:"Which is an example of conservation?", options:["Leaving taps running","Wasting paper","Planting trees and reducing waste","Building more factories"], answer:2},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Reading: Sequencing", summary:"Grade 4 Reading strand: sequence is the order in which events happen. Signal words: first, then, next, after, finally, before.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Sequencing", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Sequencing%20grade%204%20educational",
    quiz:[
      {q:"Sequence means ___.", options:["the main idea","the order in which events occur","a comparison","a cause-and-effect relationship"], answer:1},
      {q:"Which signal word shows a sequence?", options:["However","In contrast","Next","Because"], answer:2},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"'First mix the batter, then bake it' shows ___.", options:["contrast","cause and effect","sequence","comparison"], answer:2}
    ]},
   {subject:"Math", title:"Data: Bar Graphs", summary:"Grade 4 Data strand: a bar graph uses horizontal or vertical bars to compare quantities across categories. Students read, create, and interpret bar graphs.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Data: Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Bar%20Graphs%20grade%204%20educational",
    quiz:[
      {q:"A bar graph is used to ___.", options:["show sequence","compare quantities across categories","measure angles","calculate perimeter"], answer:1},
      {q:"The vertical axis of a bar graph usually shows ___.", options:["categories","frequency or quantity","colours","dates"], answer:1},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"A bar graph differs from a pictograph because ___.", options:["bar graphs use bars instead of pictures/symbols","bar graphs are less accurate","only bar graphs have titles","pictographs are always better"], answer:0}
    ]},
   {subject:"Science", title:"Properties of Liquids and Solids", summary:"Grade 4 Science Materials strand: solids have definite shape and volume; liquids have definite volume but take the shape of their container.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Properties of Liquids and Solids", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Liquids%20and%20Solids%20grade%204%20educational",
    quiz:[
      {q:"A solid has ___.", options:["definite shape and definite volume","definite volume but no definite shape","no definite shape or volume","only colour"], answer:0},
      {q:"A liquid has ___.", options:["definite shape and volume","no volume","definite volume but takes the shape of its container","no mass"], answer:2},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Which liquid has higher viscosity (is thicker)?", options:["Water","Air","Vinegar","Honey"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Canadian Culture and Arts", summary:"Grade 4 Social Studies: Canadian culture reflects Indigenous traditions and the contributions of people from many nations, expressed through music, art, literature, and celebrations.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Canadian Culture and Arts", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Culture%20and%20Arts%20grade%204%20educational",
    quiz:[
      {q:"Canada's culture is ___.", options:["uniform and the same everywhere","shaped by Indigenous peoples and immigrants from around the world","only British and French","only Indigenous"], answer:1},
      {q:"Which is a famous Canadian author?", options:["William Shakespeare","L.M. Montgomery (Anne of Green Gables)","Charles Dickens","Mark Twain"], answer:1},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Narrative Writing", summary:"Grade 4 Writing strand: narrative writing tells a story with a clear beginning (characters/setting), middle (problem/rising action), and end (resolution).",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Narrative Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20Writing%20grade%204%20educational",
    quiz:[
      {q:"Narrative writing tells a ___.", options:["fact-based report","persuasive argument","story with characters and events","set of instructions"], answer:2},
      {q:"The beginning of a narrative should introduce ___.", options:["the solution","the climax","the characters and setting","the conclusion"], answer:2},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Which makes a narrative more engaging?", options:["No descriptions","Dialogue and vivid sensory details","Only telling (no showing)","Short, boring sentences"], answer:1}
    ]},
   {subject:"Math", title:"Data: Line Graphs", summary:"Grade 4 Data strand: a line graph shows how data changes over time. Points are connected by a line to show trends: increasing, decreasing, or stable.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Data: Line Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Line%20Graphs%20grade%204%20educational",
    quiz:[
      {q:"A line graph is best used to show ___.", options:["categories compared at one time","data that changes over time","fractions","angles"], answer:1},
      {q:"The horizontal axis of a line graph usually shows ___.", options:["quantities","time (days, months, years)","colours","categories"], answer:1},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"Points on a line graph are connected to show ___.", options:["exact values only","trends and changes over time","the average","separate categories"], answer:1}
    ]},
   {subject:"Science", title:"Mixtures and Solutions", summary:"Grade 4 Science Materials strand: a mixture is made of two or more substances combined physically. A solution is a mixture where one substance dissolves completely in another.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Mixtures and Solutions", resourceUrl:"https://www.youtube.com/results?search_query=Mixtures%20and%20Solutions%20grade%204%20educational",
    quiz:[
      {q:"A mixture contains ___.", options:["only one substance","two or more substances combined","only chemicals","a single compound"], answer:1},
      {q:"In a solution, the dissolved substance is called the ___.", options:["solvent","solute","mixture","residue"], answer:1},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"How can you separate a salt-and-water solution?", options:["Using a filter","Using a magnet","Evaporating the water","Freezing it and removing salt"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Citizenship: Rights and Responsibilities", summary:"Grade 4 Social Studies: in a democratic society, citizens have rights (freedoms) and responsibilities (duties). Being an active citizen benefits everyone.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Citizenship: Rights and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%3A%20Rights%20and%20Responsibilities%20grade%204%20educational",
    quiz:[
      {q:"Rights give citizens ___.", options:["unlimited power","freedoms and protections","no rules","only advantages"], answer:1},
      {q:"Responsibilities require citizens to ___.", options:["ignore rules","fulfill duties such as obeying laws and respecting others","only benefit themselves","do nothing"], answer:1},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Conjunctions", summary:"Grade 4 Language strand: conjunctions join words, phrases, or clauses. Coordinating conjunctions: for, and, nor, but, or, yet, so (FANBOYS). Subordinating: because, since, although.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Grammar: Conjunctions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Conjunctions%20grade%204%20educational",
    quiz:[
      {q:"A conjunction joins ___.", options:["only nouns","only verbs","words, phrases, or clauses","only sentences"], answer:2},
      {q:"Which is a coordinating conjunction?", options:["because","although","but","since"], answer:2},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"FANBOYS stands for the ___ conjunctions.", options:["subordinating","correlative","coordinating","preposition"], answer:2}
    ]},
   {subject:"Math", title:"Probability: Likely and Unlikely", summary:"Grade 4 Data and Probability strand: probability describes the likelihood of an event: certain, likely, unlikely, or impossible.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Probability: Likely and Unlikely", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Likely%20and%20Unlikely%20grade%204%20educational",
    quiz:[
      {q:"If an event is 'impossible,' the probability is ___.", options:["1","close to 1","0","close to 0"], answer:2},
      {q:"If an event is 'certain,' the probability is ___.", options:["0","close to 0","close to 1","1"], answer:3},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"Probability can be expressed as a fraction. If 3 of 10 marbles are yellow, P(yellow) = ?", options:["7/10","1/3","3/10","10/3"], answer:2}
    ]},
   {subject:"Science", title:"Physical and Chemical Changes", summary:"Grade 4 Science Materials strand: a physical change alters the form but not the substance (e.g., cutting). A chemical change produces a new substance (e.g., burning).",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Physical and Chemical Changes", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20and%20Chemical%20Changes%20grade%204%20educational",
    quiz:[
      {q:"A physical change ___.", options:["creates a new substance","is irreversible","changes the form but not the substance","involves burning"], answer:1},
      {q:"A chemical change ___.", options:["is always reversible","produces a new substance with different properties","only changes shape","is the same as melting"], answer:1},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Which observation suggests a CHEMICAL change has occurred?", options:["Change in shape","Change in size","Colour change, gas produced, or heat released","Change in location"], answer:2}
    ]},
   {subject:"SocialStudies", title:"First Nations Treaties in Canada", summary:"Grade 4 Social Studies: treaties are agreements between the Crown and First Nations peoples. They were meant to share land but were often not honoured by the government.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: First Nations Treaties in Canada", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%20Treaties%20in%20Canada%20grade%204%20educational",
    quiz:[
      {q:"A treaty is ___.", options:["a type of building","a formal agreement between two or more parties","a style of artwork","a type of land"], answer:1},
      {q:"Treaties between First Nations and the Crown involved ___.", options:["only sharing food","sharing land and defining rights and responsibilities","only money","only religion"], answer:1},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Pronouns and Antecedents", summary:"Grade 4 Language strand: a pronoun replaces a noun (the antecedent). The pronoun must agree with its antecedent in number and gender.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Grammar: Pronouns and Antecedents", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Pronouns%20and%20Antecedents%20grade%204%20educational",
    quiz:[
      {q:"A pronoun takes the place of a ___.", options:["verb","noun","adjective","conjunction"], answer:1},
      {q:"The word a pronoun refers back to is called the ___.", options:["subject","object","antecedent","predicate"], answer:2},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Pronouns must agree with their antecedent in ___ and ___.", options:["size and colour","number and gender","place and time","subject and object"], answer:1}
    ]},
   {subject:"Math", title:"3-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 3-digit numbers by 1-digit numbers using expanded form and the standard algorithm.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: 3-Digit × 1-Digit Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=3-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
    quiz:[
      {q:"213 × 3 = ?", options:["609","639","639","619"], answer:1},
      {q:"145 × 4 = ?", options:["560","580","620","580"], answer:1},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy helps check a multiplication answer?", options:["Guessing","Dividing the answer by the same number to get back to the start","Adding","Subtracting"], answer:1}
    ]},
   {subject:"Science", title:"Weather Patterns and Water Cycle", summary:"Grade 4 Science Earth strand: the water cycle involves evaporation, condensation, and precipitation. Weather is caused by movements of air masses.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Weather Patterns and Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20and%20Water%20Cycle%20grade%204%20educational",
    quiz:[
      {q:"What powers the water cycle?", options:["The moon's gravity","The wind alone","The sun's energy evaporating water","Human activity"], answer:2},
      {q:"Evaporation is when water changes from a liquid to a ___.", options:["solid","gas","plasma","crystal"], answer:1},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Which instrument measures precipitation?", options:["Thermometer","Barometer","Rain gauge","Anemometer"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Colonial Canada", summary:"Grade 4 Social Studies: colonial Canada (1600s–1867) was shaped by French and British settlers, the fur trade, and conflicts with and among Indigenous peoples.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Colonial Canada", resourceUrl:"https://www.youtube.com/results?search_query=Colonial%20Canada%20grade%204%20educational",
    quiz:[
      {q:"New France was the name for ___.", options:["British settlements in Canada","French colonial territory in North America","Indigenous territories","Modern Quebec only"], answer:1},
      {q:"The fur trade was important because ___.", options:["Only Indigenous peoples benefited","It was the main economic activity connecting Indigenous peoples and Europeans","Only Europeans benefited","It was only about clothing"], answer:1},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Reading: Text Features in Non-Fiction", summary:"Grade 4 Reading strand: non-fiction text features include headings, subheadings, captions, text boxes, bold words, table of contents, index, and glossary.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Text Features in Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Text%20Features%20in%20Non-Fiction%20grade%204%20educational",
    quiz:[
      {q:"A subheading in a text ___.", options:["introduces the whole article","organizes information by labelling a sub-section","is the author's name","is unrelated to the text"], answer:1},
      {q:"A glossary provides ___.", options:["pictures","an index of pages","definitions of key words used in the text","the author's biography"], answer:2},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Text boxes in non-fiction ___.", options:["are errors","provide extra or supplementary information related to the topic","replace the main text","are always statistics"], answer:1}
    ]},
   {subject:"Math", title:"Elapsed Time", summary:"Grade 4 Measurement strand: elapsed time is the amount of time that passes between a start time and an end time.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Elapsed Time", resourceUrl:"https://www.youtube.com/results?search_query=Elapsed%20Time%20grade%204%20educational",
    quiz:[
      {q:"A movie starts at 2:15 p.m. and ends at 4:45 p.m. How long is it?", options:["2 hours 15 min","2 hours 30 min","2 hours 45 min","3 hours"], answer:1},
      {q:"School starts at 8:30 a.m. and ends at 3:15 p.m. Total school time = ?", options:["6 h 45 min","7 h 15 min","6 h 15 min","7 h 45 min"], answer:0},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"How many minutes are in 2 hours 15 minutes?", options:["115","135","145","125"], answer:1}
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Grade 4 Science Earth strand: our solar system has the Sun at its centre and 8 planets, plus moons, asteroids, and comets orbiting it.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%204%20educational",
    quiz:[
      {q:"How many planets are in our solar system?", options:["7","8","9","10"], answer:1},
      {q:"What is at the centre of our solar system?", options:["Earth","The Moon","Jupiter","The Sun"], answer:3},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Which planet is closest to the Sun?", options:["Venus","Earth","Mercury","Mars"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Confederation and Canadian Identity", summary:"Grade 4 Social Studies: Confederation (1867) united four provinces into the Dominion of Canada. Canadian identity includes bilingualism, multiculturalism, and respect for Indigenous peoples.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Confederation and Canadian Identity", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Canadian%20Identity%20grade%204%20educational",
    quiz:[
      {q:"Confederation in 1867 united which four provinces?", options:["BC, AB, ON, QC","ON, QC, NB, NS","NL, PE, NB, NS","MB, SK, AB, BC"], answer:1},
      {q:"Canadian identity is shaped by ___.", options:["only one cultural group","English and French heritage, Indigenous cultures, and immigration from around the world","only British traditions","only geography"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Writing: Summary Writing", summary:"Grade 4 Writing strand: a summary is a brief restatement of the most important ideas in a text, using your own words. It does not include personal opinions.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Summary Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Summary%20Writing%20grade%204%20educational",
    quiz:[
      {q:"A summary ___.", options:["retells every detail of a text","is longer than the original","briefly restates the most important ideas in your own words","includes your personal opinions"], answer:2},
      {q:"When writing a summary, you should ___.", options:["copy the original text word for word","include all details","include only the main points and key supporting ideas","add your own new ideas"], answer:1},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"To summarize means to ___.", options:["analyze in depth","evaluate critically","state briefly and in your own words","copy directly"], answer:2}
    ]},
   {subject:"Math", title:"Equivalent Fractions", summary:"Grade 4 Number strand: equivalent fractions represent the same value even though they have different numerators and denominators. Example: 1/2 = 2/4 = 4/8.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Equivalent Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Equivalent%20Fractions%20grade%204%20educational",
    quiz:[
      {q:"Which fraction is equivalent to 1/2?", options:["1/3","2/3","2/4","3/4"], answer:2},
      {q:"Which fraction is equivalent to 2/3?", options:["4/9","3/4","4/6","6/8"], answer:2},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify 6/9 to its lowest terms.", options:["3/4","2/3","1/2","3/9"], answer:1}
    ]},
   {subject:"Science", title:"Space: Moon Phases", summary:"Grade 4 Science Earth strand: the Moon has no light of its own; it reflects sunlight. As it orbits Earth, we see different amounts of its lit side — the phases.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Space: Moon Phases", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20Moon%20Phases%20grade%204%20educational",
    quiz:[
      {q:"The Moon produces its own light.", options:["True","False","Only at night","Only in summer"], answer:1},
      {q:"The Moon phases are caused by ___.", options:["Earth blocking sunlight (eclipse)","The Moon moving in and out of shadow","Different portions of the Moon's sunlit side being visible from Earth","The Moon changing shape"], answer:2},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"The Moon completes one full orbit around Earth in about ___.", options:["7 days","14 days","28–29 days","365 days"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Economics: Needs, Wants, Supply, and Demand", summary:"Grade 4 Social Studies: needs are essentials (food, shelter); wants are desires. Supply is how much is available; demand is how much people want.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Economics: Needs, Wants, Supply, and Demand", resourceUrl:"https://www.youtube.com/results?search_query=Economics%3A%20Needs%2C%20Wants%2C%20Supply%2C%20and%20Demand%20grade%204%20educational",
    quiz:[
      {q:"A 'need' is ___.", options:["something desirable but not essential","a luxury item","something essential for survival","something you want but cannot have"], answer:2},
      {q:"A 'want' is ___.", options:["essential for survival","something desirable but not necessary for survival","the same as a need","only food and water"], answer:1},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Writing: Procedural Texts", summary:"Grade 4 Writing strand: a procedural text (how-to) explains how to do something in step-by-step order. It uses numbered steps, imperative verbs, and clear language.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Procedural Texts", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%204%20educational",
    quiz:[
      {q:"The purpose of a procedural text is to ___.", options:["entertain with a story","persuade the reader","explain how to do or make something","compare two ideas"], answer:2},
      {q:"Procedural texts use ___ verbs.", options:["past tense","passive","imperative (command)","subjunctive"], answer:2},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence from a procedural text uses correct style?", options:["I add the flour.","Add the flour.","The flour was added.","She could add the flour."], answer:1}
    ]},
   {subject:"Math", title:"Geometry: 3D Figures", summary:"Grade 4 Geometry strand: 3D figures have length, width, and height. Key figures: cube, rectangular prism, cylinder, cone, sphere, pyramid.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Geometry: 3D Figures", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%203D%20Figures%20grade%204%20educational",
    quiz:[
      {q:"How many faces does a cube have?", options:["4","5","6","8"], answer:2},
      {q:"A rectangular prism has ___ vertices.", options:["4","6","8","12"], answer:2},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"A triangular pyramid (tetrahedron) has ___ faces.", options:["3","4","5","6"], answer:1}
    ]},
   {subject:"Science", title:"Conservation of Energy", summary:"Grade 4 Science Energy strand: energy cannot be created or destroyed; it can only change form. Examples: electrical → light, chemical (food) → kinetic.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Conservation of Energy", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20grade%204%20educational",
    quiz:[
      {q:"The law of conservation of energy states that energy ___.", options:["is always used up","can be created from nothing","cannot be created or destroyed, only changed in form","disappears when used"], answer:2},
      {q:"When you eat food, chemical energy converts to ___.", options:["electrical energy","light energy","kinetic (movement) and heat energy","nuclear energy"], answer:2},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of energy transformation?", options:["Doing nothing","Turning off all lights","A windmill converting wind (kinetic) to electrical energy","Using a non-electric candle"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Heritage Celebrations", summary:"Grade 4 Social Studies: cultural celebrations reflect the heritage and identity of communities. Understanding different celebrations builds respect and inclusion.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Heritage Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Celebrations%20grade%204%20educational",
    quiz:[
      {q:"A heritage celebration reflects ___.", options:["only modern pop culture","the traditions and history of a cultural community","only government events","only sports"], answer:1},
      {q:"Diwali is the Festival of Lights celebrated primarily by ___.", options:["Chinese communities","Celtic communities","Hindu, Sikh, and Jain communities","Indigenous communities"], answer:2},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Prepositions", summary:"Grade 4 Language strand: prepositions show the relationship between a noun and another word. Common prepositions: in, on, at, by, under, over, between, through.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Grammar: Prepositions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Prepositions%20grade%204%20educational",
    quiz:[
      {q:"A preposition shows the ___ between words.", options:["colour","relationship (especially location or time)","sound","size"], answer:1},
      {q:"Which is a preposition in: 'The cat sat on the mat'?", options:["The","cat","on","mat"], answer:2},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"A preposition is usually followed by a ___.", options:["verb","adjective","noun or pronoun (the object of the preposition)","adverb"], answer:2}
    ]},
   {subject:"Math", title:"Division: 2-Digit Divisor Introduction", summary:"Grade 4 Number strand: students divide larger dividends by 1-digit divisors and are introduced to estimation with division.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Division: 2-Digit Divisor Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Division%3A%202-Digit%20Divisor%20Introduction%20grade%204%20educational",
    quiz:[
      {q:"84 ÷ 4 = ?", options:["19","20","21","22"], answer:2},
      {q:"96 ÷ 8 = ?", options:["10","11","12","13"], answer:2},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"Estimate: 78 ÷ 4 is approximately?", options:["10","20","30","40"], answer:1}
    ]},
   {subject:"Science", title:"Sustainable Practices", summary:"Grade 4 Science Life Systems/Materials strand: sustainable practices reduce waste and protect the environment. The 3 Rs: Reduce, Reuse, Recycle.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Sustainable Practices", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Practices%20grade%204%20educational",
    quiz:[
      {q:"Sustainable means ___.", options:["using as much as possible","meeting present needs without compromising future generations' ability to meet theirs","never using resources","spending less money"], answer:1},
      {q:"Which is a sustainable practice?", options:["Buying single-use plastics","Leaving lights on","Composting organic waste","Printing one page per word"], answer:2},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Composting converts food scraps into ___.", options:["plastic","electricity","nutrient-rich soil","medicine"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Immigration: Building Canada", summary:"Grade 4 Social Studies: immigrants have come to Canada from all over the world, contributing to its economy, culture, and identity. Immigration continues today.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Immigration: Building Canada", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%3A%20Building%20Canada%20grade%204%20educational",
    quiz:[
      {q:"Why have people immigrated to Canada?", options:["Canada forced them","Looking for safety, better opportunities, family reunification, or adventure","Canada is not a destination","Only recently has anyone come to Canada"], answer:1},
      {q:"What is a refugee?", options:["A wealthy immigrant","Someone fleeing persecution, war, or disaster","A tourist who stays","A student studying abroad"], answer:1},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Reading Comprehension Strategies Review", summary:"Grade 4 Reading strand: skilled readers use multiple strategies: predicting, visualising, asking questions, making connections, summarising, and synthesising.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading Comprehension Strategies Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%20Strategies%20Review%20grade%204%20educational",
    quiz:[
      {q:"Visualising while reading means ___.", options:["drawing pictures in a book","creating mental images of the text","looking at the illustrations only","writing notes"], answer:1},
      {q:"Asking questions before and during reading helps ___.", options:["slow down your reading","set a purpose and deepen understanding","avoid the text entirely","only find main ideas"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy is best for an unfamiliar word?", options:["Skip it","Use context clues and prior knowledge to figure out the meaning","Stop reading","Ask someone immediately without trying"], answer:1}
    ]},
   {subject:"Math", title:"Review: Number Sense and Operations", summary:"Grade 4 Number strand review: students demonstrate fluency with multiplication, division, fractions, and decimals.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Review: Number Sense and Operations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20and%20Operations%20grade%204%20educational",
    quiz:[
      {q:"345 × 4 = ?", options:["1370","1380","1390","1360"], answer:1},
      {q:"96 ÷ 6 = ?", options:["14","15","16","17"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Which fraction is between 1/4 and 3/4?", options:["1/8","1/2","7/8","1/4"], answer:1}
    ]},
   {subject:"Science", title:"Year Review: Science Concepts", summary:"Grade 4 Science strand review: habitats, rocks, energy (light, sound, electricity), weather, and space.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Year Review: Science Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20Concepts%20grade%204%20educational",
    quiz:[
      {q:"A food web shows ___.", options:["the structure of rock layers","how energy flows through interconnected food chains","the water cycle","the rock cycle"], answer:1},
      {q:"Igneous rock forms from ___.", options:["compressed sediment","cooled magma/lava","heat and pressure on existing rock","sediment layers"], answer:1},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Sound travels fastest through ___.", options:["a vacuum","air","water","solid materials"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Grade 4 Social Studies review: ancient civilizations, Canadian history, geography, government, economics, and citizenship.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%204%20educational",
    quiz:[
      {q:"Which ancient civilization developed democracy?", options:["Egypt","Rome","China","Greece"], answer:3},
      {q:"Confederation in 1867 formed which country?", options:["New France","The British Empire","The Dominion of Canada","The United States"], answer:2},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Vocabulary Review and Word Study", summary:"Grade 4 Language strand review: students apply knowledge of synonyms, antonyms, prefixes, suffixes, context clues, and figurative language.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Vocabulary Review and Word Study", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20Review%20and%20Word%20Study%20grade%204%20educational",
    quiz:[
      {q:"The prefix 'un-' in 'unhappy' means ___.", options:["again","very","not","before"], answer:2},
      {q:"The suffix '-less' in 'hopeless' means ___.", options:["full of","not/without","again","before"], answer:1},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Synonym for 'ancient' = ?", options:["modern","new","old/historic","young"], answer:2}
    ]},
   {subject:"Math", title:"Coordinate Grid", summary:"Grade 4 Geometry strand: students locate and plot points on a coordinate grid using ordered pairs (x, y). The x-axis is horizontal; y-axis is vertical.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Coordinate Grid", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Grid%20grade%204%20educational",
    quiz:[
      {q:"In an ordered pair (3, 5), which number is the x-coordinate?", options:["5","3","Neither","Both"], answer:1},
      {q:"The x-axis is ___.", options:["vertical","horizontal","diagonal","curved"], answer:1},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"Which point is on the y-axis?", options:["(3, 0)","(0, 4)","(2, 2)","(5, 1)"], answer:1}
    ]},
   {subject:"Science", title:"Review: Ecosystems and Life Systems", summary:"Grade 4 Science review: habitats, communities, adaptations, biodiversity, human impact, and conservation.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Review: Ecosystems and Life Systems", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%20and%20Life%20Systems%20grade%204%20educational",
    quiz:[
      {q:"All the organisms in a shared habitat form a ___.", options:["food chain","population","community","ecosystem only"], answer:2},
      {q:"An adaptation helps an organism ___.", options:["leave its habitat","stay sick","survive in its environment","avoid reproduction"], answer:2},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"The rock cycle shows that rock can transform from ___.", options:["only igneous to metamorphic","only sedimentary to igneous","any rock type to another over time","nothing changes"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Review: Government and Citizenship", summary:"Grade 4 Social Studies review: types of government, rights, responsibilities, Canadian law, and civic participation.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Review: Government and Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Government%20and%20Citizenship%20grade%204%20educational",
    quiz:[
      {q:"A democracy is a government where ___.", options:["the monarch holds all power","leaders are chosen by citizens through elections","religious leaders rule","the military runs everything"], answer:1},
      {q:"The Canadian Charter of Rights and Freedoms protects ___.", options:["only French Canadians","only English Canadians","fundamental rights and freedoms of all people in Canada","only the rights of the government"], answer:2},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Reading: Author's Purpose", summary:"Grade 4 Reading strand: the author's purpose is the reason for writing — to persuade, inform, or entertain (PIE). Identifying it helps comprehension.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Reading: Author's Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Author%27s%20Purpose%20grade%204%20educational",
    quiz:[
      {q:"The three common author's purposes are ___.", options:["past, present, future","fact, fiction, opinion","persuade, inform, entertain","beginning, middle, end"], answer:2},
      {q:"A newspaper article about a hurricane has the purpose to ___.", options:["entertain","persuade","inform","only describe"], answer:2},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Identifying author's purpose helps readers ___.", options:["read faster","evaluate information and understand why it was written","skip reading strategies","find the plot"], answer:1}
    ]},
   {subject:"Math", title:"Review: Measurement", summary:"Grade 4 Measurement review: length, mass, volume, elapsed time, area, and perimeter.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Review: Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20grade%204%20educational",
    quiz:[
      {q:"Area of a rectangle 9 cm × 5 cm = ?", options:["40 cm²","45 cm²","14 cm²","50 cm²"], answer:1},
      {q:"Perimeter of a square with side 8 cm = ?", options:["8 cm","16 cm","32 cm","64 cm"], answer:2},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"Convert 4500 mL to litres.", options:["4.5 L","45 L","0.45 L","450 L"], answer:0}
    ]},
   {subject:"Science", title:"Review: Energy Forms and Changes", summary:"Grade 4 Science Energy review: light, sound, electricity, circuits, forces, simple machines.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Review: Energy Forms and Changes", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Energy%20Forms%20and%20Changes%20grade%204%20educational",
    quiz:[
      {q:"Which is an example of electrical energy converting to light?", options:["A fan spinning","Burning a candle","A light bulb glowing","Falling water"], answer:2},
      {q:"Friction creates ___.", options:["cold","heat and slows objects","more gravity","static only"], answer:1},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Sound travels as ___ waves.", options:["light","compression (longitudinal)","electromagnetic","transverse"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Review: Ancient Civilizations", summary:"Grade 4 Social Studies review: Egypt, Greece, Rome, and their contributions to modern society.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Review: Ancient Civilizations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ancient%20Civilizations%20grade%204%20educational",
    quiz:[
      {q:"Hieroglyphics were used in ___.", options:["Rome","Greece","Egypt","China"], answer:2},
      {q:"Democracy was developed in ___.", options:["Egypt","Mesopotamia","Rome","Athens, Greece"], answer:3},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Grade 4 Writing strand: editing focuses on content and organization; proofreading focuses on spelling, grammar, and punctuation. Both improve the final piece.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%204%20educational",
    quiz:[
      {q:"Editing involves ___.", options:["fixing spelling mistakes","improving the content, structure, and clarity of writing","only punctuation","copying neatly"], answer:1},
      {q:"Proofreading involves ___.", options:["rewriting the whole piece","checking for spelling, grammar, and punctuation errors","adding new ideas","only capitals"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"Which should you do first: edit content or proofread?", options:["Proofread first","Edit content first (big picture before details)","Do both at exactly the same time","Do neither"], answer:1}
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Grade 4 Data review: tally charts, bar graphs, line graphs, pictographs, and probability.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Review: Data and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Data%20and%20Probability%20grade%204%20educational",
    quiz:[
      {q:"Which graph is BEST for showing change over time?", options:["Bar graph","Pictograph","Line graph","Tally chart"], answer:2},
      {q:"Which graph is BEST for comparing categories at one time?", options:["Line graph","Bar graph","None","Scatter plot"], answer:1},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"The mode of a data set is ___.", options:["the middle value","the most frequent value","the average","the range"], answer:1}
    ]},
   {subject:"Science", title:"Review: Materials and Earth", summary:"Grade 4 Science review: rocks, minerals, soil, mixtures, solutions, physical/chemical changes, and the rock cycle.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Review: Materials and Earth", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Materials%20and%20Earth%20grade%204%20educational",
    quiz:[
      {q:"The three rock types are ___.", options:["granite, marble, slate","igneous, sedimentary, metamorphic","hard, soft, medium","volcanic, beach, mountain"], answer:1},
      {q:"A solution differs from a mixture because ___.", options:["they are the same","in a solution the solute dissolves completely and cannot be seen","solutions always involve water","mixtures are permanent"], answer:1},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"The rock cycle is driven by ___.", options:["the water cycle","heat and pressure from Earth's interior plus weathering at the surface","only volcanoes","only wind and rain"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Review: Canada's History and Geography", summary:"Grade 4 Social Studies review: Canadian geography, exploration, Indigenous peoples, Confederation, and citizenship.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Review: Canada's History and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canada%27s%20History%20and%20Geography%20grade%204%20educational",
    quiz:[
      {q:"Confederation year?", options:["1776","1759","1867","1914"], answer:2},
      {q:"Canada has ___ official languages.", options:["1","2","3","4"], answer:1},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Grammar Review", summary:"Grade 4 Language strand comprehensive grammar review: parts of speech, sentence types, punctuation, and sentence construction.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Grammar Review", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20Review%20grade%204%20educational",
    quiz:[
      {q:"Which sentence is a compound sentence?", options:["The dog runs.","She is happy.","I wanted to go, but it was raining.","Running fast."], answer:2},
      {q:"A complex sentence contains ___.", options:["two independent clauses","one independent clause and one dependent clause","only a dependent clause","no verbs"], answer:1},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"An independent clause ___.", options:["cannot stand alone","depends on another clause","can stand alone as a complete sentence","has no verb"], answer:2}
    ]},
   {subject:"Math", title:"Math Review: All Strands", summary:"Grade 4 Mathematics comprehensive review covering number, geometry, measurement, patterning, and data.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Math Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20All%20Strands%20grade%204%20educational",
    quiz:[
      {q:"7 × 9 = ?", options:["54","56","63","64"], answer:2},
      {q:"Area of 6 cm × 8 cm rectangle = ?", options:["28 cm²","48 cm²","14 cm²","42 cm²"], answer:1},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"0.45 + 0.35 = ?", options:["0.70","0.80","0.75","0.90"], answer:1}
    ]},
   {subject:"Science", title:"Science Review: All Strands", summary:"Grade 4 Science comprehensive review across life, earth, materials, and energy strands.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Science Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20grade%204%20educational",
    quiz:[
      {q:"What is biodiversity?", options:["A type of rock","The variety of living organisms in an ecosystem","A food chain","A weather pattern"], answer:1},
      {q:"Which rock forms from cooled magma?", options:["Sedimentary","Metamorphic","Igneous","Limestone"], answer:2},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Conservation of energy means energy ___.", options:["disappears when used","is created by machines","cannot be created or destroyed, only transformed","increases when heated"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Social Studies Review: All Topics", summary:"Grade 4 Social Studies comprehensive review across heritage, identity, government, and geography strands.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Social Studies Review: All Topics", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20All%20Topics%20grade%204%20educational",
    quiz:[
      {q:"Which ancient civilization developed the Olympic Games?", options:["Egypt","Rome","China","Greece"], answer:3},
      {q:"Canada became a country through ___.", options:["winning a war","being given independence","Confederation in 1867","a revolution"], answer:2},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Language Arts: Oral Communication", summary:"Grade 4 Language strand: oral communication includes speaking clearly, listening actively, presenting ideas, and participating respectfully in discussions.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Language Arts: Oral Communication", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Arts%3A%20Oral%20Communication%20grade%204%20educational",
    quiz:[
      {q:"Active listening means ___.", options:["waiting for your turn to talk only","paying attention, making eye contact, and showing you understand the speaker","looking away","interrupting to add ideas"], answer:1},
      {q:"When presenting to a class, you should ___.", options:["speak very quietly","read directly from notes without looking up","speak clearly, make eye contact, and organize your ideas","go as fast as possible"], answer:1},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"Why is oral communication important?", options:["Only writing matters","Strong speaking and listening skills help in school, work, and daily life","Only for presentations","Computers do all communication now"], answer:1}
    ]},
   {subject:"Math", title:"Math: Problem Solving Strategies", summary:"Grade 4 Mathematics: students apply strategies like drawing diagrams, making tables, working backwards, and looking for patterns to solve multi-step problems.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Math: Problem Solving Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Math%3A%20Problem%20Solving%20Strategies%20grade%204%20educational",
    quiz:[
      {q:"Working backwards is a useful strategy when you know ___.", options:["the starting conditions","a middle step","the final result and need to find the beginning","nothing about the problem"], answer:2},
      {q:"Making a table helps to ___.", options:["avoid solving a problem","organize data to find a pattern or answer","draw a picture","multiply numbers"], answer:1},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"Looking for a pattern helps you ___.", options:["guess randomly","predict what will come next based on what has happened so far","skip the work","only in number sense"], answer:1}
    ]},
   {subject:"Science", title:"Science: Inquiry and STEM Connections", summary:"Grade 4 Science: scientific inquiry involves asking questions, making hypotheses, testing, recording, and forming conclusions. STEM connects science, technology, engineering, and math.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Science: Inquiry and STEM Connections", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Inquiry%20and%20STEM%20Connections%20grade%204%20educational",
    quiz:[
      {q:"A hypothesis is ___.", options:["a proven fact","a best guess/prediction about the answer to a question, based on prior knowledge","a question","a conclusion"], answer:1},
      {q:"In an experiment, the variable you change is the ___.", options:["controlled variable","independent variable","dependent variable","constant"], answer:1},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"STEM stands for ___.", options:["Science, Teaching, Energy, Mathematics","Science, Technology, Engineering, Mathematics","Society, Technology, Economics, Medicine","Science, Tests, Experiments, Methods"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Culminating Task: Community Action Plan", summary:"Grade 4 Social Studies: students apply knowledge of communities, environment, rights, and citizenship to develop a local action plan addressing a community issue.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Culminating Task: Community Action Plan", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Task%3A%20Community%20Action%20Plan%20grade%204%20educational",
    quiz:[
      {q:"A community action plan addresses ___.", options:["only global issues","a local issue by identifying problems and proposing realistic solutions","only government problems","only school issues"], answer:1},
      {q:"When presenting a community plan, you should include ___.", options:["only problems with no solutions","the problem, proposed solutions, and who is responsible for each action","only pictures","only historical information"], answer:1},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Grade 4 Language Arts comprehensive review covering reading, writing, oral communication, grammar, and media literacy.",
-   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%204%20educational",
    quiz:[
      {q:"The main idea is ___.", options:["a small detail","what the whole text is mostly about","the last sentence","the title only"], answer:1},
      {q:"A simile uses ___ to compare.", options:["is/was","like or as","metaphor","adjective"], answer:1},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"Editing focuses on ___, while proofreading focuses on ___ .", options:["spelling, content","content/ideas, mechanics (spelling/grammar/punctuation)","grammar, length","length, style"], answer:1}
    ]},
   {subject:"Math", title:"Year Review: Mathematics", summary:"Grade 4 Mathematics comprehensive review: all strands.",
-   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   resourceLabel:"YouTube: Year Review: Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%204%20educational",
    quiz:[
      {q:"7 × 8 + 4 = ?", options:["55","60","52","56"], answer:1},
      {q:"3/4 is equivalent to ___.", options:["6/10","6/8","9/16","5/6"], answer:1},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"The probability of rolling an even number on a 6-sided die = ?", options:["1/6","1/3","1/2","2/3"], answer:2}
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Grade 4 Science comprehensive review across all strands.",
-   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%204%20educational",
    quiz:[
      {q:"The three rock types are ___.", options:["granite, marble, sandstone","igneous, sedimentary, metamorphic","volcanic, riverbed, mountain","hard, soft, medium"], answer:1},
      {q:"A food chain starts with a ___.", options:["herbivore","carnivore","producer (plant)","decomposer"], answer:2},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Biodiversity means ___.", options:["all animals being the same","the variety of organisms in an ecosystem","only plants in a habitat","one type of rock"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies", summary:"Grade 4 Social Studies comprehensive review.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   resourceLabel:"YouTube: Year Review: Social Studies", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%204%20educational",
    quiz:[
      {q:"Confederation year = ?", options:["1776","1867","1900","1931"], answer:1},
      {q:"Ancient civilization that developed democracy = ?", options:["Rome","Egypt","China","Greece"], answer:3},

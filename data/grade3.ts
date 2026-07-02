@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Reading Comprehension: Main Idea", summary:"Students identify the main idea and supporting details in short non-fiction texts. The main idea is what the whole passage is mostly about; details explain or support it.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading Comprehension: Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Main%20Idea%20grade%203%20educational",
    quiz:[
      {q:"The main idea of a passage is ___.", options:["one small detail","what the whole passage is mostly about","the last sentence","a random fact"], answer:1},
      {q:"Supporting details ___.", options:["introduce new topics unrelated to the main idea","explain or give examples that support the main idea","are always the first sentence","are always in brackets"], answer:1},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"A passage about how bees make honey is mostly about ___.", options:["flowers","trees","the honey-making process of bees","weather patterns"], answer:2}
    ]},
   {subject:"Math", title:"Place Value: Ones, Tens, Hundreds", summary:"Students identify the value of digits in numbers up to 999. In 347, the 3 is in the hundreds place (300), the 4 in the tens place (40), and the 7 in the ones place (7).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Place Value: Ones, Tens, Hundreds", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Ones%2C%20Tens%2C%20Hundreds%20grade%203%20educational",
    quiz:[
      {q:"In 456, the digit in the tens place is ___.", options:["4","5","6","45"], answer:1},
      {q:"What is the value of the 3 in 382?", options:["3","30","300","3000"], answer:2},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"What is 600 + 40 + 3?", options:["463","634","643","364"], answer:2}
    ]},
   {subject:"Science", title:"Growth and Changes in Animals", summary:"Students explore how animals change as they grow, including complete and incomplete metamorphosis in insects, and growth in mammals, birds, and reptiles.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%203%20educational",
    quiz:[
      {q:"Complete metamorphosis has ___ stages.", options:["2","3","4","5"], answer:2},
      {q:"The four stages of complete metamorphosis are ___.", options:["egg, larva, pupa, adult","egg, baby, teen, adult","birth, growth, death, rebirth","seed, sprout, plant, flower"], answer:0},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"Which animal goes through complete metamorphosis?", options:["Dog","Frog (it goes through stages but it is incomplete)","Butterfly","Snake"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Types of Communities: Urban and Rural", summary:"Students compare urban (city) and rural (countryside/farm) communities in Ontario. They examine population, land use, and services available.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Types of Communities: Urban and Rural", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Communities%3A%20Urban%20and%20Rural%20grade%203%20educational",
    quiz:[
      {q:"An urban community is best described as ___.", options:["a small farming village","a large city with many people and buildings","a forest with no residents","a single-family home"], answer:1},
      {q:"A rural community is best described as ___.", options:["a skyscraper district","a densely populated city","a farming area or small town with fewer people","an underground settlement"], answer:2},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Text Features: Headings, Captions, Diagrams", summary:"Students identify and use text features in non-fiction books and articles to navigate text and understand content better.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Text Features: Headings, Captions, Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Headings%2C%20Captions%2C%20Diagrams%20grade%203%20educational",
    quiz:[
      {q:"A heading in a non-fiction text ___.", options:["tells a story","gives the author's name","shows what a section is about","is the same as a caption"], answer:2},
      {q:"A caption is ___.", options:["a type of heading","a large title","the words under a picture explaining what it shows","a table of contents"], answer:2},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"A table of contents tells you ___.", options:["the definition of words","where chapters and sections start","who wrote the book","what pictures look like"], answer:1}
    ]},
   {subject:"Math", title:"Addition with Regrouping", summary:"Students add 2- and 3-digit numbers with regrouping (carrying). They understand that when a column totals 10 or more, they carry 1 to the next column.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Addition with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20with%20Regrouping%20grade%203%20educational",
    quiz:[
      {q:"47 + 35 = ?", options:["72","82","73","83"], answer:1},
      {q:"When a column in addition totals 10 or more, you ___.", options:["write the full number","subtract 10 and carry 1 to the next column","start over","ignore the extra"], answer:1},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"149 + 67 = ?", options:["206","216","226","196"], answer:1}
    ]},
   {subject:"Science", title:"Habitats and Ecosystems", summary:"Students learn that a habitat provides the living and non-living things an animal needs to survive: food, water, shelter, and space. Ecosystems include all living and non-living parts of an environment.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Habitats and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20and%20Ecosystems%20grade%203%20educational",
    quiz:[
      {q:"A habitat is ___.", options:["a type of weather","the environment where an organism lives and finds what it needs to survive","only a forest","only an ocean"], answer:1},
      {q:"Which is a non-living part of an ecosystem?", options:["Tree","Rabbit","Rock and water","Mushroom"], answer:2},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Destroying a habitat by cutting down a forest would most likely ___.", options:["help the animals there","have no effect","force animals to find new habitats, often leading to population decline","make habitats larger"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Physical Features of Ontario", summary:"Students identify and locate major physical features of Ontario on a map: Great Lakes, Canadian Shield, Niagara Falls, Lake Simcoe, and major rivers.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Physical Features of Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Features%20of%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"The Great Lakes are ___.", options:["mountain ranges","rivers in northern Ontario","a chain of five large freshwater lakes on Ontario's southern border","a type of Canadian animal"], answer:2},
      {q:"The Canadian Shield is ___.", options:["a hockey shield","a flat farming region","a vast ancient rock formation covering much of northern Ontario and Canada","an ocean region"], answer:2},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Vocabulary: Context Clues", summary:"Students use context clues — the surrounding words and sentences — to figure out the meaning of unfamiliar words without a dictionary.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Vocabulary: Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%203%20educational",
    quiz:[
      {q:"Context clues are ___.", options:["clues found in a picture only","words and information surrounding an unfamiliar word that help explain its meaning","a type of dictionary","always found in the title"], answer:1},
      {q:"In 'The enormous elephant, nearly as tall as a house, walked slowly,' enormous means ___.", options:["tiny","fast","very large","colourful"], answer:2},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy uses context clues?", options:["Skipping the word","Looking at how the word is used in the sentence and paragraph to guess its meaning","Only using a dictionary","Sounding out letters"], answer:1}
    ]},
   {subject:"Math", title:"Subtraction with Regrouping", summary:"Students subtract 2- and 3-digit numbers using regrouping (borrowing). They understand borrowing from the next column when the top digit is smaller.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Subtraction with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20with%20Regrouping%20grade%203%20educational",
    quiz:[
      {q:"84 - 37 = ?", options:["47","57","53","43"], answer:0},
      {q:"When the top digit in a column is smaller than the bottom, you ___.", options:["skip the subtraction","regroup (borrow) from the next column to the left","add them","multiply"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"427 - 189 = ?", options:["238","248","228","268"], answer:0}
    ]},
   {subject:"Science", title:"Soils in the Environment", summary:"Students investigate types of soil (sand, clay, loam) and their properties. They explore how soil supports plant growth and is important to ecosystems.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Soils in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Soils%20in%20the%20Environment%20grade%203%20educational",
    quiz:[
      {q:"Which type of soil drains water the fastest?", options:["Clay","Loam","Sand","Silt"], answer:2},
      {q:"Clay soil is described as ___.", options:["gritty and fast-draining","very fertile and balanced","dense, heavy, and slow-draining","dark and crumbly"], answer:2},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"What lives in soil and helps break down organic matter?", options:["Only rocks","Earthworms, bacteria, and fungi","Only large animals","Only plants"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Government: Federal, Provincial, Municipal", summary:"Students learn the three levels of government in Canada and their responsibilities.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Government: Federal, Provincial, Municipal", resourceUrl:"https://www.youtube.com/results?search_query=Government%3A%20Federal%2C%20Provincial%2C%20Municipal%20grade%203%20educational",
    quiz:[
      {q:"The federal government of Canada is responsible for ___.", options:["collecting garbage","fixing local roads","national defence, immigration, and the currency","setting school hours"], answer:2},
      {q:"The provincial government of Ontario is responsible for ___.", options:["the national army","international affairs","education, health care, and provincial roads","the city's parks"], answer:2},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Fiction vs Non-Fiction", summary:"Students distinguish fiction (invented stories with characters, plot, and setting) from non-fiction (factual, real-world information).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Fiction vs Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Fiction%20vs%20Non-Fiction%20grade%203%20educational",
    quiz:[
      {q:"A fiction text ___.", options:["only contains facts","is based on real events","contains invented stories and characters","is always about animals"], answer:2},
      {q:"A non-fiction text ___.", options:["contains made-up stories","is always a novel","provides factual information about real topics","is always written by scientists"], answer:2},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"How can you tell if a book is fiction or non-fiction?", options:["By the number of pages","Fiction has invented events and characters; non-fiction has real facts and information","Only by the cover colour","Only by the title"], answer:1}
    ]},
   {subject:"Math", title:"Multiplication: Concept and Arrays", summary:"Students learn multiplication as repeated addition and model it with arrays. 3 × 4 means 3 groups of 4 (or 4 + 4 + 4 = 12).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication: Concept and Arrays", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Concept%20and%20Arrays%20grade%203%20educational",
    quiz:[
      {q:"3 × 4 = ?", options:["7","10","12","14"], answer:2},
      {q:"Multiplication is the same as ___.", options:["taking away","repeated addition","dividing","guessing"], answer:1},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"Which number sentence shows 3 groups of 6?", options:["3 + 6 = 9","3 − 6","3 × 6 = 18","6 − 3 = 3"], answer:2}
    ]},
   {subject:"Science", title:"Forces Causing Movement", summary:"Students learn that forces (push, pull, gravity, friction, magnetism) can cause objects to start, stop, speed up, or change direction.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Forces Causing Movement", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Causing%20Movement%20grade%203%20educational",
    quiz:[
      {q:"A force is ___.", options:["a type of animal","a push or pull that can change an object's motion","only wind","only gravity"], answer:1},
      {q:"Gravity is a force that ___.", options:["pushes things sideways","pulls objects toward Earth (or any large mass)","only affects large objects","only works in space"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"A magnet can ___ a metal object without touching it.", options:["break","paint","attract or repel","melt"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Natural Resources", summary:"Students identify Ontario's natural resources (water, forests, minerals, farmland) and how they are used sustainably.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20grade%203%20educational",
    quiz:[
      {q:"A natural resource is ___.", options:["something made in a factory","something found in nature that humans use","only a type of animal","only oil and gas"], answer:1},
      {q:"Which is an example of a natural resource?", options:["Plastic","Steel beam","Fresh water","Nylon"], answer:2},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Writing: Paragraphs", summary:"Students learn to write a paragraph with a topic sentence, at least three supporting detail sentences, and a concluding sentence.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Writing: Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%203%20educational",
    quiz:[
      {q:"The topic sentence of a paragraph ___.", options:["ends the paragraph","introduces the main idea of the paragraph","is always the longest sentence","only gives one detail"], answer:1},
      {q:"Supporting sentences in a paragraph ___.", options:["change the topic","give details, examples, or reasons that support the topic sentence","are always questions","are written randomly"], answer:1},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"A good paragraph has ___.", options:["only one sentence","a topic sentence, supporting details, and a conclusion","only questions","no main idea"], answer:1}
    ]},
   {subject:"Math", title:"Multiplication: Facts to 5", summary:"Students learn and practise multiplication facts with factors up to 5.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication: Facts to 5", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Facts%20to%205%20grade%203%20educational",
    quiz:[
      {q:"2 × 5 = ?", options:["7","8","9","10"], answer:3},
      {q:"4 × 3 = ?", options:["9","10","11","12"], answer:3},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"What multiplication fact is shown by: ●●●●, ●●●●, ●●●●?", options:["3 + 4","3 × 4 = 12","4 + 3","4 × 4"], answer:1}
    ]},
   {subject:"Science", title:"Simple Machines: Lever and Inclined Plane", summary:"Students explore levers (a bar that pivots on a fulcrum) and inclined planes (a ramp) as simple machines that make work easier.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Simple Machines: Lever and Inclined Plane", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Lever%20and%20Inclined%20Plane%20grade%203%20educational",
    quiz:[
      {q:"A lever is a ___.", options:["type of wheel","bar or plank that pivots on a fulcrum to lift or move things","type of screw","type of pulley"], answer:1},
      {q:"The fulcrum is ___.", options:["the load","the effort force","the pivot point of a lever","the ramp"], answer:2},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"A seesaw is an example of a ___.", options:["wedge","screw","pulley","lever"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Using Maps: Scale and Direction", summary:"Students read and use simple maps, understanding cardinal directions, a compass rose, map legend/key, and basic scale.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Using Maps: Scale and Direction", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Maps%3A%20Scale%20and%20Direction%20grade%203%20educational",
    quiz:[
      {q:"Cardinal directions are ___.", options:["up, down, left, right","north, south, east, west","large, small, medium, tiny","spring, summer, fall, winter"], answer:1},
      {q:"A map legend (key) tells you ___.", options:["the map's author","what the symbols and colours on the map mean","how large the country is","who made the map"], answer:1},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Punctuation: Commas and Apostrophes", summary:"Students use commas in lists (I have a cat, a dog, and a bird) and apostrophes for contractions (don't, can't) and possessives (Tom's book).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Punctuation: Commas and Apostrophes", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Commas%20and%20Apostrophes%20grade%203%20educational",
    quiz:[
      {q:"In a list of three items, where do commas go?", options:["Only after the last item","Between each item (and before 'and' in the series)","Only at the start","Nowhere"], answer:1},
      {q:"Which sentence uses commas correctly in a list?", options:["I bought apples oranges and bananas.","I bought apples, oranges, and bananas.","I bought, apples, oranges and bananas.","I bought apples, oranges and, bananas."], answer:1},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"Which word is a contraction?", options:["Cannot","Can't","Cant","Cannt"], answer:1}
    ]},
   {subject:"Math", title:"Division: Sharing and Grouping", summary:"Students explore division as fair sharing and as grouping. 12 ÷ 3 means sharing 12 into 3 equal groups (4 each) or making groups of 3 from 12 (4 groups).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Division: Sharing and Grouping", resourceUrl:"https://www.youtube.com/results?search_query=Division%3A%20Sharing%20and%20Grouping%20grade%203%20educational",
    quiz:[
      {q:"12 ÷ 4 = ?", options:["3","4","5","6"], answer:0},
      {q:"Division can be thought of as ___.", options:["repeated multiplication","fair sharing into equal groups","random sorting","only subtraction"], answer:1},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"8 ÷ 8 = ?", options:["0","1","8","64"], answer:1}
    ]},
   {subject:"Science", title:"Simple Machines: Wheel-and-Axle and Pulley", summary:"Students explore how wheels with axles and pulleys reduce friction and redirect force to make work easier.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Simple Machines: Wheel-and-Axle and Pulley", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Wheel-and-Axle%20and%20Pulley%20grade%203%20educational",
    quiz:[
      {q:"A wheel-and-axle consists of ___.", options:["two levers","a large wheel attached to a smaller rod (axle)","a rope and a groove","a ramp and a slope"], answer:1},
      {q:"The wheel reduces ___.", options:["speed always","friction, making it easier to move heavy loads","weight","gravity"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"A fixed pulley changes the ___ of a force.", options:["size","colour","direction","weight"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Indigenous Communities in Ontario", summary:"Students learn about the diversity of Indigenous communities in Ontario (First Nations, Métis, Inuit) and their relationship to the land.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Indigenous Communities in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Communities%20in%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"Which groups are Indigenous peoples of Canada?", options:["French and English","First Nations, Métis, and Inuit","Only European settlers","Immigrants from other countries"], answer:1},
      {q:"Indigenous peoples' relationship to the land includes ___.", options:["only farming the land for profit","deep spiritual, cultural, and practical connections to the land, water, and animals","ignoring the land","only using the land for buildings"], answer:1},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Reading: Cause and Effect", summary:"Students identify cause and effect relationships in texts. A cause is why something happened; an effect is what happened as a result.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Cause%20and%20Effect%20grade%203%20educational",
    quiz:[
      {q:"A cause is ___.", options:["what happened","where something happened","why something happened","who did something"], answer:2},
      {q:"An effect is ___.", options:["why something happened","the result of something that happened","when something happened","who caused it"], answer:1},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"It rained heavily. Because of this, the game was cancelled. What is the effect?", options:["It rained heavily","The clouds formed","The game was cancelled","The players got wet"], answer:2}
    ]},
   {subject:"Math", title:"Fractions: Halves, Thirds, Quarters", summary:"Students identify, read, and write fractions as equal parts of a whole (1/2, 1/3, 1/4). They understand that the denominator shows total equal parts.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Fractions: Halves, Thirds, Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%2C%20Thirds%2C%20Quarters%20grade%203%20educational",
    quiz:[
      {q:"In the fraction 3/4, the denominator is ___.", options:["3","4","3/4","7"], answer:1},
      {q:"1/2 means ___.", options:["1 part out of 3 equal parts","1 part out of 2 equal parts","2 parts out of 1 equal part","1 part out of 4 equal parts"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"What does the numerator tell you?", options:["The total equal parts","How many equal parts we have","The size of the whole","The shape of the fraction"], answer:1}
    ]},
   {subject:"Science", title:"Air and Water in the Environment", summary:"Students explore the properties of air (invisible but real, exerts pressure) and water in its three states. They learn about the water cycle.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Air and Water in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Water%20in%20the%20Environment%20grade%203%20educational",
    quiz:[
      {q:"Air is ___.", options:["visible like smoke","invisible but takes up space and exerts pressure","only oxygen","only found in balloons"], answer:1},
      {q:"The water cycle includes ___.", options:["only rain","evaporation, condensation, and precipitation, cycling water through air, land, and sea","only the ocean","only rivers and lakes"], answer:1},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"Why is the water cycle important?", options:["It is not","It continuously distributes fresh water to ecosystems around the world","Only for rain forests","Only for oceans"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Early Settlers in Ontario", summary:"Students learn how early European settlers came to Ontario, the challenges they faced, and how they built communities on the land.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Early Settlers in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Settlers%20in%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"Early European settlers came to Ontario mainly from ___.", options:["Asia and Africa","Britain and France (and other European countries)","South America","Australia"], answer:1},
      {q:"What was one major challenge early settlers in Ontario faced?", options:["Too many schools","Clearing dense forest to build farms and homes in a harsh climate","Too many roads","Too much food"], answer:1},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Writing: Narrative — Beginning, Middle, End", summary:"Students write short narratives (personal or fictional) with a clear beginning that introduces characters and setting, a middle with the main event/problem, and an end that resolves it.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Writing: Narrative — Beginning, Middle, End", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20%E2%80%94%20Beginning%2C%20Middle%2C%20End%20grade%203%20educational",
    quiz:[
      {q:"The beginning of a narrative should ___.", options:["solve the problem","introduce the characters, setting, and situation","summarize everything","be the longest part"], answer:1},
      {q:"The middle of a narrative contains ___.", options:["the resolution","the credits","the main events and problem the character faces","the title"], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Which word signals the beginning of a sequence?", options:["Finally","Then","First","However"], answer:2}
    ]},
   {subject:"Math", title:"Measurement: Perimeter", summary:"Students find the perimeter of 2D shapes by adding all side lengths. They understand that perimeter is the total distance around a shape.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Measurement: Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Perimeter%20grade%203%20educational",
    quiz:[
      {q:"Perimeter is ___.", options:["the area inside a shape","the total distance around the outside of a shape","the weight of a shape","the height of a shape"], answer:1},
      {q:"A square has sides of 4 cm each. Its perimeter is ___.", options:["4 cm","8 cm","12 cm","16 cm"], answer:3},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"A triangle has sides 5 cm, 7 cm, and 8 cm. Perimeter = ?", options:["12 cm","15 cm","20 cm","22 cm"], answer:2}
    ]},
   {subject:"Science", title:"Rocks and Minerals", summary:"Students identify properties of rocks and minerals (colour, lustre, hardness, streak, shape) and understand that rocks are made of one or more minerals.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Rocks and Minerals", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Minerals%20grade%203%20educational",
    quiz:[
      {q:"A mineral is ___.", options:["any rock","a naturally occurring, non-living solid with a specific chemical composition","only found underground","only found in water"], answer:1},
      {q:"A rock is ___.", options:["a single mineral only","a pure element","made up of one or more minerals bonded together","made of living material"], answer:2},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"Igneous rocks form from ___.", options:["pressed layers of sediment","living organisms","cooled magma or lava","wind erosion"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Early Trading and Economy in Ontario", summary:"Students explore how early Indigenous and settler communities traded goods and how the fur trade shaped Ontario's early economy.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Early Trading and Economy in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Trading%20and%20Economy%20in%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"The fur trade was important in early Ontario because ___.", options:["it provided animal companions","furs were highly valued in Europe for clothing and hats, driving exploration and trade","it only helped Indigenous peoples","it had no lasting effects"], answer:1},
      {q:"Early Indigenous peoples traded ___.", options:["electronics","furs, food, and knowledge of the land","manufactured goods","cars"], answer:1},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Nouns, Verbs, Adjectives", summary:"Students identify nouns (person, place, thing, animal), verbs (action or state words), and adjectives (describing words) in sentences.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Grammar: Nouns, Verbs, Adjectives", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Nouns%2C%20Verbs%2C%20Adjectives%20grade%203%20educational",
    quiz:[
      {q:"A noun names a ___.", options:["feeling or action","person, place, thing, or animal","movement or sound","only a building"], answer:1},
      {q:"A verb is a word that describes ___.", options:["a person or place","a colour or size","an action or state of being","only running"], answer:2},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"In 'The dog barked loudly', the verb is ___.", options:["The","dog","barked","loudly"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication: Facts 6 to 10", summary:"Students practise multiplication facts with factors from 6 to 10.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication: Facts 6 to 10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Facts%206%20to%2010%20grade%203%20educational",
    quiz:[
      {q:"6 × 7 = ?", options:["40","42","44","46"], answer:1},
      {q:"8 × 9 = ?", options:["62","70","72","76"], answer:2},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"9 × 4 = ?", options:["32","34","36","40"], answer:2}
    ]},
   {subject:"Science", title:"Structures: Types and Properties", summary:"Students explore natural and human-made structures. They investigate properties like stability, strength, and function.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Structures: Types and Properties", resourceUrl:"https://www.youtube.com/results?search_query=Structures%3A%20Types%20and%20Properties%20grade%203%20educational",
    quiz:[
      {q:"A structure is ___.", options:["a type of weather event","something built or constructed to serve a purpose","only a building","only a bridge"], answer:1},
      {q:"Which is a natural structure?", options:["A bridge","A skyscraper","A bird's nest","A dam built by engineers"], answer:2},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Which material is usually strongest for building?", options:["Paper","Foam","Balsa wood","Concrete or steel"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Immigration and Cultural Diversity in Ontario", summary:"Students learn how immigration has shaped Ontario's diverse population and culture throughout history and today.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Immigration and Cultural Diversity in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Cultural%20Diversity%20in%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"Immigration means ___.", options:["moving to another city in the same country","moving to a new country to live permanently","travelling for vacation","going to school in a different province"], answer:1},
      {q:"Why do people immigrate to Ontario?", options:["Only for bad reasons","For opportunities, safety, family reunification, and a better quality of life","Only for the weather","They are forced to always"], answer:1},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Non-Fiction Reading: Compare and Contrast", summary:"Students identify similarities and differences between two topics in a text using compare-and-contrast structure.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Non-Fiction Reading: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%20Reading%3A%20Compare%20and%20Contrast%20grade%203%20educational",
    quiz:[
      {q:"To compare means to ___.", options:["only list differences","identify similarities between two or more things","describe only one thing","count all the differences"], answer:1},
      {q:"To contrast means to ___.", options:["identify similarities","describe one thing","identify differences between two or more things","combine two things"], answer:2},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"A Venn diagram is useful for ___.", options:["multiplying fractions","solving equations","showing similarities and differences between two topics","ordering events in time"], answer:2}
    ]},
   {subject:"Math", title:"Measurement: Area", summary:"Students find the area of rectangles by counting square units or using the formula length × width.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Measurement: Area", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Area%20grade%203%20educational",
    quiz:[
      {q:"Area is ___.", options:["the distance around a shape","the weight of a shape","the amount of space inside a 2D shape","the length of one side"], answer:2},
      {q:"A rectangle 4 cm long and 3 cm wide has an area of ___.", options:["7 cm","10 cm","12 cm²","14 cm"], answer:2},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"A square with side 5 m has an area of ___.", options:["10 m²","20 m²","25 m²","30 m²"], answer:2}
    ]},
   {subject:"Science", title:"Pulleys, Gears, and Compound Machines", summary:"Students learn how pulleys change the direction of a force, how gears transfer motion, and how compound machines combine two or more simple machines.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Pulleys, Gears, and Compound Machines", resourceUrl:"https://www.youtube.com/results?search_query=Pulleys%2C%20Gears%2C%20and%20Compound%20Machines%20grade%203%20educational",
    quiz:[
      {q:"A pulley uses a ___ to redirect or reduce force needed to lift a load.", options:["wedge","screw","rope and grooved wheel","lever and fulcrum"], answer:2},
      {q:"Gears are used to ___.", options:["hold things together like nails","change the speed or direction of motion","measure weight","only decorate machines"], answer:1},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a simple machine inside a compound machine?", options:["A computer chip","A wheel on a bicycle","An electric motor","A battery"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ontario's Relationship with the Rest of Canada", summary:"Students explore how Ontario is connected to other provinces through trade, shared government, geography, and culture.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Ontario's Relationship with the Rest of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Relationship%20with%20the%20Rest%20of%20Canada%20grade%203%20educational",
    quiz:[
      {q:"Ontario is connected to other provinces through ___.", options:["only highways","trade, shared national government, transportation, and cultural ties","no connections","only weather"], answer:1},
      {q:"Which province borders Ontario to the west?", options:["Quebec","Manitoba","British Columbia","Nova Scotia"], answer:1},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Reading: Point of View", summary:"Students identify the narrator's point of view (first person: I, me; third person: he, she, they) and consider how different perspectives shape the telling of a story.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading: Point of View", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Point%20of%20View%20grade%203%20educational",
    quiz:[
      {q:"First-person point of view uses the pronouns ___.", options:["he, she, they","I, me, my, we","you, your","it, its"], answer:1},
      {q:"Third-person point of view uses the pronouns ___.", options:["I, me, my","you, your","he, she, they, his, her, their","we, us"], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"In 'She grabbed her bag and ran,' the narrator is speaking in ___.", options:["first person","second person","third person","fourth person"], answer:2}
    ]},
   {subject:"Math", title:"Data: Tally Charts and Bar Graphs", summary:"Students collect data using tally marks and represent it in a bar graph. They read and interpret graphs to answer questions.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Data: Tally Charts and Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Tally%20Charts%20and%20Bar%20Graphs%20grade%203%20educational",
    quiz:[
      {q:"In a tally chart, a group of 5 is shown as ___.", options:["IIIII","||||","|||||  (four vertical lines with one diagonal line through)","VVVVV"], answer:2},
      {q:"A bar graph shows data using ___.", options:["dots","lines only","bars (rectangles) of different heights or lengths","only circles"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"Why do we organise data in charts and graphs?", options:["To make it confusing","To make it easier to read, compare, and draw conclusions","Only for decoration","Only for adults"], answer:1}
    ]},
   {subject:"Science", title:"Weathering and Erosion", summary:"Students learn how wind, water, ice, and plants break down and move rocks (weathering and erosion), shaping the landscape over time.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Weathering and Erosion", resourceUrl:"https://www.youtube.com/results?search_query=Weathering%20and%20Erosion%20grade%203%20educational",
    quiz:[
      {q:"Weathering is the process of ___.", options:["building up rocks","plants growing","the breaking down of rocks and minerals by wind, water, ice, and chemicals","flooding only"], answer:2},
      {q:"Erosion is ___.", options:["the build-up of sediment in one place","breaking rocks into minerals","the movement of weathered material (soil, rock) from one place to another","plant growth"], answer:2},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Which human activity can speed up erosion?", options:["Planting trees","Removing vegetation from slopes through logging or construction","Building stone walls","Using underground water"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Mapping Skills: Grid References", summary:"Students use a grid (using letters and numbers) to locate places on a map and practise reading coordinates.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Mapping Skills: Grid References", resourceUrl:"https://www.youtube.com/results?search_query=Mapping%20Skills%3A%20Grid%20References%20grade%203%20educational",
    quiz:[
      {q:"A map grid uses ___ and ___ to name locations.", options:["colours and shapes","letters and numbers","symbols and pictures","flags and icons"], answer:1},
      {q:"If a city is at B3 on a grid map, where is it?", options:["Row A, column 3","Row B, column 3","Row 3, column B","Row C, column 2"], answer:1},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the 'look-cover-write-check' strategy to spell words accurately.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Spelling Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Strategies%20grade%203%20educational",
    quiz:[
      {q:"The 'look, cover, write, check' strategy helps you ___.", options:["read faster","do maths","practise spelling by seeing, hiding, writing, and verifying the word","draw pictures"], answer:1},
      {q:"A word family shares the same ___.", options:["first letter","word origin and spelling pattern (e.g., -at: cat, bat, hat)","number of syllables","only vowels"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is spelled correctly?", options:["Becaus","Becawse","Because","Becaze"], answer:2}
    ]},
   {subject:"Math", title:"Fractions: Comparing and Equivalent", summary:"Students compare fractions with the same denominator and explore simple equivalent fractions (1/2 = 2/4).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Fractions: Comparing and Equivalent", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20and%20Equivalent%20grade%203%20educational",
    quiz:[
      {q:"Which is larger: 3/5 or 1/5?", options:["1/5","3/5","They are equal","Cannot tell"], answer:1},
      {q:"Equivalent fractions are ___.", options:["fractions with the same numerator","different fractions that represent the same amount","only whole numbers","always improper"], answer:1},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"To compare fractions with the same denominator, compare ___.", options:["denominators","numerators","the size of the paper","the colours"], answer:1}
    ]},
   {subject:"Science", title:"Animals and Their Habitats (Ontario Focus)", summary:"Students study specific Ontario habitats (boreal forest, Great Lakes wetlands, grasslands) and animals adapted to each.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Animals and Their Habitats (Ontario Focus)", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20and%20Their%20Habitats%20%28Ontario%20Focus%29%20grade%203%20educational",
    quiz:[
      {q:"The boreal forest in Ontario is characterized by ___.", options:["palm trees and warm weather","dense coniferous (evergreen) trees and cold winters","sandy deserts","tropical animals"], answer:1},
      {q:"A wetland habitat provides ___.", options:["only open water","shallow water, dense vegetation, and rich nutrients supporting many birds, fish, and amphibians","no wildlife","only fish"], answer:1},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"The Canadian Shield in northern Ontario is home to ___.", options:["mainly tropical animals","mainly boreal forest wildlife including moose, black bears, and wolves","only birds","only fish"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Settlement Patterns in Ontario", summary:"Students explore why early communities developed where they did — near rivers, lakes, trade routes — and how settlement patterns continue to evolve.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Settlement Patterns in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Settlement%20Patterns%20in%20Ontario%20grade%203%20educational",
    quiz:[
      {q:"Early Ontario communities were most often built ___.", options:["in the middle of dense forests far from water","near rivers and lakes for water, transportation, and food","in deserts","on mountain tops"], answer:1},
      {q:"Why was access to water important for early settlements?", options:["It was not","Rivers and lakes provided drinking water, fish, transportation routes, and power for mills","Only for bathing","Only for hunting"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Asking Questions", summary:"Students learn to ask questions before, during, and after reading to monitor comprehension and engage deeply with texts.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading: Asking Questions", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Asking%20Questions%20grade%203%20educational",
    quiz:[
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","activate prior knowledge and set a purpose for reading","write better","skip the hard parts"], answer:1},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","think more deeply and check your understanding as you go","avoid the confusing parts","copy the text"], answer:1},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Asking questions about a text is a sign of ___.", options:["poor reading","active and engaged reading","not understanding at all","skimming only"], answer:1}
    ]},
   {subject:"Math", title:"Time: Hours, Minutes, and Elapsed Time", summary:"Students tell time to the nearest minute using an analogue clock and calculate elapsed time.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Time: Hours, Minutes, and Elapsed Time", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Hours%2C%20Minutes%2C%20and%20Elapsed%20Time%20grade%203%20educational",
    quiz:[
      {q:"On an analogue clock, the short hand shows ___.", options:["minutes","seconds","hours","days"], answer:2},
      {q:"On an analogue clock, the long hand shows ___.", options:["hours","seconds","days","minutes"], answer:3},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"A movie starts at 1:30 pm and ends at 3:00 pm. How long is the movie?", options:["1 hour","1.5 hours","2 hours","2.5 hours"], answer:1}
    ]},
   {subject:"Science", title:"Energy: Forms and Sources", summary:"Students explore forms of energy (light, heat, sound, electrical, mechanical) and sources (Sun, wind, water, fossil fuels).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Energy: Forms and Sources", resourceUrl:"https://www.youtube.com/results?search_query=Energy%3A%20Forms%20and%20Sources%20grade%203%20educational",
    quiz:[
      {q:"Energy is defined as ___.", options:["a type of matter","the ability to do work or cause change","only electricity","only heat"], answer:1},
      {q:"The Sun is a source of ___ energy.", options:["only sound","only mechanical","light and heat","only electrical"], answer:2},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Electrical energy can be transformed into ___.", options:["nothing","light, heat, and sound (e.g., in a light bulb, a toaster, a speaker)","only movement","only light"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ontario's Economy Today", summary:"Students explore Ontario's major industries: manufacturing, agriculture, technology, finance, and mining.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Ontario's Economy Today", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Economy%20Today%20grade%203%20educational",
    quiz:[
      {q:"Which industry produces cars and vehicles in Ontario?", options:["Forestry","Fishing","Manufacturing","Only farming"], answer:2},
      {q:"Ontario's Bay Street in Toronto is known for ___.", options:["beaches","forests","financial services and banking","mining"], answer:2},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Writing: Procedural Texts", summary:"Students write how-to instructions with a clear title, list of materials, numbered steps, and sequence words (first, next, then, finally).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Writing: Procedural Texts", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%203%20educational",
    quiz:[
      {q:"A procedural text tells you ___.", options:["a fictional story","how to do or make something step by step","a poem","a persuasive essay"], answer:1},
      {q:"Sequence words in procedural writing include ___.", options:["however, although, but","first, next, then, finally","because, since, therefore","only nouns and verbs"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a procedural text?", options:["A fairy tale","A poem about rain","Step-by-step instructions on how to plant a seed","A chapter from a novel"], answer:2}
    ]},
   {subject:"Math", title:"3D Geometry: Faces, Edges, Vertices", summary:"Students identify faces, edges, and vertices on 3D shapes (cube, rectangular prism, triangular prism, cylinder, cone, sphere, pyramid).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: 3D Geometry: Faces, Edges, Vertices", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Geometry%3A%20Faces%2C%20Edges%2C%20Vertices%20grade%203%20educational",
    quiz:[
      {q:"A cube has ___ faces.", options:["4","5","6","8"], answer:2},
      {q:"A vertex (vertices) of a shape is ___.", options:["a flat surface","a straight edge","a corner where edges meet","a curved surface"], answer:2},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"A triangular prism has ___ triangular faces.", options:["1","2","3","4"], answer:1}
    ]},
   {subject:"Science", title:"Light: Reflection and Shadows", summary:"Students explore how light travels in straight lines, reflects off surfaces (mirrors), refracts (bends) when passing through water or glass, and creates shadows.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Light: Reflection and Shadows", resourceUrl:"https://www.youtube.com/results?search_query=Light%3A%20Reflection%20and%20Shadows%20grade%203%20educational",
    quiz:[
      {q:"Light travels in ___.", options:["curves","spirals","waves that bend easily","straight lines"], answer:3},
      {q:"A shadow forms when an object ___.", options:["reflects all light","blocks light from passing through","absorbs all heat","only moves"], answer:1},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"A smooth, shiny surface like a mirror gives ___.", options:["a blurry, scattered reflection","a clear, regular reflection","no reflection","only a shadow"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship", summary:"Students learn what it means to be a responsible citizen: following laws, voting, contributing to the community, and respecting others.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Canadian Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20grade%203%20educational",
    quiz:[
      {q:"A citizen is ___.", options:["only a government official","a legal member of a country who has rights and responsibilities","only an adult","only a voter"], answer:1},
      {q:"Which right do Canadian citizens have?", options:["To break any law","To vote in federal elections","To ignore community rules","To be exempt from taxes"], answer:1},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Reading Strategies Review", summary:"Students review and consolidate key reading strategies: predicting, questioning, making connections, visualising, and summarising.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading Strategies Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%20Review%20grade%203%20educational",
    quiz:[
      {q:"Predicting while reading means ___.", options:["skipping ahead","using clues to guess what will happen next","always being right","only looking at pictures"], answer:1},
      {q:"Making a connection to the text means ___.", options:["ignoring the text","relating what you read to your own experiences, other books, or the world","only memorising it","only summarising"], answer:1},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Which strategy helps when a word is confusing?", options:["Give up","Read on for context clues or reread the sentence","Skip it permanently","Ask someone else to read for you"], answer:1}
    ]},
   {subject:"Math", title:"Probability: Likely, Unlikely, Certain, Impossible", summary:"Students use probability language to describe the likelihood of events.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Probability: Likely, Unlikely, Certain, Impossible", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Likely%2C%20Unlikely%2C%20Certain%2C%20Impossible%20grade%203%20educational",
    quiz:[
      {q:"An event is 'certain' if ___.", options:["it will never happen","it happens by chance","it will definitely happen every time","it sometimes happens"], answer:2},
      {q:"An event is 'impossible' if ___.", options:["it might happen","it will definitely happen","it has never happened before","it cannot possibly happen"], answer:3},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Drawing a red marble from a bag of only blue marbles is ___.", options:["certain","likely","unlikely","impossible"], answer:3}
    ]},
   {subject:"Science", title:"Habitats Review and Biodiversity", summary:"Students review Ontario habitats and learn that biodiversity — the variety of living things — is essential for healthy ecosystems.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Habitats Review and Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20Review%20and%20Biodiversity%20grade%203%20educational",
    quiz:[
      {q:"Biodiversity means ___.", options:["having only one type of animal","having only plants","the variety of living things in an ecosystem","only counting species"], answer:2},
      {q:"High biodiversity is a sign of ___.", options:["an unhealthy ecosystem","a healthy ecosystem where many species interact","too many animals","too few plants"], answer:1},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"Why is protecting biodiversity important?", options:["It is not","Ecosystems with many species are more resilient, and all species play a role in keeping ecosystems balanced","Only for rare animals","Only for scientists"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Community Celebrations and Heritage", summary:"Students explore how Ontario communities celebrate cultural heritage through festivals, traditions, and public holidays.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Community Celebrations and Heritage", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Celebrations%20and%20Heritage%20grade%203%20educational",
    quiz:[
      {q:"Heritage is ___.", options:["only old buildings","the traditions, language, values, and history passed from earlier generations","only museums","only food"], answer:1},
      {q:"Canada Day (July 1) celebrates ___.", options:["the end of winter","Canada becoming a self-governing country in 1867","Ontario's founding only","a sports victory"], answer:1},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Verb Tenses: Past, Present, Future", summary:"Students identify and use past, present, and future tenses. They understand that tense tells when an action happens.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Verb Tenses: Past, Present, Future", resourceUrl:"https://www.youtube.com/results?search_query=Verb%20Tenses%3A%20Past%2C%20Present%2C%20Future%20grade%203%20educational",
    quiz:[
      {q:"Which sentence is in the PAST tense?", options:["I walk to school.","She is running.","He ate his lunch.","They will play tomorrow."], answer:2},
      {q:"Which sentence is in the PRESENT tense?", options:["She ran yesterday.","They will come soon.","We are playing now.","He had left already."], answer:2},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Which word signals the past tense?", options:["Tomorrow","Now","Yesterday","Soon"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication Facts: Review to 10×10", summary:"Students consolidate multiplication facts up to 10×10 and use strategies to solve unknown facts.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication Facts: Review to 10×10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%20Review%20to%2010%C3%9710%20grade%203%20educational",
    quiz:[
      {q:"7 × 8 = ?", options:["54","56","58","60"], answer:1},
      {q:"9 × 6 = ?", options:["48","52","54","58"], answer:2},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"10 × 10 = ?", options:["10","20","100","1000"], answer:2}
    ]},
   {subject:"Science", title:"Magnets", summary:"Students explore properties of magnets: poles (N/S), attraction, repulsion, magnetic fields, and everyday uses.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Magnets", resourceUrl:"https://www.youtube.com/results?search_query=Magnets%20grade%203%20educational",
    quiz:[
      {q:"Opposite poles of magnets ___.", options:["repel","attract","do nothing","break apart"], answer:1},
      {q:"Like poles of magnets ___.", options:["attract strongly","repel (push away)","have no reaction","stick together always"], answer:1},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Magnets are used in ___.", options:["only refrigerators","many devices including compasses, speakers, motors, and credit cards","nothing modern","only toys"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Urban and Rural Communities: Services", summary:"Students compare the services available in urban and rural communities, exploring how geography and population affect service availability.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Urban and Rural Communities: Services", resourceUrl:"https://www.youtube.com/results?search_query=Urban%20and%20Rural%20Communities%3A%20Services%20grade%203%20educational",
    quiz:[
      {q:"Which service is more commonly found in large urban areas?", options:["A small one-room schoolhouse","A major hospital with specialist care","A grain elevator","A logging camp"], answer:1},
      {q:"A rural community might rely on ___.", options:["subway systems","long-distance travel to access specialised medical and retail services","skyscrapers","a packed public transit system"], answer:1},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Summarising: Non-Fiction", summary:"Students summarise non-fiction texts by identifying the main idea, key details, and omitting unnecessary information.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Summarising: Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Summarising%3A%20Non-Fiction%20grade%203%20educational",
    quiz:[
      {q:"To summarise a non-fiction text, you should ___.", options:["copy every sentence","include only the main idea and key supporting details in your own words","make up new information","only write the first paragraph"], answer:1},
      {q:"Which information should be OMITTED in a summary?", options:["The main idea","Key supporting facts","Interesting minor details that do not support the main idea","The topic of the text"], answer:2},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Why is summarising an important reading skill?", options:["It is not","It shows you understood the key ideas and helps you remember and discuss what you read","Only for tests","Only for non-fiction"], answer:1}
    ]},
   {subject:"Math", title:"Fractions on a Number Line", summary:"Students place fractions on a number line between 0 and 1, understanding that fractions represent parts between whole numbers.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Fractions on a Number Line", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%20on%20a%20Number%20Line%20grade%203%20educational",
    quiz:[
      {q:"On a number line, 1/2 is located ___.", options:["at 0","at 1","halfway between 0 and 1","past 1"], answer:2},
      {q:"Which fraction is closer to 1 on a number line?", options:["1/4","1/8","3/4","1/2"], answer:2},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"On a number line from 0 to 1, 3/4 is ___.", options:["before 1/2","after 1/2 but before 1","after 1","at 1"], answer:1}
    ]},
   {subject:"Science", title:"Forces: Gravity and Friction", summary:"Students investigate gravity as a downward force and friction as a resistance force. They explore how these affect motion.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Forces: Gravity and Friction", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20and%20Friction%20grade%203%20educational",
    quiz:[
      {q:"Gravity is a force that ___.", options:["pushes objects upward","pulls objects toward the centre of the Earth","has no effect on motion","only affects large objects"], answer:1},
      {q:"Friction is a force that ___.", options:["speeds objects up","pulls objects downward","resists the motion of surfaces sliding against each other","has no effect on objects"], answer:2},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Gravity pulls all objects downward at the same rate regardless of ___.", options:["their colour","their size and mass (in a vacuum)","their shape","their temperature"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ontario and the Environment", summary:"Students explore environmental issues in Ontario: pollution, conservation, and the role citizens and government play in protecting natural spaces.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Ontario and the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%20and%20the%20Environment%20grade%203%20educational",
    quiz:[
      {q:"The Greenbelt in Ontario is ___.", options:["a type of vegetable garden","a protected area of farmland, forests, and wetlands around the Greater Toronto Area","a sports field","a government building"], answer:1},
      {q:"Water pollution in the Great Lakes is caused by ___.", options:["natural processes only","industrial discharge, agricultural runoff, and urban sewage","only rain","only wildlife"], answer:1},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Poetry: Reading and Interpreting", summary:"Students read various poem forms (haiku, cinquain, limerick) and identify poetic elements: rhyme, rhythm, stanza, simile, and metaphor.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Poetry: Reading and Interpreting", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%3A%20Reading%20and%20Interpreting%20grade%203%20educational",
    quiz:[
      {q:"Rhyme in poetry means ___.", options:["repeating the same word","ending lines with words that have the same ending sound","making lines very long","using no punctuation"], answer:1},
      {q:"A simile compares two things using 'like' or 'as.' Which is a simile?", options:["The moon is a lantern in the sky","He ran like the wind","She is a shining star","The thunder spoke to the rain"], answer:1},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"A stanza in a poem is like a ___ in prose writing.", options:["sentence","paragraph","chapter","word"], answer:1}
    ]},
   {subject:"Math", title:"Money: Counting and Making Change", summary:"Students identify Canadian coins and bills, count amounts of money, and calculate simple change.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Money: Counting and Making Change", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20and%20Making%20Change%20grade%203%20educational",
    quiz:[
      {q:"How many cents are in one dollar?", options:["10","50","100","1000"], answer:2},
      {q:"Which coin is worth 25 cents?", options:["Nickel","Dime","Quarter","Loonie"], answer:2},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"A toonie is worth ___.", options:["$1.00","$0.25","$2.00","$0.50"], answer:2}
    ]},
   {subject:"Science", title:"Rocks: Igneous, Sedimentary, Metamorphic", summary:"Students classify rocks into three types and understand how each forms.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Rocks: Igneous, Sedimentary, Metamorphic", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%3A%20Igneous%2C%20Sedimentary%2C%20Metamorphic%20grade%203%20educational",
    quiz:[
      {q:"Igneous rocks form from ___.", options:["pressed sediment layers","living organisms","metamorphism","cooled magma or lava"], answer:3},
      {q:"Sedimentary rocks form from ___.", options:["cooled lava","metamorphism","layers of sediment (sand, silt, shells) compressed over time","volcanic eruptions"], answer:2},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Fossils are most commonly found in ___ rock.", options:["igneous","metamorphic","sedimentary","volcanic"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Economy: Goods and Services", summary:"Students explore the difference between goods (physical products) and services (activities that meet needs), and how they are exchanged.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Economy: Goods and Services", resourceUrl:"https://www.youtube.com/results?search_query=Economy%3A%20Goods%20and%20Services%20grade%203%20educational",
    quiz:[
      {q:"Goods are ___.", options:["things people do for you","physical products you can hold and buy","only free things","only natural resources"], answer:1},
      {q:"Services are ___.", options:["only food","activities that someone does for you that meet a need","physical objects you buy","only government actions"], answer:1},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Non-Fiction: Cause and Effect in Science Texts", summary:"Students practise identifying cause-and-effect relationships in non-fiction science texts using text clues and structure.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Non-Fiction: Cause and Effect in Science Texts", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%3A%20Cause%20and%20Effect%20in%20Science%20Texts%20grade%203%20educational",
    quiz:[
      {q:"In a science text, 'because' often signals ___.", options:["a sequence of events","an effect","a cause coming next","the main idea"], answer:2},
      {q:"In a science text, 'therefore' often signals ___.", options:["a cause","an effect or result","a new topic","an example"], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"The effect in 'The animal population declined because the habitat was destroyed' is ___.", options:["the habitat was destroyed","because","The animal population declined","The habitat"], answer:0}
    ]},
   {subject:"Math", title:"Patterns: Growing and Shrinking", summary:"Students identify and extend growing (increasing) and shrinking (decreasing) patterns using numbers, shapes, and objects.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Patterns: Growing and Shrinking", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Growing%20and%20Shrinking%20grade%203%20educational",
    quiz:[
      {q:"A growing pattern is one that ___.", options:["stays the same","decreases with each term","increases with each term","repeats in a cycle"], answer:2},
      {q:"Identify the pattern: 2, 4, 6, 8... It is ___.", options:["shrinking by 2","growing by 2","random","staying the same"], answer:1},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a growing pattern?", options:["10, 10, 10, 10","10, 8, 6, 4","5, 10, 15, 20","10, 9, 8, 7"], answer:2}
    ]},
   {subject:"Science", title:"Electricity: Static and Current", summary:"Students explore static electricity (build-up of charge) and current electricity (flowing charge that powers devices). They identify conductors and insulators.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Electricity: Static and Current", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20grade%203%20educational",
    quiz:[
      {q:"Static electricity is caused by ___.", options:["flowing electrons in a wire","a build-up of electric charge on a surface (often from friction)","magnetism only","sound waves"], answer:1},
      {q:"Current electricity is ___.", options:["stationary charge","a flow of electrons through a conductor (like a wire)","only from batteries","only for large machines"], answer:1},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a good conductor of electricity?", options:["Rubber","Plastic","Wood","Copper wire"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Rights of Children: UNCRC", summary:"Students learn about the United Nations Convention on the Rights of the Child (UNCRC) and key rights: education, protection, participation, and health.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Rights of Children: UNCRC", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20of%20Children%3A%20UNCRC%20grade%203%20educational",
    quiz:[
      {q:"The UNCRC is ___.", options:["a type of food","a Canadian law only","an international agreement on children's rights signed by most countries","a school rule"], answer:2},
      {q:"According to the UNCRC, all children have the right to ___.", options:["only education","only health care","education, protection from harm, health care, and participation in decisions affecting them","only play"], answer:2},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Writing: Opinion", summary:"Students write opinion paragraphs stating a clear position, giving reasons supported by evidence or examples, and using opinion language.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Writing: Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Opinion%20grade%203%20educational",
    quiz:[
      {q:"An opinion is ___.", options:["a proven fact","a belief or view that reflects a personal perspective, not universal fact","only a complaint","only a question"], answer:1},
      {q:"Opinion writing should include ___.", options:["only facts with no personal stance","a clear position and reasons or evidence to support it","only questions","random information"], answer:1},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"A conclusion in opinion writing should ___.", options:["start a new argument","restate your opinion and summarise your main reasons","apologise for your opinion","list new facts"], answer:1}
    ]},
   {subject:"Math", title:"Division Facts: Linking to Multiplication", summary:"Students use their knowledge of multiplication to solve division problems (fact families).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Division Facts: Linking to Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=Division%20Facts%3A%20Linking%20to%20Multiplication%20grade%203%20educational",
    quiz:[
      {q:"If 4 × 5 = 20, then 20 ÷ 4 = ?", options:["4","5","10","20"], answer:1},
      {q:"Which multiplication fact helps solve 36 ÷ 6?", options:["5 × 6 = 30","6 × 6 = 36","7 × 6 = 42","6 × 4 = 24"], answer:1},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"45 ÷ 9 = ?", options:["4","5","6","7"], answer:1}
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"Students explore how water moves through the water cycle: evaporation, condensation, and precipitation. They understand how the cycle distributes fresh water.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%203%20educational",
    quiz:[
      {q:"The water cycle is powered mainly by ___.", options:["wind","the Moon's gravity","energy from the Sun","Earth's rotation"], answer:2},
      {q:"Evaporation is when ___.", options:["liquid water falls as rain","water vapour turns into liquid droplets","liquid water changes to water vapour and rises into the atmosphere","water freezes"], answer:2},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Why is the water cycle important?", options:["It creates lightning","It continuously moves and purifies water, distributing fresh water to land ecosystems","Only for rivers","Only for oceans"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Cultural Practices in Ontario Communities", summary:"Students explore how cultural practices — food, clothing, music, art, language — contribute to the identity of Ontario's diverse communities.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Cultural Practices in Ontario Communities", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Practices%20in%20Ontario%20Communities%20grade%203%20educational",
    quiz:[
      {q:"Cultural practices are ___.", options:["only government rules","traditions, arts, language, food, and customs that are part of a group's identity","only found in other countries","only for elderly people"], answer:1},
      {q:"How do different cultural practices enrich Ontario communities?", options:["They cause confusion","They bring diverse perspectives, art, food, and ideas that make communities more vibrant","Only if everyone agrees","They do not"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Reading: Inference", summary:"Students make inferences — use clues from the text plus their own knowledge to figure out what the author implies but does not state directly.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading: Inference", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Inference%20grade%203%20educational",
    quiz:[
      {q:"An inference is ___.", options:["something stated directly in the text","a guess with no evidence","a conclusion drawn from text clues plus prior knowledge","only for non-fiction"], answer:2},
      {q:"When you infer, you use ___.", options:["only pictures","only the title","text clues plus what you already know","only the last paragraph"], answer:2},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Which question requires an inference?", options:["How many pages is this book?","Who is the author?","Why did the character act so nervously?","What is the title?"], answer:2}
    ]},
   {subject:"Math", title:"3D Shapes: Nets", summary:"Students identify and create nets — flat shapes that can be folded to make 3D shapes — for cubes, rectangular prisms, and triangular prisms.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: 3D Shapes: Nets", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Nets%20grade%203%20educational",
    quiz:[
      {q:"A net of a 3D shape is ___.", options:["the weight of the shape","a flat pattern that folds up to form a 3D shape","a shadow of the shape","only for squares"], answer:1},
      {q:"A cube's net has ___ squares.", options:["4","5","6","8"], answer:2},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"A rectangular prism has ___ rectangular faces.", options:["4","6","8","2"], answer:1}
    ]},
   {subject:"Science", title:"Ecosystems and Food Chains", summary:"Students explore simple food chains in Ontario ecosystems: producer → primary consumer → secondary consumer, and the concept of the food web.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Ecosystems and Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Food%20Chains%20grade%203%20educational",
    quiz:[
      {q:"In a food chain, a producer is ___.", options:["an animal that hunts","a plant that makes its own food using sunlight (photosynthesis)","a decomposer","a top predator"], answer:1},
      {q:"A primary consumer eats ___.", options:["other animals","only decomposers","plants (producers)","nothing"], answer:2},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"A food web is ___.", options:["a single line of feeding relationships","a network of interconnected food chains showing multiple feeding relationships in an ecosystem","only for aquatic animals","only for plants"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Comparing Communities Around the World", summary:"Students compare communities in different countries with Ontario communities, exploring similarities and differences in climate, culture, economy, and geography.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Comparing Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20Around%20the%20World%20grade%203%20educational",
    quiz:[
      {q:"Comparing communities from different countries helps us ___.", options:["avoid learning about others","understand and appreciate diverse ways of living and the challenges different communities face","feel superior","only find differences"], answer:1},
      {q:"A community in a desert region would face ___ challenges compared to one in Ontario.", options:["the same","different challenges like water scarcity and extreme heat","easier challenges","no challenges"], answer:1},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Adverbs and Prepositions", summary:"Students identify adverbs (modify verbs: how, when, where) and prepositions (show relationship in space/time: in, on, under, after).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Grammar: Adverbs and Prepositions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20and%20Prepositions%20grade%203%20educational",
    quiz:[
      {q:"An adverb modifies a ___.", options:["noun","pronoun","adjective only","verb, adjective, or other adverb"], answer:3},
      {q:"In 'She sang beautifully,' the adverb is ___.", options:["She","sang","beautifully","is"], answer:2},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Which word is an adverb?", options:["Happy","Quickly","Dog","Soft"], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Congruence and Symmetry", summary:"Students identify congruent shapes (same size and shape) and lines of symmetry. They recognise symmetrical shapes by folding.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Geometry: Congruence and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Congruence%20and%20Symmetry%20grade%203%20educational",
    quiz:[
      {q:"Congruent shapes are ___.", options:["the same colour","the same size AND shape","only the same size","only the same colour"], answer:1},
      {q:"A line of symmetry divides a shape into ___.", options:["unequal parts","two random pieces","two mirror-image halves","only triangles"], answer:2},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"Which shape has exactly one line of symmetry?", options:["Square","Circle","Equilateral triangle","Isosceles triangle"], answer:3}
    ]},
   {subject:"Science", title:"Sound: Vibration, Pitch, Volume", summary:"Students explore how sound is produced (vibration), transmitted, and detected. They investigate pitch (high/low) and volume (loud/soft).",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Sound: Vibration, Pitch, Volume", resourceUrl:"https://www.youtube.com/results?search_query=Sound%3A%20Vibration%2C%20Pitch%2C%20Volume%20grade%203%20educational",
    quiz:[
      {q:"Sound is produced by ___.", options:["magnetism","heat","light","vibration of an object"], answer:3},
      {q:"Pitch describes how ___ or ___ a sound is.", options:["loud or soft","fast or slow","long or short","high or low"], answer:3},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Sound travels as ___.", options:["light waves","magnetic fields","vibrations through a medium (air, water, or solid material)","electrical current"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Confederation and Canada's History", summary:"Students learn about Confederation (1867) when four provinces joined to form Canada, and how the country grew to its current size.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Confederation and Canada's History", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Canada%27s%20History%20grade%203%20educational",
    quiz:[
      {q:"Confederation happened in ___.", options:["1776","1812","1867","1900"], answer:2},
      {q:"The first four provinces to join Confederation were ___.", options:["Ontario, Quebec, Nova Scotia, and New Brunswick","British Columbia, Alberta, Saskatchewan, Manitoba","Ontario, Quebec, British Columbia, Manitoba","All ten provinces at once"], answer:0},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Research Skills: Finding Information", summary:"Students practise using books, encyclopedias, and reliable websites to find information. They evaluate source reliability.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Research Skills: Finding Information", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Skills%3A%20Finding%20Information%20grade%203%20educational",
    quiz:[
      {q:"A reliable source of information is one that ___.", options:["anyone can edit without verification","is authored by experts, fact-checked, and cites evidence","is only on social media","only contains pictures"], answer:1},
      {q:"An index in a non-fiction book helps you ___.", options:["read faster","find specific topics alphabetically at the back of the book","find the author's biography","draw pictures"], answer:1},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a signal that a website may be unreliable?", options:["It has a known author and institution","It cites other reliable sources","It looks professional","It has no author, no sources, and makes extreme claims"], answer:3}
    ]},
   {subject:"Math", title:"Area and Perimeter: Problem Solving", summary:"Students solve real-world problems involving area and perimeter of rectangles.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Area and Perimeter: Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%3A%20Problem%20Solving%20grade%203%20educational",
    quiz:[
      {q:"A garden is 8 m long and 5 m wide. What is its area?", options:["13 m²","26 m²","40 m²","45 m²"], answer:2},
      {q:"A garden is 8 m long and 5 m wide. What is its perimeter?", options:["13 m","26 m","40 m","45 m"], answer:1},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"Two rectangles have the same perimeter but different areas. This is ___.", options:["impossible","always false","possible — shapes can have the same perimeter but different areas","only for squares"], answer:2}
    ]},
   {subject:"Science", title:"Human Impact on the Environment", summary:"Students explore positive and negative human impacts on natural environments. They understand stewardship and sustainability.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Human Impact on the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Impact%20on%20the%20Environment%20grade%203%20educational",
    quiz:[
      {q:"Which is a NEGATIVE human impact on the environment?", options:["Planting trees","Creating wildlife corridors","Dumping toxic waste in a river","Setting up nature reserves"], answer:2},
      {q:"Which is a POSITIVE human impact on the environment?", options:["Burning fossil fuels","Overfishing","Urban sprawl replacing forests","Reforestation and habitat restoration"], answer:3},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"How can Grade 3 students help the environment?", options:["They cannot","By reducing, reusing, and recycling; planting gardens; and raising awareness","Only by getting older first","Only by donating money"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Human Rights and Equity", summary:"Students explore the concept of human rights and equity — ensuring everyone gets what they need to thrive, not just equal treatment.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Human Rights and Equity", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Rights%20and%20Equity%20grade%203%20educational",
    quiz:[
      {q:"Human rights are ___.", options:["privileges earned by good behaviour","basic rights that every person has simply because they are human","only for citizens of wealthy countries","only for adults"], answer:1},
      {q:"Equity means ___.", options:["everyone gets exactly the same","everyone gets what they specifically need to have a fair chance","only equality of opportunity","never helping anyone extra"], answer:1},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Oral Communication: Presentations", summary:"Students learn how to plan and deliver a short oral presentation. Key skills: clear voice, eye contact, staying on topic, and responding to questions.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Oral Communication: Presentations", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Presentations%20grade%203%20educational",
    quiz:[
      {q:"When presenting, you should ___.", options:["mumble quietly","speak clearly and project your voice so the audience can hear","read directly from a paper without looking up","talk as fast as possible"], answer:1},
      {q:"Eye contact with the audience shows ___.", options:["nervousness only","confidence and engagement with your listeners","aggression","lack of preparation"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Practising before a presentation ___.", options:["makes it worse","wastes time","helps you feel more confident and speak more fluently","only works for adults"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication in Context: Word Problems", summary:"Students apply multiplication to solve real-world problems.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication in Context: Word Problems", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20in%20Context%3A%20Word%20Problems%20grade%203%20educational",
    quiz:[
      {q:"There are 6 bags with 8 apples in each. How many apples in all?", options:["14","36","48","54"], answer:2},
      {q:"A box has 5 rows of 7 chocolates. How many chocolates?", options:["25","30","35","40"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"An orchard has 7 rows of 6 trees. How many trees?", options:["36","42","48","54"], answer:1}
    ]},
   {subject:"Science", title:"Technology and Science: Inventions", summary:"Students explore how scientific understanding leads to inventions that solve human problems. They investigate examples like the telephone, electricity, and vaccines.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Technology and Science: Inventions", resourceUrl:"https://www.youtube.com/results?search_query=Technology%20and%20Science%3A%20Inventions%20grade%203%20educational",
    quiz:[
      {q:"An invention is ___.", options:["a discovery of something already existing","a newly created device, process, or idea that solves a problem","only for scientists","only for adults"], answer:1},
      {q:"Alexander Graham Bell invented the ___.", options:["light bulb","telephone","printing press","car"], answer:1},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Why is STEM (Science, Technology, Engineering, Math) important?", options:["It is not","STEM skills drive innovation, problem-solving, and advancements that improve people's lives","Only for boys","Only for university"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Communities in the Past vs Today", summary:"Students compare life in an Ontario community 100 years ago with life today, focusing on changes in transportation, communication, and daily life.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Communities in the Past vs Today", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20in%20the%20Past%20vs%20Today%20grade%203%20educational",
    quiz:[
      {q:"One hundred years ago, most Ontarians communicated over long distances by ___.", options:["text message","email","telegraph and letter (and the early telephone)","video call"], answer:2},
      {q:"Transportation in Ontario has changed from ___.", options:["cars to horses","horses and steam trains to cars, planes, and high-speed rail","exactly the same","random changes"], answer:1},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Spelling: Prefixes and Suffixes", summary:"Students learn how prefixes (un-, re-, pre-) and suffixes (-ful, -less, -ness) change a word's meaning. They build vocabulary by applying these patterns.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Spelling: Prefixes and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%3A%20Prefixes%20and%20Suffixes%20grade%203%20educational",
    quiz:[
      {q:"A prefix is added to the ___ of a base word.", options:["end","middle","beginning","random position"], answer:2},
      {q:"What does the prefix 'un-' mean?", options:["Again","Before","Not or the opposite","After"], answer:2},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"What does 'careful' mean?", options:["Without care","Full of care","Before care","Not care"], answer:1}
    ]},
   {subject:"Math", title:"Data: Pictographs and Surveys", summary:"Students conduct simple surveys, organise data in a pictograph, and draw conclusions.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Data: Pictographs and Surveys", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Pictographs%20and%20Surveys%20grade%203%20educational",
    quiz:[
      {q:"A pictograph uses ___ to represent data.", options:["only numbers","pictures or symbols to represent quantities","only bars","only lines"], answer:1},
      {q:"In a pictograph where each symbol = 2, four symbols represent ___.", options:["4","6","8","10"], answer:2},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"If 15 students prefer soccer and 9 prefer basketball, how many more prefer soccer?", options:["5","6","7","8"], answer:1}
    ]},
   {subject:"Science", title:"Properties of Light", summary:"Students explore reflection, refraction, and absorption of light, and how prisms separate white light into the visible spectrum.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Properties of Light", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%20grade%203%20educational",
    quiz:[
      {q:"A prism separates white light into ___.", options:["only two colours","radio waves","the colours of the visible spectrum (ROYGBIV)","sound waves"], answer:2},
      {q:"The colours of the visible spectrum in order are ___.", options:["Random","Red, Orange, Yellow, Green, Blue, Indigo, Violet","Blue, Green, Yellow, Orange, Red, Purple","Only three colours"], answer:1},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"A translucent object ___.", options:["blocks all light","lets all light through clearly","allows some light through but scatters it","produces light"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Making a Difference: Local Action", summary:"Students explore how individuals and groups make positive changes in their communities through volunteering, activism, and sustainable choices.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Making a Difference: Local Action", resourceUrl:"https://www.youtube.com/results?search_query=Making%20a%20Difference%3A%20Local%20Action%20grade%203%20educational",
    quiz:[
      {q:"Volunteering means ___.", options:["being paid to work","freely giving your time to help others or the community","only cleaning up","only for adults"], answer:1},
      {q:"A community garden is an example of ___.", options:["a negative action","people working together to grow food and strengthen community bonds","only for farmers","a government project always"], answer:1},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Book Report Writing", summary:"Students write a structured book report including: title and author, brief plot summary, favourite part, and a recommendation.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Book Report Writing", resourceUrl:"https://www.youtube.com/results?search_query=Book%20Report%20Writing%20grade%203%20educational",
    quiz:[
      {q:"A book report begins with ___.", options:["your opinion only","the title, author, and genre of the book","only a summary","only a recommendation"], answer:1},
      {q:"A plot summary in a book report ___.", options:["spoils everything in detail","tells the main events without giving away the ending","only describes characters","is never included"], answer:1},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT typically in a book report?", options:["Title and author","Personal opinion and recommendation","The author's full biography and childhood","A brief summary of the plot"], answer:2}
    ]},
   {subject:"Math", title:"Addition and Subtraction Review: 3-Digit Numbers", summary:"Students solve multi-step word problems using addition and subtraction of 3-digit numbers.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Addition and Subtraction Review: 3-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Review%3A%203-Digit%20Numbers%20grade%203%20educational",
    quiz:[
      {q:"345 + 278 = ?", options:["613","623","633","623"], answer:1},
      {q:"800 − 356 = ?", options:["444","454","344","454"], answer:0},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"503 − 167 = ?", options:["336","346","326","356"], answer:0}
    ]},
   {subject:"Science", title:"Forces Review and Engineering Design", summary:"Students review forces and apply engineering design principles: identify a problem, brainstorm, design, build, test, and improve.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Forces Review and Engineering Design", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Review%20and%20Engineering%20Design%20grade%203%20educational",
    quiz:[
      {q:"The engineering design process begins with ___.", options:["building immediately","identifying and defining the problem","testing the solution","evaluating results only"], answer:1},
      {q:"After brainstorming solutions you ___.", options:["stop the process","select the best design and build a prototype","start over","test without designing"], answer:1},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Why is the 'improve' step important in engineering design?", options:["It is not","Real-world designs rarely work perfectly the first time; testing and improving leads to better solutions","Only for professional engineers","Only for complex machines"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ontario's Geography: Lakes and Rivers", summary:"Students identify Ontario's major lakes (Great Lakes) and rivers (Ottawa, St. Lawrence, Thames) and their importance.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Ontario's Geography: Lakes and Rivers", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Geography%3A%20Lakes%20and%20Rivers%20grade%203%20educational",
    quiz:[
      {q:"Which are the five Great Lakes?", options:["Superior, Huron, Michigan, Erie, Ontario","Superior, Huron, Ontario, Georgian, Erie","Superior, Michigan, Erie, Ontario, Simcoe","Superior, Huron, Erie, Ontario, Nipigon"], answer:0},
      {q:"The St. Lawrence River connects the Great Lakes to ___.", options:["the Arctic Ocean","Hudson Bay","the Atlantic Ocean","the Pacific Ocean"], answer:2},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Writing: Letters (Formal and Informal)", summary:"Students learn to write friendly (informal) letters and formal letters. They practise letter format: greeting, body, and closing.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Writing: Letters (Formal and Informal)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Letters%20%28Formal%20and%20Informal%29%20grade%203%20educational",
    quiz:[
      {q:"A friendly letter is written to ___.", options:["a company or official","someone you know personally","only government officials","only strangers"], answer:1},
      {q:"A formal letter is written to ___.", options:["a best friend","a family member","a company, official, or someone you don't know personally","only neighbours"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"In a formal letter, the closing should be ___.", options:["Love,","See ya!","Sincerely, or Yours truly,","Only your name"], answer:2}
    ]},
   {subject:"Math", title:"Multiplication and Division: Word Problems", summary:"Students solve two-step word problems using multiplication and division.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Multiplication and Division: Word Problems", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20and%20Division%3A%20Word%20Problems%20grade%203%20educational",
    quiz:[
      {q:"There are 4 boxes with 12 crayons each. How many crayons in all?", options:["40","44","48","52"], answer:2},
      {q:"A bag has 24 apples divided equally into 6 boxes. How many apples per box?", options:["3","4","5","6"], answer:1},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"You buy 5 notebooks at $3 each and spend $15 in total. If you paid $20, how much change do you get?", options:["$3","$5","$6","$7"], answer:1}
    ]},
   {subject:"Science", title:"Properties of Soil Review and Composting", summary:"Students revisit soil types and learn about composting as a way to enrich soil and reduce organic waste.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Properties of Soil Review and Composting", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Soil%20Review%20and%20Composting%20grade%203%20educational",
    quiz:[
      {q:"Composting is ___.", options:["burning organic waste","the decomposition of organic waste (food scraps, leaves) into nutrient-rich material for soil","only for farms","mixing soil with plastic"], answer:1},
      {q:"What goes in a compost bin?", options:["Metal and plastic","Fruit and vegetable scraps, leaves, and paper","Only grass clippings","Old electronics"], answer:1},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Why is composting good for the environment?", options:["It is not","It reduces organic waste in landfills and creates valuable fertiliser for gardens","Only for farmers","Only if you have a garden"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canadian Charter of Rights and Freedoms", summary:"Students learn about the Charter (1982) and key rights it protects: fundamental freedoms, democratic rights, equality rights.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Canadian Charter of Rights and Freedoms", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Charter%20of%20Rights%20and%20Freedoms%20grade%203%20educational",
    quiz:[
      {q:"The Canadian Charter of Rights and Freedoms was signed in ___.", options:["1867","1945","1965","1982"], answer:3},
      {q:"Which freedom is protected by the Charter?", options:["Freedom to break laws","Freedom of expression (speech, writing, art)","Freedom from all taxes","Freedom to ignore others' rights"], answer:1},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Reading Long Texts: Chapter Books", summary:"Students develop strategies for reading longer texts: using chapter titles, making predictions, tracking characters and plot, and taking notes.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Reading Long Texts: Chapter Books", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Long%20Texts%3A%20Chapter%20Books%20grade%203%20educational",
    quiz:[
      {q:"Before reading a chapter, reading the chapter title helps you ___.", options:["predict what the chapter will be about and activate relevant prior knowledge","skip the chapter","write the ending","only look at pictures"], answer:0},
      {q:"Tracking character changes throughout a chapter book means ___.", options:["memorising every word","noting how a character grows, changes, or faces challenges as the story progresses","only listing characters","ignoring the plot"], answer:1},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"Why is reading chapter books important?", options:["It is not","It develops vocabulary, attention span, comprehension, and a love of literature","Only for gifted readers","Only for older students"], answer:1}
    ]},
   {subject:"Math", title:"Review: All Strands", summary:"Students review and consolidate key Grade 3 math concepts: number sense, measurement, geometry, patterning, and data.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20All%20Strands%20grade%203%20educational",
    quiz:[
      {q:"256 + 399 = ?", options:["645","655","665","675"], answer:1},
      {q:"7 × 9 = ?", options:["56","63","72","81"], answer:1},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"Which event is certain?", options:["Rolling a 7 on a 6-sided die","Drawing a red card from a deck with only blue cards","Getting either heads or tails on a coin flip","It raining on a sunny day"], answer:2}
    ]},
   {subject:"Science", title:"Science Year Review", summary:"Students review all Grade 3 science strands: growth and changes in animals, soils, forces, and structures.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Year%20Review%20grade%203%20educational",
    quiz:[
      {q:"The four stages of complete metamorphosis are ___.", options:["egg, larva, pupa, adult","egg, nymph, adult, elder","birth, growth, reproduction, death","seed, sprout, plant, fruit"], answer:0},
      {q:"Which soil is best for most plant growth?", options:["Sand","Clay","Loam","Gravel"], answer:1},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Friction is a force that ___.", options:["pulls objects toward Earth","is the same as gravity","resists the motion of objects sliding over surfaces","always helps motion"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Students review Ontario communities, government, economy, natural resources, and citizenship.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%203%20educational",
    quiz:[
      {q:"Which level of government runs local parks and garbage collection?", options:["Federal","Provincial","Municipal","International"], answer:2},
      {q:"What are Ontario's two major physical regions?", options:["Desert and rainforest","Canadian Shield and Great Lakes–St. Lawrence Lowlands","Prairies and mountains","Ocean coast and tundra"], answer:1},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Creative Writing: Narrative Revision", summary:"Students revise a narrative draft by improving word choice, adding sensory details, varying sentence structure, and ensuring the story makes sense.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Creative Writing: Narrative Revision", resourceUrl:"https://www.youtube.com/results?search_query=Creative%20Writing%3A%20Narrative%20Revision%20grade%203%20educational",
    quiz:[
      {q:"Revising a piece of writing means ___.", options:["correcting only spelling errors","checking and improving content, organization, word choice, and style","rewriting the whole text from scratch","only fixing punctuation"], answer:1},
      {q:"Sensory details appeal to the ___.", options:["only visual sense","five senses (sight, sound, smell, taste, touch)","only hearing","only imagination"], answer:1},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"After revising for content, you should ___ your writing.", options:["stop working","edit/proofread for spelling, grammar, and punctuation errors","rewrite entirely","submit immediately"], answer:1}
    ]},
   {subject:"Math", title:"Financial Literacy: Saving and Spending", summary:"Students learn the basics of saving, spending, and the concept of earning money through work.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Financial Literacy: Saving and Spending", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Saving%20and%20Spending%20grade%203%20educational",
    quiz:[
      {q:"Saving money means ___.", options:["spending everything you earn","setting aside money to use later for a goal or emergency","only putting money in a bank","only for adults"], answer:1},
      {q:"The difference between a need and a want is ___.", options:["they are the same","needs are necessary for survival; wants are extras we desire","wants are more important","needs are optional"], answer:1},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it good to save some of your money?", options:["It is not","Savings give you a financial cushion for emergencies and future goals","Only for adults","You should spend everything to enjoy life"], answer:1}
    ]},
   {subject:"Science", title:"Environmental Science: Climate and Ecosystems", summary:"Students explore how climate affects ecosystems, and how climate change is altering habitats and biodiversity globally and in Ontario.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Environmental Science: Climate and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20and%20Ecosystems%20grade%203%20educational",
    quiz:[
      {q:"Climate is ___.", options:["today's weather","the average weather patterns of a region over a long period","only temperature","only rainfall"], answer:1},
      {q:"Climate change is causing ___.", options:["no changes","more extreme weather events, rising temperatures, melting ice, and shifting seasons globally","only ocean changes","only desert expansion"], answer:1},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"One way to reduce carbon emissions is to ___.", options:["use more fossil fuels","burn more forests","use renewable energy, reduce waste, and drive less","plant more lawns only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Looking Forward: My Community in 2050", summary:"Students use their learning to imagine what their community might look like in 2050 given current trends in technology, population, and environment.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Looking Forward: My Community in 2050", resourceUrl:"https://www.youtube.com/results?search_query=Looking%20Forward%3A%20My%20Community%20in%202050%20grade%203%20educational",
    quiz:[
      {q:"In 2050, Ontario's population will likely ___.", options:["shrink to zero","grow, requiring more housing, services, and infrastructure","stay exactly the same","move to the Moon"], answer:1},
      {q:"Technology in 2050 might help communities by ___.", options:["causing more problems","solving challenges like clean energy, efficient transportation, and better health care","doing nothing new","only creating entertainment"], answer:1},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year End Celebration: Favourite Books and Reading Reflections", summary:"Students share favourite books, reflect on their reading growth, and set reading goals for Grade 4.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Year End Celebration: Favourite Books and Reading Reflections", resourceUrl:"https://www.youtube.com/results?search_query=Year%20End%20Celebration%3A%20Favourite%20Books%20and%20Reading%20Reflections%20grade%203%20educational",
    quiz:[
      {q:"Reflecting on your reading means ___.", options:["forgetting everything","thinking about how your skills and enjoyment of reading have grown throughout the year","copying a book report","only choosing new books"], answer:1},
      {q:"A reading goal for Grade 4 might be ___.", options:["never reading again","trying a new genre, reading longer books, or reading a set number of books","only reading the same books","giving up on hard books"], answer:1},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"A book recommendation should include ___.", options:["only the title","the title, author, what you loved about it, and who you think would enjoy it","only your name","only a grade out of ten"], answer:1}
    ]},
   {subject:"Math", title:"Grade 3 Math Celebration: Challenge Problems", summary:"Students tackle fun, mixed challenge problems drawing on all Grade 3 math concepts.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Grade 3 Math Celebration: Challenge Problems", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Math%20Celebration%3A%20Challenge%20Problems%20grade%203%20educational",
    quiz:[
      {q:"A rectangle has a perimeter of 28 cm and a length of 9 cm. What is its width?", options:["4 cm","5 cm","6 cm","7 cm"], answer:1},
      {q:"If 8 students each have 7 stickers and share equally in 4 groups, how many stickers per group?", options:["12","14","16","18"], answer:1},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"A square field has an area of 81 m². What is each side length?", options:["7 m","8 m","9 m","10 m"], answer:2}
    ]},
   {subject:"Science", title:"Grade 3 Science Celebration: Science All Around Us", summary:"Students connect science learning to everyday life and explore how curiosity and observation drive scientific discovery.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Grade 3 Science Celebration: Science All Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Science%20Celebration%3A%20Science%20All%20Around%20Us%20grade%203%20educational",
    quiz:[
      {q:"A simple machine that helps you open a paint can lid with a coin is a ___.", options:["pulley","wheel-and-axle","lever","inclined plane"], answer:2},
      {q:"Which soil type is best for growing vegetables?", options:["Clay","Sand","Gravel","Loam"], answer:3},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"The engineering design process helps people ___.", options:["give up easily","solve real problems by designing, testing, and improving their ideas","only build bridges","only for space programs"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Grade 3 Social Studies Celebration: Our Community, Our World", summary:"Students celebrate their learning by connecting Ontario communities to communities around the world and to the future.",
-   resourceLabel:"TVO Learn: Grade 3", resourceUrl:"https://tvolearn.com/pages/grade-3",
+   resourceLabel:"YouTube: Grade 3 Social Studies Celebration: Our Community, Our World", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Social%20Studies%20Celebration%3A%20Our%20Community%2C%20Our%20World%20grade%203%20educational",
    quiz:[
      {q:"What do all communities around the world have in common?", options:["Exact same food","Same language","Same government","People working together to meet basic needs and live good lives"], answer:3},
      {q:"How is Ontario connected to communities around the world?", options:["It is not","Through trade, immigration, cultural exchange, international agreements, and shared global challenges","Only through geography","Only through the internet"], answer:1},

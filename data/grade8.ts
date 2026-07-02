@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Reading Strategies: Inference and Evidence", summary:"Readers make inferences by combining text evidence with background knowledge. Students practise identifying implicit meaning and citing specific textual evidence.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reading Strategies: Inference and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Evidence%20grade%208%20educational",
    quiz:[
      {q:"An inference is ___.", options:["a direct quote from the text","a summary of the whole text","a conclusion drawn by combining text clues with background knowledge","a definition of a word"], answer:2},
      {q:"Textual evidence is ___.", options:["your personal opinion about the text","specific words, phrases, or details from the text that support a claim or inference","a paraphrase of the main idea","the author's biography"], answer:1},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"To support an inference, you should ___.", options:["guess and move on","cite the specific passage from the text that led you to that conclusion","rely only on personal experience","summarise the entire chapter"], answer:1}
    ]},
   {subject:"Math", title:"Number Sense: Powers and Scientific Notation", summary:"Students work with powers (base and exponent), evaluate expressions, and write large/small numbers in scientific notation.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Number Sense: Powers and Scientific Notation", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Sense%3A%20Powers%20and%20Scientific%20Notation%20grade%208%20educational",
    quiz:[
      {q:"In 5³, the base is ___ and the exponent is ___.", options:["3 and 5","5 and 3","5 and 5","3 and 3"], answer:1},
      {q:"Evaluate 2⁴.", options:["8","16","24","32"], answer:1},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"Which correctly converts 6.02 × 10³ to standard form?", options:["60.2","602","6020","60200"], answer:2}
    ]},
   {subject:"Science", title:"Cells: Structure and Function", summary:"Students examine the cell as the basic unit of life. They compare plant and animal cells and identify organelles and their functions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Structure and Function", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Structure%20and%20Function%20grade%208%20educational",
    quiz:[
      {q:"The cell theory states ___.", options:["only animals have cells","cells are the basic unit of life, all living things are made of cells, and all cells come from pre-existing cells","only plants have cells","cells are not alive"], answer:1},
      {q:"Which organelle is the 'control centre' of the cell?", options:["Mitochondria","Cell wall","Nucleus","Vacuole"], answer:2},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"The cell membrane ___.", options:["is only in plant cells","controls what enters and exits the cell","produces energy","stores genetic information"], answer:1}
    ]},
   {subject:"History", title:"New France: Colonisation and Society", summary:"Students explore the establishment of New France, the role of the fur trade, relations with Indigenous peoples, and French colonial society.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: New France: Colonisation and Society", resourceUrl:"https://www.youtube.com/results?search_query=New%20France%3A%20Colonisation%20and%20Society%20grade%208%20educational",
    quiz:[
      {q:"New France was established primarily because of ___.", options:["gold mining","the fur trade, which was enormously profitable and drove French interest in North America","farming","religious persecution"], answer:1},
      {q:"The seigneurial system in New France was ___.", options:["a democratic land system","a system of land grants where seigneurs received land and censitaires (tenant farmers) farmed it in exchange for rent and duties","a system of slave labour","an Indigenous land management system"], answer:1},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Writing: Thesis Development", summary:"Students craft strong thesis statements for analytical and argumentative essays. A thesis must be specific, debatable, and guide the essay's argument.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Thesis Development", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Thesis%20Development%20grade%208%20educational",
    quiz:[
      {q:"A thesis statement should be ___.", options:["a fact everyone agrees with","a question","a broad topic sentence","a specific, debatable claim that tells readers what the essay will argue and why"], answer:3},
      {q:"Which is the strongest thesis statement?", options:["World War II was a major event.","There were many causes of World War II.","The Treaty of Versailles was a significant cause of World War II.","The Nazi's policy of aggressive expansion, enabled by Allied appeasement, was the primary cause of World War II."], answer:3},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"A thesis statement should NOT be ___.", options:["specific","arguable","a statement of pure, undisputed fact with no room for argument","analytical"], answer:2}
    ]},
   {subject:"Math", title:"Proportional Reasoning: Rates and Ratios", summary:"Students solve problems involving unit rates, proportions, and percent change. They distinguish proportional from non-proportional relationships.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Proportional Reasoning: Rates and Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Proportional%20Reasoning%3A%20Rates%20and%20Ratios%20grade%208%20educational",
    quiz:[
      {q:"A unit rate expresses a ratio as ___.", options:["a fraction only","a rate with a denominator of 1","any ratio","a percentage"], answer:1},
      {q:"If 5 kg of apples cost $8.75, the unit price is ___.", options:["$1.50/kg","$1.65/kg","$1.75/kg","$43.75/kg"], answer:2},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"Percent change = ___.", options:["(new − old) / new × 100","(old − new) / new × 100","(new − old) / old × 100","new / old × 100"], answer:2}
    ]},
   {subject:"Science", title:"Cells: Cell Division and Specialisation", summary:"Students explore mitosis (cell division for growth and repair), meiosis (for reproduction), and how cells specialise into tissues, organs, and systems.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Cell Division and Specialisation", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Cell%20Division%20and%20Specialisation%20grade%208%20educational",
    quiz:[
      {q:"Mitosis results in ___.", options:["two genetically identical daughter cells","four genetically different cells","one cell dividing into eight","cells with half the DNA"], answer:0},
      {q:"Meiosis results in ___.", options:["two identical cells","four genetically unique cells with half the chromosomes (gametes for sexual reproduction)","one large cell","identical twins"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Why can't most specialised cells undergo unlimited division?", options:["They can always divide","They lose their specialised function; highly specialised cells sacrifice replication ability for their specific role","They are too small","They have no nucleus"], answer:1}
    ]},
   {subject:"History", title:"The British Conquest and After", summary:"Students examine the Seven Years' War in North America (1756–1763), the Battle of the Plains of Abraham, and the subsequent British governance of Quebec.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: The British Conquest and After", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Conquest%20and%20After%20grade%208%20educational",
    quiz:[
      {q:"The Battle of the Plains of Abraham (1759) was significant because ___.", options:["France won and kept New France","It had no lasting impact","The British defeat of France led to Britain gaining control of New France","The battle was a draw"], answer:2},
      {q:"The Treaty of Paris (1763) ___.", options:["gave New France back to France","made New France independent","formally transferred New France to British control, ending French colonial rule","created Canada as a country"], answer:2},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Literary Analysis: Themes in Fiction", summary:"Students identify and analyse the major themes in fiction. They support thematic interpretations with specific textual evidence and consider how different readers may interpret the same theme.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Literary Analysis: Themes in Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Themes%20in%20Fiction%20grade%208%20educational",
    quiz:[
      {q:"A theme in literature is ___.", options:["the setting of the story","the main character's name","a central message or insight about human experience that the text conveys","a summary of the plot"], answer:2},
      {q:"How does a writer convey theme?", options:["By stating it in a title note","By telling readers directly in a summary","Through characters' actions, conflicts, dialogue, symbols, and the consequences of choices","Only through the narrator"], answer:2},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"To support a thematic interpretation, you should ___.", options:["only state your opinion","cite specific passages and explain how those details develop the theme","summarise the entire plot","only use quotes from the author's interviews"], answer:1}
    ]},
   {subject:"Math", title:"Linear Equations: Solving Multi-Step", summary:"Students solve multi-step linear equations with variables on one or both sides. They check solutions by substitution.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Linear Equations: Solving Multi-Step", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Equations%3A%20Solving%20Multi-Step%20grade%208%20educational",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x = 11","x = 6","x = 5","x = 4"], answer:1},
      {q:"Solve: 3x − 4 = 2x + 7", options:["x = 3","x = 11","x = 7","x = −11"], answer:1},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 4(x + 3) = 28", options:["x = 7","x = 4","x = 31/4","x = 10"], answer:1}
    ]},
   {subject:"Science", title:"Reproduction: Sexual and Asexual", summary:"Students compare sexual and asexual reproduction in plants and animals. They understand the advantages of each strategy in different contexts.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reproduction: Sexual and Asexual", resourceUrl:"https://www.youtube.com/results?search_query=Reproduction%3A%20Sexual%20and%20Asexual%20grade%208%20educational",
    quiz:[
      {q:"Asexual reproduction involves ___.", options:["two parents","gametes","fertilisation","one parent producing genetically identical offspring"], answer:3},
      {q:"Sexual reproduction involves ___.", options:["one parent only","no genetic variation","the joining of two gametes to produce offspring with genetic variation","cloning"], answer:2},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Budding, as in yeast and hydra, is a form of ___.", options:["sexual reproduction","fertilisation","meiosis","asexual reproduction"], answer:3}
    ]},
   {subject:"History", title:"Loyalists and the American Revolution", summary:"Students examine why the American Revolution occurred, who the Loyalists were, and how their migration to Canada shaped British North America.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Loyalists and the American Revolution", resourceUrl:"https://www.youtube.com/results?search_query=Loyalists%20and%20the%20American%20Revolution%20grade%208%20educational",
    quiz:[
      {q:"Loyalists were ___.", options:["colonists who supported American independence","Indigenous peoples who allied with France","colonists who remained loyal to the British Crown during and after the American Revolution","British soldiers stationed in America"], answer:2},
      {q:"The main grievances of American colonists that led to revolution included ___.", options:["too much freedom","excellent representation in Parliament","taxation without representation and restrictions on westward expansion","being forced to speak French"], answer:2},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Sentence Variety and Syntax", summary:"Students use a variety of sentence structures (simple, compound, complex, compound-complex) to improve writing fluency and impact. They avoid common errors like comma splices and run-ons.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Grammar: Sentence Variety and Syntax", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Variety%20and%20Syntax%20grade%208%20educational",
    quiz:[
      {q:"A compound-complex sentence has ___.", options:["one independent clause only","two independent clauses and at least one dependent clause","only dependent clauses","one of each type of clause"], answer:1},
      {q:"A comma splice is ___.", options:["a correctly punctuated compound sentence","a sentence with a subordinating conjunction","an error where two independent clauses are joined with only a comma, no conjunction","a sentence with too many commas"], answer:2},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Which correctly joins two independent clauses?", options:["She studied hard, she passed the exam.","She studied hard she passed the exam.","She studied hard; therefore, she passed the exam.","She studied hard and she passed the exam no comma needed"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: Pythagorean Theorem", summary:"Students understand and apply the Pythagorean Theorem (a² + b² = c²) to find missing side lengths in right triangles and solve real-world problems.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Geometry: Pythagorean Theorem", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Pythagorean%20Theorem%20grade%208%20educational",
    quiz:[
      {q:"The Pythagorean Theorem states that in a right triangle ___.", options:["a + b = c","a² − b² = c²","a² + b² = c² where c is the hypotenuse","a × b = c²"], answer:2},
      {q:"The hypotenuse is ___.", options:["the shortest side","any side","the side opposite the right angle (always the longest side)","the vertical side"], answer:2},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"Can the Pythagorean Theorem be used on ANY triangle?", options:["Yes, always","No, only on right triangles","Only on equilateral triangles","Only on isosceles triangles"], answer:1}
    ]},
   {subject:"Science", title:"Fluids: Properties and Pressure", summary:"Students explore the properties of fluids (liquids and gases), viscosity, density, buoyancy, and how pressure works in fluids.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Fluids: Properties and Pressure", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Properties%20and%20Pressure%20grade%208%20educational",
    quiz:[
      {q:"Viscosity is ___.", options:["the mass of a fluid","the colour of a fluid","a fluid's resistance to flow — high viscosity means slow flow (honey); low viscosity means fast flow (water)","the boiling point of a fluid"], answer:2},
      {q:"Density of a fluid is ___.", options:["its volume only","its mass only","mass per unit volume (D = m/V)","its temperature"], answer:2},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Pascal's principle states that ___.", options:["pressure decreases in fluids","pressure is applied only to the bottom of a fluid","pressure applied to an enclosed fluid is transmitted equally in all directions","fluids do not transmit pressure"], answer:2}
    ]},
   {subject:"History", title:"The War of 1812", summary:"Students examine the causes, key battles, and consequences of the War of 1812 for Canada, the United States, Britain, and Indigenous peoples.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: The War of 1812", resourceUrl:"https://www.youtube.com/results?search_query=The%20War%20of%201812%20grade%208%20educational",
    quiz:[
      {q:"A main cause of the War of 1812 was ___.", options:["Canada invading the United States","a trade dispute between France and Britain only","British impressment of American sailors and trade interference, plus American desire for westward expansion","a Canadian declaration of war"], answer:2},
      {q:"Tecumseh was significant during the War of 1812 because ___.", options:["he led American forces","he founded Upper Canada","he was a Shawnee leader who allied with Britain to resist American expansion, contributing crucially to early British-Canadian victories","he negotiated the peace treaty"], answer:2},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Media Literacy: Bias and Perspective", summary:"Students identify bias in media sources. They understand how word choice, framing, omission, and visual selection can shape audience perception.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Media Literacy: Bias and Perspective", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Bias%20and%20Perspective%20grade%208%20educational",
    quiz:[
      {q:"Media bias refers to ___.", options:["only deliberate lying","any factual error in reporting","any slant, framing, or selection of information in media that favours one perspective over another","only political bias"], answer:2},
      {q:"A news article's headline can show bias by ___.", options:["reporting facts accurately","using emotionally charged words that frame the story favourably or unfavourably before the reader even reads the content","including photos","citing sources"], answer:1},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Which action best demonstrates media literacy?", options:["Reading only one trusted news source","Avoiding all news","Comparing coverage of the same event across multiple sources with different perspectives","Only watching videos"], answer:2}
    ]},
   {subject:"Math", title:"Analytic Geometry: Slope and y-intercept", summary:"Students calculate slope from two points, write equations in slope-intercept form (y = mx + b), and graph linear equations.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Analytic Geometry: Slope and y-intercept", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Slope%20and%20y-intercept%20grade%208%20educational",
    quiz:[
      {q:"Slope (m) is calculated as ___.", options:["rise × run","run / rise","rise / run (change in y over change in x)","y / x"], answer:2},
      {q:"The y-intercept (b) is ___.", options:["the slope of the line","where the line crosses the x-axis","where the line crosses the y-axis","the x-coordinate only"], answer:2},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"A line with slope 0 is ___.", options:["vertical","diagonal","undefined","horizontal"], answer:3}
    ]},
   {subject:"Science", title:"Fluids: Hydraulics and Pneumatics", summary:"Students explore how hydraulic and pneumatic systems use fluid pressure to transmit force and do work. They examine real-world applications.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Fluids: Hydraulics and Pneumatics", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Hydraulics%20and%20Pneumatics%20grade%208%20educational",
    quiz:[
      {q:"Hydraulic systems use ___.", options:["gases only","solid materials","liquids (usually oil) to transmit pressure and force","electricity only"], answer:2},
      {q:"Pneumatic systems use ___.", options:["liquids","solids","compressed gases (usually air) to transmit force","only steam"], answer:2},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"An advantage of pneumatic systems over hydraulic systems is ___.", options:["more force per unit","liquids are lighter","compressed air is readily available, leaks are less messy, and systems are lighter","they are always cheaper"], answer:2}
    ]},
   {subject:"History", title:"Responsible Government and Reform", summary:"Students examine the Rebellions of 1837, the Durham Report, and the achievement of Responsible Government in 1848.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Responsible Government and Reform", resourceUrl:"https://www.youtube.com/results?search_query=Responsible%20Government%20and%20Reform%20grade%208%20educational",
    quiz:[
      {q:"The Rebellions of 1837 in Upper and Lower Canada were caused by ___.", options:["foreign invasion","American aggression","frustration with undemocratic governance — the elected assemblies had little power while appointed councils dominated","economic success"], answer:2},
      {q:"William Lyon Mackenzie (Upper Canada) and Louis-Joseph Papineau (Lower Canada) were ___.", options:["British governors","leaders of the 1837 reform movements who demanded responsible government","military generals who defeated the British","Loyalist founders"], answer:1},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Reading: Non-Fiction Structures", summary:"Students identify and analyse different non-fiction text structures: cause/effect, compare/contrast, problem/solution, chronological order, and description.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reading: Non-Fiction Structures", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Non-Fiction%20Structures%20grade%208%20educational",
    quiz:[
      {q:"Which text structure is used in a passage that explains how deforestation leads to soil erosion?", options:["Compare/contrast","Problem/solution","Chronological order","Cause and effect"], answer:3},
      {q:"Signal words for compare/contrast text structure include ___.", options:["first, then, next","because, as a result, therefore","similarly, on the other hand, however, in contrast","for example, such as, specifically"], answer:2},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"Recognising text structure helps readers ___.", options:["only identify vocabulary","only find the main idea","understand how information is organised, predict content, and comprehend relationships between ideas more efficiently","count paragraphs"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: Circle Measurements", summary:"Students calculate circumference (C = πd or 2πr) and area (A = πr²) of circles and apply these formulas in real-world contexts.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Geometry: Circle Measurements", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20Measurements%20grade%208%20educational",
    quiz:[
      {q:"The circumference formula is ___.", options:["C = πr²","C = 2πr or πd","C = 2r","C = r²π"], answer:1},
      {q:"The area formula for a circle is ___.", options:["A = πd","A = 2πr","A = πr²","A = πd²"], answer:2},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"If the radius doubles, the area ___.", options:["doubles","stays the same","quadruples (increases by a factor of 4)","triples"], answer:2}
    ]},
   {subject:"Science", title:"Cells: Genetics Introduction", summary:"Students are introduced to heredity — how traits pass from parents to offspring through genes and chromosomes. They explore dominant/recessive alleles and Punnett squares.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Genetics Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Genetics%20Introduction%20grade%208%20educational",
    quiz:[
      {q:"Genes are ___.", options:["proteins in the blood","sections of DNA on chromosomes that carry instructions for specific traits","only in plant cells","made of amino acids"], answer:1},
      {q:"An allele is ___.", options:["a type of chromosome","one version of a gene (e.g., the allele for brown eyes vs. blue eyes)","a type of cell","a protein"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"A Punnett square is used to ___.", options:["draw cell diagrams","predict the probability of offspring inheriting specific traits from parents","only show dominant traits","map chromosomes"], answer:1}
    ]},
   {subject:"History", title:"Confederation: Causes and Process", summary:"Students explore the political, economic, and military pressures that led to Confederation in 1867 and the roles of the Fathers of Confederation.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Confederation: Causes and Process", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20Causes%20and%20Process%20grade%208%20educational",
    quiz:[
      {q:"The main pressures that drove Confederation in the 1860s included ___.", options:["only economic reasons","only military threats","political deadlock in the Province of Canada, fear of American expansionism, railway financing, and British pressure to reduce defence costs","religious conflict only"], answer:2},
      {q:"The Charlottetown Conference (1864) was significant because ___.", options:["it created the Senate","it ended the American Civil War","it was the first major meeting at which Canadian and Maritime politicians discussed Confederation","it adopted the Constitution"], answer:2},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Writing: Analytical Paragraph (PEEL)", summary:"Students write well-structured analytical paragraphs using the PEEL structure: Point, Evidence, Explanation, Link.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Analytical Paragraph (PEEL)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Analytical%20Paragraph%20%28PEEL%29%20grade%208%20educational",
    quiz:[
      {q:"In the PEEL structure, 'Point' means ___.", options:["a quotation from the text","the topic sentence that states the paragraph's main argument","the concluding sentence only","the connection to next paragraph"], answer:1},
      {q:"'Evidence' in PEEL means ___.", options:["your personal opinion","a transition sentence","specific textual evidence (quote, paraphrase, data) that supports the point","a link back to the thesis"], answer:2},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"Strong analytical writing requires ___.", options:["more personal pronouns","plot summary instead of analysis","as many quotes as possible","close analysis of textual evidence that connects to a broader argument, not just retelling what happens"], answer:3}
    ]},
   {subject:"Math", title:"Data Management: Probability", summary:"Students calculate theoretical and experimental probability, including compound events. They use tree diagrams and sample spaces.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Data Management: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Probability%20grade%208%20educational",
    quiz:[
      {q:"The probability of an event ranges from ___.", options:["0 to 100","−1 to 1","0 to 1","1 to 10"], answer:2},
      {q:"A sample space lists ___.", options:["only the most likely outcomes","only two outcomes","all possible outcomes of an experiment","only favourable outcomes"], answer:2},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"If P(A) = 0.3, what is P(not A)?", options:["0.3","0.6","0.7","0.03"], answer:2}
    ]},
   {subject:"Science", title:"Systems in Action: Mechanical Systems", summary:"Students explore mechanical systems including gears, pulleys, levers, and how these are combined in machines to change force, speed, and direction.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Systems in Action: Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Mechanical%20Systems%20grade%208%20educational",
    quiz:[
      {q:"A gear train transmits ___.", options:["electrical signals","fluid pressure","rotational motion and force between shafts, allowing speed and torque to be changed","only up-down motion"], answer:2},
      {q:"When a small gear drives a large gear, the large gear ___.", options:["turns faster","turns at the same speed","turns slower but with more torque (force)","stops completely"], answer:2},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"Which system has a mechanical advantage of 2?", options:["A lever where effort arm = load arm","A single fixed pulley","A system where you apply 50 N to lift 100 N","A gear where input and output gears are equal"], answer:2}
    ]},
   {subject:"History", title:"Building a Nation: 1867–1900", summary:"Students examine how Canada expanded after Confederation: Manitoba (1870), BC (1871), CPR, North-West Resistance, and the numbered treaties.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Building a Nation: 1867–1900", resourceUrl:"https://www.youtube.com/results?search_query=Building%20a%20Nation%3A%201867%E2%80%931900%20grade%208%20educational",
    quiz:[
      {q:"The numbered treaties (1871–1921) were ___.", options:["gifts of land to settlers","agreements between the Canadian government and First Nations peoples that defined land rights, reserves, and annual payments","proclamations of Indigenous independence","private land sales"], answer:1},
      {q:"The Canadian Pacific Railway (completed 1885) was important because ___.", options:["it connected the East Coast to Europe","it was primarily a luxury project","it fulfilled the promise to BC, physically united Canada, and allowed prairie settlement and resource extraction","it replaced all other transportation"], answer:2},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Oral Communication: Formal Presentation Skills", summary:"Students plan and deliver a formal presentation. They apply skills in organisation, eye contact, voice projection, pacing, and responding to questions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Oral Communication: Formal Presentation Skills", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Formal%20Presentation%20Skills%20grade%208%20educational",
    quiz:[
      {q:"Effective formal presentations include ___.", options:["reading word-for-word from notes","memorising every word rigidly","a clear introduction, organised body with transitions, conclusion, confident eye contact, and varied tone","only visual aids"], answer:2},
      {q:"Why should you avoid reading directly from slides or notes?", options:["You should always read from notes","It is fine for all audiences","Reading prevents natural delivery — it limits eye contact, lowers engagement, and makes the presentation feel scripted and impersonal","Only for long presentations"], answer:2},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Body language during a presentation includes ___.", options:["only words","only volume","posture, eye contact, gestures, and movement — all of which affect how confident and credible you appear to the audience","only facial expressions"], answer:2}
    ]},
   {subject:"Math", title:"Integers and Rational Numbers", summary:"Students extend operations to all integers and rational numbers. They add, subtract, multiply, and divide positive and negative fractions and decimals.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Integers and Rational Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Integers%20and%20Rational%20Numbers%20grade%208%20educational",
    quiz:[
      {q:"(−3) × (−5) = ___.", options:["−15","8","15","−8"], answer:2},
      {q:"(−12) ÷ 4 = ___.", options:["−3","3","−8","48"], answer:0},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"(−4.5) − (−2.0) = ___.", options:["−6.5","−2.5","2.5","6.5"], answer:1}
    ]},
   {subject:"Science", title:"Optics: Light, Colour, and Vision", summary:"Students extend their understanding of light, exploring how the eye perceives colour, how additive and subtractive colour mixing works, and modern applications of optics.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Optics: Light, Colour, and Vision", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Light%2C%20Colour%2C%20and%20Vision%20grade%208%20educational",
    quiz:[
      {q:"Additive colour mixing (light) combines ___.", options:["pigments","inks","coloured lights — red + green + blue (RGB) combine to make white light","only primary colours of paint"], answer:2},
      {q:"Subtractive colour mixing (pigments) works because ___.", options:["light is added","pigments emit light","pigments absorb certain wavelengths and reflect others; mixing pigments absorbs more wavelengths, producing darker colours","colours multiply"], answer:2},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"Fibre optics transmit information using ___.", options:["radio waves","electrical signals through copper","pulses of light through thin glass or plastic fibres, enabling high-speed internet and medical imaging (endoscopes)","magnetic fields"], answer:2}
    ]},
   {subject:"History", title:"Immigration and Social Change 1867–1914", summary:"Students examine waves of immigration to Canada, the experiences of newcomers, discriminatory policies, and cultural changes in the late 19th and early 20th century.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Immigration and Social Change 1867–1914", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Social%20Change%201867%E2%80%931914%20grade%208%20educational",
    quiz:[
      {q:"The Canadian government encouraged immigration in the late 1800s primarily to ___.", options:["limit population growth","compete with Mexico","settle the Prairies, build the CPR, and develop the agricultural and resource economy","reduce cultural diversity"], answer:2},
      {q:"The Chinese Head Tax (1885–1923) was ___.", options:["a welcoming program","a tax levied specifically on Chinese immigrants to deter their entry after the CPR was built using Chinese labour","a tax on all immigrants","a land grant program"], answer:1},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Shakespeare: Introduction to the Plays", summary:"Students are introduced to Shakespearean language, dramatic conventions, historical context, and the structure of Shakespearean tragedy and comedy.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Shakespeare: Introduction to the Plays", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Introduction%20to%20the%20Plays%20grade%208%20educational",
    quiz:[
      {q:"Shakespeare wrote during ___.", options:["the Medieval period","the Romantic era","the Elizabethan/Jacobean era (late 16th–early 17th century)","the Victorian era"], answer:2},
      {q:"Iambic pentameter is ___.", options:["a type of drama","a poetic metre of 10 syllables per line (5 pairs of unstressed-stressed syllables: da-DUM da-DUM da-DUM da-DUM da-DUM) used extensively by Shakespeare","a type of comedy","a stage direction"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"Why is understanding Shakespeare's context important?", options:["It is not relevant","To memorise famous quotes","The social, political, and theatrical conventions of Elizabethan England shape the meanings and subtleties of his plays","Only for English literature degrees"], answer:2}
    ]},
   {subject:"Math", title:"Analytic Geometry: Systems of Equations", summary:"Students solve systems of two linear equations graphically and algebraically (substitution method).",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Analytic Geometry: Systems of Equations", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Systems%20of%20Equations%20grade%208%20educational",
    quiz:[
      {q:"A system of two linear equations has a unique solution when ___.", options:["the lines are parallel","the equations are identical","the two lines intersect at exactly one point","the lines have the same slope"], answer:2},
      {q:"A system with parallel lines (same slope, different y-intercepts) has ___.", options:["one solution","infinite solutions","no solution","two solutions"], answer:2},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Graphically, the solution to a system of equations is ___.", options:["the y-intercepts","the slopes","the intersection point of the two lines","anywhere on both lines"], answer:2}
    ]},
   {subject:"Science", title:"Cells: Biotechnology and Ethics", summary:"Students explore how biotechnology (genetic engineering, CRISPR, cloning, GMOs) applies cell biology, and consider ethical questions raised by these technologies.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Biotechnology and Ethics", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Biotechnology%20and%20Ethics%20grade%208%20educational",
    quiz:[
      {q:"Genetic engineering involves ___.", options:["only cross-breeding animals","selective plant breeding only","deliberately modifying an organism's DNA to change its characteristics, add new traits, or correct genetic errors","removing organs"], answer:2},
      {q:"CRISPR-Cas9 is ___.", options:["a computer program","a type of microscope","a gene-editing tool that acts like molecular scissors, precisely cutting and editing DNA sequences","a drug treatment"], answer:2},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"An ethical concern about biotechnology is ___.", options:["there are no concerns","it only helps science","questions about designer babies, unintended ecological consequences, corporate control of food supply, and the limits of scientific intervention in nature","it makes food taste worse"], answer:2}
    ]},
   {subject:"History", title:"World War I: Canada's Experience", summary:"Students examine Canada's military contributions, the home front, the conscription crisis, and how WWI changed Canada's international standing.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: World War I: Canada's Experience", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Canada%27s%20Experience%20grade%208%20educational",
    quiz:[
      {q:"Canada's most celebrated military achievement of WWI was ___.", options:["the invasion of Germany","the Battle of the Atlantic","the Battle of Vimy Ridge (1917), where all four Canadian divisions fought together for the first time","the air campaign over England"], answer:2},
      {q:"The conscription crisis of 1917 divided Canada primarily along ___.", options:["class lines","religious lines","rural/urban lines","English-French (linguistic) lines, with most French Canadians opposing conscription"], answer:3},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Independent Reading: Novel Study Launch", summary:"Students select a novel for in-depth study. They track character, plot, setting, theme, and author's craft through journals and analytical response tasks.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Independent Reading: Novel Study Launch", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Study%20Launch%20grade%208%20educational",
    quiz:[
      {q:"A reading response journal is most useful when ___.", options:["you only write summaries of events","you write personal reactions without referring to the text","you combine close observations from the text with your own analysis, questions, and connections","you copy memorable quotations only"], answer:2},
      {q:"Analysing author's craft means ___.", options:["summarising what happens","listing characters","examining the techniques and choices the author makes (structure, diction, point of view, symbolism) and their effect on the reader","only identifying grammar errors"], answer:2},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"Setting in a novel contributes to ___.", options:["only the physical geography","only the time period","mood, theme, character development, and conflict — the setting is an active element, not just a backdrop","only the plot"], answer:2}
    ]},
   {subject:"Math", title:"Measurement: Surface Area and Volume of 3D Solids", summary:"Students calculate surface area and volume of prisms, cylinders, cones, and spheres using formulas.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Measurement: Surface Area and Volume of 3D Solids", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Surface%20Area%20and%20Volume%20of%203D%20Solids%20grade%208%20educational",
    quiz:[
      {q:"The volume of a cylinder is ___.", options:["V = πr²","V = 2πrh","V = πr²h","V = 4/3 πr³"], answer:2},
      {q:"The surface area of a rectangular prism is ___.", options:["2lw + 2lh + 2wh","l × w × h","2(l + w + h)","lw + lh + wh"], answer:0},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"The surface area of a sphere is ___.", options:["πr²","2πr²","4/3 πr³","4πr²"], answer:3}
    ]},
   {subject:"Science", title:"Systems in Action: Fluid Systems", summary:"Students connect fluid properties to engineered systems, examining hydraulic and pneumatic applications, and designing simple fluid systems.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Systems in Action: Fluid Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Fluid%20Systems%20grade%208%20educational",
    quiz:[
      {q:"In a hydraulic system, the working fluid is ___.", options:["usually a compressible gas","always water","usually an incompressible liquid (hydraulic oil) that transmits force efficiently without compressing","only air"], answer:2},
      {q:"Why are liquids used in hydraulic systems rather than gases?", options:["Liquids are cheaper","Gases are too colourful","Liquids are nearly incompressible, so force is transmitted directly and efficiently without energy loss to compression","Liquids are lighter"], answer:2},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"A disadvantage of pneumatic systems is ___.", options:["they use liquid","they are too heavy","compressed air is slightly compressible, making them less precise than hydraulic systems for exact positioning","they cannot be used in vehicles"], answer:2}
    ]},
   {subject:"History", title:"The Great Depression and Canada", summary:"Students examine the causes and impact of the Great Depression (1929–1939) on Canadians, and the political and social responses it generated.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: The Great Depression and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Great%20Depression%20and%20Canada%20grade%208%20educational",
    quiz:[
      {q:"The Great Depression began with ___.", options:["a Canadian bank failure","the start of WWI","the stock market crash of October 1929 in the United States, which spread globally","a drought only in Canada"], answer:2},
      {q:"In Canada, the Prairies suffered most severely because ___.", options:["they had the most industry","they were unaffected","drought and falling wheat prices combined to destroy the agricultural economy, creating the 'Dirty Thirties'","they had no government"], answer:2},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Research Essay — Sources and Integration", summary:"Students find, evaluate, and ethically integrate source material into a research essay. They practise paraphrasing, quoting, and citing sources.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: The Research Essay — Sources and Integration", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Research%20Essay%20%E2%80%94%20Sources%20and%20Integration%20grade%208%20educational",
    quiz:[
      {q:"Plagiarism is ___.", options:["only copying entire essays","using a dictionary","presenting someone else's ideas, words, or work as your own without proper acknowledgement","summarising your own ideas"], answer:2},
      {q:"Paraphrasing means ___.", options:["copying text word for word","changing only a few words from the original","restating an author's idea completely in your own words and sentence structure, while citing the source","using quotation marks around copied text"], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"A Works Cited or bibliography page ___.", options:["is optional","lists only books","lists all sources consulted and cited, following a consistent citation format (MLA, APA, Chicago), allowing readers to verify your research","is only for academic journals"], answer:2}
    ]},
   {subject:"Math", title:"Patterning: Arithmetic and Geometric Sequences", summary:"Students identify, extend, and create arithmetic sequences (constant difference) and geometric sequences (constant ratio). They write general terms.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Patterning: Arithmetic and Geometric Sequences", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%3A%20Arithmetic%20and%20Geometric%20Sequences%20grade%208%20educational",
    quiz:[
      {q:"An arithmetic sequence has ___.", options:["a constant ratio between terms","random differences","a constant difference (common difference) between consecutive terms","no pattern"], answer:0},
      {q:"A geometric sequence has ___.", options:["a constant difference","no pattern","a constant ratio (common ratio) between consecutive terms","only positive numbers"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"The nth term of an arithmetic sequence starting at a with common difference d is ___.", options:["a + d","a × n","a + (n−1)d","nd + a"], answer:2}
    ]},
   {subject:"Science", title:"Cells: The Immune System", summary:"Students explore how the body defends itself — physical barriers, innate immunity, and adaptive immunity (B cells, T cells, antibodies, vaccines).",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: The Immune System", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20The%20Immune%20System%20grade%208%20educational",
    quiz:[
      {q:"The first line of defence against pathogens includes ___.", options:["antibodies","T cells","skin and mucous membranes, which physically block most pathogens","blood cells"], answer:2},
      {q:"The innate immune response is ___.", options:["slow and targeted","specific to each pathogen","fast and non-specific — it responds the same way to many different types of invaders","inactive until vaccines are given"], answer:2},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Memory cells formed after an infection or vaccination ___.", options:["disappear quickly","serve no purpose after the initial infection","remain in the body long-term and enable a much faster immune response upon future exposure to the same pathogen","attack all foreign cells"], answer:2}
    ]},
   {subject:"History", title:"WWII: Canada's Role", summary:"Students examine Canada's military contributions to WWII — the Battle of Britain, Dieppe, Sicily, D-Day — and the impact on the home front.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: WWII: Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=WWII%3A%20Canada%27s%20Role%20grade%208%20educational",
    quiz:[
      {q:"Canada's contribution to the Battle of Britain (1940) included ___.", options:["only ground troops","sending a naval fleet only","Royal Canadian Air Force pilots who flew alongside the RAF to defend Britain against German air attack","an invasion of Germany"], answer:2},
      {q:"The Dieppe Raid (1942) was ___.", options:["a major Allied victory","irrelevant to Canada","a disastrous Allied amphibious assault on the French coast in which the majority of troops were Canadian, resulting in massive casualties but providing lessons for D-Day","a secret spy mission"], answer:2},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Novel Study: Character and Conflict", summary:"Students analyse how conflict shapes character development. They distinguish types of conflict and trace how characters respond and change.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Novel Study: Character and Conflict", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20and%20Conflict%20grade%208%20educational",
    quiz:[
      {q:"The five main types of literary conflict are ___.", options:["only person vs. person","only internal","person vs. person, person vs. self, person vs. society, person vs. nature, person vs. technology/fate","only two types exist"], answer:2},
      {q:"An internal conflict (person vs. self) involves ___.", options:["a character fighting another character","a character battling a storm","a character's struggle with their own emotions, moral dilemmas, or competing desires","a character vs. society"], answer:2},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing how a character responds to conflict reveals ___.", options:["nothing about the character","only physical traits","the character's values, strengths, weaknesses, and inner nature — conflict is the crucible that reveals who characters truly are","only plot information"], answer:2}
    ]},
   {subject:"Math", title:"Financial Literacy: Simple and Compound Interest", summary:"Students calculate simple interest (I = Prt) and compound interest, and understand the difference in long-term growth.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Financial Literacy: Simple and Compound Interest", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20and%20Compound%20Interest%20grade%208%20educational",
    quiz:[
      {q:"Simple interest is calculated using ___.", options:["I = Prt² ","I = P(1+r)^t","I = Prt (Principal × rate × time)","I = P + r + t"], answer:2},
      {q:"Compound interest differs from simple interest because ___.", options:["it is always lower","it is always higher","interest is earned on both the original principal and accumulated interest, causing exponential growth","it uses a different formula for the same result"], answer:2},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"Why should you start saving early?", options:["Starting time doesn't matter","Later is better","Compound interest means a longer time horizon produces dramatically larger returns — even small amounts saved early grow significantly","Only the amount matters"], answer:2}
    ]},
   {subject:"Science", title:"Fluids: Environmental Applications", summary:"Students connect fluid properties to environmental contexts — ocean currents, atmospheric pressure, water treatment, and the effects of pollution on fluid systems.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Fluids: Environmental Applications", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Environmental%20Applications%20grade%208%20educational",
    quiz:[
      {q:"Ocean currents are driven by ___.", options:["only wind","only temperature","differences in temperature and salinity (density) in seawater, along with wind and Earth's rotation (Coriolis effect)","tidal forces only"], answer:2},
      {q:"Atmospheric pressure decreases with altitude because ___.", options:["the air gets warmer","there is more air above you","there is less air (and therefore less weight of air) above you as you go higher","the Earth's gravity decreases sharply"], answer:2},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Microplastics in water systems are concerning because ___.", options:["they dissolve quickly","they are only aesthetic","they are tiny plastic particles that persist for centuries, accumulate in organisms through the food chain, and carry toxic chemicals","they only affect humans"], answer:2}
    ]},
   {subject:"History", title:"The Cold War and Canada", summary:"Students examine the Cold War, Canada's role in NATO, the Korean War, the Cuban Missile Crisis, and peacekeeping.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: The Cold War and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Cold%20War%20and%20Canada%20grade%208%20educational",
    quiz:[
      {q:"The Cold War was a conflict between ___.", options:["Canada and the United States","France and Germany","the United States and its allies (NATO) and the Soviet Union and its allies (Warsaw Pact) — primarily an ideological struggle between capitalism and communism","China and Japan"], answer:2},
      {q:"Canada's key role in the Cold War included ___.", options:["neutral isolation","supporting the Soviet Union","membership in NATO, hosting NORAD, contributing to Korean War (1950–53), and participating in peacekeeping missions","invading Eastern Europe"], answer:2},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Writing: Persuasive Letter", summary:"Students write a formal persuasive letter to a public official or organisation. They apply knowledge of audience, purpose, formal register, and persuasive techniques.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Persuasive Letter", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Persuasive%20Letter%20grade%208%20educational",
    quiz:[
      {q:"A formal letter differs from an informal one in ___.", options:["using slang and contractions","relying on emotional appeals only","using formal register, proper salutation and closing, professional tone, and precise language appropriate for the addressee","only the length"], answer:2},
      {q:"The purpose of a persuasive letter is ___.", options:["to entertain the reader","to describe a scene","to change the reader's mind or prompt a specific action, using reasoned argument and evidence","to summarise events"], answer:2},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"A strong closing paragraph in a persuasive letter ___.", options:["introduces new arguments","apologises for bothering the reader","restates the request or recommended action clearly and thanks the reader for their time","only says goodbye"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: Angle Relationships", summary:"Students apply angle relationships — supplementary, complementary, vertically opposite, and angles in parallel lines cut by a transversal — to find unknown angles.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Geometry: Angle Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angle%20Relationships%20grade%208%20educational",
    quiz:[
      {q:"Supplementary angles sum to ___.", options:["90°","45°","360°","180°"], answer:3},
      {q:"Complementary angles sum to ___.", options:["180°","90°","360°","270°"], answer:1},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"Co-interior (same-side interior) angles formed by a transversal cutting parallel lines are ___.", options:["equal","supplementary (sum to 180°)","complementary","vertically opposite"], answer:1}
    ]},
   {subject:"Science", title:"Light and Optics: Mirrors and Lenses in Technology", summary:"Students explore how mirrors and lenses are used in technology — cameras, telescopes, microscopes, corrective lenses, and medical equipment.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Light and Optics: Mirrors and Lenses in Technology", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Optics%3A%20Mirrors%20and%20Lenses%20in%20Technology%20grade%208%20educational",
    quiz:[
      {q:"A refracting telescope uses ___.", options:["mirrors to form images","radio waves","two convex lenses — an objective lens to gather and focus light and an eyepiece lens to magnify the image","only one lens"], answer:2},
      {q:"A reflecting telescope uses ___.", options:["only lenses","a concave mirror to gather and focus light, and an eyepiece lens to magnify","only flat mirrors","prisms only"], answer:1},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"MRI (magnetic resonance imaging) differs from X-rays in that ___.", options:["MRI uses X-radiation","MRI only scans bones","MRI uses magnetic fields and radio waves to image soft tissues without ionising radiation; X-rays use radiation and are best for dense tissues like bone","MRI is a newer word for X-ray"], answer:2}
    ]},
   {subject:"History", title:"Social Movements in Canada: Rights and Equality", summary:"Students examine the women's suffrage movement, Indigenous rights movements, and the Canadian civil rights movement in the 20th century.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Social Movements in Canada: Rights and Equality", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%20in%20Canada%3A%20Rights%20and%20Equality%20grade%208%20educational",
    quiz:[
      {q:"Canadian women won the federal right to vote in ___.", options:["1867","1900","1929","1918 (with exceptions; all women by 1940)"], answer:3},
      {q:"The 'Persons Case' (1929) was significant because ___.", options:["it granted women the vote","it was irrelevant to women's history","the Judicial Committee of the Privy Council ruled that women were 'persons' under Canadian law and could be appointed to the Senate","it created the Charter of Rights"], answer:2},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Media Creation: Podcast Script", summary:"Students plan and write a script for a short informational podcast episode. They learn to write for the ear — using conversational language, clear structure, and engaging hooks.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Media Creation: Podcast Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Creation%3A%20Podcast%20Script%20grade%208%20educational",
    quiz:[
      {q:"Writing for a podcast differs from writing an essay because ___.", options:["podcasts have no structure","essays are always shorter","podcast scripts use conversational language, shorter sentences, and audio-specific elements (music, sound effects) since they will be heard, not read","essays are always better"], answer:2},
      {q:"An effective podcast hook ___.", options:["begins with a long history lesson","starts with 'Welcome to our podcast'","opens with a compelling question, surprising fact, or brief story to immediately grab the listener's attention","lists all topics to be covered"], answer:2},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"A call to action at the end of a podcast episode ___.", options:["is always inappropriate","ends the podcast abruptly","invites listeners to do something (subscribe, visit a website, reflect on a question, share the episode) — it extends engagement beyond the episode itself","should be very long"], answer:2}
    ]},
   {subject:"Math", title:"Probability: Compound Events and Simulations", summary:"Students calculate probabilities of independent and dependent compound events and use simulations to explore experimental probability.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Probability: Compound Events and Simulations", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Compound%20Events%20and%20Simulations%20grade%208%20educational",
    quiz:[
      {q:"Independent events are events where ___.", options:["the first event changes the probability of the second","they happen at the same time","the outcome of one does NOT affect the probability of the other","they must both occur"], answer:2},
      {q:"P(A and B) for independent events = ___.", options:["P(A) + P(B)","P(A) − P(B)","P(A) × P(B)","P(A) / P(B)"], answer:2},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"A simulation in probability ___.", options:["always gives exact theoretical results","replaces all probability calculations","uses a model (random number table, spinner, computer) to experimentally estimate probabilities for complex situations","only works with coins"], answer:2}
    ]},
   {subject:"Science", title:"Review: Science Connections Grade 8", summary:"Students connect the four Grade 8 science strands (cells, fluids, mechanical systems, optics) and see their real-world and technological applications.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Science Connections Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20Grade%208%20grade%208%20educational",
    quiz:[
      {q:"Which science strand best explains how vaccines work?", options:["Fluids","Mechanical systems","Optics","Cells and the immune system"], answer:3},
      {q:"Hydraulic brakes in a car apply principles from which strand?", options:["Cells","Optics","Mechanical systems","Fluids"], answer:3},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Understanding buoyancy helps engineers design ___.", options:["optical instruments","gene therapies","submarines and ships (fluids and density)","lever systems"], answer:2}
    ]},
   {subject:"History", title:"Canada in the Modern World: 1950s–1980s", summary:"Students examine key events: Quiet Revolution, Official Languages Act, Charter of Rights, Constitution Act 1982, and Canada's evolving identity.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Canada in the Modern World: 1950s–1980s", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20the%20Modern%20World%3A%201950s%E2%80%931980s%20grade%208%20educational",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960s) was ___.", options:["a military coup","a religious revival","a period of rapid social, political, and cultural change in which Quebec modernised its institutions and French Canadians asserted a distinct identity","a reconciliation with Indigenous peoples"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only English official","made only French official","declared English and French to be Canada's two official languages at the federal level","removed all language rights"], answer:2},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Reading: Shakespearean Drama", summary:"Students read excerpts from a Shakespeare play (e.g., Macbeth or Romeo and Juliet). They interpret Elizabethan language, identify dramatic conventions, and analyse key scenes.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reading: Shakespearean Drama", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Shakespearean%20Drama%20grade%208%20educational",
    quiz:[
      {q:"In Shakespearean tragedy, the protagonist's downfall is typically caused by ___.", options:["bad luck alone","supernatural forces only","a fatal flaw (hamartia) — a character weakness that leads to poor decisions and ultimately destruction","external enemies only"], answer:2},
      {q:"An aside in theatre is ___.", options:["a stage direction","a character's words spoken to another character","a brief remark spoken by a character to the audience, unheard by other characters on stage","a scene description"], answer:2},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Analysing a key scene in Shakespeare involves ___.", options:["only memorising lines","only identifying rhymes","examining language, imagery, power dynamics, themes, and how the scene advances plot or develops character","only summarising what happens"], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Polynomials Introduction", summary:"Students identify monomials, binomials, and trinomials. They add and subtract polynomials by collecting like terms.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Algebra: Polynomials Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Polynomials%20Introduction%20grade%208%20educational",
    quiz:[
      {q:"A polynomial is ___.", options:["only a one-term expression","only a two-term expression","an expression of one or more terms consisting of variables and coefficients","a type of equation only"], answer:2},
      {q:"A binomial has ___.", options:["one term","two terms","three terms","four terms"], answer:1},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify: (5x − 3) − (2x + 1)", options:["3x − 4","3x − 2","7x − 4","3x + 2"], answer:0}
    ]},
   {subject:"Science", title:"Cells: Review and Synthesis", summary:"Students synthesise their learning about cells, reproduction, genetics, and body systems, connecting ideas across the strand.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Review%20and%20Synthesis%20grade%208%20educational",
    quiz:[
      {q:"Which correctly shows the flow of genetic information?", options:["Protein → RNA → DNA","RNA → DNA → Protein","DNA → RNA → Protein (transcription then translation)","Protein → DNA → RNA"], answer:2},
      {q:"How does mitosis differ from meiosis?", options:["They are identical","Mitosis produces 4 cells; meiosis produces 2","Mitosis produces 2 identical daughter cells for growth/repair; meiosis produces 4 genetically unique gametes for reproduction","Meiosis produces identical cells"], answer:2},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"Biotechnology raises ethical questions because ___.", options:["it has no practical applications","science should never be questioned","the power to modify genomes, clone organisms, and engineer life raises profound questions about safety, equity, identity, and the limits of human intervention in nature","ethics are irrelevant to science"], answer:2}
    ]},
   {subject:"History", title:"Contemporary Canada: Issues and Identity", summary:"Students examine contemporary Canadian issues: Indigenous reconciliation, environmental policy, Quebec and Canadian identity, and Canada's role in global affairs.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Contemporary Canada: Issues and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canada%3A%20Issues%20and%20Identity%20grade%208%20educational",
    quiz:[
      {q:"The Truth and Reconciliation Commission (TRC) of Canada ___.", options:["denied the residential school system occurred","was a trial of Indigenous leaders","documented the history and lasting harms of residential schools and issued 94 Calls to Action to begin reconciliation between Canada and Indigenous peoples","ended all Indigenous land claims"], answer:2},
      {q:"The United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), adopted by Canada in 2016 and legislated in 2021, ___.", options:["has no legal significance","was rejected by Canada","affirms Indigenous peoples' rights to self-determination, culture, and free, prior, and informed consent on decisions affecting their lands","only applies outside Canada"], answer:2},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Writing: Narrative with Shifting Point of View", summary:"Students experiment with narrative point of view — first person, second person, third limited, and third omniscient — and analyse how POV shapes reader experience.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Narrative with Shifting Point of View", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20with%20Shifting%20Point%20of%20View%20grade%208%20educational",
    quiz:[
      {q:"First-person POV uses ___.", options:["he/she/they pronouns","you pronouns","I/we pronouns and gives readers direct access to the narrator's thoughts","a neutral outside perspective"], answer:2},
      {q:"Third-person omniscient POV means ___.", options:["the narrator knows only one character's thoughts","the narrator is a character in the story","the narrator has access to all characters' thoughts, feelings, and knowledge","only descriptions of external events"], answer:2},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Shifting the POV mid-story can ___.", options:["never work","always improve any story","add depth by revealing different characters' perspectives on the same events — when done deliberately, it enriches theme and creates dramatic irony","only confuse readers"], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Multiplying Polynomials", summary:"Students multiply polynomials: monomial × polynomial and binomial × binomial using the distributive property and FOIL.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Algebra: Multiplying Polynomials", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Multiplying%20Polynomials%20grade%208%20educational",
    quiz:[
      {q:"To multiply 3x(2x + 5), you apply ___.", options:["the commutative property only","the distributive property: 3x × 2x + 3x × 5 = 6x² + 15x","FOIL","the Pythagorean theorem"], answer:1},
      {q:"FOIL stands for ___.", options:["First, Outer, Inner, Last — a method for multiplying two binomials","Factor, Operate, Integrate, List","First, Open, Include, Last","None of these"], answer:0},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"(x + 5)² = ___.", options:["x² + 25","x² + 5x + 25","x² + 10x + 25","x² + 10x"], answer:2}
    ]},
   {subject:"Science", title:"Mechanical Systems: Efficiency and Energy", summary:"Students examine efficiency in machines, energy input vs. output, friction losses, and renewable energy technologies.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Mechanical Systems: Efficiency and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Mechanical%20Systems%3A%20Efficiency%20and%20Energy%20grade%208%20educational",
    quiz:[
      {q:"Mechanical efficiency is ___.", options:["always 100% in ideal machines","always less than 100% in real machines because friction converts some input energy to heat","greater than 100% in compound machines","unrelated to energy"], answer:1},
      {q:"Efficiency = ___.", options:["input energy / output energy × 100%","output energy / input energy × 100%","output + input","energy × time"], answer:1},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Reducing friction in a machine improves efficiency by ___.", options:["increasing heat loss","decreasing the work output","reducing the amount of input energy wasted as heat and increasing the proportion converted to useful work","slowing the machine"], answer:2}
    ]},
   {subject:"History", title:"Post-WWII Canada: Growth and Change", summary:"Students examine the baby boom, suburbanisation, the Quiet Revolution, Expo 67, and Canada's evolving sense of identity in the 1950s–1960s.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Post-WWII Canada: Growth and Change", resourceUrl:"https://www.youtube.com/results?search_query=Post-WWII%20Canada%3A%20Growth%20and%20Change%20grade%208%20educational",
    quiz:[
      {q:"The baby boom refers to ___.", options:["a decline in birth rates after WWII","a government program for children","the significant increase in birth rates from approximately 1946 to 1964 as soldiers returned and families expanded","a type of school program"], answer:2},
      {q:"Suburbanisation after WWII was driven by ___.", options:["a preference for city centres","declining car ownership","the growth of car culture, affordable housing programs, and a desire for space and safety outside crowded cities","government mandates"], answer:2},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Reading: Dystopian Fiction", summary:"Students examine dystopian fiction as a genre, exploring how authors use dystopias to critique contemporary society and raise questions about power, freedom, and identity.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reading: Dystopian Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Dystopian%20Fiction%20grade%208%20educational",
    quiz:[
      {q:"A dystopian society is ___.", options:["a perfect utopia","a realistic present-day society","an imagined society characterised by oppression, environmental destruction, or authoritarian control — the opposite of a utopia","only a futuristic setting"], answer:2},
      {q:"Dystopian fiction typically critiques ___.", options:["nothing in the real world","only science and technology","aspects of real contemporary society — surveillance, conformity, authoritarianism, inequality — by projecting them to an extreme conclusion","only historical governments"], answer:2},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Reading dystopian fiction develops critical thinking because ___.", options:["it is purely escapist entertainment","it has no connection to real life","it encourages readers to question power structures, consider what freedoms are worth protecting, and imagine alternatives to existing social arrangements","it only improves vocabulary"], answer:2}
    ]},
   {subject:"Math", title:"Geometry: 3D Solids — Nets and Surface Area", summary:"Students draw and interpret nets of 3D solids and calculate surface area of composite solids.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Geometry: 3D Solids — Nets and Surface Area", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%203D%20Solids%20%E2%80%94%20Nets%20and%20Surface%20Area%20grade%208%20educational",
    quiz:[
      {q:"A net of a 3D solid is ___.", options:["a 3D model","a graph of its volume","a flat (2D) pattern that folds up to form the 3D shape","a shadow"], answer:2},
      {q:"The surface area of a cylinder = ___.", options:["πr²h","2πr² + 2πrh (two circular ends + curved rectangular surface)","πr² + πrh","4πr²"], answer:1},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"Surface area is measured in ___.", options:["cm³","cm","cm² (square units)","kg"], answer:2}
    ]},
   {subject:"Science", title:"Cells: Organ Systems in Detail", summary:"Students examine two body systems in depth — cardiovascular and nervous — exploring their structures, functions, and interactions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Cells: Organ Systems in Detail", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Organ%20Systems%20in%20Detail%20grade%208%20educational",
    quiz:[
      {q:"The heart pumps blood through ___.", options:["one loop","three loops","two loops: pulmonary circulation (heart to lungs and back) and systemic circulation (heart to body and back)","the lymphatic system only"], answer:2},
      {q:"Arteries carry blood ___.", options:["to the heart at low pressure","away from the heart, typically at high pressure","only deoxygenated blood","only to the lungs"], answer:1},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"How do the nervous and cardiovascular systems interact?", options:["They do not interact","Only the heart has nerves","The nervous system regulates heart rate, blood pressure, and blood vessel diameter through neural and hormonal signals","Only the brain has a blood supply"], answer:2}
    ]},
   {subject:"History", title:"Quebec Referendums and Canadian Unity", summary:"Students examine the two Quebec referendums (1980, 1995) and the complex questions of identity, language, and national unity they raised.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Quebec Referendums and Canadian Unity", resourceUrl:"https://www.youtube.com/results?search_query=Quebec%20Referendums%20and%20Canadian%20Unity%20grade%208%20educational",
    quiz:[
      {q:"The 1980 Quebec Referendum was on ___.", options:["whether Quebec should join the United States","Quebec independence outright","whether Quebec should negotiate 'sovereignty-association' with Canada — a form of political independence while maintaining economic ties","Quebec leaving Confederation temporarily"], answer:2},
      {q:"The result of the 1980 referendum was ___.", options:["60% Yes for sovereignty-association","a tied vote","59.6% No — Quebecers voted against sovereignty-association","a Yes vote for full independence"], answer:2},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Writing: The Short Story", summary:"Students plan and write an original short story with an engaging hook, developed plot structure, consistent point of view, vivid characterisation, and a resonant ending.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: The Short Story", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Short%20Story%20grade%208%20educational",
    quiz:[
      {q:"A story's inciting incident is ___.", options:["the resolution","the falling action","the event that disrupts the protagonist's normal world and sets the main conflict in motion","the climax"], answer:2},
      {q:"Rising action consists of ___.", options:["events after the climax","the resolution of all conflicts","the series of complications and events that build tension and lead toward the climax","only dialogue"], answer:2},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Consistent point of view means ___.", options:["changing POV whenever convenient","using only dialogue","maintaining the same narrative perspective throughout, except for deliberate artistic shifts with clear purpose","using multiple narrators in every story"], answer:2}
    ]},
   {subject:"Math", title:"Data Management: Scatter Plots and Correlations", summary:"Students create scatter plots, identify correlations (positive, negative, none), draw lines of best fit, and use them to make predictions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Data Management: Scatter Plots and Correlations", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Scatter%20Plots%20and%20Correlations%20grade%208%20educational",
    quiz:[
      {q:"A scatter plot is used to ___.", options:["show proportions of a whole","track changes over time","show the relationship between two variables by plotting data as points on a coordinate plane","only show categorical data"], answer:2},
      {q:"A positive correlation means ___.", options:["as x increases, y decreases","there is no relationship","as x increases, y also increases","the data is perfectly linear"], answer:2},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"To predict a value not in a data set using a scatter plot, you ___.", options:["guess randomly","use the y-axis only","extrapolate or interpolate using the line of best fit to estimate the y-value for a given x-value","average all x-values"], answer:2}
    ]},
   {subject:"Science", title:"Optics: Telescopes and Modern Technology", summary:"Students explore how modern telescopes work, the electromagnetic spectrum beyond visible light, and how optical technology has transformed astronomy.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Optics: Telescopes and Modern Technology", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Telescopes%20and%20Modern%20Technology%20grade%208%20educational",
    quiz:[
      {q:"The Hubble Space Telescope operates in space to avoid ___.", options:["gravity","the moon","atmospheric distortion and light pollution that reduce image clarity for ground-based telescopes","solar radiation"], answer:2},
      {q:"Radio telescopes detect ___.", options:["visible light","X-rays only","radio waves emitted by celestial objects — allowing study of objects invisible to optical telescopes","infrared only"], answer:2},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"CCD (charge-coupled device) detectors replaced photographic film in telescopes because ___.", options:["film is more accurate","CCDs are heavier","CCDs are far more sensitive, accurate, and produce digital data that can be processed instantly on computers","CCDs use more energy"], answer:2}
    ]},
   {subject:"History", title:"Indigenous Issues: Land Rights and Reconciliation", summary:"Students examine specific Indigenous land claims, treaty rights, and current reconciliation efforts in Canada, connecting to historical policies.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Indigenous Issues: Land Rights and Reconciliation", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Issues%3A%20Land%20Rights%20and%20Reconciliation%20grade%208%20educational",
    quiz:[
      {q:"A land claim in Canada refers to ___.", options:["a private real estate dispute","a complaint about municipal zoning","a legal claim by an Indigenous group seeking recognition of rights to lands not covered by treaty or from which they were dispossessed","a tax dispute"], answer:2},
      {q:"The Haida Gwaii (2004) and Tsilhqot'in Nation (2014) Supreme Court decisions were significant because ___.", options:["they reduced Indigenous land rights","they had no lasting impact","they affirmed the duty of the Crown to consult and accommodate Indigenous peoples and recognised Aboriginal title to specific territories","they only applied to British Columbia"], answer:2},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Grammar Review: Clauses, Phrases, and Usage", summary:"Students distinguish between phrases and clauses, identify misplaced and dangling modifiers, and apply grammar knowledge to revise writing for clarity and precision.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Grammar Review: Clauses, Phrases, and Usage", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20Review%3A%20Clauses%2C%20Phrases%2C%20and%20Usage%20grade%208%20educational",
    quiz:[
      {q:"A phrase is ___.", options:["a complete thought","a group of words with a subject and verb","a group of words that functions as a unit but does NOT contain both a subject and a verb","always one word"], answer:2},
      {q:"A misplaced modifier is ___.", options:["a modifier that is missing","a modifier placed correctly","a modifier positioned so far from the word it modifies that the sentence is ambiguous or illogical","a type of adverb"], answer:2},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence demonstrates parallel structure?", options:["She likes swimming, to run, and hiking.","She likes swimming, running, and to hike.","She likes to swim, running, and a hike.","She likes swimming, running, and hiking."], answer:3}
    ]},
   {subject:"Math", title:"Algebra: Factoring", summary:"Students factor polynomials by finding the greatest common factor (GCF) and factoring simple trinomials.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Algebra: Factoring", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Factoring%20grade%208%20educational",
    quiz:[
      {q:"Factoring a polynomial means ___.", options:["multiplying it out","adding like terms","expanding it","expressing it as a product of simpler expressions"], answer:3},
      {q:"The GCF of 12x² and 8x is ___.", options:["4x²","2x","4x","8x"], answer:2},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"Factoring is the reverse of ___.", options:["differentiation","adding","subtraction","expanding (multiplying out)"], answer:3}
    ]},
   {subject:"Science", title:"Fluids: Technology and Society", summary:"Students evaluate how fluid technology has shaped society — from ancient aqueducts to modern medicine (syringes, IV drips, blood pressure monitors).",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Fluids: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Technology%20and%20Society%20grade%208%20educational",
    quiz:[
      {q:"Ancient Roman aqueducts used ___.", options:["pumps and electricity","gravity to move water through channels from highland sources to cities — an early example of fluid engineering","steam power","windmills"], answer:1},
      {q:"A syringe uses ___.", options:["electrical pressure","compressed gases","pneumatic/hydraulic principles: pulling the plunger creates low pressure that draws fluid in; pushing increases pressure to expel it","gravity only"], answer:2},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Innovations in fluid technology for sustainability include ___.", options:["only desalination","only sewage treatment","drip irrigation (reducing agricultural water use), desalination, water recycling, and smart pipe sensors to detect leaks in water systems","only dam construction"], answer:2}
    ]},
   {subject:"History", title:"Canada and Globalisation", summary:"Students examine how globalisation affects Canada — trade, immigration, cultural exchange, and environmental interdependence.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Canada and Globalisation", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20Globalisation%20grade%208%20educational",
    quiz:[
      {q:"Globalisation refers to ___.", options:["only the spread of the internet","only economic trade","the increasing interconnection and interdependence of countries through trade, technology, communication, migration, and cultural exchange","only political alliances"], answer:2},
      {q:"CUSMA (Canada-United States-Mexico Agreement, 2020) is ___.", options:["a defence treaty","a cultural agreement","an immigration policy","a trade agreement replacing NAFTA that governs trade among North America's three countries"], answer:3},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Independent Novel Study: Theme and Author's Craft", summary:"Students write an analytical essay on their novel, examining how the author uses specific craft choices to develop a central theme.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Independent Novel Study: Theme and Author's Craft", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Theme%20and%20Author%27s%20Craft%20grade%208%20educational",
    quiz:[
      {q:"A thematic essay about a novel should ___.", options:["summarise the plot","list all the characters","analyse how the author's specific craft choices (diction, structure, imagery, character development) work together to develop a central theme","only quote the most famous lines"], answer:2},
      {q:"Diction refers to ___.", options:["sentence length only","only dialogue","the author's choice of specific words and phrases, which creates tone, reveals character, and contributes to meaning","only formal language"], answer:2},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"A strong essay conclusion on theme ___.", options:["summarises only the plot","introduces entirely new evidence","synthesises how the evidence shows the theme's development, extends the theme to a broader human truth, and leaves the reader with a new insight","just restates the thesis"], answer:2}
    ]},
   {subject:"Math", title:"Financial Literacy: Budgeting and Tax", summary:"Students create a personal budget, understand gross vs. net income, and learn the basics of taxes (income tax, HST/GST) and why they exist.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Financial Literacy: Budgeting and Tax", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Budgeting%20and%20Tax%20grade%208%20educational",
    quiz:[
      {q:"Net income is ___.", options:["income before deductions","total money earned before taxes","income after all deductions (taxes, CPP, EI contributions) — what you actually take home","only investment income"], answer:2},
      {q:"A personal budget ___.", options:["is only for people in debt","is unnecessary if you earn enough","tracks income and planned expenses to ensure you can meet financial obligations and save toward goals","replaces the need for a bank account"], answer:2},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"The '50/30/20 rule' for budgeting suggests ___.", options:["spending 50% on wants and 30% on savings","saving 50% of income","allocating roughly 50% to needs, 30% to wants, and 20% to savings and debt repayment","spending all income on needs"], answer:0}
    ]},
   {subject:"Science", title:"Biology: Biodiversity and Ecosystems Review", summary:"Students consolidate understanding of cells, genetics, reproduction, and connect to ecosystem-level impacts of biodiversity loss.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Biology: Biodiversity and Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Biodiversity%20and%20Ecosystems%20Review%20grade%208%20educational",
    quiz:[
      {q:"Genetic diversity within a species is important because ___.", options:["all individuals being identical is more efficient","genetic variation gives a population the raw material to adapt to environmental changes through natural selection","genetic diversity has no survival value","only biodiversity between species matters"], answer:1},
      {q:"Species extinction reduces ecosystem resilience because ___.", options:["ecosystems function better with fewer species","extinct species are replaced instantly","each species plays a role in ecosystem function; losing species can cascade through food webs and destabilise entire systems","only keystone species matter"], answer:2},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"CRISPR technology may help conservation by ___.", options:["eliminating all genetic modification","only working in humans","potentially reviving extinct species, boosting disease resistance in endangered species, or controlling invasive species populations — though ethical questions remain","replacing all natural ecosystems"], answer:2}
    ]},
   {subject:"History", title:"Canada's Environmental History and Policy", summary:"Students examine key environmental milestones — creation of national parks, environmental legislation, climate commitments, and Indigenous land stewardship.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Canada's Environmental History and Policy", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20and%20Policy%20grade%208%20educational",
    quiz:[
      {q:"Banff National Park (1885) was Canada's first national park, established primarily to ___.", options:["protect Indigenous territory","provide housing for workers","attract tourists and protect the landscape around the hot springs — later expanding to broader conservation goals","mine the Rocky Mountains"], answer:2},
      {q:"The Canadian Environmental Protection Act (CEPA) ___.", options:["bans all industrial activity","has no enforcement powers","is federal legislation regulating toxic substances, pollution, and environmental emergencies","only applies to provinces"], answer:2},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Writing: Reflection and Self-Assessment", summary:"Students write a formal self-assessment of their learning and growth throughout the year, applying metacognitive skills to evaluate strengths and areas for continued development.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Reflection and Self-Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Reflection%20and%20Self-Assessment%20grade%208%20educational",
    quiz:[
      {q:"Metacognition means ___.", options:["thinking about other people's ideas","only remembering what you learned","thinking about your own thinking and learning — reflecting on how you learn, what strategies work, and where you need to improve","only writing reflections"], answer:2},
      {q:"A strong self-assessment is ___.", options:["only positive","only critical","honest, specific, and evidence-based — identifying genuine strengths and areas for growth with examples","vague and general"], answer:2},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Goal-setting in a self-assessment should be ___.", options:["vague and aspirational only","impossible to achieve","SMART: Specific, Measurable, Achievable, Relevant, and Time-bound","only academic"], answer:2}
    ]},
   {subject:"Math", title:"Review: Algebra and Analytic Geometry", summary:"Students consolidate Grade 8 algebra and geometry — equations, polynomials, graphing, systems, and geometric formulas.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Algebra and Analytic Geometry", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Analytic%20Geometry%20grade%208%20educational",
    quiz:[
      {q:"Solve: 2(3x − 4) = 16", options:["x = 2","x = 3","x = 4","x = 6"], answer:2},
      {q:"What is the slope of the line through (0,3) and (4,11)?", options:["2","3","8","4"], answer:0},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"Two lines: y = x + 2 and y = −2x + 8. Their intersection = ?", options:["(2,4)","(3,5)","(6,0)","(0,8)"], answer:0}
    ]},
   {subject:"Science", title:"Review: Science Synthesis Grade 8", summary:"Students connect all four Grade 8 science strands and reflect on how scientific knowledge evolves and intersects with ethical and social questions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Science Synthesis Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Synthesis%20Grade%208%20grade%208%20educational",
    quiz:[
      {q:"Which strand explains how a vaccine trains your immune system?", options:["Fluids","Mechanical systems","Optics","Cells, genetics, and the immune system"], answer:3},
      {q:"A hydraulic excavator applies which strand's principles?", options:["Optics","Cells","Fluids and mechanical systems","Genetics"], answer:2},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"Why do scientific advances often raise ethical questions?", options:["They do not","Ethics and science are separate","Science gives us power to change the world — from editing genes to altering ecosystems — but whether we should, and for whose benefit, requires ethical reflection beyond what science alone can answer","Only medical science raises ethics"], answer:2}
    ]},
   {subject:"History", title:"Review: Canadian History Grade 8", summary:"Students synthesise their understanding of Canadian history from New France to the present, identifying themes of identity, power, rights, and responsibility.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Canadian History Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canadian%20History%20Grade%208%20grade%208%20educational",
    quiz:[
      {q:"Which theme connects New France, Confederation, and modern Canada most directly?", options:["Military conflict only","Economic growth only","The ongoing negotiation of identity — who belongs, who has power, and what it means to be Canadian across French, English, and Indigenous communities","Cultural exchange only"], answer:2},
      {q:"The numbered treaties, residential schools, and UNDRIP are all connected by ___.", options:["immigration policy","economic policy","the relationship between the Canadian state and Indigenous peoples — from dispossession to legal recognition and ongoing reconciliation","environmental history"], answer:2},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Media: Analysing Propaganda", summary:"Students examine propaganda techniques and historical and contemporary examples. They develop critical tools for identifying manipulation in media.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Media: Analysing Propaganda", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Analysing%20Propaganda%20grade%208%20educational",
    quiz:[
      {q:"Propaganda is ___.", options:["always obviously false","only used in wartime","media designed to promote a particular political cause or point of view, often using emotional manipulation, selective facts, and misleading framing","only government communication"], answer:2},
      {q:"The 'big lie' propaganda technique involves ___.", options:["a minor exaggeration","stating a minor untruth","repeating a massive falsehood so frequently and confidently that people come to believe it — associated with totalitarian regimes","satire"], answer:2},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Understanding propaganda is important because ___.", options:["it is only a historical concern","modern media has no propaganda","the techniques of manipulation are pervasive in modern media, advertising, and politics — critical media literacy is essential for democratic citizenship","only media professionals need this skill"], answer:2}
    ]},
   {subject:"Math", title:"Review: Measurement and Data", summary:"Students consolidate measurement (surface area, volume of 3D solids) and data management (scatter plots, probability) from Grade 8.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Measurement and Data", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20and%20Data%20grade%208%20educational",
    quiz:[
      {q:"A cone has radius 4 cm and height 9 cm. Volume = ? (π ≈ 3.14)", options:["452.2 cm³","150.7 cm³","603.0 cm³","37.7 cm³"], answer:1},
      {q:"A sphere has radius 6 cm. Surface area = ? (π ≈ 3.14)", options:["150.7 cm²","75.4 cm²","452.2 cm²","904.3 cm²"], answer:2},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"The line of best fit on a scatter plot is used to ___.", options:["describe only existing data","always give exact answers","replace the original data","make predictions for values not in the original data set"], answer:3}
    ]},
   {subject:"Science", title:"Science: Careers and Future Directions", summary:"Students explore STEM careers and how Grade 8 science connects to real-world professions and future study.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science: Careers and Future Directions", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Careers%20and%20Future%20Directions%20grade%208%20educational",
    quiz:[
      {q:"A biomedical engineer uses knowledge from ___.", options:["only math","only history","cells and fluids and mechanical systems — designing medical devices like prosthetics, dialysis machines, and drug delivery systems","only one science strand"], answer:2},
      {q:"An optometrist applies knowledge of ___.", options:["genetics and cells","fluid dynamics","optics and the physics of light, lenses, and the human eye to assess and correct vision","mechanical advantage"], answer:2},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Studying Grade 8 science helps future decision-making because ___.", options:["it has no practical value","only scientists need science","scientific literacy enables everyone to evaluate health claims, understand environmental issues, engage with technology, and participate in decisions about science policy","only if you become a scientist"], answer:2}
    ]},
   {subject:"History", title:"Critical Thinking: Historical Perspective Taking", summary:"Students practise empathetic historical thinking — examining events from multiple perspectives to develop nuanced understanding and avoid presentism.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Critical Thinking: Historical Perspective Taking", resourceUrl:"https://www.youtube.com/results?search_query=Critical%20Thinking%3A%20Historical%20Perspective%20Taking%20grade%208%20educational",
    quiz:[
      {q:"Presentism in history means ___.", options:["studying the present day","accurately applying modern values to all periods","judging historical people and events by the standards of our own time, without considering the context and knowledge available to them","caring about the present"], answer:2},
      {q:"Historical perspective taking means ___.", options:["agreeing with all historical actors","ignoring historical wrongdoing","attempting to understand historical actors' viewpoints, values, and knowledge within their own context — without necessarily endorsing those views","only focusing on victims"], answer:2},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Writing: Publishing and Sharing", summary:"Students select, polish, and present a piece of writing to a real or simulated audience. They understand the writing-to-publish process.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Publishing and Sharing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Publishing%20and%20Sharing%20grade%208%20educational",
    quiz:[
      {q:"Publishing writing means ___.", options:["printing a book only","submitting to a professional editor only","sharing completed work with a real or simulated audience — which could include a class anthology, school blog, letter, or formal submission","only digital publication"], answer:2},
      {q:"Choosing which piece to publish involves ___.", options:["always picking the longest piece","picking the first piece you wrote","selecting the piece that best represents your voice, growth, and skills — and that is most appropriate for the target audience","picking randomly"], answer:2},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Sharing writing with an audience ___.", options:["is only for professional writers","only exposes your weaknesses","develops communication skills, builds confidence, and makes writing purposeful — real audiences give writing meaning beyond classroom assessment","is always stressful and unproductive"], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Solving Quadratic Equations (Introduction)", summary:"Students are introduced to quadratic equations in standard form (ax² + bx + c = 0). They solve simple cases by factoring.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Algebra: Solving Quadratic Equations (Introduction)", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Quadratic%20Equations%20%28Introduction%29%20grade%208%20educational",
    quiz:[
      {q:"A quadratic equation has a degree of ___.", options:["1","2","3","4"], answer:1},
      {q:"The standard form of a quadratic equation is ___.", options:["y = mx + b","ax + b = 0","ax² + bx + c = 0","x² = c only"], answer:2},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"Solve x² = 9.", options:["x = 3 only","x = 9 only","x = 3 or x = −3","x = 81"], answer:2}
    ]},
   {subject:"Science", title:"Environmental Science: Climate Change Science", summary:"Students examine the evidence for climate change, the greenhouse effect, tipping points, and current mitigation and adaptation strategies.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Environmental Science: Climate Change Science", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20Change%20Science%20grade%208%20educational",
    quiz:[
      {q:"The enhanced greenhouse effect refers to ___.", options:["the natural greenhouse effect that makes Earth habitable","farmers growing more in greenhouses","the amplification of Earth's natural greenhouse effect due to human emissions of CO₂, methane, and other gases, causing additional warming","glass buildings trapping heat"], answer:2},
      {q:"Climate tipping points are ___.", options:["minor fluctuations","easily reversible changes","thresholds beyond which a climate system component changes dramatically and potentially irreversibly — for example, the collapse of the Greenland ice sheet","political decisions about emissions"], answer:2},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Adaptation to climate change includes ___.", options:["only reducing emissions","pretending impacts won't occur","measures to adjust to current and expected impacts — seawalls, drought-resistant crops, urban heat island management, and early warning systems","only technological solutions"], answer:2}
    ]},
   {subject:"History", title:"Canada's Future: Challenges and Opportunities", summary:"Students examine key challenges Canada faces in the 21st century: reconciliation, climate change, economic inequality, and democratic participation.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Canada's Future: Challenges and Opportunities", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Challenges%20and%20Opportunities%20grade%208%20educational",
    quiz:[
      {q:"The most significant unresolved challenge in Canadian history for Indigenous peoples is ___.", options:["language differences only","economic development only","the ongoing legacy of colonialism — including land rights, self-governance, socioeconomic gaps, and the multigenerational effects of residential schools, which requires sustained reconciliation","already completely resolved"], answer:2},
      {q:"Canada's climate commitments face challenges because ___.", options:["climate change is not real","Canada is too small to matter","as a major fossil fuel exporter and high per-capita emitter, balancing economic interests (oil sands, pipelines) with emissions reduction targets creates significant political and economic tensions","Canada already met all targets"], answer:2},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Reading: Poetry Analysis", summary:"Students closely analyse poems from different traditions and periods. They examine structure, diction, imagery, figurative language, and theme.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Reading: Poetry Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Poetry%20Analysis%20grade%208%20educational",
    quiz:[
      {q:"Close reading of a poem means ___.", options:["reading it as fast as possible","memorising it","examining every word, image, and structural choice carefully to understand how they work together to create meaning","only identifying rhyme scheme"], answer:2},
      {q:"Enjambment in poetry is ___.", options:["a pause at the end of a line","rhyming every two lines","the continuation of a sentence or phrase beyond the end of a line without a pause, creating momentum and ambiguity","a type of metaphor"], answer:2},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Tone in a poem is conveyed through ___.", options:["only the poem's topic","only the rhyme scheme","diction (word choice), imagery, sound devices, and structural choices — the accumulation of these elements creates the poet's attitude toward the subject","only the poem's title"], answer:2}
    ]},
   {subject:"Math", title:"Number Systems: Square Roots and Irrational Numbers", summary:"Students distinguish rational from irrational numbers, estimate square roots, and place them on a number line.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Number Systems: Square Roots and Irrational Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Systems%3A%20Square%20Roots%20and%20Irrational%20Numbers%20grade%208%20educational",
    quiz:[
      {q:"A rational number is ___.", options:["any square root","a number that CANNOT be written as a fraction","any number that can be expressed as a fraction p/q where p and q are integers and q ≠ 0","only whole numbers"], answer:2},
      {q:"An irrational number is ___.", options:["any decimal","a fraction with an irrational denominator","a number whose decimal expansion is non-terminating and non-repeating — it cannot be written as a simple fraction","any large number"], answer:2},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT an irrational number?", options:["√2","π","√9 = 3","√3"], answer:2}
    ]},
   {subject:"Science", title:"Systems: Connecting Science Strands", summary:"Students explore how the four Grade 8 science strands connect — cells and systems, fluids and pressure, mechanical advantage, optics — within real engineering contexts.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Systems: Connecting Science Strands", resourceUrl:"https://www.youtube.com/results?search_query=Systems%3A%20Connecting%20Science%20Strands%20grade%208%20educational",
    quiz:[
      {q:"A kidney dialysis machine demonstrates ___.", options:["only electrical principles","only optics","only mechanical advantage","fluid dynamics (semi-permeable membranes, pressure) and cell biology (removing waste from blood)"], answer:3},
      {q:"A car's braking system demonstrates ___.", options:["optics","cell biology","genetic engineering","fluid dynamics (hydraulic brakes) and mechanical systems (brake pads, rotors)"], answer:3},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"An engineer designing a submarine needs knowledge of ___.", options:["genetics","optics and light only","cell biology","fluid pressure, buoyancy, and mechanical systems"], answer:3}
    ]},
   {subject:"History", title:"Digital History: Canada's Information Age", summary:"Students examine how digital technology has transformed Canadian society, economy, and governance since the 1980s.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Digital History: Canada's Information Age", resourceUrl:"https://www.youtube.com/results?search_query=Digital%20History%3A%20Canada%27s%20Information%20Age%20grade%208%20educational",
    quiz:[
      {q:"The World Wide Web, invented by Tim Berners-Lee in 1989, transformed Canada by ___.", options:["having no major impact","reducing communication speed","eliminating all printed media","enabling instant global communication, e-commerce, digital education, and the information economy — reshaping how Canadians work, shop, and connect"], answer:3},
      {q:"Social media has affected Canadian democracy by ___.", options:["having no effect","only improving political participation","completely replacing traditional media","enabling citizen voice and political mobilisation, but also spreading misinformation, enabling foreign interference, and creating filter bubbles that deepen polarisation"], answer:3},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Research: Ethics in Writing and Citation", summary:"Students deepen their understanding of academic integrity. They distinguish paraphrase, summary, and quotation, and practise ethical source integration.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Research: Ethics in Writing and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Research%3A%20Ethics%20in%20Writing%20and%20Citation%20grade%208%20educational",
    quiz:[
      {q:"Academic integrity means ___.", options:["always getting high grades","using AI to write for you","submitting others' work without attribution","honesty in all academic work — producing your own ideas, properly crediting sources, and not misrepresenting your work"], answer:3},
      {q:"A summary differs from a paraphrase because ___.", options:["they are identical","a summary is longer","a summary condenses the main ideas of a larger passage into a much shorter form, while a paraphrase restates a specific passage in your own words at roughly the same length","a paraphrase is shorter"], answer:2},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"If you are unsure whether something needs a citation, you should ___.", options:["leave it out","cite it — it is always better to over-cite than to under-cite and risk plagiarism","ask someone to write it for you","use it without citing"], answer:1}
    ]},
   {subject:"Math", title:"Measurement: Optimisation Problems", summary:"Students solve problems that require optimising area, perimeter, surface area, or volume — finding maximum or minimum values given constraints.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Measurement: Optimisation Problems", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Optimisation%20Problems%20grade%208%20educational",
    quiz:[
      {q:"Optimisation in math means ___.", options:["making something more complicated","only making things bigger","finding the maximum or minimum value of something (area, cost, volume) subject to given constraints","only for calculus"], answer:2},
      {q:"For a fixed perimeter, which rectangle has the maximum area?", options:["The longest possible rectangle","A very narrow rectangle","A square (all sides equal)","Shape doesn't matter"], answer:2},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"Why do companies care about optimisation?", options:["They don't","Only engineers need it","It is only for math class","Minimising material while maximising volume reduces costs — e.g., designing a can that holds the most with least metal"], answer:3}
    ]},
   {subject:"Science", title:"Science and Society: Ethics of Technology", summary:"Students examine the ethical dimensions of emerging technologies — AI, genetic engineering, space exploration — and practise ethical reasoning.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science and Society: Ethics of Technology", resourceUrl:"https://www.youtube.com/results?search_query=Science%20and%20Society%3A%20Ethics%20of%20Technology%20grade%208%20educational",
    quiz:[
      {q:"Ethical reasoning about technology involves ___.", options:["only celebrating new inventions","only opposing all new technology","asking who benefits, who bears the risks, whether consent was given, and what the long-term social and environmental consequences might be","only asking if it works"], answer:2},
      {q:"Artificial intelligence raises ethical concerns including ___.", options:["none — AI only helps","AI is not real yet","algorithmic bias (AI reflecting human prejudices in training data), job displacement, privacy, and questions about accountability when AI makes harmful decisions","only questions of speed"], answer:2},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Space exploration raises ethical questions because ___.", options:["space is infinite so no ethics apply","it has no Earth applications","it involves vast public expenditure; potential environmental impact on other planetary bodies; and questions of who owns and benefits from space resources","only scientists need to consider this"], answer:2}
    ]},
   {subject:"History", title:"Year-End History Synthesis", summary:"Students synthesise Canadian history from New France to the present, examining recurring themes and their relevance to contemporary Canada.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Year-End History Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20History%20Synthesis%20grade%208%20educational",
    quiz:[
      {q:"Which recurring theme links Indigenous history from colonial times to today?", options:["Complete resolution of all issues","No significant connection between periods","Sovereignty and self-determination — from treaty rights, through the Indian Act and residential schools, to the TRC Calls to Action and UNDRIP","Only economic issues"], answer:2},
      {q:"How has Canada's relationship with Britain evolved from 1867 to today?", options:["It has not changed","Canada became less independent over time","From a self-governing Dominion under British authority to full constitutional independence (1982), while maintaining Commonwealth ties","Canada broke all ties with Britain"], answer:2},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Language Arts: Consolidation and Celebration", summary:"Students reflect on their growth as readers, writers, and communicators in Grade 8. They celebrate achievements and set goals for high school.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Language Arts: Consolidation and Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Arts%3A%20Consolidation%20and%20Celebration%20grade%208%20educational",
    quiz:[
      {q:"Growth as a writer means ___.", options:["only getting perfect grades","never making mistakes","developing more sophisticated vocabulary, stronger analytical thinking, greater awareness of craft, and ability to adapt writing for diverse purposes and audiences","only writing longer pieces"], answer:2},
      {q:"The most important skill developed in Grade 8 Language Arts is arguably ___.", options:["perfect spelling","fast reading speed","critical thinking — the ability to analyse, evaluate, and synthesise ideas from texts and express complex thinking clearly in writing and speech","memorising literary terms"], answer:2},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"High school English will build on Grade 8 skills by ___.", options:["starting from scratch","ignoring everything learned in Grade 8","requiring more sophisticated analysis, longer essays, more complex texts, and greater independence as a thinker and writer — the foundations built in Grade 8 are essential","only testing grammar"], answer:2}
    ]},
   {subject:"Math", title:"Grade 8 Math: Comprehensive Review", summary:"Students review all major Grade 8 math strands.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Grade 8 Math: Comprehensive Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Comprehensive%20Review%20grade%208%20educational",
    quiz:[
      {q:"Solve: 5(x − 2) = 3x + 6", options:["x = 4","x = 8","x = 2","x = 16"], answer:1},
      {q:"A cylinder has r = 5 cm, h = 12 cm. Volume = ? (π ≈ 3.14)", options:["940.0 cm³","942.0 cm³","188.4 cm³","314.0 cm³"], answer:1},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"A bag has 4 red and 6 blue marbles. P(red, then blue without replacement) = ?", options:["4/10 × 6/10 = 24/100","4/10 × 6/9 = 24/90 = 4/15","6/10 × 4/9","4/10 × 6/10"], answer:1}
    ]},
   {subject:"Science", title:"Science: Looking Ahead to Grade 9", summary:"Students preview the Grade 9 science curriculum (biology, chemistry, physics, earth science) and connect Grade 8 learning to what comes next.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science: Looking Ahead to Grade 9", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Ahead%20to%20Grade%209%20grade%208%20educational",
    quiz:[
      {q:"Grade 9 Science includes which four broad areas?", options:["Cells, Fluids, Optics, Mechanics","Math, History, Language, PE","Biology (biodiversity), Chemistry (atomic theory), Physics (electricity), Earth science (climate and space)","Only biology and chemistry"], answer:2},
      {q:"Which Grade 8 topic connects most directly to Grade 9 chemistry?", options:["Optics","Fluid power","Genetics","Cells — understanding cell structure and molecules (DNA, proteins) leads to atomic theory and chemical reactions in Grade 9"], answer:3},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"The scientific method — observation, hypothesis, experiment, analysis, conclusion — is ___.", options:["only relevant in Grade 8","replaced in high school","a foundation that grows more sophisticated in high school as experiments become more complex and analysis more quantitative","optional in high school"], answer:2}
    ]},
   {subject:"History", title:"History: Becoming an Informed Citizen", summary:"Students reflect on how studying history prepares them for democratic participation and lifelong civic engagement.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: History: Becoming an Informed Citizen", resourceUrl:"https://www.youtube.com/results?search_query=History%3A%20Becoming%20an%20Informed%20Citizen%20grade%208%20educational",
    quiz:[
      {q:"Studying history prepares you for citizenship by ___.", options:["teaching you only memorised dates","having no connection to the present","developing your ability to evaluate sources, understand context, recognise cause and effect, and think critically about competing narratives — skills essential for navigating a complex modern world","only teaching you about Canadian government"], answer:2},
      {q:"Historical empathy means ___.", options:["agreeing with historical actors","judging the past harshly always","trying to understand the perspectives, values, and contexts of people in the past without necessarily endorsing those views","only feeling sad about past tragedies"], answer:2},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Exam Preparation: Close Reading Practice", summary:"Students practise close reading and analytical response to unseen texts — a key skill for high school and standardised assessments.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Exam Preparation: Close Reading Practice", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Close%20Reading%20Practice%20grade%208%20educational",
    quiz:[
      {q:"When approaching an unseen text on a test, you should ___.", options:["read it once very fast","only skim for key words","read it twice: first for overall understanding, then closely for specific textual details that will support your responses","only look at the questions"], answer:2},
      {q:"RACES (or a similar response framework) helps structure exam answers by ___.", options:["making answers longer","only for multiple choice","Restate the question, Answer it, Cite evidence, Explain the evidence, connect to your argument — ensuring all responses are complete and evidence-based","avoiding personal pronouns"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"The most common error in timed literary response is ___.", options:["using quotations","analysing evidence","having too much analysis","retelling the plot instead of analysing it — always prioritise insight over summary"], answer:3}
    ]},
   {subject:"Math", title:"Pre-High-School Math: Review and Extensions", summary:"Students consolidate all Grade 8 math and preview Grade 9 topics: linear equations, quadratics, and analytic geometry extensions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Pre-High-School Math: Review and Extensions", resourceUrl:"https://www.youtube.com/results?search_query=Pre-High-School%20Math%3A%20Review%20and%20Extensions%20grade%208%20educational",
    quiz:[
      {q:"In Grade 9 Math, students will extend linear equations to ___.", options:["only graphing","only simple equations","systems of inequalities, which find all solutions satisfying a condition rather than one exact answer","only factoring"], answer:2},
      {q:"The quadratic y = x² produces a ___.", options:["straight line","circle","parabola","hyperbola"], answer:2},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"Good mathematical habits include ___.", options:["showing no work if the answer is obvious","guessing on hard problems","always showing work, checking reasonableness of answers, and being willing to revisit a problem from a different angle","only using calculators"], answer:2}
    ]},
   {subject:"Science", title:"Science: Lab Skills and Safety Review", summary:"Students review scientific inquiry, lab safety, equipment use, and how to write effective lab reports.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science: Lab Skills and Safety Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Lab%20Skills%20and%20Safety%20Review%20grade%208%20educational",
    quiz:[
      {q:"A hypothesis is ___.", options:["a proven fact","a random guess","an educated, testable prediction about the outcome of an experiment, based on prior knowledge","the conclusion of an experiment"], answer:2},
      {q:"The independent variable in an experiment is ___.", options:["what you measure as output","kept constant","the variable the experimenter deliberately changes","always temperature"], answer:0},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"A good lab report conclusion ___.", options:["lists equipment only","copies the procedure","states whether the hypothesis was supported, summarises the data, identifies sources of error, and suggests improvements","only says whether it worked"], answer:2}
    ]},
   {subject:"History", title:"History: The Power of Narrative", summary:"Students examine how the stories we tell about history shape national identity, and whose voices have historically been left out of official narratives.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: History: The Power of Narrative", resourceUrl:"https://www.youtube.com/results?search_query=History%3A%20The%20Power%20of%20Narrative%20grade%208%20educational",
    quiz:[
      {q:"Historical narrative refers to ___.", options:["only textbook history","only dates and facts","the stories we tell about the past — what we include, exclude, emphasise, and interpret — which shape our understanding of who we are","only fiction"], answer:2},
      {q:"Dominant historical narratives in Canada have historically ___.", options:["included all voices equally","marginalised or erased Indigenous, Black, and other minority perspectives, presenting European settler experiences as the default Canadian story","been fully inclusive since Confederation","been only negative"], answer:2},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: Letter to Future Self", summary:"Students write a formal reflective letter to their future high-school self, synthesising their growth, expressing hopes, and setting intentions.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Writing: Letter to Future Self", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Letter%20to%20Future%20Self%20grade%208%20educational",
    quiz:[
      {q:"A letter to your future self is a form of ___.", options:["formal business writing","news writing","argumentative essay","reflective writing that captures your current thoughts, values, and aspirations as a document your future self will return to"], answer:3},
      {q:"Effective reflective writing ___.", options:["lists facts without interpretation","avoids personal voice","is analytical and honest — examining not just what happened but what it means, what you learned, and how it changed you","only summarises events"], answer:2},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"What makes this type of writing meaningful?", options:["Only the grammar","Only the length","It is a form of self-documentation — capturing who you are at a specific moment in time, which gains value as you grow and change","Only if a teacher grades it"], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Inequalities", summary:"Students solve one- and two-step inequalities in one variable, graph solutions on a number line, and understand how multiplying/dividing by a negative reverses the inequality sign.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Algebra: Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Inequalities%20grade%208%20educational",
    quiz:[
      {q:"An inequality shows ___.", options:["an exact value","that two expressions are equal","that two expressions are not equal — one is greater than or less than the other","only negative numbers"], answer:2},
      {q:"Solve: x + 4 > 10", options:["x > 6","x > 14","x > 4","x = 6"], answer:0},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"On a number line, x ≥ 3 is shown with ___.", options:["an open dot at 3 with arrow to the left","an open dot at 3 with arrow to the right","a closed dot at 3 with arrow to the right","a closed dot at 3 with arrow to the left"], answer:2}
    ]},
   {subject:"Science", title:"Review: Environmental Science and Stewardship", summary:"Students synthesise environmental learning — climate, biodiversity, fluid systems — and develop a personal stewardship plan.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Review: Environmental Science and Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Environmental%20Science%20and%20Stewardship%20grade%208%20educational",
    quiz:[
      {q:"The most direct action individuals can take to reduce their carbon footprint is ___.", options:["only recycling plastic","doing nothing — only governments can help","buying a second car","reducing energy use at home, eating less meat, using public transit, and buying less — especially fast fashion and single-use plastics"], answer:3},
      {q:"Environmental stewardship means ___.", options:["leaving all problems to government","ignoring environmental issues","only protesting","responsible management of natural resources — taking only what is needed, reducing waste, and actively working to protect ecosystems for future generations"], answer:3},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Why study environmental science in Grade 8?", options:["It is required but irrelevant","It only helps future scientists","Students who understand environmental systems are better equipped to make responsible personal choices and participate in democratic decisions about environmental policy","Only for students planning outdoor careers"], answer:2}
    ]},
   {subject:"History", title:"History Exam Preparation and Reflection", summary:"Students review key concepts, practise historical thinking skills, and reflect on the significance of Grade 8 history for their lives as citizens.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: History Exam Preparation and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%20Preparation%20and%20Reflection%20grade%208%20educational",
    quiz:[
      {q:"The historical thinking concepts taught in Grade 8 History include ___.", options:["only memorisation of dates","only reading textbooks","chronological thinking, historical perspective taking, cause and consequence, continuity and change, ethical judgement, and historical significance","only map skills"], answer:2},
      {q:"Historical significance means ___.", options:["everything that happened is equally important","only recent events matter","some events, people, and ideas have greater impact on the course of history and the lives of people — identifying significance requires analysis and argumentation","only sad events are significant"], answer:2},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Culminating Activity: Oral Presentation", summary:"Students deliver a culminating oral presentation on a significant Canadian historical or contemporary issue, demonstrating research, analysis, and communication skills.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Culminating Activity: Oral Presentation", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Activity%3A%20Oral%20Presentation%20grade%208%20educational",
    quiz:[
      {q:"A culminating presentation differs from a regular presentation because ___.", options:["it is always longer","it has no requirements","it requires no research","it synthesises learning across the year, requiring you to connect ideas, demonstrate depth of understanding, and communicate at a high level for a formal audience"], answer:3},
      {q:"To prepare an effective culminating presentation, you should ___.", options:["write and read every word","practice once only","avoid visual aids","research your topic deeply, organise your argument clearly, prepare notes (not a full script), and rehearse multiple times to build fluency and confidence"], answer:3},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"The most important quality of a culminating presentation is ___.", options:["a flashy design","speaking the fastest","the longest presentation","a clearly argued, well-evidenced position that shows you have thought deeply and critically about your topic and its significance"], answer:3}
    ]},
   {subject:"Math", title:"Culminating Math: Problem Solving Challenge", summary:"Students apply all Grade 8 math concepts to multi-step real-world problems.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Culminating Math: Problem Solving Challenge", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Math%3A%20Problem%20Solving%20Challenge%20grade%208%20educational",
    quiz:[
      {q:"A cylindrical water tank has r = 2 m and h = 5 m. Volume = ? (π ≈ 3.14)", options:["62.8 m³","94.2 m³","125.6 m³","31.4 m³"], answer:0},
      {q:"You invest $2000 at 4% compound interest for 3 years. Approximate value = ?", options:["$2240","$2253","$2249.73","$2400"], answer:2},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"A rectangle has perimeter 60 cm. Dimensions for maximum area = ?", options:["10 cm × 20 cm","12 cm × 18 cm","15 cm × 15 cm = 225 cm²","5 cm × 25 cm"], answer:2}
    ]},
   {subject:"Science", title:"Science: Year Review and Looking Forward", summary:"Students review all four Grade 8 science strands and connect learning to Grade 9 and beyond.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science: Year Review and Looking Forward", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Year%20Review%20and%20Looking%20Forward%20grade%208%20educational",
    quiz:[
      {q:"Which Grade 8 science topic is most directly extended in Grade 9 biology?", options:["Fluids","Mechanical systems","Cells, reproduction, genetics, and ecosystems — all deepened in Grade 9 Biology and extended further in senior sciences","Optics"], answer:2},
      {q:"Fluid dynamics connects to Grade 9 physics through ___.", options:["optics","genetics","chemistry","the study of forces, pressure, and energy — Grade 9 extends from Pascal's principle to broader physics concepts"], answer:3},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"The scientific thinking skills from Grade 8 — hypothesis, evidence, analysis — are ___.", options:["replaced in high school","only for Grade 8","not used in real science","the foundation of all high school science and will be applied with increasing sophistication in every future science course"], answer:3}
    ]},
   {subject:"History", title:"Grade 8 History: Final Reflection", summary:"Students write a final historical reflection, identifying the most significant idea they will carry forward from Grade 8 History.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Grade 8 History: Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20History%3A%20Final%20Reflection%20grade%208%20educational",
    quiz:[
      {q:"The most important question in historical thinking is ___.", options:["What year did it happen?","How many people were involved?","Where exactly did it occur?","So what? — Why does this event, person, or idea matter, and what does it mean for us today?"], answer:3},
      {q:"If you had to identify the single most significant event in Canadian history studied this year, it would require ___.", options:["looking it up","no justification","simply picking the biggest battle","arguing for your choice with evidence, explaining its short- and long-term consequences, and considering its impact on different groups"], answer:3},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year-End Celebration: Voices and Stories", summary:"A celebration of Grade 8 Language Arts learning. Students share their best writing and reflect on their development as literate, critical thinkers.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Year-End Celebration: Voices and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Voices%20and%20Stories%20grade%208%20educational",
    quiz:[
      {q:"The journey from Grade 8 to high school in Language Arts involves ___.", options:["starting over completely","no significant change","a significant step up in analytical complexity, text difficulty, and independence as a writer and thinker — but built on skills you developed this year","only more vocabulary tests"], answer:2},
      {q:"Your voice as a writer is ___.", options:["identical to everyone else's","only for creative writing","something you've been developing all year — through choices of diction, style, argument, and perspective that make your writing distinctively yours","something only famous writers have"], answer:2},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"The most important thing you've learned in Grade 8 Language Arts is ___.", options:["how to spell better","more vocabulary words","that stories and language are how humans make meaning — and your ability to engage with and create them gives you power to understand and shape the world","to write faster"], answer:2}
    ]},
   {subject:"Math", title:"Grade 8 Math: Celebration and Forward Look", summary:"A final review celebrating mathematical growth and looking ahead to Grade 9.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Grade 8 Math: Celebration and Forward Look", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Celebration%20and%20Forward%20Look%20grade%208%20educational",
    quiz:[
      {q:"The most important mathematical habit developed in Grade 8 is ___.", options:["memorising all formulas","only following rules","working quickly always","mathematical reasoning — the ability to think logically, connect ideas, and explain your thinking rather than just produce answers"], answer:3},
      {q:"Grade 9 Principles of Mathematics (MPM1D) will extend ___.", options:["nothing from Grade 8","only geometry","linear relations, algebra, and analytic geometry — the exact topics you developed this year — into a formal credit course","only data management"], answer:2},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"The mathematical confidence you've built this year ___.", options:["will be completely reset in Grade 9","is only useful in Grade 8","has no value beyond school","is a genuine achievement that will support you through high school, post-secondary education, and any career that requires systematic thinking — which is nearly all of them"], answer:2}
    ]},
   {subject:"Science", title:"Science: Final Synthesis and Celebration", summary:"Students celebrate their learning across all Grade 8 science strands and look forward to the broader world of scientific inquiry.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Science: Final Synthesis and Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Final%20Synthesis%20and%20Celebration%20grade%208%20educational",
    quiz:[
      {q:"Science is a process, not just a body of facts. This means ___.", options:["only facts matter in science","textbooks have all the answers","science is finished","scientific knowledge is always provisional — built on evidence, open to revision, and advancing through questioning, experimentation, and debate"], answer:3},
      {q:"The most important scientific skill you've developed in Grade 8 is ___.", options:["memorising periodic table elements","only conducting experiments","only writing lab reports","asking good questions and thinking carefully about evidence — the foundation of all scientific thinking"], answer:3},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"The most exciting thing about science is ___.", options:["that all questions are answered","that it never changes","that it is only for experts","that there are still vast unknowns — new diseases, undiscovered particles, unexplored ecosystems, potential life elsewhere — and the scientists who will explore them may be in classrooms like yours right now"], answer:3}
    ]},
   {subject:"History", title:"Farewell: You Are Canadian History", summary:"A final message connecting students to their role as participants in the ongoing story of Canada.",
-   resourceLabel:"TVO Learn: Grade 8", resourceUrl:"https://tvolearn.com/pages/grade-8",
+   resourceLabel:"YouTube: Farewell: You Are Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Farewell%3A%20You%20Are%20Canadian%20History%20grade%208%20educational",
    quiz:[
      {q:"Every Canadian is part of Canadian history because ___.", options:["only famous people matter","history is only in the past","only politicians shape Canada","history is made by all people — through the choices they make, the communities they build, and the values they uphold"], answer:3},
      {q:"Learning from historical mistakes means ___.", options:["feeling permanently guilty","pretending they didn't happen","blaming all people alive today","acknowledging injustice, understanding its roots, and working actively to ensure it is not repeated — especially for Indigenous reconciliation, racism, and inequality"], answer:3},

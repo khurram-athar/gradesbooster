@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: Developing Advanced Thesis Statements", summary:"Students develop arguable, specific, sophisticated thesis statements that go beyond observation to make an interpretive claim about a text.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Literary Analysis: Developing Advanced Thesis Statements", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Developing%20Advanced%20Thesis%20Statements%20grade%2011%20educational",
    quiz:[
      {q:"An advanced thesis statement in Grade 11 must be ___.", options:["a fact about the text","a summary of the plot","a question you will answer in the essay","an arguable interpretive claim — a position that a reasonable person could disagree with, which you will support with evidence and analysis"], answer:3},
      {q:"The difference between a Grade 9 thesis ('The theme of friendship is shown in the novel') and a Grade 11 thesis is ___.", options:["only length","Grade 11 avoids thesis statements","they are equivalent","a Grade 11 thesis must specify HOW and WHY: 'By portraying friendship as simultaneously sustaining and suffocating, the novel critiques the social pressure to prioritise relationships over individual identity'"], answer:3},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"When a peer reviewer says 'I don't see what you're arguing,' the thesis likely ___.", options:["needs more quotations","is too specific","is too long","is still too vague or descriptive — it states a topic rather than making a specific, contestable claim about it"], answer:3}
    ]},
   {subject:"Functions", title:"Introduction to Functions: Review and Deepening", summary:"Students consolidate Grade 10 function concepts and deepen their understanding of function notation, compositions, inverses, and transformations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Introduction to Functions: Review and Deepening", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Functions%3A%20Review%20and%20Deepening%20grade%2011%20educational",
    quiz:[
      {q:"The composition f(g(x)) means ___.", options:["f(x) × g(x)","f(x) + g(x)","(f + g)(x)","apply g first, then apply f to the result — the output of g becomes the input of f"], answer:3},
      {q:"If f(x) = 2x + 1, find f(g(x)) where g(x) = x².", options:["2x² + 1","2x + x²","4x + 1","(2x+1)²"], answer:0},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"The graph of f⁻¹(x) is ___.", options:["f(x) flipped vertically","f(x) shifted right","f(x) compressed horizontally","the reflection of f(x) across the line y = x"], answer:3}
    ]},
   {subject:"Biology", title:"Cell Biology: Cell Structure and Organelle Functions", summary:"Students review and deepen their understanding of cell organelles, distinguishing eukaryotic from prokaryotic cells and plant from animal cells.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Cell Biology: Cell Structure and Organelle Functions", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Biology%3A%20Cell%20Structure%20and%20Organelle%20Functions%20grade%2011%20educational",
    quiz:[
      {q:"The key distinction between prokaryotic and eukaryotic cells is ___.", options:["size only","presence of a cell wall","absence vs. presence of a nucleus: prokaryotes (bacteria) have no membrane-bound nucleus; eukaryotes (animals, plants, fungi) have a defined nucleus enclosed by a membrane","number of chromosomes"], answer:2},
      {q:"The mitochondrion's primary function is ___.", options:["protein synthesis","lipid storage","DNA replication","ATP (energy) production through cellular respiration — converting glucose and oxygen to ATP, CO₂, and water"], answer:3},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"The endoplasmic reticulum (ER) has two forms: rough ER ___.", options:["contains ribosomes and is involved in protein synthesis and transport; smooth ER is involved in lipid synthesis and detoxification","is smooth and makes lipids; smooth ER makes proteins","both are identical","produces energy; smooth ER stores calcium only"], answer:0}
    ]},
   {subject:"Chemistry", title:"Matter and Chemical Bonding: Review and Extension", summary:"Students review atomic theory, the periodic table, and chemical bonding, and extend to molecular geometry and polarity.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Matter and Chemical Bonding: Review and Extension", resourceUrl:"https://www.youtube.com/results?search_query=Matter%20and%20Chemical%20Bonding%3A%20Review%20and%20Extension%20grade%2011%20educational",
    quiz:[
      {q:"Electronegativity is ___.", options:["the charge of an ion","the number of electrons in an atom","an atom's ability to attract electrons toward itself in a chemical bond — increases across a period (left to right) and decreases down a group","the energy released in bonding"], answer:2},
      {q:"A polar covalent bond forms when ___.", options:["electrons are transferred between atoms","electrons are shared equally","atoms share electrons unequally (due to electronegativity differences), creating partial positive and negative charges (δ+ and δ−) on the bonded atoms","atoms have identical electronegativities"], answer:2},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Independent Reading: Canadian Literature", summary:"Students read and analyse a Canadian novel or short story collection, examining Canadian identity, landscape, and social themes.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Independent Reading: Canadian Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Canadian%20Literature%20grade%2011%20educational",
    quiz:[
      {q:"What makes a work 'distinctly Canadian' in literature?", options:["Only being set in Canada","Only being written by a Canadian-born author","It cannot be defined","Often a combination of landscape and environment as significant forces, themes of identity in a vast, cold, multicultural nation, irony and understatement, and engagement with the colonial legacy"], answer:3},
      {q:"Alice Munro's short stories are often described as having ___.", options:["simple linear plots","no female characters","happy endings always","extraordinary compression and depth — exploring entire lives and deep psychological truths within a few pages through non-linear structure and precise observation"], answer:3},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"A close reading of setting in a Canadian novel should examine ___.", options:["only weather descriptions","only urban or rural designation","landscape as only backdrop","how the Canadian environment — the Shield, the prairies, the North, the multicultural city — functions symbolically and psychologically, not just as background"], answer:3}
    ]},
   {subject:"Functions", title:"Polynomial Functions: Characteristics and Graphs", summary:"Students investigate polynomial functions of degree 3 and higher — end behaviour, zeros (with multiplicity), local extrema, and connecting equations to graphs.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Polynomial Functions: Characteristics and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Characteristics%20and%20Graphs%20grade%2011%20educational",
    quiz:[
      {q:"A polynomial of odd degree with a positive leading coefficient has end behaviour: ___.", options:["rises right, rises left","falls right, falls left","rises left, falls right","falls left, rises right — as x → −∞, y → −∞; as x → +∞, y → +∞"], answer:3},
      {q:"A zero with multiplicity 2 means ___.", options:["the zero appears twice in different equations","there are two separate zeros","the function has two y-intercepts","the factor (x − r)² appears — the graph touches but does not cross the x-axis at that zero"], answer:3},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"Finding local maxima and minima of a polynomial (without calculus) requires ___.", options:["only looking at the leading coefficient","only the x-intercepts","the y-intercept only","technology (graphing calculator) or calculus — beyond Grade 11, but you can identify their approximate location from a careful graph"], answer:3}
    ]},
   {subject:"Biology", title:"Cell Division: Mitosis and Meiosis Compared", summary:"Students compare mitosis (somatic cell division) and meiosis (gamete formation), explaining their roles in growth, repair, and sexual reproduction.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Cell Division: Mitosis and Meiosis Compared", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Division%3A%20Mitosis%20and%20Meiosis%20Compared%20grade%2011%20educational",
    quiz:[
      {q:"Mitosis produces ___.", options:["4 haploid daughter cells","2 haploid daughter cells","2 diploid daughter cells genetically identical to the parent — used for growth, repair, and asexual reproduction","2 cells with half the chromosomes"], answer:2},
      {q:"Meiosis produces ___.", options:["4 genetically identical diploid cells","2 diploid cells","2 cells with double chromosomes","4 haploid daughter cells that are genetically diverse — used in sexual reproduction to produce eggs and sperm"], answer:3},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"Cancer is related to cell division because ___.", options:["cancer only affects the nucleus","cancer is caused by mitosis itself","only meiosis causes cancer","uncontrolled cell division (caused by mutations in proto-oncogenes or tumour suppressor genes that normally regulate the cell cycle) is the defining feature of cancer"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemical Reactions: Types and Balancing", summary:"Students classify chemical reactions (synthesis, decomposition, single/double displacement, combustion) and practise balancing equations with increasing complexity.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemical Reactions: Types and Balancing", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Reactions%3A%20Types%20and%20Balancing%20grade%2011%20educational",
    quiz:[
      {q:"A synthesis reaction has the general form ___.", options:["AB → A + B","AB + CD → AD + CB","A + B → AB — two or more reactants combine to form a single product","AB → A + B + C"], answer:2},
      {q:"A double displacement (metathesis) reaction involves ___.", options:["one element replacing another in a compound","one reactant forming two products","combining two elements","two compounds exchanging their ionic partners: AB + CD → AD + CB"], answer:3},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Media and Communication: Persuasive Speaking and Debate", summary:"Students develop formal oral skills through structured debate, applying logical reasoning, evidence use, and rebuttal techniques.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Media and Communication: Persuasive Speaking and Debate", resourceUrl:"https://www.youtube.com/results?search_query=Media%20and%20Communication%3A%20Persuasive%20Speaking%20and%20Debate%20grade%2011%20educational",
    quiz:[
      {q:"The three classical appeals in persuasion are ___.", options:["fact, opinion, evidence","introduction, body, conclusion","topic, argument, conclusion","ethos (credibility/character), logos (logic/evidence), and pathos (emotion) — effective persuasion typically uses all three"], answer:3},
      {q:"In formal debate, a rebuttal is ___.", options:["introducing your main argument","a type of opening statement","summarising your position","directly responding to and countering your opponent's specific arguments — not just repeating your own points"], answer:3},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"Effective rebuttal requires ___.", options:["only repeating your original points","ignoring the opponent's arguments","changing the subject","listening carefully to identify the weakest or most contestable point in the opponent's argument and targeting it specifically"], answer:3}
    ]},
   {subject:"Functions", title:"Polynomial Functions: Factoring and Solving", summary:"Students factor higher-degree polynomials using the factor theorem, synthetic division, and sum/difference of cubes, and solve polynomial equations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Polynomial Functions: Factoring and Solving", resourceUrl:"https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Factoring%20and%20Solving%20grade%2011%20educational",
    quiz:[
      {q:"The factor theorem states ___.", options:["x − r is never a factor of a polynomial","a polynomial has at most 3 factors","a polynomial is always divisible by x","if P(r) = 0, then (x − r) is a factor of P(x) — substituting a root into the polynomial gives zero"], answer:3},
      {q:"To find a factor of P(x) = x³ − 6x² + 11x − 6, you test integer factors of −6.", options:["P(2) = 8 − 24 + 22 − 6 = 0, so (x − 2) is a factor","P(1) = −2, so (x − 1) is not a factor","P(3) = 27 − 54 + 33 − 6 = 0, so (x − 3) is a factor","Only P(0) = 0 works"], answer:2},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"The roots of P(x) = x³ − 6x² + 11x − 6 = (x−1)(x−2)(x−3) are ___.", options:["x = −1, −2, −3","x = 1, 2, 3","x = 6, 11, −6","x = 0, 1, 2"], answer:1}
    ]},
   {subject:"Biology", title:"Genetics: Mendelian Genetics and Extensions", summary:"Students apply Mendelian genetics to monohybrid and dihybrid crosses and extensions: codominance, incomplete dominance, sex-linked traits.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Genetics: Mendelian Genetics and Extensions", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Mendelian%20Genetics%20and%20Extensions%20grade%2011%20educational",
    quiz:[
      {q:"In codominance, two alleles ___.", options:["blend to produce an intermediate phenotype","only one is expressed","are both recessive","are both expressed simultaneously in the heterozygote — e.g., AB blood type shows both A and B antigens"], answer:3},
      {q:"Incomplete dominance produces ___.", options:["only homozygous phenotypes","a phenotype matching one parent completely","an intermediate phenotype in the heterozygote — e.g., red × white → pink flowers in snapdragons","a new, third phenotype unrelated to either parent"], answer:2},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"The Hardy-Weinberg principle states ___.", options:["evolution always occurs","small populations always evolve","allele frequencies always change each generation","allele and genotype frequencies in a large, randomly mating population remain constant from generation to generation in the absence of evolutionary forces"], answer:3}
    ]},
   {subject:"Chemistry", title:"Stoichiometry: Mole Concept and Calculations", summary:"Students learn the mole concept, molar mass, Avogadro's number, and perform stoichiometric calculations (mass-to-mole, mole-to-mole, mass-to-mass).",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Stoichiometry: Mole Concept and Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Stoichiometry%3A%20Mole%20Concept%20and%20Calculations%20grade%2011%20educational",
    quiz:[
      {q:"One mole of any substance contains ___.", options:["10²³ particles","exactly 1000 g","6.02 × 10²³ particles (Avogadro's number) — whether atoms, molecules, or ions"], answer:2},
      {q:"The molar mass of water (H₂O) is ___.", options:["18 g/mol (H: 1×2=2, O: 16, total = 18)","16 g/mol","2 g/mol","20 g/mol"], answer:0},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"English", title:"Writing: The Analytical Essay (Extended Form)", summary:"Students write a multi-paragraph analytical essay demonstrating thesis-driven argument, sophisticated evidence integration, and logical cohesion across 5-7 paragraphs.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: The Analytical Essay (Extended Form)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Analytical%20Essay%20%28Extended%20Form%29%20grade%2011%20educational",
    quiz:[
      {q:"Coherence in a multi-paragraph essay is created by ___.", options:["having equal-length paragraphs","using the same quotations in each paragraph","starting each paragraph with 'Firstly, Secondly, Thirdly'","logical sequencing of ideas, effective topic sentences that connect back to the thesis, and transitions that show the relationship between ideas"], answer:3},
      {q:"A topic sentence functions as ___.", options:["a quotation from the text","a fact that needs no argument","a transition only","a mini-thesis for its paragraph — stating the paragraph's specific claim and connecting it to the essay's overall argument"], answer:3},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Using academic vocabulary does NOT mean ___.", options:["precision in word choice","clarity in argumentation","using subject-specific terminology accurately","inflating your language with longer words to sound sophisticated — clarity and precision are more valuable than complexity for its own sake"], answer:3}
    ]},
   {subject:"Functions", title:"Rational Functions: Characteristics and Graphing", summary:"Students analyse rational functions — identifying vertical and horizontal asymptotes, holes, domain restrictions, and graphing behaviour.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Rational Functions: Characteristics and Graphing", resourceUrl:"https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Characteristics%20and%20Graphing%20grade%2011%20educational",
    quiz:[
      {q:"A rational function has the form ___.", options:["f(x) = ax + b","f(x) = axⁿ","f(x) = aˣ","f(x) = p(x)/q(x) where p and q are polynomials and q(x) ≠ 0"], answer:3},
      {q:"Vertical asymptotes occur where ___.", options:["the numerator equals zero","the function reaches its maximum","the function crosses the x-axis","the denominator equals zero (and the numerator does not also equal zero there) — the function approaches ±∞"], answer:3},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"The horizontal asymptote of f(x) = (3x² + 1)/(x² − 2) as x → ±∞ is ___.", options:["y = 0","y = 3 (ratio of leading coefficients when degrees are equal)","y = 1","y = −2"], answer:1}
    ]},
   {subject:"Biology", title:"Evolution: Natural Selection and Speciation", summary:"Students examine evidence for evolution, mechanisms of natural selection, and how new species arise through reproductive isolation.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Evolution: Natural Selection and Speciation", resourceUrl:"https://www.youtube.com/results?search_query=Evolution%3A%20Natural%20Selection%20and%20Speciation%20grade%2011%20educational",
    quiz:[
      {q:"Darwin's natural selection requires four conditions: ___.", options:["random mutation, genetic drift, gene flow, and bottleneck","overproduction of offspring, heritable variation, differential survival and reproduction, and accumulation of favourable traits over many generations","only mutation and time","identical offspring, resource competition, environmental change, and migration"], answer:1},
      {q:"A bottleneck effect occurs when ___.", options:["a large population grows rapidly","populations merge","gene flow increases significantly","a population is drastically reduced by a chance event, leaving a small surviving group that may not represent the original genetic diversity — reducing variation and potentially fixing harmful alleles"], answer:3},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Antibiotic resistance in bacteria is ___.", options:["disproved by Darwinian theory","only caused by intentional mutation","created by the antibiotic itself","a direct, observed example of natural selection: bacteria with resistance alleles survive and reproduce when antibiotics are present, rapidly increasing resistance allele frequency"], answer:3}
    ]},
   {subject:"Chemistry", title:"Stoichiometry: Limiting Reagents and Percent Yield", summary:"Students apply stoichiometry to limiting reagent problems and calculate theoretical, actual, and percent yield.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Stoichiometry: Limiting Reagents and Percent Yield", resourceUrl:"https://www.youtube.com/results?search_query=Stoichiometry%3A%20Limiting%20Reagents%20and%20Percent%20Yield%20grade%2011%20educational",
    quiz:[
      {q:"The limiting reagent in a reaction is ___.", options:["the cheapest reactant","the reactant present in largest mass","the reactant in smallest mass","the reactant that is completely consumed first, determining the maximum amount of product that can form"], answer:3},
      {q:"In 2H₂ + O₂ → 2H₂O, if you have 3 mol H₂ and 2 mol O₂, the limiting reagent is ___.", options:["H₂ (need 4 mol O₂ to use all H₂, but only 2 mol O₂ available... actually: 3 mol H₂ needs 1.5 mol O₂; 2 mol O₂ could use 4 mol H₂; so H₂ is limiting)","O₂","both are limiting","neither is limiting"], answer:0},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Close Reading: Poetry Analysis", summary:"Students apply close reading skills to analyse poetic form, imagery, diction, tone, and theme in Grade 11 poetry (Romantic, modern, and contemporary).",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Close Reading: Poetry Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Close%20Reading%3A%20Poetry%20Analysis%20grade%2011%20educational",
    quiz:[
      {q:"The Romantic period in poetry (late 18th-early 19th century) is characterised by ___.", options:["industrial themes","cynicism and irony","classical structure only","celebration of nature, individual emotion and imagination, the sublime, and a reaction against rationalism and industrialisation"], answer:3},
      {q:"Modernist poetry (early 20th century) broke from tradition through ___.", options:["strict adherence to rhyme and metre","complete avoidance of imagery","use of only classical allusions","fragmentation, free verse, stream of consciousness, irony, and the influence of psychoanalysis and the disillusionment of WWI"], answer:3},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"A poem's 'speaker' is ___.", options:["always the poet","only fictional","never described by readers","the voice or persona narrating or addressing the poem — distinct from the poet, with its own perspective, tone, and relationship to the audience"], answer:3}
    ]},
   {subject:"Functions", title:"Exponential Functions: Growth, Decay, and Graphing", summary:"Students investigate exponential functions, identifying key features of graphs, and modelling real-world growth and decay situations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Exponential Functions: Growth, Decay, and Graphing", resourceUrl:"https://www.youtube.com/results?search_query=Exponential%20Functions%3A%20Growth%2C%20Decay%2C%20and%20Graphing%20grade%2011%20educational",
    quiz:[
      {q:"An exponential function has the form ___.", options:["f(x) = x^n","f(x) = ax + b","f(x) = mx + b","f(x) = aˣ (or f(x) = abˣ) where the variable is in the exponent — growth if b > 1, decay if 0 < b < 1"], answer:3},
      {q:"The graph of f(x) = 2ˣ has ___.", options:["a vertical asymptote at x = 0","a horizontal asymptote at x = 0","passes through (0, 0)","a horizontal asymptote at y = 0 (the x-axis), passes through (0, 1), and increases without bound as x increases"], answer:3},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"Doubling time and half-life are ___.", options:["the same concept","unrelated","only for population biology","analogous: doubling time applies to exponential growth, half-life to exponential decay — both describe the characteristic time scale of the process"], answer:3}
    ]},
   {subject:"Biology", title:"Photosynthesis: Light-Dependent and Light-Independent Reactions", summary:"Students examine the two stages of photosynthesis — the light reactions in the thylakoid and the Calvin cycle in the stroma — in biochemical detail.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Photosynthesis: Light-Dependent and Light-Independent Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Photosynthesis%3A%20Light-Dependent%20and%20Light-Independent%20Reactions%20grade%2011%20educational",
    quiz:[
      {q:"The light-dependent reactions of photosynthesis occur in ___.", options:["the stroma of the chloroplast","the cytoplasm","the mitochondrial matrix","the thylakoid membranes of the chloroplast — chlorophyll absorbs light energy and uses it to produce ATP and NADPH, releasing oxygen from water splitting"], answer:3},
      {q:"The products of the light-dependent reactions that feed into the Calvin cycle are ___.", options:["glucose and oxygen","CO₂ and water","only oxygen","ATP and NADPH — the energy currency used to drive the carbon fixation reactions of the Calvin cycle (light-independent reactions)"], answer:3},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"Photorespiration reduces photosynthetic efficiency because ___.", options:["plants absorb too much light","chlorophyll is unstable","CO₂ is toxic to plants","when CO₂ levels are low and O₂ levels are high, RuBisCO (the enzyme fixing CO₂) binds O₂ instead, causing carbon loss rather than carbon fixation"], answer:3}
    ]},
   {subject:"Chemistry", title:"Solutions Chemistry: Concentration and Solubility", summary:"Students explore solution chemistry — concentration units (mol/L), solubility rules, and factors affecting solubility and rate of dissolving.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Solutions Chemistry: Concentration and Solubility", resourceUrl:"https://www.youtube.com/results?search_query=Solutions%20Chemistry%3A%20Concentration%20and%20Solubility%20grade%2011%20educational",
    quiz:[
      {q:"Concentration in mol/L (molarity, M) is calculated as ___.", options:["mass ÷ volume (in L)","moles × volume","moles ÷ mass","moles of solute ÷ volume of solution in litres — c = n/V"], answer:3},
      {q:"To prepare 250 mL of 2.0 M NaCl (molar mass 58.5 g/mol), you need ___.", options:["250 g of NaCl","117 g of NaCl","58.5 g of NaCl","29.25 g (n = c×V = 2.0 × 0.25 = 0.5 mol; mass = 0.5 × 58.5 = 29.25 g)"], answer:3},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Literature: The Short Story — Advanced Analysis", summary:"Students perform close analysis of short stories, examining narrative technique, point of view, structural choices, and the function of ambiguity.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Literature: The Short Story — Advanced Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20The%20Short%20Story%20%E2%80%94%20Advanced%20Analysis%20grade%2011%20educational",
    quiz:[
      {q:"Unreliable narration in a short story means ___.", options:["the narrator lies deliberately","the author is dishonest","the story has factual errors","the narrator's account is incomplete, self-deluded, or distorted — the gap between what the narrator presents and what the reader infers creates dramatic irony and interpretive richness"], answer:3},
      {q:"In medias res opening in a short story ___.", options:["begins with a long backstory","uses flashback throughout","always confuses readers","begins in the middle of the action, dropping the reader into an ongoing situation — creating immediate tension and immersion"], answer:3},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"The most sophisticated analysis of a short story examines ___.", options:["only plot events","only character description","only rhyme and rhythm","the relationship between form and meaning: how structure, narrative technique, language, and imagery work together to create the story's effects and meanings"], answer:3}
    ]},
   {subject:"Functions", title:"Logarithmic Functions: Definition, Properties, and Graphs", summary:"Students are introduced to logarithms as the inverse of exponential functions and explore their properties and applications.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Logarithmic Functions: Definition, Properties, and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Logarithmic%20Functions%3A%20Definition%2C%20Properties%2C%20and%20Graphs%20grade%2011%20educational",
    quiz:[
      {q:"log_b(x) = y means ___.", options:["b times y equals x","b + y = x","b ÷ y = x","b^y = x — the logarithm answers 'to what power must we raise b to get x?'"], answer:3},
      {q:"log₁₀(1000) = ___.", options:["100","10³ (but we want the log)","3 (since 10³ = 1000)","30"], answer:2},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Logarithms are useful in science because ___.", options:["they only apply to earthquakes","they simplify multiplication to addition","they eliminate the need for exponents","they compress very large (or very small) ranges — the Richter scale, pH, decibels all use logarithmic scales to make very wide ranges of values manageable"], answer:1}
    ]},
   {subject:"Biology", title:"Cellular Respiration: Glycolysis, Krebs Cycle, ETC", summary:"Students examine the three stages of aerobic cellular respiration — glycolysis, the Krebs (citric acid) cycle, and the electron transport chain — and fermentation.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Cellular Respiration: Glycolysis, Krebs Cycle, ETC", resourceUrl:"https://www.youtube.com/results?search_query=Cellular%20Respiration%3A%20Glycolysis%2C%20Krebs%20Cycle%2C%20ETC%20grade%2011%20educational",
    quiz:[
      {q:"Glycolysis occurs in ___.", options:["the mitochondrial matrix","the thylakoid","the nucleus","the cytoplasm — glucose is split into two pyruvate molecules, producing a net 2 ATP and 2 NADH, in a process requiring no oxygen"], answer:3},
      {q:"The Krebs (citric acid) cycle occurs in ___.", options:["the cytoplasm","the thylakoid membrane","the chloroplast stroma","the mitochondrial matrix — pyruvate is oxidised, releasing CO₂, and producing NADH, FADH₂, and 2 ATP per glucose molecule"], answer:3},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Fermentation (anaerobic pathway) ___.", options:["produces more ATP than aerobic respiration","requires oxygen","only occurs in bacteria","regenerates NAD⁺ from NADH so glycolysis can continue — producing only 2 ATP per glucose but allowing continued energy production when oxygen is absent"], answer:3}
    ]},
   {subject:"Chemistry", title:"Acids and Bases: Brønsted-Lowry Theory and pH Calculations", summary:"Students extend acid-base understanding to Brønsted-Lowry theory, conjugate pairs, and calculating pH and pOH from concentrations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Acids and Bases: Brønsted-Lowry Theory and pH Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Acids%20and%20Bases%3A%20Br%C3%B8nsted-Lowry%20Theory%20and%20pH%20Calculations%20grade%2011%20educational",
    quiz:[
      {q:"Brønsted-Lowry theory defines an acid as ___.", options:["a substance producing OH⁻ in water (Arrhenius definition)","a substance with pH < 7 always","only a strong acid","a proton (H⁺) donor — and a base as a proton acceptor, broadening the definition beyond water solutions"], answer:3},
      {q:"In the reaction HCl + H₂O → H₃O⁺ + Cl⁻, the conjugate base of HCl is ___.", options:["H₃O⁺","H₂O","HCl itself","Cl⁻ — the species remaining after HCl donates its proton"], answer:3},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"English", title:"Non-Fiction: The Essay Tradition", summary:"Students examine the essay as a literary form — from Montaigne and Francis Bacon to contemporary essayists — and write their own personal/reflective essay.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Non-Fiction: The Essay Tradition", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%3A%20The%20Essay%20Tradition%20grade%2011%20educational",
    quiz:[
      {q:"The essay as a literary form originated with ___.", options:["newspaper opinion columns","academic journals","Greek philosophy","Michel de Montaigne in 16th-century France — 'essais' meaning 'attempts,' personal explorations of ideas through a combination of anecdote, reflection, and argument"], answer:3},
      {q:"The personal essay is literary in that ___.", options:["it must be fictional","it avoids argumentation","it only describes personal events","it uses literary techniques — metaphor, voice, narrative, image — to transform personal experience into a vehicle for exploring larger ideas"], answer:3},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"When writing your own personal essay, the key challenge is ___.", options:["including enough facts","matching the teacher's personal style","writing about the most dramatic event possible","moving between the specific (concrete personal detail) and the general (idea, insight, significance) — the essay earns its ideas through particularity"], answer:3}
    ]},
   {subject:"Functions", title:"Trigonometric Functions: Graphs of sin, cos, tan", summary:"Students graph y = sin x, y = cos x, and y = tan x, identifying key features (period, amplitude, asymptotes) and applying transformations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Trigonometric Functions: Graphs of sin, cos, tan", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometric%20Functions%3A%20Graphs%20of%20sin%2C%20cos%2C%20tan%20grade%2011%20educational",
    quiz:[
      {q:"The key features of y = sin x include ___.", options:["amplitude 2, period 180°","no amplitude","amplitude 1, period 360°, range [−1, 1], x-intercepts at 0°, 180°, 360°...","amplitude 1, period 180°"], answer:2},
      {q:"y = cos x differs from y = sin x in that ___.", options:["they are completely different functions","cos x has a larger amplitude","cos x has a shorter period","y = cos x starts at (0°, 1) while y = sin x starts at (0°, 0) — cos x is the sin x shifted left by 90°"], answer:3},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"In y = 3sin(2x − 60°) + 1, the period is ___.", options:["360°","720°","30°","180° (period = 360°/|k| = 360°/2 = 180°)"], answer:3}
    ]},
   {subject:"Biology", title:"Plant Biology: Anatomy, Photosynthesis, and Transpiration", summary:"Students examine plant structure (roots, stems, leaves), vascular tissue (xylem and phloem), and water transport (transpiration and the cohesion-tension theory).",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Plant Biology: Anatomy, Photosynthesis, and Transpiration", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Anatomy%2C%20Photosynthesis%2C%20and%20Transpiration%20grade%2011%20educational",
    quiz:[
      {q:"Xylem tissue in plants ___.", options:["carries sugars downward","only stores water","carries water in both directions","carries water and dissolved minerals upward from roots to leaves — the cells are dead at maturity, forming hollow tubes"], answer:3},
      {q:"Phloem tissue in plants ___.", options:["carries only water","is dead at maturity","only exists in leaves","carries photosynthates (mainly sucrose) from source (leaves) to sink (roots, growing shoots, fruits) in a process called translocation — cells are living"], answer:3},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"The cohesion-tension theory explains ___.", options:["how phloem transports sugars","how root pressure alone moves water","how water enters roots","how the cohesion of water molecules (hydrogen bonding) and tension from transpiration pull water as a continuous column through the xylem from roots to leaves"], answer:3}
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Naming and Reactions", summary:"Students learn IUPAC nomenclature for simple organic compounds (alkanes, alkenes, alcohols, carboxylic acids) and examine substitution, addition, and esterification reactions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Organic Chemistry: Naming and Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Naming%20and%20Reactions%20grade%2011%20educational",
    quiz:[
      {q:"The IUPAC name for CH₃CH₂CH₃ is ___.", options:["methane","butane","ethane","propane — three carbon chain, all single bonds, no functional group"], answer:3},
      {q:"An addition reaction with alkenes involves ___.", options:["breaking a C-C single bond","removing atoms from a molecule","replacing one atom with another","adding atoms across a C=C double bond — e.g., H₂ + CH₂=CH₂ → CH₃CH₃ (hydrogenation)"], answer:3},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"English", title:"Shakespeare: Othello or Hamlet", summary:"Students study one of Shakespeare's major tragedies in depth, examining tragic structure, the tragic hero, language, and key thematic concerns.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Shakespeare: Othello or Hamlet", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Othello%20or%20Hamlet%20grade%2011%20educational",
    quiz:[
      {q:"The Aristotelian tragic hero has ___.", options:["no personal agency","perfect virtue","a hamartia (tragic flaw) or error of judgement that leads to their downfall — even the greatest tragic heroes bring about their own ruin through a quality that is also their defining characteristic","no relation to their downfall"], answer:2},
      {q:"Othello's hamartia is often identified as ___.", options:["excessive intelligence","political ambition","cowardice","jealousy combined with credulity — his tendency to trust Iago over Desdemona, and to let jealousy overwhelm his reason and love"], answer:3},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Shakespeare's tragedies explore ___.", options:["only romantic love","only political power","only revenge narratives","fundamental aspects of human experience: ambition, jealousy, loyalty, love, power, moral corruption — through characters of complexity in whom audiences recognise themselves"], answer:3}
    ]},
   {subject:"Functions", title:"Trigonometric Identities", summary:"Students prove and apply basic trigonometric identities (Pythagorean, quotient, reciprocal) and use them to simplify expressions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Trigonometric Identities", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometric%20Identities%20grade%2011%20educational",
    quiz:[
      {q:"The Pythagorean identity is ___.", options:["sin x + cos x = 1","tan²x + 1 = sec²x — this is one form; the fundamental form is sin²x + cos²x = 1","sin x = cos(90° − x)","tan x = sin x + cos x"], answer:1},
      {q:"The quotient identity states ___.", options:["sin x / cos x = 1","sin x + cos x = tan x","cos x / sin x = tan x","sin x / cos x = tan x — this follows directly from the definitions of sin, cos, and tan"], answer:3},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify: (1 − sin²x)/cos x", options:["cos x (using sin²x + cos²x = 1, so 1 − sin²x = cos²x; then cos²x/cos x = cos x)","1/cos x","sin x","1 − sin x/cos x"], answer:0}
    ]},
   {subject:"Biology", title:"Animal Physiology: Digestion and Circulation", summary:"Students examine the human digestive system and cardiovascular system, connecting structural features to functions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Animal Physiology: Digestion and Circulation", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Digestion%20and%20Circulation%20grade%2011%20educational",
    quiz:[
      {q:"Mechanical digestion (physical breakdown) begins in ___.", options:["the stomach","the small intestine","the oesophagus","the mouth — teeth physically break food into smaller pieces, increasing surface area for enzymatic digestion; the tongue shapes the bolus for swallowing"], answer:3},
      {q:"Enzymes in the small intestine (from the pancreas and intestinal wall) ___.", options:["only digest fats","only digest proteins","digest nothing (only absorption occurs)","complete the chemical digestion of carbohydrates, proteins, and fats into absorbable monomers (glucose, amino acids, fatty acids)"], answer:3},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"A normal resting heart rate of 60-100 BPM is controlled by ___.", options:["conscious thought","the cerebral cortex","respiratory muscles","the sinoatrial (SA) node — the heart's natural pacemaker in the right atrium that generates electrical impulses initiating each heartbeat"], answer:3}
    ]},
   {subject:"Chemistry", title:"Electrochemistry: Oxidation-Reduction Reactions", summary:"Students examine redox reactions, oxidation states, the activity series, galvanic cells, and electrolysis.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Electrochemistry: Oxidation-Reduction Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Electrochemistry%3A%20Oxidation-Reduction%20Reactions%20grade%2011%20educational",
    quiz:[
      {q:"In a redox reaction, oxidation means ___.", options:["gaining electrons","forming a neutral atom","gaining protons","losing electrons — 'OIL RIG': Oxidation Is Loss, Reduction Is Gain"], answer:3},
      {q:"In Zn + Cu²⁺ → Zn²⁺ + Cu, ___.", options:["Zn is reduced; Cu²⁺ is oxidised","both are oxidised","both are reduced","Zn is oxidised (loses 2 electrons); Cu²⁺ is reduced (gains 2 electrons)"], answer:3},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Writing: The Literary Research Essay", summary:"Students write a research essay that situates a literary text within its historical, cultural, or biographical context, integrating secondary sources responsibly.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: The Literary Research Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Research%20Essay%20grade%2011%20educational",
    quiz:[
      {q:"Secondary sources in a literary research essay ___.", options:["replace close reading of the primary text","should be copied to show research","only include internet sources","provide scholarly perspectives, historical context, and critical arguments that enrich your analysis of the primary text — they supplement, not replace, your own reading"], answer:3},
      {q:"In-text citation (MLA or APA) is required ___.", options:["only for direct quotations","when using information, ideas, or arguments from a source, whether quoted, paraphrased, or summarised — failure to cite is plagiarism","only in formal academic papers","only for statistics"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"A common error in literary research essays is ___.", options:["using too much evidence","making your argument too clear","over-quoting secondary sources and under-arguing — filling pages with what critics say without making your own analytical contribution"], answer:3}
    ]},
   {subject:"Functions", title:"Applications of Exponential and Logarithmic Functions", summary:"Students solve exponential equations using logarithms and apply these functions to compound interest, population growth, and half-life problems.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Applications of Exponential and Logarithmic Functions", resourceUrl:"https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20and%20Logarithmic%20Functions%20grade%2011%20educational",
    quiz:[
      {q:"To solve 3ˣ = 50, you ___.", options:["use x = 50/3","cannot solve without a calculator being present","use the change of base formula: x = log(50)/log(3) ≈ 3.56","try x = 3 and x = 4 only"], answer:2},
      {q:"A population of 1000 grows at 5% per year. After t years, population P = ___.", options:["P = 1000 + 50t","P = 1000 × 0.05t","P = 1000(0.05)^t","P = 1000(1.05)^t — exponential growth model"], answer:3},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Compound interest A = P(1 + r/n)^(nt). $2000 invested at 6% compounded monthly for 5 years gives ___.", options:["A = 2000(1.06)^5","A = 2000 + 2000×0.06×5","A = 2000(1 + 0.06/12)^(12×5) ≈ $2693.71","A = 2000 × 0.06 × 60"], answer:2}
    ]},
   {subject:"Biology", title:"Ecology: Population Dynamics and Community Ecology", summary:"Students examine population growth models (exponential and logistic), interspecific interactions, and energy flow in ecosystems.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Ecology: Population Dynamics and Community Ecology", resourceUrl:"https://www.youtube.com/results?search_query=Ecology%3A%20Population%20Dynamics%20and%20Community%20Ecology%20grade%2011%20educational",
    quiz:[
      {q:"Logistic growth differs from exponential growth in that ___.", options:["logistic growth is always slower","logistic growth cannot model population change","logistic growth has no carrying capacity","logistic growth incorporates a carrying capacity (K) — the maximum population the environment can sustain — so growth slows as the population approaches K"], answer:3},
      {q:"The logistic growth equation dN/dt = rN(K−N)/K shows that ___.", options:["population always grows to infinity","K represents initial population","growth rate is always constant","when N is small, growth is approximately exponential; when N approaches K, (K−N)/K approaches 0 and growth slows to zero"], answer:3},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Energy flow through a food chain is ___.", options:["100% efficient at each level","50% efficient","infinite in a healthy ecosystem","approximately 10% efficient (the 10% rule) — 90% of energy is lost as heat at each trophic level, so food chains are limited to 4-5 levels"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemical Equilibrium: Le Chatelier's Principle", summary:"Students examine reversible reactions, dynamic equilibrium, equilibrium constant expressions (Keq), and Le Chatelier's principle for predicting shifts.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemical Equilibrium: Le Chatelier's Principle", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Equilibrium%3A%20Le%20Chatelier%27s%20Principle%20grade%2011%20educational",
    quiz:[
      {q:"Dynamic equilibrium means ___.", options:["the reaction has stopped completely","only the forward reaction is occurring","there is no reaction","the forward and reverse reactions occur at equal rates — concentrations of reactants and products remain constant, but molecular exchange continues"], answer:3},
      {q:"The equilibrium constant expression Keq for aA + bB ⇌ cC + dD is ___.", options:["Keq = [A][B]/[C][D]","Keq = (a+b)/(c+d)","Keq = [C]^c[D]^d / [A]^a[B]^b — products over reactants, with each concentration raised to the power of its stoichiometric coefficient","Keq = [C][D]/[A][B] regardless of coefficients"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Drama: Studying a Contemporary Play", summary:"Students read and analyse a 20th or 21st century Canadian or international play, examining dramatic technique, theatrical conventions, and thematic concerns.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Drama: Studying a Contemporary Play", resourceUrl:"https://www.youtube.com/results?search_query=Drama%3A%20Studying%20a%20Contemporary%20Play%20grade%2011%20educational",
    quiz:[
      {q:"Dramatic irony in theatre differs from dramatic irony in prose in that ___.", options:["they are identical","dramatic irony only exists in comedy","irony doesn't exist in drama","in performance, actors' physical choices — expressions, blocking, tone — can layer additional levels of meaning onto the scripted irony, creating a visual/gestural dimension absent from prose"], answer:3},
      {q:"Stage directions in a script ___.", options:["are not part of the literary text","only specify where actors stand","must always be followed by directors","reveal the playwright's intentions about staging, character, and atmosphere — and in published editions, are part of the literary text available for analysis"], answer:3},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"The unities (time, place, action) in classical drama ___.", options:["are required in all modern drama","have never been questioned","are irrelevant to study","were formal constraints in classical drama (one location, one day, one main action) that modern theatre largely abandoned — though many plays still explore their possibilities"], answer:3}
    ]},
   {subject:"Functions", title:"Discrete Functions: Sequences and Series", summary:"Students investigate arithmetic and geometric sequences and series, using formulas for nth term and sum, with applications to finance and patterns.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Discrete Functions: Sequences and Series", resourceUrl:"https://www.youtube.com/results?search_query=Discrete%20Functions%3A%20Sequences%20and%20Series%20grade%2011%20educational",
    quiz:[
      {q:"In an arithmetic sequence, each term is ___.", options:["multiplied by a common ratio","squared each time","the same as the previous","obtained by adding a common difference d to the previous term — e.g., 5, 8, 11, 14... (d = 3)"], answer:3},
      {q:"The nth term of an arithmetic sequence is ___.", options:["tₙ = t₁ × rⁿ⁻¹","tₙ = t₁ + n","tₙ = t₁ + (n−1)d — where t₁ is the first term and d is the common difference","tₙ = t₁ × n"], answer:2},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"Compound interest is a geometric sequence because ___.", options:["interest is added as a fixed amount each period","it has a common difference","it does not relate to sequences","each year's value is the previous year's value multiplied by (1 + r) — a constant ratio"], answer:3}
    ]},
   {subject:"Biology", title:"Animal Physiology: Nervous System and Endocrine System", summary:"Students examine the structure and function of neurons, the central and peripheral nervous system, and the hormonal regulation of body functions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Animal Physiology: Nervous System and Endocrine System", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Nervous%20System%20and%20Endocrine%20System%20grade%2011%20educational",
    quiz:[
      {q:"A nerve impulse (action potential) is transmitted by ___.", options:["chemical diffusion only","physical contraction of the nerve","muscle contractions","a rapid change in membrane potential caused by the movement of Na⁺ and K⁺ ions across the neuron membrane — the 'all-or-nothing' electrical signal"], answer:3},
      {q:"The synapse between two neurons involves ___.", options:["direct electrical connection only","DNA transfer between neurons","physical contact between neurons","neurotransmitters: the presynaptic neuron releases chemicals into the synaptic cleft, which bind to receptors on the postsynaptic neuron, either exciting or inhibiting it"], answer:3},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Hormones differ from nerve signals in that ___.", options:["hormones are faster","hormones only work in the brain","there is no difference","hormones are chemical messengers released into the bloodstream and travel to distant target organs — slower than nerve impulses but longer-lasting and body-wide in their effects"], answer:3}
    ]},
   {subject:"Chemistry", title:"Nuclear Chemistry: Radioactive Decay and Nuclear Reactions", summary:"Students examine types of radioactive decay (alpha, beta, gamma), nuclear equations, half-life calculations, and applications of nuclear chemistry.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Nuclear Chemistry: Radioactive Decay and Nuclear Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Nuclear%20Chemistry%3A%20Radioactive%20Decay%20and%20Nuclear%20Reactions%20grade%2011%20educational",
    quiz:[
      {q:"Alpha (α) decay produces ___.", options:["only energy","a beta particle and energy","an electron and a neutrino","a helium nucleus (⁴₂He) — the parent nucleus loses 2 protons and 2 neutrons, becoming a different element with Z decreased by 2 and A decreased by 4"], answer:3},
      {q:"Beta (β) decay produces ___.", options:["a helium nucleus","only gamma radiation","no change in the nucleus","an electron (β particle) emitted from the nucleus when a neutron converts to a proton and electron — the element changes (Z increases by 1, A stays the same)"], answer:3},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"English", title:"Writing: The Personal Statement and Formal Writing for Future Purposes", summary:"Students write a university or college personal statement, understanding audience, voice, and purpose in high-stakes formal writing.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: The Personal Statement and Formal Writing for Future Purposes", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Statement%20and%20Formal%20Writing%20for%20Future%20Purposes%20grade%2011%20educational",
    quiz:[
      {q:"A university personal statement differs from a school essay in that ___.", options:["it is shorter and less important","it has no thesis","it never discusses achievements","its primary purpose is to present a specific, authentic version of who you are to an admissions committee — your voice, experiences, and thinking matter as much as credentials"], answer:3},
      {q:"The biggest mistake in a personal statement is ___.", options:["being too specific about experiences","sounding too genuine","connecting experience to thinking","telling a story without reflection — describing events without revealing what you learned, how you think, and what these experiences show about who you are"], answer:3},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Editing a personal statement requires ___.", options:["only checking grammar","removing all personal details","asking everyone to edit it until it sounds generic","reading it aloud for naturalness of voice, cutting any sentence that doesn't serve the essay's argument, and asking someone who doesn't know you to read it for clarity and authenticity"], answer:3}
    ]},
   {subject:"Functions", title:"Combinations and Permutations: Counting Principles", summary:"Students apply the fundamental counting principle, factorial notation, permutations (ₙPᵣ), and combinations (ₙCᵣ) to counting and probability problems.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Combinations and Permutations: Counting Principles", resourceUrl:"https://www.youtube.com/results?search_query=Combinations%20and%20Permutations%3A%20Counting%20Principles%20grade%2011%20educational",
    quiz:[
      {q:"The Fundamental Counting Principle states ___.", options:["total = a + b + c for all events","all events must be independent always","only applies to 2 events","if one event can occur in m ways and another in n ways, they can occur together in m × n ways"], answer:3},
      {q:"n! (n factorial) means ___.", options:["n divided by itself","only defined for n < 10","n + (n−1) + ... + 1","n × (n−1) × (n−2) × ... × 2 × 1 — the number of ways to arrange n distinct objects"], answer:3},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"How many ways can 3 students be chosen from a class of 25 for a committee (order doesn't matter)?", options:["25P3 = 13800","25 × 3 = 75","25!/3!","₂₅C₃ = 25!/(3! × 22!) = 2300"], answer:3}
    ]},
   {subject:"Biology", title:"Genetics: Chromosomal Abnormalities and Genetic Disorders", summary:"Students examine chromosomal abnormalities (trisomy, monosomy), genetic disorders (single-gene, multifactorial), and genetic counselling.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Genetics: Chromosomal Abnormalities and Genetic Disorders", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Chromosomal%20Abnormalities%20and%20Genetic%20Disorders%20grade%2011%20educational",
    quiz:[
      {q:"Trisomy 21 (Down syndrome) results from ___.", options:["a point mutation in chromosome 21","a deletion of chromosome 21","only paternal chromosomes being duplicated","non-disjunction during meiosis — chromosome 21 fails to separate, producing a gamete with 2 copies of chromosome 21; the resulting zygote has 3 copies (47 total chromosomes)"], answer:3},
      {q:"A recessive autosomal disorder (e.g., cystic fibrosis) is expressed when ___.", options:["only one copy of the allele is inherited","the individual is male","the mother is a carrier","an individual has two copies of the recessive allele (homozygous recessive) — carriers (heterozygotes) are unaffected"], answer:3},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Genetic counselling helps individuals and families ___.", options:["make all genetic decisions for clients","guarantee they will have healthy children","require genetic testing by law","understand the implications of genetic information, assess risk, and make informed decisions about family planning and medical management — empowering autonomous choice"], answer:3}
    ]},
   {subject:"Chemistry", title:"Thermochemistry: Energy Changes in Chemical Reactions", summary:"Students examine exothermic and endothermic reactions, Hess's Law, enthalpy of formation, and calorimetry.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Thermochemistry: Energy Changes in Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Thermochemistry%3A%20Energy%20Changes%20in%20Chemical%20Reactions%20grade%2011%20educational",
    quiz:[
      {q:"An exothermic reaction ___.", options:["absorbs heat from the surroundings","has ΔH > 0","has no energy change","releases heat to the surroundings — ΔH < 0 (negative enthalpy change), products have lower energy than reactants"], answer:3},
      {q:"An endothermic reaction ___.", options:["releases heat","has ΔH < 0","has no temperature change","absorbs heat from the surroundings — ΔH > 0 (positive enthalpy change), products have higher energy than reactants"], answer:3},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Media Analysis: Advertising and Consumer Culture", summary:"Students critically analyse advertising techniques, examining how ads construct desire, identity, and social norms, and practise writing critical media analysis.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Media Analysis: Advertising and Consumer Culture", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Analysis%3A%20Advertising%20and%20Consumer%20Culture%20grade%2011%20educational",
    quiz:[
      {q:"Advertising creates desire by ___.", options:["only providing product information","only using celebrity endorsements","always telling the truth about products","linking products to values, emotions, and identities people aspire to — buying the product is presented as a way to become the person in the ad, not just to acquire an object"], answer:3},
      {q:"The male gaze in advertising (Laura Mulvey's concept) refers to ___.", options:["only how men look at ads","only female consumers seeing ads","all advertising using the same angle","the visual convention of presenting the world from a heterosexual male viewpoint — objectifying women as passive objects to be looked at rather than active subjects"], answer:3},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"The CRTC (Canadian Radio-television and Telecommunications Commission) ___.", options:["has no authority over advertising","regulates all Canadian media content","promotes all advertising","regulates broadcasting and telecommunications in Canada, including rules about advertising to children, truth in advertising, and Canadian content requirements"], answer:1}
    ]},
   {subject:"Functions", title:"Probability: Conditional Probability and Independent Events", summary:"Students examine classical and experimental probability, conditional probability, independent and dependent events, and Bayes' theorem (introductory).",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Probability: Conditional Probability and Independent Events", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Conditional%20Probability%20and%20Independent%20Events%20grade%2011%20educational",
    quiz:[
      {q:"Two events A and B are independent if ___.", options:["P(A) = P(B)","P(A ∩ B) = 0","P(A) + P(B) = 1","P(A|B) = P(A) — knowing B occurred gives no information about A; equivalently, P(A ∩ B) = P(A) × P(B)"], answer:3},
      {q:"Conditional probability P(A|B) means ___.", options:["P(A) × P(B)","P(A) − P(B)","P(A) + P(B)","the probability of A occurring given that B has already occurred = P(A ∩ B)/P(B)"], answer:3},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"In a bag with 3 red and 5 blue marbles, P(red then blue without replacement) = ___.", options:["3/8 × 5/8","3/8 × 5/7 = 15/56 (dependent)","3/8 + 5/7","8/8 × 5/7"], answer:1}
    ]},
   {subject:"Biology", title:"Human Health: Immune System and Disease", summary:"Students examine innate and adaptive immunity, vaccination, autoimmune disorders, and the biological basis of disease response.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Human Health: Immune System and Disease", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Health%3A%20Immune%20System%20and%20Disease%20grade%2011%20educational",
    quiz:[
      {q:"Innate immunity is ___.", options:["only effective against specific pathogens","slower to activate than adaptive immunity","identical in all individuals","the non-specific first line of defence — including skin, mucus membranes, fever, inflammation, and phagocytic cells — present from birth and responding rapidly but non-specifically to any pathogen"], answer:3},
      {q:"Adaptive (acquired) immunity is ___.", options:["non-specific","only present in adults","identical to innate immunity","specific — triggered by exposure to particular antigens, producing lymphocytes (B and T cells) that target those antigens specifically and create immunological memory"], answer:3},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Anaphylaxis is ___.", options:["a mild immune response","only caused by food","only a response to exercise","a severe, life-threatening allergic reaction — an exaggerated immune response to an antigen causing widespread vasodilation, airway constriction, and circulatory collapse"], answer:3}
    ]},
   {subject:"Chemistry", title:"Electrochemistry: Batteries and Industrial Applications", summary:"Students examine common battery types, fuel cells, the Downs cell, the chlor-alkali process, and environmental considerations of electrochemical technologies.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Electrochemistry: Batteries and Industrial Applications", resourceUrl:"https://www.youtube.com/results?search_query=Electrochemistry%3A%20Batteries%20and%20Industrial%20Applications%20grade%2011%20educational",
    quiz:[
      {q:"A fuel cell differs from a battery in that ___.", options:["fuel cells have no reaction","fuel cells produce no electricity","batteries are always rechargeable","a fuel cell continuously converts fuel (e.g., hydrogen) and an oxidant (oxygen) to electricity as long as fuel is supplied — it doesn't 'run out' like a battery but is replenished"], answer:3},
      {q:"The hydrogen fuel cell produces ___.", options:["CO₂ and water","only water vapour","only hydrogen gas","electricity, with water as the only byproduct — making it a very clean energy source if the hydrogen is produced from renewable energy"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Global Literature", summary:"Students read a novel from outside Canada and the Anglo-American tradition, examining universal themes and culturally specific contexts.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Independent Reading: Global Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Global%20Literature%20grade%2011%20educational",
    quiz:[
      {q:"Reading world literature in translation exposes students to ___.", options:["simpler stories than English literature","only historical texts","fiction unworthy of serious study","narrative traditions, world views, and ways of structuring story that may differ fundamentally from the Western tradition — enriching and challenging assumptions about what literature 'is'"], answer:3},
      {q:"Magical realism (e.g., Gabriel García Márquez, Salman Rushdie) is characterised by ___.", options:["purely realistic narrative","fantasy with no real-world connection","supernatural events treated as mundane within an otherwise realistic narrative — challenging the boundary between reality and myth in ways that often carry political meaning","only South American fiction"], answer:2},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Universal themes in world literature suggest ___.", options:["all cultures are identical","cultural context is irrelevant","stories that work everywhere are identical","despite enormous cultural difference, certain human concerns — love, justice, identity, survival, power, family — appear across all literary traditions, suggesting deep commonalities"], answer:3}
    ]},
   {subject:"Functions", title:"Discrete Structures: Financial Mathematics", summary:"Students apply sequences, series, and exponential functions to advanced financial calculations: mortgages, annuities, and investment planning.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Discrete Structures: Financial Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Discrete%20Structures%3A%20Financial%20Mathematics%20grade%2011%20educational",
    quiz:[
      {q:"An annuity is ___.", options:["a one-time investment","a type of insurance","a government pension only","a series of equal regular payments over time — e.g., monthly mortgage payments or pension payments"], answer:3},
      {q:"The present value of an annuity is ___.", options:["the final payment amount","only relevant for pensions","always greater than its future value","the current lump-sum equivalent of a series of future payments — discounted to account for the time value of money"], answer:3},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"Starting to save at age 18 vs. age 28 for retirement ___.", options:["makes no difference due to compound interest","is less important than the amount saved","only matters if interest rates are high","makes a very dramatic difference due to compound interest — an extra decade of compounding can double or triple the final value of the investment"], answer:3}
    ]},
   {subject:"Biology", title:"Biodiversity: Species Classification and Conservation", summary:"Students examine the classification of life (taxonomic hierarchy, domains), threats to biodiversity, and strategies for conservation.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biodiversity: Species Classification and Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20Species%20Classification%20and%20Conservation%20grade%2011%20educational",
    quiz:[
      {q:"The taxonomic hierarchy from broadest to most specific is ___.", options:["Kingdom, Phylum, Class, Order, Family, Genus, Species — a mnemonic: King Philip Came Over For Good Soup","Domain, Species, Genus, Family, Order...","Species, Genus, Family, Class, Phylum...","Kingdom, Species, Class, Order, Family, Phylum, Genus"], answer:0},
      {q:"The three domains of life are ___.", options:["Animals, Plants, Fungi","Prokaryotes, Eukaryotes, Viruses","Bacteria, Archaea, Eukarya — a more fundamental classification than kingdom, based on molecular (rRNA) evidence","Plants, Animals, Protists"], answer:2},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"In-situ conservation means ___.", options:["conservation only in zoos","transplanting species to new habitats","keeping species in seed banks only","protecting species within their natural habitat — through national parks, protected areas, wildlife corridors, and restoration projects, as opposed to ex-situ conservation in captivity"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry Review: Major Concepts and Connections", summary:"Students connect and review the major themes of Grade 11 Chemistry — bonding, stoichiometry, solutions, equilibrium, organic chemistry, and electrochemistry.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry Review: Major Concepts and Connections", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Review%3A%20Major%20Concepts%20and%20Connections%20grade%2011%20educational",
    quiz:[
      {q:"The unifying concept connecting bonding, stoichiometry, and equilibrium is ___.", options:["the periodic table","electronegativity only","conservation of mass","energy — chemical reactions involve energy changes arising from bond breaking and forming; stoichiometry tracks atom amounts conserved in reactions; equilibrium describes energy-determined stable states"], answer:0},
      {q:"Le Chatelier's principle and biological enzyme regulation are connected because ___.", options:["they are completely different","enzymes do not reach equilibrium","enzyme systems are exothermic always","cells regulate biochemical pathways by feedback inhibition — a form of Le Chatelier's principle where excess product inhibits the enzyme producing it, restoring balance"], answer:3},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Oral Communication: Seminar Leadership and Discussion Facilitation", summary:"Students lead a Socratic seminar on a literary or social topic, developing advanced oral communication, questioning, and facilitation skills.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Oral Communication: Seminar Leadership and Discussion Facilitation", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20Leadership%20and%20Discussion%20Facilitation%20grade%2011%20educational",
    quiz:[
      {q:"A Socratic seminar differs from a debate in that ___.", options:["only one person speaks in a Socratic seminar","winning is the goal","formal preparation is not required","the goal is collaborative inquiry — deepening understanding together through questioning and discussion, not winning an argument by defeating opponents"], answer:3},
      {q:"An effective discussion facilitator ___.", options:["only asks questions to people who want to talk","always shares their own opinion first","avoids asking challenging questions","asks open, generative questions; listens actively to build on responses; redirects when needed; draws out quiet participants; and keeps the discussion focused while remaining flexible"], answer:3},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"The learning value of a Socratic seminar comes from ___.", options:["only the teacher's contributions","the peer who talks the most","only having the right answers","the process of formulating your thinking in real time, responding to unexpected challenges, and developing ideas through genuine intellectual exchange with peers"], answer:3}
    ]},
   {subject:"Functions", title:"Grade 11 Functions: Review and Synthesis", summary:"Students consolidate the major concepts of the Functions (MCR3U) course, connecting different function families and preparing for Grade 12 Advanced Functions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Grade 11 Functions: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Functions%3A%20Review%20and%20Synthesis%20grade%2011%20educational",
    quiz:[
      {q:"The key distinction between polynomial and rational functions is ___.", options:["rational functions always have asymptotes","polynomial functions have more zeros","polynomial functions have no restrictions on domain","rational functions involve division by a polynomial containing a variable, which creates domain restrictions (vertical asymptotes or holes) absent in polynomials"], answer:3},
      {q:"Exponential and logarithmic functions are inverses: this means ___.", options:["they have the same graph","they can replace each other","y = bˣ and y = logb(x) are reflections of each other across y = x, and operations on one 'undo' operations on the other","they are equally useful for all applications"], answer:2},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"A student prepared for Grade 12 Advanced Functions should be able to ___.", options:["only solve equations","only graph functions","only evaluate f(x) for specific values","determine domain and range, identify transformations, connect algebraic form to graphical behaviour, and choose the right function family to model a given situation"], answer:3}
    ]},
   {subject:"Biology", title:"Biology Synthesis: Connections Across Strands", summary:"Students connect the major themes of Grade 11 Biology — cell biology, genetics, evolution, ecology, and physiology — into a unified understanding of life.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology Synthesis: Connections Across Strands", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Synthesis%3A%20Connections%20Across%20Strands%20grade%2011%20educational",
    quiz:[
      {q:"The connection between cell biology and genetics is ___.", options:["they are unrelated at the cellular level","DNA is only relevant to genetics, not cells","cell structure determines gene expression","DNA in every cell's nucleus contains the genetic information that determines the cell's proteins and therefore its structure and function — all of biology ultimately connects at the molecular level"], answer:3},
      {q:"Evolution connects to ecology because ___.", options:["evolution occurs independently of environment","ecology studies only short-term changes","ecology has no evolutionary implications","ecological interactions (predation, competition, mutualism) are the agents of natural selection — evolution shapes the adaptations that allow species to fill ecological niches"], answer:3},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"The most important insight from Grade 11 Biology is ___.", options:["that biology is a collection of facts to memorise","that evolution is only relevant to historical species","that cells are the only relevant level of organisation","that life is a deeply interconnected set of processes operating simultaneously at molecular, cellular, organismal, population, and ecosystem levels — change at any level affects all others"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry in Society: Green Chemistry and Sustainability", summary:"Students examine the principles of green chemistry, Life Cycle Assessment, the circular economy, and the role of chemists in addressing sustainability challenges.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry in Society: Green Chemistry and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20in%20Society%3A%20Green%20Chemistry%20and%20Sustainability%20grade%2011%20educational",
    quiz:[
      {q:"Green chemistry aims to ___.", options:["only reduce industrial costs","oppose all chemical manufacturing","only use natural ingredients","design chemical products and processes that reduce or eliminate the generation of hazardous substances — preventing pollution at its source rather than managing it afterward"], answer:3},
      {q:"The 12 principles of green chemistry include ___.", options:["using more energy in reactions","maximising waste production for safety","all chemicals are equally safe","atom economy (maximising incorporation of reactant atoms into product), using renewable feedstocks, designing for degradability, and minimising energy consumption"], answer:3},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"English: Year in Review and Looking Ahead to Grade 12", summary:"Students reflect on their growth as readers, writers, and thinkers in Grade 11 and set meaningful goals for Grade 12 and beyond.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: English: Year in Review and Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
    quiz:[
      {q:"The most significant shift in Grade 11 English from Grade 10 is ___.", options:["only longer essays required","less reading overall","simpler vocabulary required","greater intellectual independence — you are expected to formulate your own arguments, choose your own interpretive focus, and engage with more complex texts with less scaffolding"], answer:3},
      {q:"Sophisticated literary analysis at the Grade 11 level involves ___.", options:["memorising established interpretations","avoiding controversial interpretations","paraphrasing the text in detail","forming original, arguable interpretations; supporting them with precise textual evidence; analysing how formal choices create meaning; and engaging with the complexity and ambiguity of literary texts"], answer:3},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Grade 12 English will build on Grade 11 by ___.", options:["requiring only grammar work","needing less analysis","being simpler and shorter","expecting even more sophisticated and independent engagement with texts, more extended and complex essays, and greater ability to situate literature within broader intellectual, historical, and cultural contexts"], answer:3}
    ]},
   {subject:"Functions", title:"Functions: Final Exam Preparation", summary:"Students practise comprehensive problem-solving across all Grade 11 Functions topics.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
    quiz:[
      {q:"Solve: 2ˣ = 128", options:["x = 7 (since 2⁷ = 128)","x = 64","x = 14","x = 256"], answer:0},
      {q:"A polynomial P(x) has zeros at x = −2 (multiplicity 2), x = 1, x = 4, with positive leading coefficient. As x → +∞, y → ___.", options:["y → −∞","y → 0","y → −∞ (negative leading coefficient)","y → +∞ (positive leading coefficient of even-degree polynomial... wait: degree 4 with positive leading coefficient: both ends go to +∞)"], answer:3},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"For geometric series with t₁ = 3, r = 2, find S₆.", options:["189","96","63","3(2⁶ − 1)/(2 − 1) = 3 × 63 = 189"], answer:3}
    ]},
   {subject:"Biology", title:"Biology: Final Exam Preparation", summary:"Students review key concepts across all Grade 11 Biology strands.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
    quiz:[
      {q:"The central dogma of molecular biology is ___.", options:["DNA → RNA → Protein (transcription then translation)","Protein → RNA → DNA","RNA → DNA → Protein","DNA → Protein directly"], answer:0},
      {q:"Natural selection favours ___.", options:["the strongest individual","the fastest individual","the most intelligent individual","individuals with heritable traits that increase reproductive success in the current environment"], answer:3},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"An ecosystem with high biodiversity is generally ___.", options:["less stable than one with low diversity","more likely to collapse","identical to one with low diversity in terms of function","more resilient — multiple species can perform similar functions, so the loss of one species is less catastrophic"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry: Final Exam Preparation", summary:"Students review key concepts across all Grade 11 Chemistry strands.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
    quiz:[
      {q:"A reaction with ΔH = −200 kJ is ___.", options:["endothermic","thermoneutral","unpredictable","exothermic — the negative sign indicates heat is released to the surroundings"], answer:3},
      {q:"Percent yield of 85% means ___.", options:["85% of the theoretical product was not formed","there was an 85% error in measurement","only 15% of reactants were used","you obtained 85% of the maximum possible product — 15% was lost to incomplete reaction, side reactions, or handling losses"], answer:3},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Reading: Dystopian Fiction and Social Critique", summary:"Students read and analyse a dystopian novel (e.g., 1984, Brave New World, The Handmaid's Tale), examining how dystopian fiction uses speculative worlds to critique contemporary society.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Reading: Dystopian Fiction and Social Critique", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Dystopian%20Fiction%20and%20Social%20Critique%20grade%2011%20educational",
    quiz:[
      {q:"Dystopian fiction extrapolates from ___.", options:["only fantasy worlds","pure imagination","historical events only","real present-day trends and fears — it asks 'what if this tendency in our society were taken to its logical extreme?' serving as a warning rather than a prediction"], answer:3},
      {q:"The surveillance state in dystopian fiction (e.g., Orwell's Oceania) critiques ___.", options:["only Soviet communism in 1949","only historical authoritarian regimes","surveillance that only existed in fiction","any political system — left or right — that uses information control, propaganda, and surveillance to maintain power and suppress dissent; it remains urgently relevant"], answer:3},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Dystopian fiction is most valuable as ___.", options:["a guide to the future","only entertainment","only historical allegory","a tool for thinking critically about the present — the defamiliarising effect of the speculative world helps readers see contemporary systems of power, control, and ideology with fresh eyes"], answer:3}
    ]},
   {subject:"Functions", title:"Advanced Trigonometry: Compound Angle Formulas", summary:"Students derive and apply compound angle formulas: sin(A ± B), cos(A ± B), and double angle formulas.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Advanced Trigonometry: Compound Angle Formulas", resourceUrl:"https://www.youtube.com/results?search_query=Advanced%20Trigonometry%3A%20Compound%20Angle%20Formulas%20grade%2011%20educational",
    quiz:[
      {q:"The compound angle formula sin(A + B) = ___.", options:["sinA + sinB","sinA × sinB","cosA cosB − sinA sinB","sinA cosB + cosA sinB"], answer:3},
      {q:"cos(A − B) = ___.", options:["cosA − cosB","cosA cosB + sinA sinB","cosA cosB − sinA sinB","sinA sinB − cosA cosB"], answer:1},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"Find sin(75°) using sin(45° + 30°):", options:["sin75° = (√6 + √2)/4","sin75° = (√2 + √3)/2","sin75° = √6/2","sin75° = sin45° + sin30° = √2/2 + 1/2"], answer:0}
    ]},
   {subject:"Biology", title:"Genetics: Biotechnology Applications", summary:"Students examine biotechnology applications of genetics: PCR, gel electrophoresis, GMOs, DNA fingerprinting, and CRISPR.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Genetics: Biotechnology Applications", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Biotechnology%20Applications%20grade%2011%20educational",
    quiz:[
      {q:"PCR (Polymerase Chain Reaction) ___.", options:["edits genes directly","sequences DNA only","destroys DNA samples","amplifies specific DNA sequences — making millions of copies of a target DNA segment from a tiny sample, enabling detection and analysis"], answer:3},
      {q:"Gel electrophoresis separates DNA fragments by ___.", options:["nucleotide sequence directly","colour of the DNA","random movement","size — smaller fragments migrate further through the gel in an electric field; producing a 'fingerprint' pattern used in forensics and paternity testing"], answer:3},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"The ethical concerns about GMOs include ___.", options:["no scientific evidence for any concern","only environmental risks","only religious objections","potential ecological effects (gene flow to wild relatives), corporate control of food supply, unknown long-term health effects, and equity issues about who benefits — requiring careful regulation and democratic governance"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemical Kinetics: Rates of Reaction", summary:"Students examine factors affecting reaction rate — concentration, temperature, surface area, catalysts — and collision theory.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemical Kinetics: Rates of Reaction", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Kinetics%3A%20Rates%20of%20Reaction%20grade%2011%20educational",
    quiz:[
      {q:"Collision theory states that a reaction occurs when ___.", options:["any two molecules collide","molecules are at the same temperature","reactant particles are dissolved","reactant particles collide with sufficient energy (activation energy) and correct orientation — only a small fraction of collisions lead to reaction"], answer:3},
      {q:"Increasing temperature increases reaction rate because ___.", options:["it increases surface area","it adds a catalyst","it decreases activation energy","it increases the average kinetic energy of particles, so more collisions have sufficient energy to overcome the activation energy barrier"], answer:3},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"English", title:"Writing: Satire and Parody", summary:"Students study and produce satire, examining how writers use exaggeration, irony, and wit to critique social and political targets.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: Satire and Parody", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Satire%20and%20Parody%20grade%2011%20educational",
    quiz:[
      {q:"Satire is ___.", options:["humour with no serious intent","only found in political cartoons","criticism that is always gentle","a mode of writing that uses wit, irony, and exaggeration to expose and critique the folly, corruption, or pretension of individuals, institutions, or society"], answer:3},
      {q:"The difference between satire and parody is ___.", options:["they are identical","only satire is funny","parody only targets books","satire targets a real-world social or political target using a fictional form; parody mimics a specific existing work for humorous or critical effect — though they frequently overlap"], answer:3},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Writing your own satire requires choosing ___.", options:["only fictional targets","always government as the target","the most extreme possible exaggeration","a specific, recognisable target; an appropriate mode (parody, irony, absurdism); and a consistent satirical voice — the joke must serve the critique"], answer:3}
    ]},
   {subject:"Functions", title:"Trigonometry: Solving Trigonometric Equations", summary:"Students solve trigonometric equations for all values in a given domain and express general solutions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Trigonometry: Solving Trigonometric Equations", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Solving%20Trigonometric%20Equations%20grade%2011%20educational",
    quiz:[
      {q:"To solve sin x = 0.5 for 0° ≤ x < 360°, you ___.", options:["only get x = 30°","use inverse sin: reference angle = 30°; sin is positive in Q1 and Q2, so x = 30° and x = 150°","use cos instead","find x = 60° only"], answer:1},
      {q:"A general solution for sin x = 0.5 is ___.", options:["x = 30° only","x = 30° + 360°n or x = 150° + 360°n for any integer n","x = 30°n","x = 150°n"], answer:1},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"To solve 2sin²x − sinx − 1 = 0, you ___.", options:["use the quadratic formula with sin x directly","cannot solve algebraically","only guess x values","let u = sinx: 2u² − u − 1 = (2u + 1)(u − 1) = 0, giving sinx = −1/2 or sinx = 1"], answer:3}
    ]},
   {subject:"Biology", title:"Plant Physiology: Growth, Hormones, and Response", summary:"Students examine plant hormones (auxin, gibberellin, cytokinin, ethylene, ABA) and plant responses (tropisms, photoperiodism).",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Plant Physiology: Growth, Hormones, and Response", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Physiology%3A%20Growth%2C%20Hormones%2C%20and%20Response%20grade%2011%20educational",
    quiz:[
      {q:"Auxin (IAA) promotes ___.", options:["fruit ripening","root and shoot inhibition only","dormancy in seeds","cell elongation — it accumulates on the shaded side of a shoot, causing those cells to elongate more and bending the shoot toward light (phototropism)"], answer:3},
      {q:"Gibberellins are plant hormones involved in ___.", options:["flower closing","drought stress responses","senescence (ageing)","stem elongation, seed germination, and breaking dormancy — important in agriculture for controlling fruit size and brewing (barley germination for malting)"], answer:3},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Short-day plants flower when ___.", options:["total light received is short","night temperature is short","the light period is less than a critical minimum","the dark period exceeds a critical minimum (they're more accurately 'long-night' plants) — important for controlling flowering time in commercial horticulture"], answer:3}
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Polymers and Materials", summary:"Students examine addition and condensation polymers, their properties, applications, and environmental impact.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Organic Chemistry: Polymers and Materials", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Polymers%20and%20Materials%20grade%2011%20educational",
    quiz:[
      {q:"An addition polymer forms by ___.", options:["eliminating water","cross-linking only","only polymerising natural compounds","monomers with double bonds joining end-to-end — the double bond opens and monomers add together (e.g., polyethylene from ethylene)"], answer:3},
      {q:"A condensation polymer forms by ___.", options:["only using synthetic monomers","addition of double-bond monomers","only forming in living organisms","monomers joining with the elimination of a small molecule (usually water) — e.g., nylon from diamines and dicarboxylic acids, polyester from diols and dicarboxylic acids"], answer:3},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Social Realism in Literature", summary:"Students read and analyse a socially realistic novel or play that engages directly with class, race, gender, or economic injustice.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Independent Reading: Social Realism in Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Social%20Realism%20in%20Literature%20grade%2011%20educational",
    quiz:[
      {q:"Social realism in literature aims to ___.", options:["entertain through melodrama","avoid political content","only describe working class life","depict social conditions — particularly the lives of marginalised or working-class people — with accuracy and empathy, often with an implicitly or explicitly critical view of social injustice"], answer:3},
      {q:"Charles Dickens's novels (and their Canadian equivalents) work as social realism because ___.", options:["they avoid all social comment","they are purely entertaining","they use only upper-class characters","they dramatise the human costs of poverty and social inequality through specific characters whose individual suffering embodies broader systemic conditions"], answer:3},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"The relationship between literature and social change is ___.", options:["direct and guaranteed","non-existent (literature changes nothing)","only about persuasion","complex — literature doesn't directly change policy, but it can change how readers perceive social conditions, build empathy across difference, and shift the cultural conditions that enable or resist change"], answer:3}
    ]},
   {subject:"Functions", title:"Discrete Functions: Patterns and Recursion", summary:"Students investigate recursive sequences and their connection to explicit formulas, with applications including the Fibonacci sequence and financial modelling.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Discrete Functions: Patterns and Recursion", resourceUrl:"https://www.youtube.com/results?search_query=Discrete%20Functions%3A%20Patterns%20and%20Recursion%20grade%2011%20educational",
    quiz:[
      {q:"A recursive sequence is defined by ___.", options:["a direct formula for any term","having identical terms","being geometric always","a starting value (or values) and a rule for finding each term from the previous ones — e.g., t₁ = 1, tₙ = tₙ₋₁ + 3"], answer:3},
      {q:"The Fibonacci sequence (1, 1, 2, 3, 5, 8, 13...) is defined recursively by ___.", options:["tₙ = 2tₙ₋₁","tₙ = tₙ₋₁ × n","tₙ = tₙ₋₁ − tₙ₋₂","tₙ = tₙ₋₁ + tₙ₋₂ with t₁ = t₂ = 1"], answer:3},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"Why is a recursive model of a mortgage useful?", options:["It is not useful — only the total is needed","It only applies to fixed-rate mortgages","It replaces all other financial calculations","It shows exactly how much of each payment goes to interest vs. principal — a key insight into why mortgages are structured as they are"], answer:3}
    ]},
   {subject:"Biology", title:"Animal Behaviour: Ethology and Learning", summary:"Students examine innate (instinctive) and learned behaviours, communication, mating systems, and social behaviour in animals.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Animal Behaviour: Ethology and Learning", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Behaviour%3A%20Ethology%20and%20Learning%20grade%2011%20educational",
    quiz:[
      {q:"A fixed action pattern (FAP) is ___.", options:["a learned behaviour requiring repetition","any habitual animal behaviour","triggered only by pain","a stereotyped, innate behaviour triggered by a specific sign stimulus — once started, it runs to completion regardless of whether the stimulus persists (e.g., egg-rolling in geese)"], answer:3},
      {q:"Habituation is the simplest form of learning, in which ___.", options:["an animal improves its skills with practice","an animal learns to associate two stimuli","an animal learns to solve a new problem","an animal reduces its response to a repeated, harmless stimulus — e.g., a songbird no longer flees every time leaves rustle"], answer:3},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Communication in social animals serves to ___.", options:["only warn about predators","only attract mates","communicate only with one species","coordinate group behaviour, establish dominance hierarchies, signal reproductive readiness, warn of danger, and maintain social bonds — using visual, acoustic, chemical, and tactile signals"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry in Industry: Industrial Processes", summary:"Students examine key industrial chemical processes including the Haber-Bosch process, the Contact process, and petroleum refining.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry in Industry: Industrial Processes", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20in%20Industry%3A%20Industrial%20Processes%20grade%2011%20educational",
    quiz:[
      {q:"The Haber-Bosch process produces ___.", options:["sulfuric acid","steel from iron ore","plastics from petroleum","ammonia (NH₃) by combining N₂ and H₂ at high temperature and pressure over an iron catalyst — enabling synthetic fertiliser production that feeds approximately half the world's population"], answer:3},
      {q:"The Haber-Bosch equilibrium is a trade-off because ___.", options:["higher temperature always improves yield","there is no equilibrium in this reaction","the reaction is irreversible","higher temperature increases reaction rate but decreases equilibrium yield (exothermic reaction); lower temperature gives better yield but slower rate — industry optimises around ~450°C"], answer:3},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"English", title:"Writing Workshop: Revising for Clarity and Sophistication", summary:"Students revise earlier essays and creative work, focusing on analytical depth, voice, and stylistic precision.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing Workshop: Revising for Clarity and Sophistication", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Workshop%3A%20Revising%20for%20Clarity%20and%20Sophistication%20grade%2011%20educational",
    quiz:[
      {q:"Revising for analytical depth means ___.", options:["adding more quotations","making paragraphs longer","checking spelling only","asking whether each paragraph develops a specific, arguable claim with sufficient evidence and analysis — and cutting or developing anything that doesn't"], answer:3},
      {q:"Revising for voice means ___.", options:["making all sentences identical in length","removing all personal perspective","using only formal academic language","ensuring the writing sounds like an intelligent, distinctive thinker — not generic academic prose, but also not casual speech; the reader should sense a specific sensibility behind every sentence"], answer:3},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"The difference between editing and proofreading is ___.", options:["they are the same","proofreading is more important","only timing","editing addresses argument, structure, and style (bigger concerns); proofreading addresses surface errors (punctuation, spelling, grammar) — always in that order"], answer:3}
    ]},
   {subject:"Functions", title:"Graphing Technology: Exploring Functions with Technology", summary:"Students use graphing technology (Desmos/GDC) to explore function families, transformations, and connections between algebraic and graphical representations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Graphing Technology: Exploring Functions with Technology", resourceUrl:"https://www.youtube.com/results?search_query=Graphing%20Technology%3A%20Exploring%20Functions%20with%20Technology%20grade%2011%20educational",
    quiz:[
      {q:"Graphing technology is most useful for ___.", options:["replacing all algebraic work","only checking multiple-choice answers","hiding mathematical understanding","exploring patterns and making conjectures — 'what happens to the graph when I change this parameter?' — developing intuition that drives deeper understanding"], answer:3},
      {q:"Using Desmos to graph y = asin(bx + c) + d while varying parameters develops understanding of ___.", options:["only how to use Desmos","only the formula","no useful mathematical insight","how each parameter (a: amplitude, b: period, c: phase shift, d: vertical shift) independently affects the graph — building a precise visual vocabulary for transformations"], answer:3},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"The best use of graphing technology in learning functions is ___.", options:["to avoid doing any algebra","as the only tool needed","only for checking final answers","alongside algebraic work: use technology to generate intuitions and check results, but develop algebraic understanding independently"], answer:3}
    ]},
   {subject:"Biology", title:"Ecology: Climate Change and Ecological Response", summary:"Students examine how climate change is affecting ecosystems — range shifts, phenological changes, coral bleaching, and extinction risk.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Ecology: Climate Change and Ecological Response", resourceUrl:"https://www.youtube.com/results?search_query=Ecology%3A%20Climate%20Change%20and%20Ecological%20Response%20grade%2011%20educational",
    quiz:[
      {q:"Phenological changes caused by climate change include ___.", options:["no changes in species timing","only changes in animal migration","only changes in plant species","shifts in the timing of biological events: earlier spring blooming, earlier insect emergence, altered migration timing — potentially disrupting species interactions when different species respond at different rates"], answer:3},
      {q:"Range shifts in response to climate change mean ___.", options:["species are going extinct immediately","species ranges are shrinking equally","no species are affected","species moving their geographic range poleward or to higher elevations as temperatures rise — tracking their preferred climate niche, but often unable to move fast enough"], answer:3},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"The concept of 'assisted migration' (moving species to new habitats ahead of climate change) is ___.", options:["universally accepted as the best solution","not a real strategy","illegal everywhere","a controversial conservation strategy with potential benefits (preventing extinction) and risks (introducing species to ecosystems where they may become invasive)"], answer:3}
    ]},
   {subject:"Chemistry", title:"Analytical Chemistry: Qualitative and Quantitative Analysis", summary:"Students examine laboratory techniques for identifying and quantifying substances in chemical samples, including titration and spectroscopy.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Analytical Chemistry: Qualitative and Quantitative Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Analytical%20Chemistry%3A%20Qualitative%20and%20Quantitative%20Analysis%20grade%2011%20educational",
    quiz:[
      {q:"Titration is a laboratory technique that ___.", options:["produces chemical compounds from scratch","identifies elements through combustion","separates mixtures by boiling point","determines the concentration of an unknown solution by reacting it with a standard solution of known concentration until the equivalence point is reached"], answer:3},
      {q:"The equivalence point in a titration is ___.", options:["when the indicator changes colour (endpoint, close to equivalence)","when the burette is empty","when pH = 7 always","the point at which stoichiometrically equivalent amounts of acid and base (or other reactants) have been combined — not always pH 7"], answer:2},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Research: Seminar Preparation and Independent Research", summary:"Students design and conduct an independent research inquiry on a literary or cultural topic, preparing to lead or contribute to a formal seminar.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Research: Seminar Preparation and Independent Research", resourceUrl:"https://www.youtube.com/results?search_query=Research%3A%20Seminar%20Preparation%20and%20Independent%20Research%20grade%2011%20educational",
    quiz:[
      {q:"A genuine research question is ___.", options:["one with an obvious answer","one found in the textbook","a question your teacher can answer easily","an open question that requires investigation and analysis — one where the answer is not predetermined and where evidence genuinely shapes the conclusion"], answer:3},
      {q:"Synthesising research means ___.", options:["copying from multiple sources into one document","summarising each source separately","only using one source at a time","integrating ideas from multiple sources into a coherent, original argument — identifying where sources agree, disagree, and complement each other"], answer:3},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Intellectual humility in research means ___.", options:["accepting all sources equally","being uncertain about everything","avoiding any strong positions","being open to revising your argument when you find evidence that challenges it — the ability to change your mind in response to evidence is a hallmark of good scholarship"], answer:3}
    ]},
   {subject:"Functions", title:"Probability Distributions: Introduction", summary:"Students are introduced to discrete probability distributions — uniform, binomial — and calculate expected value and standard deviation.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Probability Distributions: Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20Distributions%3A%20Introduction%20grade%2011%20educational",
    quiz:[
      {q:"A probability distribution lists ___.", options:["only outcomes with equal probability","all possible outcomes with their probabilities — the sum of all probabilities must equal 1","only outcomes that occur more than 50%","only the mean and standard deviation"], answer:1},
      {q:"Expected value (μ) of a discrete distribution is ___.", options:["the most common outcome","always the median","always a whole number","the mean of the distribution: E(X) = Σ x·P(x) — multiply each outcome by its probability and sum"], answer:3},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"If X ~ Binomial(n=10, p=0.3), the expected number of successes is ___.", options:["3 (E(X) = np = 10 × 0.3 = 3)","0.3","10","7"], answer:0}
    ]},
   {subject:"Biology", title:"Human Reproduction: Reproductive Technologies", summary:"Students examine assisted reproductive technologies (IVF, IUI, surrogacy) and their biological basis, success rates, and ethical dimensions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Human Reproduction: Reproductive Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Reproduction%3A%20Reproductive%20Technologies%20grade%2011%20educational",
    quiz:[
      {q:"IVF (In Vitro Fertilisation) involves ___.", options:["fertilisation occurring inside the uterus","no hormonal treatment","only natural fertilisation outside the body","stimulating the ovaries with hormones to produce multiple eggs, collecting them, fertilising them with sperm in a laboratory dish, then transferring resulting embryo(s) to the uterus"], answer:3},
      {q:"Pre-implantation Genetic Testing (PGT) in IVF allows ___.", options:["selecting physical traits like eye colour","creating designer babies easily","eliminating all genetic disease","testing embryos for chromosomal abnormalities or specific genetic disorders before transfer, reducing the risk of implanting a genetically affected embryo"], answer:3},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Reproductive technologies disproportionately raise questions of ___.", options:["only medical safety","only scientific feasibility","no access concerns","equitable access — IVF is expensive and not always covered by provincial health plans, meaning these technologies are largely available only to affluent patients"], answer:3}
    ]},
   {subject:"Chemistry", title:"Environmental Chemistry: Pollution and Remediation", summary:"Students examine chemical pollutants (heavy metals, pesticides, pharmaceuticals in water, plastics), their environmental fate, and remediation strategies.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Environmental Chemistry: Pollution and Remediation", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Chemistry%3A%20Pollution%20and%20Remediation%20grade%2011%20educational",
    quiz:[
      {q:"Bioaccumulation refers to ___.", options:["chemicals decomposing in organisms","chemicals only affecting water","chemicals dissolving in soil","the accumulation of chemicals (like heavy metals or persistent organic pollutants) in an organism's tissue over its lifetime, often reaching concentrations far higher than in the surrounding environment"], answer:3},
      {q:"Biomagnification is ___.", options:["the same as bioaccumulation","reduction of chemicals up the food chain","only affects top predators unconnected to bioaccumulation","the increase in concentration of persistent chemicals with each trophic level — each predator eats many prey, concentrating the chemical; top predators (including humans) can have concentrations millions of times higher than in the water"], answer:3},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"Writing: The Comparative Essay", summary:"Students plan and write a comparative essay examining two literary texts, developing sophisticated analytical frameworks for comparison.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: The Comparative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2011%20educational",
    quiz:[
      {q:"A comparative essay does not simply list similarities and differences because ___.", options:["listing IS comparative analysis","the goal is only to describe each text separately","comparison is not analytical","listing replaces analysis with description — the goal is an argument that uses the comparison to reveal something about both texts that each alone would not reveal"], answer:3},
      {q:"The two main organisational structures for comparative essays are ___.", options:["alphabetical and reverse alphabetical","introduction-based and conclusion-based","only paragraph by paragraph","block structure (all of Text A, then all of Text B) and point-by-point structure (alternating between texts on each point) — point-by-point usually produces tighter comparative analysis"], answer:3},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"The risk in comparative writing is ___.", options:["making too many connections","having too specific a thesis","analysing too deeply","losing focus on either text — constantly check that both texts are receiving substantive analysis and that the comparison is genuinely illuminating something about both"], answer:3}
    ]},
   {subject:"Functions", title:"Advanced Functions Preview: Rational Functions and Partial Fractions", summary:"Students explore more complex rational functions, including partial fraction concepts and the connection to asymptotic behaviour.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Advanced Functions Preview: Rational Functions and Partial Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Advanced%20Functions%20Preview%3A%20Rational%20Functions%20and%20Partial%20Fractions%20grade%2011%20educational",
    quiz:[
      {q:"A rational function with degree of numerator > degree of denominator has ___.", options:["a horizontal asymptote","only vertical asymptotes","no asymptotes of any kind","an oblique (slant) asymptote — found by polynomial long division of numerator by denominator"], answer:3},
      {q:"The oblique asymptote of f(x) = (x² + 2x + 1)/(x − 1) is found by ___.", options:["setting numerator = denominator","only graphing","setting the denominator to zero","polynomial long division: x² + 2x + 1 ÷ (x − 1) = x + 3 remainder 4, so y = x + 3 is the oblique asymptote"], answer:3},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"Connecting rational function graphs to their equations: a zero of the numerator (not also of the denominator) produces ___.", options:["a vertical asymptote","a horizontal asymptote","a hole","an x-intercept (zero) of the graph"], answer:3}
    ]},
   {subject:"Biology", title:"Conservation Biology: Case Studies", summary:"Students examine conservation case studies — the recovery of specific species (wolves, whooping cranes, bison) and habitat restoration projects in Canada.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Conservation Biology: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20Biology%3A%20Case%20Studies%20grade%2011%20educational",
    quiz:[
      {q:"The reintroduction of wolves to Yellowstone (1995) demonstrated ___.", options:["only a reduction in prey animals","no significant ecological effect","an immediate improvement in predator numbers only","a trophic cascade: wolves reduced elk overgrazing of riverbanks, willows and aspens recovered, beavers returned, and rivers physically changed — a dramatic demonstration of keystone predator effects"], answer:3},
      {q:"The recovery of whooping cranes in Canada is significant because ___.", options:["they were never endangered","it was achieved without any conservation effort","they have already fully recovered without human help","from fewer than 20 birds in the 1940s, the wild population has grown to ~500 through intensive conservation: protected nesting habitat, captive breeding, and ultra-light aircraft-led migration training"], answer:3},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"Community-based conservation involves ___.", options:["no scientific expertise","excluding local communities from decisions","government making all conservation decisions","Indigenous peoples and local communities as central partners in conservation planning and management — recognising traditional ecological knowledge and community stewardship as essential to effective conservation"], answer:3}
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Functional Groups and Biological Molecules", summary:"Students examine the major biological macromolecules — carbohydrates, lipids, proteins, nucleic acids — as organic chemistry in action.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Organic Chemistry: Functional Groups and Biological Molecules", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Functional%20Groups%20and%20Biological%20Molecules%20grade%2011%20educational",
    quiz:[
      {q:"Carbohydrates (sugars and starches) are ___.", options:["only energy storage molecules","only structural polymers","always monomers","organic molecules with a 1:2:1 ratio of C:H:O — monomers (monosaccharides) linked into polymers (disaccharides, polysaccharides) serving as energy sources and structural materials"], answer:3},
      {q:"Fats (triglycerides) are formed by ___.", options:["addition of water to glycerol","denaturation of protein","polymerisation of amino acids","condensation of glycerol and three fatty acids — releasing water; non-polar and hydrophobic, making them ideal for long-term energy storage and cell membrane components"], answer:3},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Media Production: Creating a Literary Magazine", summary:"Students plan, write, edit, and design a class literary magazine, integrating writing, editing, visual design, and publishing skills.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Media Production: Creating a Literary Magazine", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Production%3A%20Creating%20a%20Literary%20Magazine%20grade%2011%20educational",
    quiz:[
      {q:"The editorial process in publishing involves ___.", options:["only correcting spelling","one round of changes","only the author working alone","structural editing (big-picture argument and organisation), copy editing (prose clarity and style), and proofreading (surface errors) — each requiring different skills and perspectives"], answer:3},
      {q:"Selecting work for a literary magazine requires ___.", options:["only selecting friends' work","only the highest-graded pieces","pieces that are all in the same style","editorial judgment about quality, variety, and thematic coherence — curating a collection that works as a whole, not just as a sum of individual pieces"], answer:3},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Publishing for a real audience (even a classroom audience) changes writing because ___.", options:["it doesn't actually matter","only teachers matter as an audience","it only adds stress","authentic audience makes quality matter — the knowledge that real readers will encounter the work motivates greater care and produces more genuine craft than assignments seen only by teachers"], answer:3}
    ]},
   {subject:"Functions", title:"Exam Preparation: Functions — Problem Solving Under Time Pressure", summary:"Students practise exam-style questions across all Grade 11 Functions topics under timed conditions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Exam Preparation: Functions — Problem Solving Under Time Pressure", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Functions%20%E2%80%94%20Problem%20Solving%20Under%20Time%20Pressure%20grade%2011%20educational",
    quiz:[
      {q:"A function has x-intercepts at x = −3 (order 2) and x = 1 (order 1) and passes through (0, −9). Find a and the equation.", options:["y = −3(x+3)²(x−1)","y = (x+3)²(x−1)","y = 3(x+3)(x−1)","y = (x−3)²(x+1) with a test: f(0) = −9: a(3)²(−1) = −9a = −9, a = 1... wait: a(0+3)²(0−1) = a(9)(−1) = −9a = −9, a = 1. So y = (x+3)²(x−1)"], answer:1},
      {q:"Solve: log₂(x + 1) + log₂(x − 1) = 3", options:["x = 3 (log₂((x+1)(x−1)) = 3 → (x+1)(x−1) = 8 → x²−1=8 → x²=9 → x=3 (x>1 required))","x = ±3","x = 9","x = 2"], answer:0},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"For a binomial distribution with n = 5 and p = 0.4, P(X = 2) = ___.", options:["₅C₂(0.4)²(0.6)³ = 10 × 0.16 × 0.216 = 0.3456","0.4² × 0.6³","0.16","0.6³ only"], answer:0}
    ]},
   {subject:"Biology", title:"Biology Culminating: Environmental Stewardship", summary:"Students connect biological knowledge to environmental stewardship — examining what biology teaches us about our responsibility to the living world.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology Culminating: Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Culminating%3A%20Environmental%20Stewardship%20grade%2011%20educational",
    quiz:[
      {q:"Biodiversity has intrinsic value, meaning ___.", options:["only economic value counts","species only matter if useful to humans","biodiversity has no value beyond aesthetics","species have value independent of their usefulness to humans — ethical frameworks recognise the right of other species to exist, not just their instrumental value for human well-being"], answer:3},
      {q:"The biological case for protecting intact ecosystems includes ___.", options:["only food production services","only carbon sequestration","no biological argument beyond sentiment","provisioning services (food, water, materials), regulating services (climate, disease, flood control), cultural services, and the supporting services (soil formation, photosynthesis) that underlie all other ecosystem functions"], answer:3},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"The most important biological argument for sustainability is ___.", options:["only about human aesthetics","only about future generations of humans","that humans are separate from and above nature","that humans are embedded in the biosphere — we depend on functioning ecosystems for clean air, water, food, climate regulation, and disease control; destroying biodiversity ultimately undermines human survival"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry Culminating: Chemistry for a Better World", summary:"Students examine how chemistry contributes to solving global challenges — clean energy, medicine, clean water, and sustainable materials.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry Culminating: Chemistry for a Better World", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Chemistry%20for%20a%20Better%20World%20grade%2011%20educational",
    quiz:[
      {q:"Green chemistry solutions to plastic pollution include ___.", options:["more effective landfill design","banning all chemistry","no practical alternatives exist yet","designing biodegradable polymers from renewable feedstocks, improving chemical recycling to break polymers back to monomers, and engineering enzymes that digest plastics"], answer:3},
      {q:"Solar photovoltaic cells work through ___.", options:["combustion of silicon","a chemical reaction with oxygen","only thermal energy conversion","the photovoltaic effect: photons from sunlight excite electrons in a semiconductor material (silicon), generating a flow of electrons — converting light directly to electricity without combustion"], answer:3},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Oral Presentation: Formal Presentation on a Literary Topic", summary:"Students deliver a formal 8-10 minute presentation on a literary or cultural topic, demonstrating research, organisation, visual literacy, and presentational skills.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Oral Presentation: Formal Presentation on a Literary Topic", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Presentation%3A%20Formal%20Presentation%20on%20a%20Literary%20Topic%20grade%2011%20educational",
    quiz:[
      {q:"A formal academic presentation differs from casual speaking in that ___.", options:["it is always scripted word for word","it never uses notes","it is much shorter","it requires careful preparation: a clear argument, organised structure, evidence-based content, and deliberate attention to delivery — pace, eye contact, voice, and visual support"], answer:3},
      {q:"Presentation slides should ___.", options:["contain all your speaking notes","have as much text as possible","be identical to your notes","provide visual support — key ideas, images, data, and headings — not your full script; slides that duplicate your speech become crutches that weaken delivery"], answer:3},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"The most valuable presentation skill for the rest of your life is ___.", options:["PowerPoint design","only public speaking for large audiences","reading your notes aloud","being able to communicate complex ideas clearly and confidently to an audience — a skill needed in almost every career and context"], answer:3}
    ]},
   {subject:"Functions", title:"Functions: Applications and Real-World Modelling", summary:"Students apply function families to real-world data — choosing the appropriate model, fitting it to data, and interpreting results.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions: Applications and Real-World Modelling", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Applications%20and%20Real-World%20Modelling%20grade%2011%20educational",
    quiz:[
      {q:"Choosing a function model for data requires ___.", options:["always using a linear model","trying every possible model","only using the most complex model","examining the data's features: constant rate of change → linear; constant percentage growth → exponential; periodic pattern → trigonometric; curve with a turning point → quadratic or polynomial"], answer:3},
      {q:"A logarithmic model is appropriate when ___.", options:["data grows explosively","data is perfectly linear","data oscillates","growth is rapid at first then slows (like early technology adoption, learning curves) — the logarithmic function captures rapid initial growth that plateaus"], answer:3},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"A mathematical model is not reality — it is ___.", options:["always wrong","a tool: a simplification of reality that is useful for understanding and prediction within the conditions under which it was built — all models are wrong, but some are useful","always approximate to the same degree","a perfect representation when enough data is available"], answer:1}
    ]},
   {subject:"Biology", title:"Human Biology: Reproductive System and Development Review", summary:"Students consolidate understanding of the human reproductive system, development, and reproductive health.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Human Biology: Reproductive System and Development Review", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Biology%3A%20Reproductive%20System%20and%20Development%20Review%20grade%2011%20educational",
    quiz:[
      {q:"Oogenesis (egg cell production) differs from spermatogenesis in that ___.", options:["both produce 4 functional gametes","only oogenesis involves meiosis","spermatogenesis produces eggs","oogenesis produces 1 functional egg and 2-3 polar bodies (non-functional); spermatogenesis produces 4 functional sperm — asymmetric division to concentrate cytoplasm in the egg"], answer:3},
      {q:"The embryonic period (weeks 3-8 of development) is critical because ___.", options:["it is when sex is determined","it is only important for heart development","no development occurs during this time","all major organs and body systems are forming — this period is most vulnerable to teratogens (alcohol, drugs, infections) that can cause birth defects"], answer:3},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Contraception options vary by ___.", options:["only religious acceptability","only cost","only age of the user","effectiveness (perfect vs. typical use), reversibility, protection against STIs (only barrier methods protect against STIs), health considerations, convenience, and personal values"], answer:3}
    ]},
   {subject:"Chemistry", title:"Thermodynamics: Entropy and Free Energy (Introduction)", summary:"Students are introduced to entropy (disorder) and Gibbs free energy as predictors of reaction spontaneity.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Thermodynamics: Entropy and Free Energy (Introduction)", resourceUrl:"https://www.youtube.com/results?search_query=Thermodynamics%3A%20Entropy%20and%20Free%20Energy%20%28Introduction%29%20grade%2011%20educational",
    quiz:[
      {q:"Entropy (S) is a measure of ___.", options:["a system's energy","a system's temperature","a system's heat content","a system's disorder or randomness — processes that increase disorder (dissolving, gases expanding, mixing) tend to be spontaneous"], answer:3},
      {q:"The Second Law of Thermodynamics states ___.", options:["entropy always decreases","entropy is conserved","entropy is irrelevant to chemistry","the total entropy of the universe always increases in a spontaneous process — in an isolated system, entropy cannot decrease"], answer:3},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Synthesis: Literature and the Human Experience", summary:"Students reflect on what the literature they've read across Grade 11 reveals about the human experience and their own intellectual development.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Synthesis: Literature and the Human Experience", resourceUrl:"https://www.youtube.com/results?search_query=Synthesis%3A%20Literature%20and%20the%20Human%20Experience%20grade%2011%20educational",
    quiz:[
      {q:"The literature studied in Grade 11 reveals that ___.", options:["human experience is simple and universal","literature has no relationship to life","all cultures experience life identically","the human experience is extraordinarily diverse yet marked by recurring concerns: belonging and exile, love and loss, justice and power, identity and transformation — the diversity is as important as the universality"], answer:3},
      {q:"What has changed most in your reading this year?", options:["Nothing — reading is always the same","Only your speed has increased","Only your vocabulary has grown","Your ability to tolerate and value ambiguity — mature reading involves sitting with uncertainty, resisting easy resolution, and finding the complexity of texts increasingly interesting rather than frustrating"], answer:3},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"The most important single habit a Grade 11 English student can develop for Grade 12 and beyond is ___.", options:["writing faster under pressure","using more literary terminology","summarising texts accurately","reading carefully and curiously — with genuine interest in what the text is doing and why, rather than hunting only for quotations to deploy in essays"], answer:3}
    ]},
   {subject:"Functions", title:"Statistics: Correlation and Regression", summary:"Students investigate scatter plots, linear correlation, regression lines, and the interpretation and limitations of statistical relationships.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Statistics: Correlation and Regression", resourceUrl:"https://www.youtube.com/results?search_query=Statistics%3A%20Correlation%20and%20Regression%20grade%2011%20educational",
    quiz:[
      {q:"A positive correlation means ___.", options:["the correlation coefficient is between −1 and 0","as one variable increases, the other decreases","there is no relationship between variables","as one variable increases, the other tends to increase — both variables move in the same direction"], answer:3},
      {q:"The correlation coefficient r ranges from ___.", options:["0 to 1","−100 to 100","−1 to 0","−1 to 1, where r = 1 is a perfect positive relationship, r = −1 is perfect negative, and r = 0 indicates no linear relationship"], answer:3},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"Interpolation (predicting within the data range) is more reliable than extrapolation because ___.", options:["interpolation is always correct","extrapolation gives exact results","interpolation and extrapolation are equally reliable","the regression model was built using the observed data range — predicting within that range assumes the relationship continues to hold, which is more defensible than assuming it holds beyond the observed range"], answer:3}
    ]},
   {subject:"Biology", title:"Biology: Year-End Exam Preparation", summary:"Students review all Grade 11 Biology content — cell biology, genetics, evolution, ecology, and physiology — for final assessment.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology: Year-End Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
    quiz:[
      {q:"Distinguish: mitosis produces ___ and meiosis produces ___.", options:["diploid identical cells; diploid diverse cells","haploid identical cells; haploid diverse cells","haploid diverse cells; diploid identical cells","diploid cells genetically identical to parent (for growth/repair); haploid cells genetically diverse (for sexual reproduction)"], answer:3},
      {q:"Natural selection is based on differences in ___.", options:["only physical size","intelligence only","mutation rate","reproductive success due to heritable variation — individuals with advantageous traits leave more offspring, increasing trait frequency over generations"], answer:3},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"A species with a narrow ecological niche is ___.", options:["always more abundant than generalists","never endangered","more vulnerable to environmental change — specialists have precise habitat requirements and may not survive if their specific conditions change, unlike generalists that tolerate a wide range of conditions","always a specialist predator"], answer:2}
    ]},
   {subject:"Chemistry", title:"Chemistry: Year-End Exam Preparation", summary:"Students review all Grade 11 Chemistry content for final assessment.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry: Year-End Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
    quiz:[
      {q:"Balance: C₃H₈ + O₂ → CO₂ + H₂O", options:["C₃H₈ + 3O₂ → 3CO₂ + 4H₂O","C₃H₈ + 5O₂ → 3CO₂ + 4H₂O","C₃H₈ + 4O₂ → 3CO₂ + 3H₂O","C₃H₈ + O₂ → CO₂ + H₂O (unbalanced)"], answer:1},
      {q:"The equilibrium constant Keq for N₂ + 3H₂ ⇌ 2NH₃ is ___.", options:["Keq = [NH₃]²/([N₂][H₂]³)","Keq = [N₂][H₂]³/[NH₃]²","Keq = [NH₃]/([N₂][H₂])","Keq = 2[NH₃]/[N₂]/3[H₂]"], answer:0},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"English", title:"Writing: The Reflective Essay and Self-Assessment", summary:"Students write a reflective essay examining their intellectual growth over the year, practising metacognitive awareness as a writing and thinking skill.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Writing: The Reflective Essay and Self-Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Reflective%20Essay%20and%20Self-Assessment%20grade%2011%20educational",
    quiz:[
      {q:"Metacognition in academic writing means ___.", options:["thinking about the reader","only proofreading","only planning before writing","thinking about your own thinking — being aware of how you form arguments, where your reasoning is strong or weak, and what habits of mind you are developing"], answer:3},
      {q:"Intellectual growth is best demonstrated in a reflective essay by ___.", options:["listing what topics you covered","quoting your previous essays","describing how confused you used to be","showing specific ways your thinking has become more complex, nuanced, and independent — with concrete examples of how your perspective on texts, ideas, or arguments has shifted"], answer:3},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Honest self-assessment requires ___.", options:["only celebrating achievements","avoiding mention of difficulties","overstating your weaknesses to seem humble","equal willingness to identify genuine strengths AND areas for development — without defensiveness or false modesty"], answer:3}
    ]},
   {subject:"Functions", title:"Functions: Exploring Connections and Preparing for Grade 12", summary:"Students reflect on the coherence of the Grade 11 Functions course and preview Grade 12 Advanced Functions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions: Exploring Connections and Preparing for Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Exploring%20Connections%20and%20Preparing%20for%20Grade%2012%20grade%2011%20educational",
    quiz:[
      {q:"The most important thing Grade 11 Functions teaches beyond specific techniques is ___.", options:["how to use a graphing calculator","only polynomial factoring","only exponential growth formulas","how to think about relationships between variables — identifying patterns, connecting representations (equation, graph, table), and choosing the right tool for a given situation"], answer:3},
      {q:"Grade 12 Advanced Functions (MHF4U) extends Grade 11 by ___.", options:["being easier overall","only reviewing Grade 11 content","avoiding exponential functions","examining polynomial, rational, exponential, logarithmic, and trigonometric functions at much greater depth and algebraic rigour — the prerequisite for university calculus"], answer:3},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"Mathematical confidence is built through ___.", options:["only being naturally talented","only easy problems","copying worked examples without understanding","struggling through difficulty, developing strategies for unfamiliar problems, and building the experience to recognise which approach to try — productive struggle is the mechanism of learning"], answer:3}
    ]},
   {subject:"Biology", title:"Biology: Looking Ahead to Grade 12", summary:"Students preview Grade 12 Biology (SBI4U) and understand how Grade 11 knowledge connects to advanced study.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology: Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
    quiz:[
      {q:"Grade 12 Biology extends genetics to ___.", options:["only repeating Mendelian genetics","no advanced concepts","an easier version of Grade 11","molecular genetics in depth: gene expression regulation, epigenetics, population genetics, and the molecular basis of evolution — building directly on Grade 11 cell biology and genetics"], answer:3},
      {q:"Grade 12 metabolic processes extend Grade 11 by examining ___.", options:["only photosynthesis in more detail","photosynthesis and cellular respiration in biochemical detail, enzyme kinetics, and metabolic regulation — requiring strong understanding of the Grade 11 overview","only cellular respiration","only enzyme structure"], answer:1},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Grade 12 Biology matters for students pursuing ___.", options:["only careers as biologists","only medicine","no careers in chemistry or physics","medicine, pharmacy, nursing, environmental science, genetics counselling, ecology, public health, biotechnology, and any field that requires understanding living systems"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry: Looking Ahead to Grade 12", summary:"Students preview Grade 12 Chemistry (SCH4U) and understand how Grade 11 knowledge is extended.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry: Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
    quiz:[
      {q:"Grade 12 Chemistry extends stoichiometry to ___.", options:["simpler problems only","no new concepts","only gas law stoichiometry","solution stoichiometry, thermochemistry applications (Hess's Law in depth), and electrochemistry — all building on Grade 11 foundations with greater quantitative rigour"], answer:3},
      {q:"Organic chemistry in Grade 12 extends to ___.", options:["only naming more compounds","no reaction mechanisms","eliminating all Grade 11 organic content","reaction mechanisms, functional group interconversions, polymers in depth, and the organic chemistry of biochemicals — a much more comprehensive treatment than Grade 11"], answer:3},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Literature: Examining Power Through Fiction", summary:"Students read and analyse texts that examine power dynamics — colonialism, class, race, gender — through literary form.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Literature: Examining Power Through Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Examining%20Power%20Through%20Fiction%20grade%2011%20educational",
    quiz:[
      {q:"Literature about power is most effective when ___.", options:["it only celebrates resistance","it directly states its political message","it ignores aesthetics","it dramatises power through specific human relationships — not as abstract argument but as lived experience, making abstract dynamics of oppression and resistance concrete and emotionally real"], answer:3},
      {q:"Post-colonial literary theory examines ___.", options:["only literature from former colonies","only the theme of violence","no connection to colonialism in Canadian literature","how colonialism shaped both the lives depicted in literature and the forms literature takes — including whose stories are told, whose language is used, and what counts as 'literature'"], answer:3},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"Why does language matter in the literature of colonialism?", options:["Language is only a tool for communication","All languages are equivalent in colonial contexts","Language is irrelevant to power","The coloniser's language carries embedded assumptions about what is real, valuable, and knowable; writing in that language — or against it — is always a political act when your own language was suppressed"], answer:3}
    ]},
   {subject:"Functions", title:"Enrichment: Mathematical Thinking and Problem Solving", summary:"Students tackle challenging multi-step problems requiring creative mathematical thinking, preparing for senior mathematics and mathematical competitions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Enrichment: Mathematical Thinking and Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Enrichment%3A%20Mathematical%20Thinking%20and%20Problem%20Solving%20grade%2011%20educational",
    quiz:[
      {q:"When facing an unfamiliar math problem, the most effective first step is ___.", options:["trying random techniques","immediately seeking help","only guessing","representing the problem in multiple ways — drawing a diagram, trying small cases, restating in your own words, and identifying what tools might apply"], answer:3},
      {q:"Mathematical proof by contradiction assumes ___.", options:["the conclusion is true","the opposite of what you want to prove, then shows this leads to an impossible conclusion — therefore the original assumption must be true","the problem has no solution","only prime numbers apply"], answer:1},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"The most beautiful mathematics problems share the quality of ___.", options:["being very long and complex","having obvious approaches","requiring extensive computation","elegance: a simple question whose solution reveals unexpected depth, connecting apparently unrelated mathematical ideas in a surprising way"], answer:3}
    ]},
   {subject:"Biology", title:"Biology: Environmental Health and Toxicology", summary:"Students examine how environmental toxins affect biological systems, examining dose-response, bioaccumulation, and links to cancer and endocrine disruption.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology: Environmental Health and Toxicology", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Environmental%20Health%20and%20Toxicology%20grade%2011%20educational",
    quiz:[
      {q:"The dose-response relationship in toxicology means ___.", options:["all chemicals are toxic at any dose","no chemical is toxic at low doses","only synthetic chemicals are toxic","the biological effect of a toxic substance is determined by the dose received — 'the dose makes the poison' (Paracelsus) — essentially all substances are toxic at high enough doses"], answer:3},
      {q:"An endocrine disruptor is ___.", options:["a substance that destroys the endocrine glands","only produced by nuclear reactors","only naturally occurring","a chemical that mimics, blocks, or interferes with hormones in the endocrine system — causing effects at very low doses because hormone systems are designed to respond to tiny concentrations"], answer:3},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Biomarkers in environmental health are ___.", options:["only blood tests","only found in lab settings","only used in cancer research","measurable indicators in biological systems — chemical, physiological, or molecular — that reflect exposure to or effect of an environmental toxin, enabling monitoring of environmental health impacts on organisms"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry: Solutions and Buffers", summary:"Students examine buffer systems — how they work, their biological importance, and Henderson-Hasselbalch calculations.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry: Solutions and Buffers", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Solutions%20and%20Buffers%20grade%2011%20educational",
    quiz:[
      {q:"A buffer solution resists pH changes because ___.", options:["it has no acid-base equilibrium","it neutralises all acids and bases completely","it has a very high volume","it contains a weak acid and its conjugate base (or weak base and conjugate acid) — when acid is added, the base component reacts; when base is added, the acid component reacts"], answer:3},
      {q:"The Henderson-Hasselbalch equation is ___.", options:["pH = pKa × [acid]/[base]","pH = Ka + log([base]/[acid])","pH = pKa − log([acid]/[base])","pH = pKa + log([base]/[acid]) — allows pH of a buffer to be calculated from pKa and component concentrations"], answer:3},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Culminating Task: Literary Analysis or Creative Piece", summary:"Students complete a major culminating literary analysis essay or creative writing piece that demonstrates the full range of Grade 11 English skills.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Culminating Task: Literary Analysis or Creative Piece", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Task%3A%20Literary%20Analysis%20or%20Creative%20Piece%20grade%2011%20educational",
    quiz:[
      {q:"The culminating analytical essay should be different from earlier essays because ___.", options:["it requires less revision","it has fewer paragraphs","it is longer and covers more material","it demonstrates greater intellectual independence, more sophisticated thesis construction, and more precise analytical language — all skills developed across the year"], answer:3},
      {q:"A creative writing culminating task at Grade 11 requires ___.", options:["only plot and characters","only correct grammar","any topic and no planning","deliberate craft: intentional use of form, voice, structure, and literary technique to create specific effects — not just telling a story but making artistic choices that create meaning"], answer:3},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"The culminating task matters beyond the grade because ___.", options:["grades are what matter","it has no real-world application","only the teacher reads it","it is evidence of what you can do — the kind of analytical, communicative, and intellectual work that will be required in every university humanities course and in many professional contexts"], answer:3}
    ]},
   {subject:"Functions", title:"Functions: Culminating Activity and Reflection", summary:"Students complete a culminating problem-solving or application task and reflect on their mathematical development in Grade 11.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions: Culminating Activity and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Culminating%20Activity%20and%20Reflection%20grade%2011%20educational",
    quiz:[
      {q:"A functions culminating task might ask you to ___.", options:["only compute a single answer","only describe a function without calculating","only graph without analysing","model a real-world situation with an appropriate function, analyse it algebraically and graphically, interpret results in context, and communicate your reasoning — demonstrating the full range of Grade 11 Functions skills"], answer:3},
      {q:"The most important thing you can communicate in your mathematical work is ___.", options:["only the correct answer","only a diagram","only a formula","your reasoning: WHY each step follows, WHAT each variable represents, and HOW the mathematical result connects to the real-world context"], answer:3},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"The most transferable skill from Grade 11 Functions to any career is ___.", options:["factoring polynomials","using a graphing calculator","memorising the unit circle","quantitative reasoning: the ability to represent relationships mathematically, analyse them, and draw justified conclusions from data and models"], answer:3}
    ]},
   {subject:"Biology", title:"Biology Culminating: Final Assessment and Reflection", summary:"Students complete their final assessment and reflect on their growth as biologists.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology Culminating: Final Assessment and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
    quiz:[
      {q:"The most important thing about the tree of life (phylogeny) for a Grade 11 biologist is ___.", options:["memorising all species names","only the human branch","only the five kingdoms","understanding that all life is related through common ancestry — the unity underlying enormous diversity, and the reason biology can generalise across organisms"], answer:3},
      {q:"Biology's most powerful unifying theory is ___.", options:["cell theory","germ theory","Mendel's laws","evolution by natural selection — it explains the diversity of life, the unity of biochemistry, the design of organisms, and the patterns of ecology, connecting all biological disciplines"], answer:3},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Biology has shaped your thinking by ___.", options:["making you value only natural remedies","giving you only factual knowledge","replacing all other ways of knowing","teaching you to see organisms as dynamic systems, to think about evolution and ecology simultaneously, and to approach biological claims with evidence-based skepticism — skills for life, not just exams"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry Culminating: Final Assessment and Reflection", summary:"Students complete their final chemistry assessment and reflect on the year.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry Culminating: Final Assessment and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
    quiz:[
      {q:"The central insight of chemistry is ___.", options:["that only inorganic chemistry matters","that chemistry is only about industry","that all matter is made of elements","that matter transforms: atoms rearrange in chemical reactions, energy is released or absorbed, and properties change — understanding these transformations lets us understand and manipulate the material world"], answer:3},
      {q:"The most important safety principle in chemistry is ___.", options:["wearing lab coats always","only reading the MSDS after an incident","only using chemicals rated 'safe'","understanding the hazards of any substance before working with it and using appropriate controls — prevention is always better than emergency response"], answer:3},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Exam Skills: Timed Essay Writing", summary:"Students practise writing strong analytical essays under timed examination conditions.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Exam Skills: Timed Essay Writing", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20Timed%20Essay%20Writing%20grade%2011%20educational",
    quiz:[
      {q:"In a timed essay exam (50-75 minutes), you should spend the first 10 minutes ___.", options:["writing the conclusion first","writing as fast as possible","only reading the question twice","reading the question carefully, identifying the key demand, brainstorming your best ideas and evidence, and writing a clear thesis and rough outline — time spent planning is never wasted in timed writing"], answer:3},
      {q:"If you run out of time in a timed essay, prioritise ___.", options:["adding more quotations","only fixing spelling errors","starting over","completing your argument: a short, clear, well-argued essay beats a long, wandering one — the thesis and two or three well-developed paragraphs with analysis is better than five thin ones"], answer:3},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"The difference between a good exam essay and an excellent one is ___.", options:["only length","only the number of literary terms used","only writing speed","an original, specific thesis that the essay genuinely proves — not just a competent discussion of the topic but a coherent, well-supported argument for a contestable claim"], answer:3}
    ]},
   {subject:"Functions", title:"Functions Exam: Comprehensive Review", summary:"Final exam review across all Grade 11 Functions topics.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions Exam: Comprehensive Review", resourceUrl:"https://www.youtube.com/results?search_query=Functions%20Exam%3A%20Comprehensive%20Review%20grade%2011%20educational",
    quiz:[
      {q:"Find all x where f(x) = x³ − 4x² + x + 6 = 0. Use the factor theorem.", options:["x = −1, 2, 3 (test: f(−1) = −1−4−1+6 = 0; factor (x+1); divide; get x²−5x+6=(x−2)(x−3))","x = 1, 2, −3","x = −2, 3, 1","x = 2, 3, −2"], answer:0},
      {q:"log₃(81) − log₃(3) = ___.", options:["3 (log₃(81/3) = log₃(27) = 3)","4","1","2"], answer:0},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"If $500 is invested at 8% compounded quarterly for 3 years, the final amount is ___.", options:["500(1.08)³","500(1 + 0.08/4)^(4×3) = 500(1.02)^12 ≈ $634.12","500(1.08/4)^12","500 + 500×0.08×3"], answer:1}
    ]},
   {subject:"Biology", title:"Biology Final Exam", summary:"Final exam review questions across all Grade 11 Biology content.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology Final Exam", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Final%20Exam%20grade%2011%20educational",
    quiz:[
      {q:"The three domains of life and their key distinguishing features are: Bacteria ___.", options:["have a nucleus; Archaea have no nucleus; Eukarya have cell walls","are eukaryotic; Archaea are prokaryotic; Eukarya are both","are prokaryotic (no nucleus), Archaea are prokaryotic but biochemically distinct (different membrane lipids, RNA polymerase), Eukarya are eukaryotic (membrane-bound nucleus)","are the same as Archaea"], answer:2},
      {q:"The central dogma: transcription occurs in the ___ and translation in the ___.", options:["cytoplasm; nucleus","ribosome; nucleus","nucleus; cytoplasm (ribosome)","nucleus; mitochondria"], answer:2},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Identify: P₁ is crossed with P₂ (TT × tt). F₁ is all Tt. F₁ × F₁ produces F₂ in what ratio?", options:["1:1","2:1","All Tt","3:1 (TT:Tt:tt = 1:2:1 → phenotype ratio 3 dominant: 1 recessive)"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry Final Exam", summary:"Final exam review questions across all Grade 11 Chemistry content.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry Final Exam", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Final%20Exam%20grade%2011%20educational",
    quiz:[
      {q:"How many grams of CO₂ (molar mass = 44 g/mol) are produced by burning 88 g of propane C₃H₈ (molar mass = 44)? (C₃H₈ + 5O₂ → 3CO₂ + 4H₂O)", options:["88 g","132 g (2 mol propane × 3 mol CO₂/mol propane = 6 mol CO₂; 6 × 44 = 264 g)","44 g","264 g"], answer:3},
      {q:"A solution has [OH⁻] = 1×10⁻¹¹ M. Its pH is ___.", options:["11","3","1×10⁻³","pH = 14 − pOH = 14 − 11 = 3"], answer:3},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"English", title:"Year-End Celebration: Reading and Literary Portfolio", summary:"Students curate and present their best reading and writing from Grade 11, celebrating their intellectual growth.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Year-End Celebration: Reading and Literary Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Literary%20Portfolio%20grade%2011%20educational",
    quiz:[
      {q:"A Grade 11 literary portfolio should demonstrate ___.", options:["only the highest-graded piece","only creative writing","only the most recent work","the arc of your intellectual development — including early work that shows where you started, middle work showing growth, and your best work demonstrating what you can now do"], answer:3},
      {q:"Sharing your intellectual work with peers demonstrates ___.", options:["competition rather than collaboration","that you are not actually interested in private learning","that you have no original ideas","courage — intellectual sharing makes thinking visible and opens you to genuine response; this vulnerability is also what makes ideas grow"], answer:3},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"Books you've read this year ___.", options:["are now finished and forgettable","will only be remembered for exams","have no lasting effect on most students","become part of how you see the world — characters, images, and ideas that won't leave you, and that will recur with new meaning throughout your life"], answer:3}
    ]},
   {subject:"Functions", title:"Functions: End-of-Year Celebration and Next Steps", summary:"Students celebrate their mathematical achievement and set goals for Grade 12 mathematics.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Functions: End-of-Year Celebration and Next Steps", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20End-of-Year%20Celebration%20and%20Next%20Steps%20grade%2011%20educational",
    quiz:[
      {q:"Finishing Grade 11 Functions means ___.", options:["all mathematics is now complete","you know more mathematics than you'll ever use","only calculus remains","you have developed fluency in the function families and mathematical reasoning that are the foundation of all senior mathematics and most university-level quantitative study"], answer:3},
      {q:"The most important mathematical habit to develop over summer is ___.", options:["solving problems every day (impractical)","forgetting all of Grade 11","reading only about mathematics","staying curious about patterns and relationships — noticing where mathematics appears in the world and thinking about why — keeping your mathematical thinking alive without formal study"], answer:3},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"The most valuable thing Grade 11 Functions has built is ___.", options:["the ability to factor any polynomial","knowledge of trigonometric ratios","only exponential formula knowledge","mathematical confidence: the experience of working through genuinely hard problems, developing strategies, making errors, and persisting to understanding — this confidence transfers to every challenge"], answer:3}
    ]},
   {subject:"Biology", title:"Biology: End-of-Year Celebration", summary:"Students celebrate their learning in Grade 11 Biology.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Biology: End-of-Year Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20End-of-Year%20Celebration%20grade%2011%20educational",
    quiz:[
      {q:"The most surprising thing about life at the molecular level is ___.", options:["that DNA is too small to be important","that all cells are the same","that molecular biology has no connection to ecology","that the chemistry of life is extraordinarily conserved — the same molecular machines, genetic code, and metabolic pathways appear in bacteria, fungi, plants, and animals — evolution works on the same deep toolkit"], answer:3},
      {q:"The most important ecological insight from Grade 11 Biology is ___.", options:["that food chains are simple and linear","that biodiversity doesn't affect ecosystem stability","that species are separable from their ecosystems","that everything connects: changes in one population ripple through an ecosystem in sometimes surprising and dramatic ways — the simplest food web is actually a complex adaptive system"], answer:3},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"The Grade 11 student who loved biology will ___.", options:["forget it all by the end of summer","be slightly better at pub trivia","only succeed if they become a scientist","carry a particular way of seeing — noticing the evolutionary logic in animal behaviour, the ecological connections in a forest, the molecular drama in a single cell — a richer, more connected view of the living world"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemistry: End-of-Year Celebration", summary:"Students celebrate their learning in Grade 11 Chemistry.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Chemistry: End-of-Year Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20End-of-Year%20Celebration%20grade%2011%20educational",
    quiz:[
      {q:"The most astonishing fact about atoms is ___.", options:["they are very large","they are perfectly solid","they are only found in metals","that the matter around you — everything you touch, breathe, and are made of — is mostly empty space: atoms are almost entirely the void between a tiny dense nucleus and a cloud of electrons"], answer:3},
      {q:"The periodic table is astonishing because ___.", options:["it was invented recently","it is purely a memorisation tool","it was created without any underlying theory","it was created from experimental data before quantum mechanics existed, and yet quantum mechanics perfectly explains the table's organisation — one of science's greatest unifying achievements"], answer:3},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Grade 11 English: Looking Back and Forward", summary:"A final celebration of Grade 11 English — reflecting on the year's intellectual journey and preparing for Grade 12.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Grade 11 English: Looking Back and Forward", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20English%3A%20Looking%20Back%20and%20Forward%20grade%2011%20educational",
    quiz:[
      {q:"The single most important intellectual skill developed in Grade 11 English is ___.", options:["writing very long essays","memorising literary terms","reading texts quickly","forming, supporting, and communicating complex analytical arguments — the ability to have a well-grounded original position and defend it with precision and clarity"], answer:3},
      {q:"Literature's relationship to truth is ___.", options:["literature is never true","literature states direct factual truths only","literature is only useful for personal enjoyment","complex: literary truth is not factual truth but a different kind — the truth of accurately rendered human experience, the truth of exposing what ideology conceals, the truth of precisely articulated feeling"], answer:3},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"English is a lifelong practice because ___.", options:["you will always need to pass exams","only writers use English skills","reading and writing are only needed for formal education","language — reading it, writing it, thinking in it — is the medium of thought and connection; becoming more skilled at it never stops mattering"], answer:3}
    ]},
   {subject:"Functions", title:"Grade 11 Functions: Final Day", summary:"A final celebration of mathematical achievement and reflection on the role of mathematics in the world.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Grade 11 Functions: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Functions%3A%20Final%20Day%20grade%2011%20educational",
    quiz:[
      {q:"Mathematics is universal because ___.", options:["it is the same in all cultures","only European cultures developed mathematics","it has no cultural history","mathematical truths are independent of who discovers them — but mathematical culture, who gets access to it, and how it is taught are profoundly shaped by history and culture"], answer:3},
      {q:"The most important thing mathematics teaches beyond its content is ___.", options:["that some people are 'math people' and others aren't","that there is always one right method","that speed is the key mathematical skill","the experience of being confused, trying multiple approaches, failing, trying again, and eventually understanding — a model for engaging with any difficult problem in any domain"], answer:3},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"Mathematics is beautiful because ___.", options:["it is complicated","it produces large numbers","it is only used in science","it reveals hidden structure — unexpected connections between apparently unrelated ideas, surprising simplicity underlying apparent complexity, and the uncanny fact that abstract mathematical structures so precisely describe the physical universe"], answer:3}
    ]},
   {subject:"Biology", title:"Grade 11 Biology: Final Day", summary:"A final celebration of the living world and our place in it.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Grade 11 Biology: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Biology%3A%20Final%20Day%20grade%2011%20educational",
    quiz:[
      {q:"The central message of Grade 11 Biology is ___.", options:["only to prepare for Grade 12","only to memorise scientific facts","life is simple if you understand the right formulas","life is one: despite 3.8 billion years of divergence, all living things share DNA, the genetic code, ATP, ribosomes, and cell membranes — the diversity of life is built from a common molecular toolkit"], answer:3},
      {q:"Understanding evolution changes your relationship to other species because ___.", options:["it makes you feel superior to simpler organisms","it suggests humans are unimportant","other species are competitors only","it reveals kinship — the chimpanzee, the oak tree, the bacterium in your gut are your evolutionary relatives, products of the same ancient processes, sharing ancestry through billions of years"], answer:3},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Your Grade 11 Biology course ends, but ___.", options:["your interest in biology should end too","biology is only relevant in school","you will never use biology outside of class","the living world continues — and every forest walk, every meal, every news story about a pandemic or an ecosystem, every medical decision you make will be richer for the biological understanding you've built this year"], answer:3}
    ]},
   {subject:"Chemistry", title:"Grade 11 Chemistry: Final Day", summary:"A final celebration of chemistry's place in understanding and improving the world.",
-   resourceLabel:"TVO Learn: Grade 11", resourceUrl:"https://tvolearn.com/pages/grade-11",
+   resourceLabel:"YouTube: Grade 11 Chemistry: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Chemistry%3A%20Final%20Day%20grade%2011%20educational",
    quiz:[
      {q:"The most profound idea in chemistry is ___.", options:["the mole concept","the periodic table","only electronegativity","that transformation is the fundamental character of matter — nothing is truly destroyed, only transformed; atoms that were part of ancient stars are now part of you, and will be part of something else entirely after you"], answer:3},
      {q:"Chemistry connects to every other science because ___.", options:["chemistry only studies non-living matter","physics and biology have nothing to do with chemistry","chemistry and biology are entirely separate","physics explains atomic structure and energy; biology is molecular chemistry in living systems; geology is chemistry of the Earth's crust — chemistry is the bridge between the physical and biological sciences"], answer:3},

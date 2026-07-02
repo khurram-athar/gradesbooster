@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Parts of Speech Review", summary:"Review nouns, verbs, adjectives, and adverbs — the building blocks of sentences.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Parts of Speech Review", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20Speech%20Review%20grade%205%20educational",
    quiz:[
      {q:"Which word is a noun?", options:["Quickly","Mountain","Run","Blue"], answer:1},
      {q:"Which word is an adverb (describes how something is done)?", options:["Quietly","Table","Happy","Dog"], answer:0},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Which sentence uses an adverb correctly?", options:["She sang beautiful.","She sang beautifully.","She beautifully sing.","Beautifully she."], answer:1},
    ]},
   {subject:"Math", title:"Multiplication Facts and Strategies", summary:"Ontario Number strand: by the end of Grade 5, students should have multiplication/division facts mastered. Review times tables and strategies.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Multiplication Facts and Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20and%20Strategies%20grade%205%20educational",
    quiz:[
      {q:"7 × 8 = ?", options:["54","56","58","64"], answer:1},
      {q:"9 × 6 = ?", options:["52","53","54","56"], answer:2},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"What is 6 × 9?", options:["52","54","56","58"], answer:1},
    ]},
   {subject:"Science", title:"Forces Acting on Structures", summary:"Ontario Grade 5 Science strand: structures must withstand forces like tension, compression, and load to stay stable.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Forces Acting on Structures", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Acting%20on%20Structures%20grade%205%20educational",
    quiz:[
      {q:"What is a 'load' on a structure?", options:["The weight or force a structure must support","A type of paint","A kind of liquid","A musical note"], answer:0},
      {q:"Tension is a force that...", options:["Pushes objects together","Pulls or stretches an object","Has no effect","Only applies to liquids"], answer:1},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"A bridge needs to be designed to withstand...", options:["No forces at all","The forces and loads it will experience","Only sunny weather","Only its own weight"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Early Encounters: First Peoples and New France", summary:"Ontario Heritage & Identity strand: explore the diverse First Nations societies in what would become Canada, and early encounters with French settlers before 1713.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Early Encounters: First Peoples and New France", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Encounters%3A%20First%20Peoples%20and%20New%20France%20grade%205%20educational",
    quiz:[
      {q:"Before European settlers arrived, the land was home to...", options:["No one","Diverse First Nations societies","Only animals","Empty cities"], answer:1},
      {q:"New France was a colony established by...", options:["Spain","France","England","Portugal"], answer:1},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Sentence Types", summary:"Sentences can be declarative (statement), interrogative (question), imperative (command), or exclamatory (exclamation).",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Sentence Types", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Types%20grade%205%20educational",
    quiz:[
      {q:"'Close the door.' is what type of sentence?", options:["Declarative","Interrogative","Imperative","Exclamatory"], answer:2},
      {q:"'Did you finish your homework?' is what type of sentence?", options:["Declarative","Interrogative","Imperative","Exclamatory"], answer:1},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"Which punctuation usually ends an interrogative sentence?", options:["Period","Question mark","Exclamation mark","Comma"], answer:1},
    ]},
   {subject:"Math", title:"Long Division", summary:"Divide larger numbers using long division, checking your answer with multiplication.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Long Division", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Division%20grade%205%20educational",
    quiz:[
      {q:"144 ÷ 12 = ?", options:["11","12","13","14"], answer:1},
      {q:"96 ÷ 8 = ?", options:["10","11","12","13"], answer:2},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"168 ÷ 7 = ?", options:["22","24","26","28"], answer:1},
    ]},
   {subject:"Science", title:"Beams, Columns, and Stability", summary:"Beams support loads horizontally, columns support loads vertically, and a structure's base affects how stable it is.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Beams, Columns, and Stability", resourceUrl:"https://www.youtube.com/results?search_query=Beams%2C%20Columns%2C%20and%20Stability%20grade%205%20educational",
    quiz:[
      {q:"A column mainly supports a load...", options:["Vertically (up and down)","Horizontally (side to side)","Underwater only","Never"], answer:0},
      {q:"A beam mainly supports a load...", options:["Vertically","Horizontally, spanning a distance","Only diagonally","Never"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"What might happen if a structure cannot handle its load?", options:["Nothing, ever","It could bend, crack, or collapse","It becomes lighter","It changes colour"], answer:1},
    ]},
   {subject:"SocialStudies", title:"First Nations, Métis, and Inuit Peoples", summary:"Canada is home to diverse Indigenous peoples — First Nations, Métis, and Inuit — each with distinct histories, cultures, and territories.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: First Nations, Métis, and Inuit Peoples", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%2C%20M%C3%A9tis%2C%20and%20Inuit%20Peoples%20grade%205%20educational",
    quiz:[
      {q:"Which three groups make up Indigenous peoples in Canada?", options:["First Nations, Métis, Inuit","Settlers, Pioneers, Explorers","Only First Nations","Only Inuit"], answer:0},
      {q:"The Inuit traditionally lived mainly in...", options:["The southern prairies","Canada's Arctic regions","Tropical rainforests","Coastal British Columbia only"], answer:1},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Using Context Clues", summary:"Context clues are hints in the surrounding text that help you figure out the meaning of an unfamiliar word.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Using Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Context%20Clues%20grade%205%20educational",
    quiz:[
      {q:"What is a context clue?", options:["A hint in the text about a word's meaning","A type of punctuation","A grammar rule","A spelling pattern"], answer:0},
      {q:"In 'The arid desert had no rain for months,' what does 'arid' likely mean?", options:["Wet","Dry","Cold","Loud"], answer:1},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"In 'She was ecstatic, jumping and cheering with joy,' what does 'ecstatic' mean?", options:["Very sad","Very tired","Very happy/excited","Very confused"], answer:2},
    ]},
   {subject:"Math", title:"Equivalent Fractions", summary:"Equivalent fractions represent the same value, like 1/2 = 2/4 = 3/6.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Equivalent Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Equivalent%20Fractions%20grade%205%20educational",
    quiz:[
      {q:"Which fraction is equivalent to 1/2?", options:["2/3","2/4","3/4","1/4"], answer:1},
      {q:"Which fraction is equivalent to 2/3?", options:["4/6","3/4","2/4","1/3"], answer:0},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"Which pair of fractions are NOT equivalent?", options:["1/2 and 2/4","1/3 and 2/6","2/5 and 4/10","1/2 and 1/3"], answer:3},
    ]},
   {subject:"Science", title:"Properties of Matter", summary:"Ontario Grade 5 Science strand: matter has measurable properties like mass, volume, density, and the ability to dissolve.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Properties of Matter", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Matter%20grade%205%20educational",
    quiz:[
      {q:"Mass measures...", options:["How much matter is in an object","How fast something moves","The colour of an object","The temperature only"], answer:0},
      {q:"Volume measures...", options:["How much space an object takes up","The mass of an object","The smell of an object","The sound an object makes"], answer:0},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"Which property could you measure with a balance scale?", options:["Mass","Smell","Colour","Sound"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Government in Canada", summary:"Canada has different levels of government — federal, provincial, and municipal — each responsible for different things.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Government in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Government%20in%20Canada%20grade%205%20educational",
    quiz:[
      {q:"Which level of government is responsible for things like national defence?", options:["Municipal","Provincial","Federal","None"], answer:2},
      {q:"Which level of government usually manages local roads and garbage collection?", options:["Federal","Municipal (city/town)","Provincial only","None"], answer:1},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Cause and Effect", summary:"A cause is why something happens, and an effect is what happens as a result.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20grade%205%20educational",
    quiz:[
      {q:"In 'Because it rained, the game was cancelled,' what is the cause?", options:["The game was cancelled","It rained","Nothing","The players"], answer:1},
      {q:"In the same sentence, what is the effect?", options:["It rained","The game was cancelled","The weather","Nothing"], answer:1},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"Identifying cause and effect helps readers understand...", options:["Spelling rules only","Why events happen in a text","Nothing useful","Punctuation only"], answer:1},
    ]},
   {subject:"Math", title:"Adding and Subtracting Fractions", summary:"Add and subtract fractions with the same denominator, and simplify your answer.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Adding and Subtracting Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Fractions%20grade%205%20educational",
    quiz:[
      {q:"1/4 + 1/4 = ?", options:["2/8","1/2","3/4","1/8"], answer:1},
      {q:"3/5 - 1/5 = ?", options:["2/5","2/10","4/5","1/5"], answer:0},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"1/3 + 1/3 = ?", options:["2/3","2/6","1/6","2/9"], answer:0},
    ]},
   {subject:"Science", title:"Conservation of Energy and Resources", summary:"Ontario Grade 5 Science strand: energy can be transformed but not created or destroyed; renewable resources can be replenished while non-renewable resources cannot.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Conservation of Energy and Resources", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20and%20Resources%20grade%205%20educational",
    quiz:[
      {q:"A renewable energy source is one that...", options:["Runs out and can never be replaced","Can be naturally replenished, like solar or wind","Is always made of coal","Doesn't exist"], answer:1},
      {q:"Which is an example of a non-renewable resource?", options:["Solar energy","Wind energy","Coal","Wind power"], answer:2},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a renewable energy source?", options:["Oil","Natural gas","Solar power","Coal"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Canada's Physical Regions", summary:"Canada is divided into physical regions (like the Canadian Shield, the Prairies, and the Cordillera), each with distinct landforms and climate.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Canada's Physical Regions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Physical%20Regions%20grade%205%20educational",
    quiz:[
      {q:"The Canadian Shield is known for...", options:["Flat farmland only","Ancient rock, lakes, and forests","Desert sand dunes","Tropical rainforest"], answer:1},
      {q:"The Prairies region is known for...", options:["Mountains only","Flat or rolling farmland","Tropical beaches","Arctic ice only"], answer:1},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Grammar and Comprehension", summary:"Mixed review of parts of speech, sentence types, context clues, and cause/effect.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Review: Grammar and Comprehension", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grammar%20and%20Comprehension%20grade%205%20educational",
    quiz:[
      {q:"Which word is an adverb?", options:["Quietly","Mountain","Run","Blue"], answer:0},
      {q:"'Please sit down.' is what type of sentence?", options:["Declarative","Interrogative","Imperative","Exclamatory"], answer:2},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"Which word signals cause and effect?", options:["Because","Yesterday","Quickly","Loudly"], answer:0},
    ]},
   {subject:"Math", title:"Review: Multiplication, Division, and Fractions", summary:"Mixed review of multiplication, division, and fraction operations.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Review: Multiplication, Division, and Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Multiplication%2C%20Division%2C%20and%20Fractions%20grade%205%20educational",
    quiz:[
      {q:"6 × 7 = ?", options:["40","42","48","36"], answer:1},
      {q:"81 ÷ 9 = ?", options:["7","8","9","11"], answer:2},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"What is 9 × 9?", options:["72","81","90","99"], answer:1},
    ]},
   {subject:"Science", title:"Review: Structures, Matter, and Energy", summary:"Mixed review of forces on structures, properties of matter, and conservation of energy.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Review: Structures, Matter, and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Structures%2C%20Matter%2C%20and%20Energy%20grade%205%20educational",
    quiz:[
      {q:"Tension is a force that...", options:["Pulls or stretches","Pushes together","Does nothing","Only affects liquids"], answer:0},
      {q:"Mass measures...", options:["Speed","Amount of matter","Colour","Sound"], answer:1},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"The law of conservation of energy means energy...", options:["Can be destroyed","Can change form but not be created/destroyed","Doesn't exist","Is always solid"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Review: Early Canada and Government", summary:"Mixed review of early encounters, Indigenous peoples, government levels, and physical regions.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Review: Early Canada and Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Government%20grade%205%20educational",
    quiz:[
      {q:"New France was settled by which European country?", options:["France","Spain","England","Portugal"], answer:0},
      {q:"Which three groups make up Indigenous peoples in Canada?", options:["First Nations, Métis, Inuit","Settlers, Explorers, Pioneers","Only First Nations","Only Métis"], answer:0},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Compare and Contrast", summary:"Comparing shows how two things are alike; contrasting shows how they are different.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Compare%20and%20Contrast%20grade%205%20educational",
    quiz:[
      {q:"Which word signals a comparison?", options:["Similarly","However","Because","Finally"], answer:0},
      {q:"Which word signals a contrast?", options:["Similarly","Likewise","However","Also"], answer:2},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"A Venn diagram is often used to...", options:["Tell time","Compare and contrast ideas","Add fractions","Draw maps"], answer:1},
    ]},
   {subject:"Math", title:"Decimal Place Value", summary:"Decimals represent parts of a whole using place value — tenths, hundredths, and thousandths.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Decimal Place Value", resourceUrl:"https://www.youtube.com/results?search_query=Decimal%20Place%20Value%20grade%205%20educational",
    quiz:[
      {q:"In 4.56, which digit is in the tenths place?", options:["4","5","6","0"], answer:1},
      {q:"Which decimal is the same as 3/10?", options:["0.3","0.03","3.0","0.13"], answer:0},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"In 2.345, which digit is in the hundredths place?", options:["2","3","4","5"], answer:2},
    ]},
   {subject:"Science", title:"Changes in Matter", summary:"Matter can change physically (like cutting paper) or chemically (like burning wood, which forms new substances).",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Changes in Matter", resourceUrl:"https://www.youtube.com/results?search_query=Changes%20in%20Matter%20grade%205%20educational",
    quiz:[
      {q:"Cutting a piece of paper is what type of change?", options:["Chemical change","Physical change","No change","Both equally"], answer:1},
      {q:"Burning wood is what type of change?", options:["Physical change","Chemical change","No change","Neither"], answer:1},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a physical change?", options:["Rusting metal","Melting ice","Burning paper","Baking a cake"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship and Identity", summary:"Canadian identity is shaped by diverse cultures, languages, and experiences, and citizens have both rights and responsibilities.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Canadian Citizenship and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20and%20Identity%20grade%205%20educational",
    quiz:[
      {q:"Canada is often described as a country with...", options:["Only one culture","Many diverse cultures and languages","No diversity at all","A single religion"], answer:1},
      {q:"A right of Canadian citizens includes...", options:["The right to vote","The right to ignore all laws","No rights at all","Only the right to travel"], answer:0},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Fact vs. Opinion", summary:"A fact can be proven true or false; an opinion is a personal belief or feeling.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Fact vs. Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Fact%20vs.%20Opinion%20grade%205%20educational",
    quiz:[
      {q:"'Toronto is a city in Ontario.' is a...", options:["Fact","Opinion","Neither","Both"], answer:0},
      {q:"'Pizza is the best food.' is a...", options:["Fact","Opinion","Neither","Both"], answer:1},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"'Water boils at 100°C at sea level.' is a...", options:["Opinion","Fact","Neither","A guess only"], answer:1},
    ]},
   {subject:"Math", title:"Multiplying and Dividing Decimals", summary:"Multiply and divide decimal numbers, paying attention to place value and the decimal point.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Multiplying and Dividing Decimals", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20and%20Dividing%20Decimals%20grade%205%20educational",
    quiz:[
      {q:"0.5 × 4 = ?", options:["1.5","2.0","2.5","4.5"], answer:1},
      {q:"3.6 ÷ 4 = ?", options:["0.8","0.9","1.0","1.2"], answer:1},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"2.5 × 2 = ?", options:["4.5","5.0","5.5","4.0"], answer:1},
    ]},
   {subject:"Science", title:"Human Body Systems Overview", summary:"Ontario Grade 5 Life Systems strand: the digestive, respiratory, circulatory, and skeletal-muscular systems work together to keep us alive and moving.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Human Body Systems Overview", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20Overview%20grade%205%20educational",
    quiz:[
      {q:"The digestive system's main job is to...", options:["Pump blood","Break down food for energy and nutrients","Filter air","Move bones"], answer:1},
      {q:"The respiratory system's main job is to...", options:["Bring oxygen in and remove carbon dioxide","Digest food","Pump blood","Protect organs"], answer:0},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"The skeletal system's main job is to...", options:["Digest food","Support and protect the body","Pump blood","Filter air"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Natural Resources Across Canada's Regions", summary:"Different regions of Canada have different natural resources (like forests, minerals, fish, and farmland) that shape how people live and work there.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Natural Resources Across Canada's Regions", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20Across%20Canada%27s%20Regions%20grade%205%20educational",
    quiz:[
      {q:"Which natural resource is associated with the Atlantic provinces?", options:["Fish/seafood","Desert sand","Tropical fruit","Oil sands only"], answer:0},
      {q:"The Prairie provinces are known for producing...", options:["Wheat and other grains","Only fish","Only minerals","Tropical crops"], answer:0},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Figurative Language", summary:"Figurative language includes similes (using 'like' or 'as'), metaphors, and personification, used to make writing more vivid.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Figurative Language", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%20grade%205%20educational",
    quiz:[
      {q:"'Her smile was as bright as the sun' is an example of a...", options:["Simile","Metaphor","Fact","Question"], answer:0},
      {q:"'Time is a thief' is an example of a...", options:["Simile","Metaphor","Fact","Question"], answer:1},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"A simile typically uses the word...", options:["Like or as","Because","However","Therefore"], answer:0},
    ]},
   {subject:"Math", title:"Area and Perimeter", summary:"Perimeter is the distance around a shape; area is the space inside a shape, measured in square units.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Area and Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%205%20educational",
    quiz:[
      {q:"What is the perimeter of a rectangle with sides 5 cm and 3 cm?", options:["15 cm","16 cm","8 cm","13 cm"], answer:1},
      {q:"What is the area of a rectangle with sides 4 cm and 6 cm?", options:["10 cm²","20 cm²","24 cm²","22 cm²"], answer:2},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"What is the area of a square with side length 5 cm?", options:["10 cm²","20 cm²","25 cm²","15 cm²"], answer:2},
    ]},
   {subject:"Science", title:"Energy Sources and Transformations", summary:"Energy can come from many sources and can be transformed from one form to another, like electrical energy becoming light or heat.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Energy Sources and Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20Sources%20and%20Transformations%20grade%205%20educational",
    quiz:[
      {q:"A light bulb transforms electrical energy into...", options:["Light and heat energy","Sound energy only","Mechanical energy only","Nothing"], answer:0},
      {q:"A toaster transforms electrical energy into...", options:["Heat energy","Sound energy","Light energy only","Chemical energy only"], answer:0},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"Solar panels transform sunlight into...", options:["Electrical energy","Sound energy","Chemical energy only","Nothing useful"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Map Skills: Latitude and Longitude", summary:"Lines of latitude and longitude form a grid that helps us pinpoint exact locations on Earth.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Map Skills: Latitude and Longitude", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Skills%3A%20Latitude%20and%20Longitude%20grade%205%20educational",
    quiz:[
      {q:"Lines of latitude run...", options:["North to south","East to west (horizontally)","Diagonally only","Nowhere specific"], answer:1},
      {q:"Lines of longitude run...", options:["East to west","North to south (vertically)","Diagonally only","Nowhere specific"], answer:1},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Paragraph Structure", summary:"A strong paragraph has a topic sentence, supporting details, and a concluding sentence.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Paragraph Structure", resourceUrl:"https://www.youtube.com/results?search_query=Paragraph%20Structure%20grade%205%20educational",
    quiz:[
      {q:"What is a topic sentence?", options:["The last sentence only","The sentence that introduces the main idea","A random fact","A question only"], answer:1},
      {q:"Supporting details in a paragraph...", options:["Explain or back up the main idea","Have nothing to do with the topic","Replace the topic sentence","Are always questions"], answer:0},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"A well-organized paragraph helps the reader...", options:["Get confused","Understand ideas clearly","Skip the text","Nothing in particular"], answer:1},
    ]},
   {subject:"Math", title:"Introduction to Volume", summary:"Volume measures how much space a 3D object takes up, measured in cubic units.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Introduction to Volume", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Volume%20grade%205%20educational",
    quiz:[
      {q:"Volume is measured in...", options:["Square units","Cubic units","Linear units","No units"], answer:1},
      {q:"What is the volume of a box that is 2 cm × 3 cm × 4 cm?", options:["9 cm³","24 cm³","20 cm³","14 cm³"], answer:1},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"To find the volume of a rectangular prism, you multiply...", options:["Length only","Length × width","Length × width × height","Width × height only"], answer:2},
    ]},
   {subject:"Science", title:"Review: Human Body and Energy", summary:"Recap of body systems and how they work together, plus energy transformations.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Review: Human Body and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Human%20Body%20and%20Energy%20grade%205%20educational",
    quiz:[
      {q:"Which system carries oxygen through the body?", options:["Digestive system","Circulatory system","Skeletal system","None"], answer:1},
      {q:"Which organ is part of the respiratory system?", options:["Lungs","Stomach","Heart","Liver"], answer:0},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a non-renewable energy source?", options:["Wind","Coal","Solar","Hydro"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Government Branches", summary:"Canada's government has three branches: legislative (makes laws), executive (carries out laws), and judicial (interprets laws).",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Canada's Government Branches", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Government%20Branches%20grade%205%20educational",
    quiz:[
      {q:"Which branch of government makes laws?", options:["Legislative","Executive","Judicial","None"], answer:0},
      {q:"Which branch interprets and applies laws, like the courts?", options:["Legislative","Executive","Judicial","None"], answer:2},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of parts of speech, fact/opinion, figurative language, and paragraph structure.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%205%20educational",
    quiz:[
      {q:"'The stars danced in the sky' is an example of...", options:["A fact","Personification","A question","A topic sentence only"], answer:1},
      {q:"'Maple syrup comes from maple trees' is a...", options:["Fact","Opinion","Neither","Both"], answer:0},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"A simile typically compares using...", options:["Like or as","Because","However","Therefore"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of fractions, decimals, area/perimeter, and volume.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%205%20educational",
    quiz:[
      {q:"1/2 + 1/4 is closest in idea to which fraction fact?", options:["2/4 + 1/4 = 3/4","1/2 + 1/2 = 1","1/4 + 1/4 = 1/2","2/2 = 1"], answer:0},
      {q:"What is 0.25 as a fraction?", options:["1/4","1/2","1/5","2/5"], answer:0},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"6 × 7 = ?", options:["36","42","48","49"], answer:1},
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of structures, matter, energy, and the human body.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%205%20educational",
    quiz:[
      {q:"Compression is a force that...", options:["Pulls apart","Pushes together","Has no effect","Only affects gases"], answer:1},
      {q:"Melting ice is an example of a...", options:["Chemical change","Physical change","No change","Both equally"], answer:1},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Mass measures the amount of...", options:["Matter in an object","Space an object takes up","Sound an object makes","Colour of an object"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of early Canada, Indigenous peoples, government, and physical regions.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%205%20educational",
    quiz:[
      {q:"Which three groups make up Indigenous peoples in Canada?", options:["First Nations, Métis, Inuit","Settlers, Explorers, Pioneers","Only First Nations","Only Inuit"], answer:0},
      {q:"Which branch of government makes laws?", options:["Legislative","Executive","Judicial","None"], answer:0},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Idioms and Expressions", summary:"An idiom is a phrase whose meaning is different from the literal meaning of the words, like 'break the ice.'",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Idioms and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Idioms%20and%20Expressions%20grade%205%20educational",
    quiz:[
      {q:"What is an idiom?", options:["A phrase with a meaning different from its literal words","A type of punctuation","A grammar rule","A spelling pattern"], answer:0},
      {q:"'It's raining cats and dogs' means...", options:["Animals are falling from the sky","It is raining very heavily","It is sunny outside","Nothing at all"], answer:1},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"Why do writers use idioms?", options:["To confuse readers on purpose","To add colourful, familiar expressions to language","Idioms are never used","To follow spelling rules"], answer:1},
    ]},
   {subject:"Math", title:"Prime and Composite Numbers", summary:"A prime number has exactly two factors (1 and itself); a composite number has more than two factors.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Prime and Composite Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Prime%20and%20Composite%20Numbers%20grade%205%20educational",
    quiz:[
      {q:"Which number is prime?", options:["9","12","7","15"], answer:2},
      {q:"Which number is composite?", options:["2","3","5","8"], answer:3},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these is the only even prime number?", options:["4","2","6","8"], answer:1},
    ]},
   {subject:"Science", title:"Simple and Complex Machines", summary:"Simple machines (like levers, pulleys, and ramps) make work easier; complex machines combine two or more simple machines.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Simple and Complex Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%205%20educational",
    quiz:[
      {q:"A lever is an example of a...", options:["Complex machine","Simple machine","Living thing","Chemical reaction"], answer:1},
      {q:"A pulley helps to...", options:["Change the direction of a force to lift objects","Cook food","Produce light","Filter water"], answer:0},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Which is NOT typically considered a simple machine?", options:["Wheel and axle","Lever","Computer","Pulley"], answer:2},
    ]},
   {subject:"SocialStudies", title:"The Fur Trade and the Economy of New France", summary:"The fur trade was central to the economy of New France, connecting French settlers and First Nations through trade networks and alliances.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: The Fur Trade and the Economy of New France", resourceUrl:"https://www.youtube.com/results?search_query=The%20Fur%20Trade%20and%20the%20Economy%20of%20New%20France%20grade%205%20educational",
    quiz:[
      {q:"What was the most valuable resource traded in the fur trade?", options:["Gold","Beaver pelts","Corn","Silver"], answer:1},
      {q:"Who were essential partners with the French in the fur trade?", options:["First Nations peoples","Only other Europeans","No one","Spanish settlers"], answer:0},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Multiple-Meaning Words", summary:"Some words have more than one meaning, and you must use context to figure out which meaning is intended.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Multiple-Meaning Words", resourceUrl:"https://www.youtube.com/results?search_query=Multiple-Meaning%20Words%20grade%205%20educational",
    quiz:[
      {q:"In 'She sat on the river bank,' what does 'bank' mean?", options:["A place to store money","The land alongside a river","A type of fish","A computer term"], answer:1},
      {q:"In 'I will bank my paycheque,' what does 'bank' mean?", options:["To deposit money at a financial institution","The edge of a river","A type of bird","A school subject"], answer:0},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"What strategy helps you choose the correct meaning of a multiple-meaning word?", options:["Skipping the sentence","Using context clues","Guessing randomly","Ignoring the word"], answer:1},
    ]},
   {subject:"Math", title:"Factors and Multiples", summary:"A factor divides evenly into a number; a multiple is the product of a number and any whole number.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Factors and Multiples", resourceUrl:"https://www.youtube.com/results?search_query=Factors%20and%20Multiples%20grade%205%20educational",
    quiz:[
      {q:"Which is a factor of 12?", options:["5","4","7","9"], answer:1},
      {q:"Which is a multiple of 6?", options:["16","20","24","28"], answer:2},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"Which number is a factor of both 8 and 12?", options:["3","4","6","5"], answer:1},
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"The water cycle describes how water moves through evaporation, condensation, precipitation, and collection.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%205%20educational",
    quiz:[
      {q:"Evaporation is when water...", options:["Turns into vapour and rises into the air","Falls as rain","Freezes solid","Disappears forever"], answer:0},
      {q:"Condensation is when water vapour...", options:["Turns into liquid droplets, like clouds","Evaporates","Falls as snow only","Disappears"], answer:0},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Collection in the water cycle refers to water gathering in...", options:["Oceans, lakes, and rivers","Outer space","The sun","Nowhere"], answer:0},
    ]},
   {subject:"SocialStudies", title:"The Underground Railroad and Canada", summary:"The Underground Railroad was a secret network that helped enslaved people from the United States reach freedom in Canada in the 1800s.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: The Underground Railroad and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Underground%20Railroad%20and%20Canada%20grade%205%20educational",
    quiz:[
      {q:"What was the Underground Railroad?", options:["An actual railway underground","A secret network of routes and safe houses to freedom","A type of subway in Canada","A modern transit system"], answer:1},
      {q:"Where did many people travelling the Underground Railroad seek freedom?", options:["Mexico","Canada","France","Australia"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Author's Purpose", summary:"Authors write to persuade, inform, or entertain — and sometimes a combination of these purposes.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Author's Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Author%27s%20Purpose%20grade%205%20educational",
    quiz:[
      {q:"A recipe is written mainly to...", options:["Persuade","Inform","Entertain","Confuse"], answer:1},
      {q:"A funny short story is written mainly to...", options:["Inform","Persuade","Entertain","Argue"], answer:2},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"Identifying an author's purpose helps readers...", options:["Understand why the text was written","Ignore the text","Skip reading","Find spelling errors only"], answer:0},
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"BEDMAS tells you the order to solve expressions: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Order of Operations (BEDMAS)", resourceUrl:"https://www.youtube.com/results?search_query=Order%20of%20Operations%20%28BEDMAS%29%20grade%205%20educational",
    quiz:[
      {q:"What does the 'B' in BEDMAS stand for?", options:["Brackets","Base","Both","Big numbers"], answer:0},
      {q:"Solve: 3 + 4 × 2 = ?", options:["14","11","10","8"], answer:1},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 10 - 2 × 3 = ?", options:["4","24","8","6"], answer:0},
    ]},
   {subject:"Science", title:"Weather Patterns and Instruments", summary:"Weather instruments like thermometers, barometers, and anemometers help us measure and predict weather patterns.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Weather Patterns and Instruments", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20and%20Instruments%20grade%205%20educational",
    quiz:[
      {q:"A thermometer measures...", options:["Wind speed","Temperature","Air pressure","Rainfall"], answer:1},
      {q:"An anemometer measures...", options:["Wind speed","Temperature","Humidity","Light"], answer:0},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Why do meteorologists track weather patterns?", options:["To predict future weather","To change the weather","For no reason","To slow down storms"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Immigration Patterns to Canada", summary:"People have immigrated to Canada from around the world for different reasons, shaping Canada's population and culture over time.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Immigration Patterns to Canada", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20Patterns%20to%20Canada%20grade%205%20educational",
    quiz:[
      {q:"What is immigration?", options:["Moving to a new country to live","Staying in one place forever","Visiting a country briefly","Studying geography"], answer:0},
      {q:"What is one common reason people immigrate to Canada?", options:["To find new opportunities or safety","To avoid all change","There is never a reason","Random chance only"], answer:0},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Summarizing a Text", summary:"A summary briefly retells the most important ideas of a text in your own words, without unnecessary details.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Summarizing a Text", resourceUrl:"https://www.youtube.com/results?search_query=Summarizing%20a%20Text%20grade%205%20educational",
    quiz:[
      {q:"A good summary should be...", options:["Longer than the original text","Short and include only the main ideas","Exactly the same as the original","Full of unimportant details"], answer:1},
      {q:"When summarizing, you should use...", options:["The exact same wording as the original","Your own words","No words at all","Only quotes"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"A summary of a story should include...", options:["The main characters and key events","Every line of dialogue","Random unrelated facts","Nothing about the plot"], answer:0},
    ]},
   {subject:"Math", title:"Mixed Numbers and Improper Fractions", summary:"A mixed number combines a whole number and a fraction; an improper fraction has a numerator larger than its denominator.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Mixed Numbers and Improper Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Mixed%20Numbers%20and%20Improper%20Fractions%20grade%205%20educational",
    quiz:[
      {q:"Which is a mixed number?", options:["3/4","2 1/2","7/3","5/5"], answer:1},
      {q:"Convert 7/2 to a mixed number.", options:["3 1/2","2 1/2","3 1/3","2 1/3"], answer:0},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"Convert 3 1/4 to an improper fraction.", options:["13/4","12/4","11/4","14/4"], answer:0},
    ]},
   {subject:"Science", title:"Classification of Living Things", summary:"Scientists classify living things into groups based on shared characteristics, such as plants, animals, and other kingdoms.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Classification of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Classification%20of%20Living%20Things%20grade%205%20educational",
    quiz:[
      {q:"Why do scientists classify living things?", options:["To organize and understand relationships between organisms","To make things confusing","There is no reason","To eliminate species"], answer:0},
      {q:"Which is a major group (kingdom) of living things?", options:["Animals","Rocks","Furniture","Weather"], answer:0},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of an invertebrate?", options:["Dog","Snake","Earthworm","Bird"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Multiculturalism in Canada", summary:"Canada's Multiculturalism Policy recognizes and celebrates the diversity of cultures, languages, and traditions across the country.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Multiculturalism in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20in%20Canada%20grade%205%20educational",
    quiz:[
      {q:"What is multiculturalism?", options:["The recognition and celebration of many cultures within one society","Having only one culture","Ignoring all cultures","A type of government branch"], answer:0},
      {q:"Canada officially adopted a Multiculturalism Policy to...", options:["Encourage cultural diversity and inclusion","Eliminate cultural diversity","Require one official culture","Ban festivals"], answer:0},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Idioms, Word Meanings, and Purpose", summary:"Mixed review of idioms, multiple-meaning words, author's purpose, and summarizing.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Review: Idioms, Word Meanings, and Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Idioms%2C%20Word%20Meanings%2C%20and%20Purpose%20grade%205%20educational",
    quiz:[
      {q:"'Break the ice' means to...", options:["Literally break ice","Start a conversation in an awkward situation","Go skating","Feel cold"], answer:1},
      {q:"In 'She sat on the river bank,' 'bank' means...", options:["A financial institution","The land alongside a river","A type of fish","A computer term"], answer:1},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"'Hit the books' means to...", options:["Study hard","Throw books","Buy books","Stack books"], answer:0},
    ]},
   {subject:"Math", title:"Review: Numbers, Operations, and Fractions", summary:"Mixed review of prime/composite numbers, factors/multiples, BEDMAS, and mixed numbers.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Review: Numbers, Operations, and Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Operations%2C%20and%20Fractions%20grade%205%20educational",
    quiz:[
      {q:"Which number is prime?", options:["9","11","12","15"], answer:1},
      {q:"Which is a multiple of 5?", options:["22","25","28","32"], answer:1},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"Which number is composite?", options:["7","13","14","17"], answer:2},
    ]},
   {subject:"Science", title:"Review: Machines, Water Cycle, and Classification", summary:"Mixed review of simple machines, the water cycle, and classifying living things.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Review: Machines, Water Cycle, and Classification", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Machines%2C%20Water%20Cycle%2C%20and%20Classification%20grade%205%20educational",
    quiz:[
      {q:"A lever is an example of a...", options:["Complex machine","Simple machine","Chemical reaction","Living thing"], answer:1},
      {q:"Evaporation is when water...", options:["Turns into vapour and rises","Falls as rain","Freezes","Disappears forever"], answer:0},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"A pulley helps to...", options:["Change the direction of a force","Cook food","Filter water","Produce light"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Fur Trade, Underground Railroad, and Immigration", summary:"Mixed review of the fur trade economy, the Underground Railroad, immigration, and multiculturalism.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Review: Fur Trade, Underground Railroad, and Immigration", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fur%20Trade%2C%20Underground%20Railroad%2C%20and%20Immigration%20grade%205%20educational",
    quiz:[
      {q:"What was the most valuable resource in the fur trade?", options:["Gold","Beaver pelts","Corn","Silver"], answer:1},
      {q:"What was the Underground Railroad?", options:["An actual railway underground","A secret network of routes to freedom","A subway system","A type of ship"], answer:1},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Making Inferences", summary:"An inference is a conclusion you draw by combining clues from the text with what you already know.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Making Inferences", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Inferences%20grade%205%20educational",
    quiz:[
      {q:"What is an inference?", options:["A fact stated directly in the text","A conclusion drawn from clues and prior knowledge","A type of punctuation","A summary of a text"], answer:1},
      {q:"If a character is shivering and their teeth are chattering, you can infer that they are...", options:["Happy","Cold","Hungry","Tired"], answer:1},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"Why are inferences useful when reading?", options:["They help you understand ideas the author doesn't state directly","They replace the need to read","They are always wrong","They only apply to nonfiction"], answer:0},
    ]},
   {subject:"Math", title:"Multiplying Fractions by Whole Numbers", summary:"To multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator the same.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Multiplying Fractions by Whole Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Fractions%20by%20Whole%20Numbers%20grade%205%20educational",
    quiz:[
      {q:"3 × 1/4 = ?", options:["3/4","1/12","4/3","3/12"], answer:0},
      {q:"2 × 2/5 = ?", options:["4/10","2/10","4/5","2/5"], answer:2},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"What is 6 × 1/2?", options:["3","6/2","12","1/12"], answer:0},
    ]},
   {subject:"Science", title:"Light and Reflection", summary:"Light travels in straight lines and reflects off surfaces, which is how we see objects and images in mirrors.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Light and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Reflection%20grade%205%20educational",
    quiz:[
      {q:"Light travels in...", options:["Curved paths only","Straight lines","Circles only","It doesn't move"], answer:1},
      {q:"Reflection happens when light...", options:["Bounces off a surface","Disappears","Is absorbed completely","Turns into sound"], answer:0},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"Why does a straw look bent in a glass of water?", options:["The straw actually bends","Light refracts as it passes from air into water","The glass is broken","Light reflects only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Territories", summary:"Canada has three territories — Yukon, Northwest Territories, and Nunavut — located in the north, each with unique geography and peoples.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Canada's Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Territories%20grade%205%20educational",
    quiz:[
      {q:"How many territories does Canada have?", options:["Two","Three","Four","Five"], answer:1},
      {q:"Which of these is one of Canada's territories?", options:["Nunavut","Alberta","Manitoba","Quebec"], answer:0},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Text Features in Nonfiction", summary:"Nonfiction texts use features like headings, captions, bold text, and diagrams to help organize information and aid understanding.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Text Features in Nonfiction", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%20in%20Nonfiction%20grade%205%20educational",
    quiz:[
      {q:"What is the purpose of a heading in a nonfiction text?", options:["To introduce the topic of a section","To decorate the page","To replace the text","To confuse the reader"], answer:0},
      {q:"A caption usually appears...", options:["At the very end of a book only","Below or beside an image, explaining it","In the title only","Nowhere in particular"], answer:1},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Why are text features useful in nonfiction?", options:["They help organize and clarify information","They have no real purpose","They are only used in fiction","They replace the need for reading"], answer:0},
    ]},
   {subject:"Math", title:"Ratios", summary:"A ratio compares two quantities, showing how much of one thing there is compared to another.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20grade%205%20educational",
    quiz:[
      {q:"If there are 3 red apples and 2 green apples, the ratio of red to green is...", options:["2:3","3:2","5:1","1:5"], answer:1},
      {q:"A ratio compares...", options:["Two quantities","Only one quantity","Shapes only","Time only"], answer:0},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"In a class of 10 students with 6 girls and 4 boys, the ratio of girls to boys is...", options:["4:6","6:4","10:6","6:10"], answer:1},
    ]},
   {subject:"Science", title:"Sound and Vibration", summary:"Sound is produced by vibrations that travel through a medium like air, water, or solids, reaching our ears as sound waves.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Sound and Vibration", resourceUrl:"https://www.youtube.com/results?search_query=Sound%20and%20Vibration%20grade%205%20educational",
    quiz:[
      {q:"Sound is produced by...", options:["Vibrations","Light only","Magnetism","Gravity"], answer:0},
      {q:"Sound travels through...", options:["Air, water, and solids","Only air","Only a vacuum","Nothing at all"], answer:0},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Sound cannot travel through...", options:["A vacuum (empty space)","Air","Water","Solid objects"], answer:0},
    ]},
   {subject:"SocialStudies", title:"The Arctic: Geography and Peoples", summary:"The Arctic region of Canada has a unique cold climate, tundra landscape, and is home to Inuit communities with rich traditions.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: The Arctic: Geography and Peoples", resourceUrl:"https://www.youtube.com/results?search_query=The%20Arctic%3A%20Geography%20and%20Peoples%20grade%205%20educational",
    quiz:[
      {q:"The Arctic region's landscape is mostly described as...", options:["Tropical rainforest","Tundra","Desert sand dunes","Dense farmland"], answer:1},
      {q:"Which Indigenous peoples have traditionally lived in the Arctic?", options:["Inuit","Métis only","Only First Nations from the south","No one"], answer:0},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Writing a Persuasive Paragraph", summary:"A persuasive paragraph states an opinion and supports it with convincing reasons and evidence.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Writing a Persuasive Paragraph", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Persuasive%20Paragraph%20grade%205%20educational",
    quiz:[
      {q:"A persuasive paragraph aims to...", options:["Convince the reader of an opinion","Only tell a story","List random facts","Confuse the reader"], answer:0},
      {q:"Which sentence is persuasive?", options:["The sky is blue.","Schools should have longer recess because it helps students focus.","It rained yesterday.","The book has 200 pages."], answer:1},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"Why is evidence important in persuasive writing?", options:["It makes the argument more convincing","It has no effect","It confuses the reader","It is never needed"], answer:0},
    ]},
   {subject:"Math", title:"Coordinate Grids", summary:"A coordinate grid uses an x-axis and y-axis to locate points using ordered pairs (x, y) in the first quadrant.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Coordinate Grids", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Grids%20grade%205%20educational",
    quiz:[
      {q:"In the ordered pair (3, 5), which number tells you how far to move horizontally?", options:["3","5","Both equally","Neither"], answer:0},
      {q:"In the ordered pair (3, 5), which number tells you how far to move vertically?", options:["3","5","Both equally","Neither"], answer:1},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"Which ordered pair would be plotted furthest to the right on a coordinate grid?", options:["(1, 8)","(2, 1)","(7, 2)","(0, 9)"], answer:2},
    ]},
   {subject:"Science", title:"The Rock Cycle", summary:"Rocks change form over time through the rock cycle, moving between igneous, sedimentary, and metamorphic types.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: The Rock Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20grade%205%20educational",
    quiz:[
      {q:"Igneous rock forms from...", options:["Cooled, hardened magma or lava","Compressed sand","Melted ice","Pure water"], answer:0},
      {q:"Sedimentary rock forms from...", options:["Layers of sediment pressed together over time","Cooled lava only","Melted rock","Pure air"], answer:0},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of an igneous rock?", options:["Granite","Sandstone","Limestone","Shale"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Comparing Canada's Provinces", summary:"Canada's provinces each have their own capital cities, geography, and key features that make them unique.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Comparing Canada's Provinces", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Canada%27s%20Provinces%20grade%205%20educational",
    quiz:[
      {q:"What is the capital city of Ontario?", options:["Toronto","Ottawa","Hamilton","London"], answer:0},
      {q:"What is the capital city of Canada (the whole country)?", options:["Toronto","Ottawa","Montreal","Vancouver"], answer:1},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Dialogue and Quotation Marks", summary:"Quotation marks show exactly what a character says, and dialogue helps bring characters and stories to life.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Dialogue and Quotation Marks", resourceUrl:"https://www.youtube.com/results?search_query=Dialogue%20and%20Quotation%20Marks%20grade%205%20educational",
    quiz:[
      {q:"Quotation marks are used to show...", options:["A character's exact spoken words","A math equation","A title only","A page number"], answer:0},
      {q:"Which sentence correctly uses quotation marks?", options:["She said, I am tired.","She said, \"I am tired.\"","She said \"I am tired\"","She said: I am, tired."], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Dialogue helps readers...", options:["Understand characters and move the story forward","Skip important details","Get confused on purpose","Avoid characters entirely"], answer:0},
    ]},
   {subject:"Math", title:"Angles", summary:"Angles are measured in degrees and classified as acute (less than 90°), right (exactly 90°), or obtuse (more than 90° but less than 180°).",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Angles", resourceUrl:"https://www.youtube.com/results?search_query=Angles%20grade%205%20educational",
    quiz:[
      {q:"A right angle measures...", options:["45°","90°","180°","360°"], answer:1},
      {q:"An acute angle measures...", options:["Exactly 90°","Less than 90°","More than 90° but less than 180°","Exactly 180°"], answer:1},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"A 120° angle is classified as...", options:["Acute","Right","Obtuse","Straight"], answer:2},
    ]},
   {subject:"Science", title:"States of Matter and the Particle Model", summary:"Matter exists as solid, liquid, or gas, and the particle model explains how tightly particles are packed and how they move in each state.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: States of Matter and the Particle Model", resourceUrl:"https://www.youtube.com/results?search_query=States%20of%20Matter%20and%20the%20Particle%20Model%20grade%205%20educational",
    quiz:[
      {q:"In a solid, particles are...", options:["Tightly packed and barely moving","Spread far apart","Not present at all","Moving extremely fast and freely"], answer:0},
      {q:"In a gas, particles are...", options:["Tightly packed","Spread far apart and moving freely","Frozen in place","Not moving at all"], answer:1},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"The particle model helps explain...", options:["How particles behave in different states of matter","Only colours of objects","Only the weight of objects","Nothing about matter"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Rights and Freedoms in Canada", summary:"The Canadian Charter of Rights and Freedoms protects basic rights like freedom of expression, equality, and democratic rights for all Canadians.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Rights and Freedoms in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20and%20Freedoms%20in%20Canada%20grade%205%20educational",
    quiz:[
      {q:"What is the Canadian Charter of Rights and Freedoms?", options:["A document that protects basic rights and freedoms of Canadians","A type of map","A list of provinces","A sports league rulebook"], answer:0},
      {q:"Which is an example of a right protected in Canada?", options:["Freedom of expression","The right to ignore all laws","The right to break rules freely","No rights are protected"], answer:0},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Inferences, Text Features, and Persuasion", summary:"Mixed review of making inferences, nonfiction text features, persuasive writing, and dialogue.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Review: Inferences, Text Features, and Persuasion", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Inferences%2C%20Text%20Features%2C%20and%20Persuasion%20grade%205%20educational",
    quiz:[
      {q:"What is an inference?", options:["A fact stated directly","A conclusion drawn from clues and knowledge","A type of punctuation","A summary"], answer:1},
      {q:"What is the purpose of a heading in nonfiction?", options:["To introduce a section's topic","To decorate the page","To replace text","To confuse readers"], answer:0},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"If a character is shivering, you can infer they are...", options:["Happy","Cold","Hungry","Excited"], answer:1},
    ]},
   {subject:"Math", title:"Review: Fractions, Ratios, Grids, and Angles", summary:"Mixed review of multiplying fractions, ratios, coordinate grids, and angles.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Review: Fractions, Ratios, Grids, and Angles", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fractions%2C%20Ratios%2C%20Grids%2C%20and%20Angles%20grade%205%20educational",
    quiz:[
      {q:"3 × 1/4 = ?", options:["3/4","1/12","4/3","3/12"], answer:0},
      {q:"The ratio 4:8 simplifies to...", options:["1:2","2:1","4:1","1:4"], answer:0},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"An obtuse angle measures...", options:["Less than 90°","Exactly 90°","Between 90° and 180°","Exactly 360°"], answer:2},
    ]},
   {subject:"Science", title:"Review: Light, Sound, Rocks, and Matter", summary:"Mixed review of light and reflection, sound and vibration, the rock cycle, and states of matter.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Review: Light, Sound, Rocks, and Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Light%2C%20Sound%2C%20Rocks%2C%20and%20Matter%20grade%205%20educational",
    quiz:[
      {q:"Reflection happens when light...", options:["Bounces off a surface","Disappears","Turns into sound","Is absorbed completely"], answer:0},
      {q:"Sound is produced by...", options:["Vibrations","Light","Magnetism","Gravity"], answer:0},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"Pitch refers to...", options:["How high or low a sound is","How loud a sound is","The colour of sound","The speed of light"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Territories, the Arctic, Provinces, and Rights", summary:"Mixed review of Canada's territories, the Arctic, comparing provinces, and rights and freedoms.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Review: Territories, the Arctic, Provinces, and Rights", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Territories%2C%20the%20Arctic%2C%20Provinces%2C%20and%20Rights%20grade%205%20educational",
    quiz:[
      {q:"How many territories does Canada have?", options:["Two","Three","Four","Five"], answer:1},
      {q:"The Arctic region's landscape is mostly described as...", options:["Tropical rainforest","Tundra","Desert","Farmland"], answer:1},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Descriptive Writing with Sensory Details", summary:"Descriptive writing uses sensory details — sight, sound, smell, taste, and touch — to help readers picture a scene vividly.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Descriptive Writing with Sensory Details", resourceUrl:"https://www.youtube.com/results?search_query=Descriptive%20Writing%20with%20Sensory%20Details%20grade%205%20educational",
    quiz:[
      {q:"Sensory details appeal to...", options:["The five senses","Only sight","Only sound","Grammar rules"], answer:0},
      {q:"Which sentence uses a sensory detail?", options:["The cake was good.","The warm, gooey chocolate cake melted in my mouth.","I ate cake.","Cake is a dessert."], answer:1},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Why do writers include sensory details?", options:["To make writing more vivid and engaging","To confuse the reader","To shorten the story","To remove imagery"], answer:0},
    ]},
   {subject:"Math", title:"Probability", summary:"Probability describes how likely an event is to happen, using terms like impossible, unlikely, likely, and certain.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20grade%205%20educational",
    quiz:[
      {q:"If an event will definitely happen, it is described as...", options:["Impossible","Unlikely","Certain","Likely only sometimes"], answer:2},
      {q:"Rolling a 7 on a standard six-sided die is...", options:["Certain","Likely","Unlikely","Impossible"], answer:3},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"Probability is used to describe...", options:["How likely an event is to occur","The size of an object","The colour of an object","The weight of an object"], answer:0},
    ]},
   {subject:"Science", title:"Simple Electrical Circuits", summary:"A simple electrical circuit needs a power source, a conductor, and a closed path for electricity to flow and power things like a light bulb.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Simple Electrical Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Electrical%20Circuits%20grade%205%20educational",
    quiz:[
      {q:"What does a simple circuit need to work?", options:["A closed, complete path for electricity","An open path only","No power source","Only light"], answer:0},
      {q:"A conductor is a material that...", options:["Allows electricity to flow through it easily","Blocks all electricity","Produces light only","Has no effect on electricity"], answer:0},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"In a simple circuit, a switch is used to...", options:["Open or close the circuit, turning it on or off","Make the circuit colourful","Increase the voltage permanently","Has no real purpose"], answer:0},
    ]},
   {subject:"SocialStudies", title:"The Importance of Voting and Elections", summary:"Voting in elections lets citizens choose their representatives and have a say in decisions that affect their communities and country.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: The Importance of Voting and Elections", resourceUrl:"https://www.youtube.com/results?search_query=The%20Importance%20of%20Voting%20and%20Elections%20grade%205%20educational",
    quiz:[
      {q:"Why is voting important in a democracy?", options:["It lets citizens choose their representatives","It has no real impact","Only leaders can vote","It is optional and meaningless"], answer:0},
      {q:"In Canada, citizens vote to elect representatives at which levels?", options:["Federal, provincial, and municipal","Only federal","Only municipal","Only provincial"], answer:0},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Point of View: First vs. Third Person", summary:"First-person narration uses 'I' and 'we'; third-person narration uses 'he,' 'she,' or 'they' to tell the story.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Point of View: First vs. Third Person", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%3A%20First%20vs.%20Third%20Person%20grade%205%20educational",
    quiz:[
      {q:"A story told using 'I' and 'we' is written in...", options:["First person","Third person","Second person","No person"], answer:0},
      {q:"A story told using 'he,' 'she,' or 'they' is written in...", options:["First person","Third person","Second person","No person"], answer:1},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Why might an author choose first-person point of view?", options:["To let readers experience the story through one character's thoughts directly","To avoid using pronouns","To make the story shorter","To remove all characters"], answer:0},
    ]},
   {subject:"Math", title:"2D Shape Properties and Symmetry", summary:"Polygons can be classified by their sides and angles, and a shape has symmetry if it can be divided into matching mirror-image parts.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: 2D Shape Properties and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shape%20Properties%20and%20Symmetry%20grade%205%20educational",
    quiz:[
      {q:"A polygon with 5 sides is called a...", options:["Hexagon","Pentagon","Octagon","Quadrilateral"], answer:1},
      {q:"A shape has line symmetry if...", options:["It can be folded in half to create two matching halves","It has no sides","It only has curves","It cannot be divided"], answer:0},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"Which shape has exactly 4 sides?", options:["Triangle","Quadrilateral","Pentagon","Hexagon"], answer:1},
    ]},
   {subject:"Science", title:"The Digestive System in Depth", summary:"The digestive system breaks down food step by step through the mouth, esophagus, stomach, small intestine, and large intestine.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: The Digestive System in Depth", resourceUrl:"https://www.youtube.com/results?search_query=The%20Digestive%20System%20in%20Depth%20grade%205%20educational",
    quiz:[
      {q:"Digestion begins in the...", options:["Stomach","Mouth","Small intestine","Large intestine"], answer:1},
      {q:"The esophagus is a tube that...", options:["Carries food from the mouth to the stomach","Pumps blood","Filters air","Stores waste only"], answer:0},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"The large intestine's main job is to...", options:["Absorb water and form solid waste","Begin digestion","Pump blood","Filter air"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Geography of the Great Lakes", summary:"The Great Lakes — Superior, Michigan, Huron, Erie, and Ontario — form a major freshwater system shared between Canada and the United States.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Geography of the Great Lakes", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20the%20Great%20Lakes%20grade%205%20educational",
    quiz:[
      {q:"How many Great Lakes are there?", options:["Three","Four","Five","Six"], answer:2},
      {q:"The Great Lakes are shared between Canada and...", options:["The United States","Mexico","France","No other country"], answer:0},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Using Transition Words", summary:"Transition words like 'first,' 'next,' 'however,' and 'finally' help connect ideas and guide the reader through a text.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Using Transition Words", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Transition%20Words%20grade%205%20educational",
    quiz:[
      {q:"Which is a transition word showing sequence?", options:["First","Blue","Run","Mountain"], answer:0},
      {q:"Which transition word shows contrast?", options:["Similarly","However","Also","First"], answer:1},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Why are transition words important in writing?", options:["They help connect and organize ideas clearly","They add unnecessary length","They confuse readers","They replace punctuation"], answer:0},
    ]},
   {subject:"Math", title:"Transformations: Translations and Reflections", summary:"A translation slides a shape without flipping or turning it; a reflection flips a shape over a line, like a mirror image.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Transformations: Translations and Reflections", resourceUrl:"https://www.youtube.com/results?search_query=Transformations%3A%20Translations%20and%20Reflections%20grade%205%20educational",
    quiz:[
      {q:"A translation moves a shape by...", options:["Sliding it without flipping or turning","Flipping it over a line","Rotating it","Shrinking it"], answer:0},
      {q:"A reflection creates a...", options:["Mirror image of a shape","Larger version of a shape","Smaller version of a shape","Completely different shape"], answer:0},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"Which transformation is like looking in a mirror?", options:["Translation","Reflection","Neither","Both equally"], answer:1},
    ]},
   {subject:"Science", title:"Food Chains and Energy Pyramids", summary:"A food chain shows how energy moves from the sun to producers, then to consumers, while an energy pyramid shows energy decreasing at each level.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Food Chains and Energy Pyramids", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20and%20Energy%20Pyramids%20grade%205%20educational",
    quiz:[
      {q:"Producers in a food chain are usually...", options:["Plants that make their own food using sunlight","Animals that eat plants","Animals that eat other animals","Rocks and minerals"], answer:0},
      {q:"A consumer that eats only plants is called a...", options:["Carnivore","Herbivore","Decomposer","Producer"], answer:1},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Decomposers help an ecosystem by...", options:["Breaking down dead organisms and returning nutrients to soil","Eating only living plants","Producing their own light","Polluting the environment"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Trade Between Canada and Other Countries", summary:"Canada trades goods and resources with countries around the world, which supports jobs and the economy.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Trade Between Canada and Other Countries", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20Between%20Canada%20and%20Other%20Countries%20grade%205%20educational",
    quiz:[
      {q:"What is international trade?", options:["Buying and selling goods between countries","Trading only within one country","A type of holiday","A government branch"], answer:0},
      {q:"Which country is one of Canada's largest trading partners?", options:["The United States","Antarctica","No country trades with Canada","Only Canada trades with itself"], answer:0},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Recognizing Genre", summary:"Genres like fiction, nonfiction, and poetry each have distinct features and purposes that readers can learn to identify.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Recognizing Genre", resourceUrl:"https://www.youtube.com/results?search_query=Recognizing%20Genre%20grade%205%20educational",
    quiz:[
      {q:"Fiction texts are...", options:["Based on real, factual events only","Imaginative stories, even if based on real ideas","Always true","Never about characters"], answer:1},
      {q:"Nonfiction texts are...", options:["Based on facts and real information","Always made up","Always poems","Never informative"], answer:0},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to recognize genre before reading?", options:["It helps set expectations about the text's purpose and structure","It has no use","It guarantees you'll like the text","It replaces the need to read"], answer:0},
    ]},
   {subject:"Math", title:"Data Management: Bar and Line Graphs", summary:"Bar graphs compare quantities across categories, while line graphs show how data changes over time.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Data Management: Bar and Line Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Bar%20and%20Line%20Graphs%20grade%205%20educational",
    quiz:[
      {q:"A bar graph is best used to...", options:["Compare quantities across categories","Show changes over time only","Show shapes only","Calculate area"], answer:0},
      {q:"A line graph is best used to...", options:["Compare unrelated categories","Show how data changes over time","Show only single data points","Measure angles"], answer:1},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"What should every graph include to be read correctly?", options:["A title and labeled axes","No labels at all","Random colours only","Only numbers, no labels"], answer:0},
    ]},
   {subject:"Science", title:"Adaptations of Living Things", summary:"Adaptations are special features or behaviours that help living things survive in their environment.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Adaptations of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Adaptations%20of%20Living%20Things%20grade%205%20educational",
    quiz:[
      {q:"An adaptation is a feature that helps an organism...", options:["Survive in its environment","Look unusual only","Disappear","Avoid eating"], answer:0},
      {q:"A polar bear's thick fur is an adaptation that helps it...", options:["Stay warm in cold climates","Swim faster only","See better","Hear better"], answer:0},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Adaptations develop over...", options:["A long period of time, through generations","One single day","No time at all","A single generation only, then disappear"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Local Government and Your Municipality", summary:"Local (municipal) governments make decisions about community services like roads, parks, libraries, and waste collection.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Local Government and Your Municipality", resourceUrl:"https://www.youtube.com/results?search_query=Local%20Government%20and%20Your%20Municipality%20grade%205%20educational",
    quiz:[
      {q:"Who typically leads a municipal government?", options:["The Mayor","The Prime Minister","The Premier","The Governor General"], answer:0},
      {q:"Which of these is a responsibility of municipal government?", options:["Managing local parks and libraries","National defence","Foreign treaties","Printing currency"], answer:0},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Description, Point of View, Transitions, and Genre", summary:"Mixed review of descriptive writing, point of view, transition words, and genre.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Review: Description, Point of View, Transitions, and Genre", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Description%2C%20Point%20of%20View%2C%20Transitions%2C%20and%20Genre%20grade%205%20educational",
    quiz:[
      {q:"Sensory details appeal to...", options:["The five senses","Only sight","Only sound","Grammar rules"], answer:0},
      {q:"A story told using 'I' and 'we' is written in...", options:["First person","Third person","Second person","No person"], answer:0},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"Which transition word shows contrast?", options:["Similarly","However","Also","First"], answer:1},
    ]},
   {subject:"Math", title:"Review: Probability, Shapes, Transformations, and Graphs", summary:"Mixed review of probability, 2D shape properties, transformations, and data graphs.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Review: Probability, Shapes, Transformations, and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Probability%2C%20Shapes%2C%20Transformations%2C%20and%20Graphs%20grade%205%20educational",
    quiz:[
      {q:"If an event will definitely happen, it is...", options:["Impossible","Unlikely","Certain","Rare"], answer:2},
      {q:"A polygon with 5 sides is called a...", options:["Hexagon","Pentagon","Octagon","Quadrilateral"], answer:1},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"Flipping a coin and getting heads has a chance described as...", options:["Certain","An equal (50/50) chance","Impossible","Always heads"], answer:1},
    ]},
   {subject:"Science", title:"Review: Circuits, Digestion, Food Chains, and Adaptations", summary:"Mixed review of electrical circuits, the digestive system, food chains, and adaptations.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Review: Circuits, Digestion, Food Chains, and Adaptations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Circuits%2C%20Digestion%2C%20Food%20Chains%2C%20and%20Adaptations%20grade%205%20educational",
    quiz:[
      {q:"What does a simple circuit need to work?", options:["A closed, complete path for electricity","An open path only","No power source","Only light"], answer:0},
      {q:"Digestion begins in the...", options:["Stomach","Mouth","Small intestine","Large intestine"], answer:1},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"A conductor is a material that...", options:["Allows electricity to flow easily","Blocks all electricity","Produces light only","Has no effect"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Voting, Great Lakes, Trade, and Local Government", summary:"Mixed review of voting and elections, the Great Lakes, international trade, and local government.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Review: Voting, Great Lakes, Trade, and Local Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Voting%2C%20Great%20Lakes%2C%20Trade%2C%20and%20Local%20Government%20grade%205%20educational",
    quiz:[
      {q:"Why is voting important in a democracy?", options:["It lets citizens choose their representatives","It has no real impact","Only leaders can vote","It is meaningless"], answer:0},
      {q:"How many Great Lakes are there?", options:["Three","Four","Five","Six"], answer:2},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Comparing Two Texts on the Same Topic", summary:"Comparing two texts on the same topic helps readers notice different perspectives, details, and ways of presenting information.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Comparing Two Texts on the Same Topic", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Two%20Texts%20on%20the%20Same%20Topic%20grade%205%20educational",
    quiz:[
      {q:"When comparing two texts on the same topic, you should look for...", options:["Similarities and differences in information or perspective","Only spelling mistakes","Identical wording","Nothing useful"], answer:0},
      {q:"Two texts about the same historical event might differ in...", options:["Perspective, detail, or focus","Nothing at all","The event itself","The historical facts only"], answer:0},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"If one article calls an event a 'disaster' and another calls it a 'turning point,' this shows a difference in...", options:["Spelling","Perspective or tone","Punctuation","Page count"], answer:1},
    ]},
   {subject:"Math", title:"Financial Literacy: Making Change and Budgets", summary:"Financial literacy includes calculating change from a purchase and creating a simple budget that balances income and expenses.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Financial Literacy: Making Change and Budgets", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Making%20Change%20and%20Budgets%20grade%205%20educational",
    quiz:[
      {q:"If an item costs $7.25 and you pay with a $10 bill, how much change do you get?", options:["$2.75","$3.25","$2.25","$3.75"], answer:0},
      {q:"A budget helps you...", options:["Plan how to spend and save money","Avoid all spending","Spend without thinking","Ignore your income"], answer:0},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"If a toy costs $12.50 and you have $15, how much change will you receive?", options:["$2.50","$3.50","$1.50","$2.00"], answer:0},
    ]},
   {subject:"Science", title:"Renewable vs. Non-Renewable Resources Revisited", summary:"A deeper look at how renewable resources like wind and solar are managed sustainably, while non-renewable resources like fossil fuels are limited and impact the environment.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Renewable vs. Non-Renewable Resources Revisited", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20vs.%20Non-Renewable%20Resources%20Revisited%20grade%205%20educational",
    quiz:[
      {q:"Why must non-renewable resources be used carefully?", options:["They take an extremely long time to form and are limited","They are unlimited","They have no environmental impact","They replenish overnight"], answer:0},
      {q:"Which is a way to use energy resources more sustainably?", options:["Using more renewable sources, like wind and solar","Wasting energy whenever possible","Only using fossil fuels","Ignoring conservation"], answer:0},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Why is reducing energy waste important even with renewable sources?", options:["Resources and infrastructure are still limited, so conservation matters","Renewable sources never run out, so it doesn't matter","It has no benefit","Only non-renewables need conservation"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Environmental Issues Affecting Canada", summary:"Canada faces environmental issues such as climate change, melting Arctic ice, and the need for conservation of natural resources.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Environmental Issues Affecting Canada", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Issues%20Affecting%20Canada%20grade%205%20educational",
    quiz:[
      {q:"Climate change is causing the Arctic to...", options:["Warm and lose sea ice","Stay exactly the same","Become much colder","Have no changes"], answer:0},
      {q:"What is conservation?", options:["Protecting and wisely using natural resources","Wasting resources","Ignoring nature","Destroying forests"], answer:0},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Sequence and Chronological Order in Nonfiction", summary:"Nonfiction texts often present events or steps in chronological (time) order, using signal words like 'first,' 'then,' and 'after.'",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Sequence and Chronological Order in Nonfiction", resourceUrl:"https://www.youtube.com/results?search_query=Sequence%20and%20Chronological%20Order%20in%20Nonfiction%20grade%205%20educational",
    quiz:[
      {q:"Chronological order means events are organized by...", options:["The order in which they happened in time","Alphabetical order","Random order","Size"], answer:0},
      {q:"Which word signals sequence in a nonfiction text?", options:["After","Blue","Run","Mountain"], answer:0},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"In a set of instructions, which word would likely come first?", options:["Finally","First","Afterward","Last"], answer:1},
    ]},
   {subject:"Math", title:"Patterning with Tables of Values", summary:"A table of values shows how one quantity changes in relation to another, helping you find and describe a pattern's rule.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Patterning with Tables of Values", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%20with%20Tables%20of%20Values%20grade%205%20educational",
    quiz:[
      {q:"If a pattern rule is 'add 3,' and it starts at 2, what is the next term?", options:["4","5","6","8"], answer:1},
      {q:"In a table of values, the input often represents...", options:["The term number or position","An unrelated number","The answer only","A random guess"], answer:0},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"If a pattern follows 'subtract 4' starting at 20, what is the 3rd term (20, 16, ...)?", options:["8","10","12","14"], answer:2},
    ]},
   {subject:"Science", title:"Environmental Stewardship Projects", summary:"Environmental stewardship means taking action to protect and care for the environment, such as through recycling, planting trees, or reducing waste.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Environmental Stewardship Projects", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Stewardship%20Projects%20grade%205%20educational",
    quiz:[
      {q:"What is environmental stewardship?", options:["Taking responsibility for protecting and caring for the environment","Ignoring the environment","Wasting natural resources","Avoiding all outdoor activity"], answer:0},
      {q:"Which is an example of an environmental stewardship action?", options:["Planting trees","Littering","Wasting water","Ignoring recycling"], answer:0},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"How can individuals help protect local ecosystems?", options:["By conserving water, reducing waste, and protecting habitats","By ignoring nature","By increasing pollution","By cutting down trees unnecessarily"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Historical Figures in Canadian History", summary:"Canadian history includes notable figures, such as Laura Secord and Terry Fox, whose actions had a lasting impact on the country.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Historical Figures in Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Historical%20Figures%20in%20Canadian%20History%20grade%205%20educational",
    quiz:[
      {q:"Laura Secord is known for...", options:["Warning British forces of an American attack in the War of 1812","Inventing a famous Canadian food","Being a Canadian Prime Minister","Founding a province"], answer:0},
      {q:"Terry Fox is best known for...", options:["His Marathon of Hope to raise money for cancer research","Being a hockey player only","Founding Toronto","Writing Canada's national anthem"], answer:0},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Revising and Editing a Paragraph", summary:"Revising improves ideas and organization, while editing fixes spelling, grammar, and punctuation errors in a paragraph.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Revising and Editing a Paragraph", resourceUrl:"https://www.youtube.com/results?search_query=Revising%20and%20Editing%20a%20Paragraph%20grade%205%20educational",
    quiz:[
      {q:"Revising mainly focuses on improving...", options:["Ideas, organization, and clarity","Only spelling","Only punctuation","Font size"], answer:0},
      {q:"Editing mainly focuses on fixing...", options:["Spelling, grammar, and punctuation errors","The main idea only","The topic completely","Page numbers"], answer:0},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a revision (not just editing)?", options:["Adding more descriptive details to a weak sentence","Fixing a comma","Correcting a spelling mistake","Capitalizing a letter"], answer:0},
    ]},
   {subject:"Math", title:"Rounding Decimals", summary:"Rounding decimals means simplifying a number to a given place value, like the nearest tenth or whole number.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Rounding Decimals", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20Decimals%20grade%205%20educational",
    quiz:[
      {q:"Round 3.46 to the nearest tenth.", options:["3.4","3.5","3.0","4.0"], answer:1},
      {q:"Round 7.82 to the nearest whole number.", options:["7","8","7.8","9"], answer:1},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"Round 0.673 to the nearest tenth.", options:["0.6","0.7","0.67","0.68"], answer:1},
    ]},
   {subject:"Science", title:"The Moon's Phases", summary:"The moon appears to change shape over about a month due to its orbit around Earth and how sunlight reflects off it.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: The Moon's Phases", resourceUrl:"https://www.youtube.com/results?search_query=The%20Moon%27s%20Phases%20grade%205%20educational",
    quiz:[
      {q:"The moon's phases are caused by...", options:["Its orbit around Earth and the angle of sunlight reflecting off it","The moon changing size","The moon disappearing each month","Clouds blocking it"], answer:0},
      {q:"A 'new moon' occurs when...", options:["The moon appears fully lit","The moon is mostly not visible from Earth","The moon disappears forever","The moon turns red"], answer:1},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"The moon does not produce its own light; it...", options:["Reflects sunlight","Glows on its own","Absorbs all light","Produces heat only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Rural and Urban Life in Canada", summary:"Rural areas are less densely populated and often focus on agriculture, while urban areas are densely populated cities with more services and infrastructure.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Rural and Urban Life in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Rural%20and%20Urban%20Life%20in%20Canada%20grade%205%20educational",
    quiz:[
      {q:"A rural area is typically...", options:["Densely populated with many buildings","Less densely populated, often with farmland","Always a desert","Always near the ocean"], answer:1},
      {q:"An urban area is typically...", options:["A densely populated city with many services","Always farmland","Empty of people","Only forest"], answer:0},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Dictionary and Thesaurus Skills", summary:"A dictionary gives word meanings, pronunciations, and parts of speech, while a thesaurus provides synonyms and antonyms.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Dictionary and Thesaurus Skills", resourceUrl:"https://www.youtube.com/results?search_query=Dictionary%20and%20Thesaurus%20Skills%20grade%205%20educational",
    quiz:[
      {q:"A dictionary is used to find a word's...", options:["Meaning, pronunciation, and part of speech","Synonyms only","Antonyms only","Page number in a book"], answer:0},
      {q:"A thesaurus is used to find...", options:["Synonyms and antonyms for a word","Only definitions","Only pronunciations","Grammar rules only"], answer:0},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"Why might a writer use a thesaurus?", options:["To find a more precise or varied word choice","To check spelling only","To find page numbers","To replace punctuation"], answer:0},
    ]},
   {subject:"Math", title:"Perimeter and Area of Composite Shapes", summary:"Composite shapes are made of two or more simple shapes; you find their area and perimeter by breaking them into smaller, familiar parts.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Perimeter and Area of Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%20and%20Area%20of%20Composite%20Shapes%20grade%205%20educational",
    quiz:[
      {q:"A composite shape is made up of...", options:["Two or more simple shapes combined","Only one shape, never combined","No shapes at all","Only circles"], answer:0},
      {q:"To find the area of a composite shape, you should...", options:["Break it into simpler shapes and add their areas","Guess the total area","Only measure one side","Ignore some parts of the shape"], answer:0},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"To find the perimeter of a composite shape, you...", options:["Add up the length of all outer sides","Multiply the areas together","Subtract the smallest side","Only count one side"], answer:0},
    ]},
   {subject:"Science", title:"Energy Pyramids and Ecosystem Balance", summary:"Energy pyramids show that less energy is available at each higher level of a food chain, which limits how many organisms an ecosystem can support.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Energy Pyramids and Ecosystem Balance", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20Pyramids%20and%20Ecosystem%20Balance%20grade%205%20educational",
    quiz:[
      {q:"Why are there usually fewer top predators than producers in an ecosystem?", options:["Energy decreases at each level of the pyramid","Predators reproduce less often, with no link to energy","Producers are less important","There is no pattern"], answer:0},
      {q:"What happens to most energy as it moves up an energy pyramid?", options:["Most of it is lost as heat through life processes","It increases at each level","It stays exactly the same","It disappears instantly with no cause"], answer:0},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Why is ecosystem balance important?", options:["It helps maintain healthy populations and resources for all organisms","It has no importance","Only humans benefit from balance","Balance is not possible in nature"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Canada's Role in World Organizations", summary:"Canada participates in international organizations like the United Nations to cooperate with other countries on issues like peace, health, and human rights.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Canada's Role in World Organizations", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Role%20in%20World%20Organizations%20grade%205%20educational",
    quiz:[
      {q:"What is the United Nations (UN)?", options:["An international organization where countries cooperate on global issues","A single country","A type of currency","A sports league"], answer:0},
      {q:"Why might Canada join international organizations like the UN?", options:["To cooperate with other countries on issues like peace and human rights","To avoid working with other countries","It has no benefit","To compete in sports only"], answer:0},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Final review day: mixed questions from Days 26–29, getting ready for Grade 5 in September!", subjects:[
   {subject:"Language", title:"Final Review: Comparing Texts, Sequence, Editing, and Word Skills", summary:"Mixed review of comparing texts, chronological order, revising/editing, and dictionary/thesaurus skills.",
-   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   resourceLabel:"YouTube: Final Review: Comparing Texts, Sequence, Editing, and Word Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Comparing%20Texts%2C%20Sequence%2C%20Editing%2C%20and%20Word%20Skills%20grade%205%20educational",
    quiz:[
      {q:"When comparing two texts on the same topic, you should look for...", options:["Similarities and differences in information or perspective","Only spelling mistakes","Identical wording","Nothing useful"], answer:0},
      {q:"Chronological order means events are organized by...", options:["The order in which they happened in time","Alphabetical order","Random order","Size"], answer:0},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"Which word signals sequence in a nonfiction text?", options:["After","Blue","Run","Mountain"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Money, Patterns, Rounding, and Composite Shapes", summary:"Mixed review of financial literacy, patterning, rounding decimals, and composite shapes.",
-   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   resourceLabel:"YouTube: Final Review: Money, Patterns, Rounding, and Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Money%2C%20Patterns%2C%20Rounding%2C%20and%20Composite%20Shapes%20grade%205%20educational",
    quiz:[
      {q:"If an item costs $7.25 and you pay with a $10 bill, how much change do you get?", options:["$2.75","$3.25","$2.25","$3.75"], answer:0},
      {q:"If a pattern rule is 'add 3,' and it starts at 2, what is the next term?", options:["4","5","6","8"], answer:1},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"Round 3.46 to the nearest tenth.", options:["3.4","3.5","3.0","4.0"], answer:1},
    ]},
   {subject:"Science", title:"Final Review: Resources, Stewardship, Moon Phases, and Ecosystems", summary:"Mixed review of renewable/non-renewable resources, environmental stewardship, moon phases, and energy pyramids.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   resourceLabel:"YouTube: Final Review: Resources, Stewardship, Moon Phases, and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Resources%2C%20Stewardship%2C%20Moon%20Phases%2C%20and%20Ecosystems%20grade%205%20educational",
    quiz:[
      {q:"Why must non-renewable resources be used carefully?", options:["They take an extremely long time to form and are limited","They are unlimited","They have no environmental impact","They replenish overnight"], answer:0},
      {q:"What is environmental stewardship?", options:["Taking responsibility for protecting and caring for the environment","Ignoring the environment","Wasting natural resources","Avoiding all outdoor activity"], answer:0},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a way to use energy resources more sustainably?", options:["Using more renewable sources, like wind and solar","Wasting energy whenever possible","Only using fossil fuels","Ignoring conservation"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Environment, Historical Figures, Rural/Urban Life, and the UN", summary:"Mixed review of environmental issues in Canada, historical figures, rural/urban life, and Canada's role in world organizations.",
-   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   resourceLabel:"YouTube: Final Review: Environment, Historical Figures, Rural/Urban Life, and the UN", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Historical%20Figures%2C%20Rural%2FUrban%20Life%2C%20and%20the%20UN%20grade%205%20educational",
    quiz:[
      {q:"Climate change is causing the Arctic to...", options:["Warm and lose sea ice","Stay exactly the same","Become much colder","Have no changes"], answer:0},
      {q:"Terry Fox is best known for...", options:["His Marathon of Hope to raise money for cancer research","Being a hockey player only","Founding Toronto","Writing Canada's national anthem"], answer:0},

@@ -3,7 +3,7 @@ import type { DayContent } from '@/types';
 const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Clauses and Sentence Structure", summary:"Independent clauses can stand alone; dependent clauses cannot and need to attach to an independent clause.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Clauses and Sentence Structure", resourceUrl:"https://www.youtube.com/results?search_query=Clauses%20and%20Sentence%20Structure%20grade%207%20educational",
    quiz:[
      {q:"An independent clause...", options:["Can stand alone as a sentence","Can never stand alone","Has no subject","Has no verb"], answer:0},
      {q:"A dependent clause...", options:["Can always stand alone","Cannot stand alone and needs an independent clause","Has no meaning ever","Is always a question"], answer:1},
@@ -12,7 +12,7 @@ const curriculum: DayContent[] = [
      {q:"Combining an independent and dependent clause creates a...", options:["Run-on with no structure","Complex sentence","Fragment only","List"], answer:1},
    ]},
   {subject:"Math", title:"Ratios and Rates", summary:"A ratio compares two quantities; a rate compares quantities with different units, like km/h.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Ratios and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20and%20Rates%20grade%207%20educational",
    quiz:[
      {q:"If a recipe uses 2 cups flour to 1 cup sugar, the ratio of flour to sugar is...", options:["1:2","2:1","1:1","3:1"], answer:1},
      {q:"A car travels 240 km in 4 hours. What is its rate?", options:["40 km/h","50 km/h","60 km/h","80 km/h"], answer:2},
@@ -21,7 +21,7 @@ const curriculum: DayContent[] = [
      {q:"A ratio compares...", options:["Two quantities","Only time","Only money","Nothing useful"], answer:0},
    ]},
   {subject:"Science", title:"Interactions in the Environment", summary:"Ontario Grade 7 Science strand: ecosystems involve interactions between living things and their environment, including food chains/webs and nutrient cycles.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Interactions in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Interactions%20in%20the%20Environment%20grade%207%20educational",
    quiz:[
      {q:"A food web shows...", options:["A single food chain only","Multiple interconnected food chains in an ecosystem","Only producers","Only predators"], answer:1},
      {q:"Producers in an ecosystem are organisms that...", options:["Eat other organisms only","Make their own food, like plants","Decompose dead matter only","Do nothing"], answer:1},
@@ -30,7 +30,7 @@ const curriculum: DayContent[] = [
      {q:"An ecosystem includes...", options:["Only living things","Only non-living things","Both living and non-living things interacting","Nothing physical"], answer:2},
    ]},
   {subject:"SocialStudies", title:"New France and British North America", summary:"Ontario Grade 7 History strand: explore the events, peoples, and changes in New France and British North America up to 1800.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: New France and British North America", resourceUrl:"https://www.youtube.com/results?search_query=New%20France%20and%20British%20North%20America%20grade%207%20educational",
    quiz:[
      {q:"New France eventually came under whose control after 1763?", options:["Spain","Britain","The Netherlands","Portugal"], answer:1},
      {q:"The Seven Years' War affected New France by...", options:["Having no impact at all","Leading to British control of the colony","Strengthening French control","Creating a new country immediately"], answer:1},
@@ -41,7 +41,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Vocabulary: Roots, Prefixes, and Suffixes", summary:"Understanding word roots and affixes helps you decode unfamiliar vocabulary.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Vocabulary: Roots, Prefixes, and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Roots%2C%20Prefixes%2C%20and%20Suffixes%20grade%207%20educational",
    quiz:[
      {q:"The prefix 'un-' usually means...", options:["Again","Not/opposite of","Before","After"], answer:1},
      {q:"The root 'bio' relates to...", options:["Life","Water","Light","Sound"], answer:0},
@@ -50,7 +50,7 @@ const curriculum: DayContent[] = [
      {q:"The root 'geo' relates to...", options:["Earth","Time","Sound","Colour"], answer:0},
    ]},
   {subject:"Math", title:"Percentages", summary:"Percentages express a number as a portion of 100, and are used in discounts, taxes, and statistics.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Percentages", resourceUrl:"https://www.youtube.com/results?search_query=Percentages%20grade%207%20educational",
    quiz:[
      {q:"What is 25% of 80?", options:["15","20","25","30"], answer:1},
      {q:"What is 10% of 250?", options:["10","15","25","50"], answer:2},
@@ -59,7 +59,7 @@ const curriculum: DayContent[] = [
      {q:"What percentage is 15 out of 60?", options:["15%","20%","25%","30%"], answer:1},
    ]},
   {subject:"Science", title:"Pure Substances and Mixtures", summary:"A pure substance has one type of particle; a mixture combines two or more substances that keep their own properties.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Pure Substances and Mixtures", resourceUrl:"https://www.youtube.com/results?search_query=Pure%20Substances%20and%20Mixtures%20grade%207%20educational",
    quiz:[
      {q:"A pure substance is made up of...", options:["Only one type of particle","Always many different particles","Nothing at all","Only gases"], answer:0},
      {q:"Salt water is an example of a...", options:["Pure substance","Mixture (solution)","Element only","Compound only"], answer:1},
@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
      {q:"An element is a type of...", options:["Mixture","Pure substance","Solution only","Gas only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Conflict and Challenges, 1800–1850", summary:"This period in Canadian history includes the War of 1812, immigration waves, and political rebellions like the Rebellions of 1837–38.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Conflict and Challenges, 1800–1850", resourceUrl:"https://www.youtube.com/results?search_query=Conflict%20and%20Challenges%2C%201800%E2%80%931850%20grade%207%20educational",
    quiz:[
      {q:"The War of 1812 was fought between Britain (with its colonies) and...", options:["France","The United States","Spain","Russia"], answer:1},
      {q:"The Rebellions of 1837–38 were partly about demands for...", options:["Less government accountability","More responsible/representative government","Ending all trade","Joining the United States"], answer:1},
@@ -79,7 +79,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Theme and Tone", summary:"Theme is the central message or idea of a text; tone is the author's attitude conveyed through word choice.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Theme and Tone", resourceUrl:"https://www.youtube.com/results?search_query=Theme%20and%20Tone%20grade%207%20educational",
    quiz:[
      {q:"Theme refers to...", options:["The setting of a story","The central message or idea","The main character's name","The page count"], answer:1},
      {q:"Tone refers to...", options:["The author's attitude shown through word choice","The font used","The number of chapters","The setting only"], answer:0},
@@ -88,7 +88,7 @@ const curriculum: DayContent[] = [
      {q:"To identify tone, readers should pay attention to...", options:["Word choice and details the author includes","Only the title","Only the page count","Only punctuation"], answer:0},
    ]},
   {subject:"Math", title:"Integers: Operations", summary:"Add, subtract, multiply, and divide positive and negative integers.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Integers: Operations", resourceUrl:"https://www.youtube.com/results?search_query=Integers%3A%20Operations%20grade%207%20educational",
    quiz:[
      {q:"-5 + 8 = ?", options:["-13","3","13","-3"], answer:1},
      {q:"-4 - (-6) = ?", options:["-10","-2","2","10"], answer:2},
@@ -97,7 +97,7 @@ const curriculum: DayContent[] = [
      {q:"7 - 10 = ?", options:["3","-3","17","-17"], answer:1},
    ]},
   {subject:"Science", title:"Structures and Mechanisms: Form and Function", summary:"Ontario Grade 7 Science strand: the form (shape/design) of a structure or mechanism affects its function (how well it works).",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Structures and Mechanisms: Form and Function", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20and%20Mechanisms%3A%20Form%20and%20Function%20grade%207%20educational",
    quiz:[
      {q:"A lever is a simple mechanism that...", options:["Multiplies force around a fixed point (fulcrum)","Only spins in circles","Has no function","Only works underwater"], answer:0},
      {q:"A pulley system is useful because it...", options:["Makes lifting heavier objects easier","Always slows you down","Has no real use","Only works with light objects"], answer:0},
@@ -106,7 +106,7 @@ const curriculum: DayContent[] = [
      {q:"An aerodynamic shape is useful for vehicles because it...", options:["Increases air resistance","Reduces air resistance, improving efficiency","Has no effect on motion","Only matters for boats"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Physical Patterns in a Changing World", summary:"Ontario Grade 7 Geography strand: physical patterns like landforms, climate zones, and natural vegetation shape where and how people live.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Physical Patterns in a Changing World", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Patterns%20in%20a%20Changing%20World%20grade%207%20educational",
    quiz:[
      {q:"A landform is a...", options:["Type of government","Natural feature of the Earth's surface, like a mountain","A type of weather","A political boundary"], answer:1},
      {q:"Climate zones are influenced by factors like...", options:["Latitude and proximity to water","Population size only","Government type","Language spoken"], answer:0},
@@ -117,7 +117,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Argument and Evidence", summary:"A strong argument is supported by relevant evidence and clear reasoning, not just opinion.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Argument and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Argument%20and%20Evidence%20grade%207%20educational",
    quiz:[
      {q:"Evidence used to support an argument should be...", options:["Irrelevant","Relevant and credible","Always an opinion","Made up"], answer:1},
      {q:"A claim is...", options:["A statement the writer wants the reader to accept","A footnote only","The title of a piece","A random fact"], answer:0},
@@ -126,7 +126,7 @@ const curriculum: DayContent[] = [
      {q:"A logical fallacy is...", options:["A strong argument","A flaw in reasoning that weakens an argument","Always true","A type of evidence"], answer:1},
    ]},
   {subject:"Math", title:"Expressions and Equations", summary:"Simplify algebraic expressions and solve one-step and two-step equations.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Expressions and Equations", resourceUrl:"https://www.youtube.com/results?search_query=Expressions%20and%20Equations%20grade%207%20educational",
    quiz:[
      {q:"Simplify: 3x + 2x", options:["5x","6x","x","5x²"], answer:0},
      {q:"Solve for x: x + 5 = 12", options:["x=5","x=6","x=7","x=17"], answer:2},
@@ -135,7 +135,7 @@ const curriculum: DayContent[] = [
      {q:"Simplify: 4(x + 2)", options:["4x+2","4x+8","x+8","4x+6"], answer:1},
    ]},
   {subject:"Science", title:"Heat in the Environment", summary:"Heat transfers through conduction, convection, and radiation, and affects ecosystems and climate.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Heat in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Heat%20in%20the%20Environment%20grade%207%20educational",
    quiz:[
      {q:"Conduction is heat transfer through...", options:["Direct contact between materials","Empty space only","Light only","Sound waves"], answer:0},
      {q:"Convection involves heat transfer through...", options:["Solids only","The movement of fluids (liquids/gases)","Vacuum only","Light only"], answer:1},
@@ -144,7 +144,7 @@ const curriculum: DayContent[] = [
      {q:"Dark-coloured surfaces tend to...", options:["Reflect more heat","Absorb more heat than light surfaces","Have no effect on heat","Only matter at night"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Natural Resources Around the World", summary:"Natural resources are distributed unevenly across the globe, which influences trade, economies, and global interactions.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Natural Resources Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20Around%20the%20World%20grade%207%20educational",
    quiz:[
      {q:"Natural resources are distributed...", options:["Evenly across every country","Unevenly across the world","Only in Canada","Only in deserts"], answer:1},
      {q:"Countries rich in oil resources often...", options:["Have no global trade","Export oil and trade internationally","Avoid international trade","Have no economy"], answer:1},
@@ -155,7 +155,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Grammar, Vocabulary, and Theme", summary:"Mixed review of clauses, roots/affixes, theme/tone, and argument/evidence.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Review: Grammar, Vocabulary, and Theme", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grammar%2C%20Vocabulary%2C%20and%20Theme%20grade%207%20educational",
    quiz:[
      {q:"An independent clause can...", options:["Stand alone as a sentence","Never stand alone","Have no verb","Have no meaning"], answer:0},
      {q:"The prefix 'un-' usually means...", options:["Not/opposite of","Again","Before","After"], answer:0},
@@ -164,7 +164,7 @@ const curriculum: DayContent[] = [
      {q:"The root 'bio' relates to...", options:["Life","Sound","Light","Time"], answer:0},
    ]},
   {subject:"Math", title:"Review: Ratios, Percentages, and Integers", summary:"Mixed review of ratios, percentages, integer operations, and basic equations.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Review: Ratios, Percentages, and Integers", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ratios%2C%20Percentages%2C%20and%20Integers%20grade%207%20educational",
    quiz:[
      {q:"What is 50% of 90?", options:["40","45","50","55"], answer:1},
      {q:"-6 + 9 = ?", options:["-3","3","15","-15"], answer:1},
@@ -173,7 +173,7 @@ const curriculum: DayContent[] = [
      {q:"-2 × -5 = ?", options:["-10","10","-7","7"], answer:1},
    ]},
   {subject:"Science", title:"Review: Ecosystems, Matter, and Heat", summary:"Mixed review of food webs, pure substances/mixtures, structures, and heat transfer.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Review: Ecosystems, Matter, and Heat", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Heat%20grade%207%20educational",
    quiz:[
      {q:"Producers in an ecosystem...", options:["Make their own food","Eat other organisms only","Decompose matter only","Do nothing"], answer:0},
      {q:"A mixture contains...", options:["Only one type of particle","Two or more substances that keep their properties","Nothing","Only gases"], answer:1},
@@ -182,7 +182,7 @@ const curriculum: DayContent[] = [
      {q:"The greenhouse effect traps heat using...", options:["Atmospheric gases","Ocean currents only","Sunlight reflection only","Nothing"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Early Canada and Geography", summary:"Mixed review of New France, conflicts 1800-1850, physical patterns, and natural resources.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Review: Early Canada and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Geography%20grade%207%20educational",
    quiz:[
      {q:"New France came under British control after...", options:["The Seven Years' War","The War of 1812","Confederation","World War I"], answer:0},
      {q:"The Rebellions of 1837–38 sought...", options:["More responsible government","Less self-government","Independence from trade","Nothing in particular"], answer:0},
@@ -193,7 +193,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Figurative Language and Imagery", summary:"Writers use figurative language (metaphor, simile, personification) and imagery to create vivid mental pictures.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Figurative Language and Imagery", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%20and%20Imagery%20grade%207%20educational",
    quiz:[
      {q:"Imagery appeals mainly to the reader's...", options:["Senses","Math skills","Spelling ability","Memory of dates"], answer:0},
      {q:"'The classroom was a zoo' is an example of a...", options:["Simile","Metaphor","Fact","Question"], answer:1},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
      {q:"Vivid imagery helps readers...", options:["Picture the scene clearly","Skip the text","Ignore details","Memorize spelling rules"], answer:0},
    ]},
   {subject:"Math", title:"Inequalities", summary:"Inequalities compare values using symbols like <, >, ≤, ≥ and can be solved similarly to equations.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Inequalities%20grade%207%20educational",
    quiz:[
      {q:"Solve: x + 3 > 7", options:["x>4","x<4","x>10","x<10"], answer:0},
      {q:"Which symbol means 'greater than or equal to'?", options:["<","≤",">","≥"], answer:3},
@@ -211,7 +211,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: x - 2 ≥ 6", options:["x≥4","x≥8","x≤8","x≤4"], answer:1},
    ]},
   {subject:"Science", title:"Properties of Pure Substances", summary:"Pure substances have characteristic properties like melting point, boiling point, and density that can be used to identify them.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Properties of Pure Substances", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Pure%20Substances%20grade%207%20educational",
    quiz:[
      {q:"Melting point is a property that helps...", options:["Identify a substance","Change its mass","Change its colour permanently","Has no use"], answer:0},
      {q:"Density compares an object's...", options:["Mass to its volume","Colour to its smell","Sound to its taste","Texture to its weight only"], answer:0},
@@ -220,7 +220,7 @@ const curriculum: DayContent[] = [
      {q:"Pure substances have properties that are...", options:["Random and unpredictable","Characteristic and consistent","Always changing","Impossible to measure"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Confederation and Nation-Building", summary:"Canada became a country through Confederation in 1867, joining provinces under a new federal system.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Confederation and Nation-Building", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Nation-Building%20grade%207%20educational",
    quiz:[
      {q:"In what year did Canadian Confederation occur?", options:["1812","1837","1867","1900"], answer:2},
      {q:"Confederation joined provinces under a...", options:["Single municipal government","New federal system of government","Foreign monarchy with no local power","Military dictatorship"], answer:1},
@@ -231,7 +231,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Narrative Structure", summary:"Stories typically follow a structure: exposition, rising action, climax, falling action, and resolution.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Narrative Structure", resourceUrl:"https://www.youtube.com/results?search_query=Narrative%20Structure%20grade%207%20educational",
    quiz:[
      {q:"The climax of a story is...", options:["The beginning","The turning point/most intense moment","The setting description","The title"], answer:1},
      {q:"Exposition usually introduces...", options:["The resolution only","Characters, setting, and background","The climax only","Nothing important"], answer:1},
@@ -240,7 +240,7 @@ const curriculum: DayContent[] = [
      {q:"Falling action happens...", options:["Before the exposition","After the climax, leading to resolution","At the very beginning","Never"], answer:1},
    ]},
   {subject:"Math", title:"Probability", summary:"Probability measures how likely an event is to occur, expressed as a fraction, decimal, or percentage between 0 and 1 (or 0% and 100%).",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20grade%207%20educational",
    quiz:[
      {q:"What is the probability of flipping heads on a fair coin?", options:["1/4","1/3","1/2","1"], answer:2},
      {q:"A die has 6 sides. What is the probability of rolling a 4?", options:["1/6","1/4","1/3","1/2"], answer:0},
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"A bag has 3 red and 2 blue marbles. What is the probability of picking red?", options:["3/5","2/5","1/5","2/3"], answer:0},
    ]},
   {subject:"Science", title:"Effects of Heat Transfer on the Environment", summary:"Heat transfer affects climate patterns, ocean currents, and ecosystems, and human activity can influence these processes.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Effects of Heat Transfer on the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Effects%20of%20Heat%20Transfer%20on%20the%20Environment%20grade%207%20educational",
    quiz:[
      {q:"Ocean currents help distribute...", options:["Heat around the planet","Only cold water near the poles","Nothing important","Sound waves"], answer:0},
      {q:"Human activities like burning fossil fuels can...", options:["Have no effect on climate","Increase greenhouse gases and trap more heat","Cool the planet directly","Remove all heat from the atmosphere"], answer:1},
@@ -258,7 +258,7 @@ const curriculum: DayContent[] = [
      {q:"Reducing energy use can help...", options:["Increase heat trapping gases","Reduce the human impact on climate","Have no environmental benefit","Increase pollution"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Connection to the World", summary:"Canada's geography, trade, and history connect it to global patterns of migration, resources, and international relationships.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Canada's Connection to the World", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Connection%20to%20the%20World%20grade%207%20educational",
    quiz:[
      {q:"Canada's location with three oceans affects its...", options:["Trade and geography","Nothing","Only its flag design","Population size only"], answer:0},
      {q:"Immigration has shaped Canada by...", options:["Having no impact","Adding to its cultural diversity","Decreasing its population","Isolating its provinces"], answer:1},
@@ -269,7 +269,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Citing Evidence from Text", summary:"When answering questions about a text, support your answer by citing specific evidence from what you read.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Citing Evidence from Text", resourceUrl:"https://www.youtube.com/results?search_query=Citing%20Evidence%20from%20Text%20grade%207%20educational",
    quiz:[
      {q:"Citing evidence means...", options:["Making up facts","Referring to specific details from the text","Ignoring the text completely","Only using your own opinion"], answer:1},
      {q:"A textual citation usually includes...", options:["A direct quote or specific reference","A random guess","No connection to the text","Only your feelings"], answer:0},
@@ -278,7 +278,7 @@ const curriculum: DayContent[] = [
      {q:"Paraphrasing means...", options:["Copying the text exactly","Restating the text's idea in your own words","Ignoring the source","Making up new information"], answer:1},
    ]},
   {subject:"Math", title:"Statistics: Mean, Median, Mode", summary:"Mean is the average, median is the middle value, and mode is the most frequent value in a data set.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Statistics: Mean, Median, Mode", resourceUrl:"https://www.youtube.com/results?search_query=Statistics%3A%20Mean%2C%20Median%2C%20Mode%20grade%207%20educational",
    quiz:[
      {q:"What is the mean of 4, 6, 8?", options:["5","6","7","8"], answer:1},
      {q:"What is the median of 3, 7, 9, 12, 15?", options:["7","9","12","8"], answer:1},
@@ -287,7 +287,7 @@ const curriculum: DayContent[] = [
      {q:"What is the median of 1, 2, 3, 4?", options:["2","2.5","3","1"], answer:1},
    ]},
   {subject:"Science", title:"Designing and Testing Structures", summary:"Engineers use the design process — plan, build, test, evaluate, improve — to create effective structures and mechanisms.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Designing and Testing Structures", resourceUrl:"https://www.youtube.com/results?search_query=Designing%20and%20Testing%20Structures%20grade%207%20educational",
    quiz:[
      {q:"The first step in the engineering design process is usually to...", options:["Build immediately with no plan","Define the problem and plan","Sell the product","Ignore testing"], answer:1},
      {q:"Testing a structure helps engineers...", options:["Identify weaknesses and improve the design","Avoid all improvements","Skip the planning stage","Make the design worse on purpose"], answer:0},
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
      {q:"A well-designed structure should balance...", options:["Strength, cost, and purpose","Only appearance","Only cost","Nothing in particular"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Map Skills: Scale and Distance", summary:"Map scale helps you calculate real-world distances from measurements on a map.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Map Skills: Scale and Distance", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Skills%3A%20Scale%20and%20Distance%20grade%207%20educational",
    quiz:[
      {q:"Map scale helps you...", options:["Calculate real-world distance from the map","Determine the map's colour scheme","Find the title of the map only","Identify the map's author"], answer:0},
      {q:"If a map scale is 1 cm = 10 km, how many km does 3 cm represent?", options:["3 km","10 km","30 km","13 km"], answer:2},
@@ -307,7 +307,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Persuasive Writing Techniques", summary:"Persuasive writers use techniques like emotional appeals, rhetorical questions, and strong word choice to convince readers.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Persuasive Writing Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Writing%20Techniques%20grade%207%20educational",
    quiz:[
      {q:"A rhetorical question is asked to...", options:["Get a literal answer","Make the reader think, not to get an answer","Confuse the reader","End an essay"], answer:1},
      {q:"An emotional appeal tries to...", options:["Use logic only","Persuade by appealing to feelings","Avoid persuading at all","Only use statistics"], answer:1},
@@ -316,7 +316,7 @@ const curriculum: DayContent[] = [
      {q:"Repetition in persuasive writing can be used to...", options:["Confuse the reader","Emphasize an important idea","Make the essay shorter","Avoid making a point"], answer:1},
    ]},
   {subject:"Math", title:"Financial Literacy: Simple Interest and Budgeting", summary:"Ontario Grade 7 Financial Literacy strand: understand simple interest, saving, and basic budgeting.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Financial Literacy: Simple Interest and Budgeting", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20Interest%20and%20Budgeting%20grade%207%20educational",
    quiz:[
      {q:"Simple interest is calculated using which factors?", options:["Principal, rate, and time","Only time","Only the bank's name","Only the currency"], answer:0},
      {q:"If you save $100 at 5% simple interest for 1 year, how much interest do you earn?", options:["$0.50","$5","$50","$500"], answer:1},
@@ -325,7 +325,7 @@ const curriculum: DayContent[] = [
      {q:"Saving money regularly can help you...", options:["Reach financial goals over time","Lose money faster","Have no benefit","Spend more impulsively"], answer:0},
    ]},
   {subject:"Science", title:"Review: Matter and Mechanisms", summary:"Recap of pure substances/mixtures, structures/mechanisms, and the engineering design process.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Review: Matter and Mechanisms", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Matter%20and%20Mechanisms%20grade%207%20educational",
    quiz:[
      {q:"A pure substance contains...", options:["One type of particle","Multiple unrelated particles","Nothing","Only liquids"], answer:0},
      {q:"A lever multiplies force around a...", options:["Fulcrum","River","Cloud","Magnet"], answer:0},
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Iteration in design means...", options:["Repeating and refining based on testing","Never changing the design","Skipping testing","Building once only"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Canadian History and Geography", summary:"Recap of Confederation, conflict 1800-1850, global connections, and map skills.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Review: Canadian History and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canadian%20History%20and%20Geography%20grade%207%20educational",
    quiz:[
      {q:"Confederation happened in which year?", options:["1812","1867","1900","1763"], answer:1},
      {q:"The War of 1812 was fought against...", options:["France","The United States","Spain","Germany"], answer:1},
@@ -345,7 +345,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of clauses, vocabulary, theme/tone, narrative structure, and persuasive writing.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%207%20educational",
    quiz:[
      {q:"The climax of a story is...", options:["The turning point","The opening line","The title","A footnote"], answer:0},
      {q:"A rhetorical question is used to...", options:["Make the reader think","Get a direct answer","Confuse on purpose","End a story"], answer:0},
@@ -354,7 +354,7 @@ const curriculum: DayContent[] = [
      {q:"The prefix 're-' usually means...", options:["Again","Not","Under","Before"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of ratios, percentages, integers, equations, inequalities, probability, and statistics.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%207%20educational",
    quiz:[
      {q:"What is 20% of 50?", options:["5","10","15","20"], answer:1},
      {q:"Solve: x - 3 = 9", options:["x=6","x=12","x=9","x=3"], answer:1},
@@ -363,7 +363,7 @@ const curriculum: DayContent[] = [
      {q:"Probability of rolling an even number on a fair 6-sided die?", options:["1/6","1/3","1/2","2/3"], answer:2},
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of ecosystems, matter, structures, and heat transfer.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%207%20educational",
    quiz:[
      {q:"Producers in an ecosystem...", options:["Make their own food","Eat others only","Decompose only","Do nothing"], answer:0},
      {q:"A mixture contains substances that...", options:["Lose their properties","Keep their own properties","Disappear completely","Become elements"], answer:1},
@@ -372,7 +372,7 @@ const curriculum: DayContent[] = [
      {q:"Melting point helps...", options:["Identify a substance","Change its mass","Has no use","Always change its colour"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of New France, Confederation, geography, and resources.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%207%20educational",
    quiz:[
      {q:"New France came under British control after...", options:["The Seven Years' War","World War I","Confederation","The Rebellions"], answer:0},
      {q:"Confederation occurred in...", options:["1867","1812","1763","1900"], answer:0},
@@ -383,7 +383,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Formal vs. Informal Letters and Emails", summary:"Formal letters and emails use polite, professional language and a clear structure; informal writing is more casual and personal.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Formal vs. Informal Letters and Emails", resourceUrl:"https://www.youtube.com/results?search_query=Formal%20vs.%20Informal%20Letters%20and%20Emails%20grade%207%20educational",
    quiz:[
      {q:"A formal email to a teacher should begin with...", options:["'Hey!'","A polite greeting like 'Dear Mr./Ms. ___'","No greeting at all","Slang"], answer:1},
      {q:"Informal writing is most appropriate when...", options:["Writing to a principal","Texting a close friend","Applying for something official","Writing a business letter"], answer:1},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
      {q:"A formal letter's purpose line is usually found...", options:["Nowhere","Near the beginning, stating why you're writing","Only at the very end","In the signature"], answer:1},
    ]},
   {subject:"Math", title:"Exponents and Scientific Notation (Intro)", summary:"Exponents show repeated multiplication; scientific notation expresses very large or small numbers compactly.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Exponents and Scientific Notation (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Exponents%20and%20Scientific%20Notation%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"What does 3^4 equal?", options:["12","34","81","64"], answer:2},
      {q:"What does 2^5 equal?", options:["10","16","32","25"], answer:2},
@@ -401,7 +401,7 @@ const curriculum: DayContent[] = [
      {q:"What is 5^2?", options:["10","20","25","52"], answer:2},
    ]},
   {subject:"Science", title:"Cell Theory and Microscopy Basics", summary:"All living things are made of cells; microscopes let us observe cell structures too small to see with the naked eye.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Cell Theory and Microscopy Basics", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Theory%20and%20Microscopy%20Basics%20grade%207%20educational",
    quiz:[
      {q:"According to cell theory, all living things are made of...", options:["Water only","Cells","Minerals","Air"], answer:1},
      {q:"A microscope is used to...", options:["Magnify tiny objects like cells","Measure temperature","Weigh objects","Test pH"], answer:0},
@@ -410,7 +410,7 @@ const curriculum: DayContent[] = [
      {q:"Plant cells differ from animal cells because plant cells have a...", options:["Nucleus only","Cell wall and chloroplasts","No membrane","No cytoplasm"], answer:1},
    ]},
   {subject:"SocialStudies", title:"The Canadian Pacific Railway and Westward Expansion", summary:"The CPR linked Canada from coast to coast, encouraging settlement and helping fulfill the promise made to British Columbia at Confederation.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: The Canadian Pacific Railway and Westward Expansion", resourceUrl:"https://www.youtube.com/results?search_query=The%20Canadian%20Pacific%20Railway%20and%20Westward%20Expansion%20grade%207%20educational",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1885","1812","1867","1920"], answer:0},
      {q:"One major reason for building the CPR was to...", options:["Connect British Columbia to the rest of Canada","Stop all immigration","End the fur trade","Create a new capital city"], answer:0},
@@ -421,7 +421,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Analyzing Poetry: Stanza, Rhyme Scheme, Meter", summary:"Poems are organized into stanzas and often use rhyme schemes and rhythm (meter) to create musicality and meaning.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Analyzing Poetry: Stanza, Rhyme Scheme, Meter", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Poetry%3A%20Stanza%2C%20Rhyme%20Scheme%2C%20Meter%20grade%207%20educational",
    quiz:[
      {q:"A stanza in a poem is similar to a...", options:["Paragraph in prose","Title","Footnote","Index"], answer:0},
      {q:"A rhyme scheme is usually described using...", options:["Numbers only","Letters like ABAB","Colours","Roman numerals"], answer:1},
@@ -430,7 +430,7 @@ const curriculum: DayContent[] = [
      {q:"Free verse poetry is characterized by...", options:["A strict rhyme scheme always","No fixed rhyme scheme or meter","Only one stanza ever","Being written in prose"], answer:1},
    ]},
   {subject:"Math", title:"Square Roots and Perfect Squares", summary:"A perfect square is a number that results from squaring an integer; the square root is the inverse operation.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Square Roots and Perfect Squares", resourceUrl:"https://www.youtube.com/results?search_query=Square%20Roots%20and%20Perfect%20Squares%20grade%207%20educational",
    quiz:[
      {q:"What is the square root of 49?", options:["6","7","8","9"], answer:1},
      {q:"Which of these is a perfect square?", options:["20","36","50","12"], answer:1},
@@ -439,7 +439,7 @@ const curriculum: DayContent[] = [
      {q:"The square root of 100 is...", options:["10","50","100","1"], answer:0},
    ]},
   {subject:"Science", title:"Classification of Organisms (Kingdoms)", summary:"Scientists classify living things into kingdoms (such as animals, plants, fungi, and bacteria) based on shared characteristics.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Classification of Organisms (Kingdoms)", resourceUrl:"https://www.youtube.com/results?search_query=Classification%20of%20Organisms%20%28Kingdoms%29%20grade%207%20educational",
    quiz:[
      {q:"Classification helps scientists...", options:["Organize living things based on shared traits","Confuse species names","Avoid studying nature","Eliminate species"], answer:0},
      {q:"Which kingdom includes mushrooms?", options:["Animal","Plant","Fungi","Bacteria"], answer:2},
@@ -448,7 +448,7 @@ const curriculum: DayContent[] = [
      {q:"Bacteria are typically classified as...", options:["Multicellular animals","Single-celled organisms","Plants with leaves","Fungi only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Immigration and Settlement of the Prairies", summary:"In the late 1800s and early 1900s, the Canadian government encouraged immigration to settle the Prairie provinces.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Immigration and Settlement of the Prairies", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Settlement%20of%20the%20Prairies%20grade%207%20educational",
    quiz:[
      {q:"The Canadian government encouraged Prairie settlement mainly to...", options:["Discourage agriculture","Develop farmland and populate the West","Reduce the population","Avoid building railways"], answer:1},
      {q:"Many settlers on the Prairies came from...", options:["Only Ontario","Europe and other parts of the world","Nowhere outside Canada","Only the United States"], answer:1},
@@ -459,7 +459,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Debate Skills and Structuring an Argument", summary:"Effective debaters organize claims, evidence, and rebuttals clearly, and listen carefully to counterarguments.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Debate Skills and Structuring an Argument", resourceUrl:"https://www.youtube.com/results?search_query=Debate%20Skills%20and%20Structuring%20an%20Argument%20grade%207%20educational",
    quiz:[
      {q:"A rebuttal in a debate is...", options:["A response that challenges the other side's argument","The opening statement only","A summary of the topic","Irrelevant information"], answer:0},
      {q:"In a structured debate, each side usually presents...", options:["No evidence at all","Claims supported by evidence and reasoning","Only opinions with no support","Random facts"], answer:1},
@@ -468,7 +468,7 @@ const curriculum: DayContent[] = [
      {q:"The closing statement in a debate typically...", options:["Introduces brand new evidence only","Summarizes and reinforces your strongest points","Ends the debate with no conclusion","Has no purpose"], answer:1},
    ]},
   {subject:"Math", title:"The Pythagorean Relationship (Intro)", summary:"In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides (a² + b² = c²).",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: The Pythagorean Relationship (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=The%20Pythagorean%20Relationship%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"The Pythagorean relationship applies to which type of triangle?", options:["Right triangle","Equilateral triangle only","Any triangle","Obtuse triangle only"], answer:0},
      {q:"In a²+b²=c², 'c' represents the...", options:["Shortest side","Hypotenuse (longest side)","Height only","Angle"], answer:1},
@@ -477,7 +477,7 @@ const curriculum: DayContent[] = [
      {q:"If a=6 and b=8, what is c?", options:["9","10","12","14"], answer:1},
    ]},
   {subject:"Science", title:"The Carbon Cycle", summary:"Carbon moves between the atmosphere, living things, oceans, and rocks through processes like respiration, photosynthesis, and combustion.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: The Carbon Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Carbon%20Cycle%20grade%207%20educational",
    quiz:[
      {q:"Photosynthesis removes which gas from the atmosphere?", options:["Oxygen","Carbon dioxide","Nitrogen","Helium"], answer:1},
      {q:"Respiration in living things releases...", options:["Oxygen only","Carbon dioxide","Nitrogen gas","Helium"], answer:1},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
      {q:"Which of these stores large amounts of carbon over long periods?", options:["Clouds","Rocks and fossil fuel deposits","Wind","Sunlight"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Residential Schools and Truth and Reconciliation", summary:"Residential schools were part of a difficult chapter in Canadian history; Truth and Reconciliation Day helps Canadians learn about this history and honour Indigenous survivors and communities.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Residential Schools and Truth and Reconciliation", resourceUrl:"https://www.youtube.com/results?search_query=Residential%20Schools%20and%20Truth%20and%20Reconciliation%20grade%207%20educational",
    quiz:[
      {q:"The National Day for Truth and Reconciliation is observed on...", options:["September 30","July 1","December 25","October 31"], answer:0},
      {q:"Residential schools were a part of Canadian history in which Indigenous children were...", options:["Given extra holidays","Sent away from their families to schools that often harmed their culture and well-being","Taught only at home","Given no education at all"], answer:1},
@@ -497,7 +497,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Note-Taking and Summarizing Strategies", summary:"Effective note-takers identify main ideas and key details, and summarize text concisely in their own words.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Note-Taking and Summarizing Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Note-Taking%20and%20Summarizing%20Strategies%20grade%207%20educational",
    quiz:[
      {q:"A good summary should...", options:["Include every detail from the original","Capture the main ideas concisely in your own words","Be longer than the original text","Copy the text exactly"], answer:1},
      {q:"When taking notes, it's helpful to use...", options:["Full sentences for everything","Abbreviations, symbols, and key words","No organization at all","Only pictures"], answer:1},
@@ -506,7 +506,7 @@ const curriculum: DayContent[] = [
      {q:"Paraphrasing in a summary means...", options:["Restating ideas in your own words","Copying word for word","Skipping the main idea","Adding unrelated information"], answer:0},
    ]},
   {subject:"Math", title:"Circles: Circumference and Area", summary:"Circumference measures the distance around a circle; area measures the space inside it, both calculated using radius or diameter and pi.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Circles: Circumference and Area", resourceUrl:"https://www.youtube.com/results?search_query=Circles%3A%20Circumference%20and%20Area%20grade%207%20educational",
    quiz:[
      {q:"The formula for circumference of a circle is...", options:["C = πr²","C = 2πr","C = πd²","C = r²"], answer:1},
      {q:"The formula for area of a circle is...", options:["A = 2πr","A = πr²","A = πd","A = 2r"], answer:1},
@@ -515,7 +515,7 @@ const curriculum: DayContent[] = [
      {q:"If a circle has a radius of 3, what is its approximate area? (use π≈3.14)", options:["9.42","18.84","28.26","6.28"], answer:2},
    ]},
   {subject:"Science", title:"Chemical vs. Physical Properties (Deeper Dive)", summary:"Physical properties can be observed without changing the substance's identity; chemical properties describe how a substance reacts or changes into something new.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Chemical vs. Physical Properties (Deeper Dive)", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20vs.%20Physical%20Properties%20%28Deeper%20Dive%29%20grade%207%20educational",
    quiz:[
      {q:"Colour and melting point are examples of...", options:["Chemical properties","Physical properties","Neither","Biological properties"], answer:1},
      {q:"Flammability is an example of a...", options:["Physical property","Chemical property","Colour property","Density property"], answer:1},
@@ -524,7 +524,7 @@ const curriculum: DayContent[] = [
      {q:"Reactivity with acid is an example of a...", options:["Physical property","Chemical property","Texture property","Density property"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Canada's Role in World War I", summary:"Canada, as part of the British Empire, played a significant role in World War I, with major battles like Vimy Ridge shaping national identity.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Canada's Role in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Role%20in%20World%20War%20I%20grade%207%20educational",
    quiz:[
      {q:"World War I took place mainly during which years?", options:["1914–1918","1867–1871","1812–1815","1939–1945"], answer:0},
      {q:"The Battle of Vimy Ridge is significant in Canadian history because...", options:["It had no impact on Canada","It is often seen as a moment that helped shape Canadian national identity","It ended the war immediately","It took place in Canada"], answer:1},
@@ -535,7 +535,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Letters, Poetry, Debate, and Note-Taking", summary:"Mixed review of formal/informal writing, poetry elements, debate skills, and summarizing strategies.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Review: Letters, Poetry, Debate, and Note-Taking", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Letters%2C%20Poetry%2C%20Debate%2C%20and%20Note-Taking%20grade%207%20educational",
    quiz:[
      {q:"A formal letter should begin with...", options:["A polite greeting","Slang","No greeting","An emoji"], answer:0},
      {q:"A stanza in a poem is like a...", options:["Paragraph in prose","Footnote","Title","Index"], answer:0},
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"Contractions are generally avoided in...", options:["Formal writing","Texting","Informal notes","Casual emails"], answer:0},
    ]},
   {subject:"Math", title:"Review: Exponents, Square Roots, Pythagorean Relationship, Circles", summary:"Mixed review of exponents, perfect squares, the Pythagorean relationship, and circle measurements.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Review: Exponents, Square Roots, Pythagorean Relationship, Circles", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Exponents%2C%20Square%20Roots%2C%20Pythagorean%20Relationship%2C%20Circles%20grade%207%20educational",
    quiz:[
      {q:"What is 2^4?", options:["8","16","12","6"], answer:1},
      {q:"What is the square root of 64?", options:["6","7","8","9"], answer:2},
@@ -553,7 +553,7 @@ const curriculum: DayContent[] = [
      {q:"What is 5 squared?", options:["10","20","25","15"], answer:2},
    ]},
   {subject:"Science", title:"Review: Cells, Classification, Carbon Cycle, Matter", summary:"Mixed review of cell theory, classification of organisms, the carbon cycle, and chemical vs. physical properties.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Review: Cells, Classification, Carbon Cycle, Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Classification%2C%20Carbon%20Cycle%2C%20Matter%20grade%207%20educational",
    quiz:[
      {q:"All living things are made of...", options:["Cells","Water only","Minerals","Air"], answer:0},
      {q:"Which kingdom includes mushrooms?", options:["Fungi","Animal","Plant","Bacteria"], answer:0},
@@ -562,7 +562,7 @@ const curriculum: DayContent[] = [
      {q:"The nucleus of a cell contains...", options:["Genetic material","Only water","Only air","Nothing important"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Railway, Settlement, Reconciliation, World War I", summary:"Mixed review of the CPR, Prairie settlement, Truth and Reconciliation, and Canada's role in World War I.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Review: Railway, Settlement, Reconciliation, World War I", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Railway%2C%20Settlement%2C%20Reconciliation%2C%20World%20War%20I%20grade%207%20educational",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1885","1812","1920","1867"], answer:0},
      {q:"The National Day for Truth and Reconciliation is on...", options:["September 30","July 1","October 31","December 25"], answer:0},
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Analyzing Graphic and Visual Texts", summary:"Infographics, charts, and diagrams present information visually; readers must interpret data, labels, and layout to understand the message.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Analyzing Graphic and Visual Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Graphic%20and%20Visual%20Texts%20grade%207%20educational",
    quiz:[
      {q:"An infographic mainly combines...", options:["Text and visuals to present information","Only numbers with no context","Only photographs","Random colours with no meaning"], answer:0},
      {q:"When reading a chart in an article, you should first check...", options:["The font size","The title and labels to understand what's shown","The page number","The author's name only"], answer:1},
@@ -582,7 +582,7 @@ const curriculum: DayContent[] = [
      {q:"When analyzing a visual text, it's important to consider...", options:["Only the colours used","The purpose, audience, and accuracy of the information","Nothing beyond the picture","The artist's signature only"], answer:1},
    ]},
   {subject:"Math", title:"Surface Area and Volume of Prisms", summary:"Surface area is the total area of all faces of a 3D shape; volume measures the space inside it.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Surface Area and Volume of Prisms", resourceUrl:"https://www.youtube.com/results?search_query=Surface%20Area%20and%20Volume%20of%20Prisms%20grade%207%20educational",
    quiz:[
      {q:"The volume of a rectangular prism is found by...", options:["Length × Width × Height","Length + Width + Height","Length × Width only","Width × Height only"], answer:0},
      {q:"A rectangular prism with dimensions 2×3×4 has a volume of...", options:["9","24","20","14"], answer:1},
@@ -591,7 +591,7 @@ const curriculum: DayContent[] = [
      {q:"A triangular prism's volume can be found using...", options:["Area of triangular base × length","Perimeter × height only","Width × height only","Length × width only"], answer:0},
    ]},
   {subject:"Science", title:"Simple Machines and Mechanical Efficiency", summary:"Simple machines like levers, pulleys, and inclined planes make work easier, though some energy is always lost to friction.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Simple Machines and Mechanical Efficiency", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20and%20Mechanical%20Efficiency%20grade%207%20educational",
    quiz:[
      {q:"An inclined plane makes work easier by...", options:["Reducing the force needed over a longer distance","Eliminating all friction","Increasing weight","Doing nothing useful"], answer:0},
      {q:"Mechanical efficiency compares...", options:["Useful output energy to total input energy","Colour to weight","Speed to volume","Mass to friction only"], answer:0},
@@ -600,7 +600,7 @@ const curriculum: DayContent[] = [
      {q:"No machine can be 100% efficient because...", options:["Some energy is always lost, often as heat from friction","Machines create extra energy","Energy cannot be transferred","Efficiency doesn't apply to machines"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Women's Suffrage in Canada", summary:"Women in Canada campaigned for and gradually won the right to vote, beginning with Manitoba in 1916 and federally in 1918.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Women's Suffrage in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Women%27s%20Suffrage%20in%20Canada%20grade%207%20educational",
    quiz:[
      {q:"Suffrage refers to the right to...", options:["Own property","Vote","Attend school","Work"], answer:1},
      {q:"Which province first gave (most) women the right to vote provincially?", options:["Manitoba","Ontario","Quebec","British Columbia"], answer:0},
@@ -611,7 +611,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Irony and Satire", summary:"Irony occurs when there's a contrast between expectation and reality; satire uses humour or exaggeration to criticize something.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Irony and Satire", resourceUrl:"https://www.youtube.com/results?search_query=Irony%20and%20Satire%20grade%207%20educational",
    quiz:[
      {q:"Irony involves...", options:["A contrast between expectation and reality","Always being funny","A type of rhyme scheme","A formal greeting"], answer:0},
      {q:"Satire often uses humour or exaggeration to...", options:["Praise something directly","Criticize or mock a subject","Describe a setting only","Avoid making a point"], answer:1},
@@ -620,7 +620,7 @@ const curriculum: DayContent[] = [
      {q:"Verbal irony occurs when...", options:["Someone says the opposite of what they mean","Someone tells the literal truth always","No one speaks","Someone uses a rhyme"], answer:0},
    ]},
   {subject:"Math", title:"Proportional Reasoning and Scale", summary:"Proportional reasoning compares relationships between quantities, often used in scale drawings and maps.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Proportional Reasoning and Scale", resourceUrl:"https://www.youtube.com/results?search_query=Proportional%20Reasoning%20and%20Scale%20grade%207%20educational",
    quiz:[
      {q:"If a scale drawing uses a ratio of 1:50, a 2 cm length represents...", options:["50 cm","100 cm","25 cm","2 cm"], answer:1},
      {q:"Two quantities are proportional if...", options:["Their ratio stays constant","They are always equal","They never relate","One is always zero"], answer:0},
@@ -629,7 +629,7 @@ const curriculum: DayContent[] = [
      {q:"Scale factors greater than 1 make a drawing...", options:["Smaller than actual size","Larger than actual size","The same size","Negative"], answer:1},
    ]},
   {subject:"Science", title:"The Rock Cycle and Types of Rocks", summary:"Rocks are classified as igneous, sedimentary, or metamorphic, and constantly change form through the rock cycle.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: The Rock Cycle and Types of Rocks", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20and%20Types%20of%20Rocks%20grade%207%20educational",
    quiz:[
      {q:"Igneous rock forms from...", options:["Cooled, hardened magma or lava","Compressed sediment only","Extreme cold","Ocean water only"], answer:0},
      {q:"Sedimentary rock forms through...", options:["Volcanic eruption only","Compaction and cementation of sediment layers","Melting only","Freezing only"], answer:1},
@@ -638,7 +638,7 @@ const curriculum: DayContent[] = [
      {q:"Fossils are most commonly found in which type of rock?", options:["Igneous","Sedimentary","Metamorphic","None of these"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Urbanization and Its Effects on Canadian Cities", summary:"As Canada industrialized, more people moved to cities, leading to growth in housing, jobs, and infrastructure challenges.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Urbanization and Its Effects on Canadian Cities", resourceUrl:"https://www.youtube.com/results?search_query=Urbanization%20and%20Its%20Effects%20on%20Canadian%20Cities%20grade%207%20educational",
    quiz:[
      {q:"Urbanization refers to...", options:["People moving from rural areas to cities","Cities disappearing","Farming expansion only","A decrease in population"], answer:0},
      {q:"Industrialization in Canadian history contributed to urbanization by...", options:["Creating factory jobs that drew people to cities","Removing all jobs","Discouraging migration","Having no economic effect"], answer:0},
@@ -649,7 +649,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Bias Detection in News Articles", summary:"Critical readers identify bias by examining word choice, missing perspectives, and the source's purpose or ownership.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Bias Detection in News Articles", resourceUrl:"https://www.youtube.com/results?search_query=Bias%20Detection%20in%20News%20Articles%20grade%207%20educational",
    quiz:[
      {q:"Bias in a news article can be revealed through...", options:["Neutral, balanced word choice only","Loaded language and one-sided framing","Always citing multiple sources fairly","Never having an author"], answer:1},
      {q:"A reliable news source typically...", options:["Presents only one viewpoint","Cites credible sources and verifies facts","Avoids fact-checking","Uses only emotional language"], answer:1},
@@ -658,7 +658,7 @@ const curriculum: DayContent[] = [
      {q:"An author's purpose (to inform, persuade, or entertain) can affect...", options:["Nothing about the article","How the information is presented, including potential bias","Only the article's length","Only the font used"], answer:1},
    ]},
   {subject:"Math", title:"Linear Relations and Graphing (Intro)", summary:"A linear relation shows a constant rate of change between two variables and can be represented with a table, equation, or straight-line graph.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Linear Relations and Graphing (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Relations%20and%20Graphing%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"A linear relation graphs as a...", options:["Curve","Straight line","Single point","Circle"], answer:1},
      {q:"In the equation y = 2x + 1, what is y when x = 3?", options:["5","6","7","8"], answer:2},
@@ -667,7 +667,7 @@ const curriculum: DayContent[] = [
      {q:"In a table of values for a linear relation, the y-values change by a...", options:["Random amount each time","Constant amount for each constant change in x","Decreasing rate only","Nothing, they stay the same"], answer:1},
    ]},
   {subject:"Science", title:"Weather Systems and Air Masses", summary:"Weather is influenced by moving air masses with different temperature and humidity, and by fronts where air masses meet.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Weather Systems and Air Masses", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Systems%20and%20Air%20Masses%20grade%207%20educational",
    quiz:[
      {q:"An air mass is a large body of air with similar...", options:["Colour and shape","Temperature and humidity","Sound and pressure","Speed and direction only"], answer:1},
      {q:"A cold front occurs when...", options:["A cold air mass pushes into a warmer area","Two warm air masses combine","No air masses move","Air pressure has no role"], answer:0},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
      {q:"Where two air masses meet, this boundary is called a...", options:["Front","Core","Layer","Belt"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Climate Regions of the World", summary:"The world is divided into climate regions (such as tropical, arid, temperate, and polar) based on temperature and precipitation patterns.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Climate Regions of the World", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20Regions%20of%20the%20World%20grade%207%20educational",
    quiz:[
      {q:"Climate regions are classified mainly based on...", options:["Temperature and precipitation patterns","Government type","Population size","Language spoken"], answer:0},
      {q:"A tropical climate region typically has...", options:["Cold temperatures year-round","Warm temperatures and high rainfall","No precipitation ever","Constant snow"], answer:1},
@@ -687,7 +687,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Research Report Structure", summary:"A research report typically includes an introduction, body paragraphs organized by subtopic, a conclusion, and cited sources.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Research Report Structure", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Report%20Structure%20grade%207%20educational",
    quiz:[
      {q:"The introduction of a research report should...", options:["Introduce the topic and main idea","Be left out entirely","Only list sources","Contain the conclusion"], answer:0},
      {q:"Body paragraphs in a research report are usually organized by...", options:["Random order","Subtopics or themes","Length only","Alphabetical order of words"], answer:1},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
      {q:"Using multiple credible sources in research helps...", options:["Weaken the report","Provide a well-supported, balanced report","Make plagiarism acceptable","Replace the need for analysis"], answer:1},
    ]},
   {subject:"Math", title:"Transformations: Rotations, Reflections, Translations", summary:"Transformations move shapes on a grid: translations slide, reflections flip, and rotations turn a shape around a point.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Transformations: Rotations, Reflections, Translations", resourceUrl:"https://www.youtube.com/results?search_query=Transformations%3A%20Rotations%2C%20Reflections%2C%20Translations%20grade%207%20educational",
    quiz:[
      {q:"A translation moves a shape by...", options:["Flipping it over a line","Sliding it without rotating or flipping","Turning it around a point","Changing its size"], answer:1},
      {q:"A reflection creates a...", options:["Mirror image of the shape","Larger version of the shape","Rotated version only","Smaller version of the shape"], answer:0},
@@ -705,7 +705,7 @@ const curriculum: DayContent[] = [
      {q:"After a transformation, the original shape and its image are usually...", options:["Different shapes entirely","Congruent (same size and shape)","Always larger","Always smaller"], answer:1},
    ]},
   {subject:"Science", title:"Biodiversity and Species at Risk", summary:"Biodiversity is the variety of living things in an ecosystem; human activity can threaten species, leading some to become at risk or endangered.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Biodiversity and Species at Risk", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20and%20Species%20at%20Risk%20grade%207%20educational",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of living things in an area","Only the number of trees","Only ocean life","The weather in a region"], answer:0},
      {q:"A species at risk is one that...", options:["Is thriving with a growing population","Faces a declining population and risk of extinction","Has no predators","Lives only in zoos"], answer:1},
@@ -714,7 +714,7 @@ const curriculum: DayContent[] = [
      {q:"Conservation efforts, like protected parks, aim to...", options:["Increase habitat destruction","Preserve habitats and species at risk","Eliminate biodiversity","Encourage overhunting"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Population Distribution and Density Globally", summary:"Population distribution describes where people live; population density measures how many people live in a given area, both shaped by geography and resources.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Population Distribution and Density Globally", resourceUrl:"https://www.youtube.com/results?search_query=Population%20Distribution%20and%20Density%20Globally%20grade%207%20educational",
    quiz:[
      {q:"Population density measures...", options:["The total population of a country only","The number of people per unit area","The number of cities in a region","The climate of a region"], answer:1},
      {q:"Areas with fertile land and fresh water tend to have...", options:["No population at all","Higher population density","Always low population","No relationship to settlement"], answer:1},
@@ -725,7 +725,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Visual Texts, Irony, Bias, and Research Reports", summary:"Mixed review of analyzing visual texts, irony/satire, bias detection, and research report structure.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Review: Visual Texts, Irony, Bias, and Research Reports", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Visual%20Texts%2C%20Irony%2C%20Bias%2C%20and%20Research%20Reports%20grade%207%20educational",
    quiz:[
      {q:"An infographic combines...", options:["Text and visuals","Only numbers","Only photos","Random colours"], answer:0},
      {q:"Irony involves a contrast between...", options:["Expectation and reality","Two characters only","Two settings only","Title and author"], answer:0},
@@ -734,7 +734,7 @@ const curriculum: DayContent[] = [
      {q:"Situational irony is when...", options:["The outcome is the opposite of what's expected","Everything goes as planned","A character speaks formally","No one notices anything"], answer:0},
    ]},
   {subject:"Math", title:"Review: Surface Area/Volume, Proportional Reasoning, Linear Relations, Transformations", summary:"Mixed review of prisms, scale, linear relations, and grid transformations.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Review: Surface Area/Volume, Proportional Reasoning, Linear Relations, Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Surface%20Area%2FVolume%2C%20Proportional%20Reasoning%2C%20Linear%20Relations%2C%20Transformations%20grade%207%20educational",
    quiz:[
      {q:"Volume of a rectangular prism is found by...", options:["Length × Width × Height","Length + Width + Height","Length × Width only","Perimeter only"], answer:0},
      {q:"If a scale is 1:50, a 2 cm length represents...", options:["100 cm","50 cm","25 cm","2 cm"], answer:0},
@@ -743,7 +743,7 @@ const curriculum: DayContent[] = [
      {q:"The rate of change in a linear relation is the...", options:["Slope","Y-intercept","Origin","Axis"], answer:0},
    ]},
   {subject:"Science", title:"Review: Simple Machines, Rocks, Weather, Biodiversity", summary:"Mixed review of mechanical efficiency, the rock cycle, weather systems, and biodiversity.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Review: Simple Machines, Rocks, Weather, Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Simple%20Machines%2C%20Rocks%2C%20Weather%2C%20Biodiversity%20grade%207%20educational",
    quiz:[
      {q:"An inclined plane makes work easier by...", options:["Reducing force needed over a longer distance","Eliminating friction","Increasing weight","Doing nothing useful"], answer:0},
      {q:"Igneous rock forms from...", options:["Cooled magma or lava","Compressed sediment","Extreme cold","Ocean water"], answer:0},
@@ -752,7 +752,7 @@ const curriculum: DayContent[] = [
      {q:"A cold front occurs when...", options:["A cold air mass pushes into a warmer area","Two warm air masses combine","No air masses move","Pressure has no role"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Suffrage, Urbanization, Climate Regions, Population", summary:"Mixed review of women's suffrage, urbanization, climate regions, and population distribution/density.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Review: Suffrage, Urbanization, Climate Regions, Population", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Suffrage%2C%20Urbanization%2C%20Climate%20Regions%2C%20Population%20grade%207%20educational",
    quiz:[
      {q:"Suffrage refers to the right to...", options:["Vote","Own property","Attend school","Work"], answer:0},
      {q:"Urbanization refers to...", options:["People moving from rural areas to cities","Cities disappearing","Farming expansion","Population decrease"], answer:0},
@@ -763,7 +763,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Analyzing Character Motivation", summary:"Character motivation is the reason behind a character's actions, often revealed through their words, choices, and reactions to events.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Analyzing Character Motivation", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Character%20Motivation%20grade%207%20educational",
    quiz:[
      {q:"Character motivation refers to...", options:["The reason a character acts the way they do","The setting of the story","The author's name","The book's cover design"], answer:0},
      {q:"Readers can infer motivation by examining...", options:["The font used in the book","A character's words, choices, and reactions","Only the chapter titles","The page count"], answer:1},
@@ -772,7 +772,7 @@ const curriculum: DayContent[] = [
      {q:"Internal conflict often relates to a character's...", options:["Motivation clashing with another need or value","Favourite colour","Height","Handwriting"], answer:0},
    ]},
   {subject:"Math", title:"Two-Step Equations", summary:"Two-step equations require two operations to isolate the variable, such as undoing addition/subtraction first, then multiplication/division.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Two-Step Equations", resourceUrl:"https://www.youtube.com/results?search_query=Two-Step%20Equations%20grade%207%20educational",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=5","x=6","x=7","x=8"], answer:1},
      {q:"Solve: 3x - 4 = 11", options:["x=3","x=4","x=5","x=6"], answer:1},
@@ -781,7 +781,7 @@ const curriculum: DayContent[] = [
      {q:"Solve: 2x + 7 = 19", options:["x=5","x=6","x=7","x=8"], answer:1},
    ]},
   {subject:"Science", title:"Renewable Energy Technologies", summary:"Renewable energy sources like solar, wind, and hydro generate power without depleting finite resources, using technologies engineered to capture natural energy.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Renewable Energy Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20Energy%20Technologies%20grade%207%20educational",
    quiz:[
      {q:"Solar panels convert which type of energy into electricity?", options:["Wind energy","Sunlight (solar energy)","Heat from the ground only","Sound energy"], answer:1},
      {q:"Wind turbines generate electricity using...", options:["Moving air to spin blades connected to a generator","Sunlight only","Underground heat","Ocean tides only"], answer:0},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
      {q:"A challenge of solar and wind energy is that they...", options:["Always produce constant power","Depend on weather and time of day","Cannot be used anywhere","Are illegal in Canada"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Trade and Globalization (Intro)", summary:"Globalization connects countries through trade, technology, and culture, allowing goods, services, and ideas to move around the world.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Trade and Globalization (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Globalization%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"Globalization refers to...", options:["Countries becoming more isolated","Increasing connections between countries through trade, technology, and culture","The end of all trade","A single world government"], answer:1},
      {q:"International trade allows countries to...", options:["Only use their own resources","Exchange goods and services they may lack","Avoid all economic interaction","Eliminate imports completely"], answer:1},
@@ -801,7 +801,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Comparing Perspectives in Two Texts", summary:"Comparing how two texts present the same topic or event helps readers identify different viewpoints, tone, and emphasis.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Comparing Perspectives in Two Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Perspectives%20in%20Two%20Texts%20grade%207%20educational",
    quiz:[
      {q:"When comparing two texts on the same topic, readers should look for...", options:["Differences in viewpoint, tone, and emphasis","Only spelling differences","The page count of each text","The font size used"], answer:0},
      {q:"Two authors writing about the same historical event might differ in...", options:["What facts they choose to emphasize","The actual date of the event","Nothing at all","The language the event happened in"], answer:0},
@@ -810,7 +810,7 @@ const curriculum: DayContent[] = [
      {q:"Reading multiple perspectives on an issue helps you...", options:["Develop a more complete understanding","Become more biased","Ignore evidence","Avoid critical thinking"], answer:0},
    ]},
   {subject:"Math", title:"Data: Measures of Central Tendency with Real Data Sets", summary:"Mean, median, and mode summarize data sets, and the choice of measure can affect how data is interpreted, especially with outliers.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Data: Measures of Central Tendency with Real Data Sets", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Measures%20of%20Central%20Tendency%20with%20Real%20Data%20Sets%20grade%207%20educational",
    quiz:[
      {q:"An outlier in a data set is a value that is...", options:["Typical of the rest of the data","Much higher or lower than most other values","Always the mode","Always the median"], answer:1},
      {q:"Which measure is most affected by an extreme outlier?", options:["Mean","Median","Mode","None of them"], answer:0},
@@ -819,7 +819,7 @@ const curriculum: DayContent[] = [
      {q:"What is the mode of 4, 4, 6, 8, 8, 8?", options:["4","6","7","8"], answer:3},
    ]},
   {subject:"Science", title:"The Layers of the Earth", summary:"Earth is made of distinct layers — crust, mantle, outer core, and inner core — each with different composition and properties.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: The Layers of the Earth", resourceUrl:"https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Earth%20grade%207%20educational",
    quiz:[
      {q:"The outermost layer of the Earth is the...", options:["Mantle","Crust","Outer core","Inner core"], answer:1},
      {q:"The mantle is located...", options:["Above the crust","Between the crust and the outer core","At the very centre of Earth","In the atmosphere"], answer:1},
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Earth's layered structure was determined largely by studying...", options:["Ocean currents","Seismic waves from earthquakes","Wind patterns","Cloud formations"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Natural Disasters and Their Geographic Causes", summary:"Natural disasters like earthquakes, volcanoes, floods, and hurricanes often occur in predictable geographic patterns related to tectonic activity and climate.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Natural Disasters and Their Geographic Causes", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Disasters%20and%20Their%20Geographic%20Causes%20grade%207%20educational",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["Tectonic plate boundaries","River deltas only","The equator only","Polar ice caps only"], answer:0},
      {q:"Hurricanes typically form over...", options:["Cold polar oceans","Warm ocean waters","Mountain ranges","Deserts"], answer:1},
@@ -839,7 +839,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Advertisements and Persuasive Media", summary:"Advertisements use persuasive techniques such as emotional appeals, testimonials, and bandwagon appeal to influence consumer choices.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Analyzing Advertisements and Persuasive Media", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Advertisements%20and%20Persuasive%20Media%20grade%207%20educational",
    quiz:[
      {q:"Bandwagon appeal in advertising suggests that...", options:["You should buy something because everyone else is","No one else uses the product","The product is scientifically proven","The product has no benefits"], answer:0},
      {q:"A testimonial in an ad typically features...", options:["A celebrity or customer praising the product","Only statistics","No people at all","A list of ingredients only"], answer:0},
@@ -848,7 +848,7 @@ const curriculum: DayContent[] = [
      {q:"Product placement in media refers to...", options:["Featuring a brand's product within a show or movie","Removing all brands from media","A type of news article","A type of poem"], answer:0},
    ]},
   {subject:"Math", title:"Financial Literacy: Interest, Discounts, and Sales Tax Combined", summary:"Real-world financial calculations often require combining percentage concepts like discounts, sales tax, and interest in multi-step problems.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Financial Literacy: Interest, Discounts, and Sales Tax Combined", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Interest%2C%20Discounts%2C%20and%20Sales%20Tax%20Combined%20grade%207%20educational",
    quiz:[
      {q:"A $50 item is 20% off, then 13% sales tax is added. What is the final price (rounded)?", options:["$45.20","$40.00","$56.50","$50.00"], answer:0},
      {q:"If you borrow $200 at 4% simple interest for 2 years, how much interest will you pay?", options:["$8","$16","$80","$800"], answer:1},
@@ -857,7 +857,7 @@ const curriculum: DayContent[] = [
      {q:"If an item's price after a 10% discount is $90, what was the original price?", options:["$99","$100","$95","$110"], answer:1},
    ]},
   {subject:"Science", title:"Genetics and Inherited Traits (Intro)", summary:"Living things inherit traits from their parents through genes, which are passed down and combined in offspring.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Genetics and Inherited Traits (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%20and%20Inherited%20Traits%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"Genes are passed from...", options:["Parents to offspring","The environment only","Nowhere; they are random","Only mothers"], answer:0},
      {q:"An inherited trait is a characteristic that is...", options:["Learned through practice","Passed down genetically from parents","Always changed by environment alone","Random with no biological basis"], answer:1},
@@ -866,7 +866,7 @@ const curriculum: DayContent[] = [
      {q:"Offspring typically inherit a combination of traits from...", options:["Only one parent always","Both parents","Neither parent","The environment only"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Map Projections and Their Distortions", summary:"Map projections translate the curved surface of the Earth onto a flat map, which always introduces some distortion in shape, size, or distance.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Map Projections and Their Distortions", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Projections%20and%20Their%20Distortions%20grade%207%20educational",
    quiz:[
      {q:"Map projections are necessary because...", options:["The Earth is flat","The Earth is curved and maps are flat","Maps need colour","Distances never matter"], answer:1},
      {q:"The Mercator projection is known for distorting...", options:["The size of landmasses, especially near the poles","Nothing at all","Only ocean colours","Country names"], answer:0},
@@ -877,7 +877,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Using Active vs. Passive Voice", summary:"In active voice, the subject performs the action; in passive voice, the subject receives the action, which can make writing less direct.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Using Active vs. Passive Voice", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Active%20vs.%20Passive%20Voice%20grade%207%20educational",
    quiz:[
      {q:"In active voice, the subject...", options:["Performs the action","Receives the action","Is always missing","Is never mentioned"], answer:0},
      {q:"'The ball was thrown by Sam' is an example of...", options:["Active voice","Passive voice","A question","A command"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
      {q:"Passive voice can be useful when...", options:["The performer of the action is unknown or unimportant","You always want to confuse the reader","Writing is never edited","Grammar doesn't matter"], answer:0},
    ]},
   {subject:"Math", title:"Venn Diagrams and Set Notation (Intro)", summary:"Venn diagrams visually represent sets and their relationships, including unions, intersections, and elements unique to each set.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Venn Diagrams and Set Notation (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Venn%20Diagrams%20and%20Set%20Notation%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"The intersection of two sets includes...", options:["Elements found in both sets","Elements found in neither set","Only elements in the first set","All elements everywhere"], answer:0},
      {q:"The union of two sets includes...", options:["Only shared elements","All elements from both sets combined","No elements","Only elements not in either set"], answer:1},
@@ -895,7 +895,7 @@ const curriculum: DayContent[] = [
      {q:"If Set A = {1,2} and Set B = {3,4}, the union is...", options:["{1,2,3,4}","{}","{1,2}","{3,4}"], answer:0},
    ]},
   {subject:"Science", title:"States of Matter and Changes of State (Particle Model)", summary:"The particle model explains how particles behave differently in solids, liquids, and gases, and how energy causes changes of state.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: States of Matter and Changes of State (Particle Model)", resourceUrl:"https://www.youtube.com/results?search_query=States%20of%20Matter%20and%20Changes%20of%20State%20%28Particle%20Model%29%20grade%207%20educational",
    quiz:[
      {q:"In a solid, particles are...", options:["Tightly packed and vibrate in place","Far apart and moving freely","Nonexistent","Always moving randomly with no pattern"], answer:0},
      {q:"In a gas, particles...", options:["Are tightly packed","Move freely and are far apart","Cannot move at all","Are arranged in a fixed pattern"], answer:1},
@@ -904,7 +904,7 @@ const curriculum: DayContent[] = [
      {q:"Condensation is the change of state from...", options:["Solid to gas","Gas to liquid","Liquid to solid","Solid to liquid"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Economic Systems: Needs, Wants, Resources, and Trade", summary:"Economic systems organize how societies use limited resources to meet needs and wants, often relying on trade to access goods they cannot produce themselves.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Economic Systems: Needs, Wants, Resources, and Trade", resourceUrl:"https://www.youtube.com/results?search_query=Economic%20Systems%3A%20Needs%2C%20Wants%2C%20Resources%2C%20and%20Trade%20grade%207%20educational",
    quiz:[
      {q:"A need is something...", options:["Required for survival, like food and shelter","Always a luxury item","Never important","The same as a want"], answer:0},
      {q:"A want is something that...", options:["Is required for survival","Is desired but not essential for survival","Is illegal to have","Cannot be purchased"], answer:1},
@@ -915,7 +915,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Motivation, Perspectives, Ads, and Voice", summary:"Mixed review of character motivation, comparing perspectives, analyzing ads, and active/passive voice.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Review: Motivation, Perspectives, Ads, and Voice", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Motivation%2C%20Perspectives%2C%20Ads%2C%20and%20Voice%20grade%207%20educational",
    quiz:[
      {q:"Character motivation refers to...", options:["The reason a character acts a certain way","The story's setting","The author's name","The book's cover"], answer:0},
      {q:"Comparing two texts on the same topic reveals differences in...", options:["Viewpoint, tone, and emphasis","Only spelling","Page count","Font size"], answer:0},
@@ -924,7 +924,7 @@ const curriculum: DayContent[] = [
      {q:"A testimonial in an ad usually features...", options:["A person praising the product","Only statistics","No people","An ingredient list"], answer:0},
    ]},
   {subject:"Math", title:"Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", summary:"Mixed review of two-step equations, mean/median/mode with outliers, Venn diagrams, and combined financial literacy.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Two-Step%20Equations%2C%20Central%20Tendency%2C%20Venn%20Diagrams%2C%20Finance%20grade%207%20educational",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=6","x=5","x=7","x=8"], answer:0},
      {q:"An outlier is a value that is...", options:["Much higher or lower than the rest","Typical of the data","Always the mode","Always zero"], answer:0},
@@ -933,7 +933,7 @@ const curriculum: DayContent[] = [
      {q:"Which measure is most affected by an outlier?", options:["Mean","Median","Mode","None"], answer:0},
    ]},
   {subject:"Science", title:"Review: Energy, Earth's Layers, Genetics, States of Matter", summary:"Mixed review of renewable energy, Earth's layers, inherited traits, and the particle model.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Review: Energy, Earth's Layers, Genetics, States of Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Energy%2C%20Earth%27s%20Layers%2C%20Genetics%2C%20States%20of%20Matter%20grade%207%20educational",
    quiz:[
      {q:"Solar panels convert sunlight into...", options:["Electricity","Wind","Heat from the ground","Sound"], answer:0},
      {q:"The outermost layer of Earth is the...", options:["Crust","Mantle","Outer core","Inner core"], answer:0},
@@ -942,7 +942,7 @@ const curriculum: DayContent[] = [
      {q:"Hydroelectric power uses...", options:["Moving or falling water","Wind only","Sunlight only","Underground heat"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Review: Globalization, Natural Disasters, Map Projections, Economics", summary:"Mixed review of trade/globalization, natural disasters, map projections, and economic systems.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Review: Globalization, Natural Disasters, Map Projections, Economics", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Globalization%2C%20Natural%20Disasters%2C%20Map%20Projections%2C%20Economics%20grade%207%20educational",
    quiz:[
      {q:"Globalization refers to...", options:["Increasing connections between countries","Total isolation of countries","The end of all trade","A single government"], answer:0},
      {q:"Earthquakes most commonly occur along...", options:["Tectonic plate boundaries","River deltas only","The equator only","Polar caps only"], answer:0},
@@ -953,7 +953,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Analyzing a Short Story's Setting and Mood", summary:"Setting (time and place) often shapes a story's mood, the emotional atmosphere a reader experiences.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Analyzing a Short Story's Setting and Mood", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20a%20Short%20Story%27s%20Setting%20and%20Mood%20grade%207%20educational",
    quiz:[
      {q:"Setting refers to...", options:["The time and place of a story","The main character's name only","The title of the book","The number of chapters"], answer:0},
      {q:"Mood refers to...", options:["The emotional atmosphere a reader experiences","The author's biography","The book's price","The font used"], answer:0},
@@ -962,7 +962,7 @@ const curriculum: DayContent[] = [
      {q:"A bright, sunny setting with cheerful descriptions often suggests a mood of...", options:["Despair","Happiness or calm","Fear","Confusion"], answer:1},
    ]},
   {subject:"Math", title:"Coordinate Geometry: Distance Between Points (Intro)", summary:"The distance between two points on a coordinate grid can be found using the Pythagorean relationship or simple counting on horizontal/vertical lines.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Coordinate Geometry: Distance Between Points (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Geometry%3A%20Distance%20Between%20Points%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"The distance between points (2,3) and (2,7) on a grid is...", options:["4","5","7","10"], answer:0},
      {q:"The distance between points (1,1) and (5,1) is...", options:["1","4","5","6"], answer:1},
@@ -971,7 +971,7 @@ const curriculum: DayContent[] = [
      {q:"The point (0,0) on a coordinate grid is called the...", options:["Origin","Vertex","Intercept","Endpoint"], answer:0},
    ]},
   {subject:"Science", title:"pH and Acids/Bases (Intro)", summary:"The pH scale measures how acidic or basic a substance is, ranging from 0 (strongly acidic) to 14 (strongly basic), with 7 being neutral.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: pH and Acids/Bases (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=pH%20and%20Acids%2FBases%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"A pH of 7 is considered...", options:["Strongly acidic","Strongly basic","Neutral","Undefined"], answer:2},
      {q:"A substance with a pH of 2 is...", options:["Strongly acidic","Strongly basic","Neutral","Pure water"], answer:0},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
      {q:"Lemon juice is an example of a substance that is...", options:["Acidic","Basic","Neutral","Neither acidic nor basic"], answer:0},
    ]},
   {subject:"SocialStudies", title:"The Structure of Canadian Government", summary:"Canada has three levels of government — federal, provincial, and municipal — each responsible for different areas like national defence, education, and local services.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: The Structure of Canadian Government", resourceUrl:"https://www.youtube.com/results?search_query=The%20Structure%20of%20Canadian%20Government%20grade%207%20educational",
    quiz:[
      {q:"Which level of government is responsible for national defence?", options:["Municipal","Provincial","Federal","None of these"], answer:2},
      {q:"Provincial governments are typically responsible for...", options:["Education and healthcare","National defence only","Foreign treaties only","Currency printing only"], answer:0},
@@ -991,7 +991,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Varying Sentence Length for Effect", summary:"Skilled writers vary sentence length and structure to control pacing, build tension, and emphasize key ideas.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Varying Sentence Length for Effect", resourceUrl:"https://www.youtube.com/results?search_query=Varying%20Sentence%20Length%20for%20Effect%20grade%207%20educational",
    quiz:[
      {q:"Using several short sentences in a row can create a feeling of...", options:["Slow, relaxed pacing","Urgency or tension","Confusion only","Nothing in particular"], answer:1},
      {q:"A long, flowing sentence can be used to...", options:["Create a calm or descriptive effect","Always confuse the reader","Make text harder to read with no purpose","End an essay abruptly"], answer:0},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
      {q:"Sentence variety contributes to a writer's...", options:["Voice and style","Spelling ability only","Page count only","Font choice"], answer:0},
    ]},
   {subject:"Math", title:"Negative Number Applications", summary:"Negative numbers represent values below a reference point, such as temperatures below zero or elevations below sea level.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Negative Number Applications", resourceUrl:"https://www.youtube.com/results?search_query=Negative%20Number%20Applications%20grade%207%20educational",
    quiz:[
      {q:"A temperature of -5°C is...", options:["5 degrees above freezing","5 degrees below 0°C","The same as 5°C","Impossible"], answer:1},
      {q:"An elevation of -100 m means a location is...", options:["100 m above sea level","100 m below sea level","At sea level exactly","100 km below sea level"], answer:1},
@@ -1009,7 +1009,7 @@ const curriculum: DayContent[] = [
      {q:"Which is colder, -12°C or -4°C?", options:["-12°C","-4°C","They are equal","Cannot be determined"], answer:0},
    ]},
   {subject:"Science", title:"Ecosystems and Energy Flow (Food Pyramids)", summary:"Energy flows through an ecosystem from producers to consumers, with less energy available at each higher level of a food pyramid.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Ecosystems and Energy Flow (Food Pyramids)", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Energy%20Flow%20%28Food%20Pyramids%29%20grade%207%20educational",
    quiz:[
      {q:"In a food pyramid, producers are typically located...", options:["At the top","At the bottom, as the base","Outside the pyramid","Nowhere; they aren't included"], answer:1},
      {q:"As energy moves up a food pyramid, the amount of available energy...", options:["Increases at each level","Decreases at each level","Stays exactly the same","Disappears completely"], answer:1},
@@ -1018,7 +1018,7 @@ const curriculum: DayContent[] = [
      {q:"Why are there usually fewer top predators than producers in an ecosystem?", options:["Less energy is available at higher levels","Predators reproduce faster","Producers need more energy","There is no relationship"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Canada's Relationship with the United States", summary:"Canada and the United States share the world's longest border and a close relationship built on trade, culture, and cooperation.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Canada's Relationship with the United States", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Relationship%20with%20the%20United%20States%20grade%207%20educational",
    quiz:[
      {q:"Canada and the United States share...", options:["The world's longest international border","No border at all","A border only in the Arctic","The same government"], answer:0},
      {q:"Trade between Canada and the U.S. involves...", options:["No exchange of goods","A large volume of goods and services crossing the border daily","Only Canadian exports with no U.S. exports","Illegal activity only"], answer:1},
@@ -1029,7 +1029,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Peer Editing and Feedback Strategies", summary:"Effective peer editors give specific, constructive feedback focused on both strengths and areas for improvement in a piece of writing.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Peer Editing and Feedback Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Peer%20Editing%20and%20Feedback%20Strategies%20grade%207%20educational",
    quiz:[
      {q:"Constructive feedback should be...", options:["Vague and general","Specific and helpful","Only negative","Only about spelling"], answer:1},
      {q:"A good peer editing strategy is to...", options:["Only point out everything wrong","Identify strengths and offer specific suggestions for improvement","Ignore the writer's intent","Rewrite the whole piece yourself"], answer:1},
@@ -1038,7 +1038,7 @@ const curriculum: DayContent[] = [
      {q:"A useful feedback technique is the 'two stars and a wish,' which means...", options:["Giving two compliments and one suggestion for improvement","Giving three criticisms","Giving no feedback","Rating the piece out of five stars only"], answer:0},
    ]},
   {subject:"Math", title:"Probability: Independent Events and Tree Diagrams", summary:"Independent events don't affect each other's outcomes; tree diagrams help visualize and calculate probabilities of combined events.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Probability: Independent Events and Tree Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Independent%20Events%20and%20Tree%20Diagrams%20grade%207%20educational",
    quiz:[
      {q:"Two events are independent if...", options:["One event's outcome affects the other","One event's outcome does not affect the other","They always happen together","They can never both happen"], answer:1},
      {q:"A tree diagram is useful for...", options:["Visualizing outcomes of combined events","Measuring distance","Calculating area","Graphing linear relations"], answer:0},
@@ -1047,7 +1047,7 @@ const curriculum: DayContent[] = [
      {q:"For independent events A and B, P(A and B) is found by...", options:["Adding their probabilities","Multiplying their probabilities","Subtracting their probabilities","Dividing their probabilities"], answer:1},
    ]},
   {subject:"Science", title:"Technological Design Process Applied to a Real Problem", summary:"Engineers and designers apply a structured process — identifying a problem, brainstorming, prototyping, testing, and improving — to solve real-world challenges.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Technological Design Process Applied to a Real Problem", resourceUrl:"https://www.youtube.com/results?search_query=Technological%20Design%20Process%20Applied%20to%20a%20Real%20Problem%20grade%207%20educational",
    quiz:[
      {q:"The first step in solving a design problem is usually to...", options:["Build the final product","Clearly identify the problem and criteria for success","Sell the idea","Skip planning"], answer:1},
      {q:"Brainstorming multiple solutions before building helps designers...", options:["Avoid considering options","Compare different approaches before committing","Waste time with no benefit","Eliminate the need for testing"], answer:1},
@@ -1056,7 +1056,7 @@ const curriculum: DayContent[] = [
      {q:"Considering constraints like cost and materials during design helps ensure a solution is...", options:["Impossible to build","Practical and realistic","Always the cheapest option only","Irrelevant to the problem"], answer:1},
    ]},
   {subject:"SocialStudies", title:"Sustainable Development Goals (Intro)", summary:"The United Nations' Sustainable Development Goals are a shared global framework aiming to address issues like poverty, inequality, and environmental protection by 2030.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Sustainable Development Goals (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Development%20Goals%20%28Intro%29%20grade%207%20educational",
    quiz:[
      {q:"The Sustainable Development Goals were created by...", options:["A single country acting alone","The United Nations, with global member countries","A private company","No organization at all"], answer:1},
      {q:"The SDGs aim to address global issues such as...", options:["Poverty, inequality, and environmental protection","Only sports development","Only space exploration","Nothing related to people's lives"], answer:0},
@@ -1067,7 +1067,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Oral Presentation Delivery Skills", summary:"Effective oral presentations rely on clear speech, eye contact, appropriate pacing, and engaging body language, in addition to strong content.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Oral Presentation Delivery Skills", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Presentation%20Delivery%20Skills%20grade%207%20educational",
    quiz:[
      {q:"Maintaining eye contact during a presentation helps...", options:["Engage the audience","Confuse the audience","Make the speech shorter","Hide nervousness completely"], answer:0},
      {q:"Speaking too quickly during a presentation can cause the audience to...", options:["Understand better","Struggle to follow your points","Feel more engaged","Remember everything perfectly"], answer:1},
@@ -1076,7 +1076,7 @@ const curriculum: DayContent[] = [
      {q:"Visual aids like slides should...", options:["Support your spoken points without overwhelming detail","Contain your entire script","Be ignored during delivery","Always be in tiny font"], answer:0},
    ]},
   {subject:"Math", title:"Unit Conversions (Metric)", summary:"The metric system uses prefixes like kilo-, centi-, and milli- to scale units of length, mass, and volume by powers of 10.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Unit Conversions (Metric)", resourceUrl:"https://www.youtube.com/results?search_query=Unit%20Conversions%20%28Metric%29%20grade%207%20educational",
    quiz:[
      {q:"How many centimetres are in 1 metre?", options:["10","100","1000","10000"], answer:1},
      {q:"How many grams are in 1 kilogram?", options:["10","100","1000","10000"], answer:2},
@@ -1085,7 +1085,7 @@ const curriculum: DayContent[] = [
      {q:"Convert 350 cm to metres.", options:["0.35 m","3.5 m","35 m","350 m"], answer:1},
    ]},
   {subject:"Science", title:"Environmental Impact Assessment Basics", summary:"Before major projects are built, environmental impact assessments evaluate how the project might affect ecosystems, water, air, and communities.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Environmental Impact Assessment Basics", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Impact%20Assessment%20Basics%20grade%207%20educational",
    quiz:[
      {q:"An environmental impact assessment is conducted to...", options:["Ignore potential environmental effects","Evaluate how a project might affect the environment before it's built","Guarantee no environmental effects exist","Replace the need for construction"], answer:1},
      {q:"Assessments often examine effects on...", options:["Ecosystems, water, air, and nearby communities","Only the construction budget","Only the building's appearance","Nothing related to nature"], answer:0},
@@ -1094,7 +1094,7 @@ const curriculum: DayContent[] = [
      {q:"Environmental assessments help balance...", options:["Development needs with environmental protection","Profit only, ignoring environment","Environment only, ignoring all development","Neither development nor environment"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Current Geographic Issues: Inquiry Skills", summary:"Geographic inquiry involves asking questions, gathering evidence from multiple sources, and analyzing patterns to understand real-world issues.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Current Geographic Issues: Inquiry Skills", resourceUrl:"https://www.youtube.com/results?search_query=Current%20Geographic%20Issues%3A%20Inquiry%20Skills%20grade%207%20educational",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Asking a clear, focused question","Ignoring the topic","Avoiding research","Skipping straight to conclusions"], answer:0},
      {q:"Reliable geographic research uses...", options:["A single unverified source","Multiple credible sources and evidence","No evidence at all","Only personal opinion"], answer:1},
@@ -1105,7 +1105,7 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Final review day: mixed questions from Days 26–29, getting ready for Grade 7 in September.", subjects:[
   {subject:"Language", title:"Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation", summary:"Mixed review of setting and mood, varying sentence length, peer editing, and oral presentation skills.",
-   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   resourceLabel:"YouTube: Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Setting%2FMood%2C%20Sentence%20Variety%2C%20Feedback%2C%20Presentation%20grade%207%20educational",
    quiz:[
      {q:"Setting refers to...", options:["The time and place of a story","The main character's name","The book's title","The number of chapters"], answer:0},
      {q:"Short sentences in a row often create a feeling of...", options:["Urgency or tension","Slow, relaxed pacing","Confusion with no purpose","Nothing in particular"], answer:0},
@@ -1114,7 +1114,7 @@ const curriculum: DayContent[] = [
      {q:"Mood refers to...", options:["The emotional atmosphere a reader experiences","The author's biography","The book's price","The font used"], answer:0},
    ]},
   {subject:"Math", title:"Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions", summary:"Mixed review of distance between points, negative number applications, independent events, and metric conversions.",
-   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   resourceLabel:"YouTube: Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Negative%20Numbers%2C%20Probability%2C%20Unit%20Conversions%20grade%207%20educational",
    quiz:[
      {q:"The distance between (2,3) and (2,7) is...", options:["4","5","7","10"], answer:0},
      {q:"A temperature of -5°C is...", options:["5 degrees below 0°C","5 degrees above freezing","The same as 5°C","Impossible"], answer:0},
@@ -1123,7 +1123,7 @@ const curriculum: DayContent[] = [
      {q:"What is the probability of flipping heads twice in a row?", options:["1/4","1/2","1/3","1"], answer:0},
    ]},
   {subject:"Science", title:"Final Review: pH, Energy Flow, Design Process, Environmental Assessment", summary:"Mixed review of acids/bases, food pyramids and energy flow, the technological design process, and environmental impact assessments.",
-   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   resourceLabel:"YouTube: Final Review: pH, Energy Flow, Design Process, Environmental Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20pH%2C%20Energy%20Flow%2C%20Design%20Process%2C%20Environmental%20Assessment%20grade%207%20educational",
    quiz:[
      {q:"A pH of 7 is considered...", options:["Neutral","Strongly acidic","Strongly basic","Undefined"], answer:0},
      {q:"As energy moves up a food pyramid, the available energy...", options:["Decreases at each level","Increases at each level","Stays the same","Disappears completely"], answer:0},
@@ -1132,7 +1132,7 @@ const curriculum: DayContent[] = [
      {q:"Litmus paper is used to test whether a substance is...", options:["Acidic or basic","Hot or cold","Heavy or light","Solid or liquid"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry", summary:"Mixed review of Canadian government levels, Canada's relationship with the U.S., the Sustainable Development Goals, and geographic inquiry skills.",
-   resourceLabel:"TVO Learn: Grade 7 History and Geography", resourceUrl:"https://tvolearn.com/pages/grade-7-history-and-geography",
+   resourceLabel:"YouTube: Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Government%20Structure%2C%20Canada-US%20Relations%2C%20SDGs%2C%20Geographic%20Inquiry%20grade%207%20educational",
    quiz:[
      {q:"Which level of government is responsible for national defence?", options:["Federal","Municipal","Provincial","None of these"], answer:0},
      {q:"Canada and the United States share...", options:["The world's longest international border","No border at all","A border only in the Arctic","The same government"], answer:0},
