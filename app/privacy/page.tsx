@@ -31,7 +31,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-xl font-semibold mb-3">1. Who We Are</h2>
             <p className="text-muted-foreground leading-relaxed">
-              GradesBooster ("we", "our", or "us") is an Ontario-based educational platform at{' '}
+              GradesBooster (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) is an Ontario-based educational platform at{' '}
               <a href="https://gradesbooster.ai" className="text-primary hover:underline">gradesbooster.ai</a>{' '}
               that provides curriculum-aligned daily learning plans for K–12 students. We are
               committed to protecting the privacy of parents and the children in their care.
@@ -46,16 +46,16 @@ export default function PrivacyPage() {
             <ul className="list-disc list-inside space-y-2 text-muted-foreground">
               <li><strong className="text-foreground">Parent account:</strong> email address and display name, provided when you register.</li>
               <li><strong className="text-foreground">Child profiles:</strong> first name and grade level, entered by the parent. We do not collect dates of birth, addresses, or any other identifying information about children.</li>
-              <li><strong className="text-foreground">Learning progress:</strong> quiz scores and lesson completion status, stored per child under the parent's account.</li>
+              <li><strong className="text-foreground">Learning progress:</strong> quiz scores and lesson completion status, stored per child under the parent&apos;s account.</li>
               <li><strong className="text-foreground">Usage data:</strong> standard server logs (IP address, browser type, pages visited) retained for up to 30 days for security and performance purposes.</li>
             </ul>
           </section>
 
           <section>
-            <h2 className="text-xl font-semibold mb-3">3. Children's Privacy (COPPA &amp; PIPEDA)</h2>
+            <h2 className="text-xl font-semibold mb-3">3. Children&apos;s Privacy (COPPA &amp; PIPEDA)</h2>
             <p className="text-muted-foreground leading-relaxed">
               GradesBooster does not allow children to create accounts. All accounts are held by
-              parents or guardians (18+). Child profiles exist solely within the parent's account and
+              parents or guardians (18+). Child profiles exist solely within the parent&apos;s account and
               contain only a first name and grade. We do not knowingly collect personal information
               directly from children under 13. If you believe a child has provided us with personal
               information without parental consent, please contact us and we will delete it promptly.
@@ -98,7 +98,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-xl font-semibold mb-3">7. Your Rights</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Under Canada's PIPEDA, you have the right to access the personal information we hold
+              Under Canada&apos;s PIPEDA, you have the right to access the personal information we hold
               about you, correct inaccuracies, or request deletion of your account and all associated
               data. To exercise any of these rights, email us at{' '}
               <a href="mailto:privacy@gradesbooster.ai" className="text-primary hover:underline">
@@ -119,8 +119,8 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-xl font-semibold mb-3">9. Changes to This Policy</h2>
             <p className="text-muted-foreground leading-relaxed">
-              We may update this policy from time to time. When we do, we will update the "Last
-              updated" date at the top of this page. Continued use of GradesBooster after changes
+              We may update this policy from time to time. When we do, we will update the &quot;Last
+              updated&quot; date at the top of this page. Continued use of GradesBooster after changes
               are posted constitutes acceptance of the updated policy.
             </p>
           </section>

@@ -111,14 +111,13 @@ function SubjectQuiz({
   onNext: () => void;
   isLast: boolean;
 }) {
+  // SubjectPanel remounts this component with a fresh key whenever the
+  // active subject changes, so these only need to be set once at mount —
+  // they must NOT reset in response to savedScore changing after our own
+  // submit (that used to wipe `answers` right after the Firestore write
+  // completed, which zeroed out the score display even on a perfect quiz).
   const [answers, setAnswers] = useState<(number | null)[]>(content.quiz.map(() => null));
   const [submitted, setSubmitted] = useState(savedScore !== null);
-
-  // Reset when subject changes
-  useEffect(() => {
-    setAnswers(content.quiz.map(() => null));
-    setSubmitted(savedScore !== null);
-  }, [content.subject, savedScore, content.quiz]);
 
   const canSubmit = answers.every((a) => a !== null) && !submitted;
 
@@ -374,18 +373,6 @@ function LearnContent() {
     init();
   }, [user, kidId, grade, router]);
 
-  // When day changes, jump to first incomplete subject
-  useEffect(() => {
-    if (!curriculum.length) return;
-    const day = curriculum[currentDay];
-    if (!day) return;
-    const firstIncompleteSub = day.subjects.findIndex(
-      (s) => !results.has(`g${grade}_d${day.day}_${s.subject}`),
-    );
-    setCurrentSubject(firstIncompleteSub === -1 ? 0 : firstIncompleteSub);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [currentDay]);
-
   const handleQuizComplete = useCallback(
     async (subject: string, dayContent: DayContent, score: number, total: number) => {
       if (!user || !kidId) return;
@@ -459,13 +446,24 @@ function LearnContent() {
   const activeResultId = activeSubject ? `g${grade}_d${day.day}_${activeSubject.subject}` : '';
   const activeResult = results.get(activeResultId);
 
+  // Jump to a day and land on its first incomplete subject (or the first
+  // subject if the whole day is already done).
+  function goToDay(newDayIdx: number) {
+    const target = curriculum[newDayIdx];
+    const firstIncompleteSub = target
+      ? target.subjects.findIndex((s) => !results.has(`g${grade}_d${target.day}_${s.subject}`))
+      : -1;
+    setCurrentDay(newDayIdx);
+    setCurrentSubject(firstIncompleteSub === -1 ? 0 : firstIncompleteSub);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   function goNextSubject() {
     if (currentSubject < day.subjects.length - 1) {
       setCurrentSubject((s) => s + 1);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     } else if (currentDay < curriculum.length - 1) {
-      setCurrentDay((d) => d + 1);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      goToDay(currentDay + 1);
     }
   }
 
@@ -499,7 +497,7 @@ function LearnContent() {
         {/* Day navigation bar */}
         <div className="flex items-center gap-3 mb-6 bg-card border border-border rounded-xl px-4 py-3">
           <Button variant="ghost" size="icon" disabled={currentDay === 0}
-            onClick={() => setCurrentDay((d) => d - 1)}>
+            onClick={() => goToDay(currentDay - 1)}>
             <ChevronLeft className="h-4 w-4" />
           </Button>
 
@@ -512,7 +510,7 @@ function LearnContent() {
           </div>
 
           <Button variant="ghost" size="icon" disabled={currentDay === curriculum.length - 1}
-            onClick={() => setCurrentDay((d) => d + 1)}>
+            onClick={() => goToDay(currentDay + 1)}>
             <ChevronRight className="h-4 w-4" />
           </Button>
         </div>
@@ -525,7 +523,7 @@ function LearnContent() {
               All done for today! Great work.
               {currentDay < curriculum.length - 1 && (
                 <button className="ml-2 underline font-normal"
-                  onClick={() => { setCurrentDay((d) => d + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }}>
+                  onClick={() => goToDay(currentDay + 1)}>
                   Continue to Day {day.day + 1} →
                 </button>
               )}
