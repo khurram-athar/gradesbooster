@@ -6,6 +6,14 @@ the YouTube Data API v3 search endpoint, and write it into that subject's
 embeds that exact video instead of falling back to a live multi-result
 YouTube search embed.
 
+Fill order is BREADTH-FIRST ACROSS GRADES, not grade-by-grade: this run
+fills every grade's Day 1 videos first (all 4 subjects, grade 0 through
+12), then every grade's Day 2, and so on. Kids on any grade start on
+Day 1, so Day 1 having a working video everywhere matters more than one
+grade being 100% done while others haven't started. (Previously this
+script exhausted grade 0 completely before touching grade 1, which could
+leave later grades' Day 1 without a video for a long time.)
+
 Safe to re-run: any entry that already has a videoUrl is left untouched
 and skipped, so this can be run once a day to slowly work through the
 YouTube Data API's free quota (10,000 units/day; search.list costs 100
@@ -35,6 +43,11 @@ import urllib.error
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
+MAX_DAYS = 30
+
+# Splits a whole file into: [header_before_day1, day1_block_text, day2_block_text, ...]
+# Each day_block_text starts at "{day:N," and runs up to (not including) the next "{day:".
+DAY_SPLIT_RE = re.compile(r'(?=\{day:\d+,)')
 
 # Each subject block looks like:
 #   {subject:"Math", title:"Multiplication Facts", summary:"...",
@@ -72,10 +85,18 @@ def search_video(query):
     return items[0]['id']['videoId']
 
 
-def process_file(path, grade, remaining, dry_run):
+def load_day_chunks(path):
+    """Returns a list where chunks[0] is everything before day 1's block,
+    and chunks[N] (for N >= 1) is day N's full block text (if that many
+    days exist in the file)."""
     text = open(path, encoding='utf-8').read()
+    return DAY_SPLIT_RE.split(text)
+
+
+def process_day_chunk(chunk, grade, day, remaining, dry_run):
+    """Fills missing videoUrl fields within a single day's block text.
+    Returns (new_chunk_text, changed_bool)."""
     changed = False
-    quota_hit = [False]
 
     def repl(m):
         nonlocal changed
@@ -83,42 +104,38 @@ def process_file(path, grade, remaining, dry_run):
         if existing_video:
             return m.group(0)
         if remaining[0] <= 0:
-            quota_hit[0] = True
             return m.group(0)
 
         query = f'{title} {gradestr(grade)} {subject} educational'
         if dry_run:
             remaining[0] -= 1
-            print(f'    [dry-run] grade{grade} "{title}" ({subject}) -> would search: {query}')
+            print(f'    [dry-run] grade{grade} day{day} "{title}" ({subject}) -> would search: {query}')
             return m.group(0)
 
         try:
             vid = search_video(query)
         except urllib.error.HTTPError as e:
             body = e.read().decode(errors='replace')
-            print(f'    ERROR grade{grade} "{title}": HTTP {e.code} {body[:200]}', file=sys.stderr)
+            print(f'    ERROR grade{grade} day{day} "{title}": HTTP {e.code} {body[:200]}', file=sys.stderr)
             if e.code == 403:
                 # Quota exceeded or key restricted -- stop burning attempts this run.
                 remaining[0] = 0
-                quota_hit[0] = True
             return m.group(0)
         except Exception as e:
-            print(f'    ERROR grade{grade} "{title}": {e}', file=sys.stderr)
+            print(f'    ERROR grade{grade} day{day} "{title}": {e}', file=sys.stderr)
             return m.group(0)
 
         remaining[0] -= 1
         if not vid:
-            print(f'    no result for grade{grade} "{title}"')
+            print(f'    no result for grade{grade} day{day} "{title}"')
             return m.group(0)
 
         changed = True
-        print(f'    grade{grade} "{title}" -> https://www.youtube.com/watch?v={vid}  ({remaining[0]} lookups left this run)')
+        print(f'    grade{grade} day{day} "{title}" -> https://www.youtube.com/watch?v={vid}  ({remaining[0]} lookups left this run)')
         return f'{prefix}   videoUrl:"https://www.youtube.com/watch?v={vid}",\n'
 
-    new_text = BLOCK_RE.sub(repl, text)
-    if changed and not dry_run:
-        open(path, 'w', encoding='utf-8').write(new_text)
-    return changed
+    new_chunk = BLOCK_RE.sub(repl, chunk)
+    return new_chunk, changed
 
 
 def main():
@@ -136,14 +153,33 @@ def main():
     grades = [args.grade] if args.grade is not None else list(range(13))
     remaining = [args.limit]
 
+    # Load every grade file's day-chunks once up front.
+    chunks_by_grade = {}
     for g in grades:
-        if remaining[0] <= 0:
-            break
         path = os.path.join(DATA_DIR, f'grade{g}.ts')
         if not os.path.exists(path):
             continue
-        print(f'grade{g}.ts...')
-        process_file(path, g, remaining, args.dry_run)
+        chunks_by_grade[g] = {'path': path, 'chunks': load_day_chunks(path), 'changed': False}
+
+    # Breadth-first: Day 1 across every grade, then Day 2 across every grade, etc.
+    for day in range(1, MAX_DAYS + 1):
+        if remaining[0] <= 0:
+            break
+        for g in grades:
+            if remaining[0] <= 0:
+                break
+            entry = chunks_by_grade.get(g)
+            if entry is None or day >= len(entry['chunks']):
+                continue  # this grade doesn't have this many days
+            new_chunk, changed = process_day_chunk(entry['chunks'][day], g, day, remaining, args.dry_run)
+            if changed:
+                entry['chunks'][day] = new_chunk
+                entry['changed'] = True
+
+    if not args.dry_run:
+        for g, entry in chunks_by_grade.items():
+            if entry['changed']:
+                open(entry['path'], 'w', encoding='utf-8').write(''.join(entry['chunks']))
 
     spent = args.limit - remaining[0]
     print(f'\nDone. {"Would look up" if args.dry_run else "Looked up"} {spent} videos this run (limit was {args.limit}).')
