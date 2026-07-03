@@ -7,7 +7,13 @@ This version has breaking changes — APIs, conventions, and file structure may 
 <!-- BEGIN:lovable-migration-target -->
 # Future stack (Lovable AI is migrating this repo — same repo, main branch)
 
-As of 2026-07-03, this repo is still Next.js 16 + Firebase. Khurram is using Lovable AI in parallel to migrate/redesign the site toward a different target stack. Both Lovable and Claude commit to the same repo/branch, so **pull before starting work and push promptly after committing** to avoid working from a stale base.
+As of 2026-07-03, this repo is still Next.js 16 + Firebase. Khurram is using Lovable AI in parallel to migrate/redesign the site toward a different target stack. Both Lovable and Claude commit to the same repo/branch.
+
+**Required git workflow around curriculum work (per Lovable's instructions, 2026-07-04):**
+1. Before starting any curriculum work: `git pull` first, so Claude has Lovable's latest landing page code as the base.
+2. After finishing and committing curriculum changes: `git push`, so Lovable's next pull picks up the curriculum files.
+
+Important limitation: this sandbox cannot reach github.com (confirmed repeatedly — `git pull`/`git push` fail with a 403 from the proxy). Claude should still attempt `git pull` at the start of a curriculum session and `git push` at the end as the first and last steps, but when these fail, Claude must tell Khurram plainly that he needs to run `git pull` before handing Claude curriculum work, and `git push` after Claude finishes, from his own local Terminal.
 
 Target stack guidelines from Lovable (apply to any *new* app code — routing, auth, components, backend — not to curriculum data):
 - Stack: TanStack Start v1 + React 19 + Tailwind CSS v4 + Supabase (Lovable Cloud backend).
