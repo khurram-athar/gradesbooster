@@ -199,7 +199,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a complete sentence?", options:["Fast dog.","The dog runs fast.","Runs fast.","the dog"], answer:1},
      {q:"A sentence that asks a question ends with a ___.", options:["Question mark","Period","Comma","Exclamation mark"], answer:0},
      {q:"Which sentence has correct punctuation?", options:["The cat is big.","the cat is big","the cat is big.","The cat is big"], answer:0},
-     {q:"A sentence needs a subject (who) and a ___ (action).", options:[], answer:0}
+     {q:"A sentence needs a subject (who) and a ___ (action).", options:["Verb","Noun","Adjective","Punctuation mark"], answer:0}
    ]},
   {subject:"Math", title:"Skip Counting by 2s", summary:"Ontario Grade 1 Number strand: students skip count by 2s from 0, landing on even numbers: 0, 2, 4, 6, 8, 10...",
    resourceLabel:"YouTube: Skip Counting by 2s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%20grade%201%20educational",

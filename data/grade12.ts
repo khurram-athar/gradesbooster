@@ -217,7 +217,7 @@ const curriculum: DayContent[] = [
      {q:"A local maximum at x = c requires ___.", options:["f'(c) > 0","f'(c) = 0 (or f'(c) undefined) AND f'changes from positive to negative — the first derivative test","f'(c) = 0 only","f'(c) < 0"], answer:1},
      {q:"The second derivative test: if f'(c) = 0 and f''(c) < 0, then ___.", options:["x = c is always a global maximum","x = c is a local maximum (concave down at c)","x = c is an inflection point","x = c is a local minimum"], answer:1},
      {q:"An inflection point occurs where ___.", options:["f'' changes sign — concavity changes from up to down or down to up; the curve 'bends the other way'","f' = 0","the function has a maximum","f = 0"], answer:0},
-     {q:"A complete curve sketch using calculus includes ___.", options:["only zeros and asymptotes","only maxima and minima","domain, intercepts, asymptotes, increasing/decreasing intervals, local extrema, concavity, and inflection points — all derived algebraically before sketching"], answer:3}
+     {q:"A complete curve sketch using calculus includes ___.", options:["only zeros and asymptotes","only maxima and minima","domain, intercepts, asymptotes, increasing/decreasing intervals, local extrema, concavity, and inflection points — all derived algebraically before sketching","only x- and y-intercepts"], answer:2}
    ]},
   {subject:"Physics", title:"Electricity: Electric Fields and Potential", summary:"Students analyse electric fields and electric potential produced by point charges and uniform fields, and relate electric potential to potential energy.",
    resourceLabel:"Crash Course Physics: Electric Fields", resourceUrl:"https://www.youtube.com/watch?v=mdulzEfQJP0",
