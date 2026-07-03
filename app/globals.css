@@ -127,5 +127,10 @@
   }
   html {
     @apply font-sans;
+    /* Family feedback: text was too small across the app. Bumping the
+       root size scales every rem-based Tailwind text/spacing utility
+       proportionally (text-sm, text-base, p-4, gap-2, etc.) without
+       having to touch every component individually. */
+    font-size: 112.5%;
   }
 }

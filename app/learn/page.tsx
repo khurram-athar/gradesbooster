@@ -154,7 +154,7 @@ function SubjectQuiz({
       {/* Questions */}
       {content.quiz.map((q, qi) => (
         <div key={qi} className="space-y-2.5">
-          <p className="font-medium text-base leading-snug">
+          <p className="font-medium text-lg leading-snug">
             {qi + 1}. {q.q}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
@@ -162,7 +162,7 @@ function SubjectQuiz({
               const isSelected = answers[qi] === oi;
               const isCorrect = oi === q.answer;
               let cls =
-                'w-full text-left px-4 py-3 rounded-lg border-2 text-sm font-medium transition-all ';
+                'w-full text-left px-4 py-3 rounded-lg border-2 text-base font-medium transition-all ';
               if (!submitted) {
                 cls += isSelected
                   ? 'border-primary bg-primary/10 text-primary shadow-sm'
