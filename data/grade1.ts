@@ -44,7 +44,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Long Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%20grade%201%20educational",
    quiz:[
      {q:"Which word has a long A sound?", options:["Cap","Cat","Cab","Cake"], answer:3},
-     {q:"Which word has a long E sound?", options:["Bet","Bed","Bee","Bed"], answer:2},
+     {q:"Which word has a long E sound?", options:["Bet","Bed","Bee","Best"], answer:2},
      {q:"Which word has a long O sound?", options:["Hop","Hope","Hog","Hot"], answer:1},
      {q:"What makes the vowel long in the word KITE?", options:["Silent E at the end","Capital letter","Two vowels together","Consonant blend"], answer:0},
      {q:"Which word has a long U sound?", options:["Cup","Cube","Cut","Cub"], answer:1}
@@ -1034,7 +1034,7 @@ const curriculum: DayContent[] = [
      {q:"Which word belongs to the -IGHT family?", options:["Cake","Lake","Mine","Night"], answer:3},
      {q:"Which word belongs to the -AKE family?", options:["Night","Right","Light","Cake"], answer:3},
      {q:"Which word belongs to the -INE family?", options:["Night","Lake","Sight","Fine"], answer:3},
-     {q:"Which spelling pattern do BRIGHT and TIGHT share?", options:["ine","ake","ight","ake"], answer:2},
+     {q:"Which spelling pattern do BRIGHT and TIGHT share?", options:["ine","ake","ight","ite"], answer:2},
      {q:"Learning spelling patterns helps us ___.", options:["Draw letters only","Sound out every letter always","Read and spell many words in the same family","Only spell one word"], answer:2}
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Ontario Grade 1 Data strand review: students collect, organise, and interpret data using tally charts and pictographs, and explore basic probability.",

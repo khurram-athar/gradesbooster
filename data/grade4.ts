@@ -347,9 +347,9 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Spelling: ie/ei Words", summary:"Grade 4 Language strand: the 'i before e except after c' rule helps spell many words, but has exceptions. Students apply this pattern in context.",
    resourceLabel:"YouTube: Spelling: ie/ei Words", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%3A%20ie%2Fei%20Words%20grade%204%20educational",
    quiz:[
-     {q:"Which spelling is correct?", options:["recieve","receive","recieve","receve"], answer:1},
+     {q:"Which spelling is correct?", options:["recieve","receive","receeve","receve"], answer:1},
      {q:"'I before E except after C' means in the word BELIEVE you write ___.", options:["i only","ei","ie","e only"], answer:2},
-     {q:"Which is spelled correctly?", options:["freind","frend","friend","freind"], answer:2},
+     {q:"Which is spelled correctly?", options:["freind","frend","friend","frennd"], answer:2},
      {q:"After the letter C, you usually write ___ (not ei).", options:["ie","only e","only i","ei"], answer:3},
      {q:"Which word follows the 'i before e except after c' rule?", options:["weird","believe","their","neither"], answer:1}
    ]},
@@ -698,8 +698,8 @@ const curriculum: DayContent[] = [
   {subject:"Math", title:"3-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 3-digit numbers by 1-digit numbers using expanded form and the standard algorithm.",
    resourceLabel:"YouTube: 3-Digit × 1-Digit Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=3-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
    quiz:[
-     {q:"213 × 3 = ?", options:["639","609","619","639"], answer:0},
-     {q:"145 × 4 = ?", options:["580","560","620","580"], answer:0},
+     {q:"213 × 3 = ?", options:["639","609","619","649"], answer:0},
+     {q:"145 × 4 = ?", options:["580","560","620","590"], answer:0},
      {q:"To solve 234 × 5, you can expand: (200×5) + (30×5) + (4×5) = ?", options:["1200","1070","1170","1140"], answer:2},
      {q:"326 × 3 = ?", options:["968","958","978","998"], answer:2},
      {q:"Which strategy helps check a multiplication answer?", options:["Subtracting","Dividing the answer by the same number to get back to the start","Guessing","Adding"], answer:1}

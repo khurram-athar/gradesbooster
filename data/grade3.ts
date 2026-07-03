@@ -54,7 +54,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"47 + 35 = ?", options:["72","83","82","73"], answer:2},
      {q:"When a column in addition totals 10 or more, you ___.", options:["ignore the extra","start over","subtract 10 and carry 1 to the next column","write the full number"], answer:2},
-     {q:"256 + 138 = ?", options:["384","394","494","494"], answer:1},
+     {q:"256 + 138 = ?", options:["384","394","494","484"], answer:1},
      {q:"What does 'regrouping' mean in addition?", options:["Starting over","Multiplying","Subtracting","Carrying a group of 10 to the next place value column"], answer:3},
      {q:"149 + 67 = ?", options:["226","216","196","206"], answer:1}
    ]},
@@ -92,7 +92,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"84 - 37 = ?", options:["57","47","53","43"], answer:1},
      {q:"When the top digit in a column is smaller than the bottom, you ___.", options:["skip the subtraction","regroup (borrow) from the next column to the left","add them","multiply"], answer:1},
-     {q:"352 - 176 = ?", options:["176","186","276","176"], answer:0},
+     {q:"352 - 176 = ?", options:["176","186","276","166"], answer:0},
      {q:"Which is the first step in 503 - 248?", options:["Subtract 8 from 3, regrouping from the tens (then hundreds) column","Multiply","Add the numbers","Subtract hundreds first"], answer:0},
      {q:"427 - 189 = ?", options:["238","228","248","268"], answer:0}
    ]},
@@ -964,9 +964,9 @@ const curriculum: DayContent[] = [
   {subject:"Math", title:"Addition and Subtraction Review: 3-Digit Numbers", summary:"Students solve multi-step word problems using addition and subtraction of 3-digit numbers.",
    resourceLabel:"YouTube: Addition and Subtraction Review: 3-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Review%3A%203-Digit%20Numbers%20grade%203%20educational",
    quiz:[
-     {q:"345 + 278 = ?", options:["613","623","623","633"], answer:1},
-     {q:"800 − 356 = ?", options:["444","344","454","454"], answer:0},
-     {q:"A school has 425 students. 178 are in junior grades. How many in senior grades?", options:["247","247","257","237"], answer:0},
+     {q:"345 + 278 = ?", options:["613","623","643","633"], answer:1},
+     {q:"800 − 356 = ?", options:["444","344","454","464"], answer:0},
+     {q:"A school has 425 students. 178 are in junior grades. How many in senior grades?", options:["247","227","257","237"], answer:0},
      {q:"642 + 189 = ?", options:["831","841","811","821"], answer:0},
      {q:"503 − 167 = ?", options:["326","336","356","346"], answer:1}
    ]},
