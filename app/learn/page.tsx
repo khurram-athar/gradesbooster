@@ -40,6 +40,10 @@ import grade10 from '@/data/grade10';
 import grade11 from '@/data/grade11';
 import grade12 from '@/data/grade12';
 
+// Anti-skip: minimum time (seconds) a kid must spend on a subject before
+// the quiz can be submitted, so a video can't just be clicked through.
+const MIN_WATCH_SECONDS = 60;
+
 const CURRICULUM_MAP: Record<number, DayContent[]> = {
   0: grade0, 1: grade1, 2: grade2, 3: grade3, 4: grade4,
   5: grade5, 6: grade6, 7: grade7, 8: grade8, 9: grade9,
@@ -119,7 +123,21 @@ function SubjectQuiz({
   const [answers, setAnswers] = useState<(number | null)[]>(content.quiz.map(() => null));
   const [submitted, setSubmitted] = useState(savedScore !== null);
 
-  const canSubmit = answers.every((a) => a !== null) && !submitted;
+  // Anti-skip: keep Submit locked for a minimum watch time so kids can't
+  // finish the quiz without spending any time with the video. Already-
+  // completed subjects (savedScore set) skip the lock entirely.
+  const [secondsLeft, setSecondsLeft] = useState(savedScore !== null ? 0 : MIN_WATCH_SECONDS);
+
+  useEffect(() => {
+    if (submitted) return;
+    const id = setInterval(() => {
+      setSecondsLeft((s) => (s <= 1 ? 0 : s - 1));
+    }, 1000);
+    return () => clearInterval(id);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  const canSubmit = answers.every((a) => a !== null) && !submitted && secondsLeft <= 0;
 
   function handleSubmit() {
     if (!canSubmit) return;
@@ -207,9 +225,16 @@ function SubjectQuiz({
       {/* Submit / result row */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 pt-1">
         {!submitted ? (
-          <Button size="lg" disabled={!canSubmit} onClick={handleSubmit} className="w-full sm:w-auto">
-            Submit Quiz
-          </Button>
+          <div className="flex flex-col gap-1.5 w-full sm:w-auto">
+            <Button size="lg" disabled={!canSubmit} onClick={handleSubmit} className="w-full sm:w-auto">
+              {secondsLeft > 0 ? `Watch the video to unlock (${secondsLeft}s)` : 'Submit Quiz'}
+            </Button>
+            {secondsLeft > 0 && (
+              <p className="text-xs text-muted-foreground">
+                Take a few more moments with the video before submitting.
+              </p>
+            )}
+          </div>
         ) : (
           <>
             <div className={`flex items-center gap-2 font-semibold text-base ${scoreColor((displayScore! / total) * 100)}`}>
