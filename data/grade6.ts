@@ -165,11 +165,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Reading Strategies: Inference and Text Evidence", summary:"Ontario Reading strand: making inferences means drawing conclusions that go beyond what is stated, using clues in the text combined with prior knowledge. Good readers support inferences with evidence.",
    resourceLabel:"YouTube: Reading Strategies: Inference and Text Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Text%20Evidence%20grade%206%20educational",
    quiz:[
-     {q:"An inference is:", options:["A direct quote from the text","A conclusion drawn from clues in the text plus background knowledge","A summary of the whole text","A prediction before reading"], answer:1},
+     {q:"An inference is:", options:["A direct quote from the text","A conclusion from clues in the text","A summary of the whole text","A prediction before reading"], answer:1},
      {q:"A character walks in slowly, drops their bag, and sighs. What can you infer?", options:["They are running late","They are likely tired or upset","They are happy","They are excited"], answer:1},
-     {q:"When asked to support an inference with text evidence, you should:", options:["State only your opinion","Make up a quote","Change the story","Find a specific part of the text that supports your conclusion"], answer:3},
-     {q:"The phrase 'reading between the lines' means:", options:["Reading very slowly","Highlighting every other line","Understanding implied meaning that isn't directly stated","Reading with a ruler"], answer:2},
-     {q:"Which question requires an inference to answer?", options:["Why did the character decide to leave without saying goodbye?","How old is the main character?","What is the character's name?","Where does the story take place?"], answer:0},
+     {q:"When asked to support an inference with text evidence, you should:", options:["State only your opinion","Make up a quote","Change the story","Point to text that supports it"], answer:3},
+     {q:"The phrase 'reading between the lines' means:", options:["Reading very slowly","Highlighting every other line","Understanding unstated meaning","Reading with a ruler"], answer:2},
+     {q:"Which question requires an inference to answer?", options:["Why did the character leave without saying goodbye?","How old is the main character?","What is the character's name?","Where does the story take place?"], answer:0},
    ]},
   {subject:"Math", title:"Adding and Subtracting Fractions with Unlike Denominators", summary:"Ontario Number strand: to add or subtract fractions with unlike denominators, find a common denominator first. Equivalent fractions allow the numerators to be added or subtracted.",
    resourceLabel:"YouTube: Adding and Subtracting Fractions with Unlike Denominators", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
@@ -184,8 +184,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Bernoulli's Principle and Wing Shape", resourceUrl:"https://www.youtube.com/results?search_query=Bernoulli%27s%20Principle%20and%20Wing%20Shape%20grade%206%20educational",
    quiz:[
      {q:"Bernoulli's principle states that as the speed of a fluid increases, its pressure:", options:["Decreases","Doubles","Increases","Stays the same"], answer:0},
-     {q:"Why is the top surface of a wing curved?", options:["To increase drag","To slow down the aircraft","For aesthetic reasons only","To make air travel faster over the top, reducing pressure and creating lift"], answer:3},
-     {q:"The angle of attack refers to:", options:["The speed of the engine","The weight of the airplane","The angle at which a wing meets the oncoming air","The colour of the wings"], answer:2},
+     {q:"Why is the top surface of a wing curved?", options:["To increase drag","To slow down the aircraft","For aesthetic reasons only","To speed air flow and create lift"], answer:3},
+     {q:"The angle of attack refers to:", options:["The speed of the engine","The weight of the airplane","The angle a wing meets the air","The colour of the wings"], answer:2},
      {q:"When angle of attack becomes too steep, a wing can 'stall' meaning:", options:["The engine stops","Lift is suddenly greatly reduced","The plane accelerates","Drag disappears"], answer:1},
      {q:"What is the shape of a cross-section of an airplane wing called?", options:["Fuselage","Airfoil","Aileron","Propeller"], answer:1},
    ]},
@@ -194,9 +194,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The ruler of Ancient Egypt was called a:", options:["Emperor","Sultan","Pharaoh","King"], answer:2},
      {q:"The ancient Egyptian writing system made up of pictures and symbols is called:", options:["Alphabet","Cuneiform","Hieroglyphics","Sanskrit"], answer:2},
-     {q:"The Nile River was essential to Ancient Egypt because:", options:["It was the largest river in the world","It provided gold for trade","It separated Egypt from all other civilizations","Its annual floods deposited rich silt that made farming possible in the desert"], answer:3},
+     {q:"The Nile River was essential to Ancient Egypt because:", options:["It was the largest river in the world","It provided gold for trade","It separated Egypt from all other civilizations","Its annual floods deposited farmland-making silt"], answer:3},
      {q:"The pyramids of Ancient Egypt were built as:", options:["Palaces for the pharaoh to live in","Military fortresses","Grain storage facilities","Tombs for pharaohs and important officials"], answer:3},
-     {q:"Ancient Egypt's society was hierarchical, meaning:", options:["Only priests had power","There was no government","People were ranked in levels from pharaoh at the top to farmers and slaves at the bottom","Everyone was equal"], answer:2},
+     {q:"Ancient Egypt's society was hierarchical, meaning:", options:["Only priests had power","There was no government","Ranked from pharaoh to slaves","Everyone was equal"], answer:2},
    ]},
 ]},
 {day:6, label:"Day 6 — Mon", subjects:[
@@ -204,9 +204,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Writing Expository Paragraphs with Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Expository%20Paragraphs%20with%20Evidence%20grade%206%20educational",
    quiz:[
      {q:"What is the purpose of a topic sentence in a paragraph?", options:["To give a list of sources","To provide a definition of every word","To state the main idea of the paragraph","To end the paragraph"], answer:2},
-     {q:"Which sentence would make the best topic sentence for a paragraph about the importance of sleep?", options:["Some people sleep eight hours.","Getting enough sleep is essential for concentration, mood, and physical health.","Sleep is when people close their eyes.","There are many things people do at night."], answer:1},
-     {q:"A concluding sentence in a paragraph should:", options:["Wrap up the paragraph's main idea and connect back to the topic sentence","Introduce a new topic","Repeat the topic sentence exactly","Ask a new question"], answer:0},
-     {q:"Supporting details in a paragraph can be:", options:["Any random information","Only personal stories","Only opinions","Statistics, examples, facts, or quotations that support the main idea"], answer:3},
+     {q:"Which sentence would make the best topic sentence for a paragraph about the importance of sleep?", options:["Some people sleep eight hours.","Sleep is essential for health and mood.","Sleep is when people close their eyes.","There are many things people do at night."], answer:1},
+     {q:"A concluding sentence in a paragraph should:", options:["Wrap up the main idea","Introduce a new topic","Repeat the topic sentence exactly","Ask a new question"], answer:0},
+     {q:"Supporting details in a paragraph can be:", options:["Any random information","Only personal stories","Only opinions","Statistics, facts, or quotations"], answer:3},
      {q:"A well-structured paragraph in expository writing follows this order:", options:["Evidence, topic sentence, conclusion","Concluding sentence, evidence, topic sentence","Details, conclusion, introduction","Topic sentence, supporting details, concluding sentence"], answer:3},
    ]},
   {subject:"Math", title:"Multiplying Fractions", summary:"Ontario Number strand: to multiply fractions, multiply the numerators together and the denominators together. Simplify the result if possible. Multiplying a fraction by a whole number is a useful real-world skill.",
@@ -221,18 +221,18 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Types of Aircraft and How They Fly", summary:"Ontario Flight strand: different aircraft use different principles to fly. Airplanes use fixed wings and engines; helicopters use rotating blades; hot air balloons use buoyancy; gliders use air currents.",
    resourceLabel:"YouTube: Types of Aircraft and How They Fly", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Aircraft%20and%20How%20They%20Fly%20grade%206%20educational",
    quiz:[
-     {q:"A glider flies without an engine by:", options:["Using rocket fuel","Flapping its wings","Using a balloon","Riding rising air currents (thermals) and converting altitude to forward motion"], answer:3},
-     {q:"How does a hot air balloon rise?", options:["Spinning rotors","Warm air inside the balloon is less dense than cool outside air, creating buoyancy","Using propellers","Burning jet fuel"], answer:1},
-     {q:"A helicopter can hover in place because:", options:["Its wings are fixed like an airplane's","It uses hot air","Its rotating blades generate both lift and thrust in a controllable direction","It has no engine"], answer:2},
+     {q:"A glider flies without an engine by:", options:["Using rocket fuel","Flapping its wings","Using a balloon","Riding rising air currents (thermals)"], answer:3},
+     {q:"How does a hot air balloon rise?", options:["Spinning rotors","Warm air is less dense than cool air","Using propellers","Burning jet fuel"], answer:1},
+     {q:"A helicopter can hover in place because:", options:["Its wings are fixed like an airplane's","It uses hot air","Rotating blades create lift and thrust","It has no engine"], answer:2},
      {q:"Birds fly using wings that are shaped like:", options:["Circles","Triangles","Airfoils that generate lift","Flat boards"], answer:2},
      {q:"The Wright Brothers' first successful powered flight took place in:", options:["1903","1895","1888","1920"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Mesopotamia and Egypt: Comparing Civilizations", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: comparing Mesopotamia and Egypt reveals similarities in their use of river systems, complex social structures, and written records, while highlighting differences in geography and beliefs.",
    resourceLabel:"YouTube: Mesopotamia and Egypt: Comparing Civilizations", resourceUrl:"https://www.youtube.com/results?search_query=Mesopotamia%20and%20Egypt%3A%20Comparing%20Civilizations%20grade%206%20educational",
    quiz:[
-     {q:"Both Mesopotamia and Ancient Egypt depended heavily on:", options:["Ocean trade routes","Major river systems for agriculture and transportation","Mountain passes","Rainforests"], answer:1},
-     {q:"How were the governments of Ancient Egypt and Mesopotamia similar?", options:["Both had no central government","Both had elected presidents","Both were democracies","Both had powerful rulers at the top of a social hierarchy"], answer:3},
-     {q:"Ancient Egypt is unique compared to Mesopotamia in that it was more:", options:["Dependent on rain-fed farming","Geographically protected by deserts and the Nile, making it more stable","Frequently invaded due to open geography","Spread across multiple river valleys"], answer:1},
+     {q:"Both Mesopotamia and Ancient Egypt depended heavily on:", options:["Ocean trade routes","Major rivers for farming and transport","Mountain passes","Rainforests"], answer:1},
+     {q:"How were the governments of Ancient Egypt and Mesopotamia similar?", options:["Both had no central government","Both had elected presidents","Both were democracies","Both had rulers atop a social hierarchy"], answer:3},
+     {q:"Ancient Egypt is unique compared to Mesopotamia in that it was more:", options:["Dependent on rain-fed farming","Protected by deserts and the Nile","Frequently invaded due to open geography","Spread across multiple river valleys"], answer:1},
      {q:"Both civilizations developed writing systems primarily to:", options:["Record trade, taxes, laws, and religious texts","Communicate with other continents","Create artistic expression only","Tell entertaining stories"], answer:0},
      {q:"A 'polytheistic' religion, which both Mesopotamia and Egypt had, means:", options:["Belief that nature has no spiritual meaning","Belief in many gods","Belief in one god","No religious beliefs"], answer:2},
    ]},
@@ -241,7 +241,7 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Complex Sentences and Subordinate Clauses", summary:"Ontario Grammar strand: a complex sentence contains an independent clause and one or more dependent (subordinate) clauses. Subordinating conjunctions like 'because,' 'although,' and 'when' connect clauses.",
    resourceLabel:"YouTube: Complex Sentences and Subordinate Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Complex%20Sentences%20and%20Subordinate%20Clauses%20grade%206%20educational",
    quiz:[
-     {q:"Which sentence is a complex sentence?", options:["She ran and he walked.","Although it was raining, they played outside.","The dog barked.","I like pizza."], answer:1},
+     {q:"Which sentence is a complex sentence?", options:["She ran and he walked.","Although raining, they played outside.","The dog barked.","I like pizza."], answer:1},
      {q:"A subordinating conjunction:", options:["Joins two independent clauses","Connects a dependent clause to an independent clause","Is the same as a coordinating conjunction","Is always placed at the end of a sentence"], answer:1},
      {q:"Identify the dependent clause: 'Because she studied hard, she passed the test.'", options:["she studied hard","she passed the test","passed the test","Because she studied hard"], answer:3},
      {q:"Which word is a subordinating conjunction?", options:["But","Or","Although","And"], answer:2},
@@ -259,10 +259,10 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Structures that Enable Flight: Wings and Propellers", summary:"Ontario Flight strand: engineers design wings and propellers using the airfoil shape and principles of lift. The design of these structures determines the performance and efficiency of aircraft.",
    resourceLabel:"YouTube: Structures that Enable Flight: Wings and Propellers", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20that%20Enable%20Flight%3A%20Wings%20and%20Propellers%20grade%206%20educational",
    quiz:[
-     {q:"What is the main function of a propeller on an airplane?", options:["To steer up and down","To provide thrust by spinning and pushing air backward","To act as a brake","To generate lift"], answer:1},
+     {q:"What is the main function of a propeller on an airplane?", options:["To steer up and down","To provide thrust by pushing air back","To act as a brake","To generate lift"], answer:1},
      {q:"Why are airplane wings typically swept back?", options:["To increase the weight of the plane","To reduce drag at high speeds","To make the plane turn left","For decoration"], answer:1},
-     {q:"Ailerons on airplane wings are used to:", options:["Slow the aircraft down","Increase engine power","Generate extra lift only","Control the rolling movement (banking) of the aircraft"], answer:3},
-     {q:"The fuselage is:", options:["The main body of an airplane that holds passengers and cargo","The landing gear","The propeller","The wing structure"], answer:0},
+     {q:"Ailerons on airplane wings are used to:", options:["Slow the aircraft down","Increase engine power","Generate extra lift only","Control the aircraft's roll"], answer:3},
+     {q:"The fuselage is:", options:["The plane's main body","The landing gear","The propeller","The wing structure"], answer:0},
      {q:"Winglets (the small vertical tips on some airplane wings) reduce:", options:["Induced drag at the wingtip","Thrust","Lift","Fuel consumption always"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Ancient Greece: Democracy and Philosophy", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Ancient Greece gave the world early democratic ideas, philosophy, and advances in science, art, and mathematics that still influence modern society.",
@@ -271,8 +271,8 @@ const curriculum: DayContent[] = [
      {q:"The word 'democracy' comes from ancient Greek and means:", options:["Rule by priests","Rule by soldiers","Rule by one","Rule by the people"], answer:3},
      {q:"Athens is famous for developing:", options:["An early form of direct democracy","The Roman legal system","The first monarchy","Cuneiform writing"], answer:0},
      {q:"Which ancient Greek philosopher taught by asking questions to find truth?", options:["Homer","Socrates","Julius Caesar","Cleopatra"], answer:1},
-     {q:"The ancient Greek Olympics were held to:", options:["Decide who would be king","Trade goods between cities","Train soldiers for war","Honor the god Zeus and celebrate athletic excellence"], answer:3},
-     {q:"Ancient Greece's contributions to modern civilization include:", options:["Only art styles","No lasting influence","Only military tactics","Democratic ideals, philosophy, mathematics, theatre, and Olympic games"], answer:3},
+     {q:"The ancient Greek Olympics were held to:", options:["Decide who would be king","Trade goods between cities","Train soldiers for war","Honor Zeus and athletic excellence"], answer:3},
+     {q:"Ancient Greece's contributions to modern civilization include:", options:["Only art styles","No lasting influence","Only military tactics","Democracy, philosophy, and math"], answer:3},
    ]},
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
@@ -297,20 +297,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Electricity: Static and Current Electricity", summary:"Ontario Grade 6 Science — Electricity strand: static electricity results from a buildup of electric charge. Current electricity is the flow of electrons through a conductor, powering devices in circuits.",
    resourceLabel:"YouTube: Electricity: Static and Current Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20Electricity%20grade%206%20educational",
    quiz:[
-     {q:"Static electricity is caused by:", options:["Magnetic fields only","Running water","Moving electrons in a wire","A buildup of electric charge on the surface of objects"], answer:3},
+     {q:"Static electricity is caused by:", options:["Magnetic fields only","Running water","Moving electrons in a wire","A buildup of surface electric charge"], answer:3},
      {q:"Current electricity involves:", options:["Electrons staying still","The flow of electrons through a conductor","Only positive charges moving","Light particles moving"], answer:1},
      {q:"A conductor is a material that:", options:["Only works with static electricity","Generates its own electricity","Allows electricity to flow through it easily","Does not allow electricity to flow"], answer:2},
      {q:"Which material is a good conductor of electricity?", options:["Wood","Plastic","Rubber","Copper"], answer:3},
-     {q:"What does a switch do in an electric circuit?", options:["Generates electricity","Stores electricity","Controls the flow of current (opens or closes the circuit)","Converts AC to DC"], answer:2},
+     {q:"What does a switch do in an electric circuit?", options:["Generates electricity","Stores electricity","Controls the flow of current","Converts AC to DC"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Medieval Societies: Feudalism and Daily Life", summary:"Ontario Grade 6 Social Studies — Medieval Societies: medieval European society was organized under feudalism, a system where land was exchanged for military service. Most people were peasants whose lives were shaped by the Church and the seasons.",
    resourceLabel:"YouTube: Medieval Societies: Feudalism and Daily Life", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Societies%3A%20Feudalism%20and%20Daily%20Life%20grade%206%20educational",
    quiz:[
-     {q:"Feudalism was a system based on:", options:["The exchange of land for military service and loyalty","Democratic elections","A free-market economy","Religious rule alone"], answer:0},
+     {q:"Feudalism was a system based on:", options:["Land exchanged for military service","Democratic elections","A free-market economy","Religious rule alone"], answer:0},
      {q:"In medieval Europe, who was at the top of the feudal hierarchy?", options:["Serfs","Knights","The King or Queen","Bishops"], answer:2},
-     {q:"A serf in medieval society was:", options:["A peasant tied to a lord's land with very few freedoms","A church official","A wealthy merchant","A military general"], answer:0},
-     {q:"The Catholic Church in medieval Europe had great power because:", options:["It had no real influence","It invented feudalism","It controlled all armies","It influenced daily life, education, morality, and politics across Europe"], answer:3},
-     {q:"The Crusades were:", options:["Trade routes between Asia and Europe","Military campaigns launched by European Christians to control the Holy Land","Agricultural improvements in the Middle Ages","Viking raids on coastal towns"], answer:1},
+     {q:"A serf in medieval society was:", options:["A peasant tied to a lord's land","A church official","A wealthy merchant","A military general"], answer:0},
+     {q:"The Catholic Church in medieval Europe had great power because:", options:["It had no real influence","It invented feudalism","It controlled all armies","It influenced daily life and politics"], answer:3},
+     {q:"The Crusades were:", options:["Trade routes between Asia and Europe","Wars to control the Holy Land","Agricultural improvements in the Middle Ages","Viking raids on coastal towns"], answer:1},
    ]},
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
@@ -320,13 +320,13 @@ const curriculum: DayContent[] = [
      {q:"Which pronoun signals first-person point of view?", options:["I","You","They","He"], answer:0},
      {q:"A narrator who knows the thoughts and feelings of ALL characters is using:", options:["Third-person omniscient","First-person limited","Second person","Third-person limited"], answer:0},
      {q:"'You walk down the dark hallway, not knowing what awaits.' — This is written in:", options:["Third-person omniscient","Third person limited","First person","Second person"], answer:3},
-     {q:"An advantage of first-person narration is:", options:["No character is more important than another","The reader knows all characters equally","The narrator is always reliable","The reader gets an intimate, personal view of the narrator's thoughts"], answer:3},
+     {q:"An advantage of first-person narration is:", options:["No character is more important than another","The reader knows all characters equally","The narrator is always reliable","An intimate view of the narrator's mind"], answer:3},
      {q:"In third-person limited narration, the narrator knows:", options:["Only what happens externally","No characters' thoughts","All characters' thoughts","Only one character's thoughts and feelings"], answer:3},
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Ontario Patterning and Algebra strand: variables are letters that represent unknown quantities. Algebraic expressions combine variables, numbers, and operations. Evaluating an expression means substituting a value for the variable.",
    resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
    quiz:[
-     {q:"In the expression 3n + 5, what does 'n' represent?", options:["An unknown variable (a quantity that can vary)","The operation of addition","Always the number 3","The number 5"], answer:0},
+     {q:"In the expression 3n + 5, what does 'n' represent?", options:["An unknown variable","The operation of addition","Always the number 3","The number 5"], answer:0},
      {q:"Evaluate 2x + 4 when x = 3.", options:["10","8","14","9"], answer:0},
      {q:"Which expression means 'five more than twice a number n'?", options:["2n + 5","2 + 5n","5 + n × 2","5n + 2"], answer:0},
      {q:"Simplify: 4a + 3a", options:["12a","7","4a3","7a"], answer:3},
@@ -344,10 +344,10 @@ const curriculum: DayContent[] = [
   {subject:"SocialStudies", title:"The Role of the Church in Medieval Society", summary:"Ontario Grade 6 Social Studies — Medieval Societies: the Catholic Church was the dominant institution in medieval Europe, shaping education, art, politics, and daily life. Monasteries preserved knowledge during this period.",
    resourceLabel:"YouTube: The Role of the Church in Medieval Society", resourceUrl:"https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Church%20in%20Medieval%20Society%20grade%206%20educational",
    quiz:[
-     {q:"Medieval monasteries were important because they:", options:["Preserved ancient texts, educated monks, and provided hospitals and shelter","Had no connection to religion","Were military bases only","Were only found in Rome"], answer:0},
-     {q:"The Pope was important in medieval Europe because:", options:["He commanded all armies","He was elected democratically","He controlled trade routes","He was the leader of the Catholic Church and had immense political and religious power"], answer:3},
-     {q:"Gothic cathedrals in medieval Europe were built to:", options:["Serve as palaces for kings","House the army","Store grain","Honor God, display the Church's wealth, and inspire awe"], answer:3},
-     {q:"The concept of 'excommunication' meant:", options:["Going on a pilgrimage","Being expelled from the Church, which had serious social consequences","Receiving a church education","Being elected to a church position"], answer:1},
+     {q:"Medieval monasteries were important because they:", options:["Preserved texts and provided shelter","Had no connection to religion","Were military bases only","Were only found in Rome"], answer:0},
+     {q:"The Pope was important in medieval Europe because:", options:["He commanded all armies","He was elected democratically","He controlled trade routes","He led the Church with great power"], answer:3},
+     {q:"Gothic cathedrals in medieval Europe were built to:", options:["Serve as palaces for kings","House the army","Store grain","Honor God and display Church wealth"], answer:3},
+     {q:"The concept of 'excommunication' meant:", options:["Going on a pilgrimage","Being expelled from the Church","Receiving a church education","Being elected to a church position"], answer:1},
      {q:"Which of the following subjects was NOT commonly taught in medieval church schools?", options:["Latin grammar","Music","Modern computer programming","Theology"], answer:2},
    ]},
 ]},
@@ -355,11 +355,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Media Literacy: Identifying Bias", summary:"Ontario Media Literacy strand: all media texts have a perspective. Bias is a tendency to favour one viewpoint. Recognizing bias helps readers and viewers think critically about the information they receive.",
    resourceLabel:"YouTube: Media Literacy: Identifying Bias", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Identifying%20Bias%20grade%206%20educational",
    quiz:[
-     {q:"Media bias means:", options:["Balanced reporting of all sides","Only political opinions","A tendency in media to favour one perspective or viewpoint","Incorrect information always"], answer:2},
-     {q:"Which question helps identify bias in a news article?", options:["How long is the article?","What font is used?","Who is the author and what is their perspective?","Is the article in colour?"], answer:2},
+     {q:"Media bias means:", options:["Balanced reporting of all sides","Only political opinions","Favouring one perspective over others","Incorrect information always"], answer:2},
+     {q:"Which question helps identify bias in a news article?", options:["How long is the article?","What font is used?","Who wrote it and why?","Is the article in colour?"], answer:2},
      {q:"A photograph taken from below looking up at a person makes them appear:", options:["Blurry","Unimportant","Smaller and weaker","Larger and more powerful"], answer:3},
-     {q:"'Loaded language' in media refers to:", options:["Factual, neutral reporting","Very long sentences","Technical jargon","Words chosen to trigger an emotional response rather than inform neutrally"], answer:3},
-     {q:"To get a balanced view of a current event, you should:", options:["Read only one source you trust","Consult multiple sources with different perspectives","Accept the first article you find","Only watch TV news"], answer:1},
+     {q:"'Loaded language' in media refers to:", options:["Factual, neutral reporting","Very long sentences","Technical jargon","Words chosen to trigger emotion"], answer:3},
+     {q:"To get a balanced view of a current event, you should:", options:["Read only one source you trust","Consult multiple, varied sources","Accept the first article you find","Only watch TV news"], answer:1},
    ]},
   {subject:"Math", title:"Solving Equations with One Variable", summary:"Ontario Patterning and Algebra strand: solving an equation means finding the value of the variable that makes the equation true. Use inverse operations (opposite operations) to isolate the variable.",
    resourceLabel:"YouTube: Solving Equations with One Variable", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Equations%20with%20One%20Variable%20grade%206%20educational",
@@ -373,20 +373,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Electrical Safety and Energy Conservation", summary:"Ontario Electricity strand: electrical safety involves understanding hazards like overloaded circuits and water near outlets. Conserving electricity reduces energy use, costs, and environmental impact.",
    resourceLabel:"YouTube: Electrical Safety and Energy Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Electrical%20Safety%20and%20Energy%20Conservation%20grade%206%20educational",
    quiz:[
-     {q:"Why should you never use electrical appliances near water?", options:["Water only affects old appliances","Water conducts electricity, creating a risk of electric shock","Water makes appliances work better","Water improves battery life"], answer:1},
+     {q:"Why should you never use electrical appliances near water?", options:["Water only affects old appliances","Water conducts electricity","Water makes appliances work better","Water improves battery life"], answer:1},
      {q:"An overloaded circuit is dangerous because it can:", options:["Cause wires to overheat and start a fire","Save electricity","Reduce electricity bills","Make appliances run faster"], answer:0},
      {q:"Which action conserves electricity at home?", options:["Turning off lights when leaving a room","Leaving lights on all day","Using old inefficient appliances","Opening the refrigerator for long periods"], answer:0},
-     {q:"A GFCI (ground fault circuit interrupter) outlet is designed to:", options:["Store electricity","Quickly cut power to prevent electric shock in wet areas","Generate electricity","Only work with high-voltage devices"], answer:1},
+     {q:"A GFCI (ground fault circuit interrupter) outlet is designed to:", options:["Store electricity","Quickly cut power to prevent shock","Generate electricity","Only work with high-voltage devices"], answer:1},
      {q:"Renewable energy sources that reduce reliance on fossil fuels include:", options:["Wind, solar, and hydroelectric power","Nuclear power and oil","Coal and natural gas","Diesel and gasoline"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Medieval Trade and the Growth of Towns", summary:"Ontario Grade 6 Social Studies — Medieval Societies: as trade expanded along routes like the Silk Road and Mediterranean sea lanes, medieval towns grew into busy centres of commerce. Guilds controlled craft production and trade.",
    resourceLabel:"YouTube: Medieval Trade and the Growth of Towns", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Trade%20and%20the%20Growth%20of%20Towns%20grade%206%20educational",
    quiz:[
-     {q:"The Silk Road was:", options:["A type of medieval cloth","A road paved with silk","A medieval highway in France","A network of trade routes connecting Europe and Asia"], answer:3},
-     {q:"A guild in medieval Europe was:", options:["A peasant farming community","A religious group","An association of craftspeople or merchants that controlled trade and quality in their craft","A type of castle"], answer:2},
-     {q:"Why did towns grow along rivers and at crossroads in medieval Europe?", options:["Only flat land was safe","Kings required towns there","Rivers and crossroads facilitated trade and transportation of goods","Those locations had better weather"], answer:2},
-     {q:"The Black Death (bubonic plague) affected medieval towns by:", options:["Increasing the population","Only affecting rural areas","Killing approximately one-third of Europe's population, devastating communities","Having no lasting effects"], answer:2},
-     {q:"Which goods were highly valued in medieval European trade?", options:["Plastic goods","Spices, silk, and precious metals from Asia and the Middle East","Modern textiles","Electronics"], answer:1},
+     {q:"The Silk Road was:", options:["A type of medieval cloth","A road paved with silk","A medieval highway in France","Trade routes linking Europe and Asia"], answer:3},
+     {q:"A guild in medieval Europe was:", options:["A peasant farming community","A religious group","Craftspeople controlling their trade","A type of castle"], answer:2},
+     {q:"Why did towns grow along rivers and at crossroads in medieval Europe?", options:["Only flat land was safe","Kings required towns there","Rivers and crossroads eased trade","Those locations had better weather"], answer:2},
+     {q:"The Black Death (bubonic plague) affected medieval towns by:", options:["Increasing the population","Only affecting rural areas","Killing a third of Europe's people","Having no lasting effects"], answer:2},
+     {q:"Which goods were highly valued in medieval European trade?", options:["Plastic goods","Spices, silk, and precious metals","Modern textiles","Electronics"], answer:1},
    ]},
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
@@ -394,10 +394,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Persuasion Techniques in Advertising", resourceUrl:"https://www.youtube.com/results?search_query=Persuasion%20Techniques%20in%20Advertising%20grade%206%20educational",
    quiz:[
      {q:"The 'bandwagon' technique in advertising appeals to:", options:["Celebrity authority","Fear of missing out","Scientific evidence","Logical reasoning"], answer:1},
-     {q:"A celebrity endorses a product in a commercial. This technique works because:", options:["It provides scientific evidence","It gives the consumer facts","People transfer their positive feelings about the celebrity to the product","Celebrities always test products before advertising them"], answer:2},
-     {q:"Repetition is used in advertising because:", options:["Hearing or seeing a message many times makes it more memorable","It takes up time cheaply","It is required by law","It confuses the consumer"], answer:0},
-     {q:"An advertisement saying 'Act now — limited time offer!' is using:", options:["Scientific evidence","Scarcity/urgency appeal to create fear of missing out","Celebrity endorsement","Bandwagon appeal"], answer:1},
-     {q:"Being 'media literate' means:", options:["Critically analyzing media messages to understand their purpose and techniques","Only reading print media","Avoiding all media","Reading and watching as much media as possible"], answer:0},
+     {q:"A celebrity endorses a product in a commercial. This technique works because:", options:["It provides scientific evidence","It gives the consumer facts","Feelings for the celebrity transfer","Celebrities always test products before advertising them"], answer:2},
+     {q:"Repetition is used in advertising because:", options:["Repeating a message makes it memorable","It takes up time cheaply","It is required by law","It confuses the consumer"], answer:0},
+     {q:"An advertisement saying 'Act now — limited time offer!' is using:", options:["Scientific evidence","Scarcity appeal, fear of missing out","Celebrity endorsement","Bandwagon appeal"], answer:1},
+     {q:"Being 'media literate' means:", options:["Critically analyzing media's purpose","Only reading print media","Avoiding all media","Reading and watching as much media as possible"], answer:0},
    ]},
   {subject:"Math", title:"Decimals: Multiplying and Dividing", summary:"Ontario Number strand: multiplying decimals is similar to multiplying whole numbers, then placing the decimal point. Dividing decimals uses similar strategies, and estimation helps check reasonableness.",
    resourceLabel:"YouTube: Decimals: Multiplying and Dividing", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Multiplying%20and%20Dividing%20grade%206%20educational",
@@ -423,7 +423,7 @@ const curriculum: DayContent[] = [
      {q:"The Renaissance began in which country?", options:["France","England","Italy","Germany"], answer:2},
      {q:"Renaissance humanism emphasized:", options:["The rejection of ancient Greek and Roman learning","Strict religious obedience above all","The importance of afterlife over earthly concerns","The value of human achievement, reason, and individual potential"], answer:3},
      {q:"Leonardo da Vinci was notable during the Renaissance for being:", options:["A multi-talented genius","Exclusively a painter","Only an architect","Only a mathematician"], answer:0},
-     {q:"The invention of the printing press by Gutenberg had what effect on the Renaissance?", options:["It was only used for religious texts","It allowed books and new ideas to spread widely and quickly","It slowed the spread of ideas","It had no significant impact"], answer:1},
+     {q:"The invention of the printing press by Gutenberg had what effect on the Renaissance?", options:["It was only used for religious texts","It let books and ideas spread quickly","It slowed the spread of ideas","It had no significant impact"], answer:1},
      {q:"Which Renaissance artist painted the Sistine Chapel ceiling?", options:["Michelangelo","Leonardo da Vinci","Raphael","Donatello"], answer:0},
    ]},
 ]},
@@ -431,11 +431,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Oral Communication: Elements of Effective Presentations", summary:"Ontario Oral Communication strand: effective presentations use clear organization, appropriate volume and pace, eye contact, and visual aids. Speakers engage their audience and manage nervous energy.",
    resourceLabel:"YouTube: Oral Communication: Elements of Effective Presentations", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Elements%20of%20Effective%20Presentations%20grade%206%20educational",
    quiz:[
-     {q:"Why is eye contact important in a presentation?", options:["It shows you memorized the text","It helps you read from notes","It connects with the audience and demonstrates confidence","It is not important"], answer:2},
-     {q:"Speaking too fast in a presentation is a problem because:", options:["It shows too much enthusiasm","The audience has too much time to think","It always makes audiences laugh","It makes the audience feel rushed and listeners may miss important points"], answer:3},
-     {q:"A visual aid (like a poster or slide) is effective when it:", options:["Is read directly by the presenter","Is made at the last minute","Illustrates or supports key points without overwhelming the audience with text","Contains every word of the presentation"], answer:2},
-     {q:"What should you do when another student is presenting?", options:["Prepare your own notes","Look at your phone quietly","Listen attentively and avoid distracting the speaker","Whisper to your neighbour"], answer:2},
-     {q:"The 'introduction' of a presentation should:", options:["Summarize the conclusion","Cover all the details of the topic","Include all the research sources","Capture the audience's attention and state what the presentation is about"], answer:3},
+     {q:"Why is eye contact important in a presentation?", options:["It shows you memorized the text","It helps you read from notes","It connects with the audience","It is not important"], answer:2},
+     {q:"Speaking too fast in a presentation is a problem because:", options:["It shows too much enthusiasm","The audience has too much time to think","It always makes audiences laugh","Listeners may miss important points"], answer:3},
+     {q:"A visual aid (like a poster or slide) is effective when it:", options:["Is read directly by the presenter","Is made at the last minute","Supports points without too much text","Contains every word of the presentation"], answer:2},
+     {q:"What should you do when another student is presenting?", options:["Prepare your own notes","Look at your phone quietly","Listen without distracting the speaker","Whisper to your neighbour"], answer:2},
+     {q:"The 'introduction' of a presentation should:", options:["Summarize the conclusion","Cover all the details of the topic","Include all the research sources","Capture attention and state the topic"], answer:3},
    ]},
   {subject:"Math", title:"Geometry: Angles — Types and Measurement", summary:"Ontario Geometry strand: angles are classified as acute (less than 90°), right (90°), obtuse (90°–180°), straight (180°), and reflex (more than 180°). A protractor is used to measure angles.",
    resourceLabel:"YouTube: Geometry: Angles — Types and Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20%E2%80%94%20Types%20and%20Measurement%20grade%206%20educational",
@@ -449,30 +449,30 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Exploring Space: Telescopes and Space Missions", summary:"Ontario Space Exploration strand: humans have explored space using telescopes, satellites, and crewed missions. Space exploration has led to technological advances and a better understanding of our solar system and universe.",
    resourceLabel:"YouTube: Exploring Space: Telescopes and Space Missions", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Space%3A%20Telescopes%20and%20Space%20Missions%20grade%206%20educational",
    quiz:[
-     {q:"The Hubble Space Telescope is valuable because:", options:["It was the first satellite in space","It orbits Earth and takes extremely clear images free from atmospheric distortion","It is on Mars","It travels to other galaxies"], answer:1},
+     {q:"The Hubble Space Telescope is valuable because:", options:["It was the first satellite in space","It images space above the atmosphere","It is on Mars","It travels to other galaxies"], answer:1},
      {q:"Which was the first crewed mission to land on the Moon?", options:["Mercury 3","Apollo 7","Gemini 4","Apollo 11"], answer:3},
-     {q:"A satellite is:", options:["A type of space food","An object that orbits a planet or other body in space","A type of rocket fuel","Only a natural object like the Moon"], answer:1},
-     {q:"The International Space Station (ISS) is used for:", options:["Military operations only","Scientific research conducted in the microgravity of space","Launching rockets to Mars","Tourism only"], answer:1},
-     {q:"What makes conditions on Mars challenging for human exploration?", options:["Mars has too much oxygen","Mars is too hot","Mars has a very thin atmosphere, extreme cold, and high radiation","Mars rotates too slowly"], answer:2},
+     {q:"A satellite is:", options:["A type of space food","An object that orbits a planet","A type of rocket fuel","Only a natural object like the Moon"], answer:1},
+     {q:"The International Space Station (ISS) is used for:", options:["Military operations only","Scientific research in microgravity","Launching rockets to Mars","Tourism only"], answer:1},
+     {q:"What makes conditions on Mars challenging for human exploration?", options:["Mars has too much oxygen","Mars is too hot","Mars has thin air, cold, and radiation","Mars rotates too slowly"], answer:2},
    ]},
   {subject:"SocialStudies", title:"The Reformation: Challenging Church Authority", summary:"Ontario Grade 6 Social Studies — Renaissance and Reformation: the Protestant Reformation began when reformers like Martin Luther challenged the practices and authority of the Catholic Church, leading to the formation of Protestant churches.",
    resourceLabel:"YouTube: The Reformation: Challenging Church Authority", resourceUrl:"https://www.youtube.com/results?search_query=The%20Reformation%3A%20Challenging%20Church%20Authority%20grade%206%20educational",
    quiz:[
-     {q:"Martin Luther's 95 Theses (1517) were a:", options:["Poem about the Renaissance","List of complaints against practices of the Catholic Church, sparking the Reformation","Letter to the Pope requesting a new pope","Document creating a new country"], answer:1},
-     {q:"The practice of selling 'indulgences' that Luther criticized was:", options:["A type of Renaissance art","The selling of pardons for sins by the Church to raise money","A medieval farming technique","A way for the poor to buy land"], answer:1},
-     {q:"The printing press helped the Reformation spread because:", options:["Luther's ideas could be quickly printed and distributed to thousands of people","Only the Pope could use it","It was too slow to matter","It was controlled by Luther exclusively"], answer:0},
-     {q:"The term 'Protestant' refers to:", options:["Catholic reformers who stayed in the Church","Christians who broke from the Catholic Church following the Reformation","Anyone who protested in medieval Europe","A denomination founded by the Pope"], answer:1},
-     {q:"King Henry VIII of England broke from the Catholic Church to:", options:["Trade more freely with Germany","Become a priest","Agree with Luther's theology","Form the Church of England, partly motivated by his desire to annul his marriage"], answer:3},
+     {q:"Martin Luther's 95 Theses (1517) were a:", options:["Poem about the Renaissance","Complaints that sparked the Reformation","Letter to the Pope requesting a new pope","Document creating a new country"], answer:1},
+     {q:"The practice of selling 'indulgences' that Luther criticized was:", options:["A type of Renaissance art","The Church selling pardons for sins","A medieval farming technique","A way for the poor to buy land"], answer:1},
+     {q:"The printing press helped the Reformation spread because:", options:["Ideas could be printed and spread fast","Only the Pope could use it","It was too slow to matter","It was controlled by Luther exclusively"], answer:0},
+     {q:"The term 'Protestant' refers to:", options:["Catholic reformers who stayed in the Church","Christians who left the Catholic Church","Anyone who protested in medieval Europe","A denomination founded by the Pope"], answer:1},
+     {q:"King Henry VIII of England broke from the Catholic Church to:", options:["Trade more freely with Germany","Become a priest","Agree with Luther's theology","Form the Church of England"], answer:3},
    ]},
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Debate: Structure and Argumentation", summary:"Ontario Oral Communication strand: a structured debate has opening statements, rebuttal periods, and closing arguments. Effective debaters use evidence, stay on topic, and respond to the opposing team's points.",
    resourceLabel:"YouTube: Debate: Structure and Argumentation", resourceUrl:"https://www.youtube.com/results?search_query=Debate%3A%20Structure%20and%20Argumentation%20grade%206%20educational",
    quiz:[
-     {q:"In a debate, a 'rebuttal' is:", options:["The closing argument","A response that addresses and counters the opposing side's arguments","The opening statement","A type of visual aid"], answer:1},
+     {q:"In a debate, a 'rebuttal' is:", options:["The closing argument","A response countering the other side","The opening statement","A type of visual aid"], answer:1},
      {q:"The most effective arguments in a debate are supported by:", options:["Making fun of the other team","Specific evidence, facts, and logical reasoning","Shouting louder than the other side","Only personal opinions"], answer:1},
-     {q:"When preparing for a debate, it is useful to think about the opposing side because:", options:["You should agree with them","It wastes preparation time","You must repeat their points","Understanding their arguments helps you prepare stronger rebuttals"], answer:3},
-     {q:"Active listening during a debate means:", options:["Preparing your next point only","Agreeing with everything they say","Paying careful attention to the other side so you can respond accurately to what they said","Taking no notes"], answer:2},
+     {q:"When preparing for a debate, it is useful to think about the opposing side because:", options:["You should agree with them","It wastes preparation time","You must repeat their points","It helps you prepare better rebuttals"], answer:3},
+     {q:"Active listening during a debate means:", options:["Preparing your next point only","Agreeing with everything they say","Paying attention to respond accurately","Taking no notes"], answer:2},
      {q:"Which behaviour would be considered poor debate etiquette?", options:["Waiting your turn to speak","Interrupting the opposing speaker","Making eye contact with the audience","Using evidence to support claims"], answer:1},
    ]},
   {subject:"Math", title:"Geometry: Transformations — Translation, Reflection, Rotation", summary:"Ontario Geometry strand: transformations move or change shapes. A translation slides a shape, a reflection flips it over a line of symmetry, and a rotation turns it around a point.",
@@ -480,38 +480,38 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Which transformation slides a shape to a new position without turning or flipping it?", options:["Translation","Reflection","Dilation","Rotation"], answer:0},
      {q:"A reflection flips a shape over:", options:["A line of symmetry (mirror line)","A centre point","A circle","An angle"], answer:0},
-     {q:"If a triangle is rotated 90° clockwise, it:", options:["Turns 90° to the right around a centre point","Stays in the same spot","Becomes a different shape","Flips to its mirror image"], answer:0},
-     {q:"After a translation, does the shape change size or orientation?", options:["Yes, it gets larger","No, it stays the same size and orientation","Yes, it rotates","Yes, it flips"], answer:1},
-     {q:"A shape has a line of symmetry if:", options:["It has no curved edges","It is a triangle","It has four sides","It can be folded so both halves match exactly"], answer:3},
+     {q:"If a triangle is rotated 90° clockwise, it:", options:["Turns 90° right around a centre point","Stays in the same spot","Becomes a different shape","Flips to its mirror image"], answer:0},
+     {q:"After a translation, does the shape change size or orientation?", options:["Yes, it gets larger","No, it stays the same size","Yes, it rotates","Yes, it flips"], answer:1},
+     {q:"A shape has a line of symmetry if:", options:["It has no curved edges","It is a triangle","It has four sides","It folds so both halves match"], answer:3},
    ]},
   {subject:"Science", title:"Canada's Contributions to Space Exploration", summary:"Ontario Space Exploration strand: Canada has made significant contributions to space exploration, including the Canadarm robotic arm, the RADARSAT satellite, and Canadian astronauts aboard the International Space Station.",
    resourceLabel:"YouTube: Canada's Contributions to Space Exploration", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Contributions%20to%20Space%20Exploration%20grade%206%20educational",
    quiz:[
-     {q:"The Canadarm is a Canadian-designed robotic arm that was used on:", options:["The Apollo missions to the Moon","Russia's Soyuz spacecraft","Mars rover missions","The Space Shuttle and International Space Station"], answer:3},
-     {q:"Chris Hadfield is notable in Canadian space history because:", options:["He was the first Canadian to command the ISS and he inspired science interest in Canada","He designed the first Canadian satellite","He invented the Canadarm","He was the first human to walk in space"], answer:0},
-     {q:"RADARSAT is a Canadian satellite that:", options:["Is used for TV broadcasting only","Explores Mars","Uses radar to map Earth's surface, monitor ice, and track environmental changes","Carries astronauts to the ISS"], answer:2},
+     {q:"The Canadarm is a Canadian-designed robotic arm that was used on:", options:["The Apollo missions to the Moon","Russia's Soyuz spacecraft","Mars rover missions","The Space Shuttle and ISS"], answer:3},
+     {q:"Chris Hadfield is notable in Canadian space history because:", options:["The first Canadian to command the ISS","He designed the first Canadian satellite","He invented the Canadarm","He was the first human to walk in space"], answer:0},
+     {q:"RADARSAT is a Canadian satellite that:", options:["Is used for TV broadcasting only","Explores Mars","Uses radar to map Earth's surface","Carries astronauts to the ISS"], answer:2},
      {q:"The Canadian Space Agency (CSA) is headquartered in:", options:["Ottawa","Longueuil, Quebec","Toronto","Vancouver"], answer:1},
-     {q:"Why is microgravity on the ISS useful for scientific research?", options:["It has no benefits","It makes experiments cheaper","It allows experiments in conditions impossible on Earth, such as studying fluid behaviour and human physiology in weightlessness","It only benefits engineering research"], answer:2},
+     {q:"Why is microgravity on the ISS useful for scientific research?", options:["It has no benefits","It makes experiments cheaper","It allows unique weightless experiments","It only benefits engineering research"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Early Modern Period: Exploration and Contact", summary:"Ontario Grade 6 Social Studies — Early Modern Period: European explorers from Portugal, Spain, England, and France sailed to new regions from the 15th century onward, leading to exchanges of goods, diseases, and cultures with profound consequences.",
    resourceLabel:"YouTube: Early Modern Period: Exploration and Contact", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Modern%20Period%3A%20Exploration%20and%20Contact%20grade%206%20educational",
    quiz:[
-     {q:"What motivated European countries to explore new sea routes in the 1400s–1500s?", options:["To flee from wars at home","To find faster sea routes to Asia for trade and access to spices and goods","Only scientific curiosity","To find new land to give away for free"], answer:1},
-     {q:"Christopher Columbus's 1492 voyage led to:", options:["A direct route to Asia","Contact between Europe and the Americas, initiating the 'Columbian Exchange'","The end of the spice trade","The discovery of Australia"], answer:1},
-     {q:"The Columbian Exchange involved the transfer of:", options:["Only spices and silks","Only gold and silver","Only religion and language","Plants, animals, diseases, and people between Europe, the Americas, and Africa"], answer:3},
-     {q:"The spread of European diseases to Indigenous peoples in the Americas was devastating because:", options:["The diseases were very mild","Indigenous peoples had no immunity to diseases like smallpox, causing massive population loss","Indigenous peoples chose not to use medicine","Indigenous populations were already declining"], answer:1},
-     {q:"John Cabot's 1497 voyage, funded by England, reached:", options:["Africa","South America","India","The coast of North America (likely Newfoundland)"], answer:3},
+     {q:"What motivated European countries to explore new sea routes in the 1400s–1500s?", options:["To flee from wars at home","To find faster trade routes to Asia","Only scientific curiosity","To find new land to give away for free"], answer:1},
+     {q:"Christopher Columbus's 1492 voyage led to:", options:["A direct route to Asia","Starting the 'Columbian Exchange'","The end of the spice trade","The discovery of Australia"], answer:1},
+     {q:"The Columbian Exchange involved the transfer of:", options:["Only spices and silks","Only gold and silver","Only religion and language","Plants, animals, diseases, and people"], answer:3},
+     {q:"The spread of European diseases to Indigenous peoples in the Americas was devastating because:", options:["The diseases were very mild","They had no immunity to new diseases","Indigenous peoples chose not to use medicine","Indigenous populations were already declining"], answer:1},
+     {q:"John Cabot's 1497 voyage, funded by England, reached:", options:["Africa","South America","India","The coast of North America"], answer:3},
    ]},
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Research Writing: Finding and Evaluating Sources", summary:"Ontario Writing strand: research writing requires finding reliable sources. Evaluating sources involves checking authorship, currency, purpose, and accuracy. Primary sources are original; secondary sources interpret them.",
    resourceLabel:"YouTube: Research Writing: Finding and Evaluating Sources", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Writing%3A%20Finding%20and%20Evaluating%20Sources%20grade%206%20educational",
    quiz:[
-     {q:"A primary source is:", options:["Any book from a library","A summary written 100 years later","An original document or first-hand account (e.g., a diary, photograph, original data)","A website with .com"], answer:2},
-     {q:"When evaluating a website for research, which factor is MOST important?", options:["The authority and credibility of the author or organization behind it","Whether it has lots of pictures","How long the website has existed","How colourful the design is"], answer:0},
-     {q:"Plagiarism means:", options:["Using a dictionary","Writing too much","Using someone else's words or ideas without giving them credit, presenting them as your own","Citing your sources correctly"], answer:2},
-     {q:"A bibliography (works cited page) is used to:", options:["Summarize your argument","Show how long your essay is","Introduce your topic","List all the sources you used so readers can verify them"], answer:3},
-     {q:"Which source is likely MOST reliable for a research report on climate science?", options:["A government or university-affiliated scientific organization's website","A social media post","A company that profits from selling oil","An anonymous blog"], answer:0},
+     {q:"A primary source is:", options:["Any book from a library","A summary written 100 years later","An original, first-hand account","A website with .com"], answer:2},
+     {q:"When evaluating a website for research, which factor is MOST important?", options:["The author's authority and credibility","Whether it has lots of pictures","How long the website has existed","How colourful the design is"], answer:0},
+     {q:"Plagiarism means:", options:["Using a dictionary","Writing too much","Using others' work without credit","Citing your sources correctly"], answer:2},
+     {q:"A bibliography (works cited page) is used to:", options:["Summarize your argument","Show how long your essay is","Introduce your topic","List all sources so readers can verify"], answer:3},
+     {q:"Which source is likely MOST reliable for a research report on climate science?", options:["A government or university website","A social media post","A company that profits from selling oil","An anonymous blog"], answer:0},
    ]},
   {subject:"Math", title:"Data Management: Reading and Creating Graphs", summary:"Ontario Data Management strand: bar graphs, line graphs, and circle graphs display data in different ways. Choosing the right graph type depends on the data and what story you want to tell.",
    resourceLabel:"YouTube: Data Management: Reading and Creating Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Reading%20and%20Creating%20Graphs%20grade%206%20educational",
@@ -527,17 +527,17 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"What does 'mechanical advantage' mean?", options:["The ratio of output force to input force","The type of energy used","The weight of a machine","The speed of a machine"], answer:0},
      {q:"A lever consists of:", options:["A rigid bar that pivots on a fulcrum","An inclined surface","A curved screw thread","A wheel and a rope"], answer:0},
-     {q:"An inclined plane (ramp) makes work easier because:", options:["It eliminates the force needed","It reduces the force needed by spreading work over a greater distance","It doubles the weight being lifted","It changes the energy type"], answer:1},
-     {q:"A pulley changes:", options:["The type of energy used","The amount of energy required","The direction of force and can also multiply force","The speed of light"], answer:2},
+     {q:"An inclined plane (ramp) makes work easier because:", options:["It eliminates the force needed","It spreads the work over more distance","It doubles the weight being lifted","It changes the energy type"], answer:1},
+     {q:"A pulley changes:", options:["The type of energy used","The amount of energy required","The direction and amount of force","The speed of light"], answer:2},
      {q:"Which is an example of a wedge?", options:["A water wheel","A wheelchair ramp","A bottle opener (lever)","An axe blade splitting wood"], answer:3},
    ]},
   {subject:"SocialStudies", title:"Canada's Early Colonial History and New France", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: French colonists established New France along the St. Lawrence River. The fur trade shaped relationships between Europeans and First Nations peoples.",
    resourceLabel:"YouTube: Canada's Early Colonial History and New France", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Early%20Colonial%20History%20and%20New%20France%20grade%206%20educational",
    quiz:[
-     {q:"New France was established primarily along:", options:["The St. Lawrence River and Great Lakes region","The Pacific coast","The Atlantic coast only","The Rocky Mountains"], answer:0},
-     {q:"The fur trade was important to New France because:", options:["Beaver pelts were highly valued in Europe for hats and clothing, driving the colonial economy","Fur was exchanged only among First Nations","Fur was used only for decoration","New France had no other resources"], answer:0},
+     {q:"New France was established primarily along:", options:["The St. Lawrence and Great Lakes","The Pacific coast","The Atlantic coast only","The Rocky Mountains"], answer:0},
+     {q:"The fur trade was important to New France because:", options:["Beaver pelts were valued in Europe","Fur was exchanged only among First Nations","Fur was used only for decoration","New France had no other resources"], answer:0},
      {q:"Samuel de Champlain was significant in Canadian history because:", options:["He was a French explorer and founder of Quebec City in 1608","He was the first Prime Minister of Canada","He wrote the first Canadian constitution","He led the British conquest of New France"], answer:0},
-     {q:"The relationship between French colonists and First Nations in the fur trade was:", options:["Based on mutual trade and alliances, though First Nations also faced disadvantages","Entirely controlled by First Nations","Completely equal and beneficial to all","Entirely hostile with no cooperation"], answer:0},
+     {q:"The relationship between French colonists and First Nations in the fur trade was:", options:["Mutual trade, but with real costs","Entirely controlled by First Nations","Completely equal and beneficial to all","Entirely hostile with no cooperation"], answer:0},
      {q:"The Battle of the Plains of Abraham (1759) resulted in:", options:["France defeating Britain and keeping New France","First Nations winning control of the region","A peace treaty that kept both nations equal","Britain defeating France, transferring control of New France to Britain"], answer:3},
    ]},
 ]},
@@ -546,10 +546,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Writing a Research Report: Organization and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Research%20Report%3A%20Organization%20and%20Citation%20grade%206%20educational",
    quiz:[
      {q:"When paraphrasing a source in your report, you should:", options:["Copy the exact words and put them in quotes","Only use the information if it agrees with your thesis","Not cite it since you used your own words","Rewrite the idea in your own words and still cite the source"], answer:3},
-     {q:"The introduction of a research report should:", options:["List all sources","Include all your conclusions","Be the longest section","Hook the reader, provide background, and state the research focus"], answer:3},
-     {q:"Why should a research report use headings?", options:["To help readers navigate sections and understand the organization of information","To replace paragraphs","They are required by law","To make the report look longer"], answer:0},
-     {q:"An in-text citation tells the reader:", options:["The author's personal opinion","Where in the report to look for the conclusion","The full bibliography","That the idea came from a specific source so readers can find it"], answer:3},
-     {q:"The conclusion of a research report should:", options:["Restate the key findings, answer the research question, and suggest further questions","List all the research sources again","Introduce new arguments","Copy the introduction exactly"], answer:0},
+     {q:"The introduction of a research report should:", options:["List all sources","Include all your conclusions","Be the longest section","Hook the reader and state the focus"], answer:3},
+     {q:"Why should a research report use headings?", options:["To help readers navigate sections","To replace paragraphs","They are required by law","To make the report look longer"], answer:0},
+     {q:"An in-text citation tells the reader:", options:["The author's personal opinion","Where in the report to look for the conclusion","The full bibliography","That an idea came from a source"], answer:3},
+     {q:"The conclusion of a research report should:", options:["Restate the key findings","List all the research sources again","Introduce new arguments","Copy the introduction exactly"], answer:0},
    ]},
   {subject:"Math", title:"Probability: Introduction and Simple Experiments", summary:"Ontario Data Management strand: probability describes how likely an event is to happen, expressed as a fraction, decimal, or percent from 0 (impossible) to 1 (certain). Experimental probability is based on actual trials.",
    resourceLabel:"YouTube: Probability: Introduction and Simple Experiments", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Introduction%20and%20Simple%20Experiments%20grade%206%20educational",
@@ -557,25 +557,25 @@ const curriculum: DayContent[] = [
      {q:"A bag has 3 red marbles and 7 blue marbles. The probability of picking a red marble is:", options:["1/3","7/10","3/7","3/10"], answer:3},
      {q:"An event with a probability of 0 is:", options:["Impossible","Likely to happen","Uncertain","Certain to happen"], answer:0},
      {q:"If you flip a fair coin 100 times, theoretical probability predicts about how many heads?", options:["100","75","50","25"], answer:2},
-     {q:"Experimental probability is different from theoretical probability because:", options:["They are always identical","Only theoretical probability is useful","Experimental probability is always higher","Experimental probability is based on actual results, which vary from the theoretical prediction"], answer:3},
+     {q:"Experimental probability is different from theoretical probability because:", options:["They are always identical","Only theoretical probability is useful","Experimental probability is always higher","It's based on actual, varying results"], answer:3},
      {q:"A spinner has 4 equal sections: red, blue, green, yellow. The probability of NOT landing on red is:", options:["3/4","1/2","1","1/4"], answer:0},
    ]},
   {subject:"Science", title:"Compound Machines and Mechanical Systems", summary:"Ontario Mechanical Advantage strand: compound machines combine two or more simple machines. Gears, pulleys, and levers work together in mechanical systems to transfer and multiply forces efficiently.",
    resourceLabel:"YouTube: Compound Machines and Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Machines%20and%20Mechanical%20Systems%20grade%206%20educational",
    quiz:[
-     {q:"A compound machine is:", options:["A type of electric motor","A very large simple machine","A machine with only one moving part","A combination of two or more simple machines working together"], answer:3},
-     {q:"Gears are used in machines to:", options:["Generate electricity","Only change the colour of output","Transfer and change the speed, direction, or force of rotational motion","Store energy"], answer:2},
+     {q:"A compound machine is:", options:["A type of electric motor","A very large simple machine","A machine with only one moving part","Two or more simple machines combined"], answer:3},
+     {q:"Gears are used in machines to:", options:["Generate electricity","Only change the colour of output","Change the speed or direction of motion","Store energy"], answer:2},
      {q:"When a small gear drives a larger gear, the larger gear turns:", options:["Slower with more force","Faster with more force","At the same speed","Faster with less force"], answer:0},
-     {q:"A bicycle is an example of a compound machine because it uses:", options:["Multiple simple machines including wheel and axle, gears, levers (pedals and brakes)","Only one simple machine","Only a lever","Only gears and nothing else"], answer:0},
-     {q:"What is 'efficiency' in a machine?", options:["The size of the machine","How fast the machine moves","The ratio of useful output work to total input work","How colourful a machine is"], answer:2},
+     {q:"A bicycle is an example of a compound machine because it uses:", options:["Multiple simple machines combined","Only one simple machine","Only a lever","Only gears and nothing else"], answer:0},
+     {q:"What is 'efficiency' in a machine?", options:["The size of the machine","How fast the machine moves","Useful output work over total input","How colourful a machine is"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Confederation: The Birth of Canada", summary:"Ontario Grade 6 Social Studies — Canada's History: Confederation in 1867 united the Province of Canada, New Brunswick, and Nova Scotia into the Dominion of Canada. Factors including trade, defence, and political deadlock motivated the union.",
    resourceLabel:"YouTube: Confederation: The Birth of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20The%20Birth%20of%20Canada%20grade%206%20educational",
    quiz:[
      {q:"Canada became a Dominion through Confederation in:", options:["1900","1850","1812","1867"], answer:3},
      {q:"The four founding provinces of Confederation were:", options:["Ontario, Quebec, Nova Scotia, New Brunswick","All provinces joined at once","Ontario, Quebec, Prince Edward Island, New Brunswick","British Columbia, Alberta, Saskatchewan, Manitoba"], answer:0},
-     {q:"The British North America Act (1867) was significant because:", options:["It was the constitutional document that created the Dominion of Canada","It declared Canada's full independence from Britain","It ended the fur trade","It gave women the right to vote"], answer:0},
-     {q:"One major reason for Confederation was:", options:["Religious differences between colonies","Fear of American expansion northward and the need for a larger political unit for defence and trade","A desire to join the United States","Only economic disagreements between regions"], answer:1},
+     {q:"The British North America Act (1867) was significant because:", options:["It created the Dominion of Canada","It declared Canada's full independence from Britain","It ended the fur trade","It gave women the right to vote"], answer:0},
+     {q:"One major reason for Confederation was:", options:["Religious differences between colonies","Fear of American expansion northward","A desire to join the United States","Only economic disagreements between regions"], answer:1},
      {q:"Who is often called the 'Father of Confederation' and was Canada's first Prime Minister?", options:["John A. Macdonald","Louis Riel","Wilfrid Laurier","Georges-Étienne Cartier"], answer:0},
    ]},
 ]},
@@ -583,10 +583,10 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Literary Devices: Foreshadowing and Flashback", summary:"Students identify and analyse foreshadowing (hints at future events) and flashback (interruption to show past events) in narratives.",
    resourceLabel:"YouTube: Literary Devices: Foreshadowing and Flashback", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Devices%3A%20Foreshadowing%20and%20Flashback%20grade%206%20educational",
    quiz:[
-     {q:"Foreshadowing in a story means ___.", options:["looking back at a past event","a character's thoughts only","dialogue between characters","a hint or clue given early in the story about events that will happen later"], answer:3},
-     {q:"A flashback is ___.", options:["a character description","a scene that interrupts the present narrative to reveal something from the past","a prediction of future events","a type of simile"], answer:1},
-     {q:"Which sentence uses foreshadowing?", options:["She remembered the summer she was seven.","He had no idea the locked door would change everything.","The dog barked twice.","The weather was warm."], answer:1},
-     {q:"Flashbacks are used by authors to ___.", options:["confuse the reader","speed up the plot","only describe settings","provide background information and deepen understanding of characters or events"], answer:3},
+     {q:"Foreshadowing in a story means ___.", options:["looking back at a past event","a character's thoughts only","dialogue between characters","a clue early on about later events"], answer:3},
+     {q:"A flashback is ___.", options:["a character description","a scene showing something from the past","a prediction of future events","a type of simile"], answer:1},
+     {q:"Which sentence uses foreshadowing?", options:["She remembered the summer she was seven.","The locked door would change everything.","The dog barked twice.","The weather was warm."], answer:1},
+     {q:"Flashbacks are used by authors to ___.", options:["confuse the reader","speed up the plot","only describe settings","give background on characters"], answer:3},
      {q:"Which literary device interrupts the current timeline to show past events?", options:["Onomatopoeia","Foreshadowing","Flashback","Metaphor"], answer:2}
    ]},
   {subject:"Math", title:"Ratios", summary:"Students understand ratios as comparisons of two quantities. They write ratios in three forms (a:b, a to b, a/b) and find equivalent ratios.",
@@ -596,36 +596,36 @@ const curriculum: DayContent[] = [
      {q:"The ratio of 3 red to 5 blue balls can be written as ___.", options:["only 3 to 5","3:5, 3 to 5, or 3/5","5:3 only","3/5 only"], answer:1},
      {q:"Which ratio is equivalent to 2:3?", options:["6:9","3:2","4:6","4:5"], answer:2},
      {q:"A recipe needs 2 cups of flour for every 3 cups of water. For 6 cups of flour, you need ___.", options:["7 cups","9 cups","6 cups","8 cups"], answer:1},
-     {q:"Ratios can be used to ___.", options:["only multiply","only add numbers","only subtract","compare, scale, and solve proportion problems in real contexts"], answer:3}
+     {q:"Ratios can be used to ___.", options:["only multiply","only add numbers","only subtract","compare, scale, and solve real problems"], answer:3}
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Students explore the eight planets, dwarf planets, moons, asteroids, and comets. They compare planet characteristics and orbital patterns.",
    resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%206%20educational",
    quiz:[
-     {q:"The correct order of planets from the Sun is ___.", options:["Mars, Venus, Mercury, Earth...","Earth, Venus, Mars, Jupiter...","Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune","Venus, Mercury, Earth, Mars..."], answer:2},
+     {q:"The correct order of planets from the Sun is ___.", options:["Mars, Venus, Mercury, Earth...","Earth, Venus, Mars, Jupiter...","Mercury, Venus, Earth, Mars, and beyond","Venus, Mercury, Earth, Mars..."], answer:2},
      {q:"Which planet is the largest in our solar system?", options:["Saturn","Uranus","Jupiter","Neptune"], answer:2},
      {q:"A moon is ___.", options:["an asteroid","a small sun","a natural satellite that orbits a planet","a star"], answer:2},
-     {q:"What distinguishes a planet from a dwarf planet?", options:["Planets orbit the Sun and have cleared their orbital neighbourhood of debris; dwarf planets have not","Colour only","Size only","Composition only"], answer:0},
+     {q:"What distinguishes a planet from a dwarf planet?", options:["Planets clear their orbit of debris","Colour only","Size only","Composition only"], answer:0},
      {q:"Which of these is NOT a planet in our solar system?", options:["Saturn","Neptune","Uranus","Pluto (dwarf planet)"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Rome", summary:"Students explore the rise and fall of the Roman Empire, its government structure, engineering achievements, and lasting influence on the Western world.",
    resourceLabel:"YouTube: Ancient Civilisations: Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Rome%20grade%206%20educational",
    quiz:[
-     {q:"The Roman Republic was governed by ___.", options:["a single king with unlimited power","only priests","a Senate and elected magistrates representing different classes of citizens","only military generals"], answer:2},
-     {q:"Julius Caesar was ___.", options:["the first Roman Emperor","a Greek philosopher","a Roman general and statesman who was assassinated in 44 BCE, leading to the end of the Republic","a Carthaginian general"], answer:2},
-     {q:"Roman engineering achievements include ___.", options:["Stonehenge","the Great Wall","the pyramids","aqueducts, roads, concrete construction, and the Colosseum"], answer:3},
+     {q:"The Roman Republic was governed by ___.", options:["a single king with unlimited power","only priests","a Senate and elected magistrates","only military generals"], answer:2},
+     {q:"Julius Caesar was ___.", options:["the first Roman Emperor","a Greek philosopher","a Roman general assassinated in 44 BCE","a Carthaginian general"], answer:2},
+     {q:"Roman engineering achievements include ___.", options:["Stonehenge","the Great Wall","the pyramids","aqueducts, roads, and concrete"], answer:3},
      {q:"The Roman Empire fell in ___.", options:["476 CE (Western Roman Empire)","100 CE","250 BCE","1066 CE"], answer:0},
-     {q:"Latin, the language of Rome, influenced ___.", options:["only scientific vocabulary","many modern languages including French, Spanish, Italian, Portuguese, and Romanian","no modern languages","only Italian"], answer:1}
+     {q:"Latin, the language of Rome, influenced ___.", options:["only scientific vocabulary","many modern Romance languages","no modern languages","only Italian"], answer:1}
    ]},
 ]},
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Argumentative Essay", summary:"Students write a multi-paragraph argumentative essay with a clear claim, organized supporting points with evidence, counterargument acknowledgement, and a conclusion.",
    resourceLabel:"YouTube: Writing: Argumentative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Argumentative%20Essay%20grade%206%20educational",
    quiz:[
-     {q:"The claim in an argumentative essay is ___.", options:["the conclusion alone","a list of facts only","the writer's main position or argument that the essay will defend","a question about the topic"], answer:2},
-     {q:"Why is it important to address the counterargument in an essay?", options:["Acknowledging and refuting opposing views strengthens your argument and shows you've considered multiple perspectives","It is not important","Only for debate class","Only for long essays"], answer:0},
-     {q:"Evidence in an argumentative essay should be ___.", options:["unrelated to the topic","only from the internet","facts, statistics, examples, or expert opinions that support the claim","only personal opinion"], answer:2},
-     {q:"A transition between paragraphs helps ___.", options:["create flow and show the logical relationship between ideas","only for introductions","shorten the essay","only add more words"], answer:0},
-     {q:"The conclusion of an argumentative essay should ___.", options:["simply list facts again","introduce new evidence","restate the claim, summarise key points, and leave the reader with a final thought","apologise for the opinion"], answer:2}
+     {q:"The claim in an argumentative essay is ___.", options:["the conclusion alone","a list of facts only","the writer's main position or argument","a question about the topic"], answer:2},
+     {q:"Why is it important to address the counterargument in an essay?", options:["It strengthens your argument","It is not important","Only for debate class","Only for long essays"], answer:0},
+     {q:"Evidence in an argumentative essay should be ___.", options:["unrelated to the topic","only from the internet","facts or evidence that support it","only personal opinion"], answer:2},
+     {q:"A transition between paragraphs helps ___.", options:["show the logical link between ideas","only for introductions","shorten the essay","only add more words"], answer:0},
+     {q:"The conclusion of an argumentative essay should ___.", options:["simply list facts again","introduce new evidence","restate the claim and key points","apologise for the opinion"], answer:2}
    ]},
   {subject:"Math", title:"Percentages", summary:"Students understand percentages as rates per 100. They convert between fractions, decimals, and percentages, and solve percent problems.",
    resourceLabel:"YouTube: Percentages", resourceUrl:"https://www.youtube.com/results?search_query=Percentages%20grade%206%20educational",
@@ -639,36 +639,36 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Biodiversity and Classification", summary:"Students explore the classification of living things (Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species) and the importance of biodiversity.",
    resourceLabel:"YouTube: Biodiversity and Classification", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20and%20Classification%20grade%206%20educational",
    quiz:[
-     {q:"Taxonomy is the science of ___.", options:["only studying bacteria","measuring animals","naming, describing, and classifying living things into groups","counting species"], answer:2},
-     {q:"The eight levels of biological classification from broadest to most specific are ___.", options:["Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species","Kingdom to Species only","Species first to Domain last","Only Kingdom, Phylum, Species"], answer:0},
-     {q:"Two organisms belong to the same genus. They must also share the same ___.", options:["only phylum","species always","family, order, class, phylum, kingdom, and domain","only kingdom"], answer:2},
-     {q:"Biodiversity refers to ___.", options:["only plant species","only tropical animals","the total number of people on Earth","the variety of life forms in an ecosystem or on Earth"], answer:3},
-     {q:"Why is biodiversity important?", options:["Only for scientists","Only for forests","It is not","Diverse ecosystems are more resilient, provide more resources, and support healthier environments for all life including humans"], answer:3}
+     {q:"Taxonomy is the science of ___.", options:["only studying bacteria","measuring animals","naming and classifying living things","counting species"], answer:2},
+     {q:"The eight levels of biological classification from broadest to most specific are ___.", options:["Domain to Species, broadest first","Kingdom to Species only","Species first to Domain last","Only Kingdom, Phylum, Species"], answer:0},
+     {q:"Two organisms belong to the same genus. They must also share the same ___.", options:["only phylum","species always","family, order, class, and above","only kingdom"], answer:2},
+     {q:"Biodiversity refers to ___.", options:["only plant species","only tropical animals","the total number of people on Earth","the variety of life on Earth"], answer:3},
+     {q:"Why is biodiversity important?", options:["Only for scientists","Only for forests","It is not","Diverse ecosystems are more resilient"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Greece", summary:"Students study ancient Greek city-states (Athens and Sparta), the origins of democracy, Greek philosophy, and the legacy of Greek culture.",
    resourceLabel:"YouTube: Ancient Civilisations: Greece", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Greece%20grade%206%20educational",
    quiz:[
      {q:"The two main rival city-states in ancient Greece were ___.", options:["Rome and Athens","Corinth and Thebes","Olympia and Delphi","Athens and Sparta"], answer:3},
-     {q:"Ancient Athens is credited with developing ___.", options:["the Roman senate","only military power","the earliest form of direct democracy in which citizens voted on laws and leaders","monarchy for all cities"], answer:2},
-     {q:"Socrates, Plato, and Aristotle were ___.", options:["Greek philosophers who explored ethics, knowledge, politics, and the nature of reality","Greek architects","Roman emperors","Greek generals"], answer:0},
-     {q:"The Olympic Games originated in ancient Greece to ___.", options:["trade goods between cities","elect leaders","honour the gods, particularly Zeus, and foster athletic competition among city-states","train soldiers only"], answer:2},
-     {q:"Greek culture influenced the modern world through ___.", options:["democracy, philosophy, theatre, architecture (columns), the Olympics, and scientific thought","only language","only art styles","only Greek food"], answer:0}
+     {q:"Ancient Athens is credited with developing ___.", options:["the Roman senate","only military power","the earliest direct democracy","monarchy for all cities"], answer:2},
+     {q:"Socrates, Plato, and Aristotle were ___.", options:["Greek philosophers on ethics","Greek architects","Roman emperors","Greek generals"], answer:0},
+     {q:"The Olympic Games originated in ancient Greece to ___.", options:["trade goods between cities","elect leaders","honour Zeus and foster competition","train soldiers only"], answer:2},
+     {q:"Greek culture influenced the modern world through ___.", options:["democracy, philosophy, and theatre","only language","only art styles","only Greek food"], answer:0}
    ]},
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Advertising Techniques", summary:"Students analyse advertising strategies including emotional appeal, bandwagon, celebrity endorsement, and fear appeal. They evaluate the purpose and impact of media messages.",
    resourceLabel:"YouTube: Media Literacy: Advertising Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Advertising%20Techniques%20grade%206%20educational",
    quiz:[
-     {q:"Media literacy involves ___.", options:["the ability to access, analyse, evaluate, and create media in a variety of forms","only reading newspapers","only watching more television","only creating videos"], answer:0},
+     {q:"Media literacy involves ___.", options:["accessing and evaluating media","only reading newspapers","only watching more television","only creating videos"], answer:0},
      {q:"The 'bandwagon' advertising technique says ___.", options:["everyone is using this — join in or miss out","only experts use this product","a celebrity likes this","this product is dangerous"], answer:0},
-     {q:"Emotional appeal in advertising works by ___.", options:["showing product ingredients","listing technical facts","triggering emotions (happiness, fear, nostalgia, belonging) to influence purchasing decisions","giving accurate statistics only"], answer:2},
-     {q:"Why is it important to analyse advertising critically?", options:["Only for marketing students","It is not","Understanding persuasion techniques helps you make informed choices rather than being manipulated","Only for adults"], answer:2},
-     {q:"A disclaimer in small print at the bottom of an ad is there to ___.", options:["decorate the ad","make it look longer","show the logo","provide legally required disclosures that qualify or limit the main claim"], answer:3}
+     {q:"Emotional appeal in advertising works by ___.", options:["showing product ingredients","listing technical facts","triggering emotions to influence buying","giving accurate statistics only"], answer:2},
+     {q:"Why is it important to analyse advertising critically?", options:["Only for marketing students","It is not","It helps you make informed choices","Only for adults"], answer:2},
+     {q:"A disclaimer in small print at the bottom of an ad is there to ___.", options:["decorate the ad","make it look longer","show the logo","provide required legal disclosures"], answer:3}
    ]},
   {subject:"Math", title:"Integers: Introduction", summary:"Students extend their number sense to negative numbers. They place integers on a number line, compare them, and understand real-world contexts (temperature, elevation, debt).",
    resourceLabel:"YouTube: Integers: Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Integers%3A%20Introduction%20grade%206%20educational",
    quiz:[
-     {q:"An integer is ___.", options:["a whole number that can be positive, negative, or zero","only a positive whole number","a decimal","a fraction"], answer:0},
+     {q:"An integer is ___.", options:["any whole number, including zero","only a positive whole number","a decimal","a fraction"], answer:0},
      {q:"Which number is greatest?", options:["−10","0","−5","3"], answer:3},
      {q:"What is the opposite of −7?", options:["7","−7","1/7","0"], answer:0},
      {q:"The temperature is −3°C. It drops 4 more degrees. New temperature = ?", options:["7°C","1°C","−1°C","−7°C"], answer:3},
@@ -677,36 +677,36 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Electricity and Circuits", summary:"Students explore electrical circuits, including series and parallel circuits, conductors, insulators, voltage, current, and resistance.",
    resourceLabel:"YouTube: Electricity and Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%20and%20Circuits%20grade%206%20educational",
    quiz:[
-     {q:"In a series circuit, if one bulb burns out ___.", options:["all bulbs go out (single path for current)","only the next bulb goes out","nothing changes","all other bulbs stay on"], answer:0},
-     {q:"In a parallel circuit, if one bulb burns out ___.", options:["all other bulbs stay on (each branch has its own path)","all bulbs go out","only the bulb before it goes out","the battery dies"], answer:0},
-     {q:"Voltage is ___.", options:["a unit of resistance","the electrical potential difference (energy per charge) that drives current through a circuit","the flow of electrons","the resistance to current"], answer:1},
+     {q:"In a series circuit, if one bulb burns out ___.", options:["all bulbs go out (one path)","only the next bulb goes out","nothing changes","all other bulbs stay on"], answer:0},
+     {q:"In a parallel circuit, if one bulb burns out ___.", options:["all other bulbs stay on","all bulbs go out","only the bulb before it goes out","the battery dies"], answer:0},
+     {q:"Voltage is ___.", options:["a unit of resistance","the energy per charge driving current","the flow of electrons","the resistance to current"], answer:1},
      {q:"Which material is a good electrical conductor?", options:["Plastic","Glass","Rubber","Copper"], answer:3},
-     {q:"Resistance in a circuit ___.", options:["opposes the flow of electric current, converting electrical energy to heat","increases current flow","makes voltage higher","has no effect"], answer:0}
+     {q:"Resistance in a circuit ___.", options:["opposes current and creates heat","increases current flow","makes voltage higher","has no effect"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: China", summary:"Students study the Han Dynasty, the Silk Road, major inventions (paper, compass, printing, gunpowder), and China's influence on world history.",
    resourceLabel:"YouTube: Ancient Civilisations: China", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20China%20grade%206%20educational",
    quiz:[
-     {q:"The Silk Road was ___.", options:["a road made of silk","a vast network of trade routes connecting China to Central Asia, the Middle East, and Europe","a river route only","a type of Chinese fabric"], answer:1},
+     {q:"The Silk Road was ___.", options:["a road made of silk","trade routes linking China to the West","a river route only","a type of Chinese fabric"], answer:1},
      {q:"Which of these was NOT invented in ancient China?", options:["Paper","Gunpowder","The telephone","The printing press (woodblock printing)"], answer:2},
-     {q:"The Great Wall of China was built primarily to ___.", options:["impress foreign visitors","attract tourists","divide China into provinces","protect China's northern border from nomadic invasions"], answer:3},
-     {q:"The Han Dynasty is often compared to Rome because ___.", options:["they were allies","both empires were roughly contemporary, large, powerful, and had significant lasting cultural influence","they shared the same language","they were geographically connected"], answer:1},
-     {q:"Confucianism emphasises ___.", options:["individual freedom only","isolation from other societies","social harmony, respect for elders and rulers, education, and ethical conduct","military conquest above all"], answer:2}
+     {q:"The Great Wall of China was built primarily to ___.", options:["impress foreign visitors","attract tourists","divide China into provinces","protect against nomadic invasions"], answer:3},
+     {q:"The Han Dynasty is often compared to Rome because ___.", options:["they were allies","both were large and influential empires","they shared the same language","they were geographically connected"], answer:1},
+     {q:"Confucianism emphasises ___.", options:["individual freedom only","isolation from other societies","harmony, respect, education, and ethics","military conquest above all"], answer:2}
    ]},
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Reading: Synthesising Information from Multiple Sources", summary:"Students gather information from two or more sources and synthesise it into a unified understanding, noting similarities, differences, and gaps.",
    resourceLabel:"YouTube: Reading: Synthesising Information from Multiple Sources", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Synthesising%20Information%20from%20Multiple%20Sources%20grade%206%20educational",
    quiz:[
-     {q:"Synthesising information means ___.", options:["combining and connecting ideas from multiple sources to form a new, deeper understanding","copying from multiple sources","summarising one source","only comparing sources"], answer:0},
-     {q:"When synthesising, you should look for ___.", options:["similarities, differences, unique insights, and gaps in the information","only agreements between sources","only facts that agree","only contradictions"], answer:0},
-     {q:"Why is it useful to consult multiple sources on a topic?", options:["Only for long essays","It is not","Different sources offer different perspectives, ensuring a more complete and accurate picture","Only if sources agree"], answer:2},
+     {q:"Synthesising information means ___.", options:["combining ideas into new understanding","copying from multiple sources","summarising one source","only comparing sources"], answer:0},
+     {q:"When synthesising, you should look for ___.", options:["similarities, differences, and gaps","only agreements between sources","only facts that agree","only contradictions"], answer:0},
+     {q:"Why is it useful to consult multiple sources on a topic?", options:["Only for long essays","It is not","Different sources give a fuller picture","Only if sources agree"], answer:2},
      {q:"What should you do when two sources contradict each other?", options:["Always prefer the most popular","Ignore one","Investigate further","Choose the longer source"], answer:2},
-     {q:"When writing a synthesis paragraph, you should ___.", options:["never use your own words","blend ideas from multiple sources into your own analytical statement","simply list what each source says separately","only quote directly"], answer:1}
+     {q:"When writing a synthesis paragraph, you should ___.", options:["never use your own words","blend sources into your own statement","simply list what each source says separately","only quote directly"], answer:1}
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"Students apply the correct order of operations: Brackets, Exponents, Division/Multiplication (left to right), Addition/Subtraction (left to right).",
    resourceLabel:"YouTube: Order of Operations (BEDMAS)", resourceUrl:"https://www.youtube.com/results?search_query=Order%20of%20Operations%20%28BEDMAS%29%20grade%206%20educational",
    quiz:[
-     {q:"BEDMAS stands for ___.", options:["Brackets, Equation, Division, Math, Addition, Subtraction","Base, Equation, Data, Method, Answer, Step","None of these","Brackets, Exponents, Division, Multiplication, Addition, Subtraction"], answer:3},
+     {q:"BEDMAS stands for ___.", options:["Brackets, Equation, Division, Math, Addition, Subtraction","Base, Equation, Data, Method, Answer, Step","None of these","BEDMAS order of operations"], answer:3},
      {q:"What is 3 + 4 × 2?", options:["10","11","14","8"], answer:1},
      {q:"What is (3 + 4) × 2?", options:["10","14","11","8"], answer:1},
      {q:"What is 20 ÷ 4 + 3 × 2?", options:["11","13","5","14"], answer:0},
@@ -717,18 +717,18 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The four forces acting on an aircraft in flight are ___.", options:["push, pull, spin, and float","lift, weight, thrust, and drag","hot air, cold air, wind, speed","gravity, wind, speed, and size"], answer:1},
      {q:"Lift is a force that acts ___.", options:["forward","downward","upward, opposing gravity","backward"], answer:2},
-     {q:"Drag is ___.", options:["the upward aerodynamic force","weight acting down","the forward force of the engine","the air resistance force that opposes motion through air"], answer:3},
-     {q:"Bernoulli's principle explains lift because ___.", options:["wings are heavy","engines push up","air moving faster over the curved top of the wing creates lower pressure above, generating upward lift","wings catch wind"], answer:2},
-     {q:"Which wing shape generates more lift?", options:["Flat, symmetrical","Thick rectangular shape","Pointed at both ends","Curved on top and flatter on the bottom (aerofoil/airfoil shape)"], answer:3}
+     {q:"Drag is ___.", options:["the upward aerodynamic force","weight acting down","the forward force of the engine","air resistance opposing motion"], answer:3},
+     {q:"Bernoulli's principle explains lift because ___.", options:["wings are heavy","engines push up","faster air over the wing creates lift","wings catch wind"], answer:2},
+     {q:"Which wing shape generates more lift?", options:["Flat, symmetrical","Thick rectangular shape","Pointed at both ends","Curved top, flatter bottom (airfoil)"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Medieval Europe", summary:"Students explore the feudal system, the role of the Church, the Crusades, the Black Death, and the transition from the Middle Ages to the Renaissance.",
    resourceLabel:"YouTube: Medieval Europe", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Europe%20grade%206%20educational",
    quiz:[
-     {q:"The feudal system in Medieval Europe was ___.", options:["a merchant economy","a hierarchical structure: monarch → nobles → knights → serfs/peasants who exchanged land and service for protection","a democratic government","an early republic"], answer:1},
-     {q:"The Black Death (bubonic plague) in the 14th century ___.", options:["only lasted one year","only affected Asia","killed roughly one-third of Europe's population, disrupting the feudal system and accelerating social change","had no major effects"], answer:2},
-     {q:"The Catholic Church in Medieval Europe ___.", options:["held enormous political and social power, influencing monarchs, laws, and daily life","had no political influence","was opposed by all monarchs","was a purely spiritual institution"], answer:0},
-     {q:"The Crusades were ___.", options:["military campaigns primarily aimed at capturing Jerusalem and the Holy Land from Muslim rule","only fought in Europe","fought between European kingdoms only","peaceful trade missions"], answer:0},
-     {q:"The Renaissance began in ___.", options:["Italy in the 14th–15th century, marking a renewed interest in classical learning, art, and science","Russia","Spain","Britain"], answer:0}
+     {q:"The feudal system in Medieval Europe was ___.", options:["a merchant economy","monarch, nobles, knights, then peasants","a democratic government","an early republic"], answer:1},
+     {q:"The Black Death (bubonic plague) in the 14th century ___.", options:["only lasted one year","only affected Asia","killed about a third of Europeans","had no major effects"], answer:2},
+     {q:"The Catholic Church in Medieval Europe ___.", options:["held huge political and social power","had no political influence","was opposed by all monarchs","was a purely spiritual institution"], answer:0},
+     {q:"The Crusades were ___.", options:["campaigns to capture the Holy Land","only fought in Europe","fought between European kingdoms only","peaceful trade missions"], answer:0},
+     {q:"The Renaissance began in ___.", options:["Italy in the 14th–15th century","Russia","Spain","Britain"], answer:0}
    ]},
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
@@ -737,14 +737,14 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"An independent clause can ___.", options:["only be one word","never be part of a complex sentence","not stand on its own","stand alone as a complete sentence"], answer:3},
      {q:"A dependent clause ___.", options:["cannot stand alone","is always a complete thought","is never combined with other clauses","can stand alone"], answer:0},
-     {q:"A complex sentence contains ___.", options:["an independent clause and at least one dependent clause joined by a subordinating conjunction","only one clause","two independent clauses","only dependent clauses"], answer:0},
+     {q:"A complex sentence contains ___.", options:["an independent and a dependent clause","only one clause","two independent clauses","only dependent clauses"], answer:0},
      {q:"Which word is a subordinating conjunction?", options:["Although","And","Or","But"], answer:0},
-     {q:"Which is a complex sentence?", options:["She sings.","The dog barked and the cat ran.","Although it was raining, the game continued.","Run quickly."], answer:2}
+     {q:"Which is a complex sentence?", options:["She sings.","The dog barked and the cat ran.","Though it rained, the game continued.","Run quickly."], answer:2}
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Students write and evaluate algebraic expressions. They use variables to represent unknown quantities and substitute values to find results.",
    resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
    quiz:[
-     {q:"A variable in algebra is ___.", options:["only used in equations","a letter or symbol that represents an unknown or changing quantity","always equal to 0","always the letter x"], answer:1},
+     {q:"A variable in algebra is ___.", options:["only used in equations","a symbol for an unknown quantity","always equal to 0","always the letter x"], answer:1},
      {q:"Evaluate 3n + 5 when n = 4.", options:["22","17","12","16"], answer:1},
      {q:"Which expression means '5 more than twice a number n'?", options:["2n + 5","2 + 5n","5 + 2 + n","5n + 2"], answer:0},
      {q:"Simplify: 4x + 3x", options:["12x","7x","43x","7x²"], answer:1},
@@ -753,19 +753,19 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Climate and Climate Change", summary:"Students examine the difference between weather and climate, greenhouse gases, global warming, and human impacts on Earth's climate system.",
    resourceLabel:"YouTube: Climate and Climate Change", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20and%20Climate%20Change%20grade%206%20educational",
    quiz:[
-     {q:"Climate is ___.", options:["the average weather patterns over a long time period (decades) in a region","only temperature and precipitation","only summer and winter temperatures","today's temperature"], answer:0},
-     {q:"The greenhouse effect is ___.", options:["always harmful","only caused by humans","a type of pollution only","the natural process by which greenhouse gases trap heat, warming Earth enough to support life"], answer:3},
-     {q:"Which gas is the most significant human-caused contributor to climate change?", options:["Oxygen","Nitrogen","Argon","Carbon dioxide (CO₂) from burning fossil fuels"], answer:3},
-     {q:"Global warming refers to ___.", options:["only melting ice caps","only ocean temperature changes","the long-term increase in Earth's average temperature due to enhanced greenhouse gas emissions","only the summer getting warmer"], answer:2},
-     {q:"Which action reduces an individual's carbon footprint?", options:["Flying more often","Using public transit, eating less meat, and using renewable energy","Buying more products","Driving alone always"], answer:1}
+     {q:"Climate is ___.", options:["average weather patterns over decades","only temperature and precipitation","only summer and winter temperatures","today's temperature"], answer:0},
+     {q:"The greenhouse effect is ___.", options:["always harmful","only caused by humans","a type of pollution only","gases trapping heat to warm Earth"], answer:3},
+     {q:"Which gas is the most significant human-caused contributor to climate change?", options:["Oxygen","Nitrogen","Argon","CO₂ from burning fossil fuels"], answer:3},
+     {q:"Global warming refers to ___.", options:["only melting ice caps","only ocean temperature changes","the rise in Earth's average temperature","only the summer getting warmer"], answer:2},
+     {q:"Which action reduces an individual's carbon footprint?", options:["Flying more often","Using transit and eating less meat","Buying more products","Driving alone always"], answer:1}
    ]},
   {subject:"SocialStudies", title:"The Renaissance", summary:"Students explore the Renaissance as a period of renewed interest in classical learning, humanism, art, science, and exploration (14th–17th century).",
    resourceLabel:"YouTube: The Renaissance", resourceUrl:"https://www.youtube.com/results?search_query=The%20Renaissance%20grade%206%20educational",
    quiz:[
-     {q:"Renaissance means ___.", options:["new beginning","rebirth — referring to the revival of classical Greek and Roman ideas in Europe","darkness","revolution"], answer:1},
-     {q:"Humanism during the Renaissance emphasised ___.", options:["the potential, dignity, and achievements of human beings and earthly life","only religious devotion","only farming improvements","only military conquest"], answer:0},
-     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he was a master of painting, sculpture, engineering, anatomy, and science","he invented firearms","he was a military general","he was only a painter"], answer:0},
-     {q:"The printing press, invented by Gutenberg around 1440, changed society by ___.", options:["allowing rapid, cheap reproduction of books, spreading ideas, literacy, and the Reformation","making books more expensive","reducing communication","only helping artists"], answer:0},
+     {q:"Renaissance means ___.", options:["new beginning","rebirth of Greek and Roman ideas","darkness","revolution"], answer:1},
+     {q:"Humanism during the Renaissance emphasised ___.", options:["human potential and dignity","only religious devotion","only farming improvements","only military conquest"], answer:0},
+     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he mastered art and science alike","he invented firearms","he was a military general","he was only a painter"], answer:0},
+     {q:"The printing press, invented by Gutenberg around 1440, changed society by ___.", options:["spreading books and ideas quickly","making books more expensive","reducing communication","only helping artists"], answer:0},
      {q:"Which period of exploration coincided with the Renaissance?", options:["The Dark Ages","The Industrial Revolution","The Age of Exploration","Ancient times"], answer:2}
    ]},
 ]},
@@ -773,11 +773,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Poetry: Form, Tone, and Theme", summary:"Students analyse the form (structure, rhyme scheme, stanza patterns), tone (author's attitude), and theme (central message) of a variety of poems.",
    resourceLabel:"YouTube: Poetry: Form, Tone, and Theme", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%3A%20Form%2C%20Tone%2C%20and%20Theme%20grade%206%20educational",
    quiz:[
-     {q:"A poem's tone is ___.", options:["the subject of the poem","the author's attitude toward the subject, conveyed through word choice and structure","the poem's rhyme scheme","the central message or lesson"], answer:1},
-     {q:"A poem's theme is ___.", options:["only a stated lesson in the last line","the central message or insight about life that the poem conveys","the rhyming pattern","the number of stanzas"], answer:1},
-     {q:"A sonnet is a 14-line poem with ___.", options:["no rhyme","only 10 syllables total","a specific rhyme scheme (Shakespearean: ABAB CDCD EFEF GG; Petrarchan: ABBA ABBA CDE CDE)","free verse structure"], answer:2},
+     {q:"A poem's tone is ___.", options:["the subject of the poem","the author's attitude toward the topic","the poem's rhyme scheme","the central message or lesson"], answer:1},
+     {q:"A poem's theme is ___.", options:["only a stated lesson in the last line","the poem's central insight about life","the rhyming pattern","the number of stanzas"], answer:1},
+     {q:"A sonnet is a 14-line poem with ___.", options:["no rhyme","only 10 syllables total","a specific rhyme scheme","free verse structure"], answer:2},
      {q:"Free verse poetry ___.", options:["must have exactly 10 lines","is only one stanza","has no regular rhyme or metre","always rhymes"], answer:2},
-     {q:"Analysing a poem's tone helps you understand ___.", options:["how many words it has","only the rhyme scheme","only the punctuation","the poet's feelings toward the subject and the emotional effect on the reader"], answer:3}
+     {q:"Analysing a poem's tone helps you understand ___.", options:["how many words it has","only the rhyme scheme","only the punctuation","the poet's feelings and reader effect"], answer:3}
    ]},
   {subject:"Math", title:"Equations: Solving One-Step", summary:"Students solve one-step equations involving addition, subtraction, multiplication, and division. They use inverse operations to isolate the variable.",
    resourceLabel:"YouTube: Equations: Solving One-Step", resourceUrl:"https://www.youtube.com/results?search_query=Equations%3A%20Solving%20One-Step%20grade%206%20educational",
@@ -786,74 +786,74 @@ const curriculum: DayContent[] = [
      {q:"Solve: x − 4 = 9", options:["x = 5","x = 4","x = 13","x = 36"], answer:2},
      {q:"Solve: 3x = 24", options:["x = 72","x = 27","x = 21","x = 8"], answer:3},
      {q:"Solve: x/5 = 6", options:["x = 11","x = 30","x = 0.83","x = 1.2"], answer:1},
-     {q:"The idea of 'inverse operations' means ___.", options:["multiplying only","using opposite operations to undo and isolate the variable","doing the same thing to both sides","only adding or subtracting"], answer:1}
+     {q:"The idea of 'inverse operations' means ___.", options:["multiplying only","using opposite operations to isolate x","doing the same thing to both sides","only adding or subtracting"], answer:1}
    ]},
   {subject:"Science", title:"Optics: Light and Mirrors", summary:"Students explore how light behaves with mirrors. They learn the law of reflection (angle of incidence = angle of reflection) and how concave/convex mirrors form images.",
    resourceLabel:"YouTube: Optics: Light and Mirrors", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Light%20and%20Mirrors%20grade%206%20educational",
    quiz:[
-     {q:"The law of reflection states that ___.", options:["light speeds up after reflecting","light is absorbed by mirrors","mirrors bend light","the angle of incidence always equals the angle of reflection"], answer:3},
-     {q:"The angle of incidence is measured from ___.", options:["the normal (a line perpendicular to the mirror surface at the point of reflection)","the surface of the mirror","the light source","the edge of the mirror"], answer:0},
-     {q:"A concave mirror ___.", options:["spreads light outward","always makes objects appear smaller","has no focal point","curves inward, converging reflected light rays (used in telescopes and satellite dishes)"], answer:3},
-     {q:"A convex mirror ___.", options:["curves outward, diverging light rays, giving a wide field of view (used in car wing mirrors)","magnifies objects","converges light to a focal point","always forms real images"], answer:0},
-     {q:"A flat (plane) mirror produces an image that is ___.", options:["always blurry","the same size as the object, upright, and laterally reversed (mirror image)","reduced and upright","magnified and inverted"], answer:1}
+     {q:"The law of reflection states that ___.", options:["light speeds up after reflecting","light is absorbed by mirrors","mirrors bend light","incidence angle equals reflection angle"], answer:3},
+     {q:"The angle of incidence is measured from ___.", options:["the normal line to the mirror","the surface of the mirror","the light source","the edge of the mirror"], answer:0},
+     {q:"A concave mirror ___.", options:["spreads light outward","always makes objects appear smaller","has no focal point","curves inward, converging light rays"], answer:3},
+     {q:"A convex mirror ___.", options:["curves outward, diverging light rays","magnifies objects","converges light to a focal point","always forms real images"], answer:0},
+     {q:"A flat (plane) mirror produces an image that is ___.", options:["always blurry","the same size, upright, and reversed","reduced and upright","magnified and inverted"], answer:1}
    ]},
   {subject:"SocialStudies", title:"The Age of Exploration", summary:"Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
    resourceLabel:"YouTube: The Age of Exploration", resourceUrl:"https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
    quiz:[
      {q:"The main motivations for European exploration were ___.", options:["Gold, God, and Glory","only scientific discovery","only curiosity","only escaping disease"], answer:0},
      {q:"Christopher Columbus's 1492 voyage ___.", options:["discovered Australia","proved the Earth was flat","established contact between Europe and the Americas, beginning sustained transatlantic interaction","reached Asia as planned"], answer:0},
-     {q:"The Columbian Exchange refers to ___.", options:["only the transfer of gold","a trade agreement","the transfer of plants, animals, diseases, and ideas between the Americas, Africa, and Europe after 1492","a stock market in Colombia"], answer:2},
-     {q:"How did European exploration affect Indigenous peoples of the Americas?", options:["It had no effect","It benefited them greatly","It brought devastating disease, displacement, and cultural destruction, causing massive population decline","Only positively through trade"], answer:2},
-     {q:"Samuel de Champlain is significant in Canadian history because ___.", options:["he discovered British Columbia","he was a British explorer","he founded New France and Quebec City, and mapped much of what is now eastern Canada","he was the first European to reach North America"], answer:2}
+     {q:"The Columbian Exchange refers to ___.", options:["only the transfer of gold","a trade agreement","swapping plants, animals, and diseases","a stock market in Colombia"], answer:2},
+     {q:"How did European exploration affect Indigenous peoples of the Americas?", options:["It had no effect","It benefited them greatly","It brought disease and displacement","Only positively through trade"], answer:2},
+     {q:"Samuel de Champlain is significant in Canadian history because ___.", options:["he discovered British Columbia","he was a British explorer","he founded Quebec City","he was the first European to reach North America"], answer:2}
    ]},
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Research Project: Planning and Sourcing", summary:"Students plan a research project by developing a research question, identifying key subtopics, evaluating sources for credibility, and organising notes.",
    resourceLabel:"YouTube: Research Project: Planning and Sourcing", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Project%3A%20Planning%20and%20Sourcing%20grade%206%20educational",
    quiz:[
-     {q:"A good research question is ___.", options:["focused, specific, open-ended, and answerable through research","one with a simple yes/no answer","so broad it can never be answered","already answered in one book"], answer:0},
-     {q:"A primary source is ___.", options:["only an internet source","a first-hand account or original document (diary, photograph, interview, speech, artefact)","a textbook summary","always more reliable than a secondary source"], answer:1},
-     {q:"A secondary source is ___.", options:["always less valuable","an interpretation or analysis of primary sources created after the event","only a website","a first-hand account"], answer:1},
-     {q:"To evaluate a source's credibility, you check ___.", options:["only the illustrations","only the length","the author's credentials, the publisher, the date, the evidence cited, and potential bias","only the title"], answer:2},
-     {q:"Why should you organise your notes by subtopic?", options:["Only for long projects","It creates a logical structure for your research, making writing much easier","It is not necessary","It makes copying easier"], answer:1}
+     {q:"A good research question is ___.", options:["focused, specific, and answerable","one with a simple yes/no answer","so broad it can never be answered","already answered in one book"], answer:0},
+     {q:"A primary source is ___.", options:["only an internet source","a first-hand account or document","a textbook summary","always more reliable than a secondary source"], answer:1},
+     {q:"A secondary source is ___.", options:["always less valuable","an analysis of primary sources","only a website","a first-hand account"], answer:1},
+     {q:"To evaluate a source's credibility, you check ___.", options:["only the illustrations","only the length","the author, date, and evidence","only the title"], answer:2},
+     {q:"Why should you organise your notes by subtopic?", options:["Only for long projects","It makes writing much easier","It is not necessary","It makes copying easier"], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Transformations", summary:"Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
    resourceLabel:"YouTube: Geometry: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
    quiz:[
-     {q:"A translation (slide) moves a shape ___.", options:["by sliding it in a direction without turning or flipping it","by resizing it","by flipping it over a line","by rotating it around a point"], answer:0},
-     {q:"A reflection (flip) produces ___.", options:["a rotated version","the same orientation as the original","a mirror image of the shape across a line of reflection","a smaller version of the shape"], answer:2},
-     {q:"A rotation turns a shape ___.", options:["around a fixed point (centre of rotation) by a given angle and direction","along a straight line","by stretching it","by flipping it over an axis"], answer:0},
+     {q:"A translation (slide) moves a shape ___.", options:["sliding it without turning or flipping","by resizing it","by flipping it over a line","by rotating it around a point"], answer:0},
+     {q:"A reflection (flip) produces ___.", options:["a rotated version","the same orientation as the original","a mirror image across a line","a smaller version of the shape"], answer:2},
+     {q:"A rotation turns a shape ___.", options:["around a fixed point by an angle","along a straight line","by stretching it","by flipping it over an axis"], answer:0},
      {q:"After a translation right 4 units, a point at (2,3) moves to ___.", options:["(2,−1)","(6,3)","(−2,3)","(2,7)"], answer:1},
-     {q:"Which transformation preserves the size and shape of the original figure?", options:["None of them","Dilation (enlargement)","All three: translation, reflection, and rotation preserve size and shape","Translation only"], answer:2}
+     {q:"Which transformation preserves the size and shape of the original figure?", options:["None of them","Dilation (enlargement)","All three transformations do","Translation only"], answer:2}
    ]},
   {subject:"Science", title:"Biodiversity: Food Webs and Human Impact", summary:"Students analyse multi-level food webs, identify keystone species, and examine how human activities alter ecosystems and biodiversity.",
    resourceLabel:"YouTube: Biodiversity: Food Webs and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20Food%20Webs%20and%20Human%20Impact%20grade%206%20educational",
    quiz:[
-     {q:"A keystone species is ___.", options:["always the largest animal in an ecosystem","a species that has a disproportionately large effect on its ecosystem relative to its abundance","only an endangered species","any common animal"], answer:1},
-     {q:"If a top predator is removed from an ecosystem, the most likely effect is ___.", options:["a population explosion of prey, which overgrazes vegetation, collapsing the ecosystem (trophic cascade)","no change","only the plants change","only the prey population changes"], answer:0},
-     {q:"Habitat fragmentation means ___.", options:["breaking up large, continuous habitats into smaller isolated patches, reducing biodiversity","making habitats larger","only cutting down trees","connecting isolated patches"], answer:0},
-     {q:"An invasive species ___.", options:["is native to the ecosystem","has no effect in new environments","is a non-native species that spreads rapidly and harms native species and ecosystems","helps native species recover"], answer:2},
-     {q:"Which human activity has the greatest impact on global biodiversity loss?", options:["Recycling","Fishing for food","Habitat destruction (primarily for agriculture and urban expansion)","Walking in parks"], answer:2}
+     {q:"A keystone species is ___.", options:["always the largest animal in an ecosystem","a species with an outsized effect","only an endangered species","any common animal"], answer:1},
+     {q:"If a top predator is removed from an ecosystem, the most likely effect is ___.", options:["prey overgraze and collapse the system","no change","only the plants change","only the prey population changes"], answer:0},
+     {q:"Habitat fragmentation means ___.", options:["breaking habitats into isolated patches","making habitats larger","only cutting down trees","connecting isolated patches"], answer:0},
+     {q:"An invasive species ___.", options:["is native to the ecosystem","has no effect in new environments","a species that spreads and harms others","helps native species recover"], answer:2},
+     {q:"Which human activity has the greatest impact on global biodiversity loss?", options:["Recycling","Fishing for food","Habitat loss from farming and cities","Walking in parks"], answer:2}
    ]},
   {subject:"SocialStudies", title:"The British Empire and Colonialism", summary:"Students examine how Britain built a global empire through trade, military power, and colonisation, and explore the complex consequences for colonised peoples.",
    resourceLabel:"YouTube: The British Empire and Colonialism", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Empire%20and%20Colonialism%20grade%206%20educational",
    quiz:[
-     {q:"At its height, the British Empire was ___.", options:["only in Asia","the largest empire in history, spanning roughly one-quarter of the world's land area","only in Africa","only in North America"], answer:1},
-     {q:"Colonialism involved ___.", options:["a foreign power taking control of another territory, settling it, exploiting its resources, and governing its people","only sending aid","only building roads abroad","only trading with other nations"], answer:0},
-     {q:"The transatlantic slave trade was ___.", options:["a voluntary migration","the forced transportation and enslavement of millions of Africans by European colonial powers for labour in the Americas","only practiced in Africa","a trade in luxury goods"], answer:1},
-     {q:"The impact of British colonialism on Canada includes ___.", options:["the settlement of Upper and Lower Canada, displacement of Indigenous peoples, fur trade, and eventual Confederation","no lasting effects","only positive effects","only negative effects"], answer:0},
-     {q:"Why is understanding colonialism important today?", options:["Only for history teachers","Understanding colonialism helps explain ongoing inequalities, land disputes, and the need for reconciliation with Indigenous peoples","Only in countries that were colonies","It is not"], answer:1}
+     {q:"At its height, the British Empire was ___.", options:["only in Asia","the largest empire in history","only in Africa","only in North America"], answer:1},
+     {q:"Colonialism involved ___.", options:["controlling and exploiting territory","only sending aid","only building roads abroad","only trading with other nations"], answer:0},
+     {q:"The transatlantic slave trade was ___.", options:["a voluntary migration","enslaving millions of Africans","only practiced in Africa","a trade in luxury goods"], answer:1},
+     {q:"The impact of British colonialism on Canada includes ___.", options:["settlement and eventual Confederation","no lasting effects","only positive effects","only negative effects"], answer:0},
+     {q:"Why is understanding colonialism important today?", options:["Only for history teachers","It explains today's inequalities","Only in countries that were colonies","It is not"], answer:1}
    ]},
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Oral Literacy: Debate and Discussion", summary:"Students participate in structured debates and discussions. They learn to present arguments clearly, listen actively, ask probing questions, and respond respectfully to opposing views.",
    resourceLabel:"YouTube: Oral Literacy: Debate and Discussion", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Literacy%3A%20Debate%20and%20Discussion%20grade%206%20educational",
    quiz:[
-     {q:"In a formal debate, the proposition side ___.", options:["agrees with the resolution and argues in favour of it","opposes the resolution","only listens","asks questions only"], answer:0},
-     {q:"Listening actively during a debate means ___.", options:["truly attending to what others say, identifying their key points and evidence, so you can respond thoughtfully","planning your rebuttal only","ignoring opposing points","waiting for your turn to speak only"], answer:0},
-     {q:"A rebuttal is ___.", options:["a new argument unrelated to what was said","a repetition of your opening statement","only an insult","a direct response that challenges, refutes, or provides a counter-example to an opponent's argument"], answer:3},
-     {q:"Why is respectful discussion important even when you strongly disagree?", options:["Only for adults","Respectful discourse models democratic values and allows ideas to be examined on their merits, not personalities","Only for school","It is not"], answer:1},
-     {q:"Citing evidence during a debate ___.", options:["only helps the opposition","is optional","weakens your argument","makes your argument more persuasive and credible"], answer:3}
+     {q:"In a formal debate, the proposition side ___.", options:["argues in favour of the resolution","opposes the resolution","only listens","asks questions only"], answer:0},
+     {q:"Listening actively during a debate means ___.", options:["attending closely to reply well","planning your rebuttal only","ignoring opposing points","waiting for your turn to speak only"], answer:0},
+     {q:"A rebuttal is ___.", options:["a new argument unrelated to what was said","a repetition of your opening statement","only an insult","a response challenging an argument"], answer:3},
+     {q:"Why is respectful discussion important even when you strongly disagree?", options:["Only for adults","It keeps focus on ideas, not people","Only for school","It is not"], answer:1},
+     {q:"Citing evidence during a debate ___.", options:["only helps the opposition","is optional","weakens your argument","makes your argument more credible"], answer:3}
    ]},
   {subject:"Math", title:"Data: Mean, Median, Mode, Range", summary:"Students calculate and interpret mean, median, mode, and range for data sets and understand which measure is most appropriate in different contexts.",
    resourceLabel:"YouTube: Data: Mean, Median, Mode, Range", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Mean%2C%20Median%2C%20Mode%2C%20Range%20grade%206%20educational",
@@ -867,30 +867,30 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Optics: Lenses and the Eye", summary:"Students explore how convex and concave lenses refract light to form images, and how the eye uses a convex lens (the cornea and lens) to focus images on the retina.",
    resourceLabel:"YouTube: Optics: Lenses and the Eye", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Lenses%20and%20the%20Eye%20grade%206%20educational",
    quiz:[
-     {q:"A convex lens ___.", options:["absorbs light only","diverges light rays outward","converges (brings together) light rays to a focal point on the other side","has no effect on light"], answer:2},
-     {q:"A concave lens ___.", options:["only reflects light","converges light rays","diverges (spreads out) light rays, making objects appear smaller","has no effect"], answer:2},
-     {q:"The human eye focuses light using ___.", options:["the cornea and a flexible crystalline lens that focuses light onto the retina","only the iris","the pupil only","only the retina"], answer:0},
-     {q:"Myopia (short-sightedness) means ___.", options:["a perfect lens","difficulty seeing nearby objects","difficulty seeing distant objects clearly because light focuses in front of the retina","seeing both near and far clearly"], answer:2},
-     {q:"A concave lens corrects myopia because it ___.", options:["absorbs extra light","thickens the lens of the eye","diverges light slightly so it reaches the retina rather than focusing in front of it","converges light before it enters the eye"], answer:2}
+     {q:"A convex lens ___.", options:["absorbs light only","diverges light rays outward","converges light rays to a focal point","has no effect on light"], answer:2},
+     {q:"A concave lens ___.", options:["only reflects light","converges light rays","diverges light rays outward","has no effect"], answer:2},
+     {q:"The human eye focuses light using ___.", options:["the cornea and a flexible lens","only the iris","the pupil only","only the retina"], answer:0},
+     {q:"Myopia (short-sightedness) means ___.", options:["a perfect lens","difficulty seeing nearby objects","difficulty seeing far objects clearly","seeing both near and far clearly"], answer:2},
+     {q:"A concave lens corrects myopia because it ___.", options:["absorbs extra light","thickens the lens of the eye","diverges light onto the retina","converges light before it enters the eye"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Trade and Economic Systems", summary:"Students explore mercantilism, the triangular trade, the Industrial Revolution's economic impact, and how trade systems shaped world history.",
    resourceLabel:"YouTube: Trade and Economic Systems", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Economic%20Systems%20grade%206%20educational",
    quiz:[
-     {q:"Mercantilism was the belief that ___.", options:["trade benefits all countries equally","free trade is best","a country's wealth is limited and colonies exist to supply raw materials to and buy goods from the mother country","industrial production should be shared"], answer:2},
-     {q:"The Triangular Trade involved ___.", options:["only food and clothing","only European countries","the exchange of enslaved Africans for American raw materials and European manufactured goods in a cycle of exploitation","three equal partners trading peacefully"], answer:2},
-     {q:"The Industrial Revolution (18th–19th century) changed economies by ___.", options:["reducing production","replacing hand production with machine manufacturing, creating factories, and moving from rural to urban economies","only affecting Britain","eliminating trade"], answer:1},
+     {q:"Mercantilism was the belief that ___.", options:["trade benefits all countries equally","free trade is best","colonies exist for the mother country","industrial production should be shared"], answer:2},
+     {q:"The Triangular Trade involved ___.", options:["only food and clothing","only European countries","trading enslaved Africans and goods","three equal partners trading peacefully"], answer:2},
+     {q:"The Industrial Revolution (18th–19th century) changed economies by ___.", options:["reducing production","machines replacing hand production","only affecting Britain","eliminating trade"], answer:1},
      {q:"Supply and demand explains that when supply of a good decreases and demand stays constant, the price ___.", options:["increases","decreases","stays the same","becomes impossible to calculate"], answer:0},
-     {q:"A tariff is ___.", options:["a type of income tax","a tax on imported goods that raises their price to protect domestic industries","only for luxury goods","a trade agreement"], answer:1}
+     {q:"A tariff is ___.", options:["a type of income tax","a tax on imports to protect industries","only for luxury goods","a trade agreement"], answer:1}
    ]},
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Writing: Memoir", summary:"Students write a personal memoir — a piece of narrative non-fiction drawn from their own life experiences. They use vivid detail, reflection, and a clear focus.",
    resourceLabel:"YouTube: Writing: Memoir", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Memoir%20grade%206%20educational",
    quiz:[
-     {q:"A memoir is ___.", options:["a fictional story about a historical figure","a piece of narrative non-fiction told from the author's perspective, reflecting on personal experience","a report on current events","a biography written by someone else"], answer:1},
+     {q:"A memoir is ___.", options:["a fictional story about a historical figure","a true story reflecting on one's life","a report on current events","a biography written by someone else"], answer:1},
      {q:"What distinguishes a memoir from an autobiography?", options:["They are identical","A memoir covers one's entire life; an autobiography focuses on one event","An autobiography is fiction","A memoir focuses on a particular theme or period in the author's life, while an autobiography covers the whole life story"], answer:1},
-     {q:"Effective memoirs include ___.", options:["only dialogue","only descriptions of places","vivid sensory details, emotional reflection, and a meaningful theme or insight about life","only basic facts of what happened"], answer:2},
-     {q:"In memoir writing, reflection means ___.", options:["summarising what happened","adding fictional elements","simply retelling events in order","stepping back to analyse what the experience meant and what you learned from it"], answer:3},
+     {q:"Effective memoirs include ___.", options:["only dialogue","only descriptions of places","vivid details and reflection","only basic facts of what happened"], answer:2},
+     {q:"In memoir writing, reflection means ___.", options:["summarising what happened","adding fictional elements","simply retelling events in order","analysing what the experience meant"], answer:3},
      {q:"The voice in a memoir should be ___.", options:["completely neutral and without personality","always formal","identical to a newspaper report","the authentic, personal voice of the author"], answer:3}
    ]},
   {subject:"Math", title:"Geometry: Area of Triangles and Parallelograms", summary:"Students apply the formulas for area of triangles (A = ½bh) and parallelograms (A = bh), and understand how these relate to rectangles.",
@@ -900,79 +900,79 @@ const curriculum: DayContent[] = [
      {q:"The area formula for a triangle is ___.", options:["A = b × h","A = ½ × b × h","A = 2 × b × h","A = b + h"], answer:1},
      {q:"A triangle has base 8 cm and height 5 cm. Area = ?", options:["40 cm²","13 cm²","16 cm²","20 cm²"], answer:3},
      {q:"A parallelogram has base 10 m and height 4 m. Area = ?", options:["14 m²","20 m²","28 m²","40 m²"], answer:3},
-     {q:"Why does the triangle formula have ½?", options:["Triangles are smaller than rectangles","A triangle is half of a rectangle/parallelogram with the same base and height","No real reason","Only tradition"], answer:1}
+     {q:"Why does the triangle formula have ½?", options:["Triangles are smaller than rectangles","A triangle is half of a rectangle","No real reason","Only tradition"], answer:1}
    ]},
   {subject:"Science", title:"Simple and Complex Machines", summary:"Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
    resourceLabel:"YouTube: Simple and Complex Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
    quiz:[
-     {q:"A screw is essentially ___.", options:["a type of pulley","a wheel-and-axle","an inclined plane wrapped in a spiral around a cylinder","a type of lever"], answer:2},
-     {q:"A wedge is ___.", options:["a fixed pulley","a screw without threads","two inclined planes joined at their thick ends to split, hold, or tighten materials","a type of wheel"], answer:2},
-     {q:"A compound machine is ___.", options:["only found in factories","one that combines two or more simple machines to accomplish a task","always electronic","always very large"], answer:1},
-     {q:"Which example best illustrates a compound machine?", options:["A screw alone","A lever alone","A wheel alone","A bicycle, which combines wheel-and-axle, gears, levers, and a pulley-like chain system"], answer:3},
-     {q:"Simple machines make work easier by ___.", options:["changing the direction and/or size of the input force required to do work","increasing the amount of work done","only reducing speed","reducing the total energy needed"], answer:0}
+     {q:"A screw is essentially ___.", options:["a type of pulley","a wheel-and-axle","an inclined plane wrapped in a spiral","a type of lever"], answer:2},
+     {q:"A wedge is ___.", options:["a fixed pulley","a screw without threads","two inclined planes joined together","a type of wheel"], answer:2},
+     {q:"A compound machine is ___.", options:["only found in factories","one combining simple machines","always electronic","always very large"], answer:1},
+     {q:"Which example best illustrates a compound machine?", options:["A screw alone","A lever alone","A wheel alone","A bicycle: wheels, gears, and a chain"], answer:3},
+     {q:"Simple machines make work easier by ___.", options:["changing the force's direction or size","increasing the amount of work done","only reducing speed","reducing the total energy needed"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Causes of World War I", summary:"Students explore the long- and short-term causes of WWI: militarism, alliances, imperialism, nationalism (MAIN), and the assassination of Archduke Franz Ferdinand.",
    resourceLabel:"YouTube: Causes of World War I", resourceUrl:"https://www.youtube.com/results?search_query=Causes%20of%20World%20War%20I%20grade%206%20educational",
    quiz:[
      {q:"The acronym MAIN summarises the long-term causes of WWI. It stands for ___.", options:["Military, Alliances, Imperialism, Nationalism","Motivation, Army, Industry, Nations","Manufacturing, Alliances, International, Nationalism","Military, Aggression, Independence, Neutrality"], answer:0},
-     {q:"The immediate trigger for WWI was ___.", options:["Germany invading France","the sinking of the Lusitania","the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo (June 28, 1914)","Britain declaring war on Germany"], answer:2},
-     {q:"The system of military alliances in 1914 meant that ___.", options:["only economic disputes arose","war was impossible","a conflict between two countries could rapidly drag in many others through treaty obligations","only the strongest nations were involved"], answer:2},
-     {q:"Nationalism as a cause of WWI refers to ___.", options:["only economic competition","a desire for international cooperation","religious differences","extreme pride in and loyalty to one's nation, and the desire of ethnic groups to have their own independent states"], answer:3},
-     {q:"Militarism as a cause of WWI refers to ___.", options:["only spending money on armies","the glorification and rapid build-up of military forces and weapons by major European powers in the decades before 1914","only fighting wars","naval competition only"], answer:1}
+     {q:"The immediate trigger for WWI was ___.", options:["Germany invading France","the sinking of the Lusitania","the Archduke's assassination","Britain declaring war on Germany"], answer:2},
+     {q:"The system of military alliances in 1914 meant that ___.", options:["only economic disputes arose","war was impossible","one conflict could drag in many others","only the strongest nations were involved"], answer:2},
+     {q:"Nationalism as a cause of WWI refers to ___.", options:["only economic competition","a desire for international cooperation","religious differences","extreme national pride and self-rule"], answer:3},
+     {q:"Militarism as a cause of WWI refers to ___.", options:["only spending money on armies","the military build-up before 1914","only fighting wars","naval competition only"], answer:1}
    ]},
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Novel Study: Character Development", summary:"Students track and analyse how the protagonist and key supporting characters change over the course of a novel, identifying motivations, conflicts, and growth.",
    resourceLabel:"YouTube: Novel Study: Character Development", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20Development%20grade%206%20educational",
    quiz:[
-     {q:"Character development (or 'character arc') refers to ___.", options:["the physical description of characters","the list of characters in a novel","the number of times a character appears","the way a character changes, grows, or learns through the events of the story"], answer:3},
+     {q:"Character development (or 'character arc') refers to ___.", options:["the physical description of characters","the list of characters in a novel","the number of times a character appears","how a character changes over the story"], answer:3},
      {q:"A character's motivation is ___.", options:["their name only","what drives their actions and decisions","where they live","how they look"], answer:1},
      {q:"An internal conflict is ___.", options:["a conflict with society","a fight between two characters","a battle between the character and nature","a struggle within a character"], answer:3},
-     {q:"An external conflict is ___.", options:["only the villain","a struggle between a character and an outside force (person, society, nature, technology)","only a physical fight","a character's internal doubt"], answer:1},
-     {q:"Tracking character development through a novel means ___.", options:["only analysing the hero","memorising all character names","noting how characters speak, think, act, and change in response to events and conflicts throughout the story","only counting interactions"], answer:2}
+     {q:"An external conflict is ___.", options:["only the villain","a struggle against an outside force","only a physical fight","a character's internal doubt"], answer:1},
+     {q:"Tracking character development through a novel means ___.", options:["only analysing the hero","memorising all character names","tracking how characters act and change","only counting interactions"], answer:2}
    ]},
   {subject:"Math", title:"Data: Graphing and Interpreting", summary:"Students create and interpret various graphs (bar, line, circle/pie) and draw conclusions from data, considering bias and sample size.",
    resourceLabel:"YouTube: Data: Graphing and Interpreting", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Graphing%20and%20Interpreting%20grade%206%20educational",
    quiz:[
      {q:"A line graph is most useful for showing ___.", options:["how data changes over time (trends)","comparisons between categories at one point in time","parts of a whole","individual values only"], answer:0},
-     {q:"A circle (pie) graph is most useful for showing ___.", options:["data trends over time","comparisons of categories","how parts relate to a whole (percentages/proportions)","exact values"], answer:2},
-     {q:"A sample size that is too small can ___.", options:["make calculations easier","make a graph look better","have no effect on conclusions","provide misleading results that may not represent the population accurately"], answer:3},
-     {q:"Bias in data collection means ___.", options:["the data is always accurate","only a small error","only intentional cheating","a systematic error or slant that makes results unrepresentative of the actual population"], answer:3},
-     {q:"If a graph's y-axis doesn't start at 0, it can ___.", options:["have no effect","always be trusted","exaggerate differences between values, making them look larger than they are","make data more accurate"], answer:2}
+     {q:"A circle (pie) graph is most useful for showing ___.", options:["data trends over time","comparisons of categories","how parts relate to a whole","exact values"], answer:2},
+     {q:"A sample size that is too small can ___.", options:["make calculations easier","make a graph look better","have no effect on conclusions","give misleading results"], answer:3},
+     {q:"Bias in data collection means ___.", options:["the data is always accurate","only a small error","only intentional cheating","a systematic slant skewing the results"], answer:3},
+     {q:"If a graph's y-axis doesn't start at 0, it can ___.", options:["have no effect","always be trusted","exaggerate differences between values","make data more accurate"], answer:2}
    ]},
   {subject:"Science", title:"Earth's Systems: Rock Cycle and Plate Tectonics", summary:"Students explore the rock cycle (igneous, sedimentary, metamorphic), plate tectonics, and how Earth's internal processes shape the surface.",
    resourceLabel:"YouTube: Earth's Systems: Rock Cycle and Plate Tectonics", resourceUrl:"https://www.youtube.com/results?search_query=Earth%27s%20Systems%3A%20Rock%20Cycle%20and%20Plate%20Tectonics%20grade%206%20educational",
    quiz:[
-     {q:"The rock cycle describes ___.", options:["only weathering and erosion","the continuous process by which rocks transform between igneous, sedimentary, and metamorphic forms","only how rocks fall down hills","how rocks grow"], answer:1},
-     {q:"Plate tectonics theory explains that ___.", options:["Earth's lithosphere is divided into plates that move slowly over the mantle, causing earthquakes, volcanoes, and mountain building","continents are fixed forever","only volcanoes","only earthquakes"], answer:0},
-     {q:"When two tectonic plates collide, they can form ___.", options:["nothing","rift valleys only","ocean trenches only","mountain ranges (fold mountains) or one plate subducts under the other, creating trenches"], answer:3},
+     {q:"The rock cycle describes ___.", options:["only weathering and erosion","rocks cycling among the three types","only how rocks fall down hills","how rocks grow"], answer:1},
+     {q:"Plate tectonics theory explains that ___.", options:["moving plates cause quakes, volcanoes","continents are fixed forever","only volcanoes","only earthquakes"], answer:0},
+     {q:"When two tectonic plates collide, they can form ___.", options:["nothing","rift valleys only","ocean trenches only","mountains or subduction trenches"], answer:3},
      {q:"Which boundary type creates rift valleys and new ocean floor?", options:["Transform (sliding) boundary","Divergent (spreading) boundary","Subduction zone","Convergent (collision) boundary"], answer:1},
-     {q:"Earthquakes occur because ___.", options:["tectonic plates suddenly slip past each other, releasing stored energy as seismic waves","rain erodes the surface","only volcanoes cause them","plates are stationary"], answer:0}
+     {q:"Earthquakes occur because ___.", options:["plates suddenly slip past each other","rain erodes the surface","only volcanoes cause them","plates are stationary"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Canada in World War I", summary:"Students study Canada's contributions to WWI (Vimy Ridge, Passchendaele), the impact on the home front, conscription crisis, and how the war shaped Canadian identity.",
    resourceLabel:"YouTube: Canada in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20World%20War%20I%20grade%206%20educational",
    quiz:[
-     {q:"Canada's most celebrated WWI military achievement is ___.", options:["the liberation of Paris","the naval blockade of Germany","the Battle of Vimy Ridge (April 1917) where Canadian forces captured a German stronghold that others had failed to take","the invasion of Germany"], answer:2},
-     {q:"The conscription crisis of 1917 caused ___.", options:["only economic problems","a deep division in Canada, particularly between English Canadians (generally supporting conscription) and French Canadians (largely opposing it)","French and English Canadians to unite completely","no controversy"], answer:1},
-     {q:"How did WWI change the role of women in Canada?", options:["Women took on industrial and agricultural jobs during the war, and many provinces granted women the right to vote between 1916 and 1919","Only nursing was affected","It had no effect","Women were prohibited from wartime work"], answer:0},
-     {q:"The Battle of Passchendaele (1917) is remembered as ___.", options:["a quick Canadian victory","a naval victory","a significant Canadian air battle","one of the bloodiest battles of WWI, fought in the mud of Belgium with enormous casualties for little strategic gain"], answer:3},
-     {q:"How did WWI contribute to Canada's sense of national identity?", options:["It had no effect","Only through hockey","Only through economic growth","Canada's military contributions earned international respect and led to greater autonomy from Britain, fostering pride in being distinctly Canadian"], answer:3}
+     {q:"Canada's most celebrated WWI military achievement is ___.", options:["the liberation of Paris","the naval blockade of Germany","the Battle of Vimy Ridge (1917)","the invasion of Germany"], answer:2},
+     {q:"The conscription crisis of 1917 caused ___.", options:["only economic problems","a deep English-French divide","French and English Canadians to unite completely","no controversy"], answer:1},
+     {q:"How did WWI change the role of women in Canada?", options:["Women took jobs and won voting rights","Only nursing was affected","It had no effect","Women were prohibited from wartime work"], answer:0},
+     {q:"The Battle of Passchendaele (1917) is remembered as ___.", options:["a quick Canadian victory","a naval victory","a significant Canadian air battle","a bloody battle in Belgian mud"], answer:3},
+     {q:"How did WWI contribute to Canada's sense of national identity?", options:["It had no effect","Only through hockey","Only through economic growth","It earned respect and more autonomy"], answer:3}
    ]},
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Writing: Research Essay — Drafting", summary:"Students draft a multi-paragraph research essay: introduction with thesis, body paragraphs with topic sentences and evidence, and a conclusion that synthesises findings.",
    resourceLabel:"YouTube: Writing: Research Essay — Drafting", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Research%20Essay%20%E2%80%94%20Drafting%20grade%206%20educational",
    quiz:[
-     {q:"A thesis statement in a research essay ___.", options:["is the writer's central argument or claim that the essay will prove","is only in the conclusion","asks a question","summarises the entire essay in a single sentence"], answer:0},
-     {q:"Each body paragraph in a research essay should begin with ___.", options:["a new thesis","a topic sentence that states the paragraph's main point","a conclusion","a quotation"], answer:1},
-     {q:"In-text citations or references are used to ___.", options:["only in long essays","avoid using evidence","make the essay longer","give credit to sources and allow readers to verify information"], answer:3},
-     {q:"The conclusion of a research essay should ___.", options:["be only one sentence","introduce new evidence","synthesise the key findings, restate the thesis, and explain the broader significance","repeat the introduction word for word"], answer:2},
-     {q:"Why is it important to paraphrase rather than copy sources?", options:["Only in exams","To avoid plagiarism and to demonstrate your own understanding of the material","It is not","Only for professional writers"], answer:1}
+     {q:"A thesis statement in a research essay ___.", options:["is the writer's central claim","is only in the conclusion","asks a question","summarises the entire essay in a single sentence"], answer:0},
+     {q:"Each body paragraph in a research essay should begin with ___.", options:["a new thesis","a topic sentence with the main point","a conclusion","a quotation"], answer:1},
+     {q:"In-text citations or references are used to ___.", options:["only in long essays","avoid using evidence","make the essay longer","give credit and let readers verify it"], answer:3},
+     {q:"The conclusion of a research essay should ___.", options:["be only one sentence","introduce new evidence","synthesise findings and the thesis","repeat the introduction word for word"], answer:2},
+     {q:"Why is it important to paraphrase rather than copy sources?", options:["Only in exams","To avoid plagiarism and show it","It is not","Only for professional writers"], answer:1}
    ]},
   {subject:"Math", title:"Volume: Rectangular Prisms", summary:"Students calculate the volume of rectangular prisms (V = l × w × h) and solve real-world problems involving volume.",
    resourceLabel:"YouTube: Volume: Rectangular Prisms", resourceUrl:"https://www.youtube.com/results?search_query=Volume%3A%20Rectangular%20Prisms%20grade%206%20educational",
    quiz:[
-     {q:"Volume measures ___.", options:["the perimeter of a shape","the area of a flat surface","the amount of three-dimensional space enclosed by a solid","the weight of an object"], answer:2},
+     {q:"Volume measures ___.", options:["the perimeter of a shape","the area of a flat surface","the 3D space enclosed by a solid","the weight of an object"], answer:2},
      {q:"The formula for the volume of a rectangular prism is ___.", options:["V = 2(lw + lh + wh)","V = l + w + h","V = l × w","V = l × w × h"], answer:3},
      {q:"A box is 5 cm long, 4 cm wide, and 3 cm high. Its volume = ?", options:["20 cm³","47 cm³","60 cm³","12 cm³"], answer:2},
      {q:"Volume is measured in ___.", options:["grams","cm³ (cubic units)","cm","cm²"], answer:1},
@@ -981,37 +981,37 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Human Body Systems", summary:"Students explore body systems and how they interrelate: digestive, circulatory, respiratory, nervous, and musculoskeletal systems.",
    resourceLabel:"YouTube: Human Body Systems", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20grade%206%20educational",
    quiz:[
-     {q:"The digestive system breaks food into ___.", options:["nutrients small enough to be absorbed into the bloodstream","bones","only sugars","only protein"], answer:0},
-     {q:"The main function of the circulatory system is ___.", options:["digesting food","breathing","controlling movement","transporting oxygen, nutrients, hormones, and waste products through the blood"], answer:3},
+     {q:"The digestive system breaks food into ___.", options:["nutrients small enough to be absorbed","bones","only sugars","only protein"], answer:0},
+     {q:"The main function of the circulatory system is ___.", options:["digesting food","breathing","controlling movement","transporting oxygen through the blood"], answer:3},
      {q:"Gas exchange (O₂ in, CO₂ out) occurs in the ___.", options:["stomach","alveoli of the lungs","kidneys","liver"], answer:1},
-     {q:"The nervous system consists of ___.", options:["only sensory nerves","only the brain","only the spinal cord","the brain, spinal cord, and network of nerves that carry signals between the body and brain"], answer:3},
-     {q:"Body systems work together. Which describes their interaction?", options:["The digestive system passes nutrients to the circulatory system, which delivers them throughout the body","They work in pairs only","Only the nervous system affects others","They work independently and never interact"], answer:0}
+     {q:"The nervous system consists of ___.", options:["only sensory nerves","only the brain","only the spinal cord","the brain, spinal cord, and nerves"], answer:3},
+     {q:"Body systems work together. Which describes their interaction?", options:["Digestion feeds the circulatory system","They work in pairs only","Only the nervous system affects others","They work independently and never interact"], answer:0}
    ]},
   {subject:"SocialStudies", title:"World War I: Impact and Consequences", summary:"Students examine the human cost of WWI, the Treaty of Versailles, and the seeds of future conflict.",
    resourceLabel:"YouTube: World War I: Impact and Consequences", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Impact%20and%20Consequences%20grade%206%20educational",
    quiz:[
-     {q:"WWI resulted in approximately ___.", options:["1 million deaths","50 million deaths","10 000 deaths","17 million deaths (including military and civilian)"], answer:3},
-     {q:"The Treaty of Versailles (1919) punished Germany by ___.", options:["offering Germany generous aid","making Germany pay reparations, accept blame (War Guilt Clause), lose territory, and limit its military","only restricting trade","rewarding Germany with new territory"], answer:1},
-     {q:"Why do many historians argue the Treaty of Versailles contributed to World War II?", options:["It was too generous","Because of geography only","It had no long-term effects","The harsh terms created economic collapse and humiliation in Germany, fuelling resentment that extremist parties like the Nazis exploited"], answer:3},
-     {q:"The League of Nations, created after WWI, was intended to ___.", options:["prevent future wars through collective security and diplomacy","enforce German reparations only","only help European nations","divide up German colonies"], answer:0},
-     {q:"The United States did NOT join the League of Nations because ___.", options:["it wasn't invited","the US Senate rejected the treaty, preferring isolationism and fearing entanglement in European affairs","it was still fighting WWI","it had no interest in peace"], answer:1}
+     {q:"WWI resulted in approximately ___.", options:["1 million deaths","50 million deaths","10 000 deaths","17 million total deaths"], answer:3},
+     {q:"The Treaty of Versailles (1919) punished Germany by ___.", options:["offering Germany generous aid","reparations, blame, and lost territory","only restricting trade","rewarding Germany with new territory"], answer:1},
+     {q:"Why do many historians argue the Treaty of Versailles contributed to World War II?", options:["It was too generous","Because of geography only","It had no long-term effects","Harsh terms bred resentment Nazis used"], answer:3},
+     {q:"The League of Nations, created after WWI, was intended to ___.", options:["prevent wars through diplomacy","enforce German reparations only","only help European nations","divide up German colonies"], answer:0},
+     {q:"The United States did NOT join the League of Nations because ___.", options:["it wasn't invited","the Senate chose isolationism instead","it was still fighting WWI","it had no interest in peace"], answer:1}
    ]},
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading: Independent Novel Study", summary:"Students read a self-selected novel and demonstrate comprehension through journal responses, tracking plot structure, character development, and thematic connections.",
    resourceLabel:"YouTube: Reading: Independent Novel Study", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Independent%20Novel%20Study%20grade%206%20educational",
    quiz:[
-     {q:"A reading journal helps you ___.", options:["avoid rereading","track your thoughts, questions, and responses to the text as you read, deepening your engagement","only count pages","only write summaries"], answer:1},
-     {q:"The climax of a novel is ___.", options:["the point of highest tension where the central conflict reaches its peak","the very beginning","the resolution","the falling action"], answer:0},
-     {q:"Falling action in plot structure refers to ___.", options:["events before the conflict","events that follow the climax as loose ends are tied up and tension decreases","events building to the climax","the very end"], answer:1},
-     {q:"Connecting a novel's themes to the real world means ___.", options:["only comparing it to movies","relating the story's central messages to your own life, society, or other texts","describing all the characters","only describing the plot"], answer:1},
-     {q:"A literary discussion of a novel goes beyond plot summary by ___.", options:["only describing the cover","analysing the author's choices and exploring the deeper meanings and themes of the text","listing all events","only naming characters"], answer:1}
+     {q:"A reading journal helps you ___.", options:["avoid rereading","track your thoughts while reading","only count pages","only write summaries"], answer:1},
+     {q:"The climax of a novel is ___.", options:["the peak of the central conflict","the very beginning","the resolution","the falling action"], answer:0},
+     {q:"Falling action in plot structure refers to ___.", options:["events before the conflict","events after the climax wind down","events building to the climax","the very end"], answer:1},
+     {q:"Connecting a novel's themes to the real world means ___.", options:["only comparing it to movies","relating themes to your life or society","describing all the characters","only describing the plot"], answer:1},
+     {q:"A literary discussion of a novel goes beyond plot summary by ___.", options:["only describing the cover","analysing choices and deeper meanings","listing all events","only naming characters"], answer:1}
    ]},
   {subject:"Math", title:"Patterning and Algebra: Graphing Relationships", summary:"Students represent and analyse linear relationships using tables of values, graphs (on a coordinate plane), and equations.",
    resourceLabel:"YouTube: Patterning and Algebra: Graphing Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%20and%20Algebra%3A%20Graphing%20Relationships%20grade%206%20educational",
    quiz:[
      {q:"A linear relationship produces points that ___.", options:["curve unpredictably","scatter randomly","form a straight line when graphed","always go through the origin only"], answer:2},
-     {q:"A table of values shows ___.", options:["only addition facts","only one pair of values","only random numbers","corresponding input and output values for a relationship"], answer:3},
+     {q:"A table of values shows ___.", options:["only addition facts","only one pair of values","only random numbers","matching input and output values"], answer:3},
      {q:"If y = 2x + 1, what is y when x = 4?", options:["8","9","10","7"], answer:1},
      {q:"On a graph, the y-intercept is ___.", options:["the steepness of the line","where the line crosses the x-axis","the length of the line","where the line crosses the y-axis"], answer:3},
      {q:"The slope of a line represents ___.", options:["the y-intercept value","only the direction of the line","the rate of change","the x-axis value"], answer:2}
@@ -1019,31 +1019,31 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Ecosystems and Environmental Stewardship", summary:"Students examine ecosystem services, the impact of pollution, and what students and communities can do to protect natural environments.",
    resourceLabel:"YouTube: Ecosystems and Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Environmental%20Stewardship%20grade%206%20educational",
    quiz:[
-     {q:"Ecosystem services are ___.", options:["the benefits humans receive from ecosystems (clean air, clean water, food, climate regulation, pollination, etc.)","only services provided by animals","products sold in nature stores","only recreational benefits"], answer:0},
-     {q:"The main cause of freshwater pollution in Ontario is ___.", options:["industrial and agricultural runoff, sewage discharge, and urban stormwater contamination","natural processes only","only oil spills","only littering"], answer:0},
-     {q:"Bioaccumulation means ___.", options:["soil getting nutrients","plants growing bigger","the process by which pollutants accumulate in an organism and concentrate at higher levels of the food chain","water evaporating"], answer:2},
-     {q:"Which action helps protect local ecosystems?", options:["Paving over green spaces","Removing invasive species and restoring native vegetation","Draining wetlands for development","Using more pesticides"], answer:1},
-     {q:"Environmental stewardship is ___.", options:["only about recycling","the responsible care and management of the environment, accepting that humans have a duty to protect natural resources","ignoring environmental problems","only for scientists"], answer:1}
+     {q:"Ecosystem services are ___.", options:["benefits humans get from ecosystems","only services provided by animals","products sold in nature stores","only recreational benefits"], answer:0},
+     {q:"The main cause of freshwater pollution in Ontario is ___.", options:["runoff and sewage contamination","natural processes only","only oil spills","only littering"], answer:0},
+     {q:"Bioaccumulation means ___.", options:["soil getting nutrients","plants growing bigger","pollutants building up the food chain","water evaporating"], answer:2},
+     {q:"Which action helps protect local ecosystems?", options:["Paving over green spaces","Removing invasives, restoring natives","Draining wetlands for development","Using more pesticides"], answer:1},
+     {q:"Environmental stewardship is ___.", options:["only about recycling","responsibly caring for the environment","ignoring environmental problems","only for scientists"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canada Between the Wars (1919–1939)", summary:"Students examine Canada's political maturation (Statute of Westminster 1931), economic boom and crash (1929), and rise of Social Credit and Co-operative Commonwealth Federation.",
    resourceLabel:"YouTube: Canada Between the Wars (1919–1939)", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Between%20the%20Wars%20%281919%E2%80%931939%29%20grade%206%20educational",
    quiz:[
-     {q:"The Statute of Westminster (1931) ___.", options:["made Canada fully independent from Britain overnight","gave Canada full control over its foreign policy and laws, effectively recognising Canadian sovereignty within the Commonwealth","dissolved the British Empire","gave Quebec independence"], answer:1},
-     {q:"The Great Depression (1929–1939) in Canada caused ___.", options:["only minor disruptions","only stock market issues","economic prosperity","massive unemployment, poverty, drought (the Dust Bowl in the Prairies), and political unrest"], answer:3},
-     {q:"The 'Dirty Thirties' in the Prairie provinces were worsened by ___.", options:["foreign invasion","industrial pollution","too much rainfall","severe drought and poor farming practices that caused massive topsoil erosion and crop failure"], answer:3},
+     {q:"The Statute of Westminster (1931) ___.", options:["made Canada fully independent from Britain overnight","gave Canada control of its own laws","dissolved the British Empire","gave Quebec independence"], answer:1},
+     {q:"The Great Depression (1929–1939) in Canada caused ___.", options:["only minor disruptions","only stock market issues","economic prosperity","unemployment, drought, and unrest"], answer:3},
+     {q:"The 'Dirty Thirties' in the Prairie provinces were worsened by ___.", options:["foreign invasion","industrial pollution","too much rainfall","drought and farming causing erosion"], answer:3},
      {q:"The CCF (Co-operative Commonwealth Federation), founded in 1932, advocated for ___.", options:["monarchy only","continued free-market capitalism without regulation","eliminating all taxation","democratic socialism: public ownership of key industries and social programs to help workers and the unemployed"], answer:2},
-     {q:"Canada's response to WWI veterans, including benefits and pensions, was ___.", options:["inadequate, leading to protests like the Regina Riot (1935) during the 'On to Ottawa Trek'","completely ignored","only handled by charities","generous from the start"], answer:0}
+     {q:"Canada's response to WWI veterans, including benefits and pensions, was ___.", options:["inadequate, sparking protests","completely ignored","only handled by charities","generous from the start"], answer:0}
    ]},
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Students refine their writing through systematic editing (content, organisation, style) and proofreading (grammar, spelling, punctuation), using editing marks and checklists.",
    resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%206%20educational",
    quiz:[
-     {q:"Editing focuses on ___.", options:["only finding typos","only punctuation","improving content, organisation, clarity, and style","only spelling errors"], answer:2},
-     {q:"Proofreading focuses on ___.", options:["changing the thesis","content and ideas","fixing spelling, grammar, punctuation, and formatting errors","paragraph structure"], answer:2},
-     {q:"Reading your writing aloud helps you ___.", options:["catch awkward phrasing, missing words, and sentences that don't flow well","write faster","only find spelling errors","avoid all errors immediately"], answer:0},
-     {q:"Peer editing means ___.", options:["writing for someone else","copying a classmate's work","only correcting grammar","a classmate critically reviewing your work and offering constructive feedback"], answer:3},
-     {q:"Which comes first: editing or proofreading?", options:["They are done simultaneously","Proofreading","Neither is needed","Editing (big-picture revisions to content and structure) should come before proofreading (surface-level corrections)"], answer:3}
+     {q:"Editing focuses on ___.", options:["only finding typos","only punctuation","improving content, clarity, and style","only spelling errors"], answer:2},
+     {q:"Proofreading focuses on ___.", options:["changing the thesis","content and ideas","fixing spelling and grammar errors","paragraph structure"], answer:2},
+     {q:"Reading your writing aloud helps you ___.", options:["catch awkward or unclear phrasing","write faster","only find spelling errors","avoid all errors immediately"], answer:0},
+     {q:"Peer editing means ___.", options:["writing for someone else","copying a classmate's work","only correcting grammar","a classmate giving helpful feedback"], answer:3},
+     {q:"Which comes first: editing or proofreading?", options:["They are done simultaneously","Proofreading","Neither is needed","Editing comes before proofreading"], answer:3}
    ]},
   {subject:"Math", title:"Fractions, Decimals, and Percents: Connecting", summary:"Students convert fluently between fractions, decimals, and percentages, and apply these conversions to real-world problems.",
    resourceLabel:"YouTube: Fractions, Decimals, and Percents: Connecting", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%2C%20Decimals%2C%20and%20Percents%3A%20Connecting%20grade%206%20educational",
@@ -1051,45 +1051,45 @@ const curriculum: DayContent[] = [
      {q:"Convert 3/5 to a decimal.", options:["0.3","0.35","0.53","0.6"], answer:3},
      {q:"Convert 0.45 to a percentage.", options:["0.45%","4.5%","450%","45%"], answer:3},
      {q:"Convert 35% to a fraction in lowest terms.", options:["35/10","35/100","7/20","7/100"], answer:2},
-     {q:"Arrange in order from least to greatest: 0.6, 3/5, 58%, 0.65.", options:["3/5 = 0.6 = 60% < 0.65 and 58% < 60% so: 58%, 0.6 = 3/5, 0.65","3/5, 0.6, 0.65, 58%","0.65, 0.6, 3/5, 58%","0.6, 58%, 3/5, 0.65"], answer:0},
+     {q:"Arrange in order from least to greatest: 0.6, 3/5, 58%, 0.65.", options:["58%, 0.6 = 3/5, 0.65 (0.6=60%)","3/5, 0.6, 0.65, 58%","0.65, 0.6, 3/5, 58%","0.6, 58%, 3/5, 0.65"], answer:0},
      {q:"A student scored 18/24 on a test. What percentage is this?", options:["75%","24%","18%","80%"], answer:0}
    ]},
   {subject:"Science", title:"Light: Colour and the Electromagnetic Spectrum", summary:"Students explore how white light splits into the visible spectrum, how objects absorb/reflect/transmit light to produce colour, and the broader electromagnetic spectrum.",
    resourceLabel:"YouTube: Light: Colour and the Electromagnetic Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=Light%3A%20Colour%20and%20the%20Electromagnetic%20Spectrum%20grade%206%20educational",
    quiz:[
-     {q:"White light is ___.", options:["only yellow and white","a mixture of all visible colours of the spectrum","not actually light","a single colour"], answer:1},
-     {q:"A red object appears red because ___.", options:["it is transparent to red only","it produces red light","it contains red pigment only","it absorbs all colours and reflects red wavelengths to our eyes"], answer:3},
+     {q:"White light is ___.", options:["only yellow and white","a mix of all visible colours","not actually light","a single colour"], answer:1},
+     {q:"A red object appears red because ___.", options:["it is transparent to red only","it produces red light","it contains red pigment only","it reflects red, absorbs the rest"], answer:3},
      {q:"The primary colours of light are ___.", options:["cyan, magenta, yellow","red, green, blue (RGB)","red, yellow, blue","black, white, grey"], answer:1},
-     {q:"The electromagnetic spectrum includes ___.", options:["radio waves, microwaves, infrared, visible light, UV, X-rays, and gamma rays","only waves humans can hear","only harmful waves","only visible light"], answer:0},
+     {q:"The electromagnetic spectrum includes ___.", options:["radio waves through gamma rays","only waves humans can hear","only harmful waves","only visible light"], answer:0},
      {q:"Which part of the electromagnetic spectrum is used in medical X-rays?", options:["Infrared","Visible light","X-rays","Radio waves"], answer:2}
    ]},
   {subject:"SocialStudies", title:"World War II: Causes and Canada's Role", summary:"Students examine the rise of fascism, appeasement, and Canada's significant contributions to WWII on land, sea, and air.",
    resourceLabel:"YouTube: World War II: Causes and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20II%3A%20Causes%20and%20Canada%27s%20Role%20grade%206%20educational",
    quiz:[
-     {q:"The main ideological forces driving WWII were ___.", options:["only nationalism","communism vs. democracy only","only economic disputes","fascism/Nazism in Germany and Italy, militarism in Japan, vs. the Allied democracies"], answer:3},
-     {q:"Appeasement in the 1930s meant ___.", options:["the British and French policy of granting concessions to Hitler to avoid war","only economic sanctions","helping Germany rebuild","fighting back aggressively"], answer:0},
-     {q:"Canada declared war on Germany ___.", options:["a week before Britain","one week after Britain (September 10, 1939), demonstrating growing Canadian autonomy","the same day as Britain","two months after Britain"], answer:1},
-     {q:"The Battle of the Atlantic was crucial because ___.", options:["it had no strategic value","Allied naval forces, including many Canadians, protected vital supply convoys crossing the Atlantic","it won the war in one battle","it only affected submarines"], answer:1},
-     {q:"D-Day (June 6, 1944) was significant because ___.", options:["it was a minor skirmish","Canadian forces at Juno Beach were one of five Allied forces landing on Normandy","Canada did not participate","it ended the war immediately"], answer:1}
+     {q:"The main ideological forces driving WWII were ___.", options:["only nationalism","communism vs. democracy only","only economic disputes","fascism and militarism vs. democracies"], answer:3},
+     {q:"Appeasement in the 1930s meant ___.", options:["giving in to Hitler to avoid war","only economic sanctions","helping Germany rebuild","fighting back aggressively"], answer:0},
+     {q:"Canada declared war on Germany ___.", options:["a week before Britain","one week after Britain (Sept 10, 1939)","the same day as Britain","two months after Britain"], answer:1},
+     {q:"The Battle of the Atlantic was crucial because ___.", options:["it had no strategic value","It protected vital supply convoys","it won the war in one battle","it only affected submarines"], answer:1},
+     {q:"D-Day (June 6, 1944) was significant because ___.", options:["it was a minor skirmish","Canadians landed at Juno Beach on D-Day","Canada did not participate","it ended the war immediately"], answer:1}
    ]},
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Media: Creating a Documentary Script", summary:"Students plan and write a short documentary script, incorporating research, narration, interview questions, and visual descriptions.",
    resourceLabel:"YouTube: Media: Creating a Documentary Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Creating%20a%20Documentary%20Script%20grade%206%20educational",
    quiz:[
-     {q:"A documentary is a type of ___.", options:["animation","fiction film","only a school project","non-fiction film or media that presents facts about real-world events, people, or topics"], answer:3},
-     {q:"A script for a documentary includes ___.", options:["only visuals","narration, dialogue, visual directions, and interview questions","only music","only facts and statistics"], answer:1},
-     {q:"Why do documentaries often include interviews?", options:["First-hand accounts and expert opinions make the story more credible, human, and engaging","To meet a time requirement","Only for entertainment","Interviews replace all narration"], answer:0},
-     {q:"A 'hook' at the start of a documentary ___.", options:["puts audiences to sleep","is a compelling opening (striking visual, intriguing question, shocking fact) that grabs the audience's attention","is only a song","introduces all facts immediately"], answer:1},
+     {q:"A documentary is a type of ___.", options:["animation","fiction film","only a school project","non-fiction media about real events"], answer:3},
+     {q:"A script for a documentary includes ___.", options:["only visuals","narration and visual directions","only music","only facts and statistics"], answer:1},
+     {q:"Why do documentaries often include interviews?", options:["They make stories credible and engaging","To meet a time requirement","Only for entertainment","Interviews replace all narration"], answer:0},
+     {q:"A 'hook' at the start of a documentary ___.", options:["puts audiences to sleep","is an opening that grabs attention","is only a song","introduces all facts immediately"], answer:1},
      {q:"When writing documentary narration, the tone should be ___.", options:["always humorous","matched to the subject","identical for all documentaries","always angry"], answer:1}
    ]},
   {subject:"Math", title:"Probability: Theoretical and Experimental", summary:"Students distinguish theoretical probability (what should happen) from experimental probability (what does happen). They run probability experiments and compare results.",
    resourceLabel:"YouTube: Probability: Theoretical and Experimental", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Theoretical%20and%20Experimental%20grade%206%20educational",
    quiz:[
-     {q:"Theoretical probability is based on ___.", options:["only computer simulations","what mathematically should happen under ideal conditions (favourable outcomes / total outcomes)","only past experiments","what actually happens in a trial"], answer:1},
-     {q:"Experimental probability is based on ___.", options:["actual results from repeated trials of an experiment","mathematical calculation only","only paper calculations","only one trial"], answer:0},
+     {q:"Theoretical probability is based on ___.", options:["only computer simulations","what should mathematically happen","only past experiments","what actually happens in a trial"], answer:1},
+     {q:"Experimental probability is based on ___.", options:["actual results from repeated trials","mathematical calculation only","only paper calculations","only one trial"], answer:0},
      {q:"If you flip a coin 100 times and get 53 heads, the experimental probability of heads is ___.", options:["1/2","47/100","100/53","53/100"], answer:3},
-     {q:"As the number of trials increases, experimental probability ___.", options:["tends to get closer to the theoretical probability (law of large numbers)","becomes exactly 1","has no relationship to theoretical","gets further from theoretical"], answer:0},
+     {q:"As the number of trials increases, experimental probability ___.", options:["gets closer to theoretical probability","becomes exactly 1","has no relationship to theoretical","gets further from theoretical"], answer:0},
      {q:"The theoretical probability of rolling a 4 on a standard die is ___.", options:["4/6","4/1","1/6","1/4"], answer:2}
    ]},
   {subject:"Science", title:"Review: Science Connections", summary:"Students connect the science strands studied in Grade 6 — biodiversity, flight, electricity, optics, and Earth systems — and see how they relate to real-world issues and careers.",
@@ -1097,29 +1097,29 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Which science strand explains why an eagle can be seen as a keystone species?", options:["Biodiversity and ecosystems","Flight","Optics","Electricity"], answer:0},
      {q:"Engineers who design aircraft apply principles from which science topic?", options:["Flight and aerodynamics","Biodiversity","Rock cycle","Electricity"], answer:0},
-     {q:"Electrical engineers study circuits to develop ___.", options:["new species","new rock types","flight paths","efficient power systems, renewable energy, and electronic devices"], answer:3},
-     {q:"Understanding optics helps in developing ___.", options:["food webs","aircraft","tectonic maps","telescopes, cameras, glasses, fibre optics, and medical imaging"], answer:3},
-     {q:"Knowledge of plate tectonics helps ___.", options:["design aircraft","predict earthquakes and volcanic eruptions, and understand mineral deposits","classify species","build better circuits"], answer:1}
+     {q:"Electrical engineers study circuits to develop ___.", options:["new species","new rock types","flight paths","power systems and electronic devices"], answer:3},
+     {q:"Understanding optics helps in developing ___.", options:["food webs","aircraft","tectonic maps","telescopes, cameras, and glasses"], answer:3},
+     {q:"Knowledge of plate tectonics helps ___.", options:["design aircraft","predict earthquakes and eruptions","classify species","build better circuits"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Canada After WWII: Social and Political Change", summary:"Students explore Canada's post-WWII social changes: the baby boom, immigration, multiculturalism, the welfare state (Medicare, CPP), and the growth of suburbs.",
    resourceLabel:"YouTube: Canada After WWII: Social and Political Change", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20After%20WWII%3A%20Social%20and%20Political%20Change%20grade%206%20educational",
    quiz:[
-     {q:"The 'baby boom' after WWII referred to ___.", options:["a government housing program","a decline in birth rates","an immigration wave","a large spike in birth rates as returning soldiers started families (approx. 1946–1964)"], answer:3},
-     {q:"Multiculturalism became official Canadian policy in ___.", options:["1971 under Prime Minister Pierre Trudeau, recognising and celebrating cultural diversity","1919","1867","1999"], answer:0},
-     {q:"Medicare (universal health care) in Canada ___.", options:["was never established","began in Saskatchewan in 1962 under Tommy Douglas and was adopted federally in 1966","has always existed","was established in 1867"], answer:1},
-     {q:"Post-WWII immigration to Canada was significant because ___.", options:["it had no effect","large numbers of displaced Europeans and later people from around the world reshaped Canada's population, economy, and culture","only European refugees came","immigrants came from fewer countries"], answer:1},
-     {q:"The Canada Pension Plan (CPP), established in 1965, was designed to ___.", options:["only benefit Quebec","provide retirement income security to Canadian workers","only help the wealthy","fund military spending"], answer:1}
+     {q:"The 'baby boom' after WWII referred to ___.", options:["a government housing program","a decline in birth rates","an immigration wave","a birth-rate spike after WWII (1946-64)"], answer:3},
+     {q:"Multiculturalism became official Canadian policy in ___.", options:["1971, under Prime Minister Trudeau","1919","1867","1999"], answer:0},
+     {q:"Medicare (universal health care) in Canada ___.", options:["was never established","began in Saskatchewan in 1962","has always existed","was established in 1867"], answer:1},
+     {q:"Post-WWII immigration to Canada was significant because ___.", options:["it had no effect","It reshaped Canada's population greatly","only European refugees came","immigrants came from fewer countries"], answer:1},
+     {q:"The Canada Pension Plan (CPP), established in 1965, was designed to ___.", options:["only benefit Quebec","provide retirement income to workers","only help the wealthy","fund military spending"], answer:1}
    ]},
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year-End Celebration: Reflecting on Learning", summary:"Students reflect on their literacy growth through the year, share writing accomplishments, and set goals for Grade 7 language arts.",
    resourceLabel:"YouTube: Year-End Celebration: Reflecting on Learning", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reflecting%20on%20Learning%20grade%206%20educational",
    quiz:[
-     {q:"Reflecting on your learning means ___.", options:["copying your best work","forgetting what you studied","thinking critically about how your skills have grown, what you found challenging, and what you're proud of","only reviewing test scores"], answer:2},
-     {q:"Setting a literacy goal for Grade 7 means ___.", options:["giving up on improving","only choosing what books to read","only for students who failed","identifying a specific reading, writing, or communication skill you want to develop and making a plan"], answer:3},
+     {q:"Reflecting on your learning means ___.", options:["copying your best work","forgetting what you studied","thinking critically about your growth","only reviewing test scores"], answer:2},
+     {q:"Setting a literacy goal for Grade 7 means ___.", options:["giving up on improving","only choosing what books to read","only for students who failed","picking a skill to improve and planning"], answer:3},
      {q:"A portfolio of your best writing shows ___.", options:["only test scores","only long essays","your growth as a writer over the year","only your weakest work"], answer:2},
-     {q:"Sharing a piece of writing with an audience shows ___.", options:["only for perfect pieces","only for publication","bravery and communication skills, and helps writers understand how others respond to their work","it is finished forever"], answer:2},
-     {q:"The most important writing habit you can build is ___.", options:["only writing when required","writing only for teachers","writing regularly, reading widely, and viewing revision as an essential part of the process","only grammar"], answer:2}
+     {q:"Sharing a piece of writing with an audience shows ___.", options:["only for perfect pieces","only for publication","bravery and shows how others respond","it is finished forever"], answer:2},
+     {q:"The most important writing habit you can build is ___.", options:["only writing when required","writing only for teachers","writing often and revising as you go","only grammar"], answer:2}
    ]},
   {subject:"Math", title:"Grade 6 Math Year Review", summary:"Students consolidate key Grade 6 math concepts: ratios, percentages, integers, algebra, geometry, measurement, and data.",
    resourceLabel:"YouTube: Grade 6 Math Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Math%20Year%20Review%20grade%206%20educational",
@@ -1133,19 +1133,19 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Grade 6 Science Year Review", summary:"Students review all Grade 6 science strands: biodiversity, flight, electricity, optics, and Earth systems.",
    resourceLabel:"YouTube: Grade 6 Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Science%20Year%20Review%20grade%206%20educational",
    quiz:[
-     {q:"Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species — this is the ___.", options:["rock cycle","electromagnetic spectrum","biological classification hierarchy (taxonomy)","water cycle"], answer:2},
+     {q:"Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species — this is the ___.", options:["rock cycle","electromagnetic spectrum","biological classification (taxonomy)","water cycle"], answer:2},
      {q:"The four forces of flight are ___.", options:["lift, weight, thrust, drag","air, gravity, speed, angle","push, pull, up, down","force, mass, acceleration, velocity"], answer:0},
-     {q:"In a series circuit with 3 bulbs, if one bulb fails ___.", options:["all bulbs remain on","only the next bulb fails","all bulbs go out because current has only one path","only that bulb goes out"], answer:2},
+     {q:"In a series circuit with 3 bulbs, if one bulb fails ___.", options:["all bulbs remain on","only the next bulb fails","all bulbs go out; there's only one path","only that bulb goes out"], answer:2},
      {q:"A convex lens ___.", options:["has no effect on light","absorbs all light","diverges light rays","converges light rays to a focal point"], answer:3},
-     {q:"Plate tectonics explains ___.", options:["why light bends","why it rains","why continents move and why earthquakes and volcanoes occur at plate boundaries","how electricity works"], answer:2}
+     {q:"Plate tectonics explains ___.", options:["why light bends","why it rains","why continents move and quakes occur","how electricity works"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Grade 6 Social Studies Year Review", summary:"Students review ancient civilisations, exploration, WWI and WWII, and Canada's development into a modern nation.",
    resourceLabel:"YouTube: Grade 6 Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Social%20Studies%20Year%20Review%20grade%206%20educational",
    quiz:[
      {q:"Which ancient civilisation first developed democracy?", options:["Greece (specifically Athens)","Rome","Egypt","China"], answer:0},
-     {q:"The Columbian Exchange describes ___.", options:["a stock market","a peace treaty","the transfer of goods, species, diseases, and ideas between the Old and New Worlds after 1492","only gold and silver trade"], answer:2},
+     {q:"The Columbian Exchange describes ___.", options:["a stock market","a peace treaty","the exchange between Old and New Worlds","only gold and silver trade"], answer:2},
      {q:"The MAIN causes of WWI stand for ___.", options:["Manufacturing, Alliances, Independence, Neutrality","Money, Army, Industry, Nations","Military, Alliances, Imperialism, Nationalism","Military, Aggression, Imperialism, Nationalism"], answer:2},
-     {q:"Canada declared war on Germany in WWII ___.", options:["before Britain","a week after Britain, showing Canadian independence","the same day as Britain","never"], answer:1},
+     {q:"Canada declared war on Germany in WWII ___.", options:["before Britain","a week after Britain, showing autonomy","the same day as Britain","never"], answer:1},
      {q:"Multiculturalism became official Canadian government policy in ___.", options:["1919","1867","1971","1982"], answer:2}
    ]},
 ]},

@@ -169,7 +169,7 @@ const curriculum: DayContent[] = [
      {q:"Which word belongs to the -AN family?", options:["Can","Bat","Cat","Hat"], answer:0},
      {q:"How many words are in the -AT family: cat, bat, hat, sat?", options:["4","5","2","3"], answer:0},
      {q:"Which word rhymes with CAN?", options:["Cat","Bit","Ran","Hat"], answer:2},
-     {q:"Word families help us ___.", options:["Do experiments","Count numbers","Recognize spelling patterns and read new words","Draw pictures"], answer:2}
+     {q:"Word families help us ___.", options:["Do experiments","Count numbers","Spot spelling patterns","Draw pictures"], answer:2}
    ]},
   {subject:"Math", title:"Place Value: Tens and Ones", summary:"Ontario Grade 1 Number strand: students decompose two-digit numbers into tens and ones using base-ten blocks, understanding that the position of a digit determines its value.",
    resourceLabel:"YouTube: Place Value: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Tens%20and%20Ones%20grade%201%20educational",
@@ -195,7 +195,7 @@ const curriculum: DayContent[] = [
      {q:"Why do schools have rules?", options:["Rules are not needed","To be unfair","To keep everyone safe and learning","To punish students"], answer:2},
      {q:"A responsibility is something you ___.", options:["Only adults do","Can always skip","Are allowed to ignore","Must do for yourself or others"], answer:3},
      {q:"Which is a student responsibility at school?", options:["Completing work and respecting others","Playing all day","Ignoring homework","Talking over the teacher"], answer:0},
-     {q:"Rights and responsibilities work together because ___.", options:["Only responsibilities matter","Rights give us freedom; responsibilities ensure we respect others","Only rights matter","They are the same thing"], answer:1},
+     {q:"Rights and responsibilities work together because ___.", options:["Only responsibilities matter","Rights need responsibilities to work","Only rights matter","They are the same thing"], answer:1},
      {q:"Which is an example of a right?", options:["Being treated fairly and kept safe","Having no rules","Working all day","Ignoring others"], answer:0}
    ]},
 ]},
@@ -309,7 +309,7 @@ const curriculum: DayContent[] = [
      {q:"Who were the first peoples of Canada?", options:["American visitors","Recent immigrants","European settlers","Indigenous peoples"], answer:3},
      {q:"Indigenous peoples have lived in Canada for ___.", options:["Thousands of years","About 200 years","A few years","50 years"], answer:0},
      {q:"Indigenous peoples have their own ___.", options:["Languages and traditions","Nothing special","European customs only","Modern technology only"], answer:0},
-     {q:"We should respect Indigenous cultures because ___.", options:["They are strangers","They are part of Canada's history and identity","It does not matter","They are far away"], answer:1},
+     {q:"We should respect Indigenous cultures because ___.", options:["They are strangers","They shape Canada's history","It does not matter","They are far away"], answer:1},
      {q:"What do we call the different groups of First Nations peoples?", options:["Nations, each with their own culture","American groups","European groups","All the same group"], answer:0}
    ]},
 ]},
@@ -358,8 +358,8 @@ const curriculum: DayContent[] = [
      {q:"The main idea of a text is ___.", options:["A small detail","A character's name","What the text is mostly about","The last sentence"], answer:2},
      {q:"Supporting details ___.", options:["Are the most important idea","Are not connected to the main idea","Are always at the beginning","Explain the main idea with examples"], answer:3},
      {q:"A good title for a text about dogs would be ___.", options:["My Birthday","The Red Ball","Cats are Great","All About Dogs"], answer:3},
-     {q:"How do you find the main idea?", options:["Count the words","Read only the last sentence","Ask yourself what the text is mostly about","Look at the pictures only"], answer:2},
-     {q:"Which sentence is a main idea?", options:["Dogs make wonderful pets for many reasons.","The dog ran fast.","The dog has brown spots.","My dog is named Rex."], answer:0}
+     {q:"How do you find the main idea?", options:["Count the words","Read only the last sentence","Ask what the text is mostly about","Look at the pictures only"], answer:2},
+     {q:"Which sentence is a main idea?", options:["Dogs make wonderful pets.","The dog ran fast.","The dog has brown spots.","My dog is named Rex."], answer:0}
    ]},
   {subject:"Math", title:"3D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe 3D figures: sphere, cube, cylinder, and cone, relating them to everyday objects.",
    resourceLabel:"YouTube: 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%20grade%201%20educational",
@@ -396,7 +396,7 @@ const curriculum: DayContent[] = [
      {q:"Characters are ___.", options:["The place of the story","The people or animals in the story","The ending","The problem"], answer:1},
      {q:"Setting means ___.", options:["What happens in the story","Where and when the story takes place","Who is in the story","The solution"], answer:1},
      {q:"Which question helps identify the setting?", options:["What is the problem?","How does it end?","Who is in the story?","Where and when does the story happen?"], answer:3},
-     {q:"A character's traits describe ___.", options:["What the character is like (brave, funny, etc.)","Where the story happens","The problem","The solution"], answer:0},
+     {q:"A character's traits describe ___.", options:["What the character is like","Where the story happens","The problem","The solution"], answer:0},
      {q:"Can a story have more than one character?", options:["No, only one character","Only in long stories","Yes, stories can have many characters","Only in fairy tales"], answer:2}
    ]},
   {subject:"Math", title:"Measuring Length", summary:"Ontario Grade 1 Measurement strand: students measure length using non-standard units (paperclips, cubes) and compare objects using longer, shorter, taller.",
@@ -421,9 +421,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Rights of Children", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20of%20Children%20grade%201%20educational",
    quiz:[
      {q:"Children have the right to ___.", options:["Ignore school rules","Do whatever they want","Be safe, cared for, and educated","Have no responsibilities"], answer:2},
-     {q:"What is the UNCRC?", options:["A school subject","A type of book","A United Nations document protecting children's rights worldwide","A type of toy"], answer:2},
+     {q:"What is the UNCRC?", options:["A school subject","A type of book","A UN document on children's rights","A type of toy"], answer:2},
      {q:"Which of these is a child's right?", options:["Working full-time jobs","Ignoring adults","Having no rules","Education and protection from harm"], answer:3},
-     {q:"Rights and responsibilities go together because ___.", options:["They are opposite","Only rights matter","Our rights give us freedom; responsibilities ensure we respect others' rights","Only adults have rights"], answer:2},
+     {q:"Rights and responsibilities go together because ___.", options:["They are opposite","Only rights matter","Rights need responsibilities too","Only adults have rights"], answer:2},
      {q:"Who is responsible for protecting children's rights?", options:["No one","Children themselves","Only schools","Governments, communities, and families"], answer:3}
    ]},
 ]},
@@ -431,11 +431,11 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Making Predictions", summary:"Ontario Grade 1 Reading strand: students use text clues, pictures, and prior knowledge to predict what will happen next in a story or text.",
    resourceLabel:"YouTube: Making Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Predictions%20grade%201%20educational",
    quiz:[
-     {q:"Making a prediction means ___.", options:["Guessing what might happen next using clues","Counting words","Reading the end first","Looking at pictures only"], answer:0},
-     {q:"What clues help you make a prediction?", options:["The font size","Random guessing","Only the last page","Title, pictures, and what you have read so far"], answer:3},
+     {q:"Making a prediction means ___.", options:["Guessing what happens next","Counting words","Reading the end first","Looking at pictures only"], answer:0},
+     {q:"What clues help you make a prediction?", options:["The font size","Random guessing","Only the last page","Title, pictures, and what you've read"], answer:3},
      {q:"If dark clouds appear in a story, you might predict ___.", options:["The story is ending","It will get hotter","It will rain or storm","A character will laugh"], answer:2},
      {q:"After making a prediction, a good reader ___.", options:["Changes the story","Stops reading","Ignores whether it was right","Reads on to check the prediction"], answer:3},
-     {q:"Predictions can be ___.", options:["Always wrong","Sometimes right and sometimes wrong, and that is okay","Only for science","Always correct"], answer:1}
+     {q:"Predictions can be ___.", options:["Always wrong","Sometimes right, sometimes wrong","Only for science","Always correct"], answer:1}
    ]},
   {subject:"Math", title:"Measuring Mass", summary:"Ontario Grade 1 Measurement strand: students compare the mass of objects using non-standard units and a balance scale, using language like heavier and lighter.",
    resourceLabel:"YouTube: Measuring Mass", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Mass%20grade%201%20educational",
@@ -498,9 +498,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Which of these is a body of water?", options:["Prairie","Forest","Lake Superior","Mountain"], answer:2},
      {q:"Which is a landform?", options:["Atlantic Ocean","Lake Ontario","Rocky Mountain","St. Lawrence River"], answer:2},
-     {q:"What are the Great Lakes?", options:["Mountains in western Canada","Glaciers in the north","Five large lakes in central Canada and the US","Prairies in central Canada"], answer:2},
+     {q:"What are the Great Lakes?", options:["Mountains in western Canada","Glaciers in the north","Five large lakes in Canada and the US","Prairies in central Canada"], answer:2},
      {q:"Canada has ___ coastlines.", options:["Only in the south","Three — east, west, and north","One — the east","No coastline"], answer:1},
-     {q:"The Canadian Shield is ___.", options:["A vast region of ancient rock in central Canada","A great river","A mountain range","A large ocean"], answer:0}
+     {q:"The Canadian Shield is ___.", options:["A vast region of ancient rock","A great river","A mountain range","A large ocean"], answer:0}
    ]},
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
@@ -529,14 +529,14 @@ const curriculum: DayContent[] = [
      {q:"The Sun gives Earth heat and ___.", options:["Snow","Wind","Light","Rain"], answer:2},
      {q:"Day and night are caused by Earth ___.", options:["Moving around the Sun","Moving away from the Sun","The Moon blocking the Sun","Rotating (spinning) on its axis"], answer:3},
      {q:"The Sun rises in the ___ and sets in the ___.", options:["North, south","East, west","West, east","South, north"], answer:1},
-     {q:"Why is the Sun important for life on Earth?", options:["It is not important","Only plants need it","It provides heat and light needed by plants and animals","Only humans need it"], answer:2}
+     {q:"Why is the Sun important for life on Earth?", options:["It is not important","Only plants need it","It provides heat and light for life","Only humans need it"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canada's Natural Resources", summary:"Ontario Grade 1 Social Studies strand B: students identify natural resources in Canada such as trees, water, minerals, and farmland and explain why they are important.",
    resourceLabel:"YouTube: Canada's Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Natural%20Resources%20grade%201%20educational",
    quiz:[
-     {q:"A natural resource is ___.", options:["Something found in nature that people use","A building","Something people make in a factory","A type of money"], answer:0},
+     {q:"A natural resource is ___.", options:["Something from nature that people use","A building","Something people make in a factory","A type of money"], answer:0},
      {q:"Which of these is a natural resource?", options:["Fresh water","A car","A computer","A plastic bottle"], answer:0},
-     {q:"Why are Canada's forests a natural resource?", options:["They are very tall","They look nice","They are cold","They provide wood, paper, and habitat for animals"], answer:3},
+     {q:"Why are Canada's forests a natural resource?", options:["They are very tall","They look nice","They are cold","They provide wood and habitat"], answer:3},
      {q:"Which natural resource do farmers use to grow food?", options:["Rocks","Metal","Plastic","Farmland and soil"], answer:3},
      {q:"Why is it important to protect natural resources?", options:["Only adults care about this","So future generations can also use them","It is not important","Resources never run out"], answer:1}
    ]},
@@ -564,19 +564,19 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Soil and Earth Materials", resourceUrl:"https://www.youtube.com/results?search_query=Soil%20and%20Earth%20Materials%20grade%201%20educational",
    quiz:[
      {q:"Soil is made of small pieces of ___ and organic matter.", options:["Wood","Plastic","Rock","Metal"], answer:2},
-     {q:"Why is soil important for plants?", options:["Soil holds the roots and provides nutrients","Soil provides sunlight","Soil provides rain","It is not"], answer:0},
+     {q:"Why is soil important for plants?", options:["Soil holds roots and gives nutrients","Soil provides sunlight","Soil provides rain","It is not"], answer:0},
      {q:"Which type of soil holds the most water?", options:["Clay soil","Sandy soil","Rocky soil","Gravelly soil"], answer:0},
      {q:"Earthworms help soil by ___.", options:["Mixing and aerating the soil","Removing water","Destroying roots","Making soil harder"], answer:0},
-     {q:"What is humus?", options:["A type of rock","A type of sand","A food dip","Decayed organic matter that enriches soil"], answer:3}
+     {q:"What is humus?", options:["A type of rock","A type of sand","A food dip","Decayed matter that enriches soil"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Multiculturalism in Canada", summary:"Ontario Grade 1 Social Studies strand A: Canada is a multicultural country where people from many backgrounds live and contribute, enriching Canadian society.",
    resourceLabel:"YouTube: Multiculturalism in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20in%20Canada%20grade%201%20educational",
    quiz:[
      {q:"Canada is described as multicultural because ___.", options:["People from many different cultures live here","Everyone speaks the same language","Everyone follows the same traditions","Only Canadian-born people live here"], answer:0},
-     {q:"How does multiculturalism make Canada stronger?", options:["It causes problems","It brings different ideas, foods, arts, and perspectives","Only big cities benefit","It does not affect Canada"], answer:1},
+     {q:"How does multiculturalism make Canada stronger?", options:["It causes problems","It brings different ideas and foods","Only big cities benefit","It does not affect Canada"], answer:1},
      {q:"Which of Canada's two official languages reflects its multicultural roots?", options:["French and Italian","French and English","Spanish and English","English and Chinese"], answer:1},
-     {q:"How can we celebrate multiculturalism at school?", options:["Avoid different foods","Speak only one language","Learn about and share different cultural traditions","Ignore other cultures"], answer:2},
-     {q:"What does it mean to respect another culture?", options:["Avoiding them","Copying everything they do","Valuing their traditions and treating them fairly","Ignoring their customs"], answer:2}
+     {q:"How can we celebrate multiculturalism at school?", options:["Avoid different foods","Speak only one language","Learn about and share traditions","Ignore other cultures"], answer:2},
+     {q:"What does it mean to respect another culture?", options:["Avoiding them","Copying everything they do","Valuing and respecting their traditions","Ignoring their customs"], answer:2}
    ]},
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
@@ -604,13 +604,13 @@ const curriculum: DayContent[] = [
      {q:"In a food chain, plants are called ___.", options:["Consumers","Carnivores","Herbivores","Producers"], answer:3},
      {q:"An animal that eats only plants is called a ___.", options:["Producer","Herbivore","Carnivore","Omnivore"], answer:1},
      {q:"In a food chain, arrows show ___.", options:["Friendship","Where animals live","The seasons","The direction energy flows"], answer:3},
-     {q:"Which is a correct simple food chain?", options:["Sun eats grass eats fox","Fox eats grass eats rabbit","Fox eats sun eats rabbit","Grass is eaten by rabbit, rabbit is eaten by fox"], answer:3},
+     {q:"Which is a correct simple food chain?", options:["Sun eats grass eats fox","Fox eats grass eats rabbit","Fox eats sun eats rabbit","Grass, then rabbit, then fox"], answer:3},
      {q:"A carnivore is an animal that eats ___.", options:["Only plants","Both plants and animals","Only animals","Only grass"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Global Communities", summary:"Ontario Grade 1 Social Studies strand B: students compare communities around the world, identifying similarities and differences in how people meet their basic needs.",
    resourceLabel:"YouTube: Global Communities", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Communities%20grade%201%20educational",
    quiz:[
-     {q:"Communities around the world are ___.", options:["Only similar","All different with nothing in common","Exactly the same","Different in some ways and similar in others"], answer:3},
+     {q:"Communities around the world are ___.", options:["Only similar","All different with nothing in common","Exactly the same","Different in some, similar in others"], answer:3},
      {q:"What basic need do all communities around the world share?", options:["Food, shelter, and water","Electricity","The same language","The same food"], answer:0},
      {q:"How do people in different communities get food?", options:["Everyone buys at supermarkets","Everyone hunts","Everyone grows rice","In many different ways"], answer:3},
      {q:"What is one way communities around the world are similar?", options:["People care for each other","Same sports","Same language","Same food"], answer:0},
@@ -643,23 +643,23 @@ const curriculum: DayContent[] = [
      {q:"Which habitat does a polar bear live in?", options:["Desert","Jungle","Arctic tundra","Rainforest"], answer:2},
      {q:"Which animal lives in a pond habitat?", options:["Polar bear","Camel","Frog","Penguin"], answer:2},
      {q:"A desert habitat is ___.", options:["Always covered in snow","Hot and dry with little rainfall","Always rainy","Cold and wet"], answer:1},
-     {q:"What happens to an animal if its habitat is destroyed?", options:["Nothing changes","It becomes stronger","It gets bigger","It may struggle to survive or must find a new habitat"], answer:3}
+     {q:"What happens to an animal if its habitat is destroyed?", options:["Nothing changes","It becomes stronger","It gets bigger","It may struggle or need a new habitat"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Helping Others in the Community", summary:"Ontario Grade 1 Social Studies strand A: students explore ways they can contribute to their community through volunteering, kindness, and helping neighbours.",
    resourceLabel:"YouTube: Helping Others in the Community", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20Others%20in%20the%20Community%20grade%201%20educational",
    quiz:[
      {q:"How can you help your community?", options:["Taking things","Volunteering and being kind to others","Ignoring others","Littering"], answer:1},
-     {q:"Why is volunteering important?", options:["It is not","Only adults volunteer","It benefits others and makes the community stronger","It earns money"], answer:2},
+     {q:"Why is volunteering important?", options:["It is not","Only adults volunteer","It helps others and the community","It earns money"], answer:2},
      {q:"What is a way kids can help the environment?", options:["Wasting food","Buying more toys","Using more electricity","Picking up litter and recycling"], answer:3},
      {q:"Being kind to a new student at school helps them ___.", options:["Stay silent","Feel welcome and included","Ignore others","Feel uncomfortable"], answer:1},
-     {q:"Why do communities need volunteers?", options:["Volunteers do important work that helps everyone","Volunteering is boring","Only hospitals need volunteers","They do not"], answer:0}
+     {q:"Why do communities need volunteers?", options:["Volunteers help everyone","Volunteering is boring","Only hospitals need volunteers","They do not"], answer:0}
    ]},
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Compound Words", summary:"Ontario Grade 1 Reading strand: a compound word is made of two smaller words joined together to make a new word, such as sunshine, raincoat, and backpack.",
    resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%20grade%201%20educational",
    quiz:[
-     {q:"A compound word is ___.", options:["Two small words joined to make a new word","A very long word","A word with a silent letter","A nonsense word"], answer:0},
+     {q:"A compound word is ___.", options:["Two small words joined together","A very long word","A word with a silent letter","A nonsense word"], answer:0},
      {q:"Which is a compound word?", options:["Sunshine","Beautiful","Elephant","Apple"], answer:0},
      {q:"What two words make 'raincoat'?", options:["Rainc + oat","R + aincoat","Rain + coat","Rai + ncoat"], answer:2},
      {q:"What compound word means a bag worn on your back?", options:["Schoolbag","Handbag","Backpack","Purse"], answer:2},
@@ -681,16 +681,16 @@ const curriculum: DayContent[] = [
      {q:"Why are plants important for animals?", options:["They provide money","They provide food and oxygen for animals","They are not","They provide electricity"], answer:1},
      {q:"What holds soil in place and prevents erosion?", options:["Rain","Plant roots","Wind","Rocks alone"], answer:1},
      {q:"Which of these would NOT survive without plants?", options:["Clouds","Rivers","Rocks","Most animals"], answer:3},
-     {q:"How do plants help improve air quality?", options:["They absorb oxygen","They absorb carbon dioxide and release oxygen","They do not","They create pollution"], answer:1}
+     {q:"How do plants help improve air quality?", options:["They absorb oxygen","They absorb CO2, release oxygen","They do not","They create pollution"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Celebrations and Traditions", summary:"Ontario Grade 1 Social Studies strand A: students explore different cultural celebrations and traditions, recognising the diversity of practices and their importance to families.",
    resourceLabel:"YouTube: Celebrations and Traditions", resourceUrl:"https://www.youtube.com/results?search_query=Celebrations%20and%20Traditions%20grade%201%20educational",
    quiz:[
-     {q:"A tradition is ___.", options:["A special activity a family or culture repeats over time","Only for children","Something done only once","Always about food"], answer:0},
-     {q:"Why do families celebrate traditions?", options:["To mark important events and strengthen bonds","It is boring","To spend money","They have to"], answer:0},
+     {q:"A tradition is ___.", options:["An activity repeated over time","Only for children","Something done only once","Always about food"], answer:0},
+     {q:"Why do families celebrate traditions?", options:["To mark events and strengthen bonds","It is boring","To spend money","They have to"], answer:0},
      {q:"Which is an example of a tradition?", options:["Watching TV","Going to sleep","Brushing your teeth","An annual family holiday gathering"], answer:3},
-     {q:"How are celebrations different around the world?", options:["They are all the same","Only the date changes","Only adults celebrate","They vary in customs, foods, and meanings"], answer:3},
-     {q:"Learning about others' celebrations helps us ___.", options:["Understand and appreciate cultural diversity","Copy everything","Stay separate","Ignore differences"], answer:0}
+     {q:"How are celebrations different around the world?", options:["They are all the same","Only the date changes","Only adults celebrate","They vary in customs and meanings"], answer:3},
+     {q:"Learning about others' celebrations helps us ___.", options:["Understand cultural diversity","Copy everything","Stay separate","Ignore differences"], answer:0}
    ]},
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
@@ -724,7 +724,7 @@ const curriculum: DayContent[] = [
   {subject:"SocialStudies", title:"Traditions from Around the World", summary:"Ontario Grade 1 Social Studies strand A: students explore cultural traditions from different countries, building respect and appreciation for diversity.",
    resourceLabel:"YouTube: Traditions from Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20from%20Around%20the%20World%20grade%201%20educational",
    quiz:[
-     {q:"Why do countries have their own traditions?", options:["Everyone chose the same ones","Rules forced them to","They have to","Traditions reflect the culture, history, and values of a people"], answer:3},
+     {q:"Why do countries have their own traditions?", options:["Everyone chose the same ones","Rules forced them to","They have to","They reflect a culture's history"], answer:3},
      {q:"Which festival involves lanterns and is celebrated in China?", options:["Diwali","Hanukkah","Chinese Lantern Festival","Carnival"], answer:2},
      {q:"Diwali is celebrated by people of which background?", options:["European","Hindu (and others in South Asia)","Japanese","Chinese"], answer:1},
      {q:"Why is it important to learn about traditions from around the world?", options:["Only tourists need to know","It is not important","It is confusing","It promotes respect and understanding"], answer:3},
@@ -794,7 +794,7 @@ const curriculum: DayContent[] = [
      {q:"Rocks can be described by ___.", options:["Their names only","Their feelings","Their families","Their colour, texture, and hardness"], answer:3},
      {q:"Which rock is used to make jewellery?", options:["Granite","Limestone","Sandstone","Diamond (a mineral)"], answer:3},
      {q:"What does the hardness of a rock tell us?", options:["Its colour","Its age","How easily it can be scratched","Its weight"], answer:2},
-     {q:"Where can you find rocks?", options:["Only in rivers","Everywhere — on land, in water, underground","Only in mountains","Only underground"], answer:1},
+     {q:"Where can you find rocks?", options:["Only in rivers","On land, in water, underground","Only in mountains","Only underground"], answer:1},
      {q:"Which of these is made from a natural rock or mineral?", options:["Salt (a mineral)","Both b and c","Glass window (made from sand, a mineral)","Plastic cup"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Maps of Canada", summary:"Ontario Grade 1 Social Studies strand B: students read simple maps of Canada, identifying provinces, territories, capital cities, and geographic regions.",
@@ -831,9 +831,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"What percentage of Earth's surface is covered by water?", options:["About 50 percent","About 90 percent","About 30 percent","About 70 percent"], answer:3},
      {q:"Water in three states: ___.", options:["Deep, shallow, wide","Hot, warm, cold","Solid, liquid, gas","Fast, slow, still"], answer:2},
-     {q:"What is the water cycle?", options:["The continuous movement of water through evaporation, condensation, and precipitation","How water is made in factories","How rain is collected in rivers","How we filter drinking water"], answer:0},
+     {q:"What is the water cycle?", options:["The cycle of evaporation and rain","How water is made in factories","How rain is collected in rivers","How we filter drinking water"], answer:0},
      {q:"Which state is water in when it forms clouds?", options:["Solid","Gas (water vapour)","Plasma","Liquid"], answer:1},
-     {q:"Why is clean water important?", options:["It is not","All living things need clean water to survive","Only fish need clean water","Only humans need water"], answer:1}
+     {q:"Why is clean water important?", options:["It is not","All living things need clean water","Only fish need clean water","Only humans need water"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Provinces of Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify the ten provinces of Canada and some facts about each, locating them on a map.",
    resourceLabel:"YouTube: Provinces of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provinces%20of%20Canada%20grade%201%20educational",
@@ -852,7 +852,7 @@ const curriculum: DayContent[] = [
      {q:"Poetry often uses ___.", options:["Only facts","Rhyme, rhythm, and descriptive language","Only long sentences","Lots of numbers"], answer:1},
      {q:"Which lines rhyme?", options:["The cat sat on the mat / The dog ran to school","She ran fast / He jumped high","Today is Monday / I ate my lunch","Roses are red / Violets are blue"], answer:3},
      {q:"Rhythm in a poem means ___.", options:["A regular beat or pattern in the words","The poem rhymes","The poem is long","The poem is happy"], answer:0},
-     {q:"A poem is different from a story because ___.", options:["It is always longer","It has no characters","It often uses line breaks and focuses on feelings and images","It has no words"], answer:2},
+     {q:"A poem is different from a story because ___.", options:["It is always longer","It has no characters","It uses line breaks and feelings","It has no words"], answer:2},
      {q:"Which is an example of descriptive language in a poem?", options:["He walked home","She went to the store","The shimmering silver moon glowed softly","It was night"], answer:2}
    ]},
   {subject:"Math", title:"Subtraction Strategies", summary:"Ontario Grade 1 Number strand: students use strategies such as counting back, fact families, and think-addition to subtract efficiently.",
@@ -871,7 +871,7 @@ const curriculum: DayContent[] = [
      {q:"Which planet do we live on?", options:["Earth","Jupiter","Mars","Venus"], answer:0},
      {q:"The Moon ___.", options:["Is a star","Orbits (circles) the Earth","Makes its own light","Is bigger than Earth"], answer:1},
      {q:"Stars are visible mainly at ___.", options:["Night","Dusk only","Dawn","Noon"], answer:0},
-     {q:"How does the Moon appear to change shape?", options:["It actually changes shape","It grows and shrinks","We see different amounts of its lit side as it orbits Earth","Clouds cover it"], answer:2}
+     {q:"How does the Moon appear to change shape?", options:["It actually changes shape","It grows and shrinks","We see varying amounts of its lit side","Clouds cover it"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Caring for the Environment", summary:"Ontario Grade 1 Social Studies strand B: students identify ways to protect the environment including reducing waste, recycling, and conserving water and energy.",
    resourceLabel:"YouTube: Caring for the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Environment%20grade%201%20educational",
@@ -880,17 +880,17 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of recycling?", options:["Wasting water","Buying new items","Turning a used newspaper into new paper","Throwing a bottle in the garbage"], answer:2},
      {q:"Why should we turn off lights when leaving a room?", options:["To save electrical energy","To make the room dark","Lights do not matter","Lights are too bright"], answer:0},
      {q:"What is one way to conserve water?", options:["Leave the tap running","Water your lawn every hour","Turn off the tap while brushing teeth","Take very long showers"], answer:2},
-     {q:"Caring for the environment benefits ___.", options:["Both humans and all living things now and in the future","Only humans","Nobody","Only animals"], answer:0}
+     {q:"Caring for the environment benefits ___.", options:["All living things, now and later","Only humans","Nobody","Only animals"], answer:0}
    ]},
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Non-Fiction Text Features", summary:"Ontario Grade 1 Reading strand: non-fiction texts contain features like headings, photographs, captions, table of contents, and indexes that help readers find and understand information.",
    resourceLabel:"YouTube: Non-Fiction Text Features", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%20Text%20Features%20grade%201%20educational",
    quiz:[
-     {q:"What is a heading in a non-fiction text?", options:["A picture at the top","A bold title that tells what a section is about","A type of hat","The author's name"], answer:1},
-     {q:"What is a caption?", options:["A title","Words that explain a photograph or illustration","A type of heading","The conclusion"], answer:1},
+     {q:"What is a heading in a non-fiction text?", options:["A picture at the top","A bold title for a section","A type of hat","The author's name"], answer:1},
+     {q:"What is a caption?", options:["A title","Words explaining a photo","A type of heading","The conclusion"], answer:1},
      {q:"What does a table of contents show?", options:["Only pictures","The author's biography","Definitions of words","Chapter/section titles and page numbers"], answer:3},
-     {q:"How is a non-fiction text different from fiction?", options:["It has pictures","It has more chapters","Non-fiction contains facts about real topics; fiction is made up","It is shorter"], answer:2},
+     {q:"How is a non-fiction text different from fiction?", options:["It has pictures","It has more chapters","Non-fiction is real; fiction is not","It is shorter"], answer:2},
      {q:"Which of these is a non-fiction book?", options:["Harry Potter","The Three Little Pigs","Charlotte's Web","Encyclopaedia of Animals"], answer:3}
    ]},
   {subject:"Math", title:"Review: Number Sense to 50", summary:"Ontario Grade 1 Number strand review: students count, compare, order, and represent numbers to 50, and demonstrate understanding of place value and operations.",
@@ -915,10 +915,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Rights Review", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20Review%20grade%201%20educational",
    quiz:[
      {q:"What are the three main rights of all children?", options:["Education, safety, and being cared for","Work, play, travel","Adults choose their rights","Money, toys, vacations"], answer:0},
-     {q:"What is a responsibility?", options:["Something we are paid for","Something we can always skip","Something we are expected to do for ourselves and others","Something only adults have"], answer:2},
+     {q:"What is a responsibility?", options:["Something we are paid for","Something we can always skip","Something we're expected to do","Something only adults have"], answer:2},
      {q:"Name one way to be a responsible student.", options:["Talking in class","Being noisy","Helping others and doing your work","Ignoring instructions"], answer:2},
-     {q:"Responsible citizens ___.", options:["Do whatever they want","Follow rules, help others, and care for their community","Only follow rules they like","Never follow rules"], answer:1},
-     {q:"Why do rights and responsibilities go together?", options:["Only adults need to think about this","They do not","Rights are more important","Having rights means taking responsibility to respect others' rights too"], answer:3}
+     {q:"Responsible citizens ___.", options:["Do whatever they want","Follow rules and help others","Only follow rules they like","Never follow rules"], answer:1},
+     {q:"Why do rights and responsibilities go together?", options:["Only adults need to think about this","They do not","Rights are more important","Rights mean responsibility to others"], answer:3}
    ]},
 ]},
 {day:25, label:"Day 25 — Fri", subjects:[
@@ -927,7 +927,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Creative writing lets you ___.", options:["Copy other stories","Write only your name","Write only facts","Create imaginary stories and characters"], answer:3},
      {q:"A good creative story has a ___.", options:["Middle only","Only a problem","Beginning only","Beginning, middle, and end"], answer:3},
-     {q:"What makes a story more interesting?", options:["Descriptive language and interesting characters","Very short sentences only","Numbers and lists","Just names and places"], answer:0},
+     {q:"What makes a story more interesting?", options:["Descriptive language and characters","Very short sentences only","Numbers and lists","Just names and places"], answer:0},
      {q:"The problem in a story is ___.", options:["The ending","The setting","The beginning","The challenge the character must solve"], answer:3},
      {q:"A story's solution is ___.", options:["The setting","The problem","How the character solves the problem","The beginning"], answer:2}
    ]},
@@ -947,16 +947,16 @@ const curriculum: DayContent[] = [
      {q:"What is a tadpole?", options:["A baby bird","A baby frog","A type of fish","A baby butterfly"], answer:1},
      {q:"In the life cycle of a chicken: egg, chick, ___.", options:["Adult chicken","Larva","Pupa","Caterpillar"], answer:0},
      {q:"All life cycles ___.", options:["Are the same for all animals","Begin with an adult","Are continuous processes","End with a seed"], answer:2},
-     {q:"What is metamorphosis?", options:["A kind of rock","A process of dramatic change in form during a life cycle","A season change","A type of habitat"], answer:1}
+     {q:"What is metamorphosis?", options:["A kind of rock","A dramatic change in form during life","A season change","A type of habitat"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Community Review", summary:"Ontario Grade 1 Social Studies review: students review the concept of community, types of communities, community workers, and the importance of caring for the environment.",
    resourceLabel:"YouTube: Community Review", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Review%20grade%201%20educational",
    quiz:[
-     {q:"What is a community?", options:["A type of map","A group of people living and working together in a place","A natural resource","A building"], answer:1},
+     {q:"What is a community?", options:["A type of map","A group living and working together","A natural resource","A building"], answer:1},
      {q:"Name two types of communities.", options:["Old and new","Urban and rural","Rich and poor","Big and small"], answer:1},
      {q:"Which community worker helps people get from place to place?", options:["A librarian","A teacher","A bus driver or train conductor","A doctor"], answer:2},
-     {q:"Why should communities care for the environment?", options:["To keep the natural world healthy for everyone now and in the future","Only some communities do","It is not necessary","Only scientists care about this"], answer:0},
-     {q:"What makes a community strong?", options:["Cooperation, diversity, and people helping each other","Only having the same culture","Only money","Lots of buildings"], answer:0}
+     {q:"Why should communities care for the environment?", options:["To keep nature healthy now and later","Only some communities do","It is not necessary","Only scientists care about this"], answer:0},
+     {q:"What makes a community strong?", options:["Cooperation and helping each other","Only having the same culture","Only money","Lots of buildings"], answer:0}
    ]},
 ]},
 {day:26, label:"Day 26 — Mon", subjects:[
@@ -982,30 +982,30 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Animal Review", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Review%20grade%201%20educational",
    quiz:[
      {q:"What do all animals need to survive?", options:["Money","Only food","Food, water, air, and shelter","Television"], answer:2},
-     {q:"An adaptation is ___.", options:["A special feature that helps an animal survive","A life cycle stage","A kind of food","A type of habitat"], answer:0},
+     {q:"An adaptation is ___.", options:["A feature that helps an animal survive","A life cycle stage","A kind of food","A type of habitat"], answer:0},
      {q:"Which animal is adapted to cold Arctic environments?", options:["Frog","Polar bear","Butterfly","Camel"], answer:1},
-     {q:"What is a food chain?", options:["A habitat","A type of animal","A sequence showing who eats whom in an ecosystem","A chain you can eat"], answer:2},
+     {q:"What is a food chain?", options:["A habitat","A type of animal","Who eats whom in an ecosystem","A chain you can eat"], answer:2},
      {q:"Baby animals grow to look like their ___.", options:["Owners","Friends","Parents","Teachers"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Heritage Review", summary:"Ontario Grade 1 Social Studies strand A review: students review concepts of heritage, identity, family, traditions, and cultural celebrations.",
    resourceLabel:"YouTube: Heritage Review", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Review%20grade%201%20educational",
    quiz:[
-     {q:"Heritage includes ___.", options:["Only money","The traditions, stories, values, and culture passed through generations","Only food","Only buildings"], answer:1},
-     {q:"How does learning about our heritage help us?", options:["It helps us understand who we are and where we come from","It is boring","Only adults need to learn heritage","It does not"], answer:0},
-     {q:"Which of these is part of a family's heritage?", options:["A new house","A recent movie","A traditional recipe passed down through generations","A new toy"], answer:2},
-     {q:"How do families pass on their heritage?", options:["By forgetting old traditions","Through stories, traditions, celebrations, and language","By never celebrating","By moving away"], answer:1},
-     {q:"Why is Canada's multicultural heritage an asset?", options:["It brings diverse perspectives and richness to Canadian society","It causes confusion","Only in big cities","It creates problems"], answer:0}
+     {q:"Heritage includes ___.", options:["Only money","Traditions and culture passed down","Only food","Only buildings"], answer:1},
+     {q:"How does learning about our heritage help us?", options:["It helps us understand who we are","It is boring","Only adults need to learn heritage","It does not"], answer:0},
+     {q:"Which of these is part of a family's heritage?", options:["A new house","A recent movie","A family recipe passed down","A new toy"], answer:2},
+     {q:"How do families pass on their heritage?", options:["By forgetting old traditions","Through stories and traditions","By never celebrating","By moving away"], answer:1},
+     {q:"Why is Canada's multicultural heritage an asset?", options:["It brings diverse richness to Canada","It causes confusion","Only in big cities","It creates problems"], answer:0}
    ]},
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading Fluency", summary:"Ontario Grade 1 Reading strand: reading fluency means reading smoothly, at an appropriate pace, with expression. Practice with familiar texts builds fluency.",
    resourceLabel:"YouTube: Reading Fluency", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Fluency%20grade%201%20educational",
    quiz:[
-     {q:"Reading fluency means ___.", options:["Reading only short books","Reading smoothly, accurately, and with expression","Reading as fast as possible","Reading silently only"], answer:1},
+     {q:"Reading fluency means ___.", options:["Reading only short books","Reading smoothly and with expression","Reading as fast as possible","Reading silently only"], answer:1},
      {q:"Which practice builds reading fluency?", options:["Only reading alone","Reading a new book every day only","Re-reading familiar texts and reading aloud","Only reading in your head"], answer:2},
-     {q:"Expression in reading means ___.", options:["Changing your voice to match the mood and punctuation","Only whispering","Reading in a monotone voice","Only shouting"], answer:0},
+     {q:"Expression in reading means ___.", options:["Changing your voice to match the mood","Only whispering","Reading in a monotone voice","Only shouting"], answer:0},
      {q:"A fluent reader ___.", options:["Reads every word slowly","Never re-reads","Pauses at commas and periods","Sounds out every letter individually"], answer:2},
-     {q:"Why is reading fluency important?", options:["Fluent reading allows you to focus on understanding the meaning","It is not","Only speed matters","Only accuracy matters"], answer:0}
+     {q:"Why is reading fluency important?", options:["It lets you focus on meaning","It is not","Only speed matters","Only accuracy matters"], answer:0}
    ]},
   {subject:"Math", title:"Review: Measurement", summary:"Ontario Grade 1 Measurement strand review: students apply understanding of length, mass, capacity, and time to solve problems.",
    resourceLabel:"YouTube: Review: Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20grade%201%20educational",
@@ -1023,15 +1023,15 @@ const curriculum: DayContent[] = [
      {q:"What are the four things plants need to grow?", options:["Money, toys, television, games","Electricity, heat, noise, colour","Sunlight, water, air, and nutrients from soil","Books, pencils, chairs, desks"], answer:2},
      {q:"What does a plant seed need to germinate?", options:["Water, warmth, and air","Darkness only","Only soil","Only sunlight"], answer:0},
      {q:"A fruit contains ___.", options:["Roots","Only juice","Seeds that can grow into new plants","Stems"], answer:2},
-     {q:"Why are plants important to the environment?", options:["Only for decoration","Only for food","They are not","They produce oxygen, provide food, and support habitats"], answer:3}
+     {q:"Why are plants important to the environment?", options:["Only for decoration","Only for food","They are not","They produce oxygen and provide food"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Culture Review", summary:"Ontario Grade 1 Social Studies strand A review: students review key vocabulary and concepts related to culture, including traditions, celebrations, language, and respect for diversity.",
    resourceLabel:"YouTube: Culture Review", resourceUrl:"https://www.youtube.com/results?search_query=Culture%20Review%20grade%201%20educational",
    quiz:[
-     {q:"Culture includes ___.", options:["Language, traditions, art, food, and values of a group of people","Only clothing","Only food","Only music"], answer:0},
-     {q:"How do we show respect for different cultures?", options:["Ignoring them","Copying everything","Learning about them and treating everyone fairly","Making fun of them"], answer:2},
-     {q:"Why is cultural diversity an asset in Canada?", options:["It causes problems","It enriches society with different perspectives and ideas","Only if everyone speaks the same language","Only in big cities"], answer:1},
-     {q:"Which is the best way to learn about another culture?", options:["Ask respectful questions and listen to learn","Watch one movie","Assume you know everything","Read one book and decide"], answer:0},
+     {q:"Culture includes ___.", options:["Language, traditions, and values","Only clothing","Only food","Only music"], answer:0},
+     {q:"How do we show respect for different cultures?", options:["Ignoring them","Copying everything","Learning about them and being fair","Making fun of them"], answer:2},
+     {q:"Why is cultural diversity an asset in Canada?", options:["It causes problems","It enriches society with new ideas","Only if everyone speaks the same language","Only in big cities"], answer:1},
+     {q:"Which is the best way to learn about another culture?", options:["Ask questions and listen to learn","Watch one movie","Assume you know everything","Read one book and decide"], answer:0},
      {q:"Multiculturalism in Canada means ___.", options:["All cultures are respected and valued","French and English only","Only one culture is valued","Immigrants must forget their culture"], answer:0}
    ]},
 ]},
@@ -1043,7 +1043,7 @@ const curriculum: DayContent[] = [
      {q:"Which word belongs to the -AKE family?", options:["Night","Right","Light","Cake"], answer:3},
      {q:"Which word belongs to the -INE family?", options:["Night","Lake","Sight","Fine"], answer:3},
      {q:"Which spelling pattern do BRIGHT and TIGHT share?", options:["ine","ake","ight","ite"], answer:2},
-     {q:"Learning spelling patterns helps us ___.", options:["Draw letters only","Sound out every letter always","Read and spell many words in the same family","Only spell one word"], answer:2}
+     {q:"Learning spelling patterns helps us ___.", options:["Draw letters only","Sound out every letter always","Read and spell related words","Only spell one word"], answer:2}
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Ontario Grade 1 Data strand review: students collect, organise, and interpret data using tally charts and pictographs, and explore basic probability.",
    resourceLabel:"YouTube: Review: Data and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Data%20and%20Probability%20grade%201%20educational",
@@ -1058,19 +1058,19 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Earth and Weather Review", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Weather%20Review%20grade%201%20educational",
    quiz:[
      {q:"What causes day and night?", options:["The Moon blocking the Sun","Clouds covering the sky","Earth moving around the Sun","Earth rotating on its axis"], answer:3},
-     {q:"The water cycle involves ___.", options:["Only clouds forming","Only rain falling","Evaporation, condensation, and precipitation","Only rivers flowing"], answer:2},
+     {q:"The water cycle involves ___.", options:["Only clouds forming","Only rain falling","Evaporation, condensation, precipitation","Only rivers flowing"], answer:2},
      {q:"What is a thermometer used for?", options:["Measuring time","Measuring length","Measuring mass","Measuring temperature"], answer:3},
-     {q:"Soil is made of ___.", options:["Only sand","Only rocks","Only clay","Rock particles, organic matter, air, and water"], answer:3},
+     {q:"Soil is made of ___.", options:["Only sand","Only rocks","Only clay","Rock, organic matter, air, and water"], answer:3},
      {q:"The Sun provides Earth with ___.", options:["Only light","Water","Heat and light energy essential for life","Only heat"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Citizenship and Community", summary:"Ontario Grade 1 Social Studies review: students review civic concepts including rights, responsibilities, community participation, and environmental stewardship.",
    resourceLabel:"YouTube: Citizenship and Community", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%20and%20Community%20grade%201%20educational",
    quiz:[
-     {q:"What does it mean to be a good citizen?", options:["Doing whatever you want","Following only favourite rules","Ignoring community issues","Being responsible, respectful, and contributing to your community"], answer:3},
-     {q:"Why is voting important in a democracy?", options:["Only important people vote","Citizens choose their leaders and have a voice in decisions","Votes do not count","It is not"], answer:1},
-     {q:"How can children participate in their community?", options:["Only adults participate","Through volunteering, recycling, and helping neighbours","By watching others","By staying home"], answer:1},
+     {q:"What does it mean to be a good citizen?", options:["Doing whatever you want","Following only favourite rules","Ignoring community issues","Being responsible and helping others"], answer:3},
+     {q:"Why is voting important in a democracy?", options:["Only important people vote","Citizens choose leaders and have a say","Votes do not count","It is not"], answer:1},
+     {q:"How can children participate in their community?", options:["Only adults participate","By volunteering and helping neighbours","By watching others","By staying home"], answer:1},
      {q:"What is one way to care for the community environment?", options:["Using more electricity","Reducing, reusing, and recycling","Littering","Wasting water"], answer:1},
-     {q:"A democratic community values ___.", options:["Money above all","Silence","Only one person's opinion","Fairness, equality, and participation of all members"], answer:3}
+     {q:"A democratic community values ___.", options:["Money above all","Silence","Only one person's opinion","Fairness, equality, and participation"], answer:3}
    ]},
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
@@ -1078,9 +1078,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Reading Skills Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Skills%20Review%20grade%201%20educational",
    quiz:[
      {q:"Which reading strategy helps you guess what happens next?", options:["Connecting","Predicting","Retelling","Summarising"], answer:1},
-     {q:"Retelling a story means ___.", options:["Telling the main events in your own words in order","Changing the ending","Drawing pictures","Reading it again"], answer:0},
+     {q:"Retelling a story means ___.", options:["Telling events in your own words","Changing the ending","Drawing pictures","Reading it again"], answer:0},
      {q:"The main idea is ___.", options:["A small detail","What the text is mostly about","The first sentence always","The title"], answer:1},
-     {q:"A text-to-self connection means ___.", options:["Comparing two texts","Relating the text to your own personal experience","Connecting to world events","The text connects to another book"], answer:1},
+     {q:"A text-to-self connection means ___.", options:["Comparing two texts","Relating it to your own experience","Connecting to world events","The text connects to another book"], answer:1},
      {q:"Non-fiction text features include ___.", options:["Headings, captions, and index","Plot and characters","Only pictures","Stories and poems"], answer:0}
    ]},
   {subject:"Math", title:"Review: Number Sense", summary:"Ontario Grade 1 Number strand review: students review counting, place value, addition, subtraction, fractions, and money.",
@@ -1099,7 +1099,7 @@ const curriculum: DayContent[] = [
      {q:"Name two parts of a plant.", options:["Wheel and pedal","Root and leaf","Door and window","Lens and frame"], answer:1},
      {q:"A food chain starts with a ___.", options:["Producer (plant)","Herbivore","Decomposer","Carnivore"], answer:0},
      {q:"A habitat provides an animal with ___.", options:["Electricity and heat","Food, water, shelter, and space","Toys and entertainment","School and education"], answer:1},
-     {q:"Which best describes metamorphosis?", options:["A dramatic change in form during a life cycle","A kind of rock","A food chain","A type of habitat"], answer:0}
+     {q:"Which best describes metamorphosis?", options:["A big body change during a life cycle","A kind of rock","A food chain","A type of habitat"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Review: Communities and Canada", summary:"Ontario Grade 1 Social Studies review: students demonstrate understanding of communities, Canadian geography, symbols, and civic values.",
    resourceLabel:"YouTube: Review: Communities and Canada", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Communities%20and%20Canada%20grade%201%20educational",
@@ -1119,7 +1119,7 @@ const curriculum: DayContent[] = [
      {q:"A verb shows ___.", options:["A connection","A name","A description","An action or state of being"], answer:3},
      {q:"An adjective describes a ___.", options:["Noun","Adverb","Verb","Pronoun"], answer:0},
      {q:"Which is a complete sentence?", options:["Big dog fast.","The dog.","The dog runs.","Runs fast."], answer:2},
-     {q:"Why is reading every day important?", options:["It builds vocabulary, comprehension, and imagination","It is not","Only for homework","Only for school"], answer:0}
+     {q:"Why is reading every day important?", options:["It builds vocabulary and imagination","It is not","Only for homework","Only for school"], answer:0}
    ]},
   {subject:"Math", title:"Year Review: Mathematics", summary:"Ontario Grade 1 Mathematics comprehensive review covering number sense, geometry, measurement, patterning, and data.",
    resourceLabel:"YouTube: Year Review: Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%201%20educational",
@@ -1144,9 +1144,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"What is the capital of Canada?", options:["Vancouver","Toronto","Ottawa","Montreal"], answer:2},
      {q:"Community workers ___.", options:["Provide services that help people","Are not important","Only work for money","Create problems"], answer:0},
-     {q:"What does it mean to be a good citizen?", options:["Following only favourite rules","Being responsible and contributing positively to the community","Doing whatever you want","Ignoring rules"], answer:1},
+     {q:"What does it mean to be a good citizen?", options:["Following only favourite rules","Being responsible and helping others","Doing whatever you want","Ignoring rules"], answer:1},
      {q:"Canada's two official languages are ___.", options:["Spanish and English","Italian and French","French and English","English and Chinese"], answer:2},
-     {q:"Why is respecting all cultures important in Canada?", options:["Canada is built on diversity and everyone deserves respect","Only in big cities","Only some cultures matter","It is not"], answer:0}
+     {q:"Why is respecting all cultures important in Canada?", options:["Canada values diversity and respect","Only in big cities","Only some cultures matter","It is not"], answer:0}
    ]},
 ]},
 ];

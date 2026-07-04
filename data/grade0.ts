@@ -238,9 +238,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"What do all pets need to stay healthy?", options:["Only food","Only a bed","Food, water, shelter, and care","Only toys"], answer:2},
      {q:"Why do dogs need daily exercise?", options:["They do not","Only puppies need exercise","Only for big dogs","Exercise keeps them healthy and happy"], answer:3},
-     {q:"A fish needs ___ to breathe.", options:["soil","only food","water with dissolved oxygen (and often a filter)","air like humans"], answer:2},
-     {q:"Who is responsible for a pet's care?", options:["The owner/family who chose to have the pet","Only adults","Only the veterinarian","No one"], answer:0},
-     {q:"Why is it important to care well for pets?", options:["Only if you want to","It is not","Only for expensive pets","Animals feel pain and need care just as people do; owners are responsible"], answer:3}
+     {q:"A fish needs ___ to breathe.", options:["soil","only food","clean water","air like humans"], answer:2},
+     {q:"Who is responsible for a pet's care?", options:["The owner or family","Only adults","Only the veterinarian","No one"], answer:0},
+     {q:"Why is it important to care well for pets?", options:["Only if you want to","It is not","Only for expensive pets","Animals need care too"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibility", summary:"Students explore why communities have rules: to keep people safe and ensure fairness. They discuss school rules and why following them matters.",
    resourceLabel:"YouTube: Rules and Responsibility", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibility%20kindergarten%20educational",
@@ -249,7 +249,7 @@ const curriculum: DayContent[] = [
      {q:"Rules help ___.", options:["keep people safe and ensure fairness","only help adults","only help teachers","create chaos"], answer:0},
      {q:"Which is a school rule?", options:["Run in the halls","Never ask questions","Listen when someone is speaking","Push others in line"], answer:2},
      {q:"What happens if no one follows rules?", options:["Rules fix themselves","Communities become unsafe and unfair","Everything stays the same","Only teachers care"], answer:1},
-     {q:"A responsibility is ___.", options:["something others do for you","never fun","a job or duty that you are expected to do","only for adults"], answer:2},
+     {q:"A responsibility is ___.", options:["something others do for you","never fun","a job you are expected to do","only for adults"], answer:2},
      {q:"Which is an example of responsibility at school?", options:["Only doing your favourite subjects","Littering","Arriving on time with your bag packed","Ignoring a classmate's help"], answer:2}
    ]},
 ]},
@@ -278,11 +278,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Wild Animals", resourceUrl:"https://www.youtube.com/results?search_query=Wild%20Animals%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=CA6Mofzh7jo",
    quiz:[
-     {q:"A wild animal is one that ___.", options:["is always dangerous","lives in a natural habitat and finds its own food","is someone's pet","lives in a cage"], answer:1},
+     {q:"A wild animal is one that ___.", options:["is always dangerous","finds its own food in the wild","is someone's pet","lives in a cage"], answer:1},
      {q:"Which is a wild animal?", options:["Cat","Goldfish","Moose","Dog"], answer:2},
      {q:"Where would you find a beaver in the wild?", options:["In a city apartment","In a desert","In a shopping mall","Near lakes and rivers in forests"], answer:3},
-     {q:"Wild animals should ___.", options:["be hunted for food always","be observed from a safe distance and left in their habitat","be taken home as pets","always be fed by humans"], answer:1},
-     {q:"What do wild animals eat?", options:["What they find in their natural habitat (prey, plants, insects)","Food from grocery stores","Only vegetables","Only what humans give them"], answer:0}
+     {q:"Wild animals should ___.", options:["be hunted for food always","be left alone in their habitat","be taken home as pets","always be fed by humans"], answer:1},
+     {q:"What do wild animals eat?", options:["What they find in nature","Food from grocery stores","Only vegetables","Only what humans give them"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Being a Good Friend", summary:"Students explore qualities of friendship: kindness, sharing, taking turns, listening, and including others. Good friends treat each other with respect.",
    resourceLabel:"YouTube: Being a Good Friend", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Good%20Friend%20kindergarten%20educational",
@@ -291,8 +291,8 @@ const curriculum: DayContent[] = [
      {q:"A good friend ___.", options:["is kind and includes others","ignores you when busy","takes your things without asking","only plays with you if you have toys"], answer:0},
      {q:"Sharing means ___.", options:["only sharing with best friends","only sharing food","keeping everything for yourself","letting others use or enjoy what you have"], answer:3},
      {q:"Taking turns means ___.", options:["only one person goes","always going first","skipping others","each person gets a chance"], answer:3},
-     {q:"Why is it important to include everyone?", options:["It is not","Everyone deserves to feel welcome and belonging","Only some people need friends","Only if you like them"], answer:1},
-     {q:"Which is an act of friendship?", options:["Pushing in line","Ignoring a friend who is sad","Laughing at a mistake","Cheering a friend on when they try something hard"], answer:3}
+     {q:"Why is it important to include everyone?", options:["It is not","Everyone deserves to belong","Only some people need friends","Only if you like them"], answer:1},
+     {q:"Which is an act of friendship?", options:["Pushing in line","Ignoring a friend who is sad","Laughing at a mistake","Cheering a friend on"], answer:3}
    ]},
 ]},
 {day:8, label:"Day 8 — Wed", subjects:[
@@ -320,10 +320,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Parts of a Plant", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=A-xScqCN0GA",
    quiz:[
-     {q:"Roots help a plant by ___.", options:["protecting seeds","absorbing water and nutrients from the soil","making food using sunlight","producing flowers"], answer:1},
-     {q:"The stem of a plant ___.", options:["only holds seeds","supports the plant and carries water from roots to leaves","absorbs sunlight directly","only makes flowers"], answer:1},
+     {q:"Roots help a plant by ___.", options:["protecting seeds","absorbing water from the soil","making food using sunlight","producing flowers"], answer:1},
+     {q:"The stem of a plant ___.", options:["only holds seeds","carries water from roots to leaves","absorbs sunlight directly","only makes flowers"], answer:1},
      {q:"Leaves are the main part of a plant that ___.", options:["absorb water from soil","make food using sunlight and air","hold up the plant","produce seeds only"], answer:1},
-     {q:"A flower helps a plant by ___.", options:["supporting the stem","producing seeds that grow into new plants","making food","absorbing water"], answer:1},
+     {q:"A flower helps a plant by ___.", options:["supporting the stem","producing seeds for new plants","making food","absorbing water"], answer:1},
      {q:"A seed will grow into ___.", options:["only a stem","a root only","a new plant","a flower only"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Students learn symbols that represent Canada: the maple leaf flag, beaver, and Parliament Buildings. These symbols create a shared Canadian identity.",
@@ -334,7 +334,7 @@ const curriculum: DayContent[] = [
      {q:"Canada's national animal is the ___.", options:["beaver","moose","bear","wolf"], answer:0},
      {q:"The maple leaf is a symbol of ___.", options:["England","Canada","France","the United States"], answer:1},
      {q:"Where does the Canadian government meet?", options:["The CN Tower","Niagara Falls","The Rocky Mountains","Parliament Hill in Ottawa"], answer:3},
-     {q:"Why do countries have symbols?", options:["Only for flags","To identify the nation and give its people a shared sense of pride and belonging","Only for money","Only for tourists"], answer:1}
+     {q:"Why do countries have symbols?", options:["Only for flags","To give people a shared identity","Only for money","Only for tourists"], answer:1}
    ]},
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
@@ -364,7 +364,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"What is winter like in Ontario?", options:["Always rainy","Very hot and sunny","Never changes","Cold with snow and ice"], answer:3},
      {q:"In winter, deciduous trees (like maples) ___.", options:["stay green","grow new leaves","lose their leaves (they fell in autumn)","bloom with flowers"], answer:2},
-     {q:"Some animals hibernate in winter. Hibernation means ___.", options:["flying south","growing thicker fur","sleeping deeply to save energy through winter","staying exactly the same"], answer:2},
+     {q:"Some animals hibernate in winter. Hibernation means ___.", options:["flying south","growing thicker fur","sleeping deeply to save energy","staying exactly the same"], answer:2},
      {q:"Days are ___ in winter than in summer.", options:["longer","the same length","exactly 12 hours","shorter"], answer:3},
      {q:"What do humans wear in winter to stay warm?", options:["Heavy coats, mittens, and boots","No special clothing","T-shirts and shorts","Swimsuits"], answer:0}
    ]},
@@ -372,10 +372,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Our Environment: Caring for Nature", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Environment%3A%20Caring%20for%20Nature%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=UWdx1Fgn75o",
    quiz:[
-     {q:"The environment includes ___.", options:["only animals","only plants","only what we can see in cities","the air, water, land, plants, and all living things around us"], answer:3},
+     {q:"The environment includes ___.", options:["only animals","only plants","only what we can see in cities","everything around us, living and not"], answer:3},
      {q:"Littering means ___.", options:["picking up litter","recycling properly","composting","dropping waste on the ground instead of in a bin"], answer:2},
      {q:"How can you help the environment?", options:["Leave taps running","Use extra plastic bags","Litter in parks","Turn off lights and put waste in the bin"], answer:3},
-     {q:"Why is clean air important?", options:["Only in cities","Only for birds","Only in summer","All living things need clean air to breathe and stay healthy"], answer:3},
+     {q:"Why is clean air important?", options:["Only in cities","Only for birds","Only in summer","All living things need clean air"], answer:3},
      {q:"Recycling helps the environment because ___.", options:["it reduces waste and reuses materials","it makes more rubbish","it is only for adults","only paper can be recycled"], answer:0}
    ]},
 ]},
@@ -404,21 +404,21 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Weather", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=yPqRqjM8MOQ",
    quiz:[
-     {q:"Weather is ___.", options:["the same every day","only about temperature","the condition of the air outside at a particular time","only rain or sunshine"], answer:2},
+     {q:"Weather is ___.", options:["the same every day","only about temperature","the condition of the air outside","only rain or sunshine"], answer:2},
      {q:"Which tool measures temperature outside?", options:["A compass","A thermometer","A ruler","A scale"], answer:1},
      {q:"On a rainy day, you would wear ___.", options:["a swimsuit","a raincoat and boots","sandals and shorts","a heavy winter coat"], answer:1},
-     {q:"Why does weather change from day to day?", options:["Only the Sun affects weather","Movements of air, moisture, and temperature differences cause weather changes","Only in spring","It does not change"], answer:1},
+     {q:"Why does weather change from day to day?", options:["Only the Sun affects weather","Air and moisture movements cause it","Only in spring","It does not change"], answer:1},
      {q:"Which weather word means 'no clouds and bright sunshine'?", options:["Snowy","Sunny","Cloudy","Foggy"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Family Traditions", summary:"Students learn that families celebrate traditions: special events, foods, stories, and practices that are passed down and shared. All traditions are valued.",
    resourceLabel:"YouTube: Family Traditions", resourceUrl:"https://www.youtube.com/results?search_query=Family%20Traditions%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=pD8dTo4NxHM",
    quiz:[
-     {q:"A family tradition is ___.", options:["only a holiday","a special practice, story, or celebration that a family shares and passes down","only about food","something only old people do"], answer:1},
-     {q:"An example of a family tradition could be ___.", options:["a special meal made every year for a holiday","arguing about rules","never celebrating anything","ignoring family members"], answer:0},
-     {q:"Why are traditions important?", options:["Only for certain cultures","They connect families to their history and heritage and create special memories","Only for wealthy families","They are not"], answer:1},
-     {q:"Can different families have different traditions?", options:["Yes — each family's traditions are unique and special","Only if they are the same culture","Only in other countries","No"], answer:0},
-     {q:"Sharing family traditions with classmates ___.", options:["only confuses others","is embarrassing","shows respect and helps others learn about different cultures","causes problems"], answer:2}
+     {q:"A family tradition is ___.", options:["only a holiday","a practice passed down in a family","only about food","something only old people do"], answer:1},
+     {q:"An example of a family tradition could be ___.", options:["a special holiday meal","arguing about rules","never celebrating anything","ignoring family members"], answer:0},
+     {q:"Why are traditions important?", options:["Only for certain cultures","They connect us to our heritage","Only for wealthy families","They are not"], answer:1},
+     {q:"Can different families have different traditions?", options:["Yes — every family is different","Only if they are the same culture","Only in other countries","No"], answer:0},
+     {q:"Sharing family traditions with classmates ___.", options:["only confuses others","is embarrassing","shows respect and teaches others","causes problems"], answer:2}
    ]},
 ]},
 {day:11, label:"Day 11 — Mon", subjects:[
@@ -449,7 +449,7 @@ const curriculum: DayContent[] = [
      {q:"Which animal lives on a farm and gives us milk?", options:["Cow","Cat","Fish","Dog"], answer:0},
      {q:"Which farm animal gives us wool for clothing?", options:["Pig","Sheep","Cow","Horse"], answer:1},
      {q:"Eggs come from ___.", options:["sheep","pigs","cows","chickens"], answer:3},
-     {q:"Why are farms important?", options:["They are not","Only animals live there","Only for rural people","Farms produce food that feeds communities and countries"], answer:3},
+     {q:"Why are farms important?", options:["They are not","Only animals live there","Only for rural people","Farms produce food for communities"], answer:3},
      {q:"Which of these is a farm animal?", options:["Tiger","Polar bear","Horse","Elephant"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Kinds of Families", summary:"Students learn that families can look different — some have two parents, some one parent, some grandparents as caregivers, blended families — and all are equally valid.",
@@ -458,9 +458,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"All families are ___.", options:["the same","small","different and equally special and valid","only large"], answer:2},
      {q:"Which is an example of a family type?", options:["A school","A single-parent family","A country","A city"], answer:1},
-     {q:"A blended family is one where ___.", options:["only one parent lives in the house","only grandparents live together","two families join together (step-parents, step-siblings)","no children are present"], answer:2},
+     {q:"A blended family is one where ___.", options:["only one parent lives in the house","only grandparents live together","two families join together","no children are present"], answer:2},
      {q:"What makes every family special?", options:["Only how big the house is","The love and care the members share","Only its size","Only its money"], answer:1},
-     {q:"Why is it important to respect different kinds of families?", options:["All families deserve respect; diversity in families is natural and normal","Only if they are like yours","Only traditional families are valid","It is not"], answer:0}
+     {q:"Why is it important to respect different kinds of families?", options:["All families deserve respect","Only if they are like yours","Only traditional families are valid","It is not"], answer:0}
    ]},
 ]},
 {day:12, label:"Day 12 — Tue", subjects:[
@@ -488,21 +488,21 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Materials: Natural and Human-Made", resourceUrl:"https://www.youtube.com/results?search_query=Materials%3A%20Natural%20and%20Human-Made%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=PDqcFqdarzk",
    quiz:[
-     {q:"A natural material is one that ___.", options:["is always plastic","comes from nature (plants, animals, or the earth)","is made in a factory","is never used for clothing"], answer:1},
+     {q:"A natural material is one that ___.", options:["is always plastic","comes from nature","is made in a factory","is never used for clothing"], answer:1},
      {q:"Which is a natural material?", options:["Nylon","Glass","Plastic","Wood"], answer:3},
      {q:"Which is a human-made (manufactured) material?", options:["Wood","Cotton","Plastic","Wool"], answer:2},
-     {q:"Why do humans make new materials?", options:["Only for factories","Only for decoration","Natural materials are bad","To create materials with specific properties that may not exist in nature"], answer:3},
+     {q:"Why do humans make new materials?", options:["Only for factories","Only for decoration","Natural materials are bad","To get properties not found in nature"], answer:3},
      {q:"Wool comes from ___.", options:["factories","trees","sheep","plastic plants"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Our Town/City", summary:"Students explore the features of their local community: streets, buildings, parks, services, and how the town/city helps people meet their needs.",
    resourceLabel:"YouTube: Our Town/City", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Town%2FCity%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=JAlPmtJm6eA",
    quiz:[
-     {q:"What is a community?", options:["Only a shopping centre","Only a school","Only one house","A group of people living and working together in an area"], answer:3},
+     {q:"What is a community?", options:["Only a shopping centre","Only a school","Only one house","People living and working together"], answer:3},
      {q:"Which feature do most towns have?", options:["Only one store","A volcano","An ocean beach","Roads, schools, and emergency services"], answer:3},
-     {q:"A park is an important community space because ___.", options:["it gives people a place to relax, play, and connect with nature","it replaces schools","only athletes use it","it is only for dogs"], answer:0},
+     {q:"A park is an important community space because ___.", options:["it's a place to relax and play","it replaces schools","only athletes use it","it is only for dogs"], answer:0},
      {q:"Which service helps when there is a fire?", options:["Library","School","Grocery store","Fire station"], answer:0},
-     {q:"Why do people live in communities?", options:["Only for shopping","To be isolated","Only for work","Communities allow people to share resources, services, and support each other"], answer:3}
+     {q:"Why do people live in communities?", options:["Only for shopping","To be isolated","Only for work","People share and support each other"], answer:3}
    ]},
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
@@ -531,7 +531,7 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=ssB_EgEOuRM",
    quiz:[
      {q:"Sound is produced by ___.", options:["magnetic fields","light waves","heat only","vibrations"], answer:3},
-     {q:"You can make sound by ___.", options:["looking at things","only pressing a button","only singing","banging, plucking, blowing, or vibrating objects"], answer:3},
+     {q:"You can make sound by ___.", options:["looking at things","only pressing a button","only singing","banging or plucking objects"], answer:3},
      {q:"Light travels in ___.", options:["circles","curves","zigzags","straight lines"], answer:3},
      {q:"Which is a natural source of light?", options:["A television","A torch","A lamp","The Sun"], answer:3},
      {q:"Why do we need light?", options:["To see, grow plants, and feel warmth","Only for reading","Only at night","Only in winter"], answer:0}
@@ -544,7 +544,7 @@ const curriculum: DayContent[] = [
      {q:"A responsibility is something you ___.", options:["can ignore","never have as a child","are expected to do or look after","only do when adults watch"], answer:2},
      {q:"Which is a right of children in Canada?", options:["No protection under law","Education, safety, and play","Working long hours","Only food"], answer:1},
      {q:"Which is a responsibility at school?", options:["Arriving late every day","Treating classmates with respect","Littering in the hallway","Ignoring classroom rules"], answer:1},
-     {q:"Rights and responsibilities ___.", options:["only governments have","go together — having rights means respecting others' rights too","only adults have","are unrelated"], answer:1}
+     {q:"Rights and responsibilities ___.", options:["only governments have","go together, with mutual respect","only adults have","are unrelated"], answer:1}
    ]},
 ]},
 {day:14, label:"Day 14 — Thu", subjects:[
@@ -582,11 +582,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Special People in My Life", resourceUrl:"https://www.youtube.com/results?search_query=Special%20People%20in%20My%20Life%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=jt2q1cHsH6E",
    quiz:[
-     {q:"A special person in your life is someone who ___.", options:["ignores you","only gives you gifts","cares about you, helps you, and makes you feel valued","does not care about you"], answer:2},
+     {q:"A special person in your life is someone who ___.", options:["ignores you","only gives you gifts","cares about and helps you","does not care about you"], answer:2},
      {q:"How can you show appreciation to someone special?", options:["Say thank you and show kindness","Never talk to them","Take their things","Ignore them"], answer:0},
      {q:"Which person at school helps you feel safe and learn every day?", options:["No one","Someone on TV","A stranger","Your teacher"], answer:3},
-     {q:"Why is it important to appreciate the people who help you?", options:["It shows respect and encourages positive relationships","Only for birthdays","Only if they give you things","It is not"], answer:0},
-     {q:"A community helper who is special to the community is ___.", options:["only a family member","only a teacher","only a policeman","anyone who contributes positively to others' wellbeing"], answer:3}
+     {q:"Why is it important to appreciate the people who help you?", options:["It shows respect for others","Only for birthdays","Only if they give you things","It is not"], answer:0},
+     {q:"A community helper who is special to the community is ___.", options:["only a family member","only a teacher","only a policeman","anyone who helps others' wellbeing"], answer:3}
    ]},
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
@@ -624,7 +624,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Community Helpers: Doctors and Teachers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Doctors%20and%20Teachers%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=bwx2Z69S0YA",
    quiz:[
-     {q:"What does a doctor do?", options:["Drive a fire truck","Build houses","Help people stay healthy and treat illness","Teach reading and writing"], answer:2},
+     {q:"What does a doctor do?", options:["Drive a fire truck","Build houses","Help people stay healthy","Teach reading and writing"], answer:2},
      {q:"Why is a teacher an important community helper?", options:["They fix cars","They deliver mail","They cook food","They help children learn and grow"], answer:3},
      {q:"Where do you go to see a doctor?", options:["A fire station","A library","A school","A clinic or hospital"], answer:3},
      {q:"Community helpers work to make our community ___.", options:["better and safer for everyone","worse","smaller","confusing"], answer:0},
@@ -712,7 +712,7 @@ const curriculum: DayContent[] = [
      {q:"A want is something you ___ to survive.", options:["must have","cannot live without","must buy","do not need"], answer:3},
      {q:"Which is a NEED?", options:["A video game","Clean water","A bicycle","A toy car"], answer:1},
      {q:"Which is a WANT?", options:["Food","Clothing","Shelter","A new book bag"], answer:3},
-     {q:"Why is it important to know the difference between needs and wants?", options:["Only adults need to know","Wants are always wrong","It is not important","It helps you make good choices with money and resources"], answer:3}
+     {q:"Why is it important to know the difference between needs and wants?", options:["Only adults need to know","Wants are always wrong","It is not important","It helps you spend wisely"], answer:3}
    ]},
 ]},
 {day:18, label:"Day 18 — Wed", subjects:[
@@ -750,11 +750,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Our Neighbourhood", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Neighbourhood%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=iwxkwPA8c68",
    quiz:[
-     {q:"A neighbourhood is a ___.", options:["planet","small area where people live close together","country","city"], answer:1},
+     {q:"A neighbourhood is a ___.", options:["planet","a small, close-knit area","country","city"], answer:1},
      {q:"Which place would you find in a neighbourhood?", options:["An ocean","A desert","A mountain range","A park or playground"], answer:3},
-     {q:"What makes a neighbourhood a community?", options:["People sharing the same area and looking out for each other","Only the houses","The buildings","Only the stores"], answer:0},
-     {q:"A map of a neighbourhood shows ___.", options:["only oceans","only mountains","where places like homes, schools, and parks are located","only countries"], answer:2},
-     {q:"Why are parks important in a neighbourhood?", options:["They are not","Only children use them","They give people a place to play, relax, and connect with nature","Only for sports"], answer:2}
+     {q:"What makes a neighbourhood a community?", options:["Sharing an area and helping each other","Only the houses","The buildings","Only the stores"], answer:0},
+     {q:"A map of a neighbourhood shows ___.", options:["only oceans","only mountains","where homes, schools, and parks are","only countries"], answer:2},
+     {q:"Why are parks important in a neighbourhood?", options:["They are not","Only children use them","A place to play and relax","Only for sports"], answer:2}
    ]},
 ]},
 {day:19, label:"Day 19 — Thu", subjects:[
@@ -784,8 +784,8 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The Sun gives Earth ___ and ___.", options:["cold and dark","rain and wind","light and heat","snow and ice"], answer:2},
      {q:"The Sun is a ___.", options:["moon","planet","star","comet"], answer:2},
-     {q:"During the day, the Sun is ___ in the sky.", options:["visible (we can see it when skies are clear)","invisible","underground","on the horizon only"], answer:0},
-     {q:"At night, the Sun ___.", options:["gets smaller","is still in the sky in the same place","disappears forever","has moved to the other side of Earth (appears to set)"], answer:3},
+     {q:"During the day, the Sun is ___ in the sky.", options:["visible when skies are clear","invisible","underground","on the horizon only"], answer:0},
+     {q:"At night, the Sun ___.", options:["gets smaller","is still in the sky in the same place","disappears forever","appears to set on the other side"], answer:3},
      {q:"Why should you never look directly at the Sun?", options:["Its light can damage your eyes","It is invisible","It is too cold","It is dark"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Students learn about symbols that represent Canada: the maple leaf, beaver, Canadian flag, Parliament Buildings, and the national anthem.",
@@ -828,7 +828,7 @@ const curriculum: DayContent[] = [
      {q:"Air takes up ___.", options:["only hot space","no space","space (even if we cannot see it)","only a little space"], answer:2},
      {q:"A gentle breeze and a storm are both caused by ___.", options:["the sun heating the ground evenly","no movement","moving air (wind)","rain"], answer:2},
      {q:"Which tool measures wind speed?", options:["Scale","Thermometer","Ruler","Anemometer"], answer:3},
-     {q:"What can wind do?", options:["Nothing","Only feel cold","Move leaves, fly kites, and power windmills","Only dry laundry"], answer:2}
+     {q:"What can wind do?", options:["Nothing","Only feel cold","Move leaves and fly kites","Only dry laundry"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Feelings and Emotions", summary:"Students explore a range of emotions and learn healthy ways to express feelings and manage emotions in social situations.",
    resourceLabel:"YouTube: Feelings and Emotions", resourceUrl:"https://www.youtube.com/results?search_query=Feelings%20and%20Emotions%20kindergarten%20educational",
@@ -836,7 +836,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"A feeling that makes you smile and feel happy inside is ___.", options:["joy","fear","anger","sadness"], answer:0},
      {q:"When you feel angry, a healthy response is to ___.", options:["take deep breaths and talk about it","hit someone","yell loudly","ignore it forever"], answer:0},
-     {q:"Why is it important to talk about your feelings?", options:["Feelings should always be hidden","It helps others understand you and helps you feel better","Only adults talk about feelings","It is not"], answer:1},
+     {q:"Why is it important to talk about your feelings?", options:["Feelings should always be hidden","It helps others understand you","Only adults talk about feelings","It is not"], answer:1},
      {q:"If a friend is sad, you could ___.", options:["ignore them","run away","ask if they are okay and listen","laugh at them"], answer:2},
      {q:"Being kind to someone who is upset is called ___.", options:["competing","ignoring","arguing","empathy"], answer:3}
    ]},
@@ -877,9 +877,9 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=BNNcpAcF0GM",
    quiz:[
      {q:"A good friend ___.", options:["ignores your feelings","is kind, listens, and includes others","always agrees","only plays with you if you have toys"], answer:1},
-     {q:"Kindness means ___.", options:["ignoring others","only sharing food","saying and doing things that make others feel valued","always winning"], answer:2},
+     {q:"Kindness means ___.", options:["ignoring others","only sharing food","making others feel valued","always winning"], answer:2},
      {q:"If a classmate has no one to play with, you could ___.", options:["laugh at them","invite them to join your game","tell them to find others","ignore them"], answer:1},
-     {q:"Why is kindness important in a community?", options:["It makes everyone feel welcome and valued","It is not","Only kind people deserve it","Only some people need kindness"], answer:0},
+     {q:"Why is kindness important in a community?", options:["It makes everyone feel welcome","It is not","Only kind people deserve it","Only some people need kindness"], answer:0},
      {q:"Which is an act of kindness?", options:["Laughing at a mistake","Pushing in line","Holding the door open for someone","Taking someone's pencil"], answer:2}
    ]},
 ]},
@@ -910,7 +910,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Plants need ___ and ___ to grow.", options:["sand and wind","ice and darkness","water and sunlight","mud and shade"], answer:2},
      {q:"What would most likely happen to a plant with no water?", options:["It stays the same","It wilts and eventually dies","It glows","It grows faster"], answer:1},
-     {q:"Leaves face toward light because ___.", options:["they are afraid of the dark","roots need light","plants use sunlight to make food (photosynthesis)","leaves like warmth only"], answer:2},
+     {q:"Leaves face toward light because ___.", options:["they are afraid of the dark","roots need light","plants use sunlight to make food","leaves like warmth only"], answer:2},
      {q:"Which part of a plant absorbs water from the soil?", options:["Leaves","Roots","Flowers","Stem"], answer:1},
      {q:"Plants make their food using ___.", options:["only air","only water","sunlight, water, and carbon dioxide","soil alone"], answer:2}
    ]},
@@ -918,9 +918,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
-     {q:"Responsibilities at home are ___.", options:["optional extras","only chores for children","only for adults","tasks that all family members share to keep the home running well"], answer:3},
+     {q:"Responsibilities at home are ___.", options:["optional extras","only chores for children","only for adults","tasks all family members share"], answer:3},
      {q:"Which is an example of helping at home?", options:["Cleaning up after yourself","Watching TV all day","Eating all the snacks","Leaving your toys everywhere"], answer:0},
-     {q:"Why is it important to share home responsibilities?", options:["It teaches children to be responsible and helps the family work as a team","Only if parents ask","Only adults should work","It is not"], answer:0},
+     {q:"Why is it important to share home responsibilities?", options:["It teaches responsibility and teamwork","Only if parents ask","Only adults should work","It is not"], answer:0},
      {q:"A chore is ___.", options:["a job you do at home to help the family","a type of game","a type of food","a school subject"], answer:0},
      {q:"Which chore could a kindergartener do?", options:["Fix the roof","Pay the bills","Put toys away and help set the table","Drive to the store"], answer:2}
    ]},
@@ -942,14 +942,14 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Measurement tells you ___.", options:["how hot something is","the colour of something","what something smells like","how long, tall, or heavy something is"], answer:3},
      {q:"If you measure a pencil with paper clips, you are using a ___.", options:["non-standard unit","ruler","standard unit","metre stick"], answer:0},
-     {q:"Which statement about length is correct?", options:["Shorter means bigger","All things are the same length","Longer means shorter","Longer means it takes up more space from end to end"], answer:3},
+     {q:"Which statement about length is correct?", options:["Shorter means bigger","All things are the same length","Longer means shorter","Longer means more space end to end"], answer:3},
      {q:"To compare two lengths, you should ___.", options:["smell them","guess","use a scale","line them up at the same starting point"], answer:3},
      {q:"A book is 8 paper clips long. A pencil is 5 paper clips long. The book is ___.", options:["longer","shorter","impossible to compare","the same length"], answer:0}
    ]},
   {subject:"Science", title:"Animals in Winter", summary:"Students learn how animals survive winter: some hibernate, some migrate south, and some stay active by adapting their behaviour.",
    resourceLabel:"YouTube: Animals in Winter", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20in%20Winter%20kindergarten%20educational",
    quiz:[
-     {q:"Hibernation means ___.", options:["building a nest","growing a thicker coat","flying south for winter","sleeping deeply through winter to save energy"], answer:3},
+     {q:"Hibernation means ___.", options:["building a nest","growing a thicker coat","flying south for winter","sleeping deeply through winter"], answer:3},
      {q:"Which animal is known for hibernating in winter?", options:["Butterfly","Robin","Bear","Goose"], answer:2},
      {q:"Migration means ___.", options:["growing thicker fur","travelling to a warmer place for winter","sleeping through winter","staying and being active"], answer:1},
      {q:"Which bird migrates south in autumn?", options:["Canada Goose","Owl","Crow","Chickadee"], answer:0},
@@ -1020,7 +1020,7 @@ const curriculum: DayContent[] = [
      {q:"18 - 4 = ?", options:["12","15","14","13"], answer:2},
      {q:"What is 10 + 7?", options:["17","15","16","18"], answer:0},
      {q:"20 - 9 = ?", options:["10","12","13","11"], answer:3},
-     {q:"A number line helps you ___.", options:["add and subtract by counting forward and backward","measure temperature","find shapes","measure weight"], answer:0}
+     {q:"A number line helps you ___.", options:["add and subtract by counting","measure temperature","find shapes","measure weight"], answer:0}
    ]},
   {subject:"Science", title:"Insects", summary:"Students explore characteristics of insects: 6 legs, 3 body parts (head, thorax, abdomen), and often wings. Common Ontario insects are identified.",
    resourceLabel:"YouTube: Insects", resourceUrl:"https://www.youtube.com/results?search_query=Insects%20kindergarten%20educational",
@@ -1034,10 +1034,10 @@ const curriculum: DayContent[] = [
   {subject:"SocialStudies", title:"Exploring Our Differences and Similarities", summary:"Students celebrate diversity by exploring how people are alike and different in appearance, language, food, and traditions.",
    resourceLabel:"YouTube: Exploring Our Differences and Similarities", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Our%20Differences%20and%20Similarities%20kindergarten%20educational",
    quiz:[
-     {q:"People from different cultures may have different ___.", options:["Only names","Only language","Languages, foods, celebrations, and traditions","Only food"], answer:2},
+     {q:"People from different cultures may have different ___.", options:["Only names","Only language","Languages, foods, and traditions","Only food"], answer:2},
      {q:"Celebrating our differences helps us ___.", options:["learn from and respect each other","feel confused","stay separate","fight more"], answer:0},
-     {q:"Which is a way people are similar across all cultures?", options:["They all speak English","They all eat the same food","They all have families, feelings, and a need to belong","They all look the same"], answer:2},
-     {q:"Diversity in a classroom means ___.", options:["students come from different backgrounds and experiences","only one culture is represented","everyone is the same","everyone has the exact same background"], answer:0},
+     {q:"Which is a way people are similar across all cultures?", options:["They all speak English","They all eat the same food","They all have families and feelings","They all look the same"], answer:2},
+     {q:"Diversity in a classroom means ___.", options:["students have different backgrounds","only one culture is represented","everyone is the same","everyone has the exact same background"], answer:0},
      {q:"Why is it important to learn about other cultures?", options:["It builds empathy and understanding","Only for adults","Only for geography class","It is not"], answer:0}
    ]},
 ]},
@@ -1063,20 +1063,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Taking Care of Our Environment", summary:"Students learn about littering and waste, and simple actions to protect the environment: picking up litter, reducing waste, and recycling.",
    resourceLabel:"YouTube: Taking Care of Our Environment", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Environment%20kindergarten%20educational",
    quiz:[
-     {q:"Litter means ___.", options:["a bed for kittens only","recycled material","waste thrown on the ground instead of in a bin","a type of animal home"], answer:2},
-     {q:"Recycling means ___.", options:["ignoring waste","using objects again or making them into new things","throwing everything away","burning waste"], answer:1},
+     {q:"Litter means ___.", options:["a bed for kittens only","recycled material","waste thrown on the ground","a type of animal home"], answer:2},
+     {q:"Recycling means ___.", options:["ignoring waste","using objects again in new ways","throwing everything away","burning waste"], answer:1},
      {q:"Which action helps the environment?", options:["Leaving garbage in a park","Wasting water","Picking up litter","Leaving lights on all night"], answer:2},
      {q:"The three Rs are Reduce, Reuse, and ___.", options:["Rotate","Refuse","Reach","Recycle"], answer:3},
-     {q:"Why is it important to look after the environment?", options:["We share the planet with all living things and must keep it healthy","Only for adults","Only scientists care","It is not"], answer:0}
+     {q:"Why is it important to look after the environment?", options:["We share the planet with others","Only for adults","Only scientists care","It is not"], answer:0}
    ]},
   {subject:"SocialStudies", title:"All About Me: Reflection", summary:"Students reflect on their learning through the year, identifying what they have learned, how they have grown, and what they are proud of.",
    resourceLabel:"YouTube: All About Me: Reflection", resourceUrl:"https://www.youtube.com/results?search_query=All%20About%20Me%3A%20Reflection%20kindergarten%20educational",
    quiz:[
-     {q:"Reflecting on your learning means ___.", options:["copying someone else","ignoring what happened","only thinking about bad things","thinking about what you learned and how you grew"], answer:3},
+     {q:"Reflecting on your learning means ___.", options:["copying someone else","ignoring what happened","only thinking about bad things","thinking about what you learned"], answer:3},
      {q:"I am most proud when ___.", options:["I try my best and do not give up","I do nothing","I copy others","I give up"], answer:0},
-     {q:"Something new I learned this year is ___.", options:["Only my name","Only colours","Nothing","How to read new words, count higher, and learn about the world"], answer:3},
-     {q:"A goal for next year could be ___.", options:["To do nothing new","To never make mistakes","To try something harder and keep learning","To stop reading"], answer:2},
-     {q:"Learning is ___.", options:["only from teachers","only at school","only from books","something that happens everywhere and every day"], answer:3}
+     {q:"Something new I learned this year is ___.", options:["Only my name","Only colours","Nothing","How to read new words and count higher"], answer:3},
+     {q:"A goal for next year could be ___.", options:["To do nothing new","To never make mistakes","To try something harder","To stop reading"], answer:2},
+     {q:"Learning is ___.", options:["only from teachers","only at school","only from books","something that happens every day"], answer:3}
    ]},
 ]},
 {day:27, label:"Day 27 — Tue", subjects:[
@@ -1086,7 +1086,7 @@ const curriculum: DayContent[] = [
      {q:"A sentence has a naming part and an ___ part.", options:["action","describing","eating","colouring"], answer:0},
      {q:"In 'The cat runs fast,' the naming part is ___.", options:["fast and runs","runs","The cat","fast"], answer:2},
      {q:"In 'The dog jumps high,' the action part is ___.", options:["The dog","jumps high","The","high"], answer:1},
-     {q:"A complete sentence needs ___.", options:["only adjectives","a naming part (noun) and an action part (verb)","only a verb","only a noun"], answer:1},
+     {q:"A complete sentence needs ___.", options:["only adjectives","a naming part and an action part","only a verb","only a noun"], answer:1},
      {q:"Which is a complete sentence?", options:["Jumping high quickly.","The bird sings.","Runs fast.","The big red."], answer:1}
    ]},
   {subject:"Math", title:"Counting Back: Subtraction", summary:"Students use counting back as a strategy for subtraction within 20.",
@@ -1105,15 +1105,15 @@ const curriculum: DayContent[] = [
      {q:"Which material lets light through (is transparent)?", options:["Fabric","Wood","Metal","Glass"], answer:3},
      {q:"Fabric is usually ___.", options:["liquid","soft and flexible","hard and rigid","transparent"], answer:1},
      {q:"Which material is a good conductor of electricity?", options:["Wood","Glass","Rubber","Metal"], answer:3},
-     {q:"We choose materials based on their ___.", options:["properties (what they are like and what they can do)","weight only","colour only","size only"], answer:0}
+     {q:"We choose materials based on their ___.", options:["their properties","weight only","colour only","size only"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Special Days and Celebrations", summary:"Students explore special days celebrated in their community and around the world, recognising that different cultures celebrate in unique ways.",
    resourceLabel:"YouTube: Special Days and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Special%20Days%20and%20Celebrations%20kindergarten%20educational",
    quiz:[
-     {q:"A celebration is ___.", options:["a special occasion that people mark with activities","a type of building","a type of food","a school subject"], answer:0},
+     {q:"A celebration is ___.", options:["a special occasion people mark","a type of building","a type of food","a school subject"], answer:0},
      {q:"Which is a Canadian celebration?", options:["Canada Day (July 1)","Chinese New Year","Eid al-Fitr (Islamic)","Diwali (Hindu/Sikh)"], answer:0},
-     {q:"Why do different cultures celebrate differently?", options:["All celebrations are the same","Only one way is correct","Each culture has unique traditions, histories, and values that shape its celebrations","They do not"], answer:2},
-     {q:"Learning about others' celebrations helps us ___.", options:["ignore diversity","stay only with our own culture","feel confused","respect and appreciate different cultures"], answer:3},
+     {q:"Why do different cultures celebrate differently?", options:["All celebrations are the same","Only one way is correct","Each culture has unique traditions","They do not"], answer:2},
+     {q:"Learning about others' celebrations helps us ___.", options:["ignore diversity","stay only with our own culture","feel confused","respect different cultures"], answer:3},
      {q:"What is Diwali known as?", options:["Festival of Lights","Festival of Music","Festival of Food","Festival of Colour"], answer:0}
    ]},
 ]},
@@ -1122,9 +1122,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Writing: My Favourite Thing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Favourite%20Thing%20kindergarten%20educational",
    quiz:[
      {q:"A sentence starts with a ___ letter.", options:["capital (uppercase)","lowercase","number","random"], answer:0},
-     {q:"A sentence ends with a ___.", options:["slash","comma","period, question mark, or exclamation mark","capital letter"], answer:2},
+     {q:"A sentence ends with a ___.", options:["slash","comma","an ending punctuation mark","capital letter"], answer:2},
      {q:"Which is written correctly?", options:["my Dog is fluffy.","my dog is fluffy.","My dog is Fluffy","My dog is fluffy."], answer:3},
-     {q:"When writing about your favourite thing, a good first sentence ___.", options:["tells what your favourite thing is and why you like it","lists random words","says nothing","asks a question with no answer"], answer:0},
+     {q:"When writing about your favourite thing, a good first sentence ___.", options:["says what it is and why you like it","lists random words","says nothing","asks a question with no answer"], answer:0},
      {q:"A picture can help your reader ___.", options:["understand your writing better","add more letters","erase your work","change your topic"], answer:0}
    ]},
   {subject:"Math", title:"Number Stories", summary:"Students create and solve simple addition and subtraction number stories using pictures and equations.",
@@ -1134,7 +1134,7 @@ const curriculum: DayContent[] = [
      {q:"There are 3 birds on a branch. 2 more land. How many now?", options:["3","5","4","6"], answer:1},
      {q:"I had 7 cookies. I ate 3. How many are left?", options:["4","5","3","6"], answer:0},
      {q:"Which equation matches: 4 ducks plus 2 ducks?", options:["4 x 2 = 8","6 - 2 = 4","4 + 2 = 6","4 - 2 = 2"], answer:2},
-     {q:"A number story always includes ___.", options:["only letters","a character, a problem, and a number answer","only a picture","only an equation"], answer:1}
+     {q:"A number story always includes ___.", options:["only letters","characters, a problem, and an answer","only a picture","only an equation"], answer:1}
    ]},
   {subject:"Science", title:"Living and Non-Living Review", summary:"Students review the differences between living things (grow, breathe, reproduce, respond) and non-living things (do not do these things).",
    resourceLabel:"YouTube: Living and Non-Living Review", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Review%20kindergarten%20educational",
@@ -1142,7 +1142,7 @@ const curriculum: DayContent[] = [
      {q:"Living things can ___.", options:["never change","grow, breathe, and reproduce","glow in the dark","fly always"], answer:1},
      {q:"A rock is non-living because it ___.", options:["grows","does not grow, breathe, or reproduce","reproduces","breathes"], answer:1},
      {q:"Which is a living thing?", options:["A book","A chair","A cloud","A tree"], answer:3},
-     {q:"A non-living thing ___.", options:["has feelings","grows on its own","needs food and water to survive","does not grow, breathe, or reproduce on its own"], answer:3},
+     {q:"A non-living thing ___.", options:["has feelings","grows on its own","needs food and water to survive","does not grow, breathe, or reproduce"], answer:3},
      {q:"Which is the best example of a non-living thing?", options:["Mushroom","Fish","Water","Flower"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Caring for the Earth", summary:"Students review environmental responsibility: conserving water, reducing waste, protecting animals and plants, and making choices that help the planet.",
@@ -1151,8 +1151,8 @@ const curriculum: DayContent[] = [
      {q:"Conserving water means ___.", options:["using as much water as possible","only drinking water","wasting water daily","using water carefully and not wasting it"], answer:3},
      {q:"Which action helps protect the Earth?", options:["Leaving taps running","Throwing litter in parks","Turning off lights when leaving a room","Buying more plastic bags"], answer:2},
      {q:"Protecting habitats helps ___.", options:["only humans","the animals and plants that live there","only farmers","nobody"], answer:1},
-     {q:"Why should we reduce waste?", options:["Only adults need to reduce waste","Waste is good","Waste helps plants grow","Less waste means less pollution and a healthier planet"], answer:3},
-     {q:"One thing a child can do to help the Earth is ___.", options:["Move to another planet","Drive a car","Use less plastic and recycle where possible","Wait for adults to fix everything"], answer:2}
+     {q:"Why should we reduce waste?", options:["Only adults need to reduce waste","Waste is good","Waste helps plants grow","Less waste means a healthier planet"], answer:3},
+     {q:"One thing a child can do to help the Earth is ___.", options:["Move to another planet","Drive a car","Use less plastic and recycle","Wait for adults to fix everything"], answer:2}
    ]},
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
@@ -1187,9 +1187,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Social Studies Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%20kindergarten%20educational",
    quiz:[
      {q:"What is the capital city of Canada?", options:["Vancouver","Ottawa","Montreal","Toronto"], answer:1},
-     {q:"A community is ___.", options:["only a village","a group of people living and working together in an area","only a city","a type of animal"], answer:1},
+     {q:"A community is ___.", options:["only a village","people living and working together","only a city","a type of animal"], answer:1},
      {q:"Which is a Canadian symbol?", options:["Maple leaf","Bald Eagle","Eiffel Tower","Statue of Liberty"], answer:0},
-     {q:"Being a good citizen means ___.", options:["never helping anyone","only following rules you like","following laws, helping others, and respecting the community","only thinking about yourself"], answer:2},
+     {q:"Being a good citizen means ___.", options:["never helping anyone","only following rules you like","following laws and helping others","only thinking about yourself"], answer:2},
      {q:"Canada has ___ official languages.", options:["3","1","4","2"], answer:3}
    ]},
 ]},
@@ -1201,7 +1201,7 @@ const curriculum: DayContent[] = [
      {q:"Which is a vowel?", options:["B","C","D","E"], answer:3},
      {q:"A CVC word has ___ letters.", options:["4","3","5","2"], answer:1},
      {q:"Which is a CVC word?", options:["Bring","Cat","Street","Play"], answer:1},
-     {q:"Reading means ___.", options:["colouring pictures","only looking at books","only writing","turning letters into words and understanding their meaning"], answer:3}
+     {q:"Reading means ___.", options:["colouring pictures","only looking at books","only writing","turning letters into words with meaning"], answer:3}
    ]},
   {subject:"Math", title:"Year Review: Math", summary:"Students review all Kindergarten math concepts: counting, shapes, patterns, measurement, and addition/subtraction.",
    resourceLabel:"YouTube: Year Review: Math", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Math%20kindergarten%20educational",
@@ -1227,8 +1227,8 @@ const curriculum: DayContent[] = [
      {q:"Who helps keep you healthy by giving check-ups?", options:["Doctor","Caretaker","Teacher","Librarian"], answer:0},
      {q:"What symbol appears on the Canadian flag?", options:["Beaver","Maple leaf","Moose","Eagle"], answer:1},
      {q:"A right is something you ___.", options:["never earn","can take from others","must give to others","are allowed to do or have"], answer:3},
-     {q:"Why is recycling important?", options:["Only for adults","It reduces waste and protects the environment","It is not","Only for scientists"], answer:1},
-     {q:"A good citizen ___.", options:["ignores community rules","never votes","only cares about themselves","respects others, follows rules, and helps the community"], answer:3}
+     {q:"Why is recycling important?", options:["Only for adults","It reduces waste and helps the planet","It is not","Only for scientists"], answer:1},
+     {q:"A good citizen ___.", options:["ignores community rules","never votes","only cares about themselves","respects others and helps the community"], answer:3}
    ]},
 ]},
 ];
