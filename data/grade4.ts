@@ -71,15 +71,15 @@ const curriculum: DayContent[] = [
      {q:"Producers in a food chain are ___.", options:["animals that eat plants","carnivores","plants that make their own food","decomposers"], answer:2},
      {q:"A herbivore is an animal that eats ___.", options:["only meat","nothing","both plants and meat","only plants"], answer:3},
      {q:"In a food web, arrows show ___.", options:["movement","the direction energy flows","friendship","habitat"], answer:1},
-     {q:"What happens if one species in a food web disappears?", options:["Nothing changes","Only prey notice","Only predators notice","Other species are affected because they are connected"], answer:3},
-     {q:"A decomposer ___.", options:["eats only animals","makes its own food","breaks down dead matter and recycles nutrients","eats only plants"], answer:2}
+     {q:"What happens if one species in a food web disappears?", options:["Nothing changes","Only prey notice","Only predators notice","Other connected species are affected"], answer:3},
+     {q:"A decomposer ___.", options:["eats only animals","makes its own food","breaks down dead matter","eats only plants"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Ancient Egypt", summary:"Grade 4 Social Studies: Ancient Egypt flourished along the Nile River, developing writing (hieroglyphics), monumental architecture, and complex government.",
    resourceLabel:"YouTube: Ancient Egypt", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Egypt%20grade%204%20educational",
    videoUrl:"https://www.youtube.com/watch?v=zYxC14pCaJ0",
    quiz:[
      {q:"Ancient Egypt was located in ___.", options:["Africa","Europe","Asia","South America"], answer:0},
-     {q:"The Nile River was important because ___.", options:["it had gold","it provided fertile soil and water for farming","it was the longest river","it separated Egypt from enemies"], answer:1},
+     {q:"The Nile River was important because ___.", options:["it had gold","it provided soil and water for farming","it was the longest river","it separated Egypt from enemies"], answer:1},
      {q:"Egyptian hieroglyphics were ___.", options:["a writing system using pictures","a religious ceremony","a form of mathematics","a type of building"], answer:0},
      {q:"The pyramids were built as ___.", options:["storage facilities","tombs for pharaohs","palaces for living pharaohs","temples for worship only"], answer:1},
      {q:"Who ruled Ancient Egypt?", options:["A pharaoh (king/queen)","A president","A group of priests","An elected prime minister"], answer:0}
@@ -119,7 +119,7 @@ const curriculum: DayContent[] = [
      {q:"Ancient Greece was located in ___.", options:["North America","Asia","Africa","Southern Europe"], answer:3},
      {q:"Democracy was developed in ___.", options:["Ancient Egypt","Ancient China","Ancient Rome","Ancient Greece (Athens)"], answer:3},
      {q:"The Olympic Games began in ___.", options:["Greece","China","Egypt","Rome"], answer:0},
-     {q:"Greek philosophers like Socrates were known for ___.", options:["writing hieroglyphics","building pyramids","fighting wars only","asking deep questions about life and knowledge"], answer:3},
+     {q:"Greek philosophers like Socrates were known for ___.", options:["writing hieroglyphics","building pyramids","fighting wars only","asking deep questions about life"], answer:3},
      {q:"Ancient Greek architecture featured ___.", options:["underground cities","mud brick walls","columns and temples like the Parthenon","igloos"], answer:2}
    ]},
 ]},

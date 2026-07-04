@@ -48,11 +48,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Writing: Thesis Development", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Thesis%20Development%20grade%208%20educational",
    videoUrl:"https://www.youtube.com/watch?v=TotaRoYh60Y",
    quiz:[
-     {q:"A thesis statement should be ___.", options:["a specific, debatable claim that tells readers what the essay will argue and why","a question","a fact everyone agrees with","a broad topic sentence"], answer:0},
-     {q:"Which is the strongest thesis statement?", options:["The Treaty of Versailles was a significant cause of World War II.","World War II was a major event.","There were many causes of World War II.","The Nazi's policy of aggressive expansion, enabled by Allied appeasement, was the primary cause of World War II."], answer:3},
-     {q:"A thesis statement appears ___.", options:["at the beginning of each body paragraph","at the end of the introduction paragraph, guiding the reader into the body of the essay","only in the conclusion","throughout every paragraph"], answer:1},
-     {q:"A debatable thesis means ___.", options:["it is obviously false","it is obviously true","it cannot be argued against","a reasonable person could disagree with or argue against it"], answer:3},
-     {q:"A thesis statement should NOT be ___.", options:["analytical","a statement of pure, undisputed fact with no room for argument","arguable","specific"], answer:1}
+     {q:"A thesis statement should be ___.", options:["a specific, debatable claim","a question","a fact everyone agrees with","a broad topic sentence"], answer:0},
+     {q:"Which is the strongest thesis statement?", options:["The Treaty of Versailles was a significant cause of World War II.","World War II was a major event.","There were many causes of World War II.","Nazi expansion, enabled by appeasement, was the primary cause of World War II."], answer:3},
+     {q:"A thesis statement appears ___.", options:["at the beginning of each body paragraph","at the end of the introduction paragraph","only in the conclusion","throughout every paragraph"], answer:1},
+     {q:"A debatable thesis means ___.", options:["it is obviously false","it is obviously true","it cannot be argued against","people could reasonably disagree"], answer:3},
+     {q:"A thesis statement should NOT be ___.", options:["analytical","a statement of pure, undisputed fact","arguable","specific"], answer:1}
    ]},
   {subject:"Math", title:"Proportional Reasoning: Rates and Ratios", summary:"Students solve problems involving unit rates, proportions, and percent change. They distinguish proportional from non-proportional relationships.",
    resourceLabel:"YouTube: Proportional Reasoning: Rates and Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Proportional%20Reasoning%3A%20Rates%20and%20Ratios%20grade%208%20educational",
@@ -69,19 +69,19 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=ex0x-w00Uy4",
    quiz:[
      {q:"Mitosis results in ___.", options:["cells with half the DNA","two genetically identical daughter cells","one cell dividing into eight","four genetically different cells"], answer:1},
-     {q:"Meiosis results in ___.", options:["two identical cells","identical twins","four genetically unique cells with half the chromosomes (gametes for sexual reproduction)","one large cell"], answer:2},
-     {q:"Cell specialisation means ___.", options:["cells develop specific structures and functions suited to a particular role in the organism","only occurs in plants","all cells look the same","cells change into random types"], answer:0},
+     {q:"Meiosis results in ___.", options:["two identical cells","identical twins","four genetically unique cells (gametes)","one large cell"], answer:2},
+     {q:"Cell specialisation means ___.", options:["cells develop functions suited to a role","only occurs in plants","all cells look the same","cells change into random types"], answer:0},
      {q:"The correct order of organisation from smallest to largest is ___.", options:["tissue → cell → organ → organism","organ → tissue → cell → organ system","organism → organ → tissue → cell","cell → tissue → organ → organ system → organism"], answer:3},
-     {q:"Why can't most specialised cells undergo unlimited division?", options:["They lose their specialised function; highly specialised cells sacrifice replication ability for their specific role","They are too small","They have no nucleus","They can always divide"], answer:0}
+     {q:"Why can't most specialised cells undergo unlimited division?", options:["They give up replication ability","They are too small","They have no nucleus","They can always divide"], answer:0}
    ]},
   {subject:"History", title:"The British Conquest and After", summary:"Students examine the Seven Years' War in North America (1756–1763), the Battle of the Plains of Abraham, and the subsequent British governance of Quebec.",
    resourceLabel:"YouTube: The British Conquest and After", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Conquest%20and%20After%20grade%208%20educational",
    videoUrl:"https://www.youtube.com/watch?v=KSSeFM_39XM",
    quiz:[
-     {q:"The Battle of the Plains of Abraham (1759) was significant because ___.", options:["France won and kept New France","The British defeat of France led to Britain gaining control of New France","The battle was a draw","It had no lasting impact"], answer:1},
-     {q:"The Treaty of Paris (1763) ___.", options:["created Canada as a country","formally transferred New France to British control, ending French colonial rule","made New France independent","gave New France back to France"], answer:1},
-     {q:"The Royal Proclamation of 1763 ___.", options:["ignored Indigenous peoples","established British governance in Quebec and recognised Indigenous peoples' land rights west of the Appalachians","abolished the fur trade","gave Quebec to France"], answer:1},
-     {q:"The Quebec Act of 1774 ___.", options:["made English the only language","restored French civil law, protected the Catholic Church, and expanded Quebec's territory","abolished Catholicism in Quebec","granted Quebec independence"], answer:1},
+     {q:"The Battle of the Plains of Abraham (1759) was significant because ___.", options:["France won and kept New France","It gave Britain control of New France","The battle was a draw","It had no lasting impact"], answer:1},
+     {q:"The Treaty of Paris (1763) ___.", options:["created Canada as a country","formally transferred New France to Britain","made New France independent","gave New France back to France"], answer:1},
+     {q:"The Royal Proclamation of 1763 ___.", options:["ignored Indigenous peoples","recognised Indigenous land rights","abolished the fur trade","gave Quebec to France"], answer:1},
+     {q:"The Quebec Act of 1774 ___.", options:["made English the only language","restored French civil law and Catholic rights","abolished Catholicism in Quebec","granted Quebec independence"], answer:1},
      {q:"For French Canadians after the conquest, the most pressing concern was ___.", options:["establishing a new French empire","joining the American colonies","economic development only","preserving their language, religion, civil law, and cultural identity under British rule"], answer:1}
    ]},
 ]},
@@ -89,38 +89,38 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Literary Analysis: Themes in Fiction", summary:"Students identify and analyse the major themes in fiction. They support thematic interpretations with specific textual evidence and consider how different readers may interpret the same theme.",
    resourceLabel:"YouTube: Literary Analysis: Themes in Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Themes%20in%20Fiction%20grade%208%20educational",
    quiz:[
-     {q:"A theme in literature is ___.", options:["a central message or insight about human experience that the text conveys","the main character's name","the setting of the story","a summary of the plot"], answer:0},
-     {q:"How does a writer convey theme?", options:["Only through the narrator","Through characters' actions, conflicts, dialogue, symbols, and the consequences of choices","By stating it in a title note","By telling readers directly in a summary"], answer:1},
-     {q:"Which is a theme (not a topic)?", options:["Friendship","Unchecked ambition leads to self-destruction","Love","War"], answer:1},
-     {q:"A text can have ___.", options:["multiple themes that may even seem to contradict each other","exactly two themes","no themes","only one theme"], answer:0},
-     {q:"To support a thematic interpretation, you should ___.", options:["only use quotes from the author's interviews","cite specific passages and explain how those details develop the theme","summarise the entire plot","only state your opinion"], answer:1}
+     {q:"A theme in literature is ___.", options:["a central message about human experience","the main character's name","the setting of the story","a summary of the plot"], answer:0},
+     {q:"How does a writer convey theme?", options:["Only through the narrator","Through actions, dialogue, and symbols","By stating it in a title note","By telling readers directly in a summary"], answer:1},
+     {q:"Which is a theme (not a topic)?", options:["Friendship","Ambition destroys the self","Love","War"], answer:1},
+     {q:"A text can have ___.", options:["multiple, even contradicting, themes","exactly two themes","no themes","only one theme"], answer:0},
+     {q:"To support a thematic interpretation, you should ___.", options:["only use quotes from the author's interviews","cite passages that develop the theme","summarise the entire plot","only state your opinion"], answer:1}
    ]},
   {subject:"Math", title:"Linear Equations: Solving Multi-Step", summary:"Students solve multi-step linear equations with variables on one or both sides. They check solutions by substitution.",
    resourceLabel:"YouTube: Linear Equations: Solving Multi-Step", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Equations%3A%20Solving%20Multi-Step%20grade%208%20educational",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x = 4","x = 11","x = 5","x = 6"], answer:3},
      {q:"Solve: 3x − 4 = 2x + 7", options:["x = 11","x = −11","x = 7","x = 3"], answer:0},
-     {q:"To solve an equation with variables on both sides, first ___.", options:["collect variable terms on one side and constant terms on the other","ignore one side","add the variables together","multiply both sides by zero"], answer:0},
+     {q:"To solve an equation with variables on both sides, first ___.", options:["group variables on one side","ignore one side","add the variables together","multiply both sides by zero"], answer:0},
      {q:"Check: Is x = 4 a solution to 5x − 3 = 17?", options:["Yes, because 5(4) − 3 = 17 ✓","Yes, but the equation is wrong","No, because 17 ≠ 20","No, because 5(4) − 3 = 17 ✓"], answer:0},
      {q:"Solve: 4(x + 3) = 28", options:["x = 31/4","x = 7","x = 4","x = 10"], answer:2}
    ]},
   {subject:"Science", title:"Reproduction: Sexual and Asexual", summary:"Students compare sexual and asexual reproduction in plants and animals. They understand the advantages of each strategy in different contexts.",
    resourceLabel:"YouTube: Reproduction: Sexual and Asexual", resourceUrl:"https://www.youtube.com/results?search_query=Reproduction%3A%20Sexual%20and%20Asexual%20grade%208%20educational",
    quiz:[
-     {q:"Asexual reproduction involves ___.", options:["two parents","one parent producing genetically identical offspring","fertilisation","gametes"], answer:1},
-     {q:"Sexual reproduction involves ___.", options:["the joining of two gametes to produce offspring with genetic variation","one parent only","no genetic variation","cloning"], answer:0},
-     {q:"An advantage of asexual reproduction is ___.", options:["slower reproduction","rapid reproduction without a mate, useful in stable environments","genetic diversity","resistance to disease"], answer:1},
-     {q:"An advantage of sexual reproduction is ___.", options:["genetic variation, which increases a population's ability to adapt to changing environments","only one parent needed","no energy cost","faster reproduction"], answer:0},
+     {q:"Asexual reproduction involves ___.", options:["two parents","one parent producing identical offspring","fertilisation","gametes"], answer:1},
+     {q:"Sexual reproduction involves ___.", options:["joining two gametes","one parent only","no genetic variation","cloning"], answer:0},
+     {q:"An advantage of asexual reproduction is ___.", options:["slower reproduction","rapid reproduction without a mate","genetic diversity","resistance to disease"], answer:1},
+     {q:"An advantage of sexual reproduction is ___.", options:["genetic variation aids adaptation","only one parent needed","no energy cost","faster reproduction"], answer:0},
      {q:"Budding, as in yeast and hydra, is a form of ___.", options:["asexual reproduction","fertilisation","meiosis","sexual reproduction"], answer:0}
    ]},
   {subject:"History", title:"Loyalists and the American Revolution", summary:"Students examine why the American Revolution occurred, who the Loyalists were, and how their migration to Canada shaped British North America.",
    resourceLabel:"YouTube: Loyalists and the American Revolution", resourceUrl:"https://www.youtube.com/results?search_query=Loyalists%20and%20the%20American%20Revolution%20grade%208%20educational",
    quiz:[
-     {q:"Loyalists were ___.", options:["Indigenous peoples who allied with France","colonists who supported American independence","colonists who remained loyal to the British Crown during and after the American Revolution","British soldiers stationed in America"], answer:2},
-     {q:"The main grievances of American colonists that led to revolution included ___.", options:["taxation without representation and restrictions on westward expansion","being forced to speak French","excellent representation in Parliament","too much freedom"], answer:0},
-     {q:"Why did many Loyalists migrate to what is now Canada after 1783?", options:["They preferred the climate","They faced persecution in the United States and sought refuge in British territories","They were forced out of Canada","They received no land grants"], answer:1},
-     {q:"The arrival of Loyalists in British North America led to ___.", options:["the departure of all French settlers","the founding of Upper Canada (Ontario) and New Brunswick as separate colonies","the end of British rule","the creation of New France"], answer:1},
-     {q:"The Constitutional Act of 1791 divided Quebec into ___.", options:["one united colony","independent states","Upper and Lower Canada, with separate elected assemblies","three provinces"], answer:2}
+     {q:"Loyalists were ___.", options:["Indigenous peoples who allied with France","colonists who supported American independence","colonists who remained loyal to the British Crown","British soldiers stationed in America"], answer:2},
+     {q:"The main grievances of American colonists that led to revolution included ___.", options:["taxation without representation","being forced to speak French","excellent representation in Parliament","too much freedom"], answer:0},
+     {q:"Why did many Loyalists migrate to what is now Canada after 1783?", options:["They preferred the climate","They faced persecution and sought British refuge","They were forced out of Canada","They received no land grants"], answer:1},
+     {q:"The arrival of Loyalists in British North America led to ___.", options:["the departure of all French settlers","the founding of Upper Canada and New Brunswick","the end of British rule","the creation of New France"], answer:1},
+     {q:"The Constitutional Act of 1791 divided Quebec into ___.", options:["one united colony","independent states","Upper and Lower Canada","three provinces"], answer:2}
    ]},
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[

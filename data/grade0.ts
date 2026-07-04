@@ -80,7 +80,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"A home is a place where ___.", options:["only babies live","people live and feel safe and cared for","only adults live","only families with pets live"], answer:1},
      {q:"Which is a type of home?", options:["Apartment building","School","Library","Hospital"], answer:0},
-     {q:"A community is ___.", options:["only a park","only a school","a place where people live and work together","one family only"], answer:2},
+     {q:"A community is ___.", options:["only a park","only a school","a place where people live together","one family only"], answer:2},
      {q:"What makes a home special?", options:["Only if it has a yard","The people and love inside it","Its size","The colour of the walls"], answer:1},
      {q:"Which building is in most communities?", options:["A submarine","A school or fire station","A spaceship","A castle"], answer:1}
    ]},
@@ -113,16 +113,16 @@ const curriculum: DayContent[] = [
      {q:"What season comes after summer?", options:["Rainy season","Autumn/Fall","Winter","Spring"], answer:1},
      {q:"In autumn, many trees ___.", options:["grow new leaves","lose their leaves","bloom with flowers","stay exactly the same"], answer:1},
      {q:"Autumn is usually ___ than summer.", options:["hotter","colder than winter","cooler","the same temperature"], answer:2},
-     {q:"Animals prepare for winter in autumn by ___.", options:["storing food or preparing to migrate or hibernate","staying exactly the same","swimming more","playing more"], answer:0},
+     {q:"Animals prepare for winter in autumn by ___.", options:["storing food or hibernating","staying exactly the same","swimming more","playing more"], answer:0},
      {q:"What do you wear in autumn?", options:["Light jacket or sweater","Swimsuit and sandals","Nothing different","Heavy winter coat"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Helping at Home", summary:"Students explore household responsibilities and how children can contribute by tidying, setting the table, and caring for pets.",
    resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
-     {q:"Helping at home means ___.", options:["only playing games","only doing homework","doing chores and tasks that help the family","only watching TV"], answer:2},
+     {q:"Helping at home means ___.", options:["only playing games","only doing homework","doing chores that help the family","only watching TV"], answer:2},
      {q:"Which is an example of helping at home?", options:["Ignoring chores","Leaving toys everywhere","Putting toys away neatly","Eating all the snacks"], answer:2},
-     {q:"Why is it important to help at home?", options:["Only parents should do chores","Only if you are asked","It teaches responsibility and helps the family work together","It is not"], answer:2},
+     {q:"Why is it important to help at home?", options:["Only parents should do chores","Only if you are asked","It teaches responsibility","It is not"], answer:2},
      {q:"Which chore could a kindergartener do?", options:["Cook dinner alone","Fix the roof","Pay the bills","Put shoes away neatly"], answer:3},
      {q:"When you help at home, your family feels ___.", options:["angry","annoyed","nothing","proud and grateful"], answer:3}
    ]},

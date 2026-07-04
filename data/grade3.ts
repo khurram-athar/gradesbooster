@@ -49,9 +49,9 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"A heading in a non-fiction text ___.", options:["shows what a section is about","tells a story","is the same as a caption","gives the author's name"], answer:0},
-     {q:"A caption is ___.", options:["a table of contents","a type of heading","the words under a picture explaining what it shows","a large title"], answer:2},
-     {q:"A diagram with labels helps readers ___.", options:["find the author","read faster","see and understand how something works or is structured","enjoy the story more"], answer:2},
-     {q:"Why do non-fiction books use text features?", options:["To help readers find and understand information more easily","To make the book longer","Only for decoration","Only for young readers"], answer:0},
+     {q:"A caption is ___.", options:["a table of contents","a type of heading","the words explaining a picture","a large title"], answer:2},
+     {q:"A diagram with labels helps readers ___.", options:["find the author","read faster","understand how something works","enjoy the story more"], answer:2},
+     {q:"Why do non-fiction books use text features?", options:["To help readers find information","To make the book longer","Only for decoration","Only for young readers"], answer:0},
      {q:"A table of contents tells you ___.", options:["what pictures look like","the definition of words","who wrote the book","where chapters and sections start"], answer:3}
    ]},
   {subject:"Math", title:"Addition with Regrouping", summary:"Students add 2- and 3-digit numbers with regrouping (carrying). They understand that when a column totals 10 or more, they carry 1 to the next column.",
@@ -59,27 +59,27 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=1Al2Fc3wOIQ",
    quiz:[
      {q:"47 + 35 = ?", options:["72","83","82","73"], answer:2},
-     {q:"When a column in addition totals 10 or more, you ___.", options:["ignore the extra","start over","subtract 10 and carry 1 to the next column","write the full number"], answer:2},
+     {q:"When a column in addition totals 10 or more, you ___.", options:["ignore the extra","start over","carry 1 to the next column","write the full number"], answer:2},
      {q:"256 + 138 = ?", options:["384","394","494","484"], answer:1},
-     {q:"What does 'regrouping' mean in addition?", options:["Starting over","Multiplying","Subtracting","Carrying a group of 10 to the next place value column"], answer:3},
+     {q:"What does 'regrouping' mean in addition?", options:["Starting over","Multiplying","Subtracting","Carrying a group of 10 over"], answer:3},
      {q:"149 + 67 = ?", options:["226","216","196","206"], answer:1}
    ]},
   {subject:"Science", title:"Habitats and Ecosystems", summary:"Students learn that a habitat provides the living and non-living things an animal needs to survive: food, water, shelter, and space. Ecosystems include all living and non-living parts of an environment.",
    resourceLabel:"YouTube: Habitats and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20and%20Ecosystems%20grade%203%20educational",
    videoUrl:"https://www.youtube.com/watch?v=1H1zqCvGcus",
    quiz:[
-     {q:"A habitat is ___.", options:["only a forest","the environment where an organism lives and finds what it needs to survive","only an ocean","a type of weather"], answer:1},
+     {q:"A habitat is ___.", options:["only a forest","where an organism lives and finds food","only an ocean","a type of weather"], answer:1},
      {q:"Which is a non-living part of an ecosystem?", options:["Rock and water","Rabbit","Tree","Mushroom"], answer:0},
-     {q:"An ecosystem includes ___.", options:["only plants","only animals","only soil","all living and non-living things in an area and their interactions"], answer:3},
-     {q:"Why do different animals live in different habitats?", options:["Only for warmth","They do not; all animals live in the same habitat","Only for territory","Because different habitats provide different food, shelter, and conditions each animal needs"], answer:3},
-     {q:"Destroying a habitat by cutting down a forest would most likely ___.", options:["have no effect","make habitats larger","force animals to find new habitats, often leading to population decline","help the animals there"], answer:2}
+     {q:"An ecosystem includes ___.", options:["only plants","only animals","only soil","living and non-living things"], answer:3},
+     {q:"Why do different animals live in different habitats?", options:["Only for warmth","They do not; all animals live in the same habitat","Only for territory","Different habitats meet different needs"], answer:3},
+     {q:"Destroying a habitat by cutting down a forest would most likely ___.", options:["have no effect","make habitats larger","force animals to find new habitats","help the animals there"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Physical Features of Ontario", summary:"Students identify and locate major physical features of Ontario on a map: Great Lakes, Canadian Shield, Niagara Falls, Lake Simcoe, and major rivers.",
    resourceLabel:"YouTube: Physical Features of Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Features%20of%20Ontario%20grade%203%20educational",
    videoUrl:"https://www.youtube.com/watch?v=eEcJgfIpgrA",
    quiz:[
-     {q:"The Great Lakes are ___.", options:["a type of Canadian animal","rivers in northern Ontario","a chain of five large freshwater lakes on Ontario's southern border","mountain ranges"], answer:2},
-     {q:"The Canadian Shield is ___.", options:["an ocean region","a vast ancient rock formation covering much of northern Ontario and Canada","a flat farming region","a hockey shield"], answer:1},
+     {q:"The Great Lakes are ___.", options:["a type of Canadian animal","rivers in northern Ontario","five large freshwater lakes","mountain ranges"], answer:2},
+     {q:"The Canadian Shield is ___.", options:["an ocean region","a vast ancient rock formation","a flat farming region","a hockey shield"], answer:1},
      {q:"Niagara Falls is located between ___.", options:["Lake Erie and Lake Ontario","Lake Ontario and Lake Huron","Lake Huron and Lake Michigan","Lake Superior and Lake Huron"], answer:0},
      {q:"Which is Ontario's capital city?", options:["Hamilton","Ottawa","Montreal","Toronto"], answer:3},
      {q:"Which direction is northern Ontario relative to southern Ontario?", options:["North","East","West","South"], answer:0}
@@ -89,19 +89,19 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Vocabulary: Context Clues", summary:"Students use context clues — the surrounding words and sentences — to figure out the meaning of unfamiliar words without a dictionary.",
    resourceLabel:"YouTube: Vocabulary: Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%203%20educational",
    quiz:[
-     {q:"Context clues are ___.", options:["clues found in a picture only","a type of dictionary","words and information surrounding an unfamiliar word that help explain its meaning","always found in the title"], answer:2},
+     {q:"Context clues are ___.", options:["clues found in a picture only","a type of dictionary","nearby words that explain an unfamiliar word","always found in the title"], answer:2},
      {q:"In 'The enormous elephant, nearly as tall as a house, walked slowly,' enormous means ___.", options:["colourful","tiny","fast","very large"], answer:3},
      {q:"In 'She was famished and couldn't wait to eat dinner,' famished means ___.", options:["excited","very hungry","tired","late"], answer:1},
-     {q:"Why are context clues useful?", options:["They let readers figure out word meanings from the text without stopping to use a dictionary","Only for adults","They are not useful","Only for hard books"], answer:0},
-     {q:"Which strategy uses context clues?", options:["Sounding out letters","Skipping the word","Only using a dictionary","Looking at how the word is used in the sentence and paragraph to guess its meaning"], answer:3}
+     {q:"Why are context clues useful?", options:["They help readers guess word meanings","Only for adults","They are not useful","Only for hard books"], answer:0},
+     {q:"Which strategy uses context clues?", options:["Sounding out letters","Skipping the word","Only using a dictionary","Guessing from the sentence"], answer:3}
    ]},
   {subject:"Math", title:"Subtraction with Regrouping", summary:"Students subtract 2- and 3-digit numbers using regrouping (borrowing). They understand borrowing from the next column when the top digit is smaller.",
    resourceLabel:"YouTube: Subtraction with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20with%20Regrouping%20grade%203%20educational",
    quiz:[
      {q:"84 - 37 = ?", options:["57","47","53","43"], answer:1},
-     {q:"When the top digit in a column is smaller than the bottom, you ___.", options:["skip the subtraction","regroup (borrow) from the next column to the left","add them","multiply"], answer:1},
+     {q:"When the top digit in a column is smaller than the bottom, you ___.", options:["skip the subtraction","regroup (borrow) from the next column","add them","multiply"], answer:1},
      {q:"352 - 176 = ?", options:["176","186","276","166"], answer:0},
-     {q:"Which is the first step in 503 - 248?", options:["Subtract 8 from 3, regrouping from the tens (then hundreds) column","Multiply","Add the numbers","Subtract hundreds first"], answer:0},
+     {q:"Which is the first step in 503 - 248?", options:["Subtract 8 from 3, regrouping first","Multiply","Add the numbers","Subtract hundreds first"], answer:0},
      {q:"427 - 189 = ?", options:["238","228","248","268"], answer:0}
    ]},
   {subject:"Science", title:"Soils in the Environment", summary:"Students investigate types of soil (sand, clay, loam) and their properties. They explore how soil supports plant growth and is important to ecosystems.",
@@ -109,16 +109,16 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Which type of soil drains water the fastest?", options:["Clay","Loam","Sand","Silt"], answer:2},
      {q:"Clay soil is described as ___.", options:["gritty and fast-draining","very fertile and balanced","dark and crumbly","dense, heavy, and slow-draining"], answer:3},
-     {q:"Loam is considered ideal for growing plants because ___.", options:["it has no nutrients","it has a balanced mix of sand, silt, and clay with good nutrients and drainage","it is always wet","it drains instantly"], answer:1},
-     {q:"Soil is important because ___.", options:["it only comes in one type","it supports plant growth and is home to many organisms like earthworms and bacteria","only farmers need it","it has no nutrients"], answer:1},
+     {q:"Loam is considered ideal for growing plants because ___.", options:["it has no nutrients","it balances sand, silt, and clay well","it is always wet","it drains instantly"], answer:1},
+     {q:"Soil is important because ___.", options:["it only comes in one type","it supports plants and animals","only farmers need it","it has no nutrients"], answer:1},
      {q:"What lives in soil and helps break down organic matter?", options:["Only rocks","Only plants","Only large animals","Earthworms, bacteria, and fungi"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Government: Federal, Provincial, Municipal", summary:"Students learn the three levels of government in Canada and their responsibilities.",
    resourceLabel:"YouTube: Government: Federal, Provincial, Municipal", resourceUrl:"https://www.youtube.com/results?search_query=Government%3A%20Federal%2C%20Provincial%2C%20Municipal%20grade%203%20educational",
    quiz:[
-     {q:"The federal government of Canada is responsible for ___.", options:["setting school hours","national defence, immigration, and the currency","fixing local roads","collecting garbage"], answer:1},
-     {q:"The provincial government of Ontario is responsible for ___.", options:["education, health care, and provincial roads","the national army","the city's parks","international affairs"], answer:0},
-     {q:"The municipal (city/town) government is responsible for ___.", options:["local roads, parks, garbage collection, and local bylaws","immigration law","national defence","provincial health care"], answer:0},
+     {q:"The federal government of Canada is responsible for ___.", options:["setting school hours","national defence and immigration","fixing local roads","collecting garbage"], answer:1},
+     {q:"The provincial government of Ontario is responsible for ___.", options:["education and health care","the national army","the city's parks","international affairs"], answer:0},
+     {q:"The municipal (city/town) government is responsible for ___.", options:["local roads and garbage collection","immigration law","national defence","provincial health care"], answer:0},
      {q:"Who is the leader of the federal government of Canada?", options:["The Governor General","The Premier","The Mayor","The Prime Minister"], answer:3},
      {q:"A school in Ontario falls under ___ government responsibility.", options:["municipal","provincial","federal","international"], answer:1}
    ]},

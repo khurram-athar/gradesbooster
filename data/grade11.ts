@@ -48,9 +48,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Independent Reading: Canadian Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Canadian%20Literature%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=c9fqaQBdbzI",
    quiz:[
-     {q:"What makes a work 'distinctly Canadian' in literature?", options:["Only being set in Canada","Only being written by a Canadian-born author","It cannot be defined","Often a combination of landscape and environment as significant forces, themes of identity in a vast, cold, multicultural nation, irony and understatement, and engagement with the colonial legacy"], answer:3},
+     {q:"What makes a work 'distinctly Canadian' in literature?", options:["Only being set in Canada","Only being written by a Canadian-born author","It cannot be defined","Recurring landscape and identity themes"], answer:3},
      {q:"Alice Munro's short stories are often described as having ___.", options:["happy endings always","no female characters","extraordinary compression and depth","simple linear plots"], answer:2},
-     {q:"Reconciliation as a theme in contemporary Indigenous Canadian literature ___.", options:["is entirely separate from aesthetic literary concerns","is always the same story","intersects with questions of land, language, spiritual connection, family trauma from residential schools, and the recovery of Indigenous identity","is a new development with no prior literary history"], answer:2},
+     {q:"Reconciliation as a theme in contemporary Indigenous Canadian literature ___.", options:["is entirely separate from aesthetic literary concerns","is always the same story","intersects with land, language, and identity","is a new development with no prior literary history"], answer:2},
      {q:"Canadian literature's sense of 'garrison mentality' (Northrop Frye's concept) refers to ___.", options:["an obsession with military history","a recurring theme of small communities","only Quebec literature","only Indigenous literature"], answer:1},
      {q:"A close reading of setting in a Canadian novel should examine ___.", options:["landscape as only backdrop","how the Canadian environment","only weather descriptions","only urban or rural designation"], answer:1}
    ]},
@@ -61,57 +61,57 @@ const curriculum: DayContent[] = [
      {q:"A polynomial of odd degree with a positive leading coefficient has end behaviour: ___.", options:["rises right, rises left","falls left, rises right","rises left, falls right","falls right, falls left"], answer:1},
      {q:"A zero with multiplicity 2 means ___.", options:["the zero appears twice in different equations","the function has two y-intercepts","there are two separate zeros","the factor (x − r)² appears"], answer:3},
      {q:"A zero with multiplicity 3 means ___.", options:["the graph doesn't cross the x-axis","there are three separate zeros","the factor (x − r)³ appears","the function has 3 zeros total"], answer:2},
-     {q:"A cubic function y = −2(x − 1)(x + 3)² has ___.", options:["three crossing zeros","three touching zeros","two zeros, x = 1 (crosses, odd multiplicity) and x = −3 (touches, even multiplicity), with negative leading coefficient","only one zero"], answer:2},
+     {q:"A cubic function y = −2(x − 1)(x + 3)² has ___.", options:["three crossing zeros","three touching zeros","x = 1 crosses, x = −3 touches","only one zero"], answer:2},
      {q:"Finding local maxima and minima of a polynomial (without calculus) requires ___.", options:["only the x-intercepts","only looking at the leading coefficient","the y-intercept only","technology (graphing calculator) or calculus"], answer:3}
    ]},
   {subject:"Biology", title:"Cell Division: Mitosis and Meiosis Compared", summary:"Students compare mitosis (somatic cell division) and meiosis (gamete formation), explaining their roles in growth, repair, and sexual reproduction.",
    resourceLabel:"YouTube: Cell Division: Mitosis and Meiosis Compared", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Division%3A%20Mitosis%20and%20Meiosis%20Compared%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=zrKdz93WlVk",
    quiz:[
-     {q:"Mitosis produces ___.", options:["4 haploid daughter cells","2 cells with half the chromosomes","2 haploid daughter cells","2 diploid daughter cells genetically identical to the parent"], answer:3},
-     {q:"Meiosis produces ___.", options:["2 diploid cells","2 cells with double chromosomes","4 genetically identical diploid cells","4 haploid daughter cells that are genetically diverse"], answer:3},
-     {q:"Crossing over (recombination) occurs during ___.", options:["anaphase I of meiosis","mitosis only","prophase I of meiosis, when homologous chromosomes pair up and exchange segments","meiosis II"], answer:2},
-     {q:"The significance of independent assortment (Mendel's second law) at the cellular level is ___.", options:["during meiosis I, homologous pairs align independently, so the maternal or paternal chromosome of each pair ends up in a gamete independently","all gametes are genetically identical","chromosomes are always identical","genes on the same chromosome always stay together"], answer:0},
-     {q:"Cancer is related to cell division because ___.", options:["only meiosis causes cancer","cancer is caused by mitosis itself","cancer only affects the nucleus","uncontrolled cell division (caused by mutations in proto-oncogenes or tumour suppressor genes that normally regulate the cell cycle) is the defining feature of cancer"], answer:3}
+     {q:"Mitosis produces ___.", options:["4 haploid daughter cells","2 cells with half the chromosomes","2 haploid daughter cells","2 diploid cells identical to the parent"], answer:3},
+     {q:"Meiosis produces ___.", options:["2 diploid cells","2 cells with double chromosomes","4 genetically identical diploid cells","4 genetically diverse haploid cells"], answer:3},
+     {q:"Crossing over (recombination) occurs during ___.", options:["anaphase I of meiosis","mitosis only","prophase I of meiosis","meiosis II"], answer:2},
+     {q:"The significance of independent assortment (Mendel's second law) at the cellular level is ___.", options:["homologous pairs align independently in meiosis I","all gametes are genetically identical","chromosomes are always identical","genes on the same chromosome always stay together"], answer:0},
+     {q:"Cancer is related to cell division because ___.", options:["only meiosis causes cancer","cancer is caused by mitosis itself","cancer only affects the nucleus","uncontrolled cell division is its defining feature"], answer:3}
    ]},
   {subject:"Chemistry", title:"Chemical Reactions: Types and Balancing", summary:"Students classify chemical reactions (synthesis, decomposition, single/double displacement, combustion) and practise balancing equations with increasing complexity.",
    resourceLabel:"YouTube: Chemical Reactions: Types and Balancing", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Reactions%3A%20Types%20and%20Balancing%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=z0187f8gqfU",
    quiz:[
-     {q:"A synthesis reaction has the general form ___.", options:["AB → A + B","A + B → AB — two or more reactants combine to form a single product","AB + CD → AD + CB","AB → A + B + C"], answer:1},
-     {q:"A double displacement (metathesis) reaction involves ___.", options:["two compounds exchanging their ionic partners: AB + CD → AD + CB","one reactant forming two products","one element replacing another in a compound","combining two elements"], answer:0},
+     {q:"A synthesis reaction has the general form ___.", options:["AB → A + B","A + B → AB","AB + CD → AD + CB","AB → A + B + C"], answer:1},
+     {q:"A double displacement (metathesis) reaction involves ___.", options:["compounds exchanging ionic partners: AB + CD → AD + CB","one reactant forming two products","one element replacing another in a compound","combining two elements"], answer:0},
      {q:"To balance H₂ + O₂ → H₂O, the balanced equation is ___.", options:["2H₂ + O₂ → 2H₂O","2H + O₂ → H₂O","H₂ + O₂ → H₂O (unbalanced)","H₂ + O → H₂O"], answer:0},
-     {q:"Combustion reactions always involve ___.", options:["reacting with oxygen (O₂), producing carbon dioxide and water (for complete combustion of hydrocarbons) and releasing energy","absorbing energy","releasing nitrogen gas","only carbon and hydrogen"], answer:0},
-     {q:"The law of conservation of mass states ___.", options:["mass increases in chemical reactions","mass is destroyed in exothermic reactions","the total mass of reactants equals the total mass of products in a chemical reaction","products always have less mass than reactants"], answer:2}
+     {q:"Combustion reactions always involve ___.", options:["reacting with oxygen, releasing energy","absorbing energy","releasing nitrogen gas","only carbon and hydrogen"], answer:0},
+     {q:"The law of conservation of mass states ___.", options:["mass increases in chemical reactions","mass is destroyed in exothermic reactions","reactant mass equals product mass","products always have less mass than reactants"], answer:2}
    ]},
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Media and Communication: Persuasive Speaking and Debate", summary:"Students develop formal oral skills through structured debate, applying logical reasoning, evidence use, and rebuttal techniques.",
    resourceLabel:"YouTube: Media and Communication: Persuasive Speaking and Debate", resourceUrl:"https://www.youtube.com/results?search_query=Media%20and%20Communication%3A%20Persuasive%20Speaking%20and%20Debate%20grade%2011%20educational",
    quiz:[
-     {q:"The three classical appeals in persuasion are ___.", options:["ethos (credibility/character), logos (logic/evidence), and pathos (emotion)","fact, opinion, evidence","introduction, body, conclusion","topic, argument, conclusion"], answer:0},
-     {q:"In formal debate, a rebuttal is ___.", options:["summarising your position","a type of opening statement","directly responding to and countering your opponent's specific arguments","introducing your main argument"], answer:2},
+     {q:"The three classical appeals in persuasion are ___.", options:["ethos, logos, and pathos","fact, opinion, evidence","introduction, body, conclusion","topic, argument, conclusion"], answer:0},
+     {q:"In formal debate, a rebuttal is ___.", options:["summarising your position","a type of opening statement","directly countering your opponent's arguments","introducing your main argument"], answer:2},
      {q:"Using logical fallacies (e.g., ad hominem, straw man) in debate ___.", options:["weakens your credibility","is acceptable in informal debate","is required by debate rules","strengthens your argument"], answer:0},
-     {q:"The difference between persuasion and manipulation is ___.", options:["manipulation is always acceptable","persuasion relies on accurate evidence, valid logic, and genuine appeals to shared values; manipulation distorts facts, exploits emotional vulnerabilities, or deceives","persuasion is always wrong","there is no difference"], answer:1},
-     {q:"Effective rebuttal requires ___.", options:["ignoring the opponent's arguments","listening carefully to identify the weakest or most contestable point in the opponent's argument and targeting it specifically","only repeating your original points","changing the subject"], answer:1}
+     {q:"The difference between persuasion and manipulation is ___.", options:["manipulation is always acceptable","persuasion is honest; manipulation deceives","persuasion is always wrong","there is no difference"], answer:1},
+     {q:"Effective rebuttal requires ___.", options:["ignoring the opponent's arguments","targeting the weakest point in their argument","only repeating your original points","changing the subject"], answer:1}
    ]},
   {subject:"Functions", title:"Polynomial Functions: Factoring and Solving", summary:"Students factor higher-degree polynomials using the factor theorem, synthetic division, and sum/difference of cubes, and solve polynomial equations.",
    resourceLabel:"YouTube: Polynomial Functions: Factoring and Solving", resourceUrl:"https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Factoring%20and%20Solving%20grade%2011%20educational",
    quiz:[
      {q:"The factor theorem states ___.", options:["a polynomial is always divisible by x","a polynomial has at most 3 factors","x − r is never a factor of a polynomial","if P(r) = 0, then (x − r) is a factor of P(x)"], answer:3},
      {q:"To find a factor of P(x) = x³ − 6x² + 11x − 6, you test integer factors of −6.", options:["P(2) = 8 − 24 + 22 − 6 = 0, so (x − 2) is a factor","P(3) = 27 − 54 + 33 − 6 = 0, so (x − 3) is a factor","Only P(0) = 0 works","P(1) = −2, so (x − 1) is not a factor"], answer:1},
-     {q:"After finding one factor using the factor theorem, you find remaining factors by ___.", options:["using only the quadratic formula","guessing the other factors","trial and error only","polynomial long division or synthetic division to reduce the degree, then factoring or using the quadratic formula on the quotient"], answer:3},
+     {q:"After finding one factor using the factor theorem, you find remaining factors by ___.", options:["using only the quadratic formula","guessing the other factors","trial and error only","dividing to reduce the degree, then factoring"], answer:3},
      {q:"The sum of cubes factors as ___.", options:["a³ + b³ = (a + b)(a + b)²","a³ + b³ = (a − b)(a² + ab + b²)","a³ + b³ = (a + b)(a² − ab + b²)","a³ + b³ = (a + b)³"], answer:2},
      {q:"The roots of P(x) = x³ − 6x² + 11x − 6 = (x−1)(x−2)(x−3) are ___.", options:["x = −1, −2, −3","x = 6, 11, −6","x = 1, 2, 3","x = 0, 1, 2"], answer:2}
    ]},
   {subject:"Biology", title:"Genetics: Mendelian Genetics and Extensions", summary:"Students apply Mendelian genetics to monohybrid and dihybrid crosses and extensions: codominance, incomplete dominance, sex-linked traits.",
    resourceLabel:"YouTube: Genetics: Mendelian Genetics and Extensions", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Mendelian%20Genetics%20and%20Extensions%20grade%2011%20educational",
    quiz:[
-     {q:"In codominance, two alleles ___.", options:["blend to produce an intermediate phenotype","are both recessive","are both expressed simultaneously in the heterozygote","only one is expressed"], answer:2},
+     {q:"In codominance, two alleles ___.", options:["blend to produce an intermediate phenotype","are both recessive","are both expressed at once","only one is expressed"], answer:2},
      {q:"Incomplete dominance produces ___.", options:["only homozygous phenotypes","a new, third phenotype unrelated to either parent","a phenotype matching one parent completely","an intermediate phenotype in the heterozygote"], answer:3},
      {q:"A sex-linked trait is carried on ___.", options:["the mitochondria","an autosome","the X chromosome","only the Y chromosome"], answer:2},
      {q:"A dihybrid cross between two AaBb parents produces offspring in a ___ ratio.", options:["3:1","9:3:3:1 (using a 4×4 Punnett square)","1:1:1:1","1:2:1"], answer:1},
-     {q:"The Hardy-Weinberg principle states ___.", options:["allele frequencies always change each generation","allele and genotype frequencies in a large, randomly mating population remain constant from generation to generation in the absence of evolutionary forces","evolution always occurs","small populations always evolve"], answer:1}
+     {q:"The Hardy-Weinberg principle states ___.", options:["allele frequencies always change each generation","allele frequencies stay constant without evolutionary forces","evolution always occurs","small populations always evolve"], answer:1}
    ]},
   {subject:"Chemistry", title:"Stoichiometry: Mole Concept and Calculations", summary:"Students learn the mole concept, molar mass, Avogadro's number, and perform stoichiometric calculations (mass-to-mole, mole-to-mole, mass-to-mass).",
    resourceLabel:"YouTube: Stoichiometry: Mole Concept and Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Stoichiometry%3A%20Mole%20Concept%20and%20Calculations%20grade%2011%20educational",
@@ -119,8 +119,8 @@ const curriculum: DayContent[] = [
      {q:"One mole of any substance contains ___.", options:["10²³ particles","exactly 1000 g","6.02 × 10²³ particles (Avogadro's number)","Always exactly 22.4 L of volume, regardless of substance"], answer:2},
      {q:"The molar mass of water (H₂O) is ___.", options:["16 g/mol","20 g/mol","18 g/mol (H: 1×2=2, O: 16, total = 18)","2 g/mol"], answer:2},
      {q:"In the equation 2H₂ + O₂ → 2H₂O, the mole ratio of H₂ to H₂O is ___.", options:["1:1 (2 mol H₂ produces 2 mol H₂O)","2:1","2:3","1:2"], answer:0},
-     {q:"A mass-to-mass stoichiometry calculation requires ___.", options:["only the volume of gases","converting grams to moles (using molar mass), applying the mole ratio from the balanced equation, then converting moles back to grams","only the molar mass of reactants","only knowing the balanced equation"], answer:1},
-     {q:"If 4 g of H₂ reacts completely with excess O₂ (molar mass H₂ = 2), how many moles of H₂O form?", options:["4 mol","0.5 mol","2 mol (4g ÷ 2 g/mol = 2 mol H₂; mole ratio H₂:H₂O = 1:1, so 2 mol H₂O)","1 mol"], answer:2}
+     {q:"A mass-to-mass stoichiometry calculation requires ___.", options:["only the volume of gases","converting grams to moles and back","only the molar mass of reactants","only knowing the balanced equation"], answer:1},
+     {q:"If 4 g of H₂ reacts completely with excess O₂ (molar mass H₂ = 2), how many moles of H₂O form?", options:["4 mol","0.5 mol","2 mol","1 mol"], answer:2}
    ]},
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[

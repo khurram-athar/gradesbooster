@@ -47,38 +47,38 @@ const curriculum: DayContent[] = [
   {subject:"English", title:"Independent Study: The Novel — Form and Meaning", summary:"Students read a major novel independently, analysing how formal choices (narration, structure, style) create meaning rather than just content.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
    quiz:[
-     {q:"The distinction between story (fabula) and discourse (sjuzhet) means ___.", options:["only the plot matters","discourse is less important than story","story is the raw chronological events; discourse is how those events are arranged and told","they are the same in all novels"], answer:2},
-     {q:"Free indirect discourse (FID) in a novel allows ___.", options:["only third-person narrators to speak","only interior monologue in first person","a third-person narrator to render a character's thoughts and speech without explicit tags","only direct quotation of characters"], answer:2},
-     {q:"A novel's structure (chapters, parts, epigraphs) ___.", options:["is only for practical reading purposes","is always chronological","has no relation to meaning","creates meaning: fragmented structure can mirror a fragmented self; circular structure can suggest entrapment; the placement of chapter breaks shapes pacing and emphasis"], answer:3},
-     {q:"Analysing a novel's prose style means ___.", options:["only counting long sentences","examining sentence length and rhythm, syntax, imagery, diction, tone, and the relationship between these choices and the novel's themes and effects","only noting the vocabulary level","identifying the author's country of origin"], answer:1},
-     {q:"A sophisticated novel reading at Grade 12 produces ___.", options:["a plot summary with quotations","only a character description","a thematic overview without formal analysis","an argument about how the novel's formal choices create and enrich its meaning"], answer:3}
+     {q:"The distinction between story (fabula) and discourse (sjuzhet) means ___.", options:["only the plot matters","discourse is less important than story","story is raw events; discourse is how they're told","they are the same in all novels"], answer:2},
+     {q:"Free indirect discourse (FID) in a novel allows ___.", options:["only third-person narrators to speak","only interior monologue in first person","a narrator to render thoughts without explicit tags","only direct quotation of characters"], answer:2},
+     {q:"A novel's structure (chapters, parts, epigraphs) ___.", options:["is only for practical reading purposes","is always chronological","has no relation to meaning","shapes meaning, pacing, and emphasis"], answer:3},
+     {q:"Analysing a novel's prose style means ___.", options:["only counting long sentences","examining syntax, imagery, diction, and tone","only noting the vocabulary level","identifying the author's country of origin"], answer:1},
+     {q:"A sophisticated novel reading at Grade 12 produces ___.", options:["a plot summary with quotations","only a character description","a thematic overview without formal analysis","an argument about the novel's formal choices"], answer:3}
    ]},
   {subject:"AdvancedFunctions", title:"Rational Functions: Analysis and Graphing", summary:"Students perform complete analysis of rational functions — identifying all asymptotes, holes, intercepts, and behaviour — and graph them without technology.",
    resourceLabel:"Khan Academy: Graphing Rational Functions", resourceUrl:"https://www.youtube.com/watch?v=5TkIe60y2GI",
    videoUrl:"https://www.youtube.com/watch?v=fy45qX8cUwQ",
    quiz:[
-     {q:"To find all features of a rational function, you must ___.", options:["factor both numerator and denominator completely to identify zeros, holes, vertical asymptotes, and simplify for horizontal/oblique asymptotes","only find where it equals zero","only graph it with technology","only find vertical asymptotes"], answer:0},
-     {q:"A slant (oblique) asymptote exists when ___.", options:["the denominator is linear only","the denominator degree exceeds the numerator","degrees are equal","the numerator degree is exactly 1 more than the denominator"], answer:3},
-     {q:"For f(x) = (2x² + 3x − 2)/( x − 1), the slant asymptote is found by ___.", options:["setting x → ∞ in the numerator","setting denominator = 0","cancelling x terms","dividing 2x² + 3x − 2 by x − 1: 2x + 5 remainder 3, so slant asymptote y = 2x + 5"], answer:3},
-     {q:"To sketch a rational function, the correct sequence is ___.", options:["domain → vertical asymptotes/holes → horizontal/oblique asymptote → x-intercepts → y-intercept → behaviour near asymptotes → connect carefully","graph first, find features after","only find asymptotes","find only the x-intercepts"], answer:0},
-     {q:"The end behaviour of f(x) = (x² + 2)/(x + 1) as x → ±∞ is ___.", options:["approaches y = 1","approaches the slant asymptote y = x − 1 (since x² + 2 ÷ (x+1) = x − 1 remainder 3)","approaches y = x²","approaches the horizontal asymptote y = 0"], answer:1}
+     {q:"To find all features of a rational function, you must ___.", options:["factor fully to find zeros, holes, and asymptotes","only find where it equals zero","only graph it with technology","only find vertical asymptotes"], answer:0},
+     {q:"A slant (oblique) asymptote exists when ___.", options:["the denominator is linear only","the denominator degree exceeds the numerator","degrees are equal","the numerator degree is exactly 1 more"], answer:3},
+     {q:"For f(x) = (2x² + 3x − 2)/( x − 1), the slant asymptote is found by ___.", options:["setting x → ∞ in the numerator","setting denominator = 0","cancelling x terms","dividing to get y = 2x + 5"], answer:3},
+     {q:"To sketch a rational function, the correct sequence is ___.", options:["domain, asymptotes, intercepts, connect","graph first, find features after","only find asymptotes","find only the x-intercepts"], answer:0},
+     {q:"The end behaviour of f(x) = (x² + 2)/(x + 1) as x → ±∞ is ___.", options:["approaches y = 1","approaches the slant asymptote y = x − 1","approaches y = x²","approaches the horizontal asymptote y = 0"], answer:1}
    ]},
   {subject:"Calculus", title:"Derivatives: Definition and Basic Rules", summary:"Students develop the concept of the derivative as a limit of difference quotients, and apply the basic differentiation rules (power, constant, sum, difference).",
    resourceLabel:"Khan Academy: Derivative Rules", resourceUrl:"https://www.youtube.com/watch?v=HEH_oKNLgUU",
    quiz:[
      {q:"The derivative f'(a) is defined as ___.", options:["f(a+1) − f(a)","lim(h→0)[f(a+h) − f(a)]/h","f(a+h) − f(a)","f(a)/h"], answer:1},
-     {q:"The power rule states d/dx[xⁿ] = ___.", options:["xⁿ⁻¹","nxⁿ","nxⁿ+1","nxⁿ⁻¹ — bring down the exponent and reduce it by 1"], answer:3},
-     {q:"d/dx[5x³ − 2x + 7] = ___.", options:["15x³ − 2","15x² − 2 (power rule on each term; constant 7 disappears)","5x³ − 2","5x² − 2"], answer:1},
-     {q:"The derivative of a constant is ___.", options:["undefined","1","0 — constants have no rate of change","the constant itself"], answer:2},
+     {q:"The power rule states d/dx[xⁿ] = ___.", options:["xⁿ⁻¹","nxⁿ","nxⁿ+1","nxⁿ⁻¹"], answer:3},
+     {q:"d/dx[5x³ − 2x + 7] = ___.", options:["15x³ − 2","15x² − 2","5x³ − 2","5x² − 2"], answer:1},
+     {q:"The derivative of a constant is ___.", options:["undefined","1","0","the constant itself"], answer:2},
      {q:"The derivative f'(x) represents ___.", options:["the area under f(x)","the antiderivative of f(x)","the instantaneous rate of change of f(x)","f(x) squared"], answer:2}
    ]},
   {subject:"Physics", title:"Forces: Newton's Laws in 2D", summary:"Students apply Newton's three laws to two-dimensional force problems, including inclined planes, connected masses, and friction.",
    resourceLabel:"Crash Course Physics: Newtons Laws", resourceUrl:"https://www.youtube.com/watch?v=kKKM8Y-u7ds",
    quiz:[
-     {q:"For a block on a frictionless inclined plane at angle θ, the acceleration down the incline is ___.", options:["g sinθ — only the component of gravity along the incline acts (mg sinθ = ma, so a = g sinθ)","g","g tanθ","g cosθ"], answer:0},
-     {q:"Normal force on an inclined plane (angle θ, mass m) is ___.", options:["mg","mg cosθ — perpendicular to the incline surface","mg tanθ","mg sinθ"], answer:1},
-     {q:"Kinetic friction force equals ___.", options:["μₛN","μN always","μₖmg always","μₖN — kinetic friction coefficient times normal force, opposing motion"], answer:3},
-     {q:"Two masses m₁ and m₂ connected by a rope over a frictionless pulley: the acceleration is ___.", options:["g for both","only m₁g","a = (m₁ − m₂)g/(m₁ + m₂) for an Atwood machine — net force divided by total mass","(m₁ − m₂)g/(m₁ + m₂)... wait — depends on orientation"], answer:3},
+     {q:"For a block on a frictionless inclined plane at angle θ, the acceleration down the incline is ___.", options:["g sinθ", "g","g tanθ","g cosθ"], answer:0},
+     {q:"Normal force on an inclined plane (angle θ, mass m) is ___.", options:["mg","mg cosθ","mg tanθ","mg sinθ"], answer:1},
+     {q:"Kinetic friction force equals ___.", options:["μₛN","μN always","μₖmg always","μₖN"], answer:3},
+     {q:"Two masses m₁ and m₂ connected by a rope over a frictionless pulley: the acceleration is ___.", options:["g for both","only m₁g","(m₁ − m₂)g/(m₁ + m₂)","(m₂ − m₁)g/(m₁ + m₂)"], answer:2},
      {q:"Newton's Third Law states that for every action force there is ___.", options:["an equal and opposite reaction force","a smaller reaction force in the same direction","no corresponding reaction","a larger reaction force"], answer:0}
    ]},
 ]},
@@ -86,38 +86,38 @@ const curriculum: DayContent[] = [
   {subject:"English", title:"Literature: The Tragic Form Across Cultures", summary:"Students compare the tragic form in different cultural traditions — Greek tragedy, Shakespearean tragedy, and contemporary tragic narratives — examining what 'tragedy' means across time and culture.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
    quiz:[
-     {q:"Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.", options:["they are identical in form","Greek tragedy has no hero","Shakespeare's tragedies have no tragic flaws","Greek tragedy uses a chorus, observes the three unities (time, place, action), explores fate vs. free will through divine will; Shakespeare focuses on individual psychological complexity in a Christian moral framework"], answer:3},
-     {q:"The concept of catharsis (Aristotle) means ___.", options:["the protagonist's recognition of their error","the villain's punishment","the audience's purging or clarification of emotions — pity and fear experienced through tragedy serve a therapeutic or enlightening function for the audience","the hero's physical death"], answer:0},
-     {q:"Anagnorisis (recognition) in Greek tragedy is ___.", options:["the protagonist's moment of terrible recognition","a minor plot device","only relevant in comedy","the moment of physical death"], answer:0},
-     {q:"Contemporary tragic narratives (film, novel, theatre) typically ___.", options:["avoid tragic form entirely","adapt the tragic form to modern concerns: the tragic hero may be ordinary rather than royal, the forces of doom may be social and psychological rather than divine, and catharsis may be replaced by critique","only follow the Greek model","reproduce the Shakespearean model exactly"], answer:1},
-     {q:"Comparing tragic forms across cultures illuminates ___.", options:["only literary technique","how different cultures understand fate, justice, individual agency, and what makes human suffering meaningful","that tragedy is purely a Western form","only historical differences"], answer:1}
+     {q:"Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.", options:["they are identical in form","Greek tragedy has no hero","Shakespeare's tragedies have no tragic flaws","Greek tragedy uses a chorus and unities"], answer:3},
+     {q:"The concept of catharsis (Aristotle) means ___.", options:["the audience's purging of pity and fear","the villain's punishment","the protagonist's recognition of their error","the hero's physical death"], answer:0},
+     {q:"Anagnorisis (recognition) in Greek tragedy is ___.", options:["a moment of terrible recognition","a minor plot device","only relevant in comedy","the moment of physical death"], answer:0},
+     {q:"Contemporary tragic narratives (film, novel, theatre) typically ___.", options:["avoid tragic form entirely","adapt the tragic hero to be ordinary, not royal","only follow the Greek model","reproduce the Shakespearean model exactly"], answer:1},
+     {q:"Comparing tragic forms across cultures illuminates ___.", options:["only literary technique","how cultures understand fate and justice","that tragedy is purely a Western form","only historical differences"], answer:1}
    ]},
   {subject:"AdvancedFunctions", title:"Exponential and Logarithmic Functions: Advanced Applications", summary:"Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
    resourceLabel:"Khan Academy: Logarithm Properties", resourceUrl:"https://www.youtube.com/watch?v=TMmxKZaCqe0",
    quiz:[
-     {q:"The change of base formula log_b(x) = log(x)/log(b) allows ___.", options:["converting bases only in specific cases","evaluating logarithms in any base using a calculator (which typically has only base-10 or base-e), and simplifying logarithmic expressions","only base-2 conversions","converting only to base 10"], answer:1},
-     {q:"Solve: log₂(x) + log₂(x − 2) = 3", options:["x = 4 or x = −2","x = 4 — check: log₂(4) + log₂(2) = 2 + 1 = 3 ✓","x = 3 (only valid solution: log₂(x(x−2)) = 3 → x(x−2) = 8 → x²−2x−8 = 0 → (x−4)(x+2) = 0 → x = 4 or x = −2; x = −2 rejected since log is undefined there)","x = −2"], answer:1},
-     {q:"Logistic growth f(t) = L/(1 + ae^(−kt)) models populations because ___.", options:["it allows unlimited growth","it only models exponential growth","it shows rapid initial growth that slows as the population approaches the carrying capacity L","it always decreases"], answer:2},
-     {q:"The natural logarithm ln(x) = log_e(x) is especially important because ___.", options:["the number e ≈ 2.718 arises naturally in calculus (as the base of the derivative of exponential functions)","e is a round number","ln has simpler graphs","ln is easier to calculate"], answer:0},
-     {q:"Solve: e^(2x) − 5e^x + 6 = 0", options:["x = ln5","x = ln2 and x = ln3 (let u = e^x: u² − 5u + 6 = (u−2)(u−3) = 0; u = 2 or 3; e^x = 2 → x = ln2; e^x = 3 → x = ln3)","x = 0","x = 2 and x = 3"], answer:1}
+     {q:"The change of base formula log_b(x) = log(x)/log(b) allows ___.", options:["converting bases only in specific cases","evaluating logs in any base on a calculator","only base-2 conversions","converting only to base 10"], answer:1},
+     {q:"Solve: log₂(x) + log₂(x − 2) = 3", options:["x = 4 or x = −2","x = 4","x = 3","x = −2"], answer:1},
+     {q:"Logistic growth f(t) = L/(1 + ae^(−kt)) models populations because ___.", options:["it allows unlimited growth","it only models exponential growth","growth slows as it nears carrying capacity L","it always decreases"], answer:2},
+     {q:"The natural logarithm ln(x) = log_e(x) is especially important because ___.", options:["e arises naturally in calculus","e is a round number","ln has simpler graphs","ln is easier to calculate"], answer:0},
+     {q:"Solve: e^(2x) − 5e^x + 6 = 0", options:["x = ln5","x = ln2 and x = ln3","x = 0","x = 2 and x = 3"], answer:1}
    ]},
   {subject:"Calculus", title:"Derivatives: Product, Quotient, and Chain Rules", summary:"Students master the three composite differentiation rules and apply them to increasingly complex functions.",
    resourceLabel:"Khan Academy: Chain Rule", resourceUrl:"https://www.youtube.com/watch?v=0T0QrHO56qg",
    quiz:[
      {q:"The product rule for d/dx[f(x)g(x)] is ___.", options:["f'(x)g(x) + f(x)g'(x)","f(x)g'(x)","f'(x) × g'(x)","f'(x)g(x)"], answer:0},
-     {q:"The quotient rule for d/dx[f(x)/g(x)] is ___.", options:["[f'(x) − g'(x)] / g(x)","[f'(x)g(x) + f(x)g'(x)] / [g(x)]²","f'(x)/g'(x)","[f'g − fg'] / g²  (low d-high minus high d-low, over low squared)"], answer:3},
+     {q:"The quotient rule for d/dx[f(x)/g(x)] is ___.", options:["[f'(x) − g'(x)] / g(x)","[f'(x)g(x) + f(x)g'(x)] / [g(x)]²","f'(x)/g'(x)","[f'g − fg'] / g²"], answer:3},
      {q:"The chain rule for d/dx[f(g(x))] is ___.", options:["f'(g(x)) × g'(x)","f'(x) × g'(x)","f(g'(x))","f'(g(x))"], answer:0},
-     {q:"d/dx[(3x² + 1)⁵] = ___.", options:["(3x² + 1)⁵ × 6x","5(6x)⁴","5(3x² + 1)⁴ × 6x (chain rule: outer × derivative of inner)","5(3x² + 1)⁴"], answer:2},
-     {q:"d/dx[sin(x²)] = ___.", options:["2x cos(x²) — chain rule: cos(x²) × 2x","sin(2x)","2x cos(x)","cos(x²)"], answer:0}
+     {q:"d/dx[(3x² + 1)⁵] = ___.", options:["(3x² + 1)⁵ × 6x","5(6x)⁴","5(3x² + 1)⁴ × 6x","5(3x² + 1)⁴"], answer:2},
+     {q:"d/dx[sin(x²)] = ___.", options:["2x cos(x²)","sin(2x)","2x cos(x)","cos(x²)"], answer:0}
    ]},
   {subject:"Physics", title:"Work, Energy, and Power: Advanced Applications", summary:"Students apply the work-energy theorem, conservation of mechanical energy, and power calculations to complex problems.",
    resourceLabel:"Crash Course Physics: Work Energy Power", resourceUrl:"https://www.youtube.com/watch?v=xNzS1OsPbFg",
    quiz:[
-     {q:"The work-energy theorem states ___.", options:["net work done on an object equals its change in kinetic energy (W_net = ΔKE)","power equals work divided by displacement","work equals potential energy change","work equals force times velocity"], answer:0},
+     {q:"The work-energy theorem states ___.", options:["net work equals the change in kinetic energy","power equals work divided by displacement","work equals potential energy change","work equals force times velocity"], answer:0},
      {q:"Conservative forces are those for which ___.", options:["no energy is stored","friction is the best example","work done is path-independent","work depends on the path taken"], answer:2},
-     {q:"Conservation of mechanical energy applies when ___.", options:["only conservative forces act — total mechanical energy (KE + PE) remains constant","only gravity acts","there is no kinetic energy","only friction acts"], answer:1},
-     {q:"A 2 kg ball dropped from 5 m hits the ground with kinetic energy ___.", options:["49 J","2 × 9.8 × 5 J = 98 J (confirm both methods agree)","98 J (KE = mgh = 2 × 9.8 × 5 = 98 J, by conservation of energy)","10 J"], answer:2},
-     {q:"Power is ___.", options:["energy per unit volume","force per unit area","the rate of energy transfer or work done: P = W/t = Fv (for constant force parallel to velocity)","work times time"], answer:2}
+     {q:"Conservation of mechanical energy applies when ___.", options:["only conservative forces act, keeping KE + PE constant","only gravity acts","there is no kinetic energy","only friction acts"], answer:1},
+     {q:"A 2 kg ball dropped from 5 m hits the ground with kinetic energy ___.", options:["49 J","78 J","98 J","10 J"], answer:2},
+     {q:"Power is ___.", options:["energy per unit volume","force per unit area","the rate of energy transfer or work done","work times time"], answer:2}
    ]},
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[

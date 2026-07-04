@@ -48,52 +48,52 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Writing: The Literary Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Essay%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=iKtWujjJbjg",
    quiz:[
-     {q:"A literary essay thesis should ___.", options:["ask a question about the text","describe the author's biography","summarise the plot","state an arguable, specific interpretation of the text that the essay will prove through close analysis"], answer:3},
-     {q:"Body paragraphs in a literary essay should follow ___.", options:["no particular structure","the plot chronologically","only description of events","the PEEL or similar structure: Point, Evidence (quotation), Explanation/Analysis, Link"], answer:3},
-     {q:"Embedding a quotation means ___.", options:["dropping in a quote with no context","avoiding quotations entirely","using only long block quotations","integrating the quoted words smoothly into your own sentence so the result is grammatically coherent"], answer:3},
-     {q:"Literary present tense means ___.", options:["using future tense for predictions","only for poetry","writing about the events of a literary text in present tense (e.g., 'Hamlet hesitates because...')","discussing the author's life in present tense"], answer:2},
-     {q:"A counterargument paragraph in a literary essay ___.", options:["proves your thesis is wrong","is always required","acknowledges a competing interpretation and then refutes it, making your argument more sophisticated","only appears in persuasive essays"], answer:2}
+     {q:"A literary essay thesis should ___.", options:["ask a question about the text","describe the author's biography","summarise the plot","state an arguable, specific interpretation"], answer:3},
+     {q:"Body paragraphs in a literary essay should follow ___.", options:["no particular structure","the plot chronologically","only description of events","a Point-Evidence-Analysis-Link structure"], answer:3},
+     {q:"Embedding a quotation means ___.", options:["dropping in a quote with no context","avoiding quotations entirely","using only long block quotations","weaving the quote into your own sentence"], answer:3},
+     {q:"Literary present tense means ___.", options:["using future tense for predictions","only for poetry","writing about the text's events in present tense","discussing the author's life in present tense"], answer:2},
+     {q:"A counterargument paragraph in a literary essay ___.", options:["proves your thesis is wrong","is always required","acknowledges then refutes another view","only appears in persuasive essays"], answer:2}
    ]},
   {subject:"Math", title:"Quadratic Equations: Factoring and the Quadratic Formula", summary:"Students solve quadratic equations by factoring and applying the quadratic formula. They connect solutions to graphs of parabolas.",
    resourceLabel:"YouTube: Quadratic Equations: Factoring and the Quadratic Formula", resourceUrl:"https://www.youtube.com/results?search_query=Quadratic%20Equations%3A%20Factoring%20and%20the%20Quadratic%20Formula%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=IlNAJl36-10",
    quiz:[
      {q:"The quadratic formula is ___.", options:["x = −b/2a","x = b² − 4ac","x = a(x−h)² + k","x = (−b ± √(b²−4ac)) / 2a"], answer:3},
-     {q:"The discriminant b² − 4ac tells you ___.", options:["the vertex of the parabola","the y-intercept","the nature of solutions: positive = 2 real roots, zero = 1 repeated root, negative = no real roots","the axis of symmetry"], answer:2},
+     {q:"The discriminant b² − 4ac tells you ___.", options:["the vertex of the parabola","the y-intercept","the number of real roots","the axis of symmetry"], answer:2},
      {q:"Factor and solve: x² − 7x + 12 = 0", options:["x = 3 and x = −4","x = −3 and x = 4","x = 3 and x = 4","x = −3 and x = −4"], answer:2},
      {q:"Solve using the quadratic formula: 2x² + 3x − 2 = 0", options:["x = 1 and x = −2","x = 1/2 and x = −2","x = 1/2 and x = 2","x = 2 and x = −1/2"], answer:1},
-     {q:"The solutions of a quadratic equation correspond to ___.", options:["the axis of symmetry","the vertex of the parabola","the y-intercepts of the parabola","the x-intercepts (zeros/roots) of the corresponding parabola"], answer:3}
+     {q:"The solutions of a quadratic equation correspond to ___.", options:["the axis of symmetry","the vertex of the parabola","the y-intercepts of the parabola","the x-intercepts of the parabola"], answer:3}
    ]},
   {subject:"Science", title:"Chemistry: Chemical Bonding", summary:"Students explore ionic bonding (transfer of electrons between metals and non-metals) and covalent bonding (sharing of electrons between non-metals).",
    resourceLabel:"YouTube: Chemistry: Chemical Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Bonding%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=OTgpN62ou24",
    quiz:[
-     {q:"Ionic bonds form when ___.", options:["two metals combine","a metal transfers electrons to a non-metal, forming positive and negative ions that attract each other","atoms share electrons equally","two non-metals share electrons"], answer:1},
-     {q:"Covalent bonds form when ___.", options:["metals and non-metals combine","ionic compounds dissolve","two non-metals share one or more pairs of electrons to achieve stable electron configurations","electrons are transferred"], answer:2},
-     {q:"NaCl (table salt) is an example of ___.", options:["a metallic bond","a noble gas compound","a covalent compound","an ionic compound (Na⁺ and Cl⁻ attracted by electrostatic force)"], answer:3},
-     {q:"H₂O is an example of ___.", options:["a noble gas compound","a metallic compound","a covalent compound (oxygen and hydrogen share electrons)","an ionic compound"], answer:2},
-     {q:"Valence electrons are important in bonding because ___.", options:["only metals have them","they are irrelevant to chemical reactions","they are the outermost electrons that atoms share or transfer during chemical bonding","they are in the nucleus"], answer:2}
+     {q:"Ionic bonds form when ___.", options:["two metals combine","a metal transfers electrons to a non-metal","atoms share electrons equally","two non-metals share electrons"], answer:1},
+     {q:"Covalent bonds form when ___.", options:["metals and non-metals combine","ionic compounds dissolve","two non-metals share pairs of electrons","electrons are transferred"], answer:2},
+     {q:"NaCl (table salt) is an example of ___.", options:["a metallic bond","a noble gas compound","a covalent compound","an ionic compound"], answer:3},
+     {q:"H₂O is an example of ___.", options:["a noble gas compound","a metallic compound","a covalent compound","an ionic compound"], answer:2},
+     {q:"Valence electrons are important in bonding because ___.", options:["only metals have them","they are irrelevant to chemical reactions","atoms share or transfer them when bonding","they are in the nucleus"], answer:2}
    ]},
   {subject:"History", title:"Canada's War Effort: Military Contributions", summary:"Students examine Canada's major military contributions in WWII — Battle of Britain, Dieppe, Sicily, Italy, and D-Day.",
    resourceLabel:"YouTube: Canada's War Effort: Military Contributions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20War%20Effort%3A%20Military%20Contributions%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
-     {q:"The British Commonwealth Air Training Plan (BCATP) located in Canada was significant because ___.", options:["it trained only British pilots","it trained nearly 140,000 air crew from Allied nations in Canada, making Canada crucial to Allied air power","Canada refused to participate","it was a failure"], answer:1},
-     {q:"The Dieppe Raid (August 1942) was significant because ___.", options:["it was a major Allied victory","Canada was not involved","it ended the war in Europe","despite being a costly failure with enormous Canadian casualties, it provided crucial lessons that improved the planning of D-Day"], answer:3},
-     {q:"Canadian forces participated in the Italian Campaign (1943-45), which was important because ___.", options:["Canada was only involved in Northwest Europe","liberating Italy helped weaken Axis power in southern Europe and tied up significant German forces, contributing to the overall Allied strategy","the Pacific front was more important","it had no strategic value"], answer:1},
-     {q:"On D-Day (June 6, 1944), Canadians landed at ___.", options:["Juno Beach, one of five Allied landing zones, where they achieved the greatest advance of any Allied force on that day","Gold Beach","Omaha Beach","Utah Beach"], answer:0},
-     {q:"The Liberation of the Netherlands (1944-45) is remembered because ___.", options:["it was the last battle of WWI","it had little strategic importance","Canadian forces played the primary role, and the Dutch people have maintained a deep gratitude and friendship with Canada ever since","only British forces were involved"], answer:2}
+     {q:"The British Commonwealth Air Training Plan (BCATP) located in Canada was significant because ___.", options:["it trained only British pilots","it trained thousands of Allied air crew","Canada refused to participate","it was a failure"], answer:1},
+     {q:"The Dieppe Raid (August 1942) was significant because ___.", options:["it was a major Allied victory","Canada was not involved","it ended the war in Europe","its failure taught lessons for D-Day"], answer:3},
+     {q:"Canadian forces participated in the Italian Campaign (1943-45), which was important because ___.", options:["Canada was only involved in Northwest Europe","it weakened Axis power and tied up German forces","the Pacific front was more important","it had no strategic value"], answer:1},
+     {q:"On D-Day (June 6, 1944), Canadians landed at ___.", options:["Juno Beach","Gold Beach","Omaha Beach","Utah Beach"], answer:0},
+     {q:"The Liberation of the Netherlands (1944-45) is remembered because ___.", options:["it was the last battle of WWI","it had little strategic importance","Canada led it and earned lasting Dutch gratitude","only British forces were involved"], answer:2}
    ]},
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Shakespeare: Studying a Play", summary:"Students read and analyse a Shakespearean play in depth, examining dramatic conventions, language, themes, and historical context. (e.g., Romeo and Juliet, Macbeth, A Midsummer Night's Dream)",
    resourceLabel:"YouTube: Shakespeare: Studying a Play", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Studying%20a%20Play%20grade%2010%20educational",
    quiz:[
-     {q:"Tragic heroes in Shakespeare typically possess ___.", options:["a fundamental flaw (hamartia) that, combined with fate and circumstance, leads to their destruction despite their admirable qualities","only virtues with no flaws","no admirable qualities","complete knowledge of their fate"], answer:0},
-     {q:"Shakespeare's language uses iambic pentameter, which ___.", options:["is always rhymed","is a type of rhyme scheme","has 12 syllables per line","has 10 syllables per line alternating unstressed and stressed (da-DUM), creating a natural speech rhythm"], answer:3},
-     {q:"Dramatic irony in a Shakespeare play occurs when ___.", options:["a character delivers a soliloquy","two characters argue","the audience knows something a character does not, creating tension or dark humour (e.g., the audience knows Romeo and Juliet will die)","the plot has a twist ending"], answer:2},
-     {q:"The theatrical conventions of the Globe Theatre included ___.", options:["women playing female roles","all male cast (boys playing women), minimal scenery, and audiences standing in the yard or seated in galleries","elaborate special effects","private performances only for royalty"], answer:1},
-     {q:"Analysing Shakespeare's language involves ___.", options:["only translating into modern English","ignoring the poetry","examining metaphor, imagery, verse vs. prose, wordplay, and how specific language choices reveal character and develop theme","memorising speeches"], answer:2}
+     {q:"Tragic heroes in Shakespeare typically possess ___.", options:["a fatal flaw that leads to their destruction","only virtues with no flaws","no admirable qualities","complete knowledge of their fate"], answer:0},
+     {q:"Shakespeare's language uses iambic pentameter, which ___.", options:["is always rhymed","is a type of rhyme scheme","has 12 syllables per line","has 10 syllables in a da-DUM rhythm"], answer:3},
+     {q:"Dramatic irony in a Shakespeare play occurs when ___.", options:["a character delivers a soliloquy","two characters argue","the audience knows more than a character","the plot has a twist ending"], answer:2},
+     {q:"The theatrical conventions of the Globe Theatre included ___.", options:["women playing female roles","an all-male cast and minimal scenery","elaborate special effects","private performances only for royalty"], answer:1},
+     {q:"Analysing Shakespeare's language involves ___.", options:["only translating into modern English","ignoring the poetry","examining imagery and wordplay","memorising speeches"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Graphing Parabolas", summary:"Students graph parabolas using vertex form y = a(x−h)² + k, identify key features (vertex, axis of symmetry, direction of opening, x- and y-intercepts), and use transformations.",
    resourceLabel:"YouTube: Quadratics: Graphing Parabolas", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Graphing%20Parabolas%20grade%2010%20educational",
@@ -107,20 +107,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Chemistry: Chemical Reactions", summary:"Students classify chemical reactions (synthesis, decomposition, single displacement, double displacement, combustion) and balance equations.",
    resourceLabel:"YouTube: Chemistry: Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Reactions%20grade%2010%20educational",
    quiz:[
-     {q:"A balanced chemical equation has ___.", options:["the same number of atoms of each element on both sides of the equation","more products than reactants","different total masses on each side","fewer products than reactants"], answer:0},
+     {q:"A balanced chemical equation has ___.", options:["equal atoms of each element on both sides","more products than reactants","different total masses on each side","fewer products than reactants"], answer:0},
      {q:"In a synthesis reaction ___.", options:["one compound breaks into two products","two or more reactants combine to form one product","one element replaces another in a compound","two ionic compounds exchange ions"], answer:1},
-     {q:"Combustion reactions always involve ___.", options:["two ionic compounds reacting","a substance reacting with oxygen to produce heat and light, usually producing CO₂ and H₂O","water and carbon dioxide only","a compound decomposing"], answer:1},
-     {q:"The Law of Conservation of Mass states ___.", options:["only applies to physical changes","mass is lost in combustion","the total mass of reactants equals the total mass of products in a chemical reaction","mass is created in exothermic reactions"], answer:2},
+     {q:"Combustion reactions always involve ___.", options:["two ionic compounds reacting","reacting with oxygen to release heat and light","water and carbon dioxide only","a compound decomposing"], answer:1},
+     {q:"The Law of Conservation of Mass states ___.", options:["only applies to physical changes","mass is lost in combustion","reactant mass equals product mass","mass is created in exothermic reactions"], answer:2},
      {q:"Balance: H₂ + O₂ → H₂O. The balanced equation is ___.", options:["2H₂ + O₂ → 2H₂O","H₂ + 2O₂ → H₂O","H₂ + O₂ → H₂O","H₂ + O₂ → 2H₂O"], answer:0}
    ]},
   {subject:"History", title:"Canada's Home Front in WWII", summary:"Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
    resourceLabel:"YouTube: Canada's Home Front in WWII", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
    quiz:[
-     {q:"The internment of Japanese Canadians during WWII involved ___.", options:["voluntary relocation for safety","about 100 people","the forced removal of approximately 22,000 Japanese Canadians from BC, confiscation of their property, and internment in camps","immediate restoration of rights after the war"], answer:2},
-     {q:"Women's roles changed during WWII because ___.", options:["women were prohibited from wartime work","only nursing was available","with men overseas, women entered the industrial workforce in large numbers, taking on roles previously closed to them","nothing changed significantly"], answer:2},
-     {q:"War industries in Canada during WWII ___.", options:["had no impact on the economy","transformed Canada's economy, producing ships, aircraft, and munitions that made Canada a significant industrial power","led to economic depression","employed only men"], answer:1},
-     {q:"Rationing during WWII in Canada ___.", options:["restricted civilian consumption of resources (food, fuel, rubber, metals) to ensure sufficient supplies for the military","was entirely voluntary","was not necessary in Canada","only applied to luxury goods"], answer:0},
-     {q:"The Quebec government's resistance to conscription during WWII ___.", options:["was supported by the federal Liberal government fully","had no significant effect","reflected deep French-Canadian opposition to fighting in what many Québécois saw as a British war, reviving the tensions of the 1917 conscription crisis","showed Quebec supported full participation"], answer:2}
+     {q:"The internment of Japanese Canadians during WWII involved ___.", options:["voluntary relocation for safety","about 100 people","forced removal and property seizure","immediate restoration of rights after the war"], answer:2},
+     {q:"Women's roles changed during WWII because ___.", options:["women were prohibited from wartime work","only nursing was available","women entered the industrial workforce in large numbers","nothing changed significantly"], answer:2},
+     {q:"War industries in Canada during WWII ___.", options:["had no impact on the economy","made Canada a major industrial power","led to economic depression","employed only men"], answer:1},
+     {q:"Rationing during WWII in Canada ___.", options:["restricted civilian use of key resources","was entirely voluntary","was not necessary in Canada","only applied to luxury goods"], answer:0},
+     {q:"The Quebec government's resistance to conscription during WWII ___.", options:["was supported by the federal Liberal government fully","had no significant effect","revived tensions from the 1917 conscription crisis","showed Quebec supported full participation"], answer:2}
    ]},
 ]},
 {day:4, label:"Day 4 — Thu", subjects:[

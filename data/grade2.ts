@@ -68,7 +68,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%202%20educational",
    videoUrl:"https://www.youtube.com/watch?v=sipMwrk2E9A",
    quiz:[
-     {q:"What is a life cycle?", options:["The stages an animal goes through as it grows","A type of bicycle","A season","A kind of food"], answer:0},
+     {q:"What is a life cycle?", options:["The stages of an animal's growth","A type of bicycle","A season","A kind of food"], answer:0},
      {q:"A caterpillar changes into a...", options:["Frog","Fish","Bird","Butterfly or moth"], answer:3},
      {q:"Baby animals usually need...", options:["Nothing at all","A school","Care, food, and protection from a parent","Only sunlight"], answer:2},
      {q:"Which is the correct order for a frog's life cycle?", options:["Egg, tadpole, frog","Egg, frog, tadpole","Frog, tadpole, egg","Tadpole, frog, egg"], answer:0},
@@ -78,7 +78,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Traditions and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20and%20Celebrations%20grade%202%20educational",
    videoUrl:"https://www.youtube.com/watch?v=pD8dTo4NxHM",
    quiz:[
-     {q:"Why do families have traditions?", options:["To celebrate and share what is important to them","No real reason","To follow rules only","Because they must"], answer:0},
+     {q:"Why do families have traditions?", options:["To celebrate what matters to them","No real reason","To follow rules only","Because they must"], answer:0},
      {q:"Learning about other families' traditions helps us...", options:["Ignore differences","Copy everyone exactly","Forget our own traditions","Understand and respect each other"], answer:3},
      {q:"A celebration is often a time when families...", options:["Avoid each other","Stay silent","Come together to mark something special","Work extra hours"], answer:2},
      {q:"Which is an example of a tradition?", options:["Watching TV once","Brushing teeth","A yearly family celebration or holiday","Walking to school"], answer:2},
@@ -119,7 +119,7 @@ const curriculum: DayContent[] = [
      {q:"Why do communities around the world look different?", options:["Random chance only","No reason","Different climates, land, and cultures","They are all the same"], answer:2},
      {q:"A community near the ocean might rely on...", options:["Fishing","Desert farming only","Nothing special","Snowplowing year round"], answer:0},
      {q:"What do all communities need, no matter where they are?", options:["The same weather","Identical buildings","Nothing in common","Shelter, food, and water"], answer:3},
-     {q:"Comparing communities helps us understand...", options:["Nothing useful","Similarities and differences between places","Only our own community","That everyone is exactly alike"], answer:1},
+     {q:"Comparing communities helps us understand...", options:["Nothing useful","How places are alike and different","Only our own community","That everyone is exactly alike"], answer:1},
      {q:"A community in a cold climate might need...", options:["Only swimsuits","Nothing different","Warm clothing and heated homes","No shelter"], answer:2},
    ]},
 ]},
