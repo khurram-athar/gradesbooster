@@ -128,10 +128,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Fiction vs Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Fiction%20vs%20Non-Fiction%20grade%203%20educational",
    quiz:[
      {q:"A fiction text ___.", options:["is based on real events","only contains facts","contains invented stories and characters","is always about animals"], answer:2},
-     {q:"A non-fiction text ___.", options:["provides factual information about real topics","contains made-up stories","is always a novel","is always written by scientists"], answer:0},
-     {q:"Which is an example of fiction?", options:["A story about a talking dragon who saves a kingdom","A biography of a real person","A newspaper article","A science textbook"], answer:0},
+     {q:"A non-fiction text ___.", options:["gives facts about real topics","contains made-up stories","is always a novel","is always written by scientists"], answer:0},
+     {q:"Which is an example of fiction?", options:["A story about a talking dragon","A biography of a real person","A newspaper article","A science textbook"], answer:0},
      {q:"Which is an example of non-fiction?", options:["A book about how volcanoes form","A story about a magical school","A fairy tale","A book about an imaginary city"], answer:0},
-     {q:"How can you tell if a book is fiction or non-fiction?", options:["Fiction has invented events and characters; non-fiction has real facts and information","By the number of pages","Only by the title","Only by the cover colour"], answer:0}
+     {q:"How can you tell if a book is fiction or non-fiction?", options:["By checking if it's real or made up","By the number of pages","Only by the title","Only by the cover colour"], answer:0}
    ]},
   {subject:"Math", title:"Multiplication: Concept and Arrays", summary:"Students learn multiplication as repeated addition and model it with arrays. 3 × 4 means 3 groups of 4 (or 4 + 4 + 4 = 12).",
    resourceLabel:"YouTube: Multiplication: Concept and Arrays", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Concept%20and%20Arrays%20grade%203%20educational",
@@ -145,20 +145,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Forces Causing Movement", summary:"Students learn that forces (push, pull, gravity, friction, magnetism) can cause objects to start, stop, speed up, or change direction.",
    resourceLabel:"YouTube: Forces Causing Movement", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Causing%20Movement%20grade%203%20educational",
    quiz:[
-     {q:"A force is ___.", options:["a push or pull that can change an object's motion","only wind","only gravity","a type of animal"], answer:0},
-     {q:"Gravity is a force that ___.", options:["pulls objects toward Earth (or any large mass)","only affects large objects","only works in space","pushes things sideways"], answer:0},
-     {q:"Friction is a force that ___.", options:["acts between moving surfaces to slow motion","only affects liquids","only exists in water","speeds objects up always"], answer:0},
+     {q:"A force is ___.", options:["a push or pull","only wind","only gravity","a type of animal"], answer:0},
+     {q:"Gravity is a force that ___.", options:["pulls objects toward Earth","only affects large objects","only works in space","pushes things sideways"], answer:0},
+     {q:"Friction is a force that ___.", options:["slows down moving surfaces","only affects liquids","only exists in water","speeds objects up always"], answer:0},
      {q:"Which force keeps planets orbiting the Sun?", options:["Gravity","Air resistance","Magnetism","Friction"], answer:0},
      {q:"A magnet can ___ a metal object without touching it.", options:["break","melt","paint","attract or repel"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Natural Resources", summary:"Students identify Ontario's natural resources (water, forests, minerals, farmland) and how they are used sustainably.",
    resourceLabel:"YouTube: Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20grade%203%20educational",
    quiz:[
-     {q:"A natural resource is ___.", options:["only a type of animal","only oil and gas","something made in a factory","something found in nature that humans use"], answer:3},
+     {q:"A natural resource is ___.", options:["only a type of animal","only oil and gas","something made in a factory","found in nature and used by people"], answer:3},
      {q:"Which is an example of a natural resource?", options:["Nylon","Fresh water","Plastic","Steel beam"], answer:1},
      {q:"Forestry in Ontario provides ___.", options:["steel and iron","timber for lumber and paper products","electronics","crude oil"], answer:1},
-     {q:"Sustainable use of resources means ___.", options:["never using any resources","using resources in ways that don't permanently deplete them for future generations","only using human-made resources","using as much as possible as fast as possible"], answer:1},
-     {q:"Ontario's Great Lakes are an important natural resource because ___.", options:["only for recreation","they provide drinking water, fishing, transportation, and hydroelectric power","they are in the mountains","they are very small"], answer:1}
+     {q:"Sustainable use of resources means ___.", options:["never using any resources","using resources without using them all up","only using human-made resources","using as much as possible as fast as possible"], answer:1},
+     {q:"Ontario's Great Lakes are an important natural resource because ___.", options:["only for recreation","they provide water and power","they are in the mountains","they are very small"], answer:1}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[

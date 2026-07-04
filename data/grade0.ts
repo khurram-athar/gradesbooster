@@ -156,17 +156,17 @@ const curriculum: DayContent[] = [
      {q:"Living things need water to ___.", options:["survive and stay healthy","only wash","only taste good","only look nice"], answer:0},
      {q:"Where can we find water in nature?", options:["Only in taps","Rivers, lakes, rain, and oceans","Only in bottles","Only in stores"], answer:1},
      {q:"What shape does water take?", options:["Always a ball","Always a cube","The shape of its container","Always flat"], answer:2},
-     {q:"Why is clean water important?", options:["Only for swimming","It is not important","For drinking, cooking, and keeping animals and plants alive","Only for cleaning"], answer:2}
+     {q:"Why is clean water important?", options:["Only for swimming","It is not important","For drinking and cooking","Only for cleaning"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Community Helpers: Police and Firefighters", summary:"Students learn how police officers keep communities safe and how firefighters protect people and property. Both are important community helpers.",
    resourceLabel:"YouTube: Community Helpers: Police and Firefighters", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Police%20and%20Firefighters%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=H2mjK20_3xM",
    quiz:[
      {q:"What do police officers do?", options:["Keep communities safe and uphold laws","Deliver mail","Fix buildings","Teach in schools"], answer:0},
-     {q:"What do firefighters do?", options:["Teach children to read","Only drive trucks","Protect people from fires and respond to emergencies","Only put out campfires"], answer:2},
+     {q:"What do firefighters do?", options:["Teach children to read","Only drive trucks","Protect people from fires","Only put out campfires"], answer:2},
      {q:"What number do you call in an emergency in Canada?", options:["911","411","511","211"], answer:0},
-     {q:"Firefighters wear special gear to ___.", options:["protect themselves from heat, smoke, and flames","look important","only look scary","run faster"], answer:0},
-     {q:"Why are community helpers important?", options:["Only in emergencies","Only adults need them","They are not","They provide services that keep everyone safe and healthy"], answer:3}
+     {q:"Firefighters wear special gear to ___.", options:["protect against fire","look important","only look scary","run faster"], answer:0},
+     {q:"Why are community helpers important?", options:["Only in emergencies","Only adults need them","They are not","They help keep us safe"], answer:3}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[

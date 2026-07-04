@@ -148,8 +148,8 @@ const curriculum: DayContent[] = [
      {q:"Biodiversity means ___.", options:["the size of an ecosystem","the number of plants only","the variety of living organisms in an area","only one type of organism"], answer:2},
      {q:"Greater biodiversity usually means ___.", options:["a healthier, more stable ecosystem","only large animals","a less stable ecosystem","fewer species"], answer:0},
      {q:"Which habitat has the greatest biodiversity?", options:["A single-crop farm","An empty field","A parking lot","A tropical rainforest"], answer:3},
-     {q:"How does biodiversity benefit humans?", options:["It provides food, medicine, and clean air and water","Only animals benefit","Only scientists benefit","It does not"], answer:0},
-     {q:"What threatens biodiversity?", options:["More trees","Habitat destruction, pollution, and invasive species","Clean water","Too much rain"], answer:1}
+     {q:"How does biodiversity benefit humans?", options:["It provides food and medicine","Only animals benefit","Only scientists benefit","It does not"], answer:0},
+     {q:"What threatens biodiversity?", options:["More trees","Habitat loss","Clean water","Too much rain"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Ancient Rome", summary:"Grade 4 Social Studies: Ancient Rome built a vast empire, developing law, engineering, and governance that influenced modern Western civilization.",
    resourceLabel:"YouTube: Ancient Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Rome%20grade%204%20educational",
@@ -158,7 +158,7 @@ const curriculum: DayContent[] = [
      {q:"The Roman Republic had a system of ___.", options:["complete democracy","absolute monarchy","religious rule","representative government with a Senate"], answer:3},
      {q:"Roman engineering achievements include ___.", options:["roads, aqueducts, and the arch","hieroglyphics","the Great Wall","pyramids"], answer:0},
      {q:"The Roman Empire fell in ___.", options:["100 AD","476 AD","1492 AD","1066 AD"], answer:1},
-     {q:"What is one way ancient Rome influences us today?", options:["Greek food","Latin words in English and legal/government systems","Egyptian architecture","No influence"], answer:1}
+     {q:"What is one way ancient Rome influences us today?", options:["Greek food","Latin words in English","Egyptian architecture","No influence"], answer:1}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[

@@ -127,17 +127,17 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Grammar: Sentence Variety and Syntax", summary:"Students use a variety of sentence structures (simple, compound, complex, compound-complex) to improve writing fluency and impact. They avoid common errors like comma splices and run-ons.",
    resourceLabel:"YouTube: Grammar: Sentence Variety and Syntax", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Variety%20and%20Syntax%20grade%208%20educational",
    quiz:[
-     {q:"A compound-complex sentence has ___.", options:["one of each type of clause","only dependent clauses","one independent clause only","two independent clauses and at least one dependent clause"], answer:3},
-     {q:"A comma splice is ___.", options:["a sentence with a subordinating conjunction","a correctly punctuated compound sentence","a sentence with too many commas","an error where two independent clauses are joined with only a comma, no conjunction"], answer:3},
+     {q:"A compound-complex sentence has ___.", options:["one of each type of clause","only dependent clauses","one independent clause only","two independent and one dependent clause"], answer:3},
+     {q:"A comma splice is ___.", options:["a sentence with a subordinating conjunction","a correctly punctuated compound sentence","a sentence with too many commas","two independent clauses joined by only a comma"], answer:3},
      {q:"Which is a run-on sentence?", options:["Although it was late, he stayed.","The storm arrived we had no warning.","She ran quickly, and he followed.","She ran quickly."], answer:1},
-     {q:"Sentence variety improves writing because ___.", options:["varied sentence structures create rhythm, emphasise key points, and keep readers engaged","longer sentences are always better","shorter sentences are always better","only grammar matters"], answer:0},
+     {q:"Sentence variety improves writing because ___.", options:["varied structures create rhythm and engagement","longer sentences are always better","shorter sentences are always better","only grammar matters"], answer:0},
      {q:"Which correctly joins two independent clauses?", options:["She studied hard she passed the exam.","She studied hard; therefore, she passed the exam.","She studied hard and she passed the exam no comma needed","She studied hard, she passed the exam."], answer:1}
    ]},
   {subject:"Math", title:"Geometry: Pythagorean Theorem", summary:"Students understand and apply the Pythagorean Theorem (a² + b² = c²) to find missing side lengths in right triangles and solve real-world problems.",
    resourceLabel:"YouTube: Geometry: Pythagorean Theorem", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Pythagorean%20Theorem%20grade%208%20educational",
    quiz:[
      {q:"The Pythagorean Theorem states that in a right triangle ___.", options:["a × b = c²","a² + b² = c² where c is the hypotenuse","a + b = c","a² − b² = c²"], answer:1},
-     {q:"The hypotenuse is ___.", options:["the vertical side","the side opposite the right angle (always the longest side)","any side","the shortest side"], answer:1},
+     {q:"The hypotenuse is ___.", options:["the vertical side","opposite the right angle","any side","the shortest side"], answer:1},
      {q:"A right triangle has legs of 3 cm and 4 cm. The hypotenuse = ?", options:["6 cm","7 cm","5 cm","25 cm"], answer:2},
      {q:"A ladder 10 m long leans against a wall. The base is 6 m from the wall. How high does it reach?", options:["4 m","7 m","16 m","8 m"], answer:3},
      {q:"Can the Pythagorean Theorem be used on ANY triangle?", options:["Only on isosceles triangles","Only on equilateral triangles","Yes, always","No, only on right triangles"], answer:3}
@@ -147,18 +147,18 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Viscosity is ___.", options:["the mass of a fluid","the boiling point of a fluid","the colour of a fluid","a fluid's resistance to flow"], answer:3},
      {q:"Density of a fluid is ___.", options:["its volume only","mass per unit volume (D = m/V)","its mass only","its temperature"], answer:1},
-     {q:"An object floats when ___.", options:["it is very large","its density is greater than the fluid","its density is less than the density of the fluid it is placed in","it is made of metal"], answer:2},
-     {q:"Pressure in a fluid increases with ___.", options:["only temperature","decreasing depth","increasing depth (due to the increasing weight of fluid above)","the colour of the fluid"], answer:2},
-     {q:"Pascal's principle states that ___.", options:["pressure decreases in fluids","pressure is applied only to the bottom of a fluid","fluids do not transmit pressure","pressure applied to an enclosed fluid is transmitted equally in all directions"], answer:3}
+     {q:"An object floats when ___.", options:["it is very large","its density is greater than the fluid","its density is less than the fluid's","it is made of metal"], answer:2},
+     {q:"Pressure in a fluid increases with ___.", options:["only temperature","decreasing depth","increasing depth","the colour of the fluid"], answer:2},
+     {q:"Pascal's principle states that ___.", options:["pressure decreases in fluids","pressure is applied only to the bottom of a fluid","fluids do not transmit pressure","pressure in an enclosed fluid transmits equally"], answer:3}
    ]},
   {subject:"History", title:"The War of 1812", summary:"Students examine the causes, key battles, and consequences of the War of 1812 for Canada, the United States, Britain, and Indigenous peoples.",
    resourceLabel:"YouTube: The War of 1812", resourceUrl:"https://www.youtube.com/results?search_query=The%20War%20of%201812%20grade%208%20educational",
    quiz:[
-     {q:"A main cause of the War of 1812 was ___.", options:["a trade dispute between France and Britain only","Canada invading the United States","a Canadian declaration of war","British impressment of American sailors and trade interference, plus American desire for westward expansion"], answer:3},
-     {q:"Tecumseh was significant during the War of 1812 because ___.", options:["he led American forces","he negotiated the peace treaty","he founded Upper Canada","he was a Shawnee leader who allied with Britain to resist American expansion, contributing crucially to early British-Canadian victories"], answer:3},
-     {q:"The burning of York (now Toronto) in 1813 ___.", options:["had no military significance","ended the war","was an American victory that destroyed the capital of Upper Canada","was a British victory"], answer:2},
+     {q:"A main cause of the War of 1812 was ___.", options:["a trade dispute between France and Britain only","Canada invading the United States","a Canadian declaration of war","British impressment of American sailors"], answer:3},
+     {q:"Tecumseh was significant during the War of 1812 because ___.", options:["he led American forces","he negotiated the peace treaty","he founded Upper Canada","he was a Shawnee leader allied with Britain"], answer:3},
+     {q:"The burning of York (now Toronto) in 1813 ___.", options:["had no military significance","ended the war","destroyed Upper Canada's capital","was a British victory"], answer:2},
      {q:"The Treaty of Ghent (1814) ended the war ___.", options:["largely restoring pre-war boundaries","with clear British victory","with clear American victory","with Canadian independence"], answer:0},
-     {q:"The War of 1812 contributed to Canadian identity by ___.", options:["leading to Confederation immediately","proving Canada wanted to join the United States","having no lasting impact","creating a sense of shared defence and pride among colonists who had helped repel American invasion"], answer:3}
+     {q:"The War of 1812 contributed to Canadian identity by ___.", options:["leading to Confederation immediately","proving Canada wanted to join the United States","having no lasting impact","creating shared pride in repelling the invasion"], answer:3}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[

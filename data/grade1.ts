@@ -157,7 +157,7 @@ const curriculum: DayContent[] = [
      {q:"Who builds houses and buildings?", options:["A doctor","A chef","A teacher","A construction worker"], answer:3},
      {q:"What does a bus driver do?", options:["Carry passengers from place to place","Fix roads","Teach students","Cook food"], answer:0},
      {q:"Where does a chef work?", options:["A kitchen or restaurant","A hospital","A store","A school"], answer:0},
-     {q:"Why do communities need workers with many different jobs?", options:["Only teachers are needed","Only doctors are needed","They do not","Different jobs meet different community needs"], answer:3},
+     {q:"Why do communities need workers with many different jobs?", options:["Only teachers are needed","Only doctors are needed","They do not","Each job meets a different need"], answer:3},
      {q:"Who repairs broken water pipes?", options:["A baker","A teacher","A plumber","A pilot"], answer:2}
    ]},
 ]},

@@ -125,26 +125,26 @@ const curriculum: DayContent[] = [
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
    quiz:[
      {q:"University literary essays are evaluated primarily on ___.", options:["word count","the number of sources cited","correct grammar only","the quality of the analytical argument"], answer:3},
-     {q:"A 1000+ word essay requires ___.", options:["only one more body paragraph","longer paragraphs with more quotations","more structural complexity: multiple interrelated lines of argument, developed through the essay, requiring careful paragraph sequencing and more sophisticated transitions","simply more of the same as shorter essays"], answer:2},
+     {q:"A 1000+ word essay requires ___.", options:["only one more body paragraph","longer paragraphs with more quotations","more structural complexity and sophisticated transitions","simply more of the same as shorter essays"], answer:2},
      {q:"Evidence in a university essay should be ___.", options:["precisely chosen","replaced by paraphrase always","always a minimum of 5 lines","as long as possible"], answer:0},
-     {q:"The difference between analysis and description in an extended essay is ___.", options:["they are the same at university level","description reports what the text does; analysis explains how and why specific choices create specific effects","analysis only appears in conclusions","description is more academic"], answer:1},
-     {q:"Concluding a long essay effectively requires ___.", options:["synthesising the essay's argument, extending the thesis to its larger implications, and leaving the reader with a new perspective or unresolved question","adding new evidence at the end","summarising all body paragraphs in order","repeating the thesis word for word"], answer:0}
+     {q:"The difference between analysis and description in an extended essay is ___.", options:["they are the same at university level","description reports; analysis explains how and why","analysis only appears in conclusions","description is more academic"], answer:1},
+     {q:"Concluding a long essay effectively requires ___.", options:["synthesising the argument and extending its implications","adding new evidence at the end","summarising all body paragraphs in order","repeating the thesis word for word"], answer:0}
    ]},
   {subject:"AdvancedFunctions", title:"Trigonometric Functions: Identities and Equations (Advanced)", summary:"Students prove and apply advanced trigonometric identities including compound angle, double angle, and sum-to-product formulas, and solve complex trigonometric equations.",
    resourceLabel:"Khan Academy: Trig Identities", resourceUrl:"https://www.youtube.com/watch?v=T9lt6MZKLck",
    quiz:[
-     {q:"To prove a trigonometric identity, you must ___.", options:["start from both sides simultaneously","cross-multiply to eliminate fractions","substitute specific values","work on one side only, transforming it to equal the other, using only known identities and algebraic operations"], answer:3},
-     {q:"Prove: sin2x/(1 + cos2x) = tanx. Using sin2x = 2sinxcosx and cos2x = 2cos²x − 1:", options:["1 + cos2x = 2cos²x; so sin2x/(1+cos2x) = 2sinxcosx/2cos²x = sinx/cosx = tanx ✓","the identity is false","sin2x = tanx always","sin2x/1 + cos2x = tanx is trivially true"], answer:0},
+     {q:"To prove a trigonometric identity, you must ___.", options:["start from both sides simultaneously","cross-multiply to eliminate fractions","substitute specific values","work on one side until it equals the other"], answer:3},
+     {q:"Prove: sin2x/(1 + cos2x) = tanx. Using sin2x = 2sinxcosx and cos2x = 2cos²x − 1:", options:["sin2x/(1+cos2x) simplifies to sinx/cosx = tanx","the identity is false","sin2x = tanx always","sin2x/1 + cos2x = tanx is trivially true"], answer:0},
      {q:"Sum-to-product: sinA + sinB = ___.", options:["2sin(A+B)cos(A−B)","2cos((A+B)/2)sin((A−B)/2)","sin(A+B)","2sin((A+B)/2)cos((A−B)/2)"], answer:3},
-     {q:"To solve 2cos²x − cosx − 1 = 0 on [0°, 360°):", options:["x = 60° only","x = 0° and 180°","let u = cosx: (2u + 1)(u − 1) = 0; cosx = −1/2 → x = 120°, 240°; cosx = 1 → x = 0°","x = 120° only"], answer:2},
-     {q:"The equation sinx = 2 has ___.", options:["infinitely many solutions","no solution — sinx is bounded between −1 and 1 for all real x","one solution at x = 90°","two solutions"], answer:1}
+     {q:"To solve 2cos²x − cosx − 1 = 0 on [0°, 360°):", options:["x = 60° only","x = 0° and 180°","x = 0°, 120°, 240°","x = 120° only"], answer:2},
+     {q:"The equation sinx = 2 has ___.", options:["infinitely many solutions","no solution (sinx ≤ 1)","one solution at x = 90°","two solutions"], answer:1}
    ]},
   {subject:"Calculus", title:"Derivatives of Trigonometric and Exponential Functions", summary:"Students differentiate sin(x), cos(x), tan(x), e^x, and ln(x), and combine these with the chain rule.",
    resourceLabel:"Khan Academy: Derivatives of Trig Functions", resourceUrl:"https://www.youtube.com/watch?v=_niP0JaOgHY",
    quiz:[
      {q:"d/dx[sin x] = ___.", options:["sin x","cos x","−sin x","−cos x"], answer:1},
-     {q:"d/dx[cos x] = ___.", options:["−cos x — this is negative, unlike the derivative of sine","−sin x","cos x","sin x"], answer:0},
-     {q:"d/dx[e^x] = ___.", options:["e^(x−1)","1/e^x","xe^(x−1)","e^x — the exponential function e^x is the unique function equal to its own derivative"], answer:3},
+     {q:"d/dx[cos x] = ___.", options:["−cos x","−sin x","cos x","sin x"], answer:1},
+     {q:"d/dx[e^x] = ___.", options:["e^(x−1)","1/e^x","xe^(x−1)","e^x"], answer:3},
      {q:"d/dx[ln x] = ___.", options:["1/x — valid for x > 0","ln x","x/ln x","1/(x ln x)"], answer:0},
      {q:"d/dx[sin(3x²)] = ___.", options:["3x² cos(3x²)","6x cos(3x²) — chain rule: cos(3x²) × 6x","6x sin(3x²)","cos(3x²)"], answer:1}
    ]},
@@ -152,10 +152,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"Crash Course Physics: Circular Motion", resourceUrl:"https://www.youtube.com/watch?v=bpFK2VCRHUs",
    quiz:[
      {q:"Centripetal acceleration for uniform circular motion is ___.", options:["v²/r directed toward the centre","rω","v/r","tangential acceleration"], answer:0},
-     {q:"The centripetal force is ___.", options:["the outward 'centrifugal force'","a new type of force","the force of rotation","the net inward force that causes circular motion: F_c = mv²/r"], answer:3},
-     {q:"Newton's law of universal gravitation: F = ___.", options:["Gm₁m₂/r² — gravitational force between two masses, inversely proportional to the square of the distance between them","Gm₁m₂r²","Gm₁/m₂r²","Gm₁m₂/r"], answer:0},
-     {q:"Gravitational field strength g at Earth's surface is approximately 9.8 N/kg because ___.", options:["it is defined by convention","the Earth rotates","it is always constant everywhere","g = GM_E/R_E² — the gravitational field strength is Newton's Law applied to one mass at the Earth's surface"], answer:3},
-     {q:"A satellite in circular orbit has ___.", options:["no gravitational force acting on it","zero speed","both thrust force and gravity","only gravity acting, providing the centripetal force: GM_E m/r² = mv²/r, giving orbital speed v = √(GM_E/r)"], answer:3}
+     {q:"The centripetal force is ___.", options:["the outward 'centrifugal force'","a new type of force","the force of rotation","the inward force causing circular motion"], answer:3},
+     {q:"Newton's law of universal gravitation: F = ___.", options:["Gm₁m₂/r²","Gm₁m₂r²","Gm₁/m₂r²","Gm₁m₂/r"], answer:0},
+     {q:"Gravitational field strength g at Earth's surface is approximately 9.8 N/kg because ___.", options:["it is defined by convention","the Earth rotates","it is always constant everywhere","g = GM_E/R_E² from Newton's law"], answer:3},
+     {q:"A satellite in circular orbit has ___.", options:["no gravitational force acting on it","zero speed","both thrust force and gravity","only gravity providing centripetal force"], answer:3}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[

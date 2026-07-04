@@ -128,10 +128,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Argument and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Argument%20and%20Evidence%20grade%207%20educational",
    quiz:[
      {q:"Evidence used to support an argument should be...", options:["Irrelevant","Always an opinion","Made up","Relevant and credible"], answer:3},
-     {q:"A claim is...", options:["A random fact","A footnote only","A statement the writer wants the reader to accept","The title of a piece"], answer:2},
+     {q:"A claim is...", options:["A random fact","A footnote only","A statement to be accepted","The title of a piece"], answer:2},
      {q:"Which is the strongest evidence for an argument about climate change?", options:["A rumor","A made-up statistic","A friend's guess","Scientific data from credible studies"], answer:3},
      {q:"Counterarguments are useful because they...", options:["Should never be mentioned","Are required to be wrong","Weaken your essay always","Show you've considered other viewpoints"], answer:3},
-     {q:"A logical fallacy is...", options:["A flaw in reasoning that weakens an argument","A type of evidence","Always true","A strong argument"], answer:0},
+     {q:"A logical fallacy is...", options:["A reasoning flaw","A type of evidence","Always true","A strong argument"], answer:0},
    ]},
   {subject:"Math", title:"Expressions and Equations", summary:"Simplify algebraic expressions and solve one-step and two-step equations.",
    resourceLabel:"YouTube: Expressions and Equations", resourceUrl:"https://www.youtube.com/results?search_query=Expressions%20and%20Equations%20grade%207%20educational",
@@ -147,7 +147,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Conduction is heat transfer through...", options:["Light only","Empty space only","Sound waves","Direct contact between materials"], answer:3},
      {q:"Convection involves heat transfer through...", options:["Solids only","Light only","The movement of fluids (liquids/gases)","Vacuum only"], answer:2},
-     {q:"Radiation transfers heat through...", options:["Liquids only","Solids only","Electromagnetic waves, even through empty space","Direct contact only"], answer:2},
+     {q:"Radiation transfers heat through...", options:["Liquids only","Solids only","Electromagnetic waves","Direct contact only"], answer:2},
      {q:"The greenhouse effect involves heat being...", options:["Released into space completely","Trapped by gases in the atmosphere","Created from nothing","Destroyed entirely"], answer:1},
      {q:"Dark-coloured surfaces tend to...", options:["Only matter at night","Have no effect on heat","Absorb more heat than light surfaces","Reflect more heat"], answer:2},
    ]},

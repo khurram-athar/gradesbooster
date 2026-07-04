@@ -149,7 +149,7 @@ const curriculum: DayContent[] = [
      {q:"A lever can help you...", options:["Sing a song","Make food","Paint a picture","Lift a heavy object with less effort"], answer:3},
      {q:"Which everyday object uses wheels to move?", options:["A spoon","A pillow","A bicycle","A book"], answer:2},
      {q:"A see-saw is an example of a...", options:["Liquid","Habitat","Lever","Wheel"], answer:2},
-     {q:"Gears work together to...", options:["Transfer movement from one part to another","Stay still forever","Make sounds only","Melt"], answer:0},
+     {q:"Gears work together to...", options:["Move connected parts","Stay still forever","Make sounds only","Melt"], answer:0},
    ]},
   {subject:"SocialStudies", title:"Maps and Globes", summary:"A map is a flat drawing of a place, and a globe is a round model of the whole Earth.",
    resourceLabel:"YouTube: Maps and Globes", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20and%20Globes%20grade%202%20educational",

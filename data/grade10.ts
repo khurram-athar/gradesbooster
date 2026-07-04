@@ -127,11 +127,11 @@ const curriculum: DayContent[] = [
   {subject:"English", title:"Media Studies: Advertising and Persuasion", summary:"Students critically analyse advertising texts across media, examining techniques of persuasion, target audiences, construction of identity, and representation.",
    resourceLabel:"YouTube: Media Studies: Advertising and Persuasion", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Studies%3A%20Advertising%20and%20Persuasion%20grade%2010%20educational",
    quiz:[
-     {q:"Semiotics in media analysis is the study of ___.", options:["signs and symbols and how they create meaning","only visual art","only written language","statistics about media use"], answer:0},
-     {q:"A target audience is ___.", options:["only people who buy the product","the specific group of people an advertiser intends to reach, defined by demographics, interests, and values","all people everywhere","only children"], answer:1},
-     {q:"How advertising constructs identity means ___.", options:["advertisers create associations between products and desirable identities, lifestyles, or values","advertising reflects only real identities","products have no connection to identity","only clothing ads do this"], answer:0},
-     {q:"Representation in media refers to ___.", options:["only gender representation","only who is shown in ads","how media texts portray different groups of people","technical production quality"], answer:2},
-     {q:"Decoding media means ___.", options:["only describing what you see","only for professional critics","actively analysing the constructed meanings, assumptions, and ideological messages embedded in media texts","fixing broken signals"], answer:2}
+     {q:"Semiotics in media analysis is the study of ___.", options:["signs, symbols, and their meaning","only visual art","only written language","statistics about media use"], answer:0},
+     {q:"A target audience is ___.", options:["only people who buy the product","the group an ad intends to reach","all people everywhere","only children"], answer:1},
+     {q:"How advertising constructs identity means ___.", options:["advertisers link products to desirable identities","advertising reflects only real identities","products have no connection to identity","only clothing ads do this"], answer:0},
+     {q:"Representation in media refers to ___.", options:["only gender representation","only who is shown in ads","how media portrays different groups","technical production quality"], answer:2},
+     {q:"Decoding media means ___.", options:["only describing what you see","only for professional critics","analysing meanings embedded in media","fixing broken signals"], answer:2}
    ]},
   {subject:"Math", title:"Quadratics: Standard Form and Applications", summary:"Students work with quadratic functions in standard form (y = ax² + bx + c), find the vertex using x = −b/2a, and model real-world situations.",
    resourceLabel:"YouTube: Quadratics: Standard Form and Applications", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Standard%20Form%20and%20Applications%20grade%2010%20educational",
@@ -145,20 +145,20 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Biology: Cell Biology Review and DNA", summary:"Students review cell structure and extend understanding to DNA structure, the genetic code, and the processes of transcription and translation.",
    resourceLabel:"YouTube: Biology: Cell Biology Review and DNA", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Cell%20Biology%20Review%20and%20DNA%20grade%2010%20educational",
    quiz:[
-     {q:"DNA is a double helix composed of ___.", options:["lipids and carbohydrates","amino acids and lipids","proteins only","nucleotides — each with a sugar (deoxyribose), phosphate group, and one of four nitrogenous bases (A, T, G, C)"], answer:3},
-     {q:"Complementary base pairing in DNA means ___.", options:["Adenine pairs with Thymine (A-T) and Guanine pairs with Cytosine (G-C)","bases pair randomly","only A-T pairs exist","any base can pair with any other"], answer:0},
-     {q:"Transcription is the process of ___.", options:["copying DNA to make a DNA copy","cell division","synthesising mRNA from a DNA template in the nucleus","using mRNA to make a protein"], answer:2},
-     {q:"Translation is the process of ___.", options:["DNA replication","copying DNA","making mRNA","synthesising a protein by reading the mRNA sequence using ribosomes and tRNA"], answer:3},
-     {q:"A mutation is ___.", options:["only in cancer cells","always beneficial","always harmful","a change in the DNA sequence, which may be neutral, beneficial, or harmful, and can be caused by errors in replication or environmental factors (mutagens)"], answer:3}
+     {q:"DNA is a double helix composed of ___.", options:["lipids and carbohydrates","amino acids and lipids","proteins only","nucleotide subunits"], answer:3},
+     {q:"Complementary base pairing in DNA means ___.", options:["A-T and G-C pairs","bases pair randomly","only A-T pairs exist","any base can pair with any other"], answer:0},
+     {q:"Transcription is the process of ___.", options:["copying DNA to make a DNA copy","cell division","making mRNA from a DNA template","using mRNA to make a protein"], answer:2},
+     {q:"Translation is the process of ___.", options:["DNA replication","copying DNA","making mRNA","protein synthesis"], answer:3},
+     {q:"A mutation is ___.", options:["only in cancer cells","always beneficial","always harmful","a change in the DNA sequence"], answer:3}
    ]},
   {subject:"History", title:"The Cold War: Origins and Canada's Role", summary:"Students examine the ideological conflict between the USA and USSR, Canada's participation in NATO and NORAD, and the Korean War.",
    resourceLabel:"YouTube: The Cold War: Origins and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=The%20Cold%20War%3A%20Origins%20and%20Canada%27s%20Role%20grade%2010%20educational",
    quiz:[
-     {q:"The Cold War was primarily ___.", options:["a political, economic, and ideological struggle between the capitalist West (led by the US) and the communist East (led by the USSR), 1945–1991","an economic partnership","a military conflict in Asia only","a hot shooting war between the US and USSR"], answer:0},
-     {q:"The NATO alliance, which Canada joined in 1949, committed members to ___.", options:["trade agreements","a shared currency","collective defence: an attack on one member is considered an attack on all","economic cooperation only"], answer:2},
-     {q:"NORAD (1958) involved Canada and the United States in ___.", options:["a shared space program","joint economic management","joint air defence of North America against the threat of Soviet nuclear bomber attack","a trade agreement"], answer:2},
-     {q:"Canada's participation in the Korean War (1950-53) saw ___.", options:["no Canadian casualties","Canada officially neutral","over 26,000 Canadians serving as part of the UN force, with Canada fulfilling its collective security commitments","Canada leading the UN forces"], answer:2},
-     {q:"The Avro Arrow (CF-105) controversy in 1959 involved ___.", options:["a successful fighter jet program","the Canadian government cancelling what was arguably the world's most advanced jet interceptor, raising questions about Canadian industrial sovereignty and dependence on the US","Canada building nuclear weapons","a dispute with the Soviet Union"], answer:1}
+     {q:"The Cold War was primarily ___.", options:["an ideological struggle between the US and USSR","an economic partnership","a military conflict in Asia only","a hot shooting war between the US and USSR"], answer:0},
+     {q:"The NATO alliance, which Canada joined in 1949, committed members to ___.", options:["trade agreements","a shared currency","mutual defence of members","economic cooperation only"], answer:2},
+     {q:"NORAD (1958) involved Canada and the United States in ___.", options:["a shared space program","joint economic management","joint air defence of North America","a trade agreement"], answer:2},
+     {q:"Canada's participation in the Korean War (1950-53) saw ___.", options:["no Canadian casualties","Canada officially neutral","26,000+ Canadians serving with the UN","Canada leading the UN forces"], answer:2},
+     {q:"The Avro Arrow (CF-105) controversy in 1959 involved ___.", options:["a successful fighter jet program","the government cancelling an advanced jet interceptor","Canada building nuclear weapons","a dispute with the Soviet Union"], answer:1}
    ]},
 ]},
 {day:5, label:"Day 5 — Fri", subjects:[
