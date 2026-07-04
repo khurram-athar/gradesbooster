@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: Elements of Fiction", summary:"Students analyse the key elements of fiction — plot, character, setting, conflict, theme, point of view, and style — in preparation for novel and short story study.",
    resourceLabel:"YouTube: Literary Analysis: Elements of Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Elements%20of%20Fiction%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=znWRP-F8vDc",
    quiz:[
      {q:"Which element of fiction asks 'how is the story told and in whose voice?'", options:["Theme","Setting","Plot","Point of view and narrative style"], answer:3},
      {q:"The climax of a narrative is ___.", options:["the falling action","the opening situation","the point of highest tension where the central conflict reaches its peak","the resolution where conflict is resolved"], answer:2},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Linear Systems: Two Variables", summary:"Students review and extend solving systems of linear equations (two variables) graphically, by substitution, and by elimination. They interpret solutions in context.",
    resourceLabel:"YouTube: Linear Systems: Two Variables", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Systems%3A%20Two%20Variables%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oKqtgz2eo-Y",
    quiz:[
      {q:"A system of two linear equations with one unique solution means ___.", options:["there are infinite solutions","the equations are identical","the lines are parallel","the lines intersect at exactly one point"], answer:3},
      {q:"Solve by elimination: 3x + y = 11 and x − y = 1", options:["x = 3, y = −2","x = 3, y = 2","x = 2, y = 5","x = 4, y = −1"], answer:1},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Atomic Theory and the Periodic Table", summary:"Students examine the development of atomic theory (Dalton, Thomson, Rutherford, Bohr) and how the periodic table organises elements by atomic structure.",
    resourceLabel:"YouTube: Chemistry: Atomic Theory and the Periodic Table", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Atomic%20Theory%20and%20the%20Periodic%20Table%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xTtV61KPV3s",
    quiz:[
      {q:"Rutherford's gold foil experiment showed ___.", options:["electrons orbit in shells","atoms have a small, dense, positively charged nucleus with mostly empty space around it","atoms contain no neutrons","atoms are solid spheres"], answer:1},
      {q:"The Bohr model of the atom shows electrons ___.", options:["in the nucleus","randomly distributed throughout","orbiting the nucleus in specific energy levels (shells)","only on one side of the nucleus"], answer:2},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and World War II: Causes and Outbreak", summary:"Students examine the causes of WWII — rise of fascism, appeasement, Nazi aggression — and Canada's declaration of war and early contributions.",
    resourceLabel:"YouTube: Canada and World War II: Causes and Outbreak", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20World%20War%20II%3A%20Causes%20and%20Outbreak%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aZbpVsQzBeU",
    quiz:[
      {q:"The policy of appeasement pursued by Britain and France in the 1930s meant ___.", options:["supporting Germany's expansion","imposing economic sanctions only","confronting Hitler's aggression immediately","making concessions to Hitler (notably at Munich, 1938) to avoid war — ultimately failing when Germany invaded Poland"], answer:3},
      {q:"Canada declared war on Germany in September 1939 ___.", options:["only after Japan attacked Pearl Harbor","before Britain, showing independence","a week after Britain, demonstrating growing autonomy as a sovereign nation","the same day as Britain, demonstrating full dependence"], answer:2},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Writing: The Literary Essay", summary:"Students write analytical literary essays with a clear thesis, developed body paragraphs using textual evidence, and effective conclusions. They apply the writing process.",
    resourceLabel:"YouTube: Writing: The Literary Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Essay%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iKtWujjJbjg",
    quiz:[
      {q:"A literary essay thesis should ___.", options:["ask a question about the text","describe the author's biography","summarise the plot","state an arguable, specific interpretation of the text that the essay will prove through close analysis"], answer:3},
      {q:"Body paragraphs in a literary essay should follow ___.", options:["no particular structure","the plot chronologically","only description of events","the PEEL or similar structure: Point, Evidence (quotation), Explanation/Analysis, Link"], answer:3},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratic Equations: Factoring and the Quadratic Formula", summary:"Students solve quadratic equations by factoring and applying the quadratic formula. They connect solutions to graphs of parabolas.",
    resourceLabel:"YouTube: Quadratic Equations: Factoring and the Quadratic Formula", resourceUrl:"https://www.youtube.com/results?search_query=Quadratic%20Equations%3A%20Factoring%20and%20the%20Quadratic%20Formula%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IlNAJl36-10",
    quiz:[
      {q:"The quadratic formula is ___.", options:["x = −b/2a","x = b² − 4ac","x = a(x−h)² + k","x = (−b ± √(b²−4ac)) / 2a"], answer:3},
      {q:"The discriminant b² − 4ac tells you ___.", options:["the vertex of the parabola","the y-intercept","the nature of solutions: positive = 2 real roots, zero = 1 repeated root, negative = no real roots","the axis of symmetry"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Chemical Bonding", summary:"Students explore ionic bonding (transfer of electrons between metals and non-metals) and covalent bonding (sharing of electrons between non-metals).",
    resourceLabel:"YouTube: Chemistry: Chemical Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Bonding%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OTgpN62ou24",
    quiz:[
      {q:"Ionic bonds form when ___.", options:["two metals combine","a metal transfers electrons to a non-metal, forming positive and negative ions that attract each other","atoms share electrons equally","two non-metals share electrons"], answer:1},
      {q:"Covalent bonds form when ___.", options:["metals and non-metals combine","ionic compounds dissolve","two non-metals share one or more pairs of electrons to achieve stable electron configurations","electrons are transferred"], answer:2},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's War Effort: Military Contributions", summary:"Students examine Canada's major military contributions in WWII — Battle of Britain, Dieppe, Sicily, Italy, and D-Day.",
    resourceLabel:"YouTube: Canada's War Effort: Military Contributions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20War%20Effort%3A%20Military%20Contributions%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The British Commonwealth Air Training Plan (BCATP) located in Canada was significant because ___.", options:["it trained only British pilots","it trained nearly 140,000 air crew from Allied nations in Canada, making Canada crucial to Allied air power","Canada refused to participate","it was a failure"], answer:1},
      {q:"The Dieppe Raid (August 1942) was significant because ___.", options:["it was a major Allied victory","Canada was not involved","it ended the war in Europe","despite being a costly failure with enormous Canadian casualties, it provided crucial lessons that improved the planning of D-Day"], answer:3},

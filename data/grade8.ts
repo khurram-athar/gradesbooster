@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Reading Strategies: Inference and Evidence", summary:"Readers make inferences by combining text evidence with background knowledge. Students practise identifying implicit meaning and citing specific textual evidence.",
    resourceLabel:"YouTube: Reading Strategies: Inference and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Evidence%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gUW2jit3uvo",
    quiz:[
      {q:"An inference is ___.", options:["a direct quote from the text","a summary of the whole text","a conclusion drawn by combining text clues with background knowledge","a definition of a word"], answer:2},
      {q:"Textual evidence is ___.", options:["specific words, phrases, or details from the text that support a claim or inference","a paraphrase of the main idea","the author's biography","your personal opinion about the text"], answer:0},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Sense: Powers and Scientific Notation", summary:"Students work with powers (base and exponent), evaluate expressions, and write large/small numbers in scientific notation.",
    resourceLabel:"YouTube: Number Sense: Powers and Scientific Notation", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Sense%3A%20Powers%20and%20Scientific%20Notation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bXkewQ7WEdI",
    quiz:[
      {q:"In 5³, the base is ___ and the exponent is ___.", options:["3 and 3","5 and 5","3 and 5","5 and 3"], answer:3},
      {q:"Evaluate 2⁴.", options:["8","32","16","24"], answer:2},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Structure and Function", summary:"Students examine the cell as the basic unit of life. They compare plant and animal cells and identify organelles and their functions.",
    resourceLabel:"YouTube: Cells: Structure and Function", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Structure%20and%20Function%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=URUJD5NEXC8",
    quiz:[
      {q:"The cell theory states ___.", options:["cells are the basic unit of life, all living things are made of cells, and all cells come from pre-existing cells","only animals have cells","only plants have cells","cells are not alive"], answer:0},
      {q:"Which organelle is the 'control centre' of the cell?", options:["Vacuole","Mitochondria","Cell wall","Nucleus"], answer:3},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"New France: Colonisation and Society", summary:"Students explore the establishment of New France, the role of the fur trade, relations with Indigenous peoples, and French colonial society.",
    resourceLabel:"YouTube: New France: Colonisation and Society", resourceUrl:"https://www.youtube.com/results?search_query=New%20France%3A%20Colonisation%20and%20Society%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UqUSY59Kilk",
    quiz:[
      {q:"New France was established primarily because of ___.", options:["the fur trade, which was enormously profitable and drove French interest in North America","religious persecution","farming","gold mining"], answer:0},
      {q:"The seigneurial system in New France was ___.", options:["a system of land grants where seigneurs received land and censitaires (tenant farmers) farmed it in exchange for rent and duties","a democratic land system","a system of slave labour","an Indigenous land management system"], answer:0},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Writing: Thesis Development", summary:"Students craft strong thesis statements for analytical and argumentative essays. A thesis must be specific, debatable, and guide the essay's argument.",
    resourceLabel:"YouTube: Writing: Thesis Development", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Thesis%20Development%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TotaRoYh60Y",
    quiz:[
      {q:"A thesis statement should be ___.", options:["a specific, debatable claim that tells readers what the essay will argue and why","a question","a fact everyone agrees with","a broad topic sentence"], answer:0},
      {q:"Which is the strongest thesis statement?", options:["The Treaty of Versailles was a significant cause of World War II.","World War II was a major event.","There were many causes of World War II.","The Nazi's policy of aggressive expansion, enabled by Allied appeasement, was the primary cause of World War II."], answer:3},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Proportional Reasoning: Rates and Ratios", summary:"Students solve problems involving unit rates, proportions, and percent change. They distinguish proportional from non-proportional relationships.",
    resourceLabel:"YouTube: Proportional Reasoning: Rates and Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Proportional%20Reasoning%3A%20Rates%20and%20Ratios%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iqT_PBzl-XU",
    quiz:[
      {q:"A unit rate expresses a ratio as ___.", options:["a fraction only","any ratio","a percentage","a rate with a denominator of 1"], answer:3},
      {q:"If 5 kg of apples cost $8.75, the unit price is ___.", options:["$43.75/kg","$1.65/kg","$1.75/kg","$1.50/kg"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Cell Division and Specialisation", summary:"Students explore mitosis (cell division for growth and repair), meiosis (for reproduction), and how cells specialise into tissues, organs, and systems.",
    resourceLabel:"YouTube: Cells: Cell Division and Specialisation", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Cell%20Division%20and%20Specialisation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ex0x-w00Uy4",
    quiz:[
      {q:"Mitosis results in ___.", options:["cells with half the DNA","two genetically identical daughter cells","one cell dividing into eight","four genetically different cells"], answer:1},
      {q:"Meiosis results in ___.", options:["two identical cells","identical twins","four genetically unique cells with half the chromosomes (gametes for sexual reproduction)","one large cell"], answer:2},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The British Conquest and After", summary:"Students examine the Seven Years' War in North America (1756–1763), the Battle of the Plains of Abraham, and the subsequent British governance of Quebec.",
    resourceLabel:"YouTube: The British Conquest and After", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Conquest%20and%20After%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KSSeFM_39XM",
    quiz:[
      {q:"The Battle of the Plains of Abraham (1759) was significant because ___.", options:["France won and kept New France","The British defeat of France led to Britain gaining control of New France","The battle was a draw","It had no lasting impact"], answer:1},
      {q:"The Treaty of Paris (1763) ___.", options:["created Canada as a country","formally transferred New France to British control, ending French colonial rule","made New France independent","gave New France back to France"], answer:1},

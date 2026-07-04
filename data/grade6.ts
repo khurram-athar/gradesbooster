@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Author's Purpose: Inform, Persuade, Entertain", summary:"Ontario Reading strand: understanding why an author wrote a text helps readers think critically. Authors write to inform, persuade, or entertain — and sometimes for all three reasons at once.",
    resourceLabel:"YouTube: Author's Purpose: Inform, Persuade, Entertain", resourceUrl:"https://www.youtube.com/results?search_query=Author%27s%20Purpose%3A%20Inform%2C%20Persuade%2C%20Entertain%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ab6Ibi6EJrc",
    quiz:[
      {q:"What is the main purpose of a newspaper article reporting on a city council decision?", options:["To persuade readers to vote","To entertain readers with a funny story","To advertise a product","To inform readers about what happened"], answer:3},
      {q:"An author writes a story about a dragon who learns to share. The MAIN purpose is to:", options:["Persuade readers to donate money","Entertain and teach a lesson","Inform readers about dragons","Report on a news event"], answer:1},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Equivalent Fractions and Comparing", summary:"Ontario Number strand: equivalent fractions represent the same amount using different numerators and denominators. Students compare fractions using benchmarks like 0, 1/2, and 1.",
    resourceLabel:"YouTube: Fractions: Equivalent Fractions and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Equivalent%20Fractions%20and%20Comparing%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dBZ2QGZBH6M",
    quiz:[
      {q:"Which fraction is equivalent to 2/3?", options:["4/6","6/8","3/4","4/9"], answer:0},
      {q:"Which fraction is greater: 3/4 or 5/8?", options:["3/4","They are equal","5/8","Cannot be compared"], answer:0},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity: What It Is and Why It Matters", summary:"Ontario Grade 6 Life Systems strand: biodiversity refers to the variety of life on Earth, including ecosystems, species, and genetic diversity. Biodiversity supports healthy, resilient ecosystems.",
    resourceLabel:"YouTube: Biodiversity: What It Is and Why It Matters", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20What%20It%20Is%20and%20Why%20It%20Matters%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GK_vRtHJZu4",
    quiz:[
      {q:"What does 'biodiversity' mean?", options:["A type of plant disease","The study of birds only","The variety of life in all its forms in an area","The number of humans on Earth"], answer:2},
      {q:"Which of the following is an example of an ecosystem?", options:["A single bacterium","A single oak tree","A forest with many species of plants, animals, and fungi","A jar of water"], answer:2},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Place in the World", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: Canada interacts with other nations through trade, diplomacy, and international organizations. Geographic and cultural ties shape these relationships.",
    resourceLabel:"YouTube: Canada's Place in the World", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Place%20in%20the%20World%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"Canada is a member of which international organization that promotes peace and security?", options:["UN (United Nations)","OPEC","NHL","FIFA"], answer:0},
      {q:"Canada's largest trading partner is:", options:["Mexico","The United States","China","France"], answer:1},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Text Features in Non-Fiction", summary:"Ontario Reading strand: text features such as headings, captions, diagrams, bold words, and tables of contents help readers navigate and understand informational texts.",
    resourceLabel:"YouTube: Text Features in Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%20in%20Non-Fiction%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"What is the purpose of a heading in a non-fiction text?", options:["To make the page look decorative","To tell readers what a section is about","To provide a glossary","To list all the authors"], answer:1},
      {q:"A caption appears:", options:["At the beginning of a chapter","At the top of every page","Below an image to explain what it shows","In the index"], answer:2},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratios and Rates", summary:"Ontario Number strand: a ratio compares two quantities. A rate is a special ratio comparing quantities with different units, such as speed (km/h) or price ($/kg).",
    resourceLabel:"YouTube: Ratios and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20and%20Rates%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"A recipe uses 2 cups of flour for every 3 cups of sugar. What is the ratio of flour to sugar?", options:["3:2","1:5","5:1","2:3"], answer:3},
      {q:"A car travels 120 km in 2 hours. What is its rate (speed)?", options:["30 km/h","120 km/h","60 km/h","240 km/h"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Species in Ecosystems: Producers, Consumers, Decomposers", summary:"Ontario Life Systems strand: in any ecosystem, organisms play roles as producers (plants), consumers (animals), or decomposers (fungi, bacteria). These roles form food webs.",
    resourceLabel:"YouTube: Species in Ecosystems: Producers, Consumers, Decomposers", resourceUrl:"https://www.youtube.com/results?search_query=Species%20in%20Ecosystems%3A%20Producers%2C%20Consumers%2C%20Decomposers%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vOb19r-0kqA",
    quiz:[
      {q:"Which organism is a producer?", options:["A wolf","A frog","A green plant","A mushroom"], answer:2},
      {q:"Decomposers are important because they:", options:["Hunt prey","Produce oxygen only","Break down dead matter and return nutrients to the soil","Grow very tall"], answer:2},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Physical Geography and Regions", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: Canada's seven physical regions (including the Canadian Shield, Interior Plains, and Appalachians) shape its climate, resources, and human settlement patterns.",
    resourceLabel:"YouTube: Canada's Physical Geography and Regions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Physical%20Geography%20and%20Regions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"What is the largest physical region in Canada?", options:["Western Cordillera","Canadian Shield","Interior Plains","Great Lakes–St. Lawrence Lowlands"], answer:1},
      {q:"Which region contains much of Canada's wheat farming?", options:["Arctic Lowlands","Interior Plains","Appalachian Region","Canadian Shield"], answer:1},

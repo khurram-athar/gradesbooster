@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Parts of Speech Review", summary:"Review nouns, verbs, adjectives, and adverbs — the building blocks of sentences.",
    resourceLabel:"YouTube: Parts of Speech Review", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20Speech%20Review%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7zRih61HCZs",
    quiz:[
      {q:"In 'The exhausted hikers slowly climbed the steep trail,' which word is the adverb?", options:["Hikers","Slowly","Steep","Exhausted"], answer:1},
      {q:"Which sentence uses 'run' as a noun, not a verb?", options:["She will run to school.","They run every day.","Dogs run fast.","The team won their morning run."], answer:3},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication Facts and Strategies", summary:"Ontario Number strand: by the end of Grade 5, students should have multiplication/division facts mastered. Review times tables and strategies.",
    resourceLabel:"YouTube: Multiplication Facts and Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20and%20Strategies%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=piTln4g_tYo",
    quiz:[
      {q:"A box holds 8 rows of 7 apples. If 2 apples are removed, how many are left?", options:["52","58","56","54"], answer:3},
      {q:"Which strategy correctly finds 9 × 6 using known facts?", options:["(9 × 5) + 9 = 54","(10 × 6) − 6 = 54","(10 × 6) + 6 = 66","Both the first and third strategies give the correct product"], answer:3},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces Acting on Structures", summary:"Ontario Grade 5 Science strand: structures must withstand forces like tension, compression, and load to stay stable.",
    resourceLabel:"YouTube: Forces Acting on Structures", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Acting%20on%20Structures%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3dU3OSFQNCo",
    quiz:[
      {q:"An engineer designs a bridge that must support heavy trucks. Which forces matter most?", options:["Neither — bridges don't experience forces","Only tension","Only compression","Both tension and compression, since different parts stretch and squeeze"], answer:3},
      {q:"Why do bridges and towers often use triangular shapes instead of squares?", options:["A triangle holds its shape under force, while a square can collapse sideways","Squares aren't allowed in construction","Triangles always use less material","Triangles are cheaper to build"], answer:0},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Encounters: First Peoples and New France", summary:"Ontario Heritage & Identity strand: explore the diverse First Nations societies in what would become Canada, and early encounters with French settlers before 1713.",
    resourceLabel:"YouTube: Early Encounters: First Peoples and New France", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Encounters%3A%20First%20Peoples%20and%20New%20France%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Bzzu1DDFtxI",
    quiz:[
      {q:"Why is it important to consider BOTH First Nations and European perspectives on early encounters?", options:["First Nations perspectives aren't needed","Only European accounts are historically accurate","Each group experienced these events differently, so a full picture needs multiple viewpoints","There was only one shared perspective"], answer:2},
      {q:"Which of these was a direct RESULT of contact between French settlers and First Nations peoples?", options:["Complete isolation between the two groups","Immediate agreement on all matters","No changes to either group's way of life","Trade networks and alliances, alongside conflict"], answer:3},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Sentence Types", summary:"Sentences can be declarative (statement), interrogative (question), imperative (command), or exclamatory (exclamation).",
    resourceLabel:"YouTube: Sentence Types", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Types%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SlU6oo-oHxw",
    quiz:[
      {q:"Which of these is an imperative sentence that also shows urgency?", options:["Could you please close the door?","The door is closed.","Is the door closed?","Close the door now!"], answer:3},
      {q:"Which is the correct interrogative form of 'You are finished with your homework'?", options:["Finish your homework.","Are you finished with your homework?","You are finished with your homework!","You are finished with your homework."], answer:1},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Long Division", summary:"Divide larger numbers using long division, checking your answer with multiplication.",
    resourceLabel:"YouTube: Long Division", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Division%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6Ij98BwDcOg",
    quiz:[
      {q:"A school places 138 chairs into rows of 12. How many full rows, and how many chairs are left over?", options:["12 rows, 5 left over","11 rows, 5 left over","12 rows, 6 left over","11 rows, 6 left over"], answer:3},
      {q:"Which division problem gives a remainder of exactly 3?", options:["29 ÷ 6","31 ÷ 4","36 ÷ 8","27 ÷ 5"], answer:1},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Beams, Columns, and Stability", summary:"Beams support loads horizontally, columns support loads vertically, and a structure's base affects how stable it is.",
    resourceLabel:"YouTube: Beams, Columns, and Stability", resourceUrl:"https://www.youtube.com/results?search_query=Beams%2C%20Columns%2C%20and%20Stability%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=csMLUz-c4wo",
    quiz:[
      {q:"A table has four thin legs vs. one thick central pedestal leg. Which is generally MORE stable, and why?", options:["Both are equally stable regardless of base width","The four-legged table, because a wider base spreads the load","The pedestal table, because one leg is simpler","Neither — stability depends only on colour"], answer:1},
      {q:"An architect needs to span a wide gap between two walls with nothing underneath. Which element should they use?", options:["A foundation only","A pillar only","A beam","A column"], answer:2},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"First Nations, Métis, and Inuit Peoples", summary:"Canada is home to diverse Indigenous peoples — First Nations, Métis, and Inuit — each with distinct histories, cultures, and territories.",
    resourceLabel:"YouTube: First Nations, Métis, and Inuit Peoples", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%2C%20M%C3%A9tis%2C%20and%20Inuit%20Peoples%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WDbjZm3RD3E",
    quiz:[
      {q:"Which statement BEST explains why 'Indigenous peoples of Canada' is not one uniform group?", options:["There are no real differences between these groups","Indigenous peoples only include the Inuit","All Indigenous peoples share one identical culture","First Nations, Métis, and Inuit each have distinct histories, languages, and cultures"], answer:3},
      {q:"The traditional Inuit way of life was most closely shaped by...", options:["Desert conditions","The Arctic environment and its resources","A tropical, humid climate","Dense rainforest ecosystems"], answer:1},

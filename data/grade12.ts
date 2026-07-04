@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: University-Level Essay Writing", summary:"Students develop the analytical writing skills required for first-year university — constructing complex arguments, integrating sources, and writing with precision and intellectual authority.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=UvsH5y91Eoo",
    quiz:[
      {q:"A university-level literary argument differs from a high school argument in that ___.", options:["it avoids personal interpretation","it requires longer essays","it uses more quotations","it engages with the critical conversation around a text — acknowledging existing interpretations and positioning your own reading in relation to them, not just stating your view in isolation"], answer:3},
      {q:"Intellectual authority in academic writing is established through ___.", options:["precise, specific claims supported by carefully selected and analysed evidence — authority comes from the quality of your reasoning, not the confidence of your assertions","only citing many sources","writing confidently regardless of evidence","using complex vocabulary"], answer:0},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Polynomial Functions: Deep Dive into Graphs and Equations", summary:"Students investigate polynomial functions of all degrees — connecting multiplicity of zeros, end behaviour, turning points, and algebraic form to graphical behaviour.",
    resourceLabel:"Khan Academy: Polynomial Graphs", resourceUrl:"https://www.youtube.com/watch?v=1WRYEBHLLm8",
+   videoUrl:"https://www.youtube.com/watch?v=5fOavu0X1Z0",
    quiz:[
      {q:"A polynomial of degree n can have at most ___ real zeros and at most ___ turning points.", options:["n zeros and n turning points","n-1 zeros and n turning points","n zeros and n-1 turning points (a degree-n polynomial has at most n zeros and at most n-1 local maxima/minima)","n+1 zeros and n turning points"], answer:2},
      {q:"A zero of multiplicity 2 means the graph ___.", options:["touches but does not cross the x-axis — the graph is tangent to the x-axis at that zero","crosses the x-axis at a 45° angle","has a vertical asymptote","crosses the x-axis steeply"], answer:0},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Introduction to Limits and Continuity", summary:"Students develop an intuitive and rigorous understanding of limits — what they mean, how to evaluate them, and their role as the foundation of calculus.",
    resourceLabel:"Khan Academy: Limits Intro", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
+   videoUrl:"https://www.youtube.com/watch?v=YNstP0ESndU",
    quiz:[
      {q:"The limit of f(x) as x → a means ___.", options:["the value of f(a)","the value that f(x) approaches as x gets arbitrarily close to a — regardless of (and independent of) f(a) itself","the maximum of f near a","the derivative of f at a"], answer:1},
      {q:"A limit exists at x = a if and only if ___.", options:["f(a) is defined","the function is continuous at a","the left-hand and right-hand limits both exist and are equal to each other","the function is differentiable at a"], answer:2},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Kinematics in 2D: Projectile Motion", summary:"Students analyse projectile motion by decomposing it into independent horizontal and vertical components, applying kinematic equations to each.",
    resourceLabel:"Crash Course Physics: Projectile Motion", resourceUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
+   videoUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
    quiz:[
      {q:"In projectile motion, the horizontal and vertical components are independent because ___.", options:["gravity acts horizontally","horizontal velocity is always zero","air resistance eliminates horizontal motion","gravity only acts vertically — horizontal velocity remains constant (no acceleration), while vertical motion has constant downward acceleration g = 9.8 m/s²"], answer:3},
      {q:"A projectile launched horizontally from height h has a time of flight determined by ___.", options:["the angle of launch","the vertical fall: h = ½gt², so t = √(2h/g) — same as a dropped object from the same height","initial horizontal speed only","only horizontal distance"], answer:1},
@@ -51,6 +55,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Rational Functions: Analysis and Graphing", summary:"Students perform complete analysis of rational functions — identifying all asymptotes, holes, intercepts, and behaviour — and graph them without technology.",
    resourceLabel:"Khan Academy: Graphing Rational Functions", resourceUrl:"https://www.youtube.com/watch?v=5TkIe60y2GI",
+   videoUrl:"https://www.youtube.com/watch?v=fy45qX8cUwQ",
    quiz:[
      {q:"To find all features of a rational function, you must ___.", options:["factor both numerator and denominator completely to identify zeros, holes, vertical asymptotes, and simplify for horizontal/oblique asymptotes","only find where it equals zero","only graph it with technology","only find vertical asymptotes"], answer:0},
      {q:"A slant (oblique) asymptote exists when ___.", options:["the denominator is linear only","the denominator degree exceeds the numerator","degrees are equal","the numerator degree is exactly 1 more than the denominator — found by polynomial long division"], answer:3},

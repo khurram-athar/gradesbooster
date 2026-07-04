@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Short Vowel Sounds", summary:"Ontario Grade 1 Reading strand: students blend short vowel sounds in CVC words such as cat, bed, pig, hop, sun.",
    resourceLabel:"YouTube: Short Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RUSCz41aDug",
    quiz:[
      {q:"Which word has the short A sound?", options:["Cane","Cape","Cake","Cat"], answer:3},
      {q:"Which word has the short E sound?", options:["Bead","Beat","Bed","Bean"], answer:2},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting to 20", summary:"Ontario Grade 1 Number strand: students count forward and backward by 1s within 20 and represent quantities using objects and numerals.",
    resourceLabel:"YouTube: Counting to 20", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%2020%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=D0Ajq682yrA",
    quiz:[
      {q:"What number comes after 15?", options:["13","16","17","14"], answer:1},
      {q:"What number is one less than 10?", options:["12","8","11","9"], answer:3},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Living and Non-living Things", summary:"Ontario Grade 1 Life Systems strand: living things grow, reproduce, and respond to their environment; non-living things do not.",
    resourceLabel:"YouTube: Living and Non-living Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-living%20Things%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yW5VbMEDRJk",
    quiz:[
      {q:"Which of these is a living thing?", options:["Tree","Rock","Table","Chair"], answer:0},
      {q:"Which is NOT a living thing?", options:["Brick","Flower","Dog","Bird"], answer:0},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Ontario Grade 1 Social Studies Heritage and Identity strand: students describe their family and recognize that families differ in structure and traditions.",
    resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FHaObkHEkHQ",
    quiz:[
      {q:"A family is a group of people who ___.", options:["Work at the same job","Live on the same street","Care for each other","All look the same"], answer:2},
      {q:"Which of these is a family member?", options:["Teacher","Neighbour","Parent","Friend"], answer:2},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Long Vowel Sounds", summary:"Ontario Grade 1 Reading strand: long vowels say their name, as in cake, bee, kite, boat, cube. The silent E rule often signals a long vowel.",
    resourceLabel:"YouTube: Long Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xTKPXa9y9TM",
    quiz:[
      {q:"Which word has a long A sound?", options:["Cap","Cat","Cab","Cake"], answer:3},
      {q:"Which word has a long E sound?", options:["Bet","Bed","Bee","Best"], answer:2},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 50", summary:"Ontario Grade 1 Number strand: students count, read, write, and represent whole numbers to 50, and describe their positions on a number line.",
    resourceLabel:"YouTube: Numbers to 50", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2050%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mKSNQuQrsm0",
    quiz:[
      {q:"What number comes after 39?", options:["38","41","40","37"], answer:2},
      {q:"Which is greater: 27 or 32?", options:["Equal","27","Cannot tell","32"], answer:3},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seasonal Changes: Fall", summary:"Ontario Grade 1 Earth and Space Systems strand: in fall, days shorten, leaves change colour and drop, and animals prepare for winter.",
    resourceLabel:"YouTube: Seasonal Changes: Fall", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Fall%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AuHH6U4pufs",
    quiz:[
      {q:"In fall, leaves on deciduous trees ___.", options:["Stay green","Turn colour and fall off","Grow bigger","Turn white"], answer:1},
      {q:"Fall days are ___ than summer days.", options:["Hotter","Longer","The same length","Shorter"], answer:3},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My School Community", summary:"Ontario Grade 1 Social Studies strand: students identify school community members and their roles, and describe how everyone contributes.",
    resourceLabel:"YouTube: My School Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20School%20Community%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zeM5ewySceQ",
    quiz:[
      {q:"Who is usually the leader of a whole school?", options:["A student","A librarian","The principal","A teacher"], answer:2},
      {q:"What is a teacher's main job?", options:["Fix the building","Cook lunch","Help students learn","Drive the bus"], answer:2},

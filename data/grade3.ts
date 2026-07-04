@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Reading Comprehension: Main Idea", summary:"Students identify the main idea and supporting details in short non-fiction texts. The main idea is what the whole passage is mostly about; details explain or support it.",
    resourceLabel:"YouTube: Reading Comprehension: Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Main%20Idea%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xJGQIYU_xhs",
    quiz:[
      {q:"The main idea of a passage is ___.", options:["one small detail","a random fact","the last sentence","what the whole passage is mostly about"], answer:3},
      {q:"Supporting details ___.", options:["are always in brackets","introduce new topics unrelated to the main idea","explain or give examples that support the main idea","are always the first sentence"], answer:2},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Place Value: Ones, Tens, Hundreds", summary:"Students identify the value of digits in numbers up to 999. In 347, the 3 is in the hundreds place (300), the 4 in the tens place (40), and the 7 in the ones place (7).",
    resourceLabel:"YouTube: Place Value: Ones, Tens, Hundreds", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Ones%2C%20Tens%2C%20Hundreds%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QS32l5WhSuY",
    quiz:[
      {q:"In 456, the digit in the tens place is ___.", options:["4","5","45","6"], answer:1},
      {q:"What is the value of the 3 in 382?", options:["300","3000","30","3"], answer:0},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Growth and Changes in Animals", summary:"Students explore how animals change as they grow, including complete and incomplete metamorphosis in insects, and growth in mammals, birds, and reptiles.",
    resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NuHax57Ul-U",
    quiz:[
      {q:"Complete metamorphosis has ___ stages.", options:["5","3","2","4"], answer:3},
      {q:"The four stages of complete metamorphosis are ___.", options:["birth, growth, death, rebirth","seed, sprout, plant, flower","egg, baby, teen, adult","egg, larva, pupa, adult"], answer:3},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Types of Communities: Urban and Rural", summary:"Students compare urban (city) and rural (countryside/farm) communities in Ontario. They examine population, land use, and services available.",
    resourceLabel:"YouTube: Types of Communities: Urban and Rural", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Communities%3A%20Urban%20and%20Rural%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NR7z9FbUf5k",
    quiz:[
      {q:"An urban community is best described as ___.", options:["a single-family home","a forest with no residents","a small farming village","a large city with many people and buildings"], answer:3},
      {q:"A rural community is best described as ___.", options:["a skyscraper district","an underground settlement","a densely populated city","a farming area or small town with fewer people"], answer:3},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Text Features: Headings, Captions, Diagrams", summary:"Students identify and use text features in non-fiction books and articles to navigate text and understand content better.",
    resourceLabel:"YouTube: Text Features: Headings, Captions, Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Headings%2C%20Captions%2C%20Diagrams%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"A heading in a non-fiction text ___.", options:["shows what a section is about","tells a story","is the same as a caption","gives the author's name"], answer:0},
      {q:"A caption is ___.", options:["a table of contents","a type of heading","the words under a picture explaining what it shows","a large title"], answer:2},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition with Regrouping", summary:"Students add 2- and 3-digit numbers with regrouping (carrying). They understand that when a column totals 10 or more, they carry 1 to the next column.",
    resourceLabel:"YouTube: Addition with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20with%20Regrouping%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1Al2Fc3wOIQ",
    quiz:[
      {q:"47 + 35 = ?", options:["72","83","82","73"], answer:2},
      {q:"When a column in addition totals 10 or more, you ___.", options:["ignore the extra","start over","subtract 10 and carry 1 to the next column","write the full number"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Habitats and Ecosystems", summary:"Students learn that a habitat provides the living and non-living things an animal needs to survive: food, water, shelter, and space. Ecosystems include all living and non-living parts of an environment.",
    resourceLabel:"YouTube: Habitats and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20and%20Ecosystems%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1H1zqCvGcus",
    quiz:[
      {q:"A habitat is ___.", options:["only a forest","the environment where an organism lives and finds what it needs to survive","only an ocean","a type of weather"], answer:1},
      {q:"Which is a non-living part of an ecosystem?", options:["Rock and water","Rabbit","Tree","Mushroom"], answer:0},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Features of Ontario", summary:"Students identify and locate major physical features of Ontario on a map: Great Lakes, Canadian Shield, Niagara Falls, Lake Simcoe, and major rivers.",
    resourceLabel:"YouTube: Physical Features of Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Features%20of%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eEcJgfIpgrA",
    quiz:[
      {q:"The Great Lakes are ___.", options:["a type of Canadian animal","rivers in northern Ontario","a chain of five large freshwater lakes on Ontario's southern border","mountain ranges"], answer:2},
      {q:"The Canadian Shield is ___.", options:["an ocean region","a vast ancient rock formation covering much of northern Ontario and Canada","a flat farming region","a hockey shield"], answer:1},

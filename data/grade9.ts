@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Complex Sentences and Clauses", summary:"Review independent/dependent clauses and how subordinating conjunctions build complex sentences (ENL1W Strand A/B).",
    resourceLabel:"YouTube: Complex Sentences and Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Complex%20Sentences%20and%20Clauses%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=smgyeUomfyA",
    quiz:[
      {q:"A subordinating conjunction like 'although' introduces a...", options:["Dependent clause","A title","Independent clause only","A new paragraph"], answer:0},
      {q:"A complex sentence contains...", options:["Only one independent clause","No clauses at all","Only dependent clauses","An independent clause and at least one dependent clause"], answer:3},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebraic Expressions Review", summary:"Simplify and evaluate algebraic expressions, applying order of operations (MTH1W Number Sense/Algebra strand).",
    resourceLabel:"YouTube: Algebraic Expressions Review", resourceUrl:"https://www.youtube.com/results?search_query=Algebraic%20Expressions%20Review%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nuEvGRc6xBo",
    quiz:[
      {q:"Simplify: 3x + 5x - 2x", options:["8x","10x","6x","4x"], answer:2},
      {q:"Evaluate 2x + 3 when x = 4", options:["9","11","10","14"], answer:1},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sustainable Ecosystems Review", summary:"Review interdependence in ecosystems and human impact on sustainability, leading into SNC1W's ecosystems strand.",
    resourceLabel:"YouTube: Sustainable Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Ecosystems%20Review%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=d6cHRPuQNRo",
    quiz:[
      {q:"A sustainable ecosystem is one that can...", options:["Only exist with no human impact","Never change","Maintain itself over time without collapsing","Always be artificial"], answer:2},
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","Only the number of trees","Water levels only","A single species count"], answer:0},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Introduction to Geographic Inquiry", summary:"CGC1W begins with geographic inquiry — asking questions, gathering geographic data, and analyzing spatial patterns.",
    resourceLabel:"YouTube: Introduction to Geographic Inquiry", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Geographic%20Inquiry%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=haL91JLuJxI",
    quiz:[
      {q:"Geographic inquiry typically begins with...", options:["Avoiding data","Asking a geographic question","Only memorizing maps","Skipping research entirely"], answer:1},
      {q:"Spatial patterns refer to...", options:["How things are arranged or distributed across space","Government structures","Only population numbers","Currency exchange rates"], answer:0},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Thesis Statements and Essay Structure", summary:"A strong thesis statement presents a clear, arguable claim that guides the structure of an essay (ENL1W Strand B).",
    resourceLabel:"YouTube: Thesis Statements and Essay Structure", resourceUrl:"https://www.youtube.com/results?search_query=Thesis%20Statements%20and%20Essay%20Structure%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5hltJomQUcg",
    quiz:[
      {q:"A thesis statement should be...", options:["Clear and arguable","A simple fact with no claim","A question only","Vague and broad"], answer:0},
      {q:"Where is a thesis statement usually located?", options:["In a footnote","In the introduction","Nowhere in the essay","Only in the conclusion"], answer:1},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Linear Relations: Intro to Slope", summary:"Slope describes the rate of change of a linear relation — rise over run (MTH1W Algebra/Linear Relations strand).",
    resourceLabel:"YouTube: Linear Relations: Intro to Slope", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Relations%3A%20Intro%20to%20Slope%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0ofTvk9uAl8",
    quiz:[
      {q:"Slope is calculated as...", options:["X plus Y","Rise over run","X times Y","Run over rise"], answer:1},
      {q:"A line with a slope of 0 is...", options:["Horizontal","Diagonal","Undefined","Vertical"], answer:0},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nature of Matter: Atomic Theory", summary:"Review atomic structure (protons, neutrons, electrons) and the periodic table, a foundation of SNC1W's chemistry strand.",
    resourceLabel:"YouTube: Nature of Matter: Atomic Theory", resourceUrl:"https://www.youtube.com/results?search_query=Nature%20of%20Matter%3A%20Atomic%20Theory%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=e9GuJUaX0UM",
    quiz:[
      {q:"Protons have what charge?", options:["Neutral","Negative","Positive","Variable"], answer:2},
      {q:"Electrons have what charge?", options:["Negative","Neutral","Variable","Positive"], answer:0},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Resources and Industries in Canada", summary:"CGC1W explores how Canada's natural resources support various industries and regional economies.",
    resourceLabel:"YouTube: Natural Resources and Industries in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20and%20Industries%20in%20Canada%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
    quiz:[
      {q:"Canada's forestry industry depends on...", options:["Ocean fisheries only","Tropical climates","Desert land","Forest resources"], answer:3},
      {q:"The Prairie provinces' economy relies heavily on...", options:["Only fishing","Only tourism","Agriculture and energy resources","Only forestry"], answer:2},

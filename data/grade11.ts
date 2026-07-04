@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: Developing Advanced Thesis Statements", summary:"Students develop arguable, specific, sophisticated thesis statements that go beyond observation to make an interpretive claim about a text.",
    resourceLabel:"YouTube: Literary Analysis: Developing Advanced Thesis Statements", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Developing%20Advanced%20Thesis%20Statements%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5hltJomQUcg",
    quiz:[
      {q:"An advanced thesis statement in Grade 11 must be ___.", options:["a summary of the plot","a fact about the text","a question you will answer in the essay","an arguable interpretive claim — a position that a reasonable person could disagree with, which you will support with evidence and analysis"], answer:3},
      {q:"The difference between a Grade 9 thesis ('The theme of friendship is shown in the novel') and a Grade 11 thesis is ___.", options:["only length","they are equivalent","Grade 11 avoids thesis statements","a Grade 11 thesis must specify HOW and WHY: 'By portraying friendship as simultaneously sustaining and suffocating, the novel critiques the social pressure to prioritise relationships over individual identity'"], answer:3},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Introduction to Functions: Review and Deepening", summary:"Students consolidate Grade 10 function concepts and deepen their understanding of function notation, compositions, inverses, and transformations.",
    resourceLabel:"YouTube: Introduction to Functions: Review and Deepening", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Functions%3A%20Review%20and%20Deepening%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=52tpYl2tTqk",
    quiz:[
      {q:"The composition f(g(x)) means ___.", options:["f(x) + g(x)","apply g first, then apply f to the result — the output of g becomes the input of f","(f + g)(x)","f(x) × g(x)"], answer:1},
      {q:"If f(x) = 2x + 1, find f(g(x)) where g(x) = x².", options:["2x² + 1","4x + 1","(2x+1)²","2x + x²"], answer:0},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Cell Biology: Cell Structure and Organelle Functions", summary:"Students review and deepen their understanding of cell organelles, distinguishing eukaryotic from prokaryotic cells and plant from animal cells.",
    resourceLabel:"YouTube: Cell Biology: Cell Structure and Organelle Functions", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Biology%3A%20Cell%20Structure%20and%20Organelle%20Functions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=URUJD5NEXC8",
    quiz:[
      {q:"The key distinction between prokaryotic and eukaryotic cells is ___.", options:["absence vs. presence of a nucleus: prokaryotes (bacteria) have no membrane-bound nucleus; eukaryotes (animals, plants, fungi) have a defined nucleus enclosed by a membrane","number of chromosomes","size only","presence of a cell wall"], answer:0},
      {q:"The mitochondrion's primary function is ___.", options:["DNA replication","protein synthesis","lipid storage","ATP (energy) production through cellular respiration — converting glucose and oxygen to ATP, CO₂, and water"], answer:3},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Matter and Chemical Bonding: Review and Extension", summary:"Students review atomic theory, the periodic table, and chemical bonding, and extend to molecular geometry and polarity.",
    resourceLabel:"YouTube: Matter and Chemical Bonding: Review and Extension", resourceUrl:"https://www.youtube.com/results?search_query=Matter%20and%20Chemical%20Bonding%3A%20Review%20and%20Extension%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S_k0kr2eZSQ",
    quiz:[
      {q:"Electronegativity is ___.", options:["the number of electrons in an atom","the charge of an ion","the energy released in bonding","an atom's ability to attract electrons toward itself in a chemical bond — increases across a period (left to right) and decreases down a group"], answer:3},
      {q:"A polar covalent bond forms when ___.", options:["electrons are transferred between atoms","electrons are shared equally","atoms share electrons unequally (due to electronegativity differences), creating partial positive and negative charges (δ+ and δ−) on the bonded atoms","atoms have identical electronegativities"], answer:2},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Independent Reading: Canadian Literature", summary:"Students read and analyse a Canadian novel or short story collection, examining Canadian identity, landscape, and social themes.",
    resourceLabel:"YouTube: Independent Reading: Canadian Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Canadian%20Literature%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=c9fqaQBdbzI",
    quiz:[
      {q:"What makes a work 'distinctly Canadian' in literature?", options:["Only being set in Canada","Only being written by a Canadian-born author","It cannot be defined","Often a combination of landscape and environment as significant forces, themes of identity in a vast, cold, multicultural nation, irony and understatement, and engagement with the colonial legacy"], answer:3},
      {q:"Alice Munro's short stories are often described as having ___.", options:["happy endings always","no female characters","extraordinary compression and depth — exploring entire lives and deep psychological truths within a few pages through non-linear structure and precise observation","simple linear plots"], answer:2},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Polynomial Functions: Characteristics and Graphs", summary:"Students investigate polynomial functions of degree 3 and higher — end behaviour, zeros (with multiplicity), local extrema, and connecting equations to graphs.",
    resourceLabel:"YouTube: Polynomial Functions: Characteristics and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Characteristics%20and%20Graphs%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a5x4lwnvHM0",
    quiz:[
      {q:"A polynomial of odd degree with a positive leading coefficient has end behaviour: ___.", options:["rises right, rises left","falls left, rises right — as x → −∞, y → −∞; as x → +∞, y → +∞","rises left, falls right","falls right, falls left"], answer:1},
      {q:"A zero with multiplicity 2 means ___.", options:["the zero appears twice in different equations","the function has two y-intercepts","there are two separate zeros","the factor (x − r)² appears — the graph touches but does not cross the x-axis at that zero"], answer:3},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Cell Division: Mitosis and Meiosis Compared", summary:"Students compare mitosis (somatic cell division) and meiosis (gamete formation), explaining their roles in growth, repair, and sexual reproduction.",
    resourceLabel:"YouTube: Cell Division: Mitosis and Meiosis Compared", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Division%3A%20Mitosis%20and%20Meiosis%20Compared%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zrKdz93WlVk",
    quiz:[
      {q:"Mitosis produces ___.", options:["4 haploid daughter cells","2 cells with half the chromosomes","2 haploid daughter cells","2 diploid daughter cells genetically identical to the parent — used for growth, repair, and asexual reproduction"], answer:3},
      {q:"Meiosis produces ___.", options:["2 diploid cells","2 cells with double chromosomes","4 genetically identical diploid cells","4 haploid daughter cells that are genetically diverse — used in sexual reproduction to produce eggs and sperm"], answer:3},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemical Reactions: Types and Balancing", summary:"Students classify chemical reactions (synthesis, decomposition, single/double displacement, combustion) and practise balancing equations with increasing complexity.",
    resourceLabel:"YouTube: Chemical Reactions: Types and Balancing", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Reactions%3A%20Types%20and%20Balancing%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z0187f8gqfU",
    quiz:[
      {q:"A synthesis reaction has the general form ___.", options:["AB → A + B","A + B → AB — two or more reactants combine to form a single product","AB + CD → AD + CB","AB → A + B + C"], answer:1},
      {q:"A double displacement (metathesis) reaction involves ___.", options:["two compounds exchanging their ionic partners: AB + CD → AD + CB","one reactant forming two products","one element replacing another in a compound","combining two elements"], answer:0},

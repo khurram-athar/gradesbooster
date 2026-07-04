@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Parts of Speech", summary:"Grade 4 Language strand: nouns name people/places/things, verbs show actions, adjectives describe nouns, adverbs describe verbs.",
    resourceLabel:"YouTube: Parts of Speech", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20Speech%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZqLeGm4k6CU",
    quiz:[
      {q:"A noun names a person, place, or ___.", options:["conjunction","thing","description","action"], answer:1},
      {q:"Which word is a verb in: The quick dog ran?", options:["ran","quick","The","dog"], answer:0},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication Facts to 10×10", summary:"Grade 4 Number strand: students recall multiplication facts to 10×10 fluently and use them to solve problems.",
    resourceLabel:"YouTube: Multiplication Facts to 10×10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20to%2010%C3%9710%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6owKqFWej-w",
    quiz:[
      {q:"7 × 8 = ?", options:["54","48","56","64"], answer:2},
      {q:"6 × 9 = ?", options:["48","56","54","63"], answer:2},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Habitats and Communities", summary:"Grade 4 Science Life Systems strand: a habitat is where organisms live; a community is all the organisms sharing a habitat and interacting.",
    resourceLabel:"YouTube: Habitats and Communities", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20and%20Communities%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=p3PX1x6scbA",
    quiz:[
      {q:"A habitat provides food, water, shelter, and ___.", options:["space","money","electricity","television"], answer:0},
      {q:"A community includes ___.", options:["only predators","all living things in an area","only plants","only animals"], answer:1},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Civilizations Overview", summary:"Grade 4 Social Studies Heritage strand: ancient civilizations developed organized societies with government, art, writing, and technology.",
    resourceLabel:"YouTube: Ancient Civilizations Overview", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilizations%20Overview%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Kepp9g9Ccqk",
    quiz:[
      {q:"An ancient civilization is ___.", options:["a modern city","a type of government","a geography term","a society from thousands of years ago"], answer:3},
      {q:"Which of these is NOT an ancient civilization?", options:["Egypt","Canada (modern)","Rome","Greece"], answer:1},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Sentence Types", summary:"Grade 4 Language strand: the four sentence types are declarative (statement), interrogative (question), imperative (command), and exclamatory.",
    resourceLabel:"YouTube: Sentence Types", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Types%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WYnpf44ojFU",
    quiz:[
      {q:"A declarative sentence ___.", options:["gives a command","makes a statement","asks a question","shows surprise"], answer:1},
      {q:"An interrogative sentence ends with a ___.", options:["exclamation mark","comma","question mark","period"], answer:2},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Division Basics", summary:"Grade 4 Number strand: division is sharing equally or grouping. Students divide with dividends to 100 using multiplication facts.",
    resourceLabel:"YouTube: Division Basics", resourceUrl:"https://www.youtube.com/results?search_query=Division%20Basics%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2-sP854NMLw",
    quiz:[
      {q:"35 ÷ 7 = ?", options:["4","6","5","7"], answer:2},
      {q:"48 ÷ 6 = ?", options:["6","7","8","9"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Food Chains and Webs", summary:"Grade 4 Science Life Systems: a food chain shows energy flow from producer to consumer. A food web shows interconnected food chains.",
    resourceLabel:"YouTube: Food Chains and Webs", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20and%20Webs%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZbqCDUOygXg",
    quiz:[
      {q:"Producers in a food chain are ___.", options:["animals that eat plants","carnivores","plants that make their own food","decomposers"], answer:2},
      {q:"A herbivore is an animal that eats ___.", options:["only meat","nothing","both plants and meat","only plants"], answer:3},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Egypt", summary:"Grade 4 Social Studies: Ancient Egypt flourished along the Nile River, developing writing (hieroglyphics), monumental architecture, and complex government.",
    resourceLabel:"YouTube: Ancient Egypt", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Egypt%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zYxC14pCaJ0",
    quiz:[
      {q:"Ancient Egypt was located in ___.", options:["Africa","Europe","Asia","South America"], answer:0},
      {q:"The Nile River was important because ___.", options:["it had gold","it provided fertile soil and water for farming","it was the longest river","it separated Egypt from enemies"], answer:1},

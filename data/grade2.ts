@@ -24,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Living vs. Nonliving Things", summary:"Ontario Life Systems strand: living things grow, need food/water/air, and respond to their environment; nonliving things do not.",
    resourceLabel:"YouTube: Living vs. Nonliving Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20vs.%20Nonliving%20Things%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QmQvdUaH7hE",
    quiz:[
      {q:"Which of these is a living thing?", options:["Cloud","Tree","Rock","Chair"], answer:1},
      {q:"Which of these is NOT living?", options:["Dog","Bird","Bicycle","Flower"], answer:2},
@@ -33,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Family and Community", summary:"Ontario Heritage & Identity strand: families and communities have traditions, celebrations, and roles that make up our personal and community identity.",
    resourceLabel:"YouTube: My Family and Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20and%20Community%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
      {q:"A community is a place where people...", options:["Only work","Never meet","Live alone","Live and help each other"], answer:3},
      {q:"Which of these is part of a community?", options:["An ocean far away","A different planet","School","The moon"], answer:2},
@@ -44,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Long Vowel Sounds", summary:"Long vowels often say their own name, like in cake, bee, kite, boat, and cube.",
    resourceLabel:"YouTube: Long Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4TjcT7Gto3U",
    quiz:[
      {q:"Which word has a long 'a' sound?", options:["cat","cab","cake","cap"], answer:2},
      {q:"Which word has a long 'e' sound?", options:["bee","bed","bet","beg"], answer:0},
@@ -63,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Growth and Changes in Animals", summary:"Ontario Life Systems strand for Grade 2: animals grow and change through life cycles and need certain things to survive.",
    resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sipMwrk2E9A",
    quiz:[
      {q:"What is a life cycle?", options:["The stages an animal goes through as it grows","A type of bicycle","A season","A kind of food"], answer:0},
      {q:"A caterpillar changes into a...", options:["Frog","Fish","Bird","Butterfly or moth"], answer:3},
@@ -72,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Traditions and Celebrations", summary:"Different families and communities in Canada celebrate different traditions, and learning about them builds understanding and respect.",
    resourceLabel:"YouTube: Traditions and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20and%20Celebrations%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pD8dTo4NxHM",
    quiz:[
      {q:"Why do families have traditions?", options:["To celebrate and share what is important to them","No real reason","To follow rules only","Because they must"], answer:0},
      {q:"Learning about other families' traditions helps us...", options:["Ignore differences","Copy everyone exactly","Forget our own traditions","Understand and respect each other"], answer:3},

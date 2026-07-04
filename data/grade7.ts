@@ -4,6 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Clauses and Sentence Structure", summary:"Independent clauses can stand alone; dependent clauses cannot and need to attach to an independent clause.",
    resourceLabel:"YouTube: Clauses and Sentence Structure", resourceUrl:"https://www.youtube.com/results?search_query=Clauses%20and%20Sentence%20Structure%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ta5jmaRvnGU",
    quiz:[
      {q:"An independent clause...", options:["Has no subject","Can stand alone as a sentence","Can never stand alone","Has no verb"], answer:1},
      {q:"A dependent clause...", options:["Is always a question","Can always stand alone","Cannot stand alone and needs an independent clause","Has no meaning ever"], answer:2},
@@ -13,6 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratios and Rates", summary:"A ratio compares two quantities; a rate compares quantities with different units, like km/h.",
    resourceLabel:"YouTube: Ratios and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20and%20Rates%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"If a recipe uses 2 cups flour to 1 cup sugar, the ratio of flour to sugar is...", options:["1:2","2:1","1:1","3:1"], answer:1},
      {q:"A car travels 240 km in 4 hours. What is its rate?", options:["60 km/h","50 km/h","40 km/h","80 km/h"], answer:0},
@@ -22,6 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Interactions in the Environment", summary:"Ontario Grade 7 Science strand: ecosystems involve interactions between living things and their environment, including food chains/webs and nutrient cycles.",
    resourceLabel:"YouTube: Interactions in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Interactions%20in%20the%20Environment%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UMbrxi_DsXc",
    quiz:[
      {q:"A food web shows...", options:["A single food chain only","Only producers","Multiple interconnected food chains in an ecosystem","Only predators"], answer:2},
      {q:"Producers in an ecosystem are organisms that...", options:["Do nothing","Make their own food, like plants","Eat other organisms only","Decompose dead matter only"], answer:1},
@@ -31,6 +34,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"New France and British North America", summary:"Ontario Grade 7 History strand: explore the events, peoples, and changes in New France and British North America up to 1800.",
    resourceLabel:"YouTube: New France and British North America", resourceUrl:"https://www.youtube.com/results?search_query=New%20France%20and%20British%20North%20America%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oLUyKrXwVKo",
    quiz:[
      {q:"New France eventually came under whose control after 1763?", options:["Spain","Portugal","The Netherlands","Britain"], answer:3},
      {q:"The Seven Years' War affected New France by...", options:["Having no impact at all","Leading to British control of the colony","Strengthening French control","Creating a new country immediately"], answer:1},
@@ -42,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Vocabulary: Roots, Prefixes, and Suffixes", summary:"Understanding word roots and affixes helps you decode unfamiliar vocabulary.",
    resourceLabel:"YouTube: Vocabulary: Roots, Prefixes, and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Roots%2C%20Prefixes%2C%20and%20Suffixes%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0diRbQ-mgfo",
    quiz:[
      {q:"The prefix 'un-' usually means...", options:["Not/opposite of","After","Again","Before"], answer:0},
      {q:"The root 'bio' relates to...", options:["Life","Light","Water","Sound"], answer:0},
@@ -51,6 +56,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Percentages", summary:"Percentages express a number as a portion of 100, and are used in discounts, taxes, and statistics.",
    resourceLabel:"YouTube: Percentages", resourceUrl:"https://www.youtube.com/results?search_query=Percentages%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JeVSmq1Nrpw",
    quiz:[
      {q:"What is 25% of 80?", options:["20","15","25","30"], answer:0},
      {q:"What is 10% of 250?", options:["50","15","25","10"], answer:2},
@@ -60,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pure Substances and Mixtures", summary:"A pure substance has one type of particle; a mixture combines two or more substances that keep their own properties.",
    resourceLabel:"YouTube: Pure Substances and Mixtures", resourceUrl:"https://www.youtube.com/results?search_query=Pure%20Substances%20and%20Mixtures%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jCVQwr_TWpY",
    quiz:[
      {q:"A pure substance is made up of...", options:["Only one type of particle","Always many different particles","Only gases","Nothing at all"], answer:0},
      {q:"Salt water is an example of a...", options:["Element only","Compound only","Pure substance","Mixture (solution)"], answer:3},
@@ -69,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Conflict and Challenges, 1800–1850", summary:"This period in Canadian history includes the War of 1812, immigration waves, and political rebellions like the Rebellions of 1837–38.",
    resourceLabel:"YouTube: Conflict and Challenges, 1800–1850", resourceUrl:"https://www.youtube.com/results?search_query=Conflict%20and%20Challenges%2C%201800%E2%80%931850%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
    quiz:[
      {q:"The War of 1812 was fought between Britain (with its colonies) and...", options:["Spain","France","The United States","Russia"], answer:2},
      {q:"The Rebellions of 1837–38 were partly about demands for...", options:["Ending all trade","More responsible/representative government","Less government accountability","Joining the United States"], answer:1},
