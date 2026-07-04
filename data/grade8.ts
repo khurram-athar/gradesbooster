@@ -6,11 +6,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Reading Strategies: Inference and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Evidence%20grade%208%20educational",
    videoUrl:"https://www.youtube.com/watch?v=gUW2jit3uvo",
    quiz:[
-     {q:"An inference is ___.", options:["a direct quote from the text","a summary of the whole text","a conclusion drawn by combining text clues with background knowledge","a definition of a word"], answer:2},
-     {q:"Textual evidence is ___.", options:["specific words, phrases, or details from the text that support a claim or inference","a paraphrase of the main idea","the author's biography","your personal opinion about the text"], answer:0},
-     {q:"When an author implies something without stating it directly, readers must ___.", options:["only read literal statements","skip that part","ask the teacher","make an inference using context clues and prior knowledge"], answer:3},
+     {q:"An inference is ___.", options:["a direct quote from the text","a summary of the whole text","a conclusion drawn from clues","a definition of a word"], answer:2},
+     {q:"Textual evidence is ___.", options:["details from the text that support a claim","a paraphrase of the main idea","the author's biography","your personal opinion about the text"], answer:0},
+     {q:"When an author implies something without stating it directly, readers must ___.", options:["only read literal statements","skip that part","ask the teacher","make an inference from context clues"], answer:3},
      {q:"Which question requires an inference to answer?", options:["What is the title of the book?","How many characters are in the story?","What year was the novel published?","Why does the character seem afraid even though she smiles?"], answer:3},
-     {q:"To support an inference, you should ___.", options:["cite the specific passage from the text that led you to that conclusion","summarise the entire chapter","rely only on personal experience","guess and move on"], answer:0}
+     {q:"To support an inference, you should ___.", options:["cite the passage that led to that conclusion","summarise the entire chapter","rely only on personal experience","guess and move on"], answer:0}
    ]},
   {subject:"Math", title:"Number Sense: Powers and Scientific Notation", summary:"Students work with powers (base and exponent), evaluate expressions, and write large/small numbers in scientific notation.",
    resourceLabel:"YouTube: Number Sense: Powers and Scientific Notation", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Sense%3A%20Powers%20and%20Scientific%20Notation%20grade%208%20educational",
@@ -18,7 +18,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"In 5³, the base is ___ and the exponent is ___.", options:["3 and 3","5 and 5","3 and 5","5 and 3"], answer:3},
      {q:"Evaluate 2⁴.", options:["8","32","16","24"], answer:2},
-     {q:"Scientific notation writes numbers as ___.", options:["a number between 1 and 10 multiplied by a power of 10","fractions","decimals only","a number times 100"], answer:0},
+     {q:"Scientific notation writes numbers as ___.", options:["a number 1-10 times a power of 10","fractions","decimals only","a number times 100"], answer:0},
      {q:"Write 34 000 in scientific notation.", options:["3.4 × 10⁴","3.4 × 10³","0.34 × 10⁵","34 × 10³"], answer:0},
      {q:"Which correctly converts 6.02 × 10³ to standard form?", options:["6020","602","60.2","60200"], answer:0}
    ]},
@@ -26,9 +26,9 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Cells: Structure and Function", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Structure%20and%20Function%20grade%208%20educational",
    videoUrl:"https://www.youtube.com/watch?v=URUJD5NEXC8",
    quiz:[
-     {q:"The cell theory states ___.", options:["cells are the basic unit of life, all living things are made of cells, and all cells come from pre-existing cells","only animals have cells","only plants have cells","cells are not alive"], answer:0},
+     {q:"The cell theory states ___.", options:["cells are the basic unit of life","only animals have cells","only plants have cells","cells are not alive"], answer:0},
      {q:"Which organelle is the 'control centre' of the cell?", options:["Vacuole","Mitochondria","Cell wall","Nucleus"], answer:3},
-     {q:"Mitochondria are responsible for ___.", options:["producing proteins","storing water","producing energy (ATP) through cellular respiration","photosynthesis only"], answer:2},
+     {q:"Mitochondria are responsible for ___.", options:["producing proteins","storing water","producing energy through respiration","photosynthesis only"], answer:2},
      {q:"Which structure is found in plant cells but NOT in animal cells?", options:["Cell membrane","Cell wall and chloroplasts","Mitochondria","Nucleus"], answer:1},
      {q:"The cell membrane ___.", options:["is only in plant cells","controls what enters and exits the cell","produces energy","stores genetic information"], answer:1}
    ]},
@@ -36,11 +36,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: New France: Colonisation and Society", resourceUrl:"https://www.youtube.com/results?search_query=New%20France%3A%20Colonisation%20and%20Society%20grade%208%20educational",
    videoUrl:"https://www.youtube.com/watch?v=UqUSY59Kilk",
    quiz:[
-     {q:"New France was established primarily because of ___.", options:["the fur trade, which was enormously profitable and drove French interest in North America","religious persecution","farming","gold mining"], answer:0},
-     {q:"The seigneurial system in New France was ___.", options:["a system of land grants where seigneurs received land and censitaires (tenant farmers) farmed it in exchange for rent and duties","a democratic land system","a system of slave labour","an Indigenous land management system"], answer:0},
-     {q:"The Catholic Church in New France played ___.", options:["no role","a minor economic role only","a purely political role","a central role in education, social services, and cultural life"], answer:3},
-     {q:"Relations between French colonists and Indigenous peoples were shaped by ___.", options:["competition and conflict only","complete cooperation always","total indifference on both sides","a complex mix of trade alliances (especially with the Huron-Wendat), military alliances, cultural exchange, and devastating disease and displacement"], answer:3},
-     {q:"Samuel de Champlain's significance to New France includes ___.", options:["founding Quebec City (1608), mapping New France, forging Indigenous alliances, and governing the colony","defeating the British in battle","he only explored, never settled","discovering the St. Lawrence River"], answer:0}
+     {q:"New France was established primarily because of ___.", options:["the profitable fur trade","religious persecution","farming","gold mining"], answer:0},
+     {q:"The seigneurial system in New France was ___.", options:["a system of land grants worked by tenant farmers","a democratic land system","a system of slave labour","an Indigenous land management system"], answer:0},
+     {q:"The Catholic Church in New France played ___.", options:["no role","a minor economic role only","a purely political role","a central social role"], answer:3},
+     {q:"Relations between French colonists and Indigenous peoples were shaped by ___.", options:["competition and conflict only","complete cooperation always","total indifference on both sides","a complex mix of alliances, trade, and conflict"], answer:3},
+     {q:"Samuel de Champlain's significance to New France includes ___.", options:["founding Quebec City and forging alliances","defeating the British in battle","he only explored, never settled","discovering the St. Lawrence River"], answer:0}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[

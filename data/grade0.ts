@@ -6,11 +6,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Letter A", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20A%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=gsb999VSvh8",
    quiz:[
-     {q:"Which word starts with A?", options:["Dog","Apple","Cat","Ball"], answer:1},
-     {q:"What sound does short A make?", options:["Ah as in apple","Oo as in boot","Ee as in see","Oh as in open"], answer:0},
+     {q:"Which word starts with the same sound as 'ant'?", options:["Dog","Apple","Cat","Ball"], answer:1},
+     {q:"Which of these starts with short A, like in 'apple'?", options:["Egg","Ice","Ant","Owl"], answer:2},
      {q:"How many sides does uppercase A have?", options:["1","2","3","4"], answer:2},
-     {q:"Which A word is a fruit?", options:["Apple","Ant","Axe","Arrow"], answer:0},
-     {q:"Find the A: cat, apple, dog, sun", options:["sun","dog","apple","cat"], answer:2}
+     {q:"Which A word can you eat?", options:["Axe","Arrow","Apple","Ant"], answer:2},
+     {q:"In 'cat, apple, dog, sun', which word starts with A?", options:["sun","dog","apple","cat"], answer:2}
    ]},
   {subject:"Math", title:"Counting 1 to 5", summary:"Students count objects up to 5, match numerals to quantities, and begin to understand one-to-one correspondence.",
    resourceLabel:"YouTube: Counting 1 to 5", resourceUrl:"https://www.youtube.com/results?search_query=Counting%201%20to%205%20kindergarten%20educational",
@@ -29,18 +29,18 @@ const curriculum: DayContent[] = [
      {q:"A living thing ___.", options:["never changes","is made of metal","grows and needs food, water, and air","cannot move ever"], answer:2},
      {q:"Which is a living thing?", options:["Chair","Book","Tree","Rock"], answer:2},
      {q:"Which is non-living?", options:["Dog","Table","Cat","Flower"], answer:1},
-     {q:"A non-living thing ___.", options:["does not grow, breathe, or reproduce on its own","needs food and water","breathes","grows on its own"], answer:0},
+     {q:"A non-living thing ___.", options:["does not grow or breathe","needs food and water","breathes","grows on its own"], answer:0},
      {q:"A bird is living because it ___.", options:["can fly only","breathes, eats, and grows","makes noise","is colourful"], answer:1}
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Students explore different family structures — large, small, single-parent, grandparent families — and appreciate that all families are special.",
    resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20kindergarten%20educational",
    videoUrl:"https://www.youtube.com/watch?v=FHaObkHEkHQ",
    quiz:[
-     {q:"A family is a group of ___.", options:["only people who look alike","people who care for and support each other","only parents and children","strangers"], answer:1},
+     {q:"A family is a group of ___.", options:["only people who look alike","people who care for each other","only parents and children","strangers"], answer:1},
      {q:"Which is an example of a family member?", options:["Grandparent","Teacher","Neighbour","Doctor"], answer:0},
-     {q:"Families can be ___.", options:["different sizes and structures","only small","only two people","only large"], answer:0},
-     {q:"How do families show they care?", options:["By ignoring each other","By living apart","By helping, listening, and spending time together","By fighting only"], answer:2},
-     {q:"Why is your family special?", options:["Every family is unique and special in its own way","It is not","Only big families are special","Only famous families are special"], answer:0}
+     {q:"Families can be ___.", options:["different sizes and shapes","only small","only two people","only large"], answer:0},
+     {q:"How do families show they care?", options:["By ignoring each other","By living apart","By helping and listening","By fighting only"], answer:2},
+     {q:"Why is your family special?", options:["Every family is unique","It is not","Only big families are special","Only famous families are special"], answer:0}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[

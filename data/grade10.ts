@@ -7,10 +7,10 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=znWRP-F8vDc",
    quiz:[
      {q:"Which element of fiction asks 'how is the story told and in whose voice?'", options:["Theme","Setting","Plot","Point of view and narrative style"], answer:3},
-     {q:"The climax of a narrative is ___.", options:["the falling action","the opening situation","the point of highest tension where the central conflict reaches its peak","the resolution where conflict is resolved"], answer:2},
-     {q:"A flat character is ___.", options:["always the protagonist","more realistic than a round character","a character with only one or two traits who does not develop over the course of the story","a character who changes dramatically"], answer:2},
-     {q:"Setting contributes to a story by ___.", options:["establishing mood, creating symbolic meaning, reflecting character psychology, and shaping the conflicts characters face","only providing physical location","being unimportant to theme","only indicating time period"], answer:0},
-     {q:"Style in fiction refers to ___.", options:["only genre","the length of the work","the author's characteristic way of using language","only the plot structure"], answer:2}
+     {q:"The climax of a narrative is ___.", options:["the falling action","the opening situation","the point of highest tension","the resolution where conflict is resolved"], answer:2},
+     {q:"A flat character is ___.", options:["always the protagonist","more realistic than a round character","a character who does not develop","a character who changes dramatically"], answer:2},
+     {q:"Setting contributes to a story by ___.", options:["shaping mood and conflict","only providing physical location","being unimportant to theme","only indicating time period"], answer:0},
+     {q:"Style in fiction refers to ___.", options:["only genre","the length of the work","the author's way of using language","only the plot structure"], answer:2}
    ]},
   {subject:"Math", title:"Linear Systems: Two Variables", summary:"Students review and extend solving systems of linear equations (two variables) graphically, by substitution, and by elimination. They interpret solutions in context.",
    resourceLabel:"YouTube: Linear Systems: Two Variables", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Systems%3A%20Two%20Variables%20grade%2010%20educational",
@@ -19,27 +19,27 @@ const curriculum: DayContent[] = [
      {q:"A system of two linear equations with one unique solution means ___.", options:["there are infinite solutions","the equations are identical","the lines are parallel","the lines intersect at exactly one point"], answer:3},
      {q:"Solve by elimination: 3x + y = 11 and x − y = 1", options:["x = 3, y = −2","x = 3, y = 2","x = 2, y = 5","x = 4, y = −1"], answer:1},
      {q:"Solve by substitution: y = 2x − 3 and 4x − y = 9", options:["x = 3, y = 1","x = 4, y = 5","x = 2, y = 1","x = 3, y = 3"], answer:3},
-     {q:"A system with no solution has lines that are ___.", options:["identical","intersecting","perpendicular","parallel — same slope, different y-intercepts"], answer:3},
+     {q:"A system with no solution has lines that are ___.", options:["identical","intersecting","perpendicular","parallel, with different y-intercepts"], answer:3},
      {q:"In context, the solution (3, 150) to a cost system where x = hours and y = dollars means ___.", options:["at 3 hours, the cost is $150","3 hours costs $0","the minimum cost is 3","the maximum hours are 150"], answer:0}
    ]},
   {subject:"Science", title:"Chemistry: Atomic Theory and the Periodic Table", summary:"Students examine the development of atomic theory (Dalton, Thomson, Rutherford, Bohr) and how the periodic table organises elements by atomic structure.",
    resourceLabel:"YouTube: Chemistry: Atomic Theory and the Periodic Table", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Atomic%20Theory%20and%20the%20Periodic%20Table%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=xTtV61KPV3s",
    quiz:[
-     {q:"Rutherford's gold foil experiment showed ___.", options:["electrons orbit in shells","atoms have a small, dense, positively charged nucleus with mostly empty space around it","atoms contain no neutrons","atoms are solid spheres"], answer:1},
-     {q:"The Bohr model of the atom shows electrons ___.", options:["in the nucleus","randomly distributed throughout","orbiting the nucleus in specific energy levels (shells)","only on one side of the nucleus"], answer:2},
-     {q:"In the periodic table, elements in the same group (column) ___.", options:["are in the same period","share similar chemical properties because they have the same number of valence electrons","have the same number of neutrons","have the same atomic mass"], answer:1},
-     {q:"Atomic number equals ___.", options:["protons plus neutrons","the number of neutrons","the number of protons (which equals the number of electrons in a neutral atom)","the mass number"], answer:2},
+     {q:"Rutherford's gold foil experiment showed ___.", options:["electrons orbit in shells","atoms have a small, dense, positive nucleus","atoms contain no neutrons","atoms are solid spheres"], answer:1},
+     {q:"The Bohr model of the atom shows electrons ___.", options:["in the nucleus","randomly distributed throughout","orbiting in specific energy levels","only on one side of the nucleus"], answer:2},
+     {q:"In the periodic table, elements in the same group (column) ___.", options:["are in the same period","share similar chemical properties","have the same number of neutrons","have the same atomic mass"], answer:1},
+     {q:"Atomic number equals ___.", options:["protons plus neutrons","the number of neutrons","the number of protons in an atom","the mass number"], answer:2},
      {q:"Mass number equals ___.", options:["atomic number only","number of protons","number of electrons","protons + neutrons"], answer:3}
    ]},
   {subject:"History", title:"Canada and World War II: Causes and Outbreak", summary:"Students examine the causes of WWII — rise of fascism, appeasement, Nazi aggression — and Canada's declaration of war and early contributions.",
    resourceLabel:"YouTube: Canada and World War II: Causes and Outbreak", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20World%20War%20II%3A%20Causes%20and%20Outbreak%20grade%2010%20educational",
    videoUrl:"https://www.youtube.com/watch?v=aZbpVsQzBeU",
    quiz:[
-     {q:"The policy of appeasement pursued by Britain and France in the 1930s meant ___.", options:["supporting Germany's expansion","imposing economic sanctions only","confronting Hitler's aggression immediately","making concessions to Hitler (notably at Munich, 1938) to avoid war"], answer:3},
-     {q:"Canada declared war on Germany in September 1939 ___.", options:["only after Japan attacked Pearl Harbor","before Britain, showing independence","a week after Britain, demonstrating growing autonomy as a sovereign nation","the same day as Britain, demonstrating full dependence"], answer:2},
-     {q:"The Holocaust refers to ___.", options:["a German military strategy","civilian war casualties in general","the firebombing of German cities","the systematic Nazi genocide of six million Jews and millions of others (Roma, LGBTQ+, disabled people, Soviet POWs)"], answer:3},
-     {q:"The Battle of the Atlantic was crucial for Canada because ___.", options:["it ended the war quickly","it only involved the British Navy","the Royal Canadian Navy played a central role protecting supply convoys that kept Britain alive and enabled the Allied war effort","it was fought in the Pacific"], answer:2},
+     {q:"The policy of appeasement pursued by Britain and France in the 1930s meant ___.", options:["supporting Germany's expansion","imposing economic sanctions only","confronting Hitler's aggression immediately","making concessions to Hitler to avoid war"], answer:3},
+     {q:"Canada declared war on Germany in September 1939 ___.", options:["only after Japan attacked Pearl Harbor","before Britain, showing independence","a week after Britain, showing growing autonomy","the same day as Britain, showing full dependence"], answer:2},
+     {q:"The Holocaust refers to ___.", options:["a German military strategy","civilian war casualties in general","the firebombing of German cities","the Nazi genocide of Jews and others"], answer:3},
+     {q:"The Battle of the Atlantic was crucial for Canada because ___.", options:["it ended the war quickly","it only involved the British Navy","the RCN protected vital supply convoys","it was fought in the Pacific"], answer:2},
      {q:"Canada's decision to declare war separately from Britain in 1939 was significant because ___.", options:["Canada opposed the war initially","it was a major assertion of Canadian sovereignty","Canada was forced to declare war","it made no difference"], answer:1}
    ]},
 ]},

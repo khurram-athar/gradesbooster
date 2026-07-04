@@ -38,9 +38,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"A community is a place where people...", options:["Only work","Never meet","Live alone","Live and help each other"], answer:3},
      {q:"Which of these is part of a community?", options:["An ocean far away","A different planet","School","The moon"], answer:2},
-     {q:"A family tradition is something a family...", options:["Is not allowed to do","Does once and forgets","Does together regularly, like a celebration","Buys at a store"], answer:2},
+     {q:"A family tradition is something a family...", options:["Is not allowed to do","Does once and forgets","Does together every year","Buys at a store"], answer:2},
      {q:"A neighbor is someone who...", options:["Lives far away","Lives in another country","You never see","Lives near you"], answer:3},
-     {q:"Communities can be found...", options:["In cities, towns, and rural areas","Only in cities","Only in the country","Nowhere"], answer:0},
+     {q:"Communities can be found in...", options:["Cities, towns, and farms","Only cities","Only the country","Nowhere"], answer:0},
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[

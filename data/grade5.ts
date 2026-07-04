@@ -17,7 +17,7 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=piTln4g_tYo",
    quiz:[
      {q:"A box holds 8 rows of 7 apples. If 2 apples are removed, how many are left?", options:["52","58","56","54"], answer:3},
-     {q:"Which strategy correctly finds 9 × 6 using known facts?", options:["(9 × 5) + 9 = 54","(10 × 6) − 6 = 54","(10 × 6) + 6 = 66","Both the first and third strategies give the correct product"], answer:3},
+     {q:"Which strategy correctly finds 9 × 6 using known facts?", options:["(9 × 5) + 9 = 54","(10 × 6) − 6 = 54","(10 × 6) + 6 = 66","Both the first and second"], answer:3},
      {q:"If 6 × n = 48, what is n?", options:["8","9","6","7"], answer:0},
      {q:"A classroom has 24 students seated in equal rows of 6. How many rows are there?", options:["6","3","5","4"], answer:3},
      {q:"Which strategy would NOT correctly give you 7 × 8?", options:["7 × 4, then double it","5 × 8, then add 2 × 8","7 × 10, then subtract 7 × 2","6 × 8, then subtract 8"], answer:3},
@@ -26,8 +26,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Forces Acting on Structures", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Acting%20on%20Structures%20grade%205%20educational",
    videoUrl:"https://www.youtube.com/watch?v=3dU3OSFQNCo",
    quiz:[
-     {q:"An engineer designs a bridge that must support heavy trucks. Which forces matter most?", options:["Neither — bridges don't experience forces","Only tension","Only compression","Both tension and compression, since different parts stretch and squeeze"], answer:3},
-     {q:"Why do bridges and towers often use triangular shapes instead of squares?", options:["A triangle holds its shape under force, while a square can collapse sideways","Squares aren't allowed in construction","Triangles always use less material","Triangles are cheaper to build"], answer:0},
+     {q:"An engineer designs a bridge that must support heavy trucks. Which forces matter most?", options:["Neither — bridges don't experience forces","Only tension","Only compression","Both tension and compression"], answer:3},
+     {q:"Why do bridges and towers often use triangular shapes instead of squares?", options:["A triangle holds its shape better","Squares aren't allowed in construction","Triangles always use less material","Triangles are cheaper to build"], answer:0},
      {q:"A tall tower has a wide base that narrows toward the top. How does this help?", options:["It only changes how the tower looks","It lowers the centre of gravity and improves stability","It only makes the tower lighter","It has no effect on stability"], answer:1},
      {q:"If you press down on both ends of a sponge, which force are you applying?", options:["Gravity only","Tension","Compression","Torsion"], answer:2},
      {q:"A rope holding up a swing is pulled tight by a child's weight. Which force acts on the rope?", options:["Tension","Friction only","Compression","No force at all"], answer:0},
@@ -36,11 +36,11 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Early Encounters: First Peoples and New France", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Encounters%3A%20First%20Peoples%20and%20New%20France%20grade%205%20educational",
    videoUrl:"https://www.youtube.com/watch?v=Bzzu1DDFtxI",
    quiz:[
-     {q:"Why is it important to consider BOTH First Nations and European perspectives on early encounters?", options:["First Nations perspectives aren't needed","Only European accounts are historically accurate","Each group experienced these events differently, so a full picture needs multiple viewpoints","There was only one shared perspective"], answer:2},
-     {q:"Which of these was a direct RESULT of contact between French settlers and First Nations peoples?", options:["Complete isolation between the two groups","Immediate agreement on all matters","No changes to either group's way of life","Trade networks and alliances, alongside conflict"], answer:3},
-     {q:"Before European contact, First Nations societies across what became Canada were best described as...", options:["Diverse, with many distinct nations, languages, and governance systems","Entirely nomadic with no settlements","A single unified nation with one language","Without any form of trade or governance"], answer:0},
-     {q:"New France was established primarily to...", options:["Isolate France from other European powers","Return First Nations peoples to Europe","Provide a vacation destination for French royalty","Expand French trade, territory, and influence in North America"], answer:3},
-     {q:"A historian studying this period would find which question MOST useful?", options:["How did different groups experience and record these events differently?","Which version can be ignored?","None of these are useful questions","What is the single correct version of events?"], answer:0},
+     {q:"Why is it important to consider BOTH First Nations and European perspectives on early encounters?", options:["First Nations perspectives aren't needed","Only European accounts are historically accurate","Each group experienced these events differently","There was only one shared perspective"], answer:2},
+     {q:"Which of these was a direct RESULT of contact between French settlers and First Nations peoples?", options:["Complete isolation between the two groups","Immediate agreement on all matters","No changes to either group's way of life","Trade networks and alliances"], answer:3},
+     {q:"Before European contact, First Nations societies across what became Canada were best described as...", options:["Diverse nations with many languages","Entirely nomadic with no settlements","A single unified nation with one language","Without any form of trade or governance"], answer:0},
+     {q:"New France was established primarily to...", options:["Isolate France from other European powers","Return First Nations peoples to Europe","Provide a vacation destination for French royalty","Expand French trade and territory"], answer:3},
+     {q:"A historian studying this period would find which question MOST useful?", options:["How did different groups record events differently?","Which version can be ignored?","None of these are useful questions","What is the single correct version of events?"], answer:0},
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[

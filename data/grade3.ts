@@ -8,7 +8,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The main idea of a passage is ___.", options:["one small detail","a random fact","the last sentence","what the whole passage is mostly about"], answer:3},
      {q:"Supporting details ___.", options:["are always in brackets","introduce new topics unrelated to the main idea","explain or give examples that support the main idea","are always the first sentence"], answer:2},
-     {q:"Where is the main idea often found?", options:["In the middle of the text","Only in illustrations","Only in the last paragraph","Often in the first or last sentence of a paragraph"], answer:3},
+     {q:"Where is the main idea often found?", options:["In the middle of the text","Only in illustrations","Only in the last paragraph","The first or last sentence"], answer:3},
      {q:"Which question helps find the main idea?", options:["Who wrote this?","What is this mostly about?","When was this written?","How long is this?"], answer:1},
      {q:"A passage about how bees make honey is mostly about ___.", options:["flowers","the honey-making process of bees","trees","weather patterns"], answer:1}
    ]},
@@ -36,10 +36,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Types of Communities: Urban and Rural", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Communities%3A%20Urban%20and%20Rural%20grade%203%20educational",
    videoUrl:"https://www.youtube.com/watch?v=NR7z9FbUf5k",
    quiz:[
-     {q:"An urban community is best described as ___.", options:["a single-family home","a forest with no residents","a small farming village","a large city with many people and buildings"], answer:3},
-     {q:"A rural community is best described as ___.", options:["a skyscraper district","an underground settlement","a densely populated city","a farming area or small town with fewer people"], answer:3},
-     {q:"Which service is more common in urban areas?", options:["Crop fields","Ranch","Grain elevator","Large hospital with specialists"], answer:3},
-     {q:"What do rural communities often have that urban ones typically lack?", options:["Airports","Skyscrapers","Subway systems","Large amounts of open farmland and natural space"], answer:3},
+     {q:"An urban community is best described as ___.", options:["a single-family home","a forest with no residents","a small farming village","a large, busy city"], answer:3},
+     {q:"A rural community is best described as ___.", options:["a skyscraper district","an underground settlement","a densely populated city","a small farming town"], answer:3},
+     {q:"Which service is more common in urban areas?", options:["Crop fields","Ranch","Grain elevator","A big hospital"], answer:3},
+     {q:"What do rural communities often have that urban ones typically lack?", options:["Airports","Skyscrapers","Subway systems","Open farmland"], answer:3},
      {q:"Which Ontario city is an example of a major urban community?", options:["A rural township","An island cottage community","Toronto","A small northern village"], answer:2}
    ]},
 ]},

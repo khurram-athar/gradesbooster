@@ -7,8 +7,8 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=5hltJomQUcg",
    quiz:[
      {q:"An advanced thesis statement in Grade 11 must be ___.", options:["a summary of the plot","a fact about the text","a question you will answer in the essay","an arguable interpretive claim"], answer:3},
-     {q:"The difference between a Grade 9 thesis ('The theme of friendship is shown in the novel') and a Grade 11 thesis is ___.", options:["only length","they are equivalent","Grade 11 avoids thesis statements","a Grade 11 thesis must specify HOW and WHY: 'By portraying friendship as simultaneously sustaining and suffocating, the novel critiques the social pressure to prioritise relationships over individual identity'"], answer:3},
-     {q:"A 'so what' moment in a thesis ___.", options:["signals the larger significance of the claim","restates the obvious","lists more evidence","adds a disclaimer"], answer:0},
+     {q:"The difference between a Grade 9 thesis ('The theme of friendship is shown in the novel') and a Grade 11 thesis is ___.", options:["only length","they are equivalent","Grade 11 avoids thesis statements","it must specify HOW and WHY"], answer:3},
+     {q:"A 'so what' moment in a thesis ___.", options:["signals why the claim matters","restates the obvious","lists more evidence","adds a disclaimer"], answer:0},
      {q:"Complex sentence structures in thesis statements help by ___.", options:["impressing the teacher with vocabulary","making the statement harder to understand","adding unnecessary length","allowing you to embed complexity"], answer:3},
      {q:"When a peer reviewer says 'I don't see what you're arguing,' the thesis likely ___.", options:["is too specific","is still too vague or descriptive","needs more quotations","is too long"], answer:1}
    ]},
@@ -16,31 +16,31 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Introduction to Functions: Review and Deepening", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Functions%3A%20Review%20and%20Deepening%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=52tpYl2tTqk",
    quiz:[
-     {q:"The composition f(g(x)) means ___.", options:["f(x) + g(x)","apply g first, then apply f to the result","(f + g)(x)","f(x) × g(x)"], answer:1},
+     {q:"The composition f(g(x)) means ___.", options:["f(x) + g(x)","apply g first, then f","(f + g)(x)","f(x) × g(x)"], answer:1},
      {q:"If f(x) = 2x + 1, find f(g(x)) where g(x) = x².", options:["2x² + 1","4x + 1","(2x+1)²","2x + x²"], answer:0},
-     {q:"The inverse of a function f(x) is ___.", options:["f(−x)","1/f(x)","−f(x)","the function that reverses the operation of f"], answer:3},
-     {q:"To find the inverse of f(x) = 3x − 2, you ___.", options:["negate f(x)","reflect across the x-axis","divide f(x) by 3","swap x and y (write x = 3y − 2), then solve for y: y = (x+2)/3, so f⁻¹(x) = (x+2)/3"], answer:3},
-     {q:"The graph of f⁻¹(x) is ___.", options:["the reflection of f(x) across the line y = x","f(x) flipped vertically","f(x) shifted right","f(x) compressed horizontally"], answer:0}
+     {q:"The inverse of a function f(x) is ___.", options:["f(−x)","1/f(x)","−f(x)","the function that reverses f"], answer:3},
+     {q:"To find the inverse of f(x) = 3x − 2, you ___.", options:["negate f(x)","reflect across the x-axis","divide f(x) by 3","swap x and y, then solve for y"], answer:3},
+     {q:"The graph of f⁻¹(x) is ___.", options:["the reflection of f(x) across y = x","f(x) flipped vertically","f(x) shifted right","f(x) compressed horizontally"], answer:0}
    ]},
   {subject:"Biology", title:"Cell Biology: Cell Structure and Organelle Functions", summary:"Students review and deepen their understanding of cell organelles, distinguishing eukaryotic from prokaryotic cells and plant from animal cells.",
    resourceLabel:"YouTube: Cell Biology: Cell Structure and Organelle Functions", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Biology%3A%20Cell%20Structure%20and%20Organelle%20Functions%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=URUJD5NEXC8",
    quiz:[
-     {q:"The key distinction between prokaryotic and eukaryotic cells is ___.", options:["absence vs. presence of a nucleus: prokaryotes (bacteria) have no membrane-bound nucleus; eukaryotes (animals, plants, fungi) have a defined nucleus enclosed by a membrane","number of chromosomes","size only","presence of a cell wall"], answer:0},
-     {q:"The mitochondrion's primary function is ___.", options:["DNA replication","protein synthesis","lipid storage","ATP (energy) production through cellular respiration"], answer:3},
+     {q:"The key distinction between prokaryotic and eukaryotic cells is ___.", options:["absence vs. presence of a nucleus","number of chromosomes","size only","presence of a cell wall"], answer:0},
+     {q:"The mitochondrion's primary function is ___.", options:["DNA replication","protein synthesis","lipid storage","ATP production through respiration"], answer:3},
      {q:"Ribosomes are found ___.", options:["only in the nucleus","in all living cells","only in mitochondria","only in plant cells"], answer:1},
-     {q:"A plant cell has these structures absent from animal cells: ___.", options:["a nucleus and cell membrane","cell wall, large central vacuole, and chloroplasts","mitochondria and ribosomes","lysosomes and centrioles"], answer:1},
-     {q:"The endoplasmic reticulum (ER) has two forms: rough ER ___.", options:["both are identical","produces energy; smooth ER stores calcium only","contains ribosomes and is involved in protein synthesis and transport; smooth ER is involved in lipid synthesis and detoxification","is smooth and makes lipids; smooth ER makes proteins"], answer:2}
+     {q:"A plant cell has these structures absent from animal cells: ___.", options:["a nucleus and cell membrane","cell wall and chloroplasts","mitochondria and ribosomes","lysosomes and centrioles"], answer:1},
+     {q:"The endoplasmic reticulum (ER) has two forms: rough ER ___.", options:["both are identical","produces energy; smooth ER stores calcium only","makes proteins; smooth ER makes lipids","is smooth and makes lipids; smooth ER makes proteins"], answer:2}
    ]},
   {subject:"Chemistry", title:"Matter and Chemical Bonding: Review and Extension", summary:"Students review atomic theory, the periodic table, and chemical bonding, and extend to molecular geometry and polarity.",
    resourceLabel:"YouTube: Matter and Chemical Bonding: Review and Extension", resourceUrl:"https://www.youtube.com/results?search_query=Matter%20and%20Chemical%20Bonding%3A%20Review%20and%20Extension%20grade%2011%20educational",
    videoUrl:"https://www.youtube.com/watch?v=S_k0kr2eZSQ",
    quiz:[
-     {q:"Electronegativity is ___.", options:["the number of electrons in an atom","the charge of an ion","the energy released in bonding","an atom's ability to attract electrons toward itself in a chemical bond"], answer:3},
-     {q:"A polar covalent bond forms when ___.", options:["electrons are transferred between atoms","electrons are shared equally","atoms share electrons unequally (due to electronegativity differences), creating partial positive and negative charges (δ+ and δ−) on the bonded atoms","atoms have identical electronegativities"], answer:2},
-     {q:"Water (H₂O) is a polar molecule because ___.", options:["oxygen has 8 electrons","both O-H bonds are polar AND the bent geometry means the dipoles don't cancel","it has two hydrogen atoms","hydrogen is very electronegative"], answer:1},
-     {q:"Carbon dioxide (CO₂) is non-polar despite having polar C=O bonds because ___.", options:["it has only two bonds","the linear geometry means the two bond dipoles point in opposite directions and exactly cancel, giving CO₂ a net dipole of zero","the bonds are ionic","carbon has no electronegativity"], answer:1},
-     {q:"VSEPR theory predicts ___.", options:["the colour of a compound","the reactivity of a molecule","the three-dimensional shape of a molecule based on electron pair repulsion","the mass of a molecule"], answer:2}
+     {q:"Electronegativity is ___.", options:["the number of electrons in an atom","the charge of an ion","the energy released in bonding","an atom's pull on shared electrons"], answer:3},
+     {q:"A polar covalent bond forms when ___.", options:["electrons are transferred between atoms","electrons are shared equally","atoms share electrons unequally","atoms have identical electronegativities"], answer:2},
+     {q:"Water (H₂O) is a polar molecule because ___.", options:["oxygen has 8 electrons","its bent shape stops dipoles cancelling","it has two hydrogen atoms","hydrogen is very electronegative"], answer:1},
+     {q:"Carbon dioxide (CO₂) is non-polar despite having polar C=O bonds because ___.", options:["it has only two bonds","its linear shape cancels the dipoles","the bonds are ionic","carbon has no electronegativity"], answer:1},
+     {q:"VSEPR theory predicts ___.", options:["the colour of a compound","the reactivity of a molecule","a molecule's 3D shape","the mass of a molecule"], answer:2}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[

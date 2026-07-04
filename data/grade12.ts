@@ -6,41 +6,41 @@ const curriculum: DayContent[] = [
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
    videoUrl:"https://www.youtube.com/watch?v=UvsH5y91Eoo",
    quiz:[
-     {q:"A university-level literary argument differs from a high school argument in that ___.", options:["it avoids personal interpretation","it requires longer essays","it uses more quotations","it engages with the critical conversation around a text"], answer:3},
-     {q:"Intellectual authority in academic writing is established through ___.", options:["precise, specific claims supported by carefully selected and analysed evidence","only citing many sources","writing confidently regardless of evidence","using complex vocabulary"], answer:0},
-     {q:"A counterargument in an academic essay ___.", options:["proves you are unsure of your argument","should always be avoided","weakens your position","strengthens your argument when addressed and refuted"], answer:3},
+     {q:"A university-level literary argument differs from a high school argument in that ___.", options:["it avoids personal interpretation","it requires longer essays","it uses more quotations","it engages with critical conversation"], answer:3},
+     {q:"Intellectual authority in academic writing is established through ___.", options:["precise claims backed by strong evidence","only citing many sources","writing confidently regardless of evidence","using complex vocabulary"], answer:0},
+     {q:"A counterargument in an academic essay ___.", options:["proves you are unsure of your argument","should always be avoided","weakens your position","strengthens your argument when refuted"], answer:3},
      {q:"Integrating literary criticism responsibly means ___.", options:["engaging critically with secondary sources","avoiding critics who disagree with you","only agreeing with critics","copying the critic's argument as your own"], answer:0},
-     {q:"The most important difference between high school and university English is ___.", options:["university requires less reading","intellectual independence: university expects you to formulate genuine, original questions about texts and pursue them with rigour, not just respond to provided prompts","grammar is more important at university","university essays are always longer"], answer:1}
+     {q:"The most important difference between high school and university English is ___.", options:["university requires less reading","intellectual independence in forming your own questions","grammar is more important at university","university essays are always longer"], answer:1}
    ]},
   {subject:"AdvancedFunctions", title:"Polynomial Functions: Deep Dive into Graphs and Equations", summary:"Students investigate polynomial functions of all degrees — connecting multiplicity of zeros, end behaviour, turning points, and algebraic form to graphical behaviour.",
    resourceLabel:"Khan Academy: Polynomial Graphs", resourceUrl:"https://www.youtube.com/watch?v=1WRYEBHLLm8",
    videoUrl:"https://www.youtube.com/watch?v=5fOavu0X1Z0",
    quiz:[
-     {q:"A polynomial of degree n can have at most ___ real zeros and at most ___ turning points.", options:["n zeros and n turning points","n-1 zeros and n turning points","n zeros and n-1 turning points (a degree-n polynomial has at most n zeros and at most n-1 local maxima/minima)","n+1 zeros and n turning points"], answer:2},
+     {q:"A polynomial of degree n can have at most ___ real zeros and at most ___ turning points.", options:["n zeros and n turning points","n-1 zeros and n turning points","n zeros and n-1 turning points","n+1 zeros and n turning points"], answer:2},
      {q:"A zero of multiplicity 2 means the graph ___.", options:["touches but does not cross the x-axis","crosses the x-axis at a 45° angle","has a vertical asymptote","crosses the x-axis steeply"], answer:0},
-     {q:"A zero of multiplicity 3 means the graph ___.", options:["touches and bounces","creates a sharp corner","has no x-intercept there","crosses with an S-curve (point of inflection) at that zero"], answer:3},
+     {q:"A zero of multiplicity 3 means the graph ___.", options:["touches and bounces","creates a sharp corner","has no x-intercept there","crosses with an S-curve at that zero"], answer:3},
      {q:"For P(x) = −2(x+1)²(x−3)(x−5), the end behaviour is ___.", options:["rises left, rises right","rises left, falls right","falls both directions","falls left, rises right"], answer:2},
-     {q:"The Intermediate Value Theorem guarantees ___.", options:["a polynomial is always continuous","a polynomial has exactly n roots","a zero exists between a and b if P(a) and P(b) have opposite signs","the maximum value of a polynomial"], answer:2}
+     {q:"The Intermediate Value Theorem guarantees ___.", options:["a polynomial is always continuous","a polynomial has exactly n roots","a zero exists if P(a), P(b) have opposite signs","the maximum value of a polynomial"], answer:2}
    ]},
   {subject:"Calculus", title:"Introduction to Limits and Continuity", summary:"Students develop an intuitive and rigorous understanding of limits — what they mean, how to evaluate them, and their role as the foundation of calculus.",
    resourceLabel:"Khan Academy: Limits Intro", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
    videoUrl:"https://www.youtube.com/watch?v=YNstP0ESndU",
    quiz:[
-     {q:"The limit of f(x) as x → a means ___.", options:["the value of f(a)","the value that f(x) approaches as x gets arbitrarily close to a","the maximum of f near a","the derivative of f at a"], answer:1},
-     {q:"A limit exists at x = a if and only if ___.", options:["f(a) is defined","the function is continuous at a","the left-hand and right-hand limits both exist and are equal to each other","the function is differentiable at a"], answer:2},
-     {q:"To evaluate lim(x→2) of (x²−4)/(x−2), you ___.", options:["substitute x = 2 directly (gives 0/0)","use L'Hôpital's Rule always","factor: (x−2)(x+2)/(x−2) = x+2 for x≠2, so the limit = 4","conclude the limit does not exist"], answer:2},
-     {q:"A function f is continuous at x = a if ___.", options:["f(a) is a large number","f(a) = 0","three conditions hold: f(a) is defined, lim(x→a)f(x) exists, and lim(x→a)f(x) = f(a)","the derivative exists at a"], answer:2},
-     {q:"A removable discontinuity (hole) occurs when ___.", options:["the function is not defined anywhere","the limit exists at x = a but either f(a) is undefined or f(a) ≠ the limit","the function goes to infinity","the limit does not exist at the point"], answer:1}
+     {q:"The limit of f(x) as x → a means ___.", options:["the value of f(a)","the value f(x) approaches as x nears a","the maximum of f near a","the derivative of f at a"], answer:1},
+     {q:"A limit exists at x = a if and only if ___.", options:["f(a) is defined","the function is continuous at a","the left and right-hand limits are equal","the function is differentiable at a"], answer:2},
+     {q:"To evaluate lim(x→2) of (x²−4)/(x−2), you ___.", options:["substitute x = 2 directly (gives 0/0)","use L'Hôpital's Rule always","factor and cancel, giving limit = 4","conclude the limit does not exist"], answer:2},
+     {q:"A function f is continuous at x = a if ___.", options:["f(a) is a large number","f(a) = 0","f(a) and the limit exist and are equal","the derivative exists at a"], answer:2},
+     {q:"A removable discontinuity (hole) occurs when ___.", options:["the function is not defined anywhere","the limit exists but f(a) is undefined or unequal to it","the function goes to infinity","the limit does not exist at the point"], answer:1}
    ]},
   {subject:"Physics", title:"Kinematics in 2D: Projectile Motion", summary:"Students analyse projectile motion by decomposing it into independent horizontal and vertical components, applying kinematic equations to each.",
    resourceLabel:"Crash Course Physics: Projectile Motion", resourceUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
    videoUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
    quiz:[
      {q:"In projectile motion, the horizontal and vertical components are independent because ___.", options:["gravity acts horizontally","horizontal velocity is always zero","air resistance eliminates horizontal motion","gravity only acts vertically"], answer:3},
-     {q:"A projectile launched horizontally from height h has a time of flight determined by ___.", options:["the angle of launch","the vertical fall: h = ½gt², so t = √(2h/g)","initial horizontal speed only","only horizontal distance"], answer:1},
-     {q:"The range of a projectile (launched at angle θ with speed v₀) is maximised when ___.", options:["θ = 30°","θ = 90°","θ = 60°","θ = 45° — for a level surface, R = v₀²sin(2θ)/g, maximised when sin(2θ) = 1, i.e., 2θ = 90°"], answer:3},
-     {q:"At the peak of a projectile's trajectory, ___.", options:["both velocity components are zero","horizontal velocity is zero","the projectile stops momentarily","only the vertical component of velocity is zero"], answer:3},
-     {q:"If a ball is kicked at 20 m/s at 30° above horizontal, the initial vertical component is ___.", options:["10√3 m/s","17.3 m/s","10 m/s (v₀y = 20sin30° = 20 × 0.5 = 10 m/s)","20 m/s"], answer:2}
+     {q:"A projectile launched horizontally from height h has a time of flight determined by ___.", options:["the angle of launch","the vertical fall: t = √(2h/g)","initial horizontal speed only","only horizontal distance"], answer:1},
+     {q:"The range of a projectile (launched at angle θ with speed v₀) is maximised when ___.", options:["θ = 30°","θ = 90°","θ = 60°","θ = 45°"], answer:3},
+     {q:"At the peak of a projectile's trajectory, ___.", options:["both velocity components are zero","horizontal velocity is zero","the projectile stops momentarily","only vertical velocity is zero"], answer:3},
+     {q:"If a ball is kicked at 20 m/s at 30° above horizontal, the initial vertical component is ___.", options:["10√3 m/s","17.3 m/s","10 m/s (20 × sin30°)","20 m/s"], answer:2}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
@@ -296,7 +296,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The antiderivative (indefinite integral) of f(x) is ___.", options:["f(x)²/2","f'(x)","F(x) such that F'(x) = f(x); written ∫f(x)dx = F(x) + C where C is the constant of integration","f(x) − C"], answer:2},
      {q:"The power rule for integration: ∫xⁿ dx = ___.", options:["nxⁿ⁻¹","xⁿ/n + C","xⁿ⁺¹ + C","xⁿ⁺¹/(n+1) + C for n ≠ −1"], answer:3},
-     {q:"∫(3x² − 4x + 5) dx = ___.", options:["x³ − 2x² + 5x + C","3x³ − 4x² + 5x","6x − 4","x³ − 2x² + 5x + C"], answer:0},
+     {q:"∫(3x² − 4x + 5) dx = ___.", options:["x³ − 2x² + 5x + C","3x³ − 4x² + 5x","6x − 4","x³ + 2x² + 5x + C"], answer:0},
      {q:"The constant of integration C appears because ___.", options:["any constant differentiates to zero, so infinitely many functions have the same derivative","C equals zero always","integration is imprecise","every integral is different"], answer:0},
      {q:"∫sin(x) dx = ___.", options:["−sin(x) + C","−cos(x) + C — since d/dx[−cos(x)] = sin(x)","sin(x) + C","cos(x) + C"], answer:1}
    ]},

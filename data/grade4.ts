@@ -38,9 +38,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"An ancient civilization is ___.", options:["a modern city","a type of government","a geography term","a society from thousands of years ago"], answer:3},
      {q:"Which of these is NOT an ancient civilization?", options:["Egypt","Canada (modern)","Rome","Greece"], answer:1},
-     {q:"Ancient civilizations contributed ___.", options:["writing, government, and architecture still used today","only myths and legends","only farming","nothing to modern life"], answer:0},
-     {q:"What is archaeology?", options:["The study of stars","A type of government","The study of human history through artifacts","The study of rocks"], answer:2},
-     {q:"Why do we study ancient civilizations?", options:["Only for fun","Only for geography","We do not","To understand how human societies developed"], answer:3}
+     {q:"Ancient civilizations contributed ___.", options:["writing and government","only myths and legends","only farming","nothing to modern life"], answer:0},
+     {q:"What is archaeology?", options:["The study of stars","A type of government","Studying history through artifacts","The study of rocks"], answer:2},
+     {q:"Why do we study ancient civilizations?", options:["Only for fun","Only for geography","We do not","To learn how societies developed"], answer:3}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
