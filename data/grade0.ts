@@ -534,7 +534,7 @@ const curriculum: DayContent[] = [
      {q:"You can make sound by ___.", options:["looking at things","only pressing a button","only singing","banging, plucking, blowing, or vibrating objects"], answer:3},
      {q:"Light travels in ___.", options:["circles","curves","zigzags","straight lines"], answer:3},
      {q:"Which is a natural source of light?", options:["A television","A torch","A lamp","The Sun"], answer:3},
-     {q:"Why do we need light?", options:["To see, grow plants, and feel warmth — light is essential for life on Earth","Only for reading","Only at night","Only in winter"], answer:0}
+     {q:"Why do we need light?", options:["To see, grow plants, and feel warmth","Only for reading","Only at night","Only in winter"], answer:0}
    ]},
   {subject:"SocialStudies", title:"Rights and Responsibilities", summary:"Students learn that rights (things they are entitled to: safety, education, play) come with responsibilities (duties: respect, cooperation, looking after things).",
    resourceLabel:"YouTube: Rights and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20and%20Responsibilities%20kindergarten%20educational",
@@ -573,7 +573,7 @@ const curriculum: DayContent[] = [
    videoUrl:"https://www.youtube.com/watch?v=1hPCeJKhl-4",
    quiz:[
      {q:"What season comes after winter?", options:["Autumn","Summer","Rainy season","Spring"], answer:3},
-     {q:"In spring, plants ___.", options:["start growing again — new leaves and flowers appear","die off","go dormant","have no change"], answer:0},
+     {q:"In spring, plants ___.", options:["start growing again","die off","go dormant","have no change"], answer:0},
      {q:"Many birds ___ in spring after being away in warmer places.", options:["hibernate","disappear","return (migrate back north)","stay underground"], answer:2},
      {q:"Spring weather in Ontario is often ___.", options:["warming, with rain showers","hot and dry like summer","always perfect","cold and snowy like winter"], answer:0},
      {q:"What is one sign that spring has arrived?", options:["Very cold temperatures","Snow on the ground","Leaves falling from trees","Flowers blooming and birds singing"], answer:3}

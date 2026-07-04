@@ -139,7 +139,7 @@ const curriculum: DayContent[] = [
      {q:"3 × 4 = ?", options:["12","10","7","14"], answer:0},
      {q:"Multiplication is the same as ___.", options:["dividing","taking away","repeated addition","guessing"], answer:2},
      {q:"An array of 2 rows and 5 columns has how many items?", options:["10","7","8","9"], answer:0},
-     {q:"5 × 3 can be shown as ___.", options:["only 5 + 3","5 groups of 5","5 groups of 3 (or 3 groups of 5 — both equal 15)","3 groups of 5"], answer:2},
+     {q:"5 × 3 can be shown as ___.", options:["only 5 + 3","5 groups of 5","5 groups of 3 (or 3 groups of 5","3 groups of 5"], answer:2},
      {q:"Which number sentence shows 3 groups of 6?", options:["3 × 6 = 18","3 − 6","3 + 6 = 9","6 − 3 = 3"], answer:0}
    ]},
   {subject:"Science", title:"Forces Causing Movement", summary:"Students learn that forces (push, pull, gravity, friction, magnetism) can cause objects to start, stop, speed up, or change direction.",
@@ -262,7 +262,7 @@ const curriculum: DayContent[] = [
      {q:"Air is ___.", options:["only found in balloons","visible like smoke","only oxygen","invisible but takes up space and exerts pressure"], answer:3},
      {q:"The water cycle includes ___.", options:["evaporation, condensation, and precipitation, cycling water through air, land, and sea","only the ocean","only rain","only rivers and lakes"], answer:0},
      {q:"Evaporation is when water ___.", options:["changes from liquid to water vapour (gas) when heated","becomes solid","freezes into ice","falls as rain"], answer:0},
-     {q:"Precipitation includes ___.", options:["only fog","only snow","rain, snow, sleet, and hail — any water that falls from clouds","only rain"], answer:2},
+     {q:"Precipitation includes ___.", options:["only fog","only snow","rain, snow, sleet, and hail","only rain"], answer:2},
      {q:"Why is the water cycle important?", options:["Only for rain forests","It continuously distributes fresh water to ecosystems around the world","Only for oceans","It is not"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Early Settlers in Ontario", summary:"Students learn how early European settlers came to Ontario, the challenges they faced, and how they built communities on the land.",
@@ -472,7 +472,7 @@ const curriculum: DayContent[] = [
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","write better","skip the hard parts","activate prior knowledge and set a purpose for reading"], answer:3},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","copy the text","think more deeply and check your understanding as you go","avoid the confusing parts"], answer:2},
      {q:"After reading, you might ask ___.", options:["What is this book's font?","Who published this?","How many pages did I read?","Why did this happen? What would I do differently? What does this teach me?"], answer:3},
-     {q:"A 'thick question' is one ___.", options:["with a yes/no answer","with a one-word answer","about the author","that requires thinking and discussion — no single right answer"], answer:3},
+     {q:"A 'thick question' is one ___.", options:["with a yes/no answer","with a one-word answer","about the author","that requires thinking and discussion"], answer:3},
      {q:"Asking questions about a text is a sign of ___.", options:["active and engaged reading","poor reading","not understanding at all","skimming only"], answer:0}
    ]},
   {subject:"Math", title:"Time: Hours, Minutes, and Elapsed Time", summary:"Students tell time to the nearest minute using an analogue clock and calculate elapsed time.",
@@ -766,7 +766,7 @@ const curriculum: DayContent[] = [
      {q:"How do different cultural practices enrich Ontario communities?", options:["They do not","They cause confusion","Only if everyone agrees","They bring diverse perspectives, art, food, and ideas that make communities more vibrant"], answer:3},
      {q:"Which is an example of a cultural practice?", options:["A government law","Celebrating Diwali, Eid, or Chinese New Year with traditional foods, clothing, and rituals","A traffic sign","A school timetable"], answer:1},
      {q:"Respecting cultural practices means ___.", options:["ignoring differences","only following your own culture","learning about and showing appreciation for the traditions of others","only eating the same food"], answer:2},
-     {q:"Why is language part of cultural identity?", options:["Only for old languages","Only for writing","Language carries stories, values, and worldviews of a culture — preserving it helps keep the culture alive","It is not"], answer:2}
+     {q:"Why is language part of cultural identity?", options:["Only for old languages","Only for writing","Language carries stories, values, and worldviews of a culture","It is not"], answer:2}
    ]},
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
@@ -794,7 +794,7 @@ const curriculum: DayContent[] = [
      {q:"In a food chain, a producer is ___.", options:["a plant that makes its own food using sunlight (photosynthesis)","a decomposer","an animal that hunts","a top predator"], answer:0},
      {q:"A primary consumer eats ___.", options:["nothing","other animals","only decomposers","plants (producers)"], answer:3},
      {q:"A secondary consumer eats ___.", options:["only plants","sunlight","primary consumers (herbivores) or omnivores","decomposers only"], answer:2},
-     {q:"What happens when one link in a food chain is removed?", options:["Nothing changes","Only predators are affected","Only the bottom level changes","The whole chain is affected — populations of other organisms rise or fall"], answer:3},
+     {q:"What happens when one link in a food chain is removed?", options:["Nothing changes","Only predators are affected","Only the bottom level changes","The whole chain is affected"], answer:3},
      {q:"A food web is ___.", options:["only for aquatic animals","a single line of feeding relationships","a network of interconnected food chains showing multiple feeding relationships in an ecosystem","only for plants"], answer:2}
    ]},
   {subject:"SocialStudies", title:"Comparing Communities Around the World", summary:"Students compare communities in different countries with Ontario communities, exploring similarities and differences in climate, culture, economy, and geography.",

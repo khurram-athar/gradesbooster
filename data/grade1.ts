@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Communities around the world are ___.", options:["Only similar","All different with nothing in common","Exactly the same","Different in some ways and similar in others"], answer:3},
      {q:"What basic need do all communities around the world share?", options:["Food, shelter, and water","Electricity","The same language","The same food"], answer:0},
-     {q:"How do people in different communities get food?", options:["Everyone buys at supermarkets","Everyone hunts","Everyone grows rice","In many different ways — farming, fishing, buying at stores"], answer:3},
+     {q:"How do people in different communities get food?", options:["Everyone buys at supermarkets","Everyone hunts","Everyone grows rice","In many different ways"], answer:3},
      {q:"What is one way communities around the world are similar?", options:["People care for each other","Same sports","Same language","Same food"], answer:0},
      {q:"Learning about global communities helps us ___.", options:["Avoid other countries","Ignore other cultures","Think only our way is right","Understand that we are all connected"], answer:3}
    ]},

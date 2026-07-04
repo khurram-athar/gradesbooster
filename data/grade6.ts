@@ -216,7 +216,7 @@ const curriculum: DayContent[] = [
      {q:"What is 1/2 × 4/5?", options:["3/5","5/10","4/7","4/10 = 2/5"], answer:3},
      {q:"What is 3 × 2/5?", options:["5/5","6/15","2/15","6/5 = 1 1/5"], answer:3},
      {q:"A recipe uses 3/4 cup of sugar per batch. For 2 batches, you need:", options:["3/4 cup","1 1/2 cups","6/4 cups","3/8 cup"], answer:1},
-     {q:"Which property lets you multiply 2/3 × 3/2 and get 1 (a whole)?", options:["Associative property","Distributive property","These are reciprocals — any fraction times its reciprocal equals 1","Commutative property"], answer:2},
+     {q:"Which property lets you multiply 2/3 × 3/2 and get 1 (a whole)?", options:["Associative property","Distributive property","These are reciprocals","Commutative property"], answer:2},
    ]},
   {subject:"Science", title:"Types of Aircraft and How They Fly", summary:"Ontario Flight strand: different aircraft use different principles to fly. Airplanes use fixed wings and engines; helicopters use rotating blades; hot air balloons use buoyancy; gliders use air currents.",
    resourceLabel:"YouTube: Types of Aircraft and How They Fly", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Aircraft%20and%20How%20They%20Fly%20grade%206%20educational",
@@ -393,7 +393,7 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Persuasion Techniques in Advertising", summary:"Ontario Media Literacy strand: advertisers use techniques like celebrity endorsement, bandwagon appeal, fear appeals, and repetition to persuade consumers. Recognizing these techniques builds critical media skills.",
    resourceLabel:"YouTube: Persuasion Techniques in Advertising", resourceUrl:"https://www.youtube.com/results?search_query=Persuasion%20Techniques%20in%20Advertising%20grade%206%20educational",
    quiz:[
-     {q:"The 'bandwagon' technique in advertising appeals to:", options:["Celebrity authority","Fear of missing out — 'everyone is doing it, so you should too'","Scientific evidence","Logical reasoning"], answer:1},
+     {q:"The 'bandwagon' technique in advertising appeals to:", options:["Celebrity authority","Fear of missing out","Scientific evidence","Logical reasoning"], answer:1},
      {q:"A celebrity endorses a product in a commercial. This technique works because:", options:["It provides scientific evidence","It gives the consumer facts","People transfer their positive feelings about the celebrity to the product","Celebrities always test products before advertising them"], answer:2},
      {q:"Repetition is used in advertising because:", options:["Hearing or seeing a message many times makes it more memorable","It takes up time cheaply","It is required by law","It confuses the consumer"], answer:0},
      {q:"An advertisement saying 'Act now — limited time offer!' is using:", options:["Scientific evidence","Scarcity/urgency appeal to create fear of missing out","Celebrity endorsement","Bandwagon appeal"], answer:1},
@@ -422,7 +422,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"The Renaissance began in which country?", options:["France","England","Italy","Germany"], answer:2},
      {q:"Renaissance humanism emphasized:", options:["The rejection of ancient Greek and Roman learning","Strict religious obedience above all","The importance of afterlife over earthly concerns","The value of human achievement, reason, and individual potential"], answer:3},
-     {q:"Leonardo da Vinci was notable during the Renaissance for being:", options:["A multi-talented genius — artist, scientist, engineer, and inventor","Exclusively a painter","Only an architect","Only a mathematician"], answer:0},
+     {q:"Leonardo da Vinci was notable during the Renaissance for being:", options:["A multi-talented genius","Exclusively a painter","Only an architect","Only a mathematician"], answer:0},
      {q:"The invention of the printing press by Gutenberg had what effect on the Renaissance?", options:["It was only used for religious texts","It allowed books and new ideas to spread widely and quickly","It slowed the spread of ideas","It had no significant impact"], answer:1},
      {q:"Which Renaissance artist painted the Sistine Chapel ceiling?", options:["Michelangelo","Leonardo da Vinci","Raphael","Donatello"], answer:0},
    ]},
@@ -481,7 +481,7 @@ const curriculum: DayContent[] = [
      {q:"Which transformation slides a shape to a new position without turning or flipping it?", options:["Translation","Reflection","Dilation","Rotation"], answer:0},
      {q:"A reflection flips a shape over:", options:["A line of symmetry (mirror line)","A centre point","A circle","An angle"], answer:0},
      {q:"If a triangle is rotated 90° clockwise, it:", options:["Turns 90° to the right around a centre point","Stays in the same spot","Becomes a different shape","Flips to its mirror image"], answer:0},
-     {q:"After a translation, does the shape change size or orientation?", options:["Yes, it gets larger","No, it stays the same size and orientation — it only moves","Yes, it rotates","Yes, it flips"], answer:1},
+     {q:"After a translation, does the shape change size or orientation?", options:["Yes, it gets larger","No, it stays the same size and orientation","Yes, it rotates","Yes, it flips"], answer:1},
      {q:"A shape has a line of symmetry if:", options:["It has no curved edges","It is a triangle","It has four sides","It can be folded so both halves match exactly"], answer:3},
    ]},
   {subject:"Science", title:"Canada's Contributions to Space Exploration", summary:"Ontario Space Exploration strand: Canada has made significant contributions to space exploration, including the Canadarm robotic arm, the RADARSAT satellite, and Canadian astronauts aboard the International Space Station.",
@@ -525,7 +525,7 @@ const curriculum: DayContent[] = [
   {subject:"Science", title:"Mechanical Advantage: Simple Machines", summary:"Ontario Grade 6 Science — Mechanical Advantage strand: simple machines (lever, wheel and axle, pulley, inclined plane, wedge, screw) reduce the force needed to do work by increasing distance or changing direction of force.",
    resourceLabel:"YouTube: Mechanical Advantage: Simple Machines", resourceUrl:"https://www.youtube.com/results?search_query=Mechanical%20Advantage%3A%20Simple%20Machines%20grade%206%20educational",
    quiz:[
-     {q:"What does 'mechanical advantage' mean?", options:["The ratio of output force to input force — how much a machine multiplies your effort","The type of energy used","The weight of a machine","The speed of a machine"], answer:0},
+     {q:"What does 'mechanical advantage' mean?", options:["The ratio of output force to input force","The type of energy used","The weight of a machine","The speed of a machine"], answer:0},
      {q:"A lever consists of:", options:["A rigid bar that pivots on a fulcrum","An inclined surface","A curved screw thread","A wheel and a rope"], answer:0},
      {q:"An inclined plane (ramp) makes work easier because:", options:["It eliminates the force needed","It reduces the force needed by spreading work over a greater distance","It doubles the weight being lifted","It changes the energy type"], answer:1},
      {q:"A pulley changes:", options:["The type of energy used","The amount of energy required","The direction of force and can also multiply force","The speed of light"], answer:2},
@@ -567,7 +567,7 @@ const curriculum: DayContent[] = [
      {q:"Gears are used in machines to:", options:["Generate electricity","Only change the colour of output","Transfer and change the speed, direction, or force of rotational motion","Store energy"], answer:2},
      {q:"When a small gear drives a larger gear, the larger gear turns:", options:["Slower with more force","Faster with more force","At the same speed","Faster with less force"], answer:0},
      {q:"A bicycle is an example of a compound machine because it uses:", options:["Multiple simple machines including wheel and axle, gears, levers (pedals and brakes)","Only one simple machine","Only a lever","Only gears and nothing else"], answer:0},
-     {q:"What is 'efficiency' in a machine?", options:["The size of the machine","How fast the machine moves","The ratio of useful output work to total input work — no real machine is 100% efficient due to friction","How colourful a machine is"], answer:2},
+     {q:"What is 'efficiency' in a machine?", options:["The size of the machine","How fast the machine moves","The ratio of useful output work to total input work","How colourful a machine is"], answer:2},
    ]},
   {subject:"SocialStudies", title:"Confederation: The Birth of Canada", summary:"Ontario Grade 6 Social Studies — Canada's History: Confederation in 1867 united the Province of Canada, New Brunswick, and Nova Scotia into the Dominion of Canada. Factors including trade, defence, and political deadlock motivated the union.",
    resourceLabel:"YouTube: Confederation: The Birth of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20The%20Birth%20of%20Canada%20grade%206%20educational",
@@ -593,7 +593,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20grade%206%20educational",
    quiz:[
      {q:"A ratio compares ___.", options:["only percentages","two quantities or amounts","only whole numbers","a fraction and a decimal"], answer:1},
-     {q:"The ratio of 3 red to 5 blue balls can be written as ___.", options:["only 3 to 5","3:5, 3 to 5, or 3/5 — all three forms are equivalent","5:3 only","3/5 only"], answer:1},
+     {q:"The ratio of 3 red to 5 blue balls can be written as ___.", options:["only 3 to 5","3:5, 3 to 5, or 3/5","5:3 only","3/5 only"], answer:1},
      {q:"Which ratio is equivalent to 2:3?", options:["6:9","3:2","4:6","4:5"], answer:2},
      {q:"A recipe needs 2 cups of flour for every 3 cups of water. For 6 cups of flour, you need ___.", options:["7 cups","9 cups","6 cups","8 cups"], answer:1},
      {q:"Ratios can be used to ___.", options:["only multiply","only add numbers","only subtract","compare, scale, and solve proportion problems in real contexts"], answer:3}
@@ -641,8 +641,8 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Taxonomy is the science of ___.", options:["only studying bacteria","measuring animals","naming, describing, and classifying living things into groups","counting species"], answer:2},
      {q:"The eight levels of biological classification from broadest to most specific are ___.", options:["Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species","Kingdom to Species only","Species first to Domain last","Only Kingdom, Phylum, Species"], answer:0},
-     {q:"Two organisms belong to the same genus. They must also share the same ___.", options:["only phylum","species always","family, order, class, phylum, kingdom, and domain — all broader categories","only kingdom"], answer:2},
-     {q:"Biodiversity refers to ___.", options:["only plant species","only tropical animals","the total number of people on Earth","the variety of life forms in an ecosystem or on Earth — genes, species, and ecosystems"], answer:3},
+     {q:"Two organisms belong to the same genus. They must also share the same ___.", options:["only phylum","species always","family, order, class, phylum, kingdom, and domain","only kingdom"], answer:2},
+     {q:"Biodiversity refers to ___.", options:["only plant species","only tropical animals","the total number of people on Earth","the variety of life forms in an ecosystem or on Earth"], answer:3},
      {q:"Why is biodiversity important?", options:["Only for scientists","Only for forests","It is not","Diverse ecosystems are more resilient, provide more resources, and support healthier environments for all life including humans"], answer:3}
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Greece", summary:"Students study ancient Greek city-states (Athens and Sparta), the origins of democracy, Greek philosophy, and the legacy of Greek culture.",
@@ -700,7 +700,7 @@ const curriculum: DayContent[] = [
      {q:"Synthesising information means ___.", options:["combining and connecting ideas from multiple sources to form a new, deeper understanding","copying from multiple sources","summarising one source","only comparing sources"], answer:0},
      {q:"When synthesising, you should look for ___.", options:["similarities, differences, unique insights, and gaps in the information","only agreements between sources","only facts that agree","only contradictions"], answer:0},
      {q:"Why is it useful to consult multiple sources on a topic?", options:["Only for long essays","It is not","Different sources offer different perspectives, ensuring a more complete and accurate picture","Only if sources agree"], answer:2},
-     {q:"What should you do when two sources contradict each other?", options:["Always prefer the most popular","Ignore one","Investigate further — consider the credibility, date, and bias of each source","Choose the longer source"], answer:2},
+     {q:"What should you do when two sources contradict each other?", options:["Always prefer the most popular","Ignore one","Investigate further","Choose the longer source"], answer:2},
      {q:"When writing a synthesis paragraph, you should ___.", options:["never use your own words","blend ideas from multiple sources into your own analytical statement","simply list what each source says separately","only quote directly"], answer:1}
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"Students apply the correct order of operations: Brackets, Exponents, Division/Multiplication (left to right), Addition/Subtraction (left to right).",
@@ -736,7 +736,7 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Grammar: Complex Sentences and Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Complex%20Sentences%20and%20Clauses%20grade%206%20educational",
    quiz:[
      {q:"An independent clause can ___.", options:["only be one word","never be part of a complex sentence","not stand on its own","stand alone as a complete sentence"], answer:3},
-     {q:"A dependent clause ___.", options:["cannot stand alone — it depends on an independent clause to make sense","is always a complete thought","is never combined with other clauses","can stand alone"], answer:0},
+     {q:"A dependent clause ___.", options:["cannot stand alone","is always a complete thought","is never combined with other clauses","can stand alone"], answer:0},
      {q:"A complex sentence contains ___.", options:["an independent clause and at least one dependent clause joined by a subordinating conjunction","only one clause","two independent clauses","only dependent clauses"], answer:0},
      {q:"Which word is a subordinating conjunction?", options:["Although","And","Or","But"], answer:0},
      {q:"Which is a complex sentence?", options:["She sings.","The dog barked and the cat ran.","Although it was raining, the game continued.","Run quickly."], answer:2}
@@ -764,9 +764,9 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Renaissance means ___.", options:["new beginning","rebirth — referring to the revival of classical Greek and Roman ideas in Europe","darkness","revolution"], answer:1},
      {q:"Humanism during the Renaissance emphasised ___.", options:["the potential, dignity, and achievements of human beings and earthly life","only religious devotion","only farming improvements","only military conquest"], answer:0},
-     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he was a master of painting, sculpture, engineering, anatomy, and science — a 'Renaissance man'","he invented firearms","he was a military general","he was only a painter"], answer:0},
+     {q:"Leonardo da Vinci exemplified the Renaissance ideal because ___.", options:["he was a master of painting, sculpture, engineering, anatomy, and science","he invented firearms","he was a military general","he was only a painter"], answer:0},
      {q:"The printing press, invented by Gutenberg around 1440, changed society by ___.", options:["allowing rapid, cheap reproduction of books, spreading ideas, literacy, and the Reformation","making books more expensive","reducing communication","only helping artists"], answer:0},
-     {q:"Which period of exploration coincided with the Renaissance?", options:["The Dark Ages","The Industrial Revolution","The Age of Exploration — European navigators explored the Americas, Africa, and Asia","Ancient times"], answer:2}
+     {q:"Which period of exploration coincided with the Renaissance?", options:["The Dark Ages","The Industrial Revolution","The Age of Exploration","Ancient times"], answer:2}
    ]},
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
@@ -776,7 +776,7 @@ const curriculum: DayContent[] = [
      {q:"A poem's tone is ___.", options:["the subject of the poem","the author's attitude toward the subject, conveyed through word choice and structure","the poem's rhyme scheme","the central message or lesson"], answer:1},
      {q:"A poem's theme is ___.", options:["only a stated lesson in the last line","the central message or insight about life that the poem conveys","the rhyming pattern","the number of stanzas"], answer:1},
      {q:"A sonnet is a 14-line poem with ___.", options:["no rhyme","only 10 syllables total","a specific rhyme scheme (Shakespearean: ABAB CDCD EFEF GG; Petrarchan: ABBA ABBA CDE CDE)","free verse structure"], answer:2},
-     {q:"Free verse poetry ___.", options:["must have exactly 10 lines","is only one stanza","has no regular rhyme or metre — it focuses on imagery and natural speech rhythms","always rhymes"], answer:2},
+     {q:"Free verse poetry ___.", options:["must have exactly 10 lines","is only one stanza","has no regular rhyme or metre","always rhymes"], answer:2},
      {q:"Analysing a poem's tone helps you understand ___.", options:["how many words it has","only the rhyme scheme","only the punctuation","the poet's feelings toward the subject and the emotional effect on the reader"], answer:3}
    ]},
   {subject:"Math", title:"Equations: Solving One-Step", summary:"Students solve one-step equations involving addition, subtraction, multiplication, and division. They use inverse operations to isolate the variable.",
@@ -800,7 +800,7 @@ const curriculum: DayContent[] = [
   {subject:"SocialStudies", title:"The Age of Exploration", summary:"Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
    resourceLabel:"YouTube: The Age of Exploration", resourceUrl:"https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
    quiz:[
-     {q:"The main motivations for European exploration were ___.", options:["Gold, God, and Glory — the pursuit of trade wealth, spreading Christianity, and national prestige","only scientific discovery","only curiosity","only escaping disease"], answer:0},
+     {q:"The main motivations for European exploration were ___.", options:["Gold, God, and Glory","only scientific discovery","only curiosity","only escaping disease"], answer:0},
      {q:"Christopher Columbus's 1492 voyage ___.", options:["discovered Australia","proved the Earth was flat","established contact between Europe and the Americas, beginning sustained transatlantic interaction","reached Asia as planned"], answer:0},
      {q:"The Columbian Exchange refers to ___.", options:["only the transfer of gold","a trade agreement","the transfer of plants, animals, diseases, and ideas between the Americas, Africa, and Europe after 1492","a stock market in Colombia"], answer:2},
      {q:"How did European exploration affect Indigenous peoples of the Americas?", options:["It had no effect","It benefited them greatly","It brought devastating disease, displacement, and cultural destruction, causing massive population decline","Only positively through trade"], answer:2},
@@ -891,7 +891,7 @@ const curriculum: DayContent[] = [
      {q:"What distinguishes a memoir from an autobiography?", options:["They are identical","A memoir covers one's entire life; an autobiography focuses on one event","An autobiography is fiction","A memoir focuses on a particular theme or period in the author's life, while an autobiography covers the whole life story"], answer:1},
      {q:"Effective memoirs include ___.", options:["only dialogue","only descriptions of places","vivid sensory details, emotional reflection, and a meaningful theme or insight about life","only basic facts of what happened"], answer:2},
      {q:"In memoir writing, reflection means ___.", options:["summarising what happened","adding fictional elements","simply retelling events in order","stepping back to analyse what the experience meant and what you learned from it"], answer:3},
-     {q:"The voice in a memoir should be ___.", options:["completely neutral and without personality","always formal","identical to a newspaper report","the authentic, personal voice of the author — their thoughts, feelings, and perspective shine through"], answer:3}
+     {q:"The voice in a memoir should be ___.", options:["completely neutral and without personality","always formal","identical to a newspaper report","the authentic, personal voice of the author"], answer:3}
    ]},
   {subject:"Math", title:"Geometry: Area of Triangles and Parallelograms", summary:"Students apply the formulas for area of triangles (A = ½bh) and parallelograms (A = bh), and understand how these relate to rectangles.",
    resourceLabel:"YouTube: Geometry: Area of Triangles and Parallelograms", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Area%20of%20Triangles%20and%20Parallelograms%20grade%206%20educational",
@@ -926,8 +926,8 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Novel Study: Character Development", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20Development%20grade%206%20educational",
    quiz:[
      {q:"Character development (or 'character arc') refers to ___.", options:["the physical description of characters","the list of characters in a novel","the number of times a character appears","the way a character changes, grows, or learns through the events of the story"], answer:3},
-     {q:"A character's motivation is ___.", options:["their name only","what drives their actions and decisions — their goals, fears, desires","where they live","how they look"], answer:1},
-     {q:"An internal conflict is ___.", options:["a conflict with society","a fight between two characters","a battle between the character and nature","a struggle within a character — their own emotions, values, and choices"], answer:3},
+     {q:"A character's motivation is ___.", options:["their name only","what drives their actions and decisions","where they live","how they look"], answer:1},
+     {q:"An internal conflict is ___.", options:["a conflict with society","a fight between two characters","a battle between the character and nature","a struggle within a character"], answer:3},
      {q:"An external conflict is ___.", options:["only the villain","a struggle between a character and an outside force (person, society, nature, technology)","only a physical fight","a character's internal doubt"], answer:1},
      {q:"Tracking character development through a novel means ___.", options:["only analysing the hero","memorising all character names","noting how characters speak, think, act, and change in response to events and conflicts throughout the story","only counting interactions"], answer:2}
    ]},
@@ -985,7 +985,7 @@ const curriculum: DayContent[] = [
      {q:"The main function of the circulatory system is ___.", options:["digesting food","breathing","controlling movement","transporting oxygen, nutrients, hormones, and waste products through the blood"], answer:3},
      {q:"Gas exchange (O₂ in, CO₂ out) occurs in the ___.", options:["stomach","alveoli of the lungs","kidneys","liver"], answer:1},
      {q:"The nervous system consists of ___.", options:["only sensory nerves","only the brain","only the spinal cord","the brain, spinal cord, and network of nerves that carry signals between the body and brain"], answer:3},
-     {q:"Body systems work together. Which describes their interaction?", options:["The digestive system passes nutrients to the circulatory system, which delivers them throughout the body — this shows how systems depend on each other","They work in pairs only","Only the nervous system affects others","They work independently and never interact"], answer:0}
+     {q:"Body systems work together. Which describes their interaction?", options:["The digestive system passes nutrients to the circulatory system, which delivers them throughout the body","They work in pairs only","Only the nervous system affects others","They work independently and never interact"], answer:0}
    ]},
   {subject:"SocialStudies", title:"World War I: Impact and Consequences", summary:"Students examine the human cost of WWI, the Treaty of Versailles, and the seeds of future conflict.",
    resourceLabel:"YouTube: World War I: Impact and Consequences", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Impact%20and%20Consequences%20grade%206%20educational",
@@ -1014,7 +1014,7 @@ const curriculum: DayContent[] = [
      {q:"A table of values shows ___.", options:["only addition facts","only one pair of values","only random numbers","corresponding input and output values for a relationship"], answer:3},
      {q:"If y = 2x + 1, what is y when x = 4?", options:["8","9","10","7"], answer:1},
      {q:"On a graph, the y-intercept is ___.", options:["the steepness of the line","where the line crosses the x-axis","the length of the line","where the line crosses the y-axis"], answer:3},
-     {q:"The slope of a line represents ___.", options:["the y-intercept value","only the direction of the line","the rate of change — how much y changes for every 1-unit increase in x","the x-axis value"], answer:2}
+     {q:"The slope of a line represents ___.", options:["the y-intercept value","only the direction of the line","the rate of change","the x-axis value"], answer:2}
    ]},
   {subject:"Science", title:"Ecosystems and Environmental Stewardship", summary:"Students examine ecosystem services, the impact of pollution, and what students and communities can do to protect natural environments.",
    resourceLabel:"YouTube: Ecosystems and Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Environmental%20Stewardship%20grade%206%20educational",
@@ -1039,8 +1039,8 @@ const curriculum: DayContent[] = [
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Students refine their writing through systematic editing (content, organisation, style) and proofreading (grammar, spelling, punctuation), using editing marks and checklists.",
    resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%206%20educational",
    quiz:[
-     {q:"Editing focuses on ___.", options:["only finding typos","only punctuation","improving content, organisation, clarity, and style — the big-picture issues","only spelling errors"], answer:2},
-     {q:"Proofreading focuses on ___.", options:["changing the thesis","content and ideas","fixing spelling, grammar, punctuation, and formatting errors — the surface-level details","paragraph structure"], answer:2},
+     {q:"Editing focuses on ___.", options:["only finding typos","only punctuation","improving content, organisation, clarity, and style","only spelling errors"], answer:2},
+     {q:"Proofreading focuses on ___.", options:["changing the thesis","content and ideas","fixing spelling, grammar, punctuation, and formatting errors","paragraph structure"], answer:2},
      {q:"Reading your writing aloud helps you ___.", options:["catch awkward phrasing, missing words, and sentences that don't flow well","write faster","only find spelling errors","avoid all errors immediately"], answer:0},
      {q:"Peer editing means ___.", options:["writing for someone else","copying a classmate's work","only correcting grammar","a classmate critically reviewing your work and offering constructive feedback"], answer:3},
      {q:"Which comes first: editing or proofreading?", options:["They are done simultaneously","Proofreading","Neither is needed","Editing (big-picture revisions to content and structure) should come before proofreading (surface-level corrections)"], answer:3}
@@ -1067,10 +1067,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: World War II: Causes and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20II%3A%20Causes%20and%20Canada%27s%20Role%20grade%206%20educational",
    quiz:[
      {q:"The main ideological forces driving WWII were ___.", options:["only nationalism","communism vs. democracy only","only economic disputes","fascism/Nazism in Germany and Italy, militarism in Japan, vs. the Allied democracies"], answer:3},
-     {q:"Appeasement in the 1930s meant ___.", options:["the British and French policy of granting concessions to Hitler to avoid war — famously at Munich in 1938","only economic sanctions","helping Germany rebuild","fighting back aggressively"], answer:0},
+     {q:"Appeasement in the 1930s meant ___.", options:["the British and French policy of granting concessions to Hitler to avoid war","only economic sanctions","helping Germany rebuild","fighting back aggressively"], answer:0},
      {q:"Canada declared war on Germany ___.", options:["a week before Britain","one week after Britain (September 10, 1939), demonstrating growing Canadian autonomy","the same day as Britain","two months after Britain"], answer:1},
-     {q:"The Battle of the Atlantic was crucial because ___.", options:["it had no strategic value","Allied naval forces, including many Canadians, protected vital supply convoys crossing the Atlantic — without which Britain could not survive","it won the war in one battle","it only affected submarines"], answer:1},
-     {q:"D-Day (June 6, 1944) was significant because ___.", options:["it was a minor skirmish","Canadian forces at Juno Beach were one of five Allied forces landing on Normandy — it began the liberation of Western Europe","Canada did not participate","it ended the war immediately"], answer:1}
+     {q:"The Battle of the Atlantic was crucial because ___.", options:["it had no strategic value","Allied naval forces, including many Canadians, protected vital supply convoys crossing the Atlantic","it won the war in one battle","it only affected submarines"], answer:1},
+     {q:"D-Day (June 6, 1944) was significant because ___.", options:["it was a minor skirmish","Canadian forces at Juno Beach were one of five Allied forces landing on Normandy","Canada did not participate","it ended the war immediately"], answer:1}
    ]},
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
@@ -1078,10 +1078,10 @@ const curriculum: DayContent[] = [
    resourceLabel:"YouTube: Media: Creating a Documentary Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Creating%20a%20Documentary%20Script%20grade%206%20educational",
    quiz:[
      {q:"A documentary is a type of ___.", options:["animation","fiction film","only a school project","non-fiction film or media that presents facts about real-world events, people, or topics"], answer:3},
-     {q:"A script for a documentary includes ___.", options:["only visuals","narration, dialogue, visual directions, and interview questions — all working together to tell a true story","only music","only facts and statistics"], answer:1},
+     {q:"A script for a documentary includes ___.", options:["only visuals","narration, dialogue, visual directions, and interview questions","only music","only facts and statistics"], answer:1},
      {q:"Why do documentaries often include interviews?", options:["First-hand accounts and expert opinions make the story more credible, human, and engaging","To meet a time requirement","Only for entertainment","Interviews replace all narration"], answer:0},
      {q:"A 'hook' at the start of a documentary ___.", options:["puts audiences to sleep","is a compelling opening (striking visual, intriguing question, shocking fact) that grabs the audience's attention","is only a song","introduces all facts immediately"], answer:1},
-     {q:"When writing documentary narration, the tone should be ___.", options:["always humorous","matched to the subject — serious for serious topics, accessible and clear, and based on verified facts","identical for all documentaries","always angry"], answer:1}
+     {q:"When writing documentary narration, the tone should be ___.", options:["always humorous","matched to the subject","identical for all documentaries","always angry"], answer:1}
    ]},
   {subject:"Math", title:"Probability: Theoretical and Experimental", summary:"Students distinguish theoretical probability (what should happen) from experimental probability (what does happen). They run probability experiments and compare results.",
    resourceLabel:"YouTube: Probability: Theoretical and Experimental", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Theoretical%20and%20Experimental%20grade%206%20educational",
@@ -1117,7 +1117,7 @@ const curriculum: DayContent[] = [
    quiz:[
      {q:"Reflecting on your learning means ___.", options:["copying your best work","forgetting what you studied","thinking critically about how your skills have grown, what you found challenging, and what you're proud of","only reviewing test scores"], answer:2},
      {q:"Setting a literacy goal for Grade 7 means ___.", options:["giving up on improving","only choosing what books to read","only for students who failed","identifying a specific reading, writing, or communication skill you want to develop and making a plan"], answer:3},
-     {q:"A portfolio of your best writing shows ___.", options:["only test scores","only long essays","your growth as a writer over the year — varied pieces that demonstrate different skills and your development","only your weakest work"], answer:2},
+     {q:"A portfolio of your best writing shows ___.", options:["only test scores","only long essays","your growth as a writer over the year","only your weakest work"], answer:2},
      {q:"Sharing a piece of writing with an audience shows ___.", options:["only for perfect pieces","only for publication","bravery and communication skills, and helps writers understand how others respond to their work","it is finished forever"], answer:2},
      {q:"The most important writing habit you can build is ___.", options:["only writing when required","writing only for teachers","writing regularly, reading widely, and viewing revision as an essential part of the process","only grammar"], answer:2}
    ]},
