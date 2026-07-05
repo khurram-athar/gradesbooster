@@ -11,6 +11,11 @@ const curriculum: DayContent[] = [
      {q:"Which word rhymes with 'hop'?", options:["hat","hope","hip","top"], answer:3},
      {q:"What sound does the 'u' make in 'sun'?", options:["long u","long o","short u","silent"], answer:2},
      {q:"Which word has a short 'e' sound?", options:["bed","bee","be","bead"], answer:0},
+   ],
+   worksheet:[
+     {prompt:"Which vowel is missing? c_t (an animal that meows)", answers:["a"]},
+     {prompt:"Which vowel is missing? p_g (a farm animal)", answers:["i"]},
+     {prompt:"Write a word that rhymes with 'hop'.", answers:["top","mop","pop","stop","shop","drop","chop","flop","cop"]}
    ]},
   {subject:"Math", title:"Numbers to 50", summary:"Ontario Number strand: count, read, and represent whole numbers to 50, and compare quantities.",
    resourceLabel:"YouTube: Numbers to 50", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2050%20grade%202%20educational",
@@ -21,6 +26,11 @@ const curriculum: DayContent[] = [
      {q:"What number is 10 more than 24?", options:["44","14","34","25"], answer:2},
      {q:"Which of these is between 15 and 20?", options:["21","14","25","17"], answer:3},
      {q:"Count by 1s: 45, 46, 47, __?", options:["50","49","44","48"], answer:3},
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 39?", answers:["40","forty"]},
+     {prompt:"Which is greater: 27 or 32? Write the greater number.", answers:["32","thirty-two","thirty two"]},
+     {prompt:"What number is 10 more than 24?", answers:["34","thirty-four","thirty four"]}
    ]},
   {subject:"Science", title:"Living vs. Nonliving Things", summary:"Ontario Life Systems strand: living things grow, need food/water/air, and respond to their environment; nonliving things do not.",
    resourceLabel:"YouTube: Living vs. Nonliving Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20vs.%20Nonliving%20Things%20grade%202%20educational",
@@ -31,6 +41,11 @@ const curriculum: DayContent[] = [
      {q:"All living things need...", options:["Wheels","Electricity","Paint","Food and water"], answer:3},
      {q:"Living things can...", options:["Stay exactly the same forever","Grow and change","Never need food","Be made of metal only"], answer:1},
      {q:"Which is a sign something is alive?", options:["It is blue","It is hard","It breathes","It is heavy"], answer:2},
+   ],
+   worksheet:[
+     {prompt:"A bird is a ___ thing.", answers:["living"]},
+     {prompt:"A bicycle is a ___ thing.", answers:["nonliving","non-living","non living"]},
+     {prompt:"All living things need food and ___.", answers:["water"]}
    ]},
   {subject:"SocialStudies", title:"My Family and Community", summary:"Ontario Heritage & Identity strand: families and communities have traditions, celebrations, and roles that make up our personal and community identity.",
    resourceLabel:"YouTube: My Family and Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20and%20Community%20grade%202%20educational",
@@ -41,6 +56,11 @@ const curriculum: DayContent[] = [
      {q:"A family tradition is something a family...", options:["Is not allowed to do","Does once and forgets","Does together every year","Buys at a store"], answer:2},
      {q:"A neighbor is someone who...", options:["Lives far away","Lives in another country","You never see","Lives near you"], answer:3},
      {q:"Communities can be found in...", options:["Cities, towns, and farms","Only cities","Only the country","Nowhere"], answer:0},
+   ],
+   worksheet:[
+     {prompt:"A ___ is a place where people live and help each other.", answers:["community"]},
+     {prompt:"A neighbor is someone who lives ___ you.", answers:["near","close to","nearby"]},
+     {prompt:"A family tradition is something a family does together every ___.", answers:["year"]}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
@@ -88,6 +108,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Nouns: People, Places, Things", summary:"A noun names a person, place, animal, or thing, like teacher, park, dog, or book.",
    resourceLabel:"YouTube: Nouns: People, Places, Things", resourceUrl:"https://www.youtube.com/results?search_query=Nouns%3A%20People%2C%20Places%2C%20Things%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3K5vg_QsKCc",
    quiz:[
      {q:"Which word is a noun?", options:["Dog","Quickly","Run","Happy"], answer:0},
      {q:"Which word names a place?", options:["Sing","Jump","Blue","School"], answer:3},
@@ -97,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction Within 20", summary:"Practice taking away numbers within 20, using counting back and known facts.",
    resourceLabel:"YouTube: Subtraction Within 20", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%2020%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ds226Vh7epg",
    quiz:[
      {q:"15 - 7 = ?", options:["7","6","9","8"], answer:3},
      {q:"18 - 9 = ?", options:["9","10","11","8"], answer:0},
@@ -106,6 +128,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Liquids and Solids", summary:"Ontario Matter & Energy strand for Grade 2: solids hold their shape; liquids take the shape of their container and can be poured.",
    resourceLabel:"YouTube: Properties of Liquids and Solids", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Liquids%20and%20Solids%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qYzjg5nRMOg",
    quiz:[
      {q:"Which of these is a solid?", options:["Rock","Water","Juice","Milk"], answer:0},
      {q:"A liquid will...", options:["Take the shape of its container","Never move","Keep one shape always","Disappear instantly"], answer:0},
@@ -115,6 +138,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities Around the World", summary:"Ontario People & Environment strand: communities around the world look different based on climate, land, and culture, but all communities help meet people's needs.",
    resourceLabel:"YouTube: Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20Around%20the%20World%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XINLtbiRCcw",
    quiz:[
      {q:"Why do communities around the world look different?", options:["Random chance only","No reason","Different climates, land, and cultures","They are all the same"], answer:2},
      {q:"A community near the ocean might rely on...", options:["Fishing","Desert farming only","Nothing special","Snowplowing year round"], answer:0},
@@ -126,6 +150,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Action Verbs", summary:"A verb shows action — what someone or something does, like run, jump, eat, or read.",
    resourceLabel:"YouTube: Action Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Action%20Verbs%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iwfUZAYyqR0",
    quiz:[
      {q:"Which word is a verb (action word)?", options:["Table","Blue","Jump","Happy"], answer:2},
      {q:"In 'The dog runs fast,' which word is the verb?", options:["Runs","Dog","The","Fast"], answer:0},
@@ -135,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Place Value: Tens and Ones", summary:"Two-digit numbers are made of tens and ones, like 34 = 3 tens + 4 ones — a key Ontario Number strand idea.",
    resourceLabel:"YouTube: Place Value: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Tens%20and%20Ones%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_dHu5TFxPtk",
    quiz:[
      {q:"In the number 47, how many tens are there?", options:["47","0","7","4"], answer:3},
      {q:"In the number 62, how many ones are there?", options:["8","60","6","2"], answer:3},
@@ -144,6 +170,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures and Mechanisms: Movement", summary:"Ontario Structures & Mechanisms strand for Grade 2: simple mechanisms like wheels, levers, and gears help things move.",
    resourceLabel:"YouTube: Structures and Mechanisms: Movement", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20and%20Mechanisms%3A%20Movement%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1R6MxJpEjfs",
    quiz:[
      {q:"What helps a wagon move easily?", options:["Wheels","Nothing","Glue","A flat bottom with no wheels"], answer:0},
      {q:"A lever can help you...", options:["Sing a song","Make food","Paint a picture","Lift a heavy object with less effort"], answer:3},
@@ -153,6 +180,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Maps and Globes", summary:"A map is a flat drawing of a place, and a globe is a round model of the whole Earth.",
    resourceLabel:"YouTube: Maps and Globes", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20and%20Globes%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KS6R6xSV9Vc",
    quiz:[
      {q:"A globe is shaped like a...", options:["Triangle","Square","Line","Sphere (ball)"], answer:3},
      {q:"A map shows...", options:["Nothing real","Places from above","Smells","Sounds"], answer:1},

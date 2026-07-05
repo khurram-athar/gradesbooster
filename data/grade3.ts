@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Vocabulary: Context Clues", summary:"Students use context clues — the surrounding words and sentences — to figure out the meaning of unfamiliar words without a dictionary.",
    resourceLabel:"YouTube: Vocabulary: Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=s45HnObX24w",
    quiz:[
      {q:"Context clues are ___.", options:["clues found in a picture only","a type of dictionary","nearby words that explain an unfamiliar word","always found in the title"], answer:2},
      {q:"In 'The enormous elephant, nearly as tall as a house, walked slowly,' enormous means ___.", options:["colourful","tiny","fast","very large"], answer:3},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction with Regrouping", summary:"Students subtract 2- and 3-digit numbers using regrouping (borrowing). They understand borrowing from the next column when the top digit is smaller.",
    resourceLabel:"YouTube: Subtraction with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20with%20Regrouping%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8_X680JiWDc",
    quiz:[
      {q:"84 - 37 = ?", options:["57","47","53","43"], answer:1},
      {q:"When the top digit in a column is smaller than the bottom, you ___.", options:["skip the subtraction","regroup (borrow) from the next column","add them","multiply"], answer:1},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Soils in the Environment", summary:"Students investigate types of soil (sand, clay, loam) and their properties. They explore how soil supports plant growth and is important to ecosystems.",
    resourceLabel:"YouTube: Soils in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Soils%20in%20the%20Environment%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5b9o7yM7YGE",
    quiz:[
      {q:"Which type of soil drains water the fastest?", options:["Clay","Loam","Sand","Silt"], answer:2},
      {q:"Clay soil is described as ___.", options:["gritty and fast-draining","very fertile and balanced","dark and crumbly","dense, heavy, and slow-draining"], answer:3},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Government: Federal, Provincial, Municipal", summary:"Students learn the three levels of government in Canada and their responsibilities.",
    resourceLabel:"YouTube: Government: Federal, Provincial, Municipal", resourceUrl:"https://www.youtube.com/results?search_query=Government%3A%20Federal%2C%20Provincial%2C%20Municipal%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7C8uDuhLqvg",
    quiz:[
      {q:"The federal government of Canada is responsible for ___.", options:["setting school hours","national defence and immigration","fixing local roads","collecting garbage"], answer:1},
      {q:"The provincial government of Ontario is responsible for ___.", options:["education and health care","the national army","the city's parks","international affairs"], answer:0},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Fiction vs Non-Fiction", summary:"Students distinguish fiction (invented stories with characters, plot, and setting) from non-fiction (factual, real-world information).",
    resourceLabel:"YouTube: Fiction vs Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Fiction%20vs%20Non-Fiction%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=uF2e_eqI5gI",
    quiz:[
      {q:"A fiction text ___.", options:["is based on real events","only contains facts","contains invented stories and characters","is always about animals"], answer:2},
      {q:"A non-fiction text ___.", options:["gives facts about real topics","contains made-up stories","is always a novel","is always written by scientists"], answer:0},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication: Concept and Arrays", summary:"Students learn multiplication as repeated addition and model it with arrays. 3 × 4 means 3 groups of 4 (or 4 + 4 + 4 = 12).",
    resourceLabel:"YouTube: Multiplication: Concept and Arrays", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Concept%20and%20Arrays%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z8lcZUWbqT0",
    quiz:[
      {q:"3 × 4 = ?", options:["12","10","7","14"], answer:0},
      {q:"Multiplication is the same as ___.", options:["dividing","taking away","repeated addition","guessing"], answer:2},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces Causing Movement", summary:"Students learn that forces (push, pull, gravity, friction, magnetism) can cause objects to start, stop, speed up, or change direction.",
    resourceLabel:"YouTube: Forces Causing Movement", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Causing%20Movement%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=peMaYntpWS0",
    quiz:[
      {q:"A force is ___.", options:["a push or pull","only wind","only gravity","a type of animal"], answer:0},
      {q:"Gravity is a force that ___.", options:["pulls objects toward Earth","only affects large objects","only works in space","pushes things sideways"], answer:0},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Resources", summary:"Students identify Ontario's natural resources (water, forests, minerals, farmland) and how they are used sustainably.",
    resourceLabel:"YouTube: Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
    quiz:[
      {q:"A natural resource is ___.", options:["only a type of animal","only oil and gas","something made in a factory","found in nature and used by people"], answer:3},
      {q:"Which is an example of a natural resource?", options:["Nylon","Fresh water","Plastic","Steel beam"], answer:1},

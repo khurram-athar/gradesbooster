@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Media and Communication: Persuasive Speaking and Debate", summary:"Students develop formal oral skills through structured debate, applying logical reasoning, evidence use, and rebuttal techniques.",
    resourceLabel:"YouTube: Media and Communication: Persuasive Speaking and Debate", resourceUrl:"https://www.youtube.com/results?search_query=Media%20and%20Communication%3A%20Persuasive%20Speaking%20and%20Debate%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1TSkkxu8on0",
    quiz:[
      {q:"The three classical appeals in persuasion are ___.", options:["ethos, logos, and pathos","fact, opinion, evidence","introduction, body, conclusion","topic, argument, conclusion"], answer:0},
      {q:"In formal debate, a rebuttal is ___.", options:["summarising your position","a type of opening statement","directly countering your opponent's arguments","introducing your main argument"], answer:2},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Polynomial Functions: Factoring and Solving", summary:"Students factor higher-degree polynomials using the factor theorem, synthetic division, and sum/difference of cubes, and solve polynomial equations.",
    resourceLabel:"YouTube: Polynomial Functions: Factoring and Solving", resourceUrl:"https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Factoring%20and%20Solving%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=U6FndtdgpcA",
    quiz:[
      {q:"The factor theorem states ___.", options:["a polynomial is always divisible by x","a polynomial has at most 3 factors","x − r is never a factor of a polynomial","if P(r) = 0, then (x − r) is a factor of P(x)"], answer:3},
      {q:"To find a factor of P(x) = x³ − 6x² + 11x − 6, you test integer factors of −6.", options:["P(2) = 8 − 24 + 22 − 6 = 0, so (x − 2) is a factor","P(3) = 27 − 54 + 33 − 6 = 0, so (x − 3) is a factor","Only P(0) = 0 works","P(1) = −2, so (x − 1) is not a factor"], answer:1},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Mendelian Genetics and Extensions", summary:"Students apply Mendelian genetics to monohybrid and dihybrid crosses and extensions: codominance, incomplete dominance, sex-linked traits.",
    resourceLabel:"YouTube: Genetics: Mendelian Genetics and Extensions", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Mendelian%20Genetics%20and%20Extensions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UeyYGeg-jDI",
    quiz:[
      {q:"In codominance, two alleles ___.", options:["blend to produce an intermediate phenotype","are both recessive","are both expressed at once","only one is expressed"], answer:2},
      {q:"Incomplete dominance produces ___.", options:["only homozygous phenotypes","a new, third phenotype unrelated to either parent","a phenotype matching one parent completely","an intermediate phenotype in the heterozygote"], answer:3},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Stoichiometry: Mole Concept and Calculations", summary:"Students learn the mole concept, molar mass, Avogadro's number, and perform stoichiometric calculations (mass-to-mole, mole-to-mole, mass-to-mass).",
    resourceLabel:"YouTube: Stoichiometry: Mole Concept and Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Stoichiometry%3A%20Mole%20Concept%20and%20Calculations%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7Cfq0ilw7ps",
    quiz:[
      {q:"One mole of any substance contains ___.", options:["10²³ particles","exactly 1000 g","6.02 × 10²³ particles (Avogadro's number)","Always exactly 22.4 L of volume, regardless of substance"], answer:2},
      {q:"The molar mass of water (H₂O) is ___.", options:["16 g/mol","20 g/mol","18 g/mol (H: 1×2=2, O: 16, total = 18)","2 g/mol"], answer:2},

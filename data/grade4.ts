@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Synonyms and Antonyms", summary:"Grade 4 Language strand: synonyms are words with similar meanings; antonyms have opposite meanings. Using them enriches vocabulary and writing.",
    resourceLabel:"YouTube: Synonyms and Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20and%20Antonyms%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PDI2xlOBcM4",
    quiz:[
      {q:"A synonym for 'happy' is ___.", options:["joyful","angry","sad","tired"], answer:0},
      {q:"An antonym for 'ancient' is ___.", options:["historic","modern","past","old"], answer:1},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"2-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 2-digit numbers by 1-digit numbers using the distributive property and place value.",
    resourceLabel:"YouTube: 2-Digit × 1-Digit Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=2-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6owKqFWej-w",
    quiz:[
      {q:"23 × 4 = ?", options:["92","72","102","82"], answer:0},
      {q:"45 × 3 = ?", options:["115","135","125","145"], answer:1},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Adaptations", summary:"Grade 4 Science Life Systems: adaptations are physical or behavioural features that help organisms survive in their habitat.",
    resourceLabel:"YouTube: Adaptations", resourceUrl:"https://www.youtube.com/results?search_query=Adaptations%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QVyOrRDsD38",
    quiz:[
      {q:"An adaptation is ___.", options:["a feature that helps an organism survive","a food chain stage","a type of habitat","a community interaction"], answer:0},
      {q:"A polar bear's white fur is an adaptation that helps it ___.", options:["stay warmer in summer","swim faster","camouflage in snowy environments","attract mates"], answer:2},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Greece", summary:"Grade 4 Social Studies: Ancient Greece developed democracy, philosophy, the Olympics, and architecture that influenced the Western world.",
    resourceLabel:"YouTube: Ancient Greece", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Greece%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RchSJSJAbc0",
    quiz:[
      {q:"Ancient Greece was located in ___.", options:["North America","Asia","Africa","Southern Europe"], answer:3},
      {q:"Democracy was developed in ___.", options:["Ancient Egypt","Ancient China","Ancient Rome","Ancient Greece (Athens)"], answer:3},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Prefixes and Suffixes", summary:"Grade 4 Language strand: a prefix is added before a root word to change its meaning; a suffix is added after. Examples: un-, re-, -ful, -less.",
    resourceLabel:"YouTube: Prefixes and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%20and%20Suffixes%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yRwmr7CqnrY",
    quiz:[
      {q:"What does the prefix 'un-' mean?", options:["again","before","after","not"], answer:3},
      {q:"What does 'unhappy' mean?", options:["before happy","happy again","very happy","not happy"], answer:3},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Long Division", summary:"Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
    resourceLabel:"YouTube: Introduction to Long Division", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Long%20Division%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2-sP854NMLw",
    quiz:[
      {q:"In division, the number being divided is the ___.", options:["dividend","divisor","quotient","remainder"], answer:0},
      {q:"In division, the number dividing is the ___.", options:["dividend","remainder","divisor","quotient"], answer:2},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity", summary:"Grade 4 Science Life Systems: biodiversity means the variety of living organisms in an ecosystem. Greater biodiversity usually means a healthier ecosystem.",
    resourceLabel:"YouTube: Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rVZktiOxsww",
    quiz:[
      {q:"Biodiversity means ___.", options:["the size of an ecosystem","the number of plants only","the variety of living organisms in an area","only one type of organism"], answer:2},
      {q:"Greater biodiversity usually means ___.", options:["a healthier, more stable ecosystem","only large animals","a less stable ecosystem","fewer species"], answer:0},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Rome", summary:"Grade 4 Social Studies: Ancient Rome built a vast empire, developing law, engineering, and governance that influenced modern Western civilization.",
    resourceLabel:"YouTube: Ancient Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Rome%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Wo0KujQEJ_s",
    quiz:[
      {q:"Ancient Rome was centred in what is now ___.", options:["Spain","Greece","France","Italy"], answer:3},
      {q:"The Roman Republic had a system of ___.", options:["complete democracy","absolute monarchy","religious rule","representative government with a Senate"], answer:3},

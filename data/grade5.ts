@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Using Context Clues", summary:"Context clues are hints in the surrounding text that help you figure out the meaning of an unfamiliar word.",
    resourceLabel:"YouTube: Using Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Context%20Clues%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eHCpJ86XDY4",
    quiz:[
      {q:"In 'The famished travelers devoured their meal within minutes,' which clue helps you know 'famished' means very hungry?", options:["There is no clue available","A contrast/antonym clue","Their devouring the meal quickly","A direct definition given in the sentence"], answer:2},
      {q:"'Unlike her gregarious brother, Mia preferred quiet evenings alone.' Based on the contrast, 'gregarious' most likely means...", options:["Angry and loud","Tired and sleepy","Outgoing and sociable","Shy and quiet"], answer:2},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Equivalent Fractions", summary:"Equivalent fractions represent the same value, like 1/2 = 2/4 = 3/6.",
    resourceLabel:"YouTube: Equivalent Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Equivalent%20Fractions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hnIxLf8KLUY",
    quiz:[
      {q:"Which fraction is NOT equivalent to 3/4?", options:["15/20","12/15","6/8","9/12"], answer:1},
      {q:"Order these fractions from least to greatest: 2/3, 5/6, 1/2", options:["2/3, 1/2, 5/6","1/2, 2/3, 5/6","1/2, 5/6, 2/3","5/6, 2/3, 1/2"], answer:1},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Matter", summary:"Ontario Grade 5 Science strand: matter has measurable properties like mass, volume, density, and the ability to dissolve.",
    resourceLabel:"YouTube: Properties of Matter", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Matter%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MrTxRn9MNWM",
    quiz:[
      {q:"Two objects have the same volume, but Object A is heavier than Object B. What can you conclude?", options:["Object A has greater density than Object B","Density cannot be determined","They have the same density","Object A has less density than Object B"], answer:0},
      {q:"A sugar cube stirred into water disappears from sight. Has its mass been destroyed?", options:["No, it's just dissolved, still present","Yes, it turned into a gas","Yes, the mass is gone forever","No, it turned into a new element"], answer:0},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Government in Canada", summary:"Canada has different levels of government — federal, provincial, and municipal — each responsible for different things.",
    resourceLabel:"YouTube: Government in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Government%20in%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"A city council decides to build a new public library. Which level of government is responsible?", options:["Municipal","Federal","None — libraries are privately funded only","Provincial"], answer:0},
      {q:"Which issue would MOST LIKELY be handled by the federal government rather than the province?", options:["Local snow removal","Immigration policy","School curriculum for Ontario","Provincial highway speed limits"], answer:1},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Cause and Effect", summary:"A cause is why something happens, and an effect is what happens as a result.",
    resourceLabel:"YouTube: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OnSEFSk5VgQ",
    quiz:[
      {q:"'Because the road was icy, the bus arrived late, which caused Maria to miss the morning announcements.' What is the ORIGINAL cause?", options:["The road was icy","Maria missed the announcements","The bus arrived late","The class started"], answer:0},
      {q:"In that same sentence, 'the bus arrived late' functions as...", options:["Only an effect","Both an effect and a cause","Neither a cause nor an effect","Only a cause"], answer:1},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Fractions", summary:"Add and subtract fractions with the same denominator, and simplify your answer.",
    resourceLabel:"YouTube: Adding and Subtracting Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Fractions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5juto2ze8Lg",
    quiz:[
      {q:"A recipe uses 1/4 cup of sugar and 1/4 cup of brown sugar. How much sugar in total, simplest form?", options:["2/8 cup","3/4 cup","1/8 cup","1/2 cup"], answer:3},
      {q:"You have 5/6 of a pizza and eat 2/6. How much is left, in simplest form?", options:["3/6","1/2","1/3","3/12"], answer:1},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Conservation of Energy and Resources", summary:"Ontario Grade 5 Science strand: energy can be transformed but not created or destroyed; renewable resources can be replenished while non-renewable resources cannot.",
    resourceLabel:"YouTube: Conservation of Energy and Resources", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20and%20Resources%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YSFR7ByqTps",
    quiz:[
      {q:"A dam converts flowing water's energy into electricity. What does conservation of energy say happens to the total energy?", options:["Energy is created from nothing","Energy is destroyed as it becomes electricity","Energy changes form, but the total amount stays the same","Energy simply disappears"], answer:2},
      {q:"Which choice is an example of conserving a non-renewable resource?", options:["Carpooling to reduce gasoline use","Using more coal for heating","Wasting paper unnecessarily","Leaving lights on all day"], answer:0},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Physical Regions", summary:"Canada is divided into physical regions (like the Canadian Shield, the Prairies, and the Cordillera), each with distinct landforms and climate.",
    resourceLabel:"YouTube: Canada's Physical Regions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Physical%20Regions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"A farmer looking for large areas of flat, fertile land for growing wheat would most likely settle in...", options:["The Cordillera","The Canadian Shield","The Arctic","The Prairies"], answer:3},
      {q:"Why does the Canadian Shield have relatively poor farmland despite covering a huge area?", options:["It never receives any rain","It is entirely underwater","It has no land at all","It is mostly rocky, ancient terrain"], answer:3},

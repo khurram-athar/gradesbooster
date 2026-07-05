@@ -46,6 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Independent Study: The Novel — Form and Meaning", summary:"Students read a major novel independently, analysing how formal choices (narration, structure, style) create meaning rather than just content.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
    quiz:[
      {q:"The distinction between story (fabula) and discourse (sjuzhet) means ___.", options:["only the plot matters","discourse is less important than story","story is raw events; discourse is how they're told","they are the same in all novels"], answer:2},
      {q:"Free indirect discourse (FID) in a novel allows ___.", options:["only third-person narrators to speak","only interior monologue in first person","a narrator to render thoughts without explicit tags","only direct quotation of characters"], answer:2},
@@ -65,6 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Derivatives: Definition and Basic Rules", summary:"Students develop the concept of the derivative as a limit of difference quotients, and apply the basic differentiation rules (power, constant, sum, difference).",
    resourceLabel:"Khan Academy: Derivative Rules", resourceUrl:"https://www.youtube.com/watch?v=HEH_oKNLgUU",
+   videoUrl:"https://www.youtube.com/watch?v=WsQQvHm4lSw",
    quiz:[
      {q:"The derivative f'(a) is defined as ___.", options:["f(a+1) − f(a)","lim(h→0)[f(a+h) − f(a)]/h","f(a+h) − f(a)","f(a)/h"], answer:1},
      {q:"The power rule states d/dx[xⁿ] = ___.", options:["xⁿ⁻¹","nxⁿ","nxⁿ+1","nxⁿ⁻¹"], answer:3},
@@ -74,6 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Forces: Newton's Laws in 2D", summary:"Students apply Newton's three laws to two-dimensional force problems, including inclined planes, connected masses, and friction.",
    resourceLabel:"Crash Course Physics: Newtons Laws", resourceUrl:"https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+   videoUrl:"https://www.youtube.com/watch?v=g550H4e5FCY",
    quiz:[
      {q:"For a block on a frictionless inclined plane at angle θ, the acceleration down the incline is ___.", options:["g sinθ", "g","g tanθ","g cosθ"], answer:0},
      {q:"Normal force on an inclined plane (angle θ, mass m) is ___.", options:["mg","mg cosθ","mg tanθ","mg sinθ"], answer:1},
@@ -85,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Literature: The Tragic Form Across Cultures", summary:"Students compare the tragic form in different cultural traditions — Greek tragedy, Shakespearean tragedy, and contemporary tragic narratives — examining what 'tragedy' means across time and culture.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=I5KZcdAmWLw",
    quiz:[
      {q:"Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.", options:["they are identical in form","Greek tragedy has no hero","Shakespeare's tragedies have no tragic flaws","Greek tragedy uses a chorus and unities"], answer:3},
      {q:"The concept of catharsis (Aristotle) means ___.", options:["the audience's purging of pity and fear","the villain's punishment","the protagonist's recognition of their error","the hero's physical death"], answer:0},
@@ -94,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Exponential and Logarithmic Functions: Advanced Applications", summary:"Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
    resourceLabel:"Khan Academy: Logarithm Properties", resourceUrl:"https://www.youtube.com/watch?v=TMmxKZaCqe0",
+   videoUrl:"https://www.youtube.com/watch?v=oqHJ5xQYTEI",
    quiz:[
      {q:"The change of base formula log_b(x) = log(x)/log(b) allows ___.", options:["converting bases only in specific cases","evaluating logs in any base on a calculator","only base-2 conversions","converting only to base 10"], answer:1},
      {q:"Solve: log₂(x) + log₂(x − 2) = 3", options:["x = 4 or x = −2","x = 4","x = 3","x = −2"], answer:1},
@@ -103,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Derivatives: Product, Quotient, and Chain Rules", summary:"Students master the three composite differentiation rules and apply them to increasingly complex functions.",
    resourceLabel:"Khan Academy: Chain Rule", resourceUrl:"https://www.youtube.com/watch?v=0T0QrHO56qg",
+   videoUrl:"https://www.youtube.com/watch?v=V0xlG8gq7uc",
    quiz:[
      {q:"The product rule for d/dx[f(x)g(x)] is ___.", options:["f'(x)g(x) + f(x)g'(x)","f(x)g'(x)","f'(x) × g'(x)","f'(x)g(x)"], answer:0},
      {q:"The quotient rule for d/dx[f(x)/g(x)] is ___.", options:["[f'(x) − g'(x)] / g(x)","[f'(x)g(x) + f(x)g'(x)] / [g(x)]²","f'(x)/g'(x)","[f'g − fg'] / g²"], answer:3},
@@ -112,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Work, Energy, and Power: Advanced Applications", summary:"Students apply the work-energy theorem, conservation of mechanical energy, and power calculations to complex problems.",
    resourceLabel:"Crash Course Physics: Work Energy Power", resourceUrl:"https://www.youtube.com/watch?v=xNzS1OsPbFg",
+   videoUrl:"https://www.youtube.com/watch?v=_MR1Dp8-F8w",
    quiz:[
      {q:"The work-energy theorem states ___.", options:["net work equals the change in kinetic energy","power equals work divided by displacement","work equals potential energy change","work equals force times velocity"], answer:0},
      {q:"Conservative forces are those for which ___.", options:["no energy is stored","friction is the best example","work done is path-independent","work depends on the path taken"], answer:2},

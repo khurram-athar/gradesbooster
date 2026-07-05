@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Theme and Tone", summary:"Theme is the central message or idea of a text; tone is the author's attitude conveyed through word choice.",
    resourceLabel:"YouTube: Theme and Tone", resourceUrl:"https://www.youtube.com/results?search_query=Theme%20and%20Tone%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TnpwyZLyUJE",
    quiz:[
      {q:"Theme refers to...", options:["The central message or idea","The setting of a story","The main character's name","The page count"], answer:0},
      {q:"Tone refers to...", options:["The setting only","The font used","The author's attitude","The number of chapters"], answer:2},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Integers: Operations", summary:"Add, subtract, multiply, and divide positive and negative integers.",
    resourceLabel:"YouTube: Integers: Operations", resourceUrl:"https://www.youtube.com/results?search_query=Integers%3A%20Operations%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=O6bRgxVRoZ4",
    quiz:[
      {q:"-5 + 8 = ?", options:["-3","-13","3","13"], answer:2},
      {q:"-4 - (-6) = ?", options:["2","-10","-2","10"], answer:0},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures and Mechanisms: Form and Function", summary:"Ontario Grade 7 Science strand: the form (shape/design) of a structure or mechanism affects its function (how well it works).",
    resourceLabel:"YouTube: Structures and Mechanisms: Form and Function", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20and%20Mechanisms%3A%20Form%20and%20Function%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SRmx5f-Ro8Q",
    quiz:[
      {q:"A lever is a simple mechanism that...", options:["Multiplies force around a fulcrum","Has no function","Only spins in circles","Only works underwater"], answer:0},
      {q:"A pulley system is useful because it...", options:["Makes lifting heavier objects easier","Has no real use","Only works with light objects","Always slows you down"], answer:0},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Patterns in a Changing World", summary:"Ontario Grade 7 Geography strand: physical patterns like landforms, climate zones, and natural vegetation shape where and how people live.",
    resourceLabel:"YouTube: Physical Patterns in a Changing World", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Patterns%20in%20a%20Changing%20World%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UKmXhK4ZFoc",
    quiz:[
      {q:"A landform is a...", options:["A type of weather","A natural feature like a mountain","Type of government","A political boundary"], answer:1},
      {q:"Climate zones are influenced by factors like...", options:["Population size only","Latitude and proximity to water","Language spoken","Government type"], answer:1},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Argument and Evidence", summary:"A strong argument is supported by relevant evidence and clear reasoning, not just opinion.",
    resourceLabel:"YouTube: Argument and Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Argument%20and%20Evidence%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JGOxVIgmGWE",
    quiz:[
      {q:"Evidence used to support an argument should be...", options:["Irrelevant","Always an opinion","Made up","Relevant and credible"], answer:3},
      {q:"A claim is...", options:["A random fact","A footnote only","A statement to be accepted","The title of a piece"], answer:2},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Expressions and Equations", summary:"Simplify algebraic expressions and solve one-step and two-step equations.",
    resourceLabel:"YouTube: Expressions and Equations", resourceUrl:"https://www.youtube.com/results?search_query=Expressions%20and%20Equations%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=q3g68vcMXxM",
    quiz:[
      {q:"Simplify: 3x + 2x", options:["5x","6x","5x²","x"], answer:0},
      {q:"Solve for x: x + 5 = 12", options:["x=7","x=5","x=6","x=17"], answer:0},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Heat in the Environment", summary:"Heat transfers through conduction, convection, and radiation, and affects ecosystems and climate.",
    resourceLabel:"YouTube: Heat in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Heat%20in%20the%20Environment%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mPsNNDXrBHY",
    quiz:[
      {q:"Conduction is heat transfer through...", options:["Light only","Empty space only","Sound waves","Direct contact between materials"], answer:3},
      {q:"Convection involves heat transfer through...", options:["Solids only","Light only","The movement of fluids (liquids/gases)","Vacuum only"], answer:2},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Resources Around the World", summary:"Natural resources are distributed unevenly across the globe, which influences trade, economies, and global interactions.",
    resourceLabel:"YouTube: Natural Resources Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20Around%20the%20World%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sIM0PGv8h08",
    quiz:[
      {q:"Natural resources are distributed...", options:["Unevenly across the world","Only in deserts","Evenly across every country","Only in Canada"], answer:0},
      {q:"Countries rich in oil resources often...", options:["Have no economy","Avoid international trade","Have no global trade","Export oil and trade internationally"], answer:3},

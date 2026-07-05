@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Persuasive Texts", summary:"Identify rhetorical devices, bias, and persuasive techniques used by authors to influence readers (ENL1W Strand A).",
    resourceLabel:"YouTube: Analyzing Persuasive Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Persuasive%20Texts%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YG1FfC8vpeY",
    quiz:[
      {q:"Bias in a text refers to...", options:["A grammar error","A balanced, neutral viewpoint","A type of citation","A slanted or one-sided perspective"], answer:3},
      {q:"An ad hominem argument attacks...", options:["The person, not their argument","Only statistics","The argument's evidence","Neither the person nor the argument"], answer:0},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Linear Equations", summary:"Solve multi-step linear equations involving variables on both sides (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Solving Linear Equations", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Linear%20Equations%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3SHugxYdbas",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=6","x=8","x=7","x=5"], answer:0},
      {q:"Solve: 3x - 4 = 2x + 6", options:["x=8","x=6","x=2","x=10"], answer:3},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical Reactions Introduction", summary:"Chemical reactions rearrange atoms to form new substances and can be represented with chemical equations (SNC1W strand).",
    resourceLabel:"YouTube: Chemical Reactions Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Reactions%20Introduction%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Lvbm8horG1U",
    quiz:[
      {q:"In a chemical reaction, the substances you start with are called...", options:["Isotopes","Reactants","Catalysts","Products"], answer:1},
      {q:"The new substances formed in a chemical reaction are called...", options:["Elements only","Mixtures only","Products","Reactants"], answer:2},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Land Use and Sustainability", summary:"CGC1W examines how land is used (urban, agricultural, industrial) and the importance of sustainable land-use planning.",
    resourceLabel:"YouTube: Land Use and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Land%20Use%20and%20Sustainability%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dc63mzi8utI",
    quiz:[
      {q:"Urban sprawl refers to...", options:["The unchecked expansion of urban areas","Compact, dense city planning","Tropical deforestation only","A type of farming"], answer:0},
      {q:"Sustainable land use aims to...", options:["Always prevent any development","Ignore environmental impact","Use land without any planning","Meet needs without harming the future"], answer:3},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Literary Devices in Fiction", summary:"Identify and analyze literary devices like foreshadowing, irony, symbolism, and motif in fiction (ENL1W Strand A).",
    resourceLabel:"YouTube: Literary Devices in Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Devices%20in%20Fiction%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OY2zPFQsKSI",
    quiz:[
      {q:"Foreshadowing is a hint about...", options:["The author's biography","The book's price","The table of contents","Events yet to happen"], answer:3},
      {q:"Irony occurs when...", options:["A setting is described in detail","There is a contrast between expectation and reality","A character speaks formally","Events unfold exactly as expected"], answer:1},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Graphing Linear Relations", summary:"Graph linear relations using a table of values, slope, and y-intercept (MTH1W Algebra/Linear Relations strand).",
    resourceLabel:"YouTube: Graphing Linear Relations", resourceUrl:"https://www.youtube.com/results?search_query=Graphing%20Linear%20Relations%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0ofTvk9uAl8",
    quiz:[
      {q:"In y = mx + b, what does 'b' represent?", options:["The slope","The x-intercept","The variable","The y-intercept"], answer:3},
      {q:"In y = mx + b, what does 'm' represent?", options:["The x-value","A constant only","The slope","The y-intercept"], answer:2},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Static and Current Electricity", summary:"Explore static electricity (charge buildup) and current electricity (flow of charge through circuits), part of SNC1W's electricity strand.",
    resourceLabel:"YouTube: Static and Current Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Static%20and%20Current%20Electricity%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=enuNdK426Wo",
    quiz:[
      {q:"Static electricity involves...", options:["Nothing related to charge","Only magnetism","Constant flow of charge through a wire","A buildup of electric charge on a surface"], answer:3},
      {q:"Current electricity refers to...", options:["A stationary charge only","Only static charges","Light energy only","A continuous flow of charge"], answer:3},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Perspectives on the Land", summary:"CGC1W incorporates Indigenous perspectives on land stewardship, relationships with the environment, and territory.",
    resourceLabel:"YouTube: Indigenous Perspectives on the Land", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Perspectives%20on%20the%20Land%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Bzzu1DDFtxI",
    quiz:[
      {q:"Many Indigenous perspectives view land as...", options:["Irrelevant to identity","Owned only by governments","Something to respect and care for","A resource to exploit with no responsibility"], answer:2},
      {q:"Land stewardship refers to...", options:["Responsible care and management of land","Building without any planning","Ignoring environmental impact","Selling land quickly"], answer:0},

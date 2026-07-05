@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Expository Writing: Structure and Purpose", summary:"Ontario Writing strand: expository writing explains or informs. A well-structured expository text has an introduction with a controlling idea, body paragraphs with supporting details, and a conclusion.",
    resourceLabel:"YouTube: Expository Writing: Structure and Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Expository%20Writing%3A%20Structure%20and%20Purpose%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=66Q7goGamCI",
    quiz:[
      {q:"What is the main purpose of expository writing?", options:["To explain or inform about a topic","To entertain with a made-up story","To argue one side of a debate","To describe a personal experience only"], answer:0},
      {q:"In expository writing, the introduction should:", options:["Present the controlling idea or thesis","Tell the ending of the story","List every detail of the topic","Be written last"], answer:0},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions Greater Than One: Mixed Numbers and Improper Fractions", summary:"Ontario Number strand: improper fractions have a numerator larger than the denominator. They can be converted to mixed numbers, which combine a whole number and a proper fraction.",
    resourceLabel:"YouTube: Fractions Greater Than One: Mixed Numbers and Improper Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%20Greater%20Than%20One%3A%20Mixed%20Numbers%20and%20Improper%20Fractions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=96NOYcnmThU",
    quiz:[
      {q:"What is 7/4 written as a mixed number?", options:["1 3/4","2 1/4","1 1/4","1 1/2"], answer:0},
      {q:"What is 2 3/5 written as an improper fraction?", options:["11/5","8/5","13/5","10/5"], answer:2},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity Threats: Habitat Loss and Invasive Species", summary:"Ontario Life Systems strand: major threats to biodiversity include habitat destruction, pollution, overexploitation, climate change, and invasive species. Invasive species outcompete native species for resources.",
    resourceLabel:"YouTube: Biodiversity Threats: Habitat Loss and Invasive Species", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20Threats%3A%20Habitat%20Loss%20and%20Invasive%20Species%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=spTWwqVP_2s",
    quiz:[
      {q:"An invasive species is one that:", options:["Was introduced and causes ecological harm","Is endangered and needs protection","Lives only underground","Was always native to an area"], answer:0},
      {q:"Which is an example of habitat destruction?", options:["Draining a wetland to build a mall","Protecting a national park","Removing an invasive plant","Planting a native garden"], answer:0},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Trade and Economic Relationships", summary:"Ontario Grade 6 Social Studies: Canada exports natural resources and manufactured goods, and imports products it cannot efficiently produce. Trade agreements like CUSMA shape Canada's economic connections.",
    resourceLabel:"YouTube: Canada's Trade and Economic Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Trade%20and%20Economic%20Relationships%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aBH3QjGLBhw",
    quiz:[
      {q:"An 'export' is:", options:["A natural resource found underground","A type of tax on goods","Something Canada buys from another country","Something Canada sells to another country"], answer:3},
      {q:"CUSMA (formerly NAFTA) is a trade agreement between:", options:["Canada, UK, and Australia","Canada, France, and Germany","Canada, USA, and Mexico","Canada, China, and Japan"], answer:2},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Argumentative Writing: Taking a Position", summary:"Ontario Writing strand: argumentative writing presents a clear claim and uses evidence, reasoning, and counterarguments to persuade readers. A strong argument acknowledges opposing views.",
    resourceLabel:"YouTube: Argumentative Writing: Taking a Position", resourceUrl:"https://www.youtube.com/results?search_query=Argumentative%20Writing%3A%20Taking%20a%20Position%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VZKUeEBryOk",
    quiz:[
      {q:"In argumentative writing, a 'claim' is:", options:["A summary of the other side","A question the writer asks","The writer's main position or argument","A piece of evidence"], answer:2},
      {q:"Why should a good argument address the counterargument?", options:["It makes the essay longer","It confuses the reader","Counterarguments should be ignored","Refuting the other side strengthens it"], answer:3},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Integers", summary:"Ontario Number strand: integers include all positive whole numbers, negative whole numbers, and zero. They are used to represent quantities like temperature, elevation, and debt.",
    resourceLabel:"YouTube: Introduction to Integers", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Integers%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fw1kyM0F00Y",
    quiz:[
      {q:"Which integer is farthest from zero on a number line?", options:["-3","4","-8","5"], answer:2},
      {q:"What is the opposite of -7?", options:["-1/7","7","0","-7"], answer:1},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Flight: The Four Forces", summary:"Ontario Grade 6 Science — Flight strand: four forces act on a flying object — lift (upward), weight/gravity (downward), thrust (forward), and drag (backward). Flight occurs when lift exceeds weight and thrust exceeds drag.",
    resourceLabel:"YouTube: Flight: The Four Forces", resourceUrl:"https://www.youtube.com/results?search_query=Flight%3A%20The%20Four%20Forces%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S9D_5FOjrkU",
    quiz:[
      {q:"Which force acts downward on a flying airplane?", options:["Drag","Weight/Gravity","Lift","Thrust"], answer:1},
      {q:"Lift is created mainly by:", options:["The weight of the passengers","The wing's airfoil shape interacting with air","The engines of the plane","The fuel burning in the engine"], answer:1},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Mesopotamia: The Cradle of Civilization", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Mesopotamia, located between the Tigris and Euphrates rivers, was home to some of the world's first cities, writing systems, and laws.",
    resourceLabel:"YouTube: Ancient Mesopotamia: The Cradle of Civilization", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Mesopotamia%3A%20The%20Cradle%20of%20Civilization%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QeZKNjo-exs",
    quiz:[
      {q:"Mesopotamia was located between which two rivers?", options:["Tigris and Euphrates","Nile and Congo","Ganges and Indus","Amazon and Orinoco"], answer:0},
      {q:"The world's first writing system, cuneiform, was developed by:", options:["Ancient Egyptians","The Sumerians of Mesopotamia","The Romans","Ancient Greeks"], answer:1},

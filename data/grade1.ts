@@ -11,6 +11,11 @@ const curriculum: DayContent[] = [
      {q:"Which word has the short I sound?", options:["Pig","Fine","Kite","Bike"], answer:0},
      {q:"Which word has the short O sound?", options:["Hope","Hop","Coat","Note"], answer:1},
      {q:"Which word has the short U sound?", options:["Cube","Mule","Fun","Tune"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Fill in the short vowel: c_t (a pet that meows)", answers:["a"]},
+     {prompt:"Fill in the short vowel: p_g (a farm animal)", answers:["i"]},
+     {prompt:"Fill in the short vowel: s_n (it shines in the sky)", answers:["u"]}
    ]},
   {subject:"Math", title:"Counting to 20", summary:"Ontario Grade 1 Number strand: students count forward and backward by 1s within 20 and represent quantities using objects and numerals.",
    resourceLabel:"YouTube: Counting to 20", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%2020%20grade%201%20educational",
@@ -21,6 +26,11 @@ const curriculum: DayContent[] = [
      {q:"Count: 17, 18, 19, ___", options:["22","20","18","21"], answer:1},
      {q:"Which number is between 12 and 14?", options:["13","15","11","10"], answer:0},
      {q:"How many fingers on two hands?", options:["8","11","9","10"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 15?", answers:["16","sixteen"]},
+     {prompt:"What number is one less than 10?", answers:["9","nine"]},
+     {prompt:"Count on: 17, 18, 19, ___", answers:["20","twenty"]}
    ]},
   {subject:"Science", title:"Living and Non-living Things", summary:"Ontario Grade 1 Life Systems strand: living things grow, reproduce, and respond to their environment; non-living things do not.",
    resourceLabel:"YouTube: Living and Non-living Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-living%20Things%20grade%201%20educational",
@@ -31,6 +41,11 @@ const curriculum: DayContent[] = [
      {q:"Living things need food and ___.", options:["Television","Electricity","Water","Money"], answer:2},
      {q:"Which is a sign that something is alive?", options:["It is heavy","It is coloured","It is hard","It grows and changes"], answer:3},
      {q:"A plant is a living thing because it ___.", options:["Is green","Is made of wood","Grows and makes seeds","Cannot move"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"A tree is a ___ thing.", answers:["living"]},
+     {prompt:"A chair is a ___ thing.", answers:["non-living","nonliving","non living"]},
+     {prompt:"Living things grow and ___.", answers:["change","changes"]}
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Ontario Grade 1 Social Studies Heritage and Identity strand: students describe their family and recognize that families differ in structure and traditions.",
    resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20grade%201%20educational",
@@ -41,6 +56,11 @@ const curriculum: DayContent[] = [
      {q:"Families can be ___.", options:["Only large","Many different sizes","Always the same","Only small"], answer:1},
      {q:"What do most families do together?", options:["Share meals and celebrate","Go to the same school","Work the same job","Ignore each other"], answer:0},
      {q:"Every family is ___.", options:["Unique and special","Always big","Always small","Exactly the same"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"A family is a group of people who ___ for each other.", answers:["care"]},
+     {prompt:"Families can be many different ___.", answers:["sizes"]},
+     {prompt:"What do most families do together? Share ___.", answers:["meals","meal"]}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
@@ -88,6 +108,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Consonant Blends: bl, cl, fl, pl", summary:"Ontario Grade 1 Reading strand: consonant blends are two or more consonants together where each sound is heard, such as bl in black and cl in clap.",
    resourceLabel:"YouTube: Consonant Blends: bl, cl, fl, pl", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20bl%2C%20cl%2C%20fl%2C%20pl%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QZ1Uu2MRXTY",
    quiz:[
      {q:"Which word starts with the BL blend?", options:["Floor","Play","Clock","Black"], answer:3},
      {q:"Which word starts with the CL blend?", options:["Floor","Plane","Blue","Clap"], answer:3},
@@ -97,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition to 10", summary:"Ontario Grade 1 Number strand: students add two one-digit numbers with sums to 10 using objects, drawings, and number lines.",
    resourceLabel:"YouTube: Addition to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2010%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tVHOBVAFjUw",
    quiz:[
      {q:"3 + 4 = ?", options:["5","7","8","6"], answer:1},
      {q:"5 + 5 = ?", options:["8","9","11","10"], answer:3},
@@ -106,6 +128,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Materials: Solid, Liquid, Gas", summary:"Ontario Grade 1 Matter and Materials strand: students identify the three states of matter by exploring everyday examples of solids, liquids, and gases.",
    resourceLabel:"YouTube: Materials: Solid, Liquid, Gas", resourceUrl:"https://www.youtube.com/results?search_query=Materials%3A%20Solid%2C%20Liquid%2C%20Gas%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MrTxRn9MNWM",
    quiz:[
      {q:"Which state of matter has a definite shape?", options:["Steam","Gas","Solid","Liquid"], answer:2},
      {q:"Water is an example of a ___.", options:["Gas","Solid","Rock","Liquid"], answer:3},
@@ -115,6 +138,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Maps and Directions", summary:"Ontario Grade 1 Social Studies strand B: students use directional language and simple maps to describe locations in familiar places.",
    resourceLabel:"YouTube: Maps and Directions", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20and%20Directions%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mtsx8V3mE8o",
    quiz:[
      {q:"A map is a ___.", options:["Written story","Painting of nature","Drawing of a real place from above","Photo from space"], answer:2},
      {q:"If you face north, south is ___.", options:["To your right","Behind you","To your left","Above you"], answer:1},
@@ -126,6 +150,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Sight Words", summary:"Ontario Grade 1 Reading strand: students recognize high-frequency Dolch sight words automatically, supporting reading fluency. Examples: the, and, a, to, said, is, you, in, was.",
    resourceLabel:"YouTube: Sight Words", resourceUrl:"https://www.youtube.com/results?search_query=Sight%20Words%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=U8t9Jg1r6G0",
    quiz:[
      {q:"Which of these is a common sight word?", options:["the","Elephant","umbrella","xylophone"], answer:0},
      {q:"Why do we practise sight words?", options:["They are hard to spell","We see them very often in reading","They are long words","They are nouns only"], answer:1},
@@ -135,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction from 10", summary:"Ontario Grade 1 Number strand: students subtract one-digit numbers from numbers up to 10 using objects, drawings, and number lines.",
    resourceLabel:"YouTube: Subtraction from 10", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%2010%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=__JnyeG92Tg",
    quiz:[
      {q:"10 - 3 = ?", options:["7","6","5","8"], answer:0},
      {q:"8 - 4 = ?", options:["5","4","3","6"], answer:1},
@@ -144,6 +170,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Needs of Living Things", summary:"Ontario Grade 1 Life Systems strand: all living things need air, water, food, and shelter. Plants also need sunlight to make food through photosynthesis.",
    resourceLabel:"YouTube: Needs of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20of%20Living%20Things%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4p5e2l-zd5U",
    quiz:[
      {q:"Which is NOT a basic need of living things?", options:["Water","Television","Air","Food"], answer:1},
      {q:"Plants use sunlight to make their own ___.", options:["Food","Shelter","Soil","Water"], answer:0},
@@ -153,6 +180,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Workers", summary:"Ontario Grade 1 Social Studies strand B: students identify community workers and explain how their work benefits everyone in the community.",
    resourceLabel:"YouTube: Community Workers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Workers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wlBC2ljoGAk",
    quiz:[
      {q:"Who builds houses and buildings?", options:["A doctor","A chef","A teacher","A construction worker"], answer:3},
      {q:"What does a bus driver do?", options:["Carry passengers from place to place","Fix roads","Teach students","Cook food"], answer:0},

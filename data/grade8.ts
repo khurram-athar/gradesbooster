@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Literary Analysis: Themes in Fiction", summary:"Students identify and analyse the major themes in fiction. They support thematic interpretations with specific textual evidence and consider how different readers may interpret the same theme.",
    resourceLabel:"YouTube: Literary Analysis: Themes in Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Analysis%3A%20Themes%20in%20Fiction%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=I5KZcdAmWLw",
    quiz:[
      {q:"A theme in literature is ___.", options:["a central message about human experience","the main character's name","the setting of the story","a summary of the plot"], answer:0},
      {q:"How does a writer convey theme?", options:["Only through the narrator","Through actions, dialogue, and symbols","By stating it in a title note","By telling readers directly in a summary"], answer:1},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Linear Equations: Solving Multi-Step", summary:"Students solve multi-step linear equations with variables on one or both sides. They check solutions by substitution.",
    resourceLabel:"YouTube: Linear Equations: Solving Multi-Step", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Equations%3A%20Solving%20Multi-Step%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XCWkBAUiBxM",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x = 4","x = 11","x = 5","x = 6"], answer:3},
      {q:"Solve: 3x − 4 = 2x + 7", options:["x = 11","x = −11","x = 7","x = 3"], answer:0},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Reproduction: Sexual and Asexual", summary:"Students compare sexual and asexual reproduction in plants and animals. They understand the advantages of each strategy in different contexts.",
    resourceLabel:"YouTube: Reproduction: Sexual and Asexual", resourceUrl:"https://www.youtube.com/results?search_query=Reproduction%3A%20Sexual%20and%20Asexual%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fcGDUcGjcyk",
    quiz:[
      {q:"Asexual reproduction involves ___.", options:["two parents","one parent producing identical offspring","fertilisation","gametes"], answer:1},
      {q:"Sexual reproduction involves ___.", options:["joining two gametes","one parent only","no genetic variation","cloning"], answer:0},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Loyalists and the American Revolution", summary:"Students examine why the American Revolution occurred, who the Loyalists were, and how their migration to Canada shaped British North America.",
    resourceLabel:"YouTube: Loyalists and the American Revolution", resourceUrl:"https://www.youtube.com/results?search_query=Loyalists%20and%20the%20American%20Revolution%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gzALIXcY4pg",
    quiz:[
      {q:"Loyalists were ___.", options:["Indigenous peoples who allied with France","colonists who supported American independence","colonists who remained loyal to the British Crown","British soldiers stationed in America"], answer:2},
      {q:"The main grievances of American colonists that led to revolution included ___.", options:["taxation without representation","being forced to speak French","excellent representation in Parliament","too much freedom"], answer:0},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Sentence Variety and Syntax", summary:"Students use a variety of sentence structures (simple, compound, complex, compound-complex) to improve writing fluency and impact. They avoid common errors like comma splices and run-ons.",
    resourceLabel:"YouTube: Grammar: Sentence Variety and Syntax", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Sentence%20Variety%20and%20Syntax%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=smgyeUomfyA",
    quiz:[
      {q:"A compound-complex sentence has ___.", options:["one of each type of clause","only dependent clauses","one independent clause only","two independent and one dependent clause"], answer:3},
      {q:"A comma splice is ___.", options:["a sentence with a subordinating conjunction","a correctly punctuated compound sentence","a sentence with too many commas","two independent clauses joined by only a comma"], answer:3},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Pythagorean Theorem", summary:"Students understand and apply the Pythagorean Theorem (a² + b² = c²) to find missing side lengths in right triangles and solve real-world problems.",
    resourceLabel:"YouTube: Geometry: Pythagorean Theorem", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Pythagorean%20Theorem%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nCD-bAEbB3I",
    quiz:[
      {q:"The Pythagorean Theorem states that in a right triangle ___.", options:["a × b = c²","a² + b² = c² where c is the hypotenuse","a + b = c","a² − b² = c²"], answer:1},
      {q:"The hypotenuse is ___.", options:["the vertical side","opposite the right angle","any side","the shortest side"], answer:1},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Properties and Pressure", summary:"Students explore the properties of fluids (liquids and gases), viscosity, density, buoyancy, and how pressure works in fluids.",
    resourceLabel:"YouTube: Fluids: Properties and Pressure", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Properties%20and%20Pressure%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TpHv-sGE_Dk",
    quiz:[
      {q:"Viscosity is ___.", options:["the mass of a fluid","the boiling point of a fluid","the colour of a fluid","a fluid's resistance to flow"], answer:3},
      {q:"Density of a fluid is ___.", options:["its volume only","mass per unit volume (D = m/V)","its mass only","its temperature"], answer:1},
@@ -153,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The War of 1812", summary:"Students examine the causes, key battles, and consequences of the War of 1812 for Canada, the United States, Britain, and Indigenous peoples.",
    resourceLabel:"YouTube: The War of 1812", resourceUrl:"https://www.youtube.com/results?search_query=The%20War%20of%201812%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-8Ld9jKdltU",
    quiz:[
      {q:"A main cause of the War of 1812 was ___.", options:["a trade dispute between France and Britain only","Canada invading the United States","a Canadian declaration of war","British impressment of American sailors"], answer:3},
      {q:"Tecumseh was significant during the War of 1812 because ___.", options:["he led American forces","he negotiated the peace treaty","he founded Upper Canada","he was a Shawnee leader allied with Britain"], answer:3},

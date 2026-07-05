@@ -88,6 +88,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Shakespeare: Studying a Play", summary:"Students read and analyse a Shakespearean play in depth, examining dramatic conventions, language, themes, and historical context. (e.g., Romeo and Juliet, Macbeth, A Midsummer Night's Dream)",
    resourceLabel:"YouTube: Shakespeare: Studying a Play", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Studying%20a%20Play%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ine9BJye4Po",
    quiz:[
      {q:"Tragic heroes in Shakespeare typically possess ___.", options:["a fatal flaw that leads to their destruction","only virtues with no flaws","no admirable qualities","complete knowledge of their fate"], answer:0},
      {q:"Shakespeare's language uses iambic pentameter, which ___.", options:["is always rhymed","is a type of rhyme scheme","has 12 syllables per line","has 10 syllables in a da-DUM rhythm"], answer:3},
@@ -97,6 +98,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratics: Graphing Parabolas", summary:"Students graph parabolas using vertex form y = a(x−h)² + k, identify key features (vertex, axis of symmetry, direction of opening, x- and y-intercepts), and use transformations.",
    resourceLabel:"YouTube: Quadratics: Graphing Parabolas", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Graphing%20Parabolas%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PjWrGpWFhkU",
    quiz:[
      {q:"In y = a(x − h)² + k, the vertex is ___.", options:["(h, k)","(k, h)","(−h, k)","(a, k)"], answer:0},
      {q:"If a > 0, the parabola opens ___.", options:["upward","horizontally","sideways","downward"], answer:0},
@@ -106,6 +108,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Chemical Reactions", summary:"Students classify chemical reactions (synthesis, decomposition, single displacement, double displacement, combustion) and balance equations.",
    resourceLabel:"YouTube: Chemistry: Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Reactions%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Lvbm8horG1U",
    quiz:[
      {q:"A balanced chemical equation has ___.", options:["equal atoms of each element on both sides","more products than reactants","different total masses on each side","fewer products than reactants"], answer:0},
      {q:"In a synthesis reaction ___.", options:["one compound breaks into two products","two or more reactants combine to form one product","one element replaces another in a compound","two ionic compounds exchange ions"], answer:1},
@@ -115,6 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Home Front in WWII", summary:"Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
    resourceLabel:"YouTube: Canada's Home Front in WWII", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7e5oygzUrs4",
    quiz:[
      {q:"The internment of Japanese Canadians during WWII involved ___.", options:["voluntary relocation for safety","about 100 people","forced removal and property seizure","immediate restoration of rights after the war"], answer:2},
      {q:"Women's roles changed during WWII because ___.", options:["women were prohibited from wartime work","only nursing was available","women entered the industrial workforce in large numbers","nothing changed significantly"], answer:2},
@@ -126,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"English", title:"Media Studies: Advertising and Persuasion", summary:"Students critically analyse advertising texts across media, examining techniques of persuasion, target audiences, construction of identity, and representation.",
    resourceLabel:"YouTube: Media Studies: Advertising and Persuasion", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Studies%3A%20Advertising%20and%20Persuasion%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PwXFmqQCK60",
    quiz:[
      {q:"Semiotics in media analysis is the study of ___.", options:["signs, symbols, and their meaning","only visual art","only written language","statistics about media use"], answer:0},
      {q:"A target audience is ___.", options:["only people who buy the product","the group an ad intends to reach","all people everywhere","only children"], answer:1},
@@ -135,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratics: Standard Form and Applications", summary:"Students work with quadratic functions in standard form (y = ax² + bx + c), find the vertex using x = −b/2a, and model real-world situations.",
    resourceLabel:"YouTube: Quadratics: Standard Form and Applications", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Standard%20Form%20and%20Applications%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SGUP6BkA870",
    quiz:[
      {q:"In the standard form y = ax² + bx + c, the axis of symmetry is ___.", options:["x = −b/2a","x = a/b","x = b/2a","x = c"], answer:0},
      {q:"A ball is thrown and its height (in metres) is h = −5t² + 20t + 2. The t-value at max height = ?", options:["2 s (from t = −20/(2×−5) = 2)","1 s","10 s","4 s"], answer:0},
@@ -144,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Cell Biology Review and DNA", summary:"Students review cell structure and extend understanding to DNA structure, the genetic code, and the processes of transcription and translation.",
    resourceLabel:"YouTube: Biology: Cell Biology Review and DNA", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Cell%20Biology%20Review%20and%20DNA%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8kK2zwjRV0M",
    quiz:[
      {q:"DNA is a double helix composed of ___.", options:["lipids and carbohydrates","amino acids and lipids","proteins only","nucleotide subunits"], answer:3},
      {q:"Complementary base pairing in DNA means ___.", options:["A-T and G-C pairs","bases pair randomly","only A-T pairs exist","any base can pair with any other"], answer:0},

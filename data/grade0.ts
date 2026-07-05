@@ -11,6 +11,11 @@ const curriculum: DayContent[] = [
      {q:"How many sides does uppercase A have?", options:["1","2","3","4"], answer:2},
      {q:"Which A word can you eat?", options:["Axe","Arrow","Apple","Ant"], answer:2},
      {q:"In 'cat, apple, dog, sun', which word starts with A?", options:["sun","dog","apple","cat"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Write the missing letter: _pple (a fruit)", answers:["a"]},
+     {prompt:"Write the missing letter: c_t (a pet that says meow)", answers:["a"]},
+     {prompt:"What letter comes right before B?", answers:["a"]}
    ]},
   {subject:"Math", title:"Counting 1 to 5", summary:"Students count objects up to 5, match numerals to quantities, and begin to understand one-to-one correspondence.",
    resourceLabel:"YouTube: Counting 1 to 5", resourceUrl:"https://www.youtube.com/results?search_query=Counting%201%20to%205%20kindergarten%20educational",
@@ -21,6 +26,11 @@ const curriculum: DayContent[] = [
      {q:"Which numeral means three?", options:["3","4","1","2"], answer:0},
      {q:"Count the dots: ● ● ● ● How many?", options:["3","4","2","5"], answer:1},
      {q:"What number comes before 5?", options:["4","2","6","3"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 2?", answers:["3","three"]},
+     {prompt:"How many dots? ● ● ●  Write the number.", answers:["3","three"]},
+     {prompt:"What number comes right before 5?", answers:["4","four"]}
    ]},
   {subject:"Science", title:"Living and Non-Living Things", summary:"Students learn to distinguish living things (grow, breathe, need food/water) from non-living things (do not grow on their own, do not breathe).",
    resourceLabel:"YouTube: Living and Non-Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Things%20kindergarten%20educational",
@@ -31,6 +41,11 @@ const curriculum: DayContent[] = [
      {q:"Which is non-living?", options:["Dog","Table","Cat","Flower"], answer:1},
      {q:"A non-living thing ___.", options:["does not grow or breathe","needs food and water","breathes","grows on its own"], answer:0},
      {q:"A bird is living because it ___.", options:["can fly only","breathes, eats, and grows","makes noise","is colourful"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"A dog is a ___ thing. (living or non-living)", answers:["living"]},
+     {prompt:"A rock is a ___ thing. (living or non-living)", answers:["non-living","nonliving","non living"]},
+     {prompt:"Living things need food, air, and ___.", answers:["water"]}
    ]},
   {subject:"SocialStudies", title:"My Family", summary:"Students explore different family structures — large, small, single-parent, grandparent families — and appreciate that all families are special.",
    resourceLabel:"YouTube: My Family", resourceUrl:"https://www.youtube.com/results?search_query=My%20Family%20kindergarten%20educational",
@@ -41,6 +56,11 @@ const curriculum: DayContent[] = [
      {q:"Families can be ___.", options:["different sizes and shapes","only small","only two people","only large"], answer:0},
      {q:"How do families show they care?", options:["By ignoring each other","By living apart","By helping and listening","By fighting only"], answer:2},
      {q:"Why is your family special?", options:["Every family is unique","It is not","Only big families are special","Only famous families are special"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"A ___ is a group of people who care for each other.", answers:["family"]},
+     {prompt:"Families can be big or ___.", answers:["small"]},
+     {prompt:"True or False: Every family looks exactly the same. Write True or False.", answers:["false","no"]}
    ]},
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
