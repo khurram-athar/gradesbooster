@@ -160,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Cold War: Origins and Canada's Role", summary:"Students examine the ideological conflict between the USA and USSR, Canada's participation in NATO and NORAD, and the Korean War.",
    resourceLabel:"YouTube: The Cold War: Origins and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=The%20Cold%20War%3A%20Origins%20and%20Canada%27s%20Role%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=I79TpDe3t2g",
    quiz:[
      {q:"The Cold War was primarily ___.", options:["an ideological struggle between the US and USSR","an economic partnership","a military conflict in Asia only","a hot shooting war between the US and USSR"], answer:0},
      {q:"The NATO alliance, which Canada joined in 1949, committed members to ___.", options:["trade agreements","a shared currency","mutual defence of members","economic cooperation only"], answer:2},
@@ -171,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Independent Reading: Novel Selection and Response", summary:"Students select a Canadian novel or a world novel in English translation and write analytical reading journal entries tracking theme, character, and author's craft.",
    resourceLabel:"YouTube: Independent Reading: Novel Selection and Response", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Selection%20and%20Response%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eEtEYw9soK8",
    quiz:[
      {q:"When selecting a novel for independent study, you should consider ___.", options:["only genre","whether the novel offers complexity","only page count","only how popular it is"], answer:1},
      {q:"A reading response that analyses theme goes beyond plot by ___.", options:["only describing the ending","examining how details develop the theme","listing chapter summaries","counting characters"], answer:1},
@@ -180,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratics: Revenue, Profit, and Projectile Problems", summary:"Students apply quadratic models to real-world situations: projectile motion, revenue and profit maximisation, area optimisation.",
    resourceLabel:"YouTube: Quadratics: Revenue, Profit, and Projectile Problems", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Revenue%2C%20Profit%2C%20and%20Projectile%20Problems%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-MvyKD3tn58",
    quiz:[
      {q:"A projectile is launched with height h = −4.9t² + 30t + 1.5. Maximum height occurs at t = ?", options:["0 s","5 s","3.06 s","1.5 s"], answer:2},
      {q:"Revenue = price × quantity sold. If quantity decreases as price increases according to q = 200 − 2p, then Revenue = ?", options:["200p","200 − 2p","p(200 − 2p) = 200p − 2p²","2p − 200"], answer:2},
@@ -189,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Genetics and Heredity", summary:"Students apply Mendelian genetics — dominant/recessive, codominance, incomplete dominance, multiple alleles — to dihybrid crosses and inheritance patterns.",
    resourceLabel:"YouTube: Biology: Genetics and Heredity", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Genetics%20and%20Heredity%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mUtk0MfX-ic",
    quiz:[
      {q:"In a dihybrid cross between two AaBb parents, the expected phenotype ratio of offspring is ___.", options:["1:2:1","9:3:3:1","1:1","3:1"], answer:1},
      {q:"Codominance means ___.", options:["the heterozygote shows a blend of both traits","one allele is dominant over another","both alleles are fully expressed (e.g., AB blood type)","one allele disappears"], answer:2},
@@ -198,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Quiet Revolution and Canadian Identity", summary:"Students examine Quebec's Quiet Revolution, bilingualism, the October Crisis, and the evolution of Canadian identity in the 1960s-70s.",
    resourceLabel:"YouTube: The Quiet Revolution and Canadian Identity", resourceUrl:"https://www.youtube.com/results?search_query=The%20Quiet%20Revolution%20and%20Canadian%20Identity%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960-66 and beyond) involved ___.", options:["no significant change to Quebec society","Quebec separating from Canada","rapid modernisation under Premier Lesage","a violent uprising"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only English official","ended all language disputes","made English and French both official federally","made only French official at the federal level"], answer:2},

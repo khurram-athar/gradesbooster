@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Media Literacy: Bias and Perspective", summary:"Students identify bias in media sources. They understand how word choice, framing, omission, and visual selection can shape audience perception.",
    resourceLabel:"YouTube: Media Literacy: Bias and Perspective", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Bias%20and%20Perspective%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6R6-2_8m4Co",
    quiz:[
      {q:"Media bias refers to ___.", options:["slanted framing toward one view","only political bias","any factual error in reporting","only deliberate lying"], answer:0},
      {q:"A news article's headline can show bias by ___.", options:["reporting facts accurately","citing sources","using emotionally loaded words","including photos"], answer:2},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Analytic Geometry: Slope and y-intercept", summary:"Students calculate slope from two points, write equations in slope-intercept form (y = mx + b), and graph linear equations.",
    resourceLabel:"YouTube: Analytic Geometry: Slope and y-intercept", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Slope%20and%20y-intercept%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lz8zVJxRFX8",
    quiz:[
      {q:"Slope (m) is calculated as ___.", options:["rise / run","run / rise","rise × run","y / x"], answer:0},
      {q:"The y-intercept (b) is ___.", options:["where the line crosses the y-axis","where the line crosses the x-axis","the x-coordinate only","the slope of the line"], answer:0},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Hydraulics and Pneumatics", summary:"Students explore how hydraulic and pneumatic systems use fluid pressure to transmit force and do work. They examine real-world applications.",
    resourceLabel:"YouTube: Fluids: Hydraulics and Pneumatics", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Hydraulics%20and%20Pneumatics%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sgUMV7EtCkE",
    quiz:[
      {q:"Hydraulic systems use ___.", options:["solid materials","gases only","liquids under pressure","electricity only"], answer:2},
      {q:"Pneumatic systems use ___.", options:["gases","liquids","only steam","solids"], answer:0},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Responsible Government and Reform", summary:"Students examine the Rebellions of 1837, the Durham Report, and the achievement of Responsible Government in 1848.",
    resourceLabel:"YouTube: Responsible Government and Reform", resourceUrl:"https://www.youtube.com/results?search_query=Responsible%20Government%20and%20Reform%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RLnsetuODbg",
    quiz:[
      {q:"The Rebellions of 1837 in Upper and Lower Canada were caused by ___.", options:["American aggression","economic success","frustration with undemocratic governance","foreign invasion"], answer:2},
      {q:"William Lyon Mackenzie (Upper Canada) and Louis-Joseph Papineau (Lower Canada) were ___.", options:["Loyalist founders","British governors","military generals who defeated the British","leaders of the 1837 reform movements"], answer:3},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Reading: Non-Fiction Structures", summary:"Students identify and analyse different non-fiction text structures: cause/effect, compare/contrast, problem/solution, chronological order, and description.",
    resourceLabel:"YouTube: Reading: Non-Fiction Structures", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Non-Fiction%20Structures%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qSGX34Zf82c",
    quiz:[
      {q:"Which text structure is used in a passage that explains how deforestation leads to soil erosion?", options:["Cause and effect","Chronological order","Problem/solution","Compare/contrast"], answer:0},
      {q:"Signal words for compare/contrast text structure include ___.", options:["first, then, next","similarly, however, in contrast","for example, such as, specifically","because, as a result, therefore"], answer:1},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Circle Measurements", summary:"Students calculate circumference (C = πd or 2πr) and area (A = πr²) of circles and apply these formulas in real-world contexts.",
    resourceLabel:"YouTube: Geometry: Circle Measurements", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20Measurements%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WkIQIf9ykuk",
    quiz:[
      {q:"The circumference formula is ___.", options:["C = r²π","C = 2πr or πd","C = πr²","C = 2r"], answer:1},
      {q:"The area formula for a circle is ___.", options:["A = πr²","A = πd","A = 2πr","A = πd²"], answer:0},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Genetics Introduction", summary:"Students are introduced to heredity — how traits pass from parents to offspring through genes and chromosomes. They explore dominant/recessive alleles and Punnett squares.",
    resourceLabel:"YouTube: Cells: Genetics Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Genetics%20Introduction%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=C8OL1MTbGpU",
    quiz:[
      {q:"Genes are ___.", options:["DNA that carries trait instructions","only in plant cells","proteins in the blood","made of amino acids"], answer:0},
      {q:"An allele is ___.", options:["a type of cell","a type of chromosome","a protein","one version of a gene"], answer:3},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Confederation: Causes and Process", summary:"Students explore the political, economic, and military pressures that led to Confederation in 1867 and the roles of the Fathers of Confederation.",
    resourceLabel:"YouTube: Confederation: Causes and Process", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20Causes%20and%20Process%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bO7FQsCcbD8",
    quiz:[
      {q:"The main pressures that drove Confederation in the 1860s included ___.", options:["political deadlock and railway costs","religious conflict only","only economic reasons","only military threats"], answer:0},
      {q:"The Charlottetown Conference (1864) was significant because ___.", options:["it was the first Confederation meeting","it adopted the Constitution","it created the Senate","it ended the American Civil War"], answer:0},

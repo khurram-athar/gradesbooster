@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Writing: Paragraphs", summary:"Students learn to write a paragraph with a topic sentence, at least three supporting detail sentences, and a concluding sentence.",
    resourceLabel:"YouTube: Writing: Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kw9GOUqSc5M",
    quiz:[
      {q:"The topic sentence of a paragraph ___.", options:["only gives one detail","is always the longest sentence","introduces the main idea of the paragraph","ends the paragraph"], answer:2},
      {q:"Supporting sentences in a paragraph ___.", options:["support the topic sentence","change the topic","are always questions","are written randomly"], answer:0},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication: Facts to 5", summary:"Students learn and practise multiplication facts with factors up to 5.",
    resourceLabel:"YouTube: Multiplication: Facts to 5", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Facts%20to%205%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vmQgOqE8r_Y",
    quiz:[
      {q:"2 × 5 = ?", options:["8","9","10","7"], answer:2},
      {q:"4 × 3 = ?", options:["10","11","12","9"], answer:2},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines: Lever and Inclined Plane", summary:"Students explore levers (a bar that pivots on a fulcrum) and inclined planes (a ramp) as simple machines that make work easier.",
    resourceLabel:"YouTube: Simple Machines: Lever and Inclined Plane", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Lever%20and%20Inclined%20Plane%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JlA6T_64o0c",
    quiz:[
      {q:"A lever is a ___.", options:["type of screw","bar on a fulcrum","type of pulley","type of wheel"], answer:1},
      {q:"The fulcrum is ___.", options:["the pivot point of a lever","the ramp","the load","the effort force"], answer:0},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Using Maps: Scale and Direction", summary:"Students read and use simple maps, understanding cardinal directions, a compass rose, map legend/key, and basic scale.",
    resourceLabel:"YouTube: Using Maps: Scale and Direction", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Maps%3A%20Scale%20and%20Direction%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AM0MsuTZUV0",
    quiz:[
      {q:"Cardinal directions are ___.", options:["up, down, left, right","large, small, medium, tiny","spring, summer, fall, winter","north, south, east, west"], answer:3},
      {q:"A map legend (key) tells you ___.", options:["the map's author","what the map symbols mean","how large the country is","who made the map"], answer:1},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Punctuation: Commas and Apostrophes", summary:"Students use commas in lists (I have a cat, a dog, and a bird) and apostrophes for contractions (don't, can't) and possessives (Tom's book).",
    resourceLabel:"YouTube: Punctuation: Commas and Apostrophes", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Commas%20and%20Apostrophes%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4IqlgGLV1XQ",
    quiz:[
      {q:"In a list of three items, where do commas go?", options:["Between each item","Only after the last item","Only at the start","Nowhere"], answer:0},
      {q:"Which sentence uses commas correctly in a list?", options:["I bought apples, oranges and, bananas.","I bought, apples, oranges and bananas.","I bought apples, oranges, and bananas.","I bought apples oranges and bananas."], answer:2},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Division: Sharing and Grouping", summary:"Students explore division as fair sharing and as grouping. 12 ÷ 3 means sharing 12 into 3 equal groups (4 each) or making groups of 3 from 12 (4 groups).",
    resourceLabel:"YouTube: Division: Sharing and Grouping", resourceUrl:"https://www.youtube.com/results?search_query=Division%3A%20Sharing%20and%20Grouping%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=irfMCIgFJZY",
    quiz:[
      {q:"12 ÷ 4 = ?", options:["3","5","4","6"], answer:0},
      {q:"Division can be thought of as ___.", options:["random sorting","repeated multiplication","only subtraction","fair sharing into equal groups"], answer:3},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines: Wheel-and-Axle and Pulley", summary:"Students explore how wheels with axles and pulleys reduce friction and redirect force to make work easier.",
    resourceLabel:"YouTube: Simple Machines: Wheel-and-Axle and Pulley", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Wheel-and-Axle%20and%20Pulley%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NcmRJspWyNo",
    quiz:[
      {q:"A wheel-and-axle consists of ___.", options:["a rope and a groove","two levers","a wheel attached to a rod","a ramp and a slope"], answer:2},
      {q:"The wheel reduces ___.", options:["weight","gravity","friction on heavy loads","speed always"], answer:2},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Communities in Ontario", summary:"Students learn about the diversity of Indigenous communities in Ontario (First Nations, Métis, Inuit) and their relationship to the land.",
    resourceLabel:"YouTube: Indigenous Communities in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Communities%20in%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fSMzawssykE",
    quiz:[
      {q:"Which groups are Indigenous peoples of Canada?", options:["First Nations, Métis, and Inuit","Only European settlers","Immigrants from other countries","French and English"], answer:0},
      {q:"Indigenous peoples' relationship to the land includes ___.", options:["ignoring the land","only using the land for buildings","deep, lasting connections to the land","only farming the land for profit"], answer:2},

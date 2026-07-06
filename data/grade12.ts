@@ -130,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"English", title:"Writing: Extended Critical Analysis Essay", summary:"Students plan and write a 1000+ word critical essay on a literary text, meeting university standards for argument, evidence, and analysis.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=UvsH5y91Eoo",
    quiz:[
      {q:"University literary essays are evaluated primarily on ___.", options:["word count","the number of sources cited","correct grammar only","the quality of the analytical argument"], answer:3},
      {q:"A 1000+ word essay requires ___.", options:["only one more body paragraph","longer paragraphs with more quotations","more structural complexity and sophisticated transitions","simply more of the same as shorter essays"], answer:2},
@@ -139,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Trigonometric Functions: Identities and Equations (Advanced)", summary:"Students prove and apply advanced trigonometric identities including compound angle, double angle, and sum-to-product formulas, and solve complex trigonometric equations.",
    resourceLabel:"Khan Academy: Trig Identities", resourceUrl:"https://www.youtube.com/watch?v=T9lt6MZKLck",
+   videoUrl:"https://www.youtube.com/watch?v=iNj_loo2-W4",
    quiz:[
      {q:"To prove a trigonometric identity, you must ___.", options:["start from both sides simultaneously","cross-multiply to eliminate fractions","substitute specific values","work on one side until it equals the other"], answer:3},
      {q:"Prove: sin2x/(1 + cos2x) = tanx. Using sin2x = 2sinxcosx and cos2x = 2cos²x − 1:", options:["sin2x/(1+cos2x) simplifies to sinx/cosx = tanx","the identity is false","sin2x = tanx always","sin2x/1 + cos2x = tanx is trivially true"], answer:0},
@@ -148,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Derivatives of Trigonometric and Exponential Functions", summary:"Students differentiate sin(x), cos(x), tan(x), e^x, and ln(x), and combine these with the chain rule.",
    resourceLabel:"Khan Academy: Derivatives of Trig Functions", resourceUrl:"https://www.youtube.com/watch?v=_niP0JaOgHY",
+   videoUrl:"https://www.youtube.com/watch?v=yg_497u6JnA",
    quiz:[
      {q:"d/dx[sin x] = ___.", options:["sin x","cos x","−sin x","−cos x"], answer:1},
      {q:"d/dx[cos x] = ___.", options:["−cos x","−sin x","cos x","sin x"], answer:1},
@@ -157,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Circular Motion and Gravitation", summary:"Students analyse uniform circular motion — centripetal acceleration and force — and apply Newton's law of universal gravitation.",
    resourceLabel:"Crash Course Physics: Circular Motion", resourceUrl:"https://www.youtube.com/watch?v=bpFK2VCRHUs",
+   videoUrl:"https://www.youtube.com/watch?v=IawY86XveQE",
    quiz:[
      {q:"Centripetal acceleration for uniform circular motion is ___.", options:["v²/r directed toward the centre","rω","v/r","tangential acceleration"], answer:0},
      {q:"The centripetal force is ___.", options:["the outward 'centrifugal force'","a new type of force","the force of rotation","the inward force causing circular motion"], answer:3},
@@ -168,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Media Analysis: Digital Media and Political Communication", summary:"Students analyse how digital platforms — social media, podcasts, algorithmic news — have transformed political communication and citizenship.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
    quiz:[
      {q:"Political communication via social media differs from broadcast media in ___.", options:["its interactive, many-to-many architecture","it has no political influence","it reaches fewer people","it is always more accurate"], answer:0},
      {q:"Algorithmic curation of political content can affect democracy by ___.", options:["creating filter bubbles that limit opposing views","eliminating all political bias in media","only increasing voter turnout","always improving the quality of political debate"], answer:0},
@@ -177,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Combining Functions: Operations and Compositions", summary:"Students perform operations on functions (sum, difference, product, quotient) and compositions, including finding domains of combined functions.",
    resourceLabel:"Khan Academy: Composite Functions", resourceUrl:"https://www.youtube.com/watch?v=z_tEsVMKOjk",
+   videoUrl:"https://www.youtube.com/watch?v=ZFPkQkURSxk",
    quiz:[
      {q:"The domain of (f + g)(x) is ___.", options:["the intersection of the domains of f and g","the domain of f only","the domain of g only","the domain of f union domain of g"], answer:0},
      {q:"The domain of f(x) = √x and g(x) = 1/(x−2): find domain of f(g(x)).", options:["x > 2","x > 0","x ≥ 2","x < 0"], answer:0},
@@ -186,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Applications of Derivatives: Tangent Lines and Related Rates", summary:"Students find equations of tangent and normal lines to curves, and solve introductory related rates problems.",
    resourceLabel:"Khan Academy: Tangent Line Equations", resourceUrl:"https://www.youtube.com/watch?v=IWcPMJBTDQg",
+   videoUrl:"https://www.youtube.com/watch?v=j6I3EXiKB2A",
    quiz:[
      {q:"The equation of the tangent line to y = f(x) at (a, f(a)) is ___.", options:["y = f'(a)","y = f(a)(x − a)","y = f(a)x + b","y − f(a) = f'(a)(x − a)"], answer:3},
      {q:"Find the tangent to y = x³ at x = 2.", options:["y = 12x","y = 12x − 10","y = 12x + 8","y = 3x − 2"], answer:1},
@@ -195,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Waves: Transverse, Longitudinal, and Sound", summary:"Students examine wave properties (wavelength, frequency, amplitude, speed), the wave equation, and properties of sound.",
    resourceLabel:"Crash Course Physics: Waves and Sound", resourceUrl:"https://www.youtube.com/watch?v=xLbZj5qO_lI",
+   videoUrl:"https://www.youtube.com/watch?v=XY0RJu4sDHk",
    quiz:[
      {q:"The wave equation v = fλ relates ___.", options:["wave speed to frequency and wavelength","velocity to force and length","amplitude to frequency","wavelength to period only"], answer:0},
      {q:"Transverse waves differ from longitudinal waves in that ___.", options:["transverse waves are only in vacuum","transverse have no amplitude","transverse waves are faster","transverse: perpendicular; longitudinal: parallel"], answer:3},

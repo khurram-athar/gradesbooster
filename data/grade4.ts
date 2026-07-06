@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Reading: Main Idea and Supporting Details", summary:"Grade 4 Reading strand: the main idea is what a text is mostly about. Supporting details give more information and evidence for the main idea.",
    resourceLabel:"YouTube: Reading: Main Idea and Supporting Details", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Main%20Idea%20and%20Supporting%20Details%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=F6wvArMBZIo",
    quiz:[
      {q:"The main idea is ___.", options:["the last sentence","what the entire text is mostly about","a small detail","the topic sentence only"], answer:1},
      {q:"Supporting details ___.", options:["explain or prove the main idea","are unrelated to the main idea","are always at the beginning","are more important than the main idea"], answer:0},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Equal Parts", summary:"Grade 4 Number strand: a fraction represents equal parts of a whole. The numerator shows how many parts are selected; the denominator shows total equal parts.",
    resourceLabel:"YouTube: Fractions: Equal Parts", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20Parts%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=362JVVvgYPE",
    quiz:[
      {q:"In the fraction 3/4, the denominator is ___.", options:["1","7","4","3"], answer:2},
      {q:"In the fraction 3/4, the numerator is ___.", options:["7","1","4","3"], answer:3},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Impact on Ecosystems", summary:"Grade 4 Science Life Systems: human activities such as deforestation, pollution, and urbanization negatively affect ecosystems; conservation actions help protect them.",
    resourceLabel:"YouTube: Human Impact on Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Impact%20on%20Ecosystems%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Um-bo2MWDsQ",
    quiz:[
      {q:"Which human activity HARMS ecosystems?", options:["Composting","Dumping waste in rivers","Creating nature reserves","Planting trees"], answer:1},
      {q:"Deforestation means ___.", options:["studying forests","planting forests","protecting forests","cutting down forests"], answer:3},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples of North America", summary:"Grade 4 Social Studies: Indigenous peoples of North America include many diverse nations, each with unique cultures, languages, and governance systems.",
    resourceLabel:"YouTube: Indigenous Peoples of North America", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20of%20North%20America%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YqU9kKEgJag",
    quiz:[
      {q:"Indigenous peoples of North America ___.", options:["all speak the same language","have lived here for thousands of years","are a single unified group","arrived recently"], answer:1},
      {q:"There are ___ Indigenous cultures in North America.", options:["only 5","only 1","only 2 or 3","many hundreds of diverse nations"], answer:3},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Reading: Inference", summary:"Grade 4 Reading strand: inference means using evidence from the text plus your own knowledge to understand something not directly stated.",
    resourceLabel:"YouTube: Reading: Inference", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Inference%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JdaD2FZQFEY",
    quiz:[
      {q:"An inference is ___.", options:["the main idea","a conclusion from clues and knowledge","directly stated in the text","a guess with no evidence"], answer:1},
      {q:"What clues help you make an inference?", options:["The book cover only","Only pictures","Random guessing","Text evidence plus what you already know"], answer:3},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Fractions", summary:"Grade 4 Number strand: to compare fractions with the same denominator, compare numerators. To compare different denominators, find equivalent fractions.",
    resourceLabel:"YouTube: Comparing Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Fractions%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KNdUJQ_qd4U",
    quiz:[
      {q:"Which is greater: 3/5 or 1/5?", options:["1/5","Equal","Cannot tell","3/5"], answer:3},
      {q:"Which fraction is closest to 1 (whole)?", options:["0/4","3/4","1/4","2/4"], answer:1},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks and Minerals", summary:"Grade 4 Science Earth strand: rocks are made of minerals. The three rock types are igneous, sedimentary, and metamorphic, each formed by different processes.",
    resourceLabel:"YouTube: Rocks and Minerals", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Minerals%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XvVvfPnrhd0",
    quiz:[
      {q:"The three types of rocks are igneous, sedimentary, and ___.", options:["metamorphic","fossil","volcanic","crystal"], answer:0},
      {q:"Igneous rock forms from ___.", options:["cooled magma or lava","compressed sediment","plant material","other rocks under pressure"], answer:0},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Canadian History", summary:"Grade 4 Social Studies: Canada's early history includes Indigenous peoples, European exploration, New France, and British colonization.",
    resourceLabel:"YouTube: Early Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Canadian%20History%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"Who were the first people to live in what is now Canada?", options:["Indigenous peoples","American explorers","British settlers","French settlers"], answer:0},
      {q:"New France was a colony established by ___.", options:["Spain","France","Portugal","England"], answer:1},

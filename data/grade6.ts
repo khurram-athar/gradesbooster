@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Reading Strategies: Inference and Text Evidence", summary:"Ontario Reading strand: making inferences means drawing conclusions that go beyond what is stated, using clues in the text combined with prior knowledge. Good readers support inferences with evidence.",
    resourceLabel:"YouTube: Reading Strategies: Inference and Text Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%3A%20Inference%20and%20Text%20Evidence%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cmRA9kZVadA",
    quiz:[
      {q:"An inference is:", options:["A direct quote from the text","A conclusion from clues in the text","A summary of the whole text","A prediction before reading"], answer:1},
      {q:"A character walks in slowly, drops their bag, and sighs. What can you infer?", options:["They are running late","They are likely tired or upset","They are happy","They are excited"], answer:1},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Fractions with Unlike Denominators", summary:"Ontario Number strand: to add or subtract fractions with unlike denominators, find a common denominator first. Equivalent fractions allow the numerators to be added or subtracted.",
    resourceLabel:"YouTube: Adding and Subtracting Fractions with Unlike Denominators", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Fractions%20with%20Unlike%20Denominators%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5juto2ze8Lg",
    quiz:[
      {q:"1/2 + 1/3 = ?", options:["3/5","2/5","2/6","5/6"], answer:3},
      {q:"3/4 - 1/3 = ?", options:["5/12","2/7","2/3","1/4"], answer:0},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Bernoulli's Principle and Wing Shape", summary:"Ontario Flight strand: Bernoulli's principle states that faster-moving air exerts less pressure. A curved wing (airfoil) makes air move faster over the top, creating lower pressure and generating lift.",
    resourceLabel:"YouTube: Bernoulli's Principle and Wing Shape", resourceUrl:"https://www.youtube.com/results?search_query=Bernoulli%27s%20Principle%20and%20Wing%20Shape%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3b9xCC_vaZQ",
    quiz:[
      {q:"Bernoulli's principle states that as the speed of a fluid increases, its pressure:", options:["Decreases","Doubles","Increases","Stays the same"], answer:0},
      {q:"Why is the top surface of a wing curved?", options:["To increase drag","To slow down the aircraft","For aesthetic reasons only","To speed air flow and create lift"], answer:3},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Egypt: Society, Government, and Achievements", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Ancient Egypt was organized around the Nile River. Its society was highly structured with a pharaoh at the top, and it achieved remarkable advances in architecture, medicine, and writing.",
    resourceLabel:"YouTube: Ancient Egypt: Society, Government, and Achievements", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Egypt%3A%20Society%2C%20Government%2C%20and%20Achievements%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8_Tbv7anqXk",
    quiz:[
      {q:"The ruler of Ancient Egypt was called a:", options:["Emperor","Sultan","Pharaoh","King"], answer:2},
      {q:"The ancient Egyptian writing system made up of pictures and symbols is called:", options:["Alphabet","Cuneiform","Hieroglyphics","Sanskrit"], answer:2},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Writing Expository Paragraphs with Evidence", summary:"Ontario Writing strand: each paragraph in an expository text should focus on one main idea, supported by specific details and evidence. The topic sentence states the main idea clearly.",
    resourceLabel:"YouTube: Writing Expository Paragraphs with Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Expository%20Paragraphs%20with%20Evidence%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=66Q7goGamCI",
    quiz:[
      {q:"What is the purpose of a topic sentence in a paragraph?", options:["To give a list of sources","To provide a definition of every word","To state the main idea of the paragraph","To end the paragraph"], answer:2},
      {q:"Which sentence would make the best topic sentence for a paragraph about the importance of sleep?", options:["Some people sleep eight hours.","Sleep is essential for health and mood.","Sleep is when people close their eyes.","There are many things people do at night."], answer:1},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying Fractions", summary:"Ontario Number strand: to multiply fractions, multiply the numerators together and the denominators together. Simplify the result if possible. Multiplying a fraction by a whole number is a useful real-world skill.",
    resourceLabel:"YouTube: Multiplying Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Fractions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qmfXyR7Z6Lk",
    quiz:[
      {q:"2/3 × 3/4 = ?", options:["5/7","5/12","6/12 = 1/2","6/7"], answer:2},
      {q:"What is 1/2 × 4/5?", options:["3/5","5/10","4/7","4/10 = 2/5"], answer:3},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Types of Aircraft and How They Fly", summary:"Ontario Flight strand: different aircraft use different principles to fly. Airplanes use fixed wings and engines; helicopters use rotating blades; hot air balloons use buoyancy; gliders use air currents.",
    resourceLabel:"YouTube: Types of Aircraft and How They Fly", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Aircraft%20and%20How%20They%20Fly%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VLpSxHwfU04",
    quiz:[
      {q:"A glider flies without an engine by:", options:["Using rocket fuel","Flapping its wings","Using a balloon","Riding rising air currents (thermals)"], answer:3},
      {q:"How does a hot air balloon rise?", options:["Spinning rotors","Warm air is less dense than cool air","Using propellers","Burning jet fuel"], answer:1},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Mesopotamia and Egypt: Comparing Civilizations", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: comparing Mesopotamia and Egypt reveals similarities in their use of river systems, complex social structures, and written records, while highlighting differences in geography and beliefs.",
    resourceLabel:"YouTube: Mesopotamia and Egypt: Comparing Civilizations", resourceUrl:"https://www.youtube.com/results?search_query=Mesopotamia%20and%20Egypt%3A%20Comparing%20Civilizations%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QeZKNjo-exs",
    quiz:[
      {q:"Both Mesopotamia and Ancient Egypt depended heavily on:", options:["Ocean trade routes","Major rivers for farming and transport","Mountain passes","Rainforests"], answer:1},
      {q:"How were the governments of Ancient Egypt and Mesopotamia similar?", options:["Both had no central government","Both had elected presidents","Both were democracies","Both had rulers atop a social hierarchy"], answer:3},

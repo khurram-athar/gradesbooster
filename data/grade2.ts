@@ -192,6 +192,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4 to check what's sticking before moving on.", subjects:[
   {subject:"Language", title:"Review: Vowel Sounds, Nouns & Verbs", summary:"Mixed review of short/long vowels, nouns, and action verbs.",
    resourceLabel:"YouTube: Review: Vowel Sounds, Nouns & Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Vowel%20Sounds%2C%20Nouns%20%26%20Verbs%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_II6ySgUtWc",
    quiz:[
      {q:"Which word has a long vowel sound?", options:["cake","cap","cat","cab"], answer:0},
      {q:"Which word is a noun?", options:["Quickly","Park","Run","Happy"], answer:1},
@@ -201,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Numbers, Addition & Subtraction", summary:"Mixed review of counting to 50, addition and subtraction within 20, and place value.",
    resourceLabel:"YouTube: Review: Numbers, Addition & Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Addition%20%26%20Subtraction%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7J1OkxuyLD0",
    quiz:[
      {q:"8 + 7 = ?", options:["14","13","15","16"], answer:2},
      {q:"17 - 9 = ?", options:["6","9","7","8"], answer:3},
@@ -210,6 +212,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Living Things, Matter & Movement", summary:"Mixed review of living/nonliving things, animal life cycles, solids/liquids, and simple machines.",
    resourceLabel:"YouTube: Review: Living Things, Matter & Movement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Matter%20%26%20Movement%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kBL9-RFhnbM",
    quiz:[
      {q:"Which is a living thing?", options:["Cloud","Bird","Rock","Chair"], answer:1},
      {q:"A tadpole grows into a...", options:["Frog","Butterfly","Bird","Fish"], answer:0},
@@ -219,6 +222,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Community, Traditions & Maps", summary:"Mixed review of community, family traditions, world communities, and maps/globes.",
    resourceLabel:"YouTube: Review: Community, Traditions & Maps", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Community%2C%20Traditions%20%26%20Maps%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
      {q:"A community is a group of people who...", options:["Only work","Live and help each other","Never meet","Live alone"], answer:1},
      {q:"A family tradition is something done...", options:["Never","Together regularly to celebrate","By strangers only","Once and forgotten"], answer:1},
@@ -230,6 +234,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Describing Words (Adjectives)", summary:"An adjective describes a noun, telling more about its size, colour, shape, or feeling.",
    resourceLabel:"YouTube: Describing Words (Adjectives)", resourceUrl:"https://www.youtube.com/results?search_query=Describing%20Words%20%28Adjectives%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5ZkMbLkGims",
    quiz:[
      {q:"Which word describes a noun (an adjective)?", options:["Quickly","Run","Jump","Big"], answer:3},
      {q:"In 'The red ball bounced,' which word describes the ball?", options:["Bounced","The","Ball","Red"], answer:3},
@@ -239,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 2s, 5s, and 10s", summary:"Ontario Algebra strand: skip counting helps see number patterns and prepares for multiplication.",
    resourceLabel:"YouTube: Skip Counting by 2s, 5s, and 10s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%2C%205s%2C%20and%2010s%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DS3W9WLIxlQ",
    quiz:[
      {q:"Count by 2s: 2, 4, 6, __?", options:["7","9","10","8"], answer:3},
      {q:"Count by 5s: 5, 10, 15, __?", options:["25","20","18","16"], answer:1},
@@ -248,6 +254,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Air and Water in the Environment", summary:"Ontario Earth & Space Systems strand for Grade 2: air and water are essential resources found all around us and need to be kept clean.",
    resourceLabel:"YouTube: Air and Water in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Water%20in%20the%20Environment%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=h7rhOM2dXtE",
    quiz:[
      {q:"Why is clean water important?", options:["Living things need it to survive","It is not important","Only for swimming","No reason"], answer:0},
      {q:"Which of these can pollute the air?", options:["Smoke from factories or cars","Fresh wind","Clouds","Rain"], answer:0},
@@ -257,6 +264,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibilities", summary:"Rules and laws keep people safe and help communities run smoothly and fairly.",
    resourceLabel:"YouTube: Rules and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibilities%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5dtuZkposkk",
    quiz:[
      {q:"Why do we have rules?", options:["To make things confusing","To keep people safe and fair","No reason","To stop fun"], answer:1},
      {q:"A rule at school might be...", options:["Ignore the teacher","Run in the halls","Raise your hand to speak","Yell during class"], answer:2},

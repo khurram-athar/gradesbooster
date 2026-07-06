@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Grammar and Comprehension", summary:"Mixed review of parts of speech, sentence types, context clues, and cause/effect.",
    resourceLabel:"YouTube: Review: Grammar and Comprehension", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grammar%20and%20Comprehension%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RFZQMaGupaU",
    quiz:[
      {q:"In 'The exhausted but determined runner pushed through the final kilometre,' which word is an adjective describing 'runner'?", options:["Kilometre","Through","Pushed","Exhausted"], answer:3},
      {q:"'Could you please hand me that book?' combines the tone of a question with the function of a...", options:["Exclamation","Simple statement","None of these","Polite command (imperative)"], answer:3},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Multiplication, Division, and Fractions", summary:"Mixed review of multiplication, division, and fraction operations.",
    resourceLabel:"YouTube: Review: Multiplication, Division, and Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Multiplication%2C%20Division%2C%20and%20Fractions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7EWPkw_R-MA",
    quiz:[
      {q:"A baker makes 6 batches of 9 muffins each, then sells 14. How many muffins remain?", options:["40","42","44","38"], answer:0},
      {q:"168 ÷ 12 = ?", options:["14","13","12","15"], answer:0},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Structures, Matter, and Energy", summary:"Mixed review of forces on structures, properties of matter, and conservation of energy.",
    resourceLabel:"YouTube: Review: Structures, Matter, and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Structures%2C%20Matter%2C%20and%20Energy%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YSFR7ByqTps",
    quiz:[
      {q:"Why might engineers choose triangular supports over square ones in a bridge design?", options:["Squares are always stronger","There is no structural reason","Triangles resist changing shape under force","Triangles are only used for decoration"], answer:2},
      {q:"Two blocks have equal mass, but Block X has a larger volume than Block Y. Which has greater density?", options:["Block X","Block Y","Cannot be determined","They are equal"], answer:1},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Early Canada and Government", summary:"Mixed review of early encounters, Indigenous peoples, government levels, and physical regions.",
    resourceLabel:"YouTube: Review: Early Canada and Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Government%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"Why is it inaccurate to describe all Indigenous peoples in Canada as a single group?", options:["Only the Inuit are considered Indigenous","There is no meaningful difference between them","First Nations, Métis, and Inuit each differ","This description is actually accurate"], answer:2},
      {q:"Which decision would most likely be made by a MUNICIPAL government rather than the federal government?", options:["Deciding on a new city bus route","Setting immigration policy","Managing the national military","Negotiating international trade agreements"], answer:0},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Compare and Contrast", summary:"Comparing shows how two things are alike; contrasting shows how they are different.",
    resourceLabel:"YouTube: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Compare%20and%20Contrast%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=A9cY9_7YMCM",
    quiz:[
      {q:"In 'Unlike the quiet library, the busy market buzzed with noise,' which relationship is shown?", options:["Comparison only","Contrast","Cause and effect","Chronological order"], answer:1},
      {q:"Which pair of sentences primarily shows a COMPARISON (similarity)?", options:["Winter is cold; summer is hot.","Cats are quiet, while dogs are loud.","Both the wolf and the dog are canines that live in packs.","The desert is dry, but the rainforest is wet."], answer:2},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Decimal Place Value", summary:"Decimals represent parts of a whole using place value — tenths, hundredths, and thousandths.",
    resourceLabel:"YouTube: Decimal Place Value", resourceUrl:"https://www.youtube.com/results?search_query=Decimal%20Place%20Value%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KG6ILNOiMgM",
    quiz:[
      {q:"Which decimal is equivalent to 45/100?", options:["4.5","0.45","0.045","45.0"], answer:1},
      {q:"Order from least to greatest: 0.5, 0.45, 0.54", options:["0.5, 0.45, 0.54","0.45, 0.5, 0.54","0.54, 0.5, 0.45","0.45, 0.54, 0.5"], answer:1},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Changes in Matter", summary:"Matter can change physically (like cutting paper) or chemically (like burning wood, which forms new substances).",
    resourceLabel:"YouTube: Changes in Matter", resourceUrl:"https://www.youtube.com/results?search_query=Changes%20in%20Matter%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wyRy8kowyM8",
    quiz:[
      {q:"Which of these changes CANNOT be easily reversed?", options:["Melting butter","Burning a piece of wood","Cutting a sheet of paper","Freezing water into ice"], answer:1},
      {q:"A scientist mixes vinegar and baking soda and sees bubbles forming. This is evidence of a...", options:["No change at all","Change in colour only","Physical change only","Chemical change — a new gas formed"], answer:3},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship and Identity", summary:"Canadian identity is shaped by diverse cultures, languages, and experiences, and citizens have both rights and responsibilities.",
    resourceLabel:"YouTube: Canadian Citizenship and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20and%20Identity%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2yqxF-AcGMY",
    quiz:[
      {q:"Which best describes rights and responsibilities for Canadian citizens?", options:["Citizens only have rights, no responsibilities","Both rights and responsibilities apply","Citizens only have responsibilities, no rights","Neither applies to citizens"], answer:1},
      {q:"Why is Canada often described as a 'mosaic' rather than a 'melting pot'?", options:["Cultures keep their distinct identities","There is no difference between the two models","Canada encourages cultures to blend into one single identity","Canada has no cultural diversity"], answer:0},

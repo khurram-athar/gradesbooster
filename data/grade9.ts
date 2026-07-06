@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Sentences, Essays, and Devices", summary:"Mixed review of clauses, thesis statements, persuasive analysis, and literary devices.",
    resourceLabel:"YouTube: Review: Sentences, Essays, and Devices", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Sentences%2C%20Essays%2C%20and%20Devices%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
    quiz:[
      {q:"A complex sentence contains an independent clause and...", options:["No other clauses","At least one dependent clause","Only a verb","Only a noun"], answer:1},
      {q:"A thesis statement should be...", options:["A question","Vague","Clear and arguable","Irrelevant"], answer:2},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra and Linear Relations", summary:"Mixed review of expressions, equations, slope, and graphing.",
    resourceLabel:"YouTube: Review: Algebra and Linear Relations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Linear%20Relations%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0ofTvk9uAl8",
    quiz:[
      {q:"Simplify: 6x - 2x", options:["8x","2x","3x","4x"], answer:3},
      {q:"Solve: 2x + 4 = 14", options:["x=7","x=5","x=6","x=8"], answer:1},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Ecosystems, Matter, and Electricity", summary:"Mixed review of sustainable ecosystems, atomic theory, chemical reactions, and electricity.",
    resourceLabel:"YouTube: Review: Ecosystems, Matter, and Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Electricity%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TitrRpMUt0I",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","Soil type only","Water levels only","A single species"], answer:0},
      {q:"Protons carry what charge?", options:["Positive","Negative","Neutral","Variable"], answer:0},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Geography and Resources", summary:"Mixed review of geographic inquiry, natural resources, land use, and Indigenous perspectives.",
    resourceLabel:"YouTube: Review: Geography and Resources", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Geography%20and%20Resources%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xBB_O37bhnE",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Skipping research","Avoiding data","Memorizing only","Asking a geographic question"], answer:3},
      {q:"Canada's forestry industry depends on...", options:["Forest resources","Tropical climates","Ocean fisheries only","Desert land"], answer:0},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Sources", summary:"Evaluate media messages for purpose, audience, and credibility (ENL1W Strand C - Media Studies).",
    resourceLabel:"YouTube: Media Literacy: Analyzing Sources", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Analyzing%20Sources%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AD7N-1Mj-DU",
    quiz:[
      {q:"Media literacy involves the ability to...", options:["Critically evaluate media messages","Only watch media passively","Avoid all media","Memorize media headlines"], answer:0},
      {q:"Considering 'who created this and why' helps identify...", options:["The font used","The colour scheme","The page count","The source's purpose and bias"], answer:3},

@@ -172,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 1–4.", subjects:[
   {subject:"Language", title:"Review: Grammar, Vocabulary, and Theme", summary:"Mixed review of clauses, roots/affixes, theme/tone, and argument/evidence.",
    resourceLabel:"YouTube: Review: Grammar, Vocabulary, and Theme", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grammar%2C%20Vocabulary%2C%20and%20Theme%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=V1kKVYUkx0Y",
    quiz:[
      {q:"An independent clause can...", options:["Have no meaning","Have no verb","Never stand alone","Stand alone as a sentence"], answer:3},
      {q:"The prefix 'un-' usually means...", options:["Not/opposite of","After","Before","Again"], answer:0},
@@ -181,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Ratios, Percentages, and Integers", summary:"Mixed review of ratios, percentages, integer operations, and basic equations.",
    resourceLabel:"YouTube: Review: Ratios, Percentages, and Integers", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ratios%2C%20Percentages%2C%20and%20Integers%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"What is 50% of 90?", options:["50","45","55","40"], answer:1},
      {q:"-6 + 9 = ?", options:["15","3","-3","-15"], answer:1},
@@ -190,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Ecosystems, Matter, and Heat", summary:"Mixed review of food webs, pure substances/mixtures, structures, and heat transfer.",
    resourceLabel:"YouTube: Review: Ecosystems, Matter, and Heat", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%2C%20Matter%2C%20and%20Heat%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tacc6S8qZjg",
    quiz:[
      {q:"Producers in an ecosystem...", options:["Eat other organisms only","Do nothing","Decompose matter only","Make their own food"], answer:3},
      {q:"A mixture contains...", options:["Nothing","More than one substance","Only one type of particle","Only gases"], answer:1},
@@ -199,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Early Canada and Geography", summary:"Mixed review of New France, conflicts 1800-1850, physical patterns, and natural resources.",
    resourceLabel:"YouTube: Review: Early Canada and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Early%20Canada%20and%20Geography%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"New France came under British control after...", options:["World War I","Confederation","The War of 1812","The Seven Years' War"], answer:3},
      {q:"The Rebellions of 1837–38 sought...", options:["More responsible government","Independence from trade","Less self-government","Nothing in particular"], answer:0},
@@ -210,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Figurative Language and Imagery", summary:"Writers use figurative language (metaphor, simile, personification) and imagery to create vivid mental pictures.",
    resourceLabel:"YouTube: Figurative Language and Imagery", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%20and%20Imagery%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YlfzDvrhzuU",
    quiz:[
      {q:"Imagery appeals mainly to the reader's...", options:["Memory of dates","Spelling ability","Senses","Math skills"], answer:2},
      {q:"'The classroom was a zoo' is an example of a...", options:["Simile","Fact","Metaphor","Question"], answer:2},
@@ -219,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Inequalities", summary:"Inequalities compare values using symbols like <, >, ≤, ≥ and can be solved similarly to equations.",
    resourceLabel:"YouTube: Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Inequalities%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mgHO-bsCDrA",
    quiz:[
      {q:"Solve: x + 3 > 7", options:["x<10","x<4","x>4","x>10"], answer:2},
      {q:"Which symbol means 'greater than or equal to'?", options:[">","<","≥","≤"], answer:2},
@@ -228,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Pure Substances", summary:"Pure substances have characteristic properties like melting point, boiling point, and density that can be used to identify them.",
    resourceLabel:"YouTube: Properties of Pure Substances", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Pure%20Substances%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jCVQwr_TWpY",
    quiz:[
      {q:"Melting point is a property that helps...", options:["Has no use","Identify a substance","Change its colour permanently","Change its mass"], answer:1},
      {q:"Density compares an object's...", options:["Texture to its weight only","Sound to its taste","Colour to its smell","Mass to its volume"], answer:3},
@@ -237,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Confederation and Nation-Building", summary:"Canada became a country through Confederation in 1867, joining provinces under a new federal system.",
    resourceLabel:"YouTube: Confederation and Nation-Building", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Nation-Building%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
    quiz:[
      {q:"In what year did Canadian Confederation occur?", options:["1812","1837","1867","1900"], answer:2},
      {q:"Confederation joined provinces under a...", options:["Foreign monarchy with no local power","Single municipal government","New federal system of government","Military dictatorship"], answer:2},

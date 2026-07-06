@@ -192,6 +192,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"Language", title:"Word Families: -at and -an", summary:"Ontario Grade 1 Reading strand: word families share the same rime (ending pattern). The -at family includes cat, bat, hat, sat; the -an family includes can, man, ran, tan.",
    resourceLabel:"YouTube: Word Families: -at and -an", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-at%20and%20-an%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=uVeEAFy1z68",
    quiz:[
      {q:"Which word belongs to the -AT family?", options:["Run","Hat","Men","Can"], answer:1},
      {q:"Which word belongs to the -AN family?", options:["Can","Bat","Cat","Hat"], answer:0},
@@ -201,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Place Value: Tens and Ones", summary:"Ontario Grade 1 Number strand: students decompose two-digit numbers into tens and ones using base-ten blocks, understanding that the position of a digit determines its value.",
    resourceLabel:"YouTube: Place Value: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Tens%20and%20Ones%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1F3AycEDksY",
    quiz:[
      {q:"In the number 23, the digit 2 means ___.", options:["20 tens","20 ones","2 ones","2 tens"], answer:3},
      {q:"How many tens are in 35?", options:["5","2","35","3"], answer:3},
@@ -210,6 +212,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seasonal Changes: Winter", summary:"Ontario Grade 1 Earth and Space Systems strand: in winter, temperatures drop, many trees are bare, some animals hibernate, and people wear warm clothing.",
    resourceLabel:"YouTube: Seasonal Changes: Winter", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Winter%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UQjT5uKp2hg",
    quiz:[
      {q:"What season comes after fall?", options:["Spring","Winter","Summer","Rainy season"], answer:1},
      {q:"In winter, many deciduous trees ___.", options:["Grow taller","Turn green","Grow new leaves","Have bare branches"], answer:3},
@@ -219,6 +222,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rules and Responsibilities", summary:"Ontario Grade 1 Social Studies strand A: students describe their rights and responsibilities at home, at school, and in the community.",
    resourceLabel:"YouTube: Rules and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20and%20Responsibilities%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5dtuZkposkk",
    quiz:[
      {q:"Why do schools have rules?", options:["Rules are not needed","To be unfair","To keep everyone safe and learning","To punish students"], answer:2},
      {q:"A responsibility is something you ___.", options:["Only adults do","Can always skip","Are allowed to ignore","Must do for yourself or others"], answer:3},
@@ -230,6 +234,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Writing Complete Sentences", summary:"Ontario Grade 1 Writing strand: a complete sentence has a subject and a verb, begins with a capital letter, and ends with a punctuation mark.",
    resourceLabel:"YouTube: Writing Complete Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Complete%20Sentences%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DuubQG3gFb8",
    quiz:[
      {q:"Every sentence must start with a ___.", options:["Number","Capital letter","lowercase letter","Period"], answer:1},
      {q:"Which is a complete sentence?", options:["Fast dog.","The dog runs fast.","Runs fast.","the dog"], answer:1},
@@ -239,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 2s", summary:"Ontario Grade 1 Number strand: students skip count by 2s from 0, landing on even numbers: 0, 2, 4, 6, 8, 10...",
    resourceLabel:"YouTube: Skip Counting by 2s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GvTcpfSnOMQ",
    quiz:[
      {q:"Skip count by 2s: 2, 4, 6, ___", options:["9","8","5","7"], answer:1},
      {q:"Skip count by 2s: 10, 12, 14, ___", options:["17","16","15","13"], answer:1},
@@ -248,6 +254,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animals and Their Young", summary:"Ontario Grade 1 Life Systems strand: animals reproduce and care for their young; baby animals resemble their parents and grow to look like them.",
    resourceLabel:"YouTube: Animals and Their Young", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20and%20Their%20Young%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=s37MDCK2bpM",
    quiz:[
      {q:"A baby dog is called a ___.", options:["Kitten","Calf","Puppy","Foal"], answer:2},
      {q:"A baby cat is called a ___.", options:["Puppy","Kitten","Lamb","Cub"], answer:1},
@@ -257,6 +264,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our Province: Ontario", summary:"Ontario Grade 1 Social Studies strand B: students identify Ontario on a map of Canada, name its capital city, and describe some key features.",
    resourceLabel:"YouTube: Our Province: Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Province%3A%20Ontario%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M4r5Zf0yf9s",
    quiz:[
      {q:"What is the capital city of Ontario?", options:["Toronto","Montreal","Vancouver","Ottawa"], answer:0},
      {q:"Ontario is located in ___.", options:["Far west Canada","East-central Canada","The far east","Far north"], answer:1},

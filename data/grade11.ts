@@ -130,6 +130,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"English", title:"Writing: The Analytical Essay (Extended Form)", summary:"Students write a multi-paragraph analytical essay demonstrating thesis-driven argument, sophisticated evidence integration, and logical cohesion across 5-7 paragraphs.",
    resourceLabel:"YouTube: Writing: The Analytical Essay (Extended Form)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Analytical%20Essay%20%28Extended%20Form%29%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yqlIT4l0fhg",
    quiz:[
      {q:"Coherence in a multi-paragraph essay is created by ___.", options:["having equal-length paragraphs","using the same quotations in each paragraph","starting each paragraph with 'Firstly, Secondly, Thirdly'","logical sequencing, strong topic sentences, and clear transitions"], answer:3},
      {q:"A topic sentence functions as ___.", options:["a transition only","a fact that needs no argument","a quotation from the text","a mini-thesis for its paragraph"], answer:3},
@@ -139,6 +140,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Rational Functions: Characteristics and Graphing", summary:"Students analyse rational functions — identifying vertical and horizontal asymptotes, holes, domain restrictions, and graphing behaviour.",
    resourceLabel:"YouTube: Rational Functions: Characteristics and Graphing", resourceUrl:"https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Characteristics%20and%20Graphing%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fy45qX8cUwQ",
    quiz:[
      {q:"A rational function has the form ___.", options:["f(x) = ax + b","f(x) = axⁿ","f(x) = p(x)/q(x)","f(x) = aˣ"], answer:2},
      {q:"Vertical asymptotes occur where ___.", options:["the denominator equals zero (numerator doesn't)","the numerator equals zero","the function reaches its maximum","the function crosses the x-axis"], answer:0},
@@ -148,6 +150,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Evolution: Natural Selection and Speciation", summary:"Students examine evidence for evolution, mechanisms of natural selection, and how new species arise through reproductive isolation.",
    resourceLabel:"YouTube: Evolution: Natural Selection and Speciation", resourceUrl:"https://www.youtube.com/results?search_query=Evolution%3A%20Natural%20Selection%20and%20Speciation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7VM9YxmULuo",
    quiz:[
      {q:"Darwin's natural selection requires four conditions: ___.", options:["only mutation and time","random mutation, genetic drift, gene flow, and bottleneck","identical offspring, resource competition, environmental change, and migration","overproduction, heritable variation, and differential survival/reproduction"], answer:3},
      {q:"A bottleneck effect occurs when ___.", options:["gene flow increases significantly","populations merge","a large population grows rapidly","a sudden, drastic drop in population size"], answer:3},
@@ -157,6 +160,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Stoichiometry: Limiting Reagents and Percent Yield", summary:"Students apply stoichiometry to limiting reagent problems and calculate theoretical, actual, and percent yield.",
    resourceLabel:"YouTube: Stoichiometry: Limiting Reagents and Percent Yield", resourceUrl:"https://www.youtube.com/results?search_query=Stoichiometry%3A%20Limiting%20Reagents%20and%20Percent%20Yield%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CK2yK_JTUH4",
    quiz:[
      {q:"The limiting reagent in a reaction is ___.", options:["the cheapest reactant","the reactant in smallest mass","the reactant present in largest mass","the reactant completely consumed first"], answer:3},
      {q:"In 2H₂ + O₂ → 2H₂O, if you have 3 mol H₂ and 2 mol O₂, the limiting reagent is ___.", options:["neither is limiting","H₂ (O₂ is in excess)","O₂","both are limiting"], answer:1},
@@ -168,6 +172,7 @@ const curriculum: DayContent[] = [
 {day:5, label:"Day 5 — Fri", subjects:[
   {subject:"English", title:"Close Reading: Poetry Analysis", summary:"Students apply close reading skills to analyse poetic form, imagery, diction, tone, and theme in Grade 11 poetry (Romantic, modern, and contemporary).",
    resourceLabel:"YouTube: Close Reading: Poetry Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Close%20Reading%3A%20Poetry%20Analysis%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PXZrtMLeZNY",
    quiz:[
      {q:"The Romantic period in poetry (late 18th-early 19th century) is characterised by ___.", options:["classical structure only","celebration of nature and emotion","cynicism and irony","industrial themes"], answer:1},
      {q:"Modernist poetry (early 20th century) broke from tradition through ___.", options:["fragmentation, free verse, and stream of consciousness","complete avoidance of imagery","use of only classical allusions","strict adherence to rhyme and metre"], answer:0},
@@ -177,6 +182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Exponential Functions: Growth, Decay, and Graphing", summary:"Students investigate exponential functions, identifying key features of graphs, and modelling real-world growth and decay situations.",
    resourceLabel:"YouTube: Exponential Functions: Growth, Decay, and Graphing", resourceUrl:"https://www.youtube.com/results?search_query=Exponential%20Functions%3A%20Growth%2C%20Decay%2C%20and%20Graphing%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tAaDItpC8OI",
    quiz:[
      {q:"An exponential function has the form ___.", options:["f(x) = mx + b","f(x) = x^n","f(x) = aˣ","f(x) = ax + b"], answer:2},
      {q:"The graph of f(x) = 2ˣ has ___.", options:["passes through (0, 0)","a horizontal asymptote at x = 0","an asymptote at y=0, through (0,1)","a vertical asymptote at x = 0"], answer:2},
@@ -186,6 +192,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Photosynthesis: Light-Dependent and Light-Independent Reactions", summary:"Students examine the two stages of photosynthesis — the light reactions in the thylakoid and the Calvin cycle in the stroma — in biochemical detail.",
    resourceLabel:"YouTube: Photosynthesis: Light-Dependent and Light-Independent Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Photosynthesis%3A%20Light-Dependent%20and%20Light-Independent%20Reactions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=D2Y_eEaxrYo",
    quiz:[
      {q:"The light-dependent reactions of photosynthesis occur in ___.", options:["the mitochondrial matrix","the thylakoid membranes","the stroma of the chloroplast","the cytoplasm"], answer:1},
      {q:"The products of the light-dependent reactions that feed into the Calvin cycle are ___.", options:["only oxygen","glucose and oxygen","CO₂ and water","ATP and NADPH"], answer:3},
@@ -195,6 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Solutions Chemistry: Concentration and Solubility", summary:"Students explore solution chemistry — concentration units (mol/L), solubility rules, and factors affecting solubility and rate of dissolving.",
    resourceLabel:"YouTube: Solutions Chemistry: Concentration and Solubility", resourceUrl:"https://www.youtube.com/results?search_query=Solutions%20Chemistry%3A%20Concentration%20and%20Solubility%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MDHlaTHbEgM",
    quiz:[
      {q:"Concentration in mol/L (molarity, M) is calculated as ___.", options:["moles × volume","moles ÷ litres of solution","mass ÷ volume (in L)","moles ÷ mass"], answer:1},
      {q:"To prepare 250 mL of 2.0 M NaCl (molar mass 58.5 g/mol), you need ___.", options:["117 g of NaCl","29.25 g","58.5 g of NaCl","250 g of NaCl"], answer:1},
