@@ -276,6 +276,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Finding the Main Idea", summary:"The main idea is what a story or text is mostly about.",
    resourceLabel:"YouTube: Finding the Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Finding%20the%20Main%20Idea%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xJGQIYU_xhs",
    quiz:[
      {q:"The main idea of a story is...", options:["The title only","What the story is mostly about","A small detail","The last word"], answer:1},
      {q:"If a story is about a dog learning tricks, the main idea is about...", options:["A house","A dog learning tricks","The weather","A car"], answer:1},
@@ -285,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing and Ordering Numbers", summary:"Use greater than, less than, and equal to in order to compare numbers up to 100.",
    resourceLabel:"YouTube: Comparing and Ordering Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20and%20Ordering%20Numbers%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=I_USfjnTLSY",
    quiz:[
      {q:"Which symbol means 'greater than'?", options:["<",">","+","="], answer:1},
      {q:"Which is true: 45 ___ 54", options:["45 > 54","45 < 54","45 = 54","Cannot compare"], answer:1},
@@ -294,6 +296,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pushes and Pulls", summary:"Forces like pushes and pulls make objects start moving, stop moving, speed up, slow down, or change direction.",
    resourceLabel:"YouTube: Pushes and Pulls", resourceUrl:"https://www.youtube.com/results?search_query=Pushes%20and%20Pulls%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zI-vmLrBQzU",
    quiz:[
      {q:"Opening a door is an example of a...", options:["Liquid","Push or pull","Habitat","Tradition"], answer:1},
      {q:"A push can make an object...", options:["Move away from you","Grow","Disappear","Become a liquid"], answer:0},
@@ -303,6 +306,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Jobs and Community Helpers", summary:"People in a community have different jobs that help everyone — like firefighters, teachers, and doctors.",
    resourceLabel:"YouTube: Jobs and Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Jobs%20and%20Community%20Helpers%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wlBC2ljoGAk",
    quiz:[
      {q:"Who helps put out fires?", options:["Pilots","Firefighters","Teachers","Bakers"], answer:1},
      {q:"Who helps you learn at school?", options:["Teachers","Farmers","Doctors","Firefighters"], answer:0},
@@ -314,6 +318,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Sequencing Events", summary:"Sequencing means putting events in the order they happened — first, next, then, last.",
    resourceLabel:"YouTube: Sequencing Events", resourceUrl:"https://www.youtube.com/results?search_query=Sequencing%20Events%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4AMptAmS_xM",
    quiz:[
      {q:"Which word usually signals the FIRST event?", options:["Then","First","Finally","Last"], answer:1},
      {q:"Which word usually signals the LAST event?", options:["Then","Next","Finally","First"], answer:2},
@@ -323,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Telling Time to the Hour and Half Hour", summary:"Ontario Spatial Sense / Measurement: read clocks to tell time to the hour and half hour.",
    resourceLabel:"YouTube: Telling Time to the Hour and Half Hour", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%20to%20the%20Hour%20and%20Half%20Hour%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MaVgBjVh4b8",
    quiz:[
      {q:"When the minute hand points to 12 and hour hand points to 3, the time is...", options:["12:00","3:00","6:00","9:00"], answer:1},
      {q:"When the minute hand points to 6, how many minutes past the hour is it?", options:["45","30","60","15"], answer:1},
@@ -332,6 +338,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Changes in Matter: Melting and Freezing", summary:"Matter can change state — solids can melt into liquids, and liquids can freeze into solids.",
    resourceLabel:"YouTube: Changes in Matter: Melting and Freezing", resourceUrl:"https://www.youtube.com/results?search_query=Changes%20in%20Matter%3A%20Melting%20and%20Freezing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=C1JXhzgvUIA",
    quiz:[
      {q:"What happens to ice when it gets warm?", options:["Nothing happens","It melts into water","It disappears completely","It becomes a gas instantly"], answer:1},
      {q:"What happens to water when it gets very cold?", options:["It freezes into ice","It disappears","Nothing happens","It becomes a gas"], answer:0},
@@ -341,6 +348,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Finding Directions on a Map", summary:"Maps use symbols, a compass rose, and directions (N, S, E, W) to help people find their way.",
    resourceLabel:"YouTube: Finding Directions on a Map", resourceUrl:"https://www.youtube.com/results?search_query=Finding%20Directions%20on%20a%20Map%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mtsx8V3mE8o",
    quiz:[
      {q:"A compass rose on a map shows...", options:["Directions like North, South, East, West","The population","The weather","Nothing useful"], answer:0},
      {q:"Which direction is opposite of North?", options:["East","Up","South","West"], answer:2},

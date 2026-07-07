@@ -224,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Systems of Linear Equations (Intro)", summary:"Solve simple systems of two linear equations by graphing or substitution (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Systems of Linear Equations (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20of%20Linear%20Equations%20%28Intro%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3SHugxYdbas",
    quiz:[
      {q:"A system of linear equations can be solved by...", options:["Only guessing","Multiplying randomly","Ignoring one equation","Graphing or substitution"], answer:3},
      {q:"The solution to a system of two lines is the point where...", options:["The lines are parallel only","One line ends","Neither line exists","The lines intersect"], answer:3},
@@ -233,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Circuits and Electrical Safety", summary:"Understand series and parallel circuits, and basic electrical safety principles (SNC1W electricity strand).",
    resourceLabel:"YouTube: Circuits and Electrical Safety", resourceUrl:"https://www.youtube.com/results?search_query=Circuits%20and%20Electrical%20Safety%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qr2GBbQgw0g",
    quiz:[
      {q:"In a series circuit, components are connected...", options:["Not connected at all","Along a single path","Along multiple independent paths","Only in parallel"], answer:1},
      {q:"In a parallel circuit, components are connected...", options:["Only along a single path","Not connected at all","Along multiple paths at once","Randomly with no structure"], answer:2},
@@ -242,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Careers Related to Geography", summary:"CGC1W links geographic skills to potential career paths, such as urban planning, environmental science, and resource management.",
    resourceLabel:"YouTube: Careers Related to Geography", resourceUrl:"https://www.youtube.com/results?search_query=Careers%20Related%20to%20Geography%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iNhdFVSCVEM",
    quiz:[
      {q:"An urban planner is involved in...", options:["Only mining","Only weather forecasting","Only farming","Designing how land and cities are used"], answer:3},
      {q:"An environmental scientist studies...", options:["Human-environment interactions","Only sports statistics","Only stock markets","Only ancient history"], answer:0},
@@ -253,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Tone, Voice, and Style in Writing", summary:"Develop awareness of how tone, voice, and style shape a piece of writing's impact on readers (ENL1W Strand B/D).",
    resourceLabel:"YouTube: Tone, Voice, and Style in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Tone%2C%20Voice%2C%20and%20Style%20in%20Writing%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jenEPTy2Lf4",
    quiz:[
      {q:"Voice in writing refers to...", options:["The author's personality in the writing","A type of punctuation","The font size","Only the volume of speech"], answer:0},
      {q:"Formal style is generally used in...", options:["Texting friends casually","Never used","Academic essays and professional writing","Diary entries only"], answer:2},
@@ -262,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Polynomials: Adding and Subtracting", summary:"Add and subtract polynomial expressions by combining like terms (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Polynomials: Adding and Subtracting", resourceUrl:"https://www.youtube.com/results?search_query=Polynomials%3A%20Adding%20and%20Subtracting%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PF5Y6yHm8FA",
    quiz:[
      {q:"Simplify: (3x + 2) + (5x - 4)", options:["8x-2","2x+2","2x-2","8x+2"], answer:0},
      {q:"Simplify: (4x² + 3x) - (2x² + x)", options:["2x²+4x","6x²+4x","2x²+2x","2x²-2x"], answer:2},
@@ -271,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth and Space Science: The Solar System", summary:"Review the structure of the solar system and basic astronomical concepts (SNC1W Earth & Space Science strand).",
    resourceLabel:"YouTube: Earth and Space Science: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Space%20Science%3A%20The%20Solar%20System%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
    quiz:[
      {q:"Which planet is closest to the Sun?", options:["Mercury","Earth","Venus","Mars"], answer:0},
      {q:"A year on Earth is defined by...", options:["One moon cycle","One full orbit around the Sun","One full rotation on its axis","A random time period"], answer:1},
@@ -280,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Population Geography", summary:"CGC1W explores patterns of population distribution, density, and demographic change.",
    resourceLabel:"YouTube: Population Geography", resourceUrl:"https://www.youtube.com/results?search_query=Population%20Geography%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sAUVYBQH1-0",
    quiz:[
      {q:"Population density measures...", options:["Only the land area","Only the total population","The number of people per unit of area","Only birth rates"], answer:2},
      {q:"Which factor often increases population density in cities?", options:["Lack of any infrastructure","Jobs concentrated in urban areas","Cold climates only","Always poor soil quality"], answer:1},

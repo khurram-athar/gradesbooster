@@ -214,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Literature: Poetry — The Lyric Tradition", summary:"Students study the development of the lyric poem from the Romantics through Modernism to contemporary practice, examining how lyric poetry constructs a speaking self and addresses fundamental human questions.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=eRq5PkcLqn8",
    quiz:[
      {q:"The lyric poem is distinguished by ___.", options:["personal feeling voiced by an 'I'","always being short","always rhyming","always being about nature"], answer:0},
      {q:"Romanticism's influence on lyric poetry includes ___.", options:["avoidance of personal feeling","imagination and emotional authenticity","strict adherence to rational argument","rejection of all nature imagery"], answer:1},
@@ -223,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Polynomial and Rational Equations: Problem Solving", summary:"Students solve higher-degree polynomial equations and applied rational equations, applying the factor theorem, synthetic division, and rational root theorem.",
    resourceLabel:"Khan Academy: Polynomial Division", resourceUrl:"https://www.youtube.com/watch?v=FxHWoUOq2iQ",
+   videoUrl:"https://www.youtube.com/watch?v=gD7A1LA4jO8",
    quiz:[
      {q:"The Rational Root Theorem states ___.", options:["a polynomial has n rational roots always","all roots of a polynomial are rational","irrational roots don't exist","p|constant term, q|leading coefficient"], answer:3},
      {q:"For P(x) = 2x³ − 3x² − 11x + 6, possible rational roots are ___.", options:["only positive integers","±1, ±2, ±3, ±6 only","±1, ±2, ±3, ±6, ±1/2, ±3/2","only ±1 and ±6"], answer:2},
@@ -232,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Curve Sketching Using Derivatives", summary:"Students use the first and second derivative to identify increasing/decreasing intervals, local extrema, concavity, and inflection points.",
    resourceLabel:"Khan Academy: Curve Sketching", resourceUrl:"https://www.youtube.com/watch?v=WIDZFyfaT1I",
+   videoUrl:"https://www.youtube.com/watch?v=WqRPFvZWF0k",
    quiz:[
      {q:"If f'(x) > 0 on an interval, then f ___.", options:["is concave up","is increasing on that interval","is decreasing","has a minimum"], answer:1},
      {q:"A local maximum at x = c requires ___.", options:["f'(c) > 0","f'(c) = 0 and changes sign there","f'(c) = 0 only","f'(c) < 0"], answer:1},
@@ -241,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Electricity: Electric Fields and Potential", summary:"Students analyse electric fields and electric potential produced by point charges and uniform fields, and relate electric potential to potential energy.",
    resourceLabel:"Crash Course Physics: Electric Fields", resourceUrl:"https://www.youtube.com/watch?v=mdulzEfQJP0",
+   videoUrl:"https://www.youtube.com/watch?v=VFbyDCG_j18",
    quiz:[
      {q:"The electric field E due to a point charge Q at distance r is ___.", options:["kQ²/r²","kQr²","kQ/r², away from positive charges","kQ/r"], answer:2},
      {q:"Electric potential V at distance r from charge Q is ___.", options:["kQ/r — a scalar, no direction","kQr","kQ²/r","kQ/r² (same as field)"], answer:0},
@@ -252,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"English", title:"Drama and Theatre: Contemporary Playwriting", summary:"Students read and analyse a contemporary Canadian play, examining how playwrights structure dramatic conflict, develop character through dialogue, and use theatrical space.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=3O_ISCHsaUw",
    quiz:[
      {q:"A contemporary Canadian play is likely to engage with ___.", options:["identity, colonialism, environment","only historical events in theatrical form","only traditional dramatic forms","no Canadian themes"], answer:0},
      {q:"Dialogue in drama does more than convey information — it ___.", options:["is always realistic conversation","only advances the plot","reveals character through subtext","only establishes character mood"], answer:2},
@@ -261,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Rates of Change: Introduction to Calculus Concepts", summary:"Students explore the concept of instantaneous rate of change as a limit, preparing the foundation for Grade 12 Calculus and making explicit the connection between Advanced Functions and Calculus.",
    resourceLabel:"Khan Academy: Average vs Instantaneous Rate of Change", resourceUrl:"https://www.youtube.com/watch?v=BVZNMm6GaKw",
+   videoUrl:"https://www.youtube.com/watch?v=EvJah9UtqEQ",
    quiz:[
      {q:"Average rate of change of f(x) over [a, b] is ___.", options:["[f(b) − f(a)]/(b − a)","f'(a)","[f(b) − f(a)] × (b − a)","f(a)/f(b)"], answer:0},
      {q:"Instantaneous rate of change at x = a is ___.", options:["lim(h→0)[f(a+h) − f(a)]/h","f(a)/a","[f(b)−f(a)]/(b−a) for any b","f(a+1) − f(a)"], answer:0},
@@ -270,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Optimisation: Maximum and Minimum Problems", summary:"Students apply derivatives to find maximum and minimum values in applied context problems — geometry, economics, and physics.",
    resourceLabel:"Khan Academy: Optimization Problems", resourceUrl:"https://www.youtube.com/watch?v=bG1v9tGTIZk",
+   videoUrl:"https://www.youtube.com/watch?v=cUMvwG7wvzM",
    quiz:[
      {q:"To solve an optimisation problem with calculus, the steps are ___.", options:["define, differentiate, and solve","sketch and guess","only apply the second derivative test","differentiate directly without identifying the function"], answer:0},
      {q:"A farmer has 200 m of fencing to enclose a rectangular field against a barn (one side free). Maximise the area. If x is the side away from the barn:", options:["x = 50, width = 100, A_max = 5000 m²","x = 50 and area = 50 × 100 = 5000 m²","A = x × 200 − x","x = 100 gives maximum"], answer:0},
@@ -279,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Electric Circuits: Current, Resistance, and Ohm's Law", summary:"Students analyse DC electric circuits — current, voltage, resistance, Ohm's Law, series and parallel circuits, and power dissipation.",
    resourceLabel:"Crash Course Physics: Electric Circuits", resourceUrl:"https://www.youtube.com/watch?v=g-wjP1otQWI",
+   videoUrl:"https://www.youtube.com/watch?v=r-SCyD7f_zI",
    quiz:[
      {q:"Ohm's Law states ___.", options:["V = IR²","V = IR","I = V + R","R = V × I"], answer:1},
      {q:"In a series circuit, ___.", options:["voltage is the same across all components","resistance decreases","current divides","current is the same through all components; total resistance = sum of individual resistances; voltage divides"], answer:0},

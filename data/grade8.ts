@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Writing: Analytical Paragraph (PEEL)", summary:"Students write well-structured analytical paragraphs using the PEEL structure: Point, Evidence, Explanation, Link.",
    resourceLabel:"YouTube: Writing: Analytical Paragraph (PEEL)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Analytical%20Paragraph%20%28PEEL%29%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SGLhICEjNLU",
    quiz:[
      {q:"In the PEEL structure, 'Point' means ___.", options:["the connection to next paragraph","the paragraph's main topic sentence","the concluding sentence only","a quotation from the text"], answer:1},
      {q:"'Evidence' in PEEL means ___.", options:["a transition sentence","a link back to the thesis","your personal opinion","evidence that supports the point"], answer:3},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data Management: Probability", summary:"Students calculate theoretical and experimental probability, including compound events. They use tree diagrams and sample spaces.",
    resourceLabel:"YouTube: Data Management: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Probability%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"The probability of an event ranges from ___.", options:["0 to 1","1 to 10","0 to 100","−1 to 1"], answer:0},
      {q:"A sample space lists ___.", options:["only favourable outcomes","only the most likely outcomes","only two outcomes","all possible outcomes of an experiment"], answer:3},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems in Action: Mechanical Systems", summary:"Students explore mechanical systems including gears, pulleys, levers, and how these are combined in machines to change force, speed, and direction.",
    resourceLabel:"YouTube: Systems in Action: Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Mechanical%20Systems%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zkuCDT2p00Q",
    quiz:[
      {q:"A gear train transmits ___.", options:["only up-down motion","fluid pressure","electrical signals","motion and force between shafts"], answer:3},
      {q:"When a small gear drives a large gear, the large gear ___.", options:["turns slower with more torque","turns at the same speed","turns faster","stops completely"], answer:0},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Building a Nation: 1867–1900", summary:"Students examine how Canada expanded after Confederation: Manitoba (1870), BC (1871), CPR, North-West Resistance, and the numbered treaties.",
    resourceLabel:"YouTube: Building a Nation: 1867–1900", resourceUrl:"https://www.youtube.com/results?search_query=Building%20a%20Nation%3A%201867%E2%80%931900%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IBUBzIcj4g8",
    quiz:[
      {q:"The numbered treaties (1871–1921) were ___.", options:["gifts of land to settlers","proclamations of Indigenous independence","Canada-First Nations land agreements","private land sales"], answer:2},
      {q:"The Canadian Pacific Railway (completed 1885) was important because ___.", options:["it physically united Canada","it connected the East Coast to Europe","it replaced all other transportation","it was primarily a luxury project"], answer:0},

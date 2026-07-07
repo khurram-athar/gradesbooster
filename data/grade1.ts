@@ -276,6 +276,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Question Words: Who, What, Where, When, Why", summary:"Ontario Grade 1 Reading and Writing strands: students identify and use the five W question words to gather information from texts and to formulate questions.",
    resourceLabel:"YouTube: Question Words: Who, What, Where, When, Why", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%3A%20Who%2C%20What%2C%20Where%2C%20When%2C%20Why%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PUyOzCZ9XJE",
    quiz:[
      {q:"Which question word asks about a person?", options:["Who","What","When","Where"], answer:0},
      {q:"Which question word asks about a place?", options:["When","Who","Where","What"], answer:2},
@@ -285,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 5s", summary:"Ontario Grade 1 Number strand: students skip count by 5s from 0, recognising the pattern: 0, 5, 10, 15, 20...",
    resourceLabel:"YouTube: Skip Counting by 5s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RNr2pjm2x9k",
    quiz:[
      {q:"Skip count by 5s: 5, 10, 15, ___", options:["18","19","17","20"], answer:3},
      {q:"Skip count by 5s: 20, 25, 30, ___", options:["35","32","33","38"], answer:0},
@@ -294,6 +296,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Parts of a Plant", summary:"Ontario Grade 1 Life Systems strand: students identify and describe the functions of the main parts of a plant: roots, stem, leaves, and flower.",
    resourceLabel:"YouTube: Parts of a Plant", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yTzSIXUU_ds",
    quiz:[
      {q:"Which part of a plant is usually underground?", options:["Stem","Leaves","Roots","Flower"], answer:2},
      {q:"What do roots do?", options:["Anchor the plant and absorb water","Make food from sunlight","Attract bees","Make flowers"], answer:0},
@@ -303,6 +306,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Symbols", summary:"Ontario Grade 1 Social Studies strand B: students identify major Canadian symbols including the maple leaf, beaver, flag, and national anthem.",
    resourceLabel:"YouTube: Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=38BGXJ572Y8",
    quiz:[
      {q:"What animal is a symbol of Canada?", options:["Eagle","Beaver","Bear","Moose"], answer:1},
      {q:"What is the main symbol on the Canadian flag?", options:["A maple leaf","A bear","A sun","A star"], answer:0},
@@ -314,6 +318,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Punctuation: Period, Question Mark, Exclamation Mark", summary:"Ontario Grade 1 Writing strand: students use end punctuation correctly — period for statements, question mark for questions, and exclamation mark for strong emotion.",
    resourceLabel:"YouTube: Punctuation: Period, Question Mark, Exclamation Mark", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Period%2C%20Question%20Mark%2C%20Exclamation%20Mark%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LdCOswMeXFQ",
    quiz:[
      {q:"Which punctuation ends a statement?", options:[".","!","?","..."], answer:0},
      {q:"Which punctuation ends a question?", options:[".","?",",","!"], answer:1},
@@ -323,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 10s", summary:"Ontario Grade 1 Number strand: students skip count by 10s from 0, recognising the pattern: 0, 10, 20, 30, 40, 50.",
    resourceLabel:"YouTube: Skip Counting by 10s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%2010s%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ftati8iGQcs",
    quiz:[
      {q:"Skip count by 10s: 10, 20, 30, ___", options:["50","40","45","35"], answer:1},
      {q:"Skip count by 10s: 50, 60, 70, ___", options:["85","90","75","80"], answer:3},
@@ -332,6 +338,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seeds and How Plants Grow", summary:"Ontario Grade 1 Life Systems strand: students investigate how seeds germinate and grow into plants when given water, warmth, air, and light.",
    resourceLabel:"YouTube: Seeds and How Plants Grow", resourceUrl:"https://www.youtube.com/results?search_query=Seeds%20and%20How%20Plants%20Grow%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ro8Z9qIlWjM",
    quiz:[
      {q:"What do seeds need to germinate (sprout)?", options:["Only sunlight","Ice and darkness","Only soil","Water, warmth, and air"], answer:3},
      {q:"What is germination?", options:["When flowers bloom","When a seed starts to grow into a plant","When a plant dies","When leaves fall off"], answer:1},
@@ -341,6 +348,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples of Canada", summary:"Ontario Grade 1 Social Studies strand A: students learn that Indigenous peoples were the first peoples of Canada and have rich cultures, languages, and traditions.",
    resourceLabel:"YouTube: Indigenous Peoples of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20of%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CISeEFTsgDA",
    quiz:[
      {q:"Who were the first peoples of Canada?", options:["American visitors","Recent immigrants","European settlers","Indigenous peoples"], answer:3},
      {q:"Indigenous peoples have lived in Canada for ___.", options:["Thousands of years","About 200 years","A few years","50 years"], answer:0},

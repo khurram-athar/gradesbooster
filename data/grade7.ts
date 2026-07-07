@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Narrative Structure", summary:"Stories typically follow a structure: exposition, rising action, climax, falling action, and resolution.",
    resourceLabel:"YouTube: Narrative Structure", resourceUrl:"https://www.youtube.com/results?search_query=Narrative%20Structure%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aU-2EQ4Dg3E",
    quiz:[
      {q:"The climax of a story is...", options:["The title","The turning point/most intense moment","The beginning","The setting description"], answer:1},
      {q:"Exposition usually introduces...", options:["The resolution only","Characters, setting, and background","Nothing important","The climax only"], answer:1},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability", summary:"Probability measures how likely an event is to occur, expressed as a fraction, decimal, or percentage between 0 and 1 (or 0% and 100%).",
    resourceLabel:"YouTube: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"What is the probability of flipping heads on a fair coin?", options:["1/4","1/2","1/3","1"], answer:1},
      {q:"A die has 6 sides. What is the probability of rolling a 4?", options:["1/4","1/2","1/3","1/6"], answer:3},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Effects of Heat Transfer on the Environment", summary:"Heat transfer affects climate patterns, ocean currents, and ecosystems, and human activity can influence these processes.",
    resourceLabel:"YouTube: Effects of Heat Transfer on the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Effects%20of%20Heat%20Transfer%20on%20the%20Environment%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lvyCe0UaqJY",
    quiz:[
      {q:"Ocean currents help distribute...", options:["Sound waves","Only cold water near the poles","Heat around the planet","Nothing important"], answer:2},
      {q:"Human activities like burning fossil fuels can...", options:["Have no effect on climate","Increase greenhouse gases and trap more heat","Remove all heat from the atmosphere","Cool the planet directly"], answer:1},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Connection to the World", summary:"Canada's geography, trade, and history connect it to global patterns of migration, resources, and international relationships.",
    resourceLabel:"YouTube: Canada's Connection to the World", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Connection%20to%20the%20World%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"Canada's location with three oceans affects its...", options:["Only its flag design","Nothing","Population size only","Trade and geography"], answer:3},
      {q:"Immigration has shaped Canada by...", options:["Having no impact","Isolating its provinces","Decreasing its population","Adding to its cultural diversity"], answer:3},
@@ -294,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Citing Evidence from Text", summary:"When answering questions about a text, support your answer by citing specific evidence from what you read.",
    resourceLabel:"YouTube: Citing Evidence from Text", resourceUrl:"https://www.youtube.com/results?search_query=Citing%20Evidence%20from%20Text%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fyJr3Zv5lvQ",
    quiz:[
      {q:"Citing evidence means...", options:["Making up facts","Ignoring the text completely","Only using your own opinion","Referring to details from the text"], answer:3},
      {q:"A textual citation usually includes...", options:["No connection to the text","Only your feelings","A random guess","A direct quote or specific reference"], answer:3},
@@ -303,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Statistics: Mean, Median, Mode", summary:"Mean is the average, median is the middle value, and mode is the most frequent value in a data set.",
    resourceLabel:"YouTube: Statistics: Mean, Median, Mode", resourceUrl:"https://www.youtube.com/results?search_query=Statistics%3A%20Mean%2C%20Median%2C%20Mode%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B1HEzNTGeZ4",
    quiz:[
      {q:"What is the mean of 4, 6, 8?", options:["8","7","5","6"], answer:3},
      {q:"What is the median of 3, 7, 9, 12, 15?", options:["7","8","9","12"], answer:2},
@@ -312,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Designing and Testing Structures", summary:"Engineers use the design process — plan, build, test, evaluate, improve — to create effective structures and mechanisms.",
    resourceLabel:"YouTube: Designing and Testing Structures", resourceUrl:"https://www.youtube.com/results?search_query=Designing%20and%20Testing%20Structures%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tFTLIZ-9NAY",
    quiz:[
      {q:"The first step in the engineering design process is usually to...", options:["Define the problem and plan","Sell the product","Build immediately with no plan","Ignore testing"], answer:0},
      {q:"Testing a structure helps engineers...", options:["Skip the planning stage","Identify weaknesses and improve the design","Avoid all improvements","Make the design worse on purpose"], answer:1},

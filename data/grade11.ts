@@ -214,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Literature: The Short Story — Advanced Analysis", summary:"Students perform close analysis of short stories, examining narrative technique, point of view, structural choices, and the function of ambiguity.",
    resourceLabel:"YouTube: Literature: The Short Story — Advanced Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20The%20Short%20Story%20%E2%80%94%20Advanced%20Analysis%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YiS5kdrJhno",
    quiz:[
      {q:"Unreliable narration in a short story means ___.", options:["the story has factual errors","the narrator's account is distorted","the author is dishonest","the narrator lies deliberately"], answer:1},
      {q:"In medias res opening in a short story ___.", options:["always confuses readers","begins in the middle of the action","begins with a long backstory","uses flashback throughout"], answer:1},
@@ -223,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Logarithmic Functions: Definition, Properties, and Graphs", summary:"Students are introduced to logarithms as the inverse of exponential functions and explore their properties and applications.",
    resourceLabel:"YouTube: Logarithmic Functions: Definition, Properties, and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Logarithmic%20Functions%3A%20Definition%2C%20Properties%2C%20and%20Graphs%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-nptxS9rZNA",
    quiz:[
      {q:"log_b(x) = y means ___.", options:["b + y = x","b times y equals x","b ÷ y = x","b^y = x"], answer:3},
      {q:"log₁₀(1000) = ___.", options:["30","3 (since 10³ = 1000)","10³ (but we want the log)","100"], answer:1},
@@ -232,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Cellular Respiration: Glycolysis, Krebs Cycle, ETC", summary:"Students examine the three stages of aerobic cellular respiration — glycolysis, the Krebs (citric acid) cycle, and the electron transport chain — and fermentation.",
    resourceLabel:"YouTube: Cellular Respiration: Glycolysis, Krebs Cycle, ETC", resourceUrl:"https://www.youtube.com/results?search_query=Cellular%20Respiration%3A%20Glycolysis%2C%20Krebs%20Cycle%2C%20ETC%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eJ9Zjc-jdys",
    quiz:[
      {q:"Glycolysis occurs in ___.", options:["the cytoplasm, without oxygen","the mitochondrial matrix","the thylakoid","the nucleus"], answer:0},
      {q:"The Krebs (citric acid) cycle occurs in ___.", options:["the cytoplasm","the thylakoid membrane","the chloroplast stroma","the mitochondrial matrix"], answer:3},
@@ -241,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Acids and Bases: Brønsted-Lowry Theory and pH Calculations", summary:"Students extend acid-base understanding to Brønsted-Lowry theory, conjugate pairs, and calculating pH and pOH from concentrations.",
    resourceLabel:"YouTube: Acids and Bases: Brønsted-Lowry Theory and pH Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Acids%20and%20Bases%3A%20Br%C3%B8nsted-Lowry%20Theory%20and%20pH%20Calculations%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NNXvokAcSuE",
    quiz:[
      {q:"Brønsted-Lowry theory defines an acid as ___.", options:["a proton (H⁺) donor","only a strong acid","a substance with pH < 7 always","a substance producing OH⁻ in water (Arrhenius definition)"], answer:0},
      {q:"In the reaction HCl + H₂O → H₃O⁺ + Cl⁻, the conjugate base of HCl is ___.", options:["H₂O","HCl itself","Cl⁻","H₃O⁺"], answer:2},
@@ -252,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"English", title:"Non-Fiction: The Essay Tradition", summary:"Students examine the essay as a literary form — from Montaigne and Francis Bacon to contemporary essayists — and write their own personal/reflective essay.",
    resourceLabel:"YouTube: Non-Fiction: The Essay Tradition", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%3A%20The%20Essay%20Tradition%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UKRHXI4mz-c",
    quiz:[
      {q:"The essay as a literary form originated with ___.", options:["Greek philosophy","newspaper opinion columns","academic journals","Montaigne in 16th-century France"], answer:3},
      {q:"The personal essay is literary in that ___.", options:["it must be fictional","it only describes personal events","it uses literary techniques","it avoids argumentation"], answer:2},
@@ -261,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Trigonometric Functions: Graphs of sin, cos, tan", summary:"Students graph y = sin x, y = cos x, and y = tan x, identifying key features (period, amplitude, asymptotes) and applying transformations.",
    resourceLabel:"YouTube: Trigonometric Functions: Graphs of sin, cos, tan", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometric%20Functions%3A%20Graphs%20of%20sin%2C%20cos%2C%20tan%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bm8oYKKlCXI",
    quiz:[
      {q:"The key features of y = sin x include ___.", options:["amplitude 1, period 360°","no amplitude","amplitude 2, period 180°","amplitude 1, period 180°"], answer:0},
      {q:"y = cos x differs from y = sin x in that ___.", options:["they are completely different functions","cos x has a shorter period","cos x starts at 1; sin x starts at 0","cos x has a larger amplitude"], answer:2},
@@ -270,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Plant Biology: Anatomy, Photosynthesis, and Transpiration", summary:"Students examine plant structure (roots, stems, leaves), vascular tissue (xylem and phloem), and water transport (transpiration and the cohesion-tension theory).",
    resourceLabel:"YouTube: Plant Biology: Anatomy, Photosynthesis, and Transpiration", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Anatomy%2C%20Photosynthesis%2C%20and%20Transpiration%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CMiPYHNNg28",
    quiz:[
      {q:"Xylem tissue in plants ___.", options:["carries water in both directions","carries water up from roots to leaves","carries sugars downward","only stores water"], answer:1},
      {q:"Phloem tissue in plants ___.", options:["carries sugars away from leaves","only exists in leaves","carries only water","is dead at maturity"], answer:0},
@@ -279,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Naming and Reactions", summary:"Students learn IUPAC nomenclature for simple organic compounds (alkanes, alkenes, alcohols, carboxylic acids) and examine substitution, addition, and esterification reactions.",
    resourceLabel:"YouTube: Organic Chemistry: Naming and Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Naming%20and%20Reactions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PYZJXWBMqBE",
    quiz:[
      {q:"The IUPAC name for CH₃CH₂CH₃ is ___.", options:["methane","butane","ethane","propane — a three-carbon chain"], answer:3},
      {q:"An addition reaction with alkenes involves ___.", options:["removing atoms from a molecule","breaking a C-C single bond","replacing one atom with another","adding atoms across a C=C double bond"], answer:3},

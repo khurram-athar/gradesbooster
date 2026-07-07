@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Writing: Paragraphs", summary:"Grade 4 Writing strand: a well-organized paragraph has a topic sentence, supporting details, and a concluding sentence. All sentences relate to one main idea.",
    resourceLabel:"YouTube: Writing: Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hhyMVd-tISU",
    quiz:[
      {q:"The topic sentence in a paragraph ___.", options:["ends the paragraph","is unrelated to the other sentences","gives a detail","states the main idea of the paragraph"], answer:3},
      {q:"Supporting sentences in a paragraph ___.", options:["end the paragraph","are optional","support the topic sentence with details","introduce new topics"], answer:2},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding Fractions with Same Denominator", summary:"Grade 4 Number strand: to add fractions with the same denominator, add the numerators and keep the denominator the same.",
    resourceLabel:"YouTube: Adding Fractions with Same Denominator", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20Fractions%20with%20Same%20Denominator%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rLCheqJh_rQ",
    quiz:[
      {q:"1/5 + 2/5 = ?", options:["3/10","2/10","1/5","3/5"], answer:3},
      {q:"2/7 + 3/7 = ?", options:["1/7","6/7","5/7","5/14"], answer:2},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rock Cycle", summary:"Grade 4 Science Earth strand: rocks cycle continuously between igneous, sedimentary, and metamorphic forms through geological processes.",
    resourceLabel:"YouTube: Rock Cycle", resourceUrl:"https://www.youtube.com/results?search_query=Rock%20Cycle%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VByCLpj-I_s",
    quiz:[
      {q:"What drives the rock cycle?", options:["Heat, pressure, and surface weathering","The moon's gravity","Only volcanic eruptions","Wind and rain only"], answer:0},
      {q:"Weathering and erosion break rocks into ___.", options:["sediment","lava","magma","crystals"], answer:0},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"European Explorers", summary:"Grade 4 Social Studies: European explorers from the 1400s–1600s sailed to North America, changing the world and affecting Indigenous peoples significantly.",
    resourceLabel:"YouTube: European Explorers", resourceUrl:"https://www.youtube.com/results?search_query=European%20Explorers%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a8hDKU_bAec",
    quiz:[
      {q:"Why did Europeans explore the world in the 1400s–1600s?", options:["They were lost","They wanted to meet Indigenous peoples","They sought new trade routes and resources","They were looking for Canada specifically"], answer:2},
      {q:"Christopher Columbus (1492) sailed for ___.", options:["Portugal","England","France","Spain"], answer:3},
@@ -294,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Writing: Descriptive Writing", summary:"Grade 4 Writing strand: descriptive writing uses sensory details (sight, sound, smell, touch, taste) and vivid language to create a clear picture for the reader.",
    resourceLabel:"YouTube: Writing: Descriptive Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Descriptive%20Writing%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DQpIG_M_I-A",
    quiz:[
      {q:"Descriptive writing uses ___.", options:["only facts and numbers","sensory details and vivid language","only dialogue","only action verbs"], answer:1},
      {q:"Which is a more descriptive sentence?", options:["I saw a flower.","The crimson rose smelled sweet.","The flower was nice.","The flower was red."], answer:1},
@@ -303,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Decimals: Tenths", summary:"Grade 4 Number strand: a decimal is another way to write a fraction. Tenths represent parts of a whole divided into 10 equal parts (e.g., 0.3 = 3/10).",
    resourceLabel:"YouTube: Decimals: Tenths", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Tenths%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KrAQneGhyuE",
    quiz:[
      {q:"0.7 means ___.", options:["7 tenths","7 ones","7 hundredths","70 ones"], answer:0},
      {q:"Which decimal equals 3/10?", options:["0.03","30.0","0.3","3.0"], answer:2},
@@ -312,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Soil Formation", summary:"Grade 4 Science Earth strand: soil forms over thousands of years by weathering of rock and addition of organic matter. It has layers called horizons.",
    resourceLabel:"YouTube: Soil Formation", resourceUrl:"https://www.youtube.com/results?search_query=Soil%20Formation%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=og9A_Apr534",
    quiz:[
      {q:"Soil forms from ___.", options:["weathered rock and organic matter","only sand","water alone","only plants"], answer:0},
      {q:"The top layer of soil is ___.", options:["bedrock","parent material","topsoil (humus-rich)","subsoil"], answer:2},
@@ -321,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Government: Democracy and Monarchy", summary:"Grade 4 Social Studies: governments organize society and make laws. A democracy gives citizens a voice; a monarchy is led by a king or queen.",
    resourceLabel:"YouTube: Government: Democracy and Monarchy", resourceUrl:"https://www.youtube.com/results?search_query=Government%3A%20Democracy%20and%20Monarchy%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hLzXOA6FBX8",
    quiz:[
      {q:"In a democracy, leaders are ___.", options:["appointed by religious leaders","inherited through family","chosen by the citizens through voting","selected by the military"], answer:2},
      {q:"Canada is a ___.", options:["dictatorship","republic","absolute monarchy","a constitutional monarchy"], answer:3},

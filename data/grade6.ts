@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Complex Sentences and Subordinate Clauses", summary:"Ontario Grammar strand: a complex sentence contains an independent clause and one or more dependent (subordinate) clauses. Subordinating conjunctions like 'because,' 'although,' and 'when' connect clauses.",
    resourceLabel:"YouTube: Complex Sentences and Subordinate Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Complex%20Sentences%20and%20Subordinate%20Clauses%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=smgyeUomfyA",
    quiz:[
      {q:"Which sentence is a complex sentence?", options:["She ran and he walked.","Although raining, they played outside.","The dog barked.","I like pizza."], answer:1},
      {q:"A subordinating conjunction:", options:["Joins two independent clauses","Connects a dependent clause to an independent clause","Is the same as a coordinating conjunction","Is always placed at the end of a sentence"], answer:1},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Dividing Fractions", summary:"Ontario Number strand: to divide by a fraction, multiply by its reciprocal. The reciprocal of a/b is b/a. This concept is used in real-life situations like portioning and scaling.",
    resourceLabel:"YouTube: Dividing Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Dividing%20Fractions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4lkq3DgvmJo",
    quiz:[
      {q:"What is the reciprocal of 3/4?", options:["4/3","1/4","3/4","4/1"], answer:0},
      {q:"1/2 ÷ 1/4 = ?", options:["2","1/2","1/8","4"], answer:0},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures that Enable Flight: Wings and Propellers", summary:"Ontario Flight strand: engineers design wings and propellers using the airfoil shape and principles of lift. The design of these structures determines the performance and efficiency of aircraft.",
    resourceLabel:"YouTube: Structures that Enable Flight: Wings and Propellers", resourceUrl:"https://www.youtube.com/results?search_query=Structures%20that%20Enable%20Flight%3A%20Wings%20and%20Propellers%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Gg0TXNXgz-w",
    quiz:[
      {q:"What is the main function of a propeller on an airplane?", options:["To steer up and down","To provide thrust by pushing air back","To act as a brake","To generate lift"], answer:1},
      {q:"Why are airplane wings typically swept back?", options:["To increase the weight of the plane","To reduce drag at high speeds","To make the plane turn left","For decoration"], answer:1},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Greece: Democracy and Philosophy", summary:"Ontario Grade 6 Social Studies — Ancient Civilizations: Ancient Greece gave the world early democratic ideas, philosophy, and advances in science, art, and mathematics that still influence modern society.",
    resourceLabel:"YouTube: Ancient Greece: Democracy and Philosophy", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Greece%3A%20Democracy%20and%20Philosophy%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=A-N8wn31-BM",
    quiz:[
      {q:"The word 'democracy' comes from ancient Greek and means:", options:["Rule by priests","Rule by soldiers","Rule by one","Rule by the people"], answer:3},
      {q:"Athens is famous for developing:", options:["An early form of direct democracy","The Roman legal system","The first monarchy","Cuneiform writing"], answer:0},
@@ -294,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Vocabulary in Context: Using Clues to Find Meaning", summary:"Ontario Reading strand: when encountering unfamiliar words, skilled readers use context clues — surrounding words and sentences — to determine meaning. Prefixes, suffixes, and root words also help.",
    resourceLabel:"YouTube: Vocabulary in Context: Using Clues to Find Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20in%20Context%3A%20Using%20Clues%20to%20Find%20Meaning%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CiNggzdWkIo",
    quiz:[
      {q:"'The parched traveller drank three glasses of water.' The word 'parched' most likely means:", options:["Tall","Wet","Frightened","Extremely thirsty"], answer:3},
      {q:"The prefix 'un-' in 'unhappy' means:", options:["Not","Before","Very","Again"], answer:0},
@@ -303,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Percents: Meaning and Conversion", summary:"Ontario Number strand: a percent is a ratio comparing a quantity to 100. Percents, fractions, and decimals are all ways to represent parts of a whole and can be converted between forms.",
    resourceLabel:"YouTube: Percents: Meaning and Conversion", resourceUrl:"https://www.youtube.com/results?search_query=Percents%3A%20Meaning%20and%20Conversion%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JeVSmq1Nrpw",
    quiz:[
      {q:"What does 'percent' literally mean?", options:["Per thousand","Per hundred","Per ten","Per million"], answer:1},
      {q:"Express 3/4 as a percent.", options:["40%","34%","70%","75%"], answer:3},
@@ -312,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Static and Current Electricity", summary:"Ontario Grade 6 Science — Electricity strand: static electricity results from a buildup of electric charge. Current electricity is the flow of electrons through a conductor, powering devices in circuits.",
    resourceLabel:"YouTube: Electricity: Static and Current Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20Electricity%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PC4PteRt3A4",
    quiz:[
      {q:"Static electricity is caused by:", options:["Magnetic fields only","Running water","Moving electrons in a wire","A buildup of surface electric charge"], answer:3},
      {q:"Current electricity involves:", options:["Electrons staying still","The flow of electrons through a conductor","Only positive charges moving","Light particles moving"], answer:1},
@@ -321,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Medieval Societies: Feudalism and Daily Life", summary:"Ontario Grade 6 Social Studies — Medieval Societies: medieval European society was organized under feudalism, a system where land was exchanged for military service. Most people were peasants whose lives were shaped by the Church and the seasons.",
    resourceLabel:"YouTube: Medieval Societies: Feudalism and Daily Life", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Societies%3A%20Feudalism%20and%20Daily%20Life%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yHughcfloZM",
    quiz:[
      {q:"Feudalism was a system based on:", options:["Land exchanged for military service","Democratic elections","A free-market economy","Religious rule alone"], answer:0},
      {q:"In medieval Europe, who was at the top of the feudal hierarchy?", options:["Serfs","Knights","The King or Queen","Bishops"], answer:2},

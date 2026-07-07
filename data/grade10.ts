@@ -214,6 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"English", title:"Grammar and Style: Sophisticated Sentence Construction", summary:"Students apply advanced grammar — parallel structure, varied syntax, subordination and coordination, active vs. passive voice — to improve the quality of their analytical writing.",
    resourceLabel:"YouTube: Grammar and Style: Sophisticated Sentence Construction", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20and%20Style%3A%20Sophisticated%20Sentence%20Construction%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jul2urONzOQ",
    quiz:[
      {q:"Active voice means ___.", options:["the subject receives the action","the subject performs the action","the verb is in present tense","only simple sentences"], answer:1},
      {q:"Passive voice is appropriate when ___.", options:["the actor is unknown or unimportant","never","only in news writing","always"], answer:0},
@@ -223,6 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Analytic Geometry: Distance, Midpoint, and Slopes", summary:"Students apply the distance formula, midpoint formula, and slope relationships to classify and verify geometric shapes.",
    resourceLabel:"YouTube: Analytic Geometry: Distance, Midpoint, and Slopes", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Distance%2C%20Midpoint%2C%20and%20Slopes%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rpMu98yRk40",
    quiz:[
      {q:"The midpoint formula for points (x₁,y₁) and (x₂,y₂) is ___.", options:["((x₁+x₂)/2, (y₁+y₂)/2)","(x₂−x₁, y₂−y₁)","((x₁×x₂)/2, (y₁×y₂)/2)","(x₁−x₂, y₁−y₂)"], answer:0},
      {q:"Two lines are perpendicular if their slopes satisfy ___.", options:["m₁ × m₂ = −1","m₁ + m₂ = 0","m₁ = m₂","m₁ − m₂ = 1"], answer:0},
@@ -232,6 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Evolution and Natural Selection", summary:"Students examine Darwin's theory of evolution by natural selection, evidence for evolution, and mechanisms of evolutionary change.",
    resourceLabel:"YouTube: Biology: Evolution and Natural Selection", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Evolution%20and%20Natural%20Selection%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ccdXeaP1l_s",
    quiz:[
      {q:"Natural selection operates on ___.", options:["individual organisms's acquired traits","heritable variation","genetic mutations only","all members of a species equally"], answer:1},
      {q:"Evidence for evolution includes ___.", options:["only DNA comparisons","only fossil records","fossils, anatomy, and DNA similarities","only direct observation of new species forming"], answer:2},
@@ -241,6 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and the United States: A Complex Relationship", summary:"Students examine the economic, military, cultural, and political dimensions of the Canada-US relationship.",
    resourceLabel:"YouTube: Canada and the United States: A Complex Relationship", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20the%20United%20States%3A%20A%20Complex%20Relationship%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"Canada and the US share the world's largest ___.", options:["land border, about 8,891 km long","cultural exchange program","economic agreement","military alliance"], answer:0},
      {q:"NAFTA (1994), replaced by CUSMA (2020), is significant because ___.", options:["it had no economic impact","it was rejected by Canada initially","most Canadian exports go to the US","it only affects agriculture"], answer:2},
@@ -252,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"English", title:"Oral Communication: Seminar and Discussion", summary:"Students participate in and lead Socratic seminars on literary and media texts. They apply skills in active listening, analytical speaking, text-based evidence, and respectful dialogue.",
    resourceLabel:"YouTube: Oral Communication: Seminar and Discussion", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20and%20Discussion%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9cHOAxj7LQE",
    quiz:[
      {q:"A Socratic seminar is ___.", options:["a formal presentation with slides","a student-led text discussion","a teacher-led lecture","a competitive debate"], answer:1},
      {q:"An open-ended question in a seminar ___.", options:["can be answered yes or no","has one correct answer","requires reading only one passage","asks 'why' or 'how' questions"], answer:3},
@@ -261,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)", summary:"Students apply sine, cosine, and tangent ratios in right triangles to find unknown sides and angles. They solve problems in context.",
    resourceLabel:"YouTube: Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Primary%20Trig%20Ratios%20%28SOH-CAH-TOA%29%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PUB0TaZ7bhA",
    quiz:[
      {q:"SOH-CAH-TOA means ___.", options:["only used in advanced calculus","a type of geometric proof","a method for factoring quadratics","sin=Opp/Hyp, cos=Adj/Hyp, tan=Opp/Adj"], answer:3},
      {q:"In a right triangle with angle θ, opposite side 5, and hypotenuse 13, sin θ = ___.", options:["5/13","13/5","5/12","12/13"], answer:0},
@@ -270,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Kinematics — Motion in One Dimension", summary:"Students analyse motion using displacement, velocity, acceleration, and time. They apply kinematics equations and interpret distance-time and velocity-time graphs.",
    resourceLabel:"YouTube: Physics: Kinematics — Motion in One Dimension", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Kinematics%20%E2%80%94%20Motion%20in%20One%20Dimension%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dHjWVlfNraM",
    quiz:[
      {q:"Displacement differs from distance because ___.", options:["they are identical","displacement is a vector, not a scalar","distance is a vector quantity","displacement is always larger"], answer:1},
      {q:"Average velocity = ___.", options:["total distance / total time","speed only","final velocity only","displacement / time"], answer:3},
@@ -279,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Charter of Rights and Freedoms", summary:"Students examine the Canadian Charter of Rights and Freedoms (1982), key rights it protects, important court cases, and its limitations.",
    resourceLabel:"YouTube: The Charter of Rights and Freedoms", resourceUrl:"https://www.youtube.com/results?search_query=The%20Charter%20of%20Rights%20and%20Freedoms%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bGu9ZExFNWs",
    quiz:[
      {q:"The Charter of Rights and Freedoms is part of ___.", options:["the BNA Act of 1867","the Civil Code of Quebec only","the Constitution Act, 1982","the Criminal Code"], answer:2},
      {q:"Section 33 of the Charter, the 'notwithstanding clause,' allows ___.", options:["courts to override government decisions","overriding Charter rights temporarily","individuals to exempt themselves from laws","the courts to strike down the Constitution"], answer:1},

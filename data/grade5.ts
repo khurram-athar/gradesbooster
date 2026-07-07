@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Fact vs. Opinion", summary:"A fact can be proven true or false; an opinion is a personal belief or feeling.",
    resourceLabel:"YouTube: Fact vs. Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Fact%20vs.%20Opinion%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MCr_osJSy9w",
    quiz:[
      {q:"Which sentence blends a fact with an opinion?", options:["Toronto is a city in Ontario.","Toronto has cold winters.","Toronto is located on Lake Ontario.","Toronto, the best city, is huge."], answer:3},
      {q:"What is the best test for whether a statement is a fact?", options:["Whether most people agree with it","Whether it sounds convincing","Whether it can be proven true or false with evidence","Whether it uses strong language"], answer:2},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying and Dividing Decimals", summary:"Multiply and divide decimal numbers, paying attention to place value and the decimal point.",
    resourceLabel:"YouTube: Multiplying and Dividing Decimals", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20and%20Dividing%20Decimals%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Htt09rY9I_A",
    quiz:[
      {q:"A ribbon costs $0.75 per metre. How much would 6 metres cost?", options:["$4.50","$4.00","$3.50","$5.00"], answer:0},
      {q:"If 4.8 ÷ 0.6 = 8, what is 4.8 ÷ 1.2?", options:["2","6","4","8"], answer:2},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Body Systems Overview", summary:"Ontario Grade 5 Life Systems strand: the digestive, respiratory, circulatory, and skeletal-muscular systems work together to keep us alive and moving.",
    resourceLabel:"YouTube: Human Body Systems Overview", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20Overview%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
    quiz:[
      {q:"After you eat, which TWO systems work together most directly to get nutrients to your muscles?", options:["Skeletal and respiratory systems","Only the digestive system alone","Digestive and circulatory systems","Only the muscular system alone"], answer:2},
      {q:"If the respiratory system fails to bring in enough oxygen, which OTHER system is most directly affected?", options:["The skeletal system, since bones need oxygen to grow","The circulatory system, since blood carries oxygen through the body","No other system would be affected","The digestive system, since it doesn't rely on oxygen"], answer:1},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Resources Across Canada's Regions", summary:"Different regions of Canada have different natural resources (like forests, minerals, fish, and farmland) that shape how people live and work there.",
    resourceLabel:"YouTube: Natural Resources Across Canada's Regions", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20Across%20Canada%27s%20Regions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"A community built around a large fishing industry is most likely located in which type of region?", options:["A landlocked prairie region","A coastal region","A mountain region","A desert region"], answer:1},
      {q:"Why do the Prairie provinces have a strong agricultural economy based on grain?", options:["They have no natural resources at all","They are located in the Arctic","They are surrounded by mountains","Their flat land and fertile soil suit large-scale farming"], answer:3},
@@ -294,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Figurative Language", summary:"Figurative language includes similes (using 'like' or 'as'), metaphors, and personification, used to make writing more vivid.",
    resourceLabel:"YouTube: Figurative Language", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YlfzDvrhzuU",
    quiz:[
      {q:"'The classroom was a zoo during the fire drill' is an example of...", options:["Onomatopoeia","Metaphor","Simile","A literal statement"], answer:1},
      {q:"Which sentence uses personification?", options:["The wind howled through the empty streets.","The wind blew at 40 km/h.","The wind is a type of weather.","The wind was as strong as a hurricane."], answer:0},
@@ -303,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Area and Perimeter", summary:"Perimeter is the distance around a shape; area is the space inside a shape, measured in square units.",
    resourceLabel:"YouTube: Area and Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AAY1bsazcgM",
    quiz:[
      {q:"A rectangular garden has a perimeter of 24 m. If its width is 4 m, what is its length?", options:["6 m","10 m","16 m","8 m"], answer:3},
      {q:"Two rectangles have the same area but different shapes. What must be true?", options:["Same length×width, different perimeter","They are identical shapes","This situation is impossible","They must also have the same perimeter"], answer:0},
@@ -312,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy Sources and Transformations", summary:"Energy can come from many sources and can be transformed from one form to another, like electrical energy becoming light or heat.",
    resourceLabel:"YouTube: Energy Sources and Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20Sources%20and%20Transformations%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YSFR7ByqTps",
    quiz:[
      {q:"A student rubs their hands together quickly and feels warmth. This shows energy transforming from...", options:["Chemical energy into electrical energy","Light energy into sound energy","Nothing — no transformation occurs","Mechanical (motion) energy into heat energy"], answer:3},
      {q:"Which sequence correctly traces the energy in a wind turbine powering a lamp?", options:["Light energy -> wind energy -> electrical energy","There is no transformation sequence","Wind, mechanical, electrical, then light","Electrical energy -> wind energy -> light energy"], answer:2},
@@ -321,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Map Skills: Latitude and Longitude", summary:"Lines of latitude and longitude form a grid that helps us pinpoint exact locations on Earth.",
    resourceLabel:"YouTube: Map Skills: Latitude and Longitude", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Skills%3A%20Latitude%20and%20Longitude%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cwUuVdF8ohY",
    quiz:[
      {q:"A location is described as 45°N, 75°W. What does the 'N' tell you?", options:["It is north of the prime meridian","It is north of the equator","It is in the Northern Hemisphere by longitude","It has no meaning"], answer:1},
      {q:"Which pair of coordinates would be needed to locate a city PRECISELY on a map?", options:["Only latitude","Neither is needed","Only longitude","Both latitude and longitude together"], answer:3},

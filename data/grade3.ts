@@ -256,6 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Reading: Cause and Effect", summary:"Students identify cause and effect relationships in texts. A cause is why something happened; an effect is what happened as a result.",
    resourceLabel:"YouTube: Reading: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Cause%20and%20Effect%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OnSEFSk5VgQ",
    quiz:[
      {q:"A cause is ___.", options:["what happened","why something happened","where something happened","who did something"], answer:1},
      {q:"An effect is ___.", options:["who caused it","the result of something that happened","why something happened","when something happened"], answer:1},
@@ -265,6 +266,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Halves, Thirds, Quarters", summary:"Students identify, read, and write fractions as equal parts of a whole (1/2, 1/3, 1/4). They understand that the denominator shows total equal parts.",
    resourceLabel:"YouTube: Fractions: Halves, Thirds, Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%2C%20Thirds%2C%20Quarters%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=362JVVvgYPE",
    quiz:[
      {q:"In the fraction 3/4, the denominator is ___.", options:["3/4","3","7","4"], answer:3},
      {q:"1/2 means ___.", options:["2 parts out of 1 equal part","1 part out of 2 equal parts","1 part out of 4 equal parts","1 part out of 3 equal parts"], answer:1},
@@ -274,6 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Air and Water in the Environment", summary:"Students explore the properties of air (invisible but real, exerts pressure) and water in its three states. They learn about the water cycle.",
    resourceLabel:"YouTube: Air and Water in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Water%20in%20the%20Environment%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
    quiz:[
      {q:"Air is ___.", options:["only found in balloons","visible like smoke","only oxygen","invisible but takes up space"], answer:3},
      {q:"The water cycle includes ___.", options:["evaporation and condensation","only the ocean","only rain","only rivers and lakes"], answer:0},
@@ -283,6 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Settlers in Ontario", summary:"Students learn how early European settlers came to Ontario, the challenges they faced, and how they built communities on the land.",
    resourceLabel:"YouTube: Early Settlers in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Settlers%20in%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vlMWbP9bkXE",
    quiz:[
      {q:"Early European settlers came to Ontario mainly from ___.", options:["Asia and Africa","Australia","Britain and France","South America"], answer:2},
      {q:"What was one major challenge early settlers in Ontario faced?", options:["Too much food","Too many schools","Too many roads","Clearing forest in a harsh climate"], answer:3},
@@ -294,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Writing: Narrative — Beginning, Middle, End", summary:"Students write short narratives (personal or fictional) with a clear beginning that introduces characters and setting, a middle with the main event/problem, and an end that resolves it.",
    resourceLabel:"YouTube: Writing: Narrative — Beginning, Middle, End", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20%E2%80%94%20Beginning%2C%20Middle%2C%20End%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M7jmKm5EuRs",
    quiz:[
      {q:"The beginning of a narrative should ___.", options:["solve the problem","summarize everything","introduce characters and setting","be the longest part"], answer:2},
      {q:"The middle of a narrative contains ___.", options:["the resolution","the main events and problem","the title","the credits"], answer:1},
@@ -303,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Perimeter", summary:"Students find the perimeter of 2D shapes by adding all side lengths. They understand that perimeter is the total distance around a shape.",
    resourceLabel:"YouTube: Measurement: Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Perimeter%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MTSlKifo4js",
    quiz:[
      {q:"Perimeter is ___.", options:["the height of a shape","the area inside a shape","the distance around a shape","the weight of a shape"], answer:2},
      {q:"A square has sides of 4 cm each. Its perimeter is ___.", options:["4 cm","8 cm","16 cm","12 cm"], answer:2},
@@ -312,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks and Minerals", summary:"Students identify properties of rocks and minerals (colour, lustre, hardness, streak, shape) and understand that rocks are made of one or more minerals.",
    resourceLabel:"YouTube: Rocks and Minerals", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Minerals%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XEg_XuCMD2s",
    quiz:[
      {q:"A mineral is ___.", options:["only found underground","a natural, non-living solid substance","any rock","only found in water"], answer:1},
      {q:"A rock is ___.", options:["a single mineral only","made of minerals bonded together","a pure element","made of living material"], answer:1},
@@ -321,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Trading and Economy in Ontario", summary:"Students explore how early Indigenous and settler communities traded goods and how the fur trade shaped Ontario's early economy.",
    resourceLabel:"YouTube: Early Trading and Economy in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Trading%20and%20Economy%20in%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"The fur trade was important in early Ontario because ___.", options:["it had no lasting effects","it provided animal companions","it only helped Indigenous peoples","furs were highly valued in Europe"], answer:3},
      {q:"Early Indigenous peoples traded ___.", options:["furs, food, and knowledge of the land","electronics","manufactured goods","cars"], answer:0},
