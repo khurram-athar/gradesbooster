@@ -360,6 +360,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Retelling a Story", summary:"Ontario Grade 1 Reading strand: students retell stories in sequence using the language of beginning, middle, and end, and story elements: characters, setting, problem, solution.",
    resourceLabel:"YouTube: Retelling a Story", resourceUrl:"https://www.youtube.com/results?search_query=Retelling%20a%20Story%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JNemQATWt2E",
    quiz:[
      {q:"The beginning of a story tells us ___.", options:["A lesson only","The solution","Who the characters are and the setting","How it ends"], answer:2},
      {q:"The middle of a story contains the ___.", options:["Problem or challenge","Title","Introduction of characters only","Happy ending"], answer:0},
@@ -369,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"2D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe properties of 2D shapes: circle, square, rectangle, and triangle.",
    resourceLabel:"YouTube: 2D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ux_kLd7qAcY",
    quiz:[
      {q:"How many sides does a triangle have?", options:["4","3","2","5"], answer:1},
      {q:"How many corners does a square have?", options:["4","3","6","5"], answer:0},
@@ -378,6 +380,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pushes and Pulls", summary:"Ontario Grade 1 Science Physical Education strand: a force is a push or pull that can move, stop, or change the direction of an object.",
    resourceLabel:"YouTube: Pushes and Pulls", resourceUrl:"https://www.youtube.com/results?search_query=Pushes%20and%20Pulls%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zI-vmLrBQzU",
    quiz:[
      {q:"A push moves an object ___.", options:["Toward you","Up only","Away from you","Down only"], answer:2},
      {q:"A pull moves an object ___.", options:["To the side only","Toward you","Upward","Away from you"], answer:1},
@@ -398,6 +401,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Main Idea", summary:"Ontario Grade 1 Reading strand: the main idea is what a text is mostly about. Supporting details give more information about the main idea.",
    resourceLabel:"YouTube: Main Idea", resourceUrl:"https://www.youtube.com/results?search_query=Main%20Idea%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xJGQIYU_xhs",
    quiz:[
      {q:"The main idea of a text is ___.", options:["A small detail","A character's name","What the text is mostly about","The last sentence"], answer:2},
      {q:"Supporting details ___.", options:["Are the most important idea","Are not connected to the main idea","Are always at the beginning","Explain the main idea with examples"], answer:3},

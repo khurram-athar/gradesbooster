@@ -298,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"English", title:"Writing: The Comparative Essay", summary:"Students write a comparative literary essay analysing similarities and differences between two texts (novels, plays, poems, films) in terms of theme, technique, or character.",
    resourceLabel:"YouTube: Writing: The Comparative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hvMSeg1s7uc",
    quiz:[
      {q:"A comparative essay thesis must ___.", options:["only list the texts being compared","make a point about both texts","describe only differences","only identify similarities"], answer:1},
      {q:"Two common structures for comparative essays are ___.", options:["block only","point-by-point only","random alternation","block and point-by-point structures"], answer:3},
@@ -325,6 +326,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Multiculturalism and Immigration in Canada", summary:"Students examine the evolution of Canadian immigration policy from exclusion to multiculturalism, and the ongoing debates about Canadian identity.",
    resourceLabel:"YouTube: Multiculturalism and Immigration in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20and%20Immigration%20in%20Canada%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"Canada's pre-WWII immigration policy was ___.", options:["consistently multicultural","open and welcoming to all","neutral and based only on economics","explicitly racially discriminatory"], answer:3},
      {q:"The Immigration Act of 1967 introduced a ___.", options:["policy of accepting only refugees","racial preference system","quota system by country of origin","a points-based system on skills"], answer:3},

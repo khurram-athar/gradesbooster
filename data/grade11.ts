@@ -298,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"English", title:"Shakespeare: Othello or Hamlet", summary:"Students study one of Shakespeare's major tragedies in depth, examining tragic structure, the tragic hero, language, and key thematic concerns.",
    resourceLabel:"YouTube: Shakespeare: Othello or Hamlet", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Othello%20or%20Hamlet%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IaTaaNinolU",
    quiz:[
      {q:"The Aristotelian tragic hero has ___.", options:["no relation to their downfall","a hamartia, or tragic flaw","no personal agency","perfect virtue"], answer:1},
      {q:"Othello's hamartia is often identified as ___.", options:["political ambition","excessive intelligence","jealousy combined with credulity","cowardice"], answer:2},
@@ -307,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Trigonometric Identities", summary:"Students prove and apply basic trigonometric identities (Pythagorean, quotient, reciprocal) and use them to simplify expressions.",
    resourceLabel:"YouTube: Trigonometric Identities", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometric%20Identities%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m1OitPmkydY",
    quiz:[
      {q:"The Pythagorean identity is ___.", options:["sin x + cos x = 1","tan x = sin x + cos x","sin x = cos(90° − x)","tan²x + 1 = sec²x"], answer:3},
      {q:"The quotient identity states ___.", options:["sin x + cos x = tan x","sin x / cos x = 1","cos x / sin x = tan x","sin x / cos x = tan x"], answer:3},
@@ -325,6 +327,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Electrochemistry: Oxidation-Reduction Reactions", summary:"Students examine redox reactions, oxidation states, the activity series, galvanic cells, and electrolysis.",
    resourceLabel:"YouTube: Electrochemistry: Oxidation-Reduction Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Electrochemistry%3A%20Oxidation-Reduction%20Reactions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dF5lB7gRtcA",
    quiz:[
      {q:"In a redox reaction, oxidation means ___.", options:["losing electrons","gaining protons","forming a neutral atom","gaining electrons"], answer:0},
      {q:"In Zn + Cu²⁺ → Zn²⁺ + Cu, ___.", options:["Zn is oxidised; Cu²⁺ is reduced","Zn is reduced; Cu²⁺ is oxidised","both are oxidised","both are reduced"], answer:0},
@@ -544,6 +547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology Synthesis: Connections Across Strands", summary:"Students connect the major themes of Grade 11 Biology — cell biology, genetics, evolution, ecology, and physiology — into a unified understanding of life.",
    resourceLabel:"YouTube: Biology Synthesis: Connections Across Strands", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Synthesis%3A%20Connections%20Across%20Strands%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oefAI2x2CQM",
    quiz:[
      {q:"The connection between cell biology and genetics is ___.", options:["they are unrelated at the cellular level","cell structure determines gene expression","DNA is only relevant to genetics, not cells","DNA determines a cell's proteins"], answer:3},
      {q:"Evolution connects to ecology because ___.", options:["evolution occurs independently of environment","ecology studies only short-term changes","interactions drive natural selection","ecology has no evolutionary implications"], answer:2},

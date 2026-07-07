@@ -340,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Nouns, Verbs, Adjectives", summary:"Students identify nouns (person, place, thing, animal), verbs (action or state words), and adjectives (describing words) in sentences.",
    resourceLabel:"YouTube: Grammar: Nouns, Verbs, Adjectives", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Nouns%2C%20Verbs%2C%20Adjectives%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7zRih61HCZs",
    quiz:[
      {q:"A noun names a ___.", options:["only a building","feeling or action","person, place, thing, or animal","movement or sound"], answer:2},
      {q:"A verb is a word that describes ___.", options:["a colour or size","a person or place","an action or state of being","only running"], answer:2},
@@ -586,6 +587,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Habitats Review and Biodiversity", summary:"Students review Ontario habitats and learn that biodiversity — the variety of living things — is essential for healthy ecosystems.",
    resourceLabel:"YouTube: Habitats Review and Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Habitats%20Review%20and%20Biodiversity%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rVZktiOxsww",
    quiz:[
      {q:"Biodiversity means ___.", options:["the variety of living things","having only plants","only counting species","having only one type of animal"], answer:0},
      {q:"High biodiversity is a sign of ___.", options:["an unhealthy ecosystem","too many animals","too few plants","a healthy ecosystem"], answer:3},

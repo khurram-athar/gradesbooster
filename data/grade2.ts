@@ -360,6 +360,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Rhyming Words and Syllables", summary:"Rhyming words end with the same sound, and syllables are the beats in a word.",
    resourceLabel:"YouTube: Rhyming Words and Syllables", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20and%20Syllables%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9S7DY2lgJlU",
    quiz:[
      {q:"Which word rhymes with 'cat'?", options:["Hat","Dog","Sun","Cup"], answer:0},
      {q:"How many syllables are in the word 'elephant'?", options:["3","4","1","2"], answer:0},

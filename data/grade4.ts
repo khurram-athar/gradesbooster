@@ -349,6 +349,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Decimals: Hundredths", summary:"Grade 4 Number strand: hundredths represent parts of a whole divided into 100 equal parts. 0.23 = 23/100 = 2 tenths + 3 hundredths.",
    resourceLabel:"YouTube: Decimals: Hundredths", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Hundredths%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KrAQneGhyuE",
    quiz:[
      {q:"0.47 means ___.", options:["47 hundredths","4 tenths 7 ones","47 tenths","47 ones"], answer:0},
      {q:"Which decimal equals 15/100?", options:["0.15","1.5","15.0","0.015"], answer:0},
@@ -548,6 +549,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electric Circuits", summary:"Grade 4 Science Energy strand: a complete circuit allows electricity to flow. It needs a power source, conductors, and a load (device). Circuits can be series or parallel.",
    resourceLabel:"YouTube: Electric Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Electric%20Circuits%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wYE24otiwVQ",
    quiz:[
      {q:"For electricity to flow, a circuit must be ___.", options:["very long","broken","open","complete (closed)"], answer:3},
      {q:"Which is NOT needed in a basic circuit?", options:["A magnet","Power source (battery)","Load (light bulb)","Wire (conductor)"], answer:0},

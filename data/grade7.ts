@@ -328,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Map Skills: Scale and Distance", summary:"Map scale helps you calculate real-world distances from measurements on a map.",
    resourceLabel:"YouTube: Map Skills: Scale and Distance", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Skills%3A%20Scale%20and%20Distance%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=n0g8_YQNLxY",
    quiz:[
      {q:"Map scale helps you...", options:["Calculate real-world distance from the map","Determine the map's colour scheme","Identify the map's author","Find the title of the map only"], answer:0},
      {q:"If a map scale is 1 cm = 10 km, how many km does 3 cm represent?", options:["10 km","30 km","13 km","3 km"], answer:1},
@@ -339,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Persuasive Writing Techniques", summary:"Persuasive writers use techniques like emotional appeals, rhetorical questions, and strong word choice to convince readers.",
    resourceLabel:"YouTube: Persuasive Writing Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Writing%20Techniques%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bEM3pDMJsAc",
    quiz:[
      {q:"A rhetorical question is asked to...", options:["End an essay","Make the reader think","Confuse the reader","Get a literal answer"], answer:1},
      {q:"An emotional appeal tries to...", options:["Persuade by appealing to feelings","Only use statistics","Avoid persuading at all","Use logic only"], answer:0},
@@ -357,6 +359,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Matter and Mechanisms", summary:"Recap of pure substances/mixtures, structures/mechanisms, and the engineering design process.",
    resourceLabel:"YouTube: Review: Matter and Mechanisms", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Matter%20and%20Mechanisms%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ELchwUIlWa8",
    quiz:[
      {q:"A pure substance contains...", options:["Nothing","One type of particle","Only liquids","Multiple unrelated particles"], answer:1},
      {q:"A lever multiplies force around a...", options:["River","Fulcrum","Magnet","Cloud"], answer:1},

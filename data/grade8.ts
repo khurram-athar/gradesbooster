@@ -298,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Oral Communication: Formal Presentation Skills", summary:"Students plan and deliver a formal presentation. They apply skills in organisation, eye contact, voice projection, pacing, and responding to questions.",
    resourceLabel:"YouTube: Oral Communication: Formal Presentation Skills", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Formal%20Presentation%20Skills%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9cHOAxj7LQE",
    quiz:[
      {q:"Effective formal presentations include ___.", options:["memorising every word rigidly","only visual aids","clear structure and confident delivery","reading word-for-word from notes"], answer:2},
      {q:"Why should you avoid reading directly from slides or notes?", options:["You should always read from notes","Only for long presentations","Reading prevents natural delivery","It is fine for all audiences"], answer:2},
@@ -307,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Integers and Rational Numbers", summary:"Students extend operations to all integers and rational numbers. They add, subtract, multiply, and divide positive and negative fractions and decimals.",
    resourceLabel:"YouTube: Integers and Rational Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Integers%20and%20Rational%20Numbers%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=O6bRgxVRoZ4",
    quiz:[
      {q:"(−3) × (−5) = ___.", options:["−8","−15","8","15"], answer:3},
      {q:"(−12) ÷ 4 = ___.", options:["48","−8","3","−3"], answer:3},
@@ -316,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Optics: Light, Colour, and Vision", summary:"Students extend their understanding of light, exploring how the eye perceives colour, how additive and subtractive colour mixing works, and modern applications of optics.",
    resourceLabel:"YouTube: Optics: Light, Colour, and Vision", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Light%2C%20Colour%2C%20and%20Vision%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TY1giZgddAs",
    quiz:[
      {q:"Additive colour mixing (light) combines ___.", options:["coloured lights","pigments","inks","only primary colours of paint"], answer:0},
      {q:"Subtractive colour mixing (pigments) works because ___.", options:["pigments emit light","light is added","mixed pigments absorb more, look darker","colours multiply"], answer:2},

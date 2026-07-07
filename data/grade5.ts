@@ -519,6 +519,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration Patterns to Canada", summary:"People have immigrated to Canada from around the world for different reasons, shaping Canada's population and culture over time.",
    resourceLabel:"YouTube: Immigration Patterns to Canada", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20Patterns%20to%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cX02bJ1pyw4",
    quiz:[
      {q:"What is immigration?", options:["Staying in one place forever","Studying geography","Visiting a country briefly","Moving to a new country to live"], answer:3},
      {q:"What is one common reason people immigrate to Canada?", options:["Random chance only","There is never a reason","To avoid all change","To find new opportunities or safety"], answer:3},

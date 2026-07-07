@@ -316,6 +316,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Integration: The Antiderivative and Indefinite Integrals", summary:"Students are introduced to integration as the reverse of differentiation, applying the power rule for integration and the constant of integration.",
    resourceLabel:"Khan Academy: Antiderivatives and Indefinite Integrals", resourceUrl:"https://www.youtube.com/watch?v=mB7DGEMb0og",
+   videoUrl:"https://www.youtube.com/watch?v=xaCPDMEkbig",
    quiz:[
      {q:"The antiderivative (indefinite integral) of f(x) is ___.", options:["f(x)²/2","f'(x)","F(x) such that F'(x) = f(x)","f(x) − C"], answer:2},
      {q:"The power rule for integration: ∫xⁿ dx = ___.", options:["nxⁿ⁻¹","xⁿ/n + C","xⁿ⁺¹ + C","xⁿ⁺¹/(n+1) + C for n ≠ −1"], answer:3},

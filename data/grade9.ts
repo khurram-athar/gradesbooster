@@ -298,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Research and Citing Sources", summary:"Conduct basic research and properly cite sources to avoid plagiarism (ENL1W Strand B/C).",
    resourceLabel:"YouTube: Research and Citing Sources", resourceUrl:"https://www.youtube.com/results?search_query=Research%20and%20Citing%20Sources%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=U3ntLOPqCpg",
    quiz:[
      {q:"Plagiarism is...", options:["A type of formatting","A grammar rule","Using another's work without credit","Always citing sources correctly"], answer:2},
      {q:"A citation gives credit to...", options:["The publisher only","No one in particular","The reader","The original source of the ideas"], answer:3},
@@ -307,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying Polynomials and Factoring Basics", summary:"Multiply simple polynomials and factor out common terms (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Multiplying Polynomials and Factoring Basics", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Polynomials%20and%20Factoring%20Basics%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ffLLmV4mZwU",
    quiz:[
      {q:"Expand: 2x(x + 3)", options:["2x+6x","2x²+6x","x²+6x","2x²+3x"], answer:1},
      {q:"Factor out the common term: 4x + 8", options:["4x(1+2)","2(2x+4)","8(x+1)","4(x+2)"], answer:3},
@@ -412,6 +414,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Theme and Conflict in a Short Story", summary:"Analyze how a short story's central conflict drives its theme — the underlying message about human experience (ENL1W Strand A).",
    resourceLabel:"YouTube: Theme and Conflict in a Short Story", resourceUrl:"https://www.youtube.com/results?search_query=Theme%20and%20Conflict%20in%20a%20Short%20Story%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ir7I_dbJCqo",
    quiz:[
      {q:"The theme of a story is best described as...", options:["The page count","The opening sentence only","The list of characters","The underlying message or insight"], answer:3},
      {q:"An internal conflict in a story involves...", options:["A setting change","A natural disaster","Two characters fighting physically","A character's inner struggle"], answer:3},
@@ -544,6 +547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ionic vs Covalent Bonding (Intro)", summary:"Distinguish between ionic bonds (electron transfer between metals and non-metals) and covalent bonds (electron sharing between non-metals) (SNC1W Chemistry strand).",
    resourceLabel:"YouTube: Ionic vs Covalent Bonding (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Ionic%20vs%20Covalent%20Bonding%20%28Intro%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OTgpN62ou24",
    quiz:[
      {q:"An ionic bond forms when...", options:["Two atoms share electrons equally","One atom gives electrons to another","Neutrons are exchanged between atoms","Atoms lose all their protons"], answer:1},
      {q:"Covalent bonds typically form between...", options:["A proton and a neutron","Two non-metal atoms sharing electrons","A metal and a non-metal","Two metals"], answer:1},
