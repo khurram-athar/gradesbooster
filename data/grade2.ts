@@ -370,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"2D Shapes and 3D Shapes", summary:"Ontario Spatial Sense strand: identify and describe 2D shapes (flat) and 3D shapes (solid).",
    resourceLabel:"YouTube: 2D Shapes and 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%20and%203D%20Shapes%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ux_kLd7qAcY",
    quiz:[
      {q:"How many sides does a triangle have?", options:["2","4","3","5"], answer:2},
      {q:"Which of these is a 3D shape?", options:["Circle","Square","Cube","Triangle"], answer:2},
@@ -379,6 +380,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather and Seasons", summary:"Weather changes day to day, and the four seasons (spring, summer, fall, winter) bring different patterns of weather.",
    resourceLabel:"YouTube: Weather and Seasons", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Seasons%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4HeeCYVqf3U",
    quiz:[
      {q:"How many seasons are there in a year?", options:["5","4","2","3"], answer:1},
      {q:"Which season usually comes after winter?", options:["Summer","Winter again","Spring","Fall"], answer:2},
@@ -388,6 +390,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Communities", summary:"Communities can be urban (city), suburban, or rural (countryside), each with different features and ways of life.",
    resourceLabel:"YouTube: Comparing Communities", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
      {q:"A city is an example of a...", options:["Urban community","A planet","Rural community","Neither"], answer:0},
      {q:"A rural community is usually...", options:["Very crowded with tall buildings","On the moon","In the countryside with farms","Underwater"], answer:2},
@@ -399,6 +402,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of vowels, nouns, verbs, adjectives, main idea, sequencing, and rhyming.",
    resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=E6588DlZW-c",
    quiz:[
      {q:"Which word is an adjective?", options:["Jump","Big","Run","Quickly"], answer:1},
      {q:"What is the main idea of a story?", options:["The title only","A small detail","What it's mostly about","The last word"], answer:2},
@@ -408,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of addition, subtraction, place value, skip counting, comparing numbers, time, and shapes.",
    resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=joHaCejRnmo",
    quiz:[
      {q:"9 + 8 = ?", options:["18","16","15","17"], answer:3},
      {q:"14 - 6 = ?", options:["6","7","9","8"], answer:3},
@@ -417,6 +422,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of living things, life cycles, matter, forces, weather, and air/water.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4VapPTbbGkA",
    quiz:[
      {q:"Which is a living thing?", options:["Tree","Rock","Chair","Cloud"], answer:0},
      {q:"A push or pull is an example of a...", options:["Liquid","Season","Force","Tradition"], answer:2},
@@ -426,6 +432,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of community, traditions, maps, rules, jobs, and types of communities.",
    resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wqZRGHva1iE",
    quiz:[
      {q:"A community is a group of people who...", options:["Live and help each other","Only work","Never meet","Live alone"], answer:0},
      {q:"What does a map legend explain?", options:["Nothing","A story","Symbols on the map","The weather"], answer:2},

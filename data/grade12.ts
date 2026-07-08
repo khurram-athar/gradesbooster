@@ -298,6 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"English", title:"Writing: The University Application Process and Personal Writing", summary:"Students write personal statements and supplementary essays for university applications, applying their Grade 12 writing skills to genuine high-stakes contexts.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=Xz94wRwFOCI",
    quiz:[
      {q:"A university personal statement is most effective when ___.", options:["it lists every achievement in your life","it sounds like every other applicant","it reveals how you think","it focuses only on grades"], answer:2},
      {q:"Showing rather than telling in a personal statement means ___.", options:["only using achievements","describing what sparked your passion","never making claims about yourself","avoiding personal stories"], answer:1},
@@ -307,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Discrete Functions: Advanced Sequences, Series, and Financial Math", summary:"Students apply geometric series formulas to financial mathematics — annuities, mortgages, and investment growth — with university-preparatory rigour.",
    resourceLabel:"Khan Academy: Geometric Series Formula", resourceUrl:"https://www.youtube.com/watch?v=RMa1QSEfzVA",
+   videoUrl:"https://www.youtube.com/watch?v=Tj89FA-d0f8",
    quiz:[
      {q:"The future value of an annuity (regular payment R, interest rate i per period, n periods) is ___.", options:["FV = R × i × n","FV = R(1+i)ⁿ","FV = R[(1+i)ⁿ − 1]/i","FV = R × n"], answer:2},
      {q:"If you invest $200/month at 6%/year (0.5%/month) for 30 years, the future value is ___.", options:["$200 × (1.005)^360","200[(1.005)^360 − 1]/0.005 ≈ $200,903","200 × 360 = $72,000","200 × 0.005 × 360"], answer:1},
@@ -326,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Magnetic Fields and Forces", summary:"Students examine magnetic fields produced by current-carrying conductors, and the force on a current or moving charge in a magnetic field.",
    resourceLabel:"Crash Course Physics: Magnetic Fields", resourceUrl:"https://www.youtube.com/watch?v=s94suB5uLWw",
+   videoUrl:"https://www.youtube.com/watch?v=csMqfwJRjCs",
    quiz:[
      {q:"The force on a charge q moving with velocity v in a magnetic field B is ___.", options:["F = qv × B (vector cross product)","F = mv/qB","F = qvB (this is the magnitude when v ⊥ B)","F = qB/v"], answer:0},
      {q:"A charged particle moving perpendicular to a uniform magnetic field follows ___.", options:["a spiral path along B","a circular path","a parabolic path","a straight line"], answer:1},
@@ -337,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Independent Reading: Postmodern Literature", summary:"Students read a postmodern novel or short fiction collection, examining metafiction, fragmentation, unreliable narration, and postmodern challenges to stable meaning.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=7ECv-j2McbQ",
    quiz:[
      {q:"Postmodern literature challenges ___.", options:["all previous narrative techniques without exception","the concepts of stable, knowable truth and coherent identity","only the use of irony","the idea that literature can accurately represent reality"], answer:1},
      {q:"Metafiction is ___.", options:["only experimental prose poetry","fiction about real events presented as fiction","only found in postmodern novels","fiction aware of its own artifice"], answer:3},
@@ -346,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Introduction to Vectors", summary:"Students are introduced to vectors — geometric and component representations, operations, dot product, and applications to displacement and work.",
    resourceLabel:"Khan Academy: Vectors Introduction", resourceUrl:"https://www.youtube.com/watch?v=fNk_zzaMoSs",
+   videoUrl:"https://www.youtube.com/watch?v=yETvIcz1CkE",
    quiz:[
      {q:"A vector differs from a scalar in that ___.", options:["vectors have no application in physics","scalars can be negative","vectors have direction; scalars don't","vectors are always larger"], answer:2},
      {q:"Two vectors a = (a₁, a₂) and b = (b₁, b₂) are added by ___.", options:["a+b = (a₁+b₁, a₂+b₂)","multiplying components","subtracting components","taking the average of each component"], answer:0},
@@ -355,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Definite Integrals and the Fundamental Theorem of Calculus", summary:"Students compute definite integrals, apply the Fundamental Theorem of Calculus, and interpret definite integrals as areas.",
    resourceLabel:"Khan Academy: Fundamental Theorem of Calculus", resourceUrl:"https://www.youtube.com/watch?v=9vgCMNHPScU",
+   videoUrl:"https://www.youtube.com/watch?v=aeB5BWY0RlE",
    quiz:[
      {q:"The Fundamental Theorem of Calculus Part 1 states ___.", options:["∫f(x)dx from a to a equals 1","integration and differentiation are unrelated","∫f(x)dx can only be approximated","if F'(x) = f(x), then ∫[a to b]f(x)dx = F(b) − F(a)"], answer:3},
      {q:"The definite integral ∫[a to b]f(x)dx represents ___.", options:["the derivative of f at the midpoint","the net signed area under the curve","the average value of f","f(b) − f(a)"], answer:1},
@@ -364,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Electromagnetic Induction", summary:"Students examine Faraday's Law of electromagnetic induction, Lenz's Law, and applications including transformers and generators.",
    resourceLabel:"Crash Course Physics: Electromagnetic Induction", resourceUrl:"https://www.youtube.com/watch?v=pQp6bmJPU_0",
+   videoUrl:"https://www.youtube.com/watch?v=LDOa7UdfcMQ",
    quiz:[
      {q:"Faraday's Law states that an EMF is induced in a conductor when ___.", options:["current flows through it","the magnetic flux through it changes","it is placed in a constant magnetic field","it is heated"], answer:1},
      {q:"Lenz's Law states that the induced current flows in a direction that ___.", options:["is always clockwise","has no relation to the cause","opposes the change in magnetic flux","amplifies the change causing it"], answer:2},

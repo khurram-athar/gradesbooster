@@ -340,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Writing: Persuasive Writing", summary:"Grade 4 Writing strand: persuasive writing argues for a position using reasons, evidence, and a call to action. It has a clear opinion statement.",
    resourceLabel:"YouTube: Writing: Persuasive Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Persuasive%20Writing%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hD9arWXIddM",
    quiz:[
      {q:"The purpose of persuasive writing is to ___.", options:["tell a story","describe something","convince the reader to act","explain how to do something"], answer:2},
      {q:"A persuasive text should include ___.", options:["a clear opinion, reasons, and evidence","a fictional story","only opinions with no evidence","only facts with no opinion"], answer:0},
@@ -359,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Light: Reflection", summary:"Grade 4 Science Energy strand: light travels in straight lines and reflects off surfaces. The angle of incidence equals the angle of reflection.",
    resourceLabel:"YouTube: Properties of Light: Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Reflection%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DzpHXtnXFCI",
    quiz:[
      {q:"Light travels in ___.", options:["circles","zigzags","straight lines","curves"], answer:2},
      {q:"Reflection occurs when light ___.", options:["bounces off a surface","bends as it passes through","disappears into an object","is absorbed by a surface"], answer:0},
@@ -368,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade and Commerce in History", summary:"Grade 4 Social Studies: trade is the exchange of goods and services. Ancient and early modern civilizations developed trade routes that spread culture and ideas.",
    resourceLabel:"YouTube: Trade and Commerce in History", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Commerce%20in%20History%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HfN8BnRJryQ",
    quiz:[
      {q:"Trade is the exchange of ___.", options:["animals only","soldiers","goods and services","land only"], answer:2},
      {q:"The Silk Road connected ___.", options:["Europe, the Middle East, and Asia","North and South America","Canada and the USA","Africa and Australia"], answer:0},
@@ -379,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Spelling: ie/ei Words", summary:"Grade 4 Language strand: the 'i before e except after c' rule helps spell many words, but has exceptions. Students apply this pattern in context.",
    resourceLabel:"YouTube: Spelling: ie/ei Words", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%3A%20ie%2Fei%20Words%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SoCfScr9VM8",
    quiz:[
      {q:"Which spelling is correct?", options:["recieve","receive","receeve","receve"], answer:1},
      {q:"'I before E except after C' means in the word BELIEVE you write ___.", options:["i only","ei","ie","e only"], answer:2},
@@ -388,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Money: Making Change", summary:"Grade 4 Number strand: students calculate change by subtracting the price from the amount paid, using coins and bills up to $20.",
    resourceLabel:"YouTube: Money: Making Change", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DbYbIB4m3RM",
    quiz:[
      {q:"An item costs $3.75. You pay $5.00. Your change is ___.", options:["$1.25","$1.75","$2.25","$1.00"], answer:0},
      {q:"An item costs $12.49. You pay $15.00. Your change is ___.", options:["$2.61","$2.41","$2.51","$3.51"], answer:2},
@@ -397,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Light: Refraction", summary:"Grade 4 Science Energy strand: refraction is the bending of light as it passes from one medium to another (e.g., from air to water).",
    resourceLabel:"YouTube: Properties of Light: Refraction", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Refraction%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DzpHXtnXFCI",
    quiz:[
      {q:"Refraction is the ___ of light.", options:["speeding up","slowing down","bending","absorption"], answer:2},
      {q:"Refraction occurs when light passes from one ___ to another.", options:["source","medium (material)","direction","colour"], answer:1},
@@ -406,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Human Rights", summary:"Grade 4 Social Studies: human rights are basic rights all people deserve. The Universal Declaration of Human Rights (UDHR, 1948) protects these rights globally.",
    resourceLabel:"YouTube: Human Rights", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Rights%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FWwEMFSY1r0",
    quiz:[
      {q:"Human rights are rights that ___.", options:["all people have equally","only adults have","only citizens have","only wealthy people have"], answer:0},
      {q:"The Universal Declaration of Human Rights was adopted in ___.", options:["1867","2000","1948","1776"], answer:2},

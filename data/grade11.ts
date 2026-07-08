@@ -318,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Animal Physiology: Digestion and Circulation", summary:"Students examine the human digestive system and cardiovascular system, connecting structural features to functions.",
    resourceLabel:"YouTube: Animal Physiology: Digestion and Circulation", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Digestion%20and%20Circulation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1UvuBYUbFk0",
    quiz:[
      {q:"Mechanical digestion (physical breakdown) begins in ___.", options:["the stomach","the small intestine","the mouth, where teeth break down food","the oesophagus"], answer:2},
      {q:"Enzymes in the small intestine (from the pancreas and intestinal wall) ___.", options:["only digest fats","only digest proteins","digest carbs, proteins, and fats","digest nothing (only absorption occurs)"], answer:2},
@@ -339,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Writing: The Literary Research Essay", summary:"Students write a research essay that situates a literary text within its historical, cultural, or biographical context, integrating secondary sources responsibly.",
    resourceLabel:"YouTube: Writing: The Literary Research Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Research%20Essay%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=L1JhCPM_Iy8",
    quiz:[
      {q:"Secondary sources in a literary research essay ___.", options:["add scholarly context to your analysis","should be copied to show research","only include internet sources","replace close reading of the primary text"], answer:0},
      {q:"In-text citation (MLA or APA) is required ___.", options:["only for statistics","only in formal academic papers","for any source material used","only for direct quotations"], answer:2},
@@ -348,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Applications of Exponential and Logarithmic Functions", summary:"Students solve exponential equations using logarithms and apply these functions to compound interest, population growth, and half-life problems.",
    resourceLabel:"YouTube: Applications of Exponential and Logarithmic Functions", resourceUrl:"https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20and%20Logarithmic%20Functions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FIOcFEz8-CA",
    quiz:[
      {q:"To solve 3ˣ = 50, you ___.", options:["try x = 3 and x = 4 only","x = log(50)/log(3) ≈ 3.56","cannot solve without a calculator being present","use x = 50/3"], answer:1},
      {q:"A population of 1000 grows at 5% per year. After t years, population P = ___.", options:["P = 1000 × 0.05t","P = 1000(1.05)^t","P = 1000 + 50t","P = 1000(0.05)^t"], answer:1},
@@ -357,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Ecology: Population Dynamics and Community Ecology", summary:"Students examine population growth models (exponential and logistic), interspecific interactions, and energy flow in ecosystems.",
    resourceLabel:"YouTube: Ecology: Population Dynamics and Community Ecology", resourceUrl:"https://www.youtube.com/results?search_query=Ecology%3A%20Population%20Dynamics%20and%20Community%20Ecology%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=n_R8j2zcyZQ",
    quiz:[
      {q:"Logistic growth differs from exponential growth in that ___.", options:["logistic growth cannot model population change","logistic growth incorporates a carrying capacity (K)","logistic growth has no carrying capacity","logistic growth is always slower"], answer:1},
      {q:"The logistic growth equation dN/dt = rN(K−N)/K shows that ___.", options:["growth slows to zero as N approaches K","K represents initial population","population always grows to infinity","growth rate is always constant"], answer:0},
@@ -366,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemical Equilibrium: Le Chatelier's Principle", summary:"Students examine reversible reactions, dynamic equilibrium, equilibrium constant expressions (Keq), and Le Chatelier's principle for predicting shifts.",
    resourceLabel:"YouTube: Chemical Equilibrium: Le Chatelier's Principle", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Equilibrium%3A%20Le%20Chatelier%27s%20Principle%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bNcTt3l3Q8k",
    quiz:[
      {q:"Dynamic equilibrium means ___.", options:["the reaction has stopped completely","the forward and reverse reactions occur at equal rates","only the forward reaction is occurring","there is no reaction"], answer:1},
      {q:"The equilibrium constant expression Keq for aA + bB ⇌ cC + dD is ___.", options:["Keq = [C]^c[D]^d / [A]^a[B]^b","Keq = (a+b)/(c+d)","Keq = [C][D]/[A][B] regardless of coefficients","Keq = [A][B]/[C][D]"], answer:0},
@@ -377,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Drama: Studying a Contemporary Play", summary:"Students read and analyse a 20th or 21st century Canadian or international play, examining dramatic technique, theatrical conventions, and thematic concerns.",
    resourceLabel:"YouTube: Drama: Studying a Contemporary Play", resourceUrl:"https://www.youtube.com/results?search_query=Drama%3A%20Studying%20a%20Contemporary%20Play%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y2f726TyGNM",
    quiz:[
      {q:"Dramatic irony in theatre differs from dramatic irony in prose in that ___.", options:["irony doesn't exist in drama","they are identical","dramatic irony only exists in comedy","in performance, actors' physical choices"], answer:3},
      {q:"Stage directions in a script ___.", options:["must always be followed by directors","only specify where actors stand","reveal staging and character intent","are not part of the literary text"], answer:2},
@@ -386,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Discrete Functions: Sequences and Series", summary:"Students investigate arithmetic and geometric sequences and series, using formulas for nth term and sum, with applications to finance and patterns.",
    resourceLabel:"YouTube: Discrete Functions: Sequences and Series", resourceUrl:"https://www.youtube.com/results?search_query=Discrete%20Functions%3A%20Sequences%20and%20Series%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4IxkBq13yHs",
    quiz:[
      {q:"In an arithmetic sequence, each term is ___.", options:["squared each time","previous term plus a common difference","multiplied by a common ratio","the same as the previous"], answer:1},
      {q:"The nth term of an arithmetic sequence is ___.", options:["tₙ = t₁ × rⁿ⁻¹","tₙ = t₁ + (n−1)d","tₙ = t₁ + n","tₙ = t₁ × n"], answer:1},

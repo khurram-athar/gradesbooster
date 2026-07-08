@@ -340,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Paragraph Structure", summary:"A strong paragraph has a topic sentence, supporting details, and a concluding sentence.",
    resourceLabel:"YouTube: Paragraph Structure", resourceUrl:"https://www.youtube.com/results?search_query=Paragraph%20Structure%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kw9GOUqSc5M",
    quiz:[
      {q:"Which sentence would work BEST as a topic sentence for a paragraph about the benefits of exercise?", options:["My friend plays soccer on weekends.","Exercise benefits both body and mind.","Running shoes come in many colours.","I went for a run yesterday."], answer:1},
      {q:"A paragraph's supporting details should...", options:["Have no connection to the main idea","Repeat the topic sentence word for word","Introduce a completely new topic","Directly relate to and support the topic sentence"], answer:3},
@@ -349,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Volume", summary:"Volume measures how much space a 3D object takes up, measured in cubic units.",
    resourceLabel:"YouTube: Introduction to Volume", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Volume%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NohkEnzkaN0",
    quiz:[
      {q:"A fish tank measures 30 cm × 20 cm × 25 cm. What is its volume?", options:["7500 cm³","1500 cm³","15000 cm³","5000 cm³"], answer:2},
      {q:"Box A is 2×3×4 and Box B is 6×2×2. Are these volumes equal?", options:["Yes, both equal 24 cubic units","Cannot be determined","No, Box B is larger","No, Box A is larger"], answer:0},
@@ -358,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Human Body and Energy", summary:"Recap of body systems and how they work together, plus energy transformations.",
    resourceLabel:"YouTube: Review: Human Body and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Human%20Body%20and%20Energy%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
    quiz:[
      {q:"Which correctly pairs a body system with a related everyday activity?", options:["Respiratory system — breathing deeply before a race","Digestive system — filtering air","Circulatory system — chewing food","Skeletal system — pumping blood"], answer:0},
      {q:"A toaster converts electrical energy mostly into which form, and is this ever 100% efficient?", options:["Sound energy; yes, always 100% efficient","Mechanical energy; no energy is ever lost","Light energy; yes, always 100% efficient","Heat energy; no, some energy is always lost as unusable forms"], answer:3},
@@ -367,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Government Branches", summary:"Canada's government has three branches: legislative (makes laws), executive (carries out laws), and judicial (interprets laws).",
    resourceLabel:"YouTube: Canada's Government Branches", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Government%20Branches%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"A new law is proposed, debated, and voted on in Parliament. Which branch is primarily responsible?", options:["None of these","Judicial","Legislative","Executive"], answer:2},
      {q:"A court rules that a law violates the Canadian Charter of Rights and Freedoms. Which branch made this decision?", options:["Municipal","Judicial","Legislative","Executive"], answer:1},
@@ -378,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of parts of speech, fact/opinion, figurative language, and paragraph structure.",
    resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gybAlzzE_lU",
    quiz:[
      {q:"'The stars winked at us from the velvet sky' uses which figurative technique?", options:["A fact about astronomy","Personification of the stars","A simile using 'like' or 'as'","Onomatopoeia"], answer:1},
      {q:"Which sentence blends a fact with an opinion?", options:["Maple trees grow in Canada.","Maple syrup is a liquid.","The tastiest topping comes from trees.","Maple syrup comes from maple trees."], answer:2},
@@ -387,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of fractions, decimals, area/perimeter, and volume.",
    resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g6RVCWwysfM",
    quiz:[
      {q:"A rectangle has an area of 30 cm² and a width of 5 cm. What is its length?", options:["5 cm","6 cm","35 cm","25 cm"], answer:1},
      {q:"What is 0.25 written as a fraction in simplest form?", options:["1/4","2/5","1/5","1/2"], answer:0},
@@ -396,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of structures, matter, energy, and the human body.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JeFHosvD03I",
    quiz:[
      {q:"Which scenario involves compression?", options:["Stretching a rubber band","Sitting down on a cushion","A kite string pulled taut","A rope holding up a swing"], answer:1},
      {q:"Melting ice into water is what type of change, and is it reversible?", options:["Physical change; no, it can never be reversed","Physical change; yes, it can be reversed by freezing again","Chemical change; no, it cannot be reversed","Chemical change; yes, always reversible"], answer:1},
@@ -405,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of early Canada, Indigenous peoples, government, and physical regions.",
    resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DNPkc0nhcg8",
    quiz:[
      {q:"Which three groups make up Indigenous peoples in Canada, and how do they differ?", options:["Settlers, Explorers, and Pioneers — recent immigrant groups","Only Inuit — the only Indigenous group in Canada","First Nations, Métis, and Inuit — each with distinct histories, languages, and cultures","Only First Nations — a single unified group"], answer:2},
      {q:"Which branch of government would be responsible if a new law were being debated and voted on?", options:["Legislative","Judicial","None","Executive"], answer:0},

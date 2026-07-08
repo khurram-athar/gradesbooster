@@ -390,6 +390,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Families Around the World", summary:"Ontario Grade 1 Social Studies strand A: students learn that families around the world share common needs but meet them in different ways through their cultures.",
    resourceLabel:"YouTube: Families Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Families%20Around%20the%20World%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ItVdo8DMLOA",
    quiz:[
      {q:"Families around the world all need ___.", options:["Food, shelter, and love","The same food","The same clothing","Electricity"], answer:0},
      {q:"Different families may speak ___.", options:["Only English","Only French","The same language always","Many different languages"], answer:3},
@@ -411,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"3D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe 3D figures: sphere, cube, cylinder, and cone, relating them to everyday objects.",
    resourceLabel:"YouTube: 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=REjfX9cDavw",
    quiz:[
      {q:"Which 3D shape looks like a ball?", options:["Cylinder","Cube","Cone","Sphere"], answer:3},
      {q:"Which 3D shape looks like a box?", options:["Cube","Cone","Sphere","Cylinder"], answer:0},
@@ -420,6 +422,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound and Hearing", summary:"Ontario Grade 1 Science strand: sounds are made by vibrations. The ear detects sound waves, and sounds can be loud or soft, high-pitched or low-pitched.",
    resourceLabel:"YouTube: Sound and Hearing", resourceUrl:"https://www.youtube.com/results?search_query=Sound%20and%20Hearing%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pcWiWjxhKE8",
    quiz:[
      {q:"Sounds are made by ___.", options:["Light","Vibrations","Heat","Gravity"], answer:1},
      {q:"Which body part do we use to hear?", options:["Hands","Nose","Ears","Eyes"], answer:2},
@@ -429,6 +432,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Being a Good Citizen", summary:"Ontario Grade 1 Social Studies strand A: students describe what it means to be a responsible and caring member of their school and community.",
    resourceLabel:"YouTube: Being a Good Citizen", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Good%20Citizen%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jqweYnRRs1Q",
    quiz:[
      {q:"A good citizen ___.", options:["Helps others and follows rules","Litters","Is always noisy","Takes others' things"], answer:0},
      {q:"What does it mean to be responsible?", options:["Being unkind","Taking care of your duties","Ignoring others","Doing whatever you want"], answer:1},

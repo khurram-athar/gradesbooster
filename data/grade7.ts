@@ -350,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Simple Interest and Budgeting", summary:"Ontario Grade 7 Financial Literacy strand: understand simple interest, saving, and basic budgeting.",
    resourceLabel:"YouTube: Financial Literacy: Simple Interest and Budgeting", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20Interest%20and%20Budgeting%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lxZszd8rDZY",
    quiz:[
      {q:"Simple interest is calculated using which factors?", options:["Only time","Principal, rate, and time","Only the bank's name","Only the currency"], answer:1},
      {q:"If you save $100 at 5% simple interest for 1 year, how much interest do you earn?", options:["$500","$50","$0.50","$5"], answer:3},
@@ -369,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Canadian History and Geography", summary:"Recap of Confederation, conflict 1800-1850, global connections, and map skills.",
    resourceLabel:"YouTube: Review: Canadian History and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canadian%20History%20and%20Geography%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"Confederation happened in which year?", options:["1900","1812","1867","1763"], answer:2},
      {q:"The War of 1812 was fought against...", options:["Spain","Germany","France","The United States"], answer:3},
@@ -380,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of clauses, vocabulary, theme/tone, narrative structure, and persuasive writing.",
    resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=H7sKuGHiZ9s",
    quiz:[
      {q:"The climax of a story is...", options:["The turning point","The opening line","A footnote","The title"], answer:0},
      {q:"A rhetorical question is used to...", options:["Make the reader think","Confuse on purpose","Get a direct answer","End a story"], answer:0},
@@ -389,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of ratios, percentages, integers, equations, inequalities, probability, and statistics.",
    resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M587ZRsx2jA",
    quiz:[
      {q:"What is 20% of 50?", options:["5","10","15","20"], answer:1},
      {q:"Solve: x - 3 = 9", options:["x=12","x=6","x=9","x=3"], answer:0},
@@ -398,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of ecosystems, matter, structures, and heat transfer.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=h7ue5gHJiPE",
    quiz:[
      {q:"Producers in an ecosystem...", options:["Make their own food","Decompose only","Eat others only","Do nothing"], answer:0},
      {q:"A mixture contains substances that...", options:["Disappear completely","Become elements","Keep their own properties","Lose their properties"], answer:2},
@@ -407,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of New France, Confederation, geography, and resources.",
    resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nYyIRh7O-4o",
    quiz:[
      {q:"New France came under British control after...", options:["The Rebellions","The Seven Years' War","World War I","Confederation"], answer:1},
      {q:"Confederation occurred in...", options:["1867","1900","1763","1812"], answer:0},

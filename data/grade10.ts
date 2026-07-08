@@ -308,6 +308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry: Angles in Standard Position", summary:"Students extend trig to angles in standard position (0°–360°), the CAST rule, and the unit circle. They find exact trig values for special angles.",
    resourceLabel:"YouTube: Trigonometry: Angles in Standard Position", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Angles%20in%20Standard%20Position%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6BRtPfofXog",
    quiz:[
      {q:"An angle in standard position has its vertex at the origin and its initial arm ___.", options:["along the positive y-axis","along the negative y-axis","along the positive x-axis","along the negative x-axis"], answer:2},
      {q:"The CAST rule tells you which trig functions are positive in each quadrant: ___.", options:["Sin: Q1,Q2; Cos: Q1,Q4; Tan: Q1,Q3","Only Cos is ever positive","All functions negative in Q2","All positive in Q1 only"], answer:0},
@@ -317,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Forces and Newton's Laws", summary:"Students apply Newton's three laws of motion to analyse forces and predict the behaviour of objects. They work with free body diagrams.",
    resourceLabel:"YouTube: Physics: Forces and Newton's Laws", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Forces%20and%20Newton%27s%20Laws%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-w6oW1ut4Dw",
    quiz:[
      {q:"Newton's First Law (Inertia) states ___.", options:["for every action there is an equal and opposite reaction","objects resist changes in motion","force equals mass times acceleration","heavier objects fall faster"], answer:1},
      {q:"Newton's Second Law states ___.", options:["objects always move in circles","F = ma: net force equals mass times acceleration","inertia keeps objects at rest","for every action there is a reaction"], answer:1},
@@ -338,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Novel Study: Examining a Contemporary Canadian Novel", summary:"Students deeply read a contemporary Canadian novel, examining how the text engages with specifically Canadian themes — landscape, identity, colonial history, immigration, or social justice.",
    resourceLabel:"YouTube: Novel Study: Examining a Contemporary Canadian Novel", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Examining%20a%20Contemporary%20Canadian%20Novel%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3mJz_cpVCaw",
    quiz:[
      {q:"Canadian literature often reflects ___.", options:["only rural themes","distinctly Canadian themes and identity","identical concerns to American and British literature","only Quebec themes"], answer:1},
      {q:"Postcolonial literary criticism examines ___.", options:["only novels set in the past","how literature reinforces colonial power","only British literature","how literary texts engage with the history and legacy of colonialism — examining power dynamics, representation of Indigenous peoples, and resistance and reclamation"], answer:1},
@@ -347,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry: The Sine Law", summary:"Students apply the Sine Law (a/sinA = b/sinB = c/sinC) to find unknown sides and angles in non-right triangles.",
    resourceLabel:"YouTube: Trigonometry: The Sine Law", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Sine%20Law%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bDPRWJdVzfs",
    quiz:[
      {q:"The Sine Law applies to ___.", options:["only right triangles","AAS, ASA, or SSA triangles","only equilateral triangles","only when all three sides are known"], answer:1},
      {q:"The Sine Law states ___.", options:["sinA + sinB + sinC = 1","a² = b² + c² − 2bc cosA","a × sinA = b × sinB","a/sinA = b/sinB = c/sinC"], answer:3},
@@ -356,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Work, Energy, and Power", summary:"Students apply the concepts of work (W = Fd cosθ), kinetic and potential energy, conservation of energy, and power (P = W/t).",
    resourceLabel:"YouTube: Physics: Work, Energy, and Power", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Work%2C%20Energy%2C%20and%20Power%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=w4QFJb9a8vo",
    quiz:[
      {q:"Work is done on an object when ___.", options:["a force is applied","an object is at rest but a force is applied","any force is present","force causes displacement: W = Fd cosθ"], answer:3},
      {q:"Kinetic energy is ___.", options:["energy from chemical bonds","energy due to motion: KE = ½mv²","energy from heat","energy stored in position"], answer:1},
@@ -365,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Indigenous Rights and Land Claims in Canada", summary:"Students examine the historical and legal context of Indigenous land claims, treaty rights, and the Supreme Court's evolving jurisprudence.",
    resourceLabel:"YouTube: Indigenous Rights and Land Claims in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Rights%20and%20Land%20Claims%20in%20Canada%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IUHnKUaDYjs",
    quiz:[
      {q:"The Royal Proclamation of 1763 is significant to Indigenous rights because ___.", options:["it removed all Indigenous land rights","it had no lasting legal significance","it only applied to Quebec","it recognised Indigenous land rights"], answer:3},
      {q:"Section 35 of the Constitution Act (1982) ___.", options:["only protects Métis rights","was a minor symbolic clause","affirms Aboriginal and treaty rights","removed treaty rights"], answer:2},
@@ -376,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Film Study: Cinematic Techniques", summary:"Students study film as a literary medium. They analyse how directors use camera work, editing, sound, mise-en-scène, and narrative structure to create meaning.",
    resourceLabel:"YouTube: Film Study: Cinematic Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Film%20Study%3A%20Cinematic%20Techniques%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BFwMRVwrKcA",
    quiz:[
      {q:"Mise-en-scène refers to ___.", options:["only camera movement","the editing choices in a film","everything visible in the frame","only dialogue"], answer:2},
      {q:"A close-up shot in film is used to ___.", options:["show the entire scene","show a character's expression closely","only show objects","establish location"], answer:1},
@@ -385,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry: The Cosine Law", summary:"Students apply the Cosine Law (a² = b² + c² − 2bc cosA) to find unknown sides and angles in triangles where the Sine Law cannot be applied directly.",
    resourceLabel:"YouTube: Trigonometry: The Cosine Law", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Cosine%20Law%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9CGY0s-uCUE",
    quiz:[
      {q:"The Cosine Law is used when ___.", options:["any triangle problem","SAS or SSS triangle cases","only right triangles","two angles and a side are known"], answer:1},
      {q:"The Cosine Law states: a² = ___.", options:["b × c × cosA","b² + c² − 2bc cosA","sinA × sinB × sinC","b + c − 2bc cosA"], answer:1},
@@ -394,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Waves and Sound", summary:"Students examine the properties of waves (transverse, longitudinal, amplitude, wavelength, frequency, speed) and sound as a longitudinal wave.",
    resourceLabel:"YouTube: Physics: Waves and Sound", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Waves%20and%20Sound%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1u5GSxuSj7A",
    quiz:[
      {q:"A transverse wave has ___.", options:["no amplitude","particles perpendicular to travel","no frequency","particles moving parallel to wave direction"], answer:1},
      {q:"A longitudinal wave has particles moving ___.", options:["in circles","perpendicular to wave direction","only vertically","parallel to the direction of travel"], answer:3},
@@ -403,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Environmental History", summary:"Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
    resourceLabel:"YouTube: Canada's Environmental History", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.", options:["serve purely ecological goals","protect Indigenous territory","attract tourists and protect scenery","protect endangered species"], answer:2},
      {q:"The Kyoto Protocol (1997) committed Canada to ___.", options:["cutting emissions below 1990 levels","only renewable energy","no specific emissions targets","only monitoring emissions"], answer:0},

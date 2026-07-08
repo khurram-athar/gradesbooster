@@ -340,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Point of View: First, Second, Third Person", summary:"Ontario Reading strand: point of view determines who tells the story. First person uses 'I/we,' second uses 'you,' and third person uses 'he/she/they.' Third-person omniscient narrators know all characters' thoughts.",
    resourceLabel:"YouTube: Point of View: First, Second, Third Person", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%3A%20First%2C%20Second%2C%20Third%20Person%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iFaaNuA9LKA",
    quiz:[
      {q:"Which pronoun signals first-person point of view?", options:["I","You","They","He"], answer:0},
      {q:"A narrator who knows the thoughts and feelings of ALL characters is using:", options:["Third-person omniscient","First-person limited","Second person","Third-person limited"], answer:0},
@@ -349,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Ontario Patterning and Algebra strand: variables are letters that represent unknown quantities. Algebraic expressions combine variables, numbers, and operations. Evaluating an expression means substituting a value for the variable.",
    resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NybHckSEQBI",
    quiz:[
      {q:"In the expression 3n + 5, what does 'n' represent?", options:["An unknown variable","The operation of addition","Always the number 3","The number 5"], answer:0},
      {q:"Evaluate 2x + 4 when x = 3.", options:["10","8","14","9"], answer:0},
@@ -358,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Series and Parallel Circuits", summary:"Ontario Electricity strand: in a series circuit, components are connected in one loop and current flows through each one. In a parallel circuit, components are on separate branches and each receives full voltage.",
    resourceLabel:"YouTube: Series and Parallel Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Series%20and%20Parallel%20Circuits%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8Z0jhQeYDUE",
    quiz:[
      {q:"In a series circuit, if one bulb burns out:", options:["The other bulbs get brighter and survive","Only that bulb goes out","All bulbs go out because the circuit is broken","Nothing changes"], answer:2},
      {q:"In a parallel circuit, if one bulb burns out:", options:["All bulbs get dimmer","The battery dies instantly","All lights go out","The other bulbs continue to work"], answer:3},
@@ -367,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Role of the Church in Medieval Society", summary:"Ontario Grade 6 Social Studies — Medieval Societies: the Catholic Church was the dominant institution in medieval Europe, shaping education, art, politics, and daily life. Monasteries preserved knowledge during this period.",
    resourceLabel:"YouTube: The Role of the Church in Medieval Society", resourceUrl:"https://www.youtube.com/results?search_query=The%20Role%20of%20the%20Church%20in%20Medieval%20Society%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yHughcfloZM",
    quiz:[
      {q:"Medieval monasteries were important because they:", options:["Preserved texts and provided shelter","Had no connection to religion","Were military bases only","Were only found in Rome"], answer:0},
      {q:"The Pope was important in medieval Europe because:", options:["He commanded all armies","He was elected democratically","He controlled trade routes","He led the Church with great power"], answer:3},
@@ -378,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Media Literacy: Identifying Bias", summary:"Ontario Media Literacy strand: all media texts have a perspective. Bias is a tendency to favour one viewpoint. Recognizing bias helps readers and viewers think critically about the information they receive.",
    resourceLabel:"YouTube: Media Literacy: Identifying Bias", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Identifying%20Bias%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6R6-2_8m4Co",
    quiz:[
      {q:"Media bias means:", options:["Balanced reporting of all sides","Only political opinions","Favouring one perspective over others","Incorrect information always"], answer:2},
      {q:"Which question helps identify bias in a news article?", options:["How long is the article?","What font is used?","Who wrote it and why?","Is the article in colour?"], answer:2},
@@ -387,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Equations with One Variable", summary:"Ontario Patterning and Algebra strand: solving an equation means finding the value of the variable that makes the equation true. Use inverse operations (opposite operations) to isolate the variable.",
    resourceLabel:"YouTube: Solving Equations with One Variable", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Equations%20with%20One%20Variable%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LDIiYKYvvdA",
    quiz:[
      {q:"Solve: x + 7 = 15", options:["x = 8","x = 22","x = 6","x = 7"], answer:0},
      {q:"Solve: 3n = 24", options:["n = 7","n = 21","n = 6","n = 8"], answer:3},
@@ -396,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electrical Safety and Energy Conservation", summary:"Ontario Electricity strand: electrical safety involves understanding hazards like overloaded circuits and water near outlets. Conserving electricity reduces energy use, costs, and environmental impact.",
    resourceLabel:"YouTube: Electrical Safety and Energy Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Electrical%20Safety%20and%20Energy%20Conservation%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Dx3RpXdJw2k",
    quiz:[
      {q:"Why should you never use electrical appliances near water?", options:["Water only affects old appliances","Water conducts electricity","Water makes appliances work better","Water improves battery life"], answer:1},
      {q:"An overloaded circuit is dangerous because it can:", options:["Cause wires to overheat and start a fire","Save electricity","Reduce electricity bills","Make appliances run faster"], answer:0},
@@ -405,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Medieval Trade and the Growth of Towns", summary:"Ontario Grade 6 Social Studies — Medieval Societies: as trade expanded along routes like the Silk Road and Mediterranean sea lanes, medieval towns grew into busy centres of commerce. Guilds controlled craft production and trade.",
    resourceLabel:"YouTube: Medieval Trade and the Growth of Towns", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Trade%20and%20the%20Growth%20of%20Towns%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yq3q7KMlvw0",
    quiz:[
      {q:"The Silk Road was:", options:["A type of medieval cloth","A road paved with silk","A medieval highway in France","Trade routes linking Europe and Asia"], answer:3},
      {q:"A guild in medieval Europe was:", options:["A peasant farming community","A religious group","Craftspeople controlling their trade","A type of castle"], answer:2},

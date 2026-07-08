@@ -350,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication: Facts 6 to 10", summary:"Students practise multiplication facts with factors from 6 to 10.",
    resourceLabel:"YouTube: Multiplication: Facts 6 to 10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%3A%20Facts%206%20to%2010%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=x2Nr-f02AUY",
    quiz:[
      {q:"6 × 7 = ?", options:["42","44","40","46"], answer:0},
      {q:"8 × 9 = ?", options:["70","72","62","76"], answer:1},
@@ -359,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Types and Properties", summary:"Students explore natural and human-made structures. They investigate properties like stability, strength, and function.",
    resourceLabel:"YouTube: Structures: Types and Properties", resourceUrl:"https://www.youtube.com/results?search_query=Structures%3A%20Types%20and%20Properties%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8LTV5yRqemE",
    quiz:[
      {q:"A structure is ___.", options:["something built for a purpose","a type of weather event","only a bridge","only a building"], answer:0},
      {q:"Which is a natural structure?", options:["A skyscraper","A dam built by engineers","A bridge","A bird's nest"], answer:3},
@@ -368,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration and Cultural Diversity in Ontario", summary:"Students learn how immigration has shaped Ontario's diverse population and culture throughout history and today.",
    resourceLabel:"YouTube: Immigration and Cultural Diversity in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Cultural%20Diversity%20in%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
    quiz:[
      {q:"Immigration means ___.", options:["moving to another city in the same country","moving to a new country to live permanently","going to school in a different province","travelling for vacation"], answer:1},
      {q:"Why do people immigrate to Ontario?", options:["Only for bad reasons","Only for the weather","They are forced to always","For opportunity and a better life"], answer:3},
@@ -379,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Non-Fiction Reading: Compare and Contrast", summary:"Students identify similarities and differences between two topics in a text using compare-and-contrast structure.",
    resourceLabel:"YouTube: Non-Fiction Reading: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%20Reading%3A%20Compare%20and%20Contrast%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2enr-yY68tg",
    quiz:[
      {q:"To compare means to ___.", options:["describe only one thing","count all the differences","only list differences","identify similarities between things"], answer:3},
      {q:"To contrast means to ___.", options:["combine two things","identify differences between things","describe one thing","identify similarities"], answer:1},
@@ -388,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Area", summary:"Students find the area of rectangles by counting square units or using the formula length × width.",
    resourceLabel:"YouTube: Measurement: Area", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Area%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8cz_IB65pZM",
    quiz:[
      {q:"Area is ___.", options:["the distance around a shape","the length of one side","the weight of a shape","the amount of space inside a 2D shape"], answer:3},
      {q:"A rectangle 4 cm long and 3 cm wide has an area of ___.", options:["14 cm","12 cm²","10 cm","7 cm"], answer:1},
@@ -397,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pulleys, Gears, and Compound Machines", summary:"Students learn how pulleys change the direction of a force, how gears transfer motion, and how compound machines combine two or more simple machines.",
    resourceLabel:"YouTube: Pulleys, Gears, and Compound Machines", resourceUrl:"https://www.youtube.com/results?search_query=Pulleys%2C%20Gears%2C%20and%20Compound%20Machines%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=t5zJ80OWLUk",
    quiz:[
      {q:"A pulley uses a ___ to redirect or reduce force needed to lift a load.", options:["screw","wedge","lever and fulcrum","rope and grooved wheel"], answer:3},
      {q:"Gears are used to ___.", options:["hold things together like nails","measure weight","change the speed or direction of motion","only decorate machines"], answer:2},
@@ -406,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario's Relationship with the Rest of Canada", summary:"Students explore how Ontario is connected to other provinces through trade, shared government, geography, and culture.",
    resourceLabel:"YouTube: Ontario's Relationship with the Rest of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Relationship%20with%20the%20Rest%20of%20Canada%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vlMWbP9bkXE",
    quiz:[
      {q:"Ontario is connected to other provinces through ___.", options:["only weather","trade, government, and transportation","no connections","only highways"], answer:1},
      {q:"Which province borders Ontario to the west?", options:["Quebec","Manitoba","British Columbia","Nova Scotia"], answer:1},

@@ -318,6 +318,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Climate Change and Human Impact", summary:"Examine evidence for climate change and the role of human activity in altering Earth's climate systems (SNC1W strand).",
    resourceLabel:"YouTube: Climate Change and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20Change%20and%20Human%20Impact%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Um-bo2MWDsQ",
    quiz:[
      {q:"Greenhouse gases trap heat by...", options:["Cooling the surface directly","Having no effect on temperature","Blocking all sunlight completely","Trapping infrared radiation"], answer:3},
      {q:"Which of these is a greenhouse gas?", options:["Argon","Carbon dioxide","Nitrogen","Oxygen"], answer:1},
@@ -327,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urbanization and City Growth", summary:"CGC1W examines patterns of urbanization, the growth of cities, and challenges like sprawl and infrastructure demand.",
    resourceLabel:"YouTube: Urbanization and City Growth", resourceUrl:"https://www.youtube.com/results?search_query=Urbanization%20and%20City%20Growth%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fKnAJCSGSdk",
    quiz:[
      {q:"Urbanization refers to...", options:["A type of farming method","The growth of cities","Only rural population growth","The decline of all cities"], answer:1},
      {q:"A megacity is generally defined as a city with a population over...", options:["100,000","10 million","10,000","1 million"], answer:1},
@@ -338,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Reviewing for Oral Communication", summary:"Strong oral presentations use clear organization, appropriate tone, and effective delivery techniques (ENL1W Strand D).",
    resourceLabel:"YouTube: Reviewing for Oral Communication", resourceUrl:"https://www.youtube.com/results?search_query=Reviewing%20for%20Oral%20Communication%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9cHOAxj7LQE",
    quiz:[
      {q:"Eye contact during a presentation helps...", options:["Engage the audience","Has no effect","Distract the audience","Is never recommended"], answer:0},
      {q:"Pacing in a presentation refers to...", options:["The font of slides","The speed and rhythm of speech","The room temperature","Only hand gestures"], answer:1},
@@ -347,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra, Equations, and Polynomials", summary:"Mixed review of expressions, equations, systems, and polynomials.",
    resourceLabel:"YouTube: Review: Algebra, Equations, and Polynomials", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%2C%20Equations%2C%20and%20Polynomials%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ffLLmV4mZwU",
    quiz:[
      {q:"Solve: 3x + 2 = 14", options:["x=6","x=5","x=3","x=4"], answer:3},
      {q:"Simplify: (2x+3)+(4x-1)", options:["6x-2","6x+2","2x+2","6x+4"], answer:1},
@@ -356,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Chemistry, Electricity, and Earth Science", summary:"Mixed review of atomic theory, chemical reactions, circuits, and the solar system.",
    resourceLabel:"YouTube: Review: Chemistry, Electricity, and Earth Science", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Electricity%2C%20and%20Earth%20Science%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BnQnXN0y8P0",
    quiz:[
      {q:"Protons are found in the...", options:["Nucleus","Outer shell only","Only in compounds","Nowhere in an atom"], answer:0},
      {q:"The substances formed in a reaction are called...", options:["Catalysts","Products","Mixtures only","Reactants"], answer:1},
@@ -365,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Geography, Resources, and Cities", summary:"Mixed review of resources, land use, population, and urbanization.",
    resourceLabel:"YouTube: Review: Geography, Resources, and Cities", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Geography%2C%20Resources%2C%20and%20Cities%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sIM0PGv8h08",
    quiz:[
      {q:"Population density measures people per...", options:["Total country","Unit of area","Income level","Year"], answer:1},
      {q:"Urbanization refers to growth of...", options:["Deserts only","Farmland only","Forests only","Cities"], answer:3},
@@ -376,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: English Skills", summary:"Mixed review of sentence structure, essays, media literacy, and presentations.",
    resourceLabel:"YouTube: Final Review: English Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20English%20Skills%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3mJz_cpVCaw",
    quiz:[
      {q:"A complex sentence needs an independent clause and a...", options:["Dependent clause","Footnote","Citation","Title only"], answer:0},
      {q:"Media literacy means being able to...", options:["Only consume media passively","Avoid media entirely","Memorize headlines","Critically evaluate media messages"], answer:3},
@@ -385,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of expressions, equations, slope, systems, and polynomials.",
    resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_lxccBUcNaY",
    quiz:[
      {q:"Solve: 4x - 6 = 10", options:["x=3","x=5","x=4","x=2"], answer:2},
      {q:"Slope formula is...", options:["X over Y","Rise over run","Constant only","Run over rise"], answer:1},
@@ -394,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of ecosystems, atomic theory, electricity, and Earth science.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KeSyKl7zHG0",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","One species only","Soil type only","Water levels only"], answer:0},
      {q:"Protons have what charge?", options:["Neutral","Negative","Variable","Positive"], answer:3},
@@ -403,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Geography Skills", summary:"Mixed review of geographic inquiry, resources, land use, population, and Indigenous perspectives.",
    resourceLabel:"YouTube: Final Review: Geography Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Geography%20Skills%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BPhESeVmyvs",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Avoiding data collection","Skipping research","Asking a geographic question","Memorizing maps only"], answer:2},
      {q:"Population density is people per...", options:["Unit of area","Calendar year","Total income","Square of language spoken"], answer:0},

@@ -328,6 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Immigration and Social Change 1867–1914", summary:"Students examine waves of immigration to Canada, the experiences of newcomers, discriminatory policies, and cultural changes in the late 19th and early 20th century.",
    resourceLabel:"YouTube: Immigration and Social Change 1867–1914", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Social%20Change%201867%E2%80%931914%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IBUBzIcj4g8",
    quiz:[
      {q:"The Canadian government encouraged immigration in the late 1800s primarily to ___.", options:["compete with Mexico","limit population growth","reduce cultural diversity","settle the Prairies and build the CPR"], answer:3},
      {q:"The Chinese Head Tax (1885–1923) was ___.", options:["a welcoming program","a tax to deter Chinese immigration","a land grant program","a tax on all immigrants"], answer:1},
@@ -339,6 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"Language", title:"Shakespeare: Introduction to the Plays", summary:"Students are introduced to Shakespearean language, dramatic conventions, historical context, and the structure of Shakespearean tragedy and comedy.",
    resourceLabel:"YouTube: Shakespeare: Introduction to the Plays", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20Introduction%20to%20the%20Plays%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gXoNalXbzUM",
    quiz:[
      {q:"Shakespeare wrote during ___.", options:["the Medieval period","the Romantic era","the Elizabethan/Jacobean era","the Victorian era"], answer:2},
      {q:"Iambic pentameter is ___.", options:["a type of drama","a stage direction","a type of comedy","a metre of 10 syllables per line"], answer:3},
@@ -348,6 +350,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Analytic Geometry: Systems of Equations", summary:"Students solve systems of two linear equations graphically and algebraically (substitution method).",
    resourceLabel:"YouTube: Analytic Geometry: Systems of Equations", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Systems%20of%20Equations%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HTLHJlrdXPs",
    quiz:[
      {q:"A system of two linear equations has a unique solution when ___.", options:["the lines have the same slope","the equations are identical","the two lines intersect at exactly one point","the lines are parallel"], answer:2},
      {q:"A system with parallel lines (same slope, different y-intercepts) has ___.", options:["two solutions","one solution","no solution","infinite solutions"], answer:2},
@@ -357,6 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Biotechnology and Ethics", summary:"Students explore how biotechnology (genetic engineering, CRISPR, cloning, GMOs) applies cell biology, and consider ethical questions raised by these technologies.",
    resourceLabel:"YouTube: Cells: Biotechnology and Ethics", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Biotechnology%20and%20Ethics%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=evH0I7Coc54",
    quiz:[
      {q:"Genetic engineering involves ___.", options:["only cross-breeding animals","removing organs","modifying an organism's DNA","selective plant breeding only"], answer:2},
      {q:"CRISPR-Cas9 is ___.", options:["a molecular-scissors gene-editing tool","a computer program","a drug treatment","a type of microscope"], answer:0},
@@ -366,6 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"World War I: Canada's Experience", summary:"Students examine Canada's military contributions, the home front, the conscription crisis, and how WWI changed Canada's international standing.",
    resourceLabel:"YouTube: World War I: Canada's Experience", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Canada%27s%20Experience%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-GsolnXOiBg",
    quiz:[
      {q:"Canada's most celebrated military achievement of WWI was ___.", options:["the Battle of Vimy Ridge (1917)","the air campaign over England","the Battle of the Atlantic","the invasion of Germany"], answer:0},
      {q:"The conscription crisis of 1917 divided Canada primarily along ___.", options:["class lines","religious lines","English-French language lines","rural/urban lines"], answer:2},
@@ -377,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Independent Reading: Novel Study Launch", summary:"Students select a novel for in-depth study. They track character, plot, setting, theme, and author's craft through journals and analytical response tasks.",
    resourceLabel:"YouTube: Independent Reading: Novel Study Launch", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Study%20Launch%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=23aM-lVDhrw",
    quiz:[
      {q:"A reading response journal is most useful when ___.", options:["you only write summaries of events","you write personal reactions without referring to the text","you combine evidence with your analysis","you copy memorable quotations only"], answer:2},
      {q:"Analysing author's craft means ___.", options:["only identifying grammar errors","examining an author's craft choices","summarising what happens","listing characters"], answer:1},
@@ -386,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Surface Area and Volume of 3D Solids", summary:"Students calculate surface area and volume of prisms, cylinders, cones, and spheres using formulas.",
    resourceLabel:"YouTube: Measurement: Surface Area and Volume of 3D Solids", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Surface%20Area%20and%20Volume%20of%203D%20Solids%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eBAq_caikJ4",
    quiz:[
      {q:"The volume of a cylinder is ___.", options:["V = 2πrh","V = πr²h","V = 4/3 πr³","V = πr²"], answer:1},
      {q:"The surface area of a rectangular prism is ___.", options:["lw + lh + wh","l × w × h","2lw + 2lh + 2wh","2(l + w + h)"], answer:2},
@@ -395,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems in Action: Fluid Systems", summary:"Students connect fluid properties to engineered systems, examining hydraulic and pneumatic applications, and designing simple fluid systems.",
    resourceLabel:"YouTube: Systems in Action: Fluid Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Fluid%20Systems%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dRvcWyd8SFc",
    quiz:[
      {q:"In a hydraulic system, the working fluid is ___.", options:["usually a compressible gas","usually incompressible hydraulic oil","always water","only air"], answer:1},
      {q:"Why are liquids used in hydraulic systems rather than gases?", options:["Liquids are cheaper","Gases are too colourful","Liquids are nearly incompressible","Liquids are lighter"], answer:2},
@@ -404,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Great Depression and Canada", summary:"Students examine the causes and impact of the Great Depression (1929–1939) on Canadians, and the political and social responses it generated.",
    resourceLabel:"YouTube: The Great Depression and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Great%20Depression%20and%20Canada%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=62DxELjuRec",
    quiz:[
      {q:"The Great Depression began with ___.", options:["a drought only in Canada","the 1929 US stock market crash","a Canadian bank failure","the start of WWI"], answer:1},
      {q:"In Canada, the Prairies suffered most severely because ___.", options:["drought and falling wheat prices","they had no government","they were unaffected","they had the most industry"], answer:0},
