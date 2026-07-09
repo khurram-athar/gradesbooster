@@ -255,6 +255,7 @@
         "summary": "Students read a major novel independently, analysing how formal choices (narration, structure, style) create meaning rather than just content.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
         "quiz": [
           {
             "q": "The distinction between story (fabula) and discourse (sjuzhet) means ___.",
@@ -374,6 +375,7 @@
         "summary": "Students develop the concept of the derivative as a limit of difference quotients, and apply the basic differentiation rules (power, constant, sum, difference).",
         "resourceLabel": "Khan Academy: Derivative Rules",
         "resourceUrl": "https://www.youtube.com/watch?v=HEH_oKNLgUU",
+        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "The derivative f'(a) is defined as ___.",
@@ -433,6 +435,7 @@
         "summary": "Students apply Newton's three laws to two-dimensional force problems, including inclined planes, connected masses, and friction.",
         "resourceLabel": "Crash Course Physics: Newtons Laws",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+        "videoUrl": "https://www.youtube.com/watch?v=g550H4e5FCY",
         "quiz": [
           {
             "q": "For a block on a frictionless inclined plane at angle θ, the acceleration down the incline is ___.",
@@ -498,6 +501,7 @@
         "summary": "Students compare the tragic form in different cultural traditions — Greek tragedy, Shakespearean tragedy, and contemporary tragic narratives — examining what 'tragedy' means across time and culture.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=I5KZcdAmWLw",
         "quiz": [
           {
             "q": "Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.",
@@ -557,6 +561,7 @@
         "summary": "Students solve complex exponential and logarithmic equations, apply change of base, and model real phenomena including logistic growth.",
         "resourceLabel": "Khan Academy: Logarithm Properties",
         "resourceUrl": "https://www.youtube.com/watch?v=TMmxKZaCqe0",
+        "videoUrl": "https://www.youtube.com/watch?v=oqHJ5xQYTEI",
         "quiz": [
           {
             "q": "The change of base formula log_b(x) = log(x)/log(b) allows ___.",
@@ -616,6 +621,7 @@
         "summary": "Students master the three composite differentiation rules and apply them to increasingly complex functions.",
         "resourceLabel": "Khan Academy: Chain Rule",
         "resourceUrl": "https://www.youtube.com/watch?v=0T0QrHO56qg",
+        "videoUrl": "https://www.youtube.com/watch?v=V0xlG8gq7uc",
         "quiz": [
           {
             "q": "The product rule for d/dx[f(x)g(x)] is ___.",
@@ -675,6 +681,7 @@
         "summary": "Students apply the work-energy theorem, conservation of mechanical energy, and power calculations to complex problems.",
         "resourceLabel": "Crash Course Physics: Work Energy Power",
         "resourceUrl": "https://www.youtube.com/watch?v=xNzS1OsPbFg",
+        "videoUrl": "https://www.youtube.com/watch?v=_MR1Dp8-F8w",
         "quiz": [
           {
             "q": "The work-energy theorem states ___.",
@@ -740,6 +747,7 @@
         "summary": "Students plan and write a 1000+ word critical essay on a literary text, meeting university standards for argument, evidence, and analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=UvsH5y91Eoo",
         "quiz": [
           {
             "q": "University literary essays are evaluated primarily on ___.",
@@ -799,6 +807,7 @@
         "summary": "Students prove and apply advanced trigonometric identities including compound angle, double angle, and sum-to-product formulas, and solve complex trigonometric equations.",
         "resourceLabel": "Khan Academy: Trig Identities",
         "resourceUrl": "https://www.youtube.com/watch?v=T9lt6MZKLck",
+        "videoUrl": "https://www.youtube.com/watch?v=iNj_loo2-W4",
         "quiz": [
           {
             "q": "To prove a trigonometric identity, you must ___.",
@@ -858,6 +867,7 @@
         "summary": "Students differentiate sin(x), cos(x), tan(x), e^x, and ln(x), and combine these with the chain rule.",
         "resourceLabel": "Khan Academy: Derivatives of Trig Functions",
         "resourceUrl": "https://www.youtube.com/watch?v=_niP0JaOgHY",
+        "videoUrl": "https://www.youtube.com/watch?v=yg_497u6JnA",
         "quiz": [
           {
             "q": "d/dx[sin x] = ___.",
@@ -917,6 +927,7 @@
         "summary": "Students analyse uniform circular motion — centripetal acceleration and force — and apply Newton's law of universal gravitation.",
         "resourceLabel": "Crash Course Physics: Circular Motion",
         "resourceUrl": "https://www.youtube.com/watch?v=bpFK2VCRHUs",
+        "videoUrl": "https://www.youtube.com/watch?v=IawY86XveQE",
         "quiz": [
           {
             "q": "Centripetal acceleration for uniform circular motion is ___.",
@@ -982,6 +993,7 @@
         "summary": "Students analyse how digital platforms — social media, podcasts, algorithmic news — have transformed political communication and citizenship.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=NefOesTl1iQ",
         "quiz": [
           {
             "q": "Political communication via social media differs from broadcast media in ___.",
@@ -1041,6 +1053,7 @@
         "summary": "Students perform operations on functions (sum, difference, product, quotient) and compositions, including finding domains of combined functions.",
         "resourceLabel": "Khan Academy: Composite Functions",
         "resourceUrl": "https://www.youtube.com/watch?v=z_tEsVMKOjk",
+        "videoUrl": "https://www.youtube.com/watch?v=ZFPkQkURSxk",
         "quiz": [
           {
             "q": "The domain of (f + g)(x) is ___.",
@@ -1100,6 +1113,7 @@
         "summary": "Students find equations of tangent and normal lines to curves, and solve introductory related rates problems.",
         "resourceLabel": "Khan Academy: Tangent Line Equations",
         "resourceUrl": "https://www.youtube.com/watch?v=IWcPMJBTDQg",
+        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A",
         "quiz": [
           {
             "q": "The equation of the tangent line to y = f(x) at (a, f(a)) is ___.",
@@ -1159,6 +1173,7 @@
         "summary": "Students examine wave properties (wavelength, frequency, amplitude, speed), the wave equation, and properties of sound.",
         "resourceLabel": "Crash Course Physics: Waves and Sound",
         "resourceUrl": "https://www.youtube.com/watch?v=xLbZj5qO_lI",
+        "videoUrl": "https://www.youtube.com/watch?v=XY0RJu4sDHk",
         "quiz": [
           {
             "q": "The wave equation v = fλ relates ___.",
@@ -1224,6 +1239,7 @@
         "summary": "Students study the development of the lyric poem from the Romantics through Modernism to contemporary practice, examining how lyric poetry constructs a speaking self and addresses fundamental human questions.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=eRq5PkcLqn8",
         "quiz": [
           {
             "q": "The lyric poem is distinguished by ___.",
@@ -1283,6 +1299,7 @@
         "summary": "Students solve higher-degree polynomial equations and applied rational equations, applying the factor theorem, synthetic division, and rational root theorem.",
         "resourceLabel": "Khan Academy: Polynomial Division",
         "resourceUrl": "https://www.youtube.com/watch?v=FxHWoUOq2iQ",
+        "videoUrl": "https://www.youtube.com/watch?v=gD7A1LA4jO8",
         "quiz": [
           {
             "q": "The Rational Root Theorem states ___.",
@@ -1342,6 +1359,7 @@
         "summary": "Students use the first and second derivative to identify increasing/decreasing intervals, local extrema, concavity, and inflection points.",
         "resourceLabel": "Khan Academy: Curve Sketching",
         "resourceUrl": "https://www.youtube.com/watch?v=WIDZFyfaT1I",
+        "videoUrl": "https://www.youtube.com/watch?v=WqRPFvZWF0k",
         "quiz": [
           {
             "q": "If f'(x) > 0 on an interval, then f ___.",
@@ -1401,6 +1419,7 @@
         "summary": "Students analyse electric fields and electric potential produced by point charges and uniform fields, and relate electric potential to potential energy.",
         "resourceLabel": "Crash Course Physics: Electric Fields",
         "resourceUrl": "https://www.youtube.com/watch?v=mdulzEfQJP0",
+        "videoUrl": "https://www.youtube.com/watch?v=VFbyDCG_j18",
         "quiz": [
           {
             "q": "The electric field E due to a point charge Q at distance r is ___.",
@@ -1466,6 +1485,7 @@
         "summary": "Students read and analyse a contemporary Canadian play, examining how playwrights structure dramatic conflict, develop character through dialogue, and use theatrical space.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=3O_ISCHsaUw",
         "quiz": [
           {
             "q": "A contemporary Canadian play is likely to engage with ___.",
@@ -1525,6 +1545,7 @@
         "summary": "Students explore the concept of instantaneous rate of change as a limit, preparing the foundation for Grade 12 Calculus and making explicit the connection between Advanced Functions and Calculus.",
         "resourceLabel": "Khan Academy: Average vs Instantaneous Rate of Change",
         "resourceUrl": "https://www.youtube.com/watch?v=BVZNMm6GaKw",
+        "videoUrl": "https://www.youtube.com/watch?v=EvJah9UtqEQ",
         "quiz": [
           {
             "q": "Average rate of change of f(x) over [a, b] is ___.",
@@ -1584,6 +1605,7 @@
         "summary": "Students apply derivatives to find maximum and minimum values in applied context problems — geometry, economics, and physics.",
         "resourceLabel": "Khan Academy: Optimization Problems",
         "resourceUrl": "https://www.youtube.com/watch?v=bG1v9tGTIZk",
+        "videoUrl": "https://www.youtube.com/watch?v=cUMvwG7wvzM",
         "quiz": [
           {
             "q": "To solve an optimisation problem with calculus, the steps are ___.",
@@ -1643,6 +1665,7 @@
         "summary": "Students analyse DC electric circuits — current, voltage, resistance, Ohm's Law, series and parallel circuits, and power dissipation.",
         "resourceLabel": "Crash Course Physics: Electric Circuits",
         "resourceUrl": "https://www.youtube.com/watch?v=g-wjP1otQWI",
+        "videoUrl": "https://www.youtube.com/watch?v=r-SCyD7f_zI",
         "quiz": [
           {
             "q": "Ohm's Law states ___.",
@@ -1708,6 +1731,7 @@
         "summary": "Students write personal statements and supplementary essays for university applications, applying their Grade 12 writing skills to genuine high-stakes contexts.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=Xz94wRwFOCI",
         "quiz": [
           {
             "q": "A university personal statement is most effective when ___.",
@@ -1767,6 +1791,7 @@
         "summary": "Students apply geometric series formulas to financial mathematics — annuities, mortgages, and investment growth — with university-preparatory rigour.",
         "resourceLabel": "Khan Academy: Geometric Series Formula",
         "resourceUrl": "https://www.youtube.com/watch?v=RMa1QSEfzVA",
+        "videoUrl": "https://www.youtube.com/watch?v=Tj89FA-d0f8",
         "quiz": [
           {
             "q": "The future value of an annuity (regular payment R, interest rate i per period, n periods) is ___.",
@@ -1826,6 +1851,7 @@
         "summary": "Students are introduced to integration as the reverse of differentiation, applying the power rule for integration and the constant of integration.",
         "resourceLabel": "Khan Academy: Antiderivatives and Indefinite Integrals",
         "resourceUrl": "https://www.youtube.com/watch?v=mB7DGEMb0og",
+        "videoUrl": "https://www.youtube.com/watch?v=xaCPDMEkbig",
         "quiz": [
           {
             "q": "The antiderivative (indefinite integral) of f(x) is ___.",
@@ -1885,6 +1911,7 @@
         "summary": "Students examine magnetic fields produced by current-carrying conductors, and the force on a current or moving charge in a magnetic field.",
         "resourceLabel": "Crash Course Physics: Magnetic Fields",
         "resourceUrl": "https://www.youtube.com/watch?v=s94suB5uLWw",
+        "videoUrl": "https://www.youtube.com/watch?v=csMqfwJRjCs",
         "quiz": [
           {
             "q": "The force on a charge q moving with velocity v in a magnetic field B is ___.",
@@ -1950,6 +1977,7 @@
         "summary": "Students read a postmodern novel or short fiction collection, examining metafiction, fragmentation, unreliable narration, and postmodern challenges to stable meaning.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=7ECv-j2McbQ",
         "quiz": [
           {
             "q": "Postmodern literature challenges ___.",
@@ -2009,6 +2037,7 @@
         "summary": "Students are introduced to vectors — geometric and component representations, operations, dot product, and applications to displacement and work.",
         "resourceLabel": "Khan Academy: Vectors Introduction",
         "resourceUrl": "https://www.youtube.com/watch?v=fNk_zzaMoSs",
+        "videoUrl": "https://www.youtube.com/watch?v=yETvIcz1CkE",
         "quiz": [
           {
             "q": "A vector differs from a scalar in that ___.",
@@ -2068,6 +2097,7 @@
         "summary": "Students compute definite integrals, apply the Fundamental Theorem of Calculus, and interpret definite integrals as areas.",
         "resourceLabel": "Khan Academy: Fundamental Theorem of Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=9vgCMNHPScU",
+        "videoUrl": "https://www.youtube.com/watch?v=aeB5BWY0RlE",
         "quiz": [
           {
             "q": "The Fundamental Theorem of Calculus Part 1 states ___.",
@@ -2127,6 +2157,7 @@
         "summary": "Students examine Faraday's Law of electromagnetic induction, Lenz's Law, and applications including transformers and generators.",
         "resourceLabel": "Crash Course Physics: Electromagnetic Induction",
         "resourceUrl": "https://www.youtube.com/watch?v=pQp6bmJPU_0",
+        "videoUrl": "https://www.youtube.com/watch?v=LDOa7UdfcMQ",
         "quiz": [
           {
             "q": "Faraday's Law states that an EMF is induced in a conductor when ___.",
@@ -2192,6 +2223,7 @@
         "summary": "Students compare Canadian literature with a world text, analysing how place, history, and culture shape literary form and theme.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=nJNdZGF6Xvo",
         "quiz": [
           {
             "q": "Comparative literature across cultures reveals ___.",
@@ -2251,6 +2283,7 @@
         "summary": "Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
         "resourceLabel": "Khan Academy: Mathematical Induction",
         "resourceUrl": "https://www.youtube.com/watch?v=wblW_M_HVQ8",
+        "videoUrl": "https://www.youtube.com/watch?v=SgtOzuADxK8",
         "quiz": [
           {
             "q": "A direct proof establishes a theorem by ___.",
@@ -2310,6 +2343,7 @@
         "summary": "Students calculate areas under curves, between curves, and volumes of solids of revolution.",
         "resourceLabel": "Khan Academy: Volume of Solids of Revolution",
         "resourceUrl": "https://www.youtube.com/watch?v=R_aqSL-q6_8",
+        "videoUrl": "https://www.youtube.com/watch?v=xec6HTcn2M8",
         "quiz": [
           {
             "q": "The area between y = x² and y = x from 0 to 1 is ___.",
@@ -2369,6 +2403,7 @@
         "summary": "Students examine Einstein's special relativity — postulates, time dilation, length contraction, mass-energy equivalence, and experimental evidence.",
         "resourceLabel": "Crash Course Physics: Special Relativity",
         "resourceUrl": "https://www.youtube.com/watch?v=AInCqm5nCzw",
+        "videoUrl": "https://www.youtube.com/watch?v=AInCqm5nCzw",
         "quiz": [
           {
             "q": "Einstein's two postulates of special relativity are ___.",
@@ -2434,6 +2469,7 @@
         "summary": "Students write a well-researched argumentative essay on a contemporary social or political issue, integrating sources, acknowledging counterarguments, and making an original contribution.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=VZKUeEBryOk",
         "quiz": [
           {
             "q": "A strong argumentative essay on a social issue must ___.",
@@ -2493,6 +2529,7 @@
         "summary": "Students synthesise the entire Advanced Functions course, connecting all function families and preparing for final assessment.",
         "resourceLabel": "Khan Academy: Advanced Functions Review",
         "resourceUrl": "https://www.youtube.com/watch?v=LkwT1GQVJP8",
+        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
         "quiz": [
           {
             "q": "The fundamental difference between polynomial and rational functions is ___.",
@@ -2552,6 +2589,7 @@
         "summary": "Students differentiate and integrate e^(ax), ln(x), and related functions, and apply these to growth/decay problems.",
         "resourceLabel": "Khan Academy: Derivatives of Exponential Functions",
         "resourceUrl": "https://www.youtube.com/watch?v=MKQR_acrFOA",
+        "videoUrl": "https://www.youtube.com/watch?v=nqpn0SQB5ds",
         "quiz": [
           {
             "q": "d/dx[e^(ax)] = ___.",
@@ -2611,6 +2649,7 @@
         "summary": "Students examine nuclear reactions (fission and fusion), binding energy, and an introduction to the Standard Model of particle physics.",
         "resourceLabel": "Crash Course Physics: Nuclear Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=nRmBsxBpTjs",
+        "videoUrl": "https://www.youtube.com/watch?v=lUhJL7o6_cA",
         "quiz": [
           {
             "q": "Nuclear fission involves ___.",

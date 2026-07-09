@@ -14,6 +14,11 @@ grade being 100% done while others haven't started. (Previously this
 script exhausted grade 0 completely before touching grade 1, which could
 leave later grades' Day 1 without a video for a long time.)
 
+Day range is NOT hardcoded -- it's read from however many days each
+grade{N}.ts file actually has, so this keeps working unchanged as Phase 3
+adds days 31, 32, ... 187 to each grade over time. No re-editing this
+script is needed as the curriculum grows; just keep running it.
+
 Safe to re-run: any entry that already has a videoUrl is left untouched
 and skipped, so this can be run once a day to slowly work through the
 YouTube Data API's free quota (10,000 units/day; search.list costs 100
@@ -22,20 +27,31 @@ covered. Re-running tomorrow continues automatically where today left off
 -- no separate progress file needed, the .ts files themselves are the
 record of what's done.
 
+After writing .ts changes, this also regenerates data/gradeN.json for any
+grade that changed (via build_json.py) -- the live site's curriculum sync
+only ever reads .json, never .ts, so skipping this step would mean today's
+newly-fetched videos sit in .ts and never actually reach production. Pass
+--skip-json-rebuild to opt out (e.g. if you want to review .ts changes
+before they're reflected in .json).
+
 Usage:
   export YOUTUBE_API_KEY=your_key_here
-  python3 fetch_video_ids.py                 # spend up to 90 lookups
+  python3 fetch_video_ids.py                 # spend up to 90 lookups, then rebuild changed .json files
   python3 fetch_video_ids.py --limit 50      # spend up to 50 lookups
   python3 fetch_video_ids.py --dry-run       # show what would be looked up, no API calls, no writes
   python3 fetch_video_ids.py --grade 3       # only process grade3.ts
+  python3 fetch_video_ids.py --skip-json-rebuild   # update .ts only, don't touch .json
 
 No third-party dependencies -- uses only the Python standard library.
+(build_json.py, invoked automatically at the end, does shell out to `npx
+tsx`, but that's its concern, not this script's.)
 """
 import os
 import re
 import sys
 import json
 import argparse
+import subprocess
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -43,7 +59,6 @@ import urllib.error
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
-MAX_DAYS = 30
 
 # Splits a whole file into: [header_before_day1, day1_block_text, day2_block_text, ...]
 # Each day_block_text starts at "{day:N," and runs up to (not including) the next "{day:".
@@ -143,6 +158,7 @@ def main():
     parser.add_argument('--limit', type=int, default=90, help='max API searches to spend this run (default 90)')
     parser.add_argument('--grade', type=int, default=None, help='only process this grade (0-12)')
     parser.add_argument('--dry-run', action='store_true', help="show what would be searched, don't call the API or write files")
+    parser.add_argument('--skip-json-rebuild', action='store_true', help="update .ts only; don't regenerate .json for changed grades")
     args = parser.parse_args()
 
     if not args.dry_run and not API_KEY:
@@ -161,8 +177,16 @@ def main():
             continue
         chunks_by_grade[g] = {'path': path, 'chunks': load_day_chunks(path), 'changed': False}
 
+    # Day range is per-grade, not a shared constant: chunks[0] is the file
+    # header (everything before "{day:1,"), so chunks[1:] are the actual
+    # day blocks -- len(chunks) - 1 is exactly how many days that grade
+    # currently has, whether that's 30 (today) or 187 (once Phase 3 is
+    # fully built out). max_day below is just "the longest any grade goes
+    # this run" so the breadth-first loop below covers every grade present.
+    max_day = max((len(entry['chunks']) - 1 for entry in chunks_by_grade.values()), default=0)
+
     # Breadth-first: Day 1 across every grade, then Day 2 across every grade, etc.
-    for day in range(1, MAX_DAYS + 1):
+    for day in range(1, max_day + 1):
         if remaining[0] <= 0:
             break
         for g in grades:
@@ -176,15 +200,40 @@ def main():
                 entry['chunks'][day] = new_chunk
                 entry['changed'] = True
 
+    changed_grades = []
     if not args.dry_run:
         for g, entry in chunks_by_grade.items():
             if entry['changed']:
                 open(entry['path'], 'w', encoding='utf-8').write(''.join(entry['chunks']))
+                changed_grades.append(g)
 
     spent = args.limit - remaining[0]
     print(f'\nDone. {"Would look up" if args.dry_run else "Looked up"} {spent} videos this run (limit was {args.limit}).')
-    if not args.dry_run:
-        print('Re-run tomorrow (quota resets daily) to continue where this run left off.')
+    if args.dry_run:
+        return
+
+    if not changed_grades:
+        print('No grade files changed -- nothing to rebuild.')
+        return
+
+    if args.skip_json_rebuild:
+        print(f'{len(changed_grades)} grade(s) changed ({changed_grades}) -- .json NOT rebuilt (--skip-json-rebuild).')
+        print('Remember to run build_json.py before pushing, or the site will never see these videos.')
+        return
+
+    print(f'\nRegenerating .json for {len(changed_grades)} changed grade(s): {changed_grades}')
+    build_json_script = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'build_json.py')
+    for g in changed_grades:
+        result = subprocess.run(
+            [sys.executable, build_json_script, '--grade', str(g)],
+            capture_output=True, text=True,
+        )
+        print(result.stdout.strip())
+        if result.returncode != 0:
+            print(f'  WARNING: build_json.py failed for grade{g}:\n{result.stderr}', file=sys.stderr)
+
+    print('\nDone. If this looks right, commit + push data/*.ts and data/*.json,')
+    print('then trigger a curriculum sync so Supabase (and the live site) picks it up.')
 
 
 if __name__ == '__main__':

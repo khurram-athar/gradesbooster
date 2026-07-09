@@ -501,6 +501,7 @@
         "summary": "Students develop formal oral skills through structured debate, applying logical reasoning, evidence use, and rebuttal techniques.",
         "resourceLabel": "YouTube: Media and Communication: Persuasive Speaking and Debate",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20and%20Communication%3A%20Persuasive%20Speaking%20and%20Debate%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1TSkkxu8on0",
         "quiz": [
           {
             "q": "The three classical appeals in persuasion are ___.",
@@ -560,6 +561,7 @@
         "summary": "Students factor higher-degree polynomials using the factor theorem, synthetic division, and sum/difference of cubes, and solve polynomial equations.",
         "resourceLabel": "YouTube: Polynomial Functions: Factoring and Solving",
         "resourceUrl": "https://www.youtube.com/results?search_query=Polynomial%20Functions%3A%20Factoring%20and%20Solving%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=U6FndtdgpcA",
         "quiz": [
           {
             "q": "The factor theorem states ___.",
@@ -619,6 +621,7 @@
         "summary": "Students apply Mendelian genetics to monohybrid and dihybrid crosses and extensions: codominance, incomplete dominance, sex-linked traits.",
         "resourceLabel": "YouTube: Genetics: Mendelian Genetics and Extensions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Mendelian%20Genetics%20and%20Extensions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UeyYGeg-jDI",
         "quiz": [
           {
             "q": "In codominance, two alleles ___.",
@@ -678,6 +681,7 @@
         "summary": "Students learn the mole concept, molar mass, Avogadro's number, and perform stoichiometric calculations (mass-to-mole, mole-to-mole, mass-to-mass).",
         "resourceLabel": "YouTube: Stoichiometry: Mole Concept and Calculations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Stoichiometry%3A%20Mole%20Concept%20and%20Calculations%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7Cfq0ilw7ps",
         "quiz": [
           {
             "q": "One mole of any substance contains ___.",
@@ -743,6 +747,7 @@
         "summary": "Students write a multi-paragraph analytical essay demonstrating thesis-driven argument, sophisticated evidence integration, and logical cohesion across 5-7 paragraphs.",
         "resourceLabel": "YouTube: Writing: The Analytical Essay (Extended Form)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Analytical%20Essay%20%28Extended%20Form%29%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yqlIT4l0fhg",
         "quiz": [
           {
             "q": "Coherence in a multi-paragraph essay is created by ___.",
@@ -802,6 +807,7 @@
         "summary": "Students analyse rational functions — identifying vertical and horizontal asymptotes, holes, domain restrictions, and graphing behaviour.",
         "resourceLabel": "YouTube: Rational Functions: Characteristics and Graphing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rational%20Functions%3A%20Characteristics%20and%20Graphing%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fy45qX8cUwQ",
         "quiz": [
           {
             "q": "A rational function has the form ___.",
@@ -861,6 +867,7 @@
         "summary": "Students examine evidence for evolution, mechanisms of natural selection, and how new species arise through reproductive isolation.",
         "resourceLabel": "YouTube: Evolution: Natural Selection and Speciation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Evolution%3A%20Natural%20Selection%20and%20Speciation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7VM9YxmULuo",
         "quiz": [
           {
             "q": "Darwin's natural selection requires four conditions: ___.",
@@ -920,6 +927,7 @@
         "summary": "Students apply stoichiometry to limiting reagent problems and calculate theoretical, actual, and percent yield.",
         "resourceLabel": "YouTube: Stoichiometry: Limiting Reagents and Percent Yield",
         "resourceUrl": "https://www.youtube.com/results?search_query=Stoichiometry%3A%20Limiting%20Reagents%20and%20Percent%20Yield%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CK2yK_JTUH4",
         "quiz": [
           {
             "q": "The limiting reagent in a reaction is ___.",
@@ -985,6 +993,7 @@
         "summary": "Students apply close reading skills to analyse poetic form, imagery, diction, tone, and theme in Grade 11 poetry (Romantic, modern, and contemporary).",
         "resourceLabel": "YouTube: Close Reading: Poetry Analysis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Close%20Reading%3A%20Poetry%20Analysis%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PXZrtMLeZNY",
         "quiz": [
           {
             "q": "The Romantic period in poetry (late 18th-early 19th century) is characterised by ___.",
@@ -1044,6 +1053,7 @@
         "summary": "Students investigate exponential functions, identifying key features of graphs, and modelling real-world growth and decay situations.",
         "resourceLabel": "YouTube: Exponential Functions: Growth, Decay, and Graphing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Exponential%20Functions%3A%20Growth%2C%20Decay%2C%20and%20Graphing%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tAaDItpC8OI",
         "quiz": [
           {
             "q": "An exponential function has the form ___.",
@@ -1103,6 +1113,7 @@
         "summary": "Students examine the two stages of photosynthesis — the light reactions in the thylakoid and the Calvin cycle in the stroma — in biochemical detail.",
         "resourceLabel": "YouTube: Photosynthesis: Light-Dependent and Light-Independent Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Photosynthesis%3A%20Light-Dependent%20and%20Light-Independent%20Reactions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=D2Y_eEaxrYo",
         "quiz": [
           {
             "q": "The light-dependent reactions of photosynthesis occur in ___.",
@@ -1162,6 +1173,7 @@
         "summary": "Students explore solution chemistry — concentration units (mol/L), solubility rules, and factors affecting solubility and rate of dissolving.",
         "resourceLabel": "YouTube: Solutions Chemistry: Concentration and Solubility",
         "resourceUrl": "https://www.youtube.com/results?search_query=Solutions%20Chemistry%3A%20Concentration%20and%20Solubility%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=MDHlaTHbEgM",
         "quiz": [
           {
             "q": "Concentration in mol/L (molarity, M) is calculated as ___.",
@@ -1227,6 +1239,7 @@
         "summary": "Students perform close analysis of short stories, examining narrative technique, point of view, structural choices, and the function of ambiguity.",
         "resourceLabel": "YouTube: Literature: The Short Story — Advanced Analysis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20The%20Short%20Story%20%E2%80%94%20Advanced%20Analysis%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YiS5kdrJhno",
         "quiz": [
           {
             "q": "Unreliable narration in a short story means ___.",
@@ -1286,6 +1299,7 @@
         "summary": "Students are introduced to logarithms as the inverse of exponential functions and explore their properties and applications.",
         "resourceLabel": "YouTube: Logarithmic Functions: Definition, Properties, and Graphs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Logarithmic%20Functions%3A%20Definition%2C%20Properties%2C%20and%20Graphs%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-nptxS9rZNA",
         "quiz": [
           {
             "q": "log_b(x) = y means ___.",
@@ -1345,6 +1359,7 @@
         "summary": "Students examine the three stages of aerobic cellular respiration — glycolysis, the Krebs (citric acid) cycle, and the electron transport chain — and fermentation.",
         "resourceLabel": "YouTube: Cellular Respiration: Glycolysis, Krebs Cycle, ETC",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cellular%20Respiration%3A%20Glycolysis%2C%20Krebs%20Cycle%2C%20ETC%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ9Zjc-jdys",
         "quiz": [
           {
             "q": "Glycolysis occurs in ___.",
@@ -1404,6 +1419,7 @@
         "summary": "Students extend acid-base understanding to Brønsted-Lowry theory, conjugate pairs, and calculating pH and pOH from concentrations.",
         "resourceLabel": "YouTube: Acids and Bases: Brønsted-Lowry Theory and pH Calculations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Acids%20and%20Bases%3A%20Br%C3%B8nsted-Lowry%20Theory%20and%20pH%20Calculations%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NNXvokAcSuE",
         "quiz": [
           {
             "q": "Brønsted-Lowry theory defines an acid as ___.",
@@ -1469,6 +1485,7 @@
         "summary": "Students examine the essay as a literary form — from Montaigne and Francis Bacon to contemporary essayists — and write their own personal/reflective essay.",
         "resourceLabel": "YouTube: Non-Fiction: The Essay Tradition",
         "resourceUrl": "https://www.youtube.com/results?search_query=Non-Fiction%3A%20The%20Essay%20Tradition%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UKRHXI4mz-c",
         "quiz": [
           {
             "q": "The essay as a literary form originated with ___.",
@@ -1528,6 +1545,7 @@
         "summary": "Students graph y = sin x, y = cos x, and y = tan x, identifying key features (period, amplitude, asymptotes) and applying transformations.",
         "resourceLabel": "YouTube: Trigonometric Functions: Graphs of sin, cos, tan",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Functions%3A%20Graphs%20of%20sin%2C%20cos%2C%20tan%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bm8oYKKlCXI",
         "quiz": [
           {
             "q": "The key features of y = sin x include ___.",
@@ -1587,6 +1605,7 @@
         "summary": "Students examine plant structure (roots, stems, leaves), vascular tissue (xylem and phloem), and water transport (transpiration and the cohesion-tension theory).",
         "resourceLabel": "YouTube: Plant Biology: Anatomy, Photosynthesis, and Transpiration",
         "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Biology%3A%20Anatomy%2C%20Photosynthesis%2C%20and%20Transpiration%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CMiPYHNNg28",
         "quiz": [
           {
             "q": "Xylem tissue in plants ___.",
@@ -1646,6 +1665,7 @@
         "summary": "Students learn IUPAC nomenclature for simple organic compounds (alkanes, alkenes, alcohols, carboxylic acids) and examine substitution, addition, and esterification reactions.",
         "resourceLabel": "YouTube: Organic Chemistry: Naming and Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Naming%20and%20Reactions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PYZJXWBMqBE",
         "quiz": [
           {
             "q": "The IUPAC name for CH₃CH₂CH₃ is ___.",
@@ -1711,6 +1731,7 @@
         "summary": "Students study one of Shakespeare's major tragedies in depth, examining tragic structure, the tragic hero, language, and key thematic concerns.",
         "resourceLabel": "YouTube: Shakespeare: Othello or Hamlet",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shakespeare%3A%20Othello%20or%20Hamlet%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IaTaaNinolU",
         "quiz": [
           {
             "q": "The Aristotelian tragic hero has ___.",
@@ -1770,6 +1791,7 @@
         "summary": "Students prove and apply basic trigonometric identities (Pythagorean, quotient, reciprocal) and use them to simplify expressions.",
         "resourceLabel": "YouTube: Trigonometric Identities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometric%20Identities%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m1OitPmkydY",
         "quiz": [
           {
             "q": "The Pythagorean identity is ___.",
@@ -1829,6 +1851,7 @@
         "summary": "Students examine the human digestive system and cardiovascular system, connecting structural features to functions.",
         "resourceLabel": "YouTube: Animal Physiology: Digestion and Circulation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Digestion%20and%20Circulation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1UvuBYUbFk0",
         "quiz": [
           {
             "q": "Mechanical digestion (physical breakdown) begins in ___.",
@@ -1888,6 +1911,7 @@
         "summary": "Students examine redox reactions, oxidation states, the activity series, galvanic cells, and electrolysis.",
         "resourceLabel": "YouTube: Electrochemistry: Oxidation-Reduction Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electrochemistry%3A%20Oxidation-Reduction%20Reactions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dF5lB7gRtcA",
         "quiz": [
           {
             "q": "In a redox reaction, oxidation means ___.",
@@ -1953,6 +1977,7 @@
         "summary": "Students write a research essay that situates a literary text within its historical, cultural, or biographical context, integrating secondary sources responsibly.",
         "resourceLabel": "YouTube: Writing: The Literary Research Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Literary%20Research%20Essay%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=L1JhCPM_Iy8",
         "quiz": [
           {
             "q": "Secondary sources in a literary research essay ___.",
@@ -2012,6 +2037,7 @@
         "summary": "Students solve exponential equations using logarithms and apply these functions to compound interest, population growth, and half-life problems.",
         "resourceLabel": "YouTube: Applications of Exponential and Logarithmic Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Applications%20of%20Exponential%20and%20Logarithmic%20Functions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FIOcFEz8-CA",
         "quiz": [
           {
             "q": "To solve 3ˣ = 50, you ___.",
@@ -2071,6 +2097,7 @@
         "summary": "Students examine population growth models (exponential and logistic), interspecific interactions, and energy flow in ecosystems.",
         "resourceLabel": "YouTube: Ecology: Population Dynamics and Community Ecology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Population%20Dynamics%20and%20Community%20Ecology%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=n_R8j2zcyZQ",
         "quiz": [
           {
             "q": "Logistic growth differs from exponential growth in that ___.",
@@ -2130,6 +2157,7 @@
         "summary": "Students examine reversible reactions, dynamic equilibrium, equilibrium constant expressions (Keq), and Le Chatelier's principle for predicting shifts.",
         "resourceLabel": "YouTube: Chemical Equilibrium: Le Chatelier's Principle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemical%20Equilibrium%3A%20Le%20Chatelier%27s%20Principle%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bNcTt3l3Q8k",
         "quiz": [
           {
             "q": "Dynamic equilibrium means ___.",
@@ -2195,6 +2223,7 @@
         "summary": "Students read and analyse a 20th or 21st century Canadian or international play, examining dramatic technique, theatrical conventions, and thematic concerns.",
         "resourceLabel": "YouTube: Drama: Studying a Contemporary Play",
         "resourceUrl": "https://www.youtube.com/results?search_query=Drama%3A%20Studying%20a%20Contemporary%20Play%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=y2f726TyGNM",
         "quiz": [
           {
             "q": "Dramatic irony in theatre differs from dramatic irony in prose in that ___.",
@@ -2254,6 +2283,7 @@
         "summary": "Students investigate arithmetic and geometric sequences and series, using formulas for nth term and sum, with applications to finance and patterns.",
         "resourceLabel": "YouTube: Discrete Functions: Sequences and Series",
         "resourceUrl": "https://www.youtube.com/results?search_query=Discrete%20Functions%3A%20Sequences%20and%20Series%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4IxkBq13yHs",
         "quiz": [
           {
             "q": "In an arithmetic sequence, each term is ___.",
@@ -2313,6 +2343,7 @@
         "summary": "Students examine the structure and function of neurons, the central and peripheral nervous system, and the hormonal regulation of body functions.",
         "resourceLabel": "YouTube: Animal Physiology: Nervous System and Endocrine System",
         "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Nervous%20System%20and%20Endocrine%20System%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=emvHaBiRY8Q",
         "quiz": [
           {
             "q": "A nerve impulse (action potential) is transmitted by ___.",
@@ -2372,6 +2403,7 @@
         "summary": "Students examine types of radioactive decay (alpha, beta, gamma), nuclear equations, half-life calculations, and applications of nuclear chemistry.",
         "resourceLabel": "YouTube: Nuclear Chemistry: Radioactive Decay and Nuclear Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Chemistry%3A%20Radioactive%20Decay%20and%20Nuclear%20Reactions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cPRFF-eCGT8",
         "quiz": [
           {
             "q": "Alpha (α) decay produces ___.",
@@ -2437,6 +2469,7 @@
         "summary": "Students write a university or college personal statement, understanding audience, voice, and purpose in high-stakes formal writing.",
         "resourceLabel": "YouTube: Writing: The Personal Statement and Formal Writing for Future Purposes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Statement%20and%20Formal%20Writing%20for%20Future%20Purposes%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Cq4J8bPBcck",
         "quiz": [
           {
             "q": "A university personal statement differs from a school essay in that ___.",
@@ -2496,6 +2529,7 @@
         "summary": "Students apply the fundamental counting principle, factorial notation, permutations (ₙPᵣ), and combinations (ₙCᵣ) to counting and probability problems.",
         "resourceLabel": "YouTube: Combinations and Permutations: Counting Principles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Combinations%20and%20Permutations%3A%20Counting%20Principles%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3lmEqp8VhAU",
         "quiz": [
           {
             "q": "The Fundamental Counting Principle states ___.",
@@ -2555,6 +2589,7 @@
         "summary": "Students examine chromosomal abnormalities (trisomy, monosomy), genetic disorders (single-gene, multifactorial), and genetic counselling.",
         "resourceLabel": "YouTube: Genetics: Chromosomal Abnormalities and Genetic Disorders",
         "resourceUrl": "https://www.youtube.com/results?search_query=Genetics%3A%20Chromosomal%20Abnormalities%20and%20Genetic%20Disorders%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Jsuu1KR_hho",
         "quiz": [
           {
             "q": "Trisomy 21 (Down syndrome) results from ___.",
@@ -2614,6 +2649,7 @@
         "summary": "Students examine exothermic and endothermic reactions, Hess's Law, enthalpy of formation, and calorimetry.",
         "resourceLabel": "YouTube: Thermochemistry: Energy Changes in Chemical Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Thermochemistry%3A%20Energy%20Changes%20in%20Chemical%20Reactions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LsqKL3pBVMA",
         "quiz": [
           {
             "q": "An exothermic reaction ___.",
@@ -3281,6 +3317,7 @@
         "summary": "Students connect the major themes of Grade 11 Biology — cell biology, genetics, evolution, ecology, and physiology — into a unified understanding of life.",
         "resourceLabel": "YouTube: Biology Synthesis: Connections Across Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%20Synthesis%3A%20Connections%20Across%20Strands%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oefAI2x2CQM",
         "quiz": [
           {
             "q": "The connection between cell biology and genetics is ___.",

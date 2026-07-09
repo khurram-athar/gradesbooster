@@ -501,6 +501,7 @@
         "summary": "Students read and analyse a Shakespearean play in depth, examining dramatic conventions, language, themes, and historical context. (e.g., Romeo and Juliet, Macbeth, A Midsummer Night's Dream)",
         "resourceLabel": "YouTube: Shakespeare: Studying a Play",
         "resourceUrl": "https://www.youtube.com/results?search_query=Shakespeare%3A%20Studying%20a%20Play%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ine9BJye4Po",
         "quiz": [
           {
             "q": "Tragic heroes in Shakespeare typically possess ___.",
@@ -560,6 +561,7 @@
         "summary": "Students graph parabolas using vertex form y = a(x−h)² + k, identify key features (vertex, axis of symmetry, direction of opening, x- and y-intercepts), and use transformations.",
         "resourceLabel": "YouTube: Quadratics: Graphing Parabolas",
         "resourceUrl": "https://www.youtube.com/results?search_query=Quadratics%3A%20Graphing%20Parabolas%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PjWrGpWFhkU",
         "quiz": [
           {
             "q": "In y = a(x − h)² + k, the vertex is ___.",
@@ -619,6 +621,7 @@
         "summary": "Students classify chemical reactions (synthesis, decomposition, single displacement, double displacement, combustion) and balance equations.",
         "resourceLabel": "YouTube: Chemistry: Chemical Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%3A%20Chemical%20Reactions%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lvbm8horG1U",
         "quiz": [
           {
             "q": "A balanced chemical equation has ___.",
@@ -678,6 +681,7 @@
         "summary": "Students examine how WWII transformed Canadian society — women's roles, war economy, rationing, and injustices such as Japanese-Canadian internment.",
         "resourceLabel": "YouTube: Canada's Home Front in WWII",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Home%20Front%20in%20WWII%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7e5oygzUrs4",
         "quiz": [
           {
             "q": "The internment of Japanese Canadians during WWII involved ___.",
@@ -743,6 +747,7 @@
         "summary": "Students critically analyse advertising texts across media, examining techniques of persuasion, target audiences, construction of identity, and representation.",
         "resourceLabel": "YouTube: Media Studies: Advertising and Persuasion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Studies%3A%20Advertising%20and%20Persuasion%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PwXFmqQCK60",
         "quiz": [
           {
             "q": "Semiotics in media analysis is the study of ___.",
@@ -802,6 +807,7 @@
         "summary": "Students work with quadratic functions in standard form (y = ax² + bx + c), find the vertex using x = −b/2a, and model real-world situations.",
         "resourceLabel": "YouTube: Quadratics: Standard Form and Applications",
         "resourceUrl": "https://www.youtube.com/results?search_query=Quadratics%3A%20Standard%20Form%20and%20Applications%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SGUP6BkA870",
         "quiz": [
           {
             "q": "In the standard form y = ax² + bx + c, the axis of symmetry is ___.",
@@ -861,6 +867,7 @@
         "summary": "Students review cell structure and extend understanding to DNA structure, the genetic code, and the processes of transcription and translation.",
         "resourceLabel": "YouTube: Biology: Cell Biology Review and DNA",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Cell%20Biology%20Review%20and%20DNA%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8kK2zwjRV0M",
         "quiz": [
           {
             "q": "DNA is a double helix composed of ___.",
@@ -920,6 +927,7 @@
         "summary": "Students examine the ideological conflict between the USA and USSR, Canada's participation in NATO and NORAD, and the Korean War.",
         "resourceLabel": "YouTube: The Cold War: Origins and Canada's Role",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Cold%20War%3A%20Origins%20and%20Canada%27s%20Role%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=I79TpDe3t2g",
         "quiz": [
           {
             "q": "The Cold War was primarily ___.",
@@ -985,6 +993,7 @@
         "summary": "Students select a Canadian novel or a world novel in English translation and write analytical reading journal entries tracking theme, character, and author's craft.",
         "resourceLabel": "YouTube: Independent Reading: Novel Selection and Response",
         "resourceUrl": "https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Selection%20and%20Response%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=eEtEYw9soK8",
         "quiz": [
           {
             "q": "When selecting a novel for independent study, you should consider ___.",
@@ -1044,6 +1053,7 @@
         "summary": "Students apply quadratic models to real-world situations: projectile motion, revenue and profit maximisation, area optimisation.",
         "resourceLabel": "YouTube: Quadratics: Revenue, Profit, and Projectile Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Quadratics%3A%20Revenue%2C%20Profit%2C%20and%20Projectile%20Problems%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-MvyKD3tn58",
         "quiz": [
           {
             "q": "A projectile is launched with height h = −4.9t² + 30t + 1.5. Maximum height occurs at t = ?",
@@ -1103,6 +1113,7 @@
         "summary": "Students apply Mendelian genetics — dominant/recessive, codominance, incomplete dominance, multiple alleles — to dihybrid crosses and inheritance patterns.",
         "resourceLabel": "YouTube: Biology: Genetics and Heredity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Genetics%20and%20Heredity%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mUtk0MfX-ic",
         "quiz": [
           {
             "q": "In a dihybrid cross between two AaBb parents, the expected phenotype ratio of offspring is ___.",
@@ -1162,6 +1173,7 @@
         "summary": "Students examine Quebec's Quiet Revolution, bilingualism, the October Crisis, and the evolution of Canadian identity in the 1960s-70s.",
         "resourceLabel": "YouTube: The Quiet Revolution and Canadian Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Quiet%20Revolution%20and%20Canadian%20Identity%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "The Quiet Revolution in Quebec (1960-66 and beyond) involved ___.",
@@ -1227,6 +1239,7 @@
         "summary": "Students apply advanced grammar — parallel structure, varied syntax, subordination and coordination, active vs. passive voice — to improve the quality of their analytical writing.",
         "resourceLabel": "YouTube: Grammar and Style: Sophisticated Sentence Construction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%20and%20Style%3A%20Sophisticated%20Sentence%20Construction%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=jul2urONzOQ",
         "quiz": [
           {
             "q": "Active voice means ___.",
@@ -1286,6 +1299,7 @@
         "summary": "Students apply the distance formula, midpoint formula, and slope relationships to classify and verify geometric shapes.",
         "resourceLabel": "YouTube: Analytic Geometry: Distance, Midpoint, and Slopes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Distance%2C%20Midpoint%2C%20and%20Slopes%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rpMu98yRk40",
         "quiz": [
           {
             "q": "The midpoint formula for points (x₁,y₁) and (x₂,y₂) is ___.",
@@ -1345,6 +1359,7 @@
         "summary": "Students examine Darwin's theory of evolution by natural selection, evidence for evolution, and mechanisms of evolutionary change.",
         "resourceLabel": "YouTube: Biology: Evolution and Natural Selection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Evolution%20and%20Natural%20Selection%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ccdXeaP1l_s",
         "quiz": [
           {
             "q": "Natural selection operates on ___.",
@@ -1404,6 +1419,7 @@
         "summary": "Students examine the economic, military, cultural, and political dimensions of the Canada-US relationship.",
         "resourceLabel": "YouTube: Canada and the United States: A Complex Relationship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20the%20United%20States%3A%20A%20Complex%20Relationship%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "Canada and the US share the world's largest ___.",
@@ -1469,6 +1485,7 @@
         "summary": "Students participate in and lead Socratic seminars on literary and media texts. They apply skills in active listening, analytical speaking, text-based evidence, and respectful dialogue.",
         "resourceLabel": "YouTube: Oral Communication: Seminar and Discussion",
         "resourceUrl": "https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20and%20Discussion%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9cHOAxj7LQE",
         "quiz": [
           {
             "q": "A Socratic seminar is ___.",
@@ -1528,6 +1545,7 @@
         "summary": "Students apply sine, cosine, and tangent ratios in right triangles to find unknown sides and angles. They solve problems in context.",
         "resourceLabel": "YouTube: Trigonometry: Primary Trig Ratios (SOH-CAH-TOA)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Primary%20Trig%20Ratios%20%28SOH-CAH-TOA%29%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PUB0TaZ7bhA",
         "quiz": [
           {
             "q": "SOH-CAH-TOA means ___.",
@@ -1587,6 +1605,7 @@
         "summary": "Students analyse motion using displacement, velocity, acceleration, and time. They apply kinematics equations and interpret distance-time and velocity-time graphs.",
         "resourceLabel": "YouTube: Physics: Kinematics — Motion in One Dimension",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Kinematics%20%E2%80%94%20Motion%20in%20One%20Dimension%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=dHjWVlfNraM",
         "quiz": [
           {
             "q": "Displacement differs from distance because ___.",
@@ -1646,6 +1665,7 @@
         "summary": "Students examine the Canadian Charter of Rights and Freedoms (1982), key rights it protects, important court cases, and its limitations.",
         "resourceLabel": "YouTube: The Charter of Rights and Freedoms",
         "resourceUrl": "https://www.youtube.com/results?search_query=The%20Charter%20of%20Rights%20and%20Freedoms%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bGu9ZExFNWs",
         "quiz": [
           {
             "q": "The Charter of Rights and Freedoms is part of ___.",
@@ -1711,6 +1731,7 @@
         "summary": "Students write a comparative literary essay analysing similarities and differences between two texts (novels, plays, poems, films) in terms of theme, technique, or character.",
         "resourceLabel": "YouTube: Writing: The Comparative Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hvMSeg1s7uc",
         "quiz": [
           {
             "q": "A comparative essay thesis must ___.",
@@ -1770,6 +1791,7 @@
         "summary": "Students extend trig to angles in standard position (0°–360°), the CAST rule, and the unit circle. They find exact trig values for special angles.",
         "resourceLabel": "YouTube: Trigonometry: Angles in Standard Position",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20Angles%20in%20Standard%20Position%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6BRtPfofXog",
         "quiz": [
           {
             "q": "An angle in standard position has its vertex at the origin and its initial arm ___.",
@@ -1829,6 +1851,7 @@
         "summary": "Students apply Newton's three laws of motion to analyse forces and predict the behaviour of objects. They work with free body diagrams.",
         "resourceLabel": "YouTube: Physics: Forces and Newton's Laws",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Forces%20and%20Newton%27s%20Laws%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-w6oW1ut4Dw",
         "quiz": [
           {
             "q": "Newton's First Law (Inertia) states ___.",
@@ -1888,6 +1911,7 @@
         "summary": "Students examine the evolution of Canadian immigration policy from exclusion to multiculturalism, and the ongoing debates about Canadian identity.",
         "resourceLabel": "YouTube: Multiculturalism and Immigration in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Multiculturalism%20and%20Immigration%20in%20Canada%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE",
         "quiz": [
           {
             "q": "Canada's pre-WWII immigration policy was ___.",
@@ -1953,6 +1977,7 @@
         "summary": "Students deeply read a contemporary Canadian novel, examining how the text engages with specifically Canadian themes — landscape, identity, colonial history, immigration, or social justice.",
         "resourceLabel": "YouTube: Novel Study: Examining a Contemporary Canadian Novel",
         "resourceUrl": "https://www.youtube.com/results?search_query=Novel%20Study%3A%20Examining%20a%20Contemporary%20Canadian%20Novel%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3mJz_cpVCaw",
         "quiz": [
           {
             "q": "Canadian literature often reflects ___.",
@@ -2012,6 +2037,7 @@
         "summary": "Students apply the Sine Law (a/sinA = b/sinB = c/sinC) to find unknown sides and angles in non-right triangles.",
         "resourceLabel": "YouTube: Trigonometry: The Sine Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Sine%20Law%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=bDPRWJdVzfs",
         "quiz": [
           {
             "q": "The Sine Law applies to ___.",
@@ -2071,6 +2097,7 @@
         "summary": "Students apply the concepts of work (W = Fd cosθ), kinetic and potential energy, conservation of energy, and power (P = W/t).",
         "resourceLabel": "YouTube: Physics: Work, Energy, and Power",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Work%2C%20Energy%2C%20and%20Power%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=w4QFJb9a8vo",
         "quiz": [
           {
             "q": "Work is done on an object when ___.",
@@ -2130,6 +2157,7 @@
         "summary": "Students examine the historical and legal context of Indigenous land claims, treaty rights, and the Supreme Court's evolving jurisprudence.",
         "resourceLabel": "YouTube: Indigenous Rights and Land Claims in Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Indigenous%20Rights%20and%20Land%20Claims%20in%20Canada%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=IUHnKUaDYjs",
         "quiz": [
           {
             "q": "The Royal Proclamation of 1763 is significant to Indigenous rights because ___.",
@@ -2195,6 +2223,7 @@
         "summary": "Students study film as a literary medium. They analyse how directors use camera work, editing, sound, mise-en-scène, and narrative structure to create meaning.",
         "resourceLabel": "YouTube: Film Study: Cinematic Techniques",
         "resourceUrl": "https://www.youtube.com/results?search_query=Film%20Study%3A%20Cinematic%20Techniques%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BFwMRVwrKcA",
         "quiz": [
           {
             "q": "Mise-en-scène refers to ___.",
@@ -2254,6 +2283,7 @@
         "summary": "Students apply the Cosine Law (a² = b² + c² − 2bc cosA) to find unknown sides and angles in triangles where the Sine Law cannot be applied directly.",
         "resourceLabel": "YouTube: Trigonometry: The Cosine Law",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trigonometry%3A%20The%20Cosine%20Law%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=9CGY0s-uCUE",
         "quiz": [
           {
             "q": "The Cosine Law is used when ___.",
@@ -2313,6 +2343,7 @@
         "summary": "Students examine the properties of waves (transverse, longitudinal, amplitude, wavelength, frequency, speed) and sound as a longitudinal wave.",
         "resourceLabel": "YouTube: Physics: Waves and Sound",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Waves%20and%20Sound%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1u5GSxuSj7A",
         "quiz": [
           {
             "q": "A transverse wave has ___.",
@@ -2372,6 +2403,7 @@
         "summary": "Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
         "resourceLabel": "YouTube: Canada's Environmental History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.",
@@ -2437,6 +2469,7 @@
         "summary": "Students write a personal reflective essay on a significant literary or cultural experience. They combine analytical rigour with genuine personal voice and insight.",
         "resourceLabel": "YouTube: Writing: The Reflective Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Reflective%20Essay%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=AeQpEGDry2M",
         "quiz": [
           {
             "q": "A reflective essay differs from a personal narrative because ___.",
@@ -2496,6 +2529,7 @@
         "summary": "Students examine income types, taxes, budgeting, compound interest, and basic investing principles relevant to their near future.",
         "resourceLabel": "YouTube: Financial Literacy: Earning, Saving, and Investing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Earning%2C%20Saving%2C%20and%20Investing%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=4j2emMn7UaI",
         "quiz": [
           {
             "q": "Canada's progressive income tax system means ___.",
@@ -2555,6 +2589,7 @@
         "summary": "Students study the behaviour of light: law of reflection, refraction (Snell's Law), total internal reflection, and optical instruments.",
         "resourceLabel": "YouTube: Physics: Light — Reflection, Refraction, Optics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Light%20%E2%80%94%20Reflection%2C%20Refraction%2C%20Optics%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ON1QGqB6vxg",
         "quiz": [
           {
             "q": "Snell's Law (n₁sinθ₁ = n₂sinθ₂) describes ___.",
@@ -2614,6 +2649,7 @@
         "summary": "Students examine landmark Supreme Court of Canada cases under the Charter, analysing the legal reasoning and social implications.",
         "resourceLabel": "YouTube: Charter Rights: Case Studies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Charter%20Rights%3A%20Case%20Studies%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DcV6qtnSrCE",
         "quiz": [
           {
             "q": "R v Oakes (1986) established ___.",
@@ -2679,6 +2715,7 @@
         "summary": "Students read and analyse contemporary poetry by Canadian poets, particularly from Indigenous, Black Canadian, and immigrant voices, examining how poetry enacts identity and challenges injustice.",
         "resourceLabel": "YouTube: Literature: Poetry — Voice, Identity, and Social Justice",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20Poetry%20%E2%80%94%20Voice%2C%20Identity%2C%20and%20Social%20Justice%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ysq6IjXsSHM",
         "quiz": [
           {
             "q": "Contemporary Canadian poetry by marginalised voices ___.",

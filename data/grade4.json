@@ -501,6 +501,7 @@
         "summary": "Grade 4 Language strand: synonyms are words with similar meanings; antonyms have opposite meanings. Using them enriches vocabulary and writing.",
         "resourceLabel": "YouTube: Synonyms and Antonyms",
         "resourceUrl": "https://www.youtube.com/results?search_query=Synonyms%20and%20Antonyms%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PDI2xlOBcM4",
         "quiz": [
           {
             "q": "A synonym for 'happy' is ___.",
@@ -560,6 +561,7 @@
         "summary": "Grade 4 Number strand: multiply 2-digit numbers by 1-digit numbers using the distributive property and place value.",
         "resourceLabel": "YouTube: 2-Digit × 1-Digit Multiplication",
         "resourceUrl": "https://www.youtube.com/results?search_query=2-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6owKqFWej-w",
         "quiz": [
           {
             "q": "23 × 4 = ?",
@@ -619,6 +621,7 @@
         "summary": "Grade 4 Science Life Systems: adaptations are physical or behavioural features that help organisms survive in their habitat.",
         "resourceLabel": "YouTube: Adaptations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adaptations%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QVyOrRDsD38",
         "quiz": [
           {
             "q": "An adaptation is ___.",
@@ -678,6 +681,7 @@
         "summary": "Grade 4 Social Studies: Ancient Greece developed democracy, philosophy, the Olympics, and architecture that influenced the Western world.",
         "resourceLabel": "YouTube: Ancient Greece",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Greece%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RchSJSJAbc0",
         "quiz": [
           {
             "q": "Ancient Greece was located in ___.",
@@ -743,6 +747,7 @@
         "summary": "Grade 4 Language strand: a prefix is added before a root word to change its meaning; a suffix is added after. Examples: un-, re-, -ful, -less.",
         "resourceLabel": "YouTube: Prefixes and Suffixes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%20and%20Suffixes%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=yRwmr7CqnrY",
         "quiz": [
           {
             "q": "What does the prefix 'un-' mean?",
@@ -802,6 +807,7 @@
         "summary": "Grade 4 Number strand: students divide 2-digit dividends by 1-digit divisors, understanding quotient and remainder.",
         "resourceLabel": "YouTube: Introduction to Long Division",
         "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Long%20Division%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2-sP854NMLw",
         "quiz": [
           {
             "q": "In division, the number being divided is the ___.",
@@ -861,6 +867,7 @@
         "summary": "Grade 4 Science Life Systems: biodiversity means the variety of living organisms in an ecosystem. Greater biodiversity usually means a healthier ecosystem.",
         "resourceLabel": "YouTube: Biodiversity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biodiversity%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rVZktiOxsww",
         "quiz": [
           {
             "q": "Biodiversity means ___.",
@@ -920,6 +927,7 @@
         "summary": "Grade 4 Social Studies: Ancient Rome built a vast empire, developing law, engineering, and governance that influenced modern Western civilization.",
         "resourceLabel": "YouTube: Ancient Rome",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ancient%20Rome%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Wo0KujQEJ_s",
         "quiz": [
           {
             "q": "Ancient Rome was centred in what is now ___.",
@@ -985,6 +993,7 @@
         "summary": "Grade 4 Reading strand: the main idea is what a text is mostly about. Supporting details give more information and evidence for the main idea.",
         "resourceLabel": "YouTube: Reading: Main Idea and Supporting Details",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Main%20Idea%20and%20Supporting%20Details%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=F6wvArMBZIo",
         "quiz": [
           {
             "q": "The main idea is ___.",
@@ -1044,6 +1053,7 @@
         "summary": "Grade 4 Number strand: a fraction represents equal parts of a whole. The numerator shows how many parts are selected; the denominator shows total equal parts.",
         "resourceLabel": "YouTube: Fractions: Equal Parts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20Parts%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=362JVVvgYPE",
         "quiz": [
           {
             "q": "In the fraction 3/4, the denominator is ___.",
@@ -1103,6 +1113,7 @@
         "summary": "Grade 4 Science Life Systems: human activities such as deforestation, pollution, and urbanization negatively affect ecosystems; conservation actions help protect them.",
         "resourceLabel": "YouTube: Human Impact on Ecosystems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Impact%20on%20Ecosystems%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Um-bo2MWDsQ",
         "quiz": [
           {
             "q": "Which human activity HARMS ecosystems?",
@@ -1162,6 +1173,7 @@
         "summary": "Grade 4 Social Studies: Indigenous peoples of North America include many diverse nations, each with unique cultures, languages, and governance systems.",
         "resourceLabel": "YouTube: Indigenous Peoples of North America",
         "resourceUrl": "https://www.youtube.com/results?search_query=Indigenous%20Peoples%20of%20North%20America%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YqU9kKEgJag",
         "quiz": [
           {
             "q": "Indigenous peoples of North America ___.",
@@ -1227,6 +1239,7 @@
         "summary": "Grade 4 Reading strand: inference means using evidence from the text plus your own knowledge to understand something not directly stated.",
         "resourceLabel": "YouTube: Reading: Inference",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Inference%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JdaD2FZQFEY",
         "quiz": [
           {
             "q": "An inference is ___.",
@@ -1286,6 +1299,7 @@
         "summary": "Grade 4 Number strand: to compare fractions with the same denominator, compare numerators. To compare different denominators, find equivalent fractions.",
         "resourceLabel": "YouTube: Comparing Fractions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Fractions%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KNdUJQ_qd4U",
         "quiz": [
           {
             "q": "Which is greater: 3/5 or 1/5?",
@@ -1345,6 +1359,7 @@
         "summary": "Grade 4 Science Earth strand: rocks are made of minerals. The three rock types are igneous, sedimentary, and metamorphic, each formed by different processes.",
         "resourceLabel": "YouTube: Rocks and Minerals",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rocks%20and%20Minerals%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=XvVvfPnrhd0",
         "quiz": [
           {
             "q": "The three types of rocks are igneous, sedimentary, and ___.",
@@ -1404,6 +1419,7 @@
         "summary": "Grade 4 Social Studies: Canada's early history includes Indigenous peoples, European exploration, New France, and British colonization.",
         "resourceLabel": "YouTube: Early Canadian History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Early%20Canadian%20History%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "Who were the first people to live in what is now Canada?",
@@ -1469,6 +1485,7 @@
         "summary": "Grade 4 Writing strand: a well-organized paragraph has a topic sentence, supporting details, and a concluding sentence. All sentences relate to one main idea.",
         "resourceLabel": "YouTube: Writing: Paragraphs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hhyMVd-tISU",
         "quiz": [
           {
             "q": "The topic sentence in a paragraph ___.",
@@ -1528,6 +1545,7 @@
         "summary": "Grade 4 Number strand: to add fractions with the same denominator, add the numerators and keep the denominator the same.",
         "resourceLabel": "YouTube: Adding Fractions with Same Denominator",
         "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20Fractions%20with%20Same%20Denominator%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rLCheqJh_rQ",
         "quiz": [
           {
             "q": "1/5 + 2/5 = ?",
@@ -1587,6 +1605,7 @@
         "summary": "Grade 4 Science Earth strand: rocks cycle continuously between igneous, sedimentary, and metamorphic forms through geological processes.",
         "resourceLabel": "YouTube: Rock Cycle",
         "resourceUrl": "https://www.youtube.com/results?search_query=Rock%20Cycle%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=VByCLpj-I_s",
         "quiz": [
           {
             "q": "What drives the rock cycle?",
@@ -1646,6 +1665,7 @@
         "summary": "Grade 4 Social Studies: European explorers from the 1400s–1600s sailed to North America, changing the world and affecting Indigenous peoples significantly.",
         "resourceLabel": "YouTube: European Explorers",
         "resourceUrl": "https://www.youtube.com/results?search_query=European%20Explorers%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a8hDKU_bAec",
         "quiz": [
           {
             "q": "Why did Europeans explore the world in the 1400s–1600s?",
@@ -1711,6 +1731,7 @@
         "summary": "Grade 4 Writing strand: descriptive writing uses sensory details (sight, sound, smell, touch, taste) and vivid language to create a clear picture for the reader.",
         "resourceLabel": "YouTube: Writing: Descriptive Writing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Descriptive%20Writing%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DQpIG_M_I-A",
         "quiz": [
           {
             "q": "Descriptive writing uses ___.",
@@ -1770,6 +1791,7 @@
         "summary": "Grade 4 Number strand: a decimal is another way to write a fraction. Tenths represent parts of a whole divided into 10 equal parts (e.g., 0.3 = 3/10).",
         "resourceLabel": "YouTube: Decimals: Tenths",
         "resourceUrl": "https://www.youtube.com/results?search_query=Decimals%3A%20Tenths%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KrAQneGhyuE",
         "quiz": [
           {
             "q": "0.7 means ___.",
@@ -1829,6 +1851,7 @@
         "summary": "Grade 4 Science Earth strand: soil forms over thousands of years by weathering of rock and addition of organic matter. It has layers called horizons.",
         "resourceLabel": "YouTube: Soil Formation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Soil%20Formation%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=og9A_Apr534",
         "quiz": [
           {
             "q": "Soil forms from ___.",
@@ -1888,6 +1911,7 @@
         "summary": "Grade 4 Social Studies: governments organize society and make laws. A democracy gives citizens a voice; a monarchy is led by a king or queen.",
         "resourceLabel": "YouTube: Government: Democracy and Monarchy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Government%3A%20Democracy%20and%20Monarchy%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hLzXOA6FBX8",
         "quiz": [
           {
             "q": "In a democracy, leaders are ___.",
@@ -1953,6 +1977,7 @@
         "summary": "Grade 4 Writing strand: persuasive writing argues for a position using reasons, evidence, and a call to action. It has a clear opinion statement.",
         "resourceLabel": "YouTube: Writing: Persuasive Writing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Persuasive%20Writing%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hD9arWXIddM",
         "quiz": [
           {
             "q": "The purpose of persuasive writing is to ___.",
@@ -2012,6 +2037,7 @@
         "summary": "Grade 4 Number strand: hundredths represent parts of a whole divided into 100 equal parts. 0.23 = 23/100 = 2 tenths + 3 hundredths.",
         "resourceLabel": "YouTube: Decimals: Hundredths",
         "resourceUrl": "https://www.youtube.com/results?search_query=Decimals%3A%20Hundredths%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=KrAQneGhyuE",
         "quiz": [
           {
             "q": "0.47 means ___.",
@@ -2071,6 +2097,7 @@
         "summary": "Grade 4 Science Energy strand: light travels in straight lines and reflects off surfaces. The angle of incidence equals the angle of reflection.",
         "resourceLabel": "YouTube: Properties of Light: Reflection",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Reflection%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DzpHXtnXFCI",
         "quiz": [
           {
             "q": "Light travels in ___.",
@@ -2130,6 +2157,7 @@
         "summary": "Grade 4 Social Studies: trade is the exchange of goods and services. Ancient and early modern civilizations developed trade routes that spread culture and ideas.",
         "resourceLabel": "YouTube: Trade and Commerce in History",
         "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20and%20Commerce%20in%20History%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HfN8BnRJryQ",
         "quiz": [
           {
             "q": "Trade is the exchange of ___.",
@@ -2195,6 +2223,7 @@
         "summary": "Grade 4 Language strand: the 'i before e except after c' rule helps spell many words, but has exceptions. Students apply this pattern in context.",
         "resourceLabel": "YouTube: Spelling: ie/ei Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Spelling%3A%20ie%2Fei%20Words%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SoCfScr9VM8",
         "quiz": [
           {
             "q": "Which spelling is correct?",
@@ -2254,6 +2283,7 @@
         "summary": "Grade 4 Number strand: students calculate change by subtracting the price from the amount paid, using coins and bills up to $20.",
         "resourceLabel": "YouTube: Money: Making Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DbYbIB4m3RM",
         "quiz": [
           {
             "q": "An item costs $3.75. You pay $5.00. Your change is ___.",
@@ -2313,6 +2343,7 @@
         "summary": "Grade 4 Science Energy strand: refraction is the bending of light as it passes from one medium to another (e.g., from air to water).",
         "resourceLabel": "YouTube: Properties of Light: Refraction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Properties%20of%20Light%3A%20Refraction%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DzpHXtnXFCI",
         "quiz": [
           {
             "q": "Refraction is the ___ of light.",
@@ -2372,6 +2403,7 @@
         "summary": "Grade 4 Social Studies: human rights are basic rights all people deserve. The Universal Declaration of Human Rights (UDHR, 1948) protects these rights globally.",
         "resourceLabel": "YouTube: Human Rights",
         "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Rights%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=FWwEMFSY1r0",
         "quiz": [
           {
             "q": "Human rights are rights that ___.",
@@ -2437,6 +2469,7 @@
         "summary": "Grade 4 Language strand: adverbs modify verbs, adjectives, or other adverbs. They tell how, when, where, or to what degree something happens.",
         "resourceLabel": "YouTube: Grammar: Adverbs",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cAHgn61uXog",
         "quiz": [
           {
             "q": "An adverb modifies a ___.",
@@ -2496,6 +2529,7 @@
         "summary": "Grade 4 Algebra and Patterning strand: numeric patterns follow a mathematical rule; geometric patterns involve shapes. Students identify rules and extend patterns.",
         "resourceLabel": "YouTube: Patterns: Numeric and Geometric",
         "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20Numeric%20and%20Geometric%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vV7C7bXm4VI",
         "quiz": [
           {
             "q": "What is the rule? 3, 6, 9, 12...",
@@ -2555,6 +2589,7 @@
         "summary": "Grade 4 Science Energy strand: sounds are made by vibrations. Frequency determines pitch — higher frequency = higher pitch. Amplitude determines volume.",
         "resourceLabel": "YouTube: Sound: Vibration and Frequency",
         "resourceUrl": "https://www.youtube.com/results?search_query=Sound%3A%20Vibration%20and%20Frequency%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fe2DAWI7ZM4",
         "quiz": [
           {
             "q": "Sound is caused by ___.",
@@ -2614,6 +2649,7 @@
         "summary": "Grade 4 Social Studies: Canada has 10 provinces and 3 territories. Each has a capital city and distinct geographic features.",
         "resourceLabel": "YouTube: Canadian Geography: Provinces and Territories",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Geography%3A%20Provinces%20and%20Territories%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Qo7aTFHyhPE",
         "quiz": [
           {
             "q": "How many provinces does Canada have?",
@@ -2679,6 +2715,7 @@
         "summary": "Grade 4 Language strand: context clues are words and phrases near an unknown word that help you determine its meaning without a dictionary.",
         "resourceLabel": "YouTube: Vocabulary: Context Clues",
         "resourceUrl": "https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CiNggzdWkIo",
         "quiz": [
           {
             "q": "Context clues are ___.",
@@ -2738,6 +2775,7 @@
         "summary": "Grade 4 Geometry strand: an angle is formed by two rays with a common endpoint. A right angle = 90°, acute angle < 90°, obtuse angle > 90°.",
         "resourceLabel": "YouTube: Geometry: Angles",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=aOipc02LUpo",
         "quiz": [
           {
             "q": "A right angle measures exactly ___.",
@@ -2797,6 +2835,7 @@
         "summary": "Grade 4 Science Energy strand: pulleys and gears are simple machines that redirect or change force. Gears can speed up or slow down motion and change direction.",
         "resourceLabel": "YouTube: Pulleys and Gears",
         "resourceUrl": "https://www.youtube.com/results?search_query=Pulleys%20and%20Gears%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=t5zJ80OWLUk",
         "quiz": [
           {
             "q": "A pulley is used to ___.",
@@ -2856,6 +2895,7 @@
         "summary": "Grade 4 Social Studies: Ontario is Canada's most populous province with diverse geography including the Great Lakes, Canadian Shield, and Great Lakes–St. Lawrence Lowlands.",
         "resourceLabel": "YouTube: Ontario Geography",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ontario%20Geography%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QBQ5ZhHlkkY",
         "quiz": [
           {
             "q": "Ontario borders how many of the Great Lakes?",
@@ -3281,6 +3321,7 @@
         "summary": "Grade 4 Science Energy strand: a complete circuit allows electricity to flow. It needs a power source, conductors, and a load (device). Circuits can be series or parallel.",
         "resourceLabel": "YouTube: Electric Circuits",
         "resourceUrl": "https://www.youtube.com/results?search_query=Electric%20Circuits%20grade%204%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wYE24otiwVQ",
         "quiz": [
           {
             "q": "For electricity to flow, a circuit must be ___.",
