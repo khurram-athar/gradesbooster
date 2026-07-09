@@ -1570,6 +1570,386 @@ const curriculum: DayContent[] = [
      {q:"Why was Confederation an important event for Ontario and Canada?", options:["It formally created Canada as a self-governing country","It separated Ontario from Canada","It had no lasting impact","It only affected one small town"], answer:0}
    ]},
 ]},
+{day:41, label:"Day 41 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Author's Purpose", summary:"Ontario Grade 3 Reading strand: authors write for different purposes -- to persuade, to inform, or to entertain -- and identifying the purpose helps readers understand a text more deeply.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"An author who writes to share facts about volcanoes is writing to ___.", options:["Entertain","Inform","Persuade","Confuse"], answer:1},
+     {q:"An author who writes a funny made-up story is mainly writing to ___.", options:["Persuade","Instruct","Entertain","Inform"], answer:2},
+     {q:"An author who writes an ad convincing you to buy a toy is writing to ___.", options:["Describe weather","Persuade","Inform only","Entertain"], answer:1},
+     {q:"A recipe is usually written to ___.", options:["Confuse the reader","Entertain","Instruct or inform","Persuade"], answer:2},
+     {q:"Why is it useful to know an author's purpose?", options:["It helps you understand how to read and think about the text","It only matters for pictures","It has no effect on reading","It changes the page numbers"], answer:0}
+   ]},
+  {subject:"Math", title:"Odd and Even Numbers", summary:"Ontario Grade 3 Number strand: even numbers can be divided into two equal groups with nothing left over (2, 4, 6...), while odd numbers always have one left over (1, 3, 5...).",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which of these is an even number?", options:["13","9","10","7"], answer:2},
+     {q:"Which of these is an odd number?", options:["12","8","15","20"], answer:2},
+     {q:"A number is even if it can be divided into two equal groups with ___.", options:["It cannot be divided","Three left over","Nothing left over","One left over"], answer:2},
+     {q:"Which pattern shows only even numbers?", options:["3, 6, 9, 12","1, 3, 5, 7","2, 4, 6, 8","1, 2, 3, 4"], answer:2},
+     {q:"Is 0 considered an even number?", options:["0 is neither","Only sometimes","Yes, it is even","No, it is odd"], answer:2}
+   ]},
+  {subject:"Science", title:"Space: The Solar System", summary:"Ontario Grade 3 Science Earth and Space Systems strand: the solar system includes the Sun and everything that orbits it, including eight planets, moons, and other objects like asteroids and comets.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"The solar system is centred around the ___.", options:["Moon","Sun","North Star","Earth"], answer:1},
+     {q:"How many planets are in our solar system?", options:["Six","Seven","Eight","Ten"], answer:2},
+     {q:"Which planet is closest to the Sun?", options:["Earth","Mercury","Venus","Mars"], answer:1},
+     {q:"Which planet do humans live on?", options:["Mars","Earth","Jupiter","Venus"], answer:1},
+     {q:"Objects that orbit the Sun besides planets include ___.", options:["Only clouds","Asteroids and comets","Nothing else","Only oceans"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Fur Trade in Early Canada", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: the fur trade was a major early economic activity in Canada, connecting European traders and Indigenous peoples who traded furs, especially beaver pelts, for goods.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The fur trade mainly involved trading ___.", options:["Grain for money","Land for cattle","Fish for gold","Furs, especially beaver pelts, for goods"], answer:3},
+     {q:"Who were the two main groups involved in the early Canadian fur trade?", options:["Only European settlers","Only farmers","European traders and Indigenous peoples","Only sailors"], answer:2},
+     {q:"Why was beaver fur especially valuable in the fur trade?", options:["It could not be traded","It was used as money directly","It had no value","It was used to make popular hats in Europe"], answer:3},
+     {q:"Indigenous peoples contributed important skills to the fur trade, such as ___.", options:["Trapping, guiding, and knowledge of the land","Operating factories","Mining coal","Building airplanes"], answer:0},
+     {q:"The fur trade helped shape early Canada by ___.", options:["Creating trade routes and economic connections across the land","Stopping all travel completely","Isolating all communities from each other","Having no lasting effect"], answer:0}
+   ]},
+]},
+{day:42, label:"Day 42 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Conjunctions", summary:"Ontario Grade 3 Writing strand: conjunctions are joining words such as and, but, or, and because that connect words, phrases, or sentences together.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Which word is a conjunction?", options:["Purple","And","Quickly","Jump"], answer:1},
+     {q:"Choose the best conjunction: I wanted to play outside, ___ it started to rain.", options:["because","quickly","but","and"], answer:2},
+     {q:"Choose the best conjunction: I was tired ___ I went to bed early.", options:["because","or","but","and"], answer:0},
+     {q:"Conjunctions are used to ___.", options:["Join words, phrases, or sentences together","Replace nouns","End a sentence","Show ownership"], answer:0},
+     {q:"Which sentence correctly uses a conjunction?", options:["I like, apples and oranges","I and like apples oranges","I like apples and oranges.","I like apples, oranges."], answer:2}
+   ]},
+  {subject:"Math", title:"Multiples and Skip Counting Review", summary:"Ontario Grade 3 Number strand: a multiple of a number is what you get by multiplying it by a whole number, and skip counting is a quick way to list multiples in order.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which of these is a multiple of 4?", options:["9","12","14","6"], answer:1},
+     {q:"Which of these is a multiple of 3?", options:["9","10","7","4"], answer:0},
+     {q:"Skip counting by 5s produces which list of numbers?", options:["5, 10, 15, 20","1, 2, 3, 4, 5","2, 4, 6, 8","5, 6, 7, 8"], answer:0},
+     {q:"The first four multiples of 6 are ___.", options:["6, 12, 18, 24","6, 16, 26, 36","6, 7, 8, 9","1, 2, 3, 6"], answer:0},
+     {q:"Multiples of 10 always end in the digit ___.", options:["1","2","5","0"], answer:3}
+   ]},
+  {subject:"Science", title:"Space: Stars and Constellations", summary:"Ontario Grade 3 Science Earth and Space Systems strand: stars are giant balls of hot gas that give off their own light, and a constellation is a recognizable pattern of stars that people have named, such as the Big Dipper.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"A star is best described as a ___.", options:["Type of planet","Piece of ice","Cold rock","Giant ball of hot gas that gives off light"], answer:3},
+     {q:"A constellation is ___.", options:["A weather event","A single planet","A type of moon","A recognizable pattern of stars"], answer:3},
+     {q:"Which is a well-known constellation?", options:["The Rocky Mountains","The Big Dipper","The Great Lake","The Grand Canyon"], answer:1},
+     {q:"Stars appear to twinkle mainly because of ___.", options:["Earth's atmosphere bending their light","They are actually blinking","Their own movement","They are very close to Earth"], answer:0},
+     {q:"Why can we usually only see stars at night?", options:["Stars move away during the day","The Sun's brightness outshines them during the day","Stars turn off during the day","Stars are only made at night"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Communities in Canada, 1780-1850: Relations with Indigenous Peoples", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: early relationships between settlers and Indigenous peoples included both cooperation, such as trading and sharing knowledge, and conflict, especially over land and resources.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Indigenous peoples often helped early settlers by sharing ___.", options:["Knowledge of the land, farming, and survival skills","Nothing at all","Modern technology","Only money"], answer:0},
+     {q:"Relationships between settlers and Indigenous peoples in this period included ___.", options:["No contact at all","Only conflict, never cooperation","Only cooperation, never conflict","Both cooperation, such as trade, and conflict"], answer:3},
+     {q:"A major source of conflict between settlers and Indigenous peoples was often ___.", options:["Language lessons","Weather patterns","Farming tools only","Land and resources"], answer:3},
+     {q:"Trade between settlers and Indigenous peoples often involved exchanging ___.", options:["Only stories","Nothing of value","Furs and goods","Modern currency"], answer:2},
+     {q:"Learning about this history helps students understand ___.", options:["That history is unimportant","That nothing from this era matters today","That Canada's early history involved complex relationships between different peoples","That only one group shaped early Canada"], answer:2}
+   ]},
+]},
+{day:43, label:"Day 43 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Compare and Contrast Essay", summary:"Ontario Grade 3 Writing strand: a compare and contrast piece explains how two things are similar and different, often using words like both, similarly, however, and unlike.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"A compare and contrast essay explains ___.", options:["How two things are similar and different","Only how two things are different","Only how two things are the same","A single made-up story"], answer:0},
+     {q:"Which word signals a similarity between two things?", options:["Unlike","However","But","Similarly"], answer:3},
+     {q:"Which word signals a difference between two things?", options:["Both","However","Also","Similarly"], answer:1},
+     {q:"Comparing dogs and cats, a similarity might be that both ___.", options:["Cannot be trained","Live only in water","Bark loudly","Are common pets"], answer:3},
+     {q:"Why do writers use compare and contrast writing?", options:["It serves no purpose","To confuse the reader on purpose","To avoid describing anything","To help readers understand relationships between two topics"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Temperature", summary:"Ontario Grade 3 Measurement strand: temperature is measured in degrees Celsius (°C) in Canada using a thermometer, with 0°C being the freezing point of water and 100°C being the boiling point.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Temperature in Canada is commonly measured in ___.", options:["Metres","Kilograms","Degrees Celsius","Litres"], answer:2},
+     {q:"Water freezes at ___ degrees Celsius.", options:["0","100","32","50"], answer:0},
+     {q:"Water boils at ___ degrees Celsius.", options:["0","100","212","50"], answer:1},
+     {q:"Which tool is used to measure temperature?", options:["Thermometer","Clock","Ruler","Scale"], answer:0},
+     {q:"Which temperature would feel like a cold winter day in Ontario?", options:["30 degrees Celsius","50 degrees Celsius","-10 degrees Celsius","100 degrees Celsius"], answer:2}
+   ]},
+  {subject:"Science", title:"Structures: Materials and Their Properties", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: builders choose materials for structures based on properties like strength, flexibility, and waterproofing, since different materials suit different jobs.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Which property describes how well a material resists breaking?", options:["Taste","Strength","Smell","Colour"], answer:1},
+     {q:"A material that bends easily without breaking is described as ___.", options:["Flexible","Waterproof","Rigid","Transparent"], answer:0},
+     {q:"Why might a builder choose a waterproof material for a roof?", options:["To make the roof heavier for no reason","To make the structure invisible","To keep rain from getting inside the structure","Waterproofing has no purpose"], answer:2},
+     {q:"Which material would likely be a poor choice for a building's foundation?", options:["Concrete","Solid rock","Tissue paper","Steel"], answer:2},
+     {q:"Choosing the right material for a structure's job is important because ___.", options:["Only colour matters when choosing materials","All materials work equally well for every job","Different materials have different strengths and weaknesses suited to different tasks","Material choice does not matter at all"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Physical Regions of Canada: The St. Lawrence Lowlands", summary:"Ontario Grade 3 Social Studies People and Environments strand: the St. Lawrence Lowlands is a fertile, flat region along the St. Lawrence River and Great Lakes, home to some of Canada's largest cities and richest farmland.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The St. Lawrence Lowlands region is known for ___.", options:["Being mostly frozen year-round","Fertile farmland and major cities","Being entirely desert","Having no rivers nearby"], answer:1},
+     {q:"Which body of water is closely connected to the St. Lawrence Lowlands?", options:["The St. Lawrence River and Great Lakes","The Arctic Ocean","Hudson Bay only","The Pacific Ocean"], answer:0},
+     {q:"Many of Canada's largest cities are located in or near ___.", options:["The Arctic tundra","The St. Lawrence Lowlands","Remote mountain peaks","The open ocean"], answer:1},
+     {q:"Farming thrives in the St. Lawrence Lowlands mainly because of its ___.", options:["Constant snow cover","Fertile soil and flat land","Lack of water","Rocky, infertile soil"], answer:1},
+     {q:"Compared to the Canadian Shield, the St. Lawrence Lowlands are generally ___.", options:["Made of the same ancient rock","Entirely mountainous","Colder and less populated","Flatter and more fertile for farming"], answer:3}
+   ]},
+]},
+{day:44, label:"Day 44 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Compound Words", summary:"Ontario Grade 3 Language strand: a compound word is formed by joining two smaller words together to make a new word with its own meaning, such as sun + flower = sunflower.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"A compound word is formed by joining ___.", options:["Two smaller words together","Two punctuation marks","A word and a number","A letter and a symbol"], answer:0},
+     {q:"Which of these is a compound word?", options:["Butterfly","Happy","Jump","Quickly"], answer:0},
+     {q:"Sun + flower makes the compound word ___.", options:["Sunlight","Sunflower","Sunny","Flowery"], answer:1},
+     {q:"Which pair of words could combine to form a compound word?", options:["Blue and fast","Cat and dog","Run and happy","Rain and bow"], answer:3},
+     {q:"Understanding compound words can help readers ___.", options:["Figure out the meaning of a new word from its parts","Only memorize spelling","Ignore new words completely","Avoid reading longer words"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Transformations (Slides, Flips, and Turns)", summary:"Ontario Grade 3 Geometry strand: shapes can move through transformations -- a slide (translation) moves a shape without turning it, a flip (reflection) creates a mirror image, and a turn (rotation) spins a shape around a point.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"A slide moves a shape ___.", options:["In a straight direction without turning it","By making it disappear","By flipping it into a mirror image","By spinning it in a circle"], answer:0},
+     {q:"A flip creates a shape that is a ___ of the original.", options:["Larger version","Exact copy in the same spot","Smaller version","Mirror image"], answer:3},
+     {q:"A turn moves a shape by ___.", options:["Making a mirror image","Sliding it sideways only","Erasing part of it","Rotating it around a point"], answer:3},
+     {q:"Which transformation is also called a translation?", options:["Flip","Slide","Turn","Rotation"], answer:1},
+     {q:"Which transformation is also called a reflection?", options:["Translation","Flip","Turn","Slide"], answer:1}
+   ]},
+  {subject:"Science", title:"Structures: Forces Acting on Structures", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: structures experience forces such as compression (pushing/squeezing) and tension (pulling/stretching), and good designs handle these forces without breaking.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Compression is a force that ___.", options:["Pulls or stretches a material","Pushes or squeezes a material","Has no effect on structures","Only affects liquids"], answer:1},
+     {q:"Tension is a force that ___.", options:["Only affects gases","Pushes or squeezes a material","Never occurs in structures","Pulls or stretches a material"], answer:3},
+     {q:"A stretched rope experiences mainly ___.", options:["Compression","No force at all","Tension","Only gravity"], answer:2},
+     {q:"The legs of a table experience mainly ___ from the weight above them.", options:["Magnetism","Tension","Compression","No force"], answer:2},
+     {q:"Why do engineers study forces like compression and tension?", options:["Only for decoration purposes","To make structures weaker on purpose","Forces are not important in design","To design structures that can safely handle the forces acting on them"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Physical Regions of Canada: The Arctic", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Arctic is Canada's northernmost region, with a very cold climate, tundra landscape, and communities that have adapted their ways of life to the environment.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The Arctic region of Canada is best described as ___.", options:["Covered in dense rainforest","Very cold with a tundra landscape","Mostly farmland","Warm and tropical"], answer:1},
+     {q:"Tundra is a landscape with ___.", options:["Low-growing plants and no trees, due to the cold climate","Sandy deserts","Tropical fruit trees","Tall dense forests"], answer:0},
+     {q:"Communities in the Arctic have adapted their ways of life to ___.", options:["A hot, humid climate","A cold climate and unique landscape","A rainy, mild climate","An environment identical to southern Canada"], answer:1},
+     {q:"Which best describes daylight in parts of the Arctic during winter?", options:["Constant bright daylight","No difference from summer","Extremely long periods of darkness","Exactly 12 hours of daylight every day"], answer:2},
+     {q:"The Arctic is located in Canada's ___.", options:["Eastern coast only","Far north","Far south","Central plains"], answer:1}
+   ]},
+]},
+{day:45, label:"Day 45 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Identifying Theme", summary:"Ontario Grade 3 Reading strand: the theme of a story is the deeper message or lesson the author wants readers to take away, different from the plot, which is simply what happens.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"The theme of a story is ___.", options:["The exact list of events","The number of chapters","The name of the author","The deeper message or lesson of the story"], answer:3},
+     {q:"Which is an example of a common story theme?", options:["The story has five chapters","The book has a blue cover","Friendship and kindness matter","The main character has brown hair"], answer:2},
+     {q:"Theme is different from plot because plot is ___.", options:["The lesson of the story","The author's name","What actually happens in the story","The book's price"], answer:2},
+     {q:"A story about a character learning to be honest likely has the theme of ___.", options:["Cooking","Sports scores","Honesty","Weather"], answer:2},
+     {q:"Why do authors include a theme in their stories?", options:["To share a meaningful message or lesson with readers","To make books longer with no purpose","To confuse young readers","Themes are never included in stories"], answer:0}
+   ]},
+  {subject:"Math", title:"Fractions: Adding Fractions with the Same Denominator", summary:"Ontario Grade 3 Number strand: to add fractions with the same denominator, add the numerators and keep the denominator the same, such as 1/4 + 2/4 = 3/4.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"1/5 + 2/5 = ?", options:["3/10","1/10","2/5","3/5"], answer:3},
+     {q:"2/6 + 3/6 = ?", options:["6/6","1/6","5/6","5/12"], answer:2},
+     {q:"When adding fractions with the same denominator, you ___.", options:["Add the numerators and keep the denominator the same","Only add the denominators","Multiply the numerators","Add both the numerators and denominators"], answer:0},
+     {q:"1/8 + 4/8 = ?", options:["5/16","4/8","1/8","5/8"], answer:3},
+     {q:"3/10 + 3/10 = ?", options:["6/10","9/10","3/10","6/20"], answer:0}
+   ]},
+  {subject:"Science", title:"Classifying Plants and Animals", summary:"Ontario Grade 3 Science Life Systems strand: scientists classify (sort) living things into groups based on shared characteristics, such as sorting animals into mammals, birds, fish, reptiles, and amphibians.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Classifying living things means ___.", options:["Sorting them into groups based on shared characteristics","Ignoring their differences","Giving every living thing the same name","Counting how many exist"], answer:0},
+     {q:"Which group is classified as mammals?", options:["Animals that typically have fur and feed milk to their young","Animals with feathers that lay eggs","Animals that only live underwater","Animals with no bones at all"], answer:0},
+     {q:"Which is a characteristic of birds?", options:["Fur and whiskers","Living only underwater","Cold-blooded and scaly always","Feathers and typically laying eggs"], answer:3},
+     {q:"Fish are classified partly by their ability to ___.", options:["Live only on land","Breathe underwater using gills","Grow fur","Fly long distances"], answer:1},
+     {q:"Why do scientists classify living things into groups?", options:["Classification is random with no reason","It helps organize and understand the natural world more clearly","To make studying life more confusing","It has no real purpose"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Map Skills: Legends, Symbols, and the Compass Rose", summary:"Ontario Grade 3 Social Studies People and Environments strand: maps use a legend (key) to explain symbols, and a compass rose to show direction, helping readers interpret the information a map presents.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"A map legend (or key) is used to ___.", options:["Replace the need for a title","Explain what the symbols on a map mean","Show the map's price","List the mapmaker's name only"], answer:1},
+     {q:"A compass rose on a map shows ___.", options:["Population size","The map's age","Temperature","Direction (north, south, east, west)"], answer:3},
+     {q:"If a map symbol of a tent means campground, that information comes from the ___.", options:["Compass rose","Title only","Scale bar","Legend"], answer:3},
+     {q:"On a standard map with a compass rose, north is usually ___.", options:["On the right","At the top","At the bottom","On the left"], answer:1},
+     {q:"Why are legends and compass roses important map features?", options:["They replace the need for any map details","Maps cannot include them together","They are just decorations with no purpose","They help readers understand and navigate the information shown on a map"], answer:3}
+   ]},
+]},
+{day:46, label:"Day 46 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Journal and Diary Entries", summary:"Ontario Grade 3 Writing strand: a journal or diary entry is a personal piece of writing, usually dated, where the writer reflects on their day, thoughts, or feelings in their own voice.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"A journal entry is typically written in ___.", options:["A formal business tone","A stranger's voice","The writer's own personal voice and reflections","Only a list format"], answer:2},
+     {q:"Journal entries are usually organized by ___.", options:["Date","Random topics with no order","Alphabetical order","Length only"], answer:0},
+     {q:"Which is most likely to appear in a diary entry?", options:["A recipe for soup","The writer's personal thoughts and feelings about their day","A weather forecast for next year","A math worksheet"], answer:1},
+     {q:"Why might someone keep a journal?", options:["It serves no purpose","To avoid thinking about anything","Only teachers are allowed to write journals","To reflect on experiences and remember them later"], answer:3},
+     {q:"A journal entry is generally written in ___ person.", options:["First","Second","No particular","Third"], answer:0}
+   ]},
+  {subject:"Math", title:"Number: Expanded Form", summary:"Ontario Grade 3 Number strand: expanded form breaks a number into the value of each digit, such as 347 = 300 + 40 + 7, showing what each place value represents.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is 452 in expanded form?", options:["400 + 52","4 + 5 + 2","450 + 2","400 + 50 + 2"], answer:3},
+     {q:"What is 700 + 20 + 6 in standard form?", options:["726","7026","76","7206"], answer:0},
+     {q:"What is 813 in expanded form?", options:["80 + 13","8 + 1 + 3","810 + 3","800 + 10 + 3"], answer:3},
+     {q:"Expanded form shows ___.", options:["The value of each digit based on its place","A completely different number","Only the ones digit","A number multiplied by itself"], answer:0},
+     {q:"What is 900 + 5 in standard form?", options:["905","950","95","90"], answer:0}
+   ]},
+  {subject:"Science", title:"Energy: Heat and Temperature", summary:"Ontario Grade 3 Science Matter and Energy strand: heat is a form of energy that flows from warmer objects to cooler ones, and temperature is a measurement of how hot or cold something is.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Heat energy flows from ___.", options:["It does not flow at all","Cooler objects to warmer objects","Only from the Sun to space","Warmer objects to cooler objects"], answer:3},
+     {q:"Temperature measures ___.", options:["How much a material weighs","The colour of an object","How hot or cold something is","The size of an object"], answer:2},
+     {q:"If you hold an ice cube, heat flows from ___.", options:["Your hand to the ice cube","The air only","Nowhere, heat does not move","The ice cube to your hand"], answer:0},
+     {q:"Which is a good conductor that transfers heat quickly?", options:["Foam","Rubber","Wood","Metal"], answer:3},
+     {q:"Why does a hot drink eventually cool down at room temperature?", options:["Cold flows into the drink","Heat flows from the drink into the cooler surrounding air","Temperature never changes","The drink creates more heat over time"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Comparing Government: Then and Now", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: government in early Canadian communities (1780-1850) was more local and limited, while today Canada has federal, provincial, and municipal governments with defined roles.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Government in early Canadian settlements was often more ___ than today.", options:["Identical to today's system","Nonexistent","Local and limited","Complex and centralized"], answer:2},
+     {q:"Today, Canada has how many main levels of government?", options:["Two","Three","One","Five"], answer:1},
+     {q:"Which is a level of government in Canada today?", options:["Only royal","None exist","Municipal","Only village elders"], answer:2},
+     {q:"Compared to today, early settler communities had ___ formal laws and services.", options:["More","The exact same number of","Fewer","No difference in"], answer:2},
+     {q:"Why is it useful to compare government then and now?", options:["Government has never changed","It helps us understand how communities and their needs have changed over time","It only matters for adults","It has no educational value"], answer:1}
+   ]},
+]},
+{day:47, label:"Day 47 — Tue", subjects:[
+  {subject:"Language", title:"Oral Communication: Active Listening", summary:"Ontario Grade 3 Oral Communication strand: active listening means fully focusing on the speaker, showing attention through eye contact and body language, and asking questions to understand better.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Active listening means ___.", options:["Fully focusing on and understanding the speaker","Thinking about something else while someone talks","Interrupting constantly","Ignoring the speaker"], answer:0},
+     {q:"Which is a sign of active listening?", options:["Walking away","Making eye contact with the speaker","Talking over the speaker","Looking at your phone"], answer:1},
+     {q:"Asking a question after someone speaks can show that you ___.", options:["Were engaged and want to understand more","Are bored","Want to change the subject","Were not listening at all"], answer:0},
+     {q:"Why is active listening an important skill?", options:["It is not useful in daily life","It only matters in school","It helps you understand others and communicate effectively","It means never speaking at all"], answer:2},
+     {q:"Which body language shows you are NOT actively listening?", options:["Looking away and playing with objects","Leaning in slightly","Eye contact","Nodding along"], answer:0}
+   ]},
+  {subject:"Math", title:"Choosing the Best Graph for Data", summary:"Ontario Grade 3 Data strand: different graphs suit different data -- bar graphs compare categories, line graphs show change over time, and pictographs use pictures to represent quantities.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which graph is best for comparing how many students like each fruit?", options:["A blank page","Neither works","Line graph","Bar graph"], answer:3},
+     {q:"Which graph is best for showing temperature changes over a week?", options:["Pictograph","Line graph","A single number","No graph needed"], answer:1},
+     {q:"A pictograph represents data using ___.", options:["Only numbers","Random shapes with no key","Colours with no meaning","Pictures or symbols"], answer:3},
+     {q:"Why is choosing the right graph type important?", options:["Graphs are never useful","It helps clearly show and communicate the data","All graphs are exactly the same","It does not matter which graph is used"], answer:1},
+     {q:"Which type of graph connects data points with a line?", options:["Tally chart","Pictograph","Bar graph","Line graph"], answer:3}
+   ]},
+  {subject:"Science", title:"Matter: Properties of Materials", summary:"Ontario Grade 3 Science Matter and Energy strand: materials have measurable properties such as mass (how much matter they contain) and volume (how much space they take up).",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Mass measures ___.", options:["How much matter an object contains","The temperature of an object","The colour of an object","How much space an object takes up"], answer:0},
+     {q:"Volume measures ___.", options:["The material's smell","How much space an object takes up","How heavy something feels only","How much matter something contains"], answer:1},
+     {q:"Which tool could help measure the volume of a liquid?", options:["A clock","A measuring cup","A ruler only","A thermometer"], answer:1},
+     {q:"Two objects can have the same volume but different ___.", options:["Mass","Names","Location only","Existence"], answer:0},
+     {q:"Why do scientists measure properties like mass and volume?", options:["It has no scientific use","These properties cannot be measured","To describe and compare materials accurately","Only artists need this information"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Canada's Multicultural Identity", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Canada is home to people from many different cultural backgrounds, and this diversity shapes communities through shared traditions, languages, and celebrations.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Multicultural means a place is home to ___.", options:["Only one culture","No cultural traditions at all","Only recent immigrants","People from many different cultural backgrounds"], answer:3},
+     {q:"Which is an example of cultural diversity in a community?", options:["Everyone speaking only one language","Different languages, foods, and celebrations","Identical traditions for everyone","No festivals of any kind"], answer:1},
+     {q:"Why might a community host a multicultural festival?", options:["To discourage diversity","To separate cultural groups","It has no purpose","To celebrate and share different cultural traditions"], answer:3},
+     {q:"Canada's multicultural identity has grown partly through ___.", options:["Banning new cultures","Immigration from many countries around the world","Staying exactly the same since 1867","Complete isolation from other countries"], answer:1},
+     {q:"Respecting cultural diversity helps communities by ___.", options:["Building understanding and inclusion among different groups","Creating unnecessary conflict","Making communities less connected","It has no community benefit"], answer:0}
+   ]},
+]},
+{day:48, label:"Day 48 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Capitalization Rules", summary:"Ontario Grade 3 Writing strand: capital letters are used at the start of a sentence, for proper nouns (names of specific people, places, and things), and for the pronoun I.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"A sentence should always begin with a ___.", options:["Lowercase letter","Question mark","Number","Capital letter"], answer:3},
+     {q:"Which word should be capitalized?", options:["toronto","the","happy","dog"], answer:0},
+     {q:"Proper nouns, like specific names of people or places, should be ___.", options:["Capitalized only sometimes randomly","Never capitalized","Written in numbers","Always capitalized"], answer:3},
+     {q:"Which sentence uses capitalization correctly?", options:["My friend Sam lives in Ottawa.","my friend sam lives in ottawa.","My Friend sam Lives in ottawa.","my Friend Sam lives In ottawa"], answer:0},
+     {q:"The pronoun referring to yourself, I, should ___.", options:["Always be capitalized","Never be capitalized","Only be capitalized at the start of a sentence","Be written as a lowercase i always"], answer:0}
+   ]},
+  {subject:"Math", title:"Patterning: Growing Patterns with Shapes", summary:"Ontario Grade 3 Algebra strand: a growing pattern increases by a consistent rule at each step, such as adding one more shape each time, and can be shown with objects, pictures, or numbers.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"If a pattern of squares goes 1, 3, 5, 7, what is the rule?", options:["Add 1","Add 3","Subtract 2","Add 2"], answer:3},
+     {q:"A growing pattern of triangles has 2, 4, 6 triangles in the first three steps. How many in the fourth step?", options:["9","10","8","7"], answer:2},
+     {q:"In a growing pattern, each step usually ___ compared to the one before.", options:["Stays exactly the same","Has no relationship","Increases by a consistent rule","Decreases randomly"], answer:2},
+     {q:"If a pattern starts at 3 and grows by 3 each time, what are the first four terms?", options:["3, 9, 27, 81","3, 6, 9, 12","3, 4, 5, 6","3, 5, 7, 9"], answer:1},
+     {q:"Growing patterns can be represented using ___.", options:["Objects, pictures, or numbers","Only colours with no structure","Nothing visual","Only spoken words"], answer:0}
+   ]},
+  {subject:"Science", title:"Endangered Species and Conservation", summary:"Ontario Grade 3 Science Life Systems strand: an endangered species is a type of plant or animal at risk of disappearing, often due to habitat loss, and conservation efforts help protect them.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"An endangered species is one that is ___.", options:["At risk of disappearing entirely","Not affected by habitat changes","Extremely common","Found only in zoos"], answer:0},
+     {q:"A common cause of species becoming endangered is ___.", options:["Nothing affects species survival","Too many protections","Too much habitat available","Loss of habitat"], answer:3},
+     {q:"Conservation efforts aim to ___.", options:["Speed up habitat destruction","Ignore endangered species","Protect species and their habitats","Remove all wildlife protections"], answer:2},
+     {q:"Which is an example of a conservation action?", options:["Removing all environmental rules","Cutting down protected forests","Creating protected parks and reserves","Ignoring pollution"], answer:2},
+     {q:"Why is protecting endangered species considered important?", options:["To help maintain balance and biodiversity in ecosystems","Endangered species have no role in nature","It only matters for pets","It has no ecological importance"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Protecting Natural Resources for the Future", summary:"Ontario Grade 3 Social Studies People and Environments strand: natural resources like forests, water, and minerals must be used responsibly so they remain available for future generations, a practice known as sustainability.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Sustainability means using resources in a way that ___.", options:["Ignores future needs completely","Keeps them available for future generations","Uses them all up as fast as possible","Has no long-term plan"], answer:1},
+     {q:"Which is an example of a natural resource?", options:["A video game","Forests","A shopping mall","A highway sign"], answer:1},
+     {q:"Why might a community limit how much of a forest is logged each year?", options:["Logging has no effect on forests","To use up all the trees quickly","To ensure the forest can regrow and remain a resource long-term","Forests do not need protection"], answer:2},
+     {q:"Which action supports sustainable use of water resources?", options:["Wasting water freely","Polluting rivers without limits","Ignoring water resources entirely","Conserving water and preventing pollution"], answer:3},
+     {q:"Protecting natural resources today mainly benefits ___.", options:["Only businesses","No one","Future generations as well as people today","Only people living right now"], answer:2}
+   ]},
+]},
+{day:49, label:"Day 49 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Using Graphic Organizers", summary:"Ontario Grade 3 Reading strand: graphic organizers such as webs, charts, and Venn diagrams help readers visually organize information and ideas from a text to better understand and remember it.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"A graphic organizer helps readers ___.", options:["Skip important details","Visually organize information and ideas","Ignore the text completely","Avoid taking notes"], answer:1},
+     {q:"A Venn diagram is especially useful for ___.", options:["Measuring length","Listing events in order only","Comparing similarities and differences between two things","Drawing maps"], answer:2},
+     {q:"A web (or mind map) graphic organizer is useful for ___.", options:["Only listing numbers","Organizing ideas around a central topic","Replacing reading entirely","Showing only differences"], answer:1},
+     {q:"Why might a student use a graphic organizer before writing a report?", options:["To avoid researching the topic","It has no benefit before writing","To plan and organize their ideas clearly first","To make writing more confusing"], answer:2},
+     {q:"Which is an example of a graphic organizer?", options:["A dictionary only","A Venn diagram","A pencil","A calculator"], answer:1}
+   ]},
+  {subject:"Math", title:"Multi-Step Word Problems", summary:"Ontario Grade 3 Number strand: multi-step word problems require more than one operation (like addition and then subtraction) to solve, so students must carefully identify each step needed.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Sam has 24 stickers, gives away 6, then gets 10 more. How many does Sam have now?", options:["18","20","34","28"], answer:3},
+     {q:"A shop had 50 apples, sold 20, then received 15 more. How many apples now?", options:["45","30","65","35"], answer:3},
+     {q:"Solving a multi-step word problem requires ___.", options:["Ignoring some of the information given","Using only one operation always","Carefully identifying and completing each step needed","Guessing the answer randomly"], answer:2},
+     {q:"Mia read 12 pages Monday and 15 pages Tuesday. She wants to read 40 pages total. How many pages are left?", options:["13","27","40","15"], answer:0},
+     {q:"Why is it helpful to underline key numbers in a word problem?", options:["To keep track of important information needed to solve each step","It has no benefit","To skip reading the problem","To make the problem harder"], answer:0}
+   ]},
+  {subject:"Science", title:"Simple Machines Review: Mechanical Advantage", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: mechanical advantage means a simple machine makes a task easier by reducing the force needed or changing the direction of the force applied.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Mechanical advantage means a simple machine ___.", options:["Makes a task easier by reducing needed force or changing its direction","Always requires electricity","Has no effect on force","Makes a task harder to complete"], answer:0},
+     {q:"Which simple machine helps lift heavy objects with less effort by using a sloped surface?", options:["Lever","Pulley","Inclined plane","Screw"], answer:2},
+     {q:"A lever provides mechanical advantage by ___.", options:["Requiring more force to lift objects","Eliminating the need for any force","Only working underwater","Helping lift or move objects with less force using a pivot point"], answer:3},
+     {q:"A pulley system can make lifting easier by ___.", options:["Making objects heavier","Removing gravity entirely","Changing the direction of the force and sometimes reducing effort","Only working on flat ground"], answer:2},
+     {q:"Why do humans use simple machines?", options:["To make physical tasks easier and more efficient","Simple machines make tasks harder on purpose","They have no practical use","They only work in factories"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Landmarks and Symbols", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Canada has many recognizable landmarks and symbols, such as the CN Tower, Parliament Hill, the maple leaf, and the beaver, that represent its identity and heritage.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The CN Tower is a famous landmark located in ___.", options:["Vancouver","Toronto","Ottawa","Montreal"], answer:1},
+     {q:"Parliament Hill, where Canada's federal government meets, is located in ___.", options:["Calgary","Ottawa","Toronto","Halifax"], answer:1},
+     {q:"Which animal is a well-known symbol of Canada?", options:["Elephant","Kangaroo","Lion","Beaver"], answer:3},
+     {q:"Landmarks and symbols help represent a country's ___.", options:["Weather patterns only","Population count","Currency value","Identity and heritage"], answer:3},
+     {q:"Which of these is a Canadian landmark?", options:["The Statue of Liberty","The Great Wall","The Eiffel Tower","The CN Tower"], answer:3}
+   ]},
+]},
+{day:50, label:"Day 50 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Recognizing Bias", summary:"Ontario Grade 3 Media Literacy strand: bias means a text or media source favours one side or opinion over another, so readers should notice whose viewpoint is being shown and whether other viewpoints are missing.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Bias in a text means ___.", options:["The text is completely balanced","The text favours one side or opinion over another","The text is always false","The text contains no opinions at all"], answer:1},
+     {q:"A smart reader who notices bias should ask ___.", options:["Nothing, bias does not matter","Whose viewpoint is being shown and what might be missing","How many pages the text has","Only who wrote the title"], answer:1},
+     {q:"Which is a sign that a text might be biased?", options:["It lists only facts with sources","It has no opinions at all","It only presents one side of an issue positively","It presents multiple balanced viewpoints"], answer:2},
+     {q:"Why is it useful to recognize bias in media?", options:["It is not useful to notice bias","To stop reading entirely","To automatically believe everything read","To think critically and understand different perspectives"], answer:3},
+     {q:"Comparing multiple sources on a topic can help readers ___.", options:["Avoid learning anything new","Get a more balanced understanding","Become more confused for no reason","Only see one viewpoint"], answer:1}
+   ]},
+  {subject:"Math", title:"Problem Solving: Choosing the Right Operation", summary:"Ontario Grade 3 Number strand: solving a word problem well starts with deciding which operation -- addition, subtraction, multiplication, or division -- fits what the problem is asking.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"A problem asks how many total cookies are in 4 bags of 6. Which operation fits best?", options:["Multiplication","Division","Subtraction","Addition"], answer:0},
+     {q:"A problem asks how many are left after giving some away. Which operation fits best?", options:["None of these","Division","Subtraction","Multiplication"], answer:2},
+     {q:"A problem asks how to split 20 candies evenly among 5 friends. Which operation fits best?", options:["Subtraction","Addition","Multiplication","Division"], answer:3},
+     {q:"A problem asks for the total of two separate groups combined. Which operation fits best?", options:["Addition","Multiplication","Subtraction","Division"], answer:0},
+     {q:"Why is it important to choose the correct operation before solving?", options:["It only matters for large numbers","All operations give the same result","Using the wrong operation will likely lead to an incorrect answer","The operation chosen never matters"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Inquiry: The Scientific Method", summary:"Ontario Grade 3 Science strand across all topics: the scientific method is a process scientists use -- asking a question, making a prediction, testing it, and drawing a conclusion -- to investigate the world.",
+   resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"The first step of the scientific method is usually ___.", options:["Publishing a report","Building a final product","Drawing a conclusion","Asking a question"], answer:3},
+     {q:"A prediction made before testing is called a ___.", options:["Random guess with no reasoning","Observation only","Conclusion","Hypothesis"], answer:3},
+     {q:"Testing a hypothesis usually involves ___.", options:["Skipping any investigation","Guessing the final answer only","Conducting an experiment or investigation","Ignoring the question entirely"], answer:2},
+     {q:"A conclusion in the scientific method is based on ___.", options:["What someone assumed before starting","Random opinions with no evidence","The results and evidence gathered during testing","Nothing measurable"], answer:2},
+     {q:"Why do scientists follow a consistent method for investigations?", options:["To make discoveries less trustworthy","The method has no real benefit","To ensure results are reliable and can be checked or repeated","To avoid asking questions"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Planning for My Community's Future", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: thinking about a community's future involves considering how population growth, the environment, and technology might shape decisions communities make together.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Community planning for the future often considers ___.", options:["Random unrelated topics","Nothing about the environment","Only decisions from the distant past","Population growth, environment, and technology"], answer:3},
+     {q:"Why might a growing community need to plan for more schools or services?", options:["Only large cities ever grow","Growth never affects community needs","To meet the needs of a larger population over time","Planning is unnecessary for communities"], answer:2},
+     {q:"Considering the environment in community planning helps ___.", options:["Make decisions with no lasting effect","Ignore environmental impacts entirely","Remove the need for parks and green spaces","Protect natural resources for the future"], answer:3},
+     {q:"New technology can shape a community's future by ___.", options:["Only affecting large cities","Changing how people work, travel, and communicate","Having no impact on daily life","Making community planning unnecessary"], answer:1},
+     {q:"Why is it valuable for students to think about their community's future?", options:["It builds awareness of how choices today shape tomorrow","The future is completely unpredictable and not worth considering","Only adults can think about the future","It has no connection to real life"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
