@@ -3079,6 +3079,7 @@
         "summary": "Students explore how mirrors and lenses are used in technology — cameras, telescopes, microscopes, corrective lenses, and medical equipment.",
         "resourceLabel": "YouTube: Light and Optics: Mirrors and Lenses in Technology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Light%20and%20Optics%3A%20Mirrors%20and%20Lenses%20in%20Technology%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-_Is2o74aRQ",
         "quiz": [
           {
             "q": "A refracting telescope uses ___.",
@@ -5924,6 +5925,7 @@
         "summary": "Students solve problems that require optimising area, perimeter, surface area, or volume — finding maximum or minimum values given constraints.",
         "resourceLabel": "YouTube: Measurement: Optimisation Problems",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Optimisation%20Problems%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QKT65uQgtBI",
         "quiz": [
           {
             "q": "Optimisation in math means ___.",
@@ -9720,6 +9722,2426 @@
               "These topics have no meaningful connections",
               "Review is never useful in history",
               "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "label": "Day 41 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Tragic Heroes in Literature",
+        "summary": "Grade 8 Reading strand: a tragic hero is a character with admirable qualities and a significant flaw, called a tragic flaw, that ultimately contributes to their downfall.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A tragic hero typically has ___.",
+            "options": [
+              "Only negative traits with no strengths",
+              "No notable qualities of any kind",
+              "A flaw with no effect on the story",
+              "Admirable qualities and a significant flaw"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A tragic flaw is best described as ___.",
+            "options": [
+              "A strength that guarantees the hero’s success",
+              "A flaw that never affects the plot",
+              "A trait unrelated to the story’s outcome",
+              "A significant weakness that contributes to the hero’s downfall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a tragic hero’s downfall create a powerful emotional impact for readers?",
+            "options": [
+              "A character with no flaws creates a more powerful impact",
+              "Downfalls have no emotional effect on readers",
+              "Readers may sympathize with a character who has both strengths and flaws",
+              "Tragic heroes never earn any sympathy from readers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a possible tragic flaw?",
+            "options": [
+              "A trait unrelated to the character’s choices",
+              "A strength that always leads to success",
+              "A character with no decisions to make",
+              "Excessive pride leading to poor decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the tragic hero considered an important literary archetype?",
+            "options": [
+              "It explores the complex relationship between human strengths and weaknesses",
+              "This concept has no connection to character development",
+              "Tragic heroes never appear in significant works of literature",
+              "This archetype has no significance in literature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Systems of Equations by Elimination",
+        "summary": "Grade 8 Algebra strand: the elimination method solves a system of equations by adding or subtracting the equations to eliminate one variable, making it possible to solve for the other.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The elimination method involves ___.",
+            "options": [
+              "Substituting one equation directly into the other",
+              "Only graphing both equations with no algebraic steps",
+              "Ignoring one of the two equations entirely",
+              "Adding or subtracting equations to eliminate one variable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve the system using elimination: x + y = 10 and x minus y = 2.",
+            "options": [
+              "x = 4, y = 6",
+              "x = 8, y = 2",
+              "x = 6, y = 4",
+              "x = 5, y = 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might elimination be a useful method when the coefficients of one variable are already opposites?",
+            "options": [
+              "This situation requires substitution instead",
+              "Elimination can only be used with equations that have no variables",
+              "Adding the equations directly cancels out that variable",
+              "Elimination never works when coefficients are opposites"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve the system using elimination: 2x + y = 11 and x minus y = 1.",
+            "options": [
+              "x = 2, y = 7",
+              "x = 5, y = 1",
+              "x = 3, y = 4",
+              "x = 4, y = 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After eliminating one variable and solving for the other, the next step is typically to ___.",
+            "options": [
+              "Substitute that value back into one of the original equations",
+              "Start the entire process over with new equations",
+              "Stop, since only one variable ever needs to be found",
+              "Ignore the second variable completely"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Astrophysics: The Life Cycle of Stars",
+        "summary": "Grade 8 Science Earth and Space Systems strand: stars go through a life cycle that includes formation from clouds of gas and dust, a stable main sequence phase, and an eventual dramatic ending, such as a supernova or collapse into a white dwarf.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Stars form from clouds of ___.",
+            "options": [
+              "Metal with no other elements",
+              "Solid rock only",
+              "Gas and dust",
+              "Pure water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During the main sequence phase, a star ___.",
+            "options": [
+              "Remains relatively stable, fusing hydrogen into helium",
+              "Immediately collapses with no stable phase",
+              "Has no connection to nuclear fusion",
+              "Stops producing any energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A supernova is best described as ___.",
+            "options": [
+              "A type of planet",
+              "An event unrelated to stars",
+              "A massive, dramatic explosion marking the end of certain stars’ life cycles",
+              "The very beginning of a star’s formation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A white dwarf is one possible remnant left behind after ___.",
+            "options": [
+              "A planet collides with an asteroid",
+              "A galaxy is first created",
+              "A star like our Sun exhausts its nuclear fuel",
+              "A star is first forming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do astronomers study the life cycle of stars?",
+            "options": [
+              "This research has no scientific value",
+              "Stars have no identifiable life cycle",
+              "It helps explain the origins and eventual fates of stars, including our own Sun",
+              "Studying star life cycles has no connection to astronomy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Halifax Explosion",
+        "summary": "Grade 8 History strand: the Halifax Explosion of 1917, caused by a collision between two ships in Halifax Harbour, was one of the largest accidental explosions in history and had a devastating impact on the city.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Halifax Explosion occurred in which year?",
+            "options": [
+              "1867",
+              "1917",
+              "1945",
+              "1970"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Halifax Explosion was caused by ___.",
+            "options": [
+              "A collision between two ships in Halifax Harbour",
+              "A planned military attack",
+              "An event unrelated to Canadian history",
+              "A natural disaster unrelated to human activity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Halifax Explosion is considered one of ___.",
+            "options": [
+              "A minor event with no lasting impact",
+              "The largest accidental explosions in history",
+              "An event with no connection to Halifax",
+              "The smallest, least significant events in Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Halifax Explosion significant to Canadian history?",
+            "options": [
+              "This event never actually occurred",
+              "It has no connection to Canadian history",
+              "It had no lasting impact on Halifax or Canada",
+              "It caused devastating loss of life and property, prompting major relief and recovery efforts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians study events like the Halifax Explosion?",
+            "options": [
+              "They highlight both tragedy and the resilience and cooperation shown in recovery efforts",
+              "These events have no historical significance",
+              "This event has no connection to understanding Canadian history",
+              "Studying such events serves no educational purpose"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "label": "Day 42 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Persuasive Speech for a Formal Debate",
+        "summary": "Grade 8 Writing strand: a persuasive speech for a formal debate presents a clear position on a topic, supported by structured arguments and evidence, while anticipating and addressing the opposing side.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A persuasive speech for a formal debate should present ___.",
+            "options": [
+              "Only the speaker’s personal preferences with no evidence",
+              "A summary with no argument",
+              "A clear position supported by structured arguments and evidence",
+              "No clear position at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to anticipate the opposing side’s arguments in a debate speech?",
+            "options": [
+              "This preparation has no strategic value",
+              "Anticipating opposing arguments always weakens a debate speech",
+              "It allows the speaker to prepare effective responses and strengthen their position",
+              "Debate speeches should never consider the opposing side"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a structured argument in a debate speech?",
+            "options": [
+              "A statement with no clear position",
+              "A clear claim supported by specific evidence and reasoning",
+              "A vague statement with no supporting evidence",
+              "An argument unrelated to the debate topic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a debate speech use confident, clear delivery in addition to strong content?",
+            "options": [
+              "Content is the only factor that matters in a debate",
+              "Confidence has no connection to persuasion",
+              "Delivery has no effect on how a speech is received",
+              "Delivery can affect how persuasive and credible the argument seems to an audience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A strong conclusion in a debate speech should ___.",
+            "options": [
+              "Contain no connection to the rest of the speech",
+              "Undermine the speaker’s own argument",
+              "Introduce a brand new, unrelated topic",
+              "Reinforce the speaker’s position and its key supporting points"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving for Missing Sides and Angles Using Trigonometry",
+        "summary": "Grade 8 Geometry strand (pre-high-school extension): applying the trigonometric ratios sine, cosine, and tangent allows you to solve for unknown side lengths or angles in a right triangle when other measurements are known.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "If you know an angle and the hypotenuse of a right triangle, which ratio could help you find the opposite side?",
+            "options": [
+              "A ratio unrelated to trigonometry",
+              "Only the Pythagorean theorem, with no trigonometry involved",
+              "Sine",
+              "None of the trigonometric ratios apply here"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you know the adjacent and opposite sides of a right triangle, which ratio could help you find the angle?",
+            "options": [
+              "Tangent",
+              "The volume formula",
+              "Only the circumference formula",
+              "A method unrelated to trigonometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find a missing angle using a known ratio of sides, you would typically use ___.",
+            "options": [
+              "A method with no connection to trigonometric ratios",
+              "Only addition, with no trigonometry involved",
+              "The inverse trigonometric function (such as inverse tangent)",
+              "The Pythagorean theorem exclusively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the opposite side is 5 and the hypotenuse is 10 in a right triangle, what is the sine of the angle?",
+            "options": [
+              "10",
+              "5",
+              "2",
+              "0.5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are trigonometric ratios useful for solving real-world problems, such as finding the height of a building using an angle of elevation?",
+            "options": [
+              "This method requires physically measuring every side directly",
+              "Trigonometric ratios have no real-world applications",
+              "These ratios only apply to shapes with no angles",
+              "They relate angles to side length ratios, allowing indirect calculation of unknown measurements"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Materials Science: Polymers and Composites",
+        "summary": "Grade 8 Science Matter and Energy strand: polymers are large molecules made of repeating units, while composites combine two or more different materials to create a substance with enhanced properties.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A polymer is best described as ___.",
+            "options": [
+              "A type of pure element only",
+              "A single, simple atom",
+              "A large molecule made of repeating units",
+              "A material with no molecular structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A composite material is formed by ___.",
+            "options": [
+              "Combining two or more different materials",
+              "A process unrelated to material combination",
+              "Removing all materials from a substance",
+              "Using only a single, unmixed material"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a polymer?",
+            "options": [
+              "Plastic",
+              "A single water molecule",
+              "Pure gold",
+              "Pure oxygen gas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might engineers use composite materials instead of a single material?",
+            "options": [
+              "Composite materials are never used in real engineering",
+              "Combining materials has no effect on their properties",
+              "Composites always have worse properties than single materials",
+              "Composites can combine the beneficial properties of multiple materials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a composite material used in construction or manufacturing?",
+            "options": [
+              "Air with no other substances mixed in",
+              "A single element with no combination involved",
+              "Reinforced concrete, combining concrete and steel",
+              "Pure water with no other materials"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Persons Case and Legal Rights for Women",
+        "summary": "Grade 8 History strand: the Persons Case of 1929 was a landmark legal decision that established that women in Canada were legally considered persons eligible to be appointed to the Senate, expanding women’s legal rights.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Persons Case was decided in which year?",
+            "options": [
+              "1929",
+              "1867",
+              "1982",
+              "1918"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Persons Case established that women in Canada were legally considered ___.",
+            "options": [
+              "Persons eligible to be appointed to the Senate",
+              "Ineligible for any legal rights",
+              "Excluded from all legal recognition",
+              "A group with no connection to Canadian law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Persons Case is considered a landmark decision because it ___.",
+            "options": [
+              "Reduced legal rights for women",
+              "Was unrelated to women’s legal status",
+              "Expanded legal rights for women in Canada",
+              "Had no effect on Canadian law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The group of women who advocated for this legal change are often referred to as ___.",
+            "options": [
+              "A group unrelated to Canadian history",
+              "The Famous Five",
+              "A group with no historical significance",
+              "A modern advocacy organization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Persons Case still studied as part of Canadian history today?",
+            "options": [
+              "It has no connection to legal rights in Canada",
+              "It represents a significant milestone in the advancement of women’s legal rights",
+              "This case never actually took place",
+              "It has no lasting significance in Canadian history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "label": "Day 43 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallelism and Sentence Balance",
+        "summary": "Grade 8 Writing strand: parallelism means using a consistent grammatical structure for related ideas in a sentence, which creates balance, rhythm, and clarity in writing.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Parallelism in writing means ___.",
+            "options": [
+              "Using only single-word sentences",
+              "Avoiding lists entirely in writing",
+              "Using a consistent grammatical structure for related ideas",
+              "Using different grammatical structures for every related idea"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence demonstrates correct parallelism?",
+            "options": [
+              "She enjoys hiking, swimming, and biking.",
+              "She enjoys hiking, to swim, and biking.",
+              "She enjoys to hike, swimming, and biking.",
+              "She enjoys hiking, swimming, and to bike."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is parallel structure valuable in writing?",
+            "options": [
+              "It makes sentences more confusing to read",
+              "It creates clarity, balance, and rhythm in sentences",
+              "It should always be avoided in formal writing",
+              "Parallel structure has no effect on writing quality"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence lacks parallel structure?",
+            "options": [
+              "He enjoys reading, writing, and painting daily.",
+              "He likes to read, writing, and painting.",
+              "Reading, writing, and painting are his interests.",
+              "He likes reading, writing, and painting."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parallelism is especially useful when writing ___.",
+            "options": [
+              "A list of related items or actions",
+              "A single isolated word",
+              "Random unrelated ideas with no structure",
+              "A sentence containing no verbs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Factoring Trinomials",
+        "summary": "Grade 8 Algebra strand (pre-high-school extension): factoring a trinomial, such as x squared plus 5x plus 6, involves finding two binomials that multiply together to produce the original expression.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Factor: x squared plus 5x plus 6.",
+            "options": [
+              "(x + 1)(x + 6)",
+              "(x + 2)(x + 3)",
+              "(x + 6)(x + 6)",
+              "(x + 5)(x + 1)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Factor: x squared plus 7x plus 12.",
+            "options": [
+              "(x + 2)(x + 6)",
+              "(x + 7)(x + 5)",
+              "(x + 3)(x + 4)",
+              "(x + 1)(x + 12)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When factoring a trinomial like x squared plus bx plus c, you look for two numbers that ___.",
+            "options": [
+              "Have no relationship to b or c",
+              "Multiply to give b and add to give c",
+              "Multiply to give c and add to give b",
+              "Are always equal to each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Factor: x squared plus 9x plus 20.",
+            "options": [
+              "(x + 2)(x + 10)",
+              "(x + 9)(x + 11)",
+              "(x + 1)(x + 20)",
+              "(x + 4)(x + 5)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is factoring trinomials a useful algebraic skill?",
+            "options": [
+              "Factoring has no practical use in algebra",
+              "It can help solve quadratic equations and simplify expressions",
+              "Trinomials can never be factored",
+              "This skill only applies to linear equations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Environmental Science: Ocean Acidification",
+        "summary": "Grade 8 Science Earth and Space Systems strand: ocean acidification occurs when the ocean absorbs excess carbon dioxide from the atmosphere, lowering its pH and posing risks to marine life, especially shell-forming organisms.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean acidification occurs when the ocean absorbs excess ___.",
+            "options": [
+              "Helium",
+              "Oxygen only",
+              "Carbon dioxide from the atmosphere",
+              "Nitrogen only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ocean acidification results in a ___ ocean pH.",
+            "options": [
+              "Completely unchanged",
+              "Higher",
+              "Lower",
+              "Unrelated to carbon dioxide levels"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of marine organism is especially at risk from ocean acidification?",
+            "options": [
+              "Organisms with no connection to ocean chemistry",
+              "Organisms unaffected by any pH changes",
+              "Shell-forming organisms, like coral and shellfish",
+              "Only organisms living entirely on land"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might rising carbon dioxide emissions contribute to ocean acidification?",
+            "options": [
+              "Increased atmospheric carbon dioxide leads to more being absorbed by ocean water",
+              "Carbon dioxide emissions have no connection to ocean chemistry",
+              "The ocean never absorbs any atmospheric gases",
+              "Ocean pH is entirely unrelated to atmospheric conditions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is ocean acidification considered an important environmental issue?",
+            "options": [
+              "It can significantly disrupt marine ecosystems and the organisms that depend on them",
+              "Marine ecosystems are unaffected by changes in ocean chemistry",
+              "Ocean acidification has no effect on marine life",
+              "This issue has no connection to environmental science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Response to the Holocaust",
+        "summary": "Grade 8 History strand: Canada’s immigration policies during the Holocaust era were notably restrictive toward Jewish refugees, a historical decision that is now widely studied and critically examined.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "During the Holocaust era, Canada’s immigration policies toward Jewish refugees were generally ___.",
+            "options": [
+              "Restrictive",
+              "Fully open with no restrictions",
+              "Identical to policies from a completely different era",
+              "Unrelated to immigration policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada’s restrictive immigration policies during this period are now ___.",
+            "options": [
+              "Viewed as having no lasting impact on historical understanding",
+              "Widely studied and critically examined",
+              "Considered to have no historical significance",
+              "Entirely forgotten with no historical record"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study Canada’s response to the Holocaust?",
+            "options": [
+              "This response has no relevance to Canadian history",
+              "This topic has no connection to historical study",
+              "To understand and reflect on historical decisions and their consequences",
+              "Canada had no immigration policy during this era"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might reflecting on past immigration policies be valuable for understanding present-day decisions?",
+            "options": [
+              "It can offer insight into the impact of policy choices on vulnerable populations",
+              "Historical reflection serves no useful purpose",
+              "Immigration policy has never changed throughout history",
+              "Past policies have no connection to present-day decision-making"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Canada’s response to the Holocaust considered an important part of history education?",
+            "options": [
+              "It has no connection to understanding history",
+              "Canada’s role during this period should not be studied",
+              "This topic has no educational value",
+              "It encourages critical reflection on the consequences of restrictive policies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "label": "Day 44 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Jargon and Technical Language Across Fields",
+        "summary": "Grade 8 Language strand: jargon refers to specialized vocabulary used within a specific field or profession, and understanding it is important for reading texts related to that field accurately.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Jargon refers to ___.",
+            "options": [
+              "Vocabulary that never appears in professional writing",
+              "Specialized vocabulary used within a specific field",
+              "Words with no specific meaning",
+              "Vocabulary used only in casual conversation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might jargon be difficult for someone outside a particular field to understand?",
+            "options": [
+              "Specialized vocabulary has no connection to a particular field",
+              "Jargon is always easy for everyone to understand immediately",
+              "Jargon never appears in professional or technical writing",
+              "It often has specific meanings understood mainly by people within that field"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of medical jargon?",
+            "options": [
+              "Happy",
+              "Nice",
+              "Quickly",
+              "Diagnosis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer explain jargon when writing for a general audience?",
+            "options": [
+              "Explaining jargon makes writing less clear",
+              "To help readers unfamiliar with the field understand the content",
+              "General audiences always understand specialized vocabulary automatically",
+              "Jargon should never be explained under any circumstances"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Understanding jargon across different fields can help readers ___.",
+            "options": [
+              "Better comprehend texts related to specific subjects or professions",
+              "Ignore the meaning of specialized vocabulary",
+              "Understand only casual, everyday conversation",
+              "Avoid reading any technical texts"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Correlation vs. Causation in Data",
+        "summary": "Grade 8 Data Management strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another -- correlation alone does not prove causation.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Correlation between two variables means ___.",
+            "options": [
+              "The variables are always identical",
+              "One variable definitely causes the other to change",
+              "The variables have no relationship at all",
+              "They tend to change together in some observable pattern"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Causation means ___.",
+            "options": [
+              "A relationship that has no real-world significance",
+              "Two variables happen to change together with no direct link",
+              "Variables can never influence each other",
+              "One variable directly causes a change in another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to remember that correlation does not necessarily imply causation?",
+            "options": [
+              "This distinction has no relevance to interpreting data",
+              "Correlation and causation always mean exactly the same thing",
+              "Causation can be assumed whenever a correlation exists",
+              "Two variables might be related without one actually causing the other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of correlation without necessarily indicating causation?",
+            "options": [
+              "A light turning on because a switch was flipped",
+              "A plant growing because it was watered",
+              "Ice cream sales and swimming pool visits both increasing in summer",
+              "A car stopping because the brakes were applied"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should researchers be cautious about claiming causation based only on correlated data?",
+            "options": [
+              "Researchers should never analyze relationships between variables",
+              "Correlation always proves causation with no further investigation needed",
+              "Causation is irrelevant to interpreting any data",
+              "Other factors might explain the relationship, requiring further investigation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biotechnology: CRISPR and Gene Editing",
+        "summary": "Grade 8 Science Life Systems strand: CRISPR is a gene-editing technology that allows scientists to make precise changes to DNA, with significant potential applications and ethical considerations in medicine and agriculture.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "CRISPR is a technology used to ___.",
+            "options": [
+              "Predict weather patterns",
+              "Measure the size of a cell",
+              "Study the movement of tectonic plates",
+              "Make precise changes to DNA"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "CRISPR has potential applications in fields such as ___.",
+            "options": [
+              "Fields with no connection to biology",
+              "Medicine and agriculture",
+              "A single, unrelated area of study",
+              "Only entertainment technology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does gene editing technology like CRISPR raise ethical considerations?",
+            "options": [
+              "It has the potential to significantly alter living organisms, raising questions about appropriate use",
+              "Gene editing has no ethical implications at all",
+              "CRISPR has no connection to living organisms",
+              "Ethical considerations are irrelevant to scientific research"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a potential application of CRISPR in agriculture?",
+            "options": [
+              "An application with no connection to agriculture",
+              "A use unrelated to farming or crops",
+              "A technology that cannot be applied to plants",
+              "Developing crops with improved resistance to disease"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is CRISPR considered a significant advancement in biotechnology?",
+            "options": [
+              "It has no advantages over earlier gene-editing methods",
+              "It allows for much more precise and efficient gene editing than earlier methods",
+              "CRISPR cannot be used to edit genes at all",
+              "Gene editing technology has no scientific significance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Avro Arrow and Canadian Sovereignty",
+        "summary": "Grade 8 History strand: the Avro Arrow was an advanced Canadian-designed fighter jet whose cancellation in 1959 sparked ongoing debate about Canadian technological independence and sovereignty.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Avro Arrow was a Canadian-designed ___.",
+            "options": [
+              "Space shuttle",
+              "Fighter jet",
+              "Naval ship",
+              "Passenger train"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Avro Arrow project was cancelled in which year?",
+            "options": [
+              "1931",
+              "1959",
+              "1945",
+              "1982"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The cancellation of the Avro Arrow sparked debate about ___.",
+            "options": [
+              "A decision with no public reaction",
+              "A topic unrelated to Canadian history",
+              "An issue with no lasting significance",
+              "Canadian technological independence and sovereignty"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Avro Arrow still discussed in Canadian history today?",
+            "options": [
+              "It has no connection to Canadian technological history",
+              "This topic has no relevance to Canadian sovereignty",
+              "It raises ongoing questions about Canada’s role in advanced technology and defence",
+              "The Avro Arrow project never actually existed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the cancellation of a major technological project like the Avro Arrow be historically significant?",
+            "options": [
+              "It can reflect broader decisions about a country’s economic and technological priorities",
+              "Technological projects never involve important policy decisions",
+              "This event has no connection to Canadian identity",
+              "Cancelled projects have no historical significance"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "label": "Day 45 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Historical Fiction",
+        "summary": "Grade 8 Reading strand: historical fiction blends real historical settings and events with fictional characters and plots, and analyzing it involves distinguishing between factual and imagined elements.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Historical fiction combines ___.",
+            "options": [
+              "Real historical settings or events with fictional characters and plots",
+              "Only fictional worlds with no historical basis at all",
+              "Elements unrelated to any real time period",
+              "Only completely factual accounts with no fictional elements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When analyzing historical fiction, readers should consider ___.",
+            "options": [
+              "Only the historical facts, with no attention to the story",
+              "Nothing related to accuracy or fiction",
+              "Which elements are historically accurate and which are fictional",
+              "Only the fictional elements, ignoring history entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose historical fiction to explore a real historical period?",
+            "options": [
+              "This genre has no educational value",
+              "It allows readers to engage emotionally with history through relatable characters and stories",
+              "Fiction removes any connection to real history",
+              "Historical fiction always distorts historical understanding"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a historically accurate element that might appear in historical fiction?",
+            "options": [
+              "A completely fictional planet with no historical basis",
+              "A real historical event or setting used as the story’s backdrop",
+              "An event that never occurred in any time period",
+              "A setting unrelated to any real historical era"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for readers to recognize the fictional elements within historical fiction?",
+            "options": [
+              "This distinction has no importance for readers",
+              "To avoid mistaking invented details for verified historical facts",
+              "Fictional elements are never present in historical fiction",
+              "All details in historical fiction are always completely accurate"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Modular Arithmetic",
+        "summary": "Grade 8 Number strand (pre-high-school extension): modular arithmetic involves working with remainders after division, often used in real-world contexts like telling time on a 12-hour clock.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Modular arithmetic focuses on ___.",
+            "options": [
+              "The remainder after division",
+              "Only whole numbers with no remainders",
+              "Ignoring division entirely",
+              "A concept unrelated to division"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a 12-hour clock, 15 o’clock would correspond to which hour, using modular arithmetic?",
+            "options": [
+              "15 o’clock exactly, with no adjustment",
+              "3 o’clock",
+              "12 o’clock",
+              "5 o’clock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 17 mod 5 (the remainder when 17 is divided by 5)?",
+            "options": [
+              "5",
+              "3",
+              "12",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is modular arithmetic useful for understanding clocks and calendars?",
+            "options": [
+              "Modular arithmetic has no real-world applications",
+              "Clocks and calendars have no connection to remainders",
+              "These systems repeat in cycles, similar to how remainders repeat in modular arithmetic",
+              "Time never involves any repeating patterns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 22 mod 7 (the remainder when 22 is divided by 7)?",
+            "options": [
+              "1",
+              "3",
+              "22",
+              "7"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forensic Science: Applying Scientific Methods to Investigation",
+        "summary": "Grade 8 Science Inquiry strand: forensic science applies scientific methods and evidence analysis, such as fingerprinting or chemical testing, to investigate crimes and support legal processes.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Forensic science applies scientific methods to ___.",
+            "options": [
+              "Only artistic creation, with no connection to science",
+              "A field entirely unrelated to investigation",
+              "Investigate crimes and support legal processes",
+              "Predicting weather patterns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of evidence forensic scientists might analyze?",
+            "options": [
+              "Fingerprints",
+              "Only witness opinions, with no physical evidence",
+              "Nothing at all, since forensic science analyzes no physical evidence",
+              "A completely unrelated object with no connection to an investigation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is following a careful, systematic scientific method important in forensic investigations?",
+            "options": [
+              "Forensic evidence never needs careful analysis",
+              "Scientific methods have no connection to legal investigations",
+              "A systematic method has no importance in forensic science",
+              "It helps ensure evidence is reliable and conclusions are well-supported"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Chemical testing in forensic science might be used to ___.",
+            "options": [
+              "Have no connection to identifying substances",
+              "Identify unknown substances found at a scene",
+              "Determine weather conditions only",
+              "Replace the need for any physical evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is forensic science considered an interdisciplinary field?",
+            "options": [
+              "Forensic science has no connection to other scientific fields",
+              "It combines knowledge from biology, chemistry, and other sciences with investigative processes",
+              "It relies on a single area of science with no other connections",
+              "This field only involves legal knowledge, with no science involved"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The White Paper of 1969 and Indigenous Resistance",
+        "summary": "Grade 8 History strand: the White Paper of 1969 was a federal government policy proposal that would have eliminated the Indian Act and Indigenous legal status, but was withdrawn after strong resistance from First Nations communities.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The White Paper was proposed in which year?",
+            "options": [
+              "2000",
+              "1969",
+              "1982",
+              "1931"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The White Paper of 1969 proposed to ___.",
+            "options": [
+              "Eliminate the Indian Act and Indigenous legal status",
+              "Strengthen Indigenous rights significantly",
+              "Expand Indigenous self-government immediately",
+              "Have no effect on existing policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The White Paper was ultimately withdrawn due to ___.",
+            "options": [
+              "Widespread support from all communities involved",
+              "No opposition of any kind",
+              "Strong resistance from First Nations communities",
+              "A decision unrelated to Indigenous concerns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the White Paper of 1969 considered an important moment in Indigenous political history?",
+            "options": [
+              "This proposal was never actually made",
+              "It sparked significant organized Indigenous political activism in response",
+              "It has no connection to Indigenous rights movements",
+              "It had no effect on Indigenous political organizing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study the resistance to the White Paper?",
+            "options": [
+              "It illustrates the strength and impact of Indigenous political advocacy",
+              "Indigenous communities had no response to this proposal",
+              "This resistance has no historical significance",
+              "This event has no connection to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "label": "Day 46 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Multi-Genre Project",
+        "summary": "Grade 8 Writing strand: a multi-genre project explores a single topic through multiple forms of writing, such as poetry, a letter, and a news article, allowing for varied perspectives and creative expression.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A multi-genre project explores a single topic through ___.",
+            "options": [
+              "Multiple forms of writing",
+              "Only a single form of writing",
+              "A topic with no connection between the pieces",
+              "No structured writing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of combining genres in a multi-genre project about a historical event?",
+            "options": [
+              "Writing a poem, a letter, and a news article about the same event",
+              "Writing only one essay with no variation in form",
+              "Ignoring the historical event entirely",
+              "Copying text from a single unrelated source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a multi-genre project offer a richer understanding of a topic than a single essay?",
+            "options": [
+              "Multiple genres always make a topic more confusing",
+              "Genre variety has no effect on how a topic is understood",
+              "A single essay always provides a more complete understanding",
+              "Different genres can highlight different perspectives and emotional dimensions of the topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A multi-genre project requires writers to consider ___.",
+            "options": [
+              "How each genre’s conventions shape the presentation of the topic",
+              "A topic with no coherent connections between pieces",
+              "Nothing related to differences between genres",
+              "Only one single writing style throughout"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a multi-genre project be considered a creative writing challenge?",
+            "options": [
+              "It only requires writing in a single form with no variation",
+              "It requires adapting tone, structure, and style across multiple different forms of writing",
+              "Multi-genre projects require no creative thinking",
+              "This type of project has no connection to different writing conventions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to the Quadratic Formula",
+        "summary": "Grade 8 Algebra strand (pre-high-school extension): the quadratic formula, x equals negative b plus or minus the square root of b squared minus 4ac all over 2a, can be used to solve any quadratic equation in the form ax squared plus bx plus c equals zero.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The quadratic formula is used to solve equations in the form ___.",
+            "options": [
+              "ax squared plus bx plus c equals zero",
+              "a plus b equals c",
+              "ax plus b equals zero",
+              "a divided by b equals c"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the quadratic formula, which symbol represents the coefficient of the x squared term?",
+            "options": [
+              "c",
+              "b",
+              "x",
+              "a"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The quadratic formula includes a square root of ___.",
+            "options": [
+              "c squared minus a",
+              "b squared minus 4ac",
+              "a squared plus b squared",
+              "b plus c"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the quadratic formula considered a powerful tool in algebra?",
+            "options": [
+              "The quadratic formula has no practical use in algebra",
+              "It only works for linear equations, not quadratics",
+              "It can only be used with equations that are already factored",
+              "It can solve any quadratic equation, even ones that are difficult to factor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For the equation x squared plus 3x plus 2 equals zero, what are the values of a, b, and c?",
+            "options": [
+              "a = 2, b = 1, c = 3",
+              "a = 3, b = 2, c = 1",
+              "a = 1, b = 2, c = 3",
+              "a = 1, b = 3, c = 2"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Meteorology: Predicting Severe Weather",
+        "summary": "Grade 8 Science Earth and Space Systems strand: meteorologists use data from radar, satellites, and weather models to predict severe weather events, such as tornadoes and hurricanes, helping communities prepare in advance.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Meteorologists use tools such as ___ to help predict severe weather.",
+            "options": [
+              "Radar and satellites",
+              "Tools that provide no useful information",
+              "A single unrelated tool with no connection to weather",
+              "Only guesswork with no data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Predicting severe weather events, like hurricanes, helps communities ___.",
+            "options": [
+              "Prepare in advance to reduce risk",
+              "Avoid using any weather-related data",
+              "Ignore all warnings about severe weather",
+              "Have no ability to prepare for danger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A weather model is used to ___.",
+            "options": [
+              "Simulate and forecast future weather conditions",
+              "Replace the need for any weather data",
+              "Predict only past weather events",
+              "Have no connection to forecasting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is early warning important when severe weather, like a tornado, is predicted?",
+            "options": [
+              "Early warnings have no benefit for community safety",
+              "Preparation has no connection to severe weather warnings",
+              "Severe weather events cannot be predicted in advance",
+              "It can give people time to take safety precautions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is meteorology considered a valuable scientific field?",
+            "options": [
+              "This field has no connection to public safety",
+              "Meteorology has no real-world benefits",
+              "It helps communities understand and prepare for potentially dangerous weather conditions",
+              "Weather prediction has no scientific basis"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Meech Lake and Charlottetown Accords",
+        "summary": "Grade 8 History strand: the Meech Lake Accord and Charlottetown Accord were failed attempts in the late 1980s and early 1990s to amend Canada’s constitution and address Quebec’s status within Confederation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Meech Lake Accord and Charlottetown Accord were attempts to ___.",
+            "options": [
+              "Eliminate Canada’s constitution entirely",
+              "Amend Canada’s constitution",
+              "Address issues unrelated to Canadian government",
+              "Create an entirely new country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "These accords were significantly focused on addressing ___.",
+            "options": [
+              "Issues unrelated to Canadian unity",
+              "Quebec’s status within Confederation",
+              "A topic with no connection to Canadian federalism",
+              "A matter unrelated to constitutional change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Both the Meech Lake Accord and Charlottetown Accord ultimately ___.",
+            "options": [
+              "Failed to be ratified",
+              "Had no connection to Canadian politics",
+              "Were immediately successful with no challenges",
+              "Were never actually proposed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are these accords significant to the study of Canadian federalism?",
+            "options": [
+              "This topic has no relevance to understanding Canadian government",
+              "These accords never actually existed",
+              "They have no connection to Canadian federalism",
+              "They reflect ongoing challenges in balancing regional and national interests within Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might failed constitutional negotiations still be historically significant?",
+            "options": [
+              "They reveal important tensions and priorities within a country’s political system",
+              "Only successful agreements are ever studied in history",
+              "This topic has no connection to understanding Canadian unity",
+              "Failed negotiations have no historical value"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "label": "Day 47 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Political Cartoons",
+        "summary": "Grade 8 Media Literacy strand: political cartoons use symbolism, exaggeration, and humour to comment on political or social issues, requiring readers to interpret visual and textual clues to understand the message.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Political cartoons often use ___ to comment on issues.",
+            "options": [
+              "Symbolism, exaggeration, and humour",
+              "Text with no visual component",
+              "Only plain, literal illustrations with no deeper meaning",
+              "No visual elements at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a political cartoonist use exaggeration in their work?",
+            "options": [
+              "This technique has no persuasive purpose",
+              "To emphasize a point or draw attention to a particular issue",
+              "Political cartoons never use exaggeration",
+              "Exaggeration always removes meaning from a cartoon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Interpreting a political cartoon often requires readers to ___.",
+            "options": [
+              "Focus only on the cartoon’s colours",
+              "Ignore all visual elements completely",
+              "Analyze both the visual symbols and any accompanying text",
+              "Avoid considering the cartoon’s intended message"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Symbolism in a political cartoon might involve using ___.",
+            "options": [
+              "Images unrelated to any political or social issue",
+              "A specific image to represent a larger idea or group",
+              "No connection between images and ideas",
+              "Only random, meaningless images"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are political cartoons considered a valuable historical and media literacy resource?",
+            "options": [
+              "They offer insight into public opinion and commentary on issues from a specific time period",
+              "These cartoons have no connection to public opinion",
+              "Political cartoons provide no historical insight",
+              "This type of media has no educational value"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Precision and Significant Figures in Measurement",
+        "summary": "Grade 8 Measurement strand: significant figures indicate the precision of a measurement, and understanding them helps ensure calculations reflect an appropriate and honest level of accuracy.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Significant figures indicate ___.",
+            "options": [
+              "Only whole numbers with no decimals",
+              "The exact colour of a measured object",
+              "The precision of a measurement",
+              "A number with no connection to measurement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the measurement 3.20 cm, how many significant figures are there?",
+            "options": [
+              "Four",
+              "One",
+              "Two",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to consider significant figures when reporting a measurement?",
+            "options": [
+              "Reporting extra digits always makes a measurement more accurate",
+              "Precision has no relevance to scientific measurement",
+              "It reflects the actual precision of the measuring tool or method used",
+              "Significant figures have no connection to measurement accuracy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a measurement is recorded with too many digits beyond the precision of the tool used, it may ___.",
+            "options": [
+              "Improve the actual precision of the measurement",
+              "Falsely suggest a level of accuracy that was not actually achieved",
+              "Always be considered more accurate than necessary",
+              "Have no effect on how the measurement is interpreted"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might scientists pay close attention to significant figures in their calculations?",
+            "options": [
+              "Precision is never a consideration in scientific work",
+              "This concept only applies to non-scientific measurements",
+              "To ensure their results honestly reflect the precision of their original data",
+              "Significant figures have no role in scientific calculations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Artificial Intelligence and Machine Learning: An Introduction",
+        "summary": "Grade 8 Science and Technology strand: artificial intelligence refers to computer systems designed to perform tasks that typically require human intelligence, and machine learning is a method that allows these systems to improve through exposure to data.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Artificial intelligence refers to ___.",
+            "options": [
+              "A system with no connection to computing",
+              "A concept unrelated to technology",
+              "Computer systems designed to perform tasks requiring human-like intelligence",
+              "Only physical robots, with no software involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Machine learning allows computer systems to ___.",
+            "options": [
+              "Remain completely unchanged regardless of new information",
+              "Replace the need for any programming",
+              "Function with no connection to data at all",
+              "Improve their performance through exposure to data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a real-world application of artificial intelligence?",
+            "options": [
+              "An object unrelated to any form of intelligence",
+              "A device that cannot process any information",
+              "A tool with no connection to computing technology",
+              "A virtual assistant that responds to voice commands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might machine learning models require large amounts of data?",
+            "options": [
+              "Machine learning models never require any data",
+              "Data has no connection to how machine learning models function",
+              "Large amounts of data always make a model less accurate",
+              "More data can help the model identify patterns and improve accuracy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding artificial intelligence increasingly important today?",
+            "options": [
+              "Artificial intelligence has no real-world relevance",
+              "AI is used exclusively in fictional stories",
+              "This technology has no connection to modern life",
+              "AI technology is being used across many industries and everyday applications"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the Suez Crisis and UN Peacekeeping Origins",
+        "summary": "Grade 8 History strand: Canadian diplomat Lester B. Pearson played a key role in resolving the 1956 Suez Crisis by proposing the first large-scale United Nations peacekeeping force, later earning him the Nobel Peace Prize.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Suez Crisis took place in which year?",
+            "options": [
+              "1982",
+              "1956",
+              "1945",
+              "1919"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Lester B. Pearson proposed the creation of ___.",
+            "options": [
+              "A new Canadian political party",
+              "A domestic Canadian policy with no international connection",
+              "A trade agreement unrelated to peacekeeping",
+              "The first large-scale United Nations peacekeeping force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For his role in resolving the Suez Crisis, Lester B. Pearson later received the ___.",
+            "options": [
+              "A prize for scientific achievement",
+              "No recognition of any kind",
+              "An award unrelated to international diplomacy",
+              "Nobel Peace Prize"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada’s role in the Suez Crisis significant to the history of peacekeeping?",
+            "options": [
+              "This event has no historical significance",
+              "It had no connection to the development of peacekeeping",
+              "Canada played no role in resolving this crisis",
+              "It marked an early and influential example of international peacekeeping efforts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might this event be seen as an important part of Canada’s international reputation?",
+            "options": [
+              "Canada’s involvement in this crisis was never recognized",
+              "This event has no connection to Canada’s international reputation",
+              "This event has no relevance to Canadian history",
+              "It reflects Canada’s early and significant contribution to global diplomacy and peacekeeping"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "label": "Day 48 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Nominalization and Concise Writing",
+        "summary": "Grade 8 Writing strand: nominalization turns verbs or adjectives into nouns (decide becomes decision), which can sometimes make writing wordier, so concise writing often favours strong, direct verbs instead.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Nominalization refers to ___.",
+            "options": [
+              "Turning a noun into a verb",
+              "A rule unrelated to word forms",
+              "Removing all nouns from a sentence",
+              "Turning a verb or adjective into a noun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a nominalized form of the verb decide?",
+            "options": [
+              "Undecided",
+              "Decide",
+              "Decision",
+              "Deciding quickly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might overusing nominalizations make writing less concise?",
+            "options": [
+              "Nominalized words have no effect on sentence length",
+              "Nominalization always makes writing shorter and clearer",
+              "Concise writing always requires more nominalizations",
+              "It can replace strong, direct verbs with wordier noun phrases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence demonstrates more concise, direct writing?",
+            "options": [
+              "A decision was made by her quickly.",
+              "The making of a decision occurred quickly by her.",
+              "She made a decision quickly.",
+              "She decided quickly."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose to revise nominalized sentences into more direct ones?",
+            "options": [
+              "Revising sentences has no effect on writing quality",
+              "Direct sentences with strong verbs are often clearer and more engaging",
+              "Concise writing has no connection to verb choice",
+              "Nominalized sentences are always clearer than direct ones"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Conditional Probability",
+        "summary": "Grade 8 Data Management strand (pre-high-school extension): conditional probability is the probability of an event occurring given that another event has already occurred, which can change the likelihood compared to the event happening independently.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Conditional probability refers to ___.",
+            "options": [
+              "A probability that never changes based on other events",
+              "A concept unrelated to probability",
+              "The probability of an event occurring given that another event has already occurred",
+              "The probability of two completely unrelated events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If drawing a card from a deck without replacement, why might the probability of the second draw depend on the first?",
+            "options": [
+              "The two draws are always completely unrelated to each other",
+              "The probability always stays exactly the same regardless of prior events",
+              "The first draw changes the number and composition of remaining cards",
+              "Conditional probability never applies to drawing cards"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a bag has 3 red and 2 blue marbles, and a red marble is removed, what is the probability the next marble drawn is red?",
+            "options": [
+              "2 out of 5",
+              "3 out of 4",
+              "3 out of 5",
+              "2 out of 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is conditional probability useful in real-world situations, such as drawing cards or medical testing?",
+            "options": [
+              "It accounts for how earlier events can affect the likelihood of later outcomes",
+              "This concept only applies to theoretical, unrealistic situations",
+              "Conditional probability has no real-world applications",
+              "Earlier events never affect the probability of later outcomes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two events are considered independent if ___.",
+            "options": [
+              "They can never both occur",
+              "They are always identical events",
+              "The occurrence of one does not affect the probability of the other",
+              "They always affect each other significantly"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sustainable Agriculture and Food Technology",
+        "summary": "Grade 8 Science and Technology strand: sustainable agriculture practices, along with food technologies like vertical farming and precision agriculture, aim to increase food production efficiency while minimizing environmental impact.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Sustainable agriculture aims to ___.",
+            "options": [
+              "Have no connection to environmental impact",
+              "Ignore food production entirely",
+              "Increase food production efficiency while minimizing environmental impact",
+              "Maximize environmental harm with no consideration of efficiency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Vertical farming involves growing crops ___.",
+            "options": [
+              "In stacked layers, often indoors, to maximize limited space",
+              "Only in traditional, expansive outdoor fields",
+              "Without using any technology",
+              "In a method with no connection to space efficiency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Precision agriculture uses technology to ___.",
+            "options": [
+              "Replace the need for any farming technology",
+              "Use resources with no consideration of efficiency",
+              "Ignore all data related to farming",
+              "Optimize resources like water and fertilizer based on specific field data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might sustainable agriculture practices be increasingly important as global population grows?",
+            "options": [
+              "Sustainable practices have no connection to meeting food demands",
+              "They can help meet increasing food demands while protecting environmental resources",
+              "Population growth has no effect on agricultural practices",
+              "Environmental impact is unrelated to food production methods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is food technology considered an important area of scientific innovation?",
+            "options": [
+              "It can help address challenges related to food security and environmental sustainability",
+              "This area of innovation has no connection to agriculture",
+              "Food production has no relationship to technological advancement",
+              "Food technology has no real-world significance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Employment Equity Act and Workplace Rights",
+        "summary": "Grade 8 History strand: the Employment Equity Act, passed in 1986, aimed to address workplace discrimination and promote equal opportunity for underrepresented groups, including women, Indigenous peoples, and people with disabilities.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Employment Equity Act was passed in which year?",
+            "options": [
+              "1919",
+              "1986",
+              "2000",
+              "1945"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Employment Equity Act aimed to address ___.",
+            "options": [
+              "The elimination of all workplace regulations",
+              "Workplace discrimination and promote equal opportunity",
+              "No issues related to employment",
+              "A topic unrelated to Canadian workplaces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which groups were specifically identified as underrepresented under this legislation?",
+            "options": [
+              "Only groups unrelated to workplace equity",
+              "Groups with no historical connection to discrimination",
+              "Women, Indigenous peoples, and people with disabilities",
+              "No specific groups were identified"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Employment Equity Act considered significant in Canadian labour history?",
+            "options": [
+              "It had no effect on workplace practices",
+              "It represented a formal effort to promote fairness and equal opportunity in the workplace",
+              "This legislation was never actually passed",
+              "It has no connection to workplace rights in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might legislation like the Employment Equity Act continue to be studied and discussed today?",
+            "options": [
+              "It reflects ongoing efforts to address workplace equity and inclusion",
+              "This legislation has no relevance to modern discussions of workplace rights",
+              "Workplace discrimination has never been a historical concern",
+              "This topic has no connection to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "label": "Day 49 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Personal Manifesto",
+        "summary": "Grade 8 Writing strand: a personal manifesto expresses a writer’s core beliefs and values, often written with a strong, declarative voice to clearly communicate what the writer stands for.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A personal manifesto is meant to express a writer’s ___.",
+            "options": [
+              "Someone else’s beliefs and values",
+              "Core beliefs and values",
+              "A completely unrelated topic",
+              "A summary of unrelated facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A manifesto is often written with a ___ voice.",
+            "options": [
+              "Strong, declarative",
+              "A voice with no connection to the writer",
+              "Completely neutral with no personal viewpoint",
+              "Extremely vague and uncertain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use bold, direct statements in a personal manifesto?",
+            "options": [
+              "Bold statements have no place in a manifesto",
+              "A manifesto should always avoid expressing clear beliefs",
+              "Direct statements always weaken this type of writing",
+              "To clearly and confidently communicate what they believe and stand for"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a statement that might appear in a personal manifesto?",
+            "options": [
+              "This is a random, unrelated fact.",
+              "A manifesto contains no personal statements.",
+              "The weather today is mild.",
+              "I believe kindness should guide every decision I make."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might writing a personal manifesto help a writer reflect on their own identity?",
+            "options": [
+              "It requires clearly articulating their values and what matters most to them",
+              "Personal identity has no connection to this type of writing",
+              "This type of writing has no connection to self-reflection",
+              "A manifesto never requires any personal reflection"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Complex Fractions and Rational Expressions",
+        "summary": "Grade 8 Number strand (pre-high-school extension): a complex fraction contains a fraction within its numerator, denominator, or both, and simplifying it often involves rewriting it as a division problem.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A complex fraction is one that contains ___.",
+            "options": [
+              "A single digit with no fraction involved",
+              "A fraction within its numerator, denominator, or both",
+              "No numerical values of any kind",
+              "Only whole numbers with no fractions at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplifying a complex fraction often involves rewriting it as a ___ problem.",
+            "options": [
+              "A problem unrelated to fractions",
+              "Division",
+              "Addition only",
+              "Subtraction only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify: (1/2) divided by (1/4).",
+            "options": [
+              "1/2",
+              "1/8",
+              "2",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rational expression is best described as ___.",
+            "options": [
+              "An expression that can never include variables",
+              "A number with no connection to fractions",
+              "A fraction where the numerator and denominator are polynomials",
+              "Always a whole number with no variables"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might complex fractions appear in more advanced algebraic problems?",
+            "options": [
+              "These fractions only appear in basic arithmetic, never algebra",
+              "They often result from combining multiple fractional expressions within a single problem",
+              "Complex fractions never appear in algebra",
+              "They have no connection to rational expressions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Physics of Sound and Acoustics",
+        "summary": "Grade 8 Science Matter and Energy strand: acoustics is the study of how sound behaves in different environments, including how it reflects, absorbs, and travels, which is important for designing spaces like concert halls.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Acoustics is the study of ___.",
+            "options": [
+              "How sound behaves in different environments",
+              "The movement of tectonic plates",
+              "The structure of rocks",
+              "How light travels through space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sound waves can ___ when they encounter different surfaces.",
+            "options": [
+              "Reflect or be absorbed",
+              "Turn into light waves",
+              "Never interact with surfaces at all",
+              "Always disappear completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a concert hall be designed with specific materials and shapes?",
+            "options": [
+              "To control how sound reflects and travels for optimal listening quality",
+              "Concert halls are never designed with sound in mind",
+              "The materials used have no connection to acoustics",
+              "Acoustic design has no effect on sound quality"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Soft materials, like curtains or carpet, tend to ___ sound more than hard surfaces.",
+            "options": [
+              "Amplify",
+              "Have no effect on",
+              "Absorb",
+              "Reflect"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding acoustics valuable in fields like architecture and audio engineering?",
+            "options": [
+              "Acoustics has no real-world applications",
+              "Sound behavior has no connection to building or space design",
+              "It helps design spaces and technologies that control sound quality effectively",
+              "This field has no relevance to engineering or design"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Same-Sex Marriage Legalization in Canada",
+        "summary": "Grade 8 History strand: Canada legalized same-sex marriage nationwide in 2005, becoming one of the first countries in the world to do so, following a series of court decisions and public advocacy.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "Canada legalized same-sex marriage nationwide in which year?",
+            "options": [
+              "1982",
+              "2005",
+              "2000",
+              "2015"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada was among ___ countries in the world to legalize same-sex marriage nationwide.",
+            "options": [
+              "The last",
+              "One with no historical significance regarding this topic",
+              "The first",
+              "A country with no connection to this issue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The legalization of same-sex marriage in Canada followed ___.",
+            "options": [
+              "No legal or public activity of any kind",
+              "A series of court decisions and public advocacy",
+              "Immediate, uncontested legislative action with no prior advocacy",
+              "A process unrelated to legal or social change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the legalization of same-sex marriage considered a significant milestone in Canadian history?",
+            "options": [
+              "It has no connection to Canadian social history",
+              "This event never actually took place",
+              "It reflected an expansion of legal rights and recognition for same-sex couples",
+              "It had no effect on legal rights in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might studying this history be relevant to understanding social change in Canada?",
+            "options": [
+              "This topic has no connection to understanding social change",
+              "This event has no relevance to Canadian history",
+              "Social change in Canada has never involved legal advocacy",
+              "It illustrates how legal and social advocacy can lead to expanded rights over time"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "label": "Day 50 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating an Author’s Use of Structure",
+        "summary": "Grade 8 Reading strand: an author’s structural choices, such as chronological order, flashback, or parallel storylines, shape how a story unfolds and affect the reader’s understanding and engagement.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An author’s structural choices can include using ___.",
+            "options": [
+              "Only random, unrelated events with no structure",
+              "No identifiable structure of any kind",
+              "A structure unrelated to how a story unfolds",
+              "Chronological order, flashback, or parallel storylines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use parallel storylines in a text?",
+            "options": [
+              "Parallel storylines always confuse readers with no purpose",
+              "To show connections or contrasts between different characters or events",
+              "This structure has no effect on a story’s meaning",
+              "Parallel storylines are never used in literature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chronological structure presents events ___.",
+            "options": [
+              "Only in reverse order, from end to beginning",
+              "In a completely random order",
+              "In the order they occur in time",
+              "With no connection to time at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is evaluating an author’s structural choices considered an important reading skill?",
+            "options": [
+              "All stories use identical structures regardless of the author’s choices",
+              "Structure significantly shapes how readers understand and experience a story",
+              "This skill has no connection to reading comprehension",
+              "Structural choices have no effect on how a story is understood"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of how structure might affect a reader’s understanding of a mystery story?",
+            "options": [
+              "Presenting all information immediately with no structural choices",
+              "Structure has no effect on how mystery stories are understood",
+              "Withholding key information until later in the story to build suspense",
+              "Mystery stories never use any particular structural techniques"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Systems, Trigonometric Applications, and Advanced Algebra",
+        "summary": "Grade 8 Number and Algebra strands review: this lesson revisits solving systems by elimination, applying trigonometric ratios, factoring trinomials, the quadratic formula, and conditional probability from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Solve the system using elimination: x + y = 12 and x minus y = 4.",
+            "options": [
+              "x = 12, y = 4",
+              "x = 6, y = 6",
+              "x = 8, y = 4",
+              "x = 4, y = 8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Factor: x squared plus 6x plus 8.",
+            "options": [
+              "(x + 2)(x + 4)",
+              "(x + 6)(x + 2)",
+              "(x + 1)(x + 8)",
+              "(x + 3)(x + 5)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The quadratic formula is used to solve equations in the form ___.",
+            "options": [
+              "a plus b equals c",
+              "ax squared plus bx plus c equals zero",
+              "ax plus b equals zero",
+              "a divided by b equals c"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Conditional probability refers to ___.",
+            "options": [
+              "A concept unrelated to probability",
+              "The probability of an event occurring given that another event has already occurred",
+              "A probability that never changes based on other events",
+              "The probability of two completely unrelated events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review systems, trigonometry, and advanced algebra together?",
+            "options": [
+              "Each topic must be learned in complete isolation",
+              "These related math concepts reinforce each other for stronger overall understanding",
+              "These topics have no connection to each other",
+              "Review is never useful in math"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Biotechnology, Environmental Science, and Emerging Technology",
+        "summary": "Grade 8 Science review: this lesson revisits CRISPR and gene editing, ocean acidification, forensic science, artificial intelligence, and sustainable agriculture covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "CRISPR is a technology used to ___.",
+            "options": [
+              "Study the movement of tectonic plates",
+              "Make precise changes to DNA",
+              "Predict weather patterns",
+              "Measure the size of a cell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ocean acidification occurs when the ocean absorbs excess ___.",
+            "options": [
+              "Helium",
+              "Nitrogen only",
+              "Oxygen only",
+              "Carbon dioxide from the atmosphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Forensic science applies scientific methods to ___.",
+            "options": [
+              "Only artistic creation, with no connection to science",
+              "Investigate crimes and support legal processes",
+              "Predicting weather patterns",
+              "A field entirely unrelated to investigation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Machine learning allows computer systems to ___.",
+            "options": [
+              "Improve their performance through exposure to data",
+              "Function with no connection to data at all",
+              "Replace the need for any programming",
+              "Remain completely unchanged regardless of new information"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable to review biotechnology, environmental science, and emerging technology together?",
+            "options": [
+              "Review provides no benefit in science",
+              "These topics are entirely unrelated to each other",
+              "Each topic must always be studied in isolation",
+              "It helps connect and reinforce related science concepts learned across recent lessons"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Rights, Reconciliation, and Modern Canadian History",
+        "summary": "Grade 8 History review: this lesson revisits the Persons Case, the White Paper of 1969, the Meech Lake and Charlottetown Accords, the Employment Equity Act, and same-sex marriage legalization covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Persons Case established that women in Canada were legally considered ___.",
+            "options": [
+              "Persons eligible to be appointed to the Senate",
+              "Excluded from all legal recognition",
+              "A group with no connection to Canadian law",
+              "Ineligible for any legal rights"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The White Paper of 1969 proposed to ___.",
+            "options": [
+              "Have no effect on existing policy",
+              "Expand Indigenous self-government immediately",
+              "Eliminate the Indian Act and Indigenous legal status",
+              "Strengthen Indigenous rights significantly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Meech Lake Accord and Charlottetown Accord were attempts to ___.",
+            "options": [
+              "Amend Canada’s constitution",
+              "Create an entirely new country",
+              "Address issues unrelated to Canadian government",
+              "Eliminate Canada’s constitution entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada legalized same-sex marriage nationwide in which year?",
+            "options": [
+              "1982",
+              "2015",
+              "2005",
+              "2000"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review rights, reconciliation, and modern Canadian history topics together?",
+            "options": [
+              "It helps reinforce how these historical developments connect to shape rights in Canada today",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in history",
+              "These topics have no meaningful connections"
             ],
             "answer": 0
           }
