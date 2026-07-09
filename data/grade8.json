@@ -7306,5 +7306,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 31,
+    "label": "Day 31 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Advanced Punctuation (Em Dashes, Colons, Semicolons)",
+        "summary": "Grade 8 Writing strand: advanced punctuation marks like em dashes, colons, and semicolons each serve distinct purposes, such as adding emphasis, introducing a list, or joining closely related independent clauses.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An em dash is often used to ___.",
+            "options": [
+              "Add emphasis or a dramatic pause",
+              "Never appear in formal writing",
+              "Indicate the end of a paragraph only",
+              "Replace every period in a text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A colon is commonly used to ___.",
+            "options": [
+              "Replace a comma in every instance",
+              "End every sentence",
+              "Begin a sentence",
+              "Introduce a list or explanation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A semicolon can be used to ___.",
+            "options": [
+              "Begin every sentence",
+              "Replace all periods in a paragraph",
+              "Separate unrelated ideas with no connection",
+              "Join two closely related independent clauses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "I love writing, it helps me think clearly;",
+              "I love writing; it helps me think clearly.",
+              "I love writing it helps; me think clearly.",
+              "I love; writing it helps me think clearly."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a skilled writer use varied punctuation like em dashes and semicolons?",
+            "options": [
+              "Advanced punctuation should always be avoided",
+              "These marks serve no grammatical purpose",
+              "Punctuation choice never affects a sentence’s tone or clarity",
+              "To add clarity, emphasis, and variety to sentence structure"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Systems of Equations by Substitution",
+        "summary": "Grade 8 Algebra strand: the substitution method solves a system of equations by solving one equation for a variable, then substituting that expression into the other equation.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The substitution method involves ___.",
+            "options": [
+              "Adding both equations together with no other steps",
+              "Solving one equation for a variable, then substituting it into the other equation",
+              "Graphing both equations with no algebraic steps",
+              "Ignoring one of the two equations entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve the system using substitution: y = x + 2 and x + y = 10.",
+            "options": [
+              "x = 6, y = 8",
+              "x = 8, y = 10",
+              "x = 4, y = 6",
+              "x = 2, y = 4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might substitution be a useful method when one equation is already solved for a variable?",
+            "options": [
+              "Substitution can only be used with three or more equations",
+              "This situation requires graphing instead of substitution",
+              "It allows that expression to be directly substituted into the other equation",
+              "Substitution never works when a variable is isolated"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve the system using substitution: y = 2x and x + y = 12.",
+            "options": [
+              "x = 4, y = 8",
+              "x = 3, y = 6",
+              "x = 2, y = 4",
+              "x = 6, y = 12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After finding one variable’s value using substitution, the next step is typically to ___.",
+            "options": [
+              "Stop, since only one variable ever needs to be found",
+              "Ignore the second variable completely",
+              "Substitute that value back into one of the original equations to find the other variable",
+              "Start the entire process over with new equations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics: Punnett Squares and Inheritance Patterns",
+        "summary": "Grade 8 Science Life Systems strand: a Punnett square is a diagram used to predict the possible combinations of genes offspring might inherit from their parents, based on dominant and recessive traits.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Determine an organism’s habitat",
+              "Predict possible gene combinations in offspring",
+              "Measure the size of an organism",
+              "Calculate an organism’s age"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A dominant trait is one that ___.",
+            "options": [
+              "Is never expressed under any circumstances",
+              "Only appears when two recessive genes are present",
+              "Is expressed even if only one copy of the gene is present",
+              "Has no connection to genetics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A recessive trait typically appears only when ___.",
+            "options": [
+              "A single dominant gene is present",
+              "No genes are inherited at all",
+              "Two copies of the recessive gene are present",
+              "The trait is inherited from only one parent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If both parents carry one dominant and one recessive gene for a trait, a Punnett square can help predict ___.",
+            "options": [
+              "The exact traits every single offspring will have with certainty",
+              "The probability of each possible trait combination in their offspring",
+              "Only traits unrelated to genetics",
+              "Nothing useful about inheritance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are Punnett squares a useful tool in genetics?",
+            "options": [
+              "They can guarantee exact outcomes with no uncertainty",
+              "They are unrelated to dominant and recessive traits",
+              "They have no practical use in studying genetics",
+              "They provide a visual way to predict the probability of inherited traits"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Fenian Raids and Early Canadian Defence",
+        "summary": "Grade 8 History strand: the Fenian Raids were a series of attacks on British North America in the 1860s by Irish-American groups, which highlighted the need for stronger colonial defence and contributed to discussions about Confederation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Fenian Raids occurred primarily during which decade?",
+            "options": [
+              "1900s",
+              "1810s",
+              "1950s",
+              "1860s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Fenian Raids were carried out by ___.",
+            "options": [
+              "The Spanish military",
+              "The French government",
+              "A Canadian political party",
+              "Irish-American groups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Fenian Raids targeted ___.",
+            "options": [
+              "Mexico",
+              "The United States",
+              "France",
+              "British North America"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Fenian Raids considered relevant to the discussion of Confederation?",
+            "options": [
+              "They occurred after Confederation was already complete",
+              "They had no connection to Confederation discussions",
+              "They highlighted the need for stronger, unified colonial defence",
+              "They discouraged any consideration of uniting the colonies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study events like the Fenian Raids when examining the path to Confederation?",
+            "options": [
+              "These events have no historical significance",
+              "The Fenian Raids never actually took place",
+              "They are unrelated to Canadian colonial history",
+              "They help explain some of the practical motivations behind uniting the colonies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "label": "Day 32 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Personal Statement",
+        "summary": "Grade 8 Writing strand: a personal statement highlights a writer’s experiences, values, and goals, often used in applications, and requires clear, authentic, and well-organized writing.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A personal statement is meant to highlight a writer’s ___.",
+            "options": [
+              "Experiences, values, and goals",
+              "A completely unrelated topic",
+              "Only their favourite foods",
+              "Someone else’s achievements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is authenticity important in a personal statement?",
+            "options": [
+              "It replaces the need for clear organization",
+              "It helps the writing genuinely reflect who the writer is",
+              "Authenticity has no value in this type of writing",
+              "Personal statements should never reflect the actual writer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A well-organized personal statement typically includes ___.",
+            "options": [
+              "No structure of any kind",
+              "Information about someone other than the writer",
+              "Only a list of unrelated random facts",
+              "A clear structure connecting experiences to goals or values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a personal statement include specific examples from the writer’s life?",
+            "options": [
+              "Specific examples always make writing weaker",
+              "Specific examples make the writing more genuine and memorable",
+              "Examples are unnecessary in a personal statement",
+              "Personal statements should avoid all specific details"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one purpose of writing a personal statement?",
+            "options": [
+              "To describe an entirely fictional character",
+              "To communicate who the writer is and what matters to them",
+              "To avoid any self-reflection",
+              "To copy someone else’s writing style exactly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Trigonometric Ratios (SOH-CAH-TOA)",
+        "summary": "Grade 8 Geometry strand (pre-high-school extension): the trigonometric ratios sine, cosine, and tangent relate the angles of a right triangle to the ratios of its side lengths, often remembered using SOH-CAH-TOA.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In a right triangle, sine is defined as ___.",
+            "options": [
+              "Opposite over adjacent",
+              "Hypotenuse over opposite",
+              "Adjacent over hypotenuse",
+              "Opposite over hypotenuse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a right triangle, cosine is defined as ___.",
+            "options": [
+              "Opposite over adjacent",
+              "Opposite over hypotenuse",
+              "Hypotenuse over adjacent",
+              "Adjacent over hypotenuse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a right triangle, tangent is defined as ___.",
+            "options": [
+              "Adjacent over hypotenuse",
+              "Opposite over hypotenuse",
+              "Opposite over adjacent",
+              "Hypotenuse over opposite"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The acronym SOH-CAH-TOA helps students remember ___.",
+            "options": [
+              "A rule for factoring polynomials",
+              "The formula for a circle’s area",
+              "The definitions of sine, cosine, and tangent",
+              "The steps to solve a linear equation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Trigonometric ratios apply specifically to ___.",
+            "options": [
+              "Right triangles",
+              "Shapes with no angles at all",
+              "Any triangle with no restrictions",
+              "Only equilateral triangles"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Evolution and Natural Selection: An Introduction",
+        "summary": "Grade 8 Science Life Systems strand: evolution describes how species change over generations, and natural selection is the process by which traits that improve survival and reproduction become more common over time.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Evolution describes how species ___.",
+            "options": [
+              "Change over many generations",
+              "Have no connection to genetics",
+              "Never change at all",
+              "Instantly transform within a single lifetime"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Natural selection favours traits that ___.",
+            "options": [
+              "Have no effect on survival",
+              "Improve an organism’s chances of survival and reproduction",
+              "Always decrease an organism’s chances of survival",
+              "Are unrelated to an organism’s environment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a trait that might be favoured by natural selection in a cold climate?",
+            "options": [
+              "Thicker fur for insulation",
+              "A trait unrelated to survival",
+              "A trait that provides no benefit",
+              "A trait that decreases warmth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a population’s traits change over many generations?",
+            "options": [
+              "All individuals in a population are always identical",
+              "Individuals with advantageous traits are more likely to survive and pass them on",
+              "Traits never change across generations",
+              "Natural selection has no connection to genetics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is natural selection considered a key concept in biology?",
+            "options": [
+              "Natural selection only applies to extinct species",
+              "It helps explain how species adapt to their environments over time",
+              "This concept has no scientific basis",
+              "It has no connection to how species change"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Northwest Resistance and Louis Riel",
+        "summary": "Grade 8 History strand: the Northwest Resistance of 1885, led in part by Louis Riel, was a response by Métis and First Nations peoples to concerns over land rights and government policy in the Canadian West.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Northwest Resistance took place in which year?",
+            "options": [
+              "1914",
+              "1867",
+              "1885",
+              "1931"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Louis Riel played a significant role in leading resistance related to ___.",
+            "options": [
+              "A war fought entirely overseas",
+              "A conflict unrelated to Canadian history",
+              "European colonization of Africa",
+              "Métis and First Nations concerns over land rights"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Northwest Resistance was partly a response to ___.",
+            "options": [
+              "Concerns over land rights and government policy",
+              "A celebration with no underlying conflict",
+              "A conflict unrelated to Canadian expansion westward",
+              "An agreement with no disputes involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Louis Riel considered a significant, though controversial, figure in Canadian history?",
+            "options": [
+              "His role in Canadian history is entirely unknown",
+              "He is remembered with no controversy at all",
+              "He has no connection to Canadian history",
+              "He is seen by many as a defender of Métis rights amid a complex and disputed legacy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians continue to study the Northwest Resistance today?",
+            "options": [
+              "It was a minor event with no lasting significance",
+              "This event has no relevance to understanding Canada today",
+              "It highlights ongoing questions about land rights, government policy, and Indigenous relations",
+              "This event has no connection to Indigenous history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "label": "Day 33 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Satire and Social Commentary",
+        "summary": "Grade 8 Reading strand: satire uses humour, irony, and exaggeration to critique society, and analyzing it requires identifying the underlying message beneath the humour.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Satire is used to ___.",
+            "options": [
+              "Praise society with no criticism at all",
+              "Avoid any deeper meaning",
+              "Present only literal, factual statements with no commentary",
+              "Critique society using humour, irony, or exaggeration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might analyzing satire require careful reading?",
+            "options": [
+              "The critique is often hidden beneath humour or exaggeration",
+              "Satire is identical to purely factual writing",
+              "Satire always states its message directly with no interpretation needed",
+              "Satire never contains any deeper meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a technique used in satire?",
+            "options": [
+              "Presenting only neutral, unbiased facts",
+              "Avoiding humour entirely",
+              "Removing all critique from the writing",
+              "Exaggerating a societal flaw to highlight it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Social commentary in satire often focuses on ___.",
+            "options": [
+              "Only positive aspects with no criticism",
+              "Issues within society, politics, or culture",
+              "Random, unrelated topics with no message",
+              "Fictional worlds with no connection to real issues"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might satire be considered a powerful tool for social critique?",
+            "options": [
+              "Humour can make a serious critique more engaging and memorable",
+              "Satire removes all meaning from a critique",
+              "Serious critique is always more effective without any humour",
+              "Satire has no persuasive power at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Standard Deviation: An Introduction",
+        "summary": "Grade 8 Data Management strand (pre-high-school extension): standard deviation measures how spread out data values are from the mean, with a larger standard deviation indicating more variability in the data.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Standard deviation measures ___.",
+            "options": [
+              "How spread out data values are from the mean",
+              "The exact middle value of a data set",
+              "The total number of values in a data set",
+              "The most frequently occurring value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A larger standard deviation indicates ___.",
+            "options": [
+              "That all values are identical",
+              "More variability in the data",
+              "That the mean cannot be calculated",
+              "Less variability in the data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A smaller standard deviation indicates that data values are generally ___.",
+            "options": [
+              "Impossible to measure",
+              "Unrelated to the mean",
+              "Closer to the mean",
+              "Farther from the mean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might standard deviation be a useful statistic alongside the mean?",
+            "options": [
+              "It shows how consistent or spread out the data really is",
+              "It always equals the mean, providing no new information",
+              "Standard deviation has no connection to understanding data",
+              "It should never be calculated alongside the mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two data sets have the same mean but different standard deviations, the set with the higher standard deviation ___.",
+            "options": [
+              "Has identical values to the other set",
+              "Cannot be compared to the other set",
+              "Has more variability among its values",
+              "Always has a smaller range"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Structure of DNA",
+        "summary": "Grade 8 Science Life Systems strand: DNA is a molecule shaped like a double helix that carries genetic instructions, made up of four bases -- adenine, thymine, guanine, and cytosine -- that pair in specific combinations.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "DNA is shaped like a ___.",
+            "options": [
+              "Single straight line with no structure",
+              "Perfect square",
+              "Double helix",
+              "Flat sheet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "DNA carries ___.",
+            "options": [
+              "No useful information",
+              "Genetic instructions for an organism",
+              "Information unrelated to biology",
+              "Only information about diet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is one of the four bases found in DNA?",
+            "options": [
+              "Carbon dioxide",
+              "Hydrogen",
+              "Oxygen",
+              "Adenine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In DNA, bases pair in specific combinations, such as adenine pairing with ___.",
+            "options": [
+              "Itself",
+              "Cytosine",
+              "No other base at all",
+              "Thymine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding DNA’s structure important in biology?",
+            "options": [
+              "DNA plays no role in inherited traits",
+              "DNA structure has no connection to genetics",
+              "This structure has no scientific significance",
+              "It helps explain how genetic information is stored and passed on"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Women’s Suffrage in Canada: The Fight for the Vote",
+        "summary": "Grade 8 History strand: the women’s suffrage movement in Canada fought for women’s right to vote, achieving major milestones at the federal level in 1918, though the timeline varied for different groups of women.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "Women’s suffrage refers to the movement advocating for ___.",
+            "options": [
+              "Women’s right to vote",
+              "The elimination of voting rights entirely",
+              "A movement unrelated to voting rights",
+              "Rights unrelated to political participation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canadian women gained the right to vote in federal elections in which year?",
+            "options": [
+              "1918",
+              "1867",
+              "1950",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The timeline for women gaining the right to vote in Canada ___.",
+            "options": [
+              "Never actually changed over time",
+              "Was identical for every woman in Canada with no variation",
+              "Varied for different groups of women",
+              "Has no connection to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the women’s suffrage movement considered a significant part of Canadian history?",
+            "options": [
+              "This movement never actually took place",
+              "It had no lasting impact on Canadian society",
+              "It represented a major step toward expanding political rights and equality",
+              "It occurred with no organized advocacy involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might historians note that suffrage timelines varied among different groups of Canadian women?",
+            "options": [
+              "Suffrage was never a contested or gradual process",
+              "All Canadian women gained the right to vote on the exact same day",
+              "Not all women gained voting rights at the same time due to differing laws and barriers",
+              "This variation has no historical significance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "label": "Day 34 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Etymology and Word Formation",
+        "summary": "Grade 8 Language strand: understanding etymology (word origins) and word formation processes, such as compounding or blending, helps readers and writers build and interpret a stronger vocabulary.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Etymology is the study of ___.",
+            "options": [
+              "Grammar rules for verbs",
+              "A word’s origin and history",
+              "A word’s exact length",
+              "How to pronounce a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compounding as a word formation process involves ___.",
+            "options": [
+              "Creating a word with no connection to existing words",
+              "Combining two existing words to form a new one",
+              "Only shortening words with no combination",
+              "Removing all letters from a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Blending as a word formation process involves ___.",
+            "options": [
+              "Removing all vowels from a word",
+              "Using only whole, unaltered words",
+              "Combining parts of two words into a new word, like brunch from breakfast and lunch",
+              "A process unrelated to vocabulary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding etymology useful when encountering unfamiliar words?",
+            "options": [
+              "Word origins never provide any useful clues",
+              "Recognizing familiar roots can help readers infer meaning",
+              "Etymology has no connection to understanding word meaning",
+              "Etymology only applies to very short words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a blended word?",
+            "options": [
+              "Notebook",
+              "Sunflower",
+              "Smog (from smoke and fog)",
+              "Basketball"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rational Exponents and Radical Form",
+        "summary": "Grade 8 Number strand (pre-high-school extension): a rational exponent, such as x to the power of one-half, represents a radical expression, such as the square root of x, connecting exponent and radical notation.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "x to the power of one-half is equivalent to ___.",
+            "options": [
+              "x to the power of two",
+              "x squared",
+              "x times one-half",
+              "The square root of x"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "x to the power of one-third is equivalent to ___.",
+            "options": [
+              "The square root of x",
+              "The cube root of x",
+              "x divided by three",
+              "x to the power of three"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rational exponent connects which two mathematical concepts?",
+            "options": [
+              "Angles and triangles",
+              "Fractions and decimals only",
+              "Probability and statistics",
+              "Exponents and radicals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 8 to the power of one-third?",
+            "options": [
+              "24",
+              "8",
+              "4",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to understand the connection between rational exponents and radicals?",
+            "options": [
+              "It allows expressions to be rewritten in whichever form is most useful for a given problem",
+              "This connection has no mathematical use",
+              "Radicals can never be expressed using exponents",
+              "Rational exponents have no connection to radicals"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fluid Dynamics: Bernoulli’s Principle",
+        "summary": "Grade 8 Science Structures and Mechanisms strand: Bernoulli’s Principle states that faster-moving fluid exerts less pressure than slower-moving fluid, a concept used to explain phenomena like airplane lift.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Bernoulli’s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.",
+            "options": [
+              "Exactly equal",
+              "Unpredictable",
+              "More",
+              "Less"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Bernoulli’s Principle helps explain how ___.",
+            "options": [
+              "Airplane wings generate lift",
+              "Sound travels through solids",
+              "Plants perform photosynthesis",
+              "Rocks form over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An airplane wing is shaped so that air travels ___ over the top of the wing than underneath.",
+            "options": [
+              "Faster",
+              "At exactly the same speed",
+              "Not at all",
+              "Slower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Bernoulli’s Principle, if air moves faster over the top of a wing, the pressure there is ___.",
+            "options": [
+              "Higher than below the wing",
+              "Exactly equal to the pressure below the wing",
+              "Lower than below the wing, helping create lift",
+              "Unrelated to lift generation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Bernoulli’s Principle important in engineering fields like aviation?",
+            "options": [
+              "It helps explain and predict how fluid movement affects pressure and lift",
+              "It only applies to solids, not fluids",
+              "Bernoulli’s Principle has no connection to flight",
+              "This principle has no real-world engineering applications"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Winnipeg General Strike and Labour Movements",
+        "summary": "Grade 8 History strand: the Winnipeg General Strike of 1919 was one of the largest labour strikes in Canadian history, reflecting broader worker concerns over wages, working conditions, and the right to organize.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Winnipeg General Strike took place in which year?",
+            "options": [
+              "1885",
+              "1919",
+              "1945",
+              "1970"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Winnipeg General Strike is considered one of the largest examples of ___ in Canadian history.",
+            "options": [
+              "Labour strikes",
+              "Elections",
+              "Natural disasters",
+              "Immigration waves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Workers involved in the strike were concerned about issues such as ___.",
+            "options": [
+              "Only unrelated political issues",
+              "Wages and working conditions",
+              "Issues with no connection to employment",
+              "Nothing related to labour concerns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Winnipeg General Strike significant to the history of labour movements in Canada?",
+            "options": [
+              "It discouraged any future labour organizing",
+              "It reflected growing worker demands for fair treatment and the right to organize",
+              "It had no connection to labour rights",
+              "This event never actually took place"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study labour movements like the Winnipeg General Strike?",
+            "options": [
+              "Labour movements have no historical significance",
+              "This event has no connection to Canadian history",
+              "They help explain the historical struggle for workers’ rights in Canada",
+              "Workers’ rights have never been a topic of historical concern"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "label": "Day 35 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Comparing Film and Text Adaptations",
+        "summary": "Grade 8 Reading and Media Literacy strands: comparing a text to its film adaptation involves examining how elements like plot, character, and tone are preserved or changed when a story is adapted to a different medium.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Comparing a text to its film adaptation involves examining ___.",
+            "options": [
+              "Nothing related to the original text",
+              "The actors’ personal lives",
+              "Only the film’s runtime",
+              "How elements like plot and tone are preserved or changed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a film adaptation change certain details from the original text?",
+            "options": [
+              "Different mediums may require different storytelling techniques or time constraints",
+              "Adaptations always follow the text exactly with no changes",
+              "Film adaptations never make any creative choices",
+              "Changes are always made with no purpose or reasoning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a change that might occur when adapting a novel into a film?",
+            "options": [
+              "The film ignoring the story’s plot entirely",
+              "The story remaining word-for-word identical to the book",
+              "No visual elements being added to the story",
+              "Combining or removing minor characters to fit the film’s length"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is comparing adaptations considered a valuable media literacy skill?",
+            "options": [
+              "Adaptations are always identical to their source material",
+              "It helps readers understand how creative choices shape meaning across different formats",
+              "This comparison has no educational value",
+              "Media literacy has no connection to comparing formats"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Tone in a film adaptation might be conveyed differently than in a text through ___.",
+            "options": [
+              "No creative elements at all",
+              "A method identical to written text",
+              "Music, lighting, and visual effects",
+              "Only written description"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume and Surface Area of Spheres and Cones",
+        "summary": "Grade 8 Geometry strand: the volume of a sphere is found using four-thirds pi r cubed, while the volume of a cone is found using one-third times the base area times height.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the volume of a sphere is ___.",
+            "options": [
+              "Pi r squared",
+              "One-third base area times height",
+              "Four-thirds pi r cubed",
+              "Two pi r"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The formula for the volume of a cone is ___.",
+            "options": [
+              "Four-thirds pi r cubed",
+              "One-third times base area times height",
+              "Base area times height",
+              "Two times base area times height"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A cone’s volume is what fraction of a cylinder’s volume with the same base and height?",
+            "options": [
+              "Equal to the cylinder’s volume",
+              "One-half",
+              "One-third",
+              "Two-thirds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a sphere has a radius of 3 units, which expression represents its volume?",
+            "options": [
+              "Pi times 3 squared",
+              "Four-thirds pi times 3 cubed",
+              "One-third pi times 3 squared",
+              "Two pi times 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding the volume of cones and spheres be useful in real-world design?",
+            "options": [
+              "These shapes never appear in real-world objects",
+              "Cones and spheres have no measurable volume",
+              "Volume calculations have no practical design applications",
+              "Many real objects, like ice cream cones or balls, are based on these shapes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Robotics and Mechatronics",
+        "summary": "Grade 8 Science and Technology strand: mechatronics combines mechanical engineering, electronics, and programming to design and build robotic systems that can sense, process, and respond to their environment.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Mechatronics combines which fields?",
+            "options": [
+              "A single unrelated field",
+              "Mechanical engineering, electronics, and programming",
+              "Only art and music",
+              "Only agriculture and farming"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A robotic system typically uses sensors to ___.",
+            "options": [
+              "Ignore all surrounding conditions",
+              "Gather information about its environment",
+              "Replace the need for programming",
+              "Prevent any interaction with its environment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Programming plays a role in robotics by ___.",
+            "options": [
+              "Preventing the robot from functioning",
+              "Having no connection to robotic function",
+              "Replacing the need for mechanical parts",
+              "Instructing the robot on how to respond to different situations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might mechatronics be considered an interdisciplinary field?",
+            "options": [
+              "It relies on only a single area of study with no overlap",
+              "Mechatronics has no connection to engineering",
+              "It combines knowledge and skills from multiple areas of engineering and technology",
+              "This field only involves art and design"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a real-world application of mechatronics?",
+            "options": [
+              "A simple hand-powered tool with no automation",
+              "An automated manufacturing robot",
+              "A book with no technological components",
+              "A drawing with no mechanical elements"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Japanese Canadian Internment During WWII",
+        "summary": "Grade 8 History strand: during World War II, the Canadian government forcibly relocated and interned thousands of Japanese Canadians, an action now widely recognized as a violation of their civil rights.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "During World War II, the Canadian government forcibly relocated and interned ___.",
+            "options": [
+              "Only foreign visitors to Canada",
+              "A group unrelated to Canadian history",
+              "Thousands of Japanese Canadians",
+              "No civilians of any background"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Japanese Canadian internment is now widely recognized as ___.",
+            "options": [
+              "A violation of civil rights",
+              "An event with no lasting historical significance",
+              "A policy that had no effect on those involved",
+              "A fair and justified policy with no controversy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Internment during this period often involved ___.",
+            "options": [
+              "The loss of homes, property, and freedoms for those affected",
+              "Full protection of all rights and property",
+              "No impact on the daily lives of those interned",
+              "A policy welcomed by all those affected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is studying Japanese Canadian internment important for understanding Canadian history?",
+            "options": [
+              "It reflects a policy with no lasting consequences",
+              "It highlights a significant instance of injustice and the importance of protecting civil rights",
+              "Internment never actually occurred in Canada",
+              "This event has no relevance to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why has the Canadian government formally acknowledged this period in more recent history?",
+            "options": [
+              "The government has never acknowledged this event",
+              "This acknowledgment has no connection to historical injustice",
+              "The event required no formal recognition",
+              "To recognize the injustice experienced by Japanese Canadians and work toward reconciliation"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "label": "Day 36 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Extended Definition Essay",
+        "summary": "Grade 8 Writing strand: an extended definition essay explores the deeper meaning of a complex or abstract term, such as courage or success, using examples, comparisons, and explanations beyond a simple dictionary definition.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An extended definition essay explores ___.",
+            "options": [
+              "The deeper meaning of a complex or abstract term",
+              "A term with no meaningful complexity",
+              "Only a simple dictionary definition",
+              "A completely unrelated topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a term suited for an extended definition essay?",
+            "options": [
+              "A random punctuation mark",
+              "The number three",
+              "Courage",
+              "A single letter of the alphabet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An extended definition essay often uses ___.",
+            "options": [
+              "Examples, comparisons, and explanations",
+              "No supporting details at all",
+              "A definition copied directly from a dictionary",
+              "Only a one-sentence definition with no elaboration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use a personal example to help define an abstract term like kindness?",
+            "options": [
+              "Personal examples can make an abstract idea more concrete and relatable",
+              "Personal examples always weaken an extended definition",
+              "Abstract terms should never be explained with examples",
+              "Examples have no connection to definitions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is an extended definition essay more complex than a simple dictionary entry?",
+            "options": [
+              "Extended definitions never require any elaboration",
+              "Complex terms have no need for deeper explanation",
+              "It explores multiple dimensions of meaning through detailed explanation and examples",
+              "It is exactly the same as a dictionary definition"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Graphing Quadratic Functions",
+        "summary": "Grade 8 Algebra strand (pre-high-school extension): a quadratic function, such as y equals x squared, produces a U-shaped graph called a parabola, with a vertex representing its minimum or maximum point.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The graph of a quadratic function is called a ___.",
+            "options": [
+              "Triangle",
+              "Circle",
+              "Parabola",
+              "Straight line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The vertex of a parabola represents ___.",
+            "options": [
+              "A random unrelated point",
+              "The minimum or maximum point of the graph",
+              "The steepest possible slope",
+              "The starting point of the x-axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The graph of y equals x squared opens ___.",
+            "options": [
+              "In no particular direction",
+              "Sideways only",
+              "Downward only",
+              "Upward"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a quadratic function’s graph opens downward, its vertex represents a ___.",
+            "options": [
+              "The y-intercept only",
+              "Point with no significance",
+              "Maximum point",
+              "Minimum point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might quadratic functions be used to model real-world situations, like the path of a thrown ball?",
+            "options": [
+              "Parabolas have no practical applications",
+              "Only straight-line graphs can represent real-world motion",
+              "Quadratic functions can never model real-world situations",
+              "Their U-shaped graph can represent situations that rise and then fall, or vice versa"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy Systems: Design and Efficiency",
+        "summary": "Grade 8 Science and Technology strand: designing renewable energy systems, such as solar panel arrays or wind turbines, involves balancing energy output, cost, and environmental impact to maximize efficiency.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Designing a renewable energy system involves balancing ___.",
+            "options": [
+              "A single unrelated factor",
+              "Energy output, cost, and environmental impact",
+              "Nothing related to efficiency",
+              "Only the system’s colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Efficiency in a renewable energy system refers to ___.",
+            "options": [
+              "A factor unrelated to energy production",
+              "How effectively the system converts a resource into usable energy",
+              "The system’s exact physical size",
+              "The system’s manufacturing date"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which factor might engineers consider when placing solar panels for maximum efficiency?",
+            "options": [
+              "The panels’ weight alone",
+              "Factors completely unrelated to sunlight",
+              "The amount and angle of sunlight exposure",
+              "The colour of nearby buildings only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers test multiple designs before finalizing a renewable energy system?",
+            "options": [
+              "Testing designs serves no useful purpose",
+              "To determine which design offers the best balance of efficiency, cost, and impact",
+              "The first design attempted is always the most efficient",
+              "Multiple designs are never compared in engineering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is designing efficient renewable energy systems considered valuable?",
+            "options": [
+              "Renewable energy systems cannot be designed for efficiency",
+              "Efficient design has no real-world benefits",
+              "This design process has no connection to environmental impact",
+              "It can help maximize energy production while reducing environmental impact and cost"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Underground Railroad and Black History in Canada",
+        "summary": "Grade 8 History strand: the Underground Railroad was a network that helped formerly enslaved people escape to freedom, with many settling in Canada, contributing significantly to Black Canadian history and communities.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Underground Railroad was a network that helped ___.",
+            "options": [
+              "Explorers travel to new territories",
+              "Soldiers move during wartime",
+              "Immigrants travel by an actual railway system",
+              "Formerly enslaved people escape to freedom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Many people who used the Underground Railroad settled in ___.",
+            "options": [
+              "A country with no historical connection to this network",
+              "A location unrelated to this history",
+              "Canada",
+              "No location at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Black Canadian communities established through this history contributed to ___.",
+            "options": [
+              "Nothing of historical significance",
+              "A history unrelated to Canada",
+              "A community with no lasting impact",
+              "Canada’s cultural and historical development"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the history of the Underground Railroad significant to Canadian history?",
+            "options": [
+              "It highlights an important chapter in Black Canadian history and the pursuit of freedom",
+              "This network never actually reached Canada",
+              "It has no connection to Canadian history",
+              "This history has no lasting significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might learning about Black Canadian history be an important part of understanding Canada’s past?",
+            "options": [
+              "Canada’s history should be studied with no consideration of diverse communities",
+              "Black Canadian history has no connection to Canada’s broader history",
+              "This history has no relevance to Canadian identity",
+              "It provides a fuller and more accurate understanding of Canada’s diverse history"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "label": "Day 37 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Deconstructing Clickbait and Digital Media",
+        "summary": "Grade 8 Media Literacy strand: clickbait uses sensational or misleading headlines to attract clicks, often exaggerating or distorting the actual content, and recognizing these techniques helps readers evaluate digital media critically.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Clickbait is designed to ___.",
+            "options": [
+              "Provide only accurate, neutral information",
+              "Always match the actual content exactly",
+              "Avoid persuading readers to click at all",
+              "Attract clicks using sensational or misleading headlines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a clickbait headline exaggerate the actual content of an article?",
+            "options": [
+              "Clickbait headlines are always completely accurate",
+              "To create curiosity or excitement that encourages clicks",
+              "Exaggeration never increases reader interest",
+              "This technique has no persuasive purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a common sign of a clickbait headline?",
+            "options": [
+              "Vague or sensational language that withholds key details",
+              "A headline with no emotional appeal whatsoever",
+              "A headline that clearly and accurately summarizes the content",
+              "A headline written entirely in plain, factual language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for readers to recognize clickbait techniques?",
+            "options": [
+              "All digital headlines are equally reliable",
+              "Clickbait techniques are impossible to identify",
+              "Recognizing these techniques has no practical value",
+              "It helps them evaluate whether content is trustworthy before engaging with it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which strategy can help a reader avoid falling for clickbait?",
+            "options": [
+              "Assuming every headline is completely accurate",
+              "Reading beyond the headline to verify the actual content",
+              "Avoiding all critical evaluation of digital media",
+              "Sharing an article based on the headline alone"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Permutations and Combinations",
+        "summary": "Grade 8 Data Management strand (pre-high-school extension): a permutation counts arrangements where order matters, while a combination counts selections where order does not matter.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A permutation counts arrangements where ___.",
+            "options": [
+              "Order matters",
+              "No arrangement is being counted",
+              "Only one arrangement is possible",
+              "Order never matters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A combination counts selections where ___.",
+            "options": [
+              "Only a single item can be selected",
+              "Order does not matter",
+              "No selection is being made",
+              "Order always matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing 3 students from a group of 5 to form an unordered team is an example of ___.",
+            "options": [
+              "An operation unrelated to counting",
+              "Neither a permutation nor a combination",
+              "A combination",
+              "A permutation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Arranging 3 students from a group of 5 in a specific order for a race is an example of ___.",
+            "options": [
+              "An operation unrelated to counting",
+              "A permutation",
+              "A combination",
+              "Neither a permutation nor a combination"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to distinguish between permutations and combinations?",
+            "options": [
+              "These two concepts are always identical in every situation",
+              "This distinction has no real mathematical significance",
+              "It helps determine the correct method for counting different types of outcomes",
+              "Order never matters in any counting problem"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space Science: Exoplanets and the Search for Life",
+        "summary": "Grade 8 Science Earth and Space Systems strand: exoplanets are planets that orbit stars outside our solar system, and scientists study them to learn more about planetary systems and the possibility of life beyond Earth.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "An exoplanet is a planet that orbits ___.",
+            "options": [
+              "Only our own Sun",
+              "A planet within our own solar system",
+              "A star outside our solar system",
+              "No star at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Scientists study exoplanets partly to explore the possibility of ___.",
+            "options": [
+              "Nothing related to life in the universe",
+              "Life beyond Earth",
+              "A topic unrelated to space science",
+              "Only the physical characteristics of our own Sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might scientists look for when studying whether an exoplanet could support life?",
+            "options": [
+              "The presence of conditions suitable for liquid water",
+              "The exoplanet’s exact colour, with no other factors",
+              "The distance from Earth alone, with no other factors",
+              "A characteristic unrelated to habitability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is studying exoplanets valuable to our understanding of the universe?",
+            "options": [
+              "It broadens knowledge of planetary systems and the potential for life elsewhere",
+              "This research has no connection to space science",
+              "Exoplanets provide no useful scientific information",
+              "Exoplanets do not actually exist"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which technology has helped scientists detect and study exoplanets?",
+            "options": [
+              "Equipment unrelated to astronomy",
+              "Advanced telescopes",
+              "Simple household tools",
+              "No technology has ever been used for this purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The October Crisis and Canadian Federalism",
+        "summary": "Grade 8 History strand: the October Crisis of 1970 involved a series of kidnappings by the Front de libération du Québec (FLQ) and the federal government’s invocation of the War Measures Act, raising significant questions about civil liberties and federalism.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The October Crisis took place in which year?",
+            "options": [
+              "1919",
+              "2000",
+              "1945",
+              "1970"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The October Crisis involved actions by a group known as ___.",
+            "options": [
+              "A group with no connection to Canadian history",
+              "The Front de libération du Québec (FLQ)",
+              "A group active only outside of Canada",
+              "An international organization unrelated to Quebec"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During the October Crisis, the federal government invoked ___.",
+            "options": [
+              "An agreement with a foreign country",
+              "No formal legal measures at all",
+              "A law unrelated to this crisis",
+              "The War Measures Act"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The October Crisis raised important questions about ___.",
+            "options": [
+              "Civil liberties and the balance of federal power",
+              "Issues unrelated to federalism",
+              "Topics unrelated to Canadian governance",
+              "A subject with no historical significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the October Crisis significant to discussions of Canadian federalism?",
+            "options": [
+              "This event has no lasting historical importance",
+              "It highlighted tensions and questions about federal authority during a national crisis",
+              "It had no connection to federal or provincial relations",
+              "The October Crisis never actually took place"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "label": "Day 38 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Style and Voice in Writing",
+        "summary": "Grade 8 Writing strand: style and voice refer to the distinctive way a writer expresses ideas, shaped by choices in word choice, sentence structure, and tone, giving writing its own unique personality.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Voice in writing refers to ___.",
+            "options": [
+              "The distinctive personality and expression of a writer",
+              "The exact number of words in a sentence",
+              "A type of punctuation mark",
+              "A rule about verb tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Style in writing is shaped by choices such as ___.",
+            "options": [
+              "Word choice, sentence structure, and tone",
+              "Only the colour of ink used",
+              "The page number of a piece of writing",
+              "A factor unrelated to language choices"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might two writers describe the same event very differently?",
+            "options": [
+              "Their individual style and voice shape how they express the same ideas",
+              "All writers are required to describe events identically",
+              "Style and voice have no effect on writing",
+              "Word choice never varies between writers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a stylistic choice a writer might make?",
+            "options": [
+              "Ignoring word choice entirely",
+              "Using short, punchy sentences for a dramatic effect",
+              "Writing with no consistent tone at all",
+              "Avoiding any consideration of sentence length"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is developing a personal writing voice considered valuable for a writer?",
+            "options": [
+              "It helps make their writing distinctive and authentic",
+              "Voice only matters in poetry, not other forms of writing",
+              "A personal voice has no value in writing",
+              "All writers should sound exactly the same"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Systems: Classifying Real Numbers",
+        "summary": "Grade 8 Number strand (pre-high-school extension): real numbers include natural numbers, whole numbers, integers, rational numbers, and irrational numbers, each nested within broader categories.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Which set of numbers includes both positive and negative whole numbers, along with zero?",
+            "options": [
+              "Natural numbers",
+              "Irrational numbers only",
+              "Integers",
+              "A set unrelated to whole numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rational number can always be expressed as ___.",
+            "options": [
+              "A fraction of two integers",
+              "A number unrelated to fractions",
+              "Only a whole number with no fractions allowed",
+              "A number that cannot be written as a fraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An irrational number, such as pi, ___.",
+            "options": [
+              "Can always be written as a simple fraction",
+              "Is not considered a real number",
+              "Cannot be expressed exactly as a simple fraction",
+              "Is always a whole number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which set of numbers includes 1, 2, 3, and so on, but not zero or negative numbers?",
+            "options": [
+              "Natural numbers",
+              "Irrational numbers",
+              "Rational numbers only",
+              "Integers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to classify numbers into different categories, such as rational and irrational?",
+            "options": [
+              "All numbers belong to exactly the same single category",
+              "Number classification has no connection to mathematics",
+              "It helps clarify the properties and relationships between different types of numbers",
+              "Classifying numbers serves no mathematical purpose"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nanotechnology: An Introduction",
+        "summary": "Grade 8 Science and Technology strand: nanotechnology involves designing and manipulating materials at an extremely small scale, often at the level of atoms and molecules, to create new materials and technologies.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Nanotechnology involves working at the scale of ___.",
+            "options": [
+              "A scale unrelated to materials science",
+              "Entire planets",
+              "Large buildings",
+              "Atoms and molecules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Nanotechnology can be used to create ___.",
+            "options": [
+              "New materials with unique properties",
+              "Nothing of practical use",
+              "Materials identical to all existing ones with no changes",
+              "Objects unrelated to science or technology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a potential application of nanotechnology?",
+            "options": [
+              "Technology that has no connection to materials",
+              "A field with no real-world applications",
+              "A concept unrelated to material design",
+              "Developing stronger, lighter materials for various industries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists be interested in manipulating materials at such a small scale?",
+            "options": [
+              "This scale of research has no real applications",
+              "Materials behave identically regardless of their scale",
+              "Materials can exhibit different, sometimes improved properties at the nanoscale",
+              "Nanoscale manipulation has no scientific benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is nanotechnology considered an emerging and significant field of study?",
+            "options": [
+              "This field has no connection to modern technology",
+              "Nanotechnology has no real-world significance",
+              "It has the potential to impact many industries, from medicine to engineering",
+              "It only applies to a single, narrow application"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Peacekeeping Legacy",
+        "summary": "Grade 8 History strand: Canada developed a significant reputation for international peacekeeping in the mid-to-late 20th century, contributing personnel and resources to United Nations missions around the world.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "Canada developed a significant reputation for ___ during the mid-to-late 20th century.",
+            "options": [
+              "Isolating itself from world events",
+              "A role unrelated to global affairs",
+              "International peacekeeping",
+              "Avoiding all international involvement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canadian peacekeeping efforts have often involved contributing to ___.",
+            "options": [
+              "Only domestic Canadian issues",
+              "A group unrelated to peacekeeping",
+              "United Nations missions",
+              "No international organizations at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada have developed a strong reputation for peacekeeping?",
+            "options": [
+              "Canada has never participated in any peacekeeping missions",
+              "Peacekeeping missions have no international significance",
+              "This reputation has no connection to Canadian history",
+              "Its consistent contributions of personnel and resources to international missions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada’s peacekeeping legacy considered an important part of its national identity?",
+            "options": [
+              "Peacekeeping has no significance to Canada’s history",
+              "It reflects a value many Canadians associate with their country’s role in the world",
+              "Canada’s international role has remained completely unknown",
+              "This legacy has no connection to Canadian identity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying Canada’s peacekeeping history helps students understand ___.",
+            "options": [
+              "That peacekeeping missions never actually occurred",
+              "How Canada has positioned itself within international relations",
+              "A topic with no relevance to Canadian history",
+              "That Canada has no history of international involvement"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "label": "Day 39 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Extended Argumentative Research Paper",
+        "summary": "Grade 8 Writing strand: an extended argumentative research paper presents a well-developed position on a complex issue, supported by thoroughly researched evidence from multiple credible sources.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An extended argumentative research paper is built around ___.",
+            "options": [
+              "A single unsupported opinion",
+              "A well-developed position supported by thoroughly researched evidence",
+              "Random, unrelated information",
+              "A summary with no argument at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to use multiple credible sources in this type of paper?",
+            "options": [
+              "It strengthens the argument with well-supported, reliable evidence",
+              "Credibility of sources has no bearing on the paper’s quality",
+              "Multiple sources are never necessary",
+              "Using more than one source always weakens an argument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a feature commonly included in an extended argumentative research paper?",
+            "options": [
+              "Only casual, informal language throughout",
+              "No structure or organization at all",
+              "A complete absence of evidence",
+              "Properly cited sources supporting the argument"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might this type of paper address counterarguments?",
+            "options": [
+              "Addressing other viewpoints can strengthen the credibility of the overall argument",
+              "Addressing other viewpoints always weakens an argument",
+              "Counterarguments should never be included in a research paper",
+              "This type of paper should ignore all opposing views"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A strong conclusion in an extended argumentative research paper should ___.",
+            "options": [
+              "Reinforce the main argument and its significance",
+              "Introduce a completely unrelated new topic",
+              "Be identical to the paper’s introduction",
+              "Contain no connection to the rest of the paper"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Proportional Reasoning: Similar Figures and Indirect Measurement",
+        "summary": "Grade 8 Geometry strand: similar figures have proportional side lengths, which can be used for indirect measurement, such as calculating the height of a tall object using shadows and proportions.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Similar figures have side lengths that are ___.",
+            "options": [
+              "Completely unrelated to each other",
+              "Proportional to each other",
+              "Impossible to compare",
+              "Always identical in length"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Indirect measurement uses proportional relationships to ___.",
+            "options": [
+              "Only measure objects that are easy to reach directly",
+              "Replace the need for any measurement at all",
+              "Avoid using proportions entirely",
+              "Estimate a measurement that is difficult to measure directly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a 2-metre-tall person casts a 3-metre shadow, and a nearby tree casts a 12-metre shadow, how tall is the tree, using proportional reasoning?",
+            "options": [
+              "6 metres",
+              "8 metres",
+              "18 metres",
+              "9 metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might indirect measurement be useful for measuring something like the height of a building?",
+            "options": [
+              "Indirect measurement can never be used for tall objects",
+              "It allows for an estimate without needing to physically measure the entire height directly",
+              "This method has no real-world application",
+              "Proportional reasoning has no connection to measurement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For indirect measurement using shadows to work accurately, the objects being compared should ___.",
+            "options": [
+              "Be measured under similar lighting conditions at the same time",
+              "Never involve any shadows",
+              "Be measured under completely different conditions with no consistency",
+              "Have no proportional relationship at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biomedical Engineering: Innovations in Health Technology",
+        "summary": "Grade 8 Science and Technology strand: biomedical engineering applies engineering principles to healthcare, developing technologies like prosthetics, medical imaging devices, and implantable devices to improve patient outcomes.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Biomedical engineering applies engineering principles to ___.",
+            "options": [
+              "A field unrelated to health or medicine",
+              "Agriculture exclusively",
+              "Healthcare and medical technology",
+              "Only entertainment technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a biomedical engineering innovation?",
+            "options": [
+              "A type of clothing with no medical purpose",
+              "A prosthetic limb",
+              "A musical instrument",
+              "A tool unrelated to healthcare"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Medical imaging devices, developed through biomedical engineering, help doctors ___.",
+            "options": [
+              "Avoid any use of technology in diagnosis",
+              "See inside the body to diagnose health conditions",
+              "Have no way of understanding a patient’s condition",
+              "Replace the need for any medical training"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might biomedical engineers work closely with healthcare professionals?",
+            "options": [
+              "This collaboration has no benefit to patient care",
+              "Biomedical engineers never need input from healthcare professionals",
+              "To design technologies that effectively meet real patient and medical needs",
+              "Medical technology is designed with no consideration of patient needs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is biomedical engineering considered an important and growing field?",
+            "options": [
+              "It has no connection to improving medical technology",
+              "This field has no impact on healthcare",
+              "Biomedical engineering has no real-world applications",
+              "It has the potential to significantly improve patient care and health outcomes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Indian Act and Its Historical Impact",
+        "summary": "Grade 8 History strand: the Indian Act, first passed in 1876, is federal legislation that has significantly controlled many aspects of the lives of First Nations peoples in Canada, with lasting and often harmful effects.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Indian Act was first passed in which year?",
+            "options": [
+              "1876",
+              "1931",
+              "1867",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Indian Act is federal legislation that has significantly controlled aspects of the lives of ___.",
+            "options": [
+              "Only recent immigrants to Canada",
+              "A group unrelated to Canadian history",
+              "First Nations peoples in Canada",
+              "No specific group of people"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The historical effects of the Indian Act are widely recognized as ___.",
+            "options": [
+              "Having no lasting effect at all",
+              "Unrelated to Indigenous history",
+              "Entirely positive with no lasting concerns",
+              "Significant and often harmful"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the Indian Act important for studying Canadian history?",
+            "options": [
+              "This legislation has no historical significance",
+              "The Indian Act never actually existed",
+              "It reveals significant aspects of the relationship between the Canadian government and First Nations peoples",
+              "It has no connection to Indigenous history in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might discussions of reconciliation in Canada often reference the Indian Act?",
+            "options": [
+              "Reconciliation discussions never reference historical legislation",
+              "The Indian Act has no connection to reconciliation efforts",
+              "Understanding its historical impact is seen as important to addressing ongoing challenges",
+              "This legislation has no relevance to modern Indigenous relations"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "label": "Day 40 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Multiple Narrators",
+        "summary": "Grade 8 Reading strand: some texts use multiple narrators to present different perspectives on the same events, requiring readers to consider how each narrator’s point of view shapes the overall story.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A text with multiple narrators presents ___.",
+            "options": [
+              "Different perspectives on the same events",
+              "Only a single unchanging viewpoint",
+              "A story with no characters",
+              "No narration at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to use multiple narrators?",
+            "options": [
+              "A story can never have more than one narrator",
+              "Multiple narrators always make a story less clear",
+              "This technique has no effect on how a story is understood",
+              "To provide a fuller, more complex understanding of events through different perspectives"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When reading a text with multiple narrators, readers should consider ___.",
+            "options": [
+              "How each narrator’s perspective and potential bias shape their account",
+              "Nothing related to perspective or bias",
+              "That all narrators must present identical accounts",
+              "Only the very first narrator introduced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of how using multiple narrators can affect a story?",
+            "options": [
+              "This technique removes all perspective from a story",
+              "Multiple narrators eliminate the need for any interpretation",
+              "Readers may see the same event interpreted differently by each narrator",
+              "All narrators always describe events in exactly the same way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is analyzing multiple narrators considered an advanced reading skill?",
+            "options": [
+              "Multiple narrators never provide any additional insight",
+              "Texts with multiple narrators are always simple to understand",
+              "This skill requires no critical thinking",
+              "It requires tracking and comparing different perspectives throughout a text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Systems, Trigonometry, and Advanced Number Concepts",
+        "summary": "Grade 8 Number and Geometry strands review: this lesson revisits solving systems by substitution, introductory trigonometric ratios, standard deviation, rational exponents, and real number classification from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Solve the system using substitution: y = x + 3 and x + y = 9.",
+            "options": [
+              "x = 4, y = 7",
+              "x = 9, y = 12",
+              "x = 3, y = 6",
+              "x = 6, y = 9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a right triangle, sine is defined as ___.",
+            "options": [
+              "Opposite over hypotenuse",
+              "Hypotenuse over opposite",
+              "Opposite over adjacent",
+              "Adjacent over hypotenuse"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A larger standard deviation indicates ___.",
+            "options": [
+              "That all values are identical",
+              "More variability in the data",
+              "That the mean cannot be calculated",
+              "Less variability in the data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "x to the power of one-half is equivalent to ___.",
+            "options": [
+              "x to the power of two",
+              "x squared",
+              "The square root of x",
+              "x times one-half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review systems, trigonometry, and advanced number concepts together?",
+            "options": [
+              "These related math concepts reinforce each other for stronger overall understanding",
+              "Each topic must be learned in complete isolation",
+              "These topics have no connection to each other",
+              "Review is never useful in math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Genetics, Evolution, and Emerging Technologies",
+        "summary": "Grade 8 Science review: this lesson revisits Punnett squares, evolution and natural selection, DNA structure, robotics and mechatronics, and nanotechnology covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Determine an organism’s habitat",
+              "Measure the size of an organism",
+              "Calculate an organism’s age",
+              "Predict possible gene combinations in offspring"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Natural selection favours traits that ___.",
+            "options": [
+              "Are unrelated to an organism’s environment",
+              "Have no effect on survival",
+              "Always decrease an organism’s chances of survival",
+              "Improve an organism’s chances of survival and reproduction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "DNA is shaped like a ___.",
+            "options": [
+              "Double helix",
+              "Perfect square",
+              "Flat sheet",
+              "Single straight line with no structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mechatronics combines mechanical engineering, electronics, and ___.",
+            "options": [
+              "Only agriculture",
+              "A field unrelated to technology",
+              "Programming",
+              "Only art and music"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to review genetics, evolution, and emerging technologies together?",
+            "options": [
+              "These topics are entirely unrelated to each other",
+              "Each topic must always be studied in isolation",
+              "Review provides no benefit in science",
+              "It helps connect and reinforce related science concepts learned across recent lessons"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: 19th and 20th-Century Canadian History",
+        "summary": "Grade 8 History review: this lesson revisits the Fenian Raids, the Northwest Resistance, women’s suffrage, the Winnipeg General Strike, Japanese Canadian internment, and the October Crisis covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Fenian Raids were carried out by ___.",
+            "options": [
+              "The Spanish military",
+              "A Canadian political party",
+              "The French government",
+              "Irish-American groups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Louis Riel played a significant role in leading resistance related to ___.",
+            "options": [
+              "Métis and First Nations concerns over land rights",
+              "European colonization of Africa",
+              "A war fought entirely overseas",
+              "A conflict unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canadian women gained the right to vote in federal elections in which year?",
+            "options": [
+              "1918",
+              "1950",
+              "1982",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During the October Crisis, the federal government invoked ___.",
+            "options": [
+              "No formal legal measures at all",
+              "The War Measures Act",
+              "A law unrelated to this crisis",
+              "An agreement with a foreign country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review 19th and 20th-century Canadian history topics together?",
+            "options": [
+              "It helps reinforce how these historical events connect to shape modern Canada",
+              "These topics have no meaningful connections",
+              "Review is never useful in history",
+              "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
