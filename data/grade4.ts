@@ -1190,6 +1190,386 @@ const curriculum: DayContent[] = [
      {q:"Conservation means ___.", options:["only saving money","never using natural resources","wasting resources","using resources wisely for the future"], answer:3}
    ]},
 ]},
+{day:31, label:"Day 31 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Fact and Opinion", summary:"Ontario Grade 4 Reading strand: a fact can be proven true or false with evidence, while an opinion expresses a personal belief or judgement that cannot be proven.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which of these is a fact?", options:["Blue is the nicest colour.","Hockey is the most exciting sport.","Winter is the best season.","Canada has ten provinces."], answer:3},
+     {q:"Which of these is an opinion?", options:["A triangle has three sides.","Water boils at 100 degrees Celsius.","Toronto is in Ontario.","Chocolate ice cream is the best flavour."], answer:3},
+     {q:"A fact can be described as a statement that ___.", options:["Is always negative","Can be proven true or false","Reflects a personal feeling","Everyone must agree with"], answer:1},
+     {q:"Why might two people disagree about an opinion but not a fact?", options:["Opinions can always be proven true","Facts and opinions are exactly the same","Facts change depending on who says them","Opinions are based on personal judgement, while facts can be verified"], answer:3},
+     {q:"Which phrase often signals an opinion?", options:["I believe that","According to the data","It was measured that","Research shows"], answer:0}
+   ]},
+  {subject:"Math", title:"Rounding and Estimating", summary:"Ontario Grade 4 Number strand: rounding numbers to the nearest ten, hundred, or thousand makes estimating sums, differences, and totals faster and easier to check for reasonableness.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Round 3,482 to the nearest thousand.", options:["4,000","3,000","3,500","3,482"], answer:0},
+     {q:"Round 6,251 to the nearest hundred.", options:["6,000","6,300","6,200","6,250"], answer:1},
+     {q:"Estimate the sum: 2,890 + 3,150 is approximately ___.", options:["2,800 + 3,100 = 5,900 exactly, no rounding","2,000 + 3,000 = 5,000","10,000","3,000 + 3,000 = 6,000"], answer:3},
+     {q:"Why is estimating useful before solving a problem exactly?", options:["It replaces the need to solve the problem","It has no real use in math","It helps you check whether your final answer is reasonable","It always gives the exact answer"], answer:2},
+     {q:"Round 749 to the nearest hundred.", options:["750","749","800","700"], answer:2}
+   ]},
+  {subject:"Science", title:"Species at Risk in Canadian Ecosystems", summary:"Ontario Grade 4 Science Life Systems strand: species at risk are plants or animals in Canada facing possible extinction, often due to habitat loss, pollution, or climate change, and conservation programs work to protect them.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A species at risk is one that is ___.", options:["Facing possible extinction","Found only in aquariums","No longer affected by its environment","Extremely abundant everywhere"], answer:0},
+     {q:"Which is a common cause of species becoming at risk?", options:["Too many predators being removed by nature naturally","Nothing affects species survival","Habitat loss","Too much protected land"], answer:2},
+     {q:"Which Canadian animal has historically been considered at risk?", options:["Woodland caribou","Raccoon","Common squirrel","House sparrow"], answer:0},
+     {q:"Conservation programs for species at risk often involve ___.", options:["Ignoring the issue completely","Removing all environmental laws","Destroying more natural habitat","Protecting habitat and monitoring populations"], answer:3},
+     {q:"Why do scientists track species at risk closely?", options:["Only endangered plants are ever tracked","To speed up extinction","To take action before a species disappears entirely","Tracking has no scientific value"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Ancient Mesopotamia", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient Mesopotamia, located between the Tigris and Euphrates rivers, is considered one of the earliest civilizations, known for early writing, cities, and irrigation systems.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Ancient Mesopotamia developed between which two rivers?", options:["The Amazon and Mississippi","The Ganges and Indus","The Nile and Congo","The Tigris and Euphrates"], answer:3},
+     {q:"Mesopotamia is often called one of the earliest ___.", options:["Mountain ranges","Civilizations","Oceans","Deserts"], answer:1},
+     {q:"Which early writing system developed in Mesopotamia?", options:["The Latin alphabet","Braille","Hieroglyphics","Cuneiform"], answer:3},
+     {q:"Irrigation systems in Mesopotamia were used mainly to ___.", options:["Bring river water to farmland for growing crops","Power early machines","Create early roads","Build pyramids"], answer:0},
+     {q:"Why did early civilizations like Mesopotamia often develop near rivers?", options:["Rivers had no practical benefit","Rivers provided water for farming, drinking, and transportation","Rivers were avoided by early people","Rivers made travel impossible"], answer:1}
+   ]},
+]},
+{day:32, label:"Day 32 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Comparative and Superlative Adjectives", summary:"Ontario Grade 4 Writing strand: comparative adjectives (bigger, faster) compare two things, while superlative adjectives (biggest, fastest) compare three or more things, often adding -er or -est.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which is the comparative form of tall?", options:["Tallest","Tallness","Taller","Tall"], answer:2},
+     {q:"Which is the superlative form of fast?", options:["Faster","Fastest","Fast","Fastly"], answer:1},
+     {q:"Comparative adjectives are used to compare ___.", options:["One thing only","Nothing at all","Two things","Three or more things"], answer:2},
+     {q:"Superlative adjectives are used to compare ___.", options:["Only numbers","Two things only","Three or more things","Only colours"], answer:2},
+     {q:"Choose the correct sentence: This is the ___ mountain in the range.", options:["more tall","tall","tallest","taller"], answer:2}
+   ]},
+  {subject:"Math", title:"Multiplying by 10, 100, and 1,000", summary:"Ontario Grade 4 Number strand: multiplying a whole number by 10, 100, or 1,000 shifts its digits left, adding that many zeros, such as 25 times 100 equals 2,500.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 34 multiplied by 10?", options:["34","34,000","340","3,400"], answer:2},
+     {q:"What is 56 multiplied by 100?", options:["5,600","56","560","56,000"], answer:0},
+     {q:"What is 7 multiplied by 1,000?", options:["7,000","70","70,000","700"], answer:0},
+     {q:"Multiplying by 100 is the same as adding how many zeros?", options:["Two","Three","One","Four"], answer:0},
+     {q:"What is 120 multiplied by 10?", options:["12,000","1,200","12","120"], answer:1}
+   ]},
+  {subject:"Science", title:"Changes of State: Melting, Freezing, and Evaporating", summary:"Ontario Grade 4 Science Matter and Energy strand: matter changes state through processes like melting (solid to liquid), freezing (liquid to solid), and evaporating (liquid to gas), usually caused by adding or removing heat.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Melting occurs when a solid changes into a ___ after gaining heat.", options:["Gas","Liquid","Different solid","Nothing changes"], answer:1},
+     {q:"Freezing occurs when a liquid changes into a solid after ___ heat.", options:["Gaining","Creating","Ignoring","Losing"], answer:3},
+     {q:"Evaporation occurs when a liquid changes into a ___.", options:["Gas","Different liquid","Solid","Rock"], answer:0},
+     {q:"Which is an everyday example of melting?", options:["Water freezing into ice cubes","Steam rising from a lake","Rain falling from clouds","An ice cube turning into water on a warm day"], answer:3},
+     {q:"What generally causes a substance to change state?", options:["Adding or removing heat energy","Nothing can cause a change of state","Changing its name","Changing its colour"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Ancient China", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient China developed along the Yellow and Yangtze rivers, and is known for early inventions such as paper, silk production, and the Great Wall.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Ancient China developed along which rivers?", options:["The Amazon and Mississippi","The Tigris and Euphrates","The Yellow and Yangtze","The Nile and Congo"], answer:2},
+     {q:"Which invention is credited to Ancient China?", options:["The printing press in Europe","Modern electricity","The wheel only","Paper"], answer:3},
+     {q:"Silk production was an important early industry in ___.", options:["Ancient Rome","Ancient China","Ancient Egypt","Ancient Greece"], answer:1},
+     {q:"The Great Wall of China was built mainly to ___.", options:["Store grain","Attract tourists","Help defend against invasions","Provide irrigation"], answer:2},
+     {q:"Why do historians study Ancient China's early inventions?", options:["They influenced technology and trade for centuries afterward","Only modern inventions matter to historians","They had no lasting impact","Ancient China invented nothing notable"], answer:0}
+   ]},
+]},
+{day:33, label:"Day 33 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Formal and Informal Letters", summary:"Ontario Grade 4 Writing strand: formal letters use polite, professional language for serious purposes (like a business), while informal letters use casual, friendly language for people you know well.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A formal letter is typically used for ___.", options:["Writing to a close friend casually","Professional or serious purposes","Texting a sibling","Writing in a diary"], answer:1},
+     {q:"Which greeting fits a formal letter?", options:["Yo,","Whats up,","Hey there!","Dear Sir or Madam,"], answer:3},
+     {q:"An informal letter is best suited for ___.", options:["A legal document","A formal complaint to a company","A job application","Writing to a close friend or family member"], answer:3},
+     {q:"Which closing best fits a formal letter?", options:["Sincerely,","Later,","See ya later","Bye bye"], answer:0},
+     {q:"Why does letter tone change between formal and informal writing?", options:["All letters should sound the same","Formal letters are always shorter","Tone never needs to change","To match the purpose and relationship with the reader"], answer:3}
+   ]},
+  {subject:"Math", title:"Mixed Numbers and Improper Fractions", summary:"Ontario Grade 4 Number strand: a mixed number combines a whole number and a fraction (like 2 and 1/2), while an improper fraction has a numerator larger than its denominator (like 5/2), and the two can be converted between each other.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Which is a mixed number?", options:["5/2","1/2","2/5","2 and 1/2"], answer:3},
+     {q:"Which is an improper fraction?", options:["3/7","2 and 1/4","1/2","7/3"], answer:3},
+     {q:"Convert the mixed number 1 and 3/4 to an improper fraction.", options:["3/4","7/4","4/7","1/4"], answer:1},
+     {q:"Convert the improper fraction 9/4 to a mixed number.", options:["2 and 1/2","9/4 cannot convert","2 and 1/4","4 and 1/4"], answer:2},
+     {q:"In an improper fraction, the numerator is ___ the denominator.", options:["Unrelated to","Always exactly half of","Equal to or larger than","Always smaller than"], answer:2}
+   ]},
+  {subject:"Science", title:"Simple Machines: Levers and Inclined Planes", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: a lever uses a pivot point (fulcrum) to lift or move objects with less effort, while an inclined plane is a sloped surface that makes raising objects easier.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A lever uses a ___ to help lift or move objects.", options:["Magnet","Screw","Wheel","Fulcrum (pivot point)"], answer:3},
+     {q:"An inclined plane is best described as a ___.", options:["Spinning wheel","Sealed container","Sloped surface","Vertical pole"], answer:2},
+     {q:"Which is an everyday example of an inclined plane?", options:["A pulley","A seesaw","A wheel","A ramp"], answer:3},
+     {q:"A seesaw is an example of which simple machine?", options:["Screw","Lever","Wedge","Inclined plane"], answer:1},
+     {q:"Why do inclined planes make lifting heavy objects easier?", options:["They eliminate gravity","They spread the effort over a longer distance instead of lifting straight up","They make objects lighter permanently","They have no real benefit"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Early Societies: Daily Life and Social Roles", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China had structured daily lives, with different social roles for rulers, workers, farmers, and families.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"In many early societies, social roles were often organized by ___.", options:["Class or status, such as rulers, workers, and farmers","Age only, with no other factors","No structure at all","Random daily selection"], answer:0},
+     {q:"Farmers in early societies were important because they ___.", options:["Only built monuments","Ruled the government","Produced food to support the population","Had no role in daily life"], answer:2},
+     {q:"Rulers in early civilizations often held responsibility for ___.", options:["Only farming duties","Nothing important","Leading the society and making major decisions","Cooking for the population"], answer:2},
+     {q:"Studying daily life in early societies helps us understand ___.", options:["Nothing useful about history","Daily life was identical everywhere","Only modern life","How people lived, worked, and organized their communities long ago"], answer:3},
+     {q:"Which role would likely have existed in most early societies?", options:["Software engineer","Airline pilot","Farmer","Astronaut"], answer:2}
+   ]},
+]},
+{day:34, label:"Day 34 — Thu", subjects:[
+  {subject:"Language", title:"Figurative Language: Idioms", summary:"Ontario Grade 4 Reading strand: an idiom is a phrase whose meaning cannot be understood from the literal words alone, such as break the ice or it is raining cats and dogs.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"An idiom is a phrase whose meaning ___.", options:["Is always about weather","Has no meaning at all","Cannot be understood from its literal words alone","Matches its literal words exactly"], answer:2},
+     {q:"What does the idiom break the ice mean?", options:["To finish a race","To clean a window","To ease tension and start a conversation","To literally break frozen water"], answer:2},
+     {q:"What does it is raining cats and dogs mean?", options:["It is raining very heavily","It is a sunny day","Animals are falling from the sky","Pets are outside playing"], answer:0},
+     {q:"Why can idioms be confusing for new readers?", options:["They only exist in one language","Their meaning differs from what the individual words literally say","They never appear in writing","They are always easy to understand literally"], answer:1},
+     {q:"Which is an example of an idiom?", options:["Two plus two equals four","The sky is blue.","Spill the beans","The cat is sleeping"], answer:2}
+   ]},
+  {subject:"Math", title:"Adding and Subtracting Decimals", summary:"Ontario Grade 4 Number strand: adding and subtracting decimals requires lining up the decimal points so digits with the same place value are combined correctly.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 3.25 + 1.50?", options:["4.25","3.75","5.25","4.75"], answer:3},
+     {q:"What is 6.80 minus 2.30?", options:["4.10","9.10","4.50","3.50"], answer:2},
+     {q:"When adding decimals, it is important to ___.", options:["Always round first","Line up the decimal points","Add only whole numbers","Ignore the decimal point"], answer:1},
+     {q:"What is 5.05 + 2.95?", options:["8.10","7.00","7.90","8.00"], answer:3},
+     {q:"What is 10.00 minus 4.35?", options:["5.35","6.35","6.65","5.65"], answer:3}
+   ]},
+  {subject:"Science", title:"Structures: Load and Support", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: a load is the weight a structure must support, and good structural design distributes that load evenly to prevent collapse.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A load on a structure refers to ___.", options:["The structure's age","The weight the structure must support","The colour of the structure","The material's smell"], answer:1},
+     {q:"Why is it important for a structure to distribute load evenly?", options:["It makes the structure heavier for no reason","Even distribution has no benefit","It only matters for small structures","To prevent weak points that could cause collapse"], answer:3},
+     {q:"Which structural feature helps support heavy loads?", options:["Strong support columns or beams","No support at all","Decorative paint","Thin, unsupported beams"], answer:0},
+     {q:"A bridge is designed to safely support the load of ___.", options:["Nothing at all","Vehicles, people, and its own weight","Only light wind","Only itself with nothing on it"], answer:1},
+     {q:"What might happen if a structure's support cannot handle its load?", options:["Nothing would happen","The structure could weaken or collapse","The structure would become stronger","The load would disappear"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Early Societies: Beliefs and Traditions", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China developed belief systems, gods, and traditions that shaped their culture, art, and daily practices.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Many early societies developed belief systems that included ___.", options:["No spiritual practices at all","Gods, traditions, and ceremonies","Only modern religions","Identical beliefs across all civilizations"], answer:1},
+     {q:"Beliefs and traditions in early societies often influenced ___.", options:["Only farming techniques","Art, architecture, and daily practices","Only trade routes","Nothing about daily life"], answer:1},
+     {q:"Why do historians study the belief systems of early societies?", options:["Only written laws matter to historians","It has no historical value","To better understand their culture, values, and way of life","Beliefs have no connection to culture"], answer:2},
+     {q:"Which is an example of how belief systems shaped early societies?", options:["Building temples and monuments for religious purposes","Beliefs only affected modern societies","All societies built the same structures for the same reasons","Beliefs had no effect on architecture"], answer:0},
+     {q:"Comparing beliefs across early societies shows that ___.", options:["Only one early society had any beliefs","Different societies expressed traditions in unique but sometimes similar ways","All beliefs were exactly identical worldwide","Beliefs never varied across regions"], answer:1}
+   ]},
+]},
+{day:35, label:"Day 35 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Making Predictions", summary:"Ontario Grade 4 Reading strand: making predictions means using clues from the title, pictures, and text so far to thoughtfully guess what might happen next in a story.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Making a prediction while reading means ___.", options:["Using clues from the text to thoughtfully guess what happens next","Skipping to the end of the book","Randomly guessing with no clues","Ignoring the story completely"], answer:0},
+     {q:"Which is a good source of clues for making predictions?", options:["The title and pictures","The font style","The price of the book","The publisher's name"], answer:0},
+     {q:"Why do good readers make predictions while reading?", options:["It only works for non-fiction texts","Predictions are not useful for reading","It keeps them thinking actively and engaged with the text","It replaces the need to read the rest of the story"], answer:2},
+     {q:"If a story's cover shows dark clouds and a worried character, you might predict ___.", options:["The story is a cookbook","Something tense or stormy may happen","A cheerful, sunny beginning","Nothing can be predicted from a cover"], answer:1},
+     {q:"After making a prediction, good readers should ___.", options:["Never think about it again","Check whether the story confirms or changes their prediction","Stop reading immediately","Assume they are always correct"], answer:1}
+   ]},
+  {subject:"Math", title:"Classifying Triangles", summary:"Ontario Grade 4 Geometry strand: triangles can be classified by their sides (equilateral, isosceles, scalene) and by their angles (right, acute, obtuse).",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A triangle with all three sides equal is called ___.", options:["Isosceles","Scalene","Equilateral","Right"], answer:2},
+     {q:"A triangle with exactly two equal sides is called ___.", options:["Equilateral","Scalene","Obtuse","Isosceles"], answer:3},
+     {q:"A triangle with no equal sides is called ___.", options:["Scalene","Equilateral","Isosceles","Right"], answer:0},
+     {q:"A triangle with one 90-degree angle is called a ___ triangle.", options:["Obtuse","Right","Equilateral","Acute"], answer:1},
+     {q:"A triangle with all angles less than 90 degrees is called ___.", options:["Right","Scalene","Acute","Obtuse"], answer:2}
+   ]},
+  {subject:"Science", title:"Space: Constellations and the Night Sky", summary:"Ontario Grade 4 Science Earth and Space Systems strand: constellations are patterns of stars that people have named and used for navigation and storytelling, appearing to shift position across the seasons.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A constellation is a ___.", options:["Type of planet","Type of moon","Single bright star","Pattern of stars that has been named"], answer:3},
+     {q:"Constellations have historically been used for ___.", options:["Cooking recipes","Measuring temperature","Navigation and storytelling","Building materials"], answer:2},
+     {q:"Which is a well-known constellation visible from Canada?", options:["The Great Lakes","The Big Dipper","The Arctic Circle","The Rocky Mountains"], answer:1},
+     {q:"Why do the visible constellations change with the seasons?", options:["The sky is different every night randomly","Stars physically move very quickly","Constellations disappear each season","Earth's position in orbit around the Sun changes our view of the night sky"], answer:3},
+     {q:"Constellations are best observed ___.", options:["Only in summer","During the bright daytime","On a clear night away from bright city lights","Only during a full moon"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Comparing Physical Regions of Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada includes diverse physical regions, such as the Canadian Shield, the Prairies, the Rocky Mountains, and coastal areas, each with distinct landforms and climates.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which physical region of Canada is known for flat, fertile farmland?", options:["The Prairies","The Arctic","The Rocky Mountains","The Canadian Shield"], answer:0},
+     {q:"The Canadian Shield is mainly made up of ___.", options:["Sand dunes","Tropical rainforest","Ancient rock, forests, and lakes","Ocean floor"], answer:2},
+     {q:"Which region features tall, rugged mountains in western Canada?", options:["The Arctic tundra","The Rocky Mountains","The St. Lawrence Lowlands","The Prairies"], answer:1},
+     {q:"Why do Canada's physical regions have different climates and landscapes?", options:["Climate has no connection to landforms","Canada has only one physical region","All regions of Canada have identical climates","Their location, landforms, and distance from oceans affect their climate"], answer:3},
+     {q:"Comparing physical regions helps students understand ___.", options:["How geography shapes where and how people live","That geography has no effect on communities","That climate is the same everywhere in Canada","That Canada is entirely flat"], answer:0}
+   ]},
+]},
+{day:36, label:"Day 36 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Homophones", summary:"Ontario Grade 4 Language strand: homophones are words that sound the same but have different spellings and meanings, such as their/there/they are, or to/too/two.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which set of words are homophones?", options:["Run and walk","Happy and sad","Their, there, they are","Big and small"], answer:2},
+     {q:"Choose the correct homophone: ___ going to the park.", options:["They're","Their","There","They are"], answer:0},
+     {q:"Choose the correct homophone: I left my book over ___.", options:["there","their","they're","they are"], answer:0},
+     {q:"Homophones are words that ___.", options:["Always mean the exact same thing","Sound the same but have different spellings and meanings","Are spelled the same but sound different","Are never used in writing"], answer:1},
+     {q:"Which is the correct use: I have ___ apples.", options:["two","too","there","to"], answer:0}
+   ]},
+  {subject:"Math", title:"Introducing Quadrilaterals", summary:"Ontario Grade 4 Geometry strand: a quadrilateral is any shape with four sides, including squares, rectangles, rhombuses, and trapezoids, each with their own specific properties.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A quadrilateral always has how many sides?", options:["Six","Four","Three","Five"], answer:1},
+     {q:"Which shape is a quadrilateral with four equal sides and four right angles?", options:["Square","Trapezoid","Circle","Triangle"], answer:0},
+     {q:"A rectangle has ___ pairs of equal opposite sides.", options:["Two","Zero","Four","One"], answer:0},
+     {q:"A trapezoid has exactly how many parallel sides?", options:["Zero","Four pairs","Two pairs","One pair"], answer:3},
+     {q:"Which of these is NOT a quadrilateral?", options:["Rectangle","Square","Triangle","Rhombus"], answer:2}
+   ]},
+  {subject:"Science", title:"Weather Instruments and Measurement", summary:"Ontario Grade 4 Science Earth and Space Systems strand: scientists use instruments such as thermometers, rain gauges, and wind vanes to measure and track weather conditions like temperature, precipitation, and wind direction.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A thermometer is used to measure ___.", options:["Air pressure only","Wind direction","Temperature","Rainfall amount"], answer:2},
+     {q:"A rain gauge is used to measure ___.", options:["Temperature","The amount of precipitation","Wind speed","Cloud colour"], answer:1},
+     {q:"A wind vane is used to determine ___.", options:["Temperature","Wind direction","Humidity","Rainfall totals"], answer:1},
+     {q:"Why do meteorologists use weather instruments?", options:["To accurately measure and track weather conditions","Instruments provide no useful weather data","Weather cannot be measured","To guess randomly instead of measuring"], answer:0},
+     {q:"Which instrument would help you know if a storm brought a lot of rain?", options:["Compass","Thermometer","Wind vane","Rain gauge"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Indigenous Peoples: Contributions to Canadian Society", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Indigenous peoples have made significant and lasting contributions to Canadian society, including knowledge of the land, agriculture, medicine, governance, and culture.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Indigenous peoples have contributed knowledge about ___ to Canadian society.", options:["Nothing of lasting value","Foreign countries only","The land, agriculture, and medicine","Only modern technology"], answer:2},
+     {q:"Which crop, first cultivated by Indigenous peoples, remains important today?", options:["Corn","Bananas","Coffee","Rice"], answer:0},
+     {q:"Indigenous governance systems have influenced ideas about ___.", options:["Cooperation and consensus-based decision making","Foreign political systems only","Nothing related to modern government","Only ancient practices with no modern relevance"], answer:0},
+     {q:"Why is it important to recognize Indigenous contributions to Canada?", options:["Indigenous contributions are unimportant","It provides a fuller, more accurate understanding of Canadian history and culture","It has no educational value","Canadian history began only with European settlers"], answer:1},
+     {q:"Indigenous art, storytelling, and traditions continue to ___ Canadian culture today.", options:["Replace entirely","Be completely separate from","Have no influence on","Enrich and influence"], answer:3}
+   ]},
+]},
+{day:37, label:"Day 37 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Poetry", summary:"Ontario Grade 4 Writing strand: poetry uses rhythm, imagery, and sometimes rhyme to express ideas and feelings in a creative, condensed form, often organized into lines and stanzas.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A stanza in a poem is similar to a ___ in prose writing.", options:["Footnote","Chapter","Book title","Paragraph"], answer:3},
+     {q:"Poetry often uses ___ to create vivid mental pictures for the reader.", options:["Imagery","Only numbers","Random letters","Blank pages"], answer:0},
+     {q:"Rhyme in poetry means ___.", options:["Words with opposite meanings","Only long words","Words with the same ending sound","Random unrelated words"], answer:2},
+     {q:"Which is a common feature of poetry?", options:["Only true, factual statements","Strict business formatting","Rhythm and word choice for effect","No creativity allowed"], answer:2},
+     {q:"Why might a poet choose poetry instead of a regular paragraph to express an idea?", options:["To use rhythm, imagery, and condensed language for creative effect","There is no reason to choose poetry","Poetry cannot express any real ideas","Paragraphs are not allowed to express feelings"], answer:0}
+   ]},
+  {subject:"Math", title:"Factors and Multiples", summary:"Ontario Grade 4 Number strand: a factor is a number that divides evenly into another number, while a multiple is the result of multiplying a number by a whole number.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Which is a factor of 12?", options:["4","9","5","7"], answer:0},
+     {q:"Which is a multiple of 6?", options:["18","25","20","15"], answer:0},
+     {q:"A factor of a number ___ evenly into it.", options:["Multiplies infinitely","Has no relationship","Never divides","Divides"], answer:3},
+     {q:"List the factors of 10.", options:["2, 4, 5, 10","1, 2, 4, 10","1, 3, 5, 10","1, 2, 5, 10"], answer:3},
+     {q:"The first three multiples of 7 are ___.", options:["7, 14, 21","7, 8, 9","1, 7, 14","7, 17, 27"], answer:0}
+   ]},
+  {subject:"Science", title:"Sound: How Sound Travels Through Materials", summary:"Ontario Grade 4 Science Matter and Energy strand: sound is a vibration that travels through different materials -- solids, liquids, and gases -- typically fastest through solids and slowest through gases like air.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Sound travels as a type of ___.", options:["Solid object","Light wave","Chemical reaction","Vibration"], answer:3},
+     {q:"Sound generally travels fastest through ___.", options:["Water","A vacuum with nothing in it","Air","Solids"], answer:3},
+     {q:"Sound cannot travel through ___.", options:["Metal","Air","Water","A complete vacuum (empty space)"], answer:3},
+     {q:"Why can you sometimes hear sound better with your ear against a solid surface, like a table?", options:["Sound travels efficiently through solid materials","Sound cannot travel through solids","Solids block all sound","It has nothing to do with vibrations"], answer:0},
+     {q:"Which best describes how sound moves through air to reach our ears?", options:["As vibrating air particles carrying the sound wave","Only through complete silence","Sound does not move at all","As a beam of light"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canada's Relationships with Other Countries", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada maintains relationships with other countries through trade, diplomacy, and international cooperation, which affect its economy and global connections.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Trade with other countries allows Canada to ___.", options:["Stop producing its own goods entirely","Avoid all international contact","Only sell goods, never buy any","Exchange goods and services with the rest of the world"], answer:3},
+     {q:"Diplomacy between countries generally involves ___.", options:["Avoiding all communication","Ignoring international issues","Only military action","Communication and cooperation between governments"], answer:3},
+     {q:"Which is an example of an item Canada might export to other countries?", options:["Only imported goods","Nothing, Canada exports no goods","Items made exclusively in other countries","Natural resources like lumber or minerals"], answer:3},
+     {q:"Why are international relationships important for Canada's economy?", options:["International relationships have no economic effect","They create trade opportunities that support jobs and economic growth","Trade only benefits other countries, never Canada","Canada's economy operates in complete isolation"], answer:1},
+     {q:"International cooperation between countries can help address ___.", options:["Only local town issues","Problems within a single country only","Nothing of global importance","Shared challenges, such as environmental or economic issues"], answer:3}
+   ]},
+]},
+{day:38, label:"Day 38 — Wed", subjects:[
+  {subject:"Language", title:"Media Literacy: Advertising Techniques", summary:"Ontario Grade 4 Media Literacy strand: advertisers use techniques such as emotional appeals, celebrity endorsements, and repetition to persuade audiences to buy products or believe messages.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"An emotional appeal in advertising tries to ___.", options:["Only use plain black-and-white text","Persuade by triggering feelings like excitement or happiness","Avoid influencing the audience at all","Present only statistics"], answer:1},
+     {q:"A celebrity endorsement in an ad means ___.", options:["A famous person promotes the product","Only scientists appear in the ad","The ad contains no persuasive elements","The product has no advertising at all"], answer:0},
+     {q:"Repetition in advertising is used to ___.", options:["Confuse viewers on purpose","Help the audience remember the brand or message","Make audiences forget the product","Slow down the ad's pacing for no reason"], answer:1},
+     {q:"Why should viewers think critically about advertising techniques?", options:["Critical thinking is unnecessary for ads","Advertising has no techniques worth noticing","To recognize persuasion methods and make informed decisions","All ads present only unbiased facts"], answer:2},
+     {q:"Which is an example of an advertising technique?", options:["Using a catchy jingle or slogan","Providing no information about the product","Avoiding any persuasive language","Refusing to show the product"], answer:0}
+   ]},
+  {subject:"Math", title:"Patterning: Input-Output Tables", summary:"Ontario Grade 4 Algebra strand: an input-output table shows how a rule transforms an input number into an output number, helping students identify and apply numeric rules.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"If the rule is add 5, what is the output when the input is 3?", options:["5","15","3","8"], answer:3},
+     {q:"If the rule is multiply by 2, what is the output when the input is 6?", options:["3","12","6","8"], answer:1},
+     {q:"In an input-output table, the input is ___.", options:["The name of the rule","The starting number before applying the rule","Never used in the table","Always the final answer"], answer:1},
+     {q:"If input 4 gives output 12, and input 5 gives output 15, what is the rule?", options:["Multiply by 3","Subtract 1","Divide by 3","Add 8"], answer:0},
+     {q:"Input-output tables are useful because they help you ___.", options:["Replace the need for addition","Guess randomly with no pattern","Avoid using any math rules","Identify and apply a consistent numeric rule"], answer:3}
+   ]},
+  {subject:"Science", title:"Light: Absorption and Colour", summary:"Ontario Grade 4 Science Matter and Energy strand: objects appear a certain colour based on which wavelengths of light they reflect and which they absorb; a black object absorbs most light, while a white object reflects most light.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A black object appears black because it ___ most light.", options:["Reflects","Ignores","Absorbs","Creates"], answer:2},
+     {q:"A white object appears white because it ___ most light.", options:["Blocks completely","Reflects","Destroys","Absorbs"], answer:1},
+     {q:"An object appears a certain colour based on which light wavelengths it ___.", options:["Ignores entirely","Reflects","Creates from nothing","Destroys permanently"], answer:1},
+     {q:"On a sunny day, why might a black shirt feel hotter than a white shirt?", options:["Colour has no effect on heat absorption","Black absorbs more light energy, which converts to heat","White absorbs more heat than black","Black reflects all light energy away"], answer:1},
+     {q:"If an object reflects only green light and absorbs the rest, it will appear ___.", options:["Black","Blue","Green","Red"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Landforms and Bodies of Water in Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada contains diverse landforms and bodies of water, including mountains, plains, rivers, and lakes, such as the Great Lakes and the St. Lawrence River.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which are the five connected lakes on the Canada-United States border?", options:["The Arctic Lakes","The Prairie Lakes","The Rocky Lakes","The Great Lakes"], answer:3},
+     {q:"The St. Lawrence River is important because it ___.", options:["Is located entirely in another country","Is a small, unused stream","Connects the Great Lakes to the Atlantic Ocean, supporting trade and travel","Has no significance to Canada"], answer:2},
+     {q:"Which landform is a large, flat area often used for farming?", options:["Volcano","Canyon","Plain","Mountain range"], answer:2},
+     {q:"Studying Canada's landforms and water bodies helps us understand ___.", options:["That all of Canada looks the same","That Canada has no significant water bodies","How geography influences where communities settle and how they live","That geography has no effect on daily life"], answer:2},
+     {q:"Which is an example of a landform found in Canada?", options:["A skyscraper","Mountains","A highway","A shopping mall"], answer:1}
+   ]},
+]},
+{day:39, label:"Day 39 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Quotation Marks and Dialogue", summary:"Ontario Grade 4 Writing strand: quotation marks show the exact words a person says in dialogue, with punctuation like commas and periods placed carefully to show who is speaking.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Quotation marks are used to show ___.", options:["The exact words someone says","The title of a chapter","A character's thoughts only","A math equation"], answer:0},
+     {q:"Which sentence correctly uses quotation marks?", options:["“Maria said I am ready to go","Maria said I am ready to go.","Maria said, “I am ready to go.”","Maria said, I am ready to go."], answer:2},
+     {q:"Dialogue in a story refers to ___.", options:["The book's cover art","The setting description","The table of contents","Conversation between characters"], answer:3},
+     {q:"In dialogue, a comma is often placed ___.", options:["Never used in dialogue","Before the closing quotation mark, before the speaker tag","Only at the end of the whole story","Outside the quotation marks always"], answer:1},
+     {q:"Why is dialogue useful in storytelling?", options:["It shows characters' personalities and moves the plot forward through their speech","Dialogue has no effect on a story","It is only used in non-fiction","It replaces the need for a plot"], answer:0}
+   ]},
+  {subject:"Math", title:"Multi-Step Word Problems", summary:"Ontario Grade 4 Number strand: multi-step word problems require identifying and completing more than one operation in the correct order to reach a final answer.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A store had 240 toys, sold 85, then received a shipment of 60 more. How many toys now?", options:["155","215","325","385"], answer:1},
+     {q:"Liam saved $45, spent $18, then earned $12 more. How much does Liam have now?", options:["$27","$63","$39","$75"], answer:2},
+     {q:"A school has 4 classes of 25 students each, and 10 students are absent today. How many are present?", options:["85","110","100","90"], answer:3},
+     {q:"Solving a multi-step problem requires you to ___.", options:["Guess the final number","Use only one operation and ignore the rest","Skip the information given","Complete each necessary step in the correct order"], answer:3},
+     {q:"A baker made 150 muffins, sold 3 dozen, then baked 24 more. How many muffins are there now?", options:["150","186","138","126"], answer:2}
+   ]},
+  {subject:"Science", title:"Electricity: Conductors and Insulators", summary:"Ontario Grade 4 Science Matter and Energy strand: conductors, like most metals, allow electricity to flow through them easily, while insulators, like rubber and plastic, resist the flow of electricity and are used for safety.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A conductor is a material that ___.", options:["Has no effect on electricity","Blocks electricity completely","Allows electricity to flow through it easily","Is always made of wood"], answer:2},
+     {q:"An insulator is a material that ___.", options:["Creates electricity from nothing","Allows electricity to flow freely","Resists the flow of electricity","Is always metal"], answer:2},
+     {q:"Which material is typically a good conductor?", options:["Rubber","Plastic","Wood","Copper"], answer:3},
+     {q:"Why are electrical wires often covered in rubber or plastic?", options:["To insulate them and prevent dangerous electric shocks","Covering wires has no safety purpose","To make wires heavier","To make the wires conduct more electricity"], answer:0},
+     {q:"Which of these is typically used as an insulator?", options:["Steel","Aluminum","Copper wire","Rubber"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"How Canada's Provinces and Territories Formed", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada's provinces and territories joined the country at different times in history, starting with Confederation in 1867 and continuing as new provinces and territories were added.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"In what year did Confederation create the original Dominion of Canada?", options:["1867","1900","1776","1812"], answer:0},
+     {q:"Canada's provinces and territories joined the country ___.", options:["They have never changed since 1867","At different times throughout history","All at exactly the same time","Before Confederation only"], answer:1},
+     {q:"How many provinces and territories make up Canada today?", options:["Ten provinces and three territories","Eight","Five","Twenty"], answer:0},
+     {q:"Why is it useful to learn how Canada's provinces and territories formed?", options:["It helps explain Canada's history and how the country grew over time","It has no connection to understanding Canada today","Provinces have always existed exactly as they are now","This history has no educational value"], answer:0},
+     {q:"Confederation in 1867 originally united which regions?", options:["Only the territories","British Columbia and Alberta only","Ontario, Quebec, Nova Scotia, and New Brunswick","All ten current provinces at once"], answer:2}
+   ]},
+]},
+{day:40, label:"Day 40 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Determining Importance", summary:"Ontario Grade 4 Reading strand: determining importance means identifying which details in a text are essential to understanding it, separating key information from interesting but less important details.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Determining importance while reading means ___.", options:["Ignoring the main idea","Remembering every single detail equally","Identifying which details are most essential to understanding the text","Skipping the text entirely"], answer:2},
+     {q:"Which is more likely to be an essential detail in an informational text?", options:["The font used in the book","An unrelated side comment","A key fact directly supporting the main idea","The page number"], answer:2},
+     {q:"Why is determining importance a useful reading strategy?", options:["It replaces the need to read carefully","It helps readers focus on and remember the most meaningful information","It means ignoring the main idea","It has no benefit while reading"], answer:1},
+     {q:"When summarizing a text, determining importance helps you ___.", options:["Add unrelated new information","Choose only the most essential information to include","Avoid understanding the text","Include every single detail from the text"], answer:1},
+     {q:"Which reading skill is closely related to determining importance?", options:["Ignoring punctuation","Identifying the main idea","Skipping the title","Reading only the last page"], answer:1}
+   ]},
+  {subject:"Math", title:"Coordinate Grids: Plotting Points", summary:"Ontario Grade 4 Geometry strand: a coordinate grid uses a horizontal x-axis and vertical y-axis to locate points using ordered pairs, such as (3, 2), which means 3 units across and 2 units up.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"In the ordered pair (3, 2), which number represents the horizontal position?", options:["Neither","3","2","Both equally"], answer:1},
+     {q:"The horizontal axis on a coordinate grid is called the ___.", options:["X-axis","Z-axis","Origin","Y-axis"], answer:0},
+     {q:"The point where the x-axis and y-axis meet is called the ___.", options:["Vertex","Endpoint","Origin","Coordinate"], answer:2},
+     {q:"To plot the point (4, 1), you would move ___.", options:["Nowhere, since the point does not exist","4 units up, 1 unit across","4 units across, 1 unit up","1 unit across, 4 units down"], answer:2},
+     {q:"An ordered pair like (2, 5) is written in the order ___.", options:["(y, x)","Only y-values","Random order","(x, y)"], answer:3}
+   ]},
+  {subject:"Science", title:"Erosion and Its Effects on Landforms", summary:"Ontario Grade 4 Science Earth and Space Systems strand: erosion is the gradual wearing away and movement of soil and rock by wind, water, or ice, slowly shaping landforms like valleys and canyons over long periods of time.",
+   resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Erosion is best described as the ___.", options:["Instant disappearance of mountains","Formation of clouds","Sudden creation of new rock","Gradual wearing away and movement of soil and rock"], answer:3},
+     {q:"Which of these can cause erosion?", options:["Wind, water, and ice","Only bright sunlight","Nothing natural causes erosion","Only complete stillness"], answer:0},
+     {q:"A river slowly carving out a canyon over time is an example of ___.", options:["Erosion","Evaporation","Condensation","Combustion"], answer:0},
+     {q:"Erosion typically occurs ___.", options:["Only in outer space","Gradually, often over long periods of time","Only underground","Instantly, within seconds"], answer:1},
+     {q:"Why might people plant vegetation along a riverbank?", options:["Plants speed up erosion significantly","Vegetation has no effect on erosion","To make erosion happen faster","Plant roots can help hold soil in place and reduce erosion"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"My Role as a Canadian Citizen", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: being a Canadian citizen involves rights, such as voting when old enough, and responsibilities, such as respecting laws, the environment, and the wellbeing of the community.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"A responsibility of Canadian citizens includes ___.", options:["Avoiding all civic participation","Respecting laws and contributing to the community","Breaking rules whenever convenient","Ignoring community needs"], answer:1},
+     {q:"Once old enough, Canadian citizens gain the right to ___.", options:["Avoid paying any attention to government","Vote in elections","Ignore all laws","Skip all civic duties"], answer:1},
+     {q:"Why might a student get involved in a local community project?", options:["To practice being an active, responsible citizen","Community involvement has no value","It is required to skip school","Only adults can contribute to communities"], answer:0},
+     {q:"Respecting the environment is considered part of good citizenship because ___.", options:["Protecting shared resources benefits the whole community","The environment has no connection to citizenship","Only government workers must consider the environment","It has no lasting impact on anyone"], answer:0},
+     {q:"Reflecting on your role as a citizen helps you understand ___.", options:["That citizenship applies only to adults","How your actions can positively contribute to your community and country","That individual actions never matter","That being a citizen has no responsibilities"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
