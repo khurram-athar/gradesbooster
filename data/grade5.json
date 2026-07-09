@@ -7313,5 +7313,4845 @@
         ]
       }
     ]
+  },
+  {
+    "day": 31,
+    "label": "Day 31 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating Sources for Reliability",
+        "summary": "Ontario Grade 5 Reading and Media Literacy strands: evaluating a source means checking who wrote it, when it was published, and whether it is supported by evidence, before deciding whether to trust it.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which is a key question when evaluating a source’s reliability?",
+            "options": [
+              "What colour is the website?",
+              "Does it have pictures?",
+              "How long is the article?",
+              "Who wrote it, and are they a credible authority on the topic?"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A reliable source is generally one that ___.",
+            "options": [
+              "Is the first result in any search",
+              "Has no author listed at all",
+              "Is supported by evidence and comes from a credible author or organization",
+              "Contains only opinions with no facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should readers check when a source was published?",
+            "options": [
+              "Dates have no connection to reliability",
+              "Older information may be outdated on fast-changing topics",
+              "Publication date never matters",
+              "Only brand new sources are ever accurate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a warning sign that a source might be unreliable?",
+            "options": [
+              "It cites specific evidence and data",
+              "It was reviewed by experts",
+              "It presents only one extreme opinion with no evidence",
+              "It lists its author clearly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing information across multiple credible sources helps readers ___.",
+            "options": [
+              "Guarantee that one source must be wrong",
+              "Avoid learning anything useful",
+              "Confirm whether the information is accurate and consistent",
+              "Ignore the topic entirely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Mixed Numbers",
+        "summary": "Ontario Grade 5 Number strand: adding or subtracting mixed numbers involves combining the whole numbers and the fractions separately, and regrouping when a fraction sum is improper.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 2 and 1/4 plus 1 and 2/4?",
+            "options": [
+              "3 and 1/4",
+              "3 and 2/4",
+              "4 and 1/4",
+              "3 and 3/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 5 and 3/5 minus 2 and 1/5?",
+            "options": [
+              "3 and 2/5",
+              "2 and 2/5",
+              "7 and 2/5",
+              "3 and 4/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding mixed numbers, you should add the ___ separately.",
+            "options": [
+              "Only the whole numbers",
+              "Whole numbers and fractions",
+              "Only the fractions",
+              "Denominators only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 4 and 3/6 minus 1 and 5/6?",
+            "options": [
+              "2 and 4/6",
+              "2 and 2/6",
+              "3 and 4/6",
+              "3 and 2/6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a fraction sum becomes improper, such as 1 and 5/4, you should ___.",
+            "options": [
+              "Round down to 1",
+              "Ignore the whole number",
+              "Leave it as is",
+              "Regroup it into 2 and 1/4"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Levers and Mechanical Advantage",
+        "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: a lever provides mechanical advantage by multiplying the force applied, depending on where the fulcrum is placed relative to the load and effort.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Mechanical advantage refers to ___.",
+            "options": [
+              "The colour of a machine",
+              "How many parts a machine has",
+              "How a machine multiplies the force applied to it",
+              "How heavy a machine is"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a lever, the fixed point it pivots around is called the ___.",
+            "options": [
+              "Fulcrum",
+              "Load",
+              "Effort",
+              "Axle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Moving a lever’s fulcrum closer to the load generally ___ the mechanical advantage.",
+            "options": [
+              "Decreases",
+              "Has no effect on",
+              "Increases",
+              "Eliminates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which everyday tool uses lever action to provide mechanical advantage?",
+            "options": [
+              "A flat table",
+              "A window pane",
+              "A brick",
+              "A pair of scissors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do engineers consider mechanical advantage when designing tools?",
+            "options": [
+              "It always makes tools weaker",
+              "It only matters for large machines",
+              "Mechanical advantage has no practical use",
+              "It helps tools accomplish tasks with less applied effort"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The War of 1812",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the War of 1812 was fought between the United States and Britain (including its colonies in what is now Canada), with First Nations allies playing a significant role in defending Canadian territory.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The War of 1812 was fought mainly between which two sides?",
+            "options": [
+              "Spain and Portugal",
+              "Canada and France",
+              "The United States and Britain (including its Canadian colonies)",
+              "Canada and Britain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which group played a significant role in defending Canadian territory during the War of 1812?",
+            "options": [
+              "Astronauts",
+              "The Ancient Romans",
+              "No one else was involved",
+              "First Nations allies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The War of 1812 took place mainly in what is now ___.",
+            "options": [
+              "Australia",
+              "Ancient Egypt",
+              "Modern-day Canada and parts of the United States",
+              "South America"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the War of 1812 significant to Canadian history?",
+            "options": [
+              "It occurred in modern times",
+              "It took place entirely in Europe",
+              "It has no connection to Canadian history",
+              "It helped shape early Canadian identity and border relations with the United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which historical figure is well known for their role defending Canada during the War of 1812?",
+            "options": [
+              "A fictional superhero",
+              "A modern astronaut",
+              "A recent prime minister",
+              "Laura Secord"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "label": "Day 32 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Active and Passive Voice",
+        "summary": "Ontario Grade 5 Writing strand: in active voice, the subject performs the action (the dog chased the ball), while in passive voice, the subject receives the action (the ball was chased by the dog).",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which sentence is written in active voice?",
+            "options": [
+              "The ball was kicked by Sam.",
+              "The ball had been kicked.",
+              "Sam kicked the ball.",
+              "The ball is being kicked."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is written in passive voice?",
+            "options": [
+              "The cat chased the mouse.",
+              "The mouse was chased by the cat.",
+              "The cat is chasing the mouse.",
+              "The cat will chase the mouse."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In active voice, the subject of the sentence ___.",
+            "options": [
+              "Is always missing",
+              "Performs the action",
+              "Never appears",
+              "Receives the action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers often prefer active voice?",
+            "options": [
+              "Passive voice is always required",
+              "Active voice removes the subject entirely",
+              "It tends to be clearer and more direct",
+              "Active voice is always grammatically incorrect"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rewrite in active voice: The letter was written by Maria.",
+            "options": [
+              "Maria wrote the letter.",
+              "The letter is written.",
+              "Written was the letter by Maria.",
+              "The letter wrote Maria."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Dividing Fractions by Whole Numbers",
+        "summary": "Ontario Grade 5 Number strand: dividing a fraction by a whole number means splitting that fraction into that many equal parts, which can be found by multiplying the denominator by the whole number.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 1/2 divided by 2?",
+            "options": [
+              "1/8",
+              "1/2",
+              "1/4",
+              "2/2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3/4 divided by 3?",
+            "options": [
+              "9/4",
+              "1/4",
+              "3/12",
+              "1/2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To divide a fraction by a whole number, you can ___.",
+            "options": [
+              "Multiply the numerator by the whole number",
+              "Subtract the whole number from the numerator",
+              "Add the whole number to the denominator",
+              "Multiply the denominator by the whole number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2/3 divided by 2?",
+            "options": [
+              "1/6",
+              "4/3",
+              "1/3",
+              "2/6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 5/6 divided by 5?",
+            "options": [
+              "5/30",
+              "1/6",
+              "5/1",
+              "1/30"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Density and Buoyancy",
+        "summary": "Ontario Grade 5 Science Matter and Energy strand: density is how tightly packed an object’s mass is within its volume, and buoyancy is the upward force that determines whether an object floats or sinks in a liquid.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Density is best described as ___.",
+            "options": [
+              "How much mass is packed into a given volume",
+              "The colour of an object",
+              "How heavy an object feels only",
+              "The temperature of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An object will generally float in water if its density is ___ than water.",
+            "options": [
+              "Density has no effect on floating",
+              "Greater",
+              "Less",
+              "Exactly equal in every case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Buoyancy refers to ___.",
+            "options": [
+              "The force that pulls objects downward only",
+              "The upward force that can cause an object to float",
+              "A property of solids only",
+              "A type of energy source"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does a large steel ship float, even though steel is denser than water?",
+            "options": [
+              "Steel always floats regardless of shape",
+              "Ships are not actually made of steel",
+              "Its overall shape displaces enough water to create sufficient buoyant force",
+              "Buoyancy does not apply to ships"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which object would most likely sink in water?",
+            "options": [
+              "A hollow plastic ball",
+              "A rock",
+              "An inflated balloon",
+              "A wooden log"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Rebellions of 1837",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the Rebellions of 1837 in Upper and Lower Canada were uprisings by reformers seeking more democratic, accountable government, led in part by figures like William Lyon Mackenzie.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Rebellions of 1837 mainly took place in ___.",
+            "options": [
+              "British Columbia",
+              "The Arctic",
+              "The United States",
+              "Upper and Lower Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Reformers involved in the Rebellions of 1837 were seeking ___.",
+            "options": [
+              "No government at all",
+              "Less democratic government",
+              "More democratic, accountable government",
+              "A return to earlier colonial rule with no changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which historical figure is associated with the Rebellions of 1837 in Upper Canada?",
+            "options": [
+              "A fictional character",
+              "William Lyon Mackenzie",
+              "An ancient Roman leader",
+              "A modern politician"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are the Rebellions of 1837 considered important to Canadian political history?",
+            "options": [
+              "They had no lasting effect on Canadian government",
+              "They led to no political change whatsoever",
+              "They contributed to later reforms toward more responsible government",
+              "They occurred after Confederation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The term responsible government refers to ___.",
+            "options": [
+              "A government located outside of Canada",
+              "A government with no accountability at all",
+              "A government run entirely by one unelected ruler",
+              "A government accountable to elected representatives of the people"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "label": "Day 33 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Argumentative Essays",
+        "summary": "Ontario Grade 5 Writing strand: an argumentative essay presents a clear position on an issue and supports it with logical reasons and evidence, while also acknowledging other viewpoints.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "An argumentative essay is built around ___.",
+            "options": [
+              "A clear position supported by reasons and evidence",
+              "Only the writer’s feelings with no support",
+              "A summary with no opinion",
+              "A list of unrelated facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for an argumentative essay to acknowledge other viewpoints?",
+            "options": [
+              "Acknowledging other views weakens an essay",
+              "It replaces the need for evidence",
+              "Other viewpoints should always be ignored",
+              "It shows the writer has considered the issue thoughtfully and strengthens the argument"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Evidence in an argumentative essay might include ___.",
+            "options": [
+              "Facts, statistics, or expert opinions",
+              "Random unrelated stories",
+              "Nothing at all",
+              "Only the writer’s favourite colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A strong argumentative essay typically ends with ___.",
+            "options": [
+              "No conclusion at all",
+              "A brand new, unrelated topic",
+              "A conclusion that restates the position and key reasons",
+              "A list of unrelated questions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a clear argumentative position?",
+            "options": [
+              "Recess happens at school.",
+              "Schools should have longer recess because it improves focus and health.",
+              "Some schools have recess.",
+              "Recess can be long or short."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introducing Percentages",
+        "summary": "Ontario Grade 5 Number strand: percent means out of 100, and percentages can be converted to and from fractions and decimals, such as 50 percent equalling 1/2 or 0.5.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does 25 percent mean?",
+            "options": [
+              "25 out of 10",
+              "25 out of 1000",
+              "25 out of 100",
+              "2.5 out of 100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 50 percent as a decimal?",
+            "options": [
+              "5.0",
+              "50.0",
+              "0.05",
+              "0.5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3/4 written as a percent?",
+            "options": [
+              "34%",
+              "25%",
+              "75%",
+              "43%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 10 percent of 200?",
+            "options": [
+              "10",
+              "100",
+              "20",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 0.75 written as a percent?",
+            "options": [
+              "750%",
+              "7.5%",
+              "0.75%",
+              "75%"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Nervous System",
+        "summary": "Ontario Grade 5 Science Human Body Systems strand: the nervous system, made up of the brain, spinal cord, and nerves, controls the body by sending and receiving electrical signals throughout the body.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The nervous system is made up mainly of the ___.",
+            "options": [
+              "Brain, spinal cord, and nerves",
+              "Heart and blood vessels only",
+              "Stomach and intestines",
+              "Lungs and diaphragm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The brain is considered the body’s ___.",
+            "options": [
+              "Storage for food",
+              "Digestive organ",
+              "Filter for blood",
+              "Control centre"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Nerves carry information through the body in the form of ___.",
+            "options": [
+              "Digested food",
+              "Air only",
+              "Bone tissue",
+              "Electrical signals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The spinal cord’s main role is to ___.",
+            "options": [
+              "Connect the brain to the rest of the body’s nerves",
+              "Pump blood",
+              "Digest food",
+              "Filter air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the nervous system important for reacting quickly, such as pulling your hand away from something hot?",
+            "options": [
+              "It sends rapid signals between the body and brain to trigger a fast response",
+              "Only the digestive system controls reactions",
+              "Reactions happen with no signals at all",
+              "The nervous system has no role in reactions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "United Empire Loyalists and the Founding of Ontario",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: United Empire Loyalists were settlers who remained loyal to Britain during the American Revolution and moved north, playing a key role in founding early Ontario communities.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "United Empire Loyalists were people who ___.",
+            "options": [
+              "Remained loyal to Britain during the American Revolution",
+              "Had no connection to Britain at all",
+              "Supported the American Revolution",
+              "Immigrated from Asia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After the American Revolution, many Loyalists moved to ___.",
+            "options": [
+              "What is now Ontario and other parts of British North America",
+              "South America",
+              "Europe permanently",
+              "Nowhere, they all stayed in the same place"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Loyalist settlement played a key role in ___.",
+            "options": [
+              "Preventing any settlement in Ontario",
+              "Founding many early Ontario communities",
+              "Founding cities in Europe",
+              "Ending all immigration to Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did Loyalists choose to leave the newly independent United States?",
+            "options": [
+              "They were forced to leave by the British government",
+              "They wished to remain under British rule rather than join the new republic",
+              "They had no reason to leave",
+              "They were relocating for warmer weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying the Loyalists helps explain ___.",
+            "options": [
+              "Some of the early roots of settlement patterns in what became Ontario",
+              "Why Ontario has no early history",
+              "That the American Revolution had no effect on Canada",
+              "That Ontario was founded in modern times"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "label": "Day 34 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Hyperbole and Onomatopoeia",
+        "summary": "Ontario Grade 5 Reading strand: hyperbole is an obvious exaggeration used for effect (I have a million things to do), while onomatopoeia is a word that imitates a sound (buzz, crash, sizzle).",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Hyperbole is best described as ___.",
+            "options": [
+              "A word that imitates a sound",
+              "An obvious exaggeration used for effect",
+              "A rhyming pattern",
+              "A comparison using like or as"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains hyperbole?",
+            "options": [
+              "I finished my homework.",
+              "I have three things to do today.",
+              "I have a million things to do today.",
+              "The sky is blue."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Onomatopoeia is best described as ___.",
+            "options": [
+              "A comparison between two unlike things",
+              "A type of punctuation",
+              "A word that imitates the sound it describes",
+              "An exaggerated statement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an example of onomatopoeia?",
+            "options": [
+              "Happy",
+              "Buzz",
+              "Blue",
+              "Quickly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use hyperbole in writing?",
+            "options": [
+              "Hyperbole has no purpose in writing",
+              "To emphasize a feeling or idea in a dramatic, memorable way",
+              "To confuse the reader on purpose",
+              "To state only literal facts"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introducing Integers",
+        "summary": "Ontario Grade 5 Number strand: integers include positive numbers, negative numbers, and zero, and are often used to represent values like temperatures below zero or elevations below sea level.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Which of these is a negative integer?",
+            "options": [
+              "0",
+              "-3",
+              "10",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A temperature of 5 degrees below zero would be written as ___.",
+            "options": [
+              "0",
+              "50",
+              "5",
+              "-5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, negative integers are located ___.",
+            "options": [
+              "To the left of zero",
+              "To the right of zero",
+              "Exactly at zero",
+              "Above zero only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which integer is greater: -8 or -3?",
+            "options": [
+              "-3",
+              "They are equal",
+              "Cannot be compared",
+              "-8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An elevation of 50 metres below sea level could be represented as ___.",
+            "options": [
+              "-50",
+              "0",
+              "50",
+              "500"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Circulatory and Respiratory Systems",
+        "summary": "Ontario Grade 5 Science Human Body Systems strand: the circulatory system (heart, blood, and blood vessels) transports oxygen and nutrients through the body, while the respiratory system (lungs and airways) brings oxygen in and removes carbon dioxide.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main organ of the circulatory system is the ___.",
+            "options": [
+              "Lungs",
+              "Heart",
+              "Brain",
+              "Stomach"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The circulatory system’s main job is to ___.",
+            "options": [
+              "Transport oxygen and nutrients throughout the body",
+              "Digest food",
+              "Filter air only",
+              "Control body movement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main organs of the respiratory system are the ___.",
+            "options": [
+              "Lungs and airways",
+              "Stomach and intestines",
+              "Heart and blood vessels",
+              "Brain and spinal cord"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The respiratory system removes ___ from the body.",
+            "options": [
+              "Carbon dioxide",
+              "Oxygen",
+              "Nutrients",
+              "Water only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do the circulatory and respiratory systems work together?",
+            "options": [
+              "The respiratory system pumps blood",
+              "The respiratory system brings in oxygen, which the circulatory system then carries throughout the body",
+              "The circulatory system brings in air directly",
+              "They have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Building the Canadian Pacific Railway",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: the Canadian Pacific Railway, completed in 1885, connected Canada from coast to coast, relying heavily on the labour of Chinese immigrant workers who faced dangerous conditions and discrimination.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Canadian Pacific Railway connected Canada ___.",
+            "options": [
+              "To the United States exclusively",
+              "From coast to coast",
+              "Nowhere significant",
+              "Only within one city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what decade was the Canadian Pacific Railway completed?",
+            "options": [
+              "1880s",
+              "1960s",
+              "1920s",
+              "1850s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which group of workers played a major role in building the railway, often under dangerous conditions?",
+            "options": [
+              "Chinese immigrant workers",
+              "No workers were needed",
+              "Workers from Australia",
+              "Only volunteers with no pay"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the completion of the railway considered historically significant for Canada?",
+            "options": [
+              "It was built entirely outside of Canada",
+              "It had no effect on Canada as a country",
+              "It disconnected regions of Canada from each other",
+              "It helped unite the country economically and geographically"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one challenge that Chinese railway workers faced during construction?",
+            "options": [
+              "Easy, safe working conditions with full recognition",
+              "Dangerous working conditions and discrimination",
+              "No challenges at all",
+              "They were paid more than any other workers"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "label": "Day 35 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Theme",
+        "summary": "Ontario Grade 5 Reading strand: a theme is the underlying message or lesson of a story, often about life, human nature, or society, which is different from the plot itself.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A theme is best described as ___.",
+            "options": [
+              "The exact sequence of events in a story",
+              "The name of the main character",
+              "The title of the book",
+              "The underlying message or lesson of a story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is theme different from plot?",
+            "options": [
+              "Plot is what happens; theme is the deeper message behind those events",
+              "Plot is always about lessons; theme is about events",
+              "Theme and plot are exactly the same thing",
+              "Theme only exists in nonfiction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a possible theme in a story?",
+            "options": [
+              "The story is 200 pages long.",
+              "The book was published last year.",
+              "The main character is named Alex.",
+              "Perseverance can help you overcome challenges."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can readers identify a story’s theme?",
+            "options": [
+              "By considering what lesson or message the events of the story suggest",
+              "By counting the number of chapters",
+              "By reading only the title",
+              "By ignoring the characters and plot entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying theme a valuable reading skill?",
+            "options": [
+              "Only poems have themes",
+              "It replaces the need to understand the plot",
+              "Themes have no real value to readers",
+              "It helps readers understand the deeper meaning and purpose behind a story"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Mean, Median, and Mode",
+        "summary": "Ontario Grade 5 Data Management strand: the mean is the average of a data set, the median is the middle value when data is ordered, and the mode is the value that appears most often.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is the mean of the data set 2, 4, 6?",
+            "options": [
+              "2",
+              "6",
+              "4",
+              "12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the median of the data set 3, 7, 9?",
+            "options": [
+              "6",
+              "3",
+              "7",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the mode of the data set 2, 2, 5, 7?",
+            "options": [
+              "5",
+              "There is no mode",
+              "2",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the mean, you ___.",
+            "options": [
+              "Find the value that appears most often",
+              "Find the middle value only",
+              "Multiply all the values together",
+              "Add all the values and divide by how many there are"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the median of the data set 1, 3, 5, 7, 9?",
+            "options": [
+              "3",
+              "7",
+              "9",
+              "5"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ecosystems and Biomes of Canada",
+        "summary": "Ontario Grade 5 Science Life Systems strand: Canada contains diverse biomes, such as boreal forest, tundra, and grassland, each with distinct plant and animal life adapted to that environment’s climate.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A biome is best described as ___.",
+            "options": [
+              "A single individual animal",
+              "A large region with a distinct climate and community of plants and animals",
+              "A type of rock",
+              "A man-made structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada’s boreal forest biome is characterized mainly by ___.",
+            "options": [
+              "Cactus plants and desert sand",
+              "Coral reefs",
+              "Coniferous trees and a cold climate",
+              "Tropical rainforest plants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The tundra biome is known for its ___.",
+            "options": [
+              "Coral reef ecosystems",
+              "Warm, tropical climate",
+              "Dense rainforest vegetation",
+              "Cold temperatures and lack of trees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different biomes support different plants and animals?",
+            "options": [
+              "Organisms adapt to the specific climate and conditions of their biome",
+              "All biomes have identical conditions",
+              "Climate has no effect on which organisms live in an area",
+              "Plants and animals are randomly distributed with no pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Grassland biomes in Canada are typically characterized by ___.",
+            "options": [
+              "Underwater coral formations",
+              "Permanent ice cover",
+              "Open plains with grasses and few trees",
+              "Dense tropical jungle"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Structure of Canadian Courts",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: the Canadian court system includes different levels of courts, from provincial courts to the Supreme Court of Canada, which interpret and apply the law.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The highest court in Canada is the ___.",
+            "options": [
+              "Supreme Court of Canada",
+              "Local municipal council",
+              "Provincial legislature",
+              "House of Commons"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The main role of courts in Canada is to ___.",
+            "options": [
+              "Collect taxes",
+              "Manage municipal garbage collection",
+              "Write new laws from scratch",
+              "Interpret and apply the law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canadian courts are generally organized into ___.",
+            "options": [
+              "A single court with no levels",
+              "Different levels, from provincial courts up to the Supreme Court",
+              "Courts that only exist in one province",
+              "No formal structure at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is having a structured court system important in Canada?",
+            "options": [
+              "Courts have no role in Canadian government",
+              "A structured system serves no real purpose",
+              "All legal decisions are made by a single person with no appeals",
+              "It ensures laws are applied fairly and consistently, with the ability to appeal decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A case that is appealed to a higher court is generally being reviewed because ___.",
+            "options": [
+              "Appeals are never allowed in Canada",
+              "Someone believes the original decision should be reconsidered",
+              "Higher courts only handle unrelated matters",
+              "The case has already ended with no further options"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "label": "Day 36 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Root Words and Etymology",
+        "summary": "Ontario Grade 5 Language strand: many English words share root words that come from Latin or Greek, and knowing these roots, along with a word’s etymology (origin), can help readers determine meaning.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A root word is ___.",
+            "options": [
+              "Always a whole sentence",
+              "The base part of a word that carries its core meaning",
+              "A word’s ending sound only",
+              "A punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Etymology refers to the study of ___.",
+            "options": [
+              "How to spell a word correctly",
+              "A word’s pronunciation only",
+              "A word’s origin and history",
+              "Grammar rules for verbs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The root word tele- (as in telephone or television) relates to the meaning ___.",
+            "options": [
+              "Water",
+              "Small",
+              "Fast",
+              "Far or distant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Knowing common root words can help readers ___.",
+            "options": [
+              "Ignore unfamiliar words completely",
+              "Guess the meaning of unfamiliar words",
+              "Change a word’s spelling randomly",
+              "Avoid reading new material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word shares a root with biology (meaning study of life)?",
+            "options": [
+              "Geography",
+              "Biography",
+              "Chronology",
+              "Astronomy"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Classifying Polyhedra",
+        "summary": "Ontario Grade 5 Geometry strand: a polyhedron is a 3D shape with flat polygon faces, straight edges, and vertices, such as a cube, pyramid, or prism, classified by the number and shape of their faces.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A polyhedron is best described as a 3D shape with ___.",
+            "options": [
+              "No edges at all",
+              "Only curved surfaces",
+              "Flat polygon faces, straight edges, and vertices",
+              "Only one face"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "6",
+              "4",
+              "8",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A triangular prism has triangular ___ and rectangular side faces.",
+            "options": [
+              "Angles",
+              "Bases",
+              "Edges",
+              "Vertices"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A sphere is NOT considered a polyhedron because ___.",
+            "options": [
+              "It is too small",
+              "It has no volume",
+              "It has curved surfaces, not flat polygon faces",
+              "It has flat faces"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A square pyramid has how many faces in total, including its base?",
+            "options": [
+              "4",
+              "8",
+              "5",
+              "6"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy Technologies",
+        "summary": "Ontario Grade 5 Science Matter and Energy strand: technologies such as solar panels, wind turbines, and hydroelectric dams convert renewable natural energy sources into usable electricity.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Solar panels convert ___ into usable electricity.",
+            "options": [
+              "Coal",
+              "Wind energy",
+              "Sunlight",
+              "Ocean waves only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Wind turbines convert ___ into usable electricity.",
+            "options": [
+              "Underground heat only",
+              "The motion of wind",
+              "Coal",
+              "Sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Hydroelectric dams generate electricity using the movement of ___.",
+            "options": [
+              "Sunlight",
+              "Water",
+              "Wind",
+              "Coal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are renewable energy technologies an important area of research?",
+            "options": [
+              "Renewable technologies cannot generate any electricity",
+              "They can generate electricity while reducing reliance on non-renewable resources",
+              "They increase pollution significantly",
+              "They have no benefits at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best fits the category of renewable energy technology?",
+            "options": [
+              "A natural gas furnace",
+              "A coal power plant",
+              "A wind turbine",
+              "An oil refinery"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Indigenous Self-Government and Modern Treaties",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: many Indigenous communities in Canada today exercise self-government through modern treaties and agreements that recognize their right to govern their own affairs.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Self-government for Indigenous communities generally means ___.",
+            "options": [
+              "Having no say in their own affairs",
+              "Being governed entirely by another country",
+              "Having no recognized rights at all",
+              "Having the authority to govern their own community affairs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A modern treaty between a government and an Indigenous community typically addresses ___.",
+            "options": [
+              "Only sports agreements",
+              "Rights, land, and governance arrangements",
+              "Only trade with other countries",
+              "Nothing of importance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is self-government important to many Indigenous communities?",
+            "options": [
+              "It has no connection to community wellbeing",
+              "Self-government has no real impact on communities",
+              "It removes all rights from Indigenous peoples",
+              "It allows communities to make decisions that reflect their own needs, values, and traditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Modern treaties differ from historical treaties in that they often ___.",
+            "options": [
+              "Are identical to treaties signed centuries ago",
+              "Have no legal significance at all",
+              "Cannot involve Indigenous communities in negotiations",
+              "Are negotiated to address more contemporary rights and governance issues"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about Indigenous self-government helps students understand ___.",
+            "options": [
+              "That treaties are no longer relevant",
+              "That Indigenous communities have no role in modern Canada",
+              "How Indigenous nations exercise rights and responsibilities today",
+              "That Indigenous governance ended in the past"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "label": "Day 37 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Research Report Writing",
+        "summary": "Ontario Grade 5 Writing strand: a research report organizes information gathered from multiple credible sources into a clear structure, typically with an introduction, body paragraphs by subtopic, and a conclusion.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A research report typically begins with ___.",
+            "options": [
+              "An introduction that presents the topic",
+              "A random unrelated fact",
+              "The conclusion",
+              "Only a list of sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Body paragraphs in a research report are usually organized by ___.",
+            "options": [
+              "The length of each sentence",
+              "Random order with no structure",
+              "Alphabetical order of unrelated words",
+              "Subtopic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to use multiple credible sources in a research report?",
+            "options": [
+              "Using more than one source always causes confusion",
+              "Multiple sources are never necessary",
+              "Credibility of sources does not matter",
+              "To gather accurate, well-supported information on the topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A research report’s conclusion should ___.",
+            "options": [
+              "Introduce a completely new topic",
+              "Repeat the introduction word for word",
+              "Summarize the key findings from the report",
+              "Contain no information at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a research report cite its sources?",
+            "options": [
+              "It makes the report less trustworthy",
+              "To give credit and allow readers to verify the information",
+              "Citing sources is unnecessary",
+              "Sources should always be hidden from the reader"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Simple Equations",
+        "summary": "Ontario Grade 5 Algebra strand: a simple equation with a missing value can be solved by using the inverse (opposite) operation to isolate the unknown, such as solving x + 5 = 12 by subtracting 5 from both sides.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Solve for x: x + 5 = 12.",
+            "options": [
+              "x = 17",
+              "x = 7",
+              "x = 5",
+              "x = 12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for y: y minus 4 = 10.",
+            "options": [
+              "y = 6",
+              "y = 14",
+              "y = 4",
+              "y = 10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To solve x + 5 = 12, which operation should you use to isolate x?",
+            "options": [
+              "Add 5 to both sides",
+              "Multiply both sides by 5",
+              "Divide both sides by 5",
+              "Subtract 5 from both sides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for n: 3 times n = 21.",
+            "options": [
+              "n = 18",
+              "n = 24",
+              "n = 3",
+              "n = 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for m: m divided by 4 = 6.",
+            "options": [
+              "m = 24",
+              "m = 10",
+              "m = 2",
+              "m = 1.5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space: The Solar System and Beyond",
+        "summary": "Ontario Grade 5 Science Earth and Space Systems strand: the solar system consists of the Sun and everything that orbits it, including eight planets, moons, and other bodies like asteroids and comets, within the much larger Milky Way galaxy.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The Sun is best described as a ___.",
+            "options": [
+              "Moon",
+              "Star",
+              "Comet",
+              "Planet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many planets are in our solar system?",
+            "options": [
+              "Eight",
+              "Seven",
+              "Ten",
+              "Nine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Our solar system is located within the ___ galaxy.",
+            "options": [
+              "Milky Way",
+              "Andromeda",
+              "Triangulum",
+              "Whirlpool"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a small icy body that orbits the Sun and can develop a visible tail?",
+            "options": [
+              "A star",
+              "A moon",
+              "A planet",
+              "A comet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Sun considered the centre of our solar system?",
+            "options": [
+              "The Sun has no connection to the other planets",
+              "The Sun orbits around Earth",
+              "Its gravity holds the planets and other bodies in orbit around it",
+              "The Sun is the smallest object in the solar system"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Role in the World Wars",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: Canada played a significant role in both World War I and World War II, with Canadian soldiers contributing to major battles and the country’s involvement shaping its national identity.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Canada was involved in which two major global conflicts of the 20th century?",
+            "options": [
+              "World War I and World War II",
+              "Only local skirmishes with no global conflicts",
+              "The War of 1812 twice",
+              "Conflicts that never happened"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canadian soldiers are remembered for their contributions to major battles during ___.",
+            "options": [
+              "The dinosaur era",
+              "A period with no recorded history",
+              "The World Wars",
+              "Ancient Roman times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada’s involvement in the World Wars is often seen as having helped ___.",
+            "options": [
+              "Erase Canada’s identity completely",
+              "Have no impact on Canada at all",
+              "Prevent Canada from ever having an army",
+              "Shape a stronger sense of national identity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do Canadians observe Remembrance Day?",
+            "options": [
+              "It has no connection to Canadian history",
+              "To honour those who served and sacrificed during wartime",
+              "To celebrate a modern holiday unrelated to history",
+              "To mark the founding of a new country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about Canada’s role in the World Wars helps students understand ___.",
+            "options": [
+              "That Canada was not involved in any global conflicts",
+              "How historical events shaped Canada’s development and identity",
+              "That history has no connection to identity",
+              "That these wars had no effect on Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "label": "Day 38 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Advertisements",
+        "summary": "Ontario Grade 5 Media Literacy strand: analyzing advertisements involves identifying the intended audience, the persuasive techniques used, and the underlying message the advertiser wants viewers to believe.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "When analyzing an advertisement, it is useful to consider ___.",
+            "options": [
+              "The intended audience and persuasive techniques used",
+              "Nothing beyond the product name",
+              "Only the colours used",
+              "The length of the advertisement only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The intended audience of an advertisement refers to ___.",
+            "options": [
+              "Random unrelated viewers only",
+              "The advertiser’s competitors",
+              "The group of people the ad is designed to appeal to",
+              "People who dislike the product"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is a common persuasive technique used in advertisements?",
+            "options": [
+              "Presenting only balanced, neutral information",
+              "Refusing to mention the product at all",
+              "Avoiding any attempt to persuade the viewer",
+              "Using emotional appeals or catchy slogans"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for viewers to analyze advertisements critically?",
+            "options": [
+              "To understand how they are being persuaded and make informed choices",
+              "All advertisements present entirely objective information",
+              "Analyzing ads is only useful for advertisers",
+              "Critical analysis of ads serves no purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An advertisement’s underlying message is ___.",
+            "options": [
+              "What the advertiser ultimately wants the viewer to believe or do",
+              "Irrelevant to understanding the ad",
+              "The same in every advertisement",
+              "Always stated directly in plain text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Converting Units of Measurement",
+        "summary": "Ontario Grade 5 Measurement strand: converting between metric units, such as centimetres to metres or grams to kilograms, involves multiplying or dividing by powers of ten based on the relationship between the units.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "How many centimetres are in 1 metre?",
+            "options": [
+              "100",
+              "1",
+              "10",
+              "1,000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many grams are in 1 kilogram?",
+            "options": [
+              "10",
+              "10,000",
+              "100",
+              "1,000"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Convert 250 centimetres to metres.",
+            "options": [
+              "2.5 m",
+              "250 m",
+              "25 m",
+              "0.25 m"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Convert 3 kilograms to grams.",
+            "options": [
+              "300 g",
+              "30,000 g",
+              "30 g",
+              "3,000 g"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To convert a smaller unit to a larger unit, you typically ___.",
+            "options": [
+              "Divide",
+              "Always subtract 10",
+              "Always add 10",
+              "Multiply"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Mixtures and Solutions",
+        "summary": "Ontario Grade 5 Science Matter and Energy strand: a mixture combines two or more substances that keep their own properties, while a solution is a special type of mixture where one substance dissolves evenly into another.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A mixture is formed when ___.",
+            "options": [
+              "Nothing is combined at all",
+              "A substance disappears completely",
+              "Two or more substances combine but keep their own properties",
+              "A single substance changes into a different element"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A solution is a type of mixture where ___.",
+            "options": [
+              "All substances turn into gas",
+              "One substance dissolves evenly into another",
+              "The mixture always separates immediately",
+              "Substances never combine"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a solution?",
+            "options": [
+              "Rocks mixed with soil",
+              "Salt dissolved in water",
+              "Oil floating on water",
+              "Sand mixed with water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a mixture that is NOT a solution?",
+            "options": [
+              "Salt dissolved in water",
+              "Food colouring mixed into water",
+              "Sugar dissolved in tea",
+              "Sand and gravel mixed together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a solution be described as evenly distributed?",
+            "options": [
+              "Solutions cannot be mixed evenly",
+              "The dissolved substance spreads uniformly throughout the other substance",
+              "Solutions always separate into visible layers",
+              "Solutions contain only one substance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Economic Systems: Needs, Wants, and Resources",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: economic systems involve decisions about how to use limited resources to meet unlimited needs and wants, balancing production, distribution, and consumption of goods and services.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A need is best described as ___.",
+            "options": [
+              "Something essential for survival, like food or shelter",
+              "Something with no importance",
+              "Something entirely optional",
+              "The same thing as a want"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A want is best described as ___.",
+            "options": [
+              "The exact same as a need",
+              "Something desired but not essential for survival",
+              "Something that never affects decisions",
+              "Something essential for survival"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Economic systems must make decisions about resources because resources are generally ___.",
+            "options": [
+              "Unlimited",
+              "Limited",
+              "Always identical everywhere",
+              "Irrelevant to decision-making"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a resource used in producing goods?",
+            "options": [
+              "Raw materials, like wood or metal",
+              "Only money, with no other resources",
+              "Nothing is needed to produce goods",
+              "Only imagination, with no physical resources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must societies make choices about how to use limited resources?",
+            "options": [
+              "Resources are always unlimited everywhere",
+              "Choices about resources are never necessary",
+              "Because needs and wants can exceed what resources are available",
+              "Every society has identical, unlimited resources"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "label": "Day 39 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Complex and Compound Sentences",
+        "summary": "Ontario Grade 5 Writing strand: a compound sentence joins two independent clauses with a conjunction (I like reading, and I like writing), while a complex sentence joins an independent clause with a dependent clause (Although it was raining, we went outside).",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A compound sentence joins two ___ with a conjunction.",
+            "options": [
+              "Independent clauses",
+              "Punctuation marks",
+              "Single words",
+              "Dependent clauses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A complex sentence joins an independent clause with a ___ clause.",
+            "options": [
+              "Dependent",
+              "Punctuation-only",
+              "Meaningless",
+              "Second independent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is a compound sentence?",
+            "options": [
+              "Although it was raining, we went outside.",
+              "Reading is fun because it is relaxing.",
+              "I like reading, and I like writing.",
+              "I like reading."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is a complex sentence?",
+            "options": [
+              "Although it was raining, we went outside.",
+              "I like reading, and I like writing.",
+              "I read books.",
+              "The dog barked."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A dependent clause is a clause that ___.",
+            "options": [
+              "Is always the entire sentence",
+              "Never appears in complex sentences",
+              "Can stand alone as a complete sentence",
+              "Cannot stand alone as a complete sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multi-Step Word Problems with Percent and Fractions",
+        "summary": "Ontario Grade 5 Number strand: solving multi-step word problems involving percent and fractions requires identifying each step needed, such as first finding a percentage of a number, then adding or subtracting the result.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A $40 shirt is 25 percent off. What is the discount amount?",
+            "options": [
+              "$10",
+              "$25",
+              "$15",
+              "$4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A $40 shirt is 25 percent off. What is the final sale price?",
+            "options": [
+              "$30",
+              "$35",
+              "$10",
+              "$25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Maria read 1/4 of a 200-page book on Monday, then 1/2 of the remaining pages on Tuesday. How many pages did she read on Tuesday?",
+            "options": [
+              "75",
+              "50",
+              "150",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solving a multi-step problem with percent and fractions requires you to ___.",
+            "options": [
+              "Use only one operation regardless of the problem",
+              "Ignore the given information",
+              "Skip steps to save time",
+              "Complete each necessary step in order to reach the final answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A class of 30 students has 60 percent who prefer math. How many students prefer math?",
+            "options": [
+              "12",
+              "24",
+              "18",
+              "20"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Erosion, Weathering, and Landform Formation",
+        "summary": "Ontario Grade 5 Science Earth and Space Systems strand: weathering breaks rock down into smaller pieces, while erosion moves those pieces elsewhere via wind, water, or ice, together gradually shaping landforms over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Weathering is the process of ___.",
+            "options": [
+              "Breaking rock down into smaller pieces",
+              "Creating brand new mountains instantly",
+              "Moving broken rock pieces to a new location",
+              "Freezing water into ice permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Erosion is the process of ___.",
+            "options": [
+              "Moving broken-down material to a new location",
+              "Preventing any landform changes",
+              "Only affecting rocks underground",
+              "Breaking rock into pieces only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these can cause both weathering and erosion?",
+            "options": [
+              "Only artificial materials",
+              "Only complete stillness",
+              "Nothing natural causes these processes",
+              "Wind, water, and ice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Over long periods of time, weathering and erosion together can ___.",
+            "options": [
+              "Instantly create new landforms in seconds",
+              "Gradually shape landforms like valleys and canyons",
+              "Have no effect on the land",
+              "Only occur underwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a canyon take thousands of years to form?",
+            "options": [
+              "Canyons cannot form through natural processes",
+              "Weathering and erosion typically occur gradually rather than instantly",
+              "These processes have no connection to landform formation",
+              "Canyons are always formed in a single day"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Political Parties and How Laws Are Made",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: political parties represent different ideas about how the country should be run, and elected representatives from these parties debate and vote to turn proposed bills into laws.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A political party is best described as a group that ___.",
+            "options": [
+              "Has no political views at all",
+              "Only exists at the municipal level",
+              "Never participates in elections",
+              "Shares similar ideas about how the country should be governed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A proposed law before it is passed is called a ___.",
+            "options": [
+              "Bylaw",
+              "Amendment only",
+              "Bill",
+              "Treaty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For a bill to become law in Canada, it generally must be ___.",
+            "options": [
+              "Ignored completely by all representatives",
+              "Written by a single citizen with no review",
+              "Debated and voted on by elected representatives",
+              "Approved without any discussion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do different political parties often have different positions on issues?",
+            "options": [
+              "Parties are randomly assigned positions with no reasoning",
+              "Political parties have no real differences",
+              "All political parties always agree on everything",
+              "They represent different values, priorities, and approaches to governing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for citizens to understand how laws are made?",
+            "options": [
+              "This knowledge has no value to citizens",
+              "Laws are made with no citizen relevance",
+              "It helps them understand and participate in the democratic process",
+              "Only elected officials need to understand this process"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "label": "Day 40 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Character Development",
+        "summary": "Ontario Grade 5 Reading strand: character development is how a character changes or grows over the course of a story, often shown through their actions, decisions, and relationships with others.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Character development refers to ___.",
+            "options": [
+              "How a character changes or grows over a story",
+              "The book’s cover illustration",
+              "The exact number of characters in a book",
+              "The font used to print the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a way authors often reveal character development?",
+            "options": [
+              "Through a character’s actions and decisions over time",
+              "Through the page numbers",
+              "Through the price listed on the book",
+              "Only through the table of contents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A character who learns an important lesson by the end of a story shows an example of ___.",
+            "options": [
+              "A change in the book’s title",
+              "No development at all",
+              "A change in the setting only",
+              "Character development"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do readers pay attention to character development?",
+            "options": [
+              "It is not something authors intentionally include",
+              "Only the plot matters, never the characters",
+              "It deepens understanding of the story’s meaning and the character’s journey",
+              "Character development has no connection to a story’s meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which detail would best show a character’s growth in courage?",
+            "options": [
+              "A description of the character’s house",
+              "The character finally standing up for a friend despite feeling afraid",
+              "The character’s favourite food",
+              "The time of day the story takes place"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Simple Interest and Saving",
+        "summary": "Ontario Grade 5 Financial Literacy strand: simple interest is money earned or paid based on a percentage of an original amount saved or borrowed, calculated using the interest rate and the amount of time involved.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "If you save $100 at a 5 percent simple interest rate for one year, how much interest do you earn?",
+            "options": [
+              "$105",
+              "$5",
+              "$500",
+              "$50"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simple interest is generally calculated based on ___.",
+            "options": [
+              "A percentage of the original amount saved or borrowed",
+              "Nothing related to the amount saved",
+              "The colour of the bank card used",
+              "A fixed dollar amount unrelated to percentage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to save money in an account that earns interest?",
+            "options": [
+              "Interest is only relevant to borrowing, never saving",
+              "Their savings can grow over time through earned interest",
+              "Savings accounts always lose money",
+              "Interest never adds any value to savings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you save $200 at a 10 percent simple interest rate for one year, what is your total after one year?",
+            "options": [
+              "$180",
+              "$210",
+              "$200",
+              "$220"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Interest paid on borrowed money is generally an amount ___.",
+            "options": [
+              "Subtracted from the amount borrowed",
+              "Always equal to zero",
+              "Owed in addition to the original amount borrowed",
+              "Unrelated to the amount borrowed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Scientific Method and Experimental Design",
+        "summary": "Ontario Grade 5 Science Inquiry strand: the scientific method involves asking a question, forming a hypothesis, testing it through a fair experiment, and analyzing results to draw a conclusion.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The scientific method typically begins with ___.",
+            "options": [
+              "Drawing a final conclusion",
+              "Building a finished product",
+              "Publishing results",
+              "Asking a question"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A hypothesis is best described as ___.",
+            "options": [
+              "A proven fact that cannot be tested",
+              "The final step of an experiment",
+              "A random guess with no reasoning at all",
+              "A testable prediction about what might happen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists analyze their results after an experiment?",
+            "options": [
+              "Only the experiment’s setup matters, not the results",
+              "Analysis of results is unnecessary",
+              "To determine whether the results support or refute the hypothesis",
+              "Results are always ignored in science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A conclusion in the scientific method should be based on ___.",
+            "options": [
+              "What the scientist wished would happen",
+              "Personal opinion with no evidence",
+              "The evidence gathered during the experiment",
+              "Random chance only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the scientific method useful across many areas of science?",
+            "options": [
+              "It only applies to one specific science topic",
+              "It provides a structured, reliable way to investigate questions and test ideas",
+              "It replaces the need for any evidence",
+              "It has no practical use in science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s National Parks and Protected Areas",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: Canada’s national parks and protected areas conserve important natural environments and wildlife habitats, balancing conservation with public access and recreation.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The main purpose of a national park is to ___.",
+            "options": [
+              "Remove all wildlife from the area",
+              "Conserve natural environments and wildlife habitats",
+              "Build as many buildings as possible",
+              "Prevent any public access forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organization manages many of Canada’s national parks?",
+            "options": [
+              "A private international company",
+              "A foreign government",
+              "Parks Canada",
+              "No organization manages them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Protected areas help ___.",
+            "options": [
+              "Eliminate biodiversity entirely",
+              "Increase pollution in natural areas",
+              "Encourage unlimited resource extraction",
+              "Preserve biodiversity and natural habitats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a national park allow limited public access, like hiking trails?",
+            "options": [
+              "Public access has no connection to conservation goals",
+              "To let people appreciate and connect with nature while minimizing environmental impact",
+              "National parks never allow any visitors",
+              "Public access always destroys protected areas completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are national parks and protected areas important to Canada?",
+            "options": [
+              "They exist only to generate profit with no other purpose",
+              "They serve no meaningful purpose",
+              "They help conserve natural heritage for future generations",
+              "They have no connection to environmental conservation"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "label": "Day 41 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Setting and Mood",
+        "summary": "Ontario Grade 5 Reading strand: setting is the time and place of a story, and mood is the feeling or atmosphere the setting and word choice create for the reader.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Setting refers to ___.",
+            "options": [
+              "The book’s title",
+              "The number of chapters",
+              "The main character’s name",
+              "The time and place of a story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Mood refers to ___.",
+            "options": [
+              "The feeling or atmosphere created for the reader",
+              "The exact page count",
+              "The font used in the book",
+              "The author’s home address"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A dark, stormy setting with creaking floors would likely create a ___ mood.",
+            "options": [
+              "Silly",
+              "Relaxed",
+              "Tense or eerie",
+              "Cheerful"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which technique might an author use to build a peaceful mood?",
+            "options": [
+              "Describing a quiet meadow with soft sunlight",
+              "Listing random unrelated facts",
+              "Describing a loud, chaotic battle",
+              "Using only dialogue with no description"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is setting closely connected to mood?",
+            "options": [
+              "Setting and mood are always unrelated",
+              "Setting has no effect on how a reader feels",
+              "Mood only comes from character names",
+              "Details about time and place often shape the emotional atmosphere of a scene"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Unit Rates",
+        "summary": "Ontario Grade 5 Number strand: a unit rate compares a quantity to one unit of another quantity, such as kilometres per hour or price per item, making it easier to compare different options.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "If a car travels 300 kilometres in 5 hours, what is its unit rate in kilometres per hour?",
+            "options": [
+              "50 km/h",
+              "1,500 km/h",
+              "60 km/h",
+              "5 km/h"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A unit rate compares a quantity to ___.",
+            "options": [
+              "A completely unrelated quantity",
+              "Nothing at all",
+              "Ten units of another quantity",
+              "One unit of another quantity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 4 apples cost $2, what is the unit rate (price per apple)?",
+            "options": [
+              "$8.00",
+              "$4.00",
+              "$2.00",
+              "$0.50"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Unit rates are useful for ___.",
+            "options": [
+              "Making comparisons impossible",
+              "Comparing which option offers better value",
+              "Ignoring price differences",
+              "Only measuring time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a runner covers 100 metres in 20 seconds, what is their unit rate in metres per second?",
+            "options": [
+              "2,000 m/s",
+              "5 m/s",
+              "80 m/s",
+              "20 m/s"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skeletal and Muscular Systems",
+        "summary": "Ontario Grade 5 Science Human Body Systems strand: the skeletal system (bones) provides structure and protection for the body, while the muscular system works with bones to allow movement.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main role of the skeletal system is to ___.",
+            "options": [
+              "Filter air",
+              "Digest food",
+              "Provide structure and protect internal organs",
+              "Pump blood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The muscular system works with the skeletal system to ___.",
+            "options": [
+              "Digest food only",
+              "Allow the body to move",
+              "Filter blood",
+              "Control emotions directly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which body part is protected by the ribcage, part of the skeletal system?",
+            "options": [
+              "Fingernails",
+              "Heart and lungs",
+              "Hair",
+              "Skin only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Muscles typically move the body by ___.",
+            "options": [
+              "Dissolving completely",
+              "Contracting and relaxing",
+              "Filtering waste",
+              "Producing digestive enzymes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do the skeletal and muscular systems need to work together?",
+            "options": [
+              "Muscles have no connection to bones",
+              "Muscles pull on bones to create movement at the joints",
+              "Bones move entirely on their own without muscles",
+              "They function completely independently with no connection"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Great Depression in Canada",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the Great Depression of the 1930s caused widespread unemployment and hardship across Canada, leading to significant changes in government support programs.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Great Depression took place mainly during which decade?",
+            "options": [
+              "1960s",
+              "1930s",
+              "1990s",
+              "1890s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Great Depression caused widespread ___.",
+            "options": [
+              "Economic prosperity",
+              "Unemployment and hardship",
+              "Immediate improvement in living conditions",
+              "Population growth with no problems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The hardships of the Great Depression contributed to changes in ___.",
+            "options": [
+              "Foreign languages spoken in Canada",
+              "Only sports rules",
+              "Government support programs",
+              "Nothing related to government policy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Great Depression significant to Canadian history?",
+            "options": [
+              "It only affected other countries, not Canada",
+              "It happened in modern times",
+              "It had no lasting impact on Canada",
+              "It caused major economic and social hardship that shaped later government policy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of hardship many Canadians faced during the Great Depression?",
+            "options": [
+              "No economic changes at all",
+              "Unlimited access to jobs and wealth",
+              "Widespread job loss and poverty",
+              "A booming economy with no challenges"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "label": "Day 42 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Modifiers and Clarity",
+        "summary": "Ontario Grade 5 Writing strand: a modifier is a word or phrase that describes another word, and misplaced modifiers can make a sentence unclear or confusing if placed too far from the word they describe.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A modifier is a word or phrase that ___.",
+            "options": [
+              "Replaces punctuation",
+              "Describes another word in the sentence",
+              "Is always the subject of a sentence",
+              "Has no grammatical function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A misplaced modifier can cause a sentence to ___.",
+            "options": [
+              "Become clearer",
+              "Become confusing or unclear",
+              "Automatically fix itself",
+              "Have no effect on meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence has a misplaced modifier? Running quickly, the finish line was reached by Sam.",
+            "options": [
+              "This sentence",
+              "Sam ran quickly to the finish line.",
+              "Sam reached the finish line.",
+              "The finish line was near Sam."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to place modifiers close to the word they describe?",
+            "options": [
+              "Clarity is not a goal of good writing",
+              "Placement of modifiers never matters",
+              "Modifiers should always be at the very end of a paragraph",
+              "To avoid confusing or unintended meanings in a sentence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a corrected, clear version of a modifier issue? Wearing a red hat, I saw my friend.",
+            "options": [
+              "Both sentences mean the exact same thing with no ambiguity.",
+              "Wearing a red hat, my friend I saw.",
+              "Neither sentence uses a modifier.",
+              "I saw my friend wearing a red hat."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying Fractions by Fractions",
+        "summary": "Ontario Grade 5 Number strand: to multiply two fractions, multiply the numerators together and the denominators together, then simplify the result if possible.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 1/2 times 1/3?",
+            "options": [
+              "1/6",
+              "2/6",
+              "1/5",
+              "2/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2/3 times 3/4?",
+            "options": [
+              "5/7",
+              "6/7",
+              "6/12, which simplifies to 1/2",
+              "2/12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To multiply two fractions, you ___.",
+            "options": [
+              "Only multiply the numerators",
+              "Multiply the numerators and multiply the denominators",
+              "Add the numerators and denominators",
+              "Only multiply the denominators"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 3/5 times 1/2?",
+            "options": [
+              "3/10",
+              "4/7",
+              "4/10",
+              "3/7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2/4 times 2/4?",
+            "options": [
+              "4/16, which simplifies to 1/4",
+              "4/8",
+              "8/4",
+              "2/4"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Excretory System",
+        "summary": "Ontario Grade 5 Science Human Body Systems strand: the excretory system, including the kidneys and bladder, removes waste products and excess water from the blood to keep the body’s internal environment balanced.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main organs of the excretory system include the ___.",
+            "options": [
+              "Heart and lungs",
+              "Brain and spinal cord",
+              "Stomach and intestines only",
+              "Kidneys and bladder"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The main role of the excretory system is to ___.",
+            "options": [
+              "Pump oxygen throughout the body",
+              "Digest food completely",
+              "Control body temperature only",
+              "Remove waste products and excess water from the blood"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The kidneys filter waste out of the ___.",
+            "options": [
+              "Blood",
+              "Bones",
+              "Muscles",
+              "Skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the excretory system important for overall health?",
+            "options": [
+              "It only affects hair growth",
+              "It helps maintain a balanced internal environment by removing waste",
+              "It has no real role in the body",
+              "It produces energy for muscles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Urine, produced by the kidneys, is eventually stored in the ___ before being removed from the body.",
+            "options": [
+              "Bladder",
+              "Heart",
+              "Stomach",
+              "Lungs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Path to Full Independence: The Statute of Westminster",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the Statute of Westminster, passed in 1931, gave Canada and other Commonwealth countries greater legal independence from Britain in making their own laws.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Statute of Westminster was passed in which year?",
+            "options": [
+              "1931",
+              "1945",
+              "1982",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Statute of Westminster gave Canada greater ___.",
+            "options": [
+              "Legal independence in making its own laws",
+              "Control over other countries",
+              "Isolation from the Commonwealth",
+              "Dependence on Britain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before the Statute of Westminster, Canada’s laws were more closely tied to ___.",
+            "options": [
+              "The United States",
+              "No other country",
+              "France",
+              "Britain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Statute of Westminster considered an important step in Canadian history?",
+            "options": [
+              "It made Canada less independent",
+              "It ended Canada’s relationship with the Commonwealth entirely",
+              "It had no effect on Canada’s legal status",
+              "It marked significant progress toward Canada governing itself independently"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Statute of Westminster applied to Canada and other ___ countries.",
+            "options": [
+              "Unrelated",
+              "South American",
+              "Commonwealth",
+              "European Union"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "label": "Day 43 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a News Report",
+        "summary": "Ontario Grade 5 Writing strand: a news report presents factual information about a recent event, typically answering who, what, when, where, why, and how, often starting with the most important details.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A news report typically answers questions including ___.",
+            "options": [
+              "Who, what, when, where, why, and how",
+              "Nothing specific at all",
+              "Only the writer’s opinion",
+              "Only the weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "News reports usually begin with ___.",
+            "options": [
+              "The least important details",
+              "A poem",
+              "The most important details",
+              "A long unrelated introduction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a news report focus on factual information?",
+            "options": [
+              "To accurately inform readers about what happened",
+              "Opinions should replace facts entirely",
+              "News reports should always be fictional",
+              "Facts are not important in news reports"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a strong news report opening?",
+            "options": [
+              "A fire broke out at a downtown building early this morning, displacing twelve residents.",
+              "Once upon a time, in a faraway land...",
+              "This report has no clear topic.",
+              "Fires are sometimes hot."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for a news report to include where an event happened?",
+            "options": [
+              "Where something happened has no value to readers",
+              "News reports should never mention places",
+              "Location is never relevant to news",
+              "It helps readers understand the specific context and location of the event"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume of Triangular Prisms",
+        "summary": "Ontario Grade 5 Geometry strand: the volume of a triangular prism can be found by multiplying the area of its triangular base by the length (height) of the prism.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the volume of a triangular prism is ___.",
+            "options": [
+              "Base area times length of the prism",
+              "Base area divided by length",
+              "Length times width only",
+              "Perimeter times height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a triangular prism’s base area is 12 square units and its length is 5 units, what is its volume?",
+            "options": [
+              "30 cubic units",
+              "17 cubic units",
+              "60 cubic units",
+              "12 cubic units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find a triangular prism’s volume, you first need to know its ___.",
+            "options": [
+              "Base area and length",
+              "Number of edges only",
+              "Surface temperature",
+              "Colour and weight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a triangular prism’s base area is 8 square units and its length is 10 units, what is its volume?",
+            "options": [
+              "800 cubic units",
+              "18 cubic units",
+              "80 cubic units",
+              "8 cubic units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Volume is measured in ___ units.",
+            "options": [
+              "Square",
+              "Degree",
+              "Linear",
+              "Cubic"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Compound Machines: Combining Simple Machines",
+        "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: a compound machine combines two or more simple machines, such as a wheelbarrow (lever and wheel-and-axle) or scissors (two levers), to make tasks easier.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A compound machine is made up of ___.",
+            "options": [
+              "Two or more simple machines working together",
+              "Only electrical parts",
+              "Only one simple machine",
+              "No simple machines at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A wheelbarrow combines which two simple machines?",
+            "options": [
+              "A lever and a wheel-and-axle",
+              "Two screws",
+              "A pulley and a screw",
+              "Two inclined planes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Scissors are an example of a compound machine made from ___.",
+            "options": [
+              "A single inclined plane",
+              "A pulley and a wheel",
+              "Two screws",
+              "Two levers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a compound machine be more useful than a single simple machine?",
+            "options": [
+              "Simple machines can never be combined",
+              "Compound machines are always less useful than simple ones",
+              "Combining simple machines can accomplish more complex tasks efficiently",
+              "Compound machines cannot perform any task"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which everyday tool is an example of a compound machine?",
+            "options": [
+              "A flat ramp with nothing else",
+              "A pair of scissors",
+              "A single nail",
+              "A plain rope"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The 1982 Constitution Act and the Charter of Rights and Freedoms",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: the 1982 Constitution Act patriated Canada’s constitution from Britain and included the Canadian Charter of Rights and Freedoms, which protects fundamental rights of Canadians.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Constitution Act was passed in which year?",
+            "options": [
+              "1931",
+              "1867",
+              "1982",
+              "1867 and 1931 only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Patriating the constitution meant Canada could ___.",
+            "options": [
+              "No longer amend its own constitution",
+              "Amend its own constitution without approval from Britain",
+              "Give up its constitution entirely",
+              "Only follow British law forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Charter of Rights and Freedoms is included within the ___.",
+            "options": [
+              "Statute of Westminster",
+              "1867 British North America Act",
+              "1982 Constitution Act",
+              "A separate, unrelated document"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Charter of Rights and Freedoms is meant to protect ___.",
+            "options": [
+              "Only the rights of elected officials",
+              "Fundamental rights of people in Canada",
+              "Only property rights",
+              "No one’s rights"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is 1982 considered an important year in Canadian constitutional history?",
+            "options": [
+              "Nothing significant happened that year",
+              "Canada gained full control over its constitution and adopted the Charter",
+              "Canada joined a new country that year",
+              "Canada lost its independence that year"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "label": "Day 44 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Symbolism",
+        "summary": "Ontario Grade 5 Reading strand: symbolism is when an object, character, or colour represents a deeper idea or meaning beyond its literal sense, such as a dove symbolizing peace.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Symbolism is when something represents ___.",
+            "options": [
+              "Only its literal, surface meaning",
+              "Nothing at all",
+              "A deeper idea or meaning beyond its literal sense",
+              "A random unrelated word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A dove is commonly used as a symbol of ___.",
+            "options": [
+              "Confusion",
+              "War",
+              "Peace",
+              "Anger"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do authors use symbolism in their writing?",
+            "options": [
+              "To make stories completely literal with no deeper meaning",
+              "Symbolism has no purpose in writing",
+              "To confuse readers with no intended meaning",
+              "To add deeper meaning and layers of interpretation to a story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which could serve as a symbol of new beginnings in a story?",
+            "options": [
+              "A sunrise",
+              "An empty page with nothing described",
+              "A broken clock with no context",
+              "A random number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Symbolism is different from a literal description because it ___.",
+            "options": [
+              "Suggests meaning beyond the object’s surface appearance",
+              "Only describes exactly what something looks like",
+              "Never appears in stories",
+              "Is the same as describing a character’s height"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Circles: Radius, Diameter, and Circumference",
+        "summary": "Ontario Grade 5 Geometry strand: a circle’s radius is the distance from the centre to the edge, its diameter is twice the radius, and its circumference is the distance around the circle.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "The radius of a circle is the distance from ___.",
+            "options": [
+              "One edge to the opposite edge",
+              "The circumference to the diameter",
+              "Nowhere in particular",
+              "The centre to the edge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The diameter of a circle is ___ the radius.",
+            "options": [
+              "Twice",
+              "Half of",
+              "Equal to",
+              "Four times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a circle’s radius is 5 cm, what is its diameter?",
+            "options": [
+              "5 cm",
+              "10 cm",
+              "15 cm",
+              "2.5 cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The circumference of a circle refers to ___.",
+            "options": [
+              "The radius only",
+              "The centre point",
+              "The area inside the circle",
+              "The distance around the circle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a circle’s diameter is 8 cm, what is its radius?",
+            "options": [
+              "8 cm",
+              "2 cm",
+              "16 cm",
+              "4 cm"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Properties of Air and Atmosphere",
+        "summary": "Ontario Grade 5 Science Matter and Energy strand: air is a mixture of gases that makes up Earth’s atmosphere, has mass and takes up space, and plays a key role in weather and supporting life.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Air is best described as ___.",
+            "options": [
+              "A solid material",
+              "A mixture of gases",
+              "A single pure element",
+              "Empty space with nothing in it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is true about air?",
+            "options": [
+              "It has no mass and takes up no space",
+              "It has mass and takes up space",
+              "It has no connection to weather",
+              "It cannot move at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Earth’s atmosphere plays an important role in ___.",
+            "options": [
+              "Nothing important",
+              "Supporting life and influencing weather",
+              "Preventing all forms of weather",
+              "Blocking all forms of life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which gas makes up the largest portion of Earth’s atmosphere?",
+            "options": [
+              "Nitrogen",
+              "Oxygen",
+              "Carbon dioxide",
+              "Hydrogen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to study the properties of air and atmosphere?",
+            "options": [
+              "Air properties never change",
+              "The atmosphere has no connection to weather",
+              "It helps us understand weather patterns and the conditions that support life",
+              "Air has no scientific importance"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Regional Economic Differences Across Canada",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: different regions of Canada have distinct economies based on their available resources and industries, such as fishing in Atlantic Canada or oil production in Alberta.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Atlantic Canada’s economy has historically relied heavily on ___.",
+            "options": [
+              "Coral reef tourism only",
+              "Desert farming",
+              "Fishing",
+              "Oil production"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Alberta’s economy has historically relied heavily on ___.",
+            "options": [
+              "Deep-sea fishing",
+              "Rainforest logging",
+              "Oil production",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Regional economic differences across Canada are often shaped by ___.",
+            "options": [
+              "Identical factors everywhere in Canada",
+              "Random chance with no connection to resources",
+              "Nothing related to geography",
+              "Available natural resources and local industries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might different provinces specialize in different economic activities?",
+            "options": [
+              "Economic activity is unrelated to geography",
+              "Specialization has no connection to available resources",
+              "They make use of the resources and conditions unique to their region",
+              "All provinces have exactly the same resources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a resource-based industry in a specific Canadian region?",
+            "options": [
+              "Forestry in British Columbia",
+              "Volcano tourism in the Prairies",
+              "Desert farming in the Arctic",
+              "Coral reef diving in Ontario"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "label": "Day 45 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Facts from Inferences",
+        "summary": "Ontario Grade 5 Reading strand: a fact is directly stated in a text, while an inference is a logical conclusion a reader draws by combining text clues with their own knowledge.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A fact in a text is ___.",
+            "options": [
+              "Always a guess with no evidence",
+              "Never found in nonfiction",
+              "Directly stated information",
+              "The same thing as an inference"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An inference is ___.",
+            "options": [
+              "Impossible to support with evidence",
+              "Always incorrect",
+              "Directly stated in the text word for word",
+              "A logical conclusion drawn from text clues and prior knowledge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a text says a character’s hands were shaking as they opened a letter, a reasonable inference might be that the character felt ___.",
+            "options": [
+              "Nervous or anxious",
+              "Extremely relaxed",
+              "Nothing at all",
+              "Bored"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for readers to make inferences?",
+            "options": [
+              "Only facts matter when reading a text",
+              "It helps readers understand ideas that are implied but not directly stated",
+              "Inferences should always be avoided",
+              "Inferences are never useful in reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An inference is considered reasonable when it is ___.",
+            "options": [
+              "Unrelated to anything in the text",
+              "Based on clues from the text and logical thinking",
+              "A completely random guess",
+              "Always identical to a stated fact"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Constructing and Interpreting Circle Graphs",
+        "summary": "Ontario Grade 5 Data Management strand: a circle graph (pie chart) shows data as slices of a circle, where each slice’s size represents its proportion of the whole set of data.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "In a circle graph, the size of each slice represents ___.",
+            "options": [
+              "Its proportion of the whole data set",
+              "Nothing measurable",
+              "The colour used",
+              "A random unrelated value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A circle graph is also commonly known as a ___.",
+            "options": [
+              "Pie chart",
+              "Line graph",
+              "Pictograph",
+              "Bar graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If half of a circle graph is shaded for one category, that category represents ___ of the total data.",
+            "options": [
+              "10 percent",
+              "25 percent",
+              "100 percent",
+              "50 percent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Circle graphs are especially useful for showing ___.",
+            "options": [
+              "Data over time only",
+              "Only exact numerical values with no proportions",
+              "Data with no relationship to a total",
+              "How parts relate to a whole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a circle graph has four equal slices, each slice represents ___ of the total.",
+            "options": [
+              "25 percent",
+              "20 percent",
+              "10 percent",
+              "50 percent"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Stars and Constellations",
+        "summary": "Ontario Grade 5 Science Earth and Space Systems strand: stars are massive, glowing balls of gas that produce their own light and heat, and patterns of stars form constellations that have been used historically for navigation.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A star is best described as ___.",
+            "options": [
+              "A massive, glowing ball of gas that produces its own light and heat",
+              "A small rocky planet",
+              "A moon orbiting a planet",
+              "A type of comet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A constellation is ___.",
+            "options": [
+              "A recognized pattern formed by a group of stars",
+              "A type of planet",
+              "A single very bright star",
+              "A type of galaxy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Historically, constellations have been used for ___.",
+            "options": [
+              "Farming schedules only",
+              "Building houses",
+              "Navigation and storytelling",
+              "Cooking recipes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do stars appear as small points of light from Earth?",
+            "options": [
+              "They are extremely far away, despite being enormous in size",
+              "Stars are actually very small in real life",
+              "Stars produce no light at all",
+              "Stars are the same size as planets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a well-known constellation?",
+            "options": [
+              "The Big Dipper",
+              "The Sahara Desert",
+              "The Rocky Mountains",
+              "The Great Lakes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Urbanization and Its Effects on Canadian Cities",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: urbanization is the growth of cities as more people move from rural areas to urban centres, which can affect housing, transportation, and the environment.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Urbanization refers to ___.",
+            "options": [
+              "A decrease in city populations",
+              "The growth of cities as populations shift toward urban centres",
+              "The disappearance of all cities",
+              "Nothing related to population movement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which challenge is commonly associated with rapid urbanization?",
+            "options": [
+              "Increased demand for housing and transportation",
+              "A complete lack of any challenges",
+              "Fewer people needing services",
+              "No effect on infrastructure at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Urbanization can affect the environment by ___.",
+            "options": [
+              "Reducing the need for any resources",
+              "Automatically improving air quality with no effort",
+              "Having no environmental impact whatsoever",
+              "Increasing land development and resource use in cities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might people move from rural areas to cities?",
+            "options": [
+              "Rural areas always have more job opportunities",
+              "Cities never offer any advantages",
+              "People never choose to move for economic reasons",
+              "For access to jobs, services, and opportunities often concentrated in urban areas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "City planners must consider urbanization’s effects on ___.",
+            "options": [
+              "Weather patterns exclusively",
+              "Nothing related to daily life",
+              "Only the colour of buildings",
+              "Housing, transportation, and environmental sustainability"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "label": "Day 46 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Connotation and Denotation",
+        "summary": "Ontario Grade 5 Language strand: denotation is a word’s literal dictionary definition, while connotation is the feeling or association a word carries beyond its literal meaning, such as childish versus youthful.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Denotation refers to ___.",
+            "options": [
+              "A word’s spelling only",
+              "The feeling a word suggests",
+              "A word’s pronunciation only",
+              "A word’s literal dictionary definition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Connotation refers to ___.",
+            "options": [
+              "A word’s literal definition only",
+              "A word’s part of speech",
+              "The feeling or association a word carries beyond its literal meaning",
+              "A word’s syllable count"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The words childish and youthful have similar denotations but different ___.",
+            "options": [
+              "Pronunciations",
+              "Definitions in the dictionary",
+              "Spellings",
+              "Connotations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word likely has a more positive connotation than stubborn, despite a similar meaning?",
+            "options": [
+              "Careless",
+              "Rude",
+              "Determined",
+              "Lazy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding connotation useful for writers?",
+            "options": [
+              "Connotation only applies to poetry",
+              "Writers should always ignore how words feel to readers",
+              "Connotation has no effect on writing",
+              "It helps them choose words that create the intended tone or feeling"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometric Nets and 3D Shape Construction",
+        "summary": "Ontario Grade 5 Geometry strand: a net is a 2D pattern that can be folded to form a 3D shape, showing all of the shape’s faces laid out flat.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A net is best described as ___.",
+            "options": [
+              "A measurement of angles only",
+              "A type of fraction",
+              "A type of graph",
+              "A 2D pattern that folds into a 3D shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The net of a cube is made up of how many square faces?",
+            "options": [
+              "12",
+              "6",
+              "4",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Nets help us understand 3D shapes by ___.",
+            "options": [
+              "Turning a 3D shape into a single point",
+              "Showing all of a shape’s faces laid out flat",
+              "Removing the need for any faces",
+              "Hiding all of a shape’s faces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The net of a triangular prism includes ___.",
+            "options": [
+              "Two triangles and three rectangles",
+              "One single triangle only",
+              "Only circles",
+              "Six squares"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might builders or designers use nets when creating 3D objects?",
+            "options": [
+              "Nets help plan how flat material can be folded into a finished 3D shape",
+              "Nets have no practical use",
+              "Nets eliminate the need for any measurements",
+              "Nets are only used in fiction writing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Conservation of Biodiversity",
+        "summary": "Ontario Grade 5 Science Life Systems strand: biodiversity is the variety of living things in an ecosystem, and conservation efforts aim to protect that variety from threats like habitat loss and pollution.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Biodiversity refers to ___.",
+            "options": [
+              "The variety of living things in an ecosystem",
+              "Only the number of trees in a forest",
+              "The absence of all living things",
+              "A single species living alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a common threat to biodiversity?",
+            "options": [
+              "Too much protected land",
+              "Habitat loss",
+              "Nothing threatens biodiversity",
+              "Too many conservation programs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is biodiversity important to a healthy ecosystem?",
+            "options": [
+              "A variety of species helps maintain balance and resilience in the ecosystem",
+              "Biodiversity always harms ecosystems",
+              "Biodiversity has no effect on ecosystems",
+              "Ecosystems function better with only one species present"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a conservation effort to protect biodiversity?",
+            "options": [
+              "Removing all environmental protections",
+              "Encouraging unlimited habitat destruction",
+              "Ignoring threats to species",
+              "Establishing protected wildlife habitats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists monitor biodiversity levels over time?",
+            "options": [
+              "To detect changes that might signal environmental problems",
+              "Only non-living things are worth monitoring",
+              "Monitoring biodiversity serves no purpose",
+              "Biodiversity never changes over time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Relationship with the Commonwealth",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: the Commonwealth is a voluntary association of countries, many once part of the British Empire, that cooperate on shared goals like trade, education, and democracy.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Commonwealth is best described as ___.",
+            "options": [
+              "A single country",
+              "A voluntary association of countries cooperating on shared goals",
+              "An organization with no members",
+              "A military alliance only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many Commonwealth countries were historically connected through ___.",
+            "options": [
+              "The Roman Empire",
+              "Ancient trade routes only",
+              "No historical connection at all",
+              "The British Empire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Commonwealth countries often cooperate on issues such as ___.",
+            "options": [
+              "Isolating each other completely",
+              "Nothing of shared interest",
+              "Trade, education, and democracy",
+              "Only military conflict"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is membership in the Commonwealth mandatory for its member countries?",
+            "options": [
+              "Yes, countries are forced to join",
+              "No, membership is voluntary",
+              "Membership has never been optional",
+              "Only some countries are allowed to leave"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might Canada value its relationship with the Commonwealth?",
+            "options": [
+              "The Commonwealth provides no benefit to Canada",
+              "Commonwealth membership isolates Canada from the world",
+              "It offers opportunities for cooperation and shared connections with other nations",
+              "Canada has no historical ties to Commonwealth countries"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "label": "Day 47 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Formal Speech Writing",
+        "summary": "Ontario Grade 5 Writing strand: a formal speech is organized with a clear introduction, body, and conclusion, uses persuasive or informative language suited to the audience, and is written to be spoken aloud.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A formal speech is typically organized with ___.",
+            "options": [
+              "A single sentence",
+              "Only random unrelated points",
+              "A clear introduction, body, and conclusion",
+              "No clear structure at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a speech writer consider their audience?",
+            "options": [
+              "Considering the audience makes a speech less effective",
+              "All speeches should be written the exact same way regardless of audience",
+              "To choose language and content the audience will understand and connect with",
+              "The audience never matters when writing a speech"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A strong speech introduction often ___.",
+            "options": [
+              "Captures the audience’s attention and introduces the topic",
+              "Contains no information at all",
+              "Immediately ends the speech",
+              "Ignores the topic entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Since a speech is meant to be spoken aloud, writers should consider ___.",
+            "options": [
+              "Nothing related to pacing or tone",
+              "Making every sentence as long as possible",
+              "Only how the words look on paper",
+              "How the words will sound and flow when read aloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A speech’s conclusion should typically ___.",
+            "options": [
+              "Introduce a brand new unrelated topic",
+              "Repeat random unrelated facts",
+              "Reinforce the main message and leave a lasting impression",
+              "Contain no connection to the rest of the speech"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterns with Two Variables",
+        "summary": "Ontario Grade 5 Algebra strand: a pattern with two variables shows how one value changes in relation to another, often organized in a table, where identifying the rule connecting them helps predict future values.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "If the rule is y equals x plus 3, what is y when x is 5?",
+            "options": [
+              "3",
+              "8",
+              "5",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a table showing two related variables, identifying the rule helps you ___.",
+            "options": [
+              "Only look at one variable",
+              "Avoid understanding the relationship",
+              "Ignore the pattern entirely",
+              "Predict future values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the rule is y equals x times 2, what is y when x is 7?",
+            "options": [
+              "5",
+              "14",
+              "9",
+              "72"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x is 1, 2, 3 and the matching y values are 4, 8, 12, what is the rule connecting x and y?",
+            "options": [
+              "y equals x minus 4",
+              "y equals x plus 4",
+              "y equals x divided by 4",
+              "y equals x times 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are tables useful for exploring patterns with two variables?",
+            "options": [
+              "Tables make patterns impossible to identify",
+              "Tables are never used for patterns",
+              "Tables only work with a single variable",
+              "They organize the data clearly, making the relationship between variables easier to see"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemical Changes and Reactions",
+        "summary": "Ontario Grade 5 Science Matter and Energy strand: a chemical change occurs when substances react to form new substances with different properties, often shown by signs like colour change, gas bubbles, or heat being released.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A chemical change occurs when ___.",
+            "options": [
+              "Substances react to form new substances with different properties",
+              "A substance simply melts",
+              "Nothing about the substance changes at all",
+              "A substance only changes shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a common sign that a chemical reaction has occurred?",
+            "options": [
+              "No observable change at all",
+              "The object becoming a different shape only",
+              "Gas bubbles forming",
+              "The object staying exactly the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rusting metal is an example of a ___.",
+            "options": [
+              "Chemical change",
+              "Change that never actually occurs",
+              "Physical change only",
+              "Change with no cause"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Chemical reactions can release or absorb ___.",
+            "options": [
+              "Only sound",
+              "Heat energy",
+              "Nothing at all",
+              "Only light with no other effect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to be able to identify signs of a chemical reaction?",
+            "options": [
+              "Chemical reactions have no observable signs",
+              "Identifying reactions serves no scientific purpose",
+              "All changes in matter are identical",
+              "It helps distinguish a chemical change from a simple physical change"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of the Media in a Democracy",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: media, including news outlets and journalists, plays a role in informing citizens about government actions and current events, which supports an informed and engaged democracy.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "One key role of the media in a democracy is to ___.",
+            "options": [
+              "Inform citizens about government actions and current events",
+              "Replace the need for elections",
+              "Control what citizens are allowed to think",
+              "Prevent citizens from learning anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An informed citizen is better able to ___.",
+            "options": [
+              "Ignore important issues entirely",
+              "Participate thoughtfully in democratic decisions like voting",
+              "Avoid all civic responsibilities",
+              "Make decisions with no available information"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for media to report accurately?",
+            "options": [
+              "Inaccurate reporting always benefits democracy",
+              "Citizens do not need accurate information",
+              "Accurate reporting helps citizens make informed decisions",
+              "Accuracy has no effect on democracy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Journalists in a democracy often play a role in ___.",
+            "options": [
+              "Investigating and reporting on issues that affect the public",
+              "Avoiding any coverage of government actions",
+              "Replacing elected officials",
+              "Making all government decisions themselves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might citizens compare multiple media sources when following an issue?",
+            "options": [
+              "Comparing sources has no value",
+              "One source always tells the complete story",
+              "Citizens should avoid all media sources",
+              "To get a fuller, more balanced understanding of the topic"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "label": "Day 48 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Comparing Media Formats",
+        "summary": "Ontario Grade 5 Media Literacy strand: different media formats, such as print articles, videos, podcasts, and social media posts, present information differently and can shape how audiences understand a topic.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which is an example of a media format?",
+            "options": [
+              "A single letter of the alphabet",
+              "A blank page",
+              "A math equation",
+              "A podcast"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Different media formats can ___.",
+            "options": [
+              "Present the same topic in different ways",
+              "Always present information identically",
+              "Have no effect on understanding",
+              "Never be compared to each other"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A video format might convey information differently from print by using ___.",
+            "options": [
+              "No sound or visuals at all",
+              "Visuals, sound, and movement",
+              "Only plain text with no other elements",
+              "Nothing beyond written words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might comparing how different formats cover the same topic be useful?",
+            "options": [
+              "Comparing formats has no value",
+              "All formats always present identical information",
+              "Only one media format can ever be trusted",
+              "It reveals how the choice of format can shape understanding of a topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Social media posts often present information ___.",
+            "options": [
+              "In short, quickly consumed pieces",
+              "In a longer, more detailed form than any other format",
+              "Exactly the same way as an academic textbook",
+              "With no possibility of bias"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating and Measuring Angles with a Protractor",
+        "summary": "Ontario Grade 5 Geometry strand: a protractor is a tool used to measure the size of an angle in degrees, and estimating an angle’s size before measuring helps check whether the measurement is reasonable.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A protractor is used to measure ___.",
+            "options": [
+              "The weight of an object",
+              "The volume of a shape",
+              "The size of an angle in degrees",
+              "The length of a line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before measuring an angle exactly, estimating its size helps you ___.",
+            "options": [
+              "Skip measuring entirely",
+              "Avoid using a protractor altogether",
+              "Check whether your final measurement is reasonable",
+              "Guess randomly with no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An angle that looks close to a right angle is likely close to ___ degrees.",
+            "options": [
+              "360",
+              "45",
+              "90",
+              "180"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A straight angle measures ___ degrees.",
+            "options": [
+              "45",
+              "90",
+              "180",
+              "360"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When using a protractor, the vertex of the angle should be lined up with ___.",
+            "options": [
+              "The edge of the paper",
+              "The 90-degree mark only",
+              "The centre point of the protractor",
+              "A random point"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forces: Friction and Air Resistance",
+        "summary": "Ontario Grade 5 Science Structures and Mechanisms strand: friction is a force that resists motion between two surfaces in contact, and air resistance is a similar force that slows objects moving through air.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Friction is a force that ___.",
+            "options": [
+              "Speeds up motion between surfaces",
+              "Only exists in outer space",
+              "Resists motion between two surfaces in contact",
+              "Has no effect on moving objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Air resistance is a force that ___.",
+            "options": [
+              "Has no connection to motion",
+              "Only affects objects underwater",
+              "Speeds up objects moving through air with no limit",
+              "Slows down objects moving through air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which surface would likely create more friction?",
+            "options": [
+              "A surface with no contact at all",
+              "Friction is unaffected by surface texture",
+              "A perfectly smooth, oiled surface",
+              "A rough, bumpy surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a parachute use air resistance to its advantage?",
+            "options": [
+              "Air resistance only affects solid objects, not fabric",
+              "Parachutes eliminate air resistance completely",
+              "Air resistance has no effect on falling objects",
+              "It slows a falling object down for a safer landing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which situation involves a large amount of friction?",
+            "options": [
+              "Sliding a heavy box across rough pavement",
+              "An object floating freely in space",
+              "A ball rolling on a frictionless surface",
+              "An object at complete rest with no forces acting on it"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Comparing Government Systems: Canada and Other Countries",
+        "summary": "Ontario Grade 5 Social Studies People and Environments strand: comparing Canada’s parliamentary democracy to other government systems, such as a republic or a monarchy without elected representatives, helps highlight different ways countries are governed.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s system of government is best described as a ___.",
+            "options": [
+              "System with no laws at all",
+              "Government led entirely by a single unelected ruler",
+              "Parliamentary democracy",
+              "Government with no elected officials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing government systems across countries can help students understand ___.",
+            "options": [
+              "That all countries are governed identically",
+              "That government systems have no real differences",
+              "Different ways nations organize decision-making and representation",
+              "That comparing systems serves no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A republic is generally a system where ___.",
+            "options": [
+              "Citizens have no role in choosing leaders",
+              "Only a king or queen can ever lead",
+              "The head of state is typically elected, not a hereditary monarch",
+              "There is no government at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might different countries choose different systems of government?",
+            "options": [
+              "Government systems have no connection to history or culture",
+              "Government systems often reflect a country’s unique history, values, and needs",
+              "All countries are required to use the same system",
+              "Choice of government system is always random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying different government systems helps citizens ___.",
+            "options": [
+              "Better understand how their own government compares to others",
+              "Conclude that only one system has ever existed",
+              "Avoid learning about their own government",
+              "Understand that comparison is unnecessary"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "label": "Day 49 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Correcting Run-on Sentences and Fragments",
+        "summary": "Ontario Grade 5 Writing strand: a run-on sentence incorrectly joins two or more complete sentences without proper punctuation, while a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A run-on sentence is one that ___.",
+            "options": [
+              "Has perfect punctuation throughout",
+              "Is always too short",
+              "Incorrectly joins two or more complete sentences without proper punctuation",
+              "Contains no subject or verb at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A sentence fragment is ___.",
+            "options": [
+              "A complete sentence with excess punctuation",
+              "A sentence with no possible errors",
+              "Always longer than a run-on sentence",
+              "An incomplete sentence missing a subject, verb, or complete thought"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a sentence fragment?",
+            "options": [
+              "The dog ran down the street.",
+              "Running down the street.",
+              "She smiled.",
+              "The dog ran down the street, and it barked loudly."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a run-on sentence?",
+            "options": [
+              "I like pizza.",
+              "I like pizza, and I also like pasta.",
+              "I like pizza I also like pasta.",
+              "Pizza is my favourite food."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can a run-on sentence often be corrected?",
+            "options": [
+              "Run-on sentences cannot be corrected",
+              "By adding proper punctuation or splitting it into separate sentences",
+              "By removing all punctuation entirely",
+              "By making the sentence even longer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Costs and Value for Money",
+        "summary": "Ontario Grade 5 Financial Literacy strand: comparing costs and value for money involves looking beyond price alone to consider quality, quantity, and unit rates when deciding which option offers the best value.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Value for money means considering ___.",
+            "options": [
+              "Nothing beyond the item’s colour",
+              "Only the lowest price, regardless of quality",
+              "Only the brand name",
+              "Price along with quality and quantity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a 500 mL bottle costs $2 and a 1 L bottle costs $3.50, which offers better value per litre?",
+            "options": [
+              "They offer identical value",
+              "Value cannot be compared here",
+              "The 1 L bottle",
+              "The 500 mL bottle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a shopper compare unit rates when choosing between products?",
+            "options": [
+              "Unit rates have no connection to value",
+              "Comparing unit rates always wastes time",
+              "Price should never be considered when shopping",
+              "To determine which option provides more value for the price"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which factor, beyond price, might affect a product’s overall value?",
+            "options": [
+              "Nothing beyond the sticker price",
+              "The day of the week it was purchased",
+              "Its quality and how long it lasts",
+              "The store’s wall colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A shopper choosing the cheapest option without considering quality might end up with ___.",
+            "options": [
+              "The best possible value automatically",
+              "No possible downsides",
+              "A product that does not meet their needs despite the lower price",
+              "Guaranteed excellent value every time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fossils and What They Tell Us About Earth’s History",
+        "summary": "Ontario Grade 5 Science Earth and Space Systems strand: fossils are the preserved remains or traces of ancient organisms, and studying them helps scientists understand how life and environments on Earth have changed over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A fossil is best described as ___.",
+            "options": [
+              "A man-made object",
+              "The preserved remains or traces of an ancient organism",
+              "A living organism found today",
+              "A type of modern rock with no history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying fossils helps scientists understand ___.",
+            "options": [
+              "Only modern technology",
+              "Only current weather patterns",
+              "How life and environments on Earth have changed over time",
+              "Nothing about Earth’s history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Fossils are often found preserved within ___.",
+            "options": [
+              "Layers of sedimentary rock",
+              "Modern plastic materials",
+              "Clouds",
+              "Only living trees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might finding a fossil of a sea creature high in the mountains be significant?",
+            "options": [
+              "It could suggest that area was once covered by water long ago",
+              "It has no scientific significance at all",
+              "It proves mountains never change over time",
+              "It means sea creatures currently live in the mountains"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Scientists who study fossils are called ___.",
+            "options": [
+              "Meteorologists",
+              "Paleontologists",
+              "Astronomers",
+              "Chemists"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Truth and Reconciliation Commission",
+        "summary": "Ontario Grade 5 Social Studies Heritage and Identity strand: the Truth and Reconciliation Commission of Canada was established to document the history and impact of the residential school system and to make recommendations toward healing and reconciliation.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Truth and Reconciliation Commission was established to document the history of ___.",
+            "options": [
+              "The Great Depression",
+              "The residential school system",
+              "The building of the railway",
+              "The War of 1812"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "One purpose of the Truth and Reconciliation Commission was to ___.",
+            "options": [
+              "Prevent any future discussion of this history",
+              "Ignore the experiences of residential school survivors",
+              "Erase historical records completely",
+              "Make recommendations toward healing and reconciliation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Truth and Reconciliation Commission gathered information partly by ___.",
+            "options": [
+              "Only using fictional accounts",
+              "Listening to the experiences of residential school survivors",
+              "Refusing to speak with anyone affected",
+              "Ignoring all historical evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is learning about the Truth and Reconciliation Commission important for students today?",
+            "options": [
+              "It helps build understanding of this history and supports ongoing reconciliation efforts",
+              "This history has no relevance today",
+              "It should be avoided in schools entirely",
+              "It has no connection to Canadian identity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Reconciliation, in this context, refers to ___.",
+            "options": [
+              "A type of sporting event",
+              "Ignoring the effects of past policies",
+              "Working to repair relationships and address historical harms",
+              "A type of geography lesson only"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "label": "Day 50 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Synthesizing Information from Multiple Texts",
+        "summary": "Ontario Grade 5 Reading strand: synthesizing means combining information from multiple texts or sources to form a more complete understanding of a topic than any single source could provide alone.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Synthesizing information means ___.",
+            "options": [
+              "Reading only a single source and ignoring all others",
+              "Combining information from multiple sources into a fuller understanding",
+              "Copying one text exactly",
+              "Ignoring all sources completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader consult multiple texts on the same topic?",
+            "options": [
+              "One source always provides complete information",
+              "To build a more complete and well-rounded understanding",
+              "Additional sources never add useful information",
+              "Consulting multiple texts is a waste of time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When synthesizing, a reader should look for ___.",
+            "options": [
+              "Nothing related to the sources’ content",
+              "Only the exact same information repeated in every source",
+              "Random unrelated facts with no connections",
+              "Connections, similarities, and differences across sources"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of synthesizing information?",
+            "options": [
+              "Ignoring every source except one",
+              "Reading only the title of one article",
+              "Combining facts from two articles to write a well-rounded report",
+              "Copying a single paragraph exactly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is synthesizing considered an advanced reading skill?",
+            "options": [
+              "It only involves reading a single sentence",
+              "It requires understanding, comparing, and combining ideas from multiple sources",
+              "It requires no understanding of any text",
+              "It has no connection to comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Fractions, Percent, Integers, and Geometry",
+        "summary": "Ontario Grade 5 Number and Geometry strands review: this lesson revisits fraction operations, percent, integers, and geometry concepts like circles and volume covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 1/4 plus 1/4?",
+            "options": [
+              "2/8",
+              "1/4",
+              "1/2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 20 percent of 50?",
+            "options": [
+              "5",
+              "20",
+              "10",
+              "100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is colder: -10 degrees or -2 degrees?",
+            "options": [
+              "Cannot be determined",
+              "-2 degrees",
+              "They are equal",
+              "-10 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the diameter of a circle with a radius of 6 cm?",
+            "options": [
+              "6 cm",
+              "12 cm",
+              "18 cm",
+              "3 cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review fraction, percent, integer, and geometry skills together?",
+            "options": [
+              "These topics have no connection to each other",
+              "Review is never useful in math",
+              "These related number and spatial concepts reinforce each other for stronger overall understanding",
+              "Each topic must be learned in complete isolation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Human Body Systems and Forces",
+        "summary": "Ontario Grade 5 Science review: this lesson revisits the nervous, circulatory, respiratory, skeletal, muscular, and excretory systems alongside forces like friction, air resistance, and mechanical advantage covered recently.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which system is responsible for sending electrical signals throughout the body?",
+            "options": [
+              "The excretory system",
+              "The nervous system",
+              "The muscular system",
+              "The skeletal system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which system transports oxygen and nutrients through the body?",
+            "options": [
+              "The respiratory system",
+              "The circulatory system",
+              "The skeletal system",
+              "The excretory system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which force resists motion between two surfaces in contact?",
+            "options": [
+              "Air resistance",
+              "Buoyancy",
+              "Magnetism",
+              "Friction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body system removes waste products from the blood?",
+            "options": [
+              "The respiratory system",
+              "The nervous system",
+              "The muscular system",
+              "The excretory system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review body systems and forces together at this point?",
+            "options": [
+              "It helps connect and reinforce related concepts learned across recent lessons",
+              "These topics are entirely unrelated to each other",
+              "Review provides no benefit in science",
+              "Each system must always be studied in isolation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Canadian Government, Rights, and Recent History",
+        "summary": "Ontario Grade 5 Social Studies review: this lesson revisits Canada’s path to independence, the Charter of Rights and Freedoms, the courts, political parties, and reconciliation efforts covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Which document, adopted in 1982, includes the Canadian Charter of Rights and Freedoms?",
+            "options": [
+              "The Constitution Act",
+              "The Treaty of Paris",
+              "The British North America Act only",
+              "The Statute of Westminster"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body in Canada is responsible for interpreting and applying the law?",
+            "options": [
+              "Only the media",
+              "The courts",
+              "No formal body exists for this",
+              "Only municipal councils"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Truth and Reconciliation Commission focused on documenting the history and impact of ___.",
+            "options": [
+              "The Great Depression",
+              "The residential school system",
+              "The War of 1812",
+              "The building of the railway"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Political parties in Canada generally represent ___.",
+            "options": [
+              "Identical positions with no real differences",
+              "Different ideas about how the country should be governed",
+              "Only local municipal issues",
+              "No connection to government at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is reviewing recent Canadian government and history topics together useful?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "It helps reinforce how these related civic and historical concepts connect",
+              "These topics have no meaningful connections",
+              "Review is never useful in social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
