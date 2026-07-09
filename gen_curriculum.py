@@ -2,7 +2,7 @@
 """Generate missing GradesBooster curriculum TypeScript files."""
 import os, re
 
-DIR = '/sessions/wonderful-keen-tesla/mnt/gradesbooster/data'
+DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 WK = ['Mon','Tue','Wed','Thu','Fri']
 
 def lbl(n): return f"Day {n} — {WK[(n-1)%5]}"
@@ -33,9 +33,17 @@ def write_new(grade, days):
 def append_to(grade, days):
     p = f'{DIR}/grade{grade}.ts'
     content = open(p).read().rstrip()
-    for s in ['export default curriculum;']:
-        content = content.rstrip()
-        if content.endswith(s): content = content[:-len(s)].rstrip()
+    if content.endswith('export default curriculum;'):
+        content = content[:-len('export default curriculum;')].rstrip()
+    # The trailing "];" closes the `const curriculum: DayContent[] = [...]`
+    # array itself -- it has to come off too, or new day blocks land after
+    # the array closes instead of inside it (silently produces a file with
+    # two top-level array-literal statements back to back, which looks
+    # plausible on a skim but is invalid TS/JS: everything from the second
+    # "];" onward is unreachable, so previously-appended days would go
+    # missing from the actual exported array).
+    if content.endswith('];'):
+        content = content[:-len('];')].rstrip()
     extra = []
     for d in days:
         extra.append(f'{{day:{d[0]}, label:"{lbl(d[0])}", subjects:[')
