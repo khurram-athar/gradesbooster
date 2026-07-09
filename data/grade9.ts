@@ -1189,7 +1189,767 @@ const curriculum: DayContent[] = [
      {q:"The first step in a geographic inquiry project is to...", options:["Formulate a clear geographic question","Write the conclusion first","Choose a presentation format before identifying a topic","Collect all data before forming a question"], answer:0},
      {q:"Extended producer responsibility (EPR) requires...", options:["Makers to recycle their own products","Only consumers to manage waste","Only governments to fund all recycling","Landfills to be converted to parks"], answer:0},
    ]},
-]}
+]},
+{day:31, label:"Day 31 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Archetypes in Literature", summary:"Grade 9 Reading strand: an archetype is a recurring character type, symbol, or pattern found across many stories and cultures, such as the hero, the mentor, or the journey.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"An archetype is best described as ___.", options:["A grammar rule","A recurring character type or pattern found across many stories","A completely unique element found in only one story ever written","A type of punctuation mark"], answer:1},
+     {q:"Which is an example of a common literary archetype?", options:["The hero","A random unrelated number","A specific character’s exact birthday","A single unrelated punctuation mark"], answer:0},
+     {q:"Why do archetypes appear across many different cultures and time periods?", options:["Archetypes have no connection to human experience","They are unique to a single story with no broader pattern","They often reflect universal human experiences and themes","Archetypes only ever appear in one single culture"], answer:2},
+     {q:"The mentor archetype typically ___.", options:["Has no role in a story’s plot","Always opposes the main character with no other function","Guides or teaches the main character","Appears only in nonfiction texts"], answer:2},
+     {q:"Why is recognizing archetypes considered a valuable literary analysis skill?", options:["Recognizing archetypes replaces the need to understand plot","Archetypes are irrelevant to understanding a story","It helps readers see connections between different stories and understand broader patterns","This skill has no connection to literary analysis"], answer:2}
+   ]},
+  {subject:"Math", title:"Introduction to Quadratic Relations", summary:"Grade 9 Algebra strand: a quadratic relation, in the form y equals ax squared plus bx plus c, produces a U-shaped graph called a parabola, distinct from the straight-line graph of a linear relation.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"A quadratic relation is written in the form ___.", options:["y equals a plus b","y equals a divided by x","y equals ax squared plus bx plus c","y equals mx plus b"], answer:2},
+     {q:"The graph of a quadratic relation is called a ___.", options:["Circle","Hyperbola","Parabola","Straight line"], answer:2},
+     {q:"How does a quadratic relation’s graph differ from a linear relation’s graph?", options:["A quadratic relation never produces a graph","They are always identical in shape","Linear relations always produce curved graphs","A quadratic graph is curved (U-shaped), while a linear graph is a straight line"], answer:3},
+     {q:"In the quadratic relation y equals x squared, what shape does the graph take?", options:["A straight diagonal line","A U-shape opening upward","A horizontal line","A perfect circle"], answer:1},
+     {q:"Why might quadratic relations be used to model real-world situations, like the path of a thrown object?", options:["Their curved shape can represent situations that rise and then fall","Parabolas have no practical applications","Quadratic relations can never model real-world situations","Only straight-line graphs can represent motion"], answer:0}
+   ]},
+  {subject:"Science", title:"The Mole Concept and Molar Mass", summary:"Grade 9 Science Chemistry strand: a mole is a unit used to count extremely large numbers of particles, such as atoms or molecules, and molar mass relates the mass of a substance to the number of moles present.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"A mole is a unit used to ___.", options:["Count extremely large numbers of particles, like atoms or molecules","Measure the volume of a solid object","Measure temperature","Count the number of chemical elements only"], answer:0},
+     {q:"Molar mass relates ___.", options:["The mass of a substance to the number of moles present","A substance’s mass to its exact age","Only the colour of a substance","The temperature of a substance to its volume"], answer:0},
+     {q:"Why is the mole considered a useful unit in chemistry?", options:["This unit is unrelated to counting particles","It allows chemists to work with manageable numbers when counting extremely small particles","The mole has no practical use in chemistry","It only applies to liquids, never solids or gases"], answer:1},
+     {q:"Molar mass is typically expressed in units of ___.", options:["Litres per second","Degrees Celsius","Grams per mole","Metres per mole"], answer:2},
+     {q:"Why might chemists need to convert between grams and moles when working with a chemical reaction?", options:["Chemical reactions never require this type of conversion","Grams and moles are always exactly equal to each other","This conversion has no use in chemistry","It allows them to relate a measurable mass to the actual number of particles reacting"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Geopolitics: Understanding Borders and Territorial Disputes", summary:"Grade 9 Social Studies (Geography) strand: geopolitics examines how geography, borders, and territorial disputes influence political relationships and power between countries and regions.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Geopolitics examines how ___ influence political relationships between countries.", options:["Only music and art","A topic unrelated to political relationships","Weather patterns exclusively, with no other factors","Geography, borders, and territory"], answer:3},
+     {q:"A territorial dispute occurs when ___.", options:["All countries agree completely on every border","A dispute is unrelated to geography","Two or more parties disagree over control of a particular area of land","No disagreements about land ever occur"], answer:2},
+     {q:"Why might a natural resource located near a border contribute to geopolitical tension?", options:["Natural resources never cause any political tension","Multiple parties may have competing interests in accessing and controlling that resource","Resources located near borders have no political significance","Borders have no connection to resource access"], answer:1},
+     {q:"Why is understanding geopolitics valuable when studying world geography?", options:["Geopolitics has no connection to geography","This topic has no relevance to studying the world","It helps explain how geographic factors shape international relationships and conflicts","Political relationships between countries are unrelated to geography"], answer:2},
+     {q:"Which is an example of a factor that might influence a geopolitical relationship between two countries?", options:["A shared border or contested territory","The colour of each country’s flag","An unrelated cultural tradition with no political relevance","A factor unrelated to geography or politics"], answer:0}
+   ]},
+]},
+{day:32, label:"Day 32 — Tue", subjects:[
+  {subject:"Language", title:"Writing: The Literary Response Essay", summary:"Grade 9 Writing strand: a literary response essay presents a reader’s interpretation of a text, supported by evidence and analysis, expressing a personal yet well-reasoned perspective.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A literary response essay presents ___.", options:["An interpretation with no connection to the actual text","A completely unrelated topic","Only a summary of the plot with no interpretation","A reader’s interpretation of a text, supported by evidence"], answer:3},
+     {q:"Why is textual evidence important in a literary response essay?", options:["Evidence always weakens a literary interpretation","A literary response essay should never reference the text","It supports the writer’s interpretation with specific, relevant examples","Evidence has no role in this type of essay"], answer:2},
+     {q:"A literary response essay is considered well-reasoned when it ___.", options:["Connects the writer’s interpretation clearly to specific details in the text","Contains no clear interpretation of any kind","Ignores the text completely","Simply repeats the plot with no analysis"], answer:0},
+     {q:"Why might two readers write different literary response essays about the same text?", options:["Literary response essays never allow personal interpretation","Texts only ever have one single possible meaning","Every reader must always reach the exact same interpretation","Interpretation can vary based on the reader’s perspective and the evidence they emphasize"], answer:3},
+     {q:"A strong literary response essay typically begins with ___.", options:["A discussion unrelated to the text being analyzed","A summary with no analytical claim","A clear thesis about the writer’s interpretation of the text","No clear position on the text at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Solving Quadratic Equations by Factoring", summary:"Grade 9 Algebra strand: solving a quadratic equation by factoring involves rewriting it as a product of two binomials, then using the zero product property to find the solutions.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"The zero product property states that if two factors multiply to zero, then ___.", options:["Both factors must always equal one","Neither factor can ever equal zero","At least one of the factors must equal zero","The factors have no relationship to zero"], answer:2},
+     {q:"Solve by factoring: x squared plus 5x plus 6 equals zero.", options:["x = 5 or x = 6","x = -2 or x = -3","x = 2 or x = 3","x = -5 or x = -6"], answer:1},
+     {q:"Solve by factoring: x squared minus 9 equals zero.", options:["x = 9 or x = -9","x = -9 only","x = 3 or x = -3","x = 3 only"], answer:2},
+     {q:"Why does factoring help solve a quadratic equation?", options:["Factoring only applies to linear equations, not quadratics","This method has no connection to finding solutions","Factoring never helps solve any type of equation","It allows the zero product property to identify the specific solutions"], answer:3},
+     {q:"Solve by factoring: x squared plus 2x equals zero.", options:["x = 0 or x = 2","x = 1 or x = -1","x = 0 or x = -2","x = 2 or x = -2"], answer:2}
+   ]},
+  {subject:"Science", title:"Newton’s Three Laws of Motion", summary:"Grade 9 Science Physics strand: Newton’s three laws of motion describe inertia, the relationship between force, mass, and acceleration, and the principle that every action has an equal and opposite reaction.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Newton’s first law describes the concept of ___.", options:["Only gravity, with no other forces considered","Genetic inheritance","Chemical reactions","Inertia"], answer:3},
+     {q:"Newton’s second law relates force to ___.", options:["Only colour and temperature","Mass and acceleration","Genetic traits","Chemical composition"], answer:1},
+     {q:"Newton’s third law states that for every action, there is ___.", options:["No reaction of any kind","A reaction that is always significantly weaker","An equal and opposite reaction","A reaction unrelated to the original action"], answer:2},
+     {q:"Which is an everyday example of Newton’s third law?", options:["A swimmer pushing water backward to move forward","A plant undergoing photosynthesis","A chemical reaction with no physical motion involved","An object that never interacts with any force"], answer:0},
+     {q:"Why are Newton’s laws considered foundational to the study of physics?", options:["These laws have no connection to understanding motion","They only apply to objects in outer space","Newton’s laws have been proven entirely incorrect","They provide a framework for understanding and predicting how objects move under various forces"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Sustainable Cities: Case Studies in Urban Planning", summary:"Grade 9 Social Studies (Geography) strand: sustainable urban planning aims to balance growing populations with environmental protection, efficient transportation, and quality of life, illustrated through real-world city case studies.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Sustainable urban planning aims to balance population growth with ___.", options:["The complete elimination of all city growth","Environmental protection and quality of life","No consideration of environmental impact","A single unrelated factor"], answer:1},
+     {q:"Why might city planners study real-world case studies of sustainable cities?", options:["Case studies provide no useful information for planning","Sustainable cities have never actually been studied","This research has no connection to urban planning","To learn effective strategies that could be applied to other urban areas"], answer:3},
+     {q:"Which is an example of a sustainable urban planning strategy?", options:["Expanding efficient public transportation systems","Preventing any development of green spaces","Ignoring environmental considerations entirely","Eliminating all forms of public transportation"], answer:0},
+     {q:"Why is quality of life an important consideration in sustainable urban planning?", options:["Quality of life has no connection to urban planning","Sustainable planning ignores resident wellbeing entirely","Urban planning never considers the needs of residents","Well-planned cities aim to support residents’ health, wellbeing, and access to resources"], answer:3},
+     {q:"Why do rapidly growing cities face particular challenges in sustainable planning?", options:["Population growth has no connection to urban planning needs","Sustainable planning is only relevant to shrinking cities","Growing cities never face any planning challenges","Balancing growth with resource and infrastructure needs becomes increasingly complex"], answer:3}
+   ]},
+]},
+{day:33, label:"Day 33 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Advanced Sentence Fragments and Run-ons", summary:"Grade 9 Writing strand: advanced correction of sentence fragments and run-ons requires recognizing subtle grammatical issues in complex sentences and applying appropriate punctuation or restructuring.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A sentence fragment lacks ___.", options:["A title","Any punctuation at all","A complete subject, verb, or complete thought","A specific number of words"], answer:2},
+     {q:"A run-on sentence incorrectly joins ___.", options:["Only correctly punctuated clauses","Two or more complete sentences without proper punctuation","A sentence with no verb at all","A single short phrase with no other issues"], answer:1},
+     {q:"Which is a common way to correct a run-on sentence?", options:["Ignoring the grammatical issue completely","Removing all punctuation entirely","Adding proper punctuation or splitting it into separate sentences","Making the sentence even longer"], answer:2},
+     {q:"Why might complex sentences be more prone to fragment or run-on errors?", options:["Complex sentences are never prone to these errors","Simple sentences are always more likely to contain these errors","Sentence complexity has no connection to these grammatical issues","Multiple clauses can create confusion about complete thoughts and proper punctuation"], answer:3},
+     {q:"Why is correcting fragments and run-ons important in formal writing?", options:["Fragments and run-ons always improve a sentence’s clarity","Formal writing should always include grammatical errors","It helps ensure clarity and proper sentence structure for the reader","These corrections have no effect on writing clarity"], answer:2}
+   ]},
+  {subject:"Math", title:"Exponent Laws: Power of a Power and Power of a Product", summary:"Grade 9 Algebra strand: the power of a power rule states that (x to the a) to the b equals x to the (a times b), while the power of a product rule states that (xy) to the a equals x to the a times y to the a.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Simplify: (x squared) cubed.", options:["x to the fifth power","x to the eighth power","x to the sixth power","x squared"], answer:2},
+     {q:"Simplify: (xy) squared.", options:["x squared times y squared","x squared times y","xy squared","x times y squared"], answer:0},
+     {q:"The power of a power rule states that (x to the a) to the b equals ___.", options:["x to the (a divided by b)","x to the (a minus b)","x to the (a times b)","x to the (a plus b)"], answer:2},
+     {q:"Simplify: (2x cubed) squared.", options:["2x to the fifth power","4x to the sixth power","2x to the sixth power","4x to the fifth power"], answer:1},
+     {q:"Why are exponent laws useful when simplifying algebraic expressions?", options:["They provide consistent rules for combining and simplifying powers efficiently","These rules only apply to numbers, never variables","Simplifying expressions never requires exponent laws","Exponent laws have no practical use in algebra"], answer:0}
+   ]},
+  {subject:"Science", title:"Work, Energy, and Power", summary:"Grade 9 Science Physics strand: work is done when a force causes an object to move, energy is the capacity to do work, and power measures how quickly work is done.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Work is done when ___.", options:["A force causes an object to move","No force is involved at all","An object remains completely stationary with no force applied","Energy is created from nothing"], answer:0},
+     {q:"Energy is best described as ___.", options:["The capacity to do work","A force unrelated to motion","A type of matter with no connection to work","A measurement of time only"], answer:0},
+     {q:"Power measures ___.", options:["How quickly work is done","The total distance an object travels","The temperature of an object","The colour of an object"], answer:0},
+     {q:"If two people lift the same weight to the same height, but one does it faster, which person has exerted more power?", options:["Power cannot be compared in this situation","The person who did it faster","The person who did it slower","Both exert exactly equal power regardless of time"], answer:1},
+     {q:"Why are work, energy, and power considered closely connected concepts in physics?", options:["Work and power are identical concepts with no distinction","Only energy has any connection to physics","These three concepts have no relationship to each other","Energy enables work to be done, and power describes the rate at which that work occurs"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Climate Refugees and Environmental Migration", summary:"Grade 9 Social Studies (Geography) strand: climate refugees are people forced to leave their homes due to environmental changes, such as rising sea levels, drought, or extreme weather, an increasingly significant global issue.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A climate refugee is someone forced to leave their home due to ___.", options:["A voluntary choice unrelated to the environment","A factor unrelated to climate or environment","Environmental changes, such as rising sea levels or drought","A political election"], answer:2},
+     {q:"Which is an example of an environmental factor that could displace a population?", options:["Rising sea levels","A factor unrelated to climate or environment","A shift in local sports preferences","A change in local fashion trends"], answer:0},
+     {q:"Why is environmental migration considered an increasingly significant global issue?", options:["Environmental migration has no connection to global issues","Climate change has no effect on where people can live","Climate-related environmental changes are affecting more communities worldwide","This type of migration never actually occurs"], answer:2},
+     {q:"Why might communities near coastlines be particularly vulnerable to climate-related displacement?", options:["This vulnerability has no connection to geography","Sea level has no connection to coastal communities","Coastal communities are never affected by environmental changes","Rising sea levels can directly threaten coastal homes and infrastructure"], answer:3},
+     {q:"Why is studying climate refugees relevant to understanding global geography?", options:["This topic has no connection to global geography","Climate refugees have no impact on population patterns","Environmental migration is unrelated to geographic study","It highlights how environmental changes are reshaping population patterns worldwide"], answer:3}
+   ]},
+]},
+{day:34, label:"Day 34 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Denotation and Connotation in Persuasive Texts", summary:"Grade 9 Language strand: in persuasive writing, denotation (a word’s literal meaning) and connotation (its associated feeling) are both carefully chosen to influence how an audience responds to an argument.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"In persuasive writing, connotation is used to ___.", options:["Have no effect on the audience at all","Confuse readers with no clear purpose","Replace the need for any logical argument","Influence how an audience emotionally responds to an argument"], answer:3},
+     {q:"Why might a persuasive writer choose the word reckless instead of bold, despite a similar denotation?", options:["Connotation has no role in persuasive writing","The two words have completely different denotations","Word choice never affects a persuasive argument","Reckless carries a more negative connotation, shaping a more critical perspective"], answer:3},
+     {q:"Denotation refers to ___.", options:["A word’s literal, dictionary meaning","A word’s spelling only","The feeling a word suggests","A word’s pronunciation only"], answer:0},
+     {q:"Why is understanding both denotation and connotation important when analyzing persuasive texts?", options:["Word choice never influences how an argument is received","Denotation and connotation have no connection to persuasion","Only denotation matters in persuasive writing","It helps readers recognize how word choice shapes the intended emotional impact"], answer:3},
+     {q:"Which word likely has a more positive connotation than stubborn, despite a similar meaning?", options:["Determined","Foolish","Rude","Careless"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Credit and Debt", summary:"Grade 9 Financial Literacy strand: credit allows borrowing money to be repaid later, often with interest, and understanding how debt accumulates is essential for making informed financial decisions.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Credit allows a person to ___.", options:["Receive money with no repayment required","Avoid ever needing to repay any borrowed money","Borrow money to be repaid later, often with interest","A concept unrelated to borrowing money"], answer:2},
+     {q:"Debt generally refers to ___.", options:["A concept unrelated to borrowing","Money that is owed and must be repaid","Money that has already been fully paid off with nothing owed","Only money that has been saved"], answer:1},
+     {q:"Why is understanding interest rates important when using credit?", options:["Interest can significantly increase the total amount owed over time","Understanding interest rates serves no practical purpose","Interest has no connection to credit or debt","Interest rates never affect the total amount owed"], answer:0},
+     {q:"Why might making only minimum payments on a debt lead to it taking longer to pay off?", options:["Minimum payments always eliminate all interest immediately","Interest continues to accumulate on the remaining balance","Debt repayment time has no connection to payment amount","Interest never accumulates on unpaid balances"], answer:1},
+     {q:"Why is understanding credit and debt considered an important financial literacy skill?", options:["Financial literacy has no relevance to using credit responsibly","Credit and debt have no connection to personal finances","This understanding has no real-world financial benefit","It helps individuals make informed decisions and avoid unnecessary financial strain"], answer:3}
+   ]},
+  {subject:"Science", title:"Genetic Mutations and Variation", summary:"Grade 9 Science Biology strand: a genetic mutation is a change in an organism’s DNA sequence, which can introduce new variation into a population and may be neutral, harmful, or beneficial.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"A genetic mutation is best described as ___.", options:["A change in an organism’s diet only","A change that always immediately kills the organism","A process unrelated to genetics","A change in an organism’s DNA sequence"], answer:3},
+     {q:"Mutations can introduce new ___ into a population.", options:["Only harmful effects, with no other possible outcomes","Variation","Complete uniformity with no differences","A concept unrelated to genetics"], answer:1},
+     {q:"A mutation that has no significant effect on an organism is considered ___.", options:["Always harmful","Impossible to occur","Neutral","Always beneficial"], answer:2},
+     {q:"Why are mutations considered an important source of genetic variation?", options:["Mutations have no connection to genetic variation","Variation in a population never comes from mutations","They introduce new traits that can be acted on by natural selection","Mutations always eliminate all variation in a population"], answer:2},
+     {q:"Why might some mutations be considered beneficial to an organism?", options:["All mutations are always harmful, with no exceptions","Mutations have no connection to an organism’s environment","They may provide an advantage that improves survival or reproduction in a specific environment","Beneficial mutations have never actually occurred"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Economic Geography: Trade Blocs and Global Markets", summary:"Grade 9 Social Studies (Geography) strand: a trade bloc is a group of countries that agree to reduce trade barriers among themselves, shaping regional economic relationships and global market patterns.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A trade bloc is best described as ___.", options:["A group of countries that refuse to trade with each other","A single country acting entirely alone","A group of countries that agree to reduce trade barriers among themselves","A concept unrelated to international trade"], answer:2},
+     {q:"Why might countries choose to form a trade bloc?", options:["To create more favourable trading conditions among member countries","Trade blocs provide no economic benefit to member countries","Forming a trade bloc always eliminates all trade","This arrangement has no connection to economic relationships"], answer:0},
+     {q:"Which is a potential benefit of belonging to a trade bloc?", options:["Easier access to markets in other member countries","The elimination of all economic activity","No connection to other member countries’ economies","Complete isolation from all other countries"], answer:0},
+     {q:"Why might trade blocs affect global market patterns?", options:["Trade blocs eliminate the need for any international markets","They can shift where goods are produced, bought, and sold among member countries","Global markets are entirely unrelated to trade agreements","Trade blocs have no effect on global markets"], answer:1},
+     {q:"Why is understanding trade blocs useful when studying global economic geography?", options:["It helps explain patterns in international trade and economic cooperation","Trade blocs have no connection to economic geography","This topic has no relevance to understanding global markets","Economic geography never considers international agreements"], answer:0}
+   ]},
+]},
+{day:35, label:"Day 35 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Dramatic Irony", summary:"Grade 9 Reading strand: dramatic irony occurs when the audience or reader knows something important that a character in the story does not, creating tension or anticipation.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"Dramatic irony occurs when ___.", options:["The audience knows something a character does not","A character knows everything the audience knows","No information is withheld from anyone in the story","Irony never appears in dramatic works"], answer:0},
+     {q:"Why might an author use dramatic irony in a story?", options:["To create tension, suspense, or anticipation for the audience","Dramatic irony always removes tension from a story","Dramatic irony is never used intentionally by authors","This technique has no effect on the audience’s experience"], answer:0},
+     {q:"Which is an example of dramatic irony?", options:["A character explains a plan directly to the audience with no hidden information","All characters and the audience share identical knowledge at all times","The audience knows a character is walking into danger, but the character does not","A story with no characters or plot at all"], answer:2},
+     {q:"Why might dramatic irony create emotional engagement for readers or viewers?", options:["Dramatic irony is identical to a simple plot summary","Dramatic irony has no emotional effect on an audience","This technique always removes the reader’s interest in a story","Anticipating a character’s realization or reaction can heighten emotional investment"], answer:3},
+     {q:"Why is dramatic irony considered a distinct literary device from other forms of irony?", options:["Dramatic irony never involves any difference in knowledge","It specifically involves a gap in knowledge between characters and the audience","This device has no unique defining characteristics","Dramatic irony is identical to every other form of irony"], answer:1}
+   ]},
+  {subject:"Math", title:"Analytic Geometry: Parallel and Perpendicular Lines", summary:"Grade 9 Analytic Geometry strand: parallel lines have the same slope, while perpendicular lines have slopes that are negative reciprocals of each other.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Parallel lines have ___.", options:["The same slope","Slopes that are negative reciprocals","Slopes that are always exactly zero","No defined slope at all"], answer:0},
+     {q:"Perpendicular lines have slopes that are ___.", options:["Negative reciprocals of each other","Always exactly zero","Unrelated to each other","Always exactly equal"], answer:0},
+     {q:"If one line has a slope of 2, what slope would a line perpendicular to it have?", options:["One-half","Negative 2","2","Negative one-half"], answer:3},
+     {q:"If two lines both have a slope of 3, they are ___.", options:["Impossible to compare","Parallel","Always the same exact line","Perpendicular"], answer:1},
+     {q:"Why is understanding the relationship between slopes of parallel and perpendicular lines useful in geometry?", options:["Slopes have no connection to whether lines are parallel or perpendicular","This concept only applies to curved lines, not straight ones","It helps determine the relationship between lines without needing to graph them","This relationship has no practical use in geometry"], answer:2}
+   ]},
+  {subject:"Science", title:"Biomes and Global Ecosystem Patterns", summary:"Grade 9 Science Biology strand: Earth’s major biomes, such as tropical rainforest, desert, and tundra, are shaped by climate patterns and support distinct plant and animal communities adapted to those conditions.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Biomes are shaped primarily by ___.", options:["A factor unrelated to environmental conditions","Only the colour of the local soil","Climate patterns","Random chance with no identifiable pattern"], answer:2},
+     {q:"Which biome is characterized by high biodiversity and a warm, wet climate?", options:["Tundra","Tropical rainforest","Grassland","Desert"], answer:1},
+     {q:"Organisms living in a particular biome typically show adaptations suited to ___.", options:["Random, unrelated characteristics","A biome completely different from their own","That biome’s specific climate and conditions","No particular environmental conditions"], answer:2},
+     {q:"Why might studying global biome patterns help scientists understand biodiversity?", options:["Biomes have no connection to biodiversity","This study has no scientific value","All biomes support identical plant and animal life","Different biomes support distinct communities of organisms adapted to specific conditions"], answer:3},
+     {q:"Why might climate change affect the distribution of Earth’s biomes over time?", options:["Biomes never change in response to environmental shifts","Shifting climate patterns can alter the conditions that define and support each biome","This topic has no connection to environmental science","Climate change has no effect on biome distribution"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Indigenous Land Claims and Geographic Justice", summary:"Grade 9 Social Studies (Geography) strand: Indigenous land claims involve legal and political efforts to recognize rights to traditional territories, connecting geography with issues of justice and self-determination.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Indigenous land claims involve efforts to ___.", options:["Eliminate all Indigenous rights to land","A topic unrelated to geography or land","Recognize rights to traditional territories","Remove all legal processes related to land"], answer:2},
+     {q:"Geographic justice, in this context, connects issues of land with ___.", options:["Rights and self-determination","A concept unrelated to Indigenous communities","Only economic factors, with no connection to rights","No connection to justice or rights"], answer:0},
+     {q:"Why might land claims be an important part of Indigenous self-determination?", options:["Self-determination is entirely unrelated to land or geography","Traditional territory has no significance to Indigenous communities","Land claims have no connection to self-determination","Control over traditional territory can be closely tied to cultural identity and autonomy"], answer:3},
+     {q:"Why is studying Indigenous land claims relevant to geography education?", options:["This topic is unrelated to geographic study","It connects geographic concepts of land and territory to real historical and legal issues","Land claims have no connection to geography","Geography never intersects with legal or political issues"], answer:1},
+     {q:"Why might land claims processes be described as an ongoing aspect of geographic justice?", options:["Many claims remain in progress, reflecting continuing efforts toward recognition and resolution","Land claims have no connection to justice","This process has no relevance to modern geography","All land claims were fully resolved in the past with no ongoing processes"], answer:0}
+   ]},
+]},
+{day:36, label:"Day 36 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Writing a Feature Article", summary:"Grade 9 Writing strand: a feature article explores a topic in depth, often combining factual reporting with engaging storytelling techniques, unlike a straightforward news report.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A feature article typically ___.", options:["Reports only brief, surface-level facts with no depth","Explores a topic in depth, combining facts with engaging storytelling","Is identical to a basic news report","Contains no factual information at all"], answer:1},
+     {q:"Which is a storytelling technique a feature article might use?", options:["Ignoring the reader’s interest entirely","Presenting only a bulleted list with no narrative","Avoiding any connection to the topic’s human interest","A compelling anecdote to draw readers into the topic"], answer:3},
+     {q:"Why might a feature article include interviews or personal stories?", options:["Interviews have no place in feature writing","They can add depth, credibility, and a human perspective to the topic","This type of writing should avoid any human perspective","Personal stories always weaken a feature article"], answer:1},
+     {q:"How does a feature article typically differ from a standard news report?", options:["News reports always include more depth than feature articles","A feature article never includes any factual information","They are always identical in style and structure","A feature article often explores a topic in greater depth and with more narrative style"], answer:3},
+     {q:"Why might a feature article writer choose a strong, engaging opening?", options:["The opening of a feature article has no effect on reader interest","To capture reader interest and draw them into exploring the topic further","Engaging openings are never used in feature writing","Feature articles should always have a plain, unengaging opening"], answer:1}
+   ]},
+  {subject:"Math", title:"Optimization of Perimeter and Area", summary:"Grade 9 Measurement strand: optimization problems involve finding the maximum or minimum value of a measurement, such as determining the shape that maximizes area for a given perimeter.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"An optimization problem involves finding ___.", options:["A measurement unrelated to area or perimeter","Only the average of several unrelated values","The maximum or minimum value of a measurement","A completely random measurement with no goal"], answer:2},
+     {q:"For a fixed perimeter, which shape typically maximizes area among simple rectangles?", options:["Any shape produces exactly the same area","A square","A shape with no defined sides","A very long, thin rectangle"], answer:1},
+     {q:"Why might a fence-building problem be considered an optimization problem?", options:["Fence-building problems never involve any mathematical optimization","Optimization has no connection to real-world measurement problems","It often involves finding the dimensions that maximize enclosed area for a given amount of fencing","This type of problem only involves perimeter, never area"], answer:2},
+     {q:"If a rectangle has a fixed perimeter, increasing the length while decreasing the width will generally ___ the area, beyond a certain point.", options:["Always increase indefinitely with no limit","Decrease","Immediately double","Have no effect on"], answer:1},
+     {q:"Why are optimization problems considered useful in real-world design and planning?", options:["Optimization problems have no real-world applications","Efficient design has no connection to mathematical optimization","They help identify the most efficient use of available materials or space","These problems only apply to theoretical, unrealistic scenarios"], answer:2}
+   ]},
+  {subject:"Science", title:"Acids and Bases: Properties and Reactions", summary:"Grade 9 Science Chemistry strand: acids and bases have distinct properties, measured using the pH scale, and react with each other in a neutralization reaction to produce water and a salt.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Acids generally have a pH ___.", options:["That cannot be measured","Always exactly 7","Above 7","Below 7"], answer:3},
+     {q:"Bases generally have a pH ___.", options:["That cannot be measured","Below 7","Above 7","Always exactly 0"], answer:2},
+     {q:"A neutralization reaction occurs when ___.", options:["A substance reacts with itself","No chemical reaction takes place at all","An acid and a base react to produce water and a salt","Two acids react with each other with no base involved"], answer:2},
+     {q:"Which is an example of a common acid?", options:["Ammonia","Vinegar","Soap","Baking soda"], answer:1},
+     {q:"Why is understanding acids and bases important in chemistry?", options:["Acids and bases have no real-world relevance","The pH scale is unrelated to acids and bases","This topic has no connection to chemical reactions","They are involved in many chemical reactions and everyday substances"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Geography of Energy Transition: Fossil Fuels to Renewables", summary:"Grade 9 Social Studies (Geography) strand: the global energy transition involves shifting from fossil fuel dependence toward renewable energy sources, a process shaped by geography, technology, and economic factors.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"The energy transition refers to ___.", options:["A complete elimination of all energy use","A concept unrelated to energy production","A shift from fossil fuel dependence toward renewable energy sources","A shift toward greater fossil fuel dependence"], answer:2},
+     {q:"Which geographic factor might influence a region’s ability to adopt solar energy?", options:["The region’s distance from the ocean, with no other relevant factors","The region’s population size alone","A factor entirely unrelated to geography","The amount of available sunlight in that region"], answer:3},
+     {q:"Why might the energy transition vary significantly between different countries?", options:["Energy transition occurs identically everywhere in the world","Differences in geography, resources, technology, and economic priorities affect the pace of transition","All countries experience the exact same energy transition process","Geography has no connection to energy production choices"], answer:1},
+     {q:"Why is the energy transition considered a significant global geographic issue?", options:["This transition has no connection to global geography","The energy transition affects no aspect of global patterns","Energy use has no relevance to geographic study","It involves major shifts in resource use, economies, and environmental impact worldwide"], answer:3},
+     {q:"Which is an example of a renewable energy source relevant to this transition?", options:["Coal","Wind power","Natural gas","Oil"], answer:1}
+   ]},
+]},
+{day:37, label:"Day 37 — Tue", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Social Media Algorithms and Filter Bubbles", summary:"Grade 9 Media Literacy strand: social media algorithms curate content based on user behaviour, which can create filter bubbles that limit exposure to diverse perspectives and reinforce existing beliefs.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A social media algorithm curates content based on ___.", options:["Only the exact time of day, with no other considerations","A factor entirely unrelated to the user","User behaviour and preferences","Completely random selection with no pattern"], answer:2},
+     {q:"A filter bubble refers to ___.", options:["Content selected with no connection to user preferences","A concept unrelated to social media","Exposure to a wide range of completely random, unrelated content","A limited range of perspectives a user is exposed to based on algorithmic curation"], answer:3},
+     {q:"Why might filter bubbles reinforce existing beliefs?", options:["Algorithms are designed to show only random, unrelated content","This concept has no connection to belief reinforcement","Users are more likely to see content that aligns with what they already engage with","Filter bubbles always expose users to opposing viewpoints"], answer:2},
+     {q:"Why is understanding algorithms and filter bubbles considered an important media literacy skill?", options:["Algorithms have no influence on social media experiences","It helps users recognize how their online experience may be shaped and limited","This understanding has no practical value","Filter bubbles have no effect on the content users see"], answer:1},
+     {q:"Which strategy could help someone reduce the effects of a filter bubble?", options:["Intentionally seeking out diverse sources and perspectives","Avoiding all forms of media entirely","Only ever engaging with content that confirms existing beliefs","Ignoring the existence of algorithms altogether"], answer:0}
+   ]},
+  {subject:"Math", title:"Introduction to Standard Deviation and Normal Distribution", summary:"Grade 9 Data Management strand: standard deviation measures the spread of data, and a normal distribution is a common, symmetric pattern where most data values cluster around the mean.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Standard deviation measures ___.", options:["The spread of data around the mean","The total number of values in a data set","The exact middle value of a data set","The most frequently occurring value"], answer:0},
+     {q:"A normal distribution is characterized by ___.", options:["All values being exactly identical","A pattern with no discernible structure","Data that is always skewed heavily to one side","A symmetric pattern where most values cluster around the mean"], answer:3},
+     {q:"In a normal distribution, most data values are located ___.", options:["Entirely at the extreme ends of the distribution","Close to the mean","Randomly scattered with no pattern at all","Far from the mean, with very few values near it"], answer:1},
+     {q:"Why might standard deviation be useful when analyzing test scores across a large group?", options:["Standard deviation has no connection to analyzing test scores","It shows how consistent or varied the scores are relative to the average","It always equals the mean, providing no new information","This statistic should never be used with test score data"], answer:1},
+     {q:"A normal distribution is often visually represented as a ___ shaped curve.", options:["Perfectly flat","Bell","Zigzag","Straight, diagonal"], answer:1}
+   ]},
+  {subject:"Science", title:"Waves: Properties and Behaviour", summary:"Grade 9 Science Physics strand: waves transfer energy through a medium or space, with properties such as wavelength, frequency, and amplitude describing their characteristics and behaviour.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Waves are best described as a way of transferring ___.", options:["Nothing at all","Matter permanently from one place to another","Only heat, with no other form of energy","Energy"], answer:3},
+     {q:"Wavelength refers to ___.", options:["The distance between two corresponding points on a wave, like crest to crest","The speed of a wave only","The height of a wave only","A concept unrelated to waves"], answer:0},
+     {q:"Amplitude refers to ___.", options:["A concept unrelated to waves","The height of a wave from its resting position, related to its energy","The number of waves passing a point per second","The distance between two wave crests"], answer:1},
+     {q:"Frequency refers to ___.", options:["The exact height of a wave","The colour of a wave","A concept unrelated to wave behaviour","The number of waves passing a point in a given amount of time"], answer:3},
+     {q:"Why is understanding wave properties useful across many scientific fields, from sound to light?", options:["Sound and light have no connection to wave behaviour","This topic only applies to a single narrow scientific field","These properties help explain and predict how different types of waves behave","Wave properties have no real-world scientific applications"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Comparative Geography: Developed and Developing Regions", summary:"Grade 9 Social Studies (Geography) strand: comparing developed and developing regions involves examining differences in economic development, infrastructure, and access to resources across the world.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Comparing developed and developing regions often involves examining differences in ___.", options:["Nothing measurable at all","A factor unrelated to geography or economics","Economic development and infrastructure","Only the colour of national flags"], answer:2},
+     {q:"Which is an example of an indicator that might be used to compare development between regions?", options:["The exact number of national holidays","Access to healthcare and education","Only a country’s physical size","A factor unrelated to development"], answer:1},
+     {q:"Why might infrastructure, such as roads and utilities, be relevant to comparing regions?", options:["Infrastructure can significantly affect a region’s economic opportunities and quality of life","Roads and utilities have no effect on economic opportunity","This factor is unrelated to comparative geography","Infrastructure has no connection to regional development"], answer:0},
+     {q:"Why is it important to consider multiple indicators, rather than just one, when comparing regions?", options:["One single indicator always fully explains a region’s development","Comparing regions requires no supporting data at all","A single indicator may not fully capture the complexity of development in a region","Using multiple indicators always provides less accurate information"], answer:2},
+     {q:"Why might comparative geography be considered a valuable field of study?", options:["This field has no connection to understanding global development","Comparative geography has no real-world value","Regional comparisons provide no useful geographic insight","It helps identify patterns, disparities, and opportunities for addressing global inequalities"], answer:3}
+   ]},
+]},
+{day:38, label:"Day 38 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Advanced Modifiers and Sentence Clarity", summary:"Grade 9 Writing strand: advanced modifier issues, including dangling and misplaced modifiers in complex sentences, can create ambiguity, and identifying and correcting them improves overall sentence clarity.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A dangling modifier lacks ___.", options:["A verb in every case","A subject in every case","Any connection to grammar rules","A clear word in the sentence to describe"], answer:3},
+     {q:"A misplaced modifier is positioned ___.", options:["Too far from the word it describes","Nowhere near any part of the sentence","At the very beginning of every sentence","Correctly next to the word it modifies"], answer:0},
+     {q:"Why might modifier issues become more common in longer, more complex sentences?", options:["Simple sentences are always more likely to have these issues","Sentence length has no connection to modifier placement","Complex sentences are never prone to modifier errors","More clauses and phrases increase the chances of unclear placement"], answer:3},
+     {q:"Which sentence contains a misplaced modifier? Nearly finished, the report took hours to write.", options:["This sentence","Writing the report took hours.","I nearly finished writing the report after hours.","The report took hours to write."], answer:0},
+     {q:"Why is correcting modifier errors especially important in formal or academic writing?", options:["Clear, unambiguous sentences support the reader’s accurate understanding of complex ideas","Modifier placement has no effect on formal writing","These corrections have no impact on academic clarity","Formal writing should always contain ambiguous sentences"], answer:0}
+   ]},
+  {subject:"Math", title:"Introduction to Exponential Growth", summary:"Grade 9 Algebra strand (non-linear relations): exponential growth occurs when a quantity increases by a consistent percentage or factor over equal time periods, producing a curve that rises increasingly steeply.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Exponential growth occurs when a quantity increases by ___.", options:["A fixed amount added each time period","A consistent percentage or factor over equal time periods","Nothing at all, since the quantity never changes","A completely random amount each time period"], answer:1},
+     {q:"The graph of exponential growth typically ___.", options:["Rises increasingly steeply over time","Forms a perfectly straight line","Decreases steadily over time","Remains completely flat"], answer:0},
+     {q:"Which is an example of a real-world situation that models exponential growth?", options:["A value that never changes over time","A quantity that decreases by a fixed amount each year","A straight-line increase by the same fixed amount each year","A population doubling every certain number of years"], answer:3},
+     {q:"How does exponential growth differ from linear growth?", options:["Exponential growth never actually increases over time","Exponential growth increases by a percentage or factor, while linear growth increases by a fixed amount","Linear growth always increases faster than exponential growth","They are always identical patterns of growth"], answer:1},
+     {q:"Why might exponential growth eventually become unsustainable in a real-world context, like population growth?", options:["Resources and space are often limited, which can eventually slow or limit growth","Exponential growth can continue indefinitely with no limiting factors","Real-world resources have no connection to population growth","This type of growth pattern never applies to real-world situations"], answer:0}
+   ]},
+  {subject:"Science", title:"Nuclear Reactions: Fission and Fusion", summary:"Grade 9 Science Physics strand: nuclear fission splits a large atomic nucleus into smaller parts, while nuclear fusion combines small nuclei into a larger one, both releasing significant amounts of energy.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Nuclear fission involves ___.", options:["No release of energy whatsoever","A process unrelated to atomic nuclei","Splitting a large atomic nucleus into smaller parts","Combining small nuclei into a larger one"], answer:2},
+     {q:"Nuclear fusion involves ___.", options:["Combining small nuclei into a larger one","A process unrelated to nuclear reactions","Splitting a large nucleus into smaller parts","No release of energy whatsoever"], answer:0},
+     {q:"Which process powers the Sun?", options:["Nuclear fission","A process unrelated to nuclear reactions","Nuclear fusion","Simple chemical combustion"], answer:2},
+     {q:"Which process is used in traditional nuclear power plants to generate electricity?", options:["Nuclear fusion","A process unrelated to nuclear reactions","Simple chemical combustion","Nuclear fission"], answer:3},
+     {q:"Why do both fission and fusion release significant amounts of energy?", options:["These processes have no connection to energy production","Changes in the nucleus can convert a small amount of mass into a large amount of energy","Neither process actually releases any energy","Only chemical reactions can release significant energy"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Geographic Information Systems in Disaster Response", summary:"Grade 9 Social Studies (Geography) strand: Geographic Information Systems (GIS) are used during disaster response to map affected areas, track resources, and coordinate relief efforts efficiently.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"GIS technology is used during disaster response to ___.", options:["Map affected areas and coordinate relief efforts","Prevent all forms of geographic mapping","Replace the need for any relief efforts","Have no connection to disaster response"], answer:0},
+     {q:"Why might mapping affected areas be important during a natural disaster?", options:["It helps responders understand the scope of damage and where resources are most needed","This information has no connection to relief efforts","GIS technology cannot be applied to disaster situations","Mapping has no benefit during a disaster response"], answer:0},
+     {q:"Which is an example of information GIS might track during a disaster response?", options:["The location of damaged infrastructure","A factor unrelated to disaster response planning","Only historical weather data with no current relevance","Information entirely unrelated to the disaster"], answer:0},
+     {q:"Why is coordinating resources efficiently important during disaster relief efforts?", options:["Resource coordination has no effect on the success of relief efforts","GIS technology has no connection to resource management","Disaster response never requires any coordination","Efficient coordination can help ensure resources reach the people who need them most quickly"], answer:3},
+     {q:"Why might GIS be considered a valuable tool for geographers and emergency responders alike?", options:["Emergency response never benefits from geographic data","GIS technology has no practical applications","This technology has no connection to geography","It combines geographic data with practical applications for real-world decision-making"], answer:3}
+   ]},
+]},
+{day:39, label:"Day 39 — Thu", subjects:[
+  {subject:"Language", title:"Writing: The Extended Metaphor in Creative Writing", summary:"Grade 9 Writing strand: an extended metaphor develops a single comparison throughout a piece of writing, deepening meaning and creating a cohesive thread of imagery.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"An extended metaphor is a comparison that ___.", options:["Is never used in creative writing","Is developed and sustained throughout a piece of writing","Has no connection to the rest of the writing","Appears only once in a single sentence"], answer:1},
+     {q:"Why might a writer use an extended metaphor instead of a single, brief comparison?", options:["Extended metaphors always weaken a piece of writing","A brief comparison always creates more meaning than an extended one","Extended metaphors have no effect on a reader’s understanding","It can create a more cohesive and deeply developed sense of meaning throughout the piece"], answer:3},
+     {q:"Which is an example of the beginning of an extended metaphor about life as a journey?", options:["Life is a road, and we are all travellers navigating its twists and turns.","The weather was sunny that day.","This is a plain, literal statement with no comparison.","A sentence with no figurative language at all."], answer:0},
+     {q:"Why might an extended metaphor be considered more complex to write than a simple metaphor?", options:["It requires maintaining the comparison consistently across multiple parts of the writing","This technique has no connection to complexity in writing","A simple metaphor is always more difficult to write","Extended metaphors require no consistency or planning"], answer:0},
+     {q:"Why is imagery an important element of an effective extended metaphor?", options:["Extended metaphors should always avoid descriptive imagery","Imagery only matters in nonfiction writing","Imagery has no connection to extended metaphors","Vivid imagery helps make the sustained comparison meaningful and engaging"], answer:3}
+   ]},
+  {subject:"Math", title:"Trigonometry: Solving for Angles and Sides", summary:"Grade 9 Geometry strand: applying sine, cosine, and tangent ratios allows you to solve for unknown angles or side lengths in right triangles when given sufficient information.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"To find a missing side length in a right triangle when you know an angle and the hypotenuse, you might use ___.", options:["Only addition, with no trigonometry involved","The area formula for a triangle","A method unrelated to trigonometric ratios","Sine or cosine"], answer:3},
+     {q:"To find a missing angle when you know two side lengths of a right triangle, you would typically use ___.", options:["The formula for a circle’s circumference","A method with no connection to trigonometric ratios","Only the Pythagorean theorem, with no trigonometry involved","An inverse trigonometric function"], answer:3},
+     {q:"If the opposite side of a right triangle is 8 and the adjacent side is 6, which ratio could help find the angle?", options:["Only the Pythagorean theorem","Tangent","The formula for area","A ratio unrelated to trigonometry"], answer:1},
+     {q:"If an angle in a right triangle is 30 degrees and the hypotenuse is 10, which ratio would help find the length of the opposite side?", options:["Only addition, with no trigonometry involved","Sine","A ratio unrelated to trigonometry","The formula for perimeter"], answer:1},
+     {q:"Why are trigonometric ratios useful for solving real-world problems involving right triangles?", options:["This method requires physically measuring every side directly","Trigonometric ratios have no real-world applications","These ratios only apply to shapes with no angles","They allow indirect calculation of unknown angles or distances using known measurements"], answer:3}
+   ]},
+  {subject:"Science", title:"Environmental Science: Biomagnification and Bioaccumulation", summary:"Grade 9 Science Biology strand: bioaccumulation is the buildup of a substance within an individual organism over time, while biomagnification describes how that substance becomes more concentrated at higher levels of a food chain.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Bioaccumulation refers to ___.", options:["The buildup of a substance within an individual organism over time","A process unrelated to living organisms","A substance disappearing completely from an organism","The rapid removal of a substance from an ecosystem"], answer:0},
+     {q:"Biomagnification describes how a substance becomes ___.", options:["Completely eliminated at higher levels of a food chain","More concentrated at higher levels of a food chain","Less concentrated at higher levels of a food chain","Unrelated to food chains"], answer:1},
+     {q:"Which type of organism in a food chain might experience the highest concentration of a biomagnified substance?", options:["A top predator","A primary producer, such as a plant","The very first organism to consume the substance, with no further transfer","An organism with no connection to the food chain"], answer:0},
+     {q:"Why are bioaccumulation and biomagnification considered important environmental concerns?", options:["These processes have no effect on ecosystems","Harmful substances can become increasingly concentrated and dangerous as they move up a food chain","This topic has no connection to environmental science","Substances always become less harmful as they move through a food chain"], answer:1},
+     {q:"Which is an example of a substance historically associated with biomagnification concerns?", options:["Plain drinking water with no other substances","A substance with no environmental impact","Certain persistent pesticides","Oxygen"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Geography of Global Supply Chains", summary:"Grade 9 Social Studies (Geography) strand: global supply chains involve the geographic network of production, transportation, and distribution that brings goods from raw materials to consumers around the world.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A global supply chain involves the geographic network of ___.", options:["A single unrelated activity with no connection to goods","Production, transportation, and distribution of goods","A concept unrelated to geography or economics","Only local production with no international connections"], answer:1},
+     {q:"Why might a product’s components be manufactured in multiple different countries?", options:["Manufacturing location has no connection to geography or economics","Companies may choose locations based on resources, labour, and cost factors","Products are always manufactured entirely within a single country with no exceptions","Global supply chains never involve multiple countries"], answer:1},
+     {q:"Which is an example of a factor that could disrupt a global supply chain?", options:["Supply chains are never affected by any external events","A factor with no possible impact on supply chains","A natural disaster affecting a key production or shipping region","A change unrelated to production or transportation"], answer:2},
+     {q:"Why is understanding global supply chains relevant to studying geography?", options:["Supply chains have no connection to geographic study","This topic has no relevance to understanding global trade","It shows how geographic location and connections shape the movement of goods worldwide","Geography never influences how goods are produced or distributed"], answer:2},
+     {q:"Why might disruptions to global supply chains have widespread economic effects?", options:["Supply chain disruptions never have any broader economic impact","Many industries and consumers around the world often depend on these interconnected networks","Global supply chains have no connection to consumers","Economic effects are always limited to a single country"], answer:1}
+   ]},
+]},
+{day:40, label:"Day 40 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing an Author’s Craft Across a Text", summary:"Grade 9 Reading strand: analyzing an author’s craft involves examining the deliberate choices a writer makes -- in structure, language, and literary devices -- and how those choices work together across an entire text.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"Analyzing an author’s craft involves examining ___.", options:["Deliberate choices in structure, language, and literary devices","A factor unrelated to how the text was written","The book’s cover design only","Only a single isolated sentence from the text"], answer:0},
+     {q:"Why might an author’s choice of sentence structure affect a reader’s experience?", options:["This choice has no connection to an author’s craft","All sentence structures create an identical reading experience","Structure can influence pacing, emphasis, and overall tone throughout a text","Sentence structure has no effect on a reader’s experience"], answer:2},
+     {q:"Analyzing craft across an entire text, rather than a single passage, allows readers to ___.", options:["Assume all authors use identical techniques throughout every text","Ignore how different literary elements work together","Understand only one isolated moment in the text with no broader connections","Identify patterns and consistent techniques the author uses throughout the work"], answer:3},
+     {q:"Why is evaluating an author’s craft considered an advanced literary analysis skill?", options:["Analyzing craft has no connection to understanding a text deeply","It requires synthesizing multiple elements of writing to understand the author’s overall approach","Only the plot needs to be considered when evaluating an author’s craft","This skill requires no analysis of the text’s language or structure"], answer:1},
+     {q:"Which is an example of analyzing an author’s craft?", options:["Examining how repeated imagery builds a theme across a novel","Focusing solely on the book’s price and page count","Ignoring the author’s stylistic choices entirely","Only summarizing the plot with no analysis"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Quadratics, Exponents, Trigonometry, and Statistics", summary:"Grade 9 Algebra and Geometry strands review: this lesson revisits quadratic relations, exponent laws, exponential growth, trigonometric ratios, and standard deviation from recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"The graph of a quadratic relation is called a ___.", options:["Straight line","Hyperbola","Parabola","Circle"], answer:2},
+     {q:"Simplify: (x squared) cubed.", options:["x to the sixth power","x squared","x to the eighth power","x to the fifth power"], answer:0},
+     {q:"Exponential growth occurs when a quantity increases by ___.", options:["A consistent percentage or factor over equal time periods","A completely random amount each time period","Nothing at all, since the quantity never changes","A fixed amount added each time period"], answer:0},
+     {q:"Standard deviation measures ___.", options:["The total number of values in a data set","The spread of data around the mean","The exact middle value of a data set","The most frequently occurring value"], answer:1},
+     {q:"Why is it useful to review quadratics, exponents, trigonometry, and statistics together?", options:["These topics have no connection to each other","These related math concepts reinforce each other for stronger overall understanding","Each topic must be learned in complete isolation","Review is never useful in math"], answer:1}
+   ]},
+  {subject:"Science", title:"Review: Physics, Chemistry, and Environmental Science", summary:"Grade 9 Science review: this lesson revisits Newton’s laws, work and energy, the mole concept, acids and bases, nuclear reactions, and bioaccumulation and biomagnification covered across recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Newton’s third law states that for every action, there is ___.", options:["No reaction of any kind","An equal and opposite reaction","A reaction unrelated to the original action","A reaction that is always significantly weaker"], answer:1},
+     {q:"A mole is a unit used to ___.", options:["Measure the volume of a solid object","Count extremely large numbers of particles, like atoms or molecules","Measure temperature","Count the number of chemical elements only"], answer:1},
+     {q:"Acids generally have a pH ___.", options:["Always exactly 7","That cannot be measured","Above 7","Below 7"], answer:3},
+     {q:"Nuclear fusion involves ___.", options:["Splitting a large nucleus into smaller parts","A process unrelated to nuclear reactions","Combining small nuclei into a larger one","No release of energy whatsoever"], answer:2},
+     {q:"Why is it valuable to review physics, chemistry, and environmental science together?", options:["Review provides no benefit in science","Each topic must always be studied in isolation","These topics are entirely unrelated to each other","It helps connect and reinforce related science concepts learned across recent lessons"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Review: Global Geography and Geopolitical Issues", summary:"Grade 9 Social Studies (Geography) review: this lesson revisits geopolitics, sustainable cities, climate refugees, trade blocs, Indigenous land claims, and global supply chains covered across recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Geopolitics examines how ___ influence political relationships between countries.", options:["Only music and art","Geography, borders, and territory","Weather patterns exclusively, with no other factors","A topic unrelated to political relationships"], answer:1},
+     {q:"A climate refugee is someone forced to leave their home due to ___.", options:["Environmental changes, such as rising sea levels or drought","A voluntary choice unrelated to the environment","A factor unrelated to climate or environment","A political election"], answer:0},
+     {q:"A trade bloc is best described as ___.", options:["A group of countries that agree to reduce trade barriers among themselves","A concept unrelated to international trade","A single country acting entirely alone","A group of countries that refuse to trade with each other"], answer:0},
+     {q:"A global supply chain involves the geographic network of ___.", options:["Only local production with no international connections","A single unrelated activity with no connection to goods","A concept unrelated to geography or economics","Production, transportation, and distribution of goods"], answer:3},
+     {q:"Why is it useful to review global geography and geopolitical topics together?", options:["It helps reinforce how these interconnected issues shape global patterns and relationships","Review is never useful in social studies","Each topic must be studied with no connection to the others","These topics have no meaningful connections"], answer:0}
+   ]},
+]},
+{day:41, label:"Day 41 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Motif and Recurring Imagery", summary:"Grade 9 Reading strand: a motif is a recurring element, image, or idea that appears repeatedly throughout a text, helping to reinforce its central themes.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A motif is best described as ___.", options:["A type of punctuation mark","A single event that occurs only once in a story","A grammar rule","A recurring element or image that appears throughout a text"], answer:3},
+     {q:"Why might an author use a recurring motif throughout a text?", options:["A motif always weakens a text’s themes","Motifs are never intentionally used by authors","To reinforce and deepen the text’s central themes","Repetition of any kind has no effect on meaning"], answer:2},
+     {q:"Which is an example of a recurring motif?", options:["A character’s name, mentioned only in the title","A single sentence that appears only once","A random unrelated detail with no repetition","Repeated imagery of light and darkness throughout a novel"], answer:3},
+     {q:"How is a motif different from a theme?", options:["A motif is a recurring element, while a theme is the deeper message it helps convey","A motif and a theme are always identical concepts","Themes are always more specific than motifs","A motif has no connection to a text’s meaning"], answer:0},
+     {q:"Why is tracking motifs considered a valuable reading strategy?", options:["Motifs have no connection to a text’s meaning","It helps readers notice patterns that reveal deeper meaning across a text","Recurring imagery should always be ignored while reading","This strategy has no value for understanding a text"], answer:1}
+   ]},
+  {subject:"Math", title:"Solving Quadratic Equations Using the Quadratic Formula", summary:"Grade 9 Algebra strand: the quadratic formula, x equals negative b plus or minus the square root of b squared minus 4ac, all over 2a, can solve any quadratic equation, including those that are difficult to factor.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"The quadratic formula can be used to solve equations in the form ___.", options:["ax plus b equals zero","ax squared plus bx plus c equals zero","a plus b equals c","a divided by b equals c"], answer:1},
+     {q:"In the quadratic formula, the expression under the square root, b squared minus 4ac, is called the ___.", options:["Coefficient","Base","Discriminant","Constant"], answer:2},
+     {q:"Why might the quadratic formula be used instead of factoring?", options:["Factoring always works for every quadratic equation","The quadratic formula has no practical use in algebra","It can only be used with equations that are already factored","It can solve any quadratic equation, even ones that are difficult or impossible to factor"], answer:3},
+     {q:"For the equation x squared plus 4x plus 3 equals zero, what are the values of a, b, and c?", options:["a = 1, b = 3, c = 4","a = 1, b = 4, c = 3","a = 4, b = 3, c = 1","a = 3, b = 1, c = 4"], answer:1},
+     {q:"If the discriminant of a quadratic equation is negative, this generally indicates ___.", options:["Infinitely many real solutions","Exactly one real solution","No real solutions","The equation cannot be a quadratic"], answer:2}
+   ]},
+  {subject:"Science", title:"Stoichiometry: Introduction to Mole Ratios", summary:"Grade 9 Science Chemistry strand: stoichiometry uses the mole ratios from a balanced chemical equation to calculate the amounts of reactants and products involved in a chemical reaction.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Stoichiometry uses mole ratios to calculate ___.", options:["The amounts of reactants and products in a reaction","A value unrelated to chemical reactions","The exact temperature of a reaction","The colour of a chemical reaction"], answer:0},
+     {q:"Mole ratios in stoichiometry come from ___.", options:["The temperature at which a reaction occurs","A random, unrelated guess","The colour of the reactants","The coefficients in a balanced chemical equation"], answer:3},
+     {q:"Why must a chemical equation be balanced before using it for stoichiometric calculations?", options:["A balanced equation accurately reflects the actual mole ratios of reactants and products","Balancing has no effect on stoichiometric calculations","Stoichiometry does not require a balanced equation","Unbalanced equations always provide accurate mole ratios"], answer:0},
+     {q:"Why is stoichiometry considered a practical application of chemistry?", options:["It allows chemists to predict and measure the exact quantities involved in reactions","This concept only applies to theoretical chemistry with no practical use","Stoichiometry has no real-world applications","Mole ratios have no connection to actual chemical quantities"], answer:0},
+     {q:"If a balanced equation shows a 1:2 mole ratio between two reactants, using 3 moles of the first reactant would require ___.", options:["9 moles of the second reactant","1.5 moles of the second reactant","3 moles of the second reactant","6 moles of the second reactant"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Geography of Conflict: Resource Wars and Water Scarcity", summary:"Grade 9 Social Studies (Geography) strand: competition over limited resources, such as water, can contribute to regional tensions and conflict, particularly in areas facing scarcity or shared access challenges.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A resource war generally involves conflict over ___.", options:["Only cultural traditions, with no resource connection","A conflict with no identifiable cause","Access to or control of limited resources","A topic entirely unrelated to resources"], answer:2},
+     {q:"Water scarcity can contribute to regional tension particularly when ___.", options:["Scarcity has no connection to conflict","Water is equally abundant everywhere with no competing access","Multiple groups or countries share access to a limited water source","Only a single country ever depends on any water source"], answer:2},
+     {q:"Why might climate change increase the risk of resource-related conflicts?", options:["Climate change has no connection to resource availability","Changing conditions can further strain already limited resources like water and arable land","Resource-related conflict is entirely unrelated to environmental change","Climate change always increases resource availability everywhere"], answer:1},
+     {q:"Why is understanding resource-related conflict relevant to studying global geography?", options:["Resource distribution never affects political relationships","It highlights how geography and resource distribution can shape political relationships","Global geography never considers conflict or scarcity","This topic has no connection to geography"], answer:1},
+     {q:"Which strategy might help reduce the risk of conflict over shared water resources?", options:["Preventing all communication between affected parties","Resource conflicts can never be addressed through cooperation","Cooperative agreements on resource management between affected parties","Ignoring shared resource challenges entirely"], answer:2}
+   ]},
+]},
+{day:42, label:"Day 42 — Tue", subjects:[
+  {subject:"Language", title:"Writing: The Rhetorical Analysis Essay", summary:"Grade 9 Writing strand: a rhetorical analysis essay examines how a speaker or writer uses persuasive techniques, such as ethos, pathos, and logos, to achieve their purpose with a specific audience.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A rhetorical analysis essay examines ___.", options:["Only the literal content of a text with no analysis of technique","A completely unrelated topic","The exact page count of a text","How a speaker or writer uses persuasive techniques to achieve their purpose"], answer:3},
+     {q:"Which are the three classical rhetorical appeals often analyzed in this type of essay?", options:["Setting, plot, and character","Rhyme, rhythm, and meter","Subject, verb, and object","Ethos, pathos, and logos"], answer:3},
+     {q:"Why might a rhetorical analysis essay consider the intended audience of a text?", options:["The audience has no connection to how a text is written","Persuasive techniques are often chosen specifically to appeal to that audience","Rhetorical analysis never considers audience","All audiences respond identically to persuasive techniques"], answer:1},
+     {q:"A rhetorical analysis essay differs from a literary analysis essay in that it primarily focuses on ___.", options:["Exactly the same elements as a literary analysis essay","A topic with no connection to writing techniques","Persuasive strategy and technique rather than literary themes","Only the physical appearance of the text"], answer:2},
+     {q:"Why is analyzing rhetorical technique considered a valuable skill?", options:["This skill has no real-world application","Analyzing technique replaces the need to understand content","It helps readers understand how communication can be strategically shaped to persuade","Rhetorical technique has no connection to persuasion"], answer:2}
+   ]},
+  {subject:"Math", title:"Completing the Square", summary:"Grade 9 Algebra strand: completing the square is a method for rewriting a quadratic expression in a form that reveals its vertex, useful for solving equations or graphing parabolas.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Completing the square is a method used to ___.", options:["Solve for the perimeter of a shape","A method unrelated to quadratic expressions","Simplify a linear equation only","Rewrite a quadratic expression to reveal its vertex"], answer:3},
+     {q:"Completing the square can help with ___.", options:["Solving quadratic equations or graphing parabolas","A task unrelated to quadratics","Simplifying fractions only","Only measuring angles in a triangle"], answer:0},
+     {q:"The vertex form of a quadratic equation, revealed by completing the square, is useful for identifying the parabola’s ___.", options:["A value unrelated to the graph’s shape","Exact colour","Total perimeter","Minimum or maximum point"], answer:3},
+     {q:"Why might completing the square be a useful alternative to factoring for solving a quadratic equation?", options:["Completing the square never works for quadratic equations","This method only applies to linear equations","Factoring is always required before completing the square can be used","It works even when a quadratic expression cannot be factored using simple integers"], answer:3},
+     {q:"Why is understanding multiple methods for solving quadratics, like factoring and completing the square, useful?", options:["Only one method should ever be learned for solving quadratics","Multiple methods have no practical benefit","These methods are always identical in approach","Different methods may be more efficient depending on the specific equation"], answer:3}
+   ]},
+  {subject:"Science", title:"Momentum and Collisions", summary:"Grade 9 Science Physics strand: momentum is the product of an object’s mass and velocity, and the law of conservation of momentum states that total momentum remains constant in a closed system during a collision.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Momentum is calculated as ___.", options:["Mass plus velocity","Mass times velocity","Mass divided by velocity","Velocity alone, with no connection to mass"], answer:1},
+     {q:"The law of conservation of momentum states that total momentum in a closed system ___.", options:["Always increases without limit","Has no defined value","Remains constant","Always decreases to zero"], answer:2},
+     {q:"During a collision between two objects, momentum is generally ___.", options:["Transferred between the objects","Only relevant to one of the two objects involved","Unrelated to the objects’ mass or velocity","Instantly destroyed with no transfer"], answer:0},
+     {q:"Why might a heavier object require more force to stop than a lighter object moving at the same speed?", options:["Heavier objects always have less momentum than lighter ones","Momentum is unrelated to the force needed to stop an object","The heavier object has greater momentum due to its larger mass","Mass has no effect on an object’s momentum"], answer:2},
+     {q:"Why is understanding momentum useful in fields like vehicle safety design?", options:["Momentum has no connection to vehicle safety","It helps engineers understand and manage the forces involved in collisions","This concept has no real-world engineering applications","Collisions never involve any measurable momentum"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Geography of Pandemics and Global Health", summary:"Grade 9 Social Studies (Geography) strand: the spread of infectious diseases is influenced by geographic factors such as population density, travel networks, and access to healthcare, shaping global public health responses.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"The spread of infectious diseases can be influenced by geographic factors such as ___.", options:["Only the colour of local buildings","Population density and travel networks","A factor entirely unrelated to geography","Weather patterns exclusively, with no other influence"], answer:1},
+     {q:"Why might densely populated urban areas experience faster disease transmission?", options:["Closer and more frequent contact between people can make transmission easier","Population density has no connection to disease spread","Disease transmission is unrelated to human contact patterns","Urban areas are always less affected than rural areas"], answer:0},
+     {q:"Global travel networks can affect pandemics by ___.", options:["Enabling diseases to spread more quickly across regions and countries","Having no connection to how diseases spread","Always preventing the spread of disease entirely","Only affecting a single, isolated location"], answer:0},
+     {q:"Why might access to healthcare vary the impact of a pandemic across different regions?", options:["Healthcare access has no effect on pandemic outcomes","Regions with limited healthcare access may face greater challenges in treatment and containment","Pandemics affect every region in an identical way regardless of healthcare","All regions have identical access to healthcare resources"], answer:1},
+     {q:"Why is studying the geography of pandemics valuable for public health planning?", options:["Pandemic planning never considers geographic patterns","This topic has no connection to public health","Geographic factors have no influence on health outcomes","It helps identify patterns and vulnerabilities that can inform more effective responses"], answer:3}
+   ]},
+]},
+{day:43, label:"Day 43 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Verb Mood (Indicative, Imperative, Subjunctive)", summary:"Grade 9 Writing strand: verb mood indicates the speaker’s attitude toward a statement -- indicative for facts, imperative for commands, and subjunctive for wishes or hypotheticals.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"The indicative mood is used to express ___.", options:["Commands only","Facts or statements","Questions only","Wishes or hypotheticals only"], answer:1},
+     {q:"The imperative mood is used to express ___.", options:["Only hypothetical situations","Commands or requests","Only factual statements","Only questions"], answer:1},
+     {q:"The subjunctive mood is used to express ___.", options:["Only simple factual statements","Only past events","Wishes, hypotheticals, or conditions contrary to fact","Only commands"], answer:2},
+     {q:"Which sentence is written in the imperative mood?", options:["If the door were closed, it would be quiet.","The door is closed.","Is the door closed?","Close the door."], answer:3},
+     {q:"Why might understanding verb mood help a writer communicate more precisely?", options:["It clarifies whether a statement is a fact, command, or hypothetical situation","Precision in writing has no connection to verb mood","Verb mood has no effect on how a sentence is understood","All verb moods communicate the exact same meaning"], answer:0}
+   ]},
+  {subject:"Math", title:"Simplifying Rational Expressions", summary:"Grade 9 Algebra strand: a rational expression is a fraction with polynomials in the numerator and denominator, and simplifying it involves factoring and cancelling common factors.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"A rational expression is best described as ___.", options:["A fraction with polynomials in the numerator and denominator","A whole number with no fractions involved","An expression with no variables at all","A fraction that can never be simplified"], answer:0},
+     {q:"Simplifying a rational expression typically involves ___.", options:["Adding all terms together with no factoring","Ignoring the denominator entirely","Factoring and cancelling common factors","Multiplying the numerator by an unrelated number"], answer:2},
+     {q:"Simplify the rational expression (x squared minus 4) over (x minus 2).", options:["x squared minus 2","x + 2","4","x - 2"], answer:1},
+     {q:"Why is it important to identify restrictions (values that make the denominator zero) when simplifying rational expressions?", options:["Division by zero is undefined, so those values must be excluded from the domain","Simplifying never requires considering the denominator’s value","The denominator can always safely equal zero","Restrictions have no relevance to rational expressions"], answer:0},
+     {q:"Why might factoring be a necessary first step before simplifying a rational expression?", options:["It reveals common factors in the numerator and denominator that can be cancelled","Common factors are never present in these expressions","Factoring has no connection to simplifying rational expressions","Rational expressions can only be simplified without factoring"], answer:0}
+   ]},
+  {subject:"Science", title:"The Endocrine System and Homeostasis", summary:"Grade 9 Science Biology strand: the endocrine system releases hormones that help regulate the body’s internal balance, known as homeostasis, in response to internal and external changes.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Homeostasis refers to ___.", options:["Only external temperature, with no internal connection","The body’s internal balance","A process unrelated to the body’s internal environment","A complete lack of any bodily regulation"], answer:1},
+     {q:"The endocrine system helps maintain homeostasis by releasing ___.", options:["Hormones","Light signals","Only physical movement, with no chemical signals","Sound waves"], answer:0},
+     {q:"Why might the endocrine system respond to changes in the body’s external environment, like temperature?", options:["Homeostasis has no connection to hormonal signals","The endocrine system never responds to external changes","Hormonal signals can help the body adjust and maintain internal stability","External changes have no effect on the body’s internal balance"], answer:2},
+     {q:"Why is maintaining homeostasis important for an organism’s survival?", options:["The body functions identically regardless of internal balance","Homeostasis has no connection to an organism’s health","Maintaining internal balance serves no biological purpose","A stable internal environment supports proper functioning of body systems"], answer:3},
+     {q:"Which is an example of the endocrine system helping regulate the body?", options:["Only affecting external appearance, with no internal role","Preventing all forms of bodily regulation","A process entirely unrelated to hormone regulation","Releasing hormones that help control blood sugar levels"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Urban Sprawl and Its Environmental Costs", summary:"Grade 9 Social Studies (Geography) strand: urban sprawl is the rapid, spread-out expansion of a city into surrounding areas, often associated with increased land use, traffic congestion, and environmental impact.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Urban sprawl refers to ___.", options:["The rapid, spread-out expansion of a city into surrounding areas","The complete elimination of all urban development","A concept unrelated to city growth","A city that maintains a compact, unchanging size"], answer:0},
+     {q:"Urban sprawl is often associated with increased ___.", options:["A decrease in land use","Environmental protection with no development impact","No connection to transportation patterns","Land use and traffic congestion"], answer:3},
+     {q:"Why might urban sprawl contribute to greater reliance on cars for transportation?", options:["Sprawl has no connection to transportation patterns","Spread-out development can make walking or public transit less practical","Urban sprawl always increases walkability and reduces car use","Compact cities always require more car use than sprawling ones"], answer:1},
+     {q:"Which is a potential environmental cost associated with urban sprawl?", options:["No effect on the surrounding environment","A reduction in land use overall","Increased protection of natural habitats with no land development","Loss of natural habitat as land is developed"], answer:3},
+     {q:"Why might city planners consider alternatives to urban sprawl, such as denser development?", options:["Alternatives to sprawl provide no environmental or infrastructure benefits","Denser development can reduce environmental impact and support more efficient infrastructure use","Urban sprawl always has fewer environmental costs than denser development","Planning alternatives has no connection to environmental impact"], answer:1}
+   ]},
+]},
+{day:44, label:"Day 44 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Precision in Word Choice for Technical Writing", summary:"Grade 9 Language strand: technical writing requires precise, unambiguous word choice to clearly communicate specific information, avoiding vague or overly general language.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"Technical writing requires word choice that is ___.", options:["Precise and unambiguous","Vague and overly general","Entirely informal with no clarity required","Unrelated to the specific topic"], answer:0},
+     {q:"Why might vague language cause problems in technical writing, such as instructions?", options:["It can lead to confusion or errors when readers try to follow the information","Vague language always improves clarity in technical writing","Ambiguity has no effect on how instructions are understood","Technical writing never requires precise language"], answer:0},
+     {q:"Which is an example of precise technical language?", options:["Turn the dial a little bit","Adjust the dial as needed, with no specific detail","Turn the dial exactly 90 degrees clockwise","Turn the dial somewhat"], answer:2},
+     {q:"Why might a technical writer avoid using words with multiple possible meanings?", options:["Ambiguous words can create confusion about the intended, specific meaning","Words with multiple meanings always improve technical clarity","Multiple meanings have no effect on clarity in this context","Technical writing should always use complex, ambiguous vocabulary"], answer:0},
+     {q:"Why is precision in word choice especially important in fields like engineering or medicine?", options:["Vague language is always preferred in technical or medical writing","Word choice has no connection to safety or accuracy","Miscommunication in these fields can lead to serious errors or safety issues","Precision has no importance in these professional fields"], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Investment and Compound Growth", summary:"Grade 9 Financial Literacy strand: investing involves putting money into assets with the goal of growing wealth over time, often benefiting from compound growth, where returns are reinvested to generate further returns.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Investing generally involves ___.", options:["Spending money with no consideration of future growth","A concept unrelated to personal finance","Putting money into assets with the goal of growing wealth over time","Only saving money with no potential for growth"], answer:2},
+     {q:"Compound growth occurs when ___.", options:["Growth remains completely flat over time","Returns are never reinvested under any circumstances","Investment returns are reinvested to generate further returns","A concept unrelated to investing"], answer:2},
+     {q:"Why might starting to invest early provide a significant advantage over time?", options:["Compound growth allows returns to build on themselves over a longer period","Starting early has no effect on investment growth","Investment timing has no connection to overall growth","Compound growth only benefits investments made later in life"], answer:0},
+     {q:"Why is understanding investment risk important when making financial decisions?", options:["Investment risk should never be considered when investing","Risk has no connection to investment decisions","Different investments carry different levels of potential risk and reward","All investments carry identical risk with no variation"], answer:2},
+     {q:"Why might financial literacy about investing be valuable for young people?", options:["It helps them make informed decisions that can support long-term financial goals","Investing is only relevant to older individuals","Investment knowledge has no relevance to young people","Financial literacy has no connection to long-term planning"], answer:0}
+   ]},
+  {subject:"Science", title:"Cellular Respiration in Depth", summary:"Grade 9 Science Biology strand: cellular respiration breaks down glucose in the presence of oxygen to release usable energy for cells, producing carbon dioxide and water as byproducts.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Cellular respiration breaks down ___ to release usable energy.", options:["Water only","Glucose","Oxygen only","Carbon dioxide only"], answer:1},
+     {q:"Cellular respiration typically requires ___.", options:["Oxygen","No input substances at all","Only carbon dioxide, with no oxygen involved","Only sunlight, with no oxygen involved"], answer:0},
+     {q:"Which are byproducts of cellular respiration?", options:["Only sunlight, with no other byproducts","Oxygen and glucose","Carbon dioxide and water","Nitrogen and hydrogen"], answer:2},
+     {q:"Why is cellular respiration essential for most living cells?", options:["This process has no connection to cellular energy production","Cells never require energy to function","Cellular respiration has no role in providing energy","It provides the usable energy cells need to carry out their functions"], answer:3},
+     {q:"How is cellular respiration related to photosynthesis?", options:["Photosynthesis produces glucose and oxygen, which cellular respiration then uses","Only plants perform cellular respiration","Cellular respiration produces the glucose used in photosynthesis","The two processes have no connection to each other"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Geography of Renewable Resource Management: Forestry and Fisheries", summary:"Grade 9 Social Studies (Geography) strand: managing renewable resources like forests and fisheries sustainably requires balancing current use with the resource’s capacity to regenerate over time.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A renewable resource, such as a forest, can regenerate over time if it is ___.", options:["Managed sustainably","Unrelated to management practices","Used with no consideration of regeneration","Depleted completely with no management"], answer:0},
+     {q:"Sustainable fisheries management involves balancing ___.", options:["Current fishing activity with the fish population’s ability to reproduce and recover","Complete elimination of all fishing activity","A factor unrelated to fish populations","Unlimited fishing with no consideration of fish populations"], answer:0},
+     {q:"Why might overharvesting a renewable resource threaten its long-term availability?", options:["Overharvesting has no effect on a resource’s availability","Regeneration rates have no connection to resource management","Renewable resources can never be depleted under any circumstances","Resources can be depleted faster than they are able to regenerate"], answer:3},
+     {q:"Which is an example of a sustainable forestry practice?", options:["Harvesting with no consideration of future forest growth","Replanting trees after harvesting to support forest regeneration","Ignoring the long-term health of the forest ecosystem","Clear-cutting an entire forest with no plan for regeneration"], answer:1},
+     {q:"Why is geographic knowledge important for managing resources like forests and fisheries?", options:["This knowledge has no relevance to sustainability efforts","Geography has no connection to resource management","Resource management never depends on geographic factors","Understanding the specific geography and ecosystem helps inform effective, sustainable management"], answer:3}
+   ]},
+]},
+{day:45, label:"Day 45 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Non-Fiction Argument Structures", summary:"Grade 9 Reading strand: non-fiction arguments are often structured with a claim, supporting evidence, and reasoning that connects the evidence to the claim, and analyzing this structure helps evaluate an argument’s strength.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A non-fiction argument typically includes ___.", options:["Only a random collection of unrelated facts","A claim with no supporting evidence","No identifiable structure at all","A claim, supporting evidence, and reasoning"], answer:3},
+     {q:"Reasoning in an argument serves to ___.", options:["Connect the evidence to the claim being made","Replace the need for any evidence","Confuse the reader intentionally","Have no connection to the claim"], answer:0},
+     {q:"Why is analyzing an argument’s structure useful for evaluating its strength?", options:["Structure has no connection to how strong an argument is","This analysis has no value for readers","It helps readers assess whether the evidence and reasoning actually support the claim","All arguments are equally strong regardless of their structure"], answer:2},
+     {q:"Which is a sign of a well-supported argument?", options:["Evidence with no connection to the claim being made","A claim with no supporting evidence at all","Reasoning that contradicts the evidence provided","Evidence that is directly relevant and clearly connected to the claim"], answer:3},
+     {q:"Why might a reader question an argument that provides a claim with little supporting evidence?", options:["A claim without sufficient evidence may be less reliable or convincing","Claims never require any supporting evidence","Evidence has no connection to how convincing an argument is","Readers should accept all claims without question"], answer:0}
+   ]},
+  {subject:"Math", title:"Introduction to the Equation of a Circle", summary:"Grade 9 Analytic Geometry strand: the equation of a circle centred at the origin is x squared plus y squared equals r squared, where r represents the radius.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"The equation of a circle centred at the origin is ___.", options:["x plus y equals r","x squared minus y squared equals r","x times y equals r squared","x squared plus y squared equals r squared"], answer:3},
+     {q:"In the equation of a circle, r represents the ___.", options:["Radius","Circumference","Area","Diameter"], answer:0},
+     {q:"What is the equation of a circle centred at the origin with a radius of 5?", options:["x plus y equals 25","x squared plus y squared equals 5","x squared plus y squared equals 10","x squared plus y squared equals 25"], answer:3},
+     {q:"If a point (x, y) satisfies the equation x squared plus y squared equals 16, that point lies on a circle with a radius of ___.", options:["2","16","4","8"], answer:2},
+     {q:"Why is the equation of a circle considered a useful tool in analytic geometry?", options:["Circles cannot be represented using equations","This equation only applies to squares, not circles","It allows circles to be represented and analyzed algebraically on a coordinate plane","This equation has no practical use in geometry"], answer:2}
+   ]},
+  {subject:"Science", title:"Astronomy: Cosmology and the Big Bang Theory", summary:"Grade 9 Science Earth and Space Systems strand: the Big Bang theory describes the origin of the universe from an extremely hot, dense state that began expanding roughly 13.8 billion years ago.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"The Big Bang theory describes the origin of the universe as beginning from ___.", options:["A completely empty void with nothing present","A theory unrelated to the universe’s origin","A single planet expanding outward","An extremely hot, dense state"], answer:3},
+     {q:"According to current scientific estimates, the universe began expanding approximately ___ years ago.", options:["10,000","4.5 billion","100 million","13.8 billion"], answer:3},
+     {q:"Cosmology is best described as the scientific study of ___.", options:["Only the solar system, with no connection to the broader universe","A field unrelated to space science","Only Earth’s geological history","The origin, structure, and evolution of the universe"], answer:3},
+     {q:"Which type of evidence supports the Big Bang theory?", options:["A complete absence of any observable evidence","The observed expansion of the universe","Evidence unrelated to the universe’s origin","Evidence that the universe is not expanding at all"], answer:1},
+     {q:"Why is the Big Bang theory considered a foundational concept in cosmology?", options:["It provides a widely supported scientific explanation for the origin and expansion of the universe","Cosmology has no connection to the universe’s origin","This theory has no scientific support","The Big Bang theory has been proven entirely incorrect"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Arctic: Geopolitics and Climate Change", summary:"Grade 9 Social Studies (Geography) strand: the Arctic region is experiencing significant environmental change due to climate change, while also becoming an increasingly important area of geopolitical interest due to resources and shipping routes.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"The Arctic is experiencing significant environmental change primarily due to ___.", options:["No environmental changes of any kind","Climate change","A factor unrelated to climate","A process unrelated to the region’s geography"], answer:1},
+     {q:"The Arctic has become an area of increasing geopolitical interest partly due to ___.", options:["A complete lack of any valuable resources","Access to resources and shipping routes","No connection to international interest","A topic unrelated to geopolitics"], answer:1},
+     {q:"Why might melting Arctic ice increase interest in the region’s shipping routes?", options:["Reduced ice coverage can make new routes more accessible for navigation","Shipping interest has no connection to ice coverage","Melting ice has no effect on shipping routes","Ice melting always makes shipping routes less accessible"], answer:0},
+     {q:"Why is the Arctic considered particularly vulnerable to climate change?", options:["The Arctic has the slowest rate of warming globally","The region is experiencing warming at a faster rate than many other parts of the world","Climate change has no connection to polar regions","The Arctic is entirely unaffected by climate change"], answer:1},
+     {q:"Why might multiple countries have interest in Arctic geopolitics?", options:["No countries have any interest in the Arctic region","The Arctic has no connection to international relations","Several nations border or have claims related to Arctic territory and resources","Only a single country has any geographic connection to the Arctic"], answer:2}
+   ]},
+]},
+{day:46, label:"Day 46 — Mon", subjects:[
+  {subject:"Language", title:"Writing: The Editorial (Op-Ed)", summary:"Grade 9 Writing strand: an editorial, or op-ed, presents a writer’s opinion on a current issue, supported by reasoning and evidence, often intended to persuade or inform public opinion.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"An editorial is written to ___.", options:["Report only neutral facts with no opinion","Avoid discussing any current issues","Copy information without any analysis","Present the writer’s opinion on a current issue"], answer:3},
+     {q:"A strong editorial typically includes ___.", options:["Only the writer’s name and nothing else","No supporting evidence at all","Random, unrelated information","Reasoning and evidence to support the writer’s opinion"], answer:3},
+     {q:"Why might a writer choose to write an editorial about a current issue?", options:["To persuade or inform public opinion on a topic they care about","Editorials are always purely factual with no opinion involved","Editorials never discuss real or current issues","Writing an editorial serves no persuasive purpose"], answer:0},
+     {q:"Which is an example of a strong editorial opening?", options:["This is an article.","Our city urgently needs improved public transportation, and here is why.","This piece has no clear topic.","Some things happen sometimes."], answer:1},
+     {q:"Why is it useful for an editorial to consider opposing viewpoints?", options:["Addressing other perspectives can strengthen the credibility of the writer’s argument","Considering other viewpoints always weakens an editorial","Editorials should never mention any opposing views","This consideration has no effect on persuasive writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Two-Variable Statistics and Line of Best Fit", summary:"Grade 9 Data Management strand: a scatter plot displays the relationship between two variables, and a line of best fit approximates that relationship, helping to identify trends and make predictions.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"A scatter plot is used to display the relationship between ___.", options:["No variables at all","Only a single, isolated variable","Two variables","A concept unrelated to data"], answer:2},
+     {q:"A line of best fit is used to ___.", options:["Approximate the overall trend in a scatter plot’s data","Have no connection to the data shown","Replace the need for any data collection","Connect every single data point exactly"], answer:0},
+     {q:"If a scatter plot shows a line of best fit with a positive slope, this suggests ___.", options:["As one variable increases, the other tends to increase as well","The data is unrelated to the line of best fit","The two variables have no relationship at all","As one variable increases, the other tends to decrease"], answer:0},
+     {q:"Why might a line of best fit be useful for making predictions?", options:["Predictions can never be made using this line","A line of best fit only applies to past data with no predictive value","It has no use in predicting any future values","It provides a general model that can be used to estimate values beyond the collected data"], answer:3},
+     {q:"Why is it important to recognize that a line of best fit represents a general trend, not an exact match to every point?", options:["A line of best fit must always pass through every single data point exactly","General trends have no connection to individual data points","Individual data points can vary above or below the general trend line","Data points never vary from the line of best fit"], answer:2}
+   ]},
+  {subject:"Science", title:"Environmental Science: Invasive Species", summary:"Grade 9 Science Biology strand: an invasive species is a non-native organism introduced to a new environment where it can cause significant harm to local ecosystems, often by outcompeting native species.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"An invasive species is best described as ___.", options:["A species with no impact on its environment","A native species that has always lived in that ecosystem","An organism unrelated to any specific ecosystem","A non-native organism that causes harm in a new environment"], answer:3},
+     {q:"Invasive species often cause harm by ___.", options:["Always benefiting the native species in that ecosystem","Having no interaction with native species at all","Outcompeting native species for resources","Remaining completely isolated from the local ecosystem"], answer:2},
+     {q:"Why might an invasive species spread rapidly in a new environment?", options:["Spreading rapidly has no connection to a lack of natural predators","Invasive species never spread successfully in new environments","Invasive species always have more natural predators than native species","It may lack natural predators or competitors that would normally limit its population"], answer:3},
+     {q:"Which is an example of how an invasive species might be introduced to a new region?", options:["Invasive species can never be introduced to a new region","This introduction always occurs with no identifiable cause","Being accidentally transported through global trade or travel","Invasive species only appear through natural migration with no human involvement"], answer:2},
+     {q:"Why are invasive species considered a significant environmental concern?", options:["Native biodiversity is never affected by non-native species","Invasive species have no effect on local ecosystems","This topic has no connection to environmental science","They can disrupt local ecosystems and threaten native biodiversity"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Geography of Food Systems: From Farm to Table", summary:"Grade 9 Social Studies (Geography) strand: a food system involves the geographic network of growing, processing, transporting, and distributing food, connecting rural agricultural regions with urban consumers.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A food system involves the geographic network of ___.", options:["Growing, processing, transporting, and distributing food","A single unrelated activity with no connection to food","A concept unrelated to geography","Only food consumption, with no other stages considered"], answer:0},
+     {q:"Why might the distance food travels from farm to consumer be a relevant geographic consideration?", options:["Distance has no connection to food systems","Transportation has no effect on food quality or cost","Food never needs to travel any distance before reaching consumers","Transportation distance can affect cost, freshness, and environmental impact"], answer:3},
+     {q:"Which is an example of a factor that could disrupt a food system?", options:["A factor with no possible impact on food systems","A change unrelated to agriculture or transportation","A drought affecting a major agricultural region","Food systems are never affected by any external events"], answer:2},
+     {q:"Why is understanding food systems relevant to studying geography?", options:["It shows how geographic factors shape food production, distribution, and access","Geography never influences food production or distribution","Food systems have no connection to geographic study","This topic has no relevance to understanding global patterns"], answer:0},
+     {q:"Why might access to fresh, local food vary between different regions?", options:["Access to food is always identical in every region","Geography has no connection to food access","Food access is entirely unrelated to a region’s characteristics","Geographic factors like climate, infrastructure, and proximity to farms can all play a role"], answer:3}
+   ]},
+]},
+{day:47, label:"Day 47 — Tue", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Podcasts and Audio Storytelling", summary:"Grade 9 Media Literacy strand: podcasts use audio-specific techniques, such as tone of voice, sound effects, and pacing, to engage listeners and convey information or narrative in ways unique to the audio medium.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"Podcasts often use techniques such as ___ to engage listeners.", options:["No storytelling techniques at all","Only written text with no audio elements","Tone of voice, sound effects, and pacing","Visual elements exclusively, with no audio"], answer:2},
+     {q:"Why might tone of voice be an important consideration in a podcast?", options:["Podcasts never use vocal tone as a storytelling tool","It can convey emotion and emphasis that written text alone cannot always capture","Tone of voice has no effect on how a podcast is understood","Written text always conveys emotion more effectively than audio"], answer:1},
+     {q:"Sound effects in a podcast might be used to ___.", options:["Confuse the listener with no intended purpose","Enhance the listener’s sense of setting or atmosphere","Have no connection to a podcast’s content","Replace the need for any spoken narration"], answer:1},
+     {q:"Why is pacing an important consideration in audio storytelling?", options:["Pacing has no effect on a listener’s experience","It can affect how information is absorbed and how engaged the listener remains","Pacing only matters in visual media, not audio","All podcasts should be paced in exactly the same way"], answer:1},
+     {q:"Why might analyzing podcasts be considered a valuable media literacy skill?", options:["It helps listeners understand how audio-specific techniques shape meaning and persuasion","This skill has no real-world application","Audio storytelling has no connection to media literacy","Podcasts require no critical analysis of technique"], answer:0}
+   ]},
+  {subject:"Math", title:"Introduction to Cubic Functions", summary:"Grade 9 Algebra strand (non-linear relations): a cubic function, such as y equals x cubed, produces a curved graph distinct from both linear and quadratic relations, often with an S-shaped or inflected pattern.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"A cubic function includes a variable raised to the power of ___.", options:["One","Zero","Two","Three"], answer:3},
+     {q:"The graph of a basic cubic function, such as y equals x cubed, is often described as having a ___ shape.", options:["A perfect circle","Perfectly straight","S-shaped or inflected","A simple U-shape identical to a parabola"], answer:2},
+     {q:"How does a cubic function’s graph generally differ from a quadratic function’s graph?", options:["Quadratic functions always have more complex graphs than cubic functions","They are always identical in shape","A cubic function never produces a curved graph","A cubic graph can have a different curve pattern, including an inflection point, unlike a parabola"], answer:3},
+     {q:"What is the value of y when x equals 2 in the function y equals x cubed?", options:["2","4","6","8"], answer:3},
+     {q:"Why might cubic functions be used to model certain real-world situations?", options:["Cubic functions can never model any real-world situation","This type of function has no practical application","Some real-world relationships involve more complex curvature than linear or quadratic models can capture","All real-world relationships are always linear"], answer:2}
+   ]},
+  {subject:"Science", title:"Electromagnetism: Fields and Induction", summary:"Grade 9 Science Physics strand: electromagnetism describes the relationship between electricity and magnetism, including how a changing magnetic field can induce an electric current, a principle used in generators.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Electromagnetism describes the relationship between ___.", options:["Only sound and light, with no connection to electricity","Electricity and magnetism","Only heat, with no connection to magnetism","A concept unrelated to physics"], answer:1},
+     {q:"Electromagnetic induction occurs when ___.", options:["A changing magnetic field induces an electric current","A concept unrelated to magnetism or electricity","A magnetic field has no effect on electric current","Electric current always exists with no external cause"], answer:0},
+     {q:"Which technology relies on the principle of electromagnetic induction?", options:["A simple hand tool with no electrical components","An object with no connection to electricity or magnetism","A generator","A purely mechanical device with no electromagnetic components"], answer:2},
+     {q:"Why is electromagnetism considered an important concept in physics and engineering?", options:["Electromagnetism has no real-world applications","This concept has no connection to technology or engineering","Electricity and magnetism have no relationship to each other","It underlies many technologies that generate or use electricity"], answer:3},
+     {q:"Why might moving a magnet near a coil of wire generate an electric current?", options:["This process requires no connection between magnetism and electricity","The changing magnetic field induces a current in the wire","Magnets have no effect on electric currents in nearby wires","A stationary magnet would produce the exact same effect"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Space and Place: How Geography Shapes Identity", summary:"Grade 9 Social Studies (Geography) strand: the concept of space and place examines how physical location, environment, and community connections shape people’s sense of identity and belonging.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"The concept of place, in geography, often refers to ___.", options:["A concept unrelated to community or belonging","Only geographic coordinates, with no cultural significance","A specific location imbued with meaning and identity","A location with no connection to identity or meaning"], answer:2},
+     {q:"How might a person’s connection to a specific place shape their identity?", options:["Local traditions, community, and environment can influence values and a sense of belonging","A person’s sense of self is never shaped by their surroundings","Identity is entirely unrelated to geographic location","Place has no connection to a person’s identity"], answer:0},
+     {q:"Why might people feel a strong attachment to a particular region or community?", options:["Attachment to place never develops for any reason","Community connections have no relationship to a specific place","Geographic location has no emotional significance for people","Shared experiences, traditions, and relationships tied to that place can create meaningful connections"], answer:3},
+     {q:"Why is studying space and place considered relevant to human geography?", options:["Geography never influences cultural or personal identity","It helps explain how geographic context influences culture, identity, and community","Space and place are irrelevant to understanding communities","This concept has no connection to human geography"], answer:1},
+     {q:"Which is an example of how geography might shape a community’s identity?", options:["Geographic location never influencing local traditions","A community with no connection between its geography and its traditions","A coastal community’s traditions being closely tied to fishing and the ocean","Identity forming with no relationship to physical environment"], answer:2}
+   ]},
+]},
+{day:48, label:"Day 48 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Active Reading of Complex Syntax", summary:"Grade 9 Reading and Writing strands: complex syntax includes long or intricate sentence structures, and actively breaking these sentences into smaller parts helps readers accurately understand their meaning.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"Complex syntax refers to ___.", options:["Long or intricate sentence structures","Sentences containing no punctuation at all","Only very short, simple sentences","A concept unrelated to sentence structure"], answer:0},
+     {q:"Why might breaking a complex sentence into smaller parts help with comprehension?", options:["It can clarify the relationships between different ideas within the sentence","Breaking sentences apart always makes them harder to understand","Complex sentences never need to be broken down for comprehension","This strategy has no effect on reading comprehension"], answer:0},
+     {q:"Which is a strategy for actively reading a complex sentence?", options:["Skipping any sentence that seems complex","Reading only the first few words of a long sentence","Identifying the main subject and verb before analyzing additional clauses","Ignoring the sentence’s structure entirely"], answer:2},
+     {q:"Why might authors use complex syntax in their writing?", options:["Complex syntax is never used intentionally by authors","Complex sentences have no connection to nuanced ideas","To convey nuanced or interconnected ideas within a single sentence","This structure always makes writing less meaningful"], answer:2},
+     {q:"Why is understanding complex syntax an important skill for reading advanced texts?", options:["Advanced texts never use complex syntax","Many academic and literary texts rely on intricate sentence structures to convey meaning","Complex syntax only appears in overly simple texts","This skill has no connection to comprehending difficult texts"], answer:1}
+   ]},
+  {subject:"Math", title:"Introduction to Sets and Venn Diagrams (Advanced)", summary:"Grade 9 Number strand: a set is a collection of distinct objects, and a Venn diagram visually represents relationships between sets, such as intersections (shared elements) and unions (all elements combined).",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"A set is best described as ___.", options:["Always an empty collection with no elements","A single isolated number","A collection of distinct objects","A concept unrelated to mathematics"], answer:2},
+     {q:"The intersection of two sets includes ___.", options:["Every element from both sets combined, with no overlap consideration","Only the elements shared by both sets","Only elements found in neither set","No elements at all, by definition"], answer:1},
+     {q:"The union of two sets includes ___.", options:["All elements from both sets combined","Only elements shared by both sets","Only elements found in exactly one of the sets, never both","No elements at all"], answer:0},
+     {q:"A Venn diagram is used to ___.", options:["Calculate probability with no connection to sets","Measure the exact length of a line segment","Visually represent relationships between sets","A tool entirely unrelated to sets"], answer:2},
+     {q:"If Set A is {1, 2, 3} and Set B is {2, 3, 4}, what is the intersection of A and B?", options:["{1, 4}","An empty set","{2, 3}","{1, 2, 3, 4}"], answer:2}
+   ]},
+  {subject:"Science", title:"Organic Chemistry: An Introduction to Carbon Compounds", summary:"Grade 9 Science Chemistry strand: organic chemistry is the study of carbon-based compounds, which form the basis of many essential molecules found in living organisms, such as carbohydrates and proteins.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Organic chemistry is the study of compounds based primarily on ___.", options:["Oxygen only","Carbon","Helium","A concept unrelated to any specific element"], answer:1},
+     {q:"Carbon-based compounds form the basis of many molecules essential to ___.", options:["Nothing of scientific significance","Living organisms","A topic unrelated to biology or chemistry","Only non-living materials, with no connection to life"], answer:1},
+     {q:"Which is an example of a carbon-based molecule essential to living organisms?", options:["Pure water, with no carbon involved","Carbohydrates","A molecule with no connection to carbon","Pure oxygen gas"], answer:1},
+     {q:"Why is carbon particularly well-suited to forming a wide variety of complex molecules?", options:["This property has no connection to carbon’s chemical behaviour","Carbon cannot form bonds with other elements","Carbon is incapable of forming complex molecular structures","Carbon atoms can form multiple stable bonds with other atoms, including other carbon atoms"], answer:3},
+     {q:"Why is organic chemistry considered foundational to understanding biology?", options:["Many biological molecules and processes are based on carbon chemistry","This field of study has no relevance to living organisms","Organic chemistry has no connection to biological processes","Biology never involves any carbon-based compounds"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Geography of Technology and the Digital Divide", summary:"Grade 9 Social Studies (Geography) strand: the digital divide refers to unequal access to technology and the internet across different regions and populations, shaped by geographic, economic, and infrastructure factors.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"The digital divide refers to ___.", options:["A divide unrelated to geography or economics","Equal access to technology everywhere in the world","A concept unrelated to technology access","Unequal access to technology and the internet across regions and populations"], answer:3},
+     {q:"Which factor might contribute to the digital divide in a specific region?", options:["A factor entirely unrelated to infrastructure","Limited internet infrastructure in that area","Universal, equal access to technology everywhere","The digital divide has no connection to infrastructure"], answer:1},
+     {q:"Why might rural areas sometimes experience a more significant digital divide than urban areas?", options:["Rural areas always have identical internet access to urban areas","The digital divide only affects urban areas, never rural ones","Infrastructure development has no connection to population density","Building internet infrastructure can be more challenging and costly in less densely populated areas"], answer:3},
+     {q:"Why is the digital divide considered a significant geographic and social issue?", options:["Technology access has no connection to opportunity or education","Unequal access to technology can affect education, economic opportunity, and communication","The digital divide has no real-world consequences","This issue has no relevance to geographic study"], answer:1},
+     {q:"Which is an example of an effort to address the digital divide?", options:["An effort with no connection to improving access","Expanding internet infrastructure to underserved areas","Ignoring disparities in technology access entirely","Restricting technology access even further in underserved areas"], answer:1}
+   ]},
+]},
+{day:49, label:"Day 49 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Monologue", summary:"Grade 9 Writing strand: a monologue is an extended speech delivered by a single character, often revealing their inner thoughts, motivations, or emotional state to the audience.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A monologue is best described as ___.", options:["A summary of an entire play’s plot","A conversation between multiple characters","A written description of a setting only","An extended speech delivered by a single character"], answer:3},
+     {q:"A monologue often reveals a character’s ___.", options:["The setting of the story, with no connection to character","Physical appearance only, with no connection to thoughts or feelings","Inner thoughts, motivations, or emotional state","Name and age only"], answer:2},
+     {q:"Why might a playwright use a monologue at a key moment in a story?", options:["Monologues are only used to describe unrelated settings","This technique has no effect on audience understanding","To give the audience deeper insight into a character’s internal experience","Monologues never provide insight into a character"], answer:2},
+     {q:"Which is an example of a strong opening line for a monologue exploring regret?", options:["I keep thinking about that one moment I wish I could take back.","The weather today is quite pleasant.","A line with no emotional connection to the character.","This is a random, unrelated statement."], answer:0},
+     {q:"Why does writing an effective monologue require careful attention to voice and tone?", options:["Monologues should always sound identical regardless of character","This type of writing requires no consideration of character","The monologue should authentically reflect that specific character’s personality and emotional state","Voice and tone have no connection to writing a monologue"], answer:2}
+   ]},
+  {subject:"Math", title:"Precision, Accuracy, and Error in Measurement", summary:"Grade 9 Measurement strand: precision refers to how consistent repeated measurements are, accuracy refers to how close a measurement is to the true value, and error describes the difference between a measured and true value.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"Precision in measurement refers to ___.", options:["How consistent repeated measurements are with each other","A measurement with no connection to consistency","How close a measurement is to the true value","The exact colour of a measured object"], answer:0},
+     {q:"Accuracy in measurement refers to ___.", options:["A concept unrelated to true values","How consistent repeated measurements are with each other","How close a measurement is to the true value","Only the units used in a measurement"], answer:2},
+     {q:"It is possible for a set of measurements to be precise but not accurate if they are ___.", options:["Impossible to measure at all","Consistently close to each other but consistently far from the true value","Completely random with no consistency","Always exactly equal to the true value"], answer:1},
+     {q:"Measurement error describes ___.", options:["Only errors caused by faulty equipment, with no other causes","A concept unrelated to measurement","The difference between a measured value and the true value","A value that is always exactly zero"], answer:2},
+     {q:"Why is distinguishing between precision and accuracy important in scientific measurement?", options:["These two concepts are always identical in meaning","This distinction has no practical use in science","Precision and accuracy have no connection to scientific measurement","It helps scientists understand the reliability and validity of their data"], answer:3}
+   ]},
+  {subject:"Science", title:"Population Ecology: Growth Models", summary:"Grade 9 Science Biology strand: population ecology studies how populations change over time, using models such as exponential growth, which assumes unlimited resources, and logistic growth, which accounts for environmental limits.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Population ecology studies how ___ change over time.", options:["Only individual organisms, with no connection to populations","Only non-living systems","A concept unrelated to biology","Populations of organisms"], answer:3},
+     {q:"Exponential growth models assume ___.", options:["Resources are always extremely limited","Unlimited resources are available","No population growth occurs at all","A concept unrelated to population size"], answer:1},
+     {q:"Logistic growth models account for ___.", options:["Environmental limits on population growth","Unlimited resources with no environmental constraints","A concept unrelated to population ecology","Only exponential increases with no limiting factors"], answer:0},
+     {q:"Why might a population’s growth rate slow down as it approaches an environment’s carrying capacity?", options:["Resource availability has no connection to population size","Limited resources, such as food and space, can restrict further population growth","Populations always continue growing exponentially with no limits","Carrying capacity has no effect on population growth rate"], answer:1},
+     {q:"Why are population growth models useful in ecology?", options:["They help predict and understand how populations might change under different conditions","Population changes can never be predicted or modeled","This topic has no connection to understanding ecosystems","These models have no scientific value"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Regional Integration: Case Studies", summary:"Grade 9 Social Studies (Geography) strand: regional integration occurs when countries in a geographic area, such as through the European Union or ASEAN, cooperate closely on economic and political matters.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"Regional integration involves countries in a geographic area cooperating closely on ___.", options:["No shared matters of any kind","Only unrelated cultural traditions","A concept unrelated to international relationships","Economic and political matters"], answer:3},
+     {q:"Which is an example of a regional integration organization?", options:["An organization unrelated to regional cooperation","The European Union","A single, isolated country with no connections to others","A concept that has never actually existed"], answer:1},
+     {q:"Why might countries in a region choose to pursue closer economic integration?", options:["Countries never choose to cooperate on economic matters","It can create shared benefits like easier trade and coordinated economic policy","Economic integration always harms every member country involved","Regional integration provides no benefits to member countries"], answer:1},
+     {q:"Why is studying regional integration case studies valuable for understanding global geography?", options:["This topic has no relevance to understanding international relationships","It illustrates real-world examples of how countries cooperate across a shared region","Case studies provide no useful insight into global cooperation","Regional integration has no connection to geography"], answer:1},
+     {q:"Which is a potential challenge countries might face when pursuing regional integration?", options:["Countries never have differing interests within a region","Regional integration never presents any challenges","This process always proceeds with no complications","Balancing shared goals with individual national interests"], answer:3}
+   ]},
+]},
+{day:50, label:"Day 50 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Synthesizing Across a Text Set", summary:"Grade 9 Reading strand: a text set is a group of related texts on a common topic, and synthesizing across them involves combining ideas and evidence from each to form a broader, more complete understanding.",
+   resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   quiz:[
+     {q:"A text set is best described as ___.", options:["A concept unrelated to reading comprehension","A collection of completely unrelated texts","A group of related texts on a common topic","A single isolated text with no connection to others"], answer:2},
+     {q:"Synthesizing across a text set involves ___.", options:["Ignoring all texts in the set completely","Combining ideas and evidence from multiple texts into a broader understanding","Copying one text exactly with no analysis","Reading only one text and ignoring all others in the set"], answer:1},
+     {q:"Why might a teacher assign a text set on a single topic rather than just one text?", options:["It allows students to build a more complete understanding through multiple perspectives","A single text always provides a complete understanding of any topic","Text sets have no educational value","Multiple texts on the same topic never add any useful insight"], answer:0},
+     {q:"When synthesizing a text set, a reader should look for ___.", options:["Only identical information repeated in every text","Random, unrelated facts with no connections","Connections, agreements, and disagreements across the texts","Nothing related to the texts’ content"], answer:2},
+     {q:"Why is synthesizing across a text set considered an advanced literacy skill?", options:["Synthesizing has no connection to critical thinking","This skill requires no understanding of any individual text","It requires comparing, connecting, and combining ideas from multiple sources into a new understanding","It only involves reading a single sentence from one text"], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Quadratics, Rational Expressions, and Non-Linear Relations", summary:"Grade 9 Algebra strand review: this lesson revisits the quadratic formula, completing the square, simplifying rational expressions, the equation of a circle, and cubic functions from recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"The quadratic formula can be used to solve equations in the form ___.", options:["a plus b equals c","a divided by b equals c","ax plus b equals zero","ax squared plus bx plus c equals zero"], answer:3},
+     {q:"Completing the square is a method used to ___.", options:["Simplify a linear equation only","Rewrite a quadratic expression to reveal its vertex","A method unrelated to quadratic expressions","Solve for the perimeter of a shape"], answer:1},
+     {q:"The equation of a circle centred at the origin is ___.", options:["x times y equals r squared","x squared plus y squared equals r squared","x plus y equals r","x squared minus y squared equals r"], answer:1},
+     {q:"A cubic function includes a variable raised to the power of ___.", options:["Three","Zero","Two","One"], answer:0},
+     {q:"Why is it useful to review quadratics, rational expressions, and non-linear relations together?", options:["These topics have no connection to each other","Each topic must be learned in complete isolation","Review is never useful in math","These related math concepts reinforce each other for stronger overall understanding"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Chemistry, Physics, and Biology Concepts", summary:"Grade 9 Science review: this lesson revisits stoichiometry, momentum, cellular respiration, organic chemistry, and population ecology covered across recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   quiz:[
+     {q:"Stoichiometry uses mole ratios to calculate ___.", options:["The amounts of reactants and products in a reaction","The colour of a chemical reaction","A value unrelated to chemical reactions","The exact temperature of a reaction"], answer:0},
+     {q:"Momentum is calculated as ___.", options:["Mass times velocity","Mass plus velocity","Mass divided by velocity","Velocity alone, with no connection to mass"], answer:0},
+     {q:"Cellular respiration breaks down ___ to release usable energy.", options:["Carbon dioxide only","Glucose","Oxygen only","Water only"], answer:1},
+     {q:"Organic chemistry is the study of compounds based primarily on ___.", options:["Helium","A concept unrelated to any specific element","Carbon","Oxygen only"], answer:2},
+     {q:"Why is it valuable to review chemistry, physics, and biology concepts together?", options:["These topics are entirely unrelated to each other","It helps connect and reinforce related science concepts learned across recent lessons","Review provides no benefit in science","Each topic must always be studied in isolation"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Global Geography, Resources, and Regional Cooperation", summary:"Grade 9 Social Studies (Geography) review: this lesson revisits resource conflict, pandemic geography, the Arctic, food systems, the digital divide, and regional integration covered across recent lessons.",
+   resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   quiz:[
+     {q:"A resource war generally involves conflict over ___.", options:["Only cultural traditions, with no resource connection","Access to or control of limited resources","A topic entirely unrelated to resources","A conflict with no identifiable cause"], answer:1},
+     {q:"The Arctic has become an area of increasing geopolitical interest partly due to ___.", options:["No connection to international interest","A complete lack of any valuable resources","Access to resources and shipping routes","A topic unrelated to geopolitics"], answer:2},
+     {q:"A food system involves the geographic network of ___.", options:["A single unrelated activity with no connection to food","Growing, processing, transporting, and distributing food","Only food consumption, with no other stages considered","A concept unrelated to geography"], answer:1},
+     {q:"The digital divide refers to ___.", options:["A divide unrelated to geography or economics","A concept unrelated to technology access","Unequal access to technology and the internet across regions and populations","Equal access to technology everywhere in the world"], answer:2},
+     {q:"Why is it useful to review global geography, resources, and regional cooperation together?", options:["It helps reinforce how these interconnected issues shape global patterns and relationships","Review is never useful in social studies","Each topic must be studied with no connection to the others","These topics have no meaningful connections"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
