@@ -7306,5 +7306,4845 @@
         ]
       }
     ]
+  },
+  {
+    "day": 31,
+    "label": "Day 31 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Tone and Bias in Nonfiction",
+        "summary": "Ontario Grade 6 Reading strand: tone is the author’s attitude toward a topic, and analyzing tone alongside word choice can reveal bias in a nonfiction text.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Tone in a text refers to ___.",
+            "options": [
+              "The publisher’s name",
+              "The font style used",
+              "The page count of the text",
+              "The author’s attitude toward the topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word choice might suggest a critical tone toward a decision?",
+            "options": [
+              "Thoughtful",
+              "Careful",
+              "Reckless",
+              "Balanced"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Bias in a nonfiction text can often be detected through ___.",
+            "options": [
+              "A complete absence of any opinion",
+              "Word choice that favours one side of an issue",
+              "Neutral, balanced language only",
+              "The colour of the text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for readers to analyze tone when evaluating nonfiction?",
+            "options": [
+              "Analyzing tone replaces the need to read the whole text",
+              "Tone only matters in fiction",
+              "Tone has no connection to bias",
+              "It helps reveal the author’s perspective and potential bias"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of biased language in a news headline?",
+            "options": [
+              "Reckless politician pushes dangerous new policy",
+              "City council reviews proposed policy",
+              "Politician proposes new policy",
+              "New policy to be discussed next week"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ratio Tables and Scaling",
+        "summary": "Ontario Grade 6 Number strand: a ratio table shows equivalent ratios by scaling a ratio up or down, keeping the relationship between the two quantities consistent.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If a recipe uses a ratio of 2 cups flour to 1 cup sugar, how much sugar is needed for 6 cups of flour?",
+            "options": [
+              "3 cups",
+              "6 cups",
+              "2 cups",
+              "4 cups"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A ratio table shows ___.",
+            "options": [
+              "Equivalent ratios scaled up or down consistently",
+              "Unrelated random numbers",
+              "Data with no numeric relationship",
+              "Only one single ratio with no scaling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the ratio of red to blue marbles is 3 to 5, and there are 15 blue marbles, how many red marbles are there?",
+            "options": [
+              "12",
+              "9",
+              "6",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Scaling a ratio up means ___.",
+            "options": [
+              "Subtracting from both quantities",
+              "Multiplying only one quantity",
+              "Multiplying both quantities by the same number",
+              "Ignoring the original ratio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a ratio table shows 1:4, 2:8, 3:12, what is the next equivalent ratio?",
+            "options": [
+              "4:16",
+              "4:15",
+              "5:16",
+              "4:20"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Water Cycle and Its Impact on Climate",
+        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: the water cycle, including evaporation, condensation, and precipitation, moves water through the atmosphere and land, playing a key role in shaping regional climate.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Evaporation in the water cycle refers to ___.",
+            "options": [
+              "Water falling as precipitation",
+              "Water flowing underground only",
+              "Water freezing into ice",
+              "Water changing from a liquid into a gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Condensation in the water cycle refers to ___.",
+            "options": [
+              "Ice melting into liquid water",
+              "Water evaporating into the air",
+              "Water flowing into rivers",
+              "Water vapour changing into liquid water droplets"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Precipitation refers to water ___.",
+            "options": [
+              "Falling from the atmosphere as rain, snow, or hail",
+              "Disappearing completely",
+              "Evaporating into the atmosphere",
+              "Freezing permanently underground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the water cycle influence regional climate?",
+            "options": [
+              "It affects moisture levels and precipitation patterns in different regions",
+              "Climate is entirely unrelated to water movement",
+              "The water cycle only affects ocean temperature",
+              "The water cycle has no connection to climate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the water cycle considered a continuous process?",
+            "options": [
+              "Water only moves once and then stops permanently",
+              "Water constantly moves between the atmosphere, land, and oceans",
+              "Water disappears entirely after evaporating",
+              "The water cycle occurs only once a year"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Vikings and Early Norse Exploration",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Vikings were Norse seafarers from Scandinavia who explored, traded, and settled across parts of Europe and even reached North America around 1000 CE.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Vikings originated from which region?",
+            "options": [
+              "East Asia",
+              "South America",
+              "North Africa",
+              "Scandinavia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Vikings were known for their skill in ___.",
+            "options": [
+              "Building pyramids",
+              "Space travel",
+              "Seafaring and exploration",
+              "Desert farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Around 1000 CE, Norse explorers are believed to have reached ___.",
+            "options": [
+              "The Moon",
+              "North America",
+              "Antarctica",
+              "Australia"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In addition to exploration, Vikings were also known for ___.",
+            "options": [
+              "Trade across parts of Europe",
+              "Having no contact with other regions",
+              "Building only underground cities",
+              "Avoiding travel by sea entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is early Norse exploration significant to world history?",
+            "options": [
+              "Vikings never actually travelled anywhere",
+              "It had no historical significance",
+              "It represents some of the earliest known European contact with North America",
+              "It occurred after Columbus’s voyages"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "label": "Day 32 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Compare and Contrast Essay",
+        "summary": "Ontario Grade 6 Writing strand: a compare and contrast essay examines the similarities and differences between two subjects, often organized point-by-point or subject-by-subject.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A compare and contrast essay focuses on ___.",
+            "options": [
+              "Only the similarities between two subjects",
+              "A single subject only",
+              "The similarities and differences between two subjects",
+              "A completely unrelated topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "One way to organize a compare and contrast essay is ___.",
+            "options": [
+              "Only using bullet points with no essay structure",
+              "Point-by-point or subject-by-subject",
+              "By ignoring one of the two subjects",
+              "Randomly with no structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which transition word signals a contrast between ideas?",
+            "options": [
+              "Also",
+              "In addition",
+              "Similarly",
+              "However"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which transition word signals a similarity between ideas?",
+            "options": [
+              "Similarly",
+              "In contrast",
+              "But",
+              "On the other hand"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose the point-by-point structure for a compare and contrast essay?",
+            "options": [
+              "It removes the need for any comparison",
+              "It allows direct comparison of specific features between the two subjects",
+              "It ignores one of the subjects entirely",
+              "It has no organizational benefit"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Two-Step Equations",
+        "summary": "Ontario Grade 6 Algebra strand: a two-step equation requires two inverse operations to isolate the variable, typically undoing addition or subtraction first, then multiplication or division.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Solve for x: 2x + 3 = 11.",
+            "options": [
+              "x = 7",
+              "x = 14",
+              "x = 4",
+              "x = 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve for y: 3y minus 5 = 10.",
+            "options": [
+              "y = 3",
+              "y = 45",
+              "y = 5",
+              "y = 15"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When solving a two-step equation, which operation is typically undone first?",
+            "options": [
+              "Multiplication or division",
+              "Neither operation needs to be undone",
+              "It does not matter at all",
+              "Addition or subtraction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for n: 4n + 8 = 24.",
+            "options": [
+              "n = 6",
+              "n = 4",
+              "n = 16",
+              "n = 8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for m: 5m minus 2 = 18.",
+            "options": [
+              "m = 4",
+              "m = 16",
+              "m = 3.2",
+              "m = 20"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sustainable Technologies and Innovation",
+        "summary": "Ontario Grade 6 Science and Technology strand: sustainable technologies are designed to meet human needs while minimizing environmental impact, such as energy-efficient appliances, electric vehicles, and green building design.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Sustainable technology is designed to ___.",
+            "options": [
+              "Ignore environmental concerns entirely",
+              "Use only non-renewable resources",
+              "Maximize environmental harm",
+              "Meet human needs while minimizing environmental impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a sustainable technology?",
+            "options": [
+              "A machine designed to waste as much energy as possible",
+              "A technology banned for excessive pollution",
+              "A device with no consideration for resource use",
+              "An energy-efficient appliance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Green building design often focuses on ___.",
+            "options": [
+              "Ignoring energy efficiency entirely",
+              "Using only non-renewable materials",
+              "Increasing pollution and waste",
+              "Reducing energy use and environmental impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might engineers prioritize sustainable innovation?",
+            "options": [
+              "To help address environmental challenges while still meeting human needs",
+              "Sustainability has no connection to engineering",
+              "There is no benefit to sustainable technology",
+              "Sustainable design always increases environmental harm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be considered a sustainable transportation technology?",
+            "options": [
+              "An electric vehicle",
+              "A method that ignores fuel efficiency entirely",
+              "A technology with no consideration for emissions",
+              "None of these examples relate to sustainability"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Silk Road: Trade and Cultural Exchange",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Silk Road was a network of trade routes connecting Asia, the Middle East, and Europe, enabling the exchange of goods, ideas, and culture for centuries.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Silk Road primarily connected which regions?",
+            "options": [
+              "Asia, the Middle East, and Europe",
+              "Only Australia and Antarctica",
+              "A single isolated region with no connections",
+              "Only North America and South America"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Silk Road gets its name from ___.",
+            "options": [
+              "A single city named Silk",
+              "The trade of silk and other valuable goods",
+              "A modern highway system",
+              "A specific road built entirely of silk fabric"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Besides goods, the Silk Road also enabled the exchange of ___.",
+            "options": [
+              "Only currency",
+              "Only military weapons",
+              "Ideas and culture",
+              "Nothing beyond physical goods"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Silk Road considered historically significant?",
+            "options": [
+              "It only connected two small villages",
+              "It had no lasting historical impact",
+              "It connected distant civilizations and fostered widespread cultural and economic exchange",
+              "It prevented any contact between civilizations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might have been traded along the Silk Road?",
+            "options": [
+              "Only modern electronics",
+              "Silk, spices, and other goods",
+              "Only currency with no physical goods",
+              "Nothing of value"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "label": "Day 33 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallel Structure in Writing",
+        "summary": "Ontario Grade 6 Writing strand: parallel structure means using the same grammatical pattern for related items in a sentence, such as in a list, to create clarity and rhythm.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Parallel structure means ___.",
+            "options": [
+              "Avoiding lists in writing entirely",
+              "Using only single-word sentences",
+              "Using different grammatical patterns for related items",
+              "Using the same grammatical pattern for related items"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses correct parallel structure?",
+            "options": [
+              "She likes running, swimming, and to bike.",
+              "She likes running, to swim, and biking.",
+              "She likes running, swimming, and biking.",
+              "She likes to run, swimming, and biking."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is parallel structure important in writing?",
+            "options": [
+              "Parallel structure has no effect on writing quality",
+              "It makes sentences more confusing",
+              "It creates clarity and a smoother rhythm in sentences",
+              "It should always be avoided in lists"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence lacks parallel structure?",
+            "options": [
+              "He enjoys reading, writing, and painting each day.",
+              "He enjoys to read, writing, and painting.",
+              "Reading, writing, and painting are his hobbies.",
+              "He enjoys reading, writing, and painting."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parallel structure is especially useful when writing ___.",
+            "options": [
+              "A single isolated word",
+              "A list of related items or actions",
+              "A sentence with no verbs",
+              "Random unrelated ideas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Surface Area of Rectangular Prisms",
+        "summary": "Ontario Grade 6 Geometry strand: the surface area of a rectangular prism is found by calculating the area of all six faces and adding them together.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The surface area of a 3D shape refers to ___.",
+            "options": [
+              "Only the area of one face",
+              "The total area of all its outer faces",
+              "The shape’s weight",
+              "The space inside the shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rectangular prism has how many faces?",
+            "options": [
+              "4",
+              "8",
+              "12",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a rectangular prism’s six faces have areas of 20, 20, 15, 15, 12, and 12 square units, what is its total surface area?",
+            "options": [
+              "47 square units",
+              "94 square units",
+              "74 square units",
+              "82 square units"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Surface area is measured in ___ units.",
+            "options": [
+              "Linear",
+              "Square",
+              "Cubic",
+              "Degree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it be useful to calculate the surface area of a box, such as when wrapping a gift?",
+            "options": [
+              "It helps determine how much wrapping material is needed to cover it",
+              "Surface area has no practical use",
+              "Surface area only matters for spheres",
+              "It tells you how much the box weighs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Cells: The Building Blocks of Life",
+        "summary": "Ontario Grade 6 Science Life Systems strand: cells are the basic structural and functional units of all living things, and organisms can be made of a single cell or trillions of cells working together.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Cells are considered the ___.",
+            "options": [
+              "Non-living materials",
+              "Largest structures in the universe",
+              "Basic structural and functional units of all living things",
+              "Only found in plants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An organism made up of only one cell is called ___.",
+            "options": [
+              "Unicellular",
+              "Non-living",
+              "Multicellular",
+              "Inorganic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Human beings are made up of ___.",
+            "options": [
+              "A single cell only",
+              "Exactly one hundred cells",
+              "Trillions of cells working together",
+              "No cells at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are cells considered essential to understanding living things?",
+            "options": [
+              "Only some living things are made of cells",
+              "All living organisms are built from and function through cells",
+              "Cells are found only in non-living matter",
+              "Cells have no connection to living organisms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a unicellular organism?",
+            "options": [
+              "A human being",
+              "An elephant",
+              "A tree",
+              "Bacteria"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Islamic Golden Age",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Islamic Golden Age was a period of significant advances in science, medicine, mathematics, and culture across the Islamic world, roughly from the 8th to 14th centuries.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Islamic Golden Age is associated with major advances in fields such as ___.",
+            "options": [
+              "Only military conquest",
+              "Science, medicine, and mathematics",
+              "Only architecture with no other achievements",
+              "Nothing of lasting significance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Roughly during which centuries did the Islamic Golden Age take place?",
+            "options": [
+              "18th to 20th centuries",
+              "1st to 3rd centuries",
+              "It never took place",
+              "8th to 14th centuries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Scholars during the Islamic Golden Age made contributions that influenced ___.",
+            "options": [
+              "Only local, isolated communities",
+              "No other regions or time periods",
+              "Later scientific and mathematical developments worldwide",
+              "Nothing related to science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Islamic Golden Age considered an important period in world history?",
+            "options": [
+              "It produced lasting achievements in science, medicine, and scholarship",
+              "It had no lasting impact on world history",
+              "It involved no scholarly or scientific work",
+              "It occurred entirely in modern times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Centres of learning during the Islamic Golden Age often focused on preserving and expanding knowledge in ___.",
+            "options": [
+              "Only sports",
+              "Multiple fields, including mathematics and astronomy",
+              "Only entertainment",
+              "No academic fields at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "label": "Day 34 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Word Origins and Etymology",
+        "summary": "Ontario Grade 6 Language strand: many English words originate from Latin, Greek, French, or other languages, and understanding a word’s etymology can help clarify its meaning and spelling.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Etymology is the study of ___.",
+            "options": [
+              "A word’s length only",
+              "A word’s origin and history",
+              "A word’s font style",
+              "How to pronounce a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many English words have roots in which languages?",
+            "options": [
+              "Latin, Greek, and French",
+              "Only invented, fictional languages",
+              "Only modern English",
+              "No other languages at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Understanding a word’s etymology can help readers ___.",
+            "options": [
+              "Ignore the word entirely",
+              "Change the word’s actual meaning randomly",
+              "Make the word harder to understand",
+              "Clarify its meaning and spelling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The word aquarium comes from the Latin root aqua, meaning ___.",
+            "options": [
+              "Earth",
+              "Fire",
+              "Water",
+              "Air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might studying etymology help build a stronger vocabulary?",
+            "options": [
+              "Word origins are unrelated to word meaning",
+              "Etymology only applies to very short words",
+              "Recognizing common roots helps decode the meaning of unfamiliar words",
+              "Etymology has no connection to vocabulary building"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Circles: Circumference and Area",
+        "summary": "Ontario Grade 6 Geometry strand: the circumference of a circle is found using pi times the diameter, while the area is found using pi times the radius squared.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the circumference of a circle is ___.",
+            "options": [
+              "Pi times the radius squared",
+              "Radius times height",
+              "Diameter divided by pi",
+              "Pi times the diameter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The formula for the area of a circle is ___.",
+            "options": [
+              "Pi times the diameter",
+              "Pi times the radius squared",
+              "Two times pi times radius",
+              "Radius times diameter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a circle has a radius of 4 cm, which formula would you use to find its area?",
+            "options": [
+              "4 times 4",
+              "Pi times 4",
+              "Pi times 8",
+              "Pi times 4 squared"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The value of pi is approximately ___.",
+            "options": [
+              "3.14",
+              "4.13",
+              "2.71",
+              "1.14"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a circle’s diameter is 10 cm, what expression represents its circumference?",
+            "options": [
+              "Pi times 10",
+              "10 divided by pi",
+              "Pi times 5 squared",
+              "Pi times 20"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Microorganisms: Bacteria, Viruses, and Fungi",
+        "summary": "Ontario Grade 6 Science Life Systems strand: microorganisms, including bacteria, viruses, and fungi, are tiny living or non-living particles that can be helpful, such as in digestion, or harmful, such as causing illness.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is classified as a microorganism?",
+            "options": [
+              "A large tree",
+              "A whale",
+              "An elephant",
+              "Bacteria"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Some bacteria can be helpful to humans by ___.",
+            "options": [
+              "Aiding in digestion",
+              "Having no role in the human body",
+              "Always causing severe illness with no exceptions",
+              "Destroying all food sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Viruses differ from bacteria in that viruses ___.",
+            "options": [
+              "Are generally not considered fully living on their own and need a host to reproduce",
+              "Are always larger than bacteria",
+              "Are visible without a microscope",
+              "Can never cause illness"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Fungi, such as mushrooms and mould, can play a role in ___.",
+            "options": [
+              "Only causing harm with no other roles",
+              "Producing electricity",
+              "Preventing all decomposition",
+              "Breaking down dead organic material"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are microorganisms studied in science, despite being too small to see with the naked eye?",
+            "options": [
+              "They are not considered part of biology",
+              "Studying microorganisms serves no purpose",
+              "Microorganisms have no impact on living things",
+              "They play significant roles in health, ecosystems, and disease"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Feudal Japan: Samurai and Shogunate",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: feudal Japan was organized around a strict social hierarchy, with a shogun holding military power and samurai warriors serving as loyal, skilled fighters bound by a code of honour.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In feudal Japan, the shogun held ___.",
+            "options": [
+              "No connection to government",
+              "Only religious authority",
+              "Significant military power",
+              "No power at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Samurai were known as ___.",
+            "options": [
+              "Skilled warriors bound by a code of honour",
+              "Government officials with no military training",
+              "Foreign traders",
+              "Farmers with no military role"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Feudal Japan was organized around a ___.",
+            "options": [
+              "Strict social hierarchy",
+              "A system with no leaders",
+              "Complete lack of social structure",
+              "A structure identical to modern Japan"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The samurai code of honour emphasized values such as ___.",
+            "options": [
+              "Avoiding all responsibility",
+              "Dishonesty and disorder",
+              "Loyalty and discipline",
+              "Ignoring any code of conduct"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is feudal Japan studied as part of world history?",
+            "options": [
+              "It has no historical significance",
+              "It is identical to feudal systems everywhere else",
+              "Feudal Japan never actually existed",
+              "It offers insight into a distinct social and political system that shaped Japanese history"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "label": "Day 35 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Annotating and Active Reading Strategies",
+        "summary": "Ontario Grade 6 Reading strand: active reading strategies, such as annotating a text with notes, questions, and highlights, help readers stay engaged and better understand and remember what they read.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Annotating a text involves ___.",
+            "options": [
+              "Reading without any interaction with the text",
+              "Ignoring the text completely",
+              "Adding notes, questions, or highlights while reading",
+              "Skipping directly to the last page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Active reading strategies are designed to help readers ___.",
+            "options": [
+              "Stay engaged and better understand the text",
+              "Read as quickly as possible with no comprehension",
+              "Forget the content immediately after reading",
+              "Avoid thinking about the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of an active reading strategy?",
+            "options": [
+              "Reading with no attention to the content",
+              "Skipping the entire text",
+              "Underlining key ideas and writing questions in the margins",
+              "Reading only the cover of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reader pause to ask questions while reading a challenging text?",
+            "options": [
+              "Pausing always disrupts understanding",
+              "Questions should only be asked after finishing the entire book",
+              "Questions have no value while reading",
+              "To check their understanding and clarify confusing parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Annotating can help readers later ___.",
+            "options": [
+              "Forget the content of what they read",
+              "Make the text impossible to understand",
+              "Quickly locate important information when reviewing the text",
+              "Avoid returning to the text at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Constructing Circle Graphs",
+        "summary": "Ontario Grade 6 Data Management strand: constructing a circle graph involves calculating what percentage each category represents of the whole data set, then dividing the circle into matching proportional sections.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To construct a circle graph, you first need to calculate each category’s ___.",
+            "options": [
+              "Percentage of the total data set",
+              "Alphabetical order",
+              "Distance from the centre",
+              "Exact colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a category makes up 25 percent of the data, its slice of the circle graph should represent ___.",
+            "options": [
+              "100 percent of the full circle",
+              "10 percent of the full circle",
+              "25 percent of the full circle",
+              "50 percent of the full circle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A full circle graph represents ___ percent of the total data.",
+            "options": [
+              "50",
+              "75",
+              "200",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a circle graph be a good choice for showing survey results?",
+            "options": [
+              "They only work with negative numbers",
+              "It visually shows how each response compares to the whole",
+              "Circle graphs cannot represent percentages",
+              "Circle graphs are never useful for surveys"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two categories in a data set are equal in size, their slices on the circle graph should be ___.",
+            "options": [
+              "Different sizes",
+              "One larger than 100 percent",
+              "The same size",
+              "Impossible to draw"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Natural Disasters: Earthquakes and Volcanoes",
+        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: earthquakes and volcanoes are natural events often caused by the movement of tectonic plates, and understanding their causes helps communities prepare and stay safe.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earthquakes are often caused by ___.",
+            "options": [
+              "Changes in the weather only",
+              "The movement of tectonic plates",
+              "Nothing related to Earth’s structure",
+              "Ocean tides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A volcano erupts when ___.",
+            "options": [
+              "Tectonic plates disappear entirely",
+              "Magma and gases are released from beneath Earth’s surface",
+              "No pressure builds up inside Earth",
+              "It only produces cold water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Areas along tectonic plate boundaries often experience more ___.",
+            "options": [
+              "Stability with no natural events",
+              "No connection to geological activity",
+              "Earthquake and volcanic activity",
+              "Only mild weather changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for communities in earthquake-prone areas to prepare in advance?",
+            "options": [
+              "Preparation can help reduce risk to people and property when an earthquake occurs",
+              "Preparation has no benefit for earthquake safety",
+              "Earthquakes never cause any damage",
+              "Communities cannot take any useful precautions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Scientists who study earthquakes are called ___.",
+            "options": [
+              "Botanists",
+              "Astronomers",
+              "Meteorologists",
+              "Seismologists"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Cold War: Origins and Key Events",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Cold War was a long period of political tension after World War II, mainly between the United States and the Soviet Union, involving competition without direct large-scale warfare between the two powers.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Cold War took place mainly after which major global conflict?",
+            "options": [
+              "World War II",
+              "The American Revolution",
+              "World War I",
+              "The War of 1812"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Cold War was primarily a period of tension between the United States and ___.",
+            "options": [
+              "Japan",
+              "Canada",
+              "The Soviet Union",
+              "France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Unlike many other wars, the Cold War did not involve ___.",
+            "options": [
+              "Direct large-scale warfare between the two main powers",
+              "Competition between countries",
+              "Political tension",
+              "Any historical significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Cold War considered an important period in 20th-century history?",
+            "options": [
+              "It occurred before World War I",
+              "It involved no international tension at all",
+              "It shaped global politics and international relationships for decades",
+              "It had no lasting effect on world history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The term Cold War reflects the idea that the conflict was mostly ___.",
+            "options": [
+              "A conflict that never actually happened",
+              "Fought through direct military battles only",
+              "Entirely unrelated to politics",
+              "Political and indirect, rather than direct warfare between the major powers"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "label": "Day 36 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Crafting a Strong Thesis Statement",
+        "summary": "Ontario Grade 6 Writing strand: a thesis statement clearly presents the main argument or focus of an essay, usually appearing near the end of the introduction, and guides the structure of the entire piece.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A thesis statement is best described as ___.",
+            "options": [
+              "The very last sentence of the conclusion only",
+              "A statement that presents the main argument or focus of an essay",
+              "A list of unrelated topics",
+              "A random unrelated fact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A thesis statement typically appears ___.",
+            "options": [
+              "At the very end of the essay only",
+              "Near the end of the introduction",
+              "Nowhere in a well-organized essay",
+              "In the middle of a random body paragraph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a strong thesis statement important?",
+            "options": [
+              "A thesis statement should always be vague and unclear",
+              "It guides the structure and focus of the entire essay",
+              "It has no connection to the rest of the essay",
+              "It replaces the need for any supporting evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a strong, specific thesis statement?",
+            "options": [
+              "Some people like recess.",
+              "This essay is about school.",
+              "Recess should be extended because it improves student focus and physical health.",
+              "Recess is a thing that happens at school."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A weak thesis statement is often ___.",
+            "options": [
+              "Extremely specific and well-supported",
+              "Always placed in the conclusion",
+              "Unnecessary for any essay",
+              "Too vague or broad to guide the essay effectively"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Budgets and Percent Discounts",
+        "summary": "Ontario Grade 6 Financial Literacy strand: a budget tracks income and expenses, and percent discounts reduce an item’s price by a specific percentage, useful for comparing sale prices and managing spending.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A budget helps track ___.",
+            "options": [
+              "Only savings with no other categories",
+              "Nothing related to money",
+              "Only expenses, never income",
+              "Income and expenses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an item originally costs $80 and is 25 percent off, what is the discount amount?",
+            "options": [
+              "$20",
+              "$10",
+              "$60",
+              "$25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an item originally costs $80 and is 25 percent off, what is the final sale price?",
+            "options": [
+              "$65",
+              "$20",
+              "$55",
+              "$60"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to calculate percent discounts before making a purchase?",
+            "options": [
+              "It helps determine the actual amount you will pay and compare deals",
+              "Discounts are always irrelevant to shopping decisions",
+              "Percent discounts have no effect on the final price",
+              "Calculating discounts wastes time with no benefit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a $50 item is discounted by 10 percent, what is the new price?",
+            "options": [
+              "$55",
+              "$45",
+              "$5",
+              "$40"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics and Heredity: Introduction",
+        "summary": "Ontario Grade 6 Science Life Systems strand: heredity is the passing of traits from parents to offspring through genes, which are segments of DNA that carry instructions for an organism’s characteristics.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Heredity refers to ___.",
+            "options": [
+              "The passing of traits from parents to offspring",
+              "A process unrelated to living things",
+              "A type of rock formation",
+              "A type of weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Genes are best described as ___.",
+            "options": [
+              "A part of the digestive system",
+              "A type of chemical unrelated to biology",
+              "A type of cell found only in plants",
+              "Segments of DNA that carry instructions for traits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Offspring often inherit traits from ___.",
+            "options": [
+              "No one at all",
+              "Only their environment, with no genetic influence",
+              "A completely random, unrelated source",
+              "Their parents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of an inherited trait?",
+            "options": [
+              "A scar from an injury",
+              "A haircut style",
+              "A learned skill like playing an instrument",
+              "Eye colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding heredity useful in science?",
+            "options": [
+              "Heredity only applies to plants, never animals",
+              "It helps explain how traits are passed between generations",
+              "Understanding heredity serves no scientific purpose",
+              "Heredity has no connection to biology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The United Nations and International Cooperation",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: the United Nations is an international organization formed after World War II to promote peace, cooperation, and human rights among countries around the world.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The United Nations was formed after which major event?",
+            "options": [
+              "World War I",
+              "World War II",
+              "The Renaissance",
+              "The Cold War began"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "One of the main goals of the United Nations is to promote ___.",
+            "options": [
+              "The end of all international organizations",
+              "Isolation of all countries from each other",
+              "Peace and cooperation among nations",
+              "Conflict between countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The United Nations includes member countries from ___.",
+            "options": [
+              "Around the world",
+              "No countries at all",
+              "Only North America",
+              "Only Europe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might countries choose to work together through an organization like the United Nations?",
+            "options": [
+              "International organizations have no real function",
+              "Cooperation between countries serves no purpose",
+              "Countries are never able to work together",
+              "To address global challenges more effectively through cooperation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of an issue the United Nations might address?",
+            "options": [
+              "Only issues unrelated to international relations",
+              "International peace and human rights",
+              "No global issues at all",
+              "Only issues within a single country"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "label": "Day 37 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Deconstructing Social Media Messages",
+        "summary": "Ontario Grade 6 Media Literacy strand: deconstructing a social media message means identifying its purpose, intended audience, and the techniques used to grab attention or persuade, such as headlines or images.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Deconstructing a media message involves ___.",
+            "options": [
+              "Accepting all information without question",
+              "Ignoring the message entirely",
+              "Avoiding all analysis of the message",
+              "Identifying its purpose, audience, and persuasive techniques"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a technique social media posts might use to grab attention?",
+            "options": [
+              "A bold headline or striking image",
+              "Ignoring the audience entirely",
+              "Completely plain, unformatted text with no visuals",
+              "Avoiding any visual elements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to identify the purpose behind a social media message?",
+            "options": [
+              "All social media messages have no clear purpose",
+              "Identifying purpose is not a useful skill",
+              "It helps viewers understand what the creator wants them to think, feel, or do",
+              "Purpose has no connection to how a message is created"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Considering the intended audience of a message can help you understand ___.",
+            "options": [
+              "Nothing useful about the message",
+              "Why certain content or language choices were used",
+              "Only the exact time it was posted",
+              "The message’s file size"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which question is useful when critically evaluating a social media post?",
+            "options": [
+              "What font is being used?",
+              "Who created this, and why?",
+              "What time zone was it posted in?",
+              "How many emojis are included?"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Coordinate Geometry: Plotting and Interpreting Points",
+        "summary": "Ontario Grade 6 Geometry strand: plotting and interpreting points on a coordinate grid involves using ordered pairs to locate positions and analyze relationships, such as distances between points on the same horizontal or vertical line.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To plot the point (5, 2), you move ___.",
+            "options": [
+              "2 units up, 5 units left",
+              "2 units across, 5 units down",
+              "5 units across, 2 units up",
+              "5 units up, 2 units across"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two points with the same y-coordinate lie on the same ___ line.",
+            "options": [
+              "Vertical",
+              "Curved",
+              "Horizontal",
+              "Diagonal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the distance between the points (2, 3) and (7, 3)?",
+            "options": [
+              "3 units",
+              "7 units",
+              "5 units",
+              "10 units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two points with the same x-coordinate lie on the same ___ line.",
+            "options": [
+              "Diagonal",
+              "Horizontal",
+              "Vertical",
+              "Curved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An ordered pair like (4, 6) is written in the order ___.",
+            "options": [
+              "Random order",
+              "(y, x)",
+              "Alphabetical order",
+              "(x, y)"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemical Reactions in Everyday Life",
+        "summary": "Ontario Grade 6 Science Matter and Energy strand: chemical reactions occur regularly in everyday life, such as cooking, digestion, and rusting, producing new substances with properties different from the original materials.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which everyday activity involves a chemical reaction?",
+            "options": [
+              "Folding a piece of paper",
+              "Cutting a piece of string",
+              "Stacking blocks",
+              "Cooking an egg"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rusting is an example of a chemical reaction between metal and ___.",
+            "options": [
+              "Oxygen and moisture",
+              "Sunlight only",
+              "Sound waves",
+              "Cold temperatures alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Digestion involves chemical reactions that help the body ___.",
+            "options": [
+              "Prevent any nutrients from being absorbed",
+              "Avoid processing food entirely",
+              "Only physically chop food with no chemical process",
+              "Break down food into usable nutrients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A chemical reaction produces substances with properties that are ___ the original materials.",
+            "options": [
+              "Different from",
+              "Identical to",
+              "Impossible to observe",
+              "Unrelated to any material properties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to recognize chemical reactions in daily life?",
+            "options": [
+              "It helps explain many common processes we observe and rely on",
+              "Chemical reactions only happen in laboratories",
+              "Recognizing reactions serves no practical purpose",
+              "Chemical reactions never occur in daily life"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Human Rights: The Universal Declaration",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: the Universal Declaration of Human Rights, adopted by the United Nations in 1948, outlines fundamental rights and freedoms believed to belong to all people.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Universal Declaration of Human Rights was adopted in which year?",
+            "options": [
+              "1948",
+              "1982",
+              "1918",
+              "2000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Universal Declaration of Human Rights was adopted by ___.",
+            "options": [
+              "The United Nations",
+              "No formal organization",
+              "A private company",
+              "A single country acting alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The document outlines rights and freedoms believed to belong to ___.",
+            "options": [
+              "Only citizens of one country",
+              "All people",
+              "No one in particular",
+              "Only government officials"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Universal Declaration of Human Rights considered historically significant?",
+            "options": [
+              "It established a shared international standard for basic human rights",
+              "It was created before the United Nations existed",
+              "It applies to no countries at all",
+              "It has no connection to international law or standards"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a right commonly recognized under human rights frameworks?",
+            "options": [
+              "Freedom of expression",
+              "The right to harm others without consequence",
+              "The right to ignore all laws",
+              "No rights are recognized internationally"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "label": "Day 38 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Semicolons and Colons",
+        "summary": "Ontario Grade 6 Writing strand: a semicolon can join two closely related independent clauses, while a colon introduces a list, explanation, or example following a complete sentence.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A semicolon can be used to ___.",
+            "options": [
+              "Begin every sentence",
+              "Replace all commas in a sentence",
+              "Join two closely related independent clauses",
+              "End a sentence permanently"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A colon is often used to ___.",
+            "options": [
+              "Begin a sentence",
+              "Introduce a list or explanation after a complete sentence",
+              "Replace a period at random points",
+              "Separate unrelated ideas with no connection"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "I love; reading it helps me relax.",
+              "I love reading; it, helps me relax.",
+              "I love reading; it helps me relax.",
+              "I love reading, it helps me relax;"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a colon?",
+            "options": [
+              "I need three things, pencils: paper, and erasers.",
+              "I need: three things pencils, paper, and erasers.",
+              "I need three things pencils, paper: and erasers.",
+              "I need three things: pencils, paper, and erasers."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose a semicolon instead of starting a new sentence?",
+            "options": [
+              "To make two unrelated ideas seem connected",
+              "Semicolons should always be avoided",
+              "To show a close relationship between two related ideas",
+              "Semicolons have no specific grammatical purpose"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Divisibility Rules and Prime Factorization",
+        "summary": "Ontario Grade 6 Number strand: divisibility rules help quickly determine if a number can be evenly divided by another, and prime factorization breaks a number down into the prime numbers that multiply to form it.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Which divisibility rule correctly applies to the number 2?",
+            "options": [
+              "A number is divisible by 2 if it ends in 5",
+              "A number is divisible by 2 if its last digit is even",
+              "There is no rule for divisibility by 2",
+              "A number is divisible by 2 only if it is odd"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which divisibility rule correctly applies to the number 5?",
+            "options": [
+              "There is no rule for divisibility by 5",
+              "A number is divisible by 5 if it ends in 2 or 4",
+              "A number is divisible by 5 if it ends in 0 or 5",
+              "A number is divisible by 5 if it is even"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the prime factorization of 12?",
+            "options": [
+              "1 x 12",
+              "2 x 2 x 3",
+              "3 x 4",
+              "2 x 6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A prime number is a number that ___.",
+            "options": [
+              "Is always an even number",
+              "Has no factors at all",
+              "Can be divided evenly by many numbers",
+              "Has exactly two factors: 1 and itself"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the prime factorization of 18?",
+            "options": [
+              "2 x 9",
+              "1 x 18",
+              "3 x 6",
+              "2 x 3 x 3"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy: Solar, Wind, and Hydro Technologies",
+        "summary": "Ontario Grade 6 Science Matter and Energy strand: technologies like solar panels, wind turbines, and hydroelectric dams harness renewable natural energy sources to generate electricity with reduced environmental impact.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Solar panel technology captures energy from ___.",
+            "options": [
+              "Underground heat only",
+              "Wind",
+              "Sunlight",
+              "Ocean tides only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Wind turbine technology captures energy from ___.",
+            "options": [
+              "Sunlight",
+              "Underground heat",
+              "Coal combustion",
+              "The motion of wind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Hydroelectric technology generates electricity using the movement of ___.",
+            "options": [
+              "Coal",
+              "Water",
+              "Wind",
+              "Sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A key advantage of renewable energy technologies is that they ___.",
+            "options": [
+              "Rely on sources that can be naturally replenished",
+              "Have no environmental benefits at all",
+              "Always run out permanently after one use",
+              "Cannot generate any usable electricity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a community choose to invest in renewable energy technologies?",
+            "options": [
+              "Renewable technologies provide no benefits",
+              "To reduce reliance on non-renewable resources and lower environmental impact",
+              "There is no reason to consider renewable energy",
+              "They always increase pollution significantly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Globalization and Its Effects on Canada",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: globalization is the increasing connection between countries through trade, technology, and culture, which affects Canada’s economy and daily life in various ways.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Globalization refers to ___.",
+            "options": [
+              "Nothing related to international connections",
+              "A decrease in international trade",
+              "The increasing connection between countries through trade and technology",
+              "Countries becoming completely isolated from each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of globalization’s effect on Canada?",
+            "options": [
+              "Complete isolation from world markets",
+              "A total absence of foreign products",
+              "Access to products manufactured in other countries",
+              "No connection to international trade"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Globalization can affect Canada’s economy by ___.",
+            "options": [
+              "Having no effect on the economy at all",
+              "Preventing any international business activity",
+              "Eliminating all trade between countries",
+              "Creating both opportunities and challenges through international trade"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Technology has contributed to globalization by ___.",
+            "options": [
+              "Making communication and trade between countries faster and easier",
+              "Making international communication impossible",
+              "Isolating countries from each other",
+              "Having no connection to global trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for students to understand globalization?",
+            "options": [
+              "Countries no longer interact with each other",
+              "It helps explain how interconnected the modern world has become",
+              "Globalization has no relevance to daily life",
+              "It has no connection to Canada’s economy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "label": "Day 39 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Effective Introductions and Conclusions",
+        "summary": "Ontario Grade 6 Writing strand: a strong introduction grabs the reader’s attention and previews the main idea, while an effective conclusion summarizes key points and leaves a lasting impression.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A strong introduction should ___.",
+            "options": [
+              "Always be the shortest part of the essay",
+              "Grab the reader’s attention and preview the main idea",
+              "Repeat the conclusion word for word",
+              "Contain no information about the topic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An effective conclusion typically ___.",
+            "options": [
+              "Contains no connection to the rest of the essay",
+              "Simply repeats the introduction exactly",
+              "Introduces a brand new, unrelated topic",
+              "Summarizes key points and leaves a lasting impression"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a common technique used to grab attention in an introduction?",
+            "options": [
+              "Avoiding any connection to the topic",
+              "Starting with the exact same sentence as the conclusion",
+              "Beginning with unrelated information",
+              "Starting with a compelling question or interesting fact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for an introduction to preview the main idea?",
+            "options": [
+              "Readers should never know the main idea in advance",
+              "It helps the reader understand what the piece of writing will be about",
+              "Previewing the main idea makes writing worse",
+              "It replaces the need for any body paragraphs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an essay end with a strong final thought or call to action?",
+            "options": [
+              "A strong ending is never necessary",
+              "To leave a lasting, memorable impression on the reader",
+              "It should always contradict the essay’s main argument",
+              "Endings have no effect on how a reader remembers an essay"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Converting Between Metric Units",
+        "summary": "Ontario Grade 6 Measurement strand: converting between metric units, such as millimetres, centimetres, metres, and kilometres, involves multiplying or dividing by powers of ten based on the relationship between the units.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How many millimetres are in 1 centimetre?",
+            "options": [
+              "1,000",
+              "1",
+              "100",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many metres are in 1 kilometre?",
+            "options": [
+              "1,000",
+              "10",
+              "10,000",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Convert 4,500 metres to kilometres.",
+            "options": [
+              "45 km",
+              "4.5 km",
+              "450 km",
+              "0.45 km"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Convert 2 metres to centimetres.",
+            "options": [
+              "200 cm",
+              "2,000 cm",
+              "2 cm",
+              "20 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To convert from a smaller metric unit to a larger one, you typically ___.",
+            "options": [
+              "Always add 100",
+              "Multiply",
+              "Divide",
+              "Always subtract 100"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Carbon Cycle and Its Role in Climate",
+        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, land, and living things, playing a key role in regulating Earth’s climate.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The carbon cycle describes how carbon moves between ___.",
+            "options": [
+              "The atmosphere, oceans, land, and living things",
+              "Only underground rock layers",
+              "Nowhere, since carbon never moves",
+              "Only outer space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Plants absorb carbon dioxide from the atmosphere during ___.",
+            "options": [
+              "Erosion",
+              "Respiration only",
+              "Photosynthesis",
+              "Evaporation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Burning fossil fuels releases stored carbon into the ___.",
+            "options": [
+              "Ocean floor only",
+              "Only underground reservoirs",
+              "Atmosphere",
+              "Nowhere at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the carbon cycle closely connected to Earth’s climate?",
+            "options": [
+              "Carbon dioxide levels in the atmosphere can affect global temperatures",
+              "The carbon cycle only affects ocean colour",
+              "Climate is entirely unrelated to atmospheric gases",
+              "Carbon has no connection to climate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which human activity significantly affects the natural carbon cycle?",
+            "options": [
+              "Playing a musical instrument",
+              "Burning fossil fuels",
+              "Reading books",
+              "Painting a picture"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Indigenous Peoples’ Rights Movements in Canada",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: Indigenous peoples in Canada have organized rights movements over many decades to advocate for land rights, self-government, and recognition of treaty rights.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Indigenous rights movements in Canada have advocated for issues such as ___.",
+            "options": [
+              "Issues unrelated to Indigenous communities",
+              "Nothing of significance",
+              "Land rights and self-government",
+              "The elimination of all Indigenous rights"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Treaty rights refer to ___.",
+            "options": [
+              "Rights that apply only to non-Indigenous people",
+              "Agreements that were never actually made",
+              "Rights established through historical agreements between Indigenous nations and governments",
+              "Rights that have no legal basis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why have Indigenous rights movements been important in Canadian history?",
+            "options": [
+              "They have brought attention to important issues of justice, land, and self-determination",
+              "These movements have had no impact on Canadian society",
+              "Rights movements have no connection to treaty agreements",
+              "Indigenous rights have never been a topic of discussion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Self-government, as discussed in Indigenous rights movements, refers to ___.",
+            "options": [
+              "A community’s authority to govern its own affairs",
+              "A concept unrelated to Indigenous communities",
+              "Complete removal of any community authority",
+              "Government control with no Indigenous involvement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about Indigenous rights movements helps students understand ___.",
+            "options": [
+              "Ongoing efforts toward justice and reconciliation in Canada",
+              "That these issues have no relevance today",
+              "That rights movements only occurred outside Canada",
+              "That Indigenous communities have no history of advocacy"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "label": "Day 40 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating an Author’s Credibility and Perspective",
+        "summary": "Ontario Grade 6 Reading strand: evaluating an author’s credibility involves considering their expertise, potential motives, and perspective, which can shape how information in a text is presented.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Evaluating an author’s credibility involves considering ___.",
+            "options": [
+              "Their expertise and potential motives",
+              "Nothing related to the author at all",
+              "The colour of the book cover",
+              "Only the length of their writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An author’s perspective can shape ___.",
+            "options": [
+              "Nothing about how a text is written",
+              "Only the font used in the text",
+              "The exact number of pages in a book",
+              "How information in a text is presented"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author’s expertise on a topic matter to readers?",
+            "options": [
+              "Expertise never has any effect on reliability",
+              "Expertise can affect how reliable and accurate their information is likely to be",
+              "All authors are equally credible on every topic",
+              "Readers should never consider an author’s background"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which might be a sign that an author has a strong personal bias on a topic?",
+            "options": [
+              "Presenting balanced perspectives",
+              "Presenting only one extreme viewpoint with no acknowledgment of others",
+              "Citing multiple credible sources",
+              "Including relevant supporting evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable to compare texts written by authors with different perspectives?",
+            "options": [
+              "Different perspectives always contain no useful information",
+              "Only one perspective should ever be considered",
+              "It offers a more complete and balanced understanding of a topic",
+              "Comparing perspectives has no value for readers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Ratios, Equations, Geometry, and Number Sense",
+        "summary": "Ontario Grade 6 Number and Geometry strands review: this lesson revisits ratio tables, two-step equations, circle circumference and area, surface area, and divisibility and prime factorization from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If a ratio is 2 to 3 and scaled up to have 6 as the first term, what is the second term?",
+            "options": [
+              "12",
+              "6",
+              "3",
+              "9"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: 3x + 4 = 19.",
+            "options": [
+              "x = 15",
+              "x = 3",
+              "x = 5",
+              "x = 23"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the circumference formula for a circle?",
+            "options": [
+              "Pi times radius squared",
+              "Pi times diameter",
+              "Length times width",
+              "Radius times height"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the prime factorization of 20?",
+            "options": [
+              "4 x 5",
+              "2 x 2 x 5",
+              "1 x 20",
+              "2 x 10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review ratios, equations, geometry, and number sense together?",
+            "options": [
+              "These related math concepts reinforce each other for stronger overall understanding",
+              "Each topic must be learned in complete isolation",
+              "These topics have no connection to each other",
+              "Review is never useful in math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Cells, Microorganisms, Genetics, and Earth Systems",
+        "summary": "Ontario Grade 6 Science review: this lesson revisits cells, microorganisms, genetics and heredity, natural disasters, and the water and carbon cycles covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which are considered the basic building blocks of living things?",
+            "options": [
+              "Clouds",
+              "Cells",
+              "Rocks",
+              "Rivers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of microorganism generally needs a host to reproduce?",
+            "options": [
+              "A large mammal",
+              "A virus",
+              "A plant",
+              "A rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Heredity involves the passing of traits through ___.",
+            "options": [
+              "Weather patterns",
+              "Ocean currents",
+              "Rock formations",
+              "Genes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Earthquakes are commonly linked to the movement of ___.",
+            "options": [
+              "Ocean currents only",
+              "Ratios",
+              "Clouds",
+              "Tectonic plates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review cells, microorganisms, genetics, and Earth systems together?",
+            "options": [
+              "Each topic must always be studied in isolation",
+              "These topics are entirely unrelated to each other",
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "Review provides no benefit in science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: World History and Global Cooperation",
+        "summary": "Ontario Grade 6 Social Studies review: this lesson revisits the Vikings, the Silk Road, the Islamic Golden Age, feudal Japan, the Cold War, the United Nations, human rights, globalization, and Indigenous rights movements.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which group of Norse seafarers explored and traded across parts of Europe and reached North America?",
+            "options": [
+              "The Mongols",
+              "The Romans",
+              "The Aztecs",
+              "The Vikings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which network of trade routes connected Asia, the Middle East, and Europe?",
+            "options": [
+              "The Cold War",
+              "The Silk Road",
+              "A modern highway system",
+              "The United Nations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which international organization was formed after World War II to promote peace and cooperation?",
+            "options": [
+              "A private business",
+              "A single country’s government",
+              "The United Nations",
+              "A local municipal council"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Universal Declaration of Human Rights outlines rights believed to belong to ___.",
+            "options": [
+              "Only government leaders",
+              "Only citizens of one country",
+              "No one in particular",
+              "All people"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review world history and global cooperation topics together?",
+            "options": [
+              "These topics have no meaningful connections",
+              "Review is never useful in social studies",
+              "It helps reinforce how historical events and international cooperation connect over time",
+              "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "label": "Day 41 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Rhetorical Devices",
+        "summary": "Ontario Grade 6 Reading strand: rhetorical devices, such as repetition, rhetorical questions, and appeals to emotion, are techniques writers and speakers use to persuade or emphasize a point.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A rhetorical question is a question ___.",
+            "options": [
+              "Always answered immediately by the writer",
+              "Asked to genuinely request information",
+              "Asked for effect, without expecting a direct answer",
+              "Never used in persuasive writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Repetition as a rhetorical device is used to ___.",
+            "options": [
+              "Confuse the reader on purpose",
+              "Remove emphasis from a point",
+              "Emphasize an important idea",
+              "Avoid making any point at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An appeal to emotion tries to persuade an audience by ___.",
+            "options": [
+              "Triggering feelings related to the topic",
+              "Avoiding any connection to the audience’s feelings",
+              "Ignoring the audience completely",
+              "Presenting only statistics with no emotional language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a speaker use rhetorical devices in a speech?",
+            "options": [
+              "They have no effect on an audience",
+              "Rhetorical devices weaken every argument",
+              "They should never be used in speeches",
+              "To make their argument more persuasive and memorable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of using repetition for rhetorical effect?",
+            "options": [
+              "This is a plain, neutral statement.",
+              "The weather today is mild.",
+              "We might try again later.",
+              "We will not give up. We will not back down. We will succeed."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Distributive Property in Algebra",
+        "summary": "Ontario Grade 6 Algebra strand: the distributive property states that multiplying a number by a sum is the same as multiplying it by each addend separately and then adding the results, such as 3(x + 4) equalling 3x + 12.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Using the distributive property, what is 3 times (x + 4)?",
+            "options": [
+              "3x + 4",
+              "x + 12",
+              "3x + 12",
+              "3x + 7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the distributive property, what is 5 times (y + 2)?",
+            "options": [
+              "y + 10",
+              "5y + 7",
+              "5y + 10",
+              "5y + 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The distributive property allows you to ___.",
+            "options": [
+              "Only add numbers, never multiply",
+              "Multiply a number by each term inside parentheses separately",
+              "Divide instead of multiply",
+              "Ignore the parentheses completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the distributive property, what is 4 times (2x + 3)?",
+            "options": [
+              "8x + 12",
+              "6x + 12",
+              "2x + 12",
+              "8x + 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the distributive property useful in algebra?",
+            "options": [
+              "It eliminates the need for addition entirely",
+              "It helps simplify expressions that involve parentheses",
+              "It has no practical use in algebra",
+              "It only applies to whole numbers with no variables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Photosynthesis and Plant Energy",
+        "summary": "Ontario Grade 6 Science Life Systems strand: photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce their own food (glucose) and release oxygen as a byproduct.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Photosynthesis allows plants to produce their own ___.",
+            "options": [
+              "Water only",
+              "Sunlight",
+              "Food",
+              "Soil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which three things do plants need for photosynthesis?",
+            "options": [
+              "Only sound and heat",
+              "Sunlight, water, and carbon dioxide",
+              "Only soil and darkness",
+              "Only oxygen and darkness"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A byproduct released by plants during photosynthesis is ___.",
+            "options": [
+              "Oxygen",
+              "Nothing is released",
+              "Carbon dioxide only",
+              "Nitrogen only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is photosynthesis important not just for plants, but for many other living things?",
+            "options": [
+              "It removes all oxygen from the atmosphere",
+              "It has no connection to other living things",
+              "It produces oxygen that many organisms need to survive",
+              "Photosynthesis has no effect beyond the plant itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The sugar produced by plants during photosynthesis is called ___.",
+            "options": [
+              "Carbon dioxide",
+              "Glucose",
+              "Chlorophyll",
+              "Cellulose only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Fall of the Roman Empire",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the fall of the Roman Empire in the West, traditionally dated to 476 CE, resulted from a combination of factors including economic troubles, invasions, and political instability.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The fall of the Western Roman Empire is traditionally dated to which year?",
+            "options": [
+              "476 CE",
+              "1789 CE",
+              "1492 CE",
+              "1000 CE"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a commonly cited factor in the fall of the Roman Empire?",
+            "options": [
+              "Economic troubles and political instability",
+              "A sudden, single unexplained event",
+              "No factors at all, since it never actually fell",
+              "Only good weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Invasions by various groups contributed to ___.",
+            "options": [
+              "The founding of Rome",
+              "The strengthening of Rome with no negative effects",
+              "The weakening of the Western Roman Empire",
+              "Nothing related to Rome’s decline"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study the fall of the Roman Empire?",
+            "options": [
+              "It has no connection to later European history",
+              "This event has no historical significance",
+              "The Roman Empire never actually existed",
+              "To understand the causes behind the decline of a major historical civilization"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After the fall of the Western Roman Empire, Europe entered a period often referred to as ___.",
+            "options": [
+              "Modern times immediately",
+              "A period with no historical name",
+              "The Medieval or Middle Ages",
+              "The Renaissance immediately"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "label": "Day 42 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Book Critique",
+        "summary": "Ontario Grade 6 Writing strand: a book critique evaluates a book’s strengths and weaknesses, such as its plot, characters, and writing style, supported by specific examples from the text.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A book critique focuses on ___.",
+            "options": [
+              "Evaluating a book’s strengths and weaknesses with examples",
+              "Copying the book word for word",
+              "Ignoring the book’s content entirely",
+              "Only listing the book’s price"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which element might a book critique evaluate?",
+            "options": [
+              "Only the book’s cover colour",
+              "The publisher’s address",
+              "Plot, characters, and writing style",
+              "The number of chapters only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a book critique include specific examples from the text?",
+            "options": [
+              "Examples are unnecessary in a critique",
+              "A critique should never reference the actual text",
+              "Examples make a critique less credible",
+              "To support the reviewer’s opinions with clear evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A well-balanced book critique typically discusses ___.",
+            "options": [
+              "Only negative aspects, with no praise",
+              "Nothing specific about the book at all",
+              "Only positive aspects, with no criticism",
+              "Both strengths and weaknesses of the book"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a critique differ from a simple book report?",
+            "options": [
+              "A critique and a report are exactly the same",
+              "A critique involves evaluating and analyzing quality, not just summarizing",
+              "A critique never includes any analysis",
+              "A book report always includes more analysis than a critique"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Equations with Fractions",
+        "summary": "Ontario Grade 6 Algebra strand: solving equations that include fractions often involves using inverse operations, such as multiplying both sides by the denominator to eliminate the fraction.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Solve for x: x/3 = 6.",
+            "options": [
+              "x = 18",
+              "x = 9",
+              "x = 3",
+              "x = 2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for y: y/4 + 2 = 5.",
+            "options": [
+              "y = 20",
+              "y = 3",
+              "y = 12",
+              "y = 8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To eliminate a fraction like x/5 in an equation, you can ___.",
+            "options": [
+              "Add 5 to both sides",
+              "Multiply both sides by 5",
+              "Divide both sides by 5",
+              "Subtract 5 from both sides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for n: n/2 minus 3 = 1.",
+            "options": [
+              "n = 8",
+              "n = 2",
+              "n = 6",
+              "n = 4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for m: 2m/3 = 8.",
+            "options": [
+              "m = 12",
+              "m = 16",
+              "m = 8",
+              "m = 4"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ecosystem Interdependence and Symbiosis",
+        "summary": "Ontario Grade 6 Science Life Systems strand: symbiosis describes close relationships between different species in an ecosystem, including mutualism (both benefit), commensalism (one benefits, the other unaffected), and parasitism (one benefits, the other harmed).",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Symbiosis refers to ___.",
+            "options": [
+              "A close relationship between different species",
+              "Only non-living interactions",
+              "The absence of any species interaction",
+              "A single species living completely alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a mutualistic relationship, ___.",
+            "options": [
+              "Only one species benefits, while the other is harmed",
+              "Both species benefit",
+              "One species disappears completely",
+              "Neither species benefits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a parasitic relationship, ___.",
+            "options": [
+              "Both species benefit equally",
+              "Neither species is affected at all",
+              "One species benefits while the other is harmed",
+              "Only the environment is affected, not the species"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a commensal relationship, ___.",
+            "options": [
+              "Both species always benefit equally",
+              "One species benefits while the other is largely unaffected",
+              "Neither species exists in the relationship",
+              "Both species are always harmed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding symbiotic relationships important in studying ecosystems?",
+            "options": [
+              "Symbiosis has no connection to ecosystems",
+              "Symbiotic relationships only exist in a laboratory setting",
+              "It helps explain how different species depend on and affect one another",
+              "Species in an ecosystem never interact"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Byzantine Empire",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Byzantine Empire was the continuation of the Eastern Roman Empire, centred in Constantinople, known for preserving Roman and Greek traditions and developing its own rich culture for many centuries.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Byzantine Empire was the continuation of the ___.",
+            "options": [
+              "Eastern Roman Empire",
+              "Western Roman Empire",
+              "Mongol Empire",
+              "Ancient Egyptian Empire"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The capital city of the Byzantine Empire was ___.",
+            "options": [
+              "Constantinople",
+              "Cairo",
+              "Athens",
+              "Rome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Byzantine Empire is known for preserving elements of ___.",
+            "options": [
+              "A completely unrelated culture",
+              "No historical traditions at all",
+              "Only traditions unrelated to Rome or Greece",
+              "Roman and Greek traditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Byzantine Empire lasted for ___.",
+            "options": [
+              "Only a single year",
+              "It never actually existed",
+              "Many centuries",
+              "Less than a decade"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Byzantine Empire significant to world history?",
+            "options": [
+              "It helped preserve and pass on classical knowledge and culture for centuries",
+              "It existed only in legend, not reality",
+              "It contributed nothing to world history",
+              "It had no connection to Roman or Greek history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "label": "Day 43 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Verb Tense Consistency",
+        "summary": "Ontario Grade 6 Writing strand: verb tense consistency means keeping the same tense (past, present, or future) throughout related sentences unless there is a clear reason to shift, to avoid confusing the reader.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Verb tense consistency means ___.",
+            "options": [
+              "Using only the future tense at all times",
+              "Keeping the same tense throughout related sentences",
+              "Avoiding verbs entirely",
+              "Randomly switching tenses throughout a piece of writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence has a tense consistency error?",
+            "options": [
+              "Yesterday, I walked to school and ate breakfast.",
+              "I will walk to school tomorrow.",
+              "Yesterday, I walked to school and eat breakfast.",
+              "I walk to school every day."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is verb tense consistency important in writing?",
+            "options": [
+              "It replaces the need for correct spelling",
+              "It helps avoid confusing the reader about when events occur",
+              "Writers should always mix tenses freely with no pattern",
+              "Tense consistency has no effect on clarity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly maintains consistent past tense?",
+            "options": [
+              "She will open the door and walked inside.",
+              "She opened the door and walks inside.",
+              "She opens the door and walked inside.",
+              "She opened the door and walked inside."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When might a shift in verb tense be appropriate within a piece of writing?",
+            "options": [
+              "Shifting tense is always a grammar error with no exceptions",
+              "When clearly signaling a change in the time being described",
+              "Tense should never shift under any circumstances",
+              "Only when writing about the future"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Proportional Reasoning",
+        "summary": "Ontario Grade 6 Number strand: proportional reasoning involves comparing two ratios to determine if they are equal, often used to solve problems involving scaling, recipes, or map distances.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If 2 pencils cost $1, how much would 8 pencils cost, using proportional reasoning?",
+            "options": [
+              "$8",
+              "$1",
+              "$4",
+              "$2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two ratios are proportional if ___.",
+            "options": [
+              "They cannot be compared",
+              "They are equal when simplified",
+              "One ratio must always be larger",
+              "They always have different values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a map shows 1 cm representing 20 km, how many kilometres does 5 cm represent?",
+            "options": [
+              "100 km",
+              "5 km",
+              "20 km",
+              "25 km"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which situation would likely use proportional reasoning?",
+            "options": [
+              "Scaling a recipe up to serve more people",
+              "Choosing a favourite colour",
+              "Deciding what time to wake up",
+              "Selecting a book to read"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 3 shirts cost $45, what would 5 shirts cost at the same rate?",
+            "options": [
+              "$75",
+              "$65",
+              "$60",
+              "$50"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Immune System: How the Body Fights Illness",
+        "summary": "Ontario Grade 6 Science Human Body Systems strand: the immune system defends the body against harmful microorganisms using white blood cells and other defenses that identify and destroy invading pathogens.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The immune system’s main role is to ___.",
+            "options": [
+              "Control body movement",
+              "Defend the body against harmful microorganisms",
+              "Digest food",
+              "Pump blood throughout the body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which cells play a key role in fighting off infections in the immune system?",
+            "options": [
+              "Muscle cells only",
+              "Bone cells only",
+              "White blood cells",
+              "Skin cells only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pathogen is best described as ___.",
+            "options": [
+              "A part of the skeletal system",
+              "A microorganism capable of causing disease",
+              "A vitamin found in food",
+              "A type of healthy cell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a fever occur when the body is fighting an infection?",
+            "options": [
+              "Fevers have no connection to the immune system",
+              "It can be part of the immune system’s response to help fight off pathogens",
+              "Fevers always indicate a completely healthy body",
+              "The immune system has no role in body temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Vaccines work by helping the immune system ___.",
+            "options": [
+              "Ignore all future infections completely",
+              "Stop functioning altogether",
+              "Increase the risk of illness",
+              "Recognize and respond more quickly to specific pathogens"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Mongol Empire",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Mongol Empire, founded by Genghis Khan in the 13th century, became the largest contiguous land empire in history, connecting trade and cultural exchange across Asia and into Europe.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Mongol Empire was founded by ___.",
+            "options": [
+              "A Roman emperor",
+              "An Egyptian pharaoh",
+              "Genghis Khan",
+              "A Byzantine ruler"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Mongol Empire is often noted for being ___.",
+            "options": [
+              "The largest contiguous land empire in history",
+              "Limited to a single small city",
+              "A very small, short-lived kingdom",
+              "Entirely disconnected from trade routes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Mongol Empire helped connect trade and cultural exchange across ___.",
+            "options": [
+              "Asia and into Europe",
+              "No regions at all",
+              "Only modern countries",
+              "Only one isolated village"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which century was the Mongol Empire founded?",
+            "options": [
+              "19th century",
+              "13th century",
+              "5th century",
+              "21st century"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Mongol Empire significant in world history?",
+            "options": [
+              "It had no lasting impact on history",
+              "It had a major impact on trade, culture, and political boundaries across a vast region",
+              "It was limited to religious activities only",
+              "It never actually controlled any territory"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "label": "Day 44 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Idioms Across Cultures",
+        "summary": "Ontario Grade 6 Language strand: idioms are expressions whose meaning cannot be understood literally, and different cultures and languages often have their own unique idioms that reflect their history and values.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "An idiom is an expression whose meaning ___.",
+            "options": [
+              "Is identical in every language",
+              "Has no meaning at all",
+              "Cannot be understood from its literal words alone",
+              "Can always be understood literally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Different cultures often have their own idioms because ___.",
+            "options": [
+              "All cultures use identical idioms",
+              "Cultures never develop unique expressions",
+              "Idioms have no connection to culture",
+              "Language and expressions are shaped by a culture’s history and experiences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might idioms be challenging for someone learning a new language?",
+            "options": [
+              "Idioms are always easy to understand literally",
+              "Idioms never appear in everyday conversation",
+              "All languages share the exact same idioms",
+              "Their meaning often cannot be figured out by translating the words literally"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of an English idiom?",
+            "options": [
+              "The dog is brown",
+              "Break the ice",
+              "The sky is blue",
+              "Two plus two equals four"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing idioms across cultures can help students ___.",
+            "options": [
+              "Appreciate different ways language reflects culture",
+              "Ignore the connection between language and culture",
+              "Avoid learning about other cultures",
+              "Conclude that all cultures are identical"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume of Triangular Prisms and Cylinders",
+        "summary": "Ontario Grade 6 Geometry strand: the volume of a triangular prism is found using base area times length, while the volume of a cylinder is found using the area of its circular base times its height.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the volume of a cylinder is ___.",
+            "options": [
+              "Diameter times height",
+              "Base area times width only",
+              "Radius times height only",
+              "Base area (a circle) times height"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a triangular prism’s base area is 10 square units and its length is 6 units, what is its volume?",
+            "options": [
+              "60 cubic units",
+              "600 cubic units",
+              "10 cubic units",
+              "16 cubic units"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find the volume of a cylinder, you first need to calculate the area of its ___.",
+            "options": [
+              "Circular base",
+              "Diameter only",
+              "Height only",
+              "Rectangular side"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Both triangular prisms and cylinders have volume formulas that involve ___.",
+            "options": [
+              "Multiplying a base area by a height or length",
+              "Only measuring the outer surface",
+              "Adding all the edges together",
+              "Ignoring the base entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a cylinder’s circular base area is 28 square units and its height is 5 units, what is its volume?",
+            "options": [
+              "23 cubic units",
+              "33 cubic units",
+              "140 cubic units",
+              "5.6 cubic units"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Newton’s Laws of Motion: An Introduction",
+        "summary": "Ontario Grade 6 Science Structures and Mechanisms strand: Newton’s laws of motion describe how objects behave when forces act on them, including how objects at rest stay at rest unless acted on by an outside force.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "According to Newton’s first law, an object at rest will ___.",
+            "options": [
+              "Immediately disappear",
+              "Stay at rest unless acted on by an outside force",
+              "Always start moving on its own",
+              "Change its own mass spontaneously"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Newton’s laws of motion describe how objects behave when ___.",
+            "options": [
+              "They have no mass at all",
+              "They are completely motionless with no exceptions",
+              "Forces act on them",
+              "No forces exist anywhere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an everyday example related to Newton’s first law?",
+            "options": [
+              "A ball disappears without any cause",
+              "A ball grows heavier while sitting still",
+              "A ball changes colour on its own",
+              "A ball stays still until someone kicks it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Newton’s laws are considered foundational to the study of ___.",
+            "options": [
+              "Only biology",
+              "Motion and forces in physics",
+              "Only geography",
+              "Only chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are Newton’s laws still relevant in modern science and engineering?",
+            "options": [
+              "They only applied in the past, not today",
+              "They have no connection to real-world motion",
+              "They help explain and predict how objects move under different forces",
+              "These laws have been proven completely incorrect"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Aztec and Inca Civilizations",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Aztec civilization in Mesoamerica and the Inca civilization in South America both developed advanced cities, agriculture, and governance systems before European contact.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Aztec civilization was located mainly in ___.",
+            "options": [
+              "East Asia",
+              "North Africa",
+              "Mesoamerica (present-day Mexico)",
+              "Northern Europe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Inca civilization was located mainly in ___.",
+            "options": [
+              "Northern Europe",
+              "Southeast Asia",
+              "South America",
+              "North Africa"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Both the Aztec and Inca civilizations developed advanced ___.",
+            "options": [
+              "Only small nomadic camps",
+              "Systems identical to modern countries",
+              "No cities or organized systems at all",
+              "Cities, agriculture, and governance systems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "These civilizations existed ___ major European contact.",
+            "options": [
+              "Only after",
+              "At the exact same time as",
+              "They had no connection to European contact at all",
+              "Before"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians study the Aztec and Inca civilizations?",
+            "options": [
+              "They never actually existed",
+              "These civilizations had no notable achievements",
+              "They are identical to European civilizations of the same era",
+              "They represent significant, advanced societies with rich cultural achievements"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "label": "Day 45 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Non-Linear Narrative Structure",
+        "summary": "Ontario Grade 6 Reading strand: some stories use a non-linear structure, presenting events out of chronological order through techniques like flashbacks, to build suspense or reveal information strategically.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A non-linear narrative structure presents events ___.",
+            "options": [
+              "In strict chronological order only",
+              "Out of chronological order",
+              "Only in the future tense",
+              "With no events at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A flashback is a technique used to ___.",
+            "options": [
+              "Remove all context from a story",
+              "Skip the story’s ending entirely",
+              "Show an event from earlier in the timeline",
+              "Predict a future event with certainty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose a non-linear structure for a story?",
+            "options": [
+              "To build suspense or reveal information strategically",
+              "To confuse the reader with no purpose",
+              "It is required for every story",
+              "Non-linear structures always make stories worse"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a sign that a story might be using a non-linear structure?",
+            "options": [
+              "The story has no characters",
+              "The story jumps between past and present events",
+              "The story has no setting",
+              "The story proceeds in perfect chronological order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding narrative structure help readers follow a complex story?",
+            "options": [
+              "It helps readers track how and why events are being presented in a particular order",
+              "Narrative structure has no effect on understanding",
+              "All stories use the exact same structure",
+              "Readers never need to consider story structure"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying and Dividing Integers",
+        "summary": "Ontario Grade 6 Number strand: when multiplying or dividing integers, two numbers with the same sign produce a positive result, while two numbers with different signs produce a negative result.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the result of a negative integer multiplied by a negative integer?",
+            "options": [
+              "Negative",
+              "Positive",
+              "Zero",
+              "Cannot be determined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the result of a positive integer multiplied by a negative integer?",
+            "options": [
+              "Cannot be determined",
+              "Positive",
+              "Negative",
+              "Zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is -4 times -3?",
+            "options": [
+              "-12",
+              "12",
+              "-7",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 15 divided by -3?",
+            "options": [
+              "18",
+              "-18",
+              "-5",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is -20 divided by -4?",
+            "options": [
+              "24",
+              "5",
+              "-24",
+              "-5"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Periodic Table: An Introduction to Elements",
+        "summary": "Ontario Grade 6 Science Matter and Energy strand: the periodic table organizes all known chemical elements based on their properties, with elements arranged by increasing atomic number.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The periodic table organizes elements based on their ___.",
+            "options": [
+              "Colour only",
+              "Alphabetical order of their names",
+              "Random order with no pattern",
+              "Properties and atomic number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An element is best described as ___.",
+            "options": [
+              "A pure substance made of only one type of atom",
+              "A type of energy, not matter",
+              "Always a mixture of multiple substances",
+              "A living organism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an element found on the periodic table?",
+            "options": [
+              "Air",
+              "Oxygen",
+              "Salt water",
+              "Water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Elements on the periodic table are arranged by ___.",
+            "options": [
+              "Alphabetical order only",
+              "Colour only",
+              "Random placement with no order",
+              "Increasing atomic number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the periodic table a useful tool in science?",
+            "options": [
+              "It has no scientific usefulness",
+              "It only lists elements with no other information",
+              "It is used only in mathematics, not science",
+              "It organizes elements in a way that reveals patterns in their properties"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Colonialism in Africa",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: during the 19th and early 20th centuries, several European powers colonized much of Africa, significantly impacting local societies, economies, and political borders.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "During the 19th and early 20th centuries, several European powers colonized much of ___.",
+            "options": [
+              "Africa",
+              "Antarctica",
+              "No territory at all",
+              "The Moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Colonialism in Africa significantly impacted local ___.",
+            "options": [
+              "Only weather patterns",
+              "Societies, economies, and political borders",
+              "Nothing at all",
+              "Only wildlife populations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Colonial powers often drew political borders in Africa based on ___.",
+            "options": [
+              "Their own interests, sometimes with little regard for existing communities",
+              "Random chance with no lasting effect",
+              "Ancient borders that had never changed",
+              "Careful, consistent consultation with every local community"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians study the effects of colonialism in Africa?",
+            "options": [
+              "It has no connection to modern African nations",
+              "Colonialism had no lasting effects",
+              "Colonialism never occurred in Africa",
+              "To understand its long-lasting impact on the continent’s societies and politics"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a lasting effect often associated with colonial-era borders in Africa?",
+            "options": [
+              "Borders that perfectly matched every community with no issues",
+              "Borders that were immediately erased after colonization",
+              "No effect on modern nations at all",
+              "Borders that sometimes divided or combined communities in ways that caused later challenges"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "label": "Day 46 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Persuasive Letter Writing",
+        "summary": "Ontario Grade 6 Writing strand: a persuasive letter presents a clear request or opinion, supported by reasons and evidence, and is written with a tone and format appropriate for its intended reader.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A persuasive letter is written to ___.",
+            "options": [
+              "Copy information with no persuasive purpose",
+              "Avoid taking any clear position",
+              "Only describe the writer’s daily schedule",
+              "Convince the reader of an opinion or request"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A persuasive letter should be supported by ___.",
+            "options": [
+              "Only the writer’s name",
+              "No supporting details at all",
+              "Random, unrelated facts",
+              "Reasons and evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is tone important when writing a persuasive letter?",
+            "options": [
+              "An appropriate tone helps the message be taken seriously by the reader",
+              "Tone only matters in fictional writing",
+              "Tone has no effect on how a letter is received",
+              "Persuasive letters should always sound rude"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a strong persuasive letter opening?",
+            "options": [
+              "I am writing to request that our school extend library hours, because...",
+              "Hello, this is a letter.",
+              "This letter is about something.",
+              "Nothing important is being requested here."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a persuasive letter end with a clear call to action?",
+            "options": [
+              "Endings have no effect on persuasive writing",
+              "Persuasive letters should never state what the writer wants",
+              "A call to action weakens a persuasive letter",
+              "It tells the reader exactly what the writer hopes will happen next"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Analyzing and Comparing Data Sets",
+        "summary": "Ontario Grade 6 Data Management strand: analyzing and comparing data sets involves looking at measures like mean, median, mode, and range to understand and compare different sets of information.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The range of a data set is found by ___.",
+            "options": [
+              "Subtracting the smallest value from the largest value",
+              "Finding the most frequent value only",
+              "Adding all values together",
+              "Finding the middle value only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the range of the data set 4, 9, 15, 22?",
+            "options": [
+              "15",
+              "22",
+              "18",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing the mean of two data sets can help determine ___.",
+            "options": [
+              "Which set has a higher overall average",
+              "Which set has more individual values, regardless of size",
+              "Only the colour of the data",
+              "Nothing useful about the data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might range be a useful statistic to calculate alongside the mean?",
+            "options": [
+              "Range has no connection to understanding data",
+              "It shows how spread out the data values are",
+              "Range should never be calculated with the mean",
+              "Range always equals the mean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If Data Set A has a mean of 50 and Data Set B has a mean of 65, which set has a higher average?",
+            "options": [
+              "Data Set B",
+              "Data Set A",
+              "Cannot be determined from the means alone",
+              "They are equal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space Exploration Technologies and Robotics",
+        "summary": "Ontario Grade 6 Science and Technology strand: space exploration relies on technologies such as rockets, satellites, and robotic rovers to study space and other planets without always requiring human astronauts.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Robotic rovers are used in space exploration to ___.",
+            "options": [
+              "Prevent any exploration of other planets",
+              "Study planets and gather data, often without a human on board",
+              "Replace all forms of space technology",
+              "Only orbit Earth with no other function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Satellites in space exploration are commonly used for ___.",
+            "options": [
+              "Only decoration",
+              "Nothing useful",
+              "Preventing all forms of communication",
+              "Communication and observation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "One advantage of using robots instead of astronauts for some space missions is ___.",
+            "options": [
+              "Robots have no advantages over astronauts",
+              "Robots cannot gather any useful information",
+              "Robots can operate in environments too extreme or risky for humans",
+              "Robots always cost significantly more than crewed missions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rockets are primarily used in space exploration to ___.",
+            "options": [
+              "Only orbit underwater",
+              "Stay permanently on Earth’s surface",
+              "Replace the need for satellites",
+              "Launch spacecraft beyond Earth’s atmosphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why has robotic technology become increasingly important in space exploration?",
+            "options": [
+              "Robotic exploration has replaced the need for any spacecraft",
+              "Robotic technology has no role in space exploration",
+              "It allows for exploration of distant or hazardous locations more safely and often at lower cost",
+              "Robots cannot function in space at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Decolonization Movements in the 20th Century",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: decolonization refers to the process by which colonized nations, especially in Africa and Asia, gained independence from colonial powers during the 20th century.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Decolonization refers to the process of ___.",
+            "options": [
+              "Countries becoming newly colonized",
+              "A single country expanding its colonies",
+              "Nations losing all forms of self-governance",
+              "Colonized nations gaining independence from colonial powers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Decolonization movements were especially significant in which regions during the 20th century?",
+            "options": [
+              "Only uninhabited regions",
+              "Africa and Asia",
+              "No regions experienced decolonization",
+              "Only Antarctica"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did many colonized nations seek independence during the 20th century?",
+            "options": [
+              "To gain self-governance and control over their own political and economic future",
+              "Independence provided no benefits to these nations",
+              "Colonized nations were already fully independent",
+              "They had no interest in gaining independence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Decolonization often involved ___.",
+            "options": [
+              "Political movements and, at times, significant conflict",
+              "A return to earlier colonial rule",
+              "No political activity whatsoever",
+              "Immediate and effortless transitions with no challenges"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is studying decolonization important to understanding the modern world?",
+            "options": [
+              "Decolonization has no connection to today’s world",
+              "This process only affected ancient history",
+              "It has no relevance to modern international relations",
+              "Many current nations and borders were shaped by this 20th-century process"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "label": "Day 47 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing News Bias Across Outlets",
+        "summary": "Ontario Grade 6 Media Literacy strand: comparing how different news outlets report on the same event can reveal differences in tone, word choice, and focus that may indicate bias.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Comparing multiple news outlets on the same event can reveal ___.",
+            "options": [
+              "That all outlets always report identically",
+              "Only irrelevant details",
+              "Nothing useful about the coverage",
+              "Differences in tone, word choice, and focus"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might two news outlets present the same event differently?",
+            "options": [
+              "They may have different perspectives, priorities, or biases",
+              "Facts always change between outlets",
+              "Differences in reporting never occur",
+              "News outlets are legally required to report identically"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a useful strategy for spotting potential bias in news coverage?",
+            "options": [
+              "Ignoring all news coverage entirely",
+              "Reading only a single source and assuming it is fully accurate",
+              "Assuming every source has identical bias",
+              "Comparing word choice and framing across multiple sources"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Word choice in a news report, such as calling a group protesters versus rioters, can ___.",
+            "options": [
+              "Always be completely neutral with no impact",
+              "Have no effect on how readers understand a story",
+              "Influence how readers perceive the event",
+              "Never appear in real news coverage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is media literacy considered an important skill for citizens?",
+            "options": [
+              "Citizens do not need to evaluate news critically",
+              "All news sources are always perfectly unbiased",
+              "It helps people critically evaluate information and form well-informed opinions",
+              "Media literacy has no real-world value"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Classifying and Constructing Triangles",
+        "summary": "Ontario Grade 6 Geometry strand: triangles can be classified by their side lengths (equilateral, isosceles, scalene) and angles (acute, right, obtuse), and can be constructed using a ruler and protractor.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A triangle with three equal sides is called ___.",
+            "options": [
+              "Isosceles",
+              "Obtuse",
+              "Scalene",
+              "Equilateral"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangle with exactly two equal sides is called ___.",
+            "options": [
+              "Isosceles",
+              "Equilateral",
+              "Right",
+              "Scalene"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A triangle with one angle greater than 90 degrees is called ___.",
+            "options": [
+              "Right",
+              "Acute",
+              "Equilateral",
+              "Obtuse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangle with all angles less than 90 degrees is called ___.",
+            "options": [
+              "Right",
+              "Obtuse",
+              "Acute",
+              "Scalene"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which tools are commonly used to construct an accurate triangle?",
+            "options": [
+              "Only a calculator",
+              "No tools are needed",
+              "A ruler and protractor",
+              "Only a paintbrush"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sound Waves and Frequency",
+        "summary": "Ontario Grade 6 Science Matter and Energy strand: sound travels as vibrations in waves, and frequency, measured in hertz, determines pitch, with higher frequencies producing higher-pitched sounds.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Sound travels through the air as ___.",
+            "options": [
+              "Vibrations in waves",
+              "A solid beam of light",
+              "A type of liquid",
+              "Nothing measurable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Frequency is measured in units called ___.",
+            "options": [
+              "Metres",
+              "Hertz",
+              "Decibels",
+              "Litres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A higher frequency generally produces a ___ pitched sound.",
+            "options": [
+              "Silent",
+              "Identical",
+              "Higher",
+              "Lower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a high-pitched sound?",
+            "options": [
+              "A low rumble",
+              "A bird’s chirp",
+              "Complete silence",
+              "A deep drumbeat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding frequency be useful when studying musical instruments?",
+            "options": [
+              "Frequency only applies to light, not sound",
+              "All instruments produce identical frequencies",
+              "It helps explain why different instruments or notes produce different pitches",
+              "Frequency has no connection to sound or pitch"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The European Union: Cooperation and Integration",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: the European Union is a political and economic partnership among many European countries that cooperate on trade, travel, and shared policies.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The European Union is best described as ___.",
+            "options": [
+              "An organization with no member countries",
+              "A single country in Europe",
+              "A military-only alliance with no economic role",
+              "A political and economic partnership among European countries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Member countries of the European Union often cooperate on issues such as ___.",
+            "options": [
+              "Nothing of shared interest",
+              "Preventing any cooperation between countries",
+              "Only isolated, unrelated local issues",
+              "Trade and shared policies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "One benefit some European Union countries experience is ___.",
+            "options": [
+              "Complete isolation from neighbouring countries",
+              "Easier trade and travel between member countries",
+              "The elimination of all international relationships",
+              "No connection between member economies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might countries choose to form an organization like the European Union?",
+            "options": [
+              "Forming such an organization serves no purpose",
+              "To gain benefits from working together on shared economic and political goals",
+              "Countries are always better off acting in complete isolation",
+              "Cooperation between countries provides no benefits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying the European Union helps students understand ___.",
+            "options": [
+              "One example of how countries can cooperate through international organizations",
+              "That trade partnerships have no real-world examples",
+              "That all countries operate in complete isolation",
+              "That international cooperation never occurs"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "label": "Day 48 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Commonly Confused Words",
+        "summary": "Ontario Grade 6 Language strand: some words are easily confused because they sound alike but have different meanings and spellings, such as affect versus effect, or accept versus except.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Which sentence correctly uses affect and effect? The medicine will ___ my health, and the ___ should be positive.",
+            "options": [
+              "effect, affect",
+              "effect, effect",
+              "affect, affect",
+              "affect, effect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Accept generally means ___.",
+            "options": [
+              "To multiply numbers",
+              "To receive or agree to something",
+              "To measure distance",
+              "To exclude something"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Except generally means ___.",
+            "options": [
+              "To measure time",
+              "To receive something willingly",
+              "Excluding or leaving out",
+              "To celebrate an event"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses accept and except correctly? I will ___ your invitation, but I cannot attend every event ___ the first one.",
+            "options": [
+              "except, accept",
+              "except, except",
+              "accept, except",
+              "accept, accept"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to learn commonly confused word pairs?",
+            "options": [
+              "Confused words never impact meaning",
+              "It helps writers choose the correct word and avoid unclear or incorrect sentences",
+              "These word pairs have no effect on writing clarity",
+              "Only one of each pair is ever a real word"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Nonlinear Growing Patterns",
+        "summary": "Ontario Grade 6 Algebra strand: a nonlinear growing pattern changes by a rate that is not constant, such as doubling each time, unlike a linear pattern which increases by the same amount each step.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "In the pattern 2, 4, 8, 16, what is the next number?",
+            "options": [
+              "32",
+              "18",
+              "24",
+              "20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A nonlinear pattern is one where the amount of change ___.",
+            "options": [
+              "Never occurs at all",
+              "Is always negative",
+              "Is not constant between steps",
+              "Stays exactly the same each step"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a nonlinear growing pattern?",
+            "options": [
+              "2, 4, 6, 8",
+              "3, 6, 12, 24",
+              "3, 6, 9, 12",
+              "5, 10, 15, 20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a doubling pattern starting at 5, what are the first four terms?",
+            "options": [
+              "5, 6, 7, 8",
+              "5, 10, 15, 20",
+              "5, 7, 9, 11",
+              "5, 10, 20, 40"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a nonlinear pattern different from a linear pattern?",
+            "options": [
+              "A nonlinear pattern’s rate of change is not constant, while a linear pattern’s is",
+              "A nonlinear pattern never changes at all",
+              "A linear pattern always decreases",
+              "They are exactly the same type of pattern"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather Systems and Forecasting",
+        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: weather systems, such as high and low pressure areas and fronts, influence daily weather, and meteorologists use data and technology to forecast upcoming conditions.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A low pressure system is often associated with ___.",
+            "options": [
+              "No effect on weather at all",
+              "Only warm temperatures with no variation",
+              "Clear, sunny weather with no clouds",
+              "Cloudy, stormy weather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Meteorologists use data and technology to ___.",
+            "options": [
+              "Control the weather directly",
+              "Ignore current weather patterns",
+              "Prevent all storms from happening",
+              "Forecast upcoming weather conditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A weather front occurs where ___.",
+            "options": [
+              "Two different air masses meet",
+              "Temperature never changes",
+              "No air masses exist",
+              "Only one type of weather ever occurs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which technology might meteorologists use to help forecast weather?",
+            "options": [
+              "A compass only",
+              "Satellites and radar",
+              "Only guesswork with no tools",
+              "A thermometer with no other tools"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding weather systems useful for communities?",
+            "options": [
+              "Communities never need to prepare for weather changes",
+              "Weather forecasting provides no useful information",
+              "Weather systems have no connection to daily life",
+              "It helps people prepare for changing or severe weather conditions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Modern Canadian Immigration and Multicultural Policy",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: Canada’s modern immigration and multiculturalism policies aim to welcome newcomers from around the world while supporting the preservation of diverse cultural identities.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s modern immigration policies aim to ___.",
+            "options": [
+              "Welcome newcomers from around the world",
+              "Ignore the needs of newcomers entirely",
+              "Prevent all immigration to Canada",
+              "Only allow immigration from one specific country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada’s multiculturalism policy supports ___.",
+            "options": [
+              "The preservation of diverse cultural identities",
+              "The elimination of all cultural diversity",
+              "No recognition of cultural differences",
+              "A single required culture for all citizens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might Canada benefit from welcoming immigrants from many different countries?",
+            "options": [
+              "Immigration provides no benefits to Canada",
+              "Immigration can contribute diverse skills, perspectives, and economic growth",
+              "Immigrants contribute nothing to Canadian society",
+              "Diversity has no connection to a country’s growth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada officially adopted multiculturalism as a policy to ___.",
+            "options": [
+              "Limit interactions between different cultural groups",
+              "Require all citizens to abandon their heritage",
+              "Discourage cultural diversity",
+              "Recognize and support the value of cultural diversity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Studying Canada’s immigration and multicultural policies helps students understand ___.",
+            "options": [
+              "That immigration policy has no connection to Canadian identity",
+              "That multiculturalism has no historical or political significance",
+              "How Canada has shaped its identity as a diverse nation",
+              "That Canada has always been a closed, single-culture nation"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "label": "Day 49 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Personal Narrative with Reflection",
+        "summary": "Ontario Grade 6 Writing strand: a personal narrative with reflection tells a true story from the writer’s life and includes thoughtful reflection on what the experience meant or taught them.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A personal narrative is a story that is ___.",
+            "options": [
+              "True and based on the writer’s own experience",
+              "Written by someone else about a stranger",
+              "Always about historical events only",
+              "Entirely fictional"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Reflection in a personal narrative involves ___.",
+            "options": [
+              "Describing what the experience meant or taught the writer",
+              "Only listing events with no deeper thought",
+              "Ignoring the meaning of the experience entirely",
+              "Copying someone else’s story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is reflection an important part of a personal narrative?",
+            "options": [
+              "Reflection replaces the need for describing events",
+              "A narrative should never include the writer’s thoughts",
+              "Reflection has no value in personal writing",
+              "It helps convey the significance or lesson behind the experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of reflective writing in a personal narrative?",
+            "options": [
+              "The story has no connection to real events.",
+              "I woke up. I ate breakfast. I went to school.",
+              "The weather was cold that day.",
+              "That experience taught me the importance of asking for help."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A strong personal narrative often includes both ___.",
+            "options": [
+              "No storytelling elements at all",
+              "Only reflection with no actual story",
+              "Only a list of unrelated facts",
+              "Descriptive storytelling and meaningful reflection"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Simple and Compound Interest",
+        "summary": "Ontario Grade 6 Financial Literacy strand: simple interest is calculated only on the original amount, while compound interest is calculated on the original amount plus any interest already earned, causing savings to grow faster over time.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Simple interest is calculated based on ___.",
+            "options": [
+              "A completely random amount",
+              "Only the original amount",
+              "The original amount plus previously earned interest",
+              "Nothing related to the amount saved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compound interest is calculated based on ___.",
+            "options": [
+              "An amount unrelated to savings",
+              "The original amount plus interest already earned",
+              "Only the original amount, never changing",
+              "Only amounts borrowed, never saved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does compound interest generally cause savings to grow faster than simple interest?",
+            "options": [
+              "Compound interest is calculated exactly the same way as simple interest",
+              "Compound interest always results in less money over time",
+              "Interest is earned on both the original amount and previously earned interest",
+              "Interest rates are always higher with simple interest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you save money using compound interest, your balance grows because interest is calculated ___.",
+            "options": [
+              "Only on the interest, ignoring the original savings",
+              "On money not related to your account",
+              "Only once, at the very end",
+              "On both your original savings and prior interest earned"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of interest would likely result in a larger final amount after several years, assuming the same rate?",
+            "options": [
+              "Neither type of interest ever changes the final amount",
+              "Compound interest",
+              "They would always be exactly equal",
+              "Simple interest"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Human Impact on Climate Change",
+        "summary": "Ontario Grade 6 Science Earth and Space Systems strand: human activities, such as burning fossil fuels and deforestation, release greenhouse gases that contribute to changes in Earth’s climate over time.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which human activity is commonly linked to increased greenhouse gas emissions?",
+            "options": [
+              "Recycling materials",
+              "Planting more trees",
+              "Burning fossil fuels",
+              "Reducing energy use"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Deforestation can contribute to climate change by ___.",
+            "options": [
+              "Having no effect on the atmosphere",
+              "Reducing the number of trees that absorb carbon dioxide",
+              "Increasing the number of trees absorbing carbon dioxide",
+              "Removing all greenhouse gases immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Greenhouse gases contribute to climate change by ___.",
+            "options": [
+              "Cooling the atmosphere with no other effects",
+              "Immediately disappearing from the atmosphere",
+              "Having no connection to temperature",
+              "Trapping heat in Earth’s atmosphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might reducing fossil fuel use help address climate change?",
+            "options": [
+              "Fossil fuel use has no connection to greenhouse gases",
+              "It can help lower the amount of greenhouse gases released into the atmosphere",
+              "Reducing fossil fuel use always increases emissions",
+              "Climate change is unrelated to human activity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of an action that could help reduce human impact on climate change?",
+            "options": [
+              "Ignoring energy use entirely",
+              "Cutting down more forests with no replanting",
+              "Increasing the use of renewable energy sources",
+              "Increasing the burning of fossil fuels"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Climate Change as a Global Issue",
+        "summary": "Ontario Grade 6 Social Studies People and Environments strand: climate change affects countries around the world, requiring international cooperation among nations to address its causes and impacts.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Climate change is considered a global issue because ___.",
+            "options": [
+              "It is limited strictly to one continent",
+              "It has no international impact whatsoever",
+              "It only affects a single isolated location",
+              "It affects countries and regions around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "International cooperation on climate change often involves ___.",
+            "options": [
+              "Countries refusing to communicate about the issue",
+              "A single country solving the issue alone with no help",
+              "Countries working together to address shared environmental challenges",
+              "Ignoring the problem entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might addressing climate change require cooperation between many countries?",
+            "options": [
+              "Climate change only affects one specific country",
+              "Its causes and effects cross national borders and require coordinated action",
+              "International cooperation has no role in environmental issues",
+              "Countries never need to work together on shared problems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of international cooperation related to climate change?",
+            "options": [
+              "Countries participating in a global climate agreement",
+              "No form of cooperation has ever existed on this topic",
+              "Countries refusing to discuss the issue at all",
+              "A single country acting in complete isolation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is climate change considered relevant to social studies as well as science?",
+            "options": [
+              "Social studies has no relevance to environmental topics",
+              "Only scientists need to consider climate change",
+              "It involves political, economic, and social decisions among countries and communities",
+              "Climate change has no connection to social or political issues"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "label": "Day 50 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating Theme Across a Novel",
+        "summary": "Ontario Grade 6 Reading strand: evaluating theme across an entire novel involves tracing how a central idea develops and is reinforced through multiple events, characters, and details throughout the story.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Evaluating theme across a novel involves ___.",
+            "options": [
+              "Ignoring the plot and characters entirely",
+              "Tracing how a central idea develops throughout the story",
+              "Looking at a single isolated sentence only",
+              "Focusing only on the book’s cover"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A theme is often reinforced throughout a novel through ___.",
+            "options": [
+              "A single unrelated detail with no connection to the rest of the story",
+              "The font used in printing",
+              "The book’s price",
+              "Multiple events, characters, and details"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might tracing a theme across an entire novel be more complex than identifying it in a single passage?",
+            "options": [
+              "Longer texts never have identifiable themes",
+              "Themes never appear in longer works like novels",
+              "Themes are always stated directly in the first sentence",
+              "A novel’s theme often develops gradually through many connected parts of the story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a strategy for evaluating a novel’s theme?",
+            "options": [
+              "Considering how different characters’ experiences relate to a central idea",
+              "Only reading the very last page",
+              "Assuming every novel has the exact same theme",
+              "Ignoring the characters completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is evaluating theme considered a valuable skill for readers of longer texts?",
+            "options": [
+              "It deepens understanding of the author’s message across the whole work",
+              "It replaces the need to understand the plot",
+              "Only short texts can have meaningful themes",
+              "Theme evaluation has no benefit for understanding a novel"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Algebra, Proportional Reasoning, and Geometry",
+        "summary": "Ontario Grade 6 Number and Geometry strands review: this lesson revisits the distributive property, solving equations with fractions, proportional reasoning, multiplying and dividing integers, and classifying triangles.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Using the distributive property, what is 2 times (x + 5)?",
+            "options": [
+              "x + 10",
+              "2x + 7",
+              "2x + 10",
+              "2x + 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve for x: x/4 = 5.",
+            "options": [
+              "x = 9",
+              "x = 1.25",
+              "x = 20",
+              "x = 4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 4 notebooks cost $8, how much would 10 notebooks cost at the same rate?",
+            "options": [
+              "$16",
+              "$20",
+              "$18",
+              "$22"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is -6 times 3?",
+            "options": [
+              "18",
+              "-9",
+              "9",
+              "-18"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review algebra, proportional reasoning, and geometry skills together?",
+            "options": [
+              "Each topic must be learned in complete isolation",
+              "Review is never useful in math",
+              "These related math concepts reinforce each other for stronger overall understanding",
+              "These topics have no connection to each other"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Photosynthesis, Body Systems, and Physical Science",
+        "summary": "Ontario Grade 6 Science review: this lesson revisits photosynthesis, symbiosis, the immune system, Newton’s laws, the periodic table, sound waves, and human impact on climate covered across recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Photosynthesis allows plants to produce their own ___.",
+            "options": [
+              "Blood",
+              "Fur",
+              "Bones",
+              "Food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body system defends against harmful microorganisms?",
+            "options": [
+              "The muscular system only",
+              "The excretory system only",
+              "The immune system",
+              "The skeletal system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Newton’s first law describes how objects behave when ___.",
+            "options": [
+              "Forces have no effect on motion",
+              "No force acts on them",
+              "They have no mass",
+              "They are always accelerating with no cause"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Higher frequency sound waves generally produce a ___ pitch.",
+            "options": [
+              "Unchanged",
+              "Lower",
+              "Silent",
+              "Higher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review photosynthesis, body systems, and physical science together?",
+            "options": [
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "These topics are entirely unrelated to each other",
+              "Review provides no benefit in science",
+              "Each topic must always be studied in isolation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: World Empires and Global Challenges",
+        "summary": "Ontario Grade 6 Social Studies review: this lesson revisits the fall of Rome, the Byzantine Empire, the Mongol Empire, the Aztec and Inca civilizations, colonialism, decolonization, and climate change as a global issue.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which empire was centred in Constantinople and continued Roman and Greek traditions?",
+            "options": [
+              "The Byzantine Empire",
+              "The Aztec Empire",
+              "The Inca Empire",
+              "The Mongol Empire"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which empire, founded by Genghis Khan, became the largest contiguous land empire in history?",
+            "options": [
+              "The Aztec Empire",
+              "The Roman Empire",
+              "The Mongol Empire",
+              "The Byzantine Empire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Decolonization refers to colonized nations gaining ___.",
+            "options": [
+              "Complete isolation from the rest of the world",
+              "Independence from colonial powers",
+              "No political changes at all",
+              "New colonial rulers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Climate change is considered a global issue because it requires ___.",
+            "options": [
+              "No cooperation between countries",
+              "International cooperation to address its causes and effects",
+              "No connection to international relations",
+              "Action from only a single country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review world empires and global challenges together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in social studies",
+              "It helps reinforce how historical patterns of power and cooperation connect to challenges today",
+              "These topics have no meaningful connections"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
