@@ -517,6 +517,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Transformations — Translation, Reflection, Rotation", summary:"Ontario Geometry strand: transformations move or change shapes. A translation slides a shape, a reflection flips it over a line of symmetry, and a rotation turns it around a point.",
    resourceLabel:"YouTube: Geometry: Transformations — Translation, Reflection, Rotation", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20%E2%80%94%20Translation%2C%20Reflection%2C%20Rotation%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a6MQTpBSNBk",
    quiz:[
      {q:"Which transformation slides a shape to a new position without turning or flipping it?", options:["Translation","Reflection","Dilation","Rotation"], answer:0},
      {q:"A reflection flips a shape over:", options:["A line of symmetry (mirror line)","A centre point","A circle","An angle"], answer:0},
@@ -593,6 +594,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Introduction and Simple Experiments", summary:"Ontario Data Management strand: probability describes how likely an event is to happen, expressed as a fraction, decimal, or percent from 0 (impossible) to 1 (certain). Experimental probability is based on actual trials.",
    resourceLabel:"YouTube: Probability: Introduction and Simple Experiments", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Introduction%20and%20Simple%20Experiments%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"A bag has 3 red marbles and 7 blue marbles. The probability of picking a red marble is:", options:["1/3","7/10","3/7","3/10"], answer:3},
      {q:"An event with a probability of 0 is:", options:["Impossible","Likely to happen","Uncertain","Certain to happen"], answer:0},

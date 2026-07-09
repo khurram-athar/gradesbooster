@@ -476,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Quadratics, Trigonometry, and Analytic Geometry", summary:"Students consolidate Grade 10 math topics.",
    resourceLabel:"YouTube: Review: Quadratics, Trigonometry, and Analytic Geometry", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Veb22xD0Ao0",
    quiz:[
      {q:"Solve by the quadratic formula: x² − 4x − 5 = 0", options:["x = 4 and x = 1","x = 4 and x = −5","x = 5 and x = −1","x = −5 and x = 1"], answer:2},
      {q:"In a triangle with A = 40°, B = 75°, a = 12, find b using the Sine Law.", options:["b = 12 sin75° / sin40° ≈ 18.0","b = 12 sin40° / sin75°","b = sin75° / sin40°","b = 12 / sin75°"], answer:0},
@@ -485,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Electromagnetism Basics", summary:"Students explore electric fields, electric potential, magnetic fields, and how they interact — culminating in understanding electromagnetic induction.",
    resourceLabel:"YouTube: Physics: Electromagnetism Basics", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetism%20Basics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SCnGfE7qxHc",
    quiz:[
      {q:"Electric field lines show ___.", options:["the location of neutral particles","the direction of electron flow only","the path a test charge would take","magnetic force only"], answer:2},
      {q:"A magnetic field is created by ___.", options:["light waves","stationary electric charges","temperature differences","moving charges and permanent magnets"], answer:3},
@@ -494,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Contemporary Canadian Issues: Technology and Society", summary:"Students examine how digital technology and social media have transformed Canadian society, politics, and economy.",
    resourceLabel:"YouTube: Contemporary Canadian Issues: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canadian%20Issues%3A%20Technology%20and%20Society%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The digital economy has changed Canadian employment by ___.", options:["only benefiting urban workers","having no significant effect","only reducing jobs","new sectors, some jobs displaced"], answer:3},
      {q:"Social media platforms in Canada raise concerns about ___.", options:["only privacy issues","no significant concerns","privacy, disinformation, mental health","only political advertising"], answer:2},
@@ -523,6 +526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics and Chemistry: Nuclear Science", summary:"Students explore nuclear structure, radioactive decay (alpha, beta, gamma), half-life, nuclear fission and fusion, and their applications and risks.",
    resourceLabel:"YouTube: Physics and Chemistry: Nuclear Science", resourceUrl:"https://www.youtube.com/results?search_query=Physics%20and%20Chemistry%3A%20Nuclear%20Science%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fES21E0qebw",
    quiz:[
      {q:"Radioactive decay occurs when ___.", options:["electrons are removed from atoms","any atom is heated","an unstable nucleus releases energy","only man-made isotopes break down"], answer:2},
      {q:"Alpha radiation is ___.", options:["a high-energy photon","a fast electron","a helium nucleus","a neutron"], answer:2},
@@ -923,6 +927,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Literature: A Non-Western Perspective", summary:"Students read and analyse a novel or collection of short stories from a non-Western tradition (translated or originally in English), examining cultural context and literary universality.",
    resourceLabel:"YouTube: Literature: A Non-Western Perspective", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20A%20Non-Western%20Perspective%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=teL-A-Nrc1w",
    quiz:[
      {q:"Why study literature from non-Western traditions?", options:["It broadens views and challenges norms","Non-Western literature is too difficult","Only Western literature has universal themes","World literature uses only different settings"], answer:0},
      {q:"When reading literature in translation, it is important to acknowledge ___.", options:["that translation always involves interpretation","translations are always perfect","no meaning is lost in translation","the original text is irrelevant"], answer:0},

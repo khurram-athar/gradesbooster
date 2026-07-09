@@ -537,6 +537,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Halves", summary:"Ontario Grade 1 Number strand: students divide shapes and sets into two equal parts, using the language of halves and one-half.",
    resourceLabel:"YouTube: Fractions: Halves", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=362JVVvgYPE",
    quiz:[
      {q:"A half means dividing something into ___ equal parts.", options:["1","3","2","4"], answer:2},
      {q:"Which shows a half of a circle?", options:["2 equal semicircles","A whole circle","1 quarter","3/4 of a circle"], answer:0},
@@ -546,6 +547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Patterns", summary:"Ontario Grade 1 Earth and Space Systems strand: students observe and record daily weather conditions including temperature, precipitation, and cloud cover, identifying patterns over time.",
    resourceLabel:"YouTube: Weather Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oPq42NB2aTA",
    quiz:[
      {q:"Which tool measures air temperature?", options:["Scale","Ruler","Thermometer","Clock"], answer:2},
      {q:"What type of precipitation falls as solid flakes?", options:["Hail","Rain","Snow","Sleet"], answer:2},
@@ -575,6 +577,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Tally Charts", summary:"Ontario Grade 1 Data strand: students collect and organise data using tally marks, where each mark represents one item and a bundle of five is shown with a diagonal line.",
    resourceLabel:"YouTube: Data: Tally Charts", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Tally%20Charts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zF_dBk8EPDk",
    quiz:[
      {q:"One tally mark represents ___.", options:["10 items","1 item","2 items","5 items"], answer:1},
      {q:"A group of 5 tally marks looks like ___.", options:["IIIII","IIII","Four vertical lines","Four lines crossed by one diagonal line"], answer:3},
@@ -584,6 +587,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Sun", summary:"Ontario Grade 1 Earth and Space Systems strand: the Sun is a star, the centre of our solar system, and Earth's main source of heat and light. It causes day and night through Earth's rotation.",
    resourceLabel:"YouTube: The Sun", resourceUrl:"https://www.youtube.com/results?search_query=The%20Sun%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sePqPIXMsAc",
    quiz:[
      {q:"The Sun is a ___.", options:["Comet","Planet","Star","Moon"], answer:2},
      {q:"The Sun gives Earth heat and ___.", options:["Snow","Wind","Light","Rain"], answer:2},

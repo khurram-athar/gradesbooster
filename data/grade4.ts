@@ -517,6 +517,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Area and Perimeter", summary:"Grade 4 Measurement strand: perimeter is the distance around a shape; area is the space inside. Area of a rectangle = length × width; perimeter = 2(l + w).",
    resourceLabel:"YouTube: Area and Perimeter", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AAY1bsazcgM",
    quiz:[
      {q:"Perimeter is the ___.", options:["space inside a shape","weight of a shape","distance around the outside of a shape","height of a shape"], answer:2},
      {q:"Area is measured in ___.", options:["linear units (cm)","grams","cubic units (cm³)","square units (cm²)"], answer:3},
@@ -650,6 +651,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Culture and Arts", summary:"Grade 4 Social Studies: Canadian culture reflects Indigenous traditions and the contributions of people from many nations, expressed through music, art, literature, and celebrations.",
    resourceLabel:"YouTube: Canadian Culture and Arts", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Culture%20and%20Arts%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Canada's culture is ___.", options:["only British and French","uniform and the same everywhere","only Indigenous","shaped by many peoples and cultures"], answer:3},
      {q:"Which is a famous Canadian author?", options:["Charles Dickens","L.M. Montgomery (Anne of Green Gables)","William Shakespeare","Mark Twain"], answer:1},

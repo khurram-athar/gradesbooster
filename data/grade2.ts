@@ -537,6 +537,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting Coins", summary:"Canadian coins have different values: a penny = 1¢, a nickel = 5¢, a dime = 10¢, and a quarter = 25¢. We can add them together to find the total.",
    resourceLabel:"YouTube: Counting Coins", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Coins%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MbtmucV-U2c",
    quiz:[
      {q:"How much is one quarter worth?", options:["25¢","10¢","5¢","1¢"], answer:0},
      {q:"How much is one dime worth?", options:["25¢","10¢","5¢","1¢"], answer:1},
@@ -555,6 +556,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"How Communities Change Over Time", summary:"Communities change over time — buildings get built or torn down, technology changes, and people's ways of life are different from long ago.",
    resourceLabel:"YouTube: How Communities Change Over Time", resourceUrl:"https://www.youtube.com/results?search_query=How%20Communities%20Change%20Over%20Time%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FnF5I3_q0H4",
    quiz:[
      {q:"Long ago, how did most people travel?", options:["By car","By airplane","By subway","By horse, walking, or boat"], answer:3},
      {q:"How have communities changed over time?", options:["Buildings and technology have changed","They haven't changed at all","Only the weather changed","Communities disappear and reappear"], answer:0},
@@ -642,6 +644,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Story Elements: Character, Setting, Plot", summary:"Every story has three main elements: characters (who is in the story), setting (where and when it happens), and plot (what happens — beginning, middle, end).",
    resourceLabel:"YouTube: Story Elements: Character, Setting, Plot", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Elements%3A%20Character%2C%20Setting%2C%20Plot%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1M0pFLXegG0",
    quiz:[
      {q:"The 'setting' of a story is...", options:["The lesson learned","What happens at the end","Who is in the story","Where and when the story happens"], answer:3},
      {q:"The 'characters' in a story are...", options:["The places in the story","The people or animals in the story","The time of day","The main problem"], answer:1},

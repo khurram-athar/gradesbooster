@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Debate Skills and Structuring an Argument", summary:"Effective debaters organize claims, evidence, and rebuttals clearly, and listen carefully to counterarguments.",
    resourceLabel:"YouTube: Debate Skills and Structuring an Argument", resourceUrl:"https://www.youtube.com/results?search_query=Debate%20Skills%20and%20Structuring%20an%20Argument%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1TSkkxu8on0",
    quiz:[
      {q:"A rebuttal in a debate is...", options:["A summary of the topic","Irrelevant information","The opening statement only","A response challenging the other side"], answer:3},
      {q:"In a structured debate, each side usually presents...", options:["Only opinions with no support","Random facts","Claims backed by evidence","No evidence at all"], answer:2},
@@ -517,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Pythagorean Relationship (Intro)", summary:"In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides (a² + b² = c²).",
    resourceLabel:"YouTube: The Pythagorean Relationship (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=The%20Pythagorean%20Relationship%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nCD-bAEbB3I",
    quiz:[
      {q:"The Pythagorean relationship applies to which type of triangle?", options:["Any triangle","Obtuse triangle only","Right triangle","Equilateral triangle only"], answer:2},
      {q:"In a²+b²=c², 'c' represents the...", options:["Height only","Angle","Shortest side","Hypotenuse (longest side)"], answer:3},

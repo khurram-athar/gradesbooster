@@ -466,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Media: Creating a Digital Portfolio", summary:"Students curate, design, and reflect on a digital portfolio of their best work across Grade 12, developing skills in curation, self-presentation, and digital literacy.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=eCmNTrgmzdk",
    quiz:[
      {q:"A digital portfolio differs from a print portfolio in that ___.", options:["it can include only digital work","it can be hyperlinked and multimedia","it is always better","it never includes reflection"], answer:1},
      {q:"Curating a portfolio requires ___.", options:["including everything you've produced","only including the most recent work","only including error-free work","selecting pieces that show your range"], answer:3},
@@ -475,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Exam Preparation: Comprehensive Review", summary:"Students complete comprehensive review of all Advanced Functions content in preparation for final assessment.",
    resourceLabel:"Khan Academy: Advanced Math Review", resourceUrl:"https://www.youtube.com/watch?v=jKrEFOTScwU",
+   videoUrl:"https://www.youtube.com/watch?v=5NadGZg4lfI",
    quiz:[
      {q:"Find all zeros of P(x) = x⁴ − 5x² + 4.", options:["x = 1 and x = 4 only","x = ±1 and x = ±2","x = ±2 only","x = ±√5"], answer:1},
      {q:"Solve log₃(x + 2) + log₃(x) = 2.", options:["x = 3","x = 9","x = 7","x = −1+√10 ≈ 2.16 (from x²+2x−9=0)"], answer:3},
@@ -618,6 +620,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Postcolonial Literature: Writing Back to Empire", summary:"Students examine postcolonial theory and its application to literary texts — how writers from formerly colonised nations rewrite colonial narratives.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=G15p7uOc-aA",
+   videoUrl:"https://www.youtube.com/watch?v=wgIp1wjkEA8",
    quiz:[
      {q:"The term 'writing back' (Ashcroft et al.) refers to ___.", options:["only protest poetry","authors responding to publisher rejections","rewriting colonial canonical texts","only African literature"], answer:2},
      {q:"Chinua Achebe's critique of Conrad's Heart of Darkness argues ___.", options:["Conrad makes Africa a mere backdrop","the novel is flawless","the novel is primarily about navigation","Conrad was not a racist"], answer:0},

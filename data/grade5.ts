@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Author's Purpose", summary:"Authors write to persuade, inform, or entertain — and sometimes a combination of these purposes.",
    resourceLabel:"YouTube: Author's Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Author%27s%20Purpose%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Sr9MU0xuW5M",
    quiz:[
      {q:"A brochure filled with glowing descriptions encouraging tourists to visit Niagara Falls is written mainly to...", options:["Entertain with fiction","Inform with pure facts only","Confuse readers","Persuade"], answer:3},
      {q:"Which text would most likely combine BOTH informing and entertaining as its purpose?", options:["A tax form","A textbook chapter with no illustrations","A dictionary entry","An engaging story-driven documentary"], answer:3},

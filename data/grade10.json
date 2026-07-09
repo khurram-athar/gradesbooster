@@ -2775,6 +2775,7 @@
         "summary": "Students consolidate Grade 10 math topics.",
         "resourceLabel": "YouTube: Review: Quadratics, Trigonometry, and Analytic Geometry",
         "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Quadratics%2C%20Trigonometry%2C%20and%20Analytic%20Geometry%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Veb22xD0Ao0",
         "quiz": [
           {
             "q": "Solve by the quadratic formula: x² − 4x − 5 = 0",
@@ -2834,6 +2835,7 @@
         "summary": "Students explore electric fields, electric potential, magnetic fields, and how they interact — culminating in understanding electromagnetic induction.",
         "resourceLabel": "YouTube: Physics: Electromagnetism Basics",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%3A%20Electromagnetism%20Basics%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SCnGfE7qxHc",
         "quiz": [
           {
             "q": "Electric field lines show ___.",
@@ -2893,6 +2895,7 @@
         "summary": "Students examine how digital technology and social media have transformed Canadian society, politics, and economy.",
         "resourceLabel": "YouTube: Contemporary Canadian Issues: Technology and Society",
         "resourceUrl": "https://www.youtube.com/results?search_query=Contemporary%20Canadian%20Issues%3A%20Technology%20and%20Society%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "The digital economy has changed Canadian employment by ___.",
@@ -3076,6 +3079,7 @@
         "summary": "Students explore nuclear structure, radioactive decay (alpha, beta, gamma), half-life, nuclear fission and fusion, and their applications and risks.",
         "resourceLabel": "YouTube: Physics and Chemistry: Nuclear Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Physics%20and%20Chemistry%3A%20Nuclear%20Science%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=fES21E0qebw",
         "quiz": [
           {
             "q": "Radioactive decay occurs when ___.",
@@ -5620,6 +5624,7 @@
         "summary": "Students read and analyse a novel or collection of short stories from a non-Western tradition (translated or originally in English), examining cultural context and literary universality.",
         "resourceLabel": "YouTube: Literature: A Non-Western Perspective",
         "resourceUrl": "https://www.youtube.com/results?search_query=Literature%3A%20A%20Non-Western%20Perspective%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=teL-A-Nrc1w",
         "quiz": [
           {
             "q": "Why study literature from non-Western traditions?",

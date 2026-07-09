@@ -466,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Media Analysis: Advertising and Consumer Culture", summary:"Students critically analyse advertising techniques, examining how ads construct desire, identity, and social norms, and practise writing critical media analysis.",
    resourceLabel:"YouTube: Media Analysis: Advertising and Consumer Culture", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Analysis%3A%20Advertising%20and%20Consumer%20Culture%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PwXFmqQCK60",
    quiz:[
      {q:"Advertising creates desire by ___.", options:["linking products to values and emotions","always telling the truth about products","only using celebrity endorsements","only providing product information"], answer:0},
      {q:"The male gaze in advertising (Laura Mulvey's concept) refers to ___.", options:["all advertising using the same angle","showing the world from a male viewpoint","only female consumers seeing ads","only how men look at ads"], answer:1},
@@ -475,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Probability: Conditional Probability and Independent Events", summary:"Students examine classical and experimental probability, conditional probability, independent and dependent events, and Bayes' theorem (introductory).",
    resourceLabel:"YouTube: Probability: Conditional Probability and Independent Events", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Conditional%20Probability%20and%20Independent%20Events%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=D7B17klZmAU",
    quiz:[
      {q:"Two events A and B are independent if ___.", options:["P(A ∩ B) = 0","P(A ∩ B) = P(A) × P(B)","P(A) = P(B)","P(A) + P(B) = 1"], answer:1},
      {q:"Conditional probability P(A|B) means ___.", options:["P(A) − P(B)","P(A) + P(B)","P(A ∩ B)/P(B)","P(A) × P(B)"], answer:2},
@@ -493,6 +495,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Electrochemistry: Batteries and Industrial Applications", summary:"Students examine common battery types, fuel cells, the Downs cell, the chlor-alkali process, and environmental considerations of electrochemical technologies.",
    resourceLabel:"YouTube: Electrochemistry: Batteries and Industrial Applications", resourceUrl:"https://www.youtube.com/results?search_query=Electrochemistry%3A%20Batteries%20and%20Industrial%20Applications%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2VT5rl8P84M",
    quiz:[
      {q:"A fuel cell differs from a battery in that ___.", options:["batteries are always rechargeable","fuel cells have no reaction","fuel cells produce no electricity","it makes electricity as long as fueled"], answer:3},
      {q:"The hydrogen fuel cell produces ___.", options:["CO₂ and water","only water vapour","electricity, with water as the only byproduct — making it a very clean energy source if the hydrogen is produced from renewable energy","only hydrogen gas"], answer:1},
@@ -531,6 +534,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry Review: Major Concepts and Connections", summary:"Students connect and review the major themes of Grade 11 Chemistry — bonding, stoichiometry, solutions, equilibrium, organic chemistry, and electrochemistry.",
    resourceLabel:"YouTube: Chemistry Review: Major Concepts and Connections", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Review%3A%20Major%20Concepts%20and%20Connections%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
    quiz:[
      {q:"The unifying concept connecting bonding, stoichiometry, and equilibrium is ___.", options:["electronegativity only","the periodic table","energy — chemical reactions involve energy changes arising from bond breaking and forming; stoichiometry tracks atom amounts conserved in reactions; equilibrium describes energy-determined stable states","conservation of mass"], answer:1},
      {q:"Le Chatelier's principle and biological enzyme regulation are connected because ___.", options:["enzyme systems are exothermic always","enzymes do not reach equilibrium","they are completely different","cells regulate biochemical pathways by feedback inhibition"], answer:3},

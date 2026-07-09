@@ -593,6 +593,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Likely, Unlikely, Certain, Impossible", summary:"Students use probability language to describe the likelihood of events.",
    resourceLabel:"YouTube: Probability: Likely, Unlikely, Certain, Impossible", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Likely%2C%20Unlikely%2C%20Certain%2C%20Impossible%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0wjyvZ2hxvs",
    quiz:[
      {q:"An event is 'certain' if ___.", options:["it will definitely happen every time","it happens by chance","it sometimes happens","it will never happen"], answer:0},
      {q:"An event is 'impossible' if ___.", options:["it will definitely happen","it might happen","it cannot possibly happen","it has never happened before"], answer:2},

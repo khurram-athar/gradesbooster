@@ -2715,6 +2715,7 @@
         "summary": "Students curate, design, and reflect on a digital portfolio of their best work across Grade 12, developing skills in curation, self-presentation, and digital literacy.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=eCmNTrgmzdk",
         "quiz": [
           {
             "q": "A digital portfolio differs from a print portfolio in that ___.",
@@ -2774,6 +2775,7 @@
         "summary": "Students complete comprehensive review of all Advanced Functions content in preparation for final assessment.",
         "resourceLabel": "Khan Academy: Advanced Math Review",
         "resourceUrl": "https://www.youtube.com/watch?v=jKrEFOTScwU",
+        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "Find all zeros of P(x) = x⁴ − 5x² + 4.",
@@ -3683,6 +3685,7 @@
         "summary": "Students examine postcolonial theory and its application to literary texts — how writers from formerly colonised nations rewrite colonial narratives.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=G15p7uOc-aA",
+        "videoUrl": "https://www.youtube.com/watch?v=wgIp1wjkEA8",
         "quiz": [
           {
             "q": "The term 'writing back' (Ashcroft et al.) refers to ___.",
