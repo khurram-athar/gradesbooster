@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Research Essay — Sources and Integration", summary:"Students find, evaluate, and ethically integrate source material into a research essay. They practise paraphrasing, quoting, and citing sources.",
    resourceLabel:"YouTube: Writing: The Research Essay — Sources and Integration", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Research%20Essay%20%E2%80%94%20Sources%20and%20Integration%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z0-V25IEZqE",
    quiz:[
      {q:"Plagiarism is ___.", options:["using a dictionary","only copying entire essays","summarising your own ideas","presenting another's work as your own"], answer:3},
      {q:"Paraphrasing means ___.", options:["restating an idea in your own words","changing only a few words from the original","using quotation marks around copied text","copying text word for word"], answer:0},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning: Arithmetic and Geometric Sequences", summary:"Students identify, extend, and create arithmetic sequences (constant difference) and geometric sequences (constant ratio). They write general terms.",
    resourceLabel:"YouTube: Patterning: Arithmetic and Geometric Sequences", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%3A%20Arithmetic%20and%20Geometric%20Sequences%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_h6leOD0juY",
    quiz:[
      {q:"An arithmetic sequence has ___.", options:["a constant ratio between terms","no pattern","random differences","a constant difference (common difference) between consecutive terms"], answer:0},
      {q:"A geometric sequence has ___.", options:["only positive numbers","no pattern","a constant difference","a constant ratio between terms"], answer:3},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: The Immune System", summary:"Students explore how the body defends itself — physical barriers, innate immunity, and adaptive immunity (B cells, T cells, antibodies, vaccines).",
    resourceLabel:"YouTube: Cells: The Immune System", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20The%20Immune%20System%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_jBpv9fYSU4",
    quiz:[
      {q:"The first line of defence against pathogens includes ___.", options:["blood cells","skin and mucous membranes","T cells","antibodies"], answer:1},
      {q:"The innate immune response is ___.", options:["slow and targeted","specific to each pathogen","fast and non-specific","inactive until vaccines are given"], answer:2},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"WWII: Canada's Role", summary:"Students examine Canada's military contributions to WWII — the Battle of Britain, Dieppe, Sicily, D-Day — and the impact on the home front.",
    resourceLabel:"YouTube: WWII: Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=WWII%3A%20Canada%27s%20Role%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"Canada's contribution to the Battle of Britain (1940) included ___.", options:["only ground troops","RCAF pilots who flew alongside the RAF","sending a naval fleet only","an invasion of Germany"], answer:1},
      {q:"The Dieppe Raid (1942) was ___.", options:["a disastrous, mostly-Canadian raid","irrelevant to Canada","a secret spy mission","a major Allied victory"], answer:0},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Novel Study: Character and Conflict", summary:"Students analyse how conflict shapes character development. They distinguish types of conflict and trace how characters respond and change.",
    resourceLabel:"YouTube: Novel Study: Character and Conflict", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20and%20Conflict%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qrwtSr_-Omw",
    quiz:[
      {q:"The five main types of literary conflict are ___.", options:["person vs person, self, society, nature","only two types exist","only internal","only person vs. person"], answer:0},
      {q:"An internal conflict (person vs. self) involves ___.", options:["a character battling a storm","a struggle with one's own emotions","a character vs. society","a character fighting another character"], answer:1},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Simple and Compound Interest", summary:"Students calculate simple interest (I = Prt) and compound interest, and understand the difference in long-term growth.",
    resourceLabel:"YouTube: Financial Literacy: Simple and Compound Interest", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Simple%20and%20Compound%20Interest%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=79HS3N1IBt8",
    quiz:[
      {q:"Simple interest is calculated using ___.", options:["I = P + r + t","I = P(1+r)^t","I = Prt² ","I = Prt (Principal × rate × time)"], answer:3},
      {q:"Compound interest differs from simple interest because ___.", options:["it uses a different formula for the same result","it is always lower","it is always higher","interest earns interest over time"], answer:3},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Environmental Applications", summary:"Students connect fluid properties to environmental contexts — ocean currents, atmospheric pressure, water treatment, and the effects of pollution on fluid systems.",
    resourceLabel:"YouTube: Fluids: Environmental Applications", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Environmental%20Applications%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DYnaNoDdVYo",
    quiz:[
      {q:"Ocean currents are driven by ___.", options:["temperature, salinity, and wind","only temperature","tidal forces only","only wind"], answer:0},
      {q:"Atmospheric pressure decreases with altitude because ___.", options:["the Earth's gravity decreases sharply","there is less air above you","the air gets warmer","there is more air above you"], answer:1},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Cold War and Canada", summary:"Students examine the Cold War, Canada's role in NATO, the Korean War, the Cuban Missile Crisis, and peacekeeping.",
    resourceLabel:"YouTube: The Cold War and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Cold%20War%20and%20Canada%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=I79TpDe3t2g",
    quiz:[
      {q:"The Cold War was a conflict between ___.", options:["Canada and the United States","France and Germany","China and Japan","NATO and the Warsaw Pact"], answer:3},
      {q:"Canada's key role in the Cold War included ___.", options:["supporting the Soviet Union","NATO, NORAD, Korea, and peacekeeping","neutral isolation","invading Eastern Europe"], answer:1},

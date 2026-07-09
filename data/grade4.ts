@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Grammar: Adverbs", summary:"Grade 4 Language strand: adverbs modify verbs, adjectives, or other adverbs. They tell how, when, where, or to what degree something happens.",
    resourceLabel:"YouTube: Grammar: Adverbs", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cAHgn61uXog",
    quiz:[
      {q:"An adverb modifies a ___.", options:["preposition only","verb, adjective, or another adverb","noun only","pronoun only"], answer:1},
      {q:"Which word is an adverb in: She spoke softly?", options:["She","spoke","(no adverb)","softly"], answer:3},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterns: Numeric and Geometric", summary:"Grade 4 Algebra and Patterning strand: numeric patterns follow a mathematical rule; geometric patterns involve shapes. Students identify rules and extend patterns.",
    resourceLabel:"YouTube: Patterns: Numeric and Geometric", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Numeric%20and%20Geometric%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vV7C7bXm4VI",
    quiz:[
      {q:"What is the rule? 3, 6, 9, 12...", options:["add 2","add 3","add 4","multiply by 2"], answer:1},
      {q:"What comes next? 1, 2, 4, 8, 16, ___", options:["24","18","20","32"], answer:3},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound: Vibration and Frequency", summary:"Grade 4 Science Energy strand: sounds are made by vibrations. Frequency determines pitch — higher frequency = higher pitch. Amplitude determines volume.",
    resourceLabel:"YouTube: Sound: Vibration and Frequency", resourceUrl:"https://www.youtube.com/results?search_query=Sound%3A%20Vibration%20and%20Frequency%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fe2DAWI7ZM4",
    quiz:[
      {q:"Sound is caused by ___.", options:["magnetic fields","light waves","electrical signals","vibrations"], answer:3},
      {q:"Frequency refers to ___.", options:["how loud a sound is","how many vibrations per second","the speed of light","how far sound travels"], answer:1},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Geography: Provinces and Territories", summary:"Grade 4 Social Studies: Canada has 10 provinces and 3 territories. Each has a capital city and distinct geographic features.",
    resourceLabel:"YouTube: Canadian Geography: Provinces and Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Geography%3A%20Provinces%20and%20Territories%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"How many provinces does Canada have?", options:["12","10","9","8"], answer:1},
      {q:"How many territories does Canada have?", options:["2","4","3","1"], answer:2},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Vocabulary: Context Clues", summary:"Grade 4 Language strand: context clues are words and phrases near an unknown word that help you determine its meaning without a dictionary.",
    resourceLabel:"YouTube: Vocabulary: Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%3A%20Context%20Clues%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CiNggzdWkIo",
    quiz:[
      {q:"Context clues are ___.", options:["words nearby that hint at meaning","only antonyms","only synonyms","definitions found in the glossary"], answer:0},
      {q:"Which type of context clue gives a definition within the text?", options:["Restatement clue: 'X, which means...'","Inference clue","Synonym clue","Antonym clue"], answer:0},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Angles", summary:"Grade 4 Geometry strand: an angle is formed by two rays with a common endpoint. A right angle = 90°, acute angle < 90°, obtuse angle > 90°.",
    resourceLabel:"YouTube: Geometry: Angles", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aOipc02LUpo",
    quiz:[
      {q:"A right angle measures exactly ___.", options:["180°","45°","60°","90°"], answer:3},
      {q:"An acute angle measures ___.", options:["180°","less than 90°","more than 90°","exactly 90°"], answer:1},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pulleys and Gears", summary:"Grade 4 Science Energy strand: pulleys and gears are simple machines that redirect or change force. Gears can speed up or slow down motion and change direction.",
    resourceLabel:"YouTube: Pulleys and Gears", resourceUrl:"https://www.youtube.com/results?search_query=Pulleys%20and%20Gears%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=t5zJ80OWLUk",
    quiz:[
      {q:"A pulley is used to ___.", options:["generate electricity","increase temperature","lift or move loads by redirecting force","make objects glow"], answer:2},
      {q:"In a fixed pulley, the force needed to lift a load ___.", options:["halves","doubles","triples","stays the same (only direction changes)"], answer:3},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario Geography", summary:"Grade 4 Social Studies: Ontario is Canada's most populous province with diverse geography including the Great Lakes, Canadian Shield, and Great Lakes–St. Lawrence Lowlands.",
    resourceLabel:"YouTube: Ontario Geography", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%20Geography%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QBQ5ZhHlkkY",
    quiz:[
      {q:"Ontario borders how many of the Great Lakes?", options:["2","3","5","4"], answer:3},
      {q:"The Canadian Shield in Ontario is characterized by ___.", options:["ancient rock, forests, and lakes","mountain ranges","dry desert","flat prairies"], answer:0},

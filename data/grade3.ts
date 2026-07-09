@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Reading: Point of View", summary:"Students identify the narrator's point of view (first person: I, me; third person: he, she, they) and consider how different perspectives shape the telling of a story.",
    resourceLabel:"YouTube: Reading: Point of View", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Point%20of%20View%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KyGMJ3CsyUY",
    quiz:[
      {q:"First-person point of view uses the pronouns ___.", options:["he, she, they","it, its","you, your","I, me, my, we"], answer:3},
      {q:"Third-person point of view uses the pronouns ___.", options:["you, your","we, us","I, me, my","he, she, they, his, her, their"], answer:3},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Tally Charts and Bar Graphs", summary:"Students collect data using tally marks and represent it in a bar graph. They read and interpret graphs to answer questions.",
    resourceLabel:"YouTube: Data: Tally Charts and Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Tally%20Charts%20and%20Bar%20Graphs%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zF_dBk8EPDk",
    quiz:[
      {q:"In a tally chart, a group of 5 is shown as ___.", options:["VVVVV","||||","four lines with one diagonal through","IIIII"], answer:2},
      {q:"A bar graph shows data using ___.", options:["dots","bars of different heights","only circles","lines only"], answer:1},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weathering and Erosion", summary:"Students learn how wind, water, ice, and plants break down and move rocks (weathering and erosion), shaping the landscape over time.",
    resourceLabel:"YouTube: Weathering and Erosion", resourceUrl:"https://www.youtube.com/results?search_query=Weathering%20and%20Erosion%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QJUs4e2X5Uo",
    quiz:[
      {q:"Weathering is the process of ___.", options:["rocks breaking down over time","building up rocks","plants growing","flooding only"], answer:0},
      {q:"Erosion is ___.", options:["plant growth","breaking rocks into minerals","moving weathered material elsewhere","the build-up of sediment in one place"], answer:2},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Mapping Skills: Grid References", summary:"Students use a grid (using letters and numbers) to locate places on a map and practise reading coordinates.",
    resourceLabel:"YouTube: Mapping Skills: Grid References", resourceUrl:"https://www.youtube.com/results?search_query=Mapping%20Skills%3A%20Grid%20References%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QIrELLSWWB8",
    quiz:[
      {q:"A map grid uses ___ and ___ to name locations.", options:["symbols and pictures","letters and numbers","flags and icons","colours and shapes"], answer:1},
      {q:"If a city is at B3 on a grid map, where is it?", options:["Row B, column 3","Row C, column 2","Row 3, column B","Row A, column 3"], answer:0},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the 'look-cover-write-check' strategy to spell words accurately.",
    resourceLabel:"YouTube: Spelling Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Strategies%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Jf_RzTqwnNY",
    quiz:[
      {q:"The 'look, cover, write, check' strategy helps you ___.", options:["draw pictures","do maths","read faster","practise spelling by seeing, hiding, writing, and verifying the word"], answer:1},
      {q:"A word family shares the same ___.", options:["number of syllables","first letter","the same spelling pattern (e.g., -at)","only vowels"], answer:2},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Comparing and Equivalent", summary:"Students compare fractions with the same denominator and explore simple equivalent fractions (1/2 = 2/4).",
    resourceLabel:"YouTube: Fractions: Comparing and Equivalent", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20and%20Equivalent%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KNdUJQ_qd4U",
    quiz:[
      {q:"Which is larger: 3/5 or 1/5?", options:["Cannot tell","3/5","1/5","They are equal"], answer:1},
      {q:"Equivalent fractions are ___.", options:["only whole numbers","different fractions, same amount","always improper","fractions with the same numerator"], answer:1},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animals and Their Habitats (Ontario Focus)", summary:"Students study specific Ontario habitats (boreal forest, Great Lakes wetlands, grasslands) and animals adapted to each.",
    resourceLabel:"YouTube: Animals and Their Habitats (Ontario Focus)", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20and%20Their%20Habitats%20%28Ontario%20Focus%29%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xj1ASC-TlsI",
    quiz:[
      {q:"The boreal forest in Ontario is characterized by ___.", options:["palm trees and warm weather","sandy deserts","tropical animals","dense evergreen trees and cold winters"], answer:3},
      {q:"A wetland habitat provides ___.", options:["only open water","only fish","no wildlife","shallow water and dense plant life"], answer:3},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Settlement Patterns in Ontario", summary:"Students explore why early communities developed where they did — near rivers, lakes, trade routes — and how settlement patterns continue to evolve.",
    resourceLabel:"YouTube: Settlement Patterns in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Settlement%20Patterns%20in%20Ontario%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aoK8LYG23y8",
    quiz:[
      {q:"Early Ontario communities were most often built ___.", options:["on mountain tops","near rivers and lakes","in the middle of dense forests far from water","in deserts"], answer:1},
      {q:"Why was access to water important for early settlements?", options:["Rivers gave water, food, and transport","Only for hunting","It was not","Only for bathing"], answer:0},

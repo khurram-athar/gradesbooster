@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Persuasion Techniques in Advertising", summary:"Ontario Media Literacy strand: advertisers use techniques like celebrity endorsement, bandwagon appeal, fear appeals, and repetition to persuade consumers. Recognizing these techniques builds critical media skills.",
    resourceLabel:"YouTube: Persuasion Techniques in Advertising", resourceUrl:"https://www.youtube.com/results?search_query=Persuasion%20Techniques%20in%20Advertising%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YG1FfC8vpeY",
    quiz:[
      {q:"The 'bandwagon' technique in advertising appeals to:", options:["Celebrity authority","Fear of missing out","Scientific evidence","Logical reasoning"], answer:1},
      {q:"A celebrity endorses a product in a commercial. This technique works because:", options:["It provides scientific evidence","It gives the consumer facts","Feelings for the celebrity transfer","Celebrities always test products before advertising them"], answer:2},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Decimals: Multiplying and Dividing", summary:"Ontario Number strand: multiplying decimals is similar to multiplying whole numbers, then placing the decimal point. Dividing decimals uses similar strategies, and estimation helps check reasonableness.",
    resourceLabel:"YouTube: Decimals: Multiplying and Dividing", resourceUrl:"https://www.youtube.com/results?search_query=Decimals%3A%20Multiplying%20and%20Dividing%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Htt09rY9I_A",
    quiz:[
      {q:"2.4 × 3 = ?", options:["7.12","6.4","0.72","7.2"], answer:3},
      {q:"0.6 × 0.4 = ?", options:["24","2.4","0.24","0.024"], answer:2},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Solar System: Planets and Their Order", summary:"Ontario Grade 6 Science — Space Exploration strand: our solar system contains the Sun and eight planets. The inner rocky planets differ from the outer gas giants in composition, size, and distance from the Sun.",
    resourceLabel:"YouTube: The Solar System: Planets and Their Order", resourceUrl:"https://www.youtube.com/results?search_query=The%20Solar%20System%3A%20Planets%20and%20Their%20Order%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qd6nLM2QlWw",
    quiz:[
      {q:"Which planet is closest to the Sun?", options:["Earth","Venus","Mercury","Mars"], answer:2},
      {q:"What is the correct order of the first four planets from the Sun?", options:["Mars, Earth, Venus, Mercury","Venus, Mercury, Earth, Mars","Mercury, Venus, Earth, Mars","Earth, Venus, Mercury, Mars"], answer:2},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Renaissance: Art, Science, and Humanism", summary:"Ontario Grade 6 Social Studies — Renaissance and Reformation: the Renaissance was a period of renewed interest in art, science, and classical learning. Humanism placed human potential and reason at the centre of thought.",
    resourceLabel:"YouTube: The Renaissance: Art, Science, and Humanism", resourceUrl:"https://www.youtube.com/results?search_query=The%20Renaissance%3A%20Art%2C%20Science%2C%20and%20Humanism%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GOjBbkGiwq0",
    quiz:[
      {q:"The Renaissance began in which country?", options:["France","England","Italy","Germany"], answer:2},
      {q:"Renaissance humanism emphasized:", options:["The rejection of ancient Greek and Roman learning","Strict religious obedience above all","The importance of afterlife over earthly concerns","The value of human achievement, reason, and individual potential"], answer:3},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Oral Communication: Elements of Effective Presentations", summary:"Ontario Oral Communication strand: effective presentations use clear organization, appropriate volume and pace, eye contact, and visual aids. Speakers engage their audience and manage nervous energy.",
    resourceLabel:"YouTube: Oral Communication: Elements of Effective Presentations", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Elements%20of%20Effective%20Presentations%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nD5qE3C0gYM",
    quiz:[
      {q:"Why is eye contact important in a presentation?", options:["It shows you memorized the text","It helps you read from notes","It connects with the audience","It is not important"], answer:2},
      {q:"Speaking too fast in a presentation is a problem because:", options:["It shows too much enthusiasm","The audience has too much time to think","It always makes audiences laugh","Listeners may miss important points"], answer:3},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Angles — Types and Measurement", summary:"Ontario Geometry strand: angles are classified as acute (less than 90°), right (90°), obtuse (90°–180°), straight (180°), and reflex (more than 180°). A protractor is used to measure angles.",
    resourceLabel:"YouTube: Geometry: Angles — Types and Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angles%20%E2%80%94%20Types%20and%20Measurement%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9RTM418qfdI",
    quiz:[
      {q:"An angle of 135° is classified as:", options:["Acute","Reflex","Obtuse","Right"], answer:2},
      {q:"How many degrees are in a right angle?", options:["90°","45°","180°","360°"], answer:0},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Exploring Space: Telescopes and Space Missions", summary:"Ontario Space Exploration strand: humans have explored space using telescopes, satellites, and crewed missions. Space exploration has led to technological advances and a better understanding of our solar system and universe.",
    resourceLabel:"YouTube: Exploring Space: Telescopes and Space Missions", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Space%3A%20Telescopes%20and%20Space%20Missions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8Sl8m5-Tutk",
    quiz:[
      {q:"The Hubble Space Telescope is valuable because:", options:["It was the first satellite in space","It images space above the atmosphere","It is on Mars","It travels to other galaxies"], answer:1},
      {q:"Which was the first crewed mission to land on the Moon?", options:["Mercury 3","Apollo 7","Gemini 4","Apollo 11"], answer:3},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Reformation: Challenging Church Authority", summary:"Ontario Grade 6 Social Studies — Renaissance and Reformation: the Protestant Reformation began when reformers like Martin Luther challenged the practices and authority of the Catholic Church, leading to the formation of Protestant churches.",
    resourceLabel:"YouTube: The Reformation: Challenging Church Authority", resourceUrl:"https://www.youtube.com/results?search_query=The%20Reformation%3A%20Challenging%20Church%20Authority%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1o8oIELbNxE",
    quiz:[
      {q:"Martin Luther's 95 Theses (1517) were a:", options:["Poem about the Renaissance","Complaints that sparked the Reformation","Letter to the Pope requesting a new pope","Document creating a new country"], answer:1},
      {q:"The practice of selling 'indulgences' that Luther criticized was:", options:["A type of Renaissance art","The Church selling pardons for sins","A medieval farming technique","A way for the poor to buy land"], answer:1},

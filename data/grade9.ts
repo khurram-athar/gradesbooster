@@ -434,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving and Graphing Inequalities", summary:"Solve one- and two-step inequalities and represent the solution set on a number line (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Solving and Graphing Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20and%20Graphing%20Inequalities%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DrZJKdXlZ3I",
    quiz:[
      {q:"Solve: x + 3 > 7", options:["x = 4","x > 10","x < 4","x > 4"], answer:3},
      {q:"When you multiply or divide both sides of an inequality by a negative number, you must...", options:["Keep the sign the same","Flip the inequality sign","Remove the variable","Set the expression equal to zero"], answer:1},
@@ -443,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cell Structure and Organelle Functions", summary:"Identify the major organelles of plant and animal cells and explain their roles (SNC1W Biology strand).",
    resourceLabel:"YouTube: Cell Structure and Organelle Functions", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Structure%20and%20Organelle%20Functions%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=URUJD5NEXC8",
    quiz:[
      {q:"The organelle that controls cell activities and contains DNA is the...", options:["Mitochondria","Vacuole","Nucleus","Ribosome"], answer:2},
      {q:"Mitochondria are often called the 'powerhouse of the cell' because they...", options:["Store water","Produce ATP through respiration","Build proteins","Control cell division"], answer:1},
@@ -452,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Hazards and Geographic Risk", summary:"Examine how geographic location determines a region's exposure to natural hazards like earthquakes, floods, and volcanoes (CGC1W).",
    resourceLabel:"YouTube: Natural Hazards and Geographic Risk", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Hazards%20and%20Geographic%20Risk%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-FBq5lE1Kz0",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["The centres of continents","Tectonic plate boundaries","Mountain peaks only","Ocean surfaces only"], answer:1},
      {q:"A flood plain is a geographic area that is...", options:["Found only in desert regions","Always located near volcanoes","Prone to flooding near rivers","Never at risk from natural hazards"], answer:2},
@@ -463,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Comparing Print and Digital Media Texts", summary:"Compare how print and digital texts present information differently and consider the effects on the audience (ENL1W Strand C).",
    resourceLabel:"YouTube: Comparing Print and Digital Media Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Print%20and%20Digital%20Media%20Texts%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
    quiz:[
      {q:"One key difference between print and digital media is that digital texts can include...", options:["Only still images","Hyperlinks and interactive multimedia","Longer paragraphs only","Never include data"], answer:1},
      {q:"When comparing two texts on the same topic, a reader should consider...", options:["Only which text is longer","The font choice alone","Only which text was published first","Purpose, audience, and evidence used"], answer:3},
@@ -472,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Expanding Using the Distributive Property", summary:"Apply the distributive property to expand algebraic expressions including binomial multiplication (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Expanding Using the Distributive Property", resourceUrl:"https://www.youtube.com/results?search_query=Expanding%20Using%20the%20Distributive%20Property%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=v-6MShC82ow",
    quiz:[
      {q:"Expand: 4(3x - 5)", options:["12x - 5","7x - 20","12x + 20","12x - 20"], answer:3},
      {q:"Expand: (x + 3)(x + 2)", options:["x² + 5x + 5","x² + 6","x² + 6x + 6","x² + 5x + 6"], answer:3},
@@ -481,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Photosynthesis and Cellular Respiration Overview", summary:"Compare photosynthesis and cellular respiration as complementary processes that cycle energy and matter in living organisms (SNC1W).",
    resourceLabel:"YouTube: Photosynthesis and Cellular Respiration Overview", resourceUrl:"https://www.youtube.com/results?search_query=Photosynthesis%20and%20Cellular%20Respiration%20Overview%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eJ9Zjc-jdys",
    quiz:[
      {q:"Photosynthesis converts light energy into...", options:["Chemical energy stored in glucose","Mechanical energy","Sound energy","Electrical energy"], answer:0},
      {q:"The raw materials for photosynthesis are...", options:["Carbon dioxide and water","Nitrogen and water","Carbon dioxide and oxygen","Oxygen and glucose"], answer:0},
@@ -490,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Globalization and Local Economies", summary:"Examine how globalization — the increasing interconnectedness of world economies, cultures, and trade — affects local communities (CGC1W).",
    resourceLabel:"YouTube: Globalization and Local Economies", resourceUrl:"https://www.youtube.com/results?search_query=Globalization%20and%20Local%20Economies%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9MpVjxxpExM",
    quiz:[
      {q:"Globalization refers to...", options:["Only the spread of a single language worldwide","The isolation of national economies from each other","A type of local farming practice","Growing global economic ties"], answer:3},
      {q:"One potential benefit of globalization for consumers is...", options:["No access to foreign-made goods","Access to more goods at lower prices","Reduced variety in stores","Always higher prices for all products"], answer:1},

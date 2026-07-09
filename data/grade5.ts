@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Idioms and Expressions", summary:"An idiom is a phrase whose meaning is different from the literal meaning of the words, like 'break the ice.'",
    resourceLabel:"YouTube: Idioms and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Idioms%20and%20Expressions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ffl2C1ogD58",
    quiz:[
      {q:"A character says 'I'm feeling under the weather today.' What does this idiom most likely mean?", options:["They are not feeling well","They are outside in bad weather","They are talking about a storm","They are very happy"], answer:0},
      {q:"Which sentence uses an idiom correctly to mean someone is very nervous?", options:["She had butterflies in her stomach.","She ate butterflies for lunch.","She had a stomach ache from lunch.","She felt calm before the show."], answer:0},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Prime and Composite Numbers", summary:"A prime number has exactly two factors (1 and itself); a composite number has more than two factors.",
    resourceLabel:"YouTube: Prime and Composite Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Prime%20and%20Composite%20Numbers%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ydm2cxacPIM",
    quiz:[
      {q:"A number's only factors are 1, 2, 4, and itself (8). What kind of number is it?", options:["Both prime and composite","Neither prime nor composite","Composite","Prime"], answer:2},
      {q:"Which number between 20 and 30 is prime?", options:["24","28","23","21"], answer:2},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple and Complex Machines", summary:"Simple machines (like levers, pulleys, and ramps) make work easier; complex machines combine two or more simple machines.",
    resourceLabel:"YouTube: Simple and Complex Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"Which combination of simple machines works together in a pair of scissors?", options:["An inclined plane only","Two levers combined with a wedge","A wheel and axle only","A single pulley only"], answer:1},
      {q:"Why is a wheelbarrow considered an example of a lever?", options:["It only rolls and does not lift anything","It uses a pivot point to ease lifting","It has no pivot point at all","It is powered by electricity"], answer:1},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Fur Trade and the Economy of New France", summary:"The fur trade was central to the economy of New France, connecting French settlers and First Nations through trade networks and alliances.",
    resourceLabel:"YouTube: The Fur Trade and the Economy of New France", resourceUrl:"https://www.youtube.com/results?search_query=The%20Fur%20Trade%20and%20the%20Economy%20of%20New%20France%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iaAx6V7NMCw",
    quiz:[
      {q:"Why were beaver pelts especially valuable to European traders?", options:["They had religious significance only","They were used to make fashionable felt hats in Europe","They could not be found anywhere else in the world","They were used as currency directly"], answer:1},
      {q:"How did the fur trade shape relationships between French settlers and First Nations peoples?", options:["It had no effect on their relationship","It created economic partnerships and alliances, alongside occasional conflict","It caused complete isolation between the two groups","It only caused permanent conflict, with no cooperation"], answer:1},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Multiple-Meaning Words", summary:"Some words have more than one meaning, and you must use context to figure out which meaning is intended.",
    resourceLabel:"YouTube: Multiple-Meaning Words", resourceUrl:"https://www.youtube.com/results?search_query=Multiple-Meaning%20Words%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LoOzJRXrCMU",
    quiz:[
      {q:"In 'The pitcher threw a curveball' and 'I filled the pitcher with water,' how does 'pitcher' change meaning?", options:["It doesn't change; both mean the same thing","Both refer to a baseball player","Both refer to a container","One refers to a baseball player, the other to a container"], answer:3},
      {q:"Which sentence uses 'fair' to mean an outdoor event, not 'just/equitable'?", options:["We rode the Ferris wheel at the county fair.","It's not fair that she won twice.","The judge made a fair decision.","Please be fair to your teammates."], answer:0},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Factors and Multiples", summary:"A factor divides evenly into a number; a multiple is the product of a number and any whole number.",
    resourceLabel:"YouTube: Factors and Multiples", resourceUrl:"https://www.youtube.com/results?search_query=Factors%20and%20Multiples%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0IZyGB1qQmM",
    quiz:[
      {q:"What are ALL the factors of 18?", options:["1, 3, 6, 18","1, 2, 9, 18","2, 3, 6, 9","1, 2, 3, 6, 9, 18"], answer:3},
      {q:"Which number is a common multiple of BOTH 4 and 6?", options:["14","16","10","12"], answer:3},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"The water cycle describes how water moves through evaporation, condensation, precipitation, and collection.",
    resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DoZDDN0fwlM",
    quiz:[
      {q:"A lake's water evaporates, rises, condenses into clouds, and falls as rain over the same region. This shows the water cycle is...", options:["A chemical transformation of water","One-way and non-repeating","A complete disappearance of water","Continuous and cyclical"], answer:3},
      {q:"Why does water vapour condense into visible clouds at higher altitudes?", options:["Water vapour disappears at high altitude","Clouds are unrelated to temperature","Higher altitudes have more heat, causing condensation","Cooler air at higher altitudes turns water vapour back into liquid droplets"], answer:3},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Underground Railroad and Canada", summary:"The Underground Railroad was a secret network that helped enslaved people from the United States reach freedom in Canada in the 1800s.",
    resourceLabel:"YouTube: The Underground Railroad and Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Underground%20Railroad%20and%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5zmOwgqkcec",
    quiz:[
      {q:"Why did the Underground Railroad end in Canada rather than a northern U.S. state for many freedom seekers?", options:["There was no reason; Canada was chosen randomly","Canada was closer to the starting point for everyone","Slavery was already banned in Canada","The U.S. had no states at the time"], answer:2},
      {q:"What was the role of a 'conductor' on the Underground Railroad?", options:["A government official who tracked routes","A person who drove an actual train","Someone who guided freedom seekers safely along the route","A type of safe house only"], answer:2},

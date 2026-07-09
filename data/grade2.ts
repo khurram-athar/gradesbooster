@@ -444,6 +444,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Compound Words", summary:"A compound word is two smaller words joined together to make a new word, like sun + flower = sunflower or rain + bow = rainbow.",
    resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=82G-ZWzUHhU",
    quiz:[
      {q:"Which word is a compound word?", options:["Sunflower","Running","Beautiful","Quickly"], answer:0},
      {q:"What two words make up 'cupcake'?", options:["Cup + cup","Cu + pcake","Cup + cake","Cupc + ake"], answer:2},
@@ -453,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Within 100 (No Regrouping)", summary:"We can add two-digit numbers by adding the tens together and the ones together, like 32 + 15 = 47.",
    resourceLabel:"YouTube: Addition Within 100 (No Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q9sLfMrH8_w",
    quiz:[
      {q:"23 + 14 = ?", options:["36","38","37","27"], answer:2},
      {q:"41 + 25 = ?", options:["64","65","56","66"], answer:3},
@@ -462,6 +464,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"What Plants Need to Grow", summary:"Plants need four things to grow: sunlight, water, soil (nutrients), and air. Without any of these, a plant cannot stay healthy.",
    resourceLabel:"YouTube: What Plants Need to Grow", resourceUrl:"https://www.youtube.com/results?search_query=What%20Plants%20Need%20to%20Grow%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=u46A0WKp2nk",
    quiz:[
      {q:"Which of these do plants need to grow?", options:["Wind only","Darkness only","Rocks to eat","Sunlight"], answer:3},
      {q:"What do plants take in through their roots?", options:["Nothing","Sunlight","Air only","Water and nutrients from soil"], answer:3},
@@ -471,6 +474,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Symbols of Canada", summary:"Canada has special symbols that represent who we are as a country — like the maple leaf, the Canadian flag, and our national anthem 'O Canada'.",
    resourceLabel:"YouTube: Symbols of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Symbols%20of%20Canada%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=38BGXJ572Y8",
    quiz:[
      {q:"What leaf is a symbol of Canada?", options:["Fern leaf","Oak leaf","Pine needle","Maple leaf"], answer:3},
      {q:"What are the two colours on the Canadian flag?", options:["Blue and white","Green and white","Red and blue","Red and white"], answer:3},
@@ -482,6 +486,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Contractions", summary:"A contraction is two words joined together with an apostrophe (') to replace missing letters, like do + not = don't, or I + am = I'm.",
    resourceLabel:"YouTube: Contractions", resourceUrl:"https://www.youtube.com/results?search_query=Contractions%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gubPH3WEurg",
    quiz:[
      {q:"What is the contraction for 'do not'?", options:["do'nt","don't","dont","dn't"], answer:1},
      {q:"What two words make up 'I'm'?", options:["I + mine","I + am","I + me","I + my"], answer:1},
@@ -491,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction Within 100 (No Regrouping)", summary:"We can subtract two-digit numbers by taking away the tens and the ones separately, like 57 - 23 = 34.",
    resourceLabel:"YouTube: Subtraction Within 100 (No Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ds226Vh7epg",
    quiz:[
      {q:"57 - 23 = ?", options:["35","24","33","34"], answer:3},
      {q:"86 - 42 = ?", options:["54","45","43","44"], answer:3},
@@ -500,6 +506,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Habitats", summary:"An animal's habitat is the place where it lives and finds food, water, and shelter. Different animals live in different habitats like forests, oceans, and the arctic.",
    resourceLabel:"YouTube: Animal Habitats", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xj1ASC-TlsI",
    quiz:[
      {q:"A polar bear's habitat is the...", options:["Ocean only","Arctic (cold, snowy)","Desert","Tropical rainforest"], answer:1},
      {q:"Fish live in a __ habitat.", options:["Arctic only","Desert","Forest","Water/ocean"], answer:3},
@@ -509,6 +516,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples and First Nations of Canada", summary:"Canada is home to many Indigenous peoples — the First Nations, Métis, and Inuit — who have lived on this land for thousands of years and have rich cultures and traditions.",
    resourceLabel:"YouTube: Indigenous Peoples and First Nations of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%20and%20First%20Nations%20of%20Canada%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Who were the first people to live in Canada?", options:["British settlers","French settlers","American explorers","Indigenous peoples"], answer:3},
      {q:"The word 'Indigenous' means...", options:["New to a place","From another country","Living in cities only","Originally from a place"], answer:3},

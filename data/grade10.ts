@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"English", title:"Writing: The Reflective Essay", summary:"Students write a personal reflective essay on a significant literary or cultural experience. They combine analytical rigour with genuine personal voice and insight.",
    resourceLabel:"YouTube: Writing: The Reflective Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Reflective%20Essay%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AeQpEGDry2M",
    quiz:[
      {q:"A reflective essay differs from a personal narrative because ___.", options:["it examines what an experience meant","reflective essays are shorter","only narratives use personal voice","narratives are more accurate"], answer:0},
      {q:"Effective reflective writing moves between ___.", options:["only analysis","only description","the specific and the general","only emotion"], answer:2},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Earning, Saving, and Investing", summary:"Students examine income types, taxes, budgeting, compound interest, and basic investing principles relevant to their near future.",
    resourceLabel:"YouTube: Financial Literacy: Earning, Saving, and Investing", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Earning%2C%20Saving%2C%20and%20Investing%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4j2emMn7UaI",
    quiz:[
      {q:"Canada's progressive income tax system means ___.", options:["higher earners pay a higher rate","taxes are optional","everyone pays the same rate","lower incomes pay more"], answer:0},
      {q:"A TFSA (Tax-Free Savings Account) ___.", options:["removes all income tax on your salary","has no contribution limit","earns investment income tax-free","is only for retirement"], answer:2},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Light — Reflection, Refraction, Optics", summary:"Students study the behaviour of light: law of reflection, refraction (Snell's Law), total internal reflection, and optical instruments.",
    resourceLabel:"YouTube: Physics: Light — Reflection, Refraction, Optics", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Light%20%E2%80%94%20Reflection%2C%20Refraction%2C%20Optics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ON1QGqB6vxg",
    quiz:[
      {q:"Snell's Law (n₁sinθ₁ = n₂sinθ₂) describes ___.", options:["how light bends between media","the absorption of light","only applies to lenses","the reflection of light"], answer:0},
      {q:"Total internal reflection occurs when ___.", options:["beyond the critical angle","light hits a coloured surface","light enters a denser medium","light hits a mirror"], answer:0},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Charter Rights: Case Studies", summary:"Students examine landmark Supreme Court of Canada cases under the Charter, analysing the legal reasoning and social implications.",
    resourceLabel:"YouTube: Charter Rights: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Charter%20Rights%3A%20Case%20Studies%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DcV6qtnSrCE",
    quiz:[
      {q:"R v Oakes (1986) established ___.", options:["that the Charter has no limits","that Section 33 is never valid","the Oakes Test","that all laws are constitutional"], answer:2},
      {q:"Singh v Minister of Employment and Immigration (1985) established ___.", options:["refugees have Charter rights","only landed immigrants have Charter rights","only citizens have Charter rights","refugee claimants have no rights in Canada"], answer:0},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Literature: Poetry — Voice, Identity, and Social Justice", summary:"Students read and analyse contemporary poetry by Canadian poets, particularly from Indigenous, Black Canadian, and immigrant voices, examining how poetry enacts identity and challenges injustice.",
    resourceLabel:"YouTube: Literature: Poetry — Voice, Identity, and Social Justice", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Poetry%20%E2%80%94%20Voice%2C%20Identity%2C%20and%20Social%20Justice%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ysq6IjXsSHM",
    quiz:[
      {q:"Contemporary Canadian poetry by marginalised voices ___.", options:["has no political dimension","is only about nature","reclaims identity and challenges norms","is identical to traditional British poetry"], answer:2},
      {q:"Code-switching in poetry refers to ___.", options:["alternating languages within one poem","a poetic device unrelated to identity","only a technical error","switching between computer codes in a poem"], answer:0},

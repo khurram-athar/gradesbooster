@@ -382,6 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Literature: Comparative Canadian and World Literature", summary:"Students compare Canadian literature with a world text, analysing how place, history, and culture shape literary form and theme.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=nJNdZGF6Xvo",
    quiz:[
      {q:"Comparative literature across cultures reveals ___.", options:["that all literature is the same beneath cultural differences","only surface-level differences","only surface-level similarities","shared themes, told in different ways"], answer:3},
      {q:"Canadian literature is shaped by ___.", options:["only the landscape","only Quebec-English tensions","geography, history, and immigration","only multiculturalism"], answer:2},
@@ -391,6 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Proof and Mathematical Reasoning", summary:"Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
    resourceLabel:"Khan Academy: Mathematical Induction", resourceUrl:"https://www.youtube.com/watch?v=wblW_M_HVQ8",
+   videoUrl:"https://www.youtube.com/watch?v=SgtOzuADxK8",
    quiz:[
      {q:"A direct proof establishes a theorem by ___.", options:["deriving the theorem from known axioms","finding a counterexample","showing the opposite leads to a contradiction","testing many specific cases"], answer:0},
      {q:"Proof by contradiction assumes ___.", options:["only that algebra is valid","the theorem is sometimes false","the opposite, seeking a contradiction","the theorem is trivially true"], answer:2},
@@ -400,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Applications of Integration: Area and Volume", summary:"Students calculate areas under curves, between curves, and volumes of solids of revolution.",
    resourceLabel:"Khan Academy: Volume of Solids of Revolution", resourceUrl:"https://www.youtube.com/watch?v=R_aqSL-q6_8",
+   videoUrl:"https://www.youtube.com/watch?v=xec6HTcn2M8",
    quiz:[
      {q:"The area between y = x² and y = x from 0 to 1 is ___.", options:["1/4 − 1/3 = −1/12","∫x² dx","1/2 − 1/3 = 1/6","1 − 1/3 = 2/3"], answer:2},
      {q:"The disc method for volume of revolution around the x-axis gives ___.", options:["V = 2π∫x f(x)dx","V = π∫[f(x)]² dx from a to b","V = π∫f(x)dx","V = ∫f(x)dx"], answer:1},
@@ -409,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Modern Physics: Special Relativity", summary:"Students examine Einstein's special relativity — postulates, time dilation, length contraction, mass-energy equivalence, and experimental evidence.",
    resourceLabel:"Crash Course Physics: Special Relativity", resourceUrl:"https://www.youtube.com/watch?v=AInCqm5nCzw",
+   videoUrl:"https://www.youtube.com/watch?v=AInCqm5nCzw",
    quiz:[
      {q:"Einstein's two postulates of special relativity are ___.", options:["only one is needed","physics and light speed are constant","matter is energy; time is space","gravity warps space; light bends around mass"], answer:1},
      {q:"Time dilation means ___.", options:["a moving clock runs slower","time passes at the same rate for all observers","clocks in motion run faster","only GPS satellites are affected"], answer:0},
@@ -420,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"English", title:"Writing: The Argumentative Essay on a Social Issue", summary:"Students write a well-researched argumentative essay on a contemporary social or political issue, integrating sources, acknowledging counterarguments, and making an original contribution.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=VZKUeEBryOk",
    quiz:[
      {q:"A strong argumentative essay on a social issue must ___.", options:["only present one side","engage the strongest opposing view","include emotional appeals only","avoid all statistics"], answer:1},
      {q:"Reliable sources for a social issues essay include ___.", options:["only news sources you agree with","any website with 'org' in the domain","only primary sources","peer-reviewed research and quality data"], answer:3},
@@ -429,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Functions Review: Connecting All Function Families", summary:"Students synthesise the entire Advanced Functions course, connecting all function families and preparing for final assessment.",
    resourceLabel:"Khan Academy: Advanced Functions Review", resourceUrl:"https://www.youtube.com/watch?v=LkwT1GQVJP8",
+   videoUrl:"https://www.youtube.com/watch?v=LNZl4GqVm58",
    quiz:[
      {q:"The fundamental difference between polynomial and rational functions is ___.", options:["number of terms","they are always different in shape","degree only","rational functions divide by a variable"], answer:3},
      {q:"Exponential and logarithmic functions are most important because ___.", options:["they are aesthetically pleasing","they model constant percentage change","they model phenomena that are only approximately linear","they are easy to calculate"], answer:1},
@@ -438,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus of Exponential and Logarithmic Functions", summary:"Students differentiate and integrate e^(ax), ln(x), and related functions, and apply these to growth/decay problems.",
    resourceLabel:"Khan Academy: Derivatives of Exponential Functions", resourceUrl:"https://www.youtube.com/watch?v=MKQR_acrFOA",
+   videoUrl:"https://www.youtube.com/watch?v=nqpn0SQB5ds",
    quiz:[
      {q:"d/dx[e^(ax)] = ___.", options:["e^(ax)/a","a × e^(ax) — chain rule","ae^x","e^(ax)"], answer:1},
      {q:"d/dx[ln(ax)] = ___.", options:["ln(a)/x","a × ln(x)","1/x — ln(a) is a constant","a/x"], answer:2},
@@ -447,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Nuclear Physics and Elementary Particles", summary:"Students examine nuclear reactions (fission and fusion), binding energy, and an introduction to the Standard Model of particle physics.",
    resourceLabel:"Crash Course Physics: Nuclear Physics", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
+   videoUrl:"https://www.youtube.com/watch?v=lUhJL7o6_cA",
    quiz:[
      {q:"Nuclear fission involves ___.", options:["radioactive beta decay","splitting a nucleus, releasing energy","combining light nuclei to form heavier ones","only gamma emission"], answer:1},
      {q:"Nuclear fusion involves ___.", options:["combining nuclei, releasing energy","splitting heavy nuclei","no energy release","only proton-electron collisions"], answer:0},

@@ -402,6 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Animal Physiology: Nervous System and Endocrine System", summary:"Students examine the structure and function of neurons, the central and peripheral nervous system, and the hormonal regulation of body functions.",
    resourceLabel:"YouTube: Animal Physiology: Nervous System and Endocrine System", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Physiology%3A%20Nervous%20System%20and%20Endocrine%20System%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=emvHaBiRY8Q",
    quiz:[
      {q:"A nerve impulse (action potential) is transmitted by ___.", options:["chemical diffusion only","a change from Na⁺/K⁺ ion movement","physical contraction of the nerve","muscle contractions"], answer:1},
      {q:"The synapse between two neurons involves ___.", options:["direct electrical connection only","neurotransmitters crossing the synapse","physical contact between neurons","DNA transfer between neurons"], answer:1},
@@ -411,6 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Nuclear Chemistry: Radioactive Decay and Nuclear Reactions", summary:"Students examine types of radioactive decay (alpha, beta, gamma), nuclear equations, half-life calculations, and applications of nuclear chemistry.",
    resourceLabel:"YouTube: Nuclear Chemistry: Radioactive Decay and Nuclear Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Nuclear%20Chemistry%3A%20Radioactive%20Decay%20and%20Nuclear%20Reactions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cPRFF-eCGT8",
    quiz:[
      {q:"Alpha (α) decay produces ___.", options:["a helium nucleus (⁴₂He)","a beta particle and energy","only energy","an electron and a neutrino"], answer:0},
      {q:"Beta (β) decay produces ___.", options:["an electron from a neutron converting","only gamma radiation","a helium nucleus","no change in the nucleus"], answer:0},
@@ -422,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"English", title:"Writing: The Personal Statement and Formal Writing for Future Purposes", summary:"Students write a university or college personal statement, understanding audience, voice, and purpose in high-stakes formal writing.",
    resourceLabel:"YouTube: Writing: The Personal Statement and Formal Writing for Future Purposes", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Personal%20Statement%20and%20Formal%20Writing%20for%20Future%20Purposes%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Cq4J8bPBcck",
    quiz:[
      {q:"A university personal statement differs from a school essay in that ___.", options:["it never discusses achievements","it has no thesis","it presents an authentic version of you","it is shorter and less important"], answer:2},
      {q:"The biggest mistake in a personal statement is ___.", options:["telling a story without reflection","connecting experience to thinking","being too specific about experiences","sounding too genuine"], answer:0},
@@ -431,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Combinations and Permutations: Counting Principles", summary:"Students apply the fundamental counting principle, factorial notation, permutations (ₙPᵣ), and combinations (ₙCᵣ) to counting and probability problems.",
    resourceLabel:"YouTube: Combinations and Permutations: Counting Principles", resourceUrl:"https://www.youtube.com/results?search_query=Combinations%20and%20Permutations%3A%20Counting%20Principles%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3lmEqp8VhAU",
    quiz:[
      {q:"The Fundamental Counting Principle states ___.", options:["all events must be independent always","m ways times n ways gives m×n outcomes","only applies to 2 events","total = a + b + c for all events"], answer:1},
      {q:"n! (n factorial) means ___.", options:["n + (n−1) + ... + 1","n × (n−1) × (n−2) × ... × 2 × 1","only defined for n < 10","n divided by itself"], answer:1},
@@ -440,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Chromosomal Abnormalities and Genetic Disorders", summary:"Students examine chromosomal abnormalities (trisomy, monosomy), genetic disorders (single-gene, multifactorial), and genetic counselling.",
    resourceLabel:"YouTube: Genetics: Chromosomal Abnormalities and Genetic Disorders", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Chromosomal%20Abnormalities%20and%20Genetic%20Disorders%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Jsuu1KR_hho",
    quiz:[
      {q:"Trisomy 21 (Down syndrome) results from ___.", options:["a point mutation in chromosome 21","non-disjunction during meiosis","only paternal chromosomes being duplicated","a deletion of chromosome 21"], answer:1},
      {q:"A recessive autosomal disorder (e.g., cystic fibrosis) is expressed when ___.", options:["the individual is male","two copies of the recessive allele","only one copy of the allele is inherited","the mother is a carrier"], answer:1},
@@ -449,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Thermochemistry: Energy Changes in Chemical Reactions", summary:"Students examine exothermic and endothermic reactions, Hess's Law, enthalpy of formation, and calorimetry.",
    resourceLabel:"YouTube: Thermochemistry: Energy Changes in Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Thermochemistry%3A%20Energy%20Changes%20in%20Chemical%20Reactions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LsqKL3pBVMA",
    quiz:[
      {q:"An exothermic reaction ___.", options:["has no energy change","has ΔH > 0","releases heat to the surroundings","absorbs heat from the surroundings"], answer:2},
      {q:"An endothermic reaction ___.", options:["has no temperature change","absorbs heat from the surroundings","releases heat","has ΔH < 0"], answer:1},

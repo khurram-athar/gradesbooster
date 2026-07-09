@@ -424,6 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Formal vs. Informal Letters and Emails", summary:"Formal letters and emails use polite, professional language and a clear structure; informal writing is more casual and personal.",
    resourceLabel:"YouTube: Formal vs. Informal Letters and Emails", resourceUrl:"https://www.youtube.com/results?search_query=Formal%20vs.%20Informal%20Letters%20and%20Emails%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nwMI97hDTJk",
    quiz:[
      {q:"A formal email to a teacher should begin with...", options:["A polite greeting, like 'Dear Mr./Ms.'","'Hey!'","Slang","No greeting at all"], answer:0},
      {q:"Informal writing is most appropriate when...", options:["Texting a close friend","Writing a business letter","Applying for something official","Writing to a principal"], answer:0},
@@ -433,6 +434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponents and Scientific Notation (Intro)", summary:"Exponents show repeated multiplication; scientific notation expresses very large or small numbers compactly.",
    resourceLabel:"YouTube: Exponents and Scientific Notation (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Exponents%20and%20Scientific%20Notation%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bXkewQ7WEdI",
    quiz:[
      {q:"What does 3^4 equal?", options:["12","64","34","81"], answer:3},
      {q:"What does 2^5 equal?", options:["16","32","10","25"], answer:1},
@@ -442,6 +444,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cell Theory and Microscopy Basics", summary:"All living things are made of cells; microscopes let us observe cell structures too small to see with the naked eye.",
    resourceLabel:"YouTube: Cell Theory and Microscopy Basics", resourceUrl:"https://www.youtube.com/results?search_query=Cell%20Theory%20and%20Microscopy%20Basics%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ex0x-w00Uy4",
    quiz:[
      {q:"According to cell theory, all living things are made of...", options:["Water only","Air","Minerals","Cells"], answer:3},
      {q:"A microscope is used to...", options:["Measure temperature","Magnify tiny objects like cells","Weigh objects","Test pH"], answer:1},
@@ -451,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Canadian Pacific Railway and Westward Expansion", summary:"The CPR linked Canada from coast to coast, encouraging settlement and helping fulfill the promise made to British Columbia at Confederation.",
    resourceLabel:"YouTube: The Canadian Pacific Railway and Westward Expansion", resourceUrl:"https://www.youtube.com/results?search_query=The%20Canadian%20Pacific%20Railway%20and%20Westward%20Expansion%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q16OZkgSXfM",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1812","1867","1885","1920"], answer:2},
      {q:"One major reason for building the CPR was to...", options:["Stop all immigration","Create a new capital city","End the fur trade","Connect BC to the rest of Canada"], answer:3},
@@ -462,6 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Analyzing Poetry: Stanza, Rhyme Scheme, Meter", summary:"Poems are organized into stanzas and often use rhyme schemes and rhythm (meter) to create musicality and meaning.",
    resourceLabel:"YouTube: Analyzing Poetry: Stanza, Rhyme Scheme, Meter", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Poetry%3A%20Stanza%2C%20Rhyme%20Scheme%2C%20Meter%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YSzT5FCzdIc",
    quiz:[
      {q:"A stanza in a poem is similar to a...", options:["Paragraph in prose","Index","Footnote","Title"], answer:0},
      {q:"A rhyme scheme is usually described using...", options:["Numbers only","Colours","Letters like ABAB","Roman numerals"], answer:2},
@@ -471,6 +476,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Square Roots and Perfect Squares", summary:"A perfect square is a number that results from squaring an integer; the square root is the inverse operation.",
    resourceLabel:"YouTube: Square Roots and Perfect Squares", resourceUrl:"https://www.youtube.com/results?search_query=Square%20Roots%20and%20Perfect%20Squares%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PTa9AQ9L3G8",
    quiz:[
      {q:"What is the square root of 49?", options:["6","8","9","7"], answer:3},
      {q:"Which of these is a perfect square?", options:["20","12","36","50"], answer:2},
@@ -480,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classification of Organisms (Kingdoms)", summary:"Scientists classify living things into kingdoms (such as animals, plants, fungi, and bacteria) based on shared characteristics.",
    resourceLabel:"YouTube: Classification of Organisms (Kingdoms)", resourceUrl:"https://www.youtube.com/results?search_query=Classification%20of%20Organisms%20%28Kingdoms%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MBJp3CCqrxg",
    quiz:[
      {q:"Classification helps scientists...", options:["Confuse species names","Avoid studying nature","Eliminate species","Organize life by shared traits"], answer:3},
      {q:"Which kingdom includes mushrooms?", options:["Plant","Fungi","Animal","Bacteria"], answer:1},
@@ -489,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration and Settlement of the Prairies", summary:"In the late 1800s and early 1900s, the Canadian government encouraged immigration to settle the Prairie provinces.",
    resourceLabel:"YouTube: Immigration and Settlement of the Prairies", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Settlement%20of%20the%20Prairies%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The Canadian government encouraged Prairie settlement mainly to...", options:["Discourage agriculture","Avoid building railways","Reduce the population","Develop farmland and populate the West"], answer:3},
      {q:"Many settlers on the Prairies came from...", options:["Only the United States","Nowhere outside Canada","Europe and other parts of the world","Only Ontario"], answer:2},

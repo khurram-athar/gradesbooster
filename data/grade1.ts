@@ -444,6 +444,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Characters and Setting", summary:"Ontario Grade 1 Reading strand: characters are the people or animals in a story; setting is where and when the story takes place.",
    resourceLabel:"YouTube: Characters and Setting", resourceUrl:"https://www.youtube.com/results?search_query=Characters%20and%20Setting%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=alQDawFP3sA",
    quiz:[
      {q:"Characters are ___.", options:["The place of the story","The people or animals in the story","The ending","The problem"], answer:1},
      {q:"Setting means ___.", options:["What happens in the story","Where and when the story takes place","Who is in the story","The solution"], answer:1},
@@ -453,6 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Length", summary:"Ontario Grade 1 Measurement strand: students measure length using non-standard units (paperclips, cubes) and compare objects using longer, shorter, taller.",
    resourceLabel:"YouTube: Measuring Length", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2wUsdsae0ro",
    quiz:[
      {q:"Which unit is NOT a standard unit of measurement?", options:["Centimetre","Paperclip","Kilometre","Metre"], answer:1},
      {q:"If a pencil is 8 cubes long and a crayon is 5 cubes long, which is longer?", options:["Cannot tell","Pencil","Crayon","Equal"], answer:1},
@@ -462,6 +464,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light", summary:"Ontario Grade 1 Science strand: light travels in a straight line, can reflect off surfaces, and allows us to see. The sun is the main natural source of light on Earth.",
    resourceLabel:"YouTube: Light", resourceUrl:"https://www.youtube.com/results?search_query=Light%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kkwgPwBKyl4",
    quiz:[
      {q:"What is the main natural source of light on Earth?", options:["Stars","The sun","A lamp","The moon"], answer:1},
      {q:"Light travels in a ___.", options:["Circle","Zigzag","Straight line","Curve"], answer:2},
@@ -471,6 +474,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rights of Children", summary:"Ontario Grade 1 Social Studies strand A: students identify children's rights as outlined by the United Nations Convention on the Rights of the Child (UNCRC).",
    resourceLabel:"YouTube: Rights of Children", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20of%20Children%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TyP09S0UEzA",
    quiz:[
      {q:"Children have the right to ___.", options:["Ignore school rules","Do whatever they want","Be safe, cared for, and educated","Have no responsibilities"], answer:2},
      {q:"What is the UNCRC?", options:["A school subject","A type of book","A UN document on children's rights","A type of toy"], answer:2},
@@ -482,6 +486,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Making Predictions", summary:"Ontario Grade 1 Reading strand: students use text clues, pictures, and prior knowledge to predict what will happen next in a story or text.",
    resourceLabel:"YouTube: Making Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Predictions%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PCtWPYF3y2U",
    quiz:[
      {q:"Making a prediction means ___.", options:["Guessing what happens next","Counting words","Reading the end first","Looking at pictures only"], answer:0},
      {q:"What clues help you make a prediction?", options:["The font size","Random guessing","Only the last page","Title, pictures, and what you've read"], answer:3},
@@ -491,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Mass", summary:"Ontario Grade 1 Measurement strand: students compare the mass of objects using non-standard units and a balance scale, using language like heavier and lighter.",
    resourceLabel:"YouTube: Measuring Mass", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Mass%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ybEU-6U7s8k",
    quiz:[
      {q:"Which object is likely heavier: a book or a feather?", options:["Feather","Book","They are equal","Cannot tell"], answer:1},
      {q:"A balance scale tips toward ___.", options:["The heavier object","Neither side","The centre","The lighter object"], answer:0},
@@ -500,6 +506,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Magnetism", summary:"Ontario Grade 1 Science strand: magnets attract certain metals (iron, steel, nickel). They have north and south poles; like poles repel, opposite poles attract.",
    resourceLabel:"YouTube: Magnetism", resourceUrl:"https://www.youtube.com/results?search_query=Magnetism%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HpI0VKjOdVc",
    quiz:[
      {q:"What does a magnet attract?", options:["Plastic","Wood","Certain metals like iron and steel","All metals"], answer:2},
      {q:"A magnet has two ___.", options:["Colours","Sizes","Faces","Poles (north and south)"], answer:3},
@@ -509,6 +516,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Helpers", summary:"Ontario Grade 1 Social Studies strand B: students describe the roles of community helpers including firefighters, police, medical workers, and educators.",
    resourceLabel:"YouTube: Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wlBC2ljoGAk",
    quiz:[
      {q:"Who helps put out fires?", options:["A doctor","A teacher","A firefighter","A librarian"], answer:2},
      {q:"Who keeps the neighbourhood safe?", options:["A baker","A librarian","A police officer","A dentist"], answer:2},
