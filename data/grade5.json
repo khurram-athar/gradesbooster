@@ -12160,5 +12160,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing an Author’s Style and Word Choice",
+        "summary": "Grade 5 Language strand: an author’s style is shaped by their word choice, sentence length, and tone, and analyzing it helps readers understand how a writer creates a particular effect.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "An author’s style is shaped by their ___.",
+            "options": [
+              "The colour of the book cover",
+              "Word choice, sentence length, and tone",
+              "A concept unrelated to reading",
+              "Only the number of pages in the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use short, choppy sentences in a story?",
+            "options": [
+              "A reason unrelated to author’s style",
+              "Short sentences never affect how a story feels",
+              "Only to fill space on the page",
+              "To create a sense of tension or urgency"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to analyze an author’s word choice?",
+            "options": [
+              "A concept unrelated to analyzing style",
+              "Counting how many words appear on each page",
+              "Ignoring the words the author actually used",
+              "Considering why the author chose specific words and what effect they create"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for readers to notice an author’s tone?",
+            "options": [
+              "It reveals the author’s attitude toward the subject or characters",
+              "Tone has no connection to how a text is understood",
+              "Tone only matters in poetry, never in prose",
+              "A reason unrelated to reading comprehension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of analyzing an author’s style?",
+            "options": [
+              "Ignoring how the text is written altogether",
+              "A concept unrelated to author’s style",
+              "Counting the total number of chapters in a book",
+              "Noticing that an author uses a lot of vivid, descriptive language"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Integers",
+        "summary": "Grade 5 Math strand: integers include positive and negative whole numbers, and adding or subtracting them can be modelled on a number line.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "An integer can be ___.",
+            "options": [
+              "A positive or negative whole number",
+              "Only a fraction or decimal",
+              "Only a positive whole number",
+              "A concept unrelated to integers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is -3 + 5?",
+            "options": [
+              "2",
+              "8",
+              "A value unrelated to the calculation",
+              "-8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 4 + (-6)?",
+            "options": [
+              "-2",
+              "A value unrelated to the calculation",
+              "10",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is -2 - 3?",
+            "options": [
+              "1",
+              "5",
+              "A value unrelated to the calculation",
+              "-5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, adding a negative integer means moving ___.",
+            "options": [
+              "Straight up",
+              "To the left",
+              "A direction unrelated to integers",
+              "To the right"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Types of Bridges and Load Distribution",
+        "summary": "Grade 5 Science strand: different bridge designs, such as beam, arch, and suspension bridges, distribute the load (weight and forces) in different ways to stay stable.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Load distribution in a bridge refers to how a structure ___.",
+            "options": [
+              "Adds unnecessary weight to itself",
+              "A concept unrelated to structures",
+              "Spreads out weight and forces to remain stable",
+              "Ignores all forces acting on it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A beam bridge is best described as ___.",
+            "options": [
+              "A bridge with no support at all",
+              "A concept unrelated to bridge design",
+              "A bridge that hangs entirely from cables",
+              "A simple, rigid structure supported at both ends"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An arch bridge distributes weight by ___.",
+            "options": [
+              "Hanging the roadway from tall towers",
+              "A concept unrelated to bridge design",
+              "Removing all weight from the structure",
+              "Curving the load outward and down into its supports"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A suspension bridge uses ___ to help support its load.",
+            "options": [
+              "A concept unrelated to bridge design",
+              "No support structures of any kind",
+              "Cables and towers",
+              "Only a single wooden beam"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do engineers test different bridge designs before building them?",
+            "options": [
+              "To find out which design distributes load safely and stays stable",
+              "Testing designs provides no useful information",
+              "A reason unrelated to engineering",
+              "Bridges never need to support any weight"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Residential Schools and Their Legacy",
+        "summary": "Grade 5 Social Studies strand: residential schools were institutions in Canada that separated Indigenous children from their families and cultures, and their legacy continues to affect Indigenous communities today.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Residential schools were institutions that ___.",
+            "options": [
+              "Separated Indigenous children from their families and cultures",
+              "A concept unrelated to Canadian history",
+              "Celebrated and protected Indigenous languages and traditions",
+              "Had no lasting impact on Indigenous communities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for Canadians to learn about residential schools?",
+            "options": [
+              "Learning about the past never helps understand the present",
+              "A reason unrelated to Canadian history",
+              "It helps build understanding of this history and supports reconciliation",
+              "This history has no relevance to Canada today"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does “legacy” mean in the context of residential schools?",
+            "options": [
+              "An event that had no effect on the future",
+              "A concept unrelated to history",
+              "The lasting effects that continue to be felt today",
+              "A term unrelated to schools of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a way Canadians can learn more about this history?",
+            "options": [
+              "A concept unrelated to reconciliation",
+              "Assuming this history has no connection to the present",
+              "Ignoring this part of Canadian history entirely",
+              "Listening to the experiences shared by residential school survivors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding this history connected to the idea of reconciliation?",
+            "options": [
+              "Reconciliation has no connection to understanding history",
+              "Acknowledging past harms is an important step toward healing and better relationships",
+              "A reason unrelated to Indigenous history",
+              "The past has no bearing on relationships in the present"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallel Structure in Sentences",
+        "summary": "Grade 5 Language strand: parallel structure means using the same grammatical pattern for items in a list or comparison, such as “I like reading, writing, and drawing.”",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Parallel structure means using ___.",
+            "options": [
+              "A different grammatical pattern for every item in a sentence",
+              "A concept unrelated to grammar",
+              "The same grammatical pattern for items in a list or comparison",
+              "No consistent pattern at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses correct parallel structure?",
+            "options": [
+              "She likes hiking, swims, and to bike.",
+              "She likes hiking, swimming, and biking.",
+              "A sentence unrelated to parallel structure",
+              "She likes hiking, to swim, and biking."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses correct parallel structure?",
+            "options": [
+              "He wanted to run, jumping, and climb.",
+              "He wanted running, to jump, and climbed.",
+              "A sentence unrelated to parallel structure",
+              "He wanted to run, jump, and climb."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is parallel structure important in writing?",
+            "options": [
+              "It only matters in poetry, never in prose",
+              "A concept unrelated to clear writing",
+              "It has no effect on how a sentence reads",
+              "It makes sentences clearer and easier to read"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which phrase breaks parallel structure?",
+            "options": [
+              "A phrase unrelated to parallel structure",
+              "“swimming, biking, and running”",
+              "“to swim, to bike, and to run”",
+              "“to swim, biking, and to run”"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Scale Drawings and Scale Factor",
+        "summary": "Grade 5 Math strand: a scale drawing represents a real object at a smaller or larger size, and the scale factor tells how much the drawing has been reduced or enlarged.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A scale drawing represents a real object ___.",
+            "options": [
+              "With no connection to the real object at all",
+              "At exactly the same size with no changes",
+              "A concept unrelated to scale drawings",
+              "At a smaller or larger size while keeping proportions the same"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a scale factor is 1:100, one unit on the drawing represents ___ units in real life.",
+            "options": [
+              "A number unrelated to the scale factor",
+              "100",
+              "1",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a map with a scale of 1 cm = 5 km, how many kilometres does 3 cm represent?",
+            "options": [
+              "8 km",
+              "15 km",
+              "A distance unrelated to the calculation",
+              "5 km"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are scale drawings useful for architects and mapmakers?",
+            "options": [
+              "They allow large objects or areas to be represented accurately on paper",
+              "Scale drawings provide no useful information",
+              "A reason unrelated to scale drawings",
+              "They are only used for decoration, not measurement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A scale factor greater than 1 means the drawing is ___ the real object.",
+            "options": [
+              "Exactly the same size as",
+              "Larger than",
+              "A comparison unrelated to scale factor",
+              "Smaller than"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Immune System and Fighting Illness",
+        "summary": "Grade 5 Science strand: the immune system is the body’s defence network, using white blood cells and other tools to fight off germs and illness.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The immune system’s main job is to ___.",
+            "options": [
+              "Defend the body against germs and illness",
+              "A concept unrelated to the immune system",
+              "Digest food for energy",
+              "Pump blood throughout the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "White blood cells help the body by ___.",
+            "options": [
+              "Fighting off harmful germs",
+              "Breaking down food in the stomach",
+              "Carrying oxygen throughout the body",
+              "A function unrelated to white blood cells"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of something that can trigger an immune response?",
+            "options": [
+              "A concept unrelated to the immune system",
+              "Taking a short nap",
+              "Drinking a glass of water",
+              "A virus entering the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are vaccines useful for the immune system?",
+            "options": [
+              "Vaccines have no connection to the immune system",
+              "A reason unrelated to immunity",
+              "They help the body learn to recognize and fight specific germs",
+              "Vaccines remove the immune system’s ability to function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a fever occur when the body is fighting an infection?",
+            "options": [
+              "A fever has no connection to the immune system",
+              "A reason unrelated to illness",
+              "It can be part of the immune system’s response to fight off germs",
+              "Fevers only occur when a person is completely healthy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Peacekeeping Role Internationally",
+        "summary": "Grade 5 Social Studies strand: Canada has historically contributed peacekeeping forces to United Nations missions aimed at maintaining peace and stability in conflict areas around the world.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Peacekeeping generally involves ___.",
+            "options": [
+              "Ignoring conflicts happening around the world",
+              "Helping maintain peace and stability in areas affected by conflict",
+              "A concept unrelated to international relations",
+              "Starting new conflicts between countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada has historically contributed peacekeeping forces to missions organized by ___.",
+            "options": [
+              "No international organization at all",
+              "A group unrelated to peacekeeping",
+              "The United Nations",
+              "Only its own domestic government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country choose to participate in international peacekeeping?",
+            "options": [
+              "Participating in peacekeeping serves no useful purpose",
+              "To help support global stability and assist regions affected by conflict",
+              "A reason unrelated to international cooperation",
+              "Countries are required to participate with no choice involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes a peacekeeping mission?",
+            "options": [
+              "A mission with no connection to conflict or stability",
+              "International forces helping maintain a ceasefire or stability in a region",
+              "A group of soldiers sent to start a new war",
+              "A concept unrelated to peacekeeping"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s peacekeeping history often discussed as part of its national identity?",
+            "options": [
+              "It reflects a long-standing value Canada has placed on international cooperation",
+              "A reason unrelated to Canadian history",
+              "Peacekeeping has no connection to Canadian identity",
+              "Canada has never taken part in any international missions"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Personal Essay",
+        "summary": "Grade 5 Language strand: a personal essay explores the writer’s own thoughts, experiences, or opinions on a topic, often blending storytelling with reflection.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A personal essay explores ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "A topic the writer has no connection to",
+              "Only facts with no personal reflection at all",
+              "The writer’s own thoughts, experiences, or opinions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A personal essay often blends storytelling with ___.",
+            "options": [
+              "Reflection on what the experience meant to the writer",
+              "Instructions for completing a task",
+              "No reflection of any kind",
+              "A concept unrelated to personal essays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a good topic for a personal essay?",
+            "options": [
+              "A set of directions for baking a cake",
+              "A concept unrelated to personal essays",
+              "A challenge you overcame and what you learned from it",
+              "A topic with no connection to your own life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose to write in first person for a personal essay?",
+            "options": [
+              "First person makes an essay less personal",
+              "A reason unrelated to personal essays",
+              "First person is never used in personal essays",
+              "It reflects the writer’s own perspective and experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one key difference between a personal essay and a research report?",
+            "options": [
+              "A concept unrelated to these two writing forms",
+              "A research report is always written in first person",
+              "A personal essay focuses on the writer’s own experience and reflection",
+              "A personal essay never includes the writer’s own thoughts"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Surface Area of Rectangular Prisms",
+        "summary": "Grade 5 Math strand: the surface area of a rectangular prism is the total area of all six faces, found by calculating and adding the area of each face.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "The surface area of a rectangular prism is ___.",
+            "options": [
+              "The total area of all six faces added together",
+              "A concept unrelated to surface area",
+              "The length of just one edge",
+              "The volume of the prism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many faces does a rectangular prism have?",
+            "options": [
+              "6",
+              "4",
+              "8",
+              "A number unrelated to rectangular prisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the area of one face of a rectangular prism measuring 4 by 3?",
+            "options": [
+              "24 square units",
+              "7 square units",
+              "A value unrelated to the calculation",
+              "12 square units"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Surface area is measured in ___.",
+            "options": [
+              "Linear units",
+              "Cubic units",
+              "A unit unrelated to surface area",
+              "Square units"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone need to calculate surface area in real life?",
+            "options": [
+              "To measure how much a box can hold inside it",
+              "Surface area has no real-world use",
+              "To determine how much material is needed to cover or wrap an object",
+              "A reason unrelated to surface area"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Pulleys and Gear Ratios",
+        "summary": "Grade 5 Science strand: pulleys use a wheel and rope to change the direction or amount of force needed to lift a load, and gear ratios describe how connected gears affect speed and force.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A pulley changes the ___ needed to lift a load.",
+            "options": [
+              "A concept unrelated to pulleys",
+              "Weight of the load itself",
+              "Direction or amount of force",
+              "Colour of the load"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A gear ratio describes the relationship between ___.",
+            "options": [
+              "The number of teeth on two connected gears",
+              "The colour of two connected gears",
+              "A concept unrelated to gears",
+              "The temperature of a machine’s parts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a system use multiple pulleys together?",
+            "options": [
+              "To reduce the amount of force needed to lift a heavy load",
+              "A reason unrelated to pulleys",
+              "Multiple pulleys serve no mechanical purpose",
+              "Multiple pulleys always make lifting a load harder"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a small gear turns a much larger gear, the larger gear will generally turn ___.",
+            "options": [
+              "At exactly the same speed",
+              "More quickly",
+              "More slowly",
+              "A description unrelated to gear ratios"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are pulleys and gears useful in everyday machines?",
+            "options": [
+              "A reason unrelated to simple machines",
+              "They make every task more difficult to complete",
+              "They have no practical use in real machines",
+              "They make lifting, moving, or turning objects easier or more efficient"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Métis Nation and the Red River Resistance",
+        "summary": "Grade 5 Social Studies strand: the Métis Nation, formed from Indigenous and European ancestry, played a key role in the Red River Resistance, led by Louis Riel, to defend Métis rights and land.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Métis Nation formed from a blending of ___.",
+            "options": [
+              "Only European settlers with no Indigenous connection",
+              "Only Indigenous peoples with no European connection",
+              "Indigenous and European ancestry and culture",
+              "A concept unrelated to the Métis Nation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Red River Resistance was primarily focused on ___.",
+            "options": [
+              "Establishing a new international trade agreement",
+              "A concept unrelated to the Red River Resistance",
+              "Defending Métis rights and land",
+              "Building new railways across the country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who was a key leader of the Red River Resistance?",
+            "options": [
+              "A person unrelated to the Red River Resistance",
+              "A leader from a completely different country",
+              "A leader with no connection to Métis history",
+              "Louis Riel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Red River Resistance an important event in Canadian history?",
+            "options": [
+              "It highlights the Métis Nation’s efforts to protect their rights and way of life",
+              "It had no lasting effect on Canada’s development",
+              "This event has no significance in Canadian history",
+              "A reason unrelated to Métis history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable for students to learn about the Métis Nation’s history?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "It builds a fuller understanding of the diverse peoples who shaped Canada",
+              "The Métis Nation has no connection to Canadian history",
+              "Only one group’s history is relevant to understanding Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Analogies",
+        "summary": "Grade 5 Language strand: an analogy compares two pairs of words that share a similar relationship, such as “hot is to cold as up is to down.”",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "An analogy compares ___.",
+            "options": [
+              "Two completely unrelated words with no connection",
+              "Only the spelling of two words",
+              "A concept unrelated to vocabulary",
+              "Two pairs of words that share a similar relationship"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Complete the analogy: Bird is to nest as bee is to ___.",
+            "options": [
+              "A word unrelated to the analogy",
+              "Sky",
+              "Wing",
+              "Hive"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Complete the analogy: Author is to book as painter is to ___.",
+            "options": [
+              "A word unrelated to the analogy",
+              "Museum",
+              "Brush",
+              "Painting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What relationship does the analogy “up is to down as hot is to cold” show?",
+            "options": [
+              "Synonyms",
+              "Opposites",
+              "A relationship unrelated to analogies",
+              "Items from the same category"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are analogies a useful vocabulary tool?",
+            "options": [
+              "Analogies only apply to numbers, not words",
+              "They help readers understand relationships between words and ideas",
+              "Analogies never help with understanding vocabulary",
+              "A concept unrelated to vocabulary building"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Theoretical vs. Experimental",
+        "summary": "Grade 5 Math strand: theoretical probability predicts an outcome based on possible results, while experimental probability is based on the actual results of repeated trials.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Theoretical probability is based on ___.",
+            "options": [
+              "A random guess with no calculation involved",
+              "Only the results of trials that have already happened",
+              "A concept unrelated to probability",
+              "What is possible, calculated before any trials happen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Experimental probability is based on ___.",
+            "options": [
+              "The actual results of repeated trials",
+              "A concept unrelated to probability",
+              "A number with no connection to any trials",
+              "What is possible before any trials happen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the theoretical probability of flipping heads on a fair coin?",
+            "options": [
+              "A value unrelated to the calculation",
+              "1/3",
+              "1/2",
+              "1/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you flip a coin 20 times and get heads 12 times, what is the experimental probability of heads?",
+            "options": [
+              "A value unrelated to the calculation",
+              "12/20",
+              "1/2",
+              "8/20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might experimental probability differ from theoretical probability?",
+            "options": [
+              "Real trials can vary due to chance, especially with a small number of trials",
+              "A reason unrelated to probability",
+              "Experimental and theoretical probability are always identical",
+              "Experimental probability never involves any real trials"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Climate vs. Weather",
+        "summary": "Grade 5 Science strand: weather describes short-term atmospheric conditions like today’s temperature or rain, while climate describes the average weather patterns of a region over a long period of time.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Weather describes ___.",
+            "options": [
+              "A concept found only in science fiction",
+              "The average conditions of a region over many years",
+              "Short-term atmospheric conditions, such as today’s temperature",
+              "A concept unrelated to weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Climate describes ___.",
+            "options": [
+              "The average weather patterns of a region over a long period of time",
+              "A single day’s temperature and rainfall",
+              "Only the weather happening right now",
+              "A concept unrelated to climate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which statement is an example of describing weather?",
+            "options": [
+              "A statement unrelated to weather or climate",
+              "This region has cold winters and warm summers on average.",
+              "This area has a desert climate.",
+              "It is raining outside today."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which statement is an example of describing climate?",
+            "options": [
+              "This region typically has hot, dry summers.",
+              "It is sunny outside right now.",
+              "The temperature today is 22 degrees.",
+              "A statement unrelated to weather or climate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to understand the difference between weather and climate?",
+            "options": [
+              "A reason unrelated to science",
+              "This distinction has no practical use",
+              "Weather and climate are always exactly the same thing",
+              "It helps people make sense of both short-term forecasts and long-term environmental patterns"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Supreme Court and Landmark Cases",
+        "summary": "Grade 5 Social Studies strand: the Supreme Court of Canada is the highest court in the country, and its landmark cases have shaped Canadian law and rights over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Supreme Court of Canada is ___.",
+            "options": [
+              "The highest court in the country",
+              "A concept unrelated to Canadian government",
+              "A court found only at the municipal level",
+              "A court that only handles local disputes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A landmark case is one that ___.",
+            "options": [
+              "A concept unrelated to the legal system",
+              "Has no lasting effect on Canadian law",
+              "Sets an important precedent that shapes future law",
+              "Is always immediately forgotten after the ruling"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Supreme Court considered the highest court in Canada?",
+            "options": [
+              "Its decisions are final and cannot be appealed to a higher court",
+              "Its decisions can always be overturned by any other court",
+              "It only handles cases involving traffic violations",
+              "A reason unrelated to Canada’s court system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a Supreme Court ruling affect all of Canada?",
+            "options": [
+              "Supreme Court rulings only apply to a single province",
+              "It can set a legal precedent that applies across the whole country",
+              "A reason unrelated to how courts function",
+              "Rulings from the Supreme Court have no effect on Canadian law"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for students to learn about landmark court cases?",
+            "options": [
+              "It helps them understand how laws and rights have developed over time",
+              "Court cases have no connection to how rights are protected",
+              "A reason unrelated to social studies learning",
+              "Landmark cases provide no useful information about Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Foreshadowing",
+        "summary": "Grade 5 Language strand: foreshadowing is a writing technique where an author hints at events that will happen later in a story.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Foreshadowing is a technique where an author ___.",
+            "options": [
+              "A concept unrelated to reading",
+              "Removes all clues about what might happen next",
+              "Reveals the entire ending at the very beginning",
+              "Hints at events that will happen later in the story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use foreshadowing?",
+            "options": [
+              "Foreshadowing never affects how a reader experiences a story",
+              "A reason unrelated to storytelling",
+              "To confuse readers with no clear purpose",
+              "To build suspense and prepare readers for upcoming events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of foreshadowing?",
+            "options": [
+              "A concept unrelated to foreshadowing",
+              "A character noticing dark storm clouds before a disaster occurs later in the story",
+              "A story with absolutely no hints about future events",
+              "A character simply describing their breakfast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is foreshadowing different from a flashback?",
+            "options": [
+              "A flashback hints at future events instead",
+              "Foreshadowing hints at future events, while a flashback shows past events",
+              "A concept unrelated to these techniques",
+              "Foreshadowing and flashback mean exactly the same thing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might noticing foreshadowing make reading more enjoyable?",
+            "options": [
+              "It can build anticipation and reward careful readers with connections",
+              "Noticing foreshadowing never adds anything to the reading experience",
+              "A reason unrelated to reading enjoyment",
+              "Foreshadowing always reveals the ending immediately"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebraic Expressions: Variables and Terms",
+        "summary": "Grade 5 Math strand: an algebraic expression uses variables (letters representing unknown numbers) and terms to represent a mathematical relationship, such as “3x + 5.”",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A variable in an algebraic expression is ___.",
+            "options": [
+              "A concept unrelated to algebra",
+              "A letter that represents an unknown number",
+              "A symbol with no mathematical meaning",
+              "Always a fixed number that never changes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the expression “3x + 5,” what is the variable?",
+            "options": [
+              "5",
+              "x",
+              "A part of the expression unrelated to variables",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the expression “2y + 7,” what does “2y” represent?",
+            "options": [
+              "The value 27",
+              "2 multiplied by the variable y",
+              "A part unrelated to the expression",
+              "2 added to the variable y"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x = 4, what is the value of 3x + 5?",
+            "options": [
+              "12",
+              "17",
+              "9",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are algebraic expressions useful in math?",
+            "options": [
+              "They have no practical use in solving problems",
+              "They let us represent unknown or changing quantities in a general way",
+              "They can only be used with specific, known numbers",
+              "A reason unrelated to algebra"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycles of Plants and Pollination",
+        "summary": "Grade 5 Science strand: plants go through a life cycle from seed to mature plant, and pollination -- often carried out by insects or wind -- is a key step that allows plants to reproduce.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Pollination is the process by which ___.",
+            "options": [
+              "A seed is planted in the soil",
+              "Pollen is transferred to allow a plant to reproduce",
+              "A plant absorbs water through its roots",
+              "A concept unrelated to plant life cycles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these commonly helps carry out pollination?",
+            "options": [
+              "Only artificial machines",
+              "Bees and other insects",
+              "Rocks and soil alone",
+              "A concept unrelated to pollination"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the first stage in a plant’s life cycle?",
+            "options": [
+              "A seed",
+              "A fruit",
+              "A stage unrelated to plant life cycles",
+              "A fully grown, flowering plant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is pollination important for many plants?",
+            "options": [
+              "It allows plants to produce seeds and reproduce",
+              "Pollination only affects the colour of a plant’s leaves",
+              "Pollination has no connection to how plants reproduce",
+              "A reason unrelated to plant biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Wind pollination is common in plants that ___.",
+            "options": [
+              "A description unrelated to pollination",
+              "Produce large amounts of light, airborne pollen",
+              "Rely entirely on insects for reproduction",
+              "Never produce any pollen at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Globalization and Its Effects on Canada",
+        "summary": "Grade 5 Social Studies strand: globalization is the increasing connection between countries through trade, technology, and culture, and it has significant effects on Canada’s economy and society.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Globalization refers to ___.",
+            "options": [
+              "The increasing connection between countries through trade, technology, and culture",
+              "A process that only affects a single country",
+              "A concept unrelated to international relations",
+              "Countries becoming completely isolated from one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of globalization affecting Canada?",
+            "options": [
+              "A concept unrelated to globalization",
+              "Canada having no trade relationships with any other country",
+              "Canada being completely self-sufficient with no imports",
+              "Canadians buying products manufactured in other countries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How has technology contributed to globalization?",
+            "options": [
+              "It has made communication and trade between countries faster and easier",
+              "Technology has made international communication impossible",
+              "A reason unrelated to globalization",
+              "Technology has no connection to how countries interact"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a potential effect of globalization on Canada’s economy?",
+            "options": [
+              "A concept unrelated to globalization",
+              "A complete end to all trade with other countries",
+              "Increased trade opportunities with other countries",
+              "No effect on Canada’s economy at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for students to understand globalization?",
+            "options": [
+              "It helps explain how connected Canada is to the rest of the world",
+              "A reason unrelated to social studies learning",
+              "Globalization has no relevance to understanding Canada today",
+              "Canada operates with no connection to other countries"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Alliteration and Assonance",
+        "summary": "Grade 5 Language strand: alliteration repeats consonant sounds at the start of nearby words, while assonance repeats vowel sounds within nearby words, both creating rhythm and emphasis.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Alliteration repeats ___.",
+            "options": [
+              "The same word over and over with no variation",
+              "A concept unrelated to figurative language",
+              "Consonant sounds at the start of nearby words",
+              "Vowel sounds within nearby words"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Assonance repeats ___.",
+            "options": [
+              "Consonant sounds at the start of nearby words",
+              "A concept unrelated to figurative language",
+              "Only the final letter of a word",
+              "Vowel sounds within nearby words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "A phrase unrelated to alliteration",
+              "The cat sat on the mat.",
+              "She walked to the store.",
+              "Sally sells seashells by the seashore."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which phrase is an example of assonance?",
+            "options": [
+              "The dog ran quickly down the street.",
+              "A phrase unrelated to assonance",
+              "The rain in Spain falls mainly on the plain.",
+              "Peter Piper picked a peck."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet use alliteration or assonance?",
+            "options": [
+              "A reason unrelated to figurative language",
+              "To make a poem harder to read aloud",
+              "To create rhythm, emphasis, or a musical quality in the writing",
+              "These techniques never affect how a poem sounds"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing and Ordering Integers",
+        "summary": "Grade 5 Math strand: integers can be compared and ordered on a number line, where numbers further to the right are greater than numbers further to the left.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "On a number line, a number further to the right is ___.",
+            "options": [
+              "A concept unrelated to comparing integers",
+              "Exactly equal to every other number",
+              "Greater than a number to its left",
+              "Always smaller than a number to its left"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which integer is greater: -3 or 2?",
+            "options": [
+              "2",
+              "-3",
+              "They are equal",
+              "A value unrelated to the comparison"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which integer is less: -8 or -2?",
+            "options": [
+              "A value unrelated to the comparison",
+              "They are equal",
+              "-8",
+              "-2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Order these integers from least to greatest: 3, -5, 0, -1.",
+            "options": [
+              "An order unrelated to these integers",
+              "-5, -1, 0, 3",
+              "3, 0, -1, -5",
+              "0, -1, -5, 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding negative numbers useful in real life?",
+            "options": [
+              "Negative numbers have no real-world use",
+              "Negative numbers are only used in advanced mathematics",
+              "A reason unrelated to integers",
+              "They can represent things like temperatures below zero or amounts owed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Static Electricity and Charge",
+        "summary": "Grade 5 Science strand: static electricity occurs when electric charges build up on the surface of an object, often from friction, and can cause objects to attract or repel each other.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Static electricity often builds up because of ___.",
+            "options": [
+              "A concept unrelated to static electricity",
+              "The temperature of the air alone",
+              "Friction between two objects",
+              "Water flowing through a pipe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Objects with the same type of electric charge will ___ each other.",
+            "options": [
+              "Attract",
+              "Have no effect on",
+              "Repel",
+              "An interaction unrelated to charge"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Objects with opposite electric charges will ___ each other.",
+            "options": [
+              "Attract",
+              "An interaction unrelated to charge",
+              "Repel",
+              "Have no effect on"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an everyday example of static electricity?",
+            "options": [
+              "Water boiling in a kettle",
+              "A balloon sticking to a wall after being rubbed on hair",
+              "A concept unrelated to static electricity",
+              "A magnet attracting metal from across a room"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might your hair stand up after rubbing a balloon on it?",
+            "options": [
+              "The balloon removes all charge from the hair",
+              "A reason unrelated to static electricity",
+              "Hair naturally stands up with no connection to electric charge",
+              "The balloon transfers a static charge that causes the hair strands to repel each other"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Population Distribution and Density in Canada",
+        "summary": "Grade 5 Social Studies strand: Canada’s population is unevenly distributed, with most people living in southern regions near the border, resulting in varying population density across the country.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Population density refers to ___.",
+            "options": [
+              "A concept unrelated to population",
+              "The total land area of a country",
+              "The number of people living in a given area",
+              "The number of cities in a country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Most of Canada’s population lives ___.",
+            "options": [
+              "Equally spread across every region of the country",
+              "A location unrelated to population distribution",
+              "In southern regions, close to the border with the United States",
+              "In the far northern Arctic regions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a region with a mild climate and good farmland have a higher population density?",
+            "options": [
+              "Climate and farmland have no effect on where people choose to live",
+              "It can better support agriculture and comfortable living conditions",
+              "Population is distributed with no connection to geography",
+              "A reason unrelated to population distribution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would likely have a lower population density?",
+            "options": [
+              "A concept unrelated to population density",
+              "A large southern city",
+              "A densely built urban downtown",
+              "A remote northern territory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to study population distribution across Canada?",
+            "options": [
+              "A reason unrelated to geography",
+              "Every region of Canada has an identical population",
+              "Population distribution provides no useful information",
+              "It helps explain patterns in where services, cities, and resources are located"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Literary Response",
+        "summary": "Grade 5 Language strand: a literary response shares the writer’s thoughts and reactions to a text, supported by specific evidence and examples from the reading.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A literary response shares ___.",
+            "options": [
+              "The writer’s thoughts and reactions to a text, supported by evidence",
+              "A concept unrelated to writing",
+              "Only a summary of the plot with no personal reaction",
+              "A completely new, unrelated story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to include evidence in a literary response?",
+            "options": [
+              "A reason unrelated to writing a literary response",
+              "Evidence is never needed when responding to a text",
+              "Evidence makes a response less convincing",
+              "It supports the writer’s ideas with specific details from the text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of evidence a writer might use in a literary response?",
+            "options": [
+              "A concept unrelated to literary responses",
+              "A specific quote or event from the story",
+              "The writer’s opinion with no connection to the text",
+              "A completely unrelated fact about a different book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a literary response include besides a summary of events?",
+            "options": [
+              "The writer’s personal reaction and interpretation of the text",
+              "Only a list of characters with no further detail",
+              "A concept unrelated to literary responses",
+              "Instructions for how to read the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might two readers write very different literary responses to the same book?",
+            "options": [
+              "Literary responses never include any personal interpretation",
+              "Readers can have different reactions, interpretations, and connections to a text",
+              "All readers are required to respond to a text in exactly the same way",
+              "A reason unrelated to literary responses"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Converting Between Fractions, Decimals, and Percents",
+        "summary": "Grade 5 Math strand: fractions, decimals, and percents are different ways to represent the same value, and converting between them uses division, multiplication, or place value.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 1/2 written as a decimal?",
+            "options": [
+              "0.2",
+              "A value unrelated to the conversion",
+              "0.5",
+              "1.5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 0.75 written as a percent?",
+            "options": [
+              "750%",
+              "7.5%",
+              "A value unrelated to the conversion",
+              "75%"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3/4 written as a percent?",
+            "options": [
+              "43%",
+              "75%",
+              "34%",
+              "A value unrelated to the conversion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To convert a decimal to a percent, you ___.",
+            "options": [
+              "A method unrelated to converting decimals",
+              "Add 100 to the decimal",
+              "Multiply by 100",
+              "Divide by 100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 25% written as a fraction in lowest terms?",
+            "options": [
+              "1/4",
+              "1/2",
+              "2/5",
+              "A fraction unrelated to the conversion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Natural Disasters and Their Causes",
+        "summary": "Grade 5 Science strand: natural disasters such as earthquakes, floods, and tornadoes are caused by natural processes in the Earth’s systems, including shifting tectonic plates and extreme weather.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "An earthquake is often caused by ___.",
+            "options": [
+              "A sudden change in air temperature",
+              "Shifting tectonic plates beneath the Earth’s surface",
+              "A concept unrelated to earthquakes",
+              "The movement of ocean currents alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A flood can be caused by ___.",
+            "options": [
+              "A lack of rainfall over a long period",
+              "Excessive rainfall or rapid snowmelt",
+              "A sudden drop in temperature",
+              "A concept unrelated to floods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A tornado forms when ___.",
+            "options": [
+              "Warm and cold air masses collide, creating strong rotating winds",
+              "The ground shifts suddenly beneath the surface",
+              "Ocean water rises unusually high",
+              "A concept unrelated to tornadoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do scientists study natural disasters?",
+            "options": [
+              "A reason unrelated to science",
+              "Natural disasters cannot be studied or understood",
+              "Studying natural disasters provides no useful information",
+              "To better predict them and help keep communities safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a way communities can prepare for natural disasters?",
+            "options": [
+              "Ignoring the possibility of a natural disaster entirely",
+              "Creating emergency plans and warning systems",
+              "A concept unrelated to disaster preparedness",
+              "Assuming natural disasters never occur"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Relationship with the United States",
+        "summary": "Grade 5 Social Studies strand: Canada and the United States share the world’s longest international border and have close economic, cultural, and political ties.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Canada and the United States share ___.",
+            "options": [
+              "The world’s longest international border",
+              "A concept unrelated to their relationship",
+              "No border at all",
+              "A border that is closed to all trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of the close economic ties between Canada and the United States?",
+            "options": [
+              "Canada trading only with countries outside North America",
+              "A complete absence of any trade between the two countries",
+              "A concept unrelated to their relationship",
+              "A large amount of trade in goods and services between the two countries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might close cultural ties exist between Canada and the United States?",
+            "options": [
+              "The two countries share similar media, language, and geographic closeness",
+              "Canada and the United States have never interacted culturally",
+              "A reason unrelated to their relationship",
+              "The two countries have no shared culture or media of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of political cooperation between the two countries?",
+            "options": [
+              "Having completely separate, unconnected governments with no interaction",
+              "Working together on shared border and trade agreements",
+              "A concept unrelated to their relationship",
+              "Refusing to communicate on any shared issues"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s relationship with the United States significant for Canadians?",
+            "options": [
+              "Canada and the United States operate with no connection to one another",
+              "A reason unrelated to Canadian geography",
+              "It affects trade, travel, and many parts of daily life due to their close connection",
+              "This relationship has no effect on Canadians’ daily lives"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating Arguments and Counterarguments",
+        "summary": "Grade 5 Language strand: evaluating an argument means judging whether the reasons and evidence support the claim, while a counterargument presents an opposing point of view.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Evaluating an argument means judging whether ___.",
+            "options": [
+              "The argument is written in complete sentences",
+              "The text is a certain length",
+              "A concept unrelated to reading",
+              "The reasons and evidence actually support the claim"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A counterargument presents ___.",
+            "options": [
+              "A concept unrelated to argumentation",
+              "A summary of the entire text",
+              "The exact same point of view as the main argument",
+              "An opposing point of view to the main argument"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer include a counterargument in a persuasive text?",
+            "options": [
+              "To show they have considered other perspectives and strengthen their own argument",
+              "Counterarguments always weaken a writer’s position",
+              "A reason unrelated to persuasive writing",
+              "Counterarguments are never included in persuasive writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should a reader look for when evaluating whether an argument is strong?",
+            "options": [
+              "Whether the argument uses the most exciting language",
+              "A concept unrelated to evaluating arguments",
+              "The number of paragraphs in the text",
+              "Solid evidence and logical reasoning that supports the claim"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of evaluating an argument critically?",
+            "options": [
+              "Believing every claim in a text without question",
+              "Checking whether the evidence used actually supports the claim being made",
+              "A concept unrelated to critical reading",
+              "Ignoring the reasons given for a claim entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Line Plots and Stem-and-Leaf Plots",
+        "summary": "Grade 5 Math strand: a line plot displays data using marks above a number line, while a stem-and-leaf plot organizes numerical data by splitting each value into a “stem” and a “leaf.”",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A line plot displays data using ___.",
+            "options": [
+              "Bars of different heights only",
+              "Slices of a circle",
+              "A concept unrelated to line plots",
+              "Marks placed above a number line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “stem” usually represents ___.",
+            "options": [
+              "The exact value of a single data point",
+              "The total number of data points",
+              "The leading digit(s) of a number",
+              "A concept unrelated to stem-and-leaf plots"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “leaf” usually represents ___.",
+            "options": [
+              "The total sum of all data points",
+              "The last digit of a number",
+              "A concept unrelated to stem-and-leaf plots",
+              "The leading digit(s) of a number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone use a line plot to display data?",
+            "options": [
+              "Line plots only work with non-numerical data",
+              "It shows how often each value occurs in a simple, visual way",
+              "A reason unrelated to graphing data",
+              "Line plots cannot display any type of data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the stem-and-leaf entry “3 | 4,” what value does this represent?",
+            "options": [
+              "3.4",
+              "34",
+              "A value unrelated to the plot",
+              "43"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Materials Engineering and Testing",
+        "summary": "Grade 5 Science strand: engineers test different materials for strength, flexibility, and durability to determine the best choice for building a stable structure.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Materials engineering involves testing materials for qualities such as ___.",
+            "options": [
+              "Their price alone, with no other testing",
+              "Strength, flexibility, and durability",
+              "Only their colour and appearance",
+              "A concept unrelated to engineering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an engineer test a material’s flexibility before using it in a structure?",
+            "options": [
+              "Flexibility has no connection to how a structure performs",
+              "To see whether it can bend without breaking under stress",
+              "Flexibility testing is never done in engineering",
+              "A reason unrelated to materials engineering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of testing a material’s strength?",
+            "options": [
+              "Measuring the temperature of the room",
+              "Painting a beam a different colour",
+              "A concept unrelated to materials testing",
+              "Applying weight to a beam to see how much it can hold before bending"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is durability an important quality for building materials?",
+            "options": [
+              "Materials never need to withstand any wear over time",
+              "Durable materials can withstand wear and last longer over time",
+              "A reason unrelated to materials engineering",
+              "Durability has no connection to how well a structure lasts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do engineers compare multiple materials before choosing one for a project?",
+            "options": [
+              "A reason unrelated to engineering design",
+              "Only one material has ever been used to build anything",
+              "Comparing materials provides no useful information",
+              "To select the material best suited to the structure’s needs and conditions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Land Acknowledgements and Treaty Territories",
+        "summary": "Grade 5 Social Studies strand: a land acknowledgement recognizes the Indigenous peoples who have traditionally lived on and cared for a particular territory, often defined by historic treaties.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A land acknowledgement recognizes ___.",
+            "options": [
+              "A country’s entire history, with no focus on any specific group",
+              "The Indigenous peoples who have traditionally lived on a territory",
+              "A concept unrelated to Indigenous history",
+              "A modern boundary with no historical significance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A treaty territory is often defined by ___.",
+            "options": [
+              "A concept unrelated to treaties",
+              "A boundary drawn with no historical basis",
+              "A historic agreement between Indigenous nations and the government",
+              "A region that has never had any agreements in place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a school or organization begin an event with a land acknowledgement?",
+            "options": [
+              "To ignore the history of the land entirely",
+              "A reason unrelated to Indigenous history",
+              "To show respect for the Indigenous peoples connected to that land",
+              "Land acknowledgements have no purpose or meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for students to learn about the treaty territory they live on?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "This knowledge has no relevance to understanding local history",
+              "It builds understanding of the land’s history and the people connected to it",
+              "Treaty territories have no connection to where people live today"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one purpose of historic treaties between Indigenous nations and governments?",
+            "options": [
+              "Treaties exist with no real purpose or effect",
+              "A reason unrelated to treaties",
+              "Treaties have never included any agreements about land",
+              "To establish agreements about land, rights, and relationships"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Effective Conclusion",
+        "summary": "Grade 5 Language strand: an effective conclusion sums up the main ideas of a piece of writing and leaves the reader with a final thought, without simply repeating the introduction word for word.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "An effective conclusion should ___.",
+            "options": [
+              "Introduce a completely new topic with no connection to the writing",
+              "A concept unrelated to writing",
+              "Sum up the main ideas and leave the reader with a final thought",
+              "Repeat the introduction word for word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a conclusion avoid simply repeating the introduction?",
+            "options": [
+              "Conclusions are never meant to add anything new",
+              "A strong conclusion should add a sense of closure or new insight",
+              "Repeating the introduction always makes a conclusion stronger",
+              "A reason unrelated to writing conclusions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a strong closing thought in a conclusion?",
+            "options": [
+              "A random change of topic",
+              "A concept unrelated to conclusions",
+              "A reflection on why the topic matters to the reader",
+              "A brand new fact with no connection to the essay"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a strong conclusion important in a piece of writing?",
+            "options": [
+              "It leaves a lasting impression and reinforces the writer’s main point",
+              "A conclusion has no effect on how a piece of writing is remembered",
+              "A reason unrelated to writing structure",
+              "Conclusions are an optional part of writing that can be skipped"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these belongs in a conclusion rather than an introduction?",
+            "options": [
+              "A hook meant to grab the reader’s attention at the start",
+              "The very first sentence that introduces the topic",
+              "A final thought that ties the main ideas together",
+              "A concept unrelated to conclusions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying and Dividing Integers",
+        "summary": "Grade 5 Math strand: when multiplying or dividing integers, two numbers with the same sign give a positive result, while two numbers with different signs give a negative result.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is -3 × 4?",
+            "options": [
+              "-12",
+              "12",
+              "A value unrelated to the calculation",
+              "-7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is -6 × -2?",
+            "options": [
+              "-8",
+              "-12",
+              "12",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is -10 ÷ 2?",
+            "options": [
+              "5",
+              "-8",
+              "-5",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is -12 ÷ -4?",
+            "options": [
+              "A value unrelated to the calculation",
+              "-3",
+              "3",
+              "-16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When multiplying two integers with different signs, the result is ___.",
+            "options": [
+              "Negative",
+              "Always zero",
+              "Positive",
+              "A result unrelated to integer multiplication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Carbon Cycle",
+        "summary": "Grade 5 Science strand: the carbon cycle describes how carbon moves between the atmosphere, living things, and the Earth, through processes like photosynthesis, respiration, and decomposition.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The carbon cycle describes how carbon moves between ___.",
+            "options": [
+              "Only the ocean, with no other locations involved",
+              "A concept unrelated to the carbon cycle",
+              "Nowhere at all, since carbon never moves",
+              "The atmosphere, living things, and the Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During photosynthesis, plants take in ___ from the atmosphere.",
+            "options": [
+              "A gas unrelated to photosynthesis",
+              "Nitrogen only",
+              "Oxygen only",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During respiration, living things release ___ back into the atmosphere.",
+            "options": [
+              "Carbon dioxide",
+              "Nitrogen only",
+              "Oxygen only",
+              "A gas unrelated to respiration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Decomposition contributes to the carbon cycle by ___.",
+            "options": [
+              "Having no connection to carbon at all",
+              "Removing all carbon permanently from the environment",
+              "Releasing carbon stored in dead plants and animals back into the environment",
+              "A process unrelated to the carbon cycle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding the carbon cycle important?",
+            "options": [
+              "Carbon never plays a role in supporting life on Earth",
+              "It helps explain how carbon supports life and connects to environmental issues like climate change",
+              "A reason unrelated to science",
+              "The carbon cycle has no connection to living things or the environment"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Municipal vs. Provincial Elections",
+        "summary": "Grade 5 Social Studies strand: municipal elections choose local leaders like mayors and councillors, while provincial elections choose representatives who make decisions for the whole province.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A municipal election chooses leaders who make decisions for ___.",
+            "options": [
+              "Every province in Canada at once",
+              "The entire country",
+              "A concept unrelated to elections",
+              "A local community or city"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A provincial election chooses representatives who make decisions for ___.",
+            "options": [
+              "A single neighbourhood only",
+              "The whole province",
+              "Every country in the world",
+              "A concept unrelated to elections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would most likely be decided in a municipal election?",
+            "options": [
+              "Who will serve as the city’s mayor",
+              "A concept unrelated to municipal elections",
+              "Who will serve as the country’s prime minister",
+              "Who will represent Canada internationally"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would most likely be decided in a provincial election?",
+            "options": [
+              "Who will lead a local school council",
+              "A concept unrelated to provincial elections",
+              "Who will be the mayor of a single town",
+              "Who will represent a riding in the provincial legislature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to understand the difference between municipal and provincial elections?",
+            "options": [
+              "Elections have no connection to how decisions are made",
+              "These two types of elections are always identical in every way",
+              "It helps citizens understand which level of government handles which responsibilities",
+              "A reason unrelated to understanding government"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Semicolons and Colons",
+        "summary": "Grade 5 Language strand: a semicolon can join two related independent clauses, while a colon is often used to introduce a list, explanation, or quotation.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A semicolon can be used to ___.",
+            "options": [
+              "Join two closely related independent clauses",
+              "A concept unrelated to punctuation",
+              "Separate every word in a sentence",
+              "Replace a period at the end of every sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A colon is often used to ___.",
+            "options": [
+              "Replace a comma in every sentence",
+              "End a question",
+              "Introduce a list, explanation, or quotation",
+              "A concept unrelated to punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "I love reading, it helps me relax.",
+              "I love reading; it helps me relax.",
+              "A sentence unrelated to semicolon use",
+              "I love reading; And it helps me relax."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a colon?",
+            "options": [
+              "A sentence unrelated to colon use",
+              "Bring these items, a pencil, a notebook, and a ruler.",
+              "Bring these items: a pencil, a notebook, and a ruler.",
+              "Bring these items; a pencil, a notebook, and a ruler."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose a semicolon instead of starting a new sentence?",
+            "options": [
+              "Semicolons are never used to connect ideas",
+              "A reason unrelated to punctuation",
+              "To show that two ideas are closely connected",
+              "A semicolon always separates completely unrelated ideas"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Integers, Algebra, and Data Displays",
+        "summary": "Grade 5 Math strand: this review lesson revisits key ideas from Days 51-60, including integers, scale drawings, surface area, algebraic expressions, and stem-and-leaf plots.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "An integer can be ___.",
+            "options": [
+              "Only a positive whole number",
+              "A concept unrelated to integers",
+              "A positive or negative whole number",
+              "Only a fraction or decimal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A variable in an algebraic expression is ___.",
+            "options": [
+              "A symbol with no mathematical meaning",
+              "A letter that represents an unknown number",
+              "Always a fixed number that never changes",
+              "A concept unrelated to algebra"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The surface area of a rectangular prism is ___.",
+            "options": [
+              "The volume of the prism",
+              "The total area of all six faces added together",
+              "A concept unrelated to surface area",
+              "The length of just one edge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “leaf” usually represents ___.",
+            "options": [
+              "The last digit of a number",
+              "The leading digit(s) of a number",
+              "A concept unrelated to stem-and-leaf plots",
+              "The total sum of all data points"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review integers, algebra, and data displays together?",
+            "options": [
+              "It reinforces how these math concepts connect and build on one another",
+              "Review never helps strengthen understanding of a subject",
+              "A reason unrelated to reviewing math",
+              "These topics have no connection to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Body Systems, Structures, and Earth Processes",
+        "summary": "Grade 5 Science strand: this review lesson revisits key ideas from Days 51-60, including the immune system, bridges, static electricity, plant pollination, and natural disasters.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The immune system’s main job is to ___.",
+            "options": [
+              "Pump blood throughout the body",
+              "Digest food for energy",
+              "Defend the body against germs and illness",
+              "A concept unrelated to the immune system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Load distribution in a bridge refers to how a structure ___.",
+            "options": [
+              "Ignores all forces acting on it",
+              "A concept unrelated to structures",
+              "Adds unnecessary weight to itself",
+              "Spreads out weight and forces to remain stable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Objects with the same type of electric charge will ___ each other.",
+            "options": [
+              "Repel",
+              "An interaction unrelated to charge",
+              "Have no effect on",
+              "Attract"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Pollination is the process by which ___.",
+            "options": [
+              "Pollen is transferred to allow a plant to reproduce",
+              "A seed is planted in the soil",
+              "A concept unrelated to plant life cycles",
+              "A plant absorbs water through its roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review body systems, structures, and Earth processes together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "These topics have no connection to each other",
+              "It reinforces how these interconnected science concepts relate to one another",
+              "Review is never useful in science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Culminating Task: A Timeline of Canadian Milestones",
+        "summary": "Grade 5 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about residential schools, peacekeeping, the Métis Nation, and Canadian government to build a timeline of significant milestones.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Why might a student include residential schools on a timeline of Canadian milestones?",
+            "options": [
+              "It represents a significant and difficult part of Canada’s history that continues to affect communities today",
+              "Timelines should only include positive events",
+              "Residential schools have no connection to Canadian history",
+              "A reason unrelated to this unit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a student include the Red River Resistance on a timeline of Canadian milestones?",
+            "options": [
+              "It reflects an important moment when the Métis Nation defended their rights and land",
+              "Only events from the last ten years belong on a timeline",
+              "A reason unrelated to this unit",
+              "This event has no significance in Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a student include Canada’s peacekeeping missions on a timeline of Canadian milestones?",
+            "options": [
+              "A reason unrelated to this unit",
+              "They reflect Canada’s long-standing role in supporting international stability",
+              "Peacekeeping has never been part of Canada’s history",
+              "Peacekeeping missions have no connection to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a student include a Supreme Court landmark case on a timeline of Canadian milestones?",
+            "options": [
+              "The Supreme Court has never influenced Canadian law",
+              "A reason unrelated to this unit",
+              "Court cases have no lasting effect on Canadian history",
+              "Landmark cases can shape Canadian law and rights for the whole country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is building a timeline a valuable way to end this set of Social Studies lessons?",
+            "options": [
+              "Timelines never help show connections between historical events",
+              "Organizing events chronologically provides no educational benefit",
+              "It helps students see how different events connect and build Canada’s history over time",
+              "A reason unrelated to social studies learning"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
