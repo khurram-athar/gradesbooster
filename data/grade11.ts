@@ -486,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Health: Immune System and Disease", summary:"Students examine innate and adaptive immunity, vaccination, autoimmune disorders, and the biological basis of disease response.",
    resourceLabel:"YouTube: Human Health: Immune System and Disease", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Health%3A%20Immune%20System%20and%20Disease%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GIJK3dwCWCw",
    quiz:[
      {q:"Innate immunity is ___.", options:["only effective against specific pathogens","the non-specific first line of defence","slower to activate than adaptive immunity","identical in all individuals"], answer:1},
      {q:"Adaptive (acquired) immunity is ___.", options:["non-specific","specific and antigen-triggered","only present in adults","identical to innate immunity"], answer:1},
@@ -507,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Global Literature", summary:"Students read a novel from outside Canada and the Anglo-American tradition, examining universal themes and culturally specific contexts.",
    resourceLabel:"YouTube: Independent Reading: Global Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Global%20Literature%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=q6Szq9yHB3w",
    quiz:[
      {q:"Reading world literature in translation exposes students to ___.", options:["only historical texts","simpler stories than English literature","fiction unworthy of serious study","different narrative traditions"], answer:3},
      {q:"Magical realism (e.g., Gabriel García Márquez, Salman Rushdie) is characterised by ___.", options:["only South American fiction","purely realistic narrative","supernatural events treated as mundane","fantasy with no real-world connection"], answer:2},
@@ -516,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Discrete Structures: Financial Mathematics", summary:"Students apply sequences, series, and exponential functions to advanced financial calculations: mortgages, annuities, and investment planning.",
    resourceLabel:"YouTube: Discrete Structures: Financial Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Discrete%20Structures%3A%20Financial%20Mathematics%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OixshZzH8t0",
    quiz:[
      {q:"An annuity is ___.", options:["a government pension only","a one-time investment","equal regular payments over time","a type of insurance"], answer:2},
      {q:"The present value of an annuity is ___.", options:["the final payment amount","always greater than its future value","only relevant for pensions","the lump-sum value of future payments"], answer:3},
@@ -525,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biodiversity: Species Classification and Conservation", summary:"Students examine the classification of life (taxonomic hierarchy, domains), threats to biodiversity, and strategies for conservation.",
    resourceLabel:"YouTube: Biodiversity: Species Classification and Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20Species%20Classification%20and%20Conservation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GK_vRtHJZu4",
    quiz:[
      {q:"The taxonomic hierarchy from broadest to most specific is ___.", options:["Domain, Species, Genus, Family, Order...","Species, Genus, Family, Class, Phylum...","Kingdom, Phylum, Class, Order, Family, Genus, Species","Kingdom, Species, Class, Order, Family, Phylum, Genus"], answer:2},
      {q:"The three domains of life are ___.", options:["Plants, Animals, Protists","Prokaryotes, Eukaryotes, Viruses","Bacteria, Archaea, Eukarya","Animals, Plants, Fungi"], answer:2},
@@ -546,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Oral Communication: Seminar Leadership and Discussion Facilitation", summary:"Students lead a Socratic seminar on a literary or social topic, developing advanced oral communication, questioning, and facilitation skills.",
    resourceLabel:"YouTube: Oral Communication: Seminar Leadership and Discussion Facilitation", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20Leadership%20and%20Discussion%20Facilitation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=759ltCNvZNM",
    quiz:[
      {q:"A Socratic seminar differs from a debate in that ___.", options:["formal preparation is not required","only one person speaks in a Socratic seminar","the goal is collaborative inquiry","winning is the goal"], answer:2},
      {q:"An effective discussion facilitator ___.", options:["avoids asking challenging questions","asks open questions, listens actively","only asks questions to people who want to talk","always shares their own opinion first"], answer:1},
@@ -555,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Grade 11 Functions: Review and Synthesis", summary:"Students consolidate the major concepts of the Functions (MCR3U) course, connecting different function families and preparing for Grade 12 Advanced Functions.",
    resourceLabel:"YouTube: Grade 11 Functions: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Functions%3A%20Review%20and%20Synthesis%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yEPVEfUVrF4",
    quiz:[
      {q:"The key distinction between polynomial and rational functions is ___.", options:["rational functions divide by a variable","polynomial functions have no restrictions on domain","polynomial functions have more zeros","rational functions always have asymptotes"], answer:0},
      {q:"Exponential and logarithmic functions are inverses: this means ___.", options:["they have the same graph","they can replace each other","they are equally useful for all applications","they're reflections across y = x"], answer:3},
@@ -574,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry in Society: Green Chemistry and Sustainability", summary:"Students examine the principles of green chemistry, Life Cycle Assessment, the circular economy, and the role of chemists in addressing sustainability challenges.",
    resourceLabel:"YouTube: Chemistry in Society: Green Chemistry and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20in%20Society%3A%20Green%20Chemistry%20and%20Sustainability%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gabiSZGGrf0",
    quiz:[
      {q:"Green chemistry aims to ___.", options:["oppose all chemical manufacturing","only reduce industrial costs","only use natural ingredients","reducing hazardous substances in design"], answer:3},
      {q:"The 12 principles of green chemistry include ___.", options:["maximising waste production for safety","atom economy and renewable feedstocks","using more energy in reactions","all chemicals are equally safe"], answer:1},

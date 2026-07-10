@@ -518,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"BEDMAS tells you the order to solve expressions: Brackets, Exponents, Division/Multiplication, Addition/Subtraction.",
    resourceLabel:"YouTube: Order of Operations (BEDMAS)", resourceUrl:"https://www.youtube.com/results?search_query=Order%20of%20Operations%20%28BEDMAS%29%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dAgfnK528RA",
    quiz:[
      {q:"What does the 'B' in BEDMAS stand for?", options:["Both","Brackets","Base","Big numbers"], answer:1},
      {q:"Solve: 3 + 4 × 2 = ?", options:["10","11","14","8"], answer:1},
@@ -527,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Patterns and Instruments", summary:"Weather instruments like thermometers, barometers, and anemometers help us measure and predict weather patterns.",
    resourceLabel:"YouTube: Weather Patterns and Instruments", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20and%20Instruments%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VkyfKtpPZG8",
    quiz:[
      {q:"A thermometer measures...", options:["Temperature","Air pressure","Rainfall","Wind speed"], answer:0},
      {q:"An anemometer measures...", options:["Light","Temperature","Wind speed","Humidity"], answer:2},
@@ -548,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Summarizing a Text", summary:"A summary briefly retells the most important ideas of a text in your own words, without unnecessary details.",
    resourceLabel:"YouTube: Summarizing a Text", resourceUrl:"https://www.youtube.com/results?search_query=Summarizing%20a%20Text%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SmnR4AZ-XM8",
    quiz:[
      {q:"Which summary of a story about a boy who overcomes his fear of swimming BEST follows summarizing rules?", options:["Sam went to the pool on Tuesday wearing blue goggles and ate a granola bar afterward.","Sam feared water but learned to swim.","Sam is scared.","The story has many characters and events that happen throughout."], answer:1},
      {q:"A student's summary of an article is nearly as long as the article and includes minor examples. What's the problem?", options:["It uses too many of the author's exact words","It's too short","It fails to condense to main ideas","It successfully captures every detail"], answer:2},
@@ -557,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mixed Numbers and Improper Fractions", summary:"A mixed number combines a whole number and a fraction; an improper fraction has a numerator larger than its denominator.",
    resourceLabel:"YouTube: Mixed Numbers and Improper Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Mixed%20Numbers%20and%20Improper%20Fractions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KEmCZGbd4R8",
    quiz:[
      {q:"A recipe calls for 7/2 cups of flour. Expressed as a mixed number, how much flour is that?", options:["4","2 1/2","3 1/2","3 1/3"], answer:2},
      {q:"Which improper fraction is equivalent to 4 2/5?", options:["20/5","24/5","18/5","22/5"], answer:3},
@@ -566,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classification of Living Things", summary:"Scientists classify living things into groups based on shared characteristics, such as plants, animals, and other kingdoms.",
    resourceLabel:"YouTube: Classification of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Classification%20of%20Living%20Things%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SIbFuiCfkr8",
    quiz:[
      {q:"A newly discovered animal has a backbone, fur, and nurses its young. Which group does it belong to?", options:["Reptile","Insect","Mammal","Invertebrate"], answer:2},
      {q:"Why is classifying organisms into groups like vertebrates and invertebrates useful to scientists?", options:["It prevents new species from being discovered","It has no scientific value","It helps them see patterns in life","It only matters for pets"], answer:2},
@@ -575,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Multiculturalism in Canada", summary:"Canada's Multiculturalism Policy recognizes and celebrates the diversity of cultures, languages, and traditions across the country.",
    resourceLabel:"YouTube: Multiculturalism in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20in%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"A city hosts an annual festival celebrating food, music, and traditions from dozens of cultures in its population. This is an example of...", options:["Multiculturalism in action","An isolated, meaningless event","A violation of Canadian law","Assimilation into one culture"], answer:0},
      {q:"How does Canada's Multiculturalism Policy differ from a policy requiring immigrants to adopt only one national culture?", options:["It only applies to Indigenous peoples","It requires the same thing — full assimilation","It preserves diversity, not sameness","It bans all cultural practices"], answer:2},

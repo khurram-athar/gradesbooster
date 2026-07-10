@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Writing: The Research Essay — Advanced Skills", summary:"Students research and write a multi-source academic essay on a literary, historical, or social topic, applying MLA or APA citation, synthesis, and academic argument.",
    resourceLabel:"YouTube: Writing: The Research Essay — Advanced Skills", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Research%20Essay%20%E2%80%94%20Advanced%20Skills%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yt6zuQbETMI",
    quiz:[
      {q:"An annotated bibliography includes ___.", options:["only books, not websites","only titles and authors","a citation and a brief summary","only the URL"], answer:2},
      {q:"Synthesising multiple sources means ___.", options:["summarising sources in alphabetical order","weaving sources into an argument","only using the most recent sources","only summarising each source separately"], answer:1},
@@ -517,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Circle and Line Relationships", summary:"Students explore the geometry of circles — tangent lines, chords, secants — and prove circle theorems using congruence and angle relationships.",
    resourceLabel:"YouTube: Geometry: Circle and Line Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20and%20Line%20Relationships%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IcgycGSq9Us",
    quiz:[
      {q:"A tangent to a circle ___.", options:["is perpendicular to the radius","is parallel to any chord","passes through the centre","intersects the circle at two points"], answer:0},
      {q:"An inscribed angle in a circle is ___.", options:["an angle between two tangents","half the central angle on the same arc","an angle outside the circle","a central angle"], answer:1},
@@ -536,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Global Citizenship and Human Rights", summary:"Students examine international human rights frameworks (UDHR, ICC), Canada's role, and the responsibilities of individuals and states in a globalised world.",
    resourceLabel:"YouTube: Global Citizenship and Human Rights", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Citizenship%20and%20Human%20Rights%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nhb6sL__mhs",
    quiz:[
      {q:"The Universal Declaration of Human Rights (1948) ___.", options:["only applies to UN member states","was drafted without Canadian involvement","is legally binding on all nations","was proclaimed by the UN General Assembly as a foundational statement of universal human rights — though it is not legally binding on its own, it has inspired binding human rights treaties"], answer:2},
      {q:"The International Criminal Court (ICC) ___.", options:["only tries non-state actors","tries genocide and war crimes cases","has no jurisdiction over heads of state","is the same as the International Court of Justice"], answer:1},
@@ -547,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Oral and Media: Podcasting and Digital Storytelling", summary:"Students plan and create a short digital story or podcast episode, applying media production principles, research, and narrative skills.",
    resourceLabel:"YouTube: Oral and Media: Podcasting and Digital Storytelling", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20and%20Media%3A%20Podcasting%20and%20Digital%20Storytelling%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JIix-yVzheM",
    quiz:[
      {q:"A podcast script differs from a written essay because ___.", options:["it requires no research","it never uses evidence","it is designed to be heard","it uses casual language only"], answer:2},
      {q:"Digital storytelling combines ___.", options:["only text","only audio","only images","narrative, images, video, and sound"], answer:3},
@@ -556,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Linear and Quadratic Systems", summary:"Students find the intersection of a linear equation and a quadratic (parabola), solving graphically and algebraically.",
    resourceLabel:"YouTube: Linear and Quadratic Systems", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20and%20Quadratic%20Systems%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rq5AjFs95qw",
    quiz:[
      {q:"To find where y = x + 3 meets y = x², you set them equal and solve ___.", options:["y = y","x + 3 = x², then x² − x − 3 = 0","x = x²","y = 0"], answer:1},
      {q:"The number of intersections of a line and a parabola can be ___.", options:["only 1","0, 1, or 2, per the discriminant","always 0","only 2"], answer:1},
@@ -565,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: Connecting Chemistry, Biology, Physics", summary:"Students connect the three Grade 10 science strands and their real-world applications.",
    resourceLabel:"YouTube: Science Review: Connecting Chemistry, Biology, Physics", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Connecting%20Chemistry%2C%20Biology%2C%20Physics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=EjbSulQogIA",
    quiz:[
      {q:"Biochemistry connects chemistry and biology through ___.", options:["chemical reactions in living things","only enzymes","only DNA","only cell division"], answer:0},
      {q:"Biophysics connects biology and physics through ___.", options:["physics applied to biological systems","only genetics","only anatomy","only ecology"], answer:0},
@@ -574,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Year-End Review: Canadian History and Civics", summary:"Students synthesise learning across Grade 10 history, connecting historical developments to contemporary Canadian issues.",
    resourceLabel:"YouTube: Year-End Review: Canadian History and Civics", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Review%3A%20Canadian%20History%20and%20Civics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MPdOh-8w5IM",
    quiz:[
      {q:"Which concept best connects Canada's experience in WWI and WWII to Canada's contemporary foreign policy?", options:["Canada as a 'middle power'","Military dominance","Colonial dependence","Isolationism"], answer:0},
      {q:"The connection between the Quiet Revolution, the Official Languages Act, and the Quebec referendums is ___.", options:["Quebec autonomy vs. federal unity","no meaningful connection","only economic issues","the growth of English dominance"], answer:0},

@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Compare and Contrast", summary:"Grade 4 Reading strand: comparing shows how two things are alike; contrasting shows how they differ. Signal words: both, similarly, however, but, in contrast.",
    resourceLabel:"YouTube: Reading: Compare and Contrast", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Compare%20and%20Contrast%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2enr-yY68tg",
    quiz:[
      {q:"Comparing means finding how things are ___.", options:["unrelated","different","bigger","the same or similar"], answer:3},
      {q:"Contrasting means finding how things are ___.", options:["different","similar","the same","related"], answer:0},
@@ -527,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Static and Current", summary:"Grade 4 Science Energy strand: static electricity is a build-up of charge; current electricity is a flow of electrons through a conductor.",
    resourceLabel:"YouTube: Electricity: Static and Current", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PC4PteRt3A4",
    quiz:[
      {q:"Static electricity is caused by ___.", options:["burning fuel","magnetism","a build-up of electric charge","a flow of electrons in a circuit"], answer:2},
      {q:"Current electricity flows through ___.", options:["a vacuum","conductors in a circuit","insulators","non-metals only"], answer:1},
@@ -536,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Maps: Physical Features", summary:"Grade 4 Social Studies: physical maps show natural features like mountains, rivers, lakes, and plains. They use colour and symbols to represent terrain.",
    resourceLabel:"YouTube: Maps: Physical Features", resourceUrl:"https://www.youtube.com/results?search_query=Maps%3A%20Physical%20Features%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mSugSh7z8MM",
    quiz:[
      {q:"A physical map shows ___.", options:["natural features like mountains","population density","roads and cities","political boundaries"], answer:0},
      {q:"On most physical maps, blue represents ___.", options:["water (rivers, lakes, oceans)","land","grasslands","mountains"], answer:0},
@@ -547,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Similes", summary:"Grade 4 Language strand: a simile compares two unlike things using 'like' or 'as'. Example: 'brave as a lion,' 'runs like the wind'.",
    resourceLabel:"YouTube: Figurative Language: Similes", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Similes%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iLw5DSyYsaI",
    quiz:[
      {q:"A simile compares two things using ___.", options:["is/was","and/but","like or as","metaphor words"], answer:2},
      {q:"Which is a simile?", options:["The car is a beast.","Time flies.","She ran like the wind.","The moon smiled."], answer:2},
@@ -556,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Metric Measurement: Length", summary:"Grade 4 Measurement strand: the metric system uses kilometres (km), metres (m), centimetres (cm), and millimetres (mm). 1 m = 100 cm; 1 km = 1000 m.",
    resourceLabel:"YouTube: Metric Measurement: Length", resourceUrl:"https://www.youtube.com/results?search_query=Metric%20Measurement%3A%20Length%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AVC-426M6V0",
    quiz:[
      {q:"1 metre = ___ centimetres.", options:["1","1000","10","100"], answer:3},
      {q:"1 kilometre = ___ metres.", options:["100","10000","10","1000"], answer:3},
@@ -575,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Natural Resources", summary:"Grade 4 Social Studies: Canada is rich in natural resources including forests, minerals, freshwater, oil, and agricultural land. These support the economy but must be managed sustainably.",
    resourceLabel:"YouTube: Canada's Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Natural%20Resources%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
    quiz:[
      {q:"Which of these is NOT a natural resource?", options:["Fresh water","A car","Gold","Timber/wood"], answer:1},
      {q:"Why are Canada's forests valuable?", options:["Lumber, paper, habitat, and climate help","They are not valuable","Only for tourism","Only for scenery"], answer:0},

@@ -528,6 +528,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Synonyms", summary:"Synonyms are words that mean the same or nearly the same thing, like happy and glad, or big and large.",
    resourceLabel:"YouTube: Synonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hFFW9zKJ5os",
    quiz:[
      {q:"Which word is a synonym for 'happy'?", options:["Tired","Angry","Sad","Glad"], answer:3},
      {q:"Which word means the same as 'big'?", options:["Large","Tiny","Little","Small"], answer:0},
@@ -547,6 +548,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Five Senses", summary:"We learn about the world using our five senses: sight (eyes), hearing (ears), smell (nose), taste (tongue), and touch (skin).",
    resourceLabel:"YouTube: The Five Senses", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=q1xNuU7gaAQ",
    quiz:[
      {q:"Which sense do you use to see a rainbow?", options:["Hearing","Touch","Sight","Smell"], answer:2},
      {q:"Which body part do you use for the sense of hearing?", options:["Tongue","Eyes","Nose","Ears"], answer:3},
@@ -568,6 +570,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Antonyms", summary:"Antonyms are words that mean the opposite, like hot and cold, or up and down.",
    resourceLabel:"YouTube: Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Antonyms%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wKEKEVHpwkk",
    quiz:[
      {q:"What is the antonym (opposite) of 'hot'?", options:["Frozen","Cool","Warm","Cold"], answer:3},
      {q:"Which word is the opposite of 'up'?", options:["Over","Down","Above","High"], answer:1},
@@ -577,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Length with Non-Standard Units", summary:"We can measure how long things are using non-standard units like paper clips, cubes, or hand spans — then count how many units fit.",
    resourceLabel:"YouTube: Measuring Length with Non-Standard Units", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20with%20Non-Standard%20Units%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2wUsdsae0ro",
    quiz:[
      {q:"If a pencil is 8 paper clips long, and a book is 12 paper clips long, which is longer?", options:["Pencil","Book","Cannot tell","They are the same"], answer:1},
      {q:"Why do we need to use the SAME unit when comparing lengths?", options:["To make it harder","Because units are the same always","So measurements are fair and accurate","No reason"], answer:2},
@@ -586,6 +590,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ramps and Inclined Planes", summary:"A ramp (inclined plane) is a simple machine that makes it easier to move things up or down. The less steep the ramp, the easier it is to push something up.",
    resourceLabel:"YouTube: Ramps and Inclined Planes", resourceUrl:"https://www.youtube.com/results?search_query=Ramps%20and%20Inclined%20Planes%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3COvm0TtxWg",
    quiz:[
      {q:"A ramp is also called an...", options:["Lever","Pulley","Inclined plane","Wheel"], answer:2},
      {q:"What does a ramp help you do?", options:["Move things up or down more easily","Add colour","Create sound","Make things disappear"], answer:3},
@@ -595,6 +600,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Needs vs. Wants", summary:"Needs are things we must have to survive, like food, water, clothing, and shelter. Wants are things we would like to have but do not need to survive, like toys or candy.",
    resourceLabel:"YouTube: Needs vs. Wants", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20vs.%20Wants%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aRcXutXvfmM",
    quiz:[
      {q:"Which of these is a NEED?", options:["Food","Candy","Toys","Video games"], answer:0},
      {q:"Which of these is a WANT?", options:["Shelter","Water","Clothing","New sneakers"], answer:3},
@@ -606,6 +612,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Week 3 review — mixed questions from Days 11–14", subjects:[
   {subject:"Language", title:"Review: Compound Words, Contractions, Synonyms & Antonyms", summary:"Mixed review of compound words, contractions, synonyms, and antonyms.",
    resourceLabel:"YouTube: Review: Compound Words, Contractions, Synonyms & Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Compound%20Words%2C%20Contractions%2C%20Synonyms%20%26%20Antonyms%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PDI2xlOBcM4",
    quiz:[
      {q:"Which word is a compound word?", options:["Beautiful","Running","Bedroom","Slowly"], answer:2},
      {q:"What is the contraction for 'I am'?", options:["I'am","Im","Iam","I'm"], answer:3},
@@ -615,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Addition, Subtraction, Coins & Measuring", summary:"Mixed review of two-digit addition, two-digit subtraction, counting coins, and measuring with non-standard units.",
    resourceLabel:"YouTube: Review: Addition, Subtraction, Coins & Measuring", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Addition%2C%20Subtraction%2C%20Coins%20%26%20Measuring%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BxrzwF6oV6s",
    quiz:[
      {q:"34 + 23 = ?", options:["58","57","56","67"], answer:1},
      {q:"76 - 42 = ?", options:["44","34","33","35"], answer:1},
@@ -624,6 +632,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Plants, Habitats, Senses & Ramps", summary:"Mixed review of what plants need, animal habitats, the five senses, and inclined planes.",
    resourceLabel:"YouTube: Review: Plants, Habitats, Senses & Ramps", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plants%2C%20Habitats%2C%20Senses%20%26%20Ramps%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kBL9-RFhnbM",
    quiz:[
      {q:"What do plants need to grow?", options:["Sunlight, water, soil, and air","Nothing special","Only water","Darkness, salt, and stones"], answer:0},
      {q:"A polar bear lives in which habitat?", options:["Ocean only","Rainforest","Arctic","Desert"], answer:2},
@@ -633,6 +642,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Canada Symbols, Indigenous Peoples, Change & Needs", summary:"Mixed review of Canadian symbols, Indigenous peoples, how communities change, and needs vs. wants.",
    resourceLabel:"YouTube: Review: Canada Symbols, Indigenous Peoples, Change & Needs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canada%20Symbols%2C%20Indigenous%20Peoples%2C%20Change%20%26%20Needs%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_y9-ymLpO58",
    quiz:[
      {q:"What leaf is on the Canadian flag?", options:["Pine needle","Maple leaf","Fern","Oak leaf"], answer:1},
      {q:"Who were the first people to live in Canada?", options:["American explorers","Indigenous peoples","British settlers","French settlers"], answer:1},

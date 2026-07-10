@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Debate: Structure and Argumentation", summary:"Ontario Oral Communication strand: a structured debate has opening statements, rebuttal periods, and closing arguments. Effective debaters use evidence, stay on topic, and respond to the opposing team's points.",
    resourceLabel:"YouTube: Debate: Structure and Argumentation", resourceUrl:"https://www.youtube.com/results?search_query=Debate%3A%20Structure%20and%20Argumentation%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1TSkkxu8on0",
    quiz:[
      {q:"In a debate, a 'rebuttal' is:", options:["The closing argument","A response countering the other side","The opening statement","A type of visual aid"], answer:1},
      {q:"The most effective arguments in a debate are supported by:", options:["Making fun of the other team","Specific evidence, facts, and logical reasoning","Shouting louder than the other side","Only personal opinions"], answer:1},
@@ -527,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Canada's Contributions to Space Exploration", summary:"Ontario Space Exploration strand: Canada has made significant contributions to space exploration, including the Canadarm robotic arm, the RADARSAT satellite, and Canadian astronauts aboard the International Space Station.",
    resourceLabel:"YouTube: Canada's Contributions to Space Exploration", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Contributions%20to%20Space%20Exploration%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3JuKR7jf46o",
    quiz:[
      {q:"The Canadarm is a Canadian-designed robotic arm that was used on:", options:["The Apollo missions to the Moon","Russia's Soyuz spacecraft","Mars rover missions","The Space Shuttle and ISS"], answer:3},
      {q:"Chris Hadfield is notable in Canadian space history because:", options:["The first Canadian to command the ISS","He designed the first Canadian satellite","He invented the Canadarm","He was the first human to walk in space"], answer:0},
@@ -536,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Modern Period: Exploration and Contact", summary:"Ontario Grade 6 Social Studies — Early Modern Period: European explorers from Portugal, Spain, England, and France sailed to new regions from the 15th century onward, leading to exchanges of goods, diseases, and cultures with profound consequences.",
    resourceLabel:"YouTube: Early Modern Period: Exploration and Contact", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Modern%20Period%3A%20Exploration%20and%20Contact%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sGeXtUZQScc",
    quiz:[
      {q:"What motivated European countries to explore new sea routes in the 1400s–1500s?", options:["To flee from wars at home","To find faster trade routes to Asia","Only scientific curiosity","To find new land to give away for free"], answer:1},
      {q:"Christopher Columbus's 1492 voyage led to:", options:["A direct route to Asia","Starting the 'Columbian Exchange'","The end of the spice trade","The discovery of Australia"], answer:1},
@@ -547,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Research Writing: Finding and Evaluating Sources", summary:"Ontario Writing strand: research writing requires finding reliable sources. Evaluating sources involves checking authorship, currency, purpose, and accuracy. Primary sources are original; secondary sources interpret them.",
    resourceLabel:"YouTube: Research Writing: Finding and Evaluating Sources", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Writing%3A%20Finding%20and%20Evaluating%20Sources%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oXtKSoE987g",
    quiz:[
      {q:"A primary source is:", options:["Any book from a library","A summary written 100 years later","An original, first-hand account","A website with .com"], answer:2},
      {q:"When evaluating a website for research, which factor is MOST important?", options:["The author's authority and credibility","Whether it has lots of pictures","How long the website has existed","How colourful the design is"], answer:0},
@@ -556,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data Management: Reading and Creating Graphs", summary:"Ontario Data Management strand: bar graphs, line graphs, and circle graphs display data in different ways. Choosing the right graph type depends on the data and what story you want to tell.",
    resourceLabel:"YouTube: Data Management: Reading and Creating Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Reading%20and%20Creating%20Graphs%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hcgThf5mv38",
    quiz:[
      {q:"Which type of graph is best for showing change over time?", options:["Bar graph","Pictograph","Circle (pie) graph","Line graph"], answer:3},
      {q:"A circle graph (pie chart) is best used to show:", options:["Two sets of data side by side","Change over time","How parts of a whole relate to each other as percentages","Comparing separate categories with similar values"], answer:2},
@@ -565,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Mechanical Advantage: Simple Machines", summary:"Ontario Grade 6 Science — Mechanical Advantage strand: simple machines (lever, wheel and axle, pulley, inclined plane, wedge, screw) reduce the force needed to do work by increasing distance or changing direction of force.",
    resourceLabel:"YouTube: Mechanical Advantage: Simple Machines", resourceUrl:"https://www.youtube.com/results?search_query=Mechanical%20Advantage%3A%20Simple%20Machines%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jAPxALm9fZA",
    quiz:[
      {q:"What does 'mechanical advantage' mean?", options:["The ratio of output force to input force","The type of energy used","The weight of a machine","The speed of a machine"], answer:0},
      {q:"A lever consists of:", options:["A rigid bar that pivots on a fulcrum","An inclined surface","A curved screw thread","A wheel and a rope"], answer:0},
@@ -574,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Early Colonial History and New France", summary:"Ontario Grade 6 Social Studies — Canada and World Connections: French colonists established New France along the St. Lawrence River. The fur trade shaped relationships between Europeans and First Nations peoples.",
    resourceLabel:"YouTube: Canada's Early Colonial History and New France", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Early%20Colonial%20History%20and%20New%20France%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fa40H91hSqQ",
    quiz:[
      {q:"New France was established primarily along:", options:["The St. Lawrence and Great Lakes","The Pacific coast","The Atlantic coast only","The Rocky Mountains"], answer:0},
      {q:"The fur trade was important to New France because:", options:["Beaver pelts were valued in Europe","Fur was exchanged only among First Nations","Fur was used only for decoration","New France had no other resources"], answer:0},

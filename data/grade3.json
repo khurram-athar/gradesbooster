@@ -2961,6 +2961,7 @@
         "summary": "Students learn to ask questions before, during, and after reading to monitor comprehension and engage deeply with texts.",
         "resourceLabel": "YouTube: Reading: Asking Questions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Asking%20Questions%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=DsJ6bMBLUs8",
         "quiz": [
           {
             "q": "Asking questions before reading helps you ___.",
@@ -3020,6 +3021,7 @@
         "summary": "Students tell time to the nearest minute using an analogue clock and calculate elapsed time.",
         "resourceLabel": "YouTube: Time: Hours, Minutes, and Elapsed Time",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Hours%2C%20Minutes%2C%20and%20Elapsed%20Time%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=utV2HYr3p-g",
         "quiz": [
           {
             "q": "On an analogue clock, the short hand shows ___.",
@@ -3079,6 +3081,7 @@
         "summary": "Students explore forms of energy (light, heat, sound, electrical, mechanical) and sources (Sun, wind, water, fossil fuels).",
         "resourceLabel": "YouTube: Energy: Forms and Sources",
         "resourceUrl": "https://www.youtube.com/results?search_query=Energy%3A%20Forms%20and%20Sources%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=E9OX-y2PErk",
         "quiz": [
           {
             "q": "Energy is defined as ___.",
@@ -3138,6 +3141,7 @@
         "summary": "Students explore Ontario's major industries: manufacturing, agriculture, technology, finance, and mining.",
         "resourceLabel": "YouTube: Ontario's Economy Today",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ontario%27s%20Economy%20Today%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=xFu6L4yu54Q",
         "quiz": [
           {
             "q": "Which industry produces cars and vehicles in Ontario?",
@@ -3203,6 +3207,7 @@
         "summary": "Students write how-to instructions with a clear title, list of materials, numbered steps, and sequence words (first, next, then, finally).",
         "resourceLabel": "YouTube: Writing: Procedural Texts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2hR3TuYhXSE",
         "quiz": [
           {
             "q": "A procedural text tells you ___.",
@@ -3262,6 +3267,7 @@
         "summary": "Students identify faces, edges, and vertices on 3D shapes (cube, rectangular prism, triangular prism, cylinder, cone, sphere, pyramid).",
         "resourceLabel": "YouTube: 3D Geometry: Faces, Edges, Vertices",
         "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Geometry%3A%20Faces%2C%20Edges%2C%20Vertices%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CYVmmTaqIPU",
         "quiz": [
           {
             "q": "A cube has ___ faces.",
@@ -3321,6 +3327,7 @@
         "summary": "Students explore how light travels in straight lines, reflects off surfaces (mirrors), refracts (bends) when passing through water or glass, and creates shadows.",
         "resourceLabel": "YouTube: Light: Reflection and Shadows",
         "resourceUrl": "https://www.youtube.com/results?search_query=Light%3A%20Reflection%20and%20Shadows%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=SJeiifQw9sk",
         "quiz": [
           {
             "q": "Light travels in ___.",
@@ -3380,6 +3387,7 @@
         "summary": "Students learn what it means to be a responsible citizen: following laws, voting, contributing to the community, and respecting others.",
         "resourceLabel": "YouTube: Canadian Citizenship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Citizenship%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ped-vegY6WA",
         "quiz": [
           {
             "q": "A citizen is ___.",
@@ -3445,6 +3453,7 @@
         "summary": "Students review and consolidate key reading strategies: predicting, questioning, making connections, visualising, and summarising.",
         "resourceLabel": "YouTube: Reading Strategies Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Strategies%20Review%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rOA4RYhynWY",
         "quiz": [
           {
             "q": "Predicting while reading means ___.",

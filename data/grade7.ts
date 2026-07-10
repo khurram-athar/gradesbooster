@@ -528,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Carbon Cycle", summary:"Carbon moves between the atmosphere, living things, oceans, and rocks through processes like respiration, photosynthesis, and combustion.",
    resourceLabel:"YouTube: The Carbon Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Carbon%20Cycle%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0-DtXqr-gPQ",
    quiz:[
      {q:"Photosynthesis removes which gas from the atmosphere?", options:["Oxygen","Helium","Nitrogen","Carbon dioxide"], answer:3},
      {q:"Respiration in living things releases...", options:["Oxygen only","Nitrogen gas","Carbon dioxide","Helium"], answer:2},
@@ -537,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Residential Schools and Truth and Reconciliation", summary:"Residential schools were part of a difficult chapter in Canadian history; Truth and Reconciliation Day helps Canadians learn about this history and honour Indigenous survivors and communities.",
    resourceLabel:"YouTube: Residential Schools and Truth and Reconciliation", resourceUrl:"https://www.youtube.com/results?search_query=Residential%20Schools%20and%20Truth%20and%20Reconciliation%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SMAAoyie6KY",
    quiz:[
      {q:"The National Day for Truth and Reconciliation is observed on...", options:["September 30","October 31","July 1","December 25"], answer:0},
      {q:"Residential schools were a part of Canadian history in which Indigenous children were...", options:["Sent away to harmful schools","Taught only at home","Given no education at all","Given extra holidays"], answer:0},
@@ -548,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Note-Taking and Summarizing Strategies", summary:"Effective note-takers identify main ideas and key details, and summarize text concisely in their own words.",
    resourceLabel:"YouTube: Note-Taking and Summarizing Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Note-Taking%20and%20Summarizing%20Strategies%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=as7xe8UQEr4",
    quiz:[
      {q:"A good summary should...", options:["Be longer than the original text","Capture the main ideas concisely in your own words","Include every detail from the original","Copy the text exactly"], answer:1},
      {q:"When taking notes, it's helpful to use...", options:["Abbreviations, symbols, and key words","Full sentences for everything","No organization at all","Only pictures"], answer:0},
@@ -557,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Circles: Circumference and Area", summary:"Circumference measures the distance around a circle; area measures the space inside it, both calculated using radius or diameter and pi.",
    resourceLabel:"YouTube: Circles: Circumference and Area", resourceUrl:"https://www.youtube.com/results?search_query=Circles%3A%20Circumference%20and%20Area%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=O-cawByg2aA",
    quiz:[
      {q:"The formula for circumference of a circle is...", options:["C = 2πr","C = r²","C = πd²","C = πr²"], answer:0},
      {q:"The formula for area of a circle is...", options:["A = πd","A = 2r","A = πr²","A = 2πr"], answer:2},
@@ -566,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical vs. Physical Properties (Deeper Dive)", summary:"Physical properties can be observed without changing the substance's identity; chemical properties describe how a substance reacts or changes into something new.",
    resourceLabel:"YouTube: Chemical vs. Physical Properties (Deeper Dive)", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20vs.%20Physical%20Properties%20%28Deeper%20Dive%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xfm_pfk6ZPg",
    quiz:[
      {q:"Colour and melting point are examples of...", options:["Biological properties","Chemical properties","Physical properties","Neither"], answer:2},
      {q:"Flammability is an example of a...", options:["Physical property","Density property","Colour property","Chemical property"], answer:3},
@@ -575,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Role in World War I", summary:"Canada, as part of the British Empire, played a significant role in World War I, with major battles like Vimy Ridge shaping national identity.",
    resourceLabel:"YouTube: Canada's Role in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Role%20in%20World%20War%20I%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oLUyKrXwVKo",
    quiz:[
      {q:"World War I took place mainly during which years?", options:["1939–1945","1914–1918","1812–1815","1867–1871"], answer:1},
      {q:"The Battle of Vimy Ridge is significant in Canadian history because...", options:["It had no impact on Canada","It's seen as shaping Canadian identity","It took place in Canada","It ended the war immediately"], answer:1},

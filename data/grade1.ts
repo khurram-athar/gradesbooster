@@ -528,6 +528,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Cause and Effect", summary:"Ontario Grade 1 Reading strand: cause is why something happens; effect is what happens as a result. Signal words include because, so, and as a result.",
    resourceLabel:"YouTube: Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZUyEerOK1gw",
    quiz:[
      {q:"The cause is ___.", options:["Who does it","When it happens","What happens","Why something happens"], answer:3},
      {q:"The effect is ___.", options:["Where it happens","What happens as a result","Who does it","Why something happens"], answer:1},
@@ -557,6 +558,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Land and Water in Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify landforms and bodies of water in Canada including lakes, rivers, mountains, and plains.",
    resourceLabel:"YouTube: Land and Water in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Land%20and%20Water%20in%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Which of these is a body of water?", options:["Prairie","Forest","Lake Superior","Mountain"], answer:2},
      {q:"Which is a landform?", options:["Atlantic Ocean","Lake Ontario","Rocky Mountain","St. Lawrence River"], answer:2},
@@ -568,6 +570,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Describing Words: Adjectives", summary:"Ontario Grade 1 Writing strand: adjectives are describing words that tell us more about a noun — they describe colour, size, shape, number, and feeling.",
    resourceLabel:"YouTube: Describing Words: Adjectives", resourceUrl:"https://www.youtube.com/results?search_query=Describing%20Words%3A%20Adjectives%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-NqnQJjDmB0",
    quiz:[
      {q:"An adjective is a ___.", options:["Connecting word","Naming word","Action word","Describing word"], answer:3},
      {q:"Which word is an adjective in: The big dog ran?", options:["Ran","The","Dog","Big"], answer:3},
@@ -597,6 +600,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Natural Resources", summary:"Ontario Grade 1 Social Studies strand B: students identify natural resources in Canada such as trees, water, minerals, and farmland and explain why they are important.",
    resourceLabel:"YouTube: Canada's Natural Resources", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Natural%20Resources%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
    quiz:[
      {q:"A natural resource is ___.", options:["Something from nature that people use","A building","Something people make in a factory","A type of money"], answer:0},
      {q:"Which of these is a natural resource?", options:["Fresh water","A car","A computer","A plastic bottle"], answer:0},
@@ -608,6 +612,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Action Words: Verbs", summary:"Ontario Grade 1 Writing strand: verbs are action words that tell what a subject does. Every complete sentence needs a verb.",
    resourceLabel:"YouTube: Action Words: Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Action%20Words%3A%20Verbs%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZYPjmjff0Zo",
    quiz:[
      {q:"A verb is a ___.", options:["Naming word","Connecting word","Action word","Describing word"], answer:2},
      {q:"Which word is a verb: The cat runs fast?", options:["Runs","Cat","Fast","The"], answer:0},
@@ -617,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Pictographs", summary:"Ontario Grade 1 Data strand: a pictograph uses pictures or symbols to represent data. A key shows what each symbol means.",
    resourceLabel:"YouTube: Data: Pictographs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Pictographs%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zF_dBk8EPDk",
    quiz:[
      {q:"In a pictograph, each picture represents ___.", options:["A colour","A number or amount shown in the key","A word","A shape"], answer:1},
      {q:"What is the purpose of a key in a pictograph?", options:["To make it pretty","To list all students","To explain what each symbol means","To show the title"], answer:2},
@@ -626,6 +632,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Soil and Earth Materials", summary:"Ontario Grade 1 Earth and Space Systems strand: soil is made of rock particles, organic matter, air, and water. Different soils have different properties.",
    resourceLabel:"YouTube: Soil and Earth Materials", resourceUrl:"https://www.youtube.com/results?search_query=Soil%20and%20Earth%20Materials%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6e53-Z2gZzY",
    quiz:[
      {q:"Soil is made of small pieces of ___ and organic matter.", options:["Wood","Plastic","Rock","Metal"], answer:2},
      {q:"Why is soil important for plants?", options:["Soil holds roots and gives nutrients","Soil provides sunlight","Soil provides rain","It is not"], answer:0},
@@ -635,6 +642,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Multiculturalism in Canada", summary:"Ontario Grade 1 Social Studies strand A: Canada is a multicultural country where people from many backgrounds live and contribute, enriching Canadian society.",
    resourceLabel:"YouTube: Multiculturalism in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Multiculturalism%20in%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"Canada is described as multicultural because ___.", options:["People from many different cultures live here","Everyone speaks the same language","Everyone follows the same traditions","Only Canadian-born people live here"], answer:0},
      {q:"How does multiculturalism make Canada stronger?", options:["It causes problems","It brings different ideas and foods","Only big cities benefit","It does not affect Canada"], answer:1},

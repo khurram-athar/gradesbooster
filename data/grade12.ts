@@ -486,6 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Differential Equations: Separable and Initial Value Problems", summary:"Students solve separable differential equations and apply them to growth, decay, and Newton's Law of Cooling.",
    resourceLabel:"Khan Academy: Separable Differential Equations", resourceUrl:"https://www.youtube.com/watch?v=H0VEL9TFjqw",
+   videoUrl:"https://www.youtube.com/watch?v=C7nuJcJriWM",
    quiz:[
      {q:"A separable differential equation has the form ___.", options:["dy/dx = f(x)/g(x)","dy/dx = f(x)g(y)","dy/dx = f(x) + g(y)","d²y/dx² = f(y)"], answer:1},
      {q:"To solve dy/dx = 2xy, separate variables: ___.", options:["dy/dx = 2xy → dy = 2xy dx → integrate both sides","dy/y = 2x dx","dy/dx = y²","dy = y dx → y = e^x"], answer:1},
@@ -495,6 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics Year-End: Connections and Applications", summary:"Students synthesise all Grade 12 Physics — mechanics, fields, waves, modern physics — and examine how physical principles interconnect.",
    resourceLabel:"Crash Course Physics: Year Review", resourceUrl:"https://www.youtube.com/watch?v=kUDhL6C9Lao",
+   videoUrl:"https://www.youtube.com/watch?v=cKV56eMTRbk",
    quiz:[
      {q:"The four fundamental forces of nature are ___.", options:["gravity, EM, and the nuclear forces","gravity, electricity, magnetism, nuclear","friction, normal force, gravity, tension","gravity, magnetism, heat, and nuclear"], answer:0},
      {q:"Conservation laws in physics (energy, momentum, angular momentum, charge) are ___.", options:["less fundamental than Newton's Laws","only valid in isolated systems (no external forces/energy inputs)","only valid in classical physics","approximate — they can be violated in extreme conditions"], answer:1},
@@ -506,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Independent Reading Synthesis: Personal Reading List", summary:"Students develop a personal reading list beyond the curriculum, demonstrating wide reading, independent literary judgment, and lifelong reading habits.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
    quiz:[
      {q:"Building a personal reading list involves ___.", options:["following only the curriculum","only choosing bestsellers","reading only within one genre","exploring across genres and cultures"], answer:3},
      {q:"Keeping a reading journal develops ___.", options:["only for readers who become English teachers","no transferable skills","only a record of books completed","the habit of attending carefully to what you read"], answer:3},
@@ -515,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Mathematical Modelling: Choosing the Right Function", summary:"Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
    resourceLabel:"Khan Academy: Mathematical Modeling", resourceUrl:"https://www.youtube.com/watch?v=A3M9Ksxrd9c",
+   videoUrl:"https://www.youtube.com/watch?v=LNZl4GqVm58",
    quiz:[
      {q:"When data shows exponential growth that eventually levels off, the best model is ___.", options:["a trigonometric function","a pure exponential function","a polynomial function","a logistic function"], answer:3},
      {q:"Data showing a repeating seasonal pattern with constant amplitude is best modelled by ___.", options:["an exponential function","a sinusoidal (trigonometric) function","a linear function","a polynomial"], answer:1},
@@ -524,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Applications: Calculus in Science and Engineering", summary:"Students apply differentiation and integration to physics (motion, work, fluid pressure) and examine the role of calculus in modern science.",
    resourceLabel:"Khan Academy: Calculus Applications", resourceUrl:"https://www.youtube.com/watch?v=m2MIpDrF7Es",
+   videoUrl:"https://www.youtube.com/watch?v=WsQQvHm4lSw",
    quiz:[
      {q:"If s(t) is position, then v(t) = s'(t) and a(t) = v'(t) = s''(t). To find displacement from t₁ to t₂:", options:["use average velocity × time","∫[t₁ to t₂] v(t) dt = s(t₂) − s(t₁)","differentiate s(t)","use the acceleration formula"], answer:1},
      {q:"Work done by a variable force F(x) over displacement from a to b is ___.", options:["F × (b − a)","∫[a to b] F(x) dx","F(a) × (b − a)","F(b) − F(a)"], answer:1},
@@ -533,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Astrophysics: Stars, Galaxies, and Cosmology", summary:"Students examine stellar evolution, galaxy structure, and the Big Bang model of the universe, connecting nuclear physics and gravity to astrophysics.",
    resourceLabel:"Crash Course Astronomy: Stars and Cosmology", resourceUrl:"https://www.youtube.com/watch?v=qGHBcRcPQeI",
+   videoUrl:"https://www.youtube.com/watch?v=gNNH7ctGDh0",
    quiz:[
      {q:"A star generates energy through ___.", options:["chemical combustion","nuclear fusion","only gravitational contraction","nuclear fission of heavy elements"], answer:1},
      {q:"The Hertzsprung-Russell (H-R) diagram plots ___.", options:["speed vs. mass","distance vs. age","luminosity vs. surface temperature","temperature vs. position"], answer:2},
@@ -544,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Grade 12 English: Culminating Preparation", summary:"Students prepare for their culminating essay and exam, reviewing the year's literary works and refining their analytical approaches.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=sRkOWvR8mNA",
    quiz:[
      {q:"The Grade 12 culminating essay should demonstrate ___.", options:["only correct grammar","your best analytical thinking","only breadth of reading","only length"], answer:1},
      {q:"Preparing for a literary exam involves ___.", options:["only re-reading all the texts","only memorising quotations","understanding each text's key themes","only reviewing the plot of each text"], answer:2},
@@ -553,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Advanced Functions Final Assessment Review", summary:"Students review all major course concepts and practise exam-level problems.",
    resourceLabel:"Khan Academy: Functions Final Review", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
+   videoUrl:"https://www.youtube.com/watch?v=5NadGZg4lfI",
    quiz:[
      {q:"The graph of f(x) = x(x−2)²(x+1)³ has x-intercepts at ___.", options:["x = 0, 2, −1 (multiplicities 1, 2, 3)","x = 0, 4, 3","x = 0 and x = 1 only","x = 0, 2, 1"], answer:0},
      {q:"Solve: 2^(x+1) = 5^(x−1)", options:["x = 5/2","x = 4","x = ln5/ln2","x = ln10/ln(5/2)"], answer:3},
@@ -562,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus Final Assessment Review", summary:"Students review all major Calculus content and practise exam-level problems.",
    resourceLabel:"Khan Academy: Calculus Final Review", resourceUrl:"https://www.youtube.com/watch?v=6HkBGVPWIXA",
+   videoUrl:"https://www.youtube.com/watch?v=WmBzmHru78w",
    quiz:[
      {q:"Evaluate: lim(x→0) of (sin x)/x.", options:["lim(x→0) sin(x)/x = 1","−1","∞","0"], answer:0},
      {q:"Find the equation of the tangent to f(x) = e^x at x = 0.", options:["y = 2x","y = x + 1","y = x","y = e^x"], answer:1},
@@ -571,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics Final Assessment Review", summary:"Students review all Grade 12 Physics content and practise exam-level problems.",
    resourceLabel:"Crash Course Physics: Final Review", resourceUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
+   videoUrl:"https://www.youtube.com/watch?v=CwkhvFlNFp0",
    quiz:[
      {q:"A ball on a string of radius 0.5 m completes one revolution in 2 s. Find centripetal acceleration.", options:["ac ≈ 4.93 m/s² (4π²r/T²)","ac = 2π m/s²","ac = 10 m/s²","ac = 5 m/s²"], answer:0},
      {q:"Using Faraday's Law: a coil of 50 turns has its flux change from 0.02 Wb to 0.08 Wb in 0.1 s. The induced EMF is ___.", options:["300 V","30 mV","EMF = 30 V (NΔΦ/Δt)","0.6 V"], answer:2},

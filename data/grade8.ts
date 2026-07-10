@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Writing: Persuasive Letter", summary:"Students write a formal persuasive letter to a public official or organisation. They apply knowledge of audience, purpose, formal register, and persuasive techniques.",
    resourceLabel:"YouTube: Writing: Persuasive Letter", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Persuasive%20Letter%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=u7AsppQT2tQ",
    quiz:[
      {q:"A formal letter differs from an informal one in ___.", options:["relying on emotional appeals only","using a formal, professional tone","using slang and contractions","only the length"], answer:1},
      {q:"The purpose of a persuasive letter is ___.", options:["to change minds or prompt action","to entertain the reader","to summarise events","to describe a scene"], answer:0},
@@ -517,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Angle Relationships", summary:"Students apply angle relationships — supplementary, complementary, vertically opposite, and angles in parallel lines cut by a transversal — to find unknown angles.",
    resourceLabel:"YouTube: Geometry: Angle Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Angle%20Relationships%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wYxWigTefwY",
    quiz:[
      {q:"Supplementary angles sum to ___.", options:["180°","360°","45°","90°"], answer:0},
      {q:"Complementary angles sum to ___.", options:["360°","270°","180°","90°"], answer:3},
@@ -536,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Social Movements in Canada: Rights and Equality", summary:"Students examine the women's suffrage movement, Indigenous rights movements, and the Canadian civil rights movement in the 20th century.",
    resourceLabel:"YouTube: Social Movements in Canada: Rights and Equality", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%20in%20Canada%3A%20Rights%20and%20Equality%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y2TRl3lMr5k",
    quiz:[
      {q:"Canadian women won the federal right to vote in ___.", options:["1929","1867","1918 (with exceptions)","1900"], answer:2},
      {q:"The 'Persons Case' (1929) was significant because ___.", options:["it created the Charter of Rights","it was irrelevant to women's history","it granted women the vote","courts ruled women were legal 'persons'"], answer:3},
@@ -547,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Media Creation: Podcast Script", summary:"Students plan and write a script for a short informational podcast episode. They learn to write for the ear — using conversational language, clear structure, and engaging hooks.",
    resourceLabel:"YouTube: Media Creation: Podcast Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Creation%3A%20Podcast%20Script%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xNq9cFs8A7k",
    quiz:[
      {q:"Writing for a podcast differs from writing an essay because ___.", options:["podcasts have no structure","essays are always shorter","podcasts use conversational language","essays are always better"], answer:2},
      {q:"An effective podcast hook ___.", options:["starts with 'Welcome to our podcast'","opens with a question, fact, or story","lists all topics to be covered","begins with a long history lesson"], answer:1},
@@ -556,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Compound Events and Simulations", summary:"Students calculate probabilities of independent and dependent compound events and use simulations to explore experimental probability.",
    resourceLabel:"YouTube: Probability: Compound Events and Simulations", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Compound%20Events%20and%20Simulations%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"Independent events are events where ___.", options:["the first event changes the probability of the second","one doesn't affect the other's odds","they must both occur","they happen at the same time"], answer:1},
      {q:"P(A and B) for independent events = ___.", options:["P(A) + P(B)","P(A) / P(B)","P(A) × P(B)","P(A) − P(B)"], answer:2},
@@ -565,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Science Connections Grade 8", summary:"Students connect the four Grade 8 science strands (cells, fluids, mechanical systems, optics) and see their real-world and technological applications.",
    resourceLabel:"YouTube: Review: Science Connections Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20Grade%208%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xq1spZxsbI4",
    quiz:[
      {q:"Which science strand best explains how vaccines work?", options:["Mechanical systems","Cells and the immune system","Optics","Fluids"], answer:1},
      {q:"Hydraulic brakes in a car apply principles from which strand?", options:["Cells","Mechanical systems","Optics","Fluids"], answer:3},
@@ -574,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada in the Modern World: 1950s–1980s", summary:"Students examine key events: Quiet Revolution, Official Languages Act, Charter of Rights, Constitution Act 1982, and Canada's evolving identity.",
    resourceLabel:"YouTube: Canada in the Modern World: 1950s–1980s", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20the%20Modern%20World%3A%201950s%E2%80%931980s%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960s) was ___.", options:["a religious revival","a reconciliation with Indigenous peoples","rapid social and political change","a military coup"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only English official","removed all language rights","made only French official","made English/French official federally"], answer:3},

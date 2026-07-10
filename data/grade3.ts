@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Asking Questions", summary:"Students learn to ask questions before, during, and after reading to monitor comprehension and engage deeply with texts.",
    resourceLabel:"YouTube: Reading: Asking Questions", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Asking%20Questions%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DsJ6bMBLUs8",
    quiz:[
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","write better","skip the hard parts","set a purpose for reading"], answer:3},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","copy the text","check your understanding as you go","avoid the confusing parts"], answer:2},
@@ -517,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Time: Hours, Minutes, and Elapsed Time", summary:"Students tell time to the nearest minute using an analogue clock and calculate elapsed time.",
    resourceLabel:"YouTube: Time: Hours, Minutes, and Elapsed Time", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Hours%2C%20Minutes%2C%20and%20Elapsed%20Time%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=utV2HYr3p-g",
    quiz:[
      {q:"On an analogue clock, the short hand shows ___.", options:["days","minutes","seconds","hours"], answer:3},
      {q:"On an analogue clock, the long hand shows ___.", options:["days","minutes","seconds","hours"], answer:1},
@@ -526,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy: Forms and Sources", summary:"Students explore forms of energy (light, heat, sound, electrical, mechanical) and sources (Sun, wind, water, fossil fuels).",
    resourceLabel:"YouTube: Energy: Forms and Sources", resourceUrl:"https://www.youtube.com/results?search_query=Energy%3A%20Forms%20and%20Sources%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=E9OX-y2PErk",
    quiz:[
      {q:"Energy is defined as ___.", options:["only heat","only electricity","a type of matter","the ability to do work or cause change"], answer:3},
      {q:"The Sun is a source of ___ energy.", options:["only sound","only mechanical","only electrical","light and heat"], answer:3},
@@ -535,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario's Economy Today", summary:"Students explore Ontario's major industries: manufacturing, agriculture, technology, finance, and mining.",
    resourceLabel:"YouTube: Ontario's Economy Today", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Economy%20Today%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xFu6L4yu54Q",
    quiz:[
      {q:"Which industry produces cars and vehicles in Ontario?", options:["Forestry","Fishing","Only farming","Manufacturing"], answer:3},
      {q:"Ontario's Bay Street in Toronto is known for ___.", options:["beaches","financial services and banking","forests","mining"], answer:1},
@@ -546,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Writing: Procedural Texts", summary:"Students write how-to instructions with a clear title, list of materials, numbered steps, and sequence words (first, next, then, finally).",
    resourceLabel:"YouTube: Writing: Procedural Texts", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2hR3TuYhXSE",
    quiz:[
      {q:"A procedural text tells you ___.", options:["a fictional story","a poem","a persuasive essay","how to do or make something step by step"], answer:3},
      {q:"Sequence words in procedural writing include ___.", options:["because, since, therefore","only nouns and verbs","first, next, then, finally","however, although, but"], answer:2},
@@ -555,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"3D Geometry: Faces, Edges, Vertices", summary:"Students identify faces, edges, and vertices on 3D shapes (cube, rectangular prism, triangular prism, cylinder, cone, sphere, pyramid).",
    resourceLabel:"YouTube: 3D Geometry: Faces, Edges, Vertices", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Geometry%3A%20Faces%2C%20Edges%2C%20Vertices%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CYVmmTaqIPU",
    quiz:[
      {q:"A cube has ___ faces.", options:["5","6","4","8"], answer:1},
      {q:"A vertex (vertices) of a shape is ___.", options:["a corner where edges meet","a flat surface","a curved surface","a straight edge"], answer:0},
@@ -564,6 +570,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light: Reflection and Shadows", summary:"Students explore how light travels in straight lines, reflects off surfaces (mirrors), refracts (bends) when passing through water or glass, and creates shadows.",
    resourceLabel:"YouTube: Light: Reflection and Shadows", resourceUrl:"https://www.youtube.com/results?search_query=Light%3A%20Reflection%20and%20Shadows%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SJeiifQw9sk",
    quiz:[
      {q:"Light travels in ___.", options:["spirals","waves that bend easily","straight lines","curves"], answer:2},
      {q:"A shadow forms when an object ___.", options:["blocks light from passing through","reflects all light","only moves","absorbs all heat"], answer:0},
@@ -573,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship", summary:"Students learn what it means to be a responsible citizen: following laws, voting, contributing to the community, and respecting others.",
    resourceLabel:"YouTube: Canadian Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"A citizen is ___.", options:["only a government official","a legal member with rights and duties","only a voter","only an adult"], answer:1},
      {q:"Which right do Canadian citizens have?", options:["To vote in federal elections","To ignore community rules","To break any law","To be exempt from taxes"], answer:0},
@@ -584,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Reading Strategies Review", summary:"Students review and consolidate key reading strategies: predicting, questioning, making connections, visualising, and summarising.",
    resourceLabel:"YouTube: Reading Strategies Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategies%20Review%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rOA4RYhynWY",
    quiz:[
      {q:"Predicting while reading means ___.", options:["always being right","skipping ahead","using clues to guess what happens next","only looking at pictures"], answer:2},
      {q:"Making a connection to the text means ___.", options:["only memorising it","ignoring the text","only summarising","relating the text to your own life"], answer:3},

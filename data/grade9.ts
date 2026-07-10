@@ -508,6 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Persuasive Speech Writing", summary:"Plan and write a persuasive speech using a clear position, evidence, rhetorical appeals, and a strong call to action (ENL1W Strand B/D).",
    resourceLabel:"YouTube: Persuasive Speech Writing", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Speech%20Writing%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=n1qmWEu3maM",
    quiz:[
      {q:"A persuasive speech should open with...", options:["An apology for your opinion","A hook that grabs attention","A long list of unrelated facts","A summary of the opposing view only"], answer:1},
      {q:"Ethos in a persuasive speech refers to...", options:["Appealing to the audience's emotions only","A type of sentence structure","Establishing the speaker's credibility and trustworthiness","Using logic and statistics only"], answer:2},
@@ -517,6 +518,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Factoring Using the Greatest Common Factor", summary:"Factor algebraic expressions by identifying and extracting the greatest common factor (GCF) (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Factoring Using the Greatest Common Factor", resourceUrl:"https://www.youtube.com/results?search_query=Factoring%20Using%20the%20Greatest%20Common%20Factor%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pnr5ELAj7Zk",
    quiz:[
      {q:"What is the GCF of 12x² and 8x?", options:["4x","2x","12x","8x"], answer:0},
      {q:"Factor: 6x² + 9x", options:["3(2x² + 3x)","6x(x + 9)","9x(x + 6)","3x(2x + 3)"], answer:3},
@@ -526,6 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Periodic Table — Families and Periodic Trends", summary:"Explore the organisation of the periodic table into groups and periods and identify key periodic trends in properties (SNC1W Chemistry strand).",
    resourceLabel:"YouTube: The Periodic Table — Families and Periodic Trends", resourceUrl:"https://www.youtube.com/results?search_query=The%20Periodic%20Table%20%E2%80%94%20Families%20and%20Periodic%20Trends%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ds-s59DrvIk",
    quiz:[
      {q:"Elements in the same group (column) of the periodic table have the same number of...", options:["Neutrons","Protons","Valence electrons","Isotopes"], answer:2},
      {q:"The noble gases (Group 18) are known for being...", options:["Highly reactive metals","Unreactive; their outer shells are full","Radioactive always","Always liquid at room temperature"], answer:1},
@@ -535,6 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"World Climate Zones and Biomes", summary:"Identify the major climate zones and their associated biomes, and explain how latitude, elevation, and ocean currents shape climate (CGC1W).",
    resourceLabel:"YouTube: World Climate Zones and Biomes", resourceUrl:"https://www.youtube.com/results?search_query=World%20Climate%20Zones%20and%20Biomes%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5tC8OOxOFEk",
    quiz:[
      {q:"The main factor that determines a region's climate zone is its...", options:["Elevation above sea level alone","Latitude (distance from the equator)","Proximity to cities","Longitude only"], answer:1},
      {q:"A tropical rainforest biome is characterized by...", options:["High rainfall and warmth year-round","Cold temperatures and low rainfall","Seasonal drought and sparse vegetation","Permanently frozen ground"], answer:0},
@@ -546,6 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Point of View and Unreliable Narrators", summary:"Distinguish between narrative points of view and analyze how an unreliable narrator affects the reader's interpretation of events (ENL1W Strand A).",
    resourceLabel:"YouTube: Point of View and Unreliable Narrators", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%20and%20Unreliable%20Narrators%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GGS3NcmAZnw",
    quiz:[
      {q:"A first-person narrator tells the story using...", options:["'I' and 'me,' giving a personal but limited perspective","No perspective at all","'He,' 'she,' and 'they' for all characters","An omniscient all-knowing view"], answer:0},
      {q:"A third-person omniscient narrator can...", options:["Never describe inner thoughts","Only describe what one character sees","Access the thoughts and feelings of all characters","Only describe setting"], answer:2},
@@ -555,6 +560,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Difference of Squares and Perfect Square Trinomials (Intro)", summary:"Recognise and factor the difference of squares pattern and perfect square trinomials (MTH1W Algebra strand).",
    resourceLabel:"YouTube: Difference of Squares and Perfect Square Trinomials (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Difference%20of%20Squares%20and%20Perfect%20Square%20Trinomials%20%28Intro%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=f6yhfmW41wI",
    quiz:[
      {q:"The difference of squares pattern factors as a² - b² = ...", options:["(a+b)(a-b)","(a²+b²)","(a-b)²","(a+b)²"], answer:0},
      {q:"Factor: x² - 16", options:["(x²-4)(x²+4)","(x+4)(x-4)","(x+4)²","(x-4)²"], answer:1},
@@ -574,6 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Water Resources and Access Issues", summary:"Examine the distribution of fresh water globally, the concept of water scarcity, and geographic factors affecting water access (CGC1W).",
    resourceLabel:"YouTube: Global Water Resources and Access Issues", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Water%20Resources%20and%20Access%20Issues%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sIM0PGv8h08",
    quiz:[
      {q:"Approximately what percentage of Earth's water is fresh water?", options:["About 50%","About 70%","About 25%","About 3%"], answer:3},
      {q:"Water scarcity means that...", options:["Water scarcity never occurs in developed countries","A region has too much rain","A region lacks enough clean fresh water","Only ocean water is unavailable"], answer:2},

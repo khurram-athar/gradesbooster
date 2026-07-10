@@ -2835,6 +2835,7 @@
         "summary": "Students solve separable differential equations and apply them to growth, decay, and Newton's Law of Cooling.",
         "resourceLabel": "Khan Academy: Separable Differential Equations",
         "resourceUrl": "https://www.youtube.com/watch?v=H0VEL9TFjqw",
+        "videoUrl": "https://www.youtube.com/watch?v=C7nuJcJriWM",
         "quiz": [
           {
             "q": "A separable differential equation has the form ___.",
@@ -2894,6 +2895,7 @@
         "summary": "Students synthesise all Grade 12 Physics — mechanics, fields, waves, modern physics — and examine how physical principles interconnect.",
         "resourceLabel": "Crash Course Physics: Year Review",
         "resourceUrl": "https://www.youtube.com/watch?v=kUDhL6C9Lao",
+        "videoUrl": "https://www.youtube.com/watch?v=cKV56eMTRbk",
         "quiz": [
           {
             "q": "The four fundamental forces of nature are ___.",
@@ -2959,6 +2961,7 @@
         "summary": "Students develop a personal reading list beyond the curriculum, demonstrating wide reading, independent literary judgment, and lifelong reading habits.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
         "quiz": [
           {
             "q": "Building a personal reading list involves ___.",
@@ -3018,6 +3021,7 @@
         "summary": "Students apply all function families to real-world data — choosing, fitting, and interpreting mathematical models.",
         "resourceLabel": "Khan Academy: Mathematical Modeling",
         "resourceUrl": "https://www.youtube.com/watch?v=A3M9Ksxrd9c",
+        "videoUrl": "https://www.youtube.com/watch?v=LNZl4GqVm58",
         "quiz": [
           {
             "q": "When data shows exponential growth that eventually levels off, the best model is ___.",
@@ -3077,6 +3081,7 @@
         "summary": "Students apply differentiation and integration to physics (motion, work, fluid pressure) and examine the role of calculus in modern science.",
         "resourceLabel": "Khan Academy: Calculus Applications",
         "resourceUrl": "https://www.youtube.com/watch?v=m2MIpDrF7Es",
+        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "If s(t) is position, then v(t) = s'(t) and a(t) = v'(t) = s''(t). To find displacement from t₁ to t₂:",
@@ -3136,6 +3141,7 @@
         "summary": "Students examine stellar evolution, galaxy structure, and the Big Bang model of the universe, connecting nuclear physics and gravity to astrophysics.",
         "resourceLabel": "Crash Course Astronomy: Stars and Cosmology",
         "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
+        "videoUrl": "https://www.youtube.com/watch?v=gNNH7ctGDh0",
         "quiz": [
           {
             "q": "A star generates energy through ___.",
@@ -3201,6 +3207,7 @@
         "summary": "Students prepare for their culminating essay and exam, reviewing the year's literary works and refining their analytical approaches.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=sRkOWvR8mNA",
         "quiz": [
           {
             "q": "The Grade 12 culminating essay should demonstrate ___.",
@@ -3260,6 +3267,7 @@
         "summary": "Students review all major course concepts and practise exam-level problems.",
         "resourceLabel": "Khan Academy: Functions Final Review",
         "resourceUrl": "https://www.youtube.com/watch?v=nRmBsxBpTjs",
+        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "The graph of f(x) = x(x−2)²(x+1)³ has x-intercepts at ___.",
@@ -3319,6 +3327,7 @@
         "summary": "Students review all major Calculus content and practise exam-level problems.",
         "resourceLabel": "Khan Academy: Calculus Final Review",
         "resourceUrl": "https://www.youtube.com/watch?v=6HkBGVPWIXA",
+        "videoUrl": "https://www.youtube.com/watch?v=WmBzmHru78w",
         "quiz": [
           {
             "q": "Evaluate: lim(x→0) of (sin x)/x.",
@@ -3378,6 +3387,7 @@
         "summary": "Students review all Grade 12 Physics content and practise exam-level problems.",
         "resourceLabel": "Crash Course Physics: Final Review",
         "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
+        "videoUrl": "https://www.youtube.com/watch?v=CwkhvFlNFp0",
         "quiz": [
           {
             "q": "A ball on a string of radius 0.5 m completes one revolution in 2 s. Find centripetal acceleration.",
