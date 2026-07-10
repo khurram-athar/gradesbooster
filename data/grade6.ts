@@ -1958,6 +1958,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review world empires and global challenges together?", options:["Each topic must be studied with no connection to the others","Review is never useful in social studies","It helps reinforce how historical patterns of power and cooperation connect to challenges today","These topics have no meaningful connections"], answer:2}
    ]},
 ]},
+{day:51, label:"Day 51 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Comparing Perspectives Across Genres", summary:"Grade 6 Language strand: comparing perspectives across genres means examining how the same topic or event is presented differently in a news article, a poem, a memoir, or a piece of fiction.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"Comparing perspectives across genres means examining how a topic is presented ___.", options:["Only in fictional stories, never in nonfiction","A concept unrelated to reading","Identically in every genre, with no variation at all","Differently depending on the genre used to present it"], answer:3},
+     {q:"How might a news article about a storm differ from a poem about the same storm?", options:["They would always be written in exactly the same style","A poem can never be written about a real event","A concept unrelated to genre comparison","The article focuses on facts, while the poem may focus on emotion and imagery"], answer:3},
+     {q:"Why might a memoir about an event feel different from a textbook account of it?", options:["A memoir can never include any factual details","Memoirs and textbooks always present information identically","A reason unrelated to genre","A memoir reflects personal experience and emotion, while a textbook focuses on objective facts"], answer:3},
+     {q:"Why is it valuable to compare how different genres treat the same topic?", options:["Only one genre can ever accurately represent a topic","It builds a fuller, more nuanced understanding of the topic","Comparing genres provides no additional understanding","A reason unrelated to reading comprehension"], answer:1},
+     {q:"Which genre would most likely present information using persuasive, emotional language?", options:["A strictly factual news report","A concept unrelated to genre","A poem or personal essay","A dictionary entry"], answer:2}
+   ]},
+  {subject:"Math", title:"Exponents and Powers", summary:"Grade 6 Math strand: an exponent shows how many times a base number is multiplied by itself, such as 2³ meaning 2 × 2 × 2.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"An exponent shows ___.", options:["How many times a base number is multiplied by itself","The number of digits in a value","How many times a number is added to itself","A concept unrelated to exponents"], answer:0},
+     {q:"What is 2³?", options:["9","A value unrelated to the calculation","6","8"], answer:3},
+     {q:"What is 5²?", options:["52","10","25","A value unrelated to the calculation"], answer:2},
+     {q:"In the expression 4², what is the base and what is the exponent?", options:["There is no base or exponent in this expression","A description unrelated to the expression","2 is the base and 4 is the exponent","4 is the base and 2 is the exponent"], answer:3},
+     {q:"What is 3⁴?", options:["12","81","34","A value unrelated to the calculation"], answer:1}
+   ]},
+  {subject:"Science", title:"Density and Buoyancy", summary:"Grade 6 Science strand: density describes how much mass is packed into a given volume, and buoyancy explains why some objects float while others sink in a fluid.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Density describes ___.", options:["A concept unrelated to density","The colour of an object","How much mass is packed into a given volume","How heavy an object feels when held"], answer:2},
+     {q:"An object will float in water if its density is ___ the density of water.", options:["Less than","A comparison unrelated to density","Exactly double","Greater than"], answer:0},
+     {q:"Why does a large ship made of steel float, even though steel is denser than water?", options:["Ships are not actually denser than water in any way","A reason unrelated to buoyancy","Steel always floats, regardless of shape","Its overall shape displaces enough water to make its average density lower than water"], answer:3},
+     {q:"Buoyancy is best described as ___.", options:["A concept unrelated to fluids","The temperature of a liquid","The downward force of gravity alone","The upward force a fluid exerts on an object"], answer:3},
+     {q:"Why might a helium balloon rise into the air?", options:["Helium is denser than the surrounding air","Balloons rise due to their colour","A reason unrelated to density","Helium is less dense than the surrounding air"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Industrial Revolution: Causes and Effects", summary:"Grade 6 Social Studies strand: the Industrial Revolution was a period of rapid technological and economic change, beginning in the late 1700s, that transformed how goods were produced and how people lived and worked.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Industrial Revolution brought major changes to how ___.", options:["Ancient civilizations first began, thousands of years earlier","Countries interacted before any trade existed","Goods were produced and how people lived and worked","A concept unrelated to this historical period"], answer:2},
+     {q:"Which of these was a major effect of the Industrial Revolution?", options:["The complete disappearance of all cities","A return to purely agricultural societies with no factories","A concept unrelated to the Industrial Revolution","The growth of factories and cities"], answer:3},
+     {q:"New machines and factories during the Industrial Revolution changed work by ___.", options:["Having no effect on how goods were produced","Making production faster and often moving it away from homes and farms","Making handcrafted goods more common than ever before","A reason unrelated to this period"], answer:1},
+     {q:"Which of these might be considered a negative effect of the Industrial Revolution?", options:["A concept unrelated to this period","An increase in leisure time for every single worker","Difficult working conditions in early factories","A decrease in the population of cities"], answer:2},
+     {q:"Why do historians consider the Industrial Revolution a major turning point?", options:["It had no lasting effect on how societies developed","It fundamentally changed economies, technology, and daily life for many people","A reason unrelated to its historical significance","It only affected a single small village with no wider impact"], answer:1}
+   ]},
+]},
+{day:52, label:"Day 52 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Active Voice vs Passive Voice", summary:"Grade 6 Language strand: in active voice, the subject performs the action (“The dog chased the ball”), while in passive voice, the subject receives the action (“The ball was chased by the dog”).",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"In active voice, the subject ___.", options:["A concept unrelated to active voice","Performs the action","Is always left out of the sentence","Receives the action"], answer:1},
+     {q:"In passive voice, the subject ___.", options:["A concept unrelated to passive voice","Performs the action","Receives the action","Is always the one doing the action"], answer:2},
+     {q:"Which sentence is written in active voice?", options:["The meal, cooked by the chef, sat on the table.","A sentence unrelated to voice","The chef cooked the meal.","The meal was cooked by the chef."], answer:2},
+     {q:"Which sentence is written in passive voice?", options:["The trophy was won by the team.","The team won the trophy.","The team is winning the trophy.","A sentence unrelated to voice"], answer:0},
+     {q:"Why might a writer choose active voice over passive voice?", options:["Active voice is never appropriate in formal writing","A reason unrelated to grammar","Passive voice is always clearer than active voice","Active voice is often clearer and more direct"], answer:3}
+   ]},
+  {subject:"Math", title:"Square Roots and Perfect Squares", summary:"Grade 6 Math strand: a perfect square is the product of a whole number multiplied by itself, and its square root is the number that produces that product.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"A perfect square is the result of ___.", options:["Any two different numbers added together","A concept unrelated to perfect squares","A whole number multiplied by itself","A whole number divided by itself"], answer:2},
+     {q:"What is the square root of 25?", options:["A value unrelated to the calculation","25","5","10"], answer:2},
+     {q:"What is the square root of 49?", options:["14","9","A value unrelated to the calculation","7"], answer:3},
+     {q:"Which of these is a perfect square?", options:["20","A number unrelated to perfect squares","36","15"], answer:2},
+     {q:"What is the square root of 81?", options:["9","8","A value unrelated to the calculation","18"], answer:0}
+   ]},
+  {subject:"Science", title:"Acids, Bases, and pH", summary:"Grade 6 Science strand: acids and bases are types of chemical substances measured on the pH scale, where lower numbers indicate acids, higher numbers indicate bases, and 7 is neutral.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"On the pH scale, a substance with a pH below 7 is considered ___.", options:["An acid","Neutral","A base","A term unrelated to the pH scale"], answer:0},
+     {q:"On the pH scale, a substance with a pH above 7 is considered ___.", options:["A term unrelated to the pH scale","A base","An acid","Neutral"], answer:1},
+     {q:"A substance with a pH of exactly 7 is considered ___.", options:["A strong acid","A term unrelated to the pH scale","A strong base","Neutral"], answer:3},
+     {q:"Which of these is an example of an acidic substance?", options:["Pure water","Lemon juice","Baking soda","A substance unrelated to the pH scale"], answer:1},
+     {q:"Why is it useful to know the pH of a substance?", options:["A reason unrelated to chemistry","pH only applies to solid substances, never liquids","The pH scale provides no useful information about a substance","It helps identify whether the substance is acidic, basic, or neutral, and how it may react with other materials"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Role in NATO and International Alliances", summary:"Grade 6 Social Studies strand: Canada is a founding member of NATO, an alliance of countries that agree to support one another for collective defence and international security.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"NATO is an alliance of countries that agree to ___.", options:["Never cooperate with one another on any issue","Compete against each other militarily","Support one another for collective defence and security","A concept unrelated to international alliances"], answer:2},
+     {q:"Canada’s role in NATO is best described as ___.", options:["A country with no connection to NATO at all","A founding member that participates in collective defence efforts","A country that has never joined any international alliance","A concept unrelated to Canada’s foreign policy"], answer:1},
+     {q:"Why might countries choose to join an alliance like NATO?", options:["A reason unrelated to international relations","Alliances are formed with no purpose or benefit at all","To strengthen their collective security and support one another if needed","Joining an alliance provides no security benefits"], answer:2},
+     {q:"Which of these best describes the idea of “collective defence”?", options:["Each country must defend itself with no support from others","Only the largest country in an alliance provides any defence","A concept unrelated to alliances","An attack on one member is treated as an attack on all members"], answer:3},
+     {q:"Why is it useful to learn about Canada’s international alliances?", options:["Canada operates independently with no international partnerships","It helps explain Canada’s role and responsibilities in global security","A reason unrelated to social studies learning","Canada’s international alliances have no effect on its foreign policy"], answer:1}
+   ]},
+]},
+{day:53, label:"Day 53 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Feature Article", summary:"Grade 6 Language strand: a feature article explores a topic in depth, often combining facts, interviews, and storytelling to engage readers beyond a simple news report.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"A feature article is different from a basic news report because it ___.", options:["A concept unrelated to writing","Only reports the most basic facts with no additional detail","Never includes any factual information at all","Explores a topic in more depth, often blending facts and storytelling"], answer:3},
+     {q:"Which is an example of a technique used in a feature article?", options:["Listing only statistics with no context or storytelling","Including a quote from an interview with someone connected to the topic","A concept unrelated to feature articles","Avoiding any research on the topic"], answer:1},
+     {q:"Why might a feature article include a personal story related to its topic?", options:["A reason unrelated to feature writing","Personal stories are never included in feature articles","To make the topic feel more engaging and relatable to readers","To confuse readers about the article’s main topic"], answer:2},
+     {q:"What might a strong feature article headline do?", options:["Capture attention while giving a sense of the article’s focus","Always be written as a single word","Have no connection to the article’s content at all","A concept unrelated to headlines"], answer:0},
+     {q:"Why do feature articles often take longer to research than a short news brief?", options:["Feature articles require no research at all","A reason unrelated to feature writing","They are always shorter than a typical news brief","They typically require deeper investigation, interviews, and context"], answer:3}
+   ]},
+  {subject:"Math", title:"Solving Inequalities", summary:"Grade 6 Math strand: an inequality compares two values using symbols like < or >, and solving one shows the range of values that make the statement true.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"An inequality compares two values using symbols such as ___.", options:["= only","< or >","A symbol unrelated to inequalities","+ or -"], answer:1},
+     {q:"If x > 3, which of these values could be a solution?", options:["5","3","2","A value unrelated to the inequality"], answer:0},
+     {q:"If x < 6, which of these values could be a solution?", options:["A value unrelated to the inequality","4","6","7"], answer:1},
+     {q:"Solve for x: x + 2 > 7.", options:["A solution unrelated to the inequality","x > 5","x > 2","x > 9"], answer:1},
+     {q:"Why might inequalities be useful in real life?", options:["Inequalities have no real-world use","They can represent situations with a range of possible values, like a budget limit","They can only represent one exact value, never a range","A reason unrelated to inequalities"], answer:1}
+   ]},
+  {subject:"Science", title:"Erosion and Weathering: Shaping the Land", summary:"Grade 6 Science strand: weathering breaks down rock into smaller pieces, while erosion moves those pieces from one place to another, together shaping landforms over time.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Weathering is the process of ___.", options:["A process unrelated to weathering","Breaking down rock into smaller pieces","Moving broken rock pieces from one place to another","Building up new rock formations from nothing"], answer:1},
+     {q:"Erosion is the process of ___.", options:["Breaking rock down into smaller pieces in place","Moving broken-down rock pieces from one place to another","A process unrelated to erosion","Preventing any movement of rock or soil"], answer:1},
+     {q:"Which of these is an example of a cause of erosion?", options:["A rock’s colour changing over time","Wind and flowing water","A rock sitting completely still with no forces acting on it","A process unrelated to erosion"], answer:1},
+     {q:"Why might a river canyon form over thousands of years?", options:["Rivers have no effect on the land around them","Canyons form instantly, with no gradual process involved","A reason unrelated to erosion","Flowing water gradually erodes and carves away rock and soil"], answer:3},
+     {q:"Why is it useful to understand weathering and erosion together?", options:["They work together to shape many of the landforms we see today","A reason unrelated to science","These two processes have no connection to one another","Landforms are never affected by weathering or erosion"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Rise and Fall of the Ottoman Empire", summary:"Grade 6 Social Studies strand: the Ottoman Empire was a powerful state that lasted for centuries, controlling large parts of the Middle East, North Africa, and southeastern Europe before its eventual decline.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Ottoman Empire controlled large parts of ___.", options:["Only North America","The Middle East, North Africa, and southeastern Europe","A region unrelated to the Ottoman Empire","Only a single small city with no wider territory"], answer:1},
+     {q:"The Ottoman Empire lasted for ___.", options:["A length of time unrelated to the Ottoman Empire","Several centuries","Only a few days","Less than one year"], answer:1},
+     {q:"Which of these contributed to the eventual decline of the Ottoman Empire?", options:["Internal struggles and pressure from rival powers over time","A reason unrelated to the Ottoman Empire","The empire never faced any challenges throughout its history","A sudden disappearance with no historical cause"], answer:0},
+     {q:"Why is the Ottoman Empire an important part of world history to study?", options:["It shaped politics, trade, and culture across a vast region for centuries","It had no influence on the regions it controlled","A reason unrelated to its historical significance","It existed for too short a time to have any lasting impact"], answer:0},
+     {q:"Which of these was a significant city within the Ottoman Empire?", options:["A city that has never existed","A city unrelated to the Ottoman Empire","A city located only in South America","Constantinople (Istanbul)"], answer:3}
+   ]},
+]},
+{day:54, label:"Day 54 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Connotation and Denotation", summary:"Grade 6 Language strand: denotation is a word’s literal dictionary meaning, while connotation is the emotional or cultural association a word carries beyond its literal definition.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"Denotation refers to ___.", options:["The emotional feeling a word creates","The number of syllables in a word","A concept unrelated to vocabulary","A word’s literal dictionary meaning"], answer:3},
+     {q:"Connotation refers to ___.", options:["A word’s exact literal dictionary meaning only","A concept unrelated to vocabulary","The spelling pattern of a word","The emotional or cultural association a word carries"], answer:3},
+     {q:"Which word has a more positive connotation than “cheap”?", options:["Stingy","Affordable","Worthless","A word unrelated to positive connotation"], answer:1},
+     {q:"The words “childish” and “youthful” have similar denotations but different ___.", options:["Spellings","Connotations","Pronunciations","A concept unrelated to word meaning"], answer:1},
+     {q:"Why is understanding connotation important for a writer?", options:["It helps convey the right tone and feeling through careful word choice","A reason unrelated to writing","Connotation only matters when writing dictionaries","Connotation has no effect on how a reader interprets a word"], answer:0}
+   ]},
+  {subject:"Math", title:"Scale Drawings and Similar Figures", summary:"Grade 6 Math strand: similar figures have the same shape but different sizes, and a scale drawing uses a consistent ratio to represent a real object at a different size.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"Similar figures have ___.", options:["No relationship to one another at all","The same size but different shapes","The same shape but different sizes","A concept unrelated to similar figures"], answer:2},
+     {q:"In similar figures, corresponding side lengths are ___.", options:["Never related in any way","Always exactly equal","Proportional to one another","A relationship unrelated to similar figures"], answer:2},
+     {q:"If a scale drawing uses a ratio of 1:50, one unit on the drawing represents ___ units in real life.", options:["50","1","A number unrelated to the scale","5"], answer:0},
+     {q:"If a rectangle with sides 2 and 4 is enlarged by a scale factor of 3, what are the new side lengths?", options:["6 and 12","4 and 8","5 and 7","Dimensions unrelated to the calculation"], answer:0},
+     {q:"Why are similar figures useful in fields like architecture?", options:["They only apply to shapes with exactly the same size","Similar figures have no practical use in design","They allow designs to be scaled up or down while keeping proportions accurate","A reason unrelated to similar figures"], answer:2}
+   ]},
+  {subject:"Science", title:"The Skeletal and Muscular Systems", summary:"Grade 6 Science strand: the skeletal system provides structure and protection for the body, while the muscular system works with it to allow movement.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"The skeletal system’s main functions include ___.", options:["Pumping blood throughout the body","A function unrelated to the skeletal system","Digesting food for energy","Providing structure and protecting internal organs"], answer:3},
+     {q:"The muscular system works with the skeletal system to ___.", options:["A function unrelated to the muscular system","Allow movement of the body","Produce hormones for the body","Filter waste from the blood"], answer:1},
+     {q:"Which is an example of a bone protecting an internal organ?", options:["A bone with no protective function at all","A concept unrelated to the skeletal system","The ribcage protecting the heart and lungs","A muscle protecting the skin"], answer:2},
+     {q:"How do muscles typically work in pairs to create movement?", options:["One muscle contracts while the opposing muscle relaxes","Both muscles always contract at exactly the same time","Muscles never work together in pairs","A description unrelated to how muscles work"], answer:0},
+     {q:"Why do the skeletal and muscular systems need to work together?", options:["Movement occurs with no involvement from bones or muscles","Bones provide the structure that muscles pull against to create movement","A reason unrelated to body systems","These two systems have no connection to one another"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Women’s Suffrage Movements Around the World", summary:"Grade 6 Social Studies strand: women’s suffrage movements were organized efforts, occurring in many countries during the 19th and 20th centuries, to win women the right to vote.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Women’s suffrage movements worked to secure ___.", options:["The right for women to vote","The right for men to vote for the first time","A ban on all future elections","A concept unrelated to suffrage movements"], answer:0},
+     {q:"Suffrage movements were active in ___.", options:["Only a single country, with no movement elsewhere","Only during ancient times, thousands of years ago","Many countries during the 19th and 20th centuries","A time period unrelated to suffrage movements"], answer:2},
+     {q:"Why might suffragists have organized marches and public campaigns?", options:["A reason unrelated to suffrage movements","To prevent women from ever gaining the right to vote","Public campaigns never played a role in suffrage movements","To raise awareness and pressure governments to grant women voting rights"], answer:3},
+     {q:"Why is the history of women’s suffrage still studied today?", options:["It highlights an important step toward greater equality and civic participation","Suffrage movements had no lasting impact on society","A reason unrelated to social studies learning","This history has no connection to rights and equality today"], answer:0},
+     {q:"Which of these best describes the overall goal of suffrage movements?", options:["Expanding voting rights to include women","Removing voting rights from all citizens","A concept unrelated to suffrage movements","Limiting who could run for political office"], answer:0}
+   ]},
+]},
+{day:55, label:"Day 55 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Symbolism in Literature", summary:"Grade 6 Language strand: symbolism is when an author uses an object, character, or image to represent a deeper idea or meaning beyond its literal sense.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"Symbolism is when an author uses something to ___.", options:["A concept unrelated to literature","Describe only its literal, surface-level meaning","Confuse the reader with no real purpose","Represent a deeper idea or meaning"], answer:3},
+     {q:"In many stories, a dove is often used to symbolize ___.", options:["A concept unrelated to common symbols","Confusion","Peace","Conflict"], answer:2},
+     {q:"Why might an author use symbolism instead of stating an idea directly?", options:["Authors are required to always state ideas directly","Symbolism never adds meaning to a story","It can add depth and invite readers to think more deeply about a text","A reason unrelated to symbolism"], answer:2},
+     {q:"Which is an example of symbolism in a story?", options:["A list of ingredients in a recipe","A concept unrelated to symbolism","A character simply describing the weather","A wilting flower representing a character’s fading hope"], answer:3},
+     {q:"Why might different readers interpret a symbol differently?", options:["A reason unrelated to symbolism","Every reader is required to interpret a symbol in exactly the same way","Symbols can carry different meanings depending on a reader’s own experiences and perspective","Symbols always have only one possible meaning"], answer:2}
+   ]},
+  {subject:"Math", title:"Volume and Surface Area of Composite Shapes", summary:"Grade 6 Math strand: a composite shape is made up of two or more simple shapes combined, and finding its volume or surface area involves calculating each part separately and combining the results.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"A composite shape is made up of ___.", options:["A concept unrelated to composite shapes","Only a single, simple shape","Two or more simple shapes combined","A shape with no measurable dimensions"], answer:2},
+     {q:"To find the volume of a composite shape, you generally ___.", options:["Calculate the volume of each part separately and add them together","Multiply only the largest dimension by itself","Ignore all but one part of the shape","A method unrelated to composite shapes"], answer:0},
+     {q:"If a composite shape is made of a rectangular prism with volume 20 and a cube with volume 8, what is its total volume?", options:["A value unrelated to the calculation","28","12","160"], answer:1},
+     {q:"Why might a real object, like a house, be modelled as a composite shape?", options:["Real objects can never be broken into simple shapes","A reason unrelated to composite shapes","Composite shapes have no real-world application","Combining simple shapes helps estimate the volume or surface area of complex objects"], answer:3},
+     {q:"When finding the surface area of a composite shape, why is it important to check for shared faces?", options:["Faces that are joined together are not part of the outer surface and should not be counted","A reason unrelated to surface area","Shared faces always double the total surface area","Every face should always be counted, whether shared or not"], answer:0}
+   ]},
+  {subject:"Science", title:"Energy Transfer and Conservation of Energy", summary:"Grade 6 Science strand: energy can transfer between objects and change form, but the law of conservation of energy states that the total amount of energy in a closed system stays the same.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Energy transfer means energy ___.", options:["Moves from one object or place to another","Is destroyed completely with no trace","A concept unrelated to energy","Never moves or changes in any way"], answer:0},
+     {q:"The law of conservation of energy states that energy ___.", options:["Cannot be created or destroyed, only transformed or transferred","Is constantly being created out of nothing","A concept unrelated to conservation of energy","Disappears completely once it is used"], answer:0},
+     {q:"Which is an example of energy transfer?", options:["Heat moving from a hot cup of tea into the surrounding air","An object that has no energy at all","A concept unrelated to energy transfer","A rock sitting perfectly still with no changes"], answer:0},
+     {q:"When a moving ball hits another ball and transfers motion to it, this demonstrates ___.", options:["Energy transfer","The creation of new energy from nothing","A concept unrelated to energy","The destruction of energy"], answer:0},
+     {q:"Why is the law of conservation of energy important in science?", options:["A reason unrelated to physics","Energy is never conserved in any system","It helps explain how energy moves and changes form without ever disappearing","This law has no connection to how energy behaves"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Partition of India and Decolonization in South Asia", summary:"Grade 6 Social Studies strand: the Partition of India in 1947 divided British India into India and Pakistan as both gained independence, a major event in the broader 20th-century decolonization of South Asia.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Partition of India in 1947 divided British India into ___.", options:["A division unrelated to the Partition of India","India and Pakistan","Two entirely different, unrelated countries","India and China"], answer:1},
+     {q:"The Partition of India took place as part of the broader process of ___.", options:["The founding of the Ottoman Empire","A process unrelated to the Partition of India","European colonization beginning for the first time","Decolonization in South Asia"], answer:3},
+     {q:"Why is the Partition of India considered a significant, and often difficult, historical event?", options:["It occurred with no historical consequences at all","It caused mass migration and hardship for millions of people during the division","It had no impact on the people living in the region","A reason unrelated to the Partition of India"], answer:1},
+     {q:"Decolonization generally refers to the process by which ___.", options:["A concept unrelated to decolonization","Colonies gain independence from the countries that once controlled them","Countries expand their control over new colonies","Independent countries willingly become colonies again"], answer:1},
+     {q:"Why is it valuable to study events like the Partition of India?", options:["Only Canadian history is relevant to social studies learning","A reason unrelated to social studies learning","This event has no connection to understanding global history","It helps build understanding of how independence movements shaped the modern world"], answer:3}
+   ]},
+]},
+{day:56, label:"Day 56 — Mon", subjects:[
+  {subject:"Language", title:"Media Literacy: Understanding Clickbait and Headlines", summary:"Grade 6 Language strand: clickbait uses sensational or misleading headlines designed to attract clicks, often exaggerating or leaving out important information from a story.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"Clickbait headlines are designed to ___.", options:["Give a completely accurate summary of every detail in a story","Provide no information about the article at all","Attract clicks, often through sensational or exaggerated wording","A concept unrelated to media literacy"], answer:2},
+     {q:"Which is a common feature of a clickbait headline?", options:["Using only plain, unemotional language","A concept unrelated to clickbait","Providing a full and accurate summary of the story","Leaving out key information to create curiosity"], answer:3},
+     {q:"Why should readers be cautious of clickbait headlines?", options:["Headlines never affect how a reader understands a story","A reason unrelated to media literacy","They can be misleading and may not accurately represent the full story","Clickbait headlines are always completely accurate"], answer:2},
+     {q:"What is one strategy for evaluating a headline before sharing an article?", options:["Reading the full article to check whether the headline is accurate","Assuming every headline is completely truthful","A concept unrelated to media literacy","Sharing the article immediately without reading it"], answer:0},
+     {q:"Why do some websites rely on clickbait headlines?", options:["Websites are required by law to use clickbait headlines","A reason unrelated to media literacy","Clickbait headlines never attract any additional attention","Sensational headlines can attract more clicks and views"], answer:3}
+   ]},
+  {subject:"Math", title:"Venn Diagrams and Set Notation (Intro)", summary:"Grade 6 Math strand: a Venn diagram uses overlapping circles to show relationships between sets, such as items that belong to one group, another group, or both.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"A Venn diagram uses overlapping circles to show ___.", options:["A concept unrelated to Venn diagrams","A list with no visual organization at all","Relationships between different sets of items","A single unrelated number"], answer:2},
+     {q:"The overlapping section of two circles in a Venn diagram represents ___.", options:["Items that belong to both sets","Items that belong to neither set","A concept unrelated to Venn diagrams","Items that appear only outside both circles"], answer:0},
+     {q:"If Set A is even numbers and Set B is multiples of 3, where would the number 6 appear?", options:["In the overlapping section of both circles","A location unrelated to the Venn diagram","Only in Set A’s circle","Outside both circles entirely"], answer:0},
+     {q:"A set is best described as ___.", options:["A concept unrelated to sets","A collection of distinct items or numbers","A type of geometric shape only","A single number with no other values"], answer:1},
+     {q:"Why are Venn diagrams useful for organizing information?", options:["Venn diagrams provide no useful way to organize information","A reason unrelated to Venn diagrams","They can only be used with numbers, never with other data","They visually show similarities and differences between groups"], answer:3}
+   ]},
+  {subject:"Science", title:"Classification of Matter: Elements, Compounds, and Mixtures", summary:"Grade 6 Science strand: matter can be classified as an element (a single pure substance), a compound (two or more elements chemically combined), or a mixture (substances combined without a chemical reaction).",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"An element is best described as ___.", options:["A substance found only in outer space","A concept unrelated to matter","A combination of two or more different substances","A single pure substance made of only one type of atom"], answer:3},
+     {q:"A compound is formed when ___.", options:["A concept unrelated to compounds","Substances are physically combined with no chemical reaction","A single element exists completely on its own","Two or more elements are chemically combined"], answer:3},
+     {q:"A mixture is formed when ___.", options:["Substances are combined without a chemical reaction taking place","A single pure substance changes into a different element","A concept unrelated to mixtures","Elements are chemically bonded together permanently"], answer:0},
+     {q:"Which of these is an example of a mixture?", options:["A single atom of oxygen","A salad made of several different ingredients","A single pure gold coin","A concept unrelated to mixtures"], answer:1},
+     {q:"Why is it useful to classify matter into elements, compounds, and mixtures?", options:["Classifying matter provides no useful scientific information","All matter behaves in exactly the same way regardless of classification","It helps scientists understand and predict how different substances behave","A reason unrelated to chemistry"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Berlin Wall and a Divided Germany", summary:"Grade 6 Social Studies strand: the Berlin Wall was built in 1961 to divide East and West Berlin during the Cold War, becoming a powerful symbol of a divided Germany until it fell in 1989.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Berlin Wall was built to divide ___.", options:["East and West Berlin","Two cities located in Canada","North and South Korea","A division unrelated to the Berlin Wall"], answer:0},
+     {q:"The Berlin Wall was built during the historical period known as ___.", options:["The Industrial Revolution","The Renaissance","The Cold War","A period unrelated to the Berlin Wall"], answer:2},
+     {q:"The Berlin Wall became a powerful symbol of ___.", options:["A period with no political tension at all","A concept unrelated to the Berlin Wall","International cooperation and unity","A divided Germany and the broader Cold War conflict"], answer:3},
+     {q:"In what year did the Berlin Wall fall?", options:["1989","1961","A year unrelated to the Berlin Wall","1945"], answer:0},
+     {q:"Why is the fall of the Berlin Wall considered a significant historical event?", options:["A reason unrelated to its historical significance","It had no effect on Germany or the wider world","It marked the beginning of the Cold War, not its easing","It symbolized the end of a divided Germany and eased Cold War tensions"], answer:3}
+   ]},
+]},
+{day:57, label:"Day 57 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Formal Letter of Request", summary:"Grade 6 Language strand: a formal letter of request politely and clearly asks for information, action, or assistance, using proper greetings, structure, and a respectful tone.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"A formal letter of request is written to ___.", options:["Politely and clearly ask for information, action, or assistance","A concept unrelated to writing","Simply share a casual story with a friend","Complain without offering any clear request"], answer:0},
+     {q:"Which of these is an important feature of a formal letter?", options:["Casual slang and informal abbreviations","A polite greeting and a respectful, clear tone","No greeting or closing of any kind","A concept unrelated to formal letters"], answer:1},
+     {q:"Why should a formal letter of request state its purpose clearly near the beginning?", options:["Formal letters should never state their purpose","Clarity is not important in formal writing","It helps the reader quickly understand what is being asked for","A reason unrelated to formal letters"], answer:2},
+     {q:"Which of these would be an appropriate way to close a formal letter?", options:["A casual “See ya later!”","“Sincerely,” followed by the writer’s name","A concept unrelated to formal letters","No closing at all"], answer:1},
+     {q:"Why might someone write a formal letter instead of a text message to request something important?", options:["Text messages are always considered more formal than letters","A formal letter conveys seriousness and provides a clear, professional record of the request","Formal letters are never appropriate for making a request","A reason unrelated to formal writing"], answer:1}
+   ]},
+  {subject:"Math", title:"Combinations and Permutations (Intro)", summary:"Grade 6 Math strand: a combination is a selection of items where order does not matter, while a permutation is an arrangement of items where order does matter.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"In a combination, the order of items ___.", options:["Always matters","Determines whether the answer is correct or incorrect","A concept unrelated to combinations","Does not matter"], answer:3},
+     {q:"In a permutation, the order of items ___.", options:["Matters","Has no effect on the outcome","Never matters","A concept unrelated to permutations"], answer:0},
+     {q:"If you are choosing 2 toppings for a pizza from a list, and the order you choose them does not matter, this is an example of a ___.", options:["Neither a combination nor a permutation","Permutation","Combination","A term unrelated to this scenario"], answer:2},
+     {q:"If you are arranging 3 books in a specific order on a shelf, this is an example of a ___.", options:["Neither a combination nor a permutation","Permutation","A term unrelated to this scenario","Combination"], answer:1},
+     {q:"Why might understanding combinations and permutations be useful?", options:["They help count possible outcomes in situations like games, passwords, or scheduling","They can only be used with numbers less than 10","These concepts have no real-world use","A reason unrelated to combinations and permutations"], answer:0}
+   ]},
+  {subject:"Science", title:"Nutrient Cycles in Ecosystems", summary:"Grade 6 Science strand: nutrient cycles, such as the nitrogen and carbon cycles, describe how essential elements move through living things and the environment, supporting life in an ecosystem.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"A nutrient cycle describes how essential elements move ___.", options:["Only through the atmosphere, with no connection to living things","In a single direction, never returning to the environment","A concept unrelated to nutrient cycles","Through living things and the environment"], answer:3},
+     {q:"Which of these is an example of a nutrient cycle?", options:["The nitrogen cycle","A cycle with no connection to nutrients","The water park cycle","A concept unrelated to ecosystems"], answer:0},
+     {q:"Why are nutrient cycles important for supporting life in an ecosystem?", options:["Nutrients are used once and never return to the ecosystem","Nutrient cycles have no connection to supporting life","A reason unrelated to ecosystems","They allow essential elements to be reused and made available to living things"], answer:3},
+     {q:"Decomposers play a role in nutrient cycles by ___.", options:["A role unrelated to nutrient cycles","Removing all nutrients from an ecosystem permanently","Preventing nutrients from ever being reused","Breaking down dead organisms and returning nutrients to the soil"], answer:3},
+     {q:"Why might disrupting a nutrient cycle affect an entire ecosystem?", options:["Ecosystems are never affected by changes to nutrient availability","Nutrient cycles have no effect on the organisms in an ecosystem","Many living things depend on the steady availability of these essential elements","A reason unrelated to ecosystems"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Apartheid and the Fight for Equality in South Africa", summary:"Grade 6 Social Studies strand: apartheid was a system of racial segregation enforced by law in South Africa, and the long struggle to end it became a global symbol of the fight for equality.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Apartheid was a system that ___.", options:["Enforced racial segregation by law in South Africa","Guaranteed equal rights for all South African citizens","A concept unrelated to South African history","Existed with no connection to law or government"], answer:0},
+     {q:"The fight to end apartheid became a symbol of ___.", options:["A conflict with no connection to human rights","The global struggle for equality and human rights","A movement that had no international attention","A concept unrelated to South African history"], answer:1},
+     {q:"Which of these was a key outcome of the movement to end apartheid?", options:["A concept unrelated to this movement","The eventual dismantling of legal racial segregation in South Africa","No change to South Africa’s laws or society","The strengthening of apartheid laws over time"], answer:1},
+     {q:"Why did apartheid attract international attention and criticism?", options:["Many people around the world viewed its racial segregation as a violation of human rights","Apartheid received no international attention at all","A reason unrelated to this history","The rest of the world had no awareness of apartheid"], answer:0},
+     {q:"Why is the history of apartheid still studied today?", options:["It offers important lessons about equality, human rights, and social change","This history has no relevance to understanding equality today","Apartheid had no lasting effect on South African society","A reason unrelated to social studies learning"], answer:0}
+   ]},
+]},
+{day:58, label:"Day 58 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Correcting Sentence Fragments and Run-On Sentences", summary:"Grade 6 Language strand: a sentence fragment is an incomplete thought missing a subject or verb, while a run-on sentence incorrectly joins two or more complete sentences without proper punctuation.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"A sentence fragment is ___.", options:["A complete sentence with proper punctuation","Always longer than a complete sentence","A concept unrelated to grammar","An incomplete thought missing a subject or verb"], answer:3},
+     {q:"A run-on sentence incorrectly joins ___.", options:["Two or more complete sentences without proper punctuation","Only fragments, never complete sentences","A single word with no other words at all","A concept unrelated to run-on sentences"], answer:0},
+     {q:"Which of these is a sentence fragment?", options:["The park was full of runners.","She was running through the park.","Running through the park.","A phrase unrelated to sentence fragments"], answer:2},
+     {q:"Which of these is a run-on sentence?", options:["I love reading books, and I read every night before bed.","I love reading books I read every night before bed.","I love reading books. I read every night before bed.","A sentence unrelated to run-on sentences"], answer:1},
+     {q:"Why is it important to correct sentence fragments and run-ons in writing?", options:["It helps make writing clear and easier for readers to understand","Fragments and run-ons are always considered correct grammar","A reason unrelated to clear writing","These errors never affect how clearly a sentence communicates an idea"], answer:0}
+   ]},
+  {subject:"Math", title:"Negative Number Operations in Real-World Contexts", summary:"Grade 6 Math strand: negative numbers can represent real-world situations such as temperatures below zero, debts, or elevations below sea level, and operations with them follow the same integer rules.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"A temperature of -5°C could be represented using ___.", options:["A fraction with no connection to temperature","A concept unrelated to negative numbers","Only a positive number","A negative number"], answer:3},
+     {q:"If a person owes $20, this debt could be represented as ___.", options:["20","A value unrelated to representing debt","0","-20"], answer:3},
+     {q:"If the temperature is -3°C and it rises by 8 degrees, what is the new temperature?", options:["5°C","-11°C","11°C","A temperature unrelated to the calculation"], answer:0},
+     {q:"An elevation of 400 metres below sea level could be represented as ___.", options:["-400","0","A value unrelated to representing elevation","400"], answer:0},
+     {q:"Why are negative numbers useful for representing real-world situations?", options:["They can show values below a reference point, like zero or sea level","Negative numbers have no real-world use","A reason unrelated to negative numbers","They can only represent values above a reference point"], answer:0}
+   ]},
+  {subject:"Science", title:"Magnetism and Electromagnets", summary:"Grade 6 Science strand: magnetism is a force that attracts certain metals, and an electromagnet is created when an electric current flows through a coiled wire, producing a controllable magnetic field.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Magnetism is a force that ___.", options:["Attracts every material equally","Has no effect on any type of material","A concept unrelated to magnetism","Attracts certain metals, such as iron"], answer:3},
+     {q:"An electromagnet is created when ___.", options:["A permanent magnet is heated to a high temperature","Two magnets are placed far apart from each other","An electric current flows through a coiled wire","A concept unrelated to electromagnets"], answer:2},
+     {q:"What is one advantage of an electromagnet compared to a permanent magnet?", options:["Its magnetic field can be turned on and off using an electric current","A reason unrelated to electromagnets","It can never be turned off once created","It has no practical uses at all"], answer:0},
+     {q:"Which of these is an everyday use of electromagnets?", options:["Speakers in headphones or electric motors","A concept unrelated to electromagnets","A tool used only for measuring temperature","A material with no connection to electricity or magnetism"], answer:0},
+     {q:"Why might increasing the number of coils in an electromagnet’s wire increase its strength?", options:["A reason unrelated to electromagnets","Fewer coils always produce a stronger magnetic field","More coils can increase the magnetic field produced by the electric current","The number of coils has no effect on an electromagnet’s strength"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Peacekeeping Missions Abroad", summary:"Grade 6 Social Studies strand: Canada has a long history of contributing peacekeeping forces to United Nations missions aimed at maintaining stability in regions affected by conflict.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Canada has historically contributed forces to peacekeeping missions organized by ___.", options:["Only its own domestic government","A group unrelated to peacekeeping","No international organization at all","The United Nations"], answer:3},
+     {q:"The main goal of a peacekeeping mission is generally to ___.", options:["Start new conflicts in a region","Help maintain stability in regions affected by conflict","A concept unrelated to peacekeeping","Remove all international involvement from a conflict"], answer:1},
+     {q:"Why might Canada choose to participate in international peacekeeping missions?", options:["Participating in peacekeeping missions serves no useful purpose","To support global stability and demonstrate a commitment to international cooperation","Canada is required to participate with no choice involved","A reason unrelated to Canada’s foreign policy"], answer:1},
+     {q:"Which of these best describes the role of peacekeeping forces?", options:["Replacing the government of the country they are sent to","Starting new wars in regions with existing peace","Helping maintain a ceasefire or supporting stability in a conflict-affected region","A concept unrelated to peacekeeping"], answer:2},
+     {q:"Why is Canada’s peacekeeping history often discussed as part of its national identity?", options:["It reflects a long-standing value Canada has placed on international cooperation","A reason unrelated to Canadian history","Peacekeeping has no connection to Canadian identity","Canada has never taken part in any international missions"], answer:0}
+   ]},
+]},
+{day:59, label:"Day 59 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Comparing Print and Digital Texts", summary:"Grade 6 Language strand: print and digital texts can present the same information differently, with digital texts often including hyperlinks, videos, and interactive features not found in print.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"One key difference between print and digital texts is that digital texts often include ___.", options:["Only handwritten notes","No additional features of any kind","Hyperlinks, videos, and other interactive features","A concept unrelated to digital texts"], answer:2},
+     {q:"Which of these is an advantage of a digital text over a print text?", options:["A concept unrelated to digital texts","It can never be changed once it is published","It can be updated quickly with new information","It has no connection to the internet at all"], answer:2},
+     {q:"Which of these is a potential advantage of a print text over a digital text?", options:["It can be instantly updated with new information","It can include embedded video content","A concept unrelated to print texts","It does not require a device or internet connection to read"], answer:3},
+     {q:"Why might a reader need different strategies for reading a digital text compared to a print text?", options:["A reason unrelated to reading comprehension","Digital texts never include any additional content beyond words","Reading strategies are always identical for print and digital texts","Digital texts can include distractions like links and ads that require extra focus to navigate"], answer:3},
+     {q:"Why is it useful to compare how the same story might appear in print versus digital form?", options:["It highlights how format can affect how a reader experiences and understands a text","A reason unrelated to reading comprehension","Print and digital texts always present identical experiences","The format of a text never affects how it is understood"], answer:0}
+   ]},
+  {subject:"Math", title:"Graphing Linear Relationships", summary:"Grade 6 Math strand: a linear relationship shows a constant rate of change between two variables, and when graphed, it forms a straight line.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"A linear relationship shows ___.", options:["A rate of change that is always different at every point","No connection between two variables at all","A constant rate of change between two variables","A concept unrelated to linear relationships"], answer:2},
+     {q:"When graphed, a linear relationship forms ___.", options:["A shape unrelated to linear relationships","A straight line","A single isolated point","A curved line"], answer:1},
+     {q:"If a plant grows 2 cm every week starting at 0 cm, this relationship is ___.", options:["Linear","A concept unrelated to graphing","Impossible to graph","Not a relationship at all"], answer:0},
+     {q:"On a graph of a linear relationship, the x-axis and y-axis typically represent ___.", options:["The title of the graph only","The two variables being compared","A concept unrelated to graphing","Only a single unrelated number"], answer:1},
+     {q:"Why are linear relationships useful for making predictions?", options:["Linear relationships cannot be used to predict anything","A reason unrelated to linear relationships","They only apply to relationships with no consistent pattern","Their constant rate of change allows future values to be estimated"], answer:3}
+   ]},
+  {subject:"Science", title:"The Nervous System and Reflexes", summary:"Grade 6 Science strand: the nervous system controls the body’s responses to its environment, and a reflex is a fast, automatic reaction that happens without conscious thought.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"The nervous system’s main role is to ___.", options:["Pump blood throughout the body","Digest food for energy","Control the body’s responses to its environment","A role unrelated to the nervous system"], answer:2},
+     {q:"A reflex is best described as ___.", options:["A concept unrelated to reflexes","A fast, automatic reaction that happens without conscious thought","An action that always requires conscious decision-making","A slow, carefully planned response to a situation"], answer:1},
+     {q:"Which of these is an example of a reflex?", options:["A concept unrelated to reflexes","Reading a book from start to finish","Quickly pulling your hand away from something hot","Deciding what to eat for dinner"], answer:2},
+     {q:"Why are reflexes useful for the body?", options:["Reflexes serve no useful purpose for the body","They allow for quick protective responses to potential danger","A reason unrelated to reflexes","Reflexes always take longer than a conscious decision"], answer:1},
+     {q:"The brain and spinal cord together make up the ___.", options:["Central nervous system","Muscular system","A system unrelated to the nervous system","Digestive system"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Marshall Plan and Post-War Reconstruction", summary:"Grade 6 Social Studies strand: the Marshall Plan was a program launched by the United States after World War II to provide economic aid to help rebuild war-torn European countries.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Marshall Plan was launched to help ___.", options:["Rebuild war-torn European countries after World War II","End all trade between European countries","Begin a brand new war in Europe","A concept unrelated to the Marshall Plan"], answer:0},
+     {q:"The Marshall Plan primarily provided ___.", options:["A type of support unrelated to the Marshall Plan","Military weapons with no economic support","No support of any kind","Economic aid to European countries"], answer:3},
+     {q:"Why might economic aid have been especially important for Europe after World War II?", options:["A reason unrelated to post-war reconstruction","Economic aid had no effect on rebuilding efforts","Many countries faced widespread destruction and needed support to rebuild their economies","European countries faced no economic challenges after the war"], answer:2},
+     {q:"Which country launched the Marshall Plan?", options:["A country unrelated to the Marshall Plan","A country that no longer exists","The United States","Canada"], answer:2},
+     {q:"Why is the Marshall Plan still studied as an example of post-war reconstruction?", options:["It shows how international aid can help rebuild economies and stability after conflict","A reason unrelated to its historical significance","It focused only on military strategy, with no economic component","The Marshall Plan had no lasting effect on Europe’s recovery"], answer:0}
+   ]},
+]},
+{day:60, label:"Day 60 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing an Effective Summary", summary:"Grade 6 Language strand: an effective summary condenses a text’s main ideas into a shorter form, using the writer’s own words and leaving out minor details and personal opinions.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"An effective summary should ___.", options:["A concept unrelated to writing","Include every single detail from the original text","Condense a text’s main ideas into a shorter form","Be longer than the original text"], answer:2},
+     {q:"A summary should generally be written ___.", options:["Without any reference to the original text’s main ideas","A concept unrelated to summarizing","Using the exact same wording as the original text","In the writer’s own words"], answer:3},
+     {q:"Which of these should typically be left out of a summary?", options:["A concept unrelated to summarizing","Minor details and the writer’s personal opinions","Any reference to the topic of the text","The most important main ideas of the text"], answer:1},
+     {q:"Why is it useful to be able to write an effective summary?", options:["A reason unrelated to summarizing","It shows understanding of a text’s key ideas and helps others quickly grasp its content","Summarizing a text is never a useful skill","Summaries provide no useful information about a text"], answer:1},
+     {q:"Which is an example of a well-written summary sentence?", options:["The article uses blue text on a white background.","A sentence unrelated to summarizing","The article explains three ways communities can reduce waste.","The article was seven pages long."], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Exponents, Inequalities, and Graphing", summary:"Grade 6 Math strand: this review lesson revisits key ideas from Days 51-60, including exponents, square roots, inequalities, scale drawings, and graphing linear relationships.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"An exponent shows ___.", options:["The number of digits in a value","How many times a number is added to itself","How many times a base number is multiplied by itself","A concept unrelated to exponents"], answer:2},
+     {q:"An inequality compares two values using symbols such as ___.", options:["A symbol unrelated to inequalities","= only","+ or -","< or >"], answer:3},
+     {q:"Similar figures have ___.", options:["A concept unrelated to similar figures","No relationship to one another at all","The same shape but different sizes","The same size but different shapes"], answer:2},
+     {q:"When graphed, a linear relationship forms ___.", options:["A curved line","A shape unrelated to linear relationships","A straight line","A single isolated point"], answer:2},
+     {q:"Why is it useful to review exponents, inequalities, and graphing together?", options:["A reason unrelated to reviewing math","It reinforces how these math concepts connect and build on one another","These topics have no connection to each other","Review never helps strengthen understanding of a subject"], answer:1}
+   ]},
+  {subject:"Science", title:"Review: Matter, Energy, and Body Systems", summary:"Grade 6 Science strand: this review lesson revisits key ideas from Days 51-60, including density, acids and bases, erosion, energy transfer, and the skeletal, muscular, and nervous systems.",
+   resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Density describes ___.", options:["A concept unrelated to density","How much mass is packed into a given volume","How heavy an object feels when held","The colour of an object"], answer:1},
+     {q:"On the pH scale, a substance with a pH below 7 is considered ___.", options:["A base","An acid","A term unrelated to the pH scale","Neutral"], answer:1},
+     {q:"The law of conservation of energy states that energy ___.", options:["A concept unrelated to conservation of energy","Cannot be created or destroyed, only transformed or transferred","Is constantly being created out of nothing","Disappears completely once it is used"], answer:1},
+     {q:"A reflex is best described as ___.", options:["An action that always requires conscious decision-making","A concept unrelated to reflexes","A slow, carefully planned response to a situation","A fast, automatic reaction that happens without conscious thought"], answer:3},
+     {q:"Why is it useful to review matter, energy, and body systems together?", options:["These topics have no connection to each other","It reinforces how these interconnected science concepts relate to one another","Review is never useful in science","Each topic must be studied with no connection to the others"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Revolutions, Rights, and Global Change", summary:"Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 51-60, including the Industrial Revolution, women’s suffrage, the Berlin Wall, apartheid, and post-war reconstruction.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"The Industrial Revolution brought major changes to how ___.", options:["A concept unrelated to this historical period","Countries interacted before any trade existed","Goods were produced and how people lived and worked","Ancient civilizations first began, thousands of years earlier"], answer:2},
+     {q:"Women’s suffrage movements worked to secure ___.", options:["A ban on all future elections","The right for men to vote for the first time","The right for women to vote","A concept unrelated to suffrage movements"], answer:2},
+     {q:"The Berlin Wall became a powerful symbol of ___.", options:["A concept unrelated to the Berlin Wall","International cooperation and unity","A divided Germany and the broader Cold War conflict","A period with no political tension at all"], answer:2},
+     {q:"Apartheid was a system that ___.", options:["Enforced racial segregation by law in South Africa","A concept unrelated to South African history","Guaranteed equal rights for all South African citizens","Existed with no connection to law or government"], answer:0},
+     {q:"Why is it useful to review revolutions, rights movements, and global change together?", options:["Review is never useful when studying history","It reinforces how these interconnected historical events shaped rights and societies over time","A reason unrelated to social studies learning","These events have no connection to one another"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
