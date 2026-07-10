@@ -12155,5 +12155,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Making Connections (Text-to-Self, Text-to-Text, Text-to-World)",
+        "summary": "Grade 4 Language strand: strong readers make connections between a text and their own life, other texts they have read, and events happening in the wider world.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A text-to-self connection is when a reader links a text to ___.",
+            "options": [
+              "Their own life and experiences",
+              "A completely different book only",
+              "A concept unrelated to reading",
+              "The number of chapters in the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A text-to-text connection compares a story to ___.",
+            "options": [
+              "Only the cover illustration of the book",
+              "Another text the reader has read before",
+              "Nothing at all, since texts cannot be compared",
+              "A concept unrelated to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A text-to-world connection links a story to ___.",
+            "options": [
+              "Only the page count of the text",
+              "Events or issues happening in the wider world",
+              "A detail unrelated to the story itself",
+              "Nothing, since stories have no connection to the world"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do readers make connections while reading?",
+            "options": [
+              "Connections only distract readers from the story",
+              "It helps deepen understanding and makes the text more meaningful",
+              "Making connections never helps a reader understand a text",
+              "This strategy has no connection to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a story about moving to a new school reminds you of your own first day at school, what kind of connection is this?",
+            "options": [
+              "A text-to-text connection",
+              "A text-to-world connection",
+              "A concept unrelated to connections",
+              "A text-to-self connection"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying Fractions by Whole Numbers",
+        "summary": "Grade 4 Math strand: multiplying a fraction by a whole number means adding that fraction the given number of times, such as 3 times 1/4 equalling 3/4.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Multiplying a fraction by a whole number is the same as ___.",
+            "options": [
+              "Dividing the fraction into smaller unrelated parts",
+              "A concept unrelated to fractions",
+              "Subtracting the whole number from the fraction",
+              "Adding that fraction the given number of times"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3 × 1/4?",
+            "options": [
+              "A value unrelated to the multiplication",
+              "3/4",
+              "1/12",
+              "4/3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 2 × 2/5?",
+            "options": [
+              "4/5",
+              "2/10",
+              "5/2",
+              "A value unrelated to the multiplication"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When multiplying a fraction by a whole number, which part of the fraction changes?",
+            "options": [
+              "The numerator, while the denominator stays the same",
+              "Neither part changes at all",
+              "The denominator, while the numerator stays the same",
+              "A part unrelated to fractions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 4 × 1/3?",
+            "options": [
+              "3/4",
+              "A value unrelated to the multiplication",
+              "4/3",
+              "1/12"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ecosystems: Interdependence of Living Things",
+        "summary": "Grade 4 Science strand: living things in an ecosystem depend on each other and their environment in a web of interdependent relationships.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Interdependence in an ecosystem means living things ___.",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "Live completely apart from their environment",
+              "Rely on each other and their environment to survive",
+              "Never interact with each other in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of interdependence in an ecosystem?",
+            "options": [
+              "A concept unrelated to living things",
+              "A rock resting on the ground with no living connections",
+              "Two organisms that never interact in any way",
+              "Bees pollinating flowers while flowers provide bees with nectar"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might happen if one species disappeared from an ecosystem?",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "Other species that depended on it could also be affected",
+              "Nothing in the ecosystem would ever change",
+              "Every other species would automatically disappear too"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study interdependence in ecosystems?",
+            "options": [
+              "Ecosystems have no relationships worth studying",
+              "Studying interdependence provides no useful scientific information",
+              "This concept has no connection to science",
+              "It helps them understand how changes affect the whole community of living things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which best describes a healthy, balanced ecosystem?",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "One where every species lives in complete isolation",
+              "One where living things and their environment support each other",
+              "One where no living things ever interact"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Mapping Skills: Latitude and Longitude",
+        "summary": "Grade 4 Social Studies strand: latitude and longitude are imaginary lines that form a grid on maps and globes, helping people locate exact places on Earth.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Latitude and longitude lines help people ___.",
+            "options": [
+              "A concept unrelated to maps",
+              "Measure the temperature of a location",
+              "Determine the population of a city",
+              "Locate exact places on Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Lines of latitude run ___.",
+            "options": [
+              "Diagonally across every map",
+              "A direction unrelated to mapping",
+              "North to south, connecting the poles",
+              "East to west, parallel to the equator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Lines of longitude run ___.",
+            "options": [
+              "East to west, parallel to the equator",
+              "A direction unrelated to mapping",
+              "North to south, connecting the poles",
+              "Diagonally across every map"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a grid of latitude and longitude lines useful on maps?",
+            "options": [
+              "It only shows the colours of different countries",
+              "A concept unrelated to geography",
+              "It allows any location on Earth to be described with precise coordinates",
+              "It has no practical use for finding locations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The equator is a line of ___.",
+            "options": [
+              "A term unrelated to mapping",
+              "Longitude",
+              "Elevation",
+              "Latitude"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Subject-Verb Agreement",
+        "summary": "Grade 4 Language strand: subject-verb agreement means matching a singular subject with a singular verb and a plural subject with a plural verb.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Subject-verb agreement means the subject and verb must ___.",
+            "options": [
+              "A concept unrelated to grammar",
+              "Be separated by a comma at all times",
+              "Match in number (singular or plural)",
+              "Always be written in past tense"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence shows correct subject-verb agreement?",
+            "options": [
+              "The dogs runs in the park.",
+              "The dog run in the park.",
+              "The dog runs in the park.",
+              "A sentence unrelated to subject-verb agreement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence shows correct subject-verb agreement?",
+            "options": [
+              "The child play outside.",
+              "The children play outside.",
+              "The children plays outside.",
+              "A sentence unrelated to subject-verb agreement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A singular subject like “she” should be paired with a verb like ___.",
+            "options": [
+              "Walk",
+              "Walks",
+              "A verb form unrelated to agreement",
+              "Walking, with no other words needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is subject-verb agreement important in writing?",
+            "options": [
+              "It has no effect on how a sentence reads",
+              "A concept unrelated to clear writing",
+              "It only matters in spoken language, never in writing",
+              "It makes sentences grammatically correct and easier to understand"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Prime and Composite Numbers",
+        "summary": "Grade 4 Math strand: a prime number has exactly two factors (1 and itself), while a composite number has more than two factors.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A prime number has exactly ___ factors.",
+            "options": [
+              "Two (1 and itself)",
+              "Zero factors",
+              "Ten factors",
+              "A number of factors unrelated to primes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a prime number?",
+            "options": [
+              "8",
+              "7",
+              "9",
+              "A number unrelated to primes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a composite number?",
+            "options": [
+              "17",
+              "13",
+              "12",
+              "A number unrelated to composites"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the number 1 neither prime nor composite?",
+            "options": [
+              "1 is always considered a prime number",
+              "It has only one factor, itself, not two or more",
+              "A reason unrelated to factors",
+              "It has an unlimited number of factors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these numbers is prime?",
+            "options": [
+              "A number unrelated to primes",
+              "15",
+              "10",
+              "11"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rock and Mineral Classification: Igneous, Sedimentary, Metamorphic",
+        "summary": "Grade 4 Science strand: rocks are classified into three types based on how they form -- igneous (from cooled magma), sedimentary (from compressed layers), and metamorphic (changed by heat and pressure).",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Igneous rock forms when ___.",
+            "options": [
+              "A process unrelated to rock formation",
+              "Existing rock is changed by heat and pressure",
+              "Melted magma cools and hardens",
+              "Layers of sediment are compressed over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sedimentary rock forms when ___.",
+            "options": [
+              "Existing rock is changed by heat and pressure",
+              "Melted magma cools and hardens",
+              "A process unrelated to rock formation",
+              "Layers of sediment are compressed over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Metamorphic rock forms when ___.",
+            "options": [
+              "A process unrelated to rock formation",
+              "Existing rock is changed by heat and pressure",
+              "Layers of sediment are compressed over time",
+              "Melted magma cools and hardens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a way scientists classify rocks?",
+            "options": [
+              "By how the rock was formed",
+              "By where the rock is displayed in a museum",
+              "A method unrelated to rock classification",
+              "By the colour of the rock alone, with no other criteria"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do geologists classify rocks into these three types?",
+            "options": [
+              "A reason unrelated to geology",
+              "Rocks are never classified into different types",
+              "It helps them understand how each rock formed and what it can reveal about Earth’s history",
+              "Classifying rocks provides no useful scientific information"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Comparing Government Systems: Federal, Provincial, and Municipal",
+        "summary": "Grade 4 Social Studies strand: Canada has three levels of government -- federal, provincial, and municipal -- each responsible for different services and decisions.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The federal government is responsible for issues that affect ___.",
+            "options": [
+              "The whole country",
+              "A concept unrelated to government",
+              "Only a single city",
+              "Only a single street"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The provincial government is responsible for issues such as ___.",
+            "options": [
+              "Decisions made only by other countries",
+              "A concept unrelated to government",
+              "Education and healthcare within the province",
+              "International trade agreements only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The municipal government is responsible for issues such as ___.",
+            "options": [
+              "National defence and foreign policy",
+              "Local roads, garbage collection, and community parks",
+              "A concept unrelated to government",
+              "International trade agreements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Canada have three levels of government?",
+            "options": [
+              "A reason unrelated to government structure",
+              "Only one level of government is actually needed",
+              "Having multiple levels of government serves no useful purpose",
+              "Different levels can focus on issues at the national, provincial, and local scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which level of government would most likely decide on a new local playground?",
+            "options": [
+              "A level unrelated to local decisions",
+              "Federal",
+              "Provincial",
+              "Municipal"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Root Words",
+        "summary": "Grade 4 Language strand: a root word is the base part of a word that carries its core meaning, and many other words can be built from it by adding prefixes or suffixes.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A root word is ___.",
+            "options": [
+              "A word with no meaning at all",
+              "The base part of a word that carries its core meaning",
+              "Always the longest word in a sentence",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word in “unhappiness”?",
+            "options": [
+              "Ness",
+              "Un",
+              "A word unrelated to the root",
+              "Happy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the root word in “replayed”?",
+            "options": [
+              "Re",
+              "A word unrelated to the root",
+              "Play",
+              "Ed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing a root word can help a reader ___.",
+            "options": [
+              "Never understand the meaning of any word",
+              "Figure out the meaning of related, unfamiliar words",
+              "A concept unrelated to vocabulary",
+              "Only memorize spelling patterns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word in “disagreement”?",
+            "options": [
+              "A word unrelated to the root",
+              "Agree",
+              "Dis",
+              "Ment"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring and Classifying Angles with a Protractor",
+        "summary": "Grade 4 Math strand: a protractor is a tool used to measure the size of an angle in degrees, and angles can be classified as acute, right, obtuse, or straight.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A protractor is used to ___.",
+            "options": [
+              "Measure the weight of an object",
+              "A tool unrelated to angles",
+              "Measure the length of a line",
+              "Measure the size of an angle in degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An angle less than 90 degrees is called ___.",
+            "options": [
+              "Obtuse",
+              "Acute",
+              "A term unrelated to angles",
+              "Straight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An angle greater than 90 degrees but less than 180 degrees is called ___.",
+            "options": [
+              "A term unrelated to angles",
+              "Right",
+              "Obtuse",
+              "Acute"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An angle that measures exactly 90 degrees is called ___.",
+            "options": [
+              "An obtuse angle",
+              "A term unrelated to angles",
+              "A right angle",
+              "A straight angle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An angle that measures exactly 180 degrees is called ___.",
+            "options": [
+              "A term unrelated to angles",
+              "A right angle",
+              "An acute angle",
+              "A straight angle"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Waves and Vibrations: How Sound is Produced",
+        "summary": "Grade 4 Science strand: sound is produced when an object vibrates, creating waves of energy that travel through air or another medium to our ears.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Sound is produced when an object ___.",
+            "options": [
+              "Vibrates",
+              "A process unrelated to sound",
+              "Changes colour",
+              "Stays perfectly still"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sound waves travel through ___.",
+            "options": [
+              "A vacuum with no matter at all",
+              "Air and other materials, such as water",
+              "A concept unrelated to sound",
+              "Only through solid metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to the vibration of a guitar string when it is plucked?",
+            "options": [
+              "It stops moving completely",
+              "It vibrates back and forth, producing sound waves",
+              "A result unrelated to sound production",
+              "It changes into a different material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can we not hear sound in outer space?",
+            "options": [
+              "A reason unrelated to how sound travels",
+              "Sound only exists on Earth for no scientific reason",
+              "There is no air or matter for sound waves to travel through",
+              "Sound waves travel faster in space, making them silent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which best describes a sound wave?",
+            "options": [
+              "A form of energy that travels through vibrations",
+              "A form of light that has no connection to vibration",
+              "A concept unrelated to sound",
+              "A solid object that can be touched"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Industries and Economic Regions",
+        "summary": "Grade 4 Social Studies strand: different regions of Canada rely on different industries, such as fishing on the coasts, farming on the Prairies, and manufacturing in central Canada.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "An industry is ___.",
+            "options": [
+              "A type of government department",
+              "A concept unrelated to the economy",
+              "Only a building where people live",
+              "A type of economic activity that produces goods or services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which industry is closely associated with the Prairie provinces?",
+            "options": [
+              "Only tourism",
+              "Fishing",
+              "An industry unrelated to the Prairies",
+              "Farming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which industry is closely associated with Canada’s coastal regions?",
+            "options": [
+              "Fishing",
+              "Only mining",
+              "Farming grain crops",
+              "An industry unrelated to coastal regions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do different regions of Canada rely on different industries?",
+            "options": [
+              "Industries are assigned randomly to each region",
+              "Every region of Canada has identical industries",
+              "Each region’s geography and resources shape which industries can thrive there",
+              "A reason unrelated to geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which industry is closely associated with central Canada?",
+            "options": [
+              "Only fishing",
+              "Only forestry",
+              "Manufacturing",
+              "An industry unrelated to central Canada"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Compare and Contrast Paragraphs",
+        "summary": "Grade 4 Language strand: a compare and contrast paragraph explains how two subjects are similar and how they are different, often using words like “however” and “similarly.”",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A compare and contrast paragraph explains how two subjects are ___.",
+            "options": [
+              "Only different, never similar",
+              "A concept unrelated to writing",
+              "Similar and different",
+              "Only similar, never different"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word signals a comparison (similarity) between two ideas?",
+            "options": [
+              "However",
+              "Although",
+              "Similarly",
+              "A word unrelated to comparison"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word signals a contrast (difference) between two ideas?",
+            "options": [
+              "Likewise",
+              "A word unrelated to contrast",
+              "However",
+              "Similarly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer compare and contrast two animals in an essay?",
+            "options": [
+              "A reason unrelated to writing",
+              "To help readers understand how the animals are alike and different",
+              "Comparing animals serves no purpose in writing",
+              "To make the essay longer with no added meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should a compare and contrast paragraph include?",
+            "options": [
+              "Details about only one of the two subjects",
+              "No details at all, only opinions",
+              "Specific details about both similarities and differences",
+              "A concept unrelated to this type of writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume of Rectangular Prisms",
+        "summary": "Grade 4 Math strand: the volume of a rectangular prism is found by multiplying its length, width, and height, and is measured in cubic units.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "The volume of a rectangular prism is found by multiplying ___.",
+            "options": [
+              "Only the height of the shape",
+              "A formula unrelated to volume",
+              "Length × width × height",
+              "Only length × width"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the volume of a rectangular prism with length 4, width 3, and height 2?",
+            "options": [
+              "14 cubic units",
+              "A value unrelated to the calculation",
+              "9 cubic units",
+              "24 cubic units"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Volume is measured in ___.",
+            "options": [
+              "A unit unrelated to volume",
+              "Square units",
+              "Cubic units",
+              "Linear units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the volume of a rectangular prism with length 5, width 2, and height 3?",
+            "options": [
+              "30 cubic units",
+              "20 cubic units",
+              "A value unrelated to the calculation",
+              "10 cubic units"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is volume measured in cubic units rather than square units?",
+            "options": [
+              "Square units are always used for volume instead",
+              "A reason unrelated to measurement",
+              "Because volume describes a three-dimensional space, not a flat area",
+              "Cubic units have no real meaning in math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Circuits: Series vs Parallel",
+        "summary": "Grade 4 Science strand: in a series circuit, components are connected in a single loop, while in a parallel circuit, components are connected along multiple paths.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a series circuit, components are connected ___.",
+            "options": [
+              "With no connection between them at all",
+              "A concept unrelated to circuits",
+              "Along a single loop, one after another",
+              "Along multiple separate paths"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a parallel circuit, components are connected ___.",
+            "options": [
+              "Along multiple separate paths",
+              "Along a single loop only",
+              "With no connection between them at all",
+              "A concept unrelated to circuits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the other bulbs in a series circuit if one bulb burns out?",
+            "options": [
+              "A result unrelated to circuits",
+              "They all turn off, since the loop is broken",
+              "They stay lit with no change at all",
+              "They become brighter than before"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to the other bulbs in a parallel circuit if one bulb burns out?",
+            "options": [
+              "The others can stay lit, since each has its own path",
+              "The entire house loses power",
+              "They all turn off immediately",
+              "A result unrelated to circuits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might parallel circuits be used for household wiring?",
+            "options": [
+              "A reason unrelated to circuits",
+              "Parallel circuits have no practical advantage",
+              "Series circuits are always used in houses instead",
+              "So that one broken device does not turn off all the others"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Indigenous Governance and Traditional Knowledge",
+        "summary": "Grade 4 Social Studies strand: many Indigenous peoples in Canada have long-standing governance systems and traditional knowledge that guide decision-making and care for the land.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Traditional knowledge refers to ___.",
+            "options": [
+              "Wisdom and practices passed down through generations within a community",
+              "Knowledge that has no connection to any community",
+              "Information found only in modern textbooks",
+              "A concept unrelated to Indigenous peoples"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Indigenous governance systems often emphasize ___.",
+            "options": [
+              "Community decision-making and care for the land",
+              "Ignoring the needs of the land and environment",
+              "Decisions made entirely without community input",
+              "A concept unrelated to governance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to learn about Indigenous governance systems?",
+            "options": [
+              "It builds a fuller understanding of the diverse ways communities have organized themselves",
+              "A reason unrelated to social studies",
+              "Only one type of governance system has ever existed",
+              "Indigenous governance has no relevance to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Traditional knowledge is often passed down through ___.",
+            "options": [
+              "Sources with no connection to community elders",
+              "Storytelling, teachings from elders, and lived experience",
+              "Written government documents only",
+              "A method unrelated to traditional knowledge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might traditional knowledge be valuable for understanding the environment?",
+            "options": [
+              "It is based on guesses with no real observation involved",
+              "Traditional knowledge has no connection to the environment",
+              "A reason unrelated to Indigenous knowledge",
+              "It reflects generations of careful observation and relationship with the land"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Fact from Opinion",
+        "summary": "Grade 4 Language strand: a fact is a statement that can be proven true, while an opinion is a personal belief or judgment that cannot be proven.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A fact is a statement that ___.",
+            "options": [
+              "Reflects only one person’s feelings",
+              "A concept unrelated to reading",
+              "Can be proven true",
+              "Can never be proven either way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An opinion is a statement that ___.",
+            "options": [
+              "Reflects a personal belief or judgment",
+              "Can always be proven true with evidence",
+              "Is the same for every single reader",
+              "A concept unrelated to reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a fact?",
+            "options": [
+              "Chocolate ice cream tastes better than vanilla.",
+              "Water freezes at 0 degrees Celsius.",
+              "A statement unrelated to facts or opinions",
+              "Winter is the best season of the year."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an opinion?",
+            "options": [
+              "Dogs have four legs.",
+              "A dog is a mammal.",
+              "A statement unrelated to facts or opinions",
+              "Dogs make the best pets."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for readers to distinguish fact from opinion?",
+            "options": [
+              "A concept unrelated to reading comprehension",
+              "Facts and opinions are always exactly the same thing",
+              "This skill has no use when reading any text",
+              "It helps them evaluate information critically and avoid being misled"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Temperature and Thermometers (Celsius)",
+        "summary": "Grade 4 Math strand: temperature is measured in degrees Celsius in Canada, using a thermometer, with 0°C as the freezing point and 100°C as the boiling point of water.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "In Celsius, water freezes at ___.",
+            "options": [
+              "32 degrees",
+              "100 degrees",
+              "A temperature unrelated to freezing",
+              "0 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In Celsius, water boils at ___.",
+            "options": [
+              "100 degrees",
+              "32 degrees",
+              "A temperature unrelated to boiling",
+              "0 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A thermometer is used to measure ___.",
+            "options": [
+              "A quantity unrelated to thermometers",
+              "Weight",
+              "Temperature",
+              "Length"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which temperature would most likely describe a warm summer day in Ontario?",
+            "options": [
+              "0 degrees Celsius",
+              "A temperature unrelated to a warm day",
+              "-15 degrees Celsius",
+              "28 degrees Celsius"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which temperature would most likely describe a cold winter day in Ontario?",
+            "options": [
+              "-10 degrees Celsius",
+              "30 degrees Celsius",
+              "A temperature unrelated to a cold day",
+              "100 degrees Celsius"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forces: Balanced and Unbalanced Forces",
+        "summary": "Grade 4 Science strand: balanced forces on an object result in no change in motion, while unbalanced forces cause an object to speed up, slow down, or change direction.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Balanced forces on an object result in ___.",
+            "options": [
+              "The object always changing direction",
+              "The object always speeding up",
+              "A concept unrelated to forces",
+              "No change in the object’s motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Unbalanced forces on an object can cause it to ___.",
+            "options": [
+              "Remain in exactly the same state forever",
+              "Speed up, slow down, or change direction",
+              "Disappear completely",
+              "A concept unrelated to forces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two people push equally hard on opposite sides of a box and it does not move, the forces are ___.",
+            "options": [
+              "A term unrelated to forces",
+              "Balanced",
+              "Unbalanced",
+              "Nonexistent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a soccer ball is kicked and starts rolling, what kind of force acted on it?",
+            "options": [
+              "An unbalanced force",
+              "No force at all",
+              "A balanced force",
+              "A concept unrelated to forces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to understand balanced and unbalanced forces?",
+            "options": [
+              "A reason unrelated to forces",
+              "It helps explain why objects stay still or change their motion",
+              "Forces never affect the motion of objects",
+              "This concept has no connection to how objects move"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Settlement Patterns: Why Communities Grow Where They Do",
+        "summary": "Grade 4 Social Studies strand: communities often form and grow near resources such as fresh water, fertile land, and transportation routes.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Communities often settle near fresh water because it provides ___.",
+            "options": [
+              "Drinking water, transportation, and support for farming",
+              "A concept unrelated to settlement",
+              "Only recreational swimming opportunities",
+              "No useful resources at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Fertile land is valuable to a community because it supports ___.",
+            "options": [
+              "A concept unrelated to settlement patterns",
+              "Nothing related to daily life",
+              "Farming and food production",
+              "Only mining activities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a community grow near a major transportation route, such as a river or railway?",
+            "options": [
+              "Transportation routes have no effect on where communities grow",
+              "Communities never consider transportation when settling",
+              "It makes trade and travel to other places easier",
+              "A reason unrelated to settlement patterns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would most likely attract early settlers to an area?",
+            "options": [
+              "Access to fresh water and fertile land",
+              "The colour of the soil alone",
+              "A concept unrelated to settlement",
+              "An area with no resources of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do geographers study settlement patterns?",
+            "options": [
+              "Communities are located in completely random places",
+              "It helps explain why communities are located where they are",
+              "Settlement patterns provide no useful information",
+              "A reason unrelated to geography"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Hyperbole",
+        "summary": "Grade 4 Language strand: hyperbole is an extreme exaggeration used for effect, such as saying “I have a million things to do.”",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Hyperbole is a figure of speech that uses ___.",
+            "options": [
+              "Extreme exaggeration for effect",
+              "Comparisons using “like” or “as”",
+              "A concept unrelated to figurative language",
+              "Only literal, exact statements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a hyperbole?",
+            "options": [
+              "I had a sandwich for lunch today.",
+              "I am so hungry I could eat a horse.",
+              "I ate a small snack this afternoon.",
+              "A sentence unrelated to hyperbole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers use hyperbole?",
+            "options": [
+              "To describe something in a completely literal way",
+              "Hyperbole is never used for any purpose in writing",
+              "A reason unrelated to figurative language",
+              "To emphasize a feeling or idea in a dramatic, memorable way"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains a hyperbole?",
+            "options": [
+              "My backpack has three pockets.",
+              "This backpack weighs a million pounds!",
+              "This backpack is a bit heavy today.",
+              "A sentence unrelated to hyperbole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is hyperbole meant to be taken literally?",
+            "options": [
+              "Hyperbole has no real meaning at all",
+              "No, it is an exaggeration for effect",
+              "A concept unrelated to hyperbole",
+              "Yes, hyperbole is always literally true"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ratios and Simple Proportional Reasoning (Intro)",
+        "summary": "Grade 4 Math strand: a ratio compares two quantities, such as 2 red marbles for every 3 blue marbles, and can be used to solve simple proportional problems.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A ratio is used to ___.",
+            "options": [
+              "Compare two quantities",
+              "Add two quantities together",
+              "Measure the length of an object",
+              "A concept unrelated to ratios"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a recipe uses a ratio of 2 cups of flour for every 1 cup of sugar, how much flour is needed for 2 cups of sugar?",
+            "options": [
+              "2 cups",
+              "An amount unrelated to the ratio",
+              "1 cup",
+              "4 cups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A ratio of 3:1 means that for every 3 of one item, there is/are ___ of the other.",
+            "options": [
+              "3",
+              "A number unrelated to the ratio",
+              "1",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a class has a ratio of 2 boys for every 3 girls, and there are 6 boys, how many girls are there?",
+            "options": [
+              "3",
+              "9",
+              "6",
+              "A number unrelated to the ratio"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are ratios useful in everyday life?",
+            "options": [
+              "A reason unrelated to ratios",
+              "Ratios have no practical use in daily life",
+              "They help compare quantities and scale recipes, maps, and mixtures accurately",
+              "Ratios can only be used in advanced mathematics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "States of Matter and the Particle Model",
+        "summary": "Grade 4 Science strand: matter exists in solid, liquid, and gas states, and the particle model explains that particles in a solid are tightly packed, in a liquid can move past each other, and in a gas move freely.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a solid, particles are ___.",
+            "options": [
+              "Spread far apart and moving freely",
+              "Not present at all",
+              "A description unrelated to particles",
+              "Tightly packed and vibrate in place"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a liquid, particles ___.",
+            "options": [
+              "Are completely fixed in place",
+              "A description unrelated to particles",
+              "Spread out infinitely in all directions",
+              "Can move and slide past one another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a gas, particles ___.",
+            "options": [
+              "Are tightly packed together",
+              "Remain completely still",
+              "A description unrelated to particles",
+              "Move freely and spread far apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The particle model helps explain ___.",
+            "options": [
+              "Only the colour of different materials",
+              "A concept unrelated to matter",
+              "Nothing about how matter behaves",
+              "Why matter behaves differently as a solid, liquid, or gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which state of matter has particles that are the most tightly packed?",
+            "options": [
+              "Solid",
+              "Liquid",
+              "Gas",
+              "A state unrelated to particle spacing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Fur Trade in Canadian History",
+        "summary": "Grade 4 Social Studies strand: the fur trade was a major economic activity in early Canadian history, involving Indigenous peoples and European traders exchanging goods such as furs, tools, and cloth.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The fur trade primarily involved the exchange of ___.",
+            "options": [
+              "Furs for European tools, cloth, and other goods",
+              "A concept unrelated to the fur trade",
+              "Only gold and silver coins",
+              "Modern manufactured electronics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which group played a central role in the fur trade as both trappers and traders?",
+            "options": [
+              "Only settlers who arrived after the fur trade ended",
+              "A group unrelated to the fur trade",
+              "People with no connection to the fur trade at all",
+              "Indigenous peoples"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was the fur trade economically important in early Canada?",
+            "options": [
+              "A reason unrelated to the fur trade",
+              "It only involved a handful of people with no wider impact",
+              "It was a major source of income and connected different regions through trade routes",
+              "The fur trade had no economic importance in Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animal’s fur was especially valuable during the fur trade?",
+            "options": [
+              "Beaver",
+              "An animal unrelated to the fur trade",
+              "Elephant",
+              "Kangaroo"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the fur trade affect relationships between Indigenous peoples and European traders?",
+            "options": [
+              "It created important economic and social relationships, though they were not always equal",
+              "Indigenous peoples and European traders never interacted",
+              "A reason unrelated to the fur trade",
+              "It had no effect on relationships between the two groups"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Spelling: Compound Words",
+        "summary": "Grade 4 Language strand: a compound word is formed by joining two smaller words together, such as “sun” and “flower” combining to make “sunflower.”",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A compound word is formed by ___.",
+            "options": [
+              "Joining two smaller words together",
+              "A concept unrelated to spelling",
+              "Adding a prefix only, with no second word",
+              "Removing letters from a single word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a compound word?",
+            "options": [
+              "A word unrelated to compound words",
+              "Running",
+              "Happiness",
+              "Basketball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two smaller words make up “rainbow”?",
+            "options": [
+              "Rain and bow",
+              "Ran and bow",
+              "Two words unrelated to “rainbow”",
+              "Rain and boat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a compound word?",
+            "options": [
+              "A word unrelated to compound words",
+              "Toothbrush",
+              "Brushed",
+              "Brushing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to recognize compound words when spelling?",
+            "options": [
+              "A concept unrelated to spelling strategies",
+              "Compound words cannot be broken into smaller parts",
+              "Recognizing compound words never helps with spelling",
+              "It helps break a longer word into two familiar, smaller words"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Translations, Reflections, and Rotations",
+        "summary": "Grade 4 Math strand: a translation slides a shape, a reflection flips a shape like a mirror image, and a rotation turns a shape around a fixed point.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A translation moves a shape by ___.",
+            "options": [
+              "A movement unrelated to transformations",
+              "Turning it around a fixed point",
+              "Flipping it like a mirror image",
+              "Sliding it without flipping or turning it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A reflection creates a shape that is ___.",
+            "options": [
+              "An exact copy with no changes at all",
+              "A movement unrelated to transformations",
+              "A mirror image of the original shape",
+              "Always larger than the original shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rotation moves a shape by ___.",
+            "options": [
+              "Turning it around a fixed point",
+              "Flipping it like a mirror image",
+              "Sliding it in a straight line",
+              "A movement unrelated to transformations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you slide a triangle three squares to the right without flipping or turning it, this is an example of a ___.",
+            "options": [
+              "Reflection",
+              "A term unrelated to transformations",
+              "Translation",
+              "Rotation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you flip a shape over a line so it looks like a mirror image, this is an example of a ___.",
+            "options": [
+              "Reflection",
+              "Translation",
+              "Rotation",
+              "A term unrelated to transformations"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Water Conservation and the Water Cycle in Communities",
+        "summary": "Grade 4 Science strand: communities rely on the water cycle for fresh water, and conserving water helps protect this limited resource for future use.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Water conservation means ___.",
+            "options": [
+              "Removing water from the environment permanently",
+              "Using water carefully to avoid wasting it",
+              "Using as much water as possible at all times",
+              "A concept unrelated to water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of water conservation at home?",
+            "options": [
+              "A concept unrelated to conserving water",
+              "Watering the lawn during a rainstorm",
+              "Turning off the tap while brushing your teeth",
+              "Leaving the tap running for no reason"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for communities to conserve fresh water?",
+            "options": [
+              "Fresh water is a limited resource that must be shared and protected",
+              "A reason unrelated to water conservation",
+              "Fresh water is an unlimited resource with no need for conservation",
+              "Communities never need to think about their water use"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the water cycle provide fresh water to communities?",
+            "options": [
+              "A reason unrelated to the water cycle",
+              "Precipitation refills rivers, lakes, and groundwater that communities depend on",
+              "Communities create their own water with no natural cycle involved",
+              "The water cycle has no connection to community water supplies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these actions helps conserve water in a community?",
+            "options": [
+              "A concept unrelated to conservation",
+              "Leaving leaks unfixed indefinitely",
+              "Fixing leaky pipes and faucets promptly",
+              "Wasting water intentionally to test the pipes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Relationship with the Commonwealth",
+        "summary": "Grade 4 Social Studies strand: Canada is a member of the Commonwealth, a voluntary association of countries, most of which were once part of the British Empire, that cooperate on shared goals.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The Commonwealth is a voluntary association of countries that ___.",
+            "options": [
+              "Are required to follow identical laws with no independence",
+              "Cooperate on shared goals, such as democracy and development",
+              "Have no historical connection to one another",
+              "A concept unrelated to international relationships"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many Commonwealth countries share a historical connection to ___.",
+            "options": [
+              "The former British Empire",
+              "No shared history at all",
+              "Only ancient civilizations",
+              "A country unrelated to the Commonwealth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is Canada required to follow the laws of other Commonwealth countries?",
+            "options": [
+              "Yes, Canada must follow every Commonwealth country’s laws",
+              "No, Canada remains an independent, self-governing country",
+              "A concept unrelated to Canada’s independence",
+              "Canada has no independent government of its own"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might countries choose to remain part of the Commonwealth?",
+            "options": [
+              "Countries are forced to join with no choice involved",
+              "To cooperate on shared goals like trade, education, and development",
+              "A reason unrelated to international cooperation",
+              "Membership provides no benefits of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is true about the Commonwealth?",
+            "options": [
+              "It includes only countries that have never had any historical connection",
+              "A statement unrelated to the Commonwealth",
+              "It includes many countries that were once part of the British Empire",
+              "It has existed for less than one year"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Personal Narratives and Journals",
+        "summary": "Grade 4 Language strand: a personal narrative tells a true story from the writer’s own life, often written in first person and organized in the order events happened.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A personal narrative tells a story that is ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "Always completely fictional",
+              "True and based on the writer’s own life",
+              "Written about someone the writer has never met"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A personal narrative is usually written in ___.",
+            "options": [
+              "First person, using “I”",
+              "Second person only, using “you”",
+              "A point of view unrelated to personal narratives",
+              "Third person only, using “they”"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Personal narratives are often organized ___.",
+            "options": [
+              "In reverse alphabetical order",
+              "A concept unrelated to organizing a narrative",
+              "In the order the events happened",
+              "With no order or structure at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone keep a journal?",
+            "options": [
+              "To write only about topics unrelated to their own life",
+              "To record personal thoughts, feelings, and experiences over time",
+              "Journals serve no purpose for writers",
+              "A reason unrelated to journaling"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a topic for a personal narrative?",
+            "options": [
+              "A memorable trip you took with your family",
+              "A fictional story about dragons with no basis in real life",
+              "A set of instructions for building a model",
+              "A concept unrelated to personal narratives"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Circle Graphs (Pie Charts)",
+        "summary": "Grade 4 Math strand: a circle graph, or pie chart, shows data as slices of a circle, where each slice represents a proportion of the whole.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A circle graph shows data as ___.",
+            "options": [
+              "Slices of a circle representing proportions of a whole",
+              "A concept unrelated to circle graphs",
+              "A list of numbers with no visual representation",
+              "A single straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a circle graph, a larger slice represents ___.",
+            "options": [
+              "A concept unrelated to circle graphs",
+              "A smaller proportion of the total data",
+              "No data at all",
+              "A greater proportion of the total data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a circle graph shows that 50% of students prefer summer, what fraction of the circle would represent summer?",
+            "options": [
+              "A fraction unrelated to the data",
+              "The entire circle",
+              "Half of the circle",
+              "A quarter of the circle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone use a circle graph instead of a bar graph?",
+            "options": [
+              "A reason unrelated to graphing data",
+              "To show how parts relate to the whole as proportions",
+              "Bar graphs and circle graphs always show identical information",
+              "Circle graphs cannot display any type of data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "All of the slices in a circle graph should add up to ___.",
+            "options": [
+              "50% of the data",
+              "0% of the data",
+              "100% of the data",
+              "A percentage unrelated to circle graphs"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space: The Sun and Its Role in Our Solar System",
+        "summary": "Grade 4 Science strand: the Sun is a star at the centre of our solar system, providing the light and heat energy that supports life on Earth.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "The Sun is best described as a ___.",
+            "options": [
+              "A concept unrelated to space",
+              "Moon that orbits another planet",
+              "Star at the centre of our solar system",
+              "Planet that orbits the Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Sun provides Earth with ___.",
+            "options": [
+              "Only darkness",
+              "Light and heat energy",
+              "No energy of any kind",
+              "A concept unrelated to the Sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Sun important for life on Earth?",
+            "options": [
+              "The Sun has no connection to life on Earth",
+              "It provides the energy that plants and other living things depend on",
+              "Life on Earth exists with no need for any energy source",
+              "A reason unrelated to the Sun’s role"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "All the planets in our solar system orbit ___.",
+            "options": [
+              "The Sun",
+              "A body unrelated to our solar system",
+              "Earth",
+              "The Moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Compared to the planets, the Sun is ___.",
+            "options": [
+              "Exactly the same size as Earth",
+              "Much smaller and reflects light from Earth",
+              "A description unrelated to the Sun",
+              "Far larger and is a source of its own light"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Comparing Urban, Suburban, and Rural Communities",
+        "summary": "Grade 4 Social Studies strand: communities can be classified as urban (city), suburban (residential areas near a city), or rural (countryside), each with different features and ways of life.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "An urban community is best described as ___.",
+            "options": [
+              "An area with very few people and mostly farmland",
+              "A densely populated city area",
+              "A concept unrelated to communities",
+              "A community found only in the far north"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rural community is best described as ___.",
+            "options": [
+              "A countryside area often used for farming, with a lower population",
+              "A densely populated downtown core",
+              "An area with no land used for any purpose",
+              "A concept unrelated to communities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A suburban community is best described as ___.",
+            "options": [
+              "A concept unrelated to communities",
+              "The very centre of a large city",
+              "An area used only for large-scale farming",
+              "A residential area located near, but outside, a city’s downtown"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might you expect to find more often in a rural community?",
+            "options": [
+              "Subway systems",
+              "Large farms and open land",
+              "A feature unrelated to rural communities",
+              "Tall skyscrapers and dense traffic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to compare urban, suburban, and rural communities?",
+            "options": [
+              "These types of communities have no differences worth studying",
+              "It helps show how geography and population shape different ways of life",
+              "All communities in Canada are identical",
+              "A reason unrelated to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Using Graphic Organizers",
+        "summary": "Grade 4 Language strand: graphic organizers, such as Venn diagrams and story maps, help readers visually organize information and ideas from a text.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A graphic organizer helps readers ___.",
+            "options": [
+              "Visually organize information and ideas from a text",
+              "Memorize a text word for word",
+              "Avoid reading the text at all",
+              "A concept unrelated to reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Venn diagram is often used to show ___.",
+            "options": [
+              "A concept unrelated to graphic organizers",
+              "Similarities and differences between two things",
+              "The order of events in a single story only",
+              "The page numbers of a book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A story map is often used to organize ___.",
+            "options": [
+              "A concept unrelated to graphic organizers",
+              "The price of a book",
+              "The characters, setting, problem, and events of a story",
+              "Only the title of a book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reader use a graphic organizer before writing a summary?",
+            "options": [
+              "Graphic organizers never help with understanding a text",
+              "It replaces the need to read the text at all",
+              "It helps sort out the most important ideas and details first",
+              "A reason unrelated to reading strategies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which graphic organizer would best help compare two book characters?",
+            "options": [
+              "A Venn diagram",
+              "A number line",
+              "A concept unrelated to graphic organizers",
+              "A single unrelated list"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Mean, Median, and Mode (Intro)",
+        "summary": "Grade 4 Math strand: the mean is the average of a set of numbers, the median is the middle value when numbers are ordered, and the mode is the value that appears most often.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "The mean of a set of numbers is found by ___.",
+            "options": [
+              "Choosing the largest number in the set",
+              "Adding all the numbers and dividing by how many there are",
+              "A method unrelated to finding the mean",
+              "Choosing the smallest number in the set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The median of a set of numbers is ___.",
+            "options": [
+              "The sum of all the numbers",
+              "A value unrelated to the median",
+              "The middle value when the numbers are placed in order",
+              "Always the first number listed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The mode of a set of numbers is ___.",
+            "options": [
+              "The value that appears most often",
+              "A value unrelated to the mode",
+              "The average of all the values",
+              "The largest value in the set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the median of the set 2, 4, 6, 8, 10?",
+            "options": [
+              "4",
+              "6",
+              "A value unrelated to the median",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the mode of the set 3, 5, 5, 7, 9?",
+            "options": [
+              "9",
+              "A value unrelated to the mode",
+              "5",
+              "3"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Energy Transformations in Everyday Devices",
+        "summary": "Grade 4 Science strand: many everyday devices transform energy from one form to another, such as a toaster changing electrical energy into heat energy.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Energy transformation means energy ___.",
+            "options": [
+              "Stays in the exact same form forever",
+              "A concept unrelated to energy",
+              "Disappears completely with no trace",
+              "Changes from one form into another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A toaster transforms electrical energy into ___.",
+            "options": [
+              "A form of energy unrelated to toasters",
+              "Sound energy only",
+              "Light energy only",
+              "Heat energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A light bulb transforms electrical energy into ___.",
+            "options": [
+              "A form of energy unrelated to light bulbs",
+              "Light energy (and some heat energy)",
+              "Sound energy only",
+              "Chemical energy only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A speaker transforms electrical energy into ___.",
+            "options": [
+              "A form of energy unrelated to speakers",
+              "Heat energy only",
+              "Sound energy",
+              "Light energy only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to understand energy transformations in devices?",
+            "options": [
+              "It helps explain how everyday technology works and uses energy",
+              "Devices never use or change energy in any way",
+              "Energy transformations have no connection to how devices work",
+              "A reason unrelated to energy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Cultural Diversity and Multiculturalism in Canada",
+        "summary": "Grade 4 Social Studies strand: Canada is home to people from many different cultural backgrounds, and multiculturalism celebrates and protects this diversity as an official policy.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Multiculturalism is a policy that ___.",
+            "options": [
+              "Requires everyone to share the exact same culture",
+              "Ignores the cultural backgrounds of Canadians",
+              "A concept unrelated to Canadian society",
+              "Celebrates and protects Canada’s cultural diversity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Cultural diversity in a community means ___.",
+            "options": [
+              "A concept unrelated to communities",
+              "No cultural traditions are practiced at all",
+              "Everyone in the community shares an identical background",
+              "People from many different cultural backgrounds live together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of cultural diversity in a Canadian community?",
+            "options": [
+              "Neighbours celebrating different cultural festivals throughout the year",
+              "A concept unrelated to cultural diversity",
+              "A town with no cultural traditions of any kind",
+              "A community where only one culture is ever represented"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does Canada value multiculturalism?",
+            "options": [
+              "Canada requires all citizens to abandon their cultural traditions",
+              "Multiculturalism provides no value to Canadian society",
+              "It recognizes and respects the contributions of people from many backgrounds",
+              "A reason unrelated to Canadian identity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might multiculturalism be reflected in a Canadian city?",
+            "options": [
+              "A concept unrelated to multiculturalism",
+              "Through a complete absence of cultural variety",
+              "Through laws banning cultural celebrations",
+              "Through diverse foods, festivals, languages, and traditions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Capitalization Rules",
+        "summary": "Grade 4 Language strand: capitalization rules include starting every sentence with a capital letter, capitalizing proper nouns, and capitalizing the pronoun “I.”",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Every sentence should begin with ___.",
+            "options": [
+              "A lowercase letter",
+              "A number, with no letters at all",
+              "A concept unrelated to capitalization",
+              "A capital letter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Proper nouns, such as names of people and places, should be ___.",
+            "options": [
+              "Capitalized",
+              "A concept unrelated to proper nouns",
+              "Underlined instead of capitalized",
+              "Written entirely in lowercase"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The pronoun “I” should always be ___.",
+            "options": [
+              "Capitalized, no matter where it appears in a sentence",
+              "Written in lowercase at the start of a sentence",
+              "A concept unrelated to capitalization",
+              "Left out of formal writing entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses capitalization correctly?",
+            "options": [
+              "A sentence unrelated to capitalization",
+              "My friend and I visited Toronto last summer.",
+              "my friend and i visited toronto last summer.",
+              "My friend and i visited Toronto last Summer."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are capitalization rules important in writing?",
+            "options": [
+              "They help readers understand sentence boundaries and identify proper nouns",
+              "A concept unrelated to grammar",
+              "Capitalization has no effect on how writing is understood",
+              "Capital letters are only used to make writing look nicer"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Fractions, Decimals, and Patterns",
+        "summary": "Grade 4 Math strand: this review lesson revisits key ideas from Days 51-60, including multiplying fractions, angles, ratios, transformations, and mean/median/mode.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Multiplying a fraction by a whole number is the same as ___.",
+            "options": [
+              "A concept unrelated to fractions",
+              "Subtracting the fraction from the whole number",
+              "Adding that fraction the given number of times",
+              "Dividing the whole number by the fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A protractor is used to measure ___.",
+            "options": [
+              "Length",
+              "Angles",
+              "Weight",
+              "A quantity unrelated to protractors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A ratio is used to ___.",
+            "options": [
+              "Measure the volume of a container",
+              "Round a number to the nearest ten",
+              "A concept unrelated to ratios",
+              "Compare two quantities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A translation moves a shape by ___.",
+            "options": [
+              "Turning it around a fixed point",
+              "Flipping it like a mirror image",
+              "A movement unrelated to transformations",
+              "Sliding it without flipping or turning it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review fractions, angles, ratios, and data together?",
+            "options": [
+              "Review never helps strengthen understanding of a subject",
+              "These topics have no connection to each other",
+              "A reason unrelated to reviewing math",
+              "It reinforces how these math concepts connect and build on one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Forces, Structures, and Systems",
+        "summary": "Grade 4 Science strand: this review lesson revisits key ideas from Days 51-60, including ecosystems, rock classification, sound, circuits, balanced forces, states of matter, and energy transformations.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Interdependence in an ecosystem means living things ___.",
+            "options": [
+              "Live completely apart from their environment",
+              "A concept unrelated to ecosystems",
+              "Rely on each other and their environment to survive",
+              "Never interact with each other in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Balanced forces on an object result in ___.",
+            "options": [
+              "No change in the object’s motion",
+              "The object always changing direction",
+              "The object always speeding up",
+              "A concept unrelated to forces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a series circuit, components are connected ___.",
+            "options": [
+              "A concept unrelated to circuits",
+              "Along multiple separate paths",
+              "With no connection between them at all",
+              "Along a single loop, one after another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Energy transformation means energy ___.",
+            "options": [
+              "Changes from one form into another",
+              "A concept unrelated to energy",
+              "Disappears completely with no trace",
+              "Stays in the exact same form forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review forces, circuits, and energy together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "These topics have no connection to each other",
+              "Review is never useful in science",
+              "It reinforces how these interconnected science concepts relate to one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Culminating Task: Designing a Model Community",
+        "summary": "Grade 4 Social Studies strand: this culminating task asks students to apply Days 51-60 learning about mapping, government, industries, settlement, and diversity to design a model community.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Why might a student consider access to fresh water when designing a model community?",
+            "options": [
+              "Communities have historically settled near water for drinking, transportation, and farming",
+              "A reason unrelated to settlement patterns",
+              "Model communities never need to consider natural resources",
+              "Fresh water has no connection to where communities are located"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a student include all three levels of government when planning a model community?",
+            "options": [
+              "Levels of government have no connection to community planning",
+              "Different levels of government are each responsible for different community needs",
+              "A community only ever needs a single level of government",
+              "A reason unrelated to Canadian government structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a student choose to include diverse cultural festivals in a model community?",
+            "options": [
+              "It reflects the value of cultural diversity and multiculturalism seen in real Canadian communities",
+              "A reason unrelated to multiculturalism",
+              "Model communities should avoid representing any culture at all",
+              "Cultural diversity has no relevance to designing a community"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a student include local industries, such as farming or manufacturing, in a model community?",
+            "options": [
+              "A reason unrelated to economics",
+              "Industries reflect how a community’s geography supports its economy",
+              "Every community relies on exactly the same industry",
+              "Industries have no connection to how a community functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a culminating task a valuable way to end this set of Social Studies lessons?",
+            "options": [
+              "Culminating tasks never help reinforce prior learning",
+              "A reason unrelated to social studies learning",
+              "Applying multiple ideas together provides no educational benefit",
+              "It lets students apply many ideas from the unit together in one project"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
