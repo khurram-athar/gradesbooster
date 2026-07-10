@@ -12160,5 +12160,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Close Reading Strategies for Complex Texts",
+        "summary": "Grade 7 Language strand: close reading involves carefully rereading a text, annotating key details, and analyzing specific word choices to build a deeper understanding of challenging material.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Close reading involves ___.",
+            "options": [
+              "A concept unrelated to reading",
+              "Carefully rereading a text and analyzing specific details",
+              "Reading a text only once, as quickly as possible",
+              "Skipping difficult sections of a text entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader annotate a text while close reading?",
+            "options": [
+              "A reason unrelated to close reading",
+              "Annotating never helps a reader understand a text",
+              "To track important details, questions, and reactions as they read",
+              "Annotations always distract from understanding a text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is close reading especially useful for complex or challenging texts?",
+            "options": [
+              "Close reading only works for simple, easy texts",
+              "Complex texts never benefit from careful, repeated reading",
+              "A reason unrelated to close reading",
+              "It helps break down difficult ideas into smaller, more manageable parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a close reading strategy?",
+            "options": [
+              "Rereading a confusing paragraph and noting unfamiliar vocabulary",
+              "Reading only the title of a text and nothing else",
+              "A concept unrelated to close reading",
+              "Ignoring any words that are difficult to understand"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader reread a text multiple times during close reading?",
+            "options": [
+              "Each rereading can reveal new details or deepen understanding",
+              "A single reading always reveals everything about a text",
+              "Rereading a text is never useful for understanding it",
+              "A reason unrelated to close reading"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving and Graphing Inequalities on a Number Line",
+        "summary": "Grade 7 Math strand: solving an inequality finds the range of values that make it true, and graphing it on a number line uses an open or closed circle and an arrow to show that range.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Solving an inequality finds ___.",
+            "options": [
+              "A concept unrelated to inequalities",
+              "No values at all that satisfy the statement",
+              "A single exact value that makes the statement true",
+              "A range of values that make the statement true"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, an open circle at a point means ___.",
+            "options": [
+              "A concept unrelated to graphing inequalities",
+              "The graph has no solution at all",
+              "That value is included in the solution",
+              "That value is not included in the solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, a closed (filled-in) circle at a point means ___.",
+            "options": [
+              "A concept unrelated to graphing inequalities",
+              "That value is included in the solution",
+              "That value is not included in the solution",
+              "The inequality has no solution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x ≥ 4, which type of circle would be used at 4 on the number line?",
+            "options": [
+              "An open circle",
+              "A circle unrelated to this inequality",
+              "A closed (filled-in) circle",
+              "No circle would be used at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve for x: 2x < 10.",
+            "options": [
+              "x < 12",
+              "x < 5",
+              "A solution unrelated to the inequality",
+              "x < 20"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Newton’s Laws of Motion (Intro)",
+        "summary": "Grade 7 Science strand: Newton’s three laws of motion describe how objects behave when forces act on them, including inertia, the relationship between force and acceleration, and action-reaction pairs.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Newton’s first law of motion describes ___.",
+            "options": [
+              "The speed of light in a vacuum",
+              "The relationship between force and colour",
+              "Inertia -- an object’s tendency to resist changes in motion",
+              "A concept unrelated to Newton’s laws"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Newton’s second law of motion relates ___.",
+            "options": [
+              "Only the temperature of an object",
+              "A concept unrelated to Newton’s laws",
+              "The volume and density of an object",
+              "Force, mass, and acceleration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Newton’s third law of motion states that ___.",
+            "options": [
+              "For every action, there is an equal and opposite reaction",
+              "Objects in motion always eventually speed up on their own",
+              "Forces never have any reaction at all",
+              "A concept unrelated to Newton’s laws"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of Newton’s third law in action?",
+            "options": [
+              "A ball sitting still on a table with no forces acting on it",
+              "A swimmer pushing water backward to move forward",
+              "A concept unrelated to Newton’s laws",
+              "An object that never interacts with any other object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are Newton’s laws considered fundamental to understanding motion?",
+            "options": [
+              "Newton’s laws only apply to objects in outer space",
+              "These laws have no connection to how objects move",
+              "They explain how and why objects move or stay still under different forces",
+              "A reason unrelated to physics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The League of Nations and Its Legacy",
+        "summary": "Grade 7 Social Studies strand: the League of Nations was an international organization formed after World War I to promote peace and cooperation between countries, though it ultimately struggled to prevent future conflict.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The League of Nations was formed after ___.",
+            "options": [
+              "The Cold War",
+              "World War II",
+              "A conflict unrelated to the League of Nations",
+              "World War I"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The main goal of the League of Nations was to ___.",
+            "options": [
+              "Promote peace and cooperation between countries",
+              "End all international trade",
+              "Encourage new wars between member countries",
+              "A concept unrelated to the League of Nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these contributed to the League of Nations’ struggles?",
+            "options": [
+              "It lacked the power to enforce its decisions on member countries",
+              "A reason unrelated to the League of Nations",
+              "It had no connection to preventing conflict",
+              "Every country in the world immediately joined and fully supported it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the League of Nations often discussed alongside the later United Nations?",
+            "options": [
+              "The United Nations was formed long before the League of Nations",
+              "A reason unrelated to international organizations",
+              "The League’s shortcomings influenced the design of the UN as its successor organization",
+              "The League of Nations and the United Nations have no historical connection"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study the League of Nations today?",
+            "options": [
+              "The League of Nations has no relevance to understanding global history",
+              "It successfully prevented all future global conflicts",
+              "A reason unrelated to social studies learning",
+              "It offers important lessons about the challenges of international cooperation"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallel Structure in Complex Sentences",
+        "summary": "Grade 7 Language strand: parallel structure in complex sentences means keeping grammatically similar elements consistent, even across clauses joined by conjunctions like “although” or “because.”",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Parallel structure means keeping grammatically similar elements ___.",
+            "options": [
+              "Randomly varied with no consistent pattern",
+              "Different from one another throughout a sentence",
+              "Consistent throughout a sentence",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses correct parallel structure?",
+            "options": [
+              "She enjoys hiking, biking, and swimming.",
+              "She enjoys hiking, biking, and to swim.",
+              "She enjoys hiking, to bike, and swimming.",
+              "A sentence unrelated to parallel structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses correct parallel structure in a complex sentence?",
+            "options": [
+              "Although he was tired, he finished his homework and cleaned his room.",
+              "Although he was tired, he finished his homework and was cleaning his room.",
+              "A sentence unrelated to parallel structure",
+              "Although being tired, he finished his homework and cleaned his room."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is parallel structure especially important in complex sentences with multiple clauses?",
+            "options": [
+              "A reason unrelated to grammar",
+              "Complex sentences never need to follow consistent grammatical patterns",
+              "It keeps the sentence clear and grammatically consistent despite its added complexity",
+              "Parallel structure only matters in short, simple sentences"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase breaks parallel structure?",
+            "options": [
+              "“running, jumping, and to climb”",
+              "“running, jumping, and climbing”",
+              "A phrase unrelated to parallel structure",
+              "“to run, to jump, and to climb”"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Polynomials: Introduction to Terms and Like Terms",
+        "summary": "Grade 7 Math strand: a polynomial is an expression made up of terms combined with addition or subtraction, and like terms have the same variable raised to the same power and can be combined.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A polynomial is an expression made up of ___.",
+            "options": [
+              "A concept unrelated to polynomials",
+              "Only a single number with no variables",
+              "Terms combined using addition or subtraction",
+              "Terms that can never be combined in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Like terms have ___.",
+            "options": [
+              "Completely different variables from one another",
+              "No connection to variables at all",
+              "The same variable raised to the same power",
+              "A concept unrelated to like terms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these are like terms?",
+            "options": [
+              "3x and 7x",
+              "3x and 7y",
+              "3x and 7x²",
+              "Terms unrelated to this concept"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify: 4x + 3x.",
+            "options": [
+              "7x",
+              "7x²",
+              "12x",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can 5y and 5y² not be combined as like terms?",
+            "options": [
+              "A reason unrelated to like terms",
+              "They have the same variable but different exponents",
+              "Terms can never be combined under any circumstances",
+              "They have completely different variables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Water Cycle and Its Connection to Climate",
+        "summary": "Grade 7 Science strand: the water cycle describes how water moves through evaporation, condensation, and precipitation, and it plays a key role in shaping regional and global climate patterns.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "The water cycle includes the processes of ___.",
+            "options": [
+              "Only freezing, with no other processes involved",
+              "A single process that never repeats",
+              "A concept unrelated to the water cycle",
+              "Evaporation, condensation, and precipitation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Evaporation occurs when ___.",
+            "options": [
+              "Water changes directly into a solid",
+              "Water changes from a liquid into a gas",
+              "Water changes from a gas into a liquid",
+              "A process unrelated to evaporation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Condensation occurs when ___.",
+            "options": [
+              "Water vapour changes into liquid water droplets",
+              "A process unrelated to condensation",
+              "Liquid water changes into water vapour",
+              "Water changes directly into ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the water cycle influence regional climate?",
+            "options": [
+              "Climate is determined with no involvement from water at all",
+              "A reason unrelated to the water cycle",
+              "It affects patterns of rainfall, humidity, and temperature in different regions",
+              "The water cycle has no connection to climate at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists study changes in the water cycle when studying climate change?",
+            "options": [
+              "The water cycle has no connection to climate change",
+              "A reason unrelated to environmental science",
+              "Shifts in evaporation and precipitation patterns can signal broader climate changes",
+              "The water cycle never changes over time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Immigration Policy: Historical Changes",
+        "summary": "Grade 7 Social Studies strand: Canada’s immigration policy has changed significantly over time, shifting from restrictive and discriminatory practices to a points-based system aimed at welcoming diverse newcomers.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s early immigration policies were often ___.",
+            "options": [
+              "Focused only on welcoming immigrants from every country equally",
+              "Restrictive and discriminatory toward certain groups",
+              "Completely open to every immigrant with no restrictions at all",
+              "A concept unrelated to Canada’s immigration history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada’s modern immigration system often uses ___.",
+            "options": [
+              "A concept unrelated to immigration policy",
+              "A system that only accepts immigrants from a single country",
+              "A points-based system considering factors like skills and education",
+              "A system that considers no criteria at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country change its immigration policies over time?",
+            "options": [
+              "Economic needs, social values, and global events can all influence policy changes",
+              "A reason unrelated to immigration policy",
+              "Immigration policies never change once they are established",
+              "Policy changes have no connection to a country’s needs or values"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to study the history of Canada’s immigration policy?",
+            "options": [
+              "It helps explain how Canada’s population and society have developed and changed",
+              "Immigration policy has remained exactly the same throughout Canadian history",
+              "This history has no connection to understanding Canada today",
+              "A reason unrelated to social studies learning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these reflects a shift toward more inclusive immigration policy?",
+            "options": [
+              "Closing Canada’s borders to all immigration entirely",
+              "Adding new restrictions based on a person’s country of origin",
+              "A concept unrelated to immigration policy",
+              "Removing restrictions based on a person’s country of origin"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Compare and Contrast Essay",
+        "summary": "Grade 7 Language strand: a compare and contrast essay examines the similarities and differences between two subjects, often organized point-by-point or subject-by-subject.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A compare and contrast essay examines ___.",
+            "options": [
+              "A concept unrelated to writing",
+              "Only the differences, never any similarities",
+              "A single subject with no comparison at all",
+              "The similarities and differences between two subjects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a point-by-point structure, a writer organizes the essay by ___.",
+            "options": [
+              "Randomly mixing ideas with no clear organization",
+              "Discussing one point of comparison at a time for both subjects",
+              "A concept unrelated to essay structure",
+              "Discussing all of one subject, then all of the other subject"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a subject-by-subject structure, a writer organizes the essay by ___.",
+            "options": [
+              "Avoiding any clear structure altogether",
+              "Discussing one point of comparison at a time for both subjects",
+              "Discussing all of one subject, then all of the other subject",
+              "A concept unrelated to essay structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which transition word might signal a similarity in a compare and contrast essay?",
+            "options": [
+              "However",
+              "Although",
+              "Similarly",
+              "A word unrelated to signaling similarity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose to compare and contrast two subjects in an essay?",
+            "options": [
+              "A reason unrelated to writing",
+              "To avoid discussing either subject in any detail",
+              "To help readers understand each subject more clearly through comparison",
+              "Comparing subjects never adds any value to an essay"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Pythagorean Theorem: Applications",
+        "summary": "Grade 7 Math strand: the Pythagorean theorem (a² + b² = c²) can be applied to real-world problems, such as finding the shortest distance across a rectangular field or checking whether a corner is a right angle.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "The Pythagorean theorem states that ___.",
+            "options": [
+              "A formula unrelated to the Pythagorean theorem",
+              "a + b = c for any triangle",
+              "a² - b² = c² for any triangle",
+              "a² + b² = c², where c is the hypotenuse of a right triangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a right triangle has legs of 3 and 4, what is the length of the hypotenuse?",
+            "options": [
+              "7",
+              "12",
+              "A value unrelated to the calculation",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a right triangle has legs of 6 and 8, what is the length of the hypotenuse?",
+            "options": [
+              "10",
+              "14",
+              "A value unrelated to the calculation",
+              "48"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a real-world application of the Pythagorean theorem?",
+            "options": [
+              "Finding the average of a set of numbers",
+              "Finding the shortest diagonal distance across a rectangular field",
+              "Measuring the temperature of a room",
+              "A concept unrelated to the Pythagorean theorem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Pythagorean theorem can only be applied to a triangle that is ___.",
+            "options": [
+              "An equilateral triangle",
+              "Any triangle with no specific requirements",
+              "A type of triangle unrelated to this theorem",
+              "A right triangle"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sound Waves: Pitch, Volume, and Frequency",
+        "summary": "Grade 7 Science strand: sound travels as waves, and its pitch is determined by frequency (how many vibrations per second) while its volume is determined by amplitude (the size of the vibration).",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Pitch is determined by ___.",
+            "options": [
+              "A concept unrelated to pitch",
+              "The colour of the sound wave",
+              "Frequency, or how many vibrations occur per second",
+              "The distance the sound has travelled"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Volume is determined by ___.",
+            "options": [
+              "Frequency, or how many vibrations occur per second",
+              "A concept unrelated to volume",
+              "The temperature of the surrounding air",
+              "Amplitude, or the size of the vibration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A higher frequency sound wave produces a ___ pitch.",
+            "options": [
+              "A pitch unrelated to frequency",
+              "Lower",
+              "Silent",
+              "Higher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A larger amplitude sound wave produces a ___ volume.",
+            "options": [
+              "A volume unrelated to amplitude",
+              "Silent",
+              "Louder",
+              "Quieter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a small object, like a whistle, tend to produce a higher pitch than a large object, like a tuba?",
+            "options": [
+              "Larger objects always produce higher pitches than smaller ones",
+              "A reason unrelated to sound waves",
+              "Object size has no connection to the pitch it produces",
+              "Smaller objects generally vibrate at higher frequencies than larger objects"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Marshall Plan and European Reconstruction",
+        "summary": "Grade 7 Social Studies strand: the Marshall Plan was a large-scale American aid program launched after World War II to help rebuild the economies of war-torn European countries.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Marshall Plan was launched to help ___.",
+            "options": [
+              "Rebuild the economies of war-torn European countries after World War II",
+              "A concept unrelated to the Marshall Plan",
+              "Start a new conflict in Europe",
+              "End all trade between European nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Marshall Plan primarily provided European countries with ___.",
+            "options": [
+              "No support of any kind",
+              "Economic aid",
+              "Military weapons only, with no economic support",
+              "A type of support unrelated to the Marshall Plan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might economic aid have been especially important for Europe after World War II?",
+            "options": [
+              "Many countries faced widespread destruction and needed support to rebuild",
+              "European countries faced no economic challenges after the war",
+              "Economic aid had no effect on rebuilding efforts",
+              "A reason unrelated to post-war reconstruction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which country launched the Marshall Plan?",
+            "options": [
+              "A country that no longer exists today",
+              "A country unrelated to the Marshall Plan",
+              "Canada",
+              "The United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Marshall Plan still studied as an example of international cooperation?",
+            "options": [
+              "It shows how aid can help rebuild economies and stability after a major conflict",
+              "A reason unrelated to its historical significance",
+              "It focused only on military strategy, with no economic component",
+              "The Marshall Plan had no lasting effect on Europe’s recovery"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Analogies and Word Relationships",
+        "summary": "Grade 7 Language strand: an analogy compares two pairs of words that share a similar relationship, such as synonym, antonym, cause-and-effect, or part-to-whole relationships.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An analogy compares two pairs of words that share a ___.",
+            "options": [
+              "Similar relationship",
+              "Identical spelling pattern",
+              "Completely unrelated meaning",
+              "A concept unrelated to analogies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Complete the analogy: Petal is to flower as page is to ___.",
+            "options": [
+              "Pencil",
+              "Book",
+              "A word unrelated to the analogy",
+              "Sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What relationship does the analogy “spark is to fire as seed is to plant” show?",
+            "options": [
+              "Cause and effect",
+              "Antonyms",
+              "A relationship unrelated to analogies",
+              "Synonyms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Complete the analogy: Enormous is to huge as tiny is to ___.",
+            "options": [
+              "Gigantic",
+              "Small",
+              "Loud",
+              "A word unrelated to the analogy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are analogies a useful vocabulary tool?",
+            "options": [
+              "Analogies only apply to numbers, not words",
+              "Analogies never help with understanding vocabulary",
+              "A concept unrelated to vocabulary building",
+              "They help build understanding of relationships between words and concepts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume and Surface Area of Spheres (Intro)",
+        "summary": "Grade 7 Math strand: the volume of a sphere is found using the formula (4/3)πr³, and its surface area is found using the formula 4πr², where r is the radius.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "The formula for the volume of a sphere is ___.",
+            "options": [
+              "A formula unrelated to the volume of a sphere",
+              "(4/3)πr³",
+              "2πr",
+              "πr²"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The formula for the surface area of a sphere is ___.",
+            "options": [
+              "(4/3)πr³",
+              "4πr²",
+              "A formula unrelated to the surface area of a sphere",
+              "πr²"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sphere formulas, what does “r” represent?",
+            "options": [
+              "The radius of the sphere",
+              "The circumference of the sphere",
+              "A value unrelated to spheres",
+              "The diameter of the sphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a sphere has a radius of 3, what is its approximate volume using π ≈ 3.14?",
+            "options": [
+              "A value unrelated to the calculation",
+              "About 113.04 cubic units",
+              "About 28.26 cubic units",
+              "About 9 cubic units"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding the volume of a sphere be useful in real life?",
+            "options": [
+              "Sphere volume calculations have no real-world use",
+              "A reason unrelated to spheres",
+              "Spheres never have a measurable volume",
+              "It helps calculate the capacity of round objects, like balls or tanks"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Load, Stress, and Material Strength",
+        "summary": "Grade 7 Science strand: a structure must withstand different types of load and stress, and engineers select materials based on their strength, flexibility, and ability to resist these forces.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Load refers to ___.",
+            "options": [
+              "The colour of a structure’s materials",
+              "The height of a structure alone",
+              "A concept unrelated to structures",
+              "The weight or force a structure must support"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Stress in a structure refers to ___.",
+            "options": [
+              "A structure with no forces acting on it at all",
+              "The internal force experienced by a material under load",
+              "The external appearance of a structure",
+              "A concept unrelated to structures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an engineer choose a flexible material for a structure in an earthquake-prone area?",
+            "options": [
+              "A reason unrelated to materials engineering",
+              "Flexibility has no connection to how a structure performs in an earthquake",
+              "Rigid materials are always safer in earthquake-prone areas",
+              "Flexible materials can absorb and withstand shifting forces without breaking"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a structure experiencing load?",
+            "options": [
+              "A bridge supporting the weight of passing vehicles",
+              "A material with no connection to forces at all",
+              "A concept unrelated to load",
+              "A structure with nothing resting on or pushing against it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do engineers test the strength of materials before building a structure?",
+            "options": [
+              "Testing materials provides no useful information for construction",
+              "A reason unrelated to engineering",
+              "To ensure the materials can safely support the expected loads and stresses",
+              "Materials never need to be tested before use"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Decolonization in Africa: An Overview",
+        "summary": "Grade 7 Social Studies strand: decolonization in Africa refers to the process, largely occurring in the mid-20th century, by which African nations gained independence from European colonial powers.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Decolonization in Africa refers to the process by which ___.",
+            "options": [
+              "African nations gained independence from European colonial powers",
+              "A concept unrelated to decolonization",
+              "European powers expanded their control over African nations",
+              "African nations became colonies for the first time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Decolonization in Africa largely occurred during ___.",
+            "options": [
+              "Ancient times, thousands of years ago",
+              "The 1500s",
+              "The mid-20th century",
+              "A time period unrelated to decolonization in Africa"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these was a common challenge many newly independent African nations faced?",
+            "options": [
+              "Having no challenges at all after gaining independence",
+              "A reason unrelated to decolonization",
+              "Remaining under colonial control indefinitely",
+              "Building new governments and economies after colonial rule"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the history of decolonization in Africa significant to study?",
+            "options": [
+              "Decolonization in Africa never actually took place",
+              "It helps explain the political and economic landscape of many African nations today",
+              "A reason unrelated to social studies learning",
+              "This history has no connection to understanding the world today"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes the goal of independence movements in Africa?",
+            "options": [
+              "Preventing any future political change in the region",
+              "Strengthening colonial control over African nations",
+              "Achieving self-governance and freedom from colonial rule",
+              "A concept unrelated to independence movements"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Flashback and Foreshadowing Together",
+        "summary": "Grade 7 Language strand: flashback interrupts a story to show a past event, while foreshadowing hints at a future event, and authors often use both techniques together to build a richer narrative.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A flashback interrupts a story to show ___.",
+            "options": [
+              "A concept unrelated to narrative techniques",
+              "A past event",
+              "A future event",
+              "An event happening in the present moment only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Foreshadowing hints at ___.",
+            "options": [
+              "A future event in the story",
+              "A concept unrelated to narrative techniques",
+              "An event that has no connection to the plot",
+              "A past event in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use both flashback and foreshadowing in the same story?",
+            "options": [
+              "To build a richer narrative that connects past, present, and future events",
+              "These two techniques can never be used together",
+              "A reason unrelated to narrative structure",
+              "To confuse the reader with no clear purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a flashback?",
+            "options": [
+              "A character suddenly remembering an event from years earlier",
+              "A character noticing dark clouds before a coming storm",
+              "A character describing their current surroundings",
+              "A concept unrelated to flashback"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might recognizing flashback and foreshadowing improve a reader’s understanding of a story?",
+            "options": [
+              "Recognizing these techniques makes a story harder to understand",
+              "These techniques never affect how a reader understands a story",
+              "It helps reveal how the past, present, and future connect within the narrative",
+              "A reason unrelated to reading comprehension"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ratio and Rate Problems with Multiple Steps",
+        "summary": "Grade 7 Math strand: multi-step ratio and rate problems require combining several calculations, such as finding a unit rate and then using it to solve for a larger or smaller quantity.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A multi-step ratio problem often requires ___.",
+            "options": [
+              "A concept unrelated to ratio problems",
+              "Only a single calculation with no additional steps",
+              "Ignoring the given ratio entirely",
+              "Combining several calculations to reach a final answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a car travels 150 km in 3 hours, what is its unit rate in km per hour?",
+            "options": [
+              "450 km/h",
+              "3 km/h",
+              "50 km/h",
+              "A rate unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a recipe uses a ratio of 2 cups of flour for every 3 cups of sugar, how many cups of flour are needed for 9 cups of sugar?",
+            "options": [
+              "6 cups",
+              "An amount unrelated to the ratio",
+              "13.5 cups",
+              "9 cups"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 5 workers can build a fence in 10 hours, how many hours would it take 10 workers, assuming the same rate per worker?",
+            "options": [
+              "A value unrelated to the calculation",
+              "10 hours",
+              "5 hours",
+              "20 hours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are multi-step ratio problems useful to practice?",
+            "options": [
+              "They build skills for solving more complex, real-world proportional situations",
+              "A reason unrelated to ratio problems",
+              "They only apply to problems with a single possible step",
+              "Multi-step ratio problems have no practical use"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Digestive System in Depth",
+        "summary": "Grade 7 Science strand: the digestive system breaks down food into nutrients the body can absorb and use, involving organs such as the stomach, small intestine, and large intestine.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main function of the digestive system is to ___.",
+            "options": [
+              "A function unrelated to the digestive system",
+              "Pump blood throughout the body",
+              "Filter air before it reaches the lungs",
+              "Break down food into nutrients the body can absorb and use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which organ is primarily responsible for breaking down food using acid and enzymes?",
+            "options": [
+              "An organ unrelated to digestion",
+              "The heart",
+              "The lungs",
+              "The stomach"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The small intestine plays a key role in ___.",
+            "options": [
+              "Absorbing nutrients into the bloodstream",
+              "A role unrelated to the small intestine",
+              "Filtering air for the lungs",
+              "Pumping blood to the rest of the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The large intestine mainly functions to ___.",
+            "options": [
+              "Break food down using stomach acid",
+              "A function unrelated to the large intestine",
+              "Pump oxygen throughout the body",
+              "Absorb water and form waste for elimination"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the digestive system considered essential for overall health?",
+            "options": [
+              "The digestive system has no connection to the body’s overall health",
+              "It provides the body with the nutrients and energy needed to function",
+              "The body can function normally with no digestive system at all",
+              "A reason unrelated to biology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Non-Aligned Movement During the Cold War",
+        "summary": "Grade 7 Social Studies strand: the Non-Aligned Movement was a group of countries during the Cold War that chose not to formally align with either the United States or the Soviet Union.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Non-Aligned Movement was made up of countries that chose not to ___.",
+            "options": [
+              "Formally align with either the United States or the Soviet Union",
+              "Communicate with any other countries during the Cold War",
+              "A concept unrelated to the Non-Aligned Movement",
+              "Participate in any international organizations at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country have chosen to join the Non-Aligned Movement?",
+            "options": [
+              "To maintain independence from the two major Cold War powers",
+              "To become fully controlled by one of the two major powers",
+              "Joining provided no benefit to member countries at all",
+              "A reason unrelated to the Non-Aligned Movement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Cold War was primarily a period of tension between ___.",
+            "options": [
+              "Every country in the world equally",
+              "Canada and the United States",
+              "The United States and the Soviet Union",
+              "Two countries unrelated to the Cold War"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Non-Aligned Movement an important part of Cold War history?",
+            "options": [
+              "It shows that many countries sought an independent path rather than choosing a side",
+              "A reason unrelated to Cold War history",
+              "It shows that every country in the world was forced to pick a side",
+              "The Non-Aligned Movement had no real impact on world history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes the overall goal of the Non-Aligned Movement?",
+            "options": [
+              "Ending all international cooperation between countries",
+              "Pursuing an independent path in international relations",
+              "A concept unrelated to the Non-Aligned Movement",
+              "Strengthening one side of the Cold War over the other"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Online Sources for Credibility",
+        "summary": "Grade 7 Language strand: evaluating an online source for credibility involves checking its author, publication date, purpose, and whether its claims are supported by reliable evidence.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Evaluating an online source for credibility involves checking its ___.",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Author, publication date, purpose, and supporting evidence",
+              "Font style and background colour only",
+              "Number of images used on the page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to check who authored an online source?",
+            "options": [
+              "A reason unrelated to evaluating sources",
+              "Every author is equally credible regardless of their background",
+              "The author of a source never affects its credibility",
+              "It helps determine whether the author has relevant expertise or potential bias"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might checking the publication date of a source matter?",
+            "options": [
+              "A reason unrelated to evaluating sources",
+              "It helps determine whether the information is current and still accurate",
+              "Older sources are always more reliable than newer ones",
+              "The publication date never affects how reliable a source is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a warning sign that an online source may not be credible?",
+            "options": [
+              "It clearly cites its sources and evidence",
+              "It makes claims with no supporting evidence or citations",
+              "It is written by an expert in the field",
+              "A concept unrelated to evaluating sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is evaluating source credibility an important skill today?",
+            "options": [
+              "All online information can be trusted without question",
+              "A reason unrelated to media literacy",
+              "This skill has no use when reading information online",
+              "It helps readers avoid being misled by inaccurate or biased information online"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Complementary Events",
+        "summary": "Grade 7 Math strand: complementary events are two outcomes where exactly one must occur, and their probabilities always add up to 1 (or 100%).",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Complementary events are two outcomes where ___.",
+            "options": [
+              "Neither outcome can ever occur",
+              "Exactly one of the two must occur",
+              "A concept unrelated to complementary events",
+              "Both outcomes must occur at the same time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The probabilities of two complementary events always add up to ___.",
+            "options": [
+              "A value unrelated to complementary events",
+              "1 (or 100%)",
+              "2 (or 200%)",
+              "0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the probability of rain tomorrow is 30%, what is the probability it will not rain?",
+            "options": [
+              "30%",
+              "70%",
+              "A value unrelated to the calculation",
+              "100%"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the probability of drawing a red marble from a bag is 2/5, what is the probability of not drawing a red marble?",
+            "options": [
+              "3/5",
+              "A value unrelated to the calculation",
+              "1/5",
+              "2/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are complementary events useful in probability?",
+            "options": [
+              "Complementary events have no practical use in probability",
+              "They allow one probability to be calculated easily if the other is already known",
+              "They can only be used when there are more than two possible outcomes",
+              "A reason unrelated to complementary events"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fossil Formation and the Geologic Time Scale",
+        "summary": "Grade 7 Science strand: fossils form when the remains or traces of living things are preserved in rock over long periods of time, and the geologic time scale organizes Earth’s history into different eras and periods.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Fossils typically form when ___.",
+            "options": [
+              "A concept unrelated to fossil formation",
+              "Rocks form with no connection to living things at all",
+              "The remains or traces of living things are preserved in rock over time",
+              "A living thing is preserved instantly with no time required"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The geologic time scale organizes Earth’s history into ___.",
+            "options": [
+              "Only the years since human history began",
+              "A single unbroken block of time",
+              "A concept unrelated to the geologic time scale",
+              "Different eras and periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are fossils useful to scientists studying Earth’s history?",
+            "options": [
+              "Fossils provide no useful scientific information",
+              "They provide evidence about past life forms and environmental conditions",
+              "Fossils only reveal information about modern living things",
+              "A reason unrelated to fossils"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is required for a fossil to form?",
+            "options": [
+              "The complete absence of any rock or sediment",
+              "A living thing that has never existed",
+              "Conditions that allow remains to be preserved rather than decompose completely",
+              "A concept unrelated to fossil formation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists use the geologic time scale when studying fossils?",
+            "options": [
+              "Fossils can never be placed within a specific time period",
+              "The geologic time scale has no connection to studying fossils",
+              "A reason unrelated to Earth science",
+              "It helps place fossils within a specific era, giving context to when a species existed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s National Parks and Environmental Policy",
+        "summary": "Grade 7 Social Studies strand: Canada’s national parks protect significant natural areas, and environmental policy shapes how the country balances conservation with development and resource use.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s national parks are primarily established to ___.",
+            "options": [
+              "Protect significant natural areas and biodiversity",
+              "A concept unrelated to national parks",
+              "Encourage unrestricted development in natural areas",
+              "Remove all public access to natural areas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Environmental policy generally aims to balance ___.",
+            "options": [
+              "A concept unrelated to environmental policy",
+              "Conservation with development and resource use",
+              "Conservation alone, with no consideration for the economy",
+              "Development alone, with no consideration for the environment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might governments create environmental policies related to national parks?",
+            "options": [
+              "A reason unrelated to environmental policy",
+              "National parks require no policies or protections at all",
+              "Environmental policies have no connection to protecting natural areas",
+              "To help protect natural areas for future generations while managing human impact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might be a challenge in balancing conservation and development?",
+            "options": [
+              "A concept unrelated to environmental policy",
+              "Weighing the economic benefits of development against environmental protection",
+              "Conservation and development always align perfectly with no tension",
+              "There are never any challenges involved in this balance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable for students to learn about environmental policy?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "Environmental policy is decided with no input from society at all",
+              "It helps them understand how societies make decisions about protecting natural resources",
+              "Environmental policy has no connection to understanding society"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Process Analysis Essay (How Something Works)",
+        "summary": "Grade 7 Language strand: a process analysis essay explains how something works or how to complete a task, breaking the process down into clear, logically ordered steps.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A process analysis essay explains ___.",
+            "options": [
+              "How something works or how to complete a task",
+              "A fictional story with no factual basis",
+              "A concept unrelated to writing",
+              "A completely unrelated personal opinion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A process analysis essay should break its topic down into ___.",
+            "options": [
+              "A single confusing paragraph with no structure",
+              "A concept unrelated to process analysis essays",
+              "Random, unordered pieces of information",
+              "Clear, logically ordered steps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these would be an appropriate topic for a process analysis essay?",
+            "options": [
+              "A persuasive argument about a controversial topic",
+              "How a bill becomes a law",
+              "A concept unrelated to process analysis essays",
+              "A personal memory from childhood"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use transition words like “first,” “next,” and “finally” in a process analysis essay?",
+            "options": [
+              "They are only used in fictional stories",
+              "A reason unrelated to process analysis essays",
+              "They help guide the reader clearly through each step of the process",
+              "These words are never useful in this type of essay"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for a process analysis essay to be written in a logical order?",
+            "options": [
+              "Steps presented out of order can confuse the reader and make the process hard to follow",
+              "A process analysis essay does not need any clear order at all",
+              "A reason unrelated to writing",
+              "The order of steps never affects how clearly a process is understood"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Standard Form vs. Expanded Form of Numbers",
+        "summary": "Grade 7 Math strand: standard form writes a number using digits, such as 4,502, while expanded form breaks it down by place value, such as 4,000 + 500 + 2.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Standard form writes a number using ___.",
+            "options": [
+              "Roman numerals only",
+              "A concept unrelated to standard form",
+              "Digits, in its usual numerical form",
+              "Only words, with no digits at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Expanded form breaks a number down by ___.",
+            "options": [
+              "A concept unrelated to expanded form",
+              "Alphabetical order",
+              "Place value",
+              "Its total value with no breakdown at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3,406 written in expanded form?",
+            "options": [
+              "3,000 + 400 + 6",
+              "A value unrelated to the conversion",
+              "3,000 + 40 + 6",
+              "300 + 40 + 6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2,000 + 300 + 70 + 5 written in standard form?",
+            "options": [
+              "23,075",
+              "A value unrelated to the conversion",
+              "2,357",
+              "2,375"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might expanded form be useful when teaching place value?",
+            "options": [
+              "Expanded form is only used with very small numbers",
+              "Expanded form has no connection to understanding place value",
+              "A reason unrelated to expanded form",
+              "It clearly shows the value each digit represents based on its position"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Symbiosis: Mutualism, Commensalism, and Parasitism",
+        "summary": "Grade 7 Science strand: symbiosis describes close relationships between different species, including mutualism (both benefit), commensalism (one benefits, the other is unaffected), and parasitism (one benefits at the other’s expense).",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a mutualistic relationship, ___.",
+            "options": [
+              "Neither species benefits at all",
+              "Both species benefit",
+              "A concept unrelated to mutualism",
+              "Only one species benefits, while the other is harmed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a commensal relationship, ___.",
+            "options": [
+              "Both species are harmed equally",
+              "Both species benefit equally",
+              "A concept unrelated to commensalism",
+              "One species benefits while the other is unaffected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a parasitic relationship, ___.",
+            "options": [
+              "A concept unrelated to parasitism",
+              "Neither species is affected in any way",
+              "One species benefits at the expense of the other",
+              "Both species benefit equally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a mutualistic relationship?",
+            "options": [
+              "Two species that never interact with one another",
+              "A tick feeding on a dog’s blood, harming the dog",
+              "Bees pollinating flowers while feeding on their nectar",
+              "A concept unrelated to mutualism"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study symbiotic relationships in ecosystems?",
+            "options": [
+              "Symbiotic relationships provide no useful information about ecosystems",
+              "They help explain how different species depend on and affect one another",
+              "A reason unrelated to biology",
+              "Species in an ecosystem never interact with each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Arab Spring and Its Global Impact",
+        "summary": "Grade 7 Social Studies strand: the Arab Spring was a wave of pro-democracy protests and uprisings that spread across several Middle Eastern and North African countries beginning in 2010 and 2011.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Arab Spring was a wave of ___.",
+            "options": [
+              "International trade agreements",
+              "A concept unrelated to the Arab Spring",
+              "Celebrations with no political purpose",
+              "Pro-democracy protests and uprisings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Arab Spring began spreading across the Middle East and North Africa around ___.",
+            "options": [
+              "A time period unrelated to the Arab Spring",
+              "Ancient times, thousands of years ago",
+              "2010 and 2011",
+              "The 1800s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these was a common demand of protesters during the Arab Spring?",
+            "options": [
+              "A demand unrelated to the Arab Spring",
+              "A return to stricter authoritarian governments",
+              "Greater political freedom and an end to authoritarian rule",
+              "The complete removal of all elections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did the Arab Spring have such a widespread impact across the region?",
+            "options": [
+              "The events in one country had no effect on any other country",
+              "The protests were limited to a single city with no broader impact",
+              "A reason unrelated to the Arab Spring",
+              "Similar political and economic frustrations existed in multiple countries at the same time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians and social studies students continue to study the Arab Spring?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "The events of the Arab Spring have been completely forgotten",
+              "It offers insight into how citizen movements can influence political change",
+              "The Arab Spring had no lasting effect on the region"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Semicolons, Colons, and Dashes",
+        "summary": "Grade 7 Language strand: semicolons join related independent clauses, colons introduce lists or explanations, and dashes can be used to add emphasis or set off extra information.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A semicolon can be used to ___.",
+            "options": [
+              "Replace every comma in a sentence",
+              "A concept unrelated to punctuation",
+              "End a sentence in place of a period",
+              "Join two closely related independent clauses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A colon is often used to ___.",
+            "options": [
+              "Introduce a list or explanation",
+              "A concept unrelated to punctuation",
+              "Replace a question mark",
+              "Separate every word in a sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A dash can be used to ___.",
+            "options": [
+              "Indicate the end of a paragraph",
+              "A concept unrelated to punctuation",
+              "Add emphasis or set off extra information",
+              "Replace all punctuation in a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a colon?",
+            "options": [
+              "A sentence unrelated to colon use",
+              "She packed three things: a map, water, and snacks.",
+              "She packed three things; a map, water, and snacks.",
+              "She packed three things, a map, water, and snacks."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose a dash instead of a comma to set off extra information?",
+            "options": [
+              "A reason unrelated to punctuation",
+              "A dash can create a stronger emphasis or a more dramatic pause",
+              "Dashes always weaken the emphasis of a sentence",
+              "Dashes are never used to set off extra information"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Box-and-Whisker Plots (Intro)",
+        "summary": "Grade 7 Math strand: a box-and-whisker plot displays a data set’s minimum, first quartile, median, third quartile, and maximum, helping to visualize its spread and central tendency.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A box-and-whisker plot displays a data set’s ___.",
+            "options": [
+              "Only the average of the data set",
+              "Only the maximum value in the data set",
+              "A concept unrelated to box-and-whisker plots",
+              "Minimum, quartiles, median, and maximum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The line inside the box of a box-and-whisker plot typically represents the ___.",
+            "options": [
+              "Maximum",
+              "A value unrelated to box-and-whisker plots",
+              "Range",
+              "Median"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The “whiskers” of a box-and-whisker plot extend to show the ___.",
+            "options": [
+              "Minimum and maximum values in the data set",
+              "Only the median value",
+              "Only the values within the box itself",
+              "A concept unrelated to box-and-whisker plots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a box-and-whisker plot be useful for comparing two data sets?",
+            "options": [
+              "A reason unrelated to box-and-whisker plots",
+              "It visually shows the spread and central tendency of each set side by side",
+              "Box-and-whisker plots cannot be used to compare data sets",
+              "They only display a single number with no visual comparison"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the “box” portion of a box-and-whisker plot represent?",
+            "options": [
+              "The entire range of the data set",
+              "Only the single highest value in the data set",
+              "A concept unrelated to box-and-whisker plots",
+              "The middle 50% of the data, between the first and third quartiles"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nuclear Energy: Fission and Power Generation",
+        "summary": "Grade 7 Science strand: nuclear energy is produced through fission, a process where atomic nuclei split apart and release large amounts of energy, which can be used to generate electricity.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Nuclear fission occurs when ___.",
+            "options": [
+              "An atom disappears with no reaction at all",
+              "Two atomic nuclei combine into one",
+              "An atomic nucleus splits apart, releasing energy",
+              "A process unrelated to nuclear fission"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nuclear power plants use fission to ___.",
+            "options": [
+              "Generate heat that is used to produce electricity",
+              "A process unrelated to nuclear power",
+              "Cool down surrounding areas with no energy production",
+              "Directly power vehicles with no electricity involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a potential benefit of nuclear energy?",
+            "options": [
+              "It requires no safety considerations of any kind",
+              "It can generate large amounts of electricity without directly burning fossil fuels",
+              "A concept unrelated to nuclear energy",
+              "It produces no usable energy at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a potential concern associated with nuclear energy?",
+            "options": [
+              "Safely managing radioactive waste",
+              "A concept unrelated to nuclear energy",
+              "It cannot generate any electricity at all",
+              "Nuclear energy has no potential concerns of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might countries consider nuclear energy as part of their energy strategy?",
+            "options": [
+              "It has no connection to generating electricity",
+              "Nuclear energy provides no benefits to a country’s energy strategy",
+              "A reason unrelated to nuclear energy",
+              "It can provide a significant, relatively low-carbon source of electricity"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Urban Sprawl and City Planning Challenges",
+        "summary": "Grade 7 Social Studies strand: urban sprawl refers to the rapid, spread-out expansion of a city into surrounding areas, creating challenges for transportation, infrastructure, and city planning.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Urban sprawl refers to ___.",
+            "options": [
+              "A city shrinking in population and size",
+              "The rapid, spread-out expansion of a city into surrounding areas",
+              "A concept unrelated to urban sprawl",
+              "A city that never grows or changes over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common challenge associated with urban sprawl?",
+            "options": [
+              "A significant reduction in the need for transportation",
+              "A concept unrelated to urban sprawl",
+              "Increased dependence on cars and longer commute times",
+              "A city with no transportation challenges at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might urban sprawl create challenges for city infrastructure?",
+            "options": [
+              "Infrastructure needs are never affected by how a city is developed",
+              "Spread-out development can be more costly and difficult to service with roads, water, and utilities",
+              "Spread-out cities always require less infrastructure than compact ones",
+              "A reason unrelated to urban sprawl"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a strategy city planners might use to address urban sprawl?",
+            "options": [
+              "Encouraging more compact, mixed-use development",
+              "Encouraging development to spread out as much as possible",
+              "Avoiding any planning or strategy at all",
+              "A concept unrelated to city planning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is urban sprawl an important topic in city planning?",
+            "options": [
+              "Urban sprawl is not a real or relevant issue for city planners",
+              "Urban sprawl has no effect on how a city functions",
+              "It affects transportation, the environment, and quality of life in a growing city",
+              "A reason unrelated to city planning"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Nonfiction Text Structures",
+        "summary": "Grade 7 Language strand: nonfiction texts are often organized using structures like cause-and-effect, problem-and-solution, or sequence, and recognizing these structures helps readers follow the author’s ideas.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Nonfiction texts are often organized using structures such as ___.",
+            "options": [
+              "A concept unrelated to nonfiction text structures",
+              "Cause-and-effect, problem-and-solution, or sequence",
+              "A single unchanging structure used in every text",
+              "Only rhyme and rhythm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A cause-and-effect structure explains ___.",
+            "options": [
+              "A structure unrelated to cause-and-effect",
+              "How one event leads to another",
+              "Events with no connection to one another",
+              "The steps needed to solve a problem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A problem-and-solution structure presents ___.",
+            "options": [
+              "Only a problem, with no solution ever discussed",
+              "A problem, followed by one or more possible solutions",
+              "A solution with no explanation of the original problem",
+              "A structure unrelated to problem-and-solution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A sequence structure organizes information ___.",
+            "options": [
+              "In a completely random order every time",
+              "With no order or organization at all",
+              "In a specific order, such as chronological order",
+              "A structure unrelated to sequence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for readers to recognize a text’s structure?",
+            "options": [
+              "A reason unrelated to reading comprehension",
+              "It helps them anticipate how information will be organized and better follow the author’s ideas",
+              "All nonfiction texts use exactly the same structure",
+              "Recognizing text structure never helps with understanding a text"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Polynomials",
+        "summary": "Grade 7 Math strand: adding or subtracting polynomials involves combining like terms while keeping unlike terms separate.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "To add polynomials, you ___.",
+            "options": [
+              "Combine like terms",
+              "A method unrelated to adding polynomials",
+              "Multiply every term together",
+              "Combine unlike terms only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify: (3x + 5) + (2x + 1).",
+            "options": [
+              "A value unrelated to the calculation",
+              "6x + 6",
+              "5x + 6",
+              "5x + 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: (7x + 4) - (2x + 1).",
+            "options": [
+              "5x + 5",
+              "A value unrelated to the calculation",
+              "5x + 3",
+              "9x + 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When subtracting polynomials, what must be done to the terms in the second polynomial?",
+            "options": [
+              "They must be multiplied by 2 before combining",
+              "Their signs are never changed during subtraction",
+              "A step unrelated to subtracting polynomials",
+              "Their signs must be changed before combining like terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must like terms be combined carefully when adding or subtracting polynomials?",
+            "options": [
+              "Polynomials never require any careful combination of terms",
+              "Only terms with the same variable and exponent can be combined accurately",
+              "Any two terms can always be combined regardless of their variable or exponent",
+              "A reason unrelated to polynomials"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skeletal and Muscular Systems in Depth",
+        "summary": "Grade 7 Science strand: the skeletal system provides structure, protection, and support for the body, while the muscular system works with it through contraction and relaxation to produce movement.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "The skeletal system provides the body with ___.",
+            "options": [
+              "Structure, protection, and support",
+              "The ability to digest food",
+              "The ability to pump blood",
+              "A function unrelated to the skeletal system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Muscles produce movement through the process of ___.",
+            "options": [
+              "Contraction and relaxation",
+              "A process unrelated to muscles",
+              "Digestion and absorption",
+              "Filtration and excretion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of the skeletal and muscular systems working together?",
+            "options": [
+              "A concept unrelated to these systems",
+              "Breathing using only the lungs, with no involvement from bones or muscles",
+              "Bending your arm at the elbow using both bone and muscle",
+              "Digesting a meal using only the stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might bones be described as providing a framework for the body?",
+            "options": [
+              "The body has no structure or framework at all",
+              "Bones have no connection to the body’s overall shape",
+              "A reason unrelated to the skeletal system",
+              "They give the body its overall shape and structure, supporting other systems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do the skeletal and muscular systems need to work closely together?",
+            "options": [
+              "A reason unrelated to body systems",
+              "Movement occurs with no involvement from bones or muscles",
+              "Muscles need bones to pull against in order to create controlled movement",
+              "These two systems function completely independently of one another"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Global Food Security and Agriculture",
+        "summary": "Grade 7 Social Studies strand: food security means having reliable access to enough safe, nutritious food, and global agriculture faces challenges such as climate change, population growth, and unequal distribution of resources.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Food security refers to ___.",
+            "options": [
+              "A concern that only applies to a single country",
+              "Having access to an unlimited supply of any type of food",
+              "Having reliable access to enough safe, nutritious food",
+              "A concept unrelated to food security"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a challenge facing global agriculture today?",
+            "options": [
+              "A complete absence of any global food challenges",
+              "A concept unrelated to agricultural challenges",
+              "Climate change affecting crop yields and growing conditions",
+              "An unlimited and endlessly reliable food supply everywhere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might population growth create challenges for food security?",
+            "options": [
+              "A growing population requires more food production and resources to meet demand",
+              "Population growth has no connection to food security",
+              "A larger population automatically guarantees enough food for everyone",
+              "A reason unrelated to food security"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could help improve food security in a region?",
+            "options": [
+              "A concept unrelated to food security",
+              "Ignoring agricultural challenges entirely",
+              "Reducing food production without any other changes",
+              "Investing in sustainable farming techniques and infrastructure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is global food security an important topic in social studies?",
+            "options": [
+              "Food security has no connection to social studies topics",
+              "Food security is a concern only in fictional scenarios",
+              "A reason unrelated to this unit",
+              "It connects to economics, geography, and the well-being of people around the world"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Eulogy or Tribute Speech",
+        "summary": "Grade 7 Language strand: a eulogy or tribute speech honours a person by sharing meaningful memories, qualities, and the impact they had on others, often organized around specific stories or themes.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A eulogy or tribute speech is written to ___.",
+            "options": [
+              "A concept unrelated to this type of writing",
+              "Criticize a person’s actions and character",
+              "Honour a person by sharing meaningful memories and qualities",
+              "Provide only a list of dates and facts with no personal reflection"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might a tribute speech include?",
+            "options": [
+              "A list of unrelated statistics with no connection to the person",
+              "Criticism of the person being honoured",
+              "A concept unrelated to tribute speeches",
+              "A specific story that reflects the person’s character"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a speaker organize a tribute speech around specific themes, such as kindness or determination?",
+            "options": [
+              "It helps highlight meaningful qualities in a clear, memorable way",
+              "A reason unrelated to tribute speeches",
+              "Themes make a speech harder for an audience to follow",
+              "Themes are never used to organize this type of speech"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is tone especially important in a eulogy or tribute speech?",
+            "options": [
+              "A respectful, sincere tone helps honour the person appropriately",
+              "A reason unrelated to this type of writing",
+              "A humorous, disrespectful tone is always most appropriate",
+              "Tone has no effect on how a tribute speech is received"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a purpose of a tribute speech?",
+            "options": [
+              "To provide a purely factual, emotionless account of events",
+              "A concept unrelated to tribute speeches",
+              "To focus only on negative memories of a person",
+              "To celebrate and remember the impact a person had on others"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Polynomials, Pythagorean Applications, and Data Displays",
+        "summary": "Grade 7 Math strand: this review lesson revisits key ideas from Days 51-60, including polynomials, the Pythagorean theorem, spheres, and box-and-whisker plots.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A polynomial is an expression made up of ___.",
+            "options": [
+              "A concept unrelated to polynomials",
+              "Terms combined using addition or subtraction",
+              "Terms that can never be combined in any way",
+              "Only a single number with no variables"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Pythagorean theorem states that ___.",
+            "options": [
+              "a² + b² = c², where c is the hypotenuse of a right triangle",
+              "a² - b² = c² for any triangle",
+              "A formula unrelated to the Pythagorean theorem",
+              "a + b = c for any triangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The formula for the volume of a sphere is ___.",
+            "options": [
+              "(4/3)πr³",
+              "πr²",
+              "A formula unrelated to the volume of a sphere",
+              "2πr"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The line inside the box of a box-and-whisker plot typically represents the ___.",
+            "options": [
+              "Maximum",
+              "A value unrelated to box-and-whisker plots",
+              "Range",
+              "Median"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review polynomials, geometry, and data displays together?",
+            "options": [
+              "These topics have no connection to each other",
+              "A reason unrelated to reviewing math",
+              "It reinforces how these math concepts connect and build on one another",
+              "Review never helps strengthen understanding of a subject"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Motion, Sound, Structures, and Systems",
+        "summary": "Grade 7 Science strand: this review lesson revisits key ideas from Days 51-60, including Newton’s laws, sound waves, structures, symbiosis, and the skeletal and muscular systems.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Newton’s first law of motion describes ___.",
+            "options": [
+              "A concept unrelated to Newton’s laws",
+              "The relationship between force and colour",
+              "The speed of light in a vacuum",
+              "Inertia -- an object’s tendency to resist changes in motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Pitch is determined by ___.",
+            "options": [
+              "A concept unrelated to pitch",
+              "Frequency, or how many vibrations occur per second",
+              "The colour of the sound wave",
+              "The distance the sound has travelled"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a mutualistic relationship, ___.",
+            "options": [
+              "Both species benefit",
+              "Neither species benefits at all",
+              "A concept unrelated to mutualism",
+              "Only one species benefits, while the other is harmed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Muscles produce movement through the process of ___.",
+            "options": [
+              "Filtration and excretion",
+              "A process unrelated to muscles",
+              "Digestion and absorption",
+              "Contraction and relaxation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review motion, sound, structures, and body systems together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "It reinforces how these interconnected science concepts relate to one another",
+              "Review is never useful in science",
+              "These topics have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: International Relations and Canadian Policy",
+        "summary": "Grade 7 Social Studies strand: this review lesson revisits key ideas from Days 51-60, including the League of Nations, Canadian immigration policy, decolonization, the Non-Aligned Movement, and the Arab Spring.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The League of Nations was formed after ___.",
+            "options": [
+              "The Cold War",
+              "World War I",
+              "A conflict unrelated to the League of Nations",
+              "World War II"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada’s modern immigration system often uses ___.",
+            "options": [
+              "A system that only accepts immigrants from a single country",
+              "A concept unrelated to immigration policy",
+              "A points-based system considering factors like skills and education",
+              "A system that considers no criteria at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Decolonization in Africa refers to the process by which ___.",
+            "options": [
+              "African nations became colonies for the first time",
+              "European powers expanded their control over African nations",
+              "African nations gained independence from European colonial powers",
+              "A concept unrelated to decolonization"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Arab Spring was a wave of ___.",
+            "options": [
+              "A concept unrelated to the Arab Spring",
+              "Pro-democracy protests and uprisings",
+              "International trade agreements",
+              "Celebrations with no political purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review international relations and policy topics together?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "It reinforces how these interconnected historical and political events shaped the modern world",
+              "These topics have no connection to one another",
+              "Review is never useful when studying history and policy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
