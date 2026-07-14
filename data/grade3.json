@@ -4005,6 +4005,7 @@
         "summary": "Students place fractions on a number line between 0 and 1, understanding that fractions represent parts between whole numbers.",
         "resourceLabel": "YouTube: Fractions on a Number Line",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%20on%20a%20Number%20Line%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=6f04GgF-oLQ",
         "quiz": [
           {
             "q": "On a number line, 1/2 is located ___.",
@@ -4064,6 +4065,7 @@
         "summary": "Students investigate gravity as a downward force and friction as a resistance force. They explore how these affect motion.",
         "resourceLabel": "YouTube: Forces: Gravity and Friction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20and%20Friction%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8wXWraHglVM",
         "quiz": [
           {
             "q": "Gravity is a force that ___.",
@@ -4247,6 +4249,7 @@
         "summary": "Students identify Canadian coins and bills, count amounts of money, and calculate simple change.",
         "resourceLabel": "YouTube: Money: Counting and Making Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Counting%20and%20Making%20Change%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oRzvkykR89E",
         "quiz": [
           {
             "q": "How many cents are in one dollar?",
@@ -14579,6 +14582,2426 @@
               "These topics have no meaningful connection to each other"
             ],
             "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Idioms and Expressions",
+        "summary": "Grade 3 Language strand: an idiom is a group of words whose meaning is different from what the words say on their own, like “it’s raining cats and dogs,” which really means it is raining hard.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "An idiom is a group of words whose meaning is ___.",
+            "options": [
+              "Always exactly what the words say",
+              "Different from what the words say on their own",
+              "A concept unrelated to word meaning",
+              "Only found in math, not in language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The idiom “it’s raining cats and dogs” really means ___.",
+            "options": [
+              "It is raining very hard",
+              "A phrase unrelated to weather",
+              "Cats and dogs are falling from the sky",
+              "The weather is calm and sunny"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an idiom confuse a reader who has never heard it before?",
+            "options": [
+              "The words used do not literally match the idiom’s real meaning",
+              "This concept has no connection to understanding language",
+              "Idioms never appear in everyday spoken or written language",
+              "Idioms are always written using their exact literal meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If someone says “break a leg” before a play, what do they likely mean?",
+            "options": [
+              "They want the person to actually get hurt",
+              "Good luck with your performance",
+              "A phrase unrelated to wishing someone well",
+              "The person should stop performing immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to learn common idioms when reading stories?",
+            "options": [
+              "Every idiom always has only one possible interpretation with no context needed",
+              "Idioms never appear in stories that children read",
+              "It helps the reader understand meanings that are not stated literally",
+              "Understanding idioms has no connection to reading comprehension"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Division: Understanding Remainders",
+        "summary": "Grade 3 Math strand: when a number cannot be divided evenly, the amount left over is called the remainder, and it must always be smaller than the number you are dividing by.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "When a number cannot be divided evenly, the amount left over is called the ___.",
+            "options": [
+              "A concept unrelated to division",
+              "Quotient, with no connection to leftover amounts",
+              "Remainder",
+              "Product, which is the answer to a multiplication problem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 13 ÷ 4, including the remainder?",
+            "options": [
+              "3 remainder 2",
+              "3 remainder 1",
+              "4 remainder 1",
+              "4 remainder 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A remainder must always be ___ than the number you are dividing by.",
+            "options": [
+              "Larger, with no connection to the divisor",
+              "A concept unrelated to the size of the divisor",
+              "Exactly equal to, with no exceptions",
+              "Smaller"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 17 stickers are shared equally among 5 friends, how many stickers are left over?",
+            "options": [
+              "0",
+              "3",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might understanding remainders be useful when sharing items in real life, like cookies among friends?",
+            "options": [
+              "It shows how many items are left over after sharing them as evenly as possible",
+              "Remainders never occur when sharing items among friends",
+              "Remainders only apply to multiplication, never to division",
+              "This concept has no connection to real-world sharing situations"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Simple Machines: Screw and Wedge",
+        "summary": "Grade 3 Science strand: a screw is a simple machine made from an inclined plane wrapped around a pole, and a wedge is a simple machine made from two inclined planes joined together to push things apart.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
+            "options": [
+              "Pole",
+              "A concept unrelated to simple machines",
+              "Wheel, which is a completely different simple machine",
+              "Flat surface, with no connection to a pole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A wedge is made from two inclined planes joined together to ___.",
+            "options": [
+              "Push things apart",
+              "A concept unrelated to how a wedge works",
+              "Spin around a central pole",
+              "Always hold things perfectly still"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a wedge being used in everyday life?",
+            "options": [
+              "An axe splitting a piece of wood",
+              "A wheel rolling smoothly along the ground",
+              "An object that never applies any force",
+              "A concept unrelated to simple machines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a screw be useful for holding two pieces of wood together?",
+            "options": [
+              "A screw always falls out immediately no matter how it is used",
+              "Its spiral shape grips the wood tightly as it turns, making it hard to pull out",
+              "Screws never actually hold objects together",
+              "This concept has no connection to how screws are used"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are the screw and wedge both considered types of inclined planes?",
+            "options": [
+              "A screw and wedge are always classified as completely separate types of machines",
+              "They are both based on a sloped surface that makes it easier to do work",
+              "They have no connection to the inclined plane at all",
+              "This concept has no relevance to understanding simple machines"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada’s Provinces and Capital Cities",
+        "summary": "Grade 3 Social Studies strand: Canada is made up of ten provinces and three territories, and each province has its own capital city where its provincial government meets.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Canada is made up of ten provinces and ___ territories.",
+            "options": [
+              "Three",
+              "Zero, since Canada has no territories",
+              "A concept unrelated to how Canada is divided",
+              "Ten, with no distinction from provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Each province has its own capital city where its ___ meets.",
+            "options": [
+              "Provincial government",
+              "Only its sports teams, with no government connection",
+              "National government of another country",
+              "A concept unrelated to government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the capital city of Ontario?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Vancouver",
+              "Montreal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does each province have its own capital city, separate from Canada’s national capital?",
+            "options": [
+              "Every province in Canada always shares the exact same capital city",
+              "This concept has no connection to how Canada is organized",
+              "Provinces never have their own separate governments",
+              "Each province needs a place for its own provincial government to meet and make decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might learning the provinces and their capital cities help students understand Canada better?",
+            "options": [
+              "Learning about provinces and capitals provides no useful understanding of Canada",
+              "Provinces and capital cities have no connection to Canadian geography",
+              "It builds a clearer picture of how the country is organized and governed",
+              "This concept has no relevance to social studies learning"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Contractions",
+        "summary": "Grade 3 Language strand: a contraction is a shortened form of two words joined together, using an apostrophe to show where letters have been left out, such as “don’t” for “do not.”",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A contraction is a shortened form of two words joined together using ___.",
+            "options": [
+              "A comma to separate the two words",
+              "An apostrophe to show missing letters",
+              "A hyphen with no missing letters at all",
+              "A concept unrelated to combining words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The contraction “don’t” is a shortened form of ___.",
+            "options": [
+              "A phrase unrelated to “don’t”",
+              "Does not",
+              "Did not",
+              "Do not"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is the correct contraction for “I am”?",
+            "options": [
+              "I’m",
+              "Im",
+              "Iam",
+              "I’am"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a contraction use an apostrophe?",
+            "options": [
+              "It shows exactly where one or more letters have been left out",
+              "Apostrophes are only used to show ownership, never in contractions",
+              "This concept has no relevance to how contractions are written",
+              "An apostrophe has no connection to forming a contraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use contractions in a story’s dialogue?",
+            "options": [
+              "Contractions are never used in spoken or written English",
+              "Contractions can make characters’ speech sound more natural and conversational",
+              "This concept has no connection to how dialogue is written",
+              "Contractions always make writing sound less natural"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Multiplying Multiples of Ten",
+        "summary": "Grade 3 Math strand: multiplying a number by a multiple of ten, like 20 or 30, can be done by multiplying the basic fact first and then adding a zero to the answer.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Multiplying a number by a multiple of ten can be done by multiplying the basic fact first and then ___.",
+            "options": [
+              "Dividing the answer by ten",
+              "A method unrelated to multiplying by tens",
+              "Removing a zero from the original number",
+              "Adding a zero to the answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3 × 20?",
+            "options": [
+              "23",
+              "6",
+              "60",
+              "600"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 4 × 30?",
+            "options": [
+              "12",
+              "34",
+              "120",
+              "43"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does multiplying 5 × 40 give the same first step as multiplying 5 × 4?",
+            "options": [
+              "The digits 5 and 4 never relate to solving 5 × 40",
+              "Because 40 is 4 tens, so the basic fact 5 × 4 is solved first and then a zero is added",
+              "Multiplying by tens has no connection to basic multiplication facts",
+              "This strategy only works for multiplying by ones, never by tens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a store sells pencils in packs of 20 and a class buys 6 packs, how many pencils is that in total?",
+            "options": [
+              "26",
+              "86",
+              "120",
+              "20"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Weather: Instruments and Tools",
+        "summary": "Grade 3 Science strand: scientists use tools like thermometers, rain gauges, and wind vanes to measure and record different parts of the weather, such as temperature, rainfall, and wind direction.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Scientists use tools like thermometers, rain gauges, and wind vanes to measure ___.",
+            "options": [
+              "Only the time of day, with no connection to weather",
+              "Different parts of the weather",
+              "A concept unrelated to weather at all",
+              "The number of people in a community"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rain gauge is used to measure ___.",
+            "options": [
+              "Wind direction, with no connection to rain",
+              "A concept unrelated to weather measurement",
+              "How much rain has fallen",
+              "Air temperature, with no connection to rainfall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which tool would help you find out which direction the wind is blowing?",
+            "options": [
+              "A thermometer, which measures temperature instead",
+              "A wind vane",
+              "A rain gauge, which measures rainfall instead",
+              "A tool unrelated to measuring wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for scientists to record weather measurements every day?",
+            "options": [
+              "This concept has no connection to understanding weather",
+              "Weather patterns can never be tracked using scientific tools",
+              "Daily weather measurements never provide any useful information",
+              "Tracking measurements over time can reveal patterns and help predict future weather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a thermometer placed in direct sunlight give a less accurate air temperature reading?",
+            "options": [
+              "This concept has no relevance to accurately measuring weather",
+              "Thermometers always give the exact same reading no matter where they are placed",
+              "Sunlight never affects how a thermometer measures temperature",
+              "Direct sunlight can heat the thermometer itself, making the reading higher than the actual air temperature"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Elections Work: Voting for Leaders",
+        "summary": "Grade 3 Social Studies strand: an election is a process where citizens vote to choose their leaders, and the candidate who receives the most votes is usually the one who wins.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "An election is a process where citizens vote to choose their ___.",
+            "options": [
+              "A concept unrelated to government",
+              "Favourite sports team, with no connection to government",
+              "Weather forecast for the week",
+              "Leaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In most elections, the candidate who receives the most votes is usually the one who ___.",
+            "options": [
+              "Wins",
+              "Is disqualified from participating further",
+              "A concept unrelated to how elections work",
+              "Automatically loses, regardless of the vote count"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of something citizens might do during an election?",
+            "options": [
+              "Choose a leader with no voting process at all",
+              "Ignore the election entirely with no involvement",
+              "A concept unrelated to participating in an election",
+              "Cast a vote for their preferred candidate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might it be important for many citizens to vote in an election?",
+            "options": [
+              "Voting has no effect on who is chosen as a leader",
+              "Elections are decided with no connection to how citizens vote",
+              "A larger number of voters helps ensure the outcome reflects the views of more people in the community",
+              "This concept has no relevance to understanding government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do communities hold elections instead of simply choosing a leader without any input from citizens?",
+            "options": [
+              "Choosing a leader without any voting process is always the same as holding an election",
+              "Elections have no connection to how citizens are represented",
+              "This concept has no relevance to social studies learning",
+              "Elections allow citizens to have a say in who represents and makes decisions for them"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Homophones",
+        "summary": "Grade 3 Language strand: homophones are words that sound the same but have different spellings and different meanings, such as “their,” “there,” and “they’re.”",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Homophones are words that sound the same but have different ___.",
+            "options": [
+              "Number of syllables exclusively, with no connection to meaning",
+              "Spellings and meanings",
+              "Lengths, with no connection to spelling or meaning",
+              "A concept unrelated to how words sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of words are homophones?",
+            "options": [
+              "Flower and flour",
+              "Big and small",
+              "Happy and sad",
+              "A pair of words unrelated in sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence “___ going to the park,” which homophone correctly completes the sentence?",
+            "options": [
+              "A word unrelated to any of these homophones",
+              "Their",
+              "They’re",
+              "There"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might homophones sometimes be tricky for writers to use correctly?",
+            "options": [
+              "Even though they sound identical, using the wrong spelling changes the sentence’s meaning",
+              "Homophones are always spelled exactly the same way",
+              "Homophones never cause any confusion in writing",
+              "This concept has no connection to correct spelling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to think about a sentence’s meaning when choosing between homophones like “to,” “too,” and “two”?",
+            "options": [
+              "This concept has no relevance to writing clearly",
+              "Meaning has no connection to choosing the correct homophone",
+              "The meaning of the sentence shows which spelling correctly fits the intended word",
+              "All three spellings can always be used interchangeably with no difference"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Subtracting Fractions with the Same Denominator",
+        "summary": "Grade 3 Math strand: to subtract fractions that have the same denominator, subtract the numerators and keep the denominator the same.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "To subtract fractions with the same denominator, subtract the numerators and ___.",
+            "options": [
+              "Subtract the denominators as well",
+              "Keep the denominator the same",
+              "A method unrelated to subtracting fractions",
+              "Multiply the denominators together instead"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 4/5 − 2/5?",
+            "options": [
+              "2/5",
+              "2/0",
+              "2/10",
+              "6/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 7/8 − 3/8?",
+            "options": [
+              "10/8",
+              "4/0",
+              "4/16",
+              "4/8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the denominator stay the same when subtracting fractions like 3/4 and 1/4?",
+            "options": [
+              "This concept has no connection to how fractions represent parts of a whole",
+              "The denominator always changes when subtracting fractions",
+              "Denominators are only used when adding fractions, never when subtracting",
+              "The denominator shows the size of the equal parts, which does not change during subtraction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a pizza is cut into 6 equal slices and 1/6 of it is eaten, how much of the pizza is left?",
+            "options": [
+              "4/6",
+              "6/6",
+              "1/6",
+              "5/6"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Weather: Clouds and Precipitation",
+        "summary": "Grade 3 Science strand: clouds form when water vapour in the air cools and turns into tiny droplets, and precipitation, such as rain, snow, or hail, happens when these droplets become too heavy to stay in the air.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Clouds form when water vapour in the air cools and turns into ___.",
+            "options": [
+              "Pure oxygen, with no connection to water vapour",
+              "Tiny droplets",
+              "Solid rock, with no connection to water",
+              "A concept unrelated to how clouds form"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Precipitation happens when water droplets in a cloud become too heavy to ___.",
+            "options": [
+              "Ever fall to the ground at all",
+              "A concept unrelated to how precipitation forms",
+              "Turn into a completely different type of matter",
+              "Stay in the air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of precipitation?",
+            "options": [
+              "Wind, which is not a form of precipitation",
+              "Sunshine, which is not a form of precipitation",
+              "Snow",
+              "A concept unrelated to weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might snow fall instead of rain during very cold weather?",
+            "options": [
+              "This concept has no connection to how precipitation forms",
+              "Temperature has no effect on the type of precipitation that falls",
+              "Cold temperatures can cause water droplets to freeze into ice crystals as they fall",
+              "Snow only ever forms during warm weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding how clouds and precipitation form useful for predicting weather?",
+            "options": [
+              "Knowing how these processes work can help explain and anticipate upcoming rain, snow, or other weather",
+              "Clouds and precipitation have no connection to predicting future weather",
+              "This concept has no relevance to understanding weather patterns",
+              "Weather can never be predicted using knowledge of clouds or precipitation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Time Zones Across Canada",
+        "summary": "Grade 3 Social Studies strand: Canada is so wide that it is divided into six time zones, meaning the time of day can be different in different parts of the country at the very same moment.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Canada is divided into six ___, meaning the time of day can differ across the country.",
+            "options": [
+              "Languages, with no connection to time differences",
+              "A concept unrelated to how Canada is organized",
+              "Provinces, with no connection to time",
+              "Time zones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada has multiple time zones because the country is very ___.",
+            "options": [
+              "A concept unrelated to Canada’s size",
+              "Cold, with no connection to its size or shape",
+              "Wide, stretching across a large distance",
+              "Small, with almost no distance from coast to coast"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If it is 3:00pm in Ontario, the time in a province further west, like British Columbia, would likely be ___.",
+            "options": [
+              "Exactly 3:00pm, with no difference at all",
+              "A concept unrelated to time zones",
+              "Later than 3:00pm",
+              "Earlier than 3:00pm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might having multiple time zones be useful for a country as large as Canada?",
+            "options": [
+              "Every part of a large country should always share the exact same time",
+              "Time zones have no connection to a country’s size or geography",
+              "This concept has no relevance to understanding Canada’s geography",
+              "It helps keep the time of day more closely matched to the actual position of the sun in each region"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone need to consider time zones when calling a friend who lives in a different part of Canada?",
+            "options": [
+              "Every phone call across Canada happens at the exact same local time",
+              "The time of day could be quite different in the other time zone, even at the same moment",
+              "Time zones never affect what time it is in another part of the country",
+              "This concept has no relevance to communicating across the country"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Postcard to a Friend",
+        "summary": "Grade 3 Language strand: a postcard is a short piece of writing that describes a place or an experience, usually including a greeting, a few interesting details, and a friendly closing.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A postcard is a short piece of writing that describes ___.",
+            "options": [
+              "Only a list of random numbers",
+              "A concept unrelated to sharing information with someone",
+              "A topic with no connection to the writer’s own experience",
+              "A place or an experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A postcard usually includes a greeting, a few interesting details, and a ___.",
+            "options": [
+              "A long list of complaints, with no friendly tone",
+              "Nothing at all, since postcards do not need an ending",
+              "Friendly closing",
+              "A concept unrelated to how a postcard ends"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of an interesting detail that might appear on a postcard from the beach?",
+            "options": [
+              "A detail entirely unrelated to a beach visit",
+              "The sand was warm and the waves were huge",
+              "A sentence with no connection to any experience",
+              "Something the writer did not actually see or do"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a postcard include only a few short sentences, rather than several paragraphs?",
+            "options": [
+              "The amount of space available has no connection to how a postcard is written",
+              "A postcard always has unlimited space for writing",
+              "A postcard has limited space, so writers must choose their most interesting details",
+              "This concept has no relevance to writing a postcard"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone send a postcard to a friend while on a trip?",
+            "options": [
+              "It is a fun way to share highlights of the trip while staying connected with someone back home",
+              "This concept has no connection to communicating with friends",
+              "Postcards are never used to share experiences with others",
+              "A postcard cannot be used to describe a trip in any way"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Sorting and Classifying Objects",
+        "summary": "Grade 3 Math strand: sorting and classifying objects means grouping them by a shared attribute, such as colour, shape, or size, which helps organize information before it is displayed in a chart or graph.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Sorting and classifying objects means grouping them by a shared ___.",
+            "options": [
+              "Random order, with no shared characteristic at all",
+              "Attribute, such as colour, shape, or size",
+              "Location on a page, with no connection to the object itself",
+              "A concept unrelated to organizing objects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of sorting a group of buttons?",
+            "options": [
+              "Grouping the buttons by colour",
+              "A method unrelated to organizing objects",
+              "Throwing the buttons away with no organization",
+              "Counting only one button and ignoring the rest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might sorting objects be a helpful first step before creating a graph?",
+            "options": [
+              "This concept has no connection to organizing data",
+              "Sorting organizes the information clearly, making it easier to count and display",
+              "A graph can only be made without any sorting or organizing beforehand",
+              "Sorting objects never helps with creating a graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a group of shapes is sorted by number of sides, which two shapes might be placed in the same group?",
+            "options": [
+              "A concept unrelated to sorting shapes",
+              "A triangle and a circle",
+              "Two shapes chosen with no attention to their properties",
+              "A square and a rectangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might two people sort the same group of objects in different ways?",
+            "options": [
+              "Objects can only ever be sorted in a single correct way",
+              "Sorting objects never depends on which attribute is chosen",
+              "This concept has no relevance to understanding data management",
+              "They may choose to group the objects by different attributes, like colour instead of size"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Structures Found in Nature",
+        "summary": "Grade 3 Science strand: many living things build natural structures, such as spider webs, bird nests, and beehives, that are specially suited to keep them safe and help them survive.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Natural structures like spider webs, bird nests, and beehives are specially suited to help living things ___.",
+            "options": [
+              "Stay safe and survive",
+              "A concept unrelated to how animals survive",
+              "Move faster than any other animal",
+              "Always be destroyed quickly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a natural structure built by an animal?",
+            "options": [
+              "A beehive",
+              "A concept unrelated to structures built by living things",
+              "A structure that no living thing has ever built",
+              "An object built entirely by humans, with no connection to nature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a spider build a web in a shape that stretches across an open space?",
+            "options": [
+              "A web’s shape has no connection to how a spider catches food",
+              "A wide web increases the chance of catching flying insects for food",
+              "This concept has no relevance to how natural structures function",
+              "Spiders never build webs to help them find food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a bird build its nest high in a tree, rather than on the ground?",
+            "options": [
+              "A higher location can help protect the nest and eggs from predators",
+              "Birds never consider safety when building a nest",
+              "The height of a nest has no connection to protecting it from predators",
+              "This concept has no relevance to understanding natural structures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might engineers sometimes study natural structures, like beehives, when designing buildings?",
+            "options": [
+              "This concept has no relevance to understanding structures",
+              "Natural structures have no connection to human-made designs",
+              "Natural structures can show strong, efficient designs that have developed over a very long time",
+              "Engineers never look to nature for ideas about building design"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Starting a Small Business: Entrepreneurs in the Community",
+        "summary": "Grade 3 Social Studies strand: an entrepreneur is a person who starts their own business, taking on the risk of the idea in the hope of providing a helpful product or service to the community.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "An entrepreneur is a person who ___.",
+            "options": [
+              "Only works for someone else’s existing business",
+              "Never takes any risks with a new idea",
+              "A concept unrelated to starting a business",
+              "Starts their own business"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An entrepreneur takes on the risk of a new idea in the hope of providing a helpful ___ to the community.",
+            "options": [
+              "Nothing at all, since businesses provide no benefit",
+              "Product or service",
+              "A concept unrelated to what a business offers",
+              "Only entertainment, with no other possible purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of something an entrepreneur might do to start a business?",
+            "options": [
+              "Ignore whether the community needs the product or service",
+              "Wait for someone else to start the business for them",
+              "Come up with an idea and figure out how to sell it",
+              "A concept unrelated to starting a business"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might starting a small business be considered a risk for an entrepreneur?",
+            "options": [
+              "This concept has no connection to understanding how businesses start",
+              "Entrepreneurs are always guaranteed success with no possible risk",
+              "There is no guarantee the business will succeed, so the entrepreneur could lose money or time",
+              "Starting a business is never risky in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a small business started by an entrepreneur benefit the local community?",
+            "options": [
+              "This concept has no connection to understanding local economies",
+              "Small businesses never provide any benefit to a community",
+              "It can provide new products, services, or jobs that help meet community needs",
+              "A small business always has a negative effect on its community"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Making Predictions",
+        "summary": "Grade 3 Language strand: making a prediction means using clues from the text, pictures, or prior knowledge to make a sensible guess about what might happen next in a story.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Making a prediction means using clues to make a sensible ___ about what might happen next.",
+            "options": [
+              "Guess",
+              "Random decision, with no connection to any clues",
+              "Rule that will always be exactly correct with no exceptions",
+              "Concept unrelated to reading a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a good source of clues a reader can use to make a prediction?",
+            "options": [
+              "Information from a completely different book",
+              "A guess with no connection to the story at all",
+              "Details already given in the story",
+              "A concept unrelated to reading a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might looking at the pictures in a book help a reader make a prediction?",
+            "options": [
+              "Pictures never provide any useful information about a story",
+              "This concept has no connection to making predictions",
+              "A reader should always ignore the pictures in a book",
+              "Pictures can show hints about characters, settings, or events that help suggest what might happen next"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a story shows dark storm clouds gathering, what might a reader predict will happen next?",
+            "options": [
+              "The weather will definitely stay perfectly sunny",
+              "A storm is likely about to happen",
+              "A concept unrelated to using clues from the story",
+              "Nothing at all will happen in the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for readers to check their predictions as they continue reading a story?",
+            "options": [
+              "A prediction should never be checked or changed once it is made",
+              "This concept has no relevance to reading comprehension",
+              "Checking predictions never helps a reader understand a story better",
+              "It helps readers stay engaged and adjust their thinking based on new information"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Reading a Calendar",
+        "summary": "Grade 3 Math strand: a calendar organizes days into weeks and months, helping people track dates, plan events, and figure out how many days are between two events.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A calendar organizes days into weeks and ___.",
+            "options": [
+              "Only hours, with no connection to days",
+              "A concept unrelated to tracking dates",
+              "Minutes, with no connection to how a calendar is organized",
+              "Months"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many days are typically in one week?",
+            "options": [
+              "30",
+              "7",
+              "10",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If today is Monday, what day will it be in 3 days?",
+            "options": [
+              "Tuesday",
+              "Thursday",
+              "Wednesday",
+              "Friday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone use a calendar to plan for an upcoming event, like a birthday party?",
+            "options": [
+              "This concept has no relevance to organizing time",
+              "Calendars are only useful for showing the current day, with no other purpose",
+              "A calendar has no connection to planning events",
+              "A calendar helps track exactly which date the event will happen and how many days remain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a school trip is on March 10th and today is March 3rd, how many days away is the trip?",
+            "options": [
+              "3 days",
+              "7 days",
+              "13 days",
+              "10 days"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Sound: How Animals Use Sound to Communicate",
+        "summary": "Grade 3 Science strand: many animals use sound to communicate, such as birds singing to attract a mate or warn of danger, and whales calling to one another across long distances underwater.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Many animals use sound to ___.",
+            "options": [
+              "Change their physical appearance permanently",
+              "A concept unrelated to how animals interact",
+              "Communicate with one another",
+              "Always stay completely silent, with no communication at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A bird might sing to attract a mate or to ___.",
+            "options": [
+              "Change the weather around it",
+              "A concept unrelated to why birds sing",
+              "Always confuse other birds with no clear purpose",
+              "Warn of danger"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of an animal using sound to communicate over a long distance?",
+            "options": [
+              "A concept unrelated to animal communication",
+              "A situation where sound has no useful purpose",
+              "A whale calling to other whales underwater",
+              "An animal that never makes any sound at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might it be useful for an animal to warn others of danger using sound?",
+            "options": [
+              "This concept has no relevance to understanding animal behaviour",
+              "A warning sound can quickly alert nearby animals to a threat, helping them stay safe",
+              "Animals never use sound to communicate about danger",
+              "Sound has no connection to warning other animals of danger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might different animals use different types of sounds to communicate?",
+            "options": [
+              "This concept has no relevance to understanding how animals communicate",
+              "Different sounds can be suited to different environments, distances, or messages",
+              "All animals always use the exact same sound to communicate every message",
+              "The type of sound an animal makes has no connection to its purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Public Transportation in Communities",
+        "summary": "Grade 3 Social Studies strand: public transportation, such as buses, subways, and trains, helps move many people around a community at once, reducing the number of cars on the road.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Public transportation, such as buses and trains, helps move many people around a community ___.",
+            "options": [
+              "One person at a time exclusively, with no other passengers",
+              "Only outside the community, never within it",
+              "A concept unrelated to moving people",
+              "At once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using public transportation can help reduce the number of ___ on the road.",
+            "options": [
+              "Buildings, which are not vehicles on the road",
+              "A concept unrelated to transportation",
+              "Pedestrians, with no connection to reducing traffic",
+              "Cars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a type of public transportation?",
+            "options": [
+              "A private car owned by a single family",
+              "A subway",
+              "A concept unrelated to moving people around a community",
+              "A form of transportation that does not actually exist"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a large city rely heavily on public transportation?",
+            "options": [
+              "This concept has no relevance to understanding urban communities",
+              "It helps move large numbers of people efficiently without requiring everyone to drive their own car",
+              "Large cities never need any form of transportation system",
+              "Public transportation has no benefit for cities with many people"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might using public transportation instead of individual cars be helpful for the environment?",
+            "options": [
+              "Moving many people together in one vehicle can reduce overall traffic and pollution compared to many separate cars",
+              "The number of vehicles on the road has no effect on the environment",
+              "This concept has no connection to understanding the environment",
+              "Public transportation always creates more pollution than individual cars"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Quotation Marks in Dialogue",
+        "summary": "Grade 3 Language strand: quotation marks show exactly which words a character is speaking out loud, helping readers tell the difference between dialogue and the rest of the story.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Quotation marks show exactly which words a character is ___.",
+            "options": [
+              "Writing in a letter, with no connection to speech",
+              "Thinking silently, with no words spoken aloud",
+              "Speaking out loud",
+              "A concept unrelated to dialogue in a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Quotation marks help readers tell the difference between dialogue and ___.",
+            "options": [
+              "Only the story’s title, with no other connection",
+              "Nothing at all, since quotation marks serve no purpose",
+              "The rest of the story",
+              "A concept unrelated to reading a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses quotation marks to show dialogue?",
+            "options": [
+              "I am ready to go, said Maya.",
+              "A sentence with no quotation marks at all around the spoken words",
+              "“I am ready to go,” said Maya.",
+              "“I am ready to go, said Maya."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use quotation marks when writing a story with characters talking to each other?",
+            "options": [
+              "Quotation marks have no connection to writing dialogue",
+              "A story can never include characters speaking to one another",
+              "This concept has no relevance to writing clear stories",
+              "It clearly shows the reader exactly which words are being spoken aloud by a character"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to place quotation marks correctly around only the spoken words in a sentence?",
+            "options": [
+              "The placement of quotation marks never affects how a sentence is understood",
+              "Placing them incorrectly could confuse the reader about what was actually said versus described",
+              "Quotation marks can be placed anywhere in a sentence with no effect on meaning",
+              "This concept has no relevance to writing clear dialogue"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Plotting Points on a Grid",
+        "summary": "Grade 3 Math strand: a grid is made of rows and columns, and a point can be located on it by using a pair of numbers or letters, such as moving across and then up.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A point can be located on a grid by using a pair of numbers or letters, such as moving across and then ___.",
+            "options": [
+              "Up",
+              "A concept unrelated to locating a point",
+              "Backward in time, with no connection to a grid",
+              "Sideways only, with no vertical movement at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a grid, moving across before moving up or down helps to ___.",
+            "options": [
+              "A concept unrelated to using a grid",
+              "Always end up in the exact same place no matter where you start",
+              "Correctly locate a specific point",
+              "Erase the grid entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you are told to move 3 spaces right and 2 spaces up on a grid, what have you been given?",
+            "options": [
+              "A rule with no connection to finding a location",
+              "Instructions for solving a subtraction problem",
+              "A concept unrelated to using a grid",
+              "Directions to locate a specific point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to move across the grid before moving up or down, rather than in a random order?",
+            "options": [
+              "This concept has no connection to correctly reading a grid",
+              "Following a consistent order helps everyone locate the same point accurately every time",
+              "A grid can never be used to locate a specific point",
+              "The order of movement on a grid never matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a grid with labelled rows and columns be useful for describing a location, like on a simple map?",
+            "options": [
+              "Labelled rows and columns have no connection to finding a location",
+              "A grid provides no useful information about location",
+              "This concept has no relevance to understanding grids",
+              "It gives a clear, consistent way to describe exactly where something is placed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Energy: Sources of Light, Natural and Artificial",
+        "summary": "Grade 3 Science strand: light can come from natural sources, like the sun and fire, or from artificial sources, like lightbulbs and flashlights that people have created.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Light can come from natural sources or from ___ sources that people have created.",
+            "options": [
+              "Only imaginary, with no connection to real light sources",
+              "Artificial",
+              "A concept unrelated to where light comes from",
+              "Underground, with no connection to how light is produced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a natural source of light?",
+            "options": [
+              "A lightbulb, which is an artificial source of light",
+              "The sun",
+              "A concept unrelated to sources of light",
+              "A flashlight, which is an artificial source of light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of an artificial source of light?",
+            "options": [
+              "A lightbulb",
+              "The sun, which is a natural source of light",
+              "A concept unrelated to sources of light",
+              "A campfire, which is a natural source of light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people rely on artificial light sources at night?",
+            "options": [
+              "Natural light from the sun is not available after it sets, so artificial sources help provide light",
+              "This concept has no connection to how people use light",
+              "The sun continues to provide light even after it sets",
+              "Artificial light sources are never needed at any time of day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a campfire be considered a natural source of light, even though people often start it themselves?",
+            "options": [
+              "The fire itself produces light through a natural burning process, unlike a manufactured device like a lightbulb",
+              "Fire never actually produces any light at all",
+              "This concept has no connection to understanding sources of light",
+              "Campfires are always classified as artificial light sources"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Community Infrastructure: Roads, Water, and Power",
+        "summary": "Grade 3 Social Studies strand: community infrastructure includes systems like roads, water pipes, and power lines that work together behind the scenes to keep a community running smoothly.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Community infrastructure includes systems like roads, water pipes, and ___ that keep a community running.",
+            "options": [
+              "A concept unrelated to how a community functions",
+              "Nothing at all, since infrastructure has no real purpose",
+              "Only decorations, with no connection to essential services",
+              "Power lines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Infrastructure systems often work ___ to keep a community running smoothly.",
+            "options": [
+              "Behind the scenes",
+              "Only during special community events, with no ongoing purpose",
+              "A concept unrelated to how a community operates",
+              "In a way that is always visible and obvious to everyone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of community infrastructure?",
+            "options": [
+              "A water pipe system bringing clean water to homes",
+              "A concept unrelated to community infrastructure",
+              "An event held once a year, with no ongoing structure",
+              "A single person’s personal opinion, with no connection to infrastructure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a community struggle if its roads were poorly maintained?",
+            "options": [
+              "A community can function perfectly well with no roads or infrastructure at all",
+              "Roads have no connection to how well a community functions",
+              "This concept has no relevance to understanding community needs",
+              "Poorly maintained roads could make it harder and less safe to travel, deliver goods, or reach services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is infrastructure like power lines important, even though many people rarely think about it?",
+            "options": [
+              "This concept has no relevance to social studies learning",
+              "It provides an essential service, like electricity, that many parts of daily life depend on",
+              "Infrastructure is never actually necessary for a community to function",
+              "Power lines have no connection to daily life in a community"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Asking Clarifying Questions",
+        "summary": "Grade 3 Language strand: a clarifying question is a question asked to better understand something that was unclear, helping a listener make sure they correctly understood what was said.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A clarifying question is asked to better understand something that was ___.",
+            "options": [
+              "Already perfectly understood, with no confusion at all",
+              "A concept unrelated to listening",
+              "Completely unrelated to the conversation",
+              "Unclear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Asking a clarifying question helps a listener make sure they ___.",
+            "options": [
+              "Correctly understood what was said",
+              "A concept unrelated to understanding a conversation",
+              "Never actually listen to the speaker at all",
+              "Change the topic completely, with no connection to what was said"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a clarifying question someone might ask after receiving confusing instructions?",
+            "options": [
+              "Could you explain that step again, please?",
+              "A statement unrelated to asking for clarification",
+              "Comment with no question involved at all",
+              "A question with no connection to understanding instructions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might asking a clarifying question be helpful during a class discussion?",
+            "options": [
+              "This concept has no relevance to effective communication",
+              "It can prevent misunderstandings by making sure everyone has the same, correct understanding",
+              "Clarifying questions never help with understanding a discussion",
+              "Asking questions during a discussion is never appropriate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it be better to ask a clarifying question rather than guessing what someone meant?",
+            "options": [
+              "Guessing is always more accurate than asking a clarifying question",
+              "Clarifying questions never lead to a better understanding of a conversation",
+              "Guessing could lead to a misunderstanding, while asking ensures accurate understanding",
+              "This concept has no connection to effective oral communication"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Patterns on a Hundred Chart",
+        "summary": "Grade 3 Math strand: a hundred chart arranges the numbers 1 to 100 in rows of ten, and this arrangement makes visual patterns, like skip counting or multiples, easier to see.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "A hundred chart arranges the numbers 1 to 100 in rows of ___.",
+            "options": [
+              "A concept unrelated to how numbers are arranged",
+              "Two, with no connection to a hundred chart’s structure",
+              "Ten",
+              "One hundred, with no connection to smaller rows"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a hundred chart, the numbers directly below one another differ by ___.",
+            "options": [
+              "10",
+              "A value unrelated to the chart’s structure",
+              "100",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you highlight every multiple of 5 on a hundred chart, what pattern would you likely see?",
+            "options": [
+              "A straight, evenly spaced pattern going down and across the chart",
+              "No pattern would ever appear on a hundred chart",
+              "A concept unrelated to visualizing multiples",
+              "A completely random and unpredictable arrangement of highlighted numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a hundred chart make it easier to spot patterns in skip counting?",
+            "options": [
+              "Skip counting patterns can never be shown using a hundred chart",
+              "The organized rows and columns make repeated jumps in number easy to see visually",
+              "A hundred chart has no connection to visualizing number patterns",
+              "This concept has no relevance to understanding number patterns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a hundred chart be a useful tool for a student who is still learning multiplication facts?",
+            "options": [
+              "A hundred chart has no connection to learning multiplication",
+              "Multiplication facts can never be supported using a visual tool like a hundred chart",
+              "This concept has no relevance to understanding math patterns",
+              "Seeing the visual pattern of multiples can help reinforce and support understanding of multiplication"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Classifying Animals: Vertebrates and Invertebrates",
+        "summary": "Grade 3 Science strand: animals can be classified as vertebrates, which have a backbone, or invertebrates, which do not have a backbone, such as insects and worms.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Animals can be classified as vertebrates, which have a ___.",
+            "options": [
+              "Shell, with no connection to a backbone",
+              "Concept unrelated to how animals are classified",
+              "Set of wings, with no connection to having a backbone",
+              "Backbone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Invertebrates are animals that ___.",
+            "options": [
+              "Can never be classified in any way",
+              "A concept unrelated to animal classification",
+              "Do not have a backbone",
+              "Always have a backbone, with no exceptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of an invertebrate?",
+            "options": [
+              "A dog, which has a backbone",
+              "A fish, which has a backbone",
+              "A worm",
+              "A concept unrelated to classifying animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists use the presence or absence of a backbone to help classify animals?",
+            "options": [
+              "A backbone has no connection to how animals are classified",
+              "It is a clear, shared physical feature that groups animals into two broad, useful categories",
+              "Classifying animals never depends on any physical feature",
+              "This concept has no relevance to understanding animal classification"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might insects, despite being very different from worms, still both be classified as invertebrates?",
+            "options": [
+              "Classifying animals never considers whether they have a backbone",
+              "This concept has no connection to how animals are grouped",
+              "Neither insects nor worms have a backbone, which is the shared feature used for this classification",
+              "Insects and worms are always classified into two completely separate categories"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Preserving Ontario’s Historic Buildings and Sites",
+        "summary": "Grade 3 Social Studies strand: Ontario has many historic buildings and sites that communities work to preserve, protecting these places so future generations can learn about the past.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Communities work to preserve historic buildings and sites, protecting these places so ___ can learn about the past.",
+            "options": [
+              "Only the people who built the site originally",
+              "Future generations",
+              "A concept unrelated to protecting historic places",
+              "No one at all, since preservation serves no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A historic building or site is one that has ___.",
+            "options": [
+              "No connection to any past event or time period",
+              "An important connection to the past",
+              "Only been built within the last year",
+              "A concept unrelated to history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of something a community might do to preserve a historic building?",
+            "options": [
+              "Ignore the building until it eventually falls apart",
+              "A concept unrelated to preserving historic places",
+              "Repair and maintain it carefully instead of tearing it down",
+              "Replace the building entirely with something brand new"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a community choose to preserve an old building instead of replacing it with something new?",
+            "options": [
+              "The building may hold important historical or cultural value that would be lost if it were removed",
+              "Historic buildings have no connection to a community’s past",
+              "This concept has no relevance to understanding heritage",
+              "Preserving old buildings never has any value to a community"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is learning about historic buildings and sites valuable for students studying Ontario’s past?",
+            "options": [
+              "These places can offer real, physical connections to how people lived and worked long ago",
+              "Learning about historic sites has no relevance to social studies",
+              "Historic buildings provide no useful information about the past",
+              "This concept has no connection to understanding Ontario’s history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing Riddles and Jokes",
+        "summary": "Grade 3 Language strand: a riddle is a puzzling question with a clever answer, and a joke often uses wordplay or a surprising twist to make the audience laugh.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A riddle is a puzzling question with a ___ answer.",
+            "options": [
+              "Completely obvious answer with no cleverness involved",
+              "Answer that has no connection to the question at all",
+              "A concept unrelated to solving a puzzle",
+              "Clever"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A joke often uses wordplay or a ___ to make the audience laugh.",
+            "options": [
+              "A completely predictable, boring ending",
+              "A serious, sad ending with no humour at all",
+              "Surprising twist",
+              "A concept unrelated to humour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a riddle?",
+            "options": [
+              "A concept unrelated to puzzling questions",
+              "A statement with a completely obvious, unclever answer",
+              "What has hands but cannot clap? A clock.",
+              "A sentence with no question or answer at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a good riddle keep its answer hidden until the very end?",
+            "options": [
+              "This concept has no relevance to writing an engaging riddle",
+              "Hiding the answer has no connection to how a riddle works",
+              "A riddle should always reveal its answer at the very beginning",
+              "Keeping the answer hidden builds curiosity and makes solving the riddle more fun and surprising"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does wordplay, like using a word with two meanings, often make a joke funny?",
+            "options": [
+              "A joke can never use more than one meaning of a word",
+              "This concept has no relevance to understanding humour in writing",
+              "Wordplay never has any connection to what makes a joke funny",
+              "The unexpected second meaning creates a surprising twist that makes the audience laugh"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Comparing and Ordering Length, Mass, and Capacity",
+        "summary": "Grade 3 Math strand: comparing and ordering measurements means arranging objects from least to greatest, or greatest to least, based on their length, mass, or capacity.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Comparing and ordering measurements means arranging objects from least to greatest, or ___.",
+            "options": [
+              "A concept unrelated to measurement",
+              "Only alphabetically, with no connection to size",
+              "Randomly, with no particular order at all",
+              "Greatest to least"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a pencil is 15 cm long and a marker is 12 cm long, which object has the greater length?",
+            "options": [
+              "The pencil",
+              "The marker",
+              "Length cannot be compared between these two objects",
+              "Both objects are exactly the same length"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When ordering objects by mass from lightest to heaviest, which should be listed first?",
+            "options": [
+              "The object that was measured most recently",
+              "A concept unrelated to ordering by mass",
+              "The object with the smallest mass",
+              "The object with the largest mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to use the same unit of measurement when comparing the length of two different objects?",
+            "options": [
+              "The unit of measurement used never affects how objects are compared",
+              "Using the same unit allows for a fair and accurate comparison between the two objects",
+              "Objects can always be compared accurately even using completely different units",
+              "This concept has no relevance to comparing measurements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If three containers hold 2 litres, 5 litres, and 3 litres of water, what is the correct order from least to greatest capacity?",
+            "options": [
+              "3 litres, 2 litres, 5 litres",
+              "2 litres, 3 litres, 5 litres",
+              "5 litres, 3 litres, 2 litres",
+              "2 litres, 5 litres, 3 litres"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Earth’s Layers: Crust, Mantle, and Core",
+        "summary": "Grade 3 Science strand: the Earth is made up of layers, including the crust on the outside, the mantle beneath it, and the core at the very centre of the planet.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "The Earth is made up of layers, including the crust, the mantle, and the ___.",
+            "options": [
+              "A concept unrelated to the structure of the Earth",
+              "Ocean, with no connection to the Earth’s internal structure",
+              "Atmosphere, with no connection to the Earth’s internal layers",
+              "Core"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The crust is the layer of the Earth found ___.",
+            "options": [
+              "At the very centre of the planet",
+              "On the outside",
+              "A concept unrelated to the Earth’s layers",
+              "Floating above the Earth’s surface, with no connection to it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which layer of the Earth is found at the very centre of the planet?",
+            "options": [
+              "A concept unrelated to the Earth’s structure",
+              "The core",
+              "The mantle, which is found beneath the crust",
+              "The crust, which is the outermost layer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the crust considered the layer of the Earth that people are most familiar with?",
+            "options": [
+              "This concept has no relevance to understanding the Earth’s layers",
+              "People never interact with the Earth’s crust in any way",
+              "It is the outer layer where people live, build, and walk on every day",
+              "The crust has no connection to daily life on Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists find it difficult to directly study the Earth’s core?",
+            "options": [
+              "This concept has no relevance to understanding Earth’s structure",
+              "The core is located right at the surface of the Earth, making it easy to study",
+              "Scientists have no interest in studying the Earth’s internal layers",
+              "The core is located extremely deep beneath the surface, making it very hard to reach directly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ontario’s Farmland and Agriculture Today",
+        "summary": "Grade 3 Social Studies strand: agriculture is an important part of Ontario’s economy today, with farmland used to grow crops and raise animals that provide food for communities across the province.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Farmland in Ontario is used to grow crops and raise animals that provide ___ for communities.",
+            "options": [
+              "Food",
+              "Nothing useful at all, since farms serve no purpose",
+              "Only decorations, with no connection to farming",
+              "A concept unrelated to what farms produce"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Agriculture is an important part of Ontario’s ___ today.",
+            "options": [
+              "Economy",
+              "A concept unrelated to how Ontario supports itself",
+              "Weather system, with no connection to farming",
+              "Government structure, with no connection to farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a crop that might be grown on Ontario farmland?",
+            "options": [
+              "A concept unrelated to farming or agriculture",
+              "A material that cannot be grown on farmland",
+              "An item unrelated to food production",
+              "Corn"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might farmland be considered an important resource for a province like Ontario?",
+            "options": [
+              "It allows the province to produce food for its own communities and potentially for other places too",
+              "This concept has no relevance to understanding Ontario’s economy",
+              "Farmland has no connection to producing food or supporting an economy",
+              "Provinces never need farmland to support their communities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might farmers in Ontario need to consider factors like soil quality and weather when growing crops?",
+            "options": [
+              "Soil quality and weather have no effect on farming success",
+              "Crops always grow the exact same way no matter the conditions",
+              "This concept has no relevance to understanding agriculture",
+              "These factors can significantly affect how well crops grow and how much food is produced"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Text Structure — Problem and Solution",
+        "summary": "Grade 3 Language strand: some non-fiction texts are organized using a problem-and-solution structure, where the text first describes a problem and then explains one or more ways it might be solved.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A problem-and-solution text structure first describes a problem and then explains ___.",
+            "options": [
+              "Nothing further, since the text always ends at the problem",
+              "Only another, different problem, with no solution given",
+              "One or more ways it might be solved",
+              "A completely unrelated topic with no connection to the problem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a problem that might be described in a problem-and-solution text?",
+            "options": [
+              "Litter is polluting a local park",
+              "A concept unrelated to identifying a problem",
+              "A topic that has no connection to problem-solving",
+              "A sentence with no issue described at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use a problem-and-solution structure to organize information about pollution?",
+            "options": [
+              "This structure never helps organize information about an issue",
+              "This concept has no relevance to understanding non-fiction texts",
+              "A problem-and-solution structure has no connection to informational writing",
+              "It clearly shows both the issue and possible ways people could help address it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful for a reader to recognize a problem-and-solution structure while reading?",
+            "options": [
+              "A problem-and-solution structure has no connection to reading comprehension",
+              "This concept has no relevance to understanding non-fiction texts",
+              "Recognizing text structure never helps a reader understand a text",
+              "It helps the reader understand how the information in the text is organized and connected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which signal word might suggest a text is using a problem-and-solution structure?",
+            "options": [
+              "Solution",
+              "A word entirely unrelated to organizing a text",
+              "A concept unrelated to how texts are structured",
+              "A word that only ever appears in a story with no informational purpose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Doubling and Halving Strategy",
+        "summary": "Grade 3 Math strand: the doubling and halving strategy makes some multiplication problems easier by doubling one factor and halving the other, since this keeps the product the same.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "The doubling and halving strategy makes multiplication easier by doubling one factor and ___ the other.",
+            "options": [
+              "A concept unrelated to changing factors in multiplication",
+              "Also doubling, with no connection to halving",
+              "Halving",
+              "Multiplying, with no connection to halving a number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the doubling and halving strategy, 16 × 5 can be rewritten as ___.",
+            "options": [
+              "32 × 2.5",
+              "16 × 10",
+              "8 × 10",
+              "8 × 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does doubling one factor and halving the other keep the product the same?",
+            "options": [
+              "The increase from doubling one number balances out the decrease from halving the other",
+              "This strategy has no connection to how multiplication works",
+              "Doubling and halving always change the final product",
+              "The product always changes no matter how the factors are adjusted"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the doubling and halving strategy, what is 14 × 5 rewritten as an easier problem?",
+            "options": [
+              "7 × 5",
+              "14 × 10",
+              "7 × 10",
+              "28 × 10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the doubling and halving strategy be especially useful when one factor is an even number close to a friendly number like 10 or 20?",
+            "options": [
+              "Halving an even number often creates a simpler, more manageable multiplication problem",
+              "This strategy is never useful for solving multiplication problems",
+              "This concept has no connection to choosing helpful multiplication strategies",
+              "Even numbers can never be halved evenly"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Technology Inspired by Nature (Biomimicry)",
+        "summary": "Grade 3 Science strand: biomimicry means designing new technology by imitating ideas found in nature, such as designing swimsuits inspired by shark skin or building materials inspired by spider silk.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Biomimicry means designing new technology by ___ ideas found in nature.",
+            "options": [
+              "Imitating",
+              "Destroying, with no connection to design or invention",
+              "A concept unrelated to inventing new technology",
+              "Completely ignoring, with no connection to nature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of biomimicry?",
+            "options": [
+              "A swimsuit designed to imitate the texture of shark skin",
+              "An invention with no connection to any living thing",
+              "A concept unrelated to nature-inspired design",
+              "A technology that has never been inspired by nature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might engineers study spider silk when trying to design a new strong material?",
+            "options": [
+              "This concept has no relevance to understanding biomimicry",
+              "Engineers never look to nature when designing new materials",
+              "Spider silk has no useful properties that could inspire new materials",
+              "Spider silk is naturally very strong and lightweight, offering useful ideas for new designs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is biomimicry considered a useful approach to solving design problems?",
+            "options": [
+              "Nature has no useful solutions that could help with human design problems",
+              "Biomimicry never actually leads to any useful inventions",
+              "Nature has developed many effective solutions over a very long time that people can learn from",
+              "This concept has no relevance to understanding technology and science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a builder study how honeycomb is structured when designing a lightweight but strong material?",
+            "options": [
+              "This concept has no relevance to understanding biomimicry",
+              "A honeycomb’s hexagonal pattern is naturally strong while using very little material",
+              "Studying nature never provides any useful engineering ideas",
+              "Honeycomb structures have no connection to strength or building design"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada’s Currency: Coins and Bills",
+        "summary": "Grade 3 Social Studies strand: Canada’s currency includes coins, like the loonie and toonie, and paper bills, each showing important Canadian symbols and images.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s currency includes coins and ___.",
+            "options": [
+              "Nothing else, since coins are the only form of currency",
+              "Paper bills",
+              "Only foreign money, with no connection to Canada",
+              "A concept unrelated to Canadian money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian one-dollar coin is commonly called the ___.",
+            "options": [
+              "Dime, which is a much smaller coin",
+              "Loonie",
+              "A concept unrelated to Canadian currency",
+              "Toonie, which is the two-dollar coin instead"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canadian coins and bills often show important ___.",
+            "options": [
+              "Only random, unrelated pictures",
+              "A concept unrelated to Canadian identity",
+              "Canadian symbols and images",
+              "Foreign symbols with no connection to Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canadian currency feature images of important people, places, or symbols?",
+            "options": [
+              "Currency images have no connection to a country’s identity",
+              "Canadian currency never includes any meaningful images or symbols",
+              "These images can represent and celebrate parts of Canada’s history, identity, and achievements",
+              "This concept has no relevance to understanding Canadian culture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for students to learn about the different forms of Canadian currency?",
+            "options": [
+              "Learning about currency provides no useful understanding of Canada",
+              "Currency has no connection to everyday life in Canada",
+              "It helps build understanding of how money is used and represented in Canada",
+              "This concept has no relevance to social studies learning"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Idioms, Grammar, and Reading Strategies",
+        "summary": "Grade 3 Language strand review: this lesson revisits idioms and expressions, contractions, homophones, quotation marks in dialogue, and making predictions while reading.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "The idiom “it’s raining cats and dogs” really means ___.",
+            "options": [
+              "The weather is calm and sunny",
+              "It is raining very hard",
+              "Cats and dogs are falling from the sky",
+              "A phrase unrelated to weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The contraction “don’t” is a shortened form of ___.",
+            "options": [
+              "A phrase unrelated to “don’t”",
+              "Does not",
+              "Did not",
+              "Do not"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of words are homophones?",
+            "options": [
+              "Big and small",
+              "Flower and flour",
+              "A pair of words unrelated in sound",
+              "Happy and sad"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Making a prediction means using clues to make a sensible ___ about what might happen next.",
+            "options": [
+              "Concept unrelated to reading a story",
+              "Random decision, with no connection to any clues",
+              "Guess",
+              "Rule that will always be exactly correct with no exceptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review reading and language skills like idioms, contractions, and predictions together?",
+            "options": [
+              "These skills have no connection to each other",
+              "Review is never useful for language learning",
+              "Each skill must always be learned with no connection to any other",
+              "These skills all help readers understand language and texts more deeply"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Division, Fractions, and Multiplication Strategies",
+        "summary": "Grade 3 Math strand review: this lesson revisits division with remainders, multiplying multiples of ten, subtracting fractions with the same denominator, and the doubling and halving strategy.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 13 ÷ 4, including the remainder?",
+            "options": [
+              "4 remainder 1",
+              "3 remainder 1",
+              "3 remainder 2",
+              "4 remainder 0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 3 × 20?",
+            "options": [
+              "23",
+              "6",
+              "60",
+              "600"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 4/5 − 2/5?",
+            "options": [
+              "2/5",
+              "2/10",
+              "2/0",
+              "6/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the doubling and halving strategy, 16 × 5 can be rewritten as ___.",
+            "options": [
+              "16 × 10",
+              "32 × 2.5",
+              "8 × 10",
+              "8 × 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review division, fractions, and multiplication strategies together?",
+            "options": [
+              "These related math skills reinforce each other for a stronger overall understanding",
+              "Each topic must be learned in complete isolation",
+              "Review is never useful in math",
+              "These topics have no connection to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Simple Machines, Weather, and Earth Science",
+        "summary": "Grade 3 Science strand review: this lesson revisits the screw and wedge, weather instruments, vertebrates and invertebrates, and Earth’s layers.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "A screw is a simple machine made from an inclined plane wrapped around a ___.",
+            "options": [
+              "Pole",
+              "A concept unrelated to simple machines",
+              "Wheel, which is a completely different simple machine",
+              "Flat surface, with no connection to a pole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rain gauge is used to measure ___.",
+            "options": [
+              "A concept unrelated to weather measurement",
+              "Wind direction, with no connection to rain",
+              "Air temperature, with no connection to rainfall",
+              "How much rain has fallen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Invertebrates are animals that ___.",
+            "options": [
+              "Do not have a backbone",
+              "Always have a backbone, with no exceptions",
+              "A concept unrelated to animal classification",
+              "Can never be classified in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Earth is made up of layers, including the crust, the mantle, and the ___.",
+            "options": [
+              "Ocean, with no connection to the Earth’s internal structure",
+              "Atmosphere, with no connection to the Earth’s internal layers",
+              "A concept unrelated to the structure of the Earth",
+              "Core"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review machines, weather, and Earth’s structure together?",
+            "options": [
+              "Review is never useful in science",
+              "It reinforces how these science concepts each help explain the physical world around us",
+              "These topics have no connection to each other",
+              "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Government, Geography, and Economy",
+        "summary": "Grade 3 Social Studies strand review: this lesson revisits Canada’s provinces and capitals, elections, entrepreneurs, and Ontario’s farmland and agriculture.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the capital city of Ontario?",
+            "options": [
+              "Montreal",
+              "Toronto",
+              "Vancouver",
+              "Ottawa"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An election is a process where citizens vote to choose their ___.",
+            "options": [
+              "A concept unrelated to government",
+              "Leaders",
+              "Favourite sports team, with no connection to government",
+              "Weather forecast for the week"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An entrepreneur is a person who ___.",
+            "options": [
+              "Only works for someone else’s existing business",
+              "A concept unrelated to starting a business",
+              "Starts their own business",
+              "Never takes any risks with a new idea"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Farmland in Ontario is used to grow crops and raise animals that provide ___ for communities.",
+            "options": [
+              "Food",
+              "Nothing useful at all, since farms serve no purpose",
+              "A concept unrelated to what farms produce",
+              "Only decorations, with no connection to farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review government, economy, and geography topics together at this point in the year?",
+            "options": [
+              "Bringing lessons together never provides any additional understanding",
+              "These topics have no meaningful connection to each other",
+              "It helps students see how these different aspects of Canada and Ontario connect and support one another",
+              "Each topic must always be learned with no connection to any other"
+            ],
+            "answer": 2
           }
         ]
       }
