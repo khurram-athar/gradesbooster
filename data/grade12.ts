@@ -1190,6 +1190,15 @@ const curriculum: DayContent[] = [
      {q:"A student who has done well in Grade 12 mathematics should feel ___.", options:["that they have developed genuine mathematical power","that they have exhausted mathematics","that mathematics is now fully mastered","that mathematics is only useful for specialists"], answer:0},
      {q:"Looking ahead, Grade 12 mathematics graduates who pursue further study will discover ___.", options:["that all mathematics has now been discovered","that first-year university mathematics is the same as Grade 12","that mathematics is a vast, living field of inquiry","that mathematics becomes less interesting at university"], answer:2}
    ]},
+  {subject:"Calculus", title:"Grade 12 Calculus: Final Day", summary:"Students celebrate completing Grade 12 Calculus, having built the tools of differential and integral calculus that Newton and Leibniz used to describe a changing universe.",
+   resourceLabel:"3Blue1Brown: Essence of Calculus", resourceUrl:"https://www.youtube.com/watch?v=WUvTyaaNkzM",
+   quiz:[
+     {q:"Grade 12 Calculus has given you the tools to describe ___.", options:["A changing universe -- rates of change and accumulation","Only static, unchanging quantities","Only algebraic manipulation with no application","Only geometric shapes and their areas"], answer:0},
+     {q:"Newton and Leibniz, who independently developed calculus, were driven by ___.", options:["Only a desire to pass examinations","Only abstract number theory with no application","The need to describe motion and continuous change","Only geometry problems involving triangles"], answer:2},
+     {q:"The Fundamental Theorem of Calculus reveals that ___.", options:["Differentiation and integration are unrelated operations","Differentiation and integration are inverse operations","Only integration is ever useful in practice","Only differentiation is ever useful in practice"], answer:1},
+     {q:"A student who has completed Grade 12 Calculus should feel ___.", options:["That calculus is now fully exhausted as a subject","That calculus has no further applications to learn","That calculus was only an academic exercise","Prepared to model change in science, economics, and engineering"], answer:3},
+     {q:"Looking ahead, the ideas of limits, derivatives, and integrals learned this year will ___.", options:["Resurface, deepened, throughout further mathematics and science study","Be replaced entirely by new methods at university","Have no connection to first-year university courses","Only matter for students continuing in pure mathematics"], answer:0}
+   ]},
   {subject:"Physics", title:"Grade 12 Physics: Final Day", summary:"Students celebrate completing Grade 12 Physics and look ahead to university and the world of physics.",
    resourceLabel:"Crash Course Physics: Celebration", resourceUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
    quiz:[
