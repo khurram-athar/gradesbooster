@@ -4004,6 +4004,7 @@
         "summary": "Students draw and interpret nets of 3D solids and calculate surface area of composite solids.",
         "resourceLabel": "YouTube: Geometry: 3D Solids — Nets and Surface Area",
         "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%203D%20Solids%20%E2%80%94%20Nets%20and%20Surface%20Area%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=mtMNvnm71Z0",
         "quiz": [
           {
             "q": "A net of a 3D solid is ___.",
@@ -4063,6 +4064,7 @@
         "summary": "Students examine two body systems in depth — cardiovascular and nervous — exploring their structures, functions, and interactions.",
         "resourceLabel": "YouTube: Cells: Organ Systems in Detail",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cells%3A%20Organ%20Systems%20in%20Detail%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=8Z1C7B98KEY",
         "quiz": [
           {
             "q": "The heart pumps blood through ___.",
@@ -4305,6 +4307,7 @@
         "summary": "Students explore how modern telescopes work, the electromagnetic spectrum beyond visible light, and how optical technology has transformed astronomy.",
         "resourceLabel": "YouTube: Optics: Telescopes and Modern Technology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Optics%3A%20Telescopes%20and%20Modern%20Technology%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5v7bN13PjZ8",
         "quiz": [
           {
             "q": "The Hubble Space Telescope operates in space to avoid ___.",
@@ -12159,6 +12162,2426 @@
               "These topics have no meaningful connections"
             ],
             "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Symbolism in Literature",
+        "summary": "Grade 8 Reading strand: symbolism is a literary device in which an object, person, or colour represents a deeper idea beyond its literal meaning, adding layers of meaning to a text.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Symbolism is a literary device in which ___.",
+            "options": [
+              "A concept unrelated to literary devices",
+              "An object or image represents a deeper idea beyond its literal meaning",
+              "Every word in a text is taken only at face value",
+              "A story contains no hidden or deeper meaning at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a common symbol in literature?",
+            "options": [
+              "A concept unrelated to symbolism",
+              "A character’s literal grocery list",
+              "A dove representing peace",
+              "A footnote citing a source"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use symbolism instead of stating an idea directly?",
+            "options": [
+              "Authors never use symbolism for any purpose",
+              "Symbolism always makes a text less meaningful",
+              "A reason unrelated to literary analysis",
+              "It allows readers to engage more deeply by uncovering meaning themselves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can a reader identify a possible symbol in a text?",
+            "options": [
+              "By noticing an object or image that recurs or is given special emphasis",
+              "Symbols never repeat or receive any special emphasis",
+              "A concept unrelated to identifying symbols",
+              "Symbols are always explicitly labelled by the author"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding symbolism useful when analyzing a novel’s themes?",
+            "options": [
+              "Symbols often reinforce or reveal a text’s central themes",
+              "Themes and symbols are always completely unrelated to each other",
+              "Symbolism has no connection to a text’s themes",
+              "A reason unrelated to reading comprehension"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Graphing Systems of Linear Inequalities",
+        "summary": "Grade 8 Math strand (pre-high-school extension): graphing a system of linear inequalities involves shading the solution region for each inequality, where the overlapping shaded area represents all solutions that satisfy every inequality at once.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Graphing a linear inequality involves shading ___.",
+            "options": [
+              "A concept unrelated to graphing inequalities",
+              "The entire graph regardless of the inequality",
+              "Only the single line itself, with no shading",
+              "The region of the graph that contains all solutions to the inequality"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a system of linear inequalities, the solution region is ___.",
+            "options": [
+              "A concept unrelated to systems of inequalities",
+              "The area with no shading of any kind",
+              "Any area shaded by at least one inequality",
+              "The area where the shaded regions of all inequalities overlap"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A solid line on a graph of an inequality indicates ___.",
+            "options": [
+              "A concept unrelated to graphing inequalities",
+              "The points on the line are included in the solution",
+              "The points on the line are never included in the solution",
+              "There is no solution to the inequality at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A dashed line on a graph of an inequality indicates ___.",
+            "options": [
+              "The points on the line are always included in the solution",
+              "A concept unrelated to graphing inequalities",
+              "The points on the line are not included in the solution",
+              "The inequality has no boundary line at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a business use a system of linear inequalities to model a real-world problem?",
+            "options": [
+              "Systems of inequalities have no real-world applications",
+              "It can represent multiple limiting conditions, like budget and time, at once",
+              "A reason unrelated to systems of inequalities",
+              "A single inequality always models every real-world situation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Plate Tectonics and Earthquakes",
+        "summary": "Grade 8 Science strand: plate tectonics describes how Earth’s crust is divided into large plates that slowly move, and the sudden release of built-up stress along plate boundaries causes earthquakes.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Plate tectonics describes how ___.",
+            "options": [
+              "The atmosphere circulates around the planet",
+              "Earth’s crust never moves or changes at all",
+              "Earth’s crust is divided into large plates that slowly move",
+              "A concept unrelated to plate tectonics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Earthquakes are typically caused by ___.",
+            "options": [
+              "Changes in ocean temperature alone",
+              "A cause unrelated to earthquakes",
+              "The rotation of Earth on its axis",
+              "The sudden release of built-up stress along plate boundaries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A fault line is best described as ___.",
+            "options": [
+              "A fracture in Earth’s crust where movement can occur",
+              "A region with no connection to earthquakes",
+              "An area where no tectonic activity ever occurs",
+              "A concept unrelated to plate tectonics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do earthquakes often occur near plate boundaries?",
+            "options": [
+              "Plate boundaries have no connection to earthquake activity",
+              "Stress builds up as plates grind, collide, or slide past one another",
+              "A reason unrelated to plate tectonics",
+              "Earthquakes only occur far away from any plate boundary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study plate tectonics when assessing earthquake risk?",
+            "options": [
+              "Earthquake risk cannot be assessed using any scientific method",
+              "Plate tectonics has no connection to earthquake risk",
+              "It helps identify regions where stress is likely to build and be released",
+              "A reason unrelated to earth science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Acadian Expulsion (Le Grand Dérangement)",
+        "summary": "Grade 8 History strand: the Acadian Expulsion was the forced removal of thousands of French-speaking Acadians from their homes in the Maritimes by the British in the mid-1700s, causing widespread suffering and displacement.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Acadian Expulsion refers to the forced removal of ___.",
+            "options": [
+              "Indigenous peoples from the Prairies",
+              "British settlers from Upper Canada",
+              "A group unrelated to the Acadian Expulsion",
+              "French-speaking Acadians from their homes in the Maritimes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Acadian Expulsion was carried out by ___.",
+            "options": [
+              "The British",
+              "The government of the United States",
+              "The French government",
+              "A group unrelated to the Acadian Expulsion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Acadian Expulsion took place primarily during ___.",
+            "options": [
+              "The mid-1700s",
+              "A time period unrelated to the Acadian Expulsion",
+              "The late 1800s",
+              "The early 1900s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why were Acadians expelled from their homes, according to British authorities at the time?",
+            "options": [
+              "The expulsion had no connection to any conflict",
+              "A reason unrelated to the Acadian Expulsion",
+              "Concerns over Acadian loyalty during conflict with France",
+              "Acadians had voluntarily requested to leave the region"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Acadian Expulsion still remembered as a significant event in Canadian history?",
+            "options": [
+              "The event had no lasting impact on any communities",
+              "It is remembered only as a minor and forgettable event",
+              "A reason unrelated to its historical significance",
+              "It caused immense suffering and permanently reshaped Acadian communities"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Active and Passive Voice",
+        "summary": "Grade 8 Language strand: in active voice, the subject performs the action, while in passive voice, the subject receives the action, often shifting emphasis or omitting who performed it.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "In active voice, the subject ___.",
+            "options": [
+              "Never appears in the sentence at all",
+              "Receives the action",
+              "Performs the action",
+              "A concept unrelated to voice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In passive voice, the subject ___.",
+            "options": [
+              "Receives the action",
+              "Always performs multiple actions at once",
+              "Performs the action",
+              "A concept unrelated to voice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is written in active voice?",
+            "options": [
+              "The dog chased the ball.",
+              "The ball was chased by the dog.",
+              "A sentence unrelated to voice",
+              "The ball has been chased."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is written in passive voice?",
+            "options": [
+              "A sentence unrelated to voice",
+              "The committee wrote the report.",
+              "The report was written by the committee.",
+              "The committee is writing the report."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose passive voice in a sentence?",
+            "options": [
+              "To emphasize the action or result rather than who performed it",
+              "Passive voice is never used for any reason",
+              "A reason unrelated to grammar",
+              "Active voice always accomplishes the exact same purpose as passive voice"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Discriminant and the Nature of Roots",
+        "summary": "Grade 8 Math strand (pre-high-school extension): the discriminant, b² - 4ac, reveals whether a quadratic equation has two real roots, one real root, or no real roots.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The discriminant of a quadratic equation is calculated as ___.",
+            "options": [
+              "A formula unrelated to the discriminant",
+              "a + b + c",
+              "b² - 4ac",
+              "b² + 4ac"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the discriminant is positive, the quadratic equation has ___.",
+            "options": [
+              "No real roots",
+              "Exactly one real root",
+              "Two real roots",
+              "A result unrelated to the discriminant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the discriminant equals zero, the quadratic equation has ___.",
+            "options": [
+              "Exactly one real root",
+              "Two real roots",
+              "No real roots",
+              "A result unrelated to the discriminant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the discriminant is negative, the quadratic equation has ___.",
+            "options": [
+              "No real roots",
+              "Two real roots",
+              "Exactly one real root",
+              "A result unrelated to the discriminant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the discriminant useful before fully solving a quadratic equation?",
+            "options": [
+              "A reason unrelated to quadratic equations",
+              "It quickly reveals how many real solutions to expect",
+              "It always guarantees the equation has two real roots",
+              "The discriminant provides no useful information"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Rock Cycle: Igneous, Sedimentary, Metamorphic",
+        "summary": "Grade 8 Science strand: the rock cycle describes how igneous, sedimentary, and metamorphic rocks continuously transform into one another through processes like heat, pressure, weathering, and erosion.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Igneous rock forms when ___.",
+            "options": [
+              "Layers of sediment are compressed over time",
+              "Existing rock is transformed by heat and pressure alone",
+              "A process unrelated to igneous rock",
+              "Molten rock cools and solidifies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sedimentary rock forms when ___.",
+            "options": [
+              "Rock is melted completely into magma",
+              "Layers of sediment are compressed and cemented together over time",
+              "Molten rock cools and solidifies",
+              "A process unrelated to sedimentary rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Metamorphic rock forms when ___.",
+            "options": [
+              "Existing rock is transformed by intense heat and pressure",
+              "A process unrelated to metamorphic rock",
+              "Molten rock cools quickly at Earth’s surface",
+              "Sediment is deposited with no further change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the rock cycle described as continuous rather than one-directional?",
+            "options": [
+              "The rock cycle only occurs once in Earth’s history",
+              "A reason unrelated to the rock cycle",
+              "Rocks can transform from one type to another repeatedly over long periods of time",
+              "Once formed, a rock can never become a different type of rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could cause sedimentary rock to become metamorphic rock?",
+            "options": [
+              "Simple exposure to rainfall at the surface",
+              "A process unrelated to the rock cycle",
+              "Intense heat and pressure deep within Earth’s crust",
+              "Cooling of molten rock at the surface"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Rebellions of 1837-38 (Upper and Lower Canada)",
+        "summary": "Grade 8 History strand: the Rebellions of 1837-38 were armed uprisings in Upper and Lower Canada against colonial governments, driven by demands for greater political representation and reform.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Rebellions of 1837-38 took place in ___.",
+            "options": [
+              "Western Canada",
+              "Upper and Lower Canada",
+              "The Maritime colonies",
+              "A region unrelated to the Rebellions of 1837-38"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A major cause of the Rebellions of 1837-38 was ___.",
+            "options": [
+              "A cause unrelated to the Rebellions of 1837-38",
+              "A dispute over territory with the United States",
+              "Demands for greater political representation and reform",
+              "A demand to expel all British colonial settlers immediately"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which leader is closely associated with the rebellion in Upper Canada?",
+            "options": [
+              "William Lyon Mackenzie",
+              "A leader unrelated to the Rebellions of 1837-38",
+              "John A. Macdonald",
+              "George Brown"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which leader is closely associated with the rebellion in Lower Canada?",
+            "options": [
+              "Louis-Joseph Papineau",
+              "Robert Baldwin",
+              "Wilfrid Laurier",
+              "A leader unrelated to the Rebellions of 1837-38"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are the Rebellions of 1837-38 considered significant in Canadian history?",
+            "options": [
+              "They immediately resulted in full independence for the colonies",
+              "They had no lasting influence on Canadian political development",
+              "A reason unrelated to their historical significance",
+              "They contributed to later reforms, including the movement toward responsible government"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Editorial/Op-Ed",
+        "summary": "Grade 8 Writing strand: an editorial or op-ed presents a writer’s opinion on a current issue, supported by evidence and reasoning, and often aims to persuade readers or prompt action.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An editorial or op-ed is written to ___.",
+            "options": [
+              "A concept unrelated to this type of writing",
+              "Report only neutral facts with no opinion at all",
+              "Tell a completely fictional story",
+              "Present a writer’s opinion on a current issue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An effective editorial supports its opinion with ___.",
+            "options": [
+              "Only unsupported personal feelings",
+              "Evidence and reasoning",
+              "A concept unrelated to editorials",
+              "No support of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a common purpose of an editorial?",
+            "options": [
+              "To present only opposing viewpoints with no clear stance",
+              "To avoid taking any position on an issue",
+              "To persuade readers or prompt them to take action",
+              "A purpose unrelated to editorials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would be an appropriate topic for an op-ed?",
+            "options": [
+              "A private conversation with no public relevance",
+              "A completely invented, fictional event",
+              "A current issue affecting a community, such as a new local policy",
+              "A concept unrelated to op-eds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer address a counterargument in an editorial?",
+            "options": [
+              "A reason unrelated to persuasive writing",
+              "Editorials should never mention any other viewpoint",
+              "It strengthens their argument by showing they have considered other viewpoints",
+              "Addressing a counterargument always weakens an editorial"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Exponential Growth and Decay",
+        "summary": "Grade 8 Math strand: exponential growth occurs when a quantity increases by a consistent percentage over equal time periods, while exponential decay occurs when a quantity decreases the same way, both modelled with the form y = a(b)^x.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Exponential growth occurs when a quantity ___.",
+            "options": [
+              "A concept unrelated to exponential growth",
+              "Increases by the same fixed amount every time period",
+              "Remains exactly the same over time",
+              "Increases by a consistent percentage over equal time periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Exponential decay occurs when a quantity ___.",
+            "options": [
+              "Increases by a consistent percentage over equal time periods",
+              "Decreases by the same fixed amount every time period",
+              "A concept unrelated to exponential decay",
+              "Decreases by a consistent percentage over equal time periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the exponential formula y = a(b)^x, if b is greater than 1, the situation represents ___.",
+            "options": [
+              "Growth",
+              "Decay",
+              "A situation unrelated to this formula",
+              "No change at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the exponential formula y = a(b)^x, if b is between 0 and 1, the situation represents ___.",
+            "options": [
+              "No change at all",
+              "Decay",
+              "Growth",
+              "A situation unrelated to this formula"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a real-world example of exponential growth?",
+            "options": [
+              "A car losing a fixed dollar amount of value every year",
+              "A temperature that stays constant all day",
+              "A concept unrelated to exponential growth",
+              "A population of bacteria doubling every hour"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Electromagnetism: Fields and Electromagnets",
+        "summary": "Grade 8 Science strand: an electric current moving through a wire creates a magnetic field, and coiling the wire around an iron core strengthens this field, forming an electromagnet.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "An electric current moving through a wire creates ___.",
+            "options": [
+              "A concept unrelated to electromagnetism",
+              "A permanent change in the wire’s colour",
+              "A magnetic field",
+              "No effect of any kind on the surrounding space"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An electromagnet is created by ___.",
+            "options": [
+              "Placing two permanent magnets next to each other with no current",
+              "A concept unrelated to electromagnets",
+              "Removing all metal from a circuit",
+              "Coiling a current-carrying wire around an iron core"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these would increase the strength of an electromagnet?",
+            "options": [
+              "A change unrelated to electromagnet strength",
+              "Removing the iron core entirely",
+              "Decreasing the electric current flowing through the wire",
+              "Increasing the number of coils of wire around the core"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Unlike a permanent magnet, an electromagnet’s magnetic field can be ___.",
+            "options": [
+              "A property unrelated to electromagnets",
+              "Only activated by extreme heat",
+              "Turned on and off by controlling the electric current",
+              "Never changed under any circumstances"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are electromagnets useful in devices like electric motors and doorbells?",
+            "options": [
+              "They function identically to permanent magnets with no advantages",
+              "A reason unrelated to electromagnetism",
+              "Electromagnets provide no practical use in technology",
+              "Their magnetic field can be controlled and changed as needed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Chinese Head Tax and Exclusion Act",
+        "summary": "Grade 8 History strand: the Chinese Head Tax and later Chinese Exclusion Act were discriminatory Canadian policies that restricted and eventually nearly banned Chinese immigration in the late 1800s and early 1900s.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Chinese Head Tax was a policy that required ___.",
+            "options": [
+              "Chinese immigrants to pay a fee to enter Canada",
+              "A policy unrelated to the Chinese Head Tax",
+              "All immigrants entering Canada to pay an equal fee",
+              "Chinese immigrants to receive free passage to Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Chinese Exclusion Act of 1923 largely ___.",
+            "options": [
+              "Encouraged unrestricted immigration from every country",
+              "Banned Chinese immigration to Canada",
+              "Eliminated all restrictions on Chinese immigration",
+              "A policy unrelated to the Chinese Exclusion Act"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why were these policies enacted, according to the discriminatory attitudes of the time?",
+            "options": [
+              "Prejudice against Chinese immigrants and economic competition fears",
+              "A shortage of workers led the government to welcome all immigrants equally",
+              "These policies were requested by Chinese immigrant communities themselves",
+              "A reason unrelated to these policies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Canadian government has since ___ for the Chinese Head Tax.",
+            "options": [
+              "Reinstated the same policy",
+              "Never acknowledged or discussed it",
+              "A response unrelated to the Chinese Head Tax",
+              "Formally apologized"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to study the history of the Chinese Head Tax and Exclusion Act?",
+            "options": [
+              "It highlights past discrimination and informs efforts toward a more inclusive Canada",
+              "A reason unrelated to social studies learning",
+              "These events never actually occurred in Canadian history",
+              "This history has no connection to understanding Canada today"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Connotation vs Denotation",
+        "summary": "Grade 8 Language strand: denotation is a word’s literal dictionary definition, while connotation is the emotional or cultural association attached to a word, which can be positive, negative, or neutral.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Denotation refers to ___.",
+            "options": [
+              "A word’s literal dictionary definition",
+              "A word with no meaning at all",
+              "A word’s emotional association",
+              "A concept unrelated to word meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Connotation refers to ___.",
+            "options": [
+              "A word’s literal dictionary definition only",
+              "The emotional or cultural association attached to a word",
+              "A concept unrelated to connotation",
+              "A word that has no possible associations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has a more positive connotation than “stubborn,” despite a similar denotation?",
+            "options": [
+              "Determined",
+              "Bossy",
+              "A word unrelated to this comparison",
+              "Rigid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer carefully choose words based on their connotation?",
+            "options": [
+              "Connotation never affects how a reader interprets a text",
+              "To create a specific tone or emotional effect for the reader",
+              "Denotation and connotation always mean exactly the same thing",
+              "A reason unrelated to word choice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of words has similar denotations but different connotations?",
+            "options": [
+              "“Run” and “jump”",
+              "“Book” and “car”",
+              "A pair of words unrelated to this concept",
+              "“Slender” and “skinny”"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Direct and Partial Variation",
+        "summary": "Grade 8 Math strand: in direct variation, y = kx and the graph passes through the origin, while in partial variation, y = kx + b and the graph has a y-intercept other than zero.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In direct variation, the relationship between x and y follows the form ___.",
+            "options": [
+              "A form unrelated to direct variation",
+              "y = kx",
+              "y = k, a constant with no variable",
+              "y = kx + b, where b is not zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The graph of a direct variation relationship always passes through ___.",
+            "options": [
+              "A point unrelated to direct variation",
+              "The origin (0, 0)",
+              "The point (1, 1) only",
+              "A point that is never on the y-axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In partial variation, the relationship between x and y follows the form ___.",
+            "options": [
+              "y = kx + b, where b is not zero",
+              "x = ky, with y as the independent variable",
+              "A form unrelated to partial variation",
+              "y = kx only, with no constant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a taxi charges a flat fee plus a rate per kilometre, this relationship represents ___.",
+            "options": [
+              "A relationship unrelated to variation",
+              "Partial variation",
+              "Direct variation",
+              "No variation at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does a partial variation graph not pass through the origin?",
+            "options": [
+              "Partial variation graphs always pass through the origin",
+              "A reason unrelated to partial variation",
+              "The variable x is never used in partial variation",
+              "Because of the constant value, b, added to the equation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Circuits: Series and Parallel",
+        "summary": "Grade 8 Science strand: in a series circuit, components are connected along a single path so current has only one route, while in a parallel circuit, components are connected along multiple paths, allowing current to flow through more than one route.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a series circuit, components are connected ___.",
+            "options": [
+              "Along multiple separate paths at once",
+              "With no connection to one another at all",
+              "A concept unrelated to series circuits",
+              "Along a single path, so current has only one route"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a parallel circuit, components are connected ___.",
+            "options": [
+              "With no complete path for current at all",
+              "Along multiple paths, allowing current to flow through more than one route",
+              "Along a single path only",
+              "A concept unrelated to parallel circuits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one bulb burns out in a series circuit, the rest of the circuit typically ___.",
+            "options": [
+              "A result unrelated to series circuits",
+              "Continues working normally with no effect",
+              "Becomes brighter than before",
+              "Stops working, since the single path is broken"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one bulb burns out in a parallel circuit, the rest of the circuit typically ___.",
+            "options": [
+              "Continues working, since other paths remain complete",
+              "Becomes permanently damaged",
+              "A result unrelated to parallel circuits",
+              "Stops working entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are household electrical systems typically wired in parallel rather than series?",
+            "options": [
+              "Parallel wiring provides no advantage over series wiring",
+              "A reason unrelated to circuits",
+              "So that one device failing does not cause all other devices to lose power",
+              "Series wiring is always safer for households"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Komagata Maru Incident",
+        "summary": "Grade 8 History strand: the Komagata Maru incident of 1914 involved a ship of South Asian passengers who were denied entry to Canada under discriminatory immigration laws and forced to return overseas, resulting in tragedy.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Komagata Maru was a ship carrying passengers primarily from ___.",
+            "options": [
+              "South Asia",
+              "A region unrelated to the Komagata Maru incident",
+              "Western Europe",
+              "The Caribbean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The passengers of the Komagata Maru were ___ entry into Canada.",
+            "options": [
+              "Offered citizenship without any restrictions",
+              "Immediately and fully granted",
+              "Largely denied",
+              "A response unrelated to the Komagata Maru incident"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Komagata Maru incident occurred in ___.",
+            "options": [
+              "1867",
+              "A year unrelated to the Komagata Maru incident",
+              "1950",
+              "1914"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Komagata Maru incident is often cited as an example of ___.",
+            "options": [
+              "A modern immigration policy with no historical roots",
+              "Discriminatory Canadian immigration policy in the early 20th century",
+              "A concept unrelated to the Komagata Maru incident",
+              "A completely fair and welcoming immigration process"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the Canadian government now formally acknowledge the Komagata Maru incident?",
+            "options": [
+              "The event has been officially declared to have never happened",
+              "The incident has no connection to Canadian immigration history",
+              "To recognize past discrimination and its lasting impact on affected communities",
+              "A reason unrelated to the Komagata Maru incident"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Irony (Verbal, Situational, Dramatic)",
+        "summary": "Grade 8 Reading strand: verbal irony occurs when a speaker means the opposite of what they say, situational irony occurs when an outcome contradicts expectations, and dramatic irony occurs when the audience knows something a character does not.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Verbal irony occurs when ___.",
+            "options": [
+              "A concept unrelated to irony",
+              "A speaker says the opposite of what they actually mean",
+              "A speaker always says exactly what they mean",
+              "A character speaks with no possible hidden meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Situational irony occurs when ___.",
+            "options": [
+              "An outcome contradicts what was expected to happen",
+              "A concept unrelated to situational irony",
+              "Nothing unexpected ever happens in a story",
+              "An outcome always matches exactly what was expected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Dramatic irony occurs when ___.",
+            "options": [
+              "The audience knows something a character in the story does not",
+              "A character knows more than the audience at all times",
+              "A concept unrelated to dramatic irony",
+              "Neither the audience nor the characters know anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of situational irony?",
+            "options": [
+              "A fire station burning down",
+              "A character stating they are happy while smiling",
+              "A character accurately predicting a simple event",
+              "A concept unrelated to situational irony"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use dramatic irony to build tension in a story?",
+            "options": [
+              "Readers always know exactly as much as every character",
+              "Dramatic irony never affects a reader’s emotional engagement",
+              "Readers may feel anticipation or dread knowing more than a character does",
+              "A reason unrelated to dramatic irony"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Venn Diagrams and Set Notation in Probability",
+        "summary": "Grade 8 Math strand: a Venn diagram visually represents overlapping and non-overlapping sets, and set notation, such as union (∪) and intersection (∩), can be used to calculate probabilities involving multiple events.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A Venn diagram is used to visually represent ___.",
+            "options": [
+              "A concept unrelated to Venn diagrams",
+              "A single unchanging value with no sets involved",
+              "Only sets that can never overlap in any way",
+              "Overlapping and non-overlapping sets"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The union of two sets (A ∪ B) includes ___.",
+            "options": [
+              "Only elements found in both sets at the same time",
+              "No elements from either set",
+              "All elements in either set A, set B, or both",
+              "A concept unrelated to set notation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The intersection of two sets (A ∩ B) includes ___.",
+            "options": [
+              "Only elements found in both set A and set B",
+              "A concept unrelated to set notation",
+              "Elements found in neither set",
+              "All elements in either set, whether or not they overlap"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Venn diagram, the overlapping region between two circles represents ___.",
+            "options": [
+              "A concept unrelated to Venn diagrams",
+              "Elements belonging to neither set",
+              "The intersection of the two sets",
+              "The union of the two sets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are Venn diagrams useful when calculating probabilities involving multiple events?",
+            "options": [
+              "They help visualize which outcomes belong to one, both, or neither event",
+              "A reason unrelated to probability",
+              "They can only be used with a single event at a time",
+              "Venn diagrams provide no useful information for probability"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemical Reactions: Types and Balancing Equations",
+        "summary": "Grade 8 Science strand: a chemical reaction rearranges atoms into new substances, and a balanced chemical equation shows equal numbers of each type of atom on both sides, reflecting the law of conservation of mass.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A chemical reaction occurs when ___.",
+            "options": [
+              "A concept unrelated to chemical reactions",
+              "Atoms are created or destroyed entirely",
+              "No change happens to any substance involved",
+              "Atoms rearrange to form new substances"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A balanced chemical equation must show ___.",
+            "options": [
+              "A concept unrelated to balancing equations",
+              "A different number of atoms on each side of the equation",
+              "No atoms represented on either side",
+              "Equal numbers of each type of atom on both sides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The law of conservation of mass states that ___.",
+            "options": [
+              "Mass is neither created nor destroyed in a chemical reaction",
+              "A law unrelated to chemical reactions",
+              "Mass always disappears completely during a reaction",
+              "Mass is always created during a chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a synthesis reaction, ___.",
+            "options": [
+              "A single substance breaks down into simpler substances",
+              "A type of reaction unrelated to synthesis",
+              "No new substance is ever formed",
+              "Two or more substances combine to form a single new substance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a decomposition reaction, ___.",
+            "options": [
+              "Two or more substances combine into a single substance",
+              "A single substance breaks down into two or more simpler substances",
+              "No change occurs to the original substance",
+              "A type of reaction unrelated to decomposition"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Regina Manifesto and the Rise of the CCF",
+        "summary": "Grade 8 History strand: the Regina Manifesto of 1933 outlined the founding principles of the Co-operative Commonwealth Federation (CCF), a political party advocating for social welfare programs and economic reform during the Great Depression.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Regina Manifesto outlined the founding principles of ___.",
+            "options": [
+              "The Co-operative Commonwealth Federation (CCF)",
+              "The government of Quebec",
+              "A group unrelated to the Regina Manifesto",
+              "The Conservative Party of Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Regina Manifesto was created in ___.",
+            "options": [
+              "1933",
+              "1867",
+              "1982",
+              "A year unrelated to the Regina Manifesto"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The CCF primarily advocated for ___.",
+            "options": [
+              "A return to earlier colonial economic policies",
+              "The complete elimination of all government programs",
+              "Social welfare programs and economic reform",
+              "A concept unrelated to the CCF"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Regina Manifesto was created largely in response to ___.",
+            "options": [
+              "Widespread hardship during the Great Depression",
+              "An event unrelated to the Regina Manifesto",
+              "A period of significant economic prosperity",
+              "The end of the Second World War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the CCF significant in Canadian political history?",
+            "options": [
+              "It is remembered only as a fictional political movement",
+              "Its ideas influenced later social programs and Canadian political parties",
+              "A reason unrelated to its historical significance",
+              "It had no lasting influence on Canadian politics"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Personal Narrative Essay",
+        "summary": "Grade 8 Writing strand: a personal narrative essay recounts a meaningful experience from the writer’s life, using descriptive detail, a clear sequence of events, and reflection on what the experience taught them.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A personal narrative essay recounts ___.",
+            "options": [
+              "A concept unrelated to this type of writing",
+              "A meaningful experience from the writer’s own life",
+              "A completely fictional story with no connection to the writer",
+              "Only factual, impersonal information with no story involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An effective personal narrative often includes ___.",
+            "options": [
+              "A concept unrelated to personal narratives",
+              "A random, unordered collection of unrelated events",
+              "No details or descriptions of any kind",
+              "Descriptive detail and a clear sequence of events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer include reflection at the end of a personal narrative?",
+            "options": [
+              "A reason unrelated to this type of writing",
+              "To explain what they learned or how the experience changed them",
+              "A personal narrative should never include the writer’s own thoughts",
+              "Reflection never adds any value to a personal narrative"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would be an appropriate topic for a personal narrative essay?",
+            "options": [
+              "A set of unrelated historical facts",
+              "A time the writer overcame a challenge",
+              "An essay arguing a persuasive position with no personal story",
+              "A concept unrelated to personal narratives"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is using sensory and descriptive detail important in a personal narrative?",
+            "options": [
+              "Sensory detail has no effect on how a reader experiences a story",
+              "A reason unrelated to narrative writing",
+              "Descriptive detail always distracts from the main story",
+              "It helps the reader vividly picture and connect with the experience"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Simplifying Complex Radical Expressions",
+        "summary": "Grade 8 Math strand (pre-high-school extension): simplifying a radical expression involves factoring out perfect squares from under the radical sign and combining like radical terms.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Simplifying a radical expression often involves factoring out ___.",
+            "options": [
+              "The entire expression with no factoring at all",
+              "Perfect squares from under the radical sign",
+              "A concept unrelated to simplifying radicals",
+              "Only prime numbers with no other factors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify: √50.",
+            "options": [
+              "A value unrelated to the calculation",
+              "5√2",
+              "10√5",
+              "25√2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simplify: √18.",
+            "options": [
+              "9√2",
+              "3√2",
+              "A value unrelated to the calculation",
+              "6√3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Like radical terms can be combined by ___.",
+            "options": [
+              "Adding or subtracting their coefficients while keeping the radical the same",
+              "A method unrelated to combining radicals",
+              "Ignoring the radical portion entirely",
+              "Multiplying the radicals together directly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Simplify: 2√3 + 5√3.",
+            "options": [
+              "7√6",
+              "7√3",
+              "10√3",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Periodic Table: Trends and Organization",
+        "summary": "Grade 8 Science strand: the periodic table organizes elements by increasing atomic number into rows called periods and columns called groups, with elements in the same group sharing similar chemical properties.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The periodic table organizes elements by ___.",
+            "options": [
+              "A concept unrelated to the periodic table",
+              "Random order with no organizing pattern",
+              "Increasing atomic number",
+              "Alphabetical order of their names"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A row on the periodic table is called a ___.",
+            "options": [
+              "Isotope",
+              "Group",
+              "A term unrelated to the periodic table",
+              "Period"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A column on the periodic table is called a ___.",
+            "options": [
+              "Period",
+              "Group",
+              "Compound",
+              "A term unrelated to the periodic table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Elements within the same group on the periodic table tend to ___.",
+            "options": [
+              "Always have identical atomic numbers",
+              "Have no properties in common with one another",
+              "Share similar chemical properties",
+              "A concept unrelated to periodic table groups"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the periodic table considered a valuable tool in chemistry?",
+            "options": [
+              "Elements on the periodic table show no patterns of any kind",
+              "The periodic table provides no useful scientific information",
+              "A reason unrelated to chemistry",
+              "It organizes elements in a way that reveals patterns in their properties"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The National Energy Program and Western Alienation",
+        "summary": "Grade 8 History strand: the National Energy Program of 1980 was a federal policy aimed at increasing Canadian control over the oil industry, which fuelled resentment in Western provinces and heightened feelings of Western alienation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The National Energy Program was introduced in ___.",
+            "options": [
+              "1980",
+              "A year unrelated to the National Energy Program",
+              "1867",
+              "2005"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The National Energy Program aimed to ___.",
+            "options": [
+              "A goal unrelated to the National Energy Program",
+              "Increase Canadian control over the oil industry",
+              "Transfer full control of resources to foreign companies",
+              "Eliminate the oil industry entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The National Energy Program was especially unpopular in ___.",
+            "options": [
+              "A region unrelated to the National Energy Program",
+              "Northern territories only",
+              "Atlantic Canada",
+              "Western provinces, particularly Alberta"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Western alienation refers to ___.",
+            "options": [
+              "A concept unrelated to Western alienation",
+              "A sense that Western provinces’ interests are overlooked by the federal government",
+              "A feeling shared equally by every region of Canada",
+              "Complete agreement between Western provinces and the federal government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the National Energy Program still discussed in relation to Canadian federalism?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It resolved all regional tensions in Canada permanently",
+              "It illustrates ongoing tensions between regional interests and federal policy",
+              "It has no connection to understanding Canadian federalism"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Advertising Techniques",
+        "summary": "Grade 8 Language strand: advertisers use techniques such as emotional appeal, bandwagon effect, and celebrity endorsement to persuade audiences to buy a product or adopt a particular viewpoint.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Emotional appeal in advertising works by ___.",
+            "options": [
+              "Triggering feelings, such as happiness or fear, to influence a decision",
+              "Avoiding any connection to the audience’s emotions",
+              "A concept unrelated to advertising techniques",
+              "Presenting only neutral, unbiased facts with no persuasive intent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The bandwagon effect in advertising suggests that ___.",
+            "options": [
+              "No one else is using or buying the product",
+              "A concept unrelated to the bandwagon effect",
+              "A product’s popularity has no influence on consumer choices",
+              "A person should do or buy something because many others are already doing so"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Celebrity endorsement in advertising relies on ___.",
+            "options": [
+              "Scientific data with no connection to any public figure",
+              "A well-known person’s association with a product to build trust or appeal",
+              "A concept unrelated to celebrity endorsement",
+              "Complete anonymity with no recognizable figures involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might recognizing advertising techniques help consumers make informed decisions?",
+            "options": [
+              "All advertisements present entirely objective, unbiased information",
+              "A reason unrelated to media literacy",
+              "It helps them evaluate whether a persuasive claim is based on genuine value",
+              "Recognizing these techniques never affects consumer decision-making"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of an emotional appeal in an advertisement?",
+            "options": [
+              "An ad showing a family’s joy while using a product",
+              "An ad with no images, music, or persuasive language at all",
+              "A concept unrelated to emotional appeal",
+              "An ad listing only a product’s technical specifications"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Weighted Averages",
+        "summary": "Grade 8 Math strand: a weighted average accounts for the varying importance, or weight, of each value in a data set, unlike a simple average where every value counts equally.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A weighted average differs from a simple average because it ___.",
+            "options": [
+              "Ignores every value except the highest one",
+              "A concept unrelated to weighted averages",
+              "Accounts for the varying importance, or weight, of each value",
+              "Treats every value in a data set with equal importance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a test is worth 70% of a grade and a project is worth 30%, this is an example of ___.",
+            "options": [
+              "A concept unrelated to weighted averages",
+              "A calculation with no connection to grades",
+              "Weighted averaging",
+              "A simple average with no weighting involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a student scores 80% on a test worth 60% of their grade and 90% on a project worth 40%, what is their weighted average?",
+            "options": [
+              "84%",
+              "A value unrelated to the calculation",
+              "85%",
+              "80%"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a teacher use a weighted average instead of a simple average to calculate final grades?",
+            "options": [
+              "Weighted averages are never used to calculate grades",
+              "A reason unrelated to weighted averages",
+              "A weighted average always produces exactly the same result as a simple average",
+              "Some assignments, like exams, may reflect learning more heavily than others"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are weighted averages also useful outside of school, such as in finance?",
+            "options": [
+              "They can only be used to calculate school grades",
+              "Weighted averages have no real-world applications",
+              "A reason unrelated to weighted averages",
+              "They can reflect the varying significance of different values, like investment amounts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Homeostasis and the Endocrine System",
+        "summary": "Grade 8 Science strand: homeostasis is the body’s process of maintaining a stable internal environment, and the endocrine system uses hormones released into the bloodstream to help regulate processes like growth, metabolism, and mood.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Homeostasis refers to the body’s process of ___.",
+            "options": [
+              "Shutting down all bodily systems",
+              "Maintaining a stable internal environment",
+              "A concept unrelated to homeostasis",
+              "Constantly changing its internal environment with no regulation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The endocrine system regulates the body using ___.",
+            "options": [
+              "Electrical signals sent only through nerves",
+              "No chemical messengers of any kind",
+              "A concept unrelated to the endocrine system",
+              "Hormones released into the bloodstream"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a process regulated by the endocrine system?",
+            "options": [
+              "A process unrelated to the endocrine system",
+              "The number of bones in the body",
+              "Growth and metabolism",
+              "The colour of a person’s eyes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is maintaining homeostasis important for the body?",
+            "options": [
+              "The body functions best when its internal environment is unstable",
+              "Homeostasis has no effect on how the body functions",
+              "It allows the body’s systems to function properly despite external changes",
+              "A reason unrelated to homeostasis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a malfunctioning endocrine gland affect multiple body systems?",
+            "options": [
+              "The endocrine system only affects a single, isolated body part",
+              "Hormones can influence many different processes throughout the body",
+              "A reason unrelated to the endocrine system",
+              "Hormones have no measurable effect on the body at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Oka Crisis",
+        "summary": "Grade 8 History strand: the Oka Crisis of 1990 was a land dispute and armed standoff between Mohawk protesters and Canadian authorities near Oka, Quebec, that drew national attention to Indigenous land rights.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Oka Crisis took place in ___.",
+            "options": [
+              "1950",
+              "A year unrelated to the Oka Crisis",
+              "1867",
+              "1990"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Oka Crisis was primarily a dispute over ___.",
+            "options": [
+              "A dispute unrelated to the Oka Crisis",
+              "Federal funding for education",
+              "Land rights near Oka, Quebec",
+              "A trade agreement with the United States"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Oka Crisis involved a standoff between ___.",
+            "options": [
+              "A conflict unrelated to the Oka Crisis",
+              "Two Canadian provinces disputing a border",
+              "Mohawk protesters and Canadian authorities",
+              "Two foreign governments with no Canadian involvement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Oka Crisis drew national attention to ___.",
+            "options": [
+              "International trade policy",
+              "Environmental regulations with no connection to land rights",
+              "A concept unrelated to the Oka Crisis",
+              "Indigenous land rights and relations with the Canadian government"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Oka Crisis considered an important event in the history of Indigenous relations in Canada?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It fully resolved all land disputes involving Indigenous communities",
+              "It highlighted long-standing land rights issues and increased public awareness",
+              "It had no impact on public awareness of Indigenous issues"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Modifiers and Misplaced Modifiers",
+        "summary": "Grade 8 Language strand: a modifier describes or adds detail to another word in a sentence, and a misplaced modifier is positioned so far from the word it describes that it creates confusion or an unintended meaning.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A modifier is a word or phrase that ___.",
+            "options": [
+              "Has no connection to any other word in a sentence",
+              "A concept unrelated to modifiers",
+              "Always functions as the main verb of a sentence",
+              "Describes or adds detail to another word in a sentence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A misplaced modifier occurs when ___.",
+            "options": [
+              "A modifier is positioned so it creates confusion or an unintended meaning",
+              "A concept unrelated to misplaced modifiers",
+              "A modifier is placed directly next to the word it describes",
+              "A sentence contains no modifiers of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a misplaced modifier?",
+            "options": [
+              "Running down the street, the man missed the bus.",
+              "A sentence unrelated to misplaced modifiers",
+              "Running down the street, the bus was missed by the man.",
+              "The man missed the bus while running down the street."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a misplaced modifier create an unintentionally humorous or confusing sentence?",
+            "options": [
+              "A reason unrelated to grammar",
+              "It can make a description appear to apply to the wrong noun",
+              "A misplaced modifier always makes a sentence perfectly clear",
+              "Misplaced modifiers never affect a sentence’s clarity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a misplaced modifier typically be corrected?",
+            "options": [
+              "A method unrelated to correcting misplaced modifiers",
+              "By moving the modifier closer to the word it is meant to describe",
+              "By adding more modifiers to the sentence",
+              "By removing every modifier from the sentence entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Rational Equations",
+        "summary": "Grade 8 Math strand (pre-high-school extension): solving a rational equation involves eliminating the denominators, often by finding a common denominator or cross-multiplying, then solving the resulting equation.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A rational equation is an equation that contains ___.",
+            "options": [
+              "Only whole numbers with no variables",
+              "No fractions of any kind",
+              "A concept unrelated to rational equations",
+              "At least one fraction with a variable in the denominator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A common first step in solving a rational equation is to ___.",
+            "options": [
+              "Immediately ignore all denominators in the equation",
+              "A step unrelated to solving rational equations",
+              "Add the numerators without addressing the denominators",
+              "Eliminate the denominators by finding a common denominator or cross-multiplying"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: x/2 = 6.",
+            "options": [
+              "x = 12",
+              "x = 3",
+              "x = 8",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for x: 3/x = 1/4.",
+            "options": [
+              "A value unrelated to the calculation",
+              "x = 12",
+              "x = 4",
+              "x = 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must a solution to a rational equation be checked against the original equation?",
+            "options": [
+              "Checking a solution is never necessary for rational equations",
+              "Solutions to rational equations are never affected by their denominators",
+              "A reason unrelated to rational equations",
+              "To ensure the solution does not make any denominator equal to zero"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biomes and Global Ecosystems",
+        "summary": "Grade 8 Science strand: a biome is a large geographic region characterized by a distinct climate and the plant and animal communities adapted to survive there, such as deserts, rainforests, and tundra.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A biome is best described as ___.",
+            "options": [
+              "A region with no connection to climate at all",
+              "A single organism living in isolation",
+              "A large geographic region with a distinct climate and adapted living things",
+              "A concept unrelated to biomes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a biome?",
+            "options": [
+              "Tundra",
+              "A concept unrelated to biomes",
+              "A single species of animal",
+              "A single backyard garden"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Organisms living in a particular biome are typically ___.",
+            "options": [
+              "Identical to organisms living in every other biome",
+              "Adapted to survive its specific climate and conditions",
+              "A concept unrelated to biome adaptation",
+              "Unaffected by the climate of the biome they live in"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a cactus be well-adapted to a desert biome?",
+            "options": [
+              "It can store water and survive with very little rainfall",
+              "A reason unrelated to desert adaptation",
+              "Desert biomes receive the same rainfall as rainforest biomes",
+              "Cacti require large amounts of rainfall to survive"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is studying different global biomes valuable for understanding biodiversity?",
+            "options": [
+              "Every biome on Earth supports the exact same forms of life",
+              "Biomes have no connection to global biodiversity",
+              "A reason unrelated to environmental science",
+              "It shows how climate shapes the variety of life found in different regions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the Korean War",
+        "summary": "Grade 8 History strand: Canada contributed troops and naval support to the United Nations forces during the Korean War (1950-1953), marking one of Canada’s significant military commitments after the Second World War.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "Canada contributed troops and naval support to ___ during the Korean War.",
+            "options": [
+              "The opposing side against the United Nations",
+              "United Nations forces",
+              "A group unrelated to the Korean War",
+              "Only its own domestic defence, with no international involvement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Korean War took place primarily between ___.",
+            "options": [
+              "A time period unrelated to the Korean War",
+              "1914 and 1918",
+              "1950 and 1953",
+              "1980 and 1985"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada’s involvement in the Korean War came ___.",
+            "options": [
+              "Before the First World War",
+              "After the Second World War",
+              "During the Great Depression",
+              "A time period unrelated to the Korean War"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s role in the Korean War considered historically significant?",
+            "options": [
+              "It marked one of Canada’s significant military commitments after WWII",
+              "Canada had no involvement in the Korean War at all",
+              "It marked the only time Canada has ever contributed troops internationally",
+              "A reason unrelated to its historical significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might Canada have chosen to support United Nations forces during the Korean War?",
+            "options": [
+              "Canada was required to participate with no choice involved",
+              "Canada had no interest in international cooperation at the time",
+              "To uphold international cooperation and collective security commitments",
+              "A reason unrelated to Canada’s involvement"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Comparing Perspectives Across Texts",
+        "summary": "Grade 8 Reading strand: comparing perspectives across texts involves examining how different authors or characters view the same event or issue, revealing how background and purpose can shape a viewpoint.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Comparing perspectives across texts involves examining ___.",
+            "options": [
+              "A concept unrelated to comparing perspectives",
+              "How different authors or characters view the same event or issue",
+              "Texts that have no connection to one another at all",
+              "Only a single, unchanging viewpoint shared by every text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might two authors present different perspectives on the same historical event?",
+            "options": [
+              "A reason unrelated to comparing perspectives",
+              "Their background, purpose, or available evidence may shape their viewpoint",
+              "Historical events can only ever be described in one true way",
+              "Authors always share the exact same perspective on every event"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable for readers to compare multiple perspectives on an issue?",
+            "options": [
+              "Comparing perspectives never adds any value to understanding a topic",
+              "It helps develop a more complete and balanced understanding of the issue",
+              "A single perspective always provides a complete understanding",
+              "A reason unrelated to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might indicate that a text presents a particular perspective?",
+            "options": [
+              "Every text is entirely free of any perspective or bias",
+              "A text that includes absolutely no language or details at all",
+              "The specific language, tone, and details the author chooses to include",
+              "A concept unrelated to perspective"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might comparing a primary source and a secondary source on the same topic be useful?",
+            "options": [
+              "A reason unrelated to comparing texts",
+              "It can reveal differences in immediacy, purpose, and interpretation of events",
+              "Secondary sources never provide any interpretation of events",
+              "Primary and secondary sources always present identical information"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Transformations of Quadratic Functions",
+        "summary": "Grade 8 Math strand (pre-high-school extension): transformations of a quadratic function, such as y = a(x - h)² + k, shift, stretch, or reflect its graph compared to the parent function y = x².",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In the equation y = a(x - h)² + k, the value of h shifts the graph ___.",
+            "options": [
+              "Horizontally",
+              "A direction unrelated to this transformation",
+              "Vertically",
+              "Diagonally, at a fixed angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the equation y = a(x - h)² + k, the value of k shifts the graph ___.",
+            "options": [
+              "A direction unrelated to this transformation",
+              "Diagonally, at a fixed angle",
+              "Vertically",
+              "Horizontally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the value of a in y = a(x - h)² + k is negative, the parabola ___.",
+            "options": [
+              "Opens upward",
+              "A result unrelated to this transformation",
+              "Opens downward",
+              "Becomes a straight line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The parent function for a quadratic transformation is typically written as ___.",
+            "options": [
+              "y = 1/x",
+              "y = x",
+              "A function unrelated to quadratic transformations",
+              "y = x²"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are transformations useful for understanding families of quadratic functions?",
+            "options": [
+              "Every quadratic function has an identical graph regardless of its equation",
+              "They show how changing values in an equation predictably affects the graph’s shape and position",
+              "Transformations have no effect on a quadratic function’s graph",
+              "A reason unrelated to transformations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Energy Transformations and Conservation of Energy",
+        "summary": "Grade 8 Science strand: energy can be transformed from one form to another, such as chemical energy into kinetic energy, and the law of conservation of energy states that energy is never created or destroyed, only converted.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The law of conservation of energy states that energy ___.",
+            "options": [
+              "Is never created or destroyed, only converted from one form to another",
+              "Is constantly being created out of nothing",
+              "Disappears completely once it is used",
+              "A law unrelated to energy conservation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an energy transformation?",
+            "options": [
+              "Chemical energy in food converting into kinetic energy during exercise",
+              "A concept unrelated to energy transformations",
+              "Energy remaining in exactly the same form forever",
+              "A situation with no energy involved at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A light bulb transforms electrical energy into ___.",
+            "options": [
+              "A form of energy unrelated to light bulbs",
+              "Chemical energy exclusively",
+              "Light and heat energy",
+              "Only sound energy, with no light produced"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might some energy transformations be considered less efficient than others?",
+            "options": [
+              "Energy is never lost as heat during any transformation",
+              "All energy transformations are always perfectly efficient with no loss",
+              "A reason unrelated to energy transformations",
+              "A portion of the energy is often converted into unwanted heat rather than the intended form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding energy transformations important for designing efficient technology?",
+            "options": [
+              "A reason unrelated to energy conservation",
+              "Efficient technology never involves any transformation of energy",
+              "It helps engineers minimize energy loss and maximize useful output",
+              "Energy transformations have no connection to technology design"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Multiculturalism Act of 1988",
+        "summary": "Grade 8 History strand: the Canadian Multiculturalism Act of 1988 formally recognized and promoted multiculturalism as a defining feature of Canadian identity, affirming the value of cultural diversity within a unified nation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Canadian Multiculturalism Act was passed in ___.",
+            "options": [
+              "1950",
+              "1867",
+              "1988",
+              "A year unrelated to the Multiculturalism Act"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Multiculturalism Act formally recognized multiculturalism as ___.",
+            "options": [
+              "A concept rejected by the Canadian government",
+              "A concept unrelated to the Multiculturalism Act",
+              "A defining feature of Canadian identity",
+              "A temporary policy with no lasting significance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Multiculturalism Act affirmed the value of ___.",
+            "options": [
+              "Cultural diversity within a unified nation",
+              "A single, uniform culture for all Canadians",
+              "Eliminating cultural differences across Canada",
+              "A concept unrelated to the Multiculturalism Act"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada was among the first countries to adopt an official policy of ___.",
+            "options": [
+              "A policy unrelated to the Multiculturalism Act",
+              "Isolationism",
+              "Strict cultural assimilation",
+              "Multiculturalism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Multiculturalism Act often referenced when discussing Canadian identity?",
+            "options": [
+              "It has no connection to how Canadian identity is understood",
+              "It formally rejected the idea of a diverse Canadian society",
+              "A reason unrelated to its historical significance",
+              "It reflects an official commitment to embracing cultural diversity as part of being Canadian"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Language Arts Days 51-60",
+        "summary": "Grade 8 Language strand: this review lesson revisits key ideas from Days 51-59, including symbolism, active and passive voice, editorials, connotation versus denotation, irony, personal narratives, advertising techniques, misplaced modifiers, and comparing perspectives.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Symbolism is a literary device in which ___.",
+            "options": [
+              "A concept unrelated to literary devices",
+              "Every word in a text is taken only at face value",
+              "An object or image represents a deeper idea beyond its literal meaning",
+              "A story contains no hidden or deeper meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In active voice, the subject ___.",
+            "options": [
+              "Receives the action",
+              "Never appears in the sentence at all",
+              "A concept unrelated to voice",
+              "Performs the action"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Verbal irony occurs when ___.",
+            "options": [
+              "A speaker says the opposite of what they actually mean",
+              "A concept unrelated to irony",
+              "A character speaks with no possible hidden meaning",
+              "A speaker always says exactly what they mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A misplaced modifier occurs when ___.",
+            "options": [
+              "A modifier is positioned so it creates confusion or an unintended meaning",
+              "A concept unrelated to misplaced modifiers",
+              "A sentence contains no modifiers of any kind",
+              "A modifier is placed directly next to the word it describes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review symbolism, voice, irony, and reading strategies together?",
+            "options": [
+              "These topics have no connection to each other",
+              "A reason unrelated to reviewing language arts",
+              "Review never helps strengthen understanding of language skills",
+              "It reinforces how these language and literacy skills connect and build on one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Days 51-60 Math Concepts",
+        "summary": "Grade 8 Math strand review: this lesson revisits systems of linear inequalities, the discriminant, exponential growth and decay, direct and partial variation, and transformations of quadratic functions from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "In a system of linear inequalities, the solution region is ___.",
+            "options": [
+              "A concept unrelated to systems of inequalities",
+              "The area where the shaded regions of all inequalities overlap",
+              "The area with no shading of any kind",
+              "Any area shaded by at least one inequality"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the discriminant of a quadratic equation is positive, the equation has ___.",
+            "options": [
+              "Two real roots",
+              "Exactly one real root",
+              "A result unrelated to the discriminant",
+              "No real roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Exponential growth occurs when a quantity ___.",
+            "options": [
+              "Increases by a consistent percentage over equal time periods",
+              "Increases by the same fixed amount every time period",
+              "A concept unrelated to exponential growth",
+              "Remains exactly the same over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The graph of a direct variation relationship always passes through ___.",
+            "options": [
+              "A point unrelated to direct variation",
+              "The point (1, 1) only",
+              "A point that is never on the y-axis",
+              "The origin (0, 0)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review inequalities, quadratics, and variation together?",
+            "options": [
+              "These topics have no connection to each other",
+              "These topics have no connection to each other in mathematics",
+              "These related algebraic concepts reinforce each other for stronger overall understanding",
+              "Review is never useful in math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Days 51-60 Science Concepts",
+        "summary": "Grade 8 Science strand review: this lesson revisits plate tectonics, the rock cycle, electromagnetism, circuits, chemical reactions, the periodic table, homeostasis, biomes, and energy transformations from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earthquakes are typically caused by ___.",
+            "options": [
+              "A cause unrelated to earthquakes",
+              "Changes in ocean temperature alone",
+              "The rotation of Earth on its axis",
+              "The sudden release of built-up stress along plate boundaries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An electromagnet is created by ___.",
+            "options": [
+              "A concept unrelated to electromagnets",
+              "Coiling a current-carrying wire around an iron core",
+              "Placing two permanent magnets next to each other with no current",
+              "Removing all metal from a circuit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A balanced chemical equation must show ___.",
+            "options": [
+              "Equal numbers of each type of atom on both sides",
+              "No atoms represented on either side",
+              "A concept unrelated to balancing equations",
+              "A different number of atoms on each side of the equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Homeostasis refers to the body’s process of ___.",
+            "options": [
+              "Shutting down all bodily systems",
+              "A concept unrelated to homeostasis",
+              "Constantly changing its internal environment with no regulation",
+              "Maintaining a stable internal environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review earth science, physics, chemistry, and biology topics together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "It reinforces how these interconnected science concepts relate to one another",
+              "Review is never useful in science",
+              "These topics have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Days 51-60 Canadian History",
+        "summary": "Grade 8 History strand review: this lesson revisits the Acadian Expulsion, the Rebellions of 1837-38, the Chinese Head Tax, the Komagata Maru incident, the Oka Crisis, the Korean War, and the Multiculturalism Act from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Acadian Expulsion refers to the forced removal of ___.",
+            "options": [
+              "Indigenous peoples from the Prairies",
+              "French-speaking Acadians from their homes in the Maritimes",
+              "A group unrelated to the Acadian Expulsion",
+              "British settlers from Upper Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A major cause of the Rebellions of 1837-38 was ___.",
+            "options": [
+              "A dispute over territory with the United States",
+              "A cause unrelated to the Rebellions of 1837-38",
+              "Demands for greater political representation and reform",
+              "A demand to expel all British colonial settlers immediately"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Oka Crisis was primarily a dispute over ___.",
+            "options": [
+              "Federal funding for education",
+              "A trade agreement with the United States",
+              "Land rights near Oka, Quebec",
+              "A dispute unrelated to the Oka Crisis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Canadian Multiculturalism Act was passed in ___.",
+            "options": [
+              "A year unrelated to the Multiculturalism Act",
+              "1988",
+              "1950",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review these 19th and 20th-century Canadian history topics together?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "It reinforces how these historical events shaped Canadian identity, rights, and policy over time",
+              "These topics have no connection to one another",
+              "Review is never useful when studying history and policy"
+            ],
+            "answer": 1
           }
         ]
       }
