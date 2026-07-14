@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"Grade 12 English: Exam and Celebration", summary:"A final celebration of Grade 12 English — reflecting on the year's literary journey and looking ahead to university and lifelong reading.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
+   videoUrl:"https://www.youtube.com/watch?v=sRkOWvR8mNA",
    quiz:[
      {q:"Grade 12 English culminates in ___.", options:["the end of reading and writing as serious pursuits","only exam preparation","completed study of English","a genuine transformation"], answer:3},
      {q:"The connection between literature and university study is ___.", options:["literary study skills transfer broadly","literature is only relevant in humanities programs","literature is not studied at university","no connection"], answer:0},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Looking Back, Looking Forward", summary:"Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
    resourceLabel:"Khan Academy: Looking Ahead to Calculus", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
+   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
    quiz:[
      {q:"Advanced Functions has prepared you for university mathematics by ___.", options:["only for students in STEM programs","teaching you all the mathematics you will ever need","developing fluency in function analysis","being equivalent to first-year university calculus"], answer:2},
      {q:"The most transferable mathematical skill from Grade 12 is ___.", options:["reasoning and rigorous argument","memorising all formulas","only knowing specific function types","computing derivatives (which you haven't done in this course)"], answer:0},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Looking Back and Forward", summary:"Students reflect on the year's learning in calculus and its connections to the mathematical sciences.",
    resourceLabel:"Khan Academy: Calculus Bridge to University", resourceUrl:"https://www.youtube.com/watch?v=WUvTyaaNkzM",
+   videoUrl:"https://www.youtube.com/watch?v=BRU-hh31JVk",
    quiz:[
      {q:"The Fundamental Theorem of Calculus is profound because ___.", options:["it is the most complex theorem in mathematics","it reveals that differentiation and integration","it makes integration easier to compute","only because it involves two operations"], answer:1},
      {q:"Calculus was developed independently by ___.", options:["Descartes and Fermat","Gauss and Euler","Newton and Leibniz in the 17th century","Euclid and Archimedes"], answer:2},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: A Final Reflection", summary:"Students reflect on their learning in Grade 12 Physics and the role of physics in understanding the universe.",
    resourceLabel:"Crash Course Physics: Reflecting on Physics", resourceUrl:"https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+   videoUrl:"https://www.youtube.com/watch?v=yscrBkfPRyc",
    quiz:[
      {q:"Physics is the most fundamental science because ___.", options:["it underlies all other sciences","it is the oldest science","it is the most difficult","only physicists understand it"], answer:0},
      {q:"The history of physics shows ___.", options:["a series of revolutionary conceptual shifts","major changes in understanding are no longer possible","only a gradual accumulation of facts","physics is a complete and finished discipline"], answer:0},
@@ -640,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Vectors in Three Dimensions", summary:"Students extend 2D vector concepts to 3D — Cartesian coordinates, vector operations, magnitude, dot product, and angle between vectors.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=k7RM-ot2NWY",
+   videoUrl:"https://www.youtube.com/watch?v=Fg5-h8s1pxE",
    quiz:[
      {q:"A vector in 3D is written as ___.", options:["a = (a₁, a₂, a₃) or a₁i + a₂j + a₃k","x + y + z","[x:y:z]","(x, y)"], answer:0},
      {q:"The magnitude of a = (2, −1, 3) is ___.", options:["√(2+1+3) = √6","2 + 1 + 3 = 6","√(4+1+9) = √14","6"], answer:2},
@@ -649,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Related Rates: Advanced Applications", summary:"Students solve multi-step related rates problems in geometry, physics, and engineering contexts.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=I9mVUo-bhM8",
+   videoUrl:"https://www.youtube.com/watch?v=j6I3EXiKB2A",
    quiz:[
      {q:"The key step in any related rates problem is ___.", options:["only to identify the unknown","to find the maximum value","to differentiate the known quantity","relate quantities, then differentiate"], answer:3},
      {q:"A ladder 5 m long leans against a wall. The base slides out at 0.5 m/s. When base is 3 m from wall: find how fast the top slides down.", options:["dy/dt = 0.375 m/s down","dy/dt = 0.25 m/s","dy/dt = 0.5 m/s","dy/dt = 1 m/s"], answer:0},
@@ -658,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Momentum and Impulse", summary:"Students analyse linear momentum, impulse, and the impulse-momentum theorem in collision contexts.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=nPnPqH-R_Y4",
+   videoUrl:"https://www.youtube.com/watch?v=E13h1E_Pc00",
    quiz:[
      {q:"Linear momentum is defined as ___.", options:["p = Ft","p = mv² (kinetic energy, not momentum)","p = ma","p = mv, a vector quantity"], answer:3},
      {q:"The impulse-momentum theorem states ___.", options:["J = mv only","J = ma × t","J = Ft² ","J = FΔt = Δp"], answer:3},

@@ -664,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Growing and Shrinking Patterns", summary:"In a growing pattern, something gets bigger each time (like 1, 3, 5, 7). In a shrinking pattern, something gets smaller each time (like 20, 17, 14, 11).",
    resourceLabel:"YouTube: Growing and Shrinking Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Growing%20and%20Shrinking%20Patterns%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JcNCfb0c8nc",
    quiz:[
      {q:"What comes next in this growing pattern: 2, 5, 8, 11, __?", options:["12","14","13","15"], answer:1},
      {q:"What kind of pattern is 20, 17, 14, 11?", options:["Repeating only","Random","Shrinking","Growing"], answer:2},
@@ -673,6 +674,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Materials", summary:"Materials have properties that describe what they are like — hard or soft, rough or smooth, flexible or stiff, shiny or dull. These properties help us decide how to use them.",
    resourceLabel:"YouTube: Properties of Materials", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Materials%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iOfS7hoTwM0",
    quiz:[
      {q:"Which word describes a surface you might feel on sandpaper?", options:["Smooth","Wet","Rough","Soft"], answer:2},
      {q:"A material that can bend without breaking is called...", options:["Flexible","Stiff","Heavy","Hard"], answer:0},
@@ -682,6 +684,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"How Money and Trading Work", summary:"Long ago, people traded goods they had for goods they needed (called bartering). Today, we use money — coins and bills — to buy and sell things in a fair way.",
    resourceLabel:"YouTube: How Money and Trading Work", resourceUrl:"https://www.youtube.com/results?search_query=How%20Money%20and%20Trading%20Work%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z7hwaeaDk-I",
    quiz:[
      {q:"What is 'bartering'?", options:["Trading items without money","Saving money in a bank","Spending all your money","Buying things with coins"], answer:0},
      {q:"Why do we use money?", options:["Just for fun","As a fair way to buy and sell things","Because it is heavy","To fill piggy banks only"], answer:1},
@@ -693,6 +696,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Plural Nouns (-s and -es)", summary:"A plural noun means more than one. Most nouns add -s (cats, books), but nouns ending in -s, -sh, -ch, or -x add -es (buses, boxes, lunches).",
    resourceLabel:"YouTube: Plural Nouns (-s and -es)", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%20%28-s%20and%20-es%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lD1OaD4FBqM",
    quiz:[
      {q:"What is the plural of 'cat'?", options:["Caties","Cates","Cats","Catses"], answer:2},
      {q:"What is the plural of 'box'?", options:["Box","Boxs","Boxies","Boxes"], answer:3},
@@ -702,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Halves and Quarters", summary:"A fraction shows equal parts of a whole. When something is cut into 2 equal parts, each part is one half (1/2). When cut into 4 equal parts, each part is one quarter (1/4).",
    resourceLabel:"YouTube: Fractions: Halves and Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Halves%20and%20Quarters%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=362JVVvgYPE",
    quiz:[
      {q:"If a pizza is cut into 2 equal pieces, each piece is...", options:["One whole","One third","One half","One quarter"], answer:2},
      {q:"If a square is cut into 4 equal parts, each part is...", options:["One whole","One quarter","One half","One third"], answer:1},
@@ -711,6 +716,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Day, Night, and Shadows", summary:"The Earth rotates (spins), causing day and night. Shadows are made when something blocks light. Shadows change in length and direction through the day.",
    resourceLabel:"YouTube: Day, Night, and Shadows", resourceUrl:"https://www.youtube.com/results?search_query=Day%2C%20Night%2C%20and%20Shadows%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3ydqMIvAWz4",
    quiz:[
      {q:"What causes day and night on Earth?", options:["The moon moving around Earth","The Earth rotating (spinning)","Clouds covering the sun","The sun moving around Earth"], answer:1},
      {q:"A shadow is formed when an object...", options:["Reflects light","Blocks light","Creates light","Absorbs all light perfectly"], answer:1},
@@ -720,6 +726,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Seven Continents and Five Oceans", summary:"Earth has seven continents (large land areas): Africa, Antarctica, Asia, Australia, Europe, North America, and South America. The five oceans are: Pacific, Atlantic, Indian, Southern, and Arctic.",
    resourceLabel:"YouTube: The Seven Continents and Five Oceans", resourceUrl:"https://www.youtube.com/results?search_query=The%20Seven%20Continents%20and%20Five%20Oceans%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=K6DSMZ8b3LE",
    quiz:[
      {q:"How many continents are there on Earth?", options:["8","5","6","7"], answer:3},
      {q:"Which continent do we live on in Canada?", options:["Asia","North America","Europe","South America"], answer:1},

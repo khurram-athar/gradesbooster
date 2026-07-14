@@ -622,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Celebrations and Heritage", summary:"Students explore how Ontario communities celebrate cultural heritage through festivals, traditions, and public holidays.",
    resourceLabel:"YouTube: Community Celebrations and Heritage", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Celebrations%20and%20Heritage%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FOEB87B0Zas",
    quiz:[
      {q:"Heritage is ___.", options:["only food","traditions and history passed down","only museums","only old buildings"], answer:1},
      {q:"Canada Day (July 1) celebrates ___.", options:["the end of winter","Canada's founding in 1867","Ontario's founding only","a sports victory"], answer:1},
@@ -633,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Verb Tenses: Past, Present, Future", summary:"Students identify and use past, present, and future tenses. They understand that tense tells when an action happens.",
    resourceLabel:"YouTube: Verb Tenses: Past, Present, Future", resourceUrl:"https://www.youtube.com/results?search_query=Verb%20Tenses%3A%20Past%2C%20Present%2C%20Future%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4Rm9l6y3-WY",
    quiz:[
      {q:"Which sentence is in the PAST tense?", options:["I walk to school.","They will play tomorrow.","She is running.","He ate his lunch."], answer:3},
      {q:"Which sentence is in the PRESENT tense?", options:["They will come soon.","She ran yesterday.","We are playing now.","He had left already."], answer:2},
@@ -642,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication Facts: Review to 10×10", summary:"Students consolidate multiplication facts up to 10×10 and use strategies to solve unknown facts.",
    resourceLabel:"YouTube: Multiplication Facts: Review to 10×10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%20Review%20to%2010%C3%9710%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OQjkFQAIOck",
    quiz:[
      {q:"7 × 8 = ?", options:["54","58","60","56"], answer:3},
      {q:"9 × 6 = ?", options:["48","58","54","52"], answer:2},
@@ -651,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Magnets", summary:"Students explore properties of magnets: poles (N/S), attraction, repulsion, magnetic fields, and everyday uses.",
    resourceLabel:"YouTube: Magnets", resourceUrl:"https://www.youtube.com/results?search_query=Magnets%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BAFsDeJ1j4I",
    quiz:[
      {q:"Opposite poles of magnets ___.", options:["do nothing","attract","repel","break apart"], answer:1},
      {q:"Like poles of magnets ___.", options:["stick together always","have no reaction","repel (push away)","attract strongly"], answer:2},
@@ -660,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urban and Rural Communities: Services", summary:"Students compare the services available in urban and rural communities, exploring how geography and population affect service availability.",
    resourceLabel:"YouTube: Urban and Rural Communities: Services", resourceUrl:"https://www.youtube.com/results?search_query=Urban%20and%20Rural%20Communities%3A%20Services%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YRxNQPmj1-8",
    quiz:[
      {q:"Which service is more commonly found in large urban areas?", options:["A major hospital with specialist care","A small one-room schoolhouse","A grain elevator","A logging camp"], answer:0},
      {q:"A rural community might rely on ___.", options:["long trips for medical or retail needs","skyscrapers","subway systems","a packed public transit system"], answer:0},
@@ -671,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Summarising: Non-Fiction", summary:"Students summarise non-fiction texts by identifying the main idea, key details, and omitting unnecessary information.",
    resourceLabel:"YouTube: Summarising: Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Summarising%3A%20Non-Fiction%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=as7xe8UQEr4",
    quiz:[
      {q:"To summarise a non-fiction text, you should ___.", options:["only write the first paragraph","state the main idea in your own words","make up new information","copy every sentence"], answer:1},
      {q:"Which information should be OMITTED in a summary?", options:["The topic of the text","Minor details off the main idea","Key supporting facts","The main idea"], answer:1},

@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"Writing: Exam Preparation — Timed Literary Response", summary:"Students practise timed literary analysis, applying strategies for close reading under time pressure, efficient evidence selection, and focused analytical argumentation.",
    resourceLabel:"YouTube: Writing: Exam Preparation — Timed Literary Response", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Exam%20Preparation%20%E2%80%94%20Timed%20Literary%20Response%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ga-ONwAX9cg",
    quiz:[
      {q:"For a timed literary essay (45-60 min), the best planning approach is ___.", options:["only writing a conclusion first","writing without planning","planning for 20+ minutes before writing","spending 5-7 minutes forming a clear thesis, selecting 2-3 pieces of evidence, and making a quick outline, then writing efficiently"], answer:2},
      {q:"Under time pressure, you should prioritise ___.", options:["covering every detail in the text","clarity and evidence over quantity","the longest quotations possible","perfect spelling throughout"], answer:1},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Grade 10 Math Comprehensive", summary:"Students review all major Grade 10 mathematics topics.",
    resourceLabel:"YouTube: Review: Grade 10 Math Comprehensive", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Grade%2010%20Math%20Comprehensive%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Veb22xD0Ao0",
    quiz:[
      {q:"Solve the system: 2x + 3y = 12 and x − y = 1", options:["x = 4, y = 3","x = 5, y = 1","x = 2, y = 3","x = 3, y = 2"], answer:3},
      {q:"Factor: x² − 9", options:["(x + 9)(x − 1)","(x − 3)²","(x − 3)(x + 3)","(x + 9)(x − 9)"], answer:2},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Sustainability and Future Technologies", summary:"Students examine sustainable technologies — renewable energy, green chemistry, biotechnology — and their role in addressing 21st century challenges.",
    resourceLabel:"YouTube: Science: Sustainability and Future Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Sustainability%20and%20Future%20Technologies%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=milERbJAJVk",
    quiz:[
      {q:"Green chemistry principles aim to ___.", options:["increase chemical production","maximise energy consumption","only apply to pharmaceuticals","reducing hazardous substances"], answer:3},
      {q:"Solar cells (photovoltaics) convert ___.", options:["nuclear energy to electricity","heat to electricity","light directly to electrical energy","chemical energy to electricity"], answer:2},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Citizenship: Civic Participation and Democratic Engagement", summary:"Students examine forms of civic engagement, the responsibilities of citizenship, and how they can participate meaningfully in Canadian democracy now.",
    resourceLabel:"YouTube: Citizenship: Civic Participation and Democratic Engagement", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%3A%20Civic%20Participation%20and%20Democratic%20Engagement%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=387o7cyj40g",
    quiz:[
      {q:"Voting is ___.", options:["not important for young people","the only form of civic engagement","a fundamental right and responsibility in democracy","the most effective form of advocacy"], answer:2},
      {q:"Active citizenship includes ___.", options:["boycotting elections","only serving in government","only voting","staying informed and civically engaged"], answer:3},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Reading: Short Fiction and the Short Story Form", summary:"Students analyse the distinctive features of the short story — economy of language, compressed plot, a single dominant effect — through close reading of examples.",
    resourceLabel:"YouTube: Reading: Short Fiction and the Short Story Form", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Short%20Fiction%20and%20the%20Short%20Story%20Form%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4PqGPZtyFtw",
    quiz:[
      {q:"The 'single effect' principle (Poe) in short fiction means ___.", options:["stories must end happily","only one literary device is used","stories must have only one character","one dominant effect on the reader"], answer:3},
      {q:"Economy in short fiction means ___.", options:["using only simple vocabulary","every word must count","avoiding all description","stories must be under 1000 words"], answer:1},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratics: Completing the Square", summary:"Students convert quadratic equations from standard to vertex form by completing the square, then use vertex form for graphing and solving.",
    resourceLabel:"YouTube: Quadratics: Completing the Square", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%3A%20Completing%20the%20Square%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2MKigAgPZMQ",
    quiz:[
      {q:"Completing the square transforms ax² + bx + c into ___.", options:["slope-intercept form","scientific notation","vertex form, showing the vertex","factored form"], answer:2},
      {q:"To complete the square for x² + 6x, you add and subtract ___.", options:["36","3","9 (half of 6, squared: (6/2)² = 9)","6"], answer:2},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Acids, Bases, and pH", summary:"Students examine Arrhenius acid/base definitions, the pH scale, neutralisation reactions, and indicators.",
    resourceLabel:"YouTube: Chemistry: Acids, Bases, and pH", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Acids%2C%20Bases%2C%20and%20pH%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xeuyc55LqiY",
    quiz:[
      {q:"An Arrhenius acid ___.", options:["is always corrosive","produces H⁺ ions in water","produces hydroxide ions in solution","accepts a proton"], answer:1},
      {q:"An Arrhenius base ___.", options:["produces OH⁻ ions in water","produces hydrogen ions","donates a proton","is always a liquid"], answer:0},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Post-War Canada: Social Change 1945-1970", summary:"Students examine the baby boom, suburbanisation, the welfare state, women's liberation, and shifting Canadian values in the post-WWII decades.",
    resourceLabel:"YouTube: Post-War Canada: Social Change 1945-1970", resourceUrl:"https://www.youtube.com/results?search_query=Post-War%20Canada%3A%20Social%20Change%201945-1970%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-rkIqtV07HE",
    quiz:[
      {q:"Canada's post-WWII welfare state included ___.", options:["only pensions","only healthcare","no new social programs","insurance, Medicare, and pensions"], answer:3},
      {q:"The women's liberation movement in Canada in the 1960s-70s fought for ___.", options:["only voting rights (already won)","only workplace safety","no significant changes","equal pay and reproductive rights"], answer:3},

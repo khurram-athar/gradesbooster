@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Week 3 review — mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Story Analysis, Media, Speech, and Narrators", summary:"Mixed review of theme and conflict, comparing media texts, persuasive speech, and point of view.",
    resourceLabel:"YouTube: Review: Story Analysis, Media, Speech, and Narrators", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Story%20Analysis%2C%20Media%2C%20Speech%2C%20and%20Narrators%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VORBhTblQsw",
    quiz:[
      {q:"The theme of a story is best described as...", options:["The page count","The underlying message or insight","The opening sentence","The list of characters"], answer:1},
      {q:"A persuasive speech's 'call to action' asks the audience to...", options:["Do something specific in response","Ask no questions","Read another speech","Forget the speech"], answer:0},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Inequalities, Distributive Property, GCF, and Factoring Patterns", summary:"Mixed review of inequalities on a number line, expanding with the distributive property, GCF factoring, and difference of squares.",
    resourceLabel:"YouTube: Review: Inequalities, Distributive Property, GCF, and Factoring Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Inequalities%2C%20Distributive%20Property%2C%20GCF%2C%20and%20Factoring%20Patterns%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=v-6MShC82ow",
    quiz:[
      {q:"Solve: 3x + 1 > 10", options:["x < 3","x = 3","x > 3","x > 11"], answer:2},
      {q:"Expand: (x + 5)(x - 2)", options:["x² - 3x - 10","x² - 10","x² + 3x - 10","x² + 3x + 10"], answer:2},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Cells, Photosynthesis, Periodic Table, and Bonding", summary:"Mixed review of cell organelles, photosynthesis/respiration, periodic trends, and ionic vs covalent bonds.",
    resourceLabel:"YouTube: Review: Cells, Photosynthesis, Periodic Table, and Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Photosynthesis%2C%20Periodic%20Table%2C%20and%20Bonding%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AVVDP_XJHkA",
    quiz:[
      {q:"The organelle that controls cell activities and contains DNA is the...", options:["Ribosome","Mitochondria","Nucleus","Vacuole"], answer:2},
      {q:"Photosynthesis takes place in the...", options:["Nucleus","Ribosome","Mitochondria","Chloroplast"], answer:3},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Natural Hazards, Globalization, Climate Zones, and Water", summary:"Mixed review of geographic risk, globalization, climate zones and biomes, and global water access.",
    resourceLabel:"YouTube: Review: Natural Hazards, Globalization, Climate Zones, and Water", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Natural%20Hazards%2C%20Globalization%2C%20Climate%20Zones%2C%20and%20Water%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5tC8OOxOFEk",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["Mountain peaks only","Ocean surfaces only","Tectonic plate boundaries","The centre of continents"], answer:2},
      {q:"One potential negative effect of globalization on a local economy is...", options:["Always lower unemployment","No impact on businesses","Losing business to foreign rivals","Increased demand for local products"], answer:2},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary in Complex Texts: Using Context Clues", summary:"Use context clues (definition, example, contrast, inference) to determine the meaning of unfamiliar words in complex texts (ENL1W Strand A).",
    resourceLabel:"YouTube: Vocabulary in Complex Texts: Using Context Clues", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20in%20Complex%20Texts%3A%20Using%20Context%20Clues%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CiNggzdWkIo",
    quiz:[
      {q:"A definition context clue directly...", options:["Provides the meaning of a word right in the sentence or nearby","Requires a dictionary always","Gives an example of the word in action","Only hints at meaning through contrast"], answer:0},
      {q:"In the sentence 'She was laconic — rarely speaking more than a few words,' the context clue is...", options:["A contrast clue using 'but'","A definition clue following a dash","No clue at all","An example clue"], answer:1},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Pythagorean Theorem and Applications", summary:"Apply the Pythagorean theorem (a² + b² = c²) to find missing side lengths in right triangles and solve real-world problems (MTH1W Geometry strand).",
    resourceLabel:"YouTube: The Pythagorean Theorem and Applications", resourceUrl:"https://www.youtube.com/results?search_query=The%20Pythagorean%20Theorem%20and%20Applications%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nCD-bAEbB3I",
    quiz:[
      {q:"The Pythagorean theorem states that in a right triangle...", options:["a + b = c","a × b = c²","a² + b² = c², where c is the hypotenuse","c² - a² = b instead of b²"], answer:2},
      {q:"Find the hypotenuse of a right triangle with legs 3 and 4.", options:["√7","6","5","7"], answer:2},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Balancing Chemical Equations Practice", summary:"Practice balancing chemical equations by adjusting coefficients so that the number of each type of atom is equal on both sides (SNC1W Chemistry strand).",
    resourceLabel:"YouTube: Balancing Chemical Equations Practice", resourceUrl:"https://www.youtube.com/results?search_query=Balancing%20Chemical%20Equations%20Practice%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kY1Qeju6JKI",
    quiz:[
      {q:"When balancing a chemical equation, you may only change...", options:["The coefficients (numbers in front of formulas)","The subscripts inside chemical formulas","The names of the elements","The side of the equation the products are on"], answer:0},
      {q:"The Law of Conservation of Mass states that in a chemical reaction...", options:["Mass always increases","New atoms can be created if needed","Some atoms can disappear","Matter is neither created nor destroyed"], answer:3},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Food Security and Agricultural Geography", summary:"Examine global patterns of food production and access, and the geographic factors that shape food security or insecurity (CGC1W).",
    resourceLabel:"YouTube: Food Security and Agricultural Geography", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Security%20and%20Agricultural%20Geography%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8c5ZN7BseNA",
    quiz:[
      {q:"Food security means that people have...", options:["No need for imported food","Reliable access to enough safe food","Food only from local sources","Unlimited farmland"], answer:1},
      {q:"Which geographic factor most directly supports productive agriculture?", options:["Cold temperatures and rocky terrain","Fertile soil and adequate rainfall","High elevation alone","Dense forest cover"], answer:1},

@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Writing a Research Report: Organization and Citation", summary:"Ontario Writing strand: a well-organized research report has an introduction, body sections with headings, and a conclusion. Proper citation gives credit to sources and avoids plagiarism.",
    resourceLabel:"YouTube: Writing a Research Report: Organization and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Research%20Report%3A%20Organization%20and%20Citation%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yt6zuQbETMI",
    quiz:[
      {q:"When paraphrasing a source in your report, you should:", options:["Copy the exact words and put them in quotes","Only use the information if it agrees with your thesis","Not cite it since you used your own words","Rewrite the idea in your own words and still cite the source"], answer:3},
      {q:"The introduction of a research report should:", options:["List all sources","Include all your conclusions","Be the longest section","Hook the reader and state the focus"], answer:3},
@@ -611,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Compound Machines and Mechanical Systems", summary:"Ontario Mechanical Advantage strand: compound machines combine two or more simple machines. Gears, pulleys, and levers work together in mechanical systems to transfer and multiply forces efficiently.",
    resourceLabel:"YouTube: Compound Machines and Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Machines%20and%20Mechanical%20Systems%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"A compound machine is:", options:["A type of electric motor","A very large simple machine","A machine with only one moving part","Two or more simple machines combined"], answer:3},
      {q:"Gears are used in machines to:", options:["Generate electricity","Only change the colour of output","Change the speed or direction of motion","Store energy"], answer:2},
@@ -620,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Confederation: The Birth of Canada", summary:"Ontario Grade 6 Social Studies — Canada's History: Confederation in 1867 united the Province of Canada, New Brunswick, and Nova Scotia into the Dominion of Canada. Factors including trade, defence, and political deadlock motivated the union.",
    resourceLabel:"YouTube: Confederation: The Birth of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20The%20Birth%20of%20Canada%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
    quiz:[
      {q:"Canada became a Dominion through Confederation in:", options:["1900","1850","1812","1867"], answer:3},
      {q:"The four founding provinces of Confederation were:", options:["Ontario, Quebec, Nova Scotia, New Brunswick","All provinces joined at once","Ontario, Quebec, Prince Edward Island, New Brunswick","British Columbia, Alberta, Saskatchewan, Manitoba"], answer:0},
@@ -631,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Literary Devices: Foreshadowing and Flashback", summary:"Students identify and analyse foreshadowing (hints at future events) and flashback (interruption to show past events) in narratives.",
    resourceLabel:"YouTube: Literary Devices: Foreshadowing and Flashback", resourceUrl:"https://www.youtube.com/results?search_query=Literary%20Devices%3A%20Foreshadowing%20and%20Flashback%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IL2_SD3Sc50",
    quiz:[
      {q:"Foreshadowing in a story means ___.", options:["looking back at a past event","a character's thoughts only","dialogue between characters","a clue early on about later events"], answer:3},
      {q:"A flashback is ___.", options:["a character description","a scene showing something from the past","a prediction of future events","a type of simile"], answer:1},
@@ -640,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratios", summary:"Students understand ratios as comparisons of two quantities. They write ratios in three forms (a:b, a to b, a/b) and find equivalent ratios.",
    resourceLabel:"YouTube: Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"A ratio compares ___.", options:["only percentages","two quantities or amounts","only whole numbers","a fraction and a decimal"], answer:1},
      {q:"The ratio of 3 red to 5 blue balls can be written as ___.", options:["only 3 to 5","3:5, 3 to 5, or 3/5","5:3 only","3/5 only"], answer:1},
@@ -649,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Students explore the eight planets, dwarf planets, moons, asteroids, and comets. They compare planet characteristics and orbital patterns.",
    resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qd6nLM2QlWw",
    quiz:[
      {q:"The correct order of planets from the Sun is ___.", options:["Mars, Venus, Mercury, Earth...","Earth, Venus, Mars, Jupiter...","Mercury, Venus, Earth, Mars, and beyond","Venus, Mercury, Earth, Mars..."], answer:2},
      {q:"Which planet is the largest in our solar system?", options:["Saturn","Uranus","Jupiter","Neptune"], answer:2},
@@ -658,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Rome", summary:"Students explore the rise and fall of the Roman Empire, its government structure, engineering achievements, and lasting influence on the Western world.",
    resourceLabel:"YouTube: Ancient Civilisations: Rome", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Rome%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Wo0KujQEJ_s",
    quiz:[
      {q:"The Roman Republic was governed by ___.", options:["a single king with unlimited power","only priests","a Senate and elected magistrates","only military generals"], answer:2},
      {q:"Julius Caesar was ___.", options:["the first Roman Emperor","a Greek philosopher","a Roman general assassinated in 44 BCE","a Carthaginian general"], answer:2},

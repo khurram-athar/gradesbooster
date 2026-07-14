@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Reading: Shakespearean Drama", summary:"Students read excerpts from a Shakespeare play (e.g., Macbeth or Romeo and Juliet). They interpret Elizabethan language, identify dramatic conventions, and analyse key scenes.",
    resourceLabel:"YouTube: Reading: Shakespearean Drama", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Shakespearean%20Drama%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ine9BJye4Po",
    quiz:[
      {q:"In Shakespearean tragedy, the protagonist's downfall is typically caused by ___.", options:["supernatural forces only","bad luck alone","a fatal flaw (hamartia)","external enemies only"], answer:2},
      {q:"An aside in theatre is ___.", options:["a character's words spoken to another character","a scene description","a stage direction","a remark to the audience alone"], answer:3},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Polynomials Introduction", summary:"Students identify monomials, binomials, and trinomials. They add and subtract polynomials by collecting like terms.",
    resourceLabel:"YouTube: Algebra: Polynomials Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Polynomials%20Introduction%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ffLLmV4mZwU",
    quiz:[
      {q:"A polynomial is ___.", options:["only a two-term expression","only a one-term expression","a type of equation only","terms of variables and coefficients"], answer:3},
      {q:"A binomial has ___.", options:["one term","three terms","four terms","two terms"], answer:3},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Review and Synthesis", summary:"Students synthesise their learning about cells, reproduction, genetics, and body systems, connecting ideas across the strand.",
    resourceLabel:"YouTube: Cells: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Review%20and%20Synthesis%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LiR0wNi1JHg",
    quiz:[
      {q:"Which correctly shows the flow of genetic information?", options:["Protein → DNA → RNA","Protein → RNA → DNA","DNA → RNA → Protein","RNA → DNA → Protein"], answer:2},
      {q:"How does mitosis differ from meiosis?", options:["They are identical","2 identical cells vs. 4 unique ones","Meiosis produces identical cells","Mitosis produces 4 cells; meiosis produces 2"], answer:1},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Contemporary Canada: Issues and Identity", summary:"Students examine contemporary Canadian issues: Indigenous reconciliation, environmental policy, Quebec and Canadian identity, and Canada's role in global affairs.",
    resourceLabel:"YouTube: Contemporary Canada: Issues and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canada%3A%20Issues%20and%20Identity%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The Truth and Reconciliation Commission (TRC) of Canada ___.", options:["ended all Indigenous land claims","documented harms and 94 Calls to Action","was a trial of Indigenous leaders","denied the residential school system occurred"], answer:1},
      {q:"The United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), adopted by Canada in 2016 and legislated in 2021, ___.", options:["has no legal significance","was rejected by Canada","only applies outside Canada","affirms Indigenous rights and consent"], answer:3},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Writing: Narrative with Shifting Point of View", summary:"Students experiment with narrative point of view — first person, second person, third limited, and third omniscient — and analyse how POV shapes reader experience.",
    resourceLabel:"YouTube: Writing: Narrative with Shifting Point of View", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20with%20Shifting%20Point%20of%20View%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GGS3NcmAZnw",
    quiz:[
      {q:"First-person POV uses ___.", options:["a neutral outside perspective","I/we pronouns and direct thoughts","you pronouns","he/she/they pronouns"], answer:1},
      {q:"Third-person omniscient POV means ___.", options:["only descriptions of external events","the narrator is a character in the story","the narrator knows all minds","the narrator knows only one character's thoughts"], answer:2},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Multiplying Polynomials", summary:"Students multiply polynomials: monomial × polynomial and binomial × binomial using the distributive property and FOIL.",
    resourceLabel:"YouTube: Algebra: Multiplying Polynomials", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Multiplying%20Polynomials%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZvL9aDGNHqA",
    quiz:[
      {q:"To multiply 3x(2x + 5), you apply ___.", options:["FOIL","the Pythagorean theorem","the commutative property only","distributive property: 6x² + 15x"], answer:3},
      {q:"FOIL stands for ___.", options:["First, Open, Include, Last","None of these","First, Outer, Inner, Last","Factor, Operate, Integrate, List"], answer:2},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Mechanical Systems: Efficiency and Energy", summary:"Students examine efficiency in machines, energy input vs. output, friction losses, and renewable energy technologies.",
    resourceLabel:"YouTube: Mechanical Systems: Efficiency and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Mechanical%20Systems%3A%20Efficiency%20and%20Energy%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qTaaErZJJHI",
    quiz:[
      {q:"Mechanical efficiency is ___.", options:["always 100% in ideal machines","unrelated to energy","always less than 100% due to friction","greater than 100% in compound machines"], answer:2},
      {q:"Efficiency = ___.", options:["energy × time","output energy / input energy × 100%","output + input","input energy / output energy × 100%"], answer:1},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Post-WWII Canada: Growth and Change", summary:"Students examine the baby boom, suburbanisation, the Quiet Revolution, Expo 67, and Canada's evolving sense of identity in the 1950s–1960s.",
    resourceLabel:"YouTube: Post-WWII Canada: Growth and Change", resourceUrl:"https://www.youtube.com/results?search_query=Post-WWII%20Canada%3A%20Growth%20and%20Change%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The baby boom refers to ___.", options:["a decline in birth rates after WWII","a type of school program","the birth rate surge from 1946 to 1964","a government program for children"], answer:2},
      {q:"Suburbanisation after WWII was driven by ___.", options:["a preference for city centres","declining car ownership","car culture and affordable housing","government mandates"], answer:2},

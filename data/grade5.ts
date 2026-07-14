@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Idioms, Word Meanings, and Purpose", summary:"Mixed review of idioms, multiple-meaning words, author's purpose, and summarizing.",
    resourceLabel:"YouTube: Review: Idioms, Word Meanings, and Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Idioms%2C%20Word%20Meanings%2C%20and%20Purpose%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cdhtf66xvVs",
    quiz:[
      {q:"A story describes a character 'burning the midnight oil' before a big test. What does this reveal about the character?", options:["They are literally starting a fire, showing carelessness","They feel sleepy, showing laziness","They are cooking dinner, showing hunger","They are working late into the night, showing dedication"], answer:3},
      {q:"In 'The plane will bank sharply to the left,' the word 'bank' means...", options:["A pile of snow","The land beside a river","To tilt or turn at an angle","A financial institution"], answer:2},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Numbers, Operations, and Fractions", summary:"Mixed review of prime/composite numbers, factors/multiples, BEDMAS, and mixed numbers.",
    resourceLabel:"YouTube: Review: Numbers, Operations, and Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%2C%20Operations%2C%20and%20Fractions%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5hG8e9jGeaA",
    quiz:[
      {q:"Which number is both prime AND a multiple of 3?", options:["15","9","21","3"], answer:3},
      {q:"A classroom of 30 students is divided into equal groups. Which group size would NOT divide evenly?", options:["7","10","5","6"], answer:0},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Machines, Water Cycle, and Classification", summary:"Mixed review of simple machines, the water cycle, and classifying living things.",
    resourceLabel:"YouTube: Review: Machines, Water Cycle, and Classification", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Machines%2C%20Water%20Cycle%2C%20and%20Classification%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8tCBv4PFlYE",
    quiz:[
      {q:"A see-saw at a playground is an example of which simple machine, and what does it do?", options:["An inclined plane; spreads a force over distance","A pulley; changes the direction of a force","A wheel and axle; reduces friction","A lever; helps lift a load with less effort"], answer:3},
      {q:"During which stage of the water cycle does liquid water turn into vapour and rise into the air?", options:["Collection","Condensation","Precipitation","Evaporation"], answer:3},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Fur Trade, Underground Railroad, and Immigration", summary:"Mixed review of the fur trade economy, the Underground Railroad, immigration, and multiculturalism.",
    resourceLabel:"YouTube: Review: Fur Trade, Underground Railroad, and Immigration", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fur%20Trade%2C%20Underground%20Railroad%2C%20and%20Immigration%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RRhjqqe750A",
    quiz:[
      {q:"Why were beaver pelts the most valuable resource in the fur trade, rather than something like corn?", options:["Beaver fur was fashionable in Europe","There was no demand for any furs","Beaver pelts were used directly as currency","Corn could not be grown in Canada"], answer:0},
      {q:"How did the Underground Railroad help people seeking freedom, despite not being an actual railway?", options:["It was only a symbolic name with no real function","It transported goods, not people","It provided a secret network of routes and safe houses to reach freedom","It was a literal underground train system"], answer:2},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Making Inferences", summary:"An inference is a conclusion you draw by combining clues from the text with what you already know.",
    resourceLabel:"YouTube: Making Inferences", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Inferences%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xlYhs7xlH9U",
    quiz:[
      {q:"A character enters a room, immediately opens all the windows, and fans their face with a magazine. What can you infer?", options:["The room is cold","The character is bored","The character is sad","The room is hot or stuffy"], answer:3},
      {q:"Which clue combination would BEST support the inference that a character is nervous before a performance?", options:["Smiling calmly and humming a tune","Pacing, sweaty palms, and repeatedly checking the time","Sitting still and reading a book","Eating a leisurely breakfast"], answer:1},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying Fractions by Whole Numbers", summary:"To multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator the same.",
    resourceLabel:"YouTube: Multiplying Fractions by Whole Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20Fractions%20by%20Whole%20Numbers%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2gFCEY9Hxas",
    quiz:[
      {q:"A recipe needs 2/3 cup of sugar per batch. How much sugar is needed for 5 batches?", options:["10/15 cups","7/3 cups","10/3 cups","2/15 cups"], answer:2},
      {q:"Which expression is equivalent to 4 × 3/5?", options:["12/5","4/15","3/20","12/20"], answer:0},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light and Reflection", summary:"Light travels in straight lines and reflects off surfaces, which is how we see objects and images in mirrors.",
    resourceLabel:"YouTube: Light and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Reflection%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DzpHXtnXFCI",
    quiz:[
      {q:"You see a clear reflection in a still lake but a blurry one in a rippling lake. What does this reveal about reflection?", options:["Reflection needs a smooth surface","Reflection only happens on land","Water never reflects light","Ripples improve reflection quality"], answer:0},
      {q:"A straw appears bent when placed in a glass of water. What causes this optical effect?", options:["Light stops moving in water","The straw physically bends","Light refracts as it passes from air into water","The glass distorts all objects"], answer:2},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Territories", summary:"Canada has three territories — Yukon, Northwest Territories, and Nunavut — located in the north, each with unique geography and peoples.",
    resourceLabel:"YouTube: Canada's Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Territories%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"Why do Canada's territories receive certain powers directly from the federal government rather than functioning exactly like provinces?", options:["Territories relate differently to Ottawa","There is no difference between them","Territories have more power than provinces","This is not actually true"], answer:0},
      {q:"Nunavut has a large Inuit population and was created as its own territory in 1999. Why might this matter for the Inuit?", options:["It merges Inuit lands with a province","It eliminates all Inuit traditions","It gives Inuit more self-governance","It has no significance for Inuit people"], answer:2},

@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"English: Year in Review and Looking Ahead to Grade 12", summary:"Students reflect on their growth as readers, writers, and thinkers in Grade 11 and set meaningful goals for Grade 12 and beyond.",
    resourceLabel:"YouTube: English: Year in Review and Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=95TiN8t_w3c",
    quiz:[
      {q:"The most significant shift in Grade 11 English from Grade 10 is ___.", options:["greater intellectual independence","less reading overall","only longer essays required","simpler vocabulary required"], answer:0},
      {q:"Sophisticated literary analysis at the Grade 11 level involves ___.", options:["memorising established interpretations","avoiding controversial interpretations","forming original interpretations","paraphrasing the text in detail"], answer:2},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Final Exam Preparation", summary:"Students practise comprehensive problem-solving across all Grade 11 Functions topics.",
    resourceLabel:"YouTube: Functions: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yEPVEfUVrF4",
    quiz:[
      {q:"Solve: 2ˣ = 128", options:["x = 256","x = 14","x = 7 (since 2⁷ = 128)","x = 64"], answer:2},
      {q:"A polynomial P(x) has zeros at x = −2 (multiplicity 2), x = 1, x = 4, with positive leading coefficient. As x → +∞, y → ___.", options:["y → −∞","y → +∞ (even degree, positive lead)","y → 0","y → −∞ (negative leading coefficient)"], answer:1},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Final Exam Preparation", summary:"Students review key concepts across all Grade 11 Biology strands.",
    resourceLabel:"YouTube: Biology: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g36IqWvXxqU",
    quiz:[
      {q:"The central dogma of molecular biology is ___.", options:["DNA → RNA → Protein","DNA → Protein directly","RNA → DNA → Protein","Protein → RNA → DNA"], answer:0},
      {q:"Natural selection favours ___.", options:["the strongest individual","the most intelligent individual","the fastest individual","traits that boost reproductive success"], answer:3},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Final Exam Preparation", summary:"Students review key concepts across all Grade 11 Chemistry strands.",
    resourceLabel:"YouTube: Chemistry: Final Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Final%20Exam%20Preparation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
    quiz:[
      {q:"A reaction with ΔH = −200 kJ is ___.", options:["thermoneutral","unpredictable","endothermic","exothermic — heat is released"], answer:3},
      {q:"Percent yield of 85% means ___.", options:["you obtained 85% of the maximum possible product","only 15% of reactants were used","85% of the theoretical product was not formed","there was an 85% error in measurement"], answer:0},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Reading: Dystopian Fiction and Social Critique", summary:"Students read and analyse a dystopian novel (e.g., 1984, Brave New World, The Handmaid's Tale), examining how dystopian fiction uses speculative worlds to critique contemporary society.",
    resourceLabel:"YouTube: Reading: Dystopian Fiction and Social Critique", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Dystopian%20Fiction%20and%20Social%20Critique%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lF0NeBtLFqg",
    quiz:[
      {q:"Dystopian fiction extrapolates from ___.", options:["real present-day trends and fears","historical events only","only fantasy worlds","pure imagination"], answer:0},
      {q:"The surveillance state in dystopian fiction (e.g., Orwell's Oceania) critiques ___.", options:["only Soviet communism in 1949","surveillance that only existed in fiction","any political system","only historical authoritarian regimes"], answer:2},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Advanced Trigonometry: Compound Angle Formulas", summary:"Students derive and apply compound angle formulas: sin(A ± B), cos(A ± B), and double angle formulas.",
    resourceLabel:"YouTube: Advanced Trigonometry: Compound Angle Formulas", resourceUrl:"https://www.youtube.com/results?search_query=Advanced%20Trigonometry%3A%20Compound%20Angle%20Formulas%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tY-sTxnPJKw",
    quiz:[
      {q:"The compound angle formula sin(A + B) = ___.", options:["cosA cosB − sinA sinB","sinA + sinB","sinA × sinB","sinA cosB + cosA sinB"], answer:3},
      {q:"cos(A − B) = ___.", options:["cosA cosB + sinA sinB","cosA cosB − sinA sinB","cosA − cosB","sinA sinB − cosA cosB"], answer:0},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Biotechnology Applications", summary:"Students examine biotechnology applications of genetics: PCR, gel electrophoresis, GMOs, DNA fingerprinting, and CRISPR.",
    resourceLabel:"YouTube: Genetics: Biotechnology Applications", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%3A%20Biotechnology%20Applications%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CDw4WPng2iE",
    quiz:[
      {q:"PCR (Polymerase Chain Reaction) ___.", options:["edits genes directly","amplifies specific DNA sequences","destroys DNA samples","sequences DNA only"], answer:1},
      {q:"Gel electrophoresis separates DNA fragments by ___.", options:["nucleotide sequence directly","colour of the DNA","size — smaller fragments move further","random movement"], answer:2},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemical Kinetics: Rates of Reaction", summary:"Students examine factors affecting reaction rate — concentration, temperature, surface area, catalysts — and collision theory.",
    resourceLabel:"YouTube: Chemical Kinetics: Rates of Reaction", resourceUrl:"https://www.youtube.com/results?search_query=Chemical%20Kinetics%3A%20Rates%20of%20Reaction%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BqNDbU41JMU",
    quiz:[
      {q:"Collision theory states that a reaction occurs when ___.", options:["particles collide with enough energy","molecules are at the same temperature","any two molecules collide","reactant particles are dissolved"], answer:0},
      {q:"Increasing temperature increases reaction rate because ___.", options:["it adds a catalyst","it increases surface area","it decreases activation energy","more collisions have enough energy"], answer:3},

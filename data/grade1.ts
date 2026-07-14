@@ -654,6 +654,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Nouns: People, Places, Things", summary:"Ontario Grade 1 Writing strand: a noun names a person, place, or thing. Proper nouns name specific people, places, or things and begin with a capital letter.",
    resourceLabel:"YouTube: Nouns: People, Places, Things", resourceUrl:"https://www.youtube.com/results?search_query=Nouns%3A%20People%2C%20Places%2C%20Things%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3K5vg_QsKCc",
    quiz:[
      {q:"A noun is a ___.", options:["Naming word","Connecting word","Action word","Describing word"], answer:0},
      {q:"Which word is a noun: The dog runs fast?", options:["The","Dog","Fast","Runs"], answer:1},
@@ -663,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition to 20", summary:"Ontario Grade 1 Number strand: students add two numbers with sums up to 20 using strategies such as counting on, making tens, and using doubles.",
    resourceLabel:"YouTube: Addition to 20", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2020%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VScM8Z8Jls0",
    quiz:[
      {q:"7 + 6 = ?", options:["14","12","13","11"], answer:2},
      {q:"9 + 9 = ?", options:["18","17","19","16"], answer:0},
@@ -672,6 +674,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Food Chains", summary:"Ontario Grade 1 Life Systems strand: a food chain shows how energy passes from one living thing to another. It starts with a plant (producer), then a herbivore (consumer), then a carnivore.",
    resourceLabel:"YouTube: Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0DL4AUBe3WA",
    quiz:[
      {q:"In a food chain, plants are called ___.", options:["Consumers","Carnivores","Herbivores","Producers"], answer:3},
      {q:"An animal that eats only plants is called a ___.", options:["Producer","Herbivore","Carnivore","Omnivore"], answer:1},
@@ -681,6 +684,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Communities", summary:"Ontario Grade 1 Social Studies strand B: students compare communities around the world, identifying similarities and differences in how people meet their basic needs.",
    resourceLabel:"YouTube: Global Communities", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Communities%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-84U1EsZCbY",
    quiz:[
      {q:"Communities around the world are ___.", options:["Only similar","All different with nothing in common","Exactly the same","Different in some, similar in others"], answer:3},
      {q:"What basic need do all communities around the world share?", options:["Food, shelter, and water","Electricity","The same language","The same food"], answer:0},
@@ -692,6 +696,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Pronouns", summary:"Ontario Grade 1 Writing strand: pronouns take the place of nouns. Examples: I, you, he, she, it, we, they.",
    resourceLabel:"YouTube: Pronouns", resourceUrl:"https://www.youtube.com/results?search_query=Pronouns%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OP9-kOCSqY8",
    quiz:[
      {q:"A pronoun takes the place of a ___.", options:["Noun","Adverb","Adjective","Verb"], answer:0},
      {q:"What pronoun replaces 'Maria'?", options:["It","They","He","She"], answer:3},
@@ -701,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction from 20", summary:"Ontario Grade 1 Number strand: students subtract single-digit numbers from teens numbers and find differences within 20 using various strategies.",
    resourceLabel:"YouTube: Subtraction from 20", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20from%2020%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gbb2W-rrYik",
    quiz:[
      {q:"15 - 7 = ?", options:["9","6","7","8"], answer:3},
      {q:"20 - 9 = ?", options:["11","10","12","9"], answer:0},
@@ -710,6 +716,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Habitats", summary:"Ontario Grade 1 Life Systems strand: a habitat is the natural environment where an animal lives, providing food, water, shelter, and space.",
    resourceLabel:"YouTube: Animal Habitats", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xj1ASC-TlsI",
    quiz:[
      {q:"A habitat provides animals with food, water, shelter, and ___.", options:["Television","Toys","Space","Money"], answer:2},
      {q:"Which habitat does a polar bear live in?", options:["Desert","Jungle","Arctic tundra","Rainforest"], answer:2},
@@ -719,6 +726,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Helping Others in the Community", summary:"Ontario Grade 1 Social Studies strand A: students explore ways they can contribute to their community through volunteering, kindness, and helping neighbours.",
    resourceLabel:"YouTube: Helping Others in the Community", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20Others%20in%20the%20Community%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9Wzqrp4iMrg",
    quiz:[
      {q:"How can you help your community?", options:["Taking things","Volunteering and being kind to others","Ignoring others","Littering"], answer:1},
      {q:"Why is volunteering important?", options:["It is not","Only adults volunteer","It helps others and the community","It earns money"], answer:2},

@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Figurative Language: Metaphors", summary:"Grade 4 Language strand: a metaphor directly states that one thing IS another unlike thing, without using 'like' or 'as'. Example: 'Life is a journey.'",
    resourceLabel:"YouTube: Figurative Language: Metaphors", resourceUrl:"https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Metaphors%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=35PzoZWJpIM",
    quiz:[
      {q:"A metaphor says one thing ___ another.", options:["is like/as","is similar to","is bigger than","IS directly"], answer:3},
      {q:"Which is a metaphor?", options:["He is as strong as an ox.","She ran like a cheetah.","The rain fell like tears.","The world is a stage."], answer:3},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mass and Volume Measurement", summary:"Grade 4 Measurement strand: mass is measured in grams (g) and kilograms (kg). Volume is measured in litres (L) and millilitres (mL). 1 kg = 1000 g; 1 L = 1000 mL.",
    resourceLabel:"YouTube: Mass and Volume Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Mass%20and%20Volume%20Measurement%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AVC-426M6V0",
    quiz:[
      {q:"1 kilogram = ___ grams.", options:["100","10","1000","10000"], answer:2},
      {q:"1 litre = ___ millilitres.", options:["100","10","10000","1000"], answer:3},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Gravity and Friction", summary:"Grade 4 Science Energy strand: gravity is the force that pulls objects toward Earth. Friction is the force that resists movement between surfaces in contact.",
    resourceLabel:"YouTube: Forces: Gravity and Friction", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20and%20Friction%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8wXWraHglVM",
    quiz:[
      {q:"Gravity is a force that ___.", options:["stops all motion","only exists in space","pulls objects toward each other","pushes objects upward"], answer:2},
      {q:"Friction is a force that ___.", options:["resists sliding motion between surfaces","speeds objects up","pulls objects down","pushes objects sideways"], answer:0},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Environment: Conservation", summary:"Grade 4 Social Studies: conservation means protecting and managing natural resources wisely to prevent their depletion and preserve environments for future generations.",
    resourceLabel:"YouTube: Environment: Conservation", resourceUrl:"https://www.youtube.com/results?search_query=Environment%3A%20Conservation%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IcyM43z0UE8",
    quiz:[
      {q:"Conservation means ___.", options:["only saving money","using all resources immediately","protecting natural resources wisely","never using resources"], answer:2},
      {q:"Which is an example of conservation?", options:["Planting trees and reducing waste","Wasting paper","Building more factories","Leaving taps running"], answer:0},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Reading: Sequencing", summary:"Grade 4 Reading strand: sequence is the order in which events happen. Signal words: first, then, next, after, finally, before.",
    resourceLabel:"YouTube: Reading: Sequencing", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Sequencing%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4Iz5Gmkz8BQ",
    quiz:[
      {q:"Sequence means ___.", options:["a cause-and-effect relationship","the main idea","the order in which events occur","a comparison"], answer:2},
      {q:"Which signal word shows a sequence?", options:["In contrast","Next","However","Because"], answer:1},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Bar Graphs", summary:"Grade 4 Data strand: a bar graph uses horizontal or vertical bars to compare quantities across categories. Students read, create, and interpret bar graphs.",
    resourceLabel:"YouTube: Data: Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Bar%20Graphs%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zF_dBk8EPDk",
    quiz:[
      {q:"A bar graph is used to ___.", options:["measure angles","show sequence","compare quantities across categories","calculate perimeter"], answer:2},
      {q:"The vertical axis of a bar graph usually shows ___.", options:["frequency or quantity","colours","categories","dates"], answer:0},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Liquids and Solids", summary:"Grade 4 Science Materials strand: solids have definite shape and volume; liquids have definite volume but take the shape of their container.",
    resourceLabel:"YouTube: Properties of Liquids and Solids", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Liquids%20and%20Solids%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Hd1AdYdEvhw",
    quiz:[
      {q:"A solid has ___.", options:["no definite shape or volume","only colour","definite shape and definite volume","definite volume but no definite shape"], answer:2},
      {q:"A liquid has ___.", options:["definite shape and volume","definite volume, shape of its container","no mass","no volume"], answer:1},

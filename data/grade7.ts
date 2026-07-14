@@ -592,6 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Letters, Poetry, Debate, and Note-Taking", summary:"Mixed review of formal/informal writing, poetry elements, debate skills, and summarizing strategies.",
    resourceLabel:"YouTube: Review: Letters, Poetry, Debate, and Note-Taking", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Letters%2C%20Poetry%2C%20Debate%2C%20and%20Note-Taking%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=007P3HSf5vg",
    quiz:[
      {q:"A formal letter should begin with...", options:["An emoji","A polite greeting","Slang","No greeting"], answer:1},
      {q:"A stanza in a poem is like a...", options:["Index","Title","Footnote","Paragraph in prose"], answer:3},
@@ -601,6 +602,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Exponents, Square Roots, Pythagorean Relationship, Circles", summary:"Mixed review of exponents, perfect squares, the Pythagorean relationship, and circle measurements.",
    resourceLabel:"YouTube: Review: Exponents, Square Roots, Pythagorean Relationship, Circles", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Exponents%2C%20Square%20Roots%2C%20Pythagorean%20Relationship%2C%20Circles%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B4zejSI8zho",
    quiz:[
      {q:"What is 2^4?", options:["12","6","8","16"], answer:3},
      {q:"What is the square root of 64?", options:["8","9","6","7"], answer:0},
@@ -610,6 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Cells, Classification, Carbon Cycle, Matter", summary:"Mixed review of cell theory, classification of organisms, the carbon cycle, and chemical vs. physical properties.",
    resourceLabel:"YouTube: Review: Cells, Classification, Carbon Cycle, Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Classification%2C%20Carbon%20Cycle%2C%20Matter%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kw0_zEBf6CY",
    quiz:[
      {q:"All living things are made of...", options:["Water only","Air","Cells","Minerals"], answer:2},
      {q:"Which kingdom includes mushrooms?", options:["Plant","Fungi","Bacteria","Animal"], answer:1},
@@ -619,6 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Railway, Settlement, Reconciliation, World War I", summary:"Mixed review of the CPR, Prairie settlement, Truth and Reconciliation, and Canada's role in World War I.",
    resourceLabel:"YouTube: Review: Railway, Settlement, Reconciliation, World War I", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Railway%2C%20Settlement%2C%20Reconciliation%2C%20World%20War%20I%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QYS8IK77TPI",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1867","1885","1812","1920"], answer:1},
      {q:"The National Day for Truth and Reconciliation is on...", options:["October 31","September 30","December 25","July 1"], answer:1},
@@ -630,6 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Analyzing Graphic and Visual Texts", summary:"Infographics, charts, and diagrams present information visually; readers must interpret data, labels, and layout to understand the message.",
    resourceLabel:"YouTube: Analyzing Graphic and Visual Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Graphic%20and%20Visual%20Texts%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=24dtSDfDCWE",
    quiz:[
      {q:"An infographic mainly combines...", options:["Text and visuals to present information","Only numbers with no context","Only photographs","Random colours with no meaning"], answer:0},
      {q:"When reading a chart in an article, you should first check...", options:["The font size","The author's name only","The title and labels","The page number"], answer:2},
@@ -639,6 +644,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Surface Area and Volume of Prisms", summary:"Surface area is the total area of all faces of a 3D shape; volume measures the space inside it.",
    resourceLabel:"YouTube: Surface Area and Volume of Prisms", resourceUrl:"https://www.youtube.com/results?search_query=Surface%20Area%20and%20Volume%20of%20Prisms%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dCD02kuobnY",
    quiz:[
      {q:"The volume of a rectangular prism is found by...", options:["Length × Width only","Width × Height only","Length + Width + Height","Length × Width × Height"], answer:3},
      {q:"A rectangular prism with dimensions 2×3×4 has a volume of...", options:["9","24","20","14"], answer:1},
@@ -648,6 +654,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines and Mechanical Efficiency", summary:"Simple machines like levers, pulleys, and inclined planes make work easier, though some energy is always lost to friction.",
    resourceLabel:"YouTube: Simple Machines and Mechanical Efficiency", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20and%20Mechanical%20Efficiency%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jAPxALm9fZA",
    quiz:[
      {q:"An inclined plane makes work easier by...", options:["Reducing force over more distance","Increasing weight","Doing nothing useful","Eliminating all friction"], answer:0},
      {q:"Mechanical efficiency compares...", options:["Mass to friction only","Colour to weight","Output energy to input energy","Speed to volume"], answer:2},
@@ -657,6 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Women's Suffrage in Canada", summary:"Women in Canada campaigned for and gradually won the right to vote, beginning with Manitoba in 1916 and federally in 1918.",
    resourceLabel:"YouTube: Women's Suffrage in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Women%27s%20Suffrage%20in%20Canada%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MaibJd-I5bo",
    quiz:[
      {q:"Suffrage refers to the right to...", options:["Vote","Own property","Work","Attend school"], answer:0},
      {q:"Which province first gave (most) women the right to vote provincially?", options:["Manitoba","Ontario","Quebec","British Columbia"], answer:0},

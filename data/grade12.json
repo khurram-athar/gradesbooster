@@ -3453,6 +3453,7 @@
         "summary": "A final celebration of Grade 12 English — reflecting on the year's literary journey and looking ahead to university and lifelong reading.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/c/TEDEd",
+        "videoUrl": "https://www.youtube.com/watch?v=sRkOWvR8mNA",
         "quiz": [
           {
             "q": "Grade 12 English culminates in ___.",
@@ -3512,6 +3513,7 @@
         "summary": "Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
         "resourceLabel": "Khan Academy: Looking Ahead to Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
+        "videoUrl": "https://www.youtube.com/watch?v=RSAD7QNT1hs",
         "quiz": [
           {
             "q": "Advanced Functions has prepared you for university mathematics by ___.",
@@ -3571,6 +3573,7 @@
         "summary": "Students reflect on the year's learning in calculus and its connections to the mathematical sciences.",
         "resourceLabel": "Khan Academy: Calculus Bridge to University",
         "resourceUrl": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
+        "videoUrl": "https://www.youtube.com/watch?v=BRU-hh31JVk",
         "quiz": [
           {
             "q": "The Fundamental Theorem of Calculus is profound because ___.",
@@ -3630,6 +3633,7 @@
         "summary": "Students reflect on their learning in Grade 12 Physics and the role of physics in understanding the universe.",
         "resourceLabel": "Crash Course Physics: Reflecting on Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+        "videoUrl": "https://www.youtube.com/watch?v=yscrBkfPRyc",
         "quiz": [
           {
             "q": "Physics is the most fundamental science because ___.",
@@ -3755,6 +3759,7 @@
         "summary": "Students extend 2D vector concepts to 3D — Cartesian coordinates, vector operations, magnitude, dot product, and angle between vectors.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=k7RM-ot2NWY",
+        "videoUrl": "https://www.youtube.com/watch?v=Fg5-h8s1pxE",
         "quiz": [
           {
             "q": "A vector in 3D is written as ___.",
@@ -3814,6 +3819,7 @@
         "summary": "Students solve multi-step related rates problems in geometry, physics, and engineering contexts.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=I9mVUo-bhM8",
+        "videoUrl": "https://www.youtube.com/watch?v=j6I3EXiKB2A",
         "quiz": [
           {
             "q": "The key step in any related rates problem is ___.",
@@ -3873,6 +3879,7 @@
         "summary": "Students analyse linear momentum, impulse, and the impulse-momentum theorem in collision contexts.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=nPnPqH-R_Y4",
+        "videoUrl": "https://www.youtube.com/watch?v=E13h1E_Pc00",
         "quiz": [
           {
             "q": "Linear momentum is defined as ___.",

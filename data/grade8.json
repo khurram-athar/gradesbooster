@@ -3453,6 +3453,7 @@
         "summary": "Students read excerpts from a Shakespeare play (e.g., Macbeth or Romeo and Juliet). They interpret Elizabethan language, identify dramatic conventions, and analyse key scenes.",
         "resourceLabel": "YouTube: Reading: Shakespearean Drama",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Shakespearean%20Drama%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ine9BJye4Po",
         "quiz": [
           {
             "q": "In Shakespearean tragedy, the protagonist's downfall is typically caused by ___.",
@@ -3512,6 +3513,7 @@
         "summary": "Students identify monomials, binomials, and trinomials. They add and subtract polynomials by collecting like terms.",
         "resourceLabel": "YouTube: Algebra: Polynomials Introduction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Polynomials%20Introduction%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ffLLmV4mZwU",
         "quiz": [
           {
             "q": "A polynomial is ___.",
@@ -3571,6 +3573,7 @@
         "summary": "Students synthesise their learning about cells, reproduction, genetics, and body systems, connecting ideas across the strand.",
         "resourceLabel": "YouTube: Cells: Review and Synthesis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Cells%3A%20Review%20and%20Synthesis%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=LiR0wNi1JHg",
         "quiz": [
           {
             "q": "Which correctly shows the flow of genetic information?",
@@ -3630,6 +3633,7 @@
         "summary": "Students examine contemporary Canadian issues: Indigenous reconciliation, environmental policy, Quebec and Canadian identity, and Canada's role in global affairs.",
         "resourceLabel": "YouTube: Contemporary Canada: Issues and Identity",
         "resourceUrl": "https://www.youtube.com/results?search_query=Contemporary%20Canada%3A%20Issues%20and%20Identity%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "The Truth and Reconciliation Commission (TRC) of Canada ___.",
@@ -3695,6 +3699,7 @@
         "summary": "Students experiment with narrative point of view — first person, second person, third limited, and third omniscient — and analyse how POV shapes reader experience.",
         "resourceLabel": "YouTube: Writing: Narrative with Shifting Point of View",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20with%20Shifting%20Point%20of%20View%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GGS3NcmAZnw",
         "quiz": [
           {
             "q": "First-person POV uses ___.",
@@ -3754,6 +3759,7 @@
         "summary": "Students multiply polynomials: monomial × polynomial and binomial × binomial using the distributive property and FOIL.",
         "resourceLabel": "YouTube: Algebra: Multiplying Polynomials",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Multiplying%20Polynomials%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ZvL9aDGNHqA",
         "quiz": [
           {
             "q": "To multiply 3x(2x + 5), you apply ___.",
@@ -3813,6 +3819,7 @@
         "summary": "Students examine efficiency in machines, energy input vs. output, friction losses, and renewable energy technologies.",
         "resourceLabel": "YouTube: Mechanical Systems: Efficiency and Energy",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mechanical%20Systems%3A%20Efficiency%20and%20Energy%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=qTaaErZJJHI",
         "quiz": [
           {
             "q": "Mechanical efficiency is ___.",
@@ -3872,6 +3879,7 @@
         "summary": "Students examine the baby boom, suburbanisation, the Quiet Revolution, Expo 67, and Canada's evolving sense of identity in the 1950s–1960s.",
         "resourceLabel": "YouTube: Post-WWII Canada: Growth and Change",
         "resourceUrl": "https://www.youtube.com/results?search_query=Post-WWII%20Canada%3A%20Growth%20and%20Change%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "The baby boom refers to ___.",
