@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/components/auth-provider';
-import { submitFeedback } from '@/lib/firestore';
 import { Nav } from '@/components/nav';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -48,7 +47,23 @@ export default function FeedbackPage() {
     setError('');
     setSubmitting(true);
     try {
-      await submitFeedback(user.uid, user.email, message.trim(), category);
+      const token = await user.getIdToken();
+      const res = await fetch('/api/feedback', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${token}`,
+        },
+        body: JSON.stringify({
+          message: message.trim(),
+          category,
+          page: window.location.pathname,
+        }),
+      });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        throw new Error(data.error || 'Request failed');
+      }
       setSubmitted(true);
       setMessage('');
     } catch (err) {

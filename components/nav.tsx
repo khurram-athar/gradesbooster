@@ -5,6 +5,7 @@ import { useRouter, usePathname } from 'next/navigation';
 import { DropdownMenu } from 'radix-ui';
 import { useAuth } from '@/components/auth-provider';
 import { Button } from '@/components/ui/button';
+import { isAdminEmail } from '@/lib/admin';
 import Image from 'next/image';
 import {
   LayoutDashboard,
@@ -17,6 +18,7 @@ import {
   Home,
   MessageSquareHeart,
   Menu,
+  Inbox,
 } from 'lucide-react';
 
 export function Nav() {
@@ -42,6 +44,7 @@ export function Nav() {
     { href: '/#faq', label: 'FAQ', icon: HelpCircle },
     { href: '/privacy', label: 'Privacy Policy', icon: Shield },
     { href: '/feedback', label: 'Send Feedback', icon: MessageSquareHeart },
+    ...(isAdminEmail(user.email) ? [{ href: '/admin/feedback', label: 'Feedback Inbox', icon: Inbox }] : []),
   ];
 
   return (

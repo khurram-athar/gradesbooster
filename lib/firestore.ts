@@ -97,24 +97,12 @@ export async function saveResult(
   });
 }
 
-// ── Feedback ──────────────────────────────────────────────────
-
-export async function submitFeedback(
-  uid: string,
-  email: string | null,
-  message: string,
-  category: string,
-): Promise<void> {
-  const ref = doc(collection(db, 'feedback'));
-  await setDoc(ref, {
-    uid,
-    email: email ?? null,
-    message,
-    category,
-    page: typeof window !== 'undefined' ? window.location.pathname : null,
-    createdAt: serverTimestamp(),
-  });
-}
+// Note: feedback submission now goes through POST /api/feedback (see
+// app/feedback/page.tsx) rather than a direct client-side write here --
+// that lets the server also fire off an email notification, and verifies
+// the caller's ID token server-side instead of trusting a client-supplied
+// uid. The `feedback` Firestore collection still denies all client reads
+// (see firestore.rules), so it's read back via GET /api/admin/feedback.
 
 export async function loadAllKidResults(
   uid: string,
