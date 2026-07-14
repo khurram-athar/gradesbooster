@@ -4063,6 +4063,7 @@
         "summary": "Students examine ecosystem dynamics, human impacts on biodiversity, and conservation approaches including stewardship and sustainable development.",
         "resourceLabel": "YouTube: Biology: Ecosystems and Human Impact",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%3A%20Ecosystems%20and%20Human%20Impact%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Um-bo2MWDsQ",
         "quiz": [
           {
             "q": "A trophic cascade occurs when ___.",
@@ -4122,6 +4123,7 @@
         "summary": "Students examine Canada's foreign policy — peacekeeping, the G7, NAFTA, and humanitarian commitments — in the late 20th century.",
         "resourceLabel": "YouTube: Canada and International Relations: 1970-2000",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%20and%20International%20Relations%3A%201970-2000%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "Canada's peacekeeping role, established by Lester Pearson's Suez Crisis proposal (1956), meant ___.",
@@ -4246,6 +4248,7 @@
         "summary": "Students are introduced to polynomial functions — degree, end behaviour, zeros, and graphical features — as a bridge from Grade 10 quadratics to Grade 11 functions.",
         "resourceLabel": "YouTube: Functions: Introduction to Polynomial Functions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Functions%3A%20Introduction%20to%20Polynomial%20Functions%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=a5x4lwnvHM0",
         "quiz": [
           {
             "q": "A polynomial function of degree n has ___.",
@@ -12159,6 +12162,2426 @@
               "These events have no meaningful connections to each other"
             ],
             "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing the Bildungsroman (Coming-of-Age Novel)",
+        "summary": "Grade 10 English strand: a bildungsroman is a coming-of-age novel that traces a protagonist’s psychological and moral growth from youth into maturity, often through a formative journey or series of challenges.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A bildungsroman is best described as a novel that traces ___.",
+            "options": [
+              "A protagonist who never changes throughout the story",
+              "A single event with no connection to a character’s development",
+              "A setting description with no focus on character at all",
+              "A protagonist’s psychological and moral growth from youth into maturity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a common feature of a bildungsroman?",
+            "options": [
+              "A formative journey or series of challenges that shapes the protagonist",
+              "A protagonist who begins and ends the story completely unchanged",
+              "A plot with no connection to growth or maturity",
+              "A structure unrelated to character development"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a coming-of-age novel often include a mentor figure?",
+            "options": [
+              "Mentors only appear in stories with no focus on growth",
+              "A reason unrelated to character development",
+              "Mentor figures are never included in this type of novel",
+              "A mentor can guide the protagonist and help prompt their growth and self-understanding"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do readers often find bildungsroman novels relatable?",
+            "options": [
+              "Coming-of-age stories never explore identity or self-discovery",
+              "They reflect universal experiences of growing up, identity, and self-discovery",
+              "This type of novel has no connection to readers’ own experiences",
+              "A reason unrelated to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would best signal a turning point in a bildungsroman?",
+            "options": [
+              "A concept unrelated to this type of novel",
+              "A significant challenge that changes how the protagonist sees themselves or the world",
+              "A moment with no impact on the protagonist at all",
+              "An event that occurs with no connection to the plot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Logarithmic Equations",
+        "summary": "Grade 10 Functions strand (extension): solving a logarithmic equation often involves using logarithm properties to combine terms, then rewriting the equation in exponential form to isolate the unknown variable.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "Solving a logarithmic equation often involves rewriting it in ___.",
+            "options": [
+              "Fraction form with no connection to exponents",
+              "A form unrelated to exponents",
+              "Exponential form",
+              "Linear form only, with no other conversion possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If log base 2 of x equals 5, what is x?",
+            "options": [
+              "25",
+              "A value unrelated to the equation",
+              "32",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might logarithm properties, such as the product or quotient rule, be used before solving a logarithmic equation?",
+            "options": [
+              "They can combine multiple logarithmic terms into a single term, simplifying the equation",
+              "This step always makes an equation more difficult to solve",
+              "Logarithm properties have no connection to solving equations",
+              "These properties never simplify a logarithmic equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the solution to a logarithmic equation be checked against the domain of the original logarithms?",
+            "options": [
+              "Checking a solution never affects whether it is valid",
+              "A logarithm is only defined for positive arguments, so some solutions may be extraneous",
+              "This step has no connection to solving logarithmic equations",
+              "Logarithms are defined for every possible number, so no checking is required"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are logarithmic equations useful for modelling situations like sound intensity or pH levels?",
+            "options": [
+              "These situations involve quantities that change across a very wide range, which logarithms can represent efficiently",
+              "Logarithmic equations have no real-world applications",
+              "Sound intensity and pH levels never involve any mathematical modelling",
+              "This concept only applies to purely abstract mathematics with no real-world use"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Colligative Properties of Solutions",
+        "summary": "Grade 10 Chemistry strand: colligative properties, such as boiling point elevation and freezing point depression, depend on the number of dissolved particles in a solution rather than on the specific identity of the solute.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Colligative properties depend primarily on ___.",
+            "options": [
+              "The exact identity of the solute alone, with no connection to particle count",
+              "The specific colour of the solute",
+              "A factor unrelated to dissolved particles",
+              "The number of dissolved particles in a solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Boiling point elevation refers to ___.",
+            "options": [
+              "A property that never changes when a solute is added",
+              "A decrease in a solution’s boiling point caused by a dissolved solute",
+              "An increase in a solution’s boiling point caused by a dissolved solute",
+              "A concept unrelated to colligative properties"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Freezing point depression refers to ___.",
+            "options": [
+              "A concept unrelated to colligative properties",
+              "An increase in a solution’s freezing point caused by a dissolved solute",
+              "A property unaffected by dissolved particles",
+              "A decrease in a solution’s freezing point caused by a dissolved solute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a real-world application of freezing point depression?",
+            "options": [
+              "Boiling water at a consistently higher temperature at high altitude",
+              "Cooling a liquid with no connection to any dissolved substance",
+              "An application unrelated to colligative properties",
+              "Spreading salt on icy roads to lower the freezing point of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are colligative properties useful for estimating the concentration of a solution?",
+            "options": [
+              "Colligative properties provide no information about a solution’s concentration",
+              "Measurable changes like boiling or freezing point shifts can be related back to the amount of dissolved particles",
+              "Concentration can never be estimated using any physical property",
+              "A reason unrelated to solution chemistry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Halifax Explosion and Its Aftermath",
+        "summary": "Grade 10 History strand: the 1917 Halifax Explosion, caused by a collision between two ships in Halifax Harbour, was one of the largest artificial explosions in history prior to nuclear weapons and devastated much of the city.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Halifax Explosion took place in which year?",
+            "options": [
+              "1917",
+              "1867",
+              "1945",
+              "1970"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Halifax Explosion was caused by ___.",
+            "options": [
+              "A collision between two ships in Halifax Harbour",
+              "A natural disaster with no connection to ships",
+              "A planned military attack on the city",
+              "An event unrelated to Halifax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Halifax Explosion historically significant?",
+            "options": [
+              "This event had no significant impact on Halifax",
+              "This event occurred with no lasting consequences at all",
+              "The explosion has no connection to Canadian history",
+              "It was one of the largest artificial explosions in history prior to nuclear weapons, devastating the city"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the response to the Halifax Explosion be studied alongside its causes?",
+            "options": [
+              "The relief efforts and rebuilding reveal how communities and governments respond to large-scale disasters",
+              "This topic has no connection to understanding disaster response",
+              "Relief efforts never followed this event",
+              "The response to this disaster has no historical significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians continue to study the Halifax Explosion today?",
+            "options": [
+              "It offers insight into industrial-era hazards, disaster response, and community resilience",
+              "The Halifax Explosion has been entirely forgotten with no historical record",
+              "This topic has no connection to understanding early 20th-century Canada",
+              "This event has no lasting relevance to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The College/Scholarship Application Essay",
+        "summary": "Grade 10 English strand: a college or scholarship application essay presents a compelling personal narrative that highlights a student’s character, achievements, and goals within a concise, structured format.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A college or scholarship application essay is designed to present ___.",
+            "options": [
+              "A purely factual list with no personal reflection at all",
+              "A compelling personal narrative highlighting character, achievements, and goals",
+              "A generic essay with no connection to the writer’s own experiences",
+              "A concept unrelated to personal writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for this type of essay to be concise and focused?",
+            "options": [
+              "Application essays typically have strict word or length limits, requiring careful, purposeful writing",
+              "Longer essays are always preferred regardless of any limits",
+              "Length and focus never matter in this type of essay",
+              "A reason unrelated to application essays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a specific, detailed anecdote be more effective than a general statement in this type of essay?",
+            "options": [
+              "Specific details make the essay more memorable and help reveal genuine character",
+              "General statements are always more persuasive than specific details",
+              "Anecdotes have no place in an application essay",
+              "Detail and specificity never improve a piece of writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to carefully proofread a college or scholarship application essay?",
+            "options": [
+              "Proofreading has no effect on how an essay is received",
+              "Errors can distract from the content and create an unfavourable impression",
+              "Errors in an application essay are never noticed by readers",
+              "This type of essay does not require any proofreading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer reflect on personal growth or a challenge overcome in this type of essay?",
+            "options": [
+              "It can demonstrate resilience and self-awareness valued by admissions or scholarship committees",
+              "Reflecting on personal growth has no place in this type of writing",
+              "Committees never consider personal growth when reviewing essays",
+              "A reason unrelated to application essays"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rational Functions: Graphing and Asymptotes in Depth",
+        "summary": "Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A vertical asymptote of a rational function typically occurs where ___.",
+            "options": [
+              "A location unrelated to the function’s denominator",
+              "The denominator equals zero",
+              "The numerator equals zero",
+              "The function crosses the x-axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An asymptote describes a value that a function ___.",
+            "options": [
+              "Always reaches and crosses repeatedly",
+              "Approaches but never reaches",
+              "A concept unrelated to rational functions",
+              "Reaches only at a single specific point and no other"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the function f(x) = 1/(x - 3), where is the vertical asymptote located?",
+            "options": [
+              "x = 0",
+              "x = -3",
+              "x = 3",
+              "A location unrelated to this function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to identify a rational function’s asymptotes before graphing it?",
+            "options": [
+              "Graphing a function never requires identifying asymptotes",
+              "Asymptotes provide no useful information about a function’s graph",
+              "Rational functions never have any asymptotes",
+              "Asymptotes provide key information about the function’s behaviour and shape near those values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a rational function’s horizontal asymptote be useful in a real-world modelling context?",
+            "options": [
+              "Modelled quantities never approach a long-term limiting value",
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "It can represent a long-term value or limit that a modelled quantity approaches over time",
+              "Horizontal asymptotes have no real-world interpretation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics: Mendelian Inheritance Patterns in Depth",
+        "summary": "Grade 10 Biology strand: Mendelian inheritance describes how traits are passed from parents to offspring through dominant and recessive alleles, often illustrated using Punnett squares to predict genetic outcomes.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Mendelian inheritance describes how traits are passed from parents to offspring through ___.",
+            "options": [
+              "A process unrelated to genetics",
+              "Environmental factors alone, with no connection to genes",
+              "Random chance with no genetic basis at all",
+              "Dominant and recessive alleles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Predict the possible genetic outcomes of a cross between two parents",
+              "A tool unrelated to genetics",
+              "Measure the physical size of an organism",
+              "Determine the age of an organism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If both parents are heterozygous for a dominant trait, what fraction of their offspring would be expected to show the recessive trait?",
+            "options": [
+              "One half",
+              "One quarter",
+              "A fraction unrelated to this cross",
+              "All of the offspring"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A dominant allele is one that ___.",
+            "options": [
+              "Is expressed in an organism’s traits when at least one copy is present",
+              "Can only be expressed when two copies are present",
+              "Is never expressed under any circumstances",
+              "A concept unrelated to inheritance patterns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding Mendelian inheritance patterns useful in fields like agriculture or medicine?",
+            "options": [
+              "Genetics has no relevance to agriculture or medicine",
+              "This concept has no practical application outside of a classroom",
+              "It helps predict and understand how specific traits, including inherited conditions, are passed between generations",
+              "Mendelian inheritance has no connection to inherited traits"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the Korean War",
+        "summary": "Grade 10 History strand: Canada contributed troops and resources to the United Nations coalition during the 1950-1953 Korean War, marking a significant early Cold War military commitment.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Korean War took place primarily between which years?",
+            "options": [
+              "1990 and 1995",
+              "1970 and 1975",
+              "1917 and 1919",
+              "1950 and 1953"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada contributed troops and resources to the Korean War as part of ___.",
+            "options": [
+              "An effort entirely unrelated to international cooperation",
+              "A conflict with no international involvement",
+              "A purely domestic Canadian initiative",
+              "The United Nations coalition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada’s involvement in the Korean War considered historically significant?",
+            "options": [
+              "This topic has no relevance to understanding Canadian foreign policy",
+              "It marked a significant early Cold War military commitment for Canada",
+              "Canada had no involvement in the Korean War",
+              "This event has no connection to Canada’s Cold War history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might studying the Korean War help explain Canada’s broader Cold War foreign policy?",
+            "options": [
+              "It illustrates how Canada engaged militarily and diplomatically during early Cold War tensions",
+              "The Korean War has no connection to the Cold War",
+              "This topic has no relevance to understanding Canadian history",
+              "Canada’s foreign policy during this period had no international dimension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians study Canada’s military contributions in conflicts like the Korean War?",
+            "options": [
+              "They reveal how Canada’s role in international conflicts has evolved over time",
+              "Canada has never contributed troops to any international conflict",
+              "This topic has no relevance to Canadian history",
+              "Military contributions have no connection to a country’s historical development"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Rhetorical Devices in Argumentative Writing",
+        "summary": "Grade 10 English strand: rhetorical devices, such as rhetorical questions, repetition, and the rule of three, are language techniques writers use to strengthen persuasion and emphasize key points in argumentative writing.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Rhetorical devices are language techniques used to ___.",
+            "options": [
+              "A concept unrelated to argumentative writing",
+              "Weaken an argument’s overall persuasiveness",
+              "Strengthen persuasion and emphasize key points",
+              "Remove all emotional appeal from a piece of writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rhetorical question is a question that ___.",
+            "options": [
+              "A concept unrelated to rhetorical devices",
+              "Has no persuasive purpose whatsoever",
+              "Is asked for effect rather than to receive a direct answer",
+              "Always requires a direct, factual answer from the reader"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of the rule of three as a rhetorical device?",
+            "options": [
+              "A single unrepeated statement with no listed items",
+              "A statement using exactly two examples instead of three",
+              "“Government of the people, by the people, for the people.”",
+              "A device unrelated to rhetorical technique"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use repetition as a rhetorical device in argumentative writing?",
+            "options": [
+              "This device has no place in argumentative writing",
+              "Repetition never affects how memorable an idea is",
+              "Repeating a key phrase can reinforce an idea and make it more memorable",
+              "Repetition always weakens the impact of an argument"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for readers to recognize rhetorical devices in a persuasive text?",
+            "options": [
+              "Rhetorical devices have no effect on how a reader interprets an argument",
+              "A reason unrelated to reading comprehension",
+              "It helps them critically evaluate how an argument is being constructed and its intended effect",
+              "Recognizing rhetorical devices never helps with understanding a text"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Vectors in Three Dimensions",
+        "summary": "Grade 10 Geometry strand (extension): a vector in three dimensions extends the two-dimensional concept by adding a third component, allowing magnitude and direction to be described in space rather than on a flat plane.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A vector in three dimensions extends the two-dimensional concept by adding ___.",
+            "options": [
+              "An entirely new type of number system",
+              "A third component",
+              "A fourth and fifth component simultaneously",
+              "A concept unrelated to vectors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A three-dimensional vector can be described using components along the ___.",
+            "options": [
+              "Only two axes, identical to a 2D vector",
+              "x, y, and z axes",
+              "x-axis only, with no other components",
+              "A description unrelated to spatial direction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might three-dimensional vectors be necessary for describing motion in real-world physical space?",
+            "options": [
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "Motion in physical space never involves more than two dimensions",
+              "Real-world motion often occurs across three spatial dimensions, not just a flat plane",
+              "Three-dimensional vectors have no practical use for describing motion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to calculate the magnitude of a three-dimensional vector?",
+            "options": [
+              "It provides the overall length or size of the vector, regardless of its individual components",
+              "This calculation has no connection to describing vectors",
+              "Three-dimensional vectors never have a measurable magnitude",
+              "Magnitude has no meaning for a three-dimensional vector"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might three-dimensional vectors be relevant to fields like engineering or computer graphics?",
+            "options": [
+              "Three-dimensional vectors have no application in engineering or computer graphics",
+              "These fields never require any mathematical modelling of space",
+              "This concept has no relevance outside of a mathematics classroom",
+              "These fields often require precisely modelling positions, forces, or movement in three-dimensional space"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Projectile Motion in Two Dimensions",
+        "summary": "Grade 10 Physics strand: projectile motion describes the curved path of an object launched into the air, combining constant horizontal velocity with the effect of vertical acceleration due to gravity.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Projectile motion combines constant horizontal velocity with ___.",
+            "options": [
+              "No vertical motion at all",
+              "A concept unrelated to motion in the air",
+              "Vertical acceleration due to gravity",
+              "A second, separate horizontal acceleration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The horizontal velocity of a projectile, ignoring air resistance, generally remains ___.",
+            "options": [
+              "Constant throughout its flight",
+              "A value unrelated to projectile motion",
+              "Zero throughout its entire flight",
+              "Constantly increasing throughout its flight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a projectile follow a curved, rather than straight-line, path?",
+            "options": [
+              "Gravity continuously accelerates the object downward while it also moves horizontally",
+              "This path has no connection to the forces acting on the object",
+              "Projectiles never experience the effect of gravity",
+              "A curved path only occurs when horizontal velocity is zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of projectile motion?",
+            "options": [
+              "A ball thrown at an angle into the air",
+              "An object sitting completely still on the ground",
+              "A concept unrelated to projectile motion",
+              "An object moving in a perfectly straight horizontal line with no vertical component"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding projectile motion useful in fields like sports science or engineering?",
+            "options": [
+              "These fields never involve analyzing the motion of objects",
+              "It helps predict and optimize the path of objects launched or thrown through the air",
+              "This concept only applies to purely theoretical physics problems",
+              "Projectile motion has no practical, real-world applications"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Avro Arrow Cancellation and Its Legacy",
+        "summary": "Grade 10 History strand: the 1959 cancellation of the Avro Arrow, an advanced Canadian-designed fighter jet, remains a controversial decision often discussed in relation to Canada’s aerospace industry and sovereignty.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Avro Arrow was cancelled in which year?",
+            "options": [
+              "1970",
+              "1959",
+              "1945",
+              "1919"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Avro Arrow was best described as ___.",
+            "options": [
+              "A concept unrelated to Canadian aerospace history",
+              "An advanced Canadian-designed fighter jet",
+              "A type of civilian passenger aircraft",
+              "A ship built for the Canadian navy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the cancellation of the Avro Arrow often considered controversial?",
+            "options": [
+              "It ended a highly advanced Canadian aerospace project, raising questions about lost economic and technological opportunity",
+              "This event has no connection to Canadian aerospace history",
+              "This decision was universally supported with no debate or controversy",
+              "The Avro Arrow’s cancellation had no significant effect on Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might historians connect the Avro Arrow’s cancellation to discussions of Canadian sovereignty?",
+            "options": [
+              "This event has no relevance to Canadian defence policy",
+              "The Avro Arrow has no connection to questions of sovereignty",
+              "Sovereignty was never a topic of discussion in Canadian history",
+              "The decision raised questions about Canada’s independent technological and defence capabilities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians and engineers continue to study the Avro Arrow program today?",
+            "options": [
+              "This program has no lasting historical significance",
+              "It offers insight into Canada’s technological ambitions and the complexities of large defence decisions",
+              "This topic has no relevance to understanding Canadian history",
+              "The Avro Arrow has no connection to Canada’s aerospace industry"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Exploring Absurdist Fiction",
+        "summary": "Grade 10 English strand: absurdist fiction presents illogical or nonsensical situations to explore themes about the apparent meaninglessness or unpredictability of existence, often provoking reflection through its strangeness.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Absurdist fiction typically presents ___.",
+            "options": [
+              "A concept unrelated to fiction",
+              "Only strictly realistic, logical events",
+              "Illogical or nonsensical situations",
+              "A setting with no unusual or unexpected elements"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Absurdist fiction often explores themes related to ___.",
+            "options": [
+              "The apparent meaninglessness or unpredictability of existence",
+              "A topic unrelated to existence or meaning",
+              "Only lighthearted, comedic subject matter with no deeper meaning",
+              "Strictly logical, orderly systems with no ambiguity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use absurdist elements instead of a more realistic approach?",
+            "options": [
+              "Absurdist elements always make a story less meaningful",
+              "Strangeness or illogic can provoke reflection and highlight ideas that realism might not capture as effectively",
+              "Absurdist fiction has no connection to provoking reader reflection",
+              "Realistic approaches are always superior to absurdist ones"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a common technique found in absurdist fiction?",
+            "options": [
+              "Presenting a character in a bizarre situation with no clear logical explanation",
+              "Avoiding any strange or unexpected elements entirely",
+              "Providing a clear, fully logical explanation for every event",
+              "A technique unrelated to absurdist fiction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might absurdist fiction be considered a valuable lens for examining real-world uncertainty?",
+            "options": [
+              "Its illogical scenarios can mirror feelings of confusion or unpredictability found in real life",
+              "Absurdist fiction has no connection to real-world experiences",
+              "This genre never engages with themes relevant to readers",
+              "Uncertainty is never a meaningful theme in literature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Binomial Theorem and Pascal’s Triangle",
+        "summary": "Grade 10 Number strand (extension): the binomial theorem provides a method for expanding expressions like (a + b) raised to a power, and Pascal’s triangle offers a visual way to determine the coefficients used in that expansion.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The binomial theorem provides a method for expanding expressions like ___.",
+            "options": [
+              "Only expressions involving subtraction, with no addition",
+              "A concept unrelated to algebraic expansion",
+              "(a + b) raised to a power",
+              "A single variable with no exponent at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Pascal’s triangle can be used to determine the ___.",
+            "options": [
+              "Coefficients used in a binomial expansion",
+              "Exact roots of any polynomial equation",
+              "A concept unrelated to binomial expansion",
+              "Only the exponents in an expression, with no connection to coefficients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In Pascal’s triangle, each number is found by ___.",
+            "options": [
+              "Multiplying the two numbers directly above it",
+              "Subtracting the row number from itself",
+              "Adding the two numbers directly above it",
+              "A method unrelated to Pascal’s triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are the coefficients for the expansion of (a + b) squared?",
+            "options": [
+              "1, 2, 1",
+              "1, 1, 1",
+              "2, 2, 2",
+              "A set of values unrelated to this expansion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the binomial theorem be useful in fields like probability?",
+            "options": [
+              "This theorem only applies to purely abstract algebra with no other use",
+              "The binomial theorem has no connection to probability",
+              "It can help efficiently calculate the number of ways certain outcomes can occur",
+              "Probability calculations never involve expanding expressions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Chemistry of Polymers and Plastics",
+        "summary": "Grade 10 Chemistry strand: polymers are large molecules made of repeating smaller units called monomers, and synthetic polymers like plastics are widely used but raise important questions about environmental sustainability.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "A polymer is best described as a large molecule made of ___.",
+            "options": [
+              "Only inorganic minerals with no organic connection",
+              "A concept unrelated to molecular structure",
+              "Repeating smaller units called monomers",
+              "A single, non-repeating unit with no smaller components"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The smaller repeating units that make up a polymer are called ___.",
+            "options": [
+              "Monomers",
+              "A term unrelated to polymer structure",
+              "Electrons",
+              "Isotopes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a synthetic polymer?",
+            "options": [
+              "A substance entirely unrelated to polymer chemistry",
+              "A single, unbonded atom",
+              "Plastic",
+              "A pure metal with no polymer structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do synthetic polymers like plastics raise concerns about environmental sustainability?",
+            "options": [
+              "Plastics have no connection to environmental concerns",
+              "This topic has no relevance to chemistry or sustainability",
+              "All synthetic polymers break down immediately with no environmental impact",
+              "Many plastics take a very long time to break down, contributing to long-term pollution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding polymer chemistry useful for developing more sustainable materials?",
+            "options": [
+              "Sustainable materials can never be developed using chemistry",
+              "This field of study has no practical, real-world applications",
+              "Polymer chemistry has no connection to sustainability efforts",
+              "It can help chemists design polymers that break down more easily or use fewer harmful resources"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Suez Crisis and the Birth of Peacekeeping (Lester Pearson)",
+        "summary": "Grade 10 History strand: the 1956 Suez Crisis was a major international conflict during which Canadian diplomat Lester Pearson helped establish the first large-scale United Nations peacekeeping force, later earning him the Nobel Peace Prize.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Suez Crisis took place in which year?",
+            "options": [
+              "1919",
+              "1970",
+              "1956",
+              "1995"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Lester Pearson is closely associated with helping establish ___.",
+            "options": [
+              "An organization unrelated to international diplomacy",
+              "The first large-scale United Nations peacekeeping force",
+              "A conflict with no connection to peacekeeping",
+              "A purely domestic Canadian policy initiative"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Lester Pearson’s role during the Suez Crisis later earned him ___.",
+            "options": [
+              "A prize unrelated to his diplomatic work",
+              "An award unrelated to peacekeeping or diplomacy",
+              "No international recognition of any kind",
+              "The Nobel Peace Prize"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Suez Crisis considered significant in the history of international peacekeeping?",
+            "options": [
+              "This crisis has no lasting historical significance",
+              "This event had no connection to the development of peacekeeping",
+              "It led to the creation of a new model for United Nations peacekeeping missions",
+              "Peacekeeping missions existed long before this event with no relation to it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada’s role in the Suez Crisis be a significant point of national pride?",
+            "options": [
+              "It highlighted Canada’s influence in shaping international diplomacy and peacekeeping",
+              "This topic has no relevance to understanding Canada’s global reputation",
+              "Canada had no meaningful role in the Suez Crisis",
+              "This event has no connection to Canadian foreign policy history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Documentary Filmmaking Techniques",
+        "summary": "Grade 10 English strand: documentary filmmakers use techniques such as interviews, archival footage, narration, and editing choices to shape a persuasive or informative perspective on real events.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Documentary filmmakers often use techniques such as ___.",
+            "options": [
+              "Purely fictional scenes with no connection to real events",
+              "Interviews, archival footage, narration, and editing choices",
+              "A concept unrelated to documentary filmmaking",
+              "Only completely unscripted, unedited footage with no other elements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the specific editing choices in a documentary influence how a viewer interprets an event?",
+            "options": [
+              "The order and selection of footage can shape which details and perspectives are emphasized",
+              "This factor is irrelevant to understanding documentary film",
+              "All documentaries present information in an identical, unedited way",
+              "Editing has no effect on how a documentary is perceived"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is narration often an important element to analyze in a documentary?",
+            "options": [
+              "The narrator’s tone and word choice can guide the audience toward a particular interpretation",
+              "Narration has no influence on how a documentary is understood",
+              "This element has no connection to persuasive or informative filmmaking",
+              "Documentaries never include any narration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a technique used to build credibility in a documentary?",
+            "options": [
+              "Including interviews with relevant experts or eyewitnesses",
+              "Presenting only unsupported personal opinions with no evidence",
+              "A technique unrelated to building credibility",
+              "Avoiding any interviews or outside perspectives entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable to critically analyze documentary filmmaking techniques as a media literacy skill?",
+            "options": [
+              "This skill has no connection to understanding media today",
+              "It helps viewers recognize how factual content can still be shaped by creative and persuasive choices",
+              "Critical analysis of documentaries has no value for media literacy",
+              "Documentaries always present information in a completely neutral way"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Piecewise and Step Functions",
+        "summary": "Grade 10 Functions strand (extension): a piecewise function is defined by different expressions over different intervals of its domain, and a step function is a specific type of piecewise function whose graph looks like a series of horizontal steps.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A piecewise function is defined by ___.",
+            "options": [
+              "Different expressions over different intervals of its domain",
+              "No defined expression at all",
+              "A concept unrelated to functions",
+              "A single expression that applies across its entire domain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A step function’s graph typically looks like a series of ___.",
+            "options": [
+              "A concept unrelated to step functions",
+              "A single smooth, continuous curve",
+              "Horizontal steps",
+              "Diagonal lines with no flat sections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a real-world example that could be modelled with a step function?",
+            "options": [
+              "A situation with no connection to changing values",
+              "The cost of parking, which increases by a fixed amount for each additional hour",
+              "A quantity that changes smoothly and continuously with no sudden jumps",
+              "A concept unrelated to step functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a piecewise function be useful for modelling a situation where a rule changes under certain conditions?",
+            "options": [
+              "It allows different expressions to apply depending on the specific interval or condition",
+              "Piecewise functions can never represent a rule that changes",
+              "A single expression can always represent any changing rule with no need for a piecewise function",
+              "This type of function has no real-world modelling use"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to pay attention to the domain restrictions when graphing a piecewise function?",
+            "options": [
+              "Piecewise functions never have any domain restrictions",
+              "Each piece of the function is only valid, and should only be graphed, within its specified interval",
+              "Every piece of the function applies across the entire domain regardless of any restriction",
+              "Domain restrictions have no effect on how a piecewise function is graphed"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Nervous System and Neurotransmission",
+        "summary": "Grade 10 Biology strand: the nervous system coordinates the body’s responses using neurons that communicate through electrical and chemical signals, including neurotransmitters that cross the synapse between cells.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "The nervous system coordinates the body’s responses using ___.",
+            "options": [
+              "A process unrelated to communication between cells",
+              "Only mechanical movement, with no signalling involved",
+              "A single organ with no connection to other body systems",
+              "Neurons that communicate through electrical and chemical signals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Neurotransmitters are chemical messengers that ___.",
+            "options": [
+              "Cross the synapse between neurons to transmit a signal",
+              "Have no role in communication between neurons",
+              "Only function within a single neuron, with no connection to other cells",
+              "A concept unrelated to the nervous system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The small gap between two neurons, across which a signal is transmitted, is called the ___.",
+            "options": [
+              "Ventricle",
+              "Cortex",
+              "A structure unrelated to neurons",
+              "Synapse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the nervous system essential for the body’s ability to respond to its environment?",
+            "options": [
+              "This concept has no relevance to biological function",
+              "The body can respond to its environment with no involvement from the nervous system",
+              "It allows for rapid communication and coordination between different parts of the body",
+              "The nervous system has no connection to how the body responds to stimuli"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might understanding neurotransmission be important for studying certain medical conditions?",
+            "options": [
+              "Neurotransmission has no connection to any medical conditions",
+              "Medical conditions are never related to the nervous system",
+              "Many conditions are linked to imbalances or disruptions in how neurotransmitters function",
+              "This field of study has no relevance to human health"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Employment Equity Act and Workplace Diversity",
+        "summary": "Grade 10 History strand: the 1986 Employment Equity Act aimed to address workplace discrimination in Canada by promoting equal opportunity for groups historically underrepresented in the workforce, including women, Indigenous peoples, persons with disabilities, and visible minorities.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Employment Equity Act was introduced in which year?",
+            "options": [
+              "1945",
+              "1986",
+              "1970",
+              "1919"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Employment Equity Act aimed to address ___.",
+            "options": [
+              "A reduction in workplace protections for underrepresented groups",
+              "Workplace discrimination and promote equal opportunity for underrepresented groups",
+              "A topic entirely unrelated to workplace conditions",
+              "Only issues affecting a single industry, with no broader application"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these groups is specifically addressed by the Employment Equity Act?",
+            "options": [
+              "No specific groups are addressed by this legislation",
+              "Women, Indigenous peoples, persons with disabilities, and visible minorities",
+              "A group unrelated to workplace discrimination",
+              "Only a single demographic group, with no others considered"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is legislation like the Employment Equity Act considered historically significant?",
+            "options": [
+              "The Employment Equity Act has no connection to addressing discrimination",
+              "It represented a formal effort to address systemic inequality in Canadian workplaces",
+              "This legislation had no impact on workplace conditions in Canada",
+              "This topic has no relevance to understanding Canadian labour history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study legislation like the Employment Equity Act alongside broader social movements?",
+            "options": [
+              "Social movements never influence the development of Canadian law",
+              "Legislation has no connection to broader social movements",
+              "It shows how legal changes can both reflect and reinforce shifting social values around equity",
+              "This topic has no relevance to Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Epistolary Narratives (Letters and Diaries)",
+        "summary": "Grade 10 English strand: an epistolary narrative tells a story through a series of documents, such as letters or diary entries, offering an intimate, first-person perspective shaped by the format itself.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "An epistolary narrative tells a story through a series of ___.",
+            "options": [
+              "A single uninterrupted scene with no separate documents",
+              "Only third-person, objective narration",
+              "A concept unrelated to narrative structure",
+              "Documents, such as letters or diary entries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an epistolary format create a particularly intimate reading experience?",
+            "options": [
+              "A concept unrelated to narrative perspective",
+              "The epistolary format has no effect on how a reader experiences a story",
+              "This format always creates emotional distance between the reader and the character",
+              "It presents a first-person perspective that can feel like a direct, personal window into a character’s thoughts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a potential limitation of an epistolary narrative?",
+            "options": [
+              "This format always provides complete, objective information about every event",
+              "A limitation unrelated to epistolary narratives",
+              "Readers only know what a character chooses to include in their letters or entries",
+              "Epistolary narratives have no potential limitations at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might multiple correspondents’ letters be used together in a single epistolary novel?",
+            "options": [
+              "A reason unrelated to epistolary narratives",
+              "It allows readers to see different perspectives on the same events",
+              "Using multiple correspondents never adds any additional perspective",
+              "This technique only works with a single narrator throughout"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do some contemporary novels use modern formats, like text messages or emails, in an epistolary style?",
+            "options": [
+              "They can update the traditional letter-based format to reflect how people communicate today",
+              "Contemporary novels never experiment with narrative format",
+              "Modern communication formats can never be used in an epistolary narrative",
+              "This technique has no connection to the original epistolary tradition"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Systems of Equations with Three Variables",
+        "summary": "Grade 10 Algebra strand (extension): a system of equations with three variables can be solved by systematically eliminating variables through substitution or elimination until a single variable’s value is found.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A system of equations with three variables requires finding values that satisfy ___.",
+            "options": [
+              "None of the equations in the system",
+              "A concept unrelated to systems of equations",
+              "Only one of the equations, with no connection to the others",
+              "All of the equations in the system simultaneously"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solving a three-variable system often involves systematically ___.",
+            "options": [
+              "Adding a fourth variable to simplify the system",
+              "Eliminating variables until a single variable’s value is found",
+              "A method unrelated to solving systems of equations",
+              "Ignoring two of the three variables entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might elimination be a useful strategy for solving a three-variable system?",
+            "options": [
+              "It can reduce the system to two equations with two variables, making it easier to solve",
+              "This method has no connection to solving systems of equations",
+              "Elimination never simplifies a system of equations",
+              "Elimination only works with a single-variable equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Once the value of one variable is found in a three-variable system, what is typically done next?",
+            "options": [
+              "The value is discarded and the system must be solved again from scratch",
+              "That value is substituted back into other equations to solve for the remaining variables",
+              "A step unrelated to solving systems of equations",
+              "The solving process is considered complete with no further steps needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a three-variable system be useful for modelling a real-world situation with multiple unknown quantities?",
+            "options": [
+              "Three-variable systems have no real-world modelling application",
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "Real-world situations never involve more than one unknown quantity",
+              "It allows several related unknowns to be solved for at the same time using multiple given relationships"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Weathering and Erosion Processes",
+        "summary": "Grade 10 Earth Science strand: weathering breaks down rock and minerals in place, while erosion transports the resulting sediment elsewhere, together gradually reshaping Earth’s surface over time.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Weathering refers to the process of ___.",
+            "options": [
+              "Transporting sediment from one location to another",
+              "A concept unrelated to Earth’s surface",
+              "Breaking down rock and minerals in place",
+              "Forming entirely new rock with no connection to existing material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Erosion refers to the process of ___.",
+            "options": [
+              "Breaking down rock and minerals in place, with no transportation involved",
+              "Forming mountains with no connection to sediment movement",
+              "Transporting sediment from one location to another",
+              "A concept unrelated to weathering"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a weathering process?",
+            "options": [
+              "Wind carrying sand from one location to another",
+              "A process unrelated to breaking down rock",
+              "Ice expanding in the cracks of a rock, causing it to break apart",
+              "A river depositing sediment at its mouth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do weathering and erosion often work together to shape landscapes over time?",
+            "options": [
+              "Weathering breaks down material that erosion then transports, gradually reshaping the land",
+              "These two processes have no connection to one another",
+              "Landscapes are shaped with no involvement from either process",
+              "Weathering and erosion never occur together in the same location"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding weathering and erosion important for managing land use, such as farming or construction?",
+            "options": [
+              "Weathering and erosion never affect how land can be used",
+              "This concept has no relevance to Earth science or geography",
+              "It helps predict how landscapes may change and informs decisions about stable and sustainable land use",
+              "These processes have no connection to land use decisions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Same-Sex Marriage Legalization in Canada",
+        "summary": "Grade 10 History strand: Canada legalized same-sex marriage nationwide in 2005 through the Civil Marriage Act, making it one of the first countries in the world to do so, following a series of provincial court rulings.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada legalized same-sex marriage nationwide in which year?",
+            "options": [
+              "2005",
+              "1970",
+              "1945",
+              "1990"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Same-sex marriage in Canada was legalized nationwide through ___.",
+            "options": [
+              "A law that had no connection to LGBTQ rights",
+              "An act entirely unrelated to marriage rights",
+              "The Civil Marriage Act",
+              "A decision made with no formal legislation at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before nationwide legalization, same-sex marriage rights in Canada were first established through ___.",
+            "options": [
+              "A method entirely unrelated to Canadian law",
+              "No legal process at all",
+              "A single national referendum with no court involvement",
+              "A series of provincial court rulings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada’s legalization of same-sex marriage considered historically significant?",
+            "options": [
+              "Same-sex marriage has no connection to Canadian civil rights history",
+              "This topic has no relevance to understanding Canadian history",
+              "It made Canada one of the first countries in the world to legalize same-sex marriage nationwide",
+              "This event had no significance in Canadian legal history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians connect the legalization of same-sex marriage to broader human rights movements in Canada?",
+            "options": [
+              "Human rights movements never influenced Canadian legislation",
+              "This topic has no relevance to Canadian legal or social history",
+              "This event has no connection to broader human rights movements",
+              "It reflects a continued expansion of legal rights and recognition for previously marginalized groups"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Extended Definition Essay",
+        "summary": "Grade 10 English strand: an extended definition essay explores the full meaning of a complex or abstract term by using examples, comparisons, and context beyond a simple dictionary definition.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "An extended definition essay explores the full meaning of a term by using ___.",
+            "options": [
+              "Only a single, brief dictionary definition with no further explanation",
+              "A definition with no connection to the term’s actual meaning",
+              "A concept unrelated to defining a term",
+              "Examples, comparisons, and context"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose to write an extended definition essay about an abstract term, like “courage” or “success”?",
+            "options": [
+              "Abstract terms never require any further explanation",
+              "This type of essay only works for simple, concrete terms",
+              "Abstract terms have no meaning worth exploring in an essay",
+              "Abstract terms often have complex, personal, or contested meanings that benefit from deeper exploration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a technique a writer might use in an extended definition essay?",
+            "options": [
+              "Avoiding any examples or context entirely",
+              "A technique unrelated to extended definition writing",
+              "Providing only a single sentence with no further elaboration",
+              "Comparing the term to a related but distinct concept"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer include what a term does not mean as part of an extended definition essay?",
+            "options": [
+              "A reason unrelated to extended definition writing",
+              "This approach never helps clarify a term’s meaning",
+              "Contrasting a term with what it is not can help clarify and sharpen its actual meaning",
+              "Only a term’s literal, dictionary definition should ever be discussed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is context especially important when writing an extended definition of a term?",
+            "options": [
+              "Context never affects the meaning of a term",
+              "This factor has no connection to extended definition writing",
+              "A term has exactly one meaning that never changes based on context",
+              "A term’s meaning can shift depending on the situation or perspective in which it is used"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Permutations and Combinations: Advanced Applications",
+        "summary": "Grade 10 Data Management strand (extension): a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
+            "options": [
+              "Only a single item is being arranged",
+              "Order matters",
+              "Order does not matter at all",
+              "A concept unrelated to counting arrangements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A combination counts the number of ways items can be selected when ___.",
+            "options": [
+              "Order does not matter",
+              "A concept unrelated to counting selections",
+              "Order always matters",
+              "No items are actually being selected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these situations would use a combination rather than a permutation?",
+            "options": [
+              "Arranging 3 different trophies in a specific order on a shelf",
+              "Selecting 3 students for a committee from a group of 10, with no distinct roles",
+              "A situation unrelated to counting outcomes",
+              "Assigning first, second, and third place in a race"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to determine whether order matters before solving a counting problem?",
+            "options": [
+              "Order never affects which counting method should be used",
+              "Permutations and combinations always produce identical results",
+              "This distinction has no relevance to solving counting problems",
+              "It determines whether a permutation or combination formula should be used, which can produce very different results"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are permutations and combinations useful in real-world situations, such as determining possible outcomes in a lottery or scheduling?",
+            "options": [
+              "They provide an efficient way to count large numbers of possible outcomes without listing them all individually",
+              "Real-world scheduling and lottery problems never require any counting method",
+              "These concepts have no real-world counting applications",
+              "This concept only applies to purely abstract mathematics with no real-world use"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Simple Harmonic Motion (Pendulums and Springs)",
+        "summary": "Grade 10 Physics strand: simple harmonic motion describes a repeating back-and-forth movement, such as a swinging pendulum or an oscillating spring, where the restoring force is proportional to the displacement from equilibrium.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Simple harmonic motion describes a repeating movement that is best characterized as ___.",
+            "options": [
+              "A completely random, unpredictable movement",
+              "Back-and-forth around a central equilibrium point",
+              "A concept unrelated to periodic motion",
+              "A motion that only ever occurs in a single direction with no repetition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common example of simple harmonic motion?",
+            "options": [
+              "An object that remains completely stationary",
+              "A concept unrelated to simple harmonic motion",
+              "An object moving in a perfectly straight line with no repeating pattern",
+              "A pendulum swinging back and forth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In simple harmonic motion, the restoring force is proportional to ___.",
+            "options": [
+              "A factor unrelated to the object’s position",
+              "The colour of the oscillating object",
+              "The temperature of the surrounding environment",
+              "The displacement from equilibrium"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a pendulum eventually slow down and stop swinging in a real-world setting?",
+            "options": [
+              "A pendulum’s motion has no connection to energy at all",
+              "A reason unrelated to simple harmonic motion",
+              "Pendulums never lose any energy while swinging",
+              "Friction and air resistance gradually remove energy from the system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding simple harmonic motion useful for designing devices like clocks or shock absorbers?",
+            "options": [
+              "Simple harmonic motion has no practical, real-world applications",
+              "This concept only applies to purely theoretical physics problems",
+              "These devices never rely on any repeating or oscillating motion",
+              "It helps engineers predict and control repeating, oscillating movement in these devices"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The National Energy Program and Federal-Provincial Tension",
+        "summary": "Grade 10 History strand: the 1980 National Energy Program was a federal policy aimed at increasing Canadian control over the oil industry, which created significant tension with western provinces, particularly Alberta.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The National Energy Program was introduced in which year?",
+            "options": [
+              "1919",
+              "1980",
+              "1945",
+              "1995"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The National Energy Program was primarily aimed at increasing Canadian control over the ___.",
+            "options": [
+              "A sector entirely unrelated to energy policy",
+              "Oil industry",
+              "Automotive manufacturing industry",
+              "Fishing industry, with no connection to energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The National Energy Program created significant tension with ___.",
+            "options": [
+              "Only eastern Canadian provinces, with no involvement from the west",
+              "No provinces at all",
+              "Western provinces, particularly Alberta",
+              "A region entirely unrelated to the energy sector"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the National Energy Program often cited as an example of federal-provincial tension in Canadian history?",
+            "options": [
+              "It illustrates conflicts that can arise between federal economic policy and provincial resource interests",
+              "The National Energy Program has no connection to federal-provincial relations",
+              "This policy had no effect on the relationship between federal and provincial governments",
+              "This topic has no relevance to understanding Canadian political history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians continue to study the National Energy Program and its aftermath?",
+            "options": [
+              "This topic has no relevance to understanding modern Canada",
+              "This policy has no lasting historical significance",
+              "Federal-provincial tension has never been a meaningful issue in Canadian history",
+              "It offers insight into ongoing debates about regionalism and resource control in Canadian federalism"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Impromptu Speaking Skills",
+        "summary": "Grade 10 English strand: impromptu speaking involves organizing and delivering a coherent response to a topic with little or no preparation time, relying on quick thinking and a clear structure.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Impromptu speaking involves delivering a response to a topic ___.",
+            "options": [
+              "A concept unrelated to public speaking",
+              "After extensive research and days of preparation",
+              "With little or no preparation time",
+              "Only when a full written script is available in advance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a speaker use a simple structure, such as stating a point and then giving a supporting reason, during an impromptu speech?",
+            "options": [
+              "Structure is never useful when speaking without preparation",
+              "Impromptu speeches are always more effective with no structure at all",
+              "A reason unrelated to impromptu speaking",
+              "A clear structure helps organize thoughts quickly and keeps the response coherent under time pressure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a useful strategy for managing nervousness during impromptu speaking?",
+            "options": [
+              "Avoiding eye contact with the audience entirely throughout the speech",
+              "Speaking as quickly as possible with no pause at all",
+              "Taking a brief moment to gather thoughts before beginning to speak",
+              "A strategy unrelated to managing nervousness"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is impromptu speaking considered a valuable skill beyond the classroom?",
+            "options": [
+              "This skill has no application outside of a classroom setting",
+              "Impromptu speaking is never a realistic or useful skill",
+              "A reason unrelated to public speaking or communication",
+              "Many real-world situations, like interviews or meetings, require thinking and responding on the spot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might practising impromptu speaking regularly help build a speaker’s overall confidence?",
+            "options": [
+              "Impromptu speaking skills can never be improved through practice",
+              "Repeated practice can make organizing thoughts quickly feel more natural and less intimidating",
+              "Practice has no effect on a speaker’s confidence or ability",
+              "This concept has no connection to developing communication skills"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Polynomial Division and the Remainder Theorem",
+        "summary": "Grade 10 Number strand (extension): polynomial division follows a process similar to long division with numbers, and the remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to the polynomial evaluated at a.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "Polynomial division follows a process similar to ___.",
+            "options": [
+              "Simple multiplication with no connection to division",
+              "Long division with numbers",
+              "A process that only applies to single-term expressions",
+              "A method entirely unrelated to division"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The remainder theorem states that dividing a polynomial by (x - a) gives a remainder equal to ___.",
+            "options": [
+              "A concept unrelated to polynomial division",
+              "The polynomial evaluated at a",
+              "Zero, in every possible case",
+              "The value of a alone, with no connection to the polynomial"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a polynomial p(x) is divided by (x - 2) and p(2) = 0, what does this indicate about the division?",
+            "options": [
+              "The remainder must be a very large number",
+              "The division is impossible to carry out",
+              "A conclusion unrelated to the remainder theorem",
+              "There is no remainder, meaning (x - 2) is a factor of the polynomial"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the remainder theorem a useful shortcut compared to performing full polynomial long division?",
+            "options": [
+              "This theorem has no connection to polynomial division",
+              "The remainder theorem never provides a shortcut for finding a remainder",
+              "It allows the remainder to be found quickly by substituting a single value, without completing the entire division process",
+              "Full long division is always faster than using the remainder theorem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is polynomial division useful when working with more complex polynomial expressions?",
+            "options": [
+              "It can help simplify or factor expressions that would otherwise be difficult to work with directly",
+              "This concept only applies to purely abstract mathematics with no real-world use",
+              "Polynomial division has no useful application when working with complex expressions",
+              "Complex polynomial expressions never require any division or simplification"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Gas Laws (Boyle’s, Charles’s, Combined)",
+        "summary": "Grade 10 Chemistry strand: gas laws describe the mathematical relationships between a gas’s pressure, volume, and temperature, including Boyle’s law (pressure and volume) and Charles’s law (volume and temperature).",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Boyle’s law describes the relationship between a gas’s ___.",
+            "options": [
+              "Pressure and volume",
+              "Only its chemical formula, with no physical properties involved",
+              "A relationship unrelated to gas behaviour",
+              "Mass and colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Charles’s law describes the relationship between a gas’s ___.",
+            "options": [
+              "Volume and temperature",
+              "A relationship unrelated to gas behaviour",
+              "Colour and density",
+              "Pressure and mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to Boyle’s law, if the volume of a gas decreases while temperature remains constant, its pressure will generally ___.",
+            "options": [
+              "Remain completely unchanged",
+              "Become impossible to determine",
+              "Increase",
+              "Decrease"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The combined gas law integrates the relationships between ___.",
+            "options": [
+              "Only pressure, with no other variables",
+              "Mass and density alone, with no connection to gas behaviour",
+              "A relationship unrelated to gas laws",
+              "Pressure, volume, and temperature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are gas laws useful in real-world applications, such as scuba diving or weather forecasting?",
+            "options": [
+              "They help predict how gases will behave under changing pressure, volume, or temperature conditions",
+              "This concept only applies to purely theoretical chemistry problems",
+              "Gas laws have no practical, real-world applications",
+              "These fields never involve any changes in pressure, volume, or temperature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Japanese Canadian Internment: Redress and Legacy",
+        "summary": "Grade 10 History strand: following the forced internment of Japanese Canadians during World War II, the Canadian government issued a formal apology and financial redress in 1988, acknowledging the injustice of these wartime policies.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Canadian government issued a formal apology and financial redress for Japanese Canadian internment in which year?",
+            "options": [
+              "1970",
+              "1988",
+              "1945",
+              "1919"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The redress for Japanese Canadian internment acknowledged the injustice of policies enacted during ___.",
+            "options": [
+              "World War I",
+              "World War II",
+              "The Cold War",
+              "A conflict entirely unrelated to internment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the redress for Japanese Canadian internment considered historically significant?",
+            "options": [
+              "This topic has no relevance to understanding Canadian civil rights",
+              "This event had no significance in Canadian history",
+              "The redress has no connection to Japanese Canadian history",
+              "It represented a formal government acknowledgment of a serious historical injustice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might studying the redress movement help explain broader efforts toward historical accountability in Canada?",
+            "options": [
+              "Communities affected by historical injustice never advocate for recognition",
+              "It illustrates how affected communities can advocate for formal recognition of past injustices",
+              "This topic has no relevance to Canadian history",
+              "The redress movement has no connection to broader historical accountability efforts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians continue to study the internment of Japanese Canadians and its redress today?",
+            "options": [
+              "This topic has no lasting relevance to understanding Canadian history",
+              "It offers important lessons about civil liberties, wartime policy, and the process of reconciliation",
+              "The internment of Japanese Canadians has been entirely forgotten with no historical record",
+              "This event has no connection to Canadian civil rights history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: War Literature and Testimony",
+        "summary": "Grade 10 English strand: war literature and testimony present firsthand or fictionalized accounts of conflict, often exploring themes of trauma, survival, and the human cost of war through personal perspective.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "War literature and testimony often present ___.",
+            "options": [
+              "Firsthand or fictionalized accounts of conflict",
+              "A concept unrelated to human experience",
+              "Accounts entirely unrelated to war or conflict",
+              "Only purely statistical, impersonal reports of conflict"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a common theme explored in war literature?",
+            "options": [
+              "A theme entirely unrelated to conflict or its consequences",
+              "The human cost of war and its impact on survivors",
+              "Only the technical details of military strategy, with no human element",
+              "A topic unrelated to trauma or survival"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a firsthand account, or testimony, be considered a particularly powerful form of war literature?",
+            "options": [
+              "A reason unrelated to war literature",
+              "It offers a direct, personal perspective that can convey the emotional reality of experiencing conflict",
+              "Firsthand accounts are always less meaningful than fictionalized versions of events",
+              "Testimony has no connection to conveying the experience of war"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author choose a fictionalized account rather than a strict historical record to explore a war experience?",
+            "options": [
+              "This choice has no connection to how war literature conveys meaning",
+              "A strict historical record is always the only valid way to represent war",
+              "Fictionalized accounts are never used to explore real historical events",
+              "Fiction can allow for exploring universal emotional truths that may not fit within a strict historical account"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is studying war literature and testimony considered valuable, even for readers with no direct experience of conflict?",
+            "options": [
+              "It can build empathy and deepen understanding of the lasting human impact of war",
+              "This type of literature provides no meaningful insight for readers",
+              "War literature has no connection to broader human experience",
+              "A reason unrelated to reading and literary study"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rates of Change: Average vs Instantaneous (Intro to Calculus Concepts)",
+        "summary": "Grade 10 Functions strand (extension): the average rate of change measures how a quantity changes over an interval, while the instantaneous rate of change estimates how a quantity is changing at a single specific point.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The average rate of change measures how a quantity changes ___.",
+            "options": [
+              "At a single specific point only",
+              "Over an interval",
+              "A concept unrelated to functions",
+              "Only when the quantity remains completely constant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The instantaneous rate of change estimates how a quantity is changing ___.",
+            "options": [
+              "A concept unrelated to rates of change",
+              "Over an extremely long, unspecified interval",
+              "Only across the entire domain of the function, with no connection to a specific point",
+              "At a single specific point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The average rate of change between two points on a graph can be found using ___.",
+            "options": [
+              "Only the y-coordinate of a single point",
+              "The slope of the line connecting those two points",
+              "A method unrelated to average rate of change",
+              "The sum of both x-coordinates alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the instantaneous rate of change be approximated using very small intervals around a point?",
+            "options": [
+              "This method has no connection to estimating instantaneous rate of change",
+              "Smaller intervals never improve the accuracy of this type of estimate",
+              "Using increasingly smaller intervals can give a closer estimate of the rate of change at that exact point",
+              "Instantaneous rate of change can only ever be measured using a very large interval"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are these introductory rate of change concepts considered a foundation for later calculus study?",
+            "options": [
+              "They introduce the core idea of analyzing how a quantity changes, which calculus builds upon in greater depth",
+              "Calculus never involves analyzing rates of change",
+              "This topic has no relevance to higher-level mathematics",
+              "These concepts have no connection to calculus"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Symbiosis and Community Ecology",
+        "summary": "Grade 10 Biology strand: community ecology examines how different species interact within a shared environment, including symbiotic relationships such as mutualism, commensalism, and parasitism, and how these interactions shape overall ecosystem structure.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Community ecology examines how different species ___.",
+            "options": [
+              "Remain entirely isolated from their environment",
+              "A concept unrelated to ecosystems",
+              "Exist with no connection to one another",
+              "Interact within a shared environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a mutualistic relationship between species, ___.",
+            "options": [
+              "A concept unrelated to symbiosis",
+              "Neither species is affected by the interaction",
+              "Both species benefit from the interaction",
+              "Only one species benefits, while the other is harmed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best describes a parasitic relationship?",
+            "options": [
+              "One species benefits at the expense of the other",
+              "Both species benefit equally from the interaction",
+              "Neither species is affected in any way",
+              "A concept unrelated to symbiotic relationships"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do symbiotic relationships play an important role in shaping overall ecosystem structure?",
+            "options": [
+              "A reason unrelated to community ecology",
+              "Species interactions never influence how an ecosystem functions",
+              "Symbiotic relationships have no effect on an ecosystem’s overall structure",
+              "These close interactions can influence population sizes and the flow of energy and resources within a community"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists studying community ecology examine multiple types of species interactions together?",
+            "options": [
+              "Studying multiple interactions together provides no additional scientific insight",
+              "A fuller picture of interconnected relationships helps explain the overall stability and dynamics of an ecosystem",
+              "Community ecology only ever considers a single type of interaction at a time",
+              "This concept has no connection to understanding ecosystems"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in Afghanistan",
+        "summary": "Grade 10 History strand: Canada participated in the military mission in Afghanistan from 2001 to 2014 as part of an international coalition, a commitment that involved significant Canadian casualties and public debate.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada’s military mission in Afghanistan lasted approximately from ___.",
+            "options": [
+              "2001 to 2014",
+              "1970 to 1980",
+              "1919 to 1929",
+              "1945 to 1955"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada’s mission in Afghanistan was carried out as part of ___.",
+            "options": [
+              "A purely independent Canadian operation with no international involvement",
+              "A mission entirely unrelated to military engagement",
+              "A domestic policy initiative with no connection to Afghanistan",
+              "An international coalition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada’s involvement in Afghanistan involved significant ___.",
+            "options": [
+              "No casualties or public discussion of any kind",
+              "Canadian casualties and public debate",
+              "Universal, uncontested public support with no debate at all",
+              "A topic entirely unrelated to Canadian military history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s role in Afghanistan often studied as an example of a significant modern military commitment?",
+            "options": [
+              "This topic has no relevance to understanding recent Canadian history",
+              "This mission had no significant impact on Canadian military history",
+              "It represented one of Canada’s largest and most sustained military engagements in recent history",
+              "Canada’s involvement in Afghanistan has no connection to its foreign policy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians and policymakers continue to study Canada’s mission in Afghanistan?",
+            "options": [
+              "This topic has no relevance to understanding Canadian foreign policy",
+              "This mission has no lasting historical significance",
+              "It raises important questions about the costs, goals, and legacy of Canadian military engagement abroad",
+              "Canada’s role in Afghanistan has been entirely forgotten with no historical record"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Narrative Forms, Rhetoric, and War Literature",
+        "summary": "Grade 10 English strand: this review lesson revisits the bildungsroman, rhetorical devices, absurdist fiction, documentary technique, epistolary narratives, and war literature covered across Days 51-59.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A bildungsroman is best described as a novel that traces ___.",
+            "options": [
+              "A protagonist who never changes throughout the story",
+              "A single event with no connection to a character’s development",
+              "A protagonist’s psychological and moral growth from youth into maturity",
+              "A setting description with no focus on character at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rhetorical devices are language techniques used to ___.",
+            "options": [
+              "A concept unrelated to argumentative writing",
+              "Strengthen persuasion and emphasize key points",
+              "Weaken an argument’s overall persuasiveness",
+              "Remove all emotional appeal from a piece of writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Absurdist fiction typically presents ___.",
+            "options": [
+              "A setting with no unusual or unexpected elements",
+              "Only strictly realistic, logical events",
+              "Illogical or nonsensical situations",
+              "A concept unrelated to fiction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An epistolary narrative tells a story through a series of ___.",
+            "options": [
+              "A concept unrelated to narrative structure",
+              "A single uninterrupted scene with no separate documents",
+              "Only third-person, objective narration",
+              "Documents, such as letters or diary entries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review these varied literary forms and techniques together?",
+            "options": [
+              "It reinforces how different narrative approaches and techniques shape meaning and reader experience",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in English studies",
+              "These topics have no connection to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Logarithms, Rational Functions, and Counting Methods",
+        "summary": "Grade 10 Math strand review: this lesson revisits logarithmic equations, rational functions, three-dimensional vectors, the binomial theorem, piecewise functions, and permutations and combinations covered across Days 51-59.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "Solving a logarithmic equation often involves rewriting it in ___.",
+            "options": [
+              "A form unrelated to exponents",
+              "Fraction form with no connection to exponents",
+              "Exponential form",
+              "Linear form only, with no other conversion possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A vertical asymptote of a rational function typically occurs where ___.",
+            "options": [
+              "A location unrelated to the function’s denominator",
+              "The numerator equals zero",
+              "The denominator equals zero",
+              "The function crosses the x-axis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Pascal’s triangle can be used to determine the ___.",
+            "options": [
+              "A concept unrelated to binomial expansion",
+              "Only the exponents in an expression, with no connection to coefficients",
+              "Exact roots of any polynomial equation",
+              "Coefficients used in a binomial expansion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
+            "options": [
+              "A concept unrelated to counting arrangements",
+              "Order matters",
+              "Only a single item is being arranged",
+              "Order does not matter at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable to review these connected mathematical concepts together?",
+            "options": [
+              "These concepts have no connection to each other",
+              "Each concept must be understood with no connection to the others",
+              "Review is never useful in math",
+              "It reinforces how these skills build on and relate to one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Chemistry, Biology, and Physics Applications",
+        "summary": "Grade 10 Science strand review: this lesson revisits colligative properties, Mendelian genetics, projectile motion, polymer chemistry, the nervous system, weathering and erosion, simple harmonic motion, gas laws, and community ecology covered across Days 51-59.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Colligative properties depend primarily on ___.",
+            "options": [
+              "The number of dissolved particles in a solution",
+              "The exact identity of the solute alone, with no connection to particle count",
+              "The specific colour of the solute",
+              "A factor unrelated to dissolved particles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Determine the age of an organism",
+              "Measure the physical size of an organism",
+              "Predict the possible genetic outcomes of a cross between two parents",
+              "A tool unrelated to genetics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Projectile motion combines constant horizontal velocity with ___.",
+            "options": [
+              "A concept unrelated to motion in the air",
+              "No vertical motion at all",
+              "Vertical acceleration due to gravity",
+              "A second, separate horizontal acceleration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The small gap between two neurons, across which a signal is transmitted, is called the ___.",
+            "options": [
+              "Cortex",
+              "A structure unrelated to neurons",
+              "Ventricle",
+              "Synapse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review these connected science concepts together?",
+            "options": [
+              "Review is never useful at the end of a unit",
+              "Each concept must be understood with no connection to the others",
+              "These concepts have no connection to each other",
+              "It reinforces how these scientific ideas relate to and build on one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Twentieth- and Twenty-First-Century Canadian History",
+        "summary": "Grade 10 History strand review: this lesson revisits the Halifax Explosion, the Korean War, the Avro Arrow, the Suez Crisis, the Employment Equity Act, same-sex marriage legalization, the National Energy Program, Japanese Canadian redress, and Canada’s role in Afghanistan covered across Days 51-59.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Halifax Explosion was caused by ___.",
+            "options": [
+              "A planned military attack on the city",
+              "An event unrelated to Halifax",
+              "A collision between two ships in Halifax Harbour",
+              "A natural disaster with no connection to ships"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Lester Pearson is closely associated with helping establish ___.",
+            "options": [
+              "A conflict with no connection to peacekeeping",
+              "An organization unrelated to international diplomacy",
+              "The first large-scale United Nations peacekeeping force",
+              "A purely domestic Canadian policy initiative"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada legalized same-sex marriage nationwide in which year?",
+            "options": [
+              "1945",
+              "2005",
+              "1990",
+              "1970"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian government issued a formal apology and financial redress for Japanese Canadian internment in which year?",
+            "options": [
+              "1970",
+              "1919",
+              "1945",
+              "1988"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review these events of 20th- and 21st-century Canadian history together?",
+            "options": [
+              "Review is never useful in history",
+              "These events have no meaningful connections to each other",
+              "Each event must be studied with no connection to the others",
+              "It reinforces how these historical developments connect to shape modern Canadian identity and policy"
+            ],
+            "answer": 3
           }
         ]
       }
