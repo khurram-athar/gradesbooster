@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Text Features in Nonfiction", summary:"Nonfiction texts use features like headings, captions, bold text, and diagrams to help organize information and aid understanding.",
    resourceLabel:"YouTube: Text Features in Nonfiction", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%20in%20Nonfiction%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"A chapter includes a bolded term, a labeled diagram, and a caption. Which reading strategy uses these features BEST?", options:["Ignore them and only read the paragraphs","Read them after finishing without connecting to the text","Preview them first to build a framework for understanding the text","Skip the chapter entirely"], answer:2},
      {q:"Why might an author use a heading like 'Causes of the Water Cycle' instead of just starting the paragraph directly?", options:["It is required by law","It replaces the need for a topic sentence","It has no real purpose","It signals the topic to guide readers"], answer:3},
@@ -685,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratios", summary:"A ratio compares two quantities, showing how much of one thing there is compared to another.",
    resourceLabel:"YouTube: Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Ratios%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dD8JsS-TchA",
    quiz:[
      {q:"A fruit basket has a ratio of apples to oranges of 3:2. If there are 15 apples, how many oranges are there?", options:["12","6","8","10"], answer:3},
      {q:"A paint mix uses a ratio of blue to yellow of 2:5. To make a batch using 20 units of yellow, how much blue is needed?", options:["8","10","4","5"], answer:0},

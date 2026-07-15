@@ -703,6 +703,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Citizenship: Rights and Responsibilities", summary:"Grade 4 Social Studies: in a democratic society, citizens have rights (freedoms) and responsibilities (duties). Being an active citizen benefits everyone.",
    resourceLabel:"YouTube: Citizenship: Rights and Responsibilities", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%3A%20Rights%20and%20Responsibilities%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FWwEMFSY1r0",
    quiz:[
      {q:"Rights give citizens ___.", options:["no rules","freedoms and protections","unlimited power","only advantages"], answer:1},
      {q:"Responsibilities require citizens to ___.", options:["only benefit themselves","do nothing","obey laws and respect others","ignore rules"], answer:2},
@@ -723,6 +724,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Likely and Unlikely", summary:"Grade 4 Data and Probability strand: probability describes the likelihood of an event: certain, likely, unlikely, or impossible.",
    resourceLabel:"YouTube: Probability: Likely and Unlikely", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Likely%20and%20Unlikely%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"If an event is 'impossible,' the probability is ___.", options:["close to 1","0","1","close to 0"], answer:1},
      {q:"If an event is 'certain,' the probability is ___.", options:["close to 1","1","close to 0","0"], answer:1},
@@ -732,6 +734,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physical and Chemical Changes", summary:"Grade 4 Science Materials strand: a physical change alters the form but not the substance (e.g., cutting). A chemical change produces a new substance (e.g., burning).",
    resourceLabel:"YouTube: Physical and Chemical Changes", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20and%20Chemical%20Changes%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=joT50SYQctc",
    quiz:[
      {q:"A physical change ___.", options:["creates a new substance","changes the form but not the substance","is irreversible","involves burning"], answer:2},
      {q:"A chemical change ___.", options:["is always reversible","only changes shape","produces a new substance","is the same as melting"], answer:2},
@@ -828,6 +831,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Writing: Summary Writing", summary:"Grade 4 Writing strand: a summary is a brief restatement of the most important ideas in a text, using your own words. It does not include personal opinions.",
    resourceLabel:"YouTube: Writing: Summary Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Summary%20Writing%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CUbKpjQMM0w",
    quiz:[
      {q:"A summary ___.", options:["is longer than the original","restates the main ideas briefly","includes your personal opinions","retells every detail of a text"], answer:1},
      {q:"When writing a summary, you should ___.", options:["copy the original text word for word","add your own new ideas","include only the main points and key supporting ideas","include all details"], answer:3},

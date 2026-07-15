@@ -685,6 +685,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Proportional Reasoning and Scale", summary:"Proportional reasoning compares relationships between quantities, often used in scale drawings and maps.",
    resourceLabel:"YouTube: Proportional Reasoning and Scale", resourceUrl:"https://www.youtube.com/results?search_query=Proportional%20Reasoning%20and%20Scale%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VZnBy85sTF0",
    quiz:[
      {q:"If a scale drawing uses a ratio of 1:50, a 2 cm length represents...", options:["2 cm","25 cm","50 cm","100 cm"], answer:3},
      {q:"Two quantities are proportional if...", options:["They are always equal","One is always zero","Their ratio stays constant","They never relate"], answer:2},
@@ -703,6 +704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urbanization and Its Effects on Canadian Cities", summary:"As Canada industrialized, more people moved to cities, leading to growth in housing, jobs, and infrastructure challenges.",
    resourceLabel:"YouTube: Urbanization and Its Effects on Canadian Cities", resourceUrl:"https://www.youtube.com/results?search_query=Urbanization%20and%20Its%20Effects%20on%20Canadian%20Cities%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fKnAJCSGSdk",
    quiz:[
      {q:"Urbanization refers to...", options:["People moving from rural areas to cities","Farming expansion only","Cities disappearing","A decrease in population"], answer:0},
      {q:"Industrialization in Canadian history contributed to urbanization by...", options:["Creating factory jobs in cities","Removing all jobs","Having no economic effect","Discouraging migration"], answer:0},
@@ -732,6 +734,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Systems and Air Masses", summary:"Weather is influenced by moving air masses with different temperature and humidity, and by fronts where air masses meet.",
    resourceLabel:"YouTube: Weather Systems and Air Masses", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Systems%20and%20Air%20Masses%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nVooyj73dwA",
    quiz:[
      {q:"An air mass is a large body of air with similar...", options:["Sound and pressure","Colour and shape","Temperature and humidity","Speed and direction only"], answer:2},
      {q:"A cold front occurs when...", options:["Air pressure has no role","No air masses move","Cold air pushes into a warm area","Two warm air masses combine"], answer:2},

@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Argumentative Essay", summary:"Students write a multi-paragraph argumentative essay with a clear claim, organized supporting points with evidence, counterargument acknowledgement, and a conclusion.",
    resourceLabel:"YouTube: Writing: Argumentative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Argumentative%20Essay%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VZKUeEBryOk",
    quiz:[
      {q:"The claim in an argumentative essay is ___.", options:["the conclusion alone","a list of facts only","the writer's main position or argument","a question about the topic"], answer:2},
      {q:"Why is it important to address the counterargument in an essay?", options:["It strengthens your argument","It is not important","Only for debate class","Only for long essays"], answer:0},
@@ -703,6 +704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: Greece", summary:"Students study ancient Greek city-states (Athens and Sparta), the origins of democracy, Greek philosophy, and the legacy of Greek culture.",
    resourceLabel:"YouTube: Ancient Civilisations: Greece", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20Greece%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RchSJSJAbc0",
    quiz:[
      {q:"The two main rival city-states in ancient Greece were ___.", options:["Rome and Athens","Corinth and Thebes","Olympia and Delphi","Athens and Sparta"], answer:3},
      {q:"Ancient Athens is credited with developing ___.", options:["the Roman senate","only military power","the earliest direct democracy","monarchy for all cities"], answer:2},
@@ -714,6 +716,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Advertising Techniques", summary:"Students analyse advertising strategies including emotional appeal, bandwagon, celebrity endorsement, and fear appeal. They evaluate the purpose and impact of media messages.",
    resourceLabel:"YouTube: Media Literacy: Advertising Techniques", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20Advertising%20Techniques%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qQTrTiFbdSI",
    quiz:[
      {q:"Media literacy involves ___.", options:["accessing and evaluating media","only reading newspapers","only watching more television","only creating videos"], answer:0},
      {q:"The 'bandwagon' advertising technique says ___.", options:["everyone is using this — join in or miss out","only experts use this product","a celebrity likes this","this product is dangerous"], answer:0},

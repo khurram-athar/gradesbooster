@@ -776,6 +776,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Question Words", summary:"Question words help us ask questions: Who (asks about a person), What (asks about a thing), Where (asks about a place), When (asks about a time), Why (asks about a reason), and How (asks about the way something is done).",
    resourceLabel:"YouTube: Question Words", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xFt17oZYvHs",
    quiz:[
      {q:"Which question word asks about a PERSON?", options:["Where","When","What","Who"], answer:3},
      {q:"Which question word asks about a PLACE?", options:["How","When","Why","Where"], answer:3},
@@ -879,6 +880,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Transportation Long Ago vs. Today", summary:"Transportation has changed a lot over time. Long ago, people walked, rode horses, or travelled by boat. Today, we have cars, trains, airplanes, and buses.",
    resourceLabel:"YouTube: Transportation Long Ago vs. Today", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20Long%20Ago%20vs.%20Today%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7WME-lWSbDw",
    quiz:[
      {q:"Long ago, before cars existed, how did most people travel on land?", options:["By subway","By horse, foot, or horse-drawn carriage","By airplane","By rocket ship"], answer:1},
      {q:"Which of these is a MODERN form of transportation?", options:["Walking","Sailboat from long ago","Airplane","Horse and buggy"], answer:2},

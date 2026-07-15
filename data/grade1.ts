@@ -832,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines", summary:"Ontario Grade 1 Science strand: simple machines make work easier. Examples include lever, wheel and axle, pulley, inclined plane, wedge, and screw.",
    resourceLabel:"YouTube: Simple Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"A simple machine makes work ___.", options:["Harder","More confusing","Easier","Slower"], answer:3},
      {q:"A ramp is an example of an ___.", options:["Wheel and axle","Inclined plane","Pulley","Lever"], answer:1},
