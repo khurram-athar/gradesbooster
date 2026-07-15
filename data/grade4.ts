@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Narrative Writing", summary:"Grade 4 Writing strand: narrative writing tells a story with a clear beginning (characters/setting), middle (problem/rising action), and end (resolution).",
    resourceLabel:"YouTube: Writing: Narrative Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20Writing%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M7jmKm5EuRs",
    quiz:[
      {q:"Narrative writing tells a ___.", options:["fact-based report","story with characters and events","persuasive argument","set of instructions"], answer:1},
      {q:"The beginning of a narrative should introduce ___.", options:["the characters and setting","the conclusion","the climax","the solution"], answer:0},
@@ -685,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Line Graphs", summary:"Grade 4 Data strand: a line graph shows how data changes over time. Points are connected by a line to show trends: increasing, decreasing, or stable.",
    resourceLabel:"YouTube: Data: Line Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Line%20Graphs%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hcgThf5mv38",
    quiz:[
      {q:"A line graph is best used to show ___.", options:["data that changes over time","angles","fractions","categories compared at one time"], answer:0},
      {q:"The horizontal axis of a line graph usually shows ___.", options:["categories","colours","quantities","time (days, months, years)"], answer:3},
@@ -694,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Mixtures and Solutions", summary:"Grade 4 Science Materials strand: a mixture is made of two or more substances combined physically. A solution is a mixture where one substance dissolves completely in another.",
    resourceLabel:"YouTube: Mixtures and Solutions", resourceUrl:"https://www.youtube.com/results?search_query=Mixtures%20and%20Solutions%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6WpRELNo7k8",
    quiz:[
      {q:"A mixture contains ___.", options:["a single compound","two or more substances combined","only one substance","only chemicals"], answer:1},
      {q:"In a solution, the dissolved substance is called the ___.", options:["solute","mixture","solvent","residue"], answer:0},
@@ -715,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Conjunctions", summary:"Grade 4 Language strand: conjunctions join words, phrases, or clauses. Coordinating conjunctions: for, and, nor, but, or, yet, so (FANBOYS). Subordinating: because, since, although.",
    resourceLabel:"YouTube: Grammar: Conjunctions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Conjunctions%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dGAEvyDdYQA",
    quiz:[
      {q:"A conjunction joins ___.", options:["words, phrases, or clauses","only nouns","only verbs","only sentences"], answer:0},
      {q:"Which is a coordinating conjunction?", options:["because","but","since","although"], answer:1},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"First Nations Treaties in Canada", summary:"Grade 4 Social Studies: treaties are agreements between the Crown and First Nations peoples. They were meant to share land but were often not honoured by the government.",
    resourceLabel:"YouTube: First Nations Treaties in Canada", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%20Treaties%20in%20Canada%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5EyYhs_bhhg",
    quiz:[
      {q:"A treaty is ___.", options:["a type of building","a style of artwork","a formal agreement between parties","a type of land"], answer:2},
      {q:"Treaties between First Nations and the Crown involved ___.", options:["sharing land and defining rights","only religion","only money","only sharing food"], answer:0},
@@ -755,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Pronouns and Antecedents", summary:"Grade 4 Language strand: a pronoun replaces a noun (the antecedent). The pronoun must agree with its antecedent in number and gender.",
    resourceLabel:"YouTube: Grammar: Pronouns and Antecedents", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Pronouns%20and%20Antecedents%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gfJ2q8LN4jo",
    quiz:[
      {q:"A pronoun takes the place of a ___.", options:["noun","adjective","verb","conjunction"], answer:0},
      {q:"The word a pronoun refers back to is called the ___.", options:["object","subject","antecedent","predicate"], answer:2},
@@ -764,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"3-Digit × 1-Digit Multiplication", summary:"Grade 4 Number strand: multiply 3-digit numbers by 1-digit numbers using expanded form and the standard algorithm.",
    resourceLabel:"YouTube: 3-Digit × 1-Digit Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=3-Digit%20%C3%97%201-Digit%20Multiplication%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=od-tHGrudcA",
    quiz:[
      {q:"213 × 3 = ?", options:["639","609","619","649"], answer:0},
      {q:"145 × 4 = ?", options:["580","560","620","590"], answer:0},
@@ -773,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Patterns and Water Cycle", summary:"Grade 4 Science Earth strand: the water cycle involves evaporation, condensation, and precipitation. Weather is caused by movements of air masses.",
    resourceLabel:"YouTube: Weather Patterns and Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20and%20Water%20Cycle%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TD3XSIE4ymo",
    quiz:[
      {q:"What powers the water cycle?", options:["The wind alone","The moon's gravity","Human activity","The sun's energy evaporating water"], answer:3},
      {q:"Evaporation is when water changes from a liquid to a ___.", options:["solid","plasma","gas","crystal"], answer:2},
@@ -782,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Colonial Canada", summary:"Grade 4 Social Studies: colonial Canada (1600s–1867) was shaped by French and British settlers, the fur trade, and conflicts with and among Indigenous peoples.",
    resourceLabel:"YouTube: Colonial Canada", resourceUrl:"https://www.youtube.com/results?search_query=Colonial%20Canada%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fSMzawssykE",
    quiz:[
      {q:"New France was the name for ___.", options:["Modern Quebec only","British settlements in Canada","Indigenous territories","French territory in North America"], answer:3},
      {q:"The fur trade was important because ___.", options:["It was only about clothing","It connected two peoples economically","Only Europeans benefited","Only Indigenous peoples benefited"], answer:1},

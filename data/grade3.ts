@@ -706,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario and the Environment", summary:"Students explore environmental issues in Ontario: pollution, conservation, and the role citizens and government play in protecting natural spaces.",
    resourceLabel:"YouTube: Ontario and the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%20and%20the%20Environment%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yAQ8Y3UiMcg",
    quiz:[
      {q:"The Greenbelt in Ontario is ___.", options:["a sports field","a type of vegetable garden","protected land around the GTA","a government building"], answer:2},
      {q:"Water pollution in the Great Lakes is caused by ___.", options:["only wildlife","industry, farm runoff, and sewage","only rain","natural processes only"], answer:1},
@@ -717,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Poetry: Reading and Interpreting", summary:"Students read various poem forms (haiku, cinquain, limerick) and identify poetic elements: rhyme, rhythm, stanza, simile, and metaphor.",
    resourceLabel:"YouTube: Poetry: Reading and Interpreting", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%3A%20Reading%20and%20Interpreting%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LO21tYrTD8Y",
    quiz:[
      {q:"Rhyme in poetry means ___.", options:["repeating the same word","making lines very long","words that end with the same sound","using no punctuation"], answer:2},
      {q:"A simile compares two things using 'like' or 'as.' Which is a simile?", options:["She is a shining star","The thunder spoke to the rain","The moon is a lantern in the sky","He ran like the wind"], answer:3},
@@ -736,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks: Igneous, Sedimentary, Metamorphic", summary:"Students classify rocks into three types and understand how each forms.",
    resourceLabel:"YouTube: Rocks: Igneous, Sedimentary, Metamorphic", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%3A%20Igneous%2C%20Sedimentary%2C%20Metamorphic%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ty2Za-O9h6w",
    quiz:[
      {q:"Igneous rocks form from ___.", options:["pressed sediment layers","metamorphism","cooled magma or lava","living organisms"], answer:2},
      {q:"Sedimentary rocks form from ___.", options:["metamorphism","layers of sediment compressed over time","volcanic eruptions","cooled lava"], answer:1},
@@ -745,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Economy: Goods and Services", summary:"Students explore the difference between goods (physical products) and services (activities that meet needs), and how they are exchanged.",
    resourceLabel:"YouTube: Economy: Goods and Services", resourceUrl:"https://www.youtube.com/results?search_query=Economy%3A%20Goods%20and%20Services%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2Nf1tNQlPYw",
    quiz:[
      {q:"Goods are ___.", options:["only free things","things people do for you","physical products you can hold and buy","only natural resources"], answer:2},
      {q:"Services are ___.", options:["activities that meet a need","physical objects you buy","only government actions","only food"], answer:0},
@@ -756,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Non-Fiction: Cause and Effect in Science Texts", summary:"Students practise identifying cause-and-effect relationships in non-fiction science texts using text clues and structure.",
    resourceLabel:"YouTube: Non-Fiction: Cause and Effect in Science Texts", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%3A%20Cause%20and%20Effect%20in%20Science%20Texts%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mKBthdR8sYU",
    quiz:[
      {q:"In a science text, 'because' often signals ___.", options:["a cause coming next","the main idea","an effect","a sequence of events"], answer:0},
      {q:"In a science text, 'therefore' often signals ___.", options:["an effect or result","a cause","a new topic","an example"], answer:0},
@@ -765,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterns: Growing and Shrinking", summary:"Students identify and extend growing (increasing) and shrinking (decreasing) patterns using numbers, shapes, and objects.",
    resourceLabel:"YouTube: Patterns: Growing and Shrinking", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Growing%20and%20Shrinking%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Js45cR_7wFE",
    quiz:[
      {q:"A growing pattern is one that ___.", options:["increases with each term","repeats in a cycle","stays the same","decreases with each term"], answer:0},
      {q:"Identify the pattern: 2, 4, 6, 8... It is ___.", options:["growing by 2","random","staying the same","shrinking by 2"], answer:0},
@@ -774,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Static and Current", summary:"Students explore static electricity (build-up of charge) and current electricity (flowing charge that powers devices). They identify conductors and insulators.",
    resourceLabel:"YouTube: Electricity: Static and Current", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yc2-363MIQs",
    quiz:[
      {q:"Static electricity is caused by ___.", options:["flowing electrons in a wire","magnetism only","sound waves","a build-up of charge from friction"], answer:3},
      {q:"Current electricity is ___.", options:["stationary charge","a flow of electrons through a wire","only for large machines","only from batteries"], answer:1},
@@ -783,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rights of Children: UNCRC", summary:"Students learn about the United Nations Convention on the Rights of the Child (UNCRC) and key rights: education, protection, participation, and health.",
    resourceLabel:"YouTube: Rights of Children: UNCRC", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20of%20Children%3A%20UNCRC%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HCYLdtug8sk",
    quiz:[
      {q:"The UNCRC is ___.", options:["an agreement on children's rights","a school rule","a type of food","a Canadian law only"], answer:0},
      {q:"According to the UNCRC, all children have the right to ___.", options:["only health care","only play","education, protection, and health care","only education"], answer:2},

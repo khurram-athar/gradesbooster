@@ -686,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Percentages", summary:"Students understand percentages as rates per 100. They convert between fractions, decimals, and percentages, and solve percent problems.",
    resourceLabel:"YouTube: Percentages", resourceUrl:"https://www.youtube.com/results?search_query=Percentages%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JeVSmq1Nrpw",
    quiz:[
      {q:"A percentage is a ratio out of ___.", options:["100","10","50","1000"], answer:0},
      {q:"50% as a decimal is ___.", options:["500","5.0","0.5","0.05"], answer:2},
@@ -695,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity and Classification", summary:"Students explore the classification of living things (Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species) and the importance of biodiversity.",
    resourceLabel:"YouTube: Biodiversity and Classification", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20and%20Classification%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rVZktiOxsww",
    quiz:[
      {q:"Taxonomy is the science of ___.", options:["only studying bacteria","measuring animals","naming and classifying living things","counting species"], answer:2},
      {q:"The eight levels of biological classification from broadest to most specific are ___.", options:["Domain to Species, broadest first","Kingdom to Species only","Species first to Domain last","Only Kingdom, Phylum, Species"], answer:0},
@@ -726,6 +728,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Integers: Introduction", summary:"Students extend their number sense to negative numbers. They place integers on a number line, compare them, and understand real-world contexts (temperature, elevation, debt).",
    resourceLabel:"YouTube: Integers: Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Integers%3A%20Introduction%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OSfDRqxmXAE",
    quiz:[
      {q:"An integer is ___.", options:["any whole number, including zero","only a positive whole number","a decimal","a fraction"], answer:0},
      {q:"Which number is greatest?", options:["−10","0","−5","3"], answer:3},
@@ -735,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity and Circuits", summary:"Students explore electrical circuits, including series and parallel circuits, conductors, insulators, voltage, current, and resistance.",
    resourceLabel:"YouTube: Electricity and Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%20and%20Circuits%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HOFp8bHTN30",
    quiz:[
      {q:"In a series circuit, if one bulb burns out ___.", options:["all bulbs go out (one path)","only the next bulb goes out","nothing changes","all other bulbs stay on"], answer:0},
      {q:"In a parallel circuit, if one bulb burns out ___.", options:["all other bulbs stay on","all bulbs go out","only the bulb before it goes out","the battery dies"], answer:0},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Civilisations: China", summary:"Students study the Han Dynasty, the Silk Road, major inventions (paper, compass, printing, gunpowder), and China's influence on world history.",
    resourceLabel:"YouTube: Ancient Civilisations: China", resourceUrl:"https://www.youtube.com/results?search_query=Ancient%20Civilisations%3A%20China%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tpy5BMhMYYw",
    quiz:[
      {q:"The Silk Road was ___.", options:["a road made of silk","trade routes linking China to the West","a river route only","a type of Chinese fabric"], answer:1},
      {q:"Which of these was NOT invented in ancient China?", options:["Paper","Gunpowder","The telephone","The printing press (woodblock printing)"], answer:2},
@@ -755,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Reading: Synthesising Information from Multiple Sources", summary:"Students gather information from two or more sources and synthesise it into a unified understanding, noting similarities, differences, and gaps.",
    resourceLabel:"YouTube: Reading: Synthesising Information from Multiple Sources", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Synthesising%20Information%20from%20Multiple%20Sources%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7dEGoJdb6O0",
    quiz:[
      {q:"Synthesising information means ___.", options:["combining ideas into new understanding","copying from multiple sources","summarising one source","only comparing sources"], answer:0},
      {q:"When synthesising, you should look for ___.", options:["similarities, differences, and gaps","only agreements between sources","only facts that agree","only contradictions"], answer:0},
@@ -764,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Order of Operations (BEDMAS)", summary:"Students apply the correct order of operations: Brackets, Exponents, Division/Multiplication (left to right), Addition/Subtraction (left to right).",
    resourceLabel:"YouTube: Order of Operations (BEDMAS)", resourceUrl:"https://www.youtube.com/results?search_query=Order%20of%20Operations%20%28BEDMAS%29%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dAgfnK528RA",
    quiz:[
      {q:"BEDMAS stands for ___.", options:["Brackets, Equation, Division, Math, Addition, Subtraction","Base, Equation, Data, Method, Answer, Step","None of these","BEDMAS order of operations"], answer:3},
      {q:"What is 3 + 4 × 2?", options:["10","11","14","8"], answer:1},
@@ -773,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Flight and Aerodynamics", summary:"Students explore the four forces of flight (lift, weight, thrust, drag) and Bernoulli's principle. They investigate how wing shape generates lift.",
    resourceLabel:"YouTube: Flight and Aerodynamics", resourceUrl:"https://www.youtube.com/results?search_query=Flight%20and%20Aerodynamics%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Gg0TXNXgz-w",
    quiz:[
      {q:"The four forces acting on an aircraft in flight are ___.", options:["push, pull, spin, and float","lift, weight, thrust, and drag","hot air, cold air, wind, speed","gravity, wind, speed, and size"], answer:1},
      {q:"Lift is a force that acts ___.", options:["forward","downward","upward, opposing gravity","backward"], answer:2},
@@ -782,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Medieval Europe", summary:"Students explore the feudal system, the role of the Church, the Crusades, the Black Death, and the transition from the Middle Ages to the Renaissance.",
    resourceLabel:"YouTube: Medieval Europe", resourceUrl:"https://www.youtube.com/results?search_query=Medieval%20Europe%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yHughcfloZM",
    quiz:[
      {q:"The feudal system in Medieval Europe was ___.", options:["a merchant economy","monarch, nobles, knights, then peasants","a democratic government","an early republic"], answer:1},
      {q:"The Black Death (bubonic plague) in the 14th century ___.", options:["only lasted one year","only affected Asia","killed about a third of Europeans","had no major effects"], answer:2},

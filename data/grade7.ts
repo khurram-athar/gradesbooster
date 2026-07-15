@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Irony and Satire", summary:"Irony occurs when there's a contrast between expectation and reality; satire uses humour or exaggeration to criticize something.",
    resourceLabel:"YouTube: Irony and Satire", resourceUrl:"https://www.youtube.com/results?search_query=Irony%20and%20Satire%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=b_khC1DezsA",
    quiz:[
      {q:"Irony involves...", options:["A gap between expectation and reality","A type of rhyme scheme","Always being funny","A formal greeting"], answer:0},
      {q:"Satire often uses humour or exaggeration to...", options:["Describe a setting only","Praise something directly","Avoid making a point","Criticize or mock a subject"], answer:3},
@@ -695,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Rock Cycle and Types of Rocks", summary:"Rocks are classified as igneous, sedimentary, or metamorphic, and constantly change form through the rock cycle.",
    resourceLabel:"YouTube: The Rock Cycle and Types of Rocks", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20and%20Types%20of%20Rocks%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VByCLpj-I_s",
    quiz:[
      {q:"Igneous rock forms from...", options:["Extreme cold","Cooled, hardened magma or lava","Compressed sediment only","Ocean water only"], answer:1},
      {q:"Sedimentary rock forms through...", options:["Freezing only","Volcanic eruption only","Melting only","Compaction of sediment layers"], answer:3},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Bias Detection in News Articles", summary:"Critical readers identify bias by examining word choice, missing perspectives, and the source's purpose or ownership.",
    resourceLabel:"YouTube: Bias Detection in News Articles", resourceUrl:"https://www.youtube.com/results?search_query=Bias%20Detection%20in%20News%20Articles%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6R6-2_8m4Co",
    quiz:[
      {q:"Bias in a news article can be revealed through...", options:["Never having an author","Neutral, balanced word choice only","Always citing multiple sources fairly","Loaded language and one-sided framing"], answer:3},
      {q:"A reliable news source typically...", options:["Avoids fact-checking","Presents only one viewpoint","Cites credible sources and verifies facts","Uses only emotional language"], answer:2},
@@ -725,6 +728,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Linear Relations and Graphing (Intro)", summary:"A linear relation shows a constant rate of change between two variables and can be represented with a table, equation, or straight-line graph.",
    resourceLabel:"YouTube: Linear Relations and Graphing (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Linear%20Relations%20and%20Graphing%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MXV65i9g1Xg",
    quiz:[
      {q:"A linear relation graphs as a...", options:["Single point","Curve","Circle","Straight line"], answer:3},
      {q:"In the equation y = 2x + 1, what is y when x = 3?", options:["5","7","6","8"], answer:1},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Climate Regions of the World", summary:"The world is divided into climate regions (such as tropical, arid, temperate, and polar) based on temperature and precipitation patterns.",
    resourceLabel:"YouTube: Climate Regions of the World", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20Regions%20of%20the%20World%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5tC8OOxOFEk",
    quiz:[
      {q:"Climate regions are classified mainly based on...", options:["Government type","Language spoken","Population size","Temperature and precipitation patterns"], answer:3},
      {q:"A tropical climate region typically has...", options:["Cold temperatures year-round","Constant snow","No precipitation ever","Warm temperatures and high rainfall"], answer:3},
@@ -755,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Research Report Structure", summary:"A research report typically includes an introduction, body paragraphs organized by subtopic, a conclusion, and cited sources.",
    resourceLabel:"YouTube: Research Report Structure", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Report%20Structure%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=T3CZe5Rj_bI",
    quiz:[
      {q:"The introduction of a research report should...", options:["Only list sources","Contain the conclusion","Introduce the topic and main idea","Be left out entirely"], answer:2},
      {q:"Body paragraphs in a research report are usually organized by...", options:["Random order","Alphabetical order of words","Length only","Subtopics or themes"], answer:3},
@@ -764,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Transformations: Rotations, Reflections, Translations", summary:"Transformations move shapes on a grid: translations slide, reflections flip, and rotations turn a shape around a point.",
    resourceLabel:"YouTube: Transformations: Rotations, Reflections, Translations", resourceUrl:"https://www.youtube.com/results?search_query=Transformations%3A%20Rotations%2C%20Reflections%2C%20Translations%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YD3HIMUae_4",
    quiz:[
      {q:"A translation moves a shape by...", options:["Sliding it without rotating or flipping","Changing its size","Flipping it over a line","Turning it around a point"], answer:0},
      {q:"A reflection creates a...", options:["Mirror image of the shape","Rotated version only","Larger version of the shape","Smaller version of the shape"], answer:0},
@@ -773,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity and Species at Risk", summary:"Biodiversity is the variety of living things in an ecosystem; human activity can threaten species, leading some to become at risk or endangered.",
    resourceLabel:"YouTube: Biodiversity and Species at Risk", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%20and%20Species%20at%20Risk%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2XdeLpm42i8",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of living things in an area","The weather in a region","Only ocean life","Only the number of trees"], answer:0},
      {q:"A species at risk is one that...", options:["Faces decline and risk of extinction","Is thriving with a growing population","Lives only in zoos","Has no predators"], answer:0},
@@ -782,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Population Distribution and Density Globally", summary:"Population distribution describes where people live; population density measures how many people live in a given area, both shaped by geography and resources.",
    resourceLabel:"YouTube: Population Distribution and Density Globally", resourceUrl:"https://www.youtube.com/results?search_query=Population%20Distribution%20and%20Density%20Globally%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HkYEbJfxQyI",
    quiz:[
      {q:"Population density measures...", options:["The climate of a region","The number of cities in a region","The number of people per unit area","The total population of a country only"], answer:2},
      {q:"Areas with fertile land and fresh water tend to have...", options:["Always low population","No relationship to settlement","Higher population density","No population at all"], answer:2},

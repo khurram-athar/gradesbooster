@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"English", title:"Writing: Satire and Parody", summary:"Students study and produce satire, examining how writers use exaggeration, irony, and wit to critique social and political targets.",
    resourceLabel:"YouTube: Writing: Satire and Parody", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Satire%20and%20Parody%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=izMt9fcAzno",
    quiz:[
      {q:"Satire is ___.", options:["only found in political cartoons","criticism that is always gentle","wit and exaggeration exposing folly","humour with no serious intent"], answer:2},
      {q:"The difference between satire and parody is ___.", options:["they are identical","satire hits society, parody a work","only satire is funny","parody only targets books"], answer:1},
@@ -685,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Trigonometry: Solving Trigonometric Equations", summary:"Students solve trigonometric equations for all values in a given domain and express general solutions.",
    resourceLabel:"YouTube: Trigonometry: Solving Trigonometric Equations", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%3A%20Solving%20Trigonometric%20Equations%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VMAMARmmDac",
    quiz:[
      {q:"To solve sin x = 0.5 for 0° ≤ x < 360°, you ___.", options:["use cos instead","find x = 60° only","only get x = 30°","x = 30° and x = 150° (Q1 and Q2)"], answer:3},
      {q:"A general solution for sin x = 0.5 is ___.", options:["x = 30°n","x = 150°n","x = 30° only","x = 30°+360°n or 150°+360°n"], answer:3},
@@ -694,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Plant Physiology: Growth, Hormones, and Response", summary:"Students examine plant hormones (auxin, gibberellin, cytokinin, ethylene, ABA) and plant responses (tropisms, photoperiodism).",
    resourceLabel:"YouTube: Plant Physiology: Growth, Hormones, and Response", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Physiology%3A%20Growth%2C%20Hormones%2C%20and%20Response%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RqCqUEu9nY4",
    quiz:[
      {q:"Auxin (IAA) promotes ___.", options:["dormancy in seeds","cell elongation","fruit ripening","root and shoot inhibition only"], answer:1},
      {q:"Gibberellins are plant hormones involved in ___.", options:["stem elongation and seed germination","senescence (ageing)","flower closing","drought stress responses"], answer:0},
@@ -703,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Polymers and Materials", summary:"Students examine addition and condensation polymers, their properties, applications, and environmental impact.",
    resourceLabel:"YouTube: Organic Chemistry: Polymers and Materials", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Polymers%20and%20Materials%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JknzbSVBuYM",
    quiz:[
      {q:"An addition polymer forms by ___.", options:["cross-linking only","only polymerising natural compounds","monomers joining end-to-end","eliminating water"], answer:2},
      {q:"A condensation polymer forms by ___.", options:["only forming in living organisms","addition of double-bond monomers","only using synthetic monomers","monomers joining, releasing water"], answer:3},
@@ -714,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Social Realism in Literature", summary:"Students read and analyse a socially realistic novel or play that engages directly with class, race, gender, or economic injustice.",
    resourceLabel:"YouTube: Independent Reading: Social Realism in Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Social%20Realism%20in%20Literature%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WMvtXlPilbo",
    quiz:[
      {q:"Social realism in literature aims to ___.", options:["entertain through melodrama","only describe working class life","avoid political content","depict social conditions"], answer:3},
      {q:"Charles Dickens's novels (and their Canadian equivalents) work as social realism because ___.", options:["they use only upper-class characters","they dramatise poverty's human costs","they are purely entertaining","they avoid all social comment"], answer:1},
@@ -733,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Animal Behaviour: Ethology and Learning", summary:"Students examine innate (instinctive) and learned behaviours, communication, mating systems, and social behaviour in animals.",
    resourceLabel:"YouTube: Animal Behaviour: Ethology and Learning", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Behaviour%3A%20Ethology%20and%20Learning%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=EyyDq19Mi3A",
    quiz:[
      {q:"A fixed action pattern (FAP) is ___.", options:["any habitual animal behaviour","an innate behaviour triggered by a cue","a learned behaviour requiring repetition","triggered only by pain"], answer:1},
      {q:"Habituation is the simplest form of learning, in which ___.", options:["an animal reduces its response to a repeated, harmless stimulus","an animal improves its skills with practice","an animal learns to associate two stimuli","an animal learns to solve a new problem"], answer:0},
@@ -742,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry in Industry: Industrial Processes", summary:"Students examine key industrial chemical processes including the Haber-Bosch process, the Contact process, and petroleum refining.",
    resourceLabel:"YouTube: Chemistry in Industry: Industrial Processes", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20in%20Industry%3A%20Industrial%20Processes%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xjLUJ-7m5v8",
    quiz:[
      {q:"The Haber-Bosch process produces ___.", options:["sulfuric acid","steel from iron ore","plastics from petroleum","ammonia from N₂ and H₂ over a catalyst"], answer:3},
      {q:"The Haber-Bosch equilibrium is a trade-off because ___.", options:["there is no equilibrium in this reaction","higher temp speeds it, lowers yield","higher temperature always improves yield","the reaction is irreversible"], answer:1},

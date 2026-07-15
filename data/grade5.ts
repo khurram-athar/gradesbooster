@@ -696,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound and Vibration", summary:"Sound is produced by vibrations that travel through a medium like air, water, or solids, reaching our ears as sound waves.",
    resourceLabel:"YouTube: Sound and Vibration", resourceUrl:"https://www.youtube.com/results?search_query=Sound%20and%20Vibration%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AGjxfx8sy6s",
    quiz:[
      {q:"Why can astronauts not hear sound in the vacuum of space, even during an explosion?", options:["Sound only travels through solids","Explosions don't make sound","Sound needs a medium; space has none","Astronauts' ears don't work in space"], answer:2},
      {q:"A guitarist presses a string shorter to raise its pitch. Why does this happen?", options:["Shorter strings are always louder","A shorter string vibrates faster, producing a higher pitch","A shorter string vibrates slower","String length has no effect on pitch"], answer:1},
@@ -705,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Arctic: Geography and Peoples", summary:"The Arctic region of Canada has a unique cold climate, tundra landscape, and is home to Inuit communities with rich traditions.",
    resourceLabel:"YouTube: The Arctic: Geography and Peoples", resourceUrl:"https://www.youtube.com/results?search_query=The%20Arctic%3A%20Geography%20and%20Peoples%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=k8crQumncTE",
    quiz:[
      {q:"Why has traditional Inuit knowledge been essential for survival in the Arctic environment?", options:["Arctic survival requires no special knowledge","It has no practical use","It only applies to farming","It offers skills for extreme cold"], answer:3},
      {q:"How does the Arctic's tundra landscape affect what kinds of building and infrastructure are possible there?", options:["Tundra has no effect on construction","There are no environmental challenges to building","The tundra allows unlimited large-scale farming","Permafrost and extreme cold require specialized construction methods"], answer:3},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Writing a Persuasive Paragraph", summary:"A persuasive paragraph states an opinion and supports it with convincing reasons and evidence.",
    resourceLabel:"YouTube: Writing a Persuasive Paragraph", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Persuasive%20Paragraph%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vHBdBi1CIEU",
    quiz:[
      {q:"Which sentence uses the STRONGEST persuasive evidence to support its opinion?", options:["Recess is fun.","Some students like recess.","Studies show recess boosts focus.","Recess happens at noon."], answer:2},
      {q:"A paragraph claims 'Homework should be banned' but gives no supporting reasons. What is the main weakness?", options:["It is too short","It uses too many facts","It has no weakness","It states an opinion without evidence"], answer:3},
@@ -725,6 +728,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Coordinate Grids", summary:"A coordinate grid uses an x-axis and y-axis to locate points using ordered pairs (x, y) in the first quadrant.",
    resourceLabel:"YouTube: Coordinate Grids", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Grids%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XvjIrfbJ7CM",
    quiz:[
      {q:"A point starts at the origin (0,0) and moves 4 units right and 6 units up. What are its new coordinates?", options:["(0, 6)","(4, 6)","(6, 4)","(4, 0)"], answer:1},
      {q:"Which two points are the SAME distance from the y-axis?", options:["(1, 1) and (9, 9)","(2, 3) and (8, 3)","(3, 2) and (5, 2)","(3, 2) and (3, 8)"], answer:3},
@@ -734,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Rock Cycle", summary:"Rocks change form over time through the rock cycle, moving between igneous, sedimentary, and metamorphic types.",
    resourceLabel:"YouTube: The Rock Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VByCLpj-I_s",
    quiz:[
      {q:"A geologist finds rock with visible layers of compressed sediment containing fossils. Which rock type is this most likely to be?", options:["Metamorphic","Igneous","None of these","Sedimentary"], answer:3},
      {q:"Why can a single rock theoretically transform into all three rock types over millions of years?", options:["Only igneous rocks can change","Heat and pressure reshape rock","Rocks never change once formed","Rock type is permanent and fixed"], answer:1},
@@ -743,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Canada's Provinces", summary:"Canada's provinces each have their own capital cities, geography, and key features that make them unique.",
    resourceLabel:"YouTube: Comparing Canada's Provinces", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Canada%27s%20Provinces%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Why might Alberta's economy differ significantly from Prince Edward Island's, based on geography?", options:["Geography has no effect on provincial economies","PEI has more oil resources than Alberta","Both provinces have identical economies","Alberta has oil; PEI has farming"], answer:3},
      {q:"Why does Quebec's French-speaking majority make it culturally distinct among Canadian provinces?", options:["This has no historical basis","Quebec has no distinct culture","All provinces are entirely French-speaking","It ties to New France heritage"], answer:3},
@@ -754,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Dialogue and Quotation Marks", summary:"Quotation marks show exactly what a character says, and dialogue helps bring characters and stories to life.",
    resourceLabel:"YouTube: Dialogue and Quotation Marks", resourceUrl:"https://www.youtube.com/results?search_query=Dialogue%20and%20Quotation%20Marks%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bEJff40buyg",
    quiz:[
      {q:"Which sentence correctly punctuates dialogue with a dialogue tag after the quote?", options:["\"I can't believe it,\" she whispered.","She whispered \"I can't believe it.\"","I can't believe it, she whispered.","\"I can't believe it\" she whispered."], answer:0},
      {q:"In a story with two characters talking back and forth, why does the writer start a new paragraph each time the speaker changes?", options:["It saves paper","It is optional and rarely used","It helps readers track who's speaking","It has no real purpose"], answer:2},
@@ -763,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Angles", summary:"Angles are measured in degrees and classified as acute (less than 90°), right (exactly 90°), or obtuse (more than 90° but less than 180°).",
    resourceLabel:"YouTube: Angles", resourceUrl:"https://www.youtube.com/results?search_query=Angles%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DGKwdHMiqCg",
    quiz:[
      {q:"Two angles together form a straight line (180°). If one angle measures 65°, what is the other?", options:["115°","105°","135°","125°"], answer:0},
      {q:"A triangle has angles measuring 90°, 40°, and an unknown third angle. What is the third angle?", options:["50°","40°","60°","70°"], answer:0},
@@ -772,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"States of Matter and the Particle Model", summary:"Matter exists as solid, liquid, or gas, and the particle model explains how tightly particles are packed and how they move in each state.",
    resourceLabel:"YouTube: States of Matter and the Particle Model", resourceUrl:"https://www.youtube.com/results?search_query=States%20of%20Matter%20and%20the%20Particle%20Model%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oMbB-TTIFU4",
    quiz:[
      {q:"Ice is heated until it becomes water, then continues to be heated until it becomes steam. What happens to the particles throughout this process?", options:["They disappear entirely","They become heavier","They stop moving completely","They move faster and spread apart"], answer:3},
      {q:"Why can a gas be compressed into a smaller container more easily than a liquid or solid?", options:["Liquids have more space between particles than gases","Gases have no particles at all","Gas particles are tightly packed like a solid","Gas particles are far apart with lots of empty space between them"], answer:3},
@@ -781,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rights and Freedoms in Canada", summary:"The Canadian Charter of Rights and Freedoms protects basic rights like freedom of expression, equality, and democratic rights for all Canadians.",
    resourceLabel:"YouTube: Rights and Freedoms in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20and%20Freedoms%20in%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YAIM1qzO9_w",
    quiz:[
      {q:"Why does the Canadian Charter of Rights and Freedoms apply to laws made by governments, rather than just individual actions?", options:["It cannot be used to challenge any law","It has no connection to government laws","It only applies to private businesses","It makes laws respect basic rights"], answer:3},
      {q:"A law is proposed that would prevent a specific group from voting. Which Charter right would this violate?", options:["Freedom of religion only","Property rights","Democratic rights","Mobility rights only"], answer:2},

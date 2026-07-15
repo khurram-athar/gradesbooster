@@ -686,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Similar Triangles and Basic Trig Ratios", summary:"Use properties of similar triangles and introduce the sine, cosine, and tangent ratios to find unknown sides and angles in right triangles (MTH1W Geometry strand).",
    resourceLabel:"YouTube: Similar Triangles and Basic Trig Ratios", resourceUrl:"https://www.youtube.com/results?search_query=Similar%20Triangles%20and%20Basic%20Trig%20Ratios%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YiFwvAFk-xs",
    quiz:[
      {q:"Two triangles are similar if...", options:["They are both right triangles","They have exactly the same side lengths","Angles equal, sides proportional","They share at least one side"], answer:2},
      {q:"In a right triangle, sin(θ) is defined as...", options:["Hypotenuse ÷ Opposite","Opposite ÷ Adjacent","Adjacent ÷ Hypotenuse","Opposite ÷ Hypotenuse"], answer:3},
@@ -695,6 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Types of Chemical Reactions", summary:"Classify chemical reactions as synthesis, decomposition, single displacement, or double displacement, and identify examples of each (SNC1W Chemistry strand).",
    resourceLabel:"YouTube: Types of Chemical Reactions", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Chemical%20Reactions%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Lvbm8horG1U",
    quiz:[
      {q:"In a synthesis reaction...", options:["Two compounds exchange partners","Two or more reactants combine to form a single product","One element replaces another in a compound","A single compound breaks apart"], answer:1},
      {q:"In a decomposition reaction...", options:["A compound breaks into parts","Two ionic compounds swap ions","One element replaces another","Two substances join together"], answer:0},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Visual and Multimodal Texts", summary:"Critically analyze how visual elements (images, layout, colour, typography) in infographics and memes create meaning and influence the audience (ENL1W Strand C).",
    resourceLabel:"YouTube: Analyzing Visual and Multimodal Texts", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Visual%20and%20Multimodal%20Texts%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=se3G8LV40gg",
    quiz:[
      {q:"A multimodal text is one that combines...", options:["Only spoken language","Two or more modes, like text and image","Only written words with no visuals","Images with no text ever"], answer:1},
      {q:"In an infographic, colour is often used to...", options:["Make the infographic harder to read","Organize info and guide the eye","Have no communicative purpose","Replace all written text"], answer:1},
@@ -725,6 +728,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Area and Perimeter of Composite 2D Shapes", summary:"Calculate the area and perimeter of composite shapes made from rectangles, triangles, circles, and semicircles (MTH1W Geometry strand).",
    resourceLabel:"YouTube: Area and Perimeter of Composite 2D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20of%20Composite%202D%20Shapes%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rBpsauKXPfs",
    quiz:[
      {q:"A composite shape is made up of...", options:["Only a single shape","Shapes that cannot be measured","Only circles","Two or more basic shapes combined"], answer:3},
      {q:"To find the area of a composite shape, you should...", options:["Divide into shapes, then add areas","Multiply all side lengths together","Use only the perimeter formula","Only estimate without calculating"], answer:0},
@@ -734,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ohm's Law and Circuit Calculations", summary:"Apply Ohm's Law (V = IR) to calculate voltage, current, and resistance in simple circuits (SNC1W Physics/Electricity strand).",
    resourceLabel:"YouTube: Ohm's Law and Circuit Calculations", resourceUrl:"https://www.youtube.com/results?search_query=Ohm%27s%20Law%20and%20Circuit%20Calculations%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_rSHqvjDksg",
    quiz:[
      {q:"Ohm's Law states that V = IR, where V is voltage, I is current, and R is...", options:["Reaction time","Rate","Resistance","Radius"], answer:2},
      {q:"If a circuit has a voltage of 12 V and a resistance of 4 Ω, the current is...", options:["16 A","8 A","48 A","3 A"], answer:3},
@@ -743,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Energy Resources and Consumption Patterns", summary:"Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
    resourceLabel:"YouTube: Global Energy Resources and Consumption Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1N4Hs4Tsh0U",
    quiz:[
      {q:"Fossil fuels include...", options:["Solar, wind, and hydro","Biomass and tidal only","Coal, oil, and natural gas","Nuclear and geothermal"], answer:2},
      {q:"Renewable energy sources are those that...", options:["Are always more expensive than fossil fuels","Only work in tropical climates","Replenished naturally, e.g. solar","Will run out in decades"], answer:2},

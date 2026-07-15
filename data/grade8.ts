@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Reading: Dystopian Fiction", summary:"Students examine dystopian fiction as a genre, exploring how authors use dystopias to critique contemporary society and raise questions about power, freedom, and identity.",
    resourceLabel:"YouTube: Reading: Dystopian Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Dystopian%20Fiction%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6a6kbU88wu0",
    quiz:[
      {q:"A dystopian society is ___.", options:["a realistic present-day society","a perfect utopia","an imagined, oppressive society","only a futuristic setting"], answer:2},
      {q:"Dystopian fiction typically critiques ___.", options:["only science and technology","nothing in the real world","aspects of real contemporary society","only historical governments"], answer:2},
@@ -705,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Quebec Referendums and Canadian Unity", summary:"Students examine the two Quebec referendums (1980, 1995) and the complex questions of identity, language, and national unity they raised.",
    resourceLabel:"YouTube: Quebec Referendums and Canadian Unity", resourceUrl:"https://www.youtube.com/results?search_query=Quebec%20Referendums%20and%20Canadian%20Unity%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rjIzROPFqYE",
    quiz:[
      {q:"The 1980 Quebec Referendum was on ___.", options:["Quebec leaving Confederation temporarily","whether Quebec should join the United States","negotiating 'sovereignty-association'","Quebec independence outright"], answer:2},
      {q:"The result of the 1980 referendum was ___.", options:["60% Yes for sovereignty-association","a Yes vote for full independence","a tied vote","59.6% voted No"], answer:3},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Writing: The Short Story", summary:"Students plan and write an original short story with an engaging hook, developed plot structure, consistent point of view, vivid characterisation, and a resonant ending.",
    resourceLabel:"YouTube: Writing: The Short Story", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Short%20Story%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RSoRzTtwgP4",
    quiz:[
      {q:"A story's inciting incident is ___.", options:["the event that starts the main conflict","the resolution","the falling action","the climax"], answer:0},
      {q:"Rising action consists of ___.", options:["events after the climax","events building toward the climax","the resolution of all conflicts","only dialogue"], answer:1},
@@ -725,6 +728,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data Management: Scatter Plots and Correlations", summary:"Students create scatter plots, identify correlations (positive, negative, none), draw lines of best fit, and use them to make predictions.",
    resourceLabel:"YouTube: Data Management: Scatter Plots and Correlations", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Scatter%20Plots%20and%20Correlations%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AxY7nTkgR6M",
    quiz:[
      {q:"A scatter plot is used to ___.", options:["show proportions of a whole","track changes over time","plot two variables as points","only show categorical data"], answer:2},
      {q:"A positive correlation means ___.", options:["as x increases, y also increases","as x increases, y decreases","there is no relationship","the data is perfectly linear"], answer:0},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Indigenous Issues: Land Rights and Reconciliation", summary:"Students examine specific Indigenous land claims, treaty rights, and current reconciliation efforts in Canada, connecting to historical policies.",
    resourceLabel:"YouTube: Indigenous Issues: Land Rights and Reconciliation", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Issues%3A%20Land%20Rights%20and%20Reconciliation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-_N5jgW0U9M",
    quiz:[
      {q:"A land claim in Canada refers to ___.", options:["a tax dispute","a claim to rights over unceded land","a private real estate dispute","a complaint about municipal zoning"], answer:1},
      {q:"The Haida Gwaii (2004) and Tsilhqot'in Nation (2014) Supreme Court decisions were significant because ___.", options:["they affirmed the duty to consult","they had no lasting impact","they only applied to British Columbia","they reduced Indigenous land rights"], answer:0},
@@ -755,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Grammar Review: Clauses, Phrases, and Usage", summary:"Students distinguish between phrases and clauses, identify misplaced and dangling modifiers, and apply grammar knowledge to revise writing for clarity and precision.",
    resourceLabel:"YouTube: Grammar Review: Clauses, Phrases, and Usage", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20Review%3A%20Clauses%2C%20Phrases%2C%20and%20Usage%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-a80_xFsh9w",
    quiz:[
      {q:"A phrase is ___.", options:["always one word","a complete thought","a group of words with a subject and verb","words lacking a subject and verb"], answer:3},
      {q:"A misplaced modifier is ___.", options:["a modifier placed far from its word","a modifier that is missing","a type of adverb","a modifier placed correctly"], answer:0},
@@ -764,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Factoring", summary:"Students factor polynomials by finding the greatest common factor (GCF) and factoring simple trinomials.",
    resourceLabel:"YouTube: Algebra: Factoring", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Factoring%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jO8pANH1pEA",
    quiz:[
      {q:"Factoring a polynomial means ___.", options:["expanding it","expressing it as a product of factors","multiplying it out","adding like terms"], answer:1},
      {q:"The GCF of 12x² and 8x is ___.", options:["8x","4x²","2x","4x"], answer:3},

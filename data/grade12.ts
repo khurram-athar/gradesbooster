@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"English", title:"Comparative Essay: World Literature", summary:"Students write a formal comparative essay on two world literature texts, applying university-level analytical standards.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=MSYw502dJNY",
+   videoUrl:"https://www.youtube.com/watch?v=hvMSeg1s7uc",
    quiz:[
      {q:"A comparative essay thesis must ___.", options:["describe similarities only","only list the works to be compared","treat works as entirely separate","make a claim about what the comparison reveals"], answer:3},
      {q:"Integrating two texts in a comparative essay is best done by ___.", options:["never mixing the texts","only using plot summaries","using a point-by-point structure for analytical comparison","discussing one text fully, then the other (block method always)"], answer:2},
@@ -705,6 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Conservation of Momentum: Collisions in 2D", summary:"Students apply conservation of momentum to two-dimensional collisions, resolving vectors into components.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=3sGOCBfpmbY",
+   videoUrl:"https://www.youtube.com/watch?v=9YRgHikdcqs",
    quiz:[
      {q:"For a 2D collision, conservation of momentum applies ___.", options:["independently to x and y components","only in the horizontal direction","only for elastic collisions","only if no friction acts"], answer:0},
      {q:"In a 2D elastic collision, both ___ and ___ are conserved.", options:["force and time","momentum and kinetic energy","mass and velocity","mass and charge"], answer:1},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Literary Theory: Reading Through a Lens", summary:"Students apply feminist, Marxist, and psychoanalytic critical lenses to literary texts, understanding how theory shapes interpretation.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=qGHBcRcPQeI",
+   videoUrl:"https://www.youtube.com/watch?v=_Vh2miANqUA",
    quiz:[
      {q:"Applying a critical lens to a text means ___.", options:["finding the one correct interpretation","using a theoretical framework to ask specific questions of the text","proving the author had specific intentions","only citing theory in a bibliography"], answer:1},
      {q:"Feminist literary criticism examines ___.", options:["how texts shape or subvert gender roles","only gender in isolation from other factors","only texts with female protagonists","only texts by women"], answer:0},
@@ -735,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Implicit Differentiation and Inverse Functions", summary:"Students apply implicit differentiation to curves defined implicitly, and differentiate inverse trigonometric and general inverse functions.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=mSVrqKZDRF4",
+   videoUrl:"https://www.youtube.com/watch?v=Xq0YEXPwi4Y",
    quiz:[
      {q:"Implicit differentiation is needed when ___.", options:["y cannot easily be isolated","the function is a polynomial","the function has no y variable","y is explicitly solved in terms of x"], answer:0},
      {q:"Differentiate x² + y² = 25 implicitly. dy/dx = ___.", options:["x/y","2x + 2y","−y/x","−x/y"], answer:3},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Simple Harmonic Motion", summary:"Students analyse SHM — period, frequency, amplitude, restoring force — and apply to springs and pendulums.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=ZkLXIZoCo-o",
+   videoUrl:"https://www.youtube.com/watch?v=jxstE6A_CYQ",
    quiz:[
      {q:"Simple harmonic motion occurs when ___.", options:["speed is constant","restoring force ∝ −displacement","the amplitude increases over time","the restoring force is constant"], answer:1},
      {q:"For a spring-mass system, the period is ___.", options:["T = 2π√(k/m)","T = 2π√(m/k)","T = 2π√k","T = 2πm/k"], answer:1},

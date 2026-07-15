@@ -738,6 +738,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Possessive Nouns", summary:"A possessive noun shows ownership. We add an apostrophe + s ('s) to a noun to show it belongs to someone, like 'the dog's bone' means the bone belongs to the dog.",
    resourceLabel:"YouTube: Possessive Nouns", resourceUrl:"https://www.youtube.com/results?search_query=Possessive%20Nouns%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=h7_aNX-wj9A",
    quiz:[
      {q:"Which sentence uses a possessive noun correctly?", options:["Dogs bone","The dogs bone","The dog's bone","The dogs' bone's"], answer:2},
      {q:"'Sara's hat' means...", options:["The hat belongs to Sara","A hat named Sara","Many hats","Sara is a hat"], answer:0},
@@ -747,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Reading Pictographs and Bar Graphs", summary:"A pictograph uses pictures to show data, and a bar graph uses bars. Both have a title and labels to help us read the information.",
    resourceLabel:"YouTube: Reading Pictographs and Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Pictographs%20and%20Bar%20Graphs%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zF_dBk8EPDk",
    quiz:[
      {q:"What is a pictograph?", options:["A map of a picture","A type of calculator","A written story","A graph that uses pictures to show data"], answer:3},
      {q:"In a bar graph, a taller bar means...", options:["More of something","Less of something","Nothing special","The same as shorter bars"], answer:0},
@@ -756,6 +758,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light and Sound as Forms of Energy", summary:"Light and sound are both forms of energy. Light travels in straight lines and helps us see. Sound is made by vibrations and travels through air to reach our ears.",
    resourceLabel:"YouTube: Light and Sound as Forms of Energy", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Sound%20as%20Forms%20of%20Energy%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cDaWohR_DVo",
    quiz:[
      {q:"What makes a sound?", options:["Light bouncing","Vibrations shaking back and forth","Hot air only","Only electricity"], answer:1},
      {q:"Light travels in...", options:["Curved lines only","Random directions only","Circles","Straight lines"], answer:3},
@@ -765,6 +768,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Caring for the Environment", summary:"We can help protect our environment by reducing waste, reusing things, recycling, and not polluting our air, water, or land. Everyone can help keep our planet healthy.",
    resourceLabel:"YouTube: Caring for the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Environment%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=X2YgM1Zw4_E",
    quiz:[
      {q:"What does 'recycling' mean?", options:["Buying more things","Burning old items","Throwing things in the garbage","Turning old materials into new products"], answer:3},
      {q:"Which action helps protect the environment?", options:["Littering","Turning off lights when not in use","Throwing garbage in rivers","Leaving taps running"], answer:1},
@@ -786,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Equal Groups as Early Multiplication", summary:"When we put things into equal groups, we can count them faster. For example, 3 groups of 4 = 12. This is the beginning of multiplication!",
    resourceLabel:"YouTube: Equal Groups as Early Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=Equal%20Groups%20as%20Early%20Multiplication%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gzFbUZ8VjEg",
    quiz:[
      {q:"How many are in 2 groups of 5?", options:["12","8","10","7"], answer:2},
      {q:"How many are in 3 groups of 3?", options:["3","12","6","9"], answer:3},
@@ -795,6 +800,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Parts of the Human Body", summary:"Our body has many parts that work together: head, shoulders, arms, hands, chest, stomach, legs, knees, and feet. Each part has an important job.",
    resourceLabel:"YouTube: Parts of the Human Body", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20the%20Human%20Body%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
    quiz:[
      {q:"Which body part helps you walk and run?", options:["Arms","Ears","Nose","Legs and feet"], answer:3},
      {q:"What does your heart do?", options:["Helps you move your arms","Helps you see","Helps you smell","Pumps blood through your body"], answer:3},
@@ -804,6 +810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Good Citizenship", summary:"A good citizen is someone who helps their community, follows rules, respects others, and takes care of shared spaces. Being a helpful community member makes life better for everyone.",
    resourceLabel:"YouTube: Good Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Good%20Citizenship%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QYa_DmgBUAk",
    quiz:[
      {q:"What is a good citizen?", options:["Someone who breaks rules","Someone who never talks to neighbours","Someone who helps their community and follows rules","Someone who only thinks about themselves"], answer:2},
      {q:"Which is an example of good citizenship?", options:["Bullying classmates","Littering in the park","Helping pick up litter in the park","Ignoring others who need help"], answer:2},

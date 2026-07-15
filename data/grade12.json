@@ -3945,6 +3945,7 @@
         "summary": "Students write a formal comparative essay on two world literature texts, applying university-level analytical standards.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=MSYw502dJNY",
+        "videoUrl": "https://www.youtube.com/watch?v=hvMSeg1s7uc",
         "quiz": [
           {
             "q": "A comparative essay thesis must ___.",
@@ -4124,6 +4125,7 @@
         "summary": "Students apply conservation of momentum to two-dimensional collisions, resolving vectors into components.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=3sGOCBfpmbY",
+        "videoUrl": "https://www.youtube.com/watch?v=9YRgHikdcqs",
         "quiz": [
           {
             "q": "For a 2D collision, conservation of momentum applies ___.",
@@ -4189,6 +4191,7 @@
         "summary": "Students apply feminist, Marxist, and psychoanalytic critical lenses to literary texts, understanding how theory shapes interpretation.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
+        "videoUrl": "https://www.youtube.com/watch?v=_Vh2miANqUA",
         "quiz": [
           {
             "q": "Applying a critical lens to a text means ___.",
@@ -4308,6 +4311,7 @@
         "summary": "Students apply implicit differentiation to curves defined implicitly, and differentiate inverse trigonometric and general inverse functions.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=mSVrqKZDRF4",
+        "videoUrl": "https://www.youtube.com/watch?v=Xq0YEXPwi4Y",
         "quiz": [
           {
             "q": "Implicit differentiation is needed when ___.",
@@ -4367,6 +4371,7 @@
         "summary": "Students analyse SHM — period, frequency, amplitude, restoring force — and apply to springs and pendulums.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=ZkLXIZoCo-o",
+        "videoUrl": "https://www.youtube.com/watch?v=jxstE6A_CYQ",
         "quiz": [
           {
             "q": "Simple harmonic motion occurs when ___.",

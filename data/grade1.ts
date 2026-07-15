@@ -738,6 +738,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"Language", title:"Compound Words", summary:"Ontario Grade 1 Reading strand: a compound word is made of two smaller words joined together to make a new word, such as sunshine, raincoat, and backpack.",
    resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=82G-ZWzUHhU",
    quiz:[
      {q:"A compound word is ___.", options:["Two small words joined together","A very long word","A word with a silent letter","A nonsense word"], answer:0},
      {q:"Which is a compound word?", options:["Sunshine","Beautiful","Elephant","Apple"], answer:0},
@@ -747,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ordinal Numbers", summary:"Ontario Grade 1 Number strand: ordinal numbers describe position in a sequence: first (1st), second (2nd), third (3rd), and so on.",
    resourceLabel:"YouTube: Ordinal Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BaO1E21SpkI",
    quiz:[
      {q:"What is the ordinal form of 1?", options:["First","Onest","Oneish","1nd"], answer:0},
      {q:"What is the ordinal form of 3?", options:["Thirdly","Threest","Third","Threeth"], answer:2},
@@ -756,6 +758,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plants and the Environment", summary:"Ontario Grade 1 Life Systems strand: plants are producers that provide food and oxygen for other living things; they also prevent soil erosion and provide habitats.",
    resourceLabel:"YouTube: Plants and the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Plants%20and%20the%20Environment%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yTzSIXUU_ds",
    quiz:[
      {q:"Plants produce oxygen through a process called ___.", options:["Hibernation","Digestion","Respiration","Photosynthesis"], answer:3},
      {q:"Why are plants important for animals?", options:["They provide money","They provide food and oxygen for animals","They are not","They provide electricity"], answer:1},
@@ -765,6 +768,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Celebrations and Traditions", summary:"Ontario Grade 1 Social Studies strand A: students explore different cultural celebrations and traditions, recognising the diversity of practices and their importance to families.",
    resourceLabel:"YouTube: Celebrations and Traditions", resourceUrl:"https://www.youtube.com/results?search_query=Celebrations%20and%20Traditions%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BYA4k3eB7OQ",
    quiz:[
      {q:"A tradition is ___.", options:["An activity repeated over time","Only for children","Something done only once","Always about food"], answer:0},
      {q:"Why do families celebrate traditions?", options:["To mark events and strengthen bonds","It is boring","To spend money","They have to"], answer:0},
@@ -776,6 +780,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"Language", title:"Synonyms", summary:"Ontario Grade 1 Writing strand: synonyms are words that have the same or similar meanings. Using synonyms makes writing more interesting.",
    resourceLabel:"YouTube: Synonyms", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=N394RCO1F6k",
    quiz:[
      {q:"A synonym is a word that means the ___.", options:["Nothing at all","Same or similar thing","Bigger thing","Opposite"], answer:1},
      {q:"Which is a synonym for big?", options:["Tiny","Little","Small","Large"], answer:3},
@@ -785,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Money: Coins", summary:"Ontario Grade 1 Number strand: students identify Canadian coins (penny, nickel, dime, quarter) and their values, and count small collections of coins.",
    resourceLabel:"YouTube: Money: Coins", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Coins%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pnXJGNo08v0",
    quiz:[
      {q:"How much is a nickel worth?", options:["1 cent","10 cents","25 cents","5 cents"], answer:3},
      {q:"How much is a dime worth?", options:["5 cents","1 cent","25 cents","10 cents"], answer:3},
@@ -794,6 +800,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy and Movement", summary:"Ontario Grade 1 Science Physical Education strand: energy can cause objects to move. Stored energy (potential) and moving energy (kinetic) are two basic forms.",
    resourceLabel:"YouTube: Energy and Movement", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20and%20Movement%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q0LBegPWzrg",
    quiz:[
      {q:"What is energy?", options:["The ability to do work or cause change","A type of rock","A kind of animal","A colour"], answer:0},
      {q:"A ball sitting on a hill has ___ energy.", options:["No","Electrical","Potential (stored)","Kinetic (moving)"], answer:2},
@@ -803,6 +810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Traditions from Around the World", summary:"Ontario Grade 1 Social Studies strand A: students explore cultural traditions from different countries, building respect and appreciation for diversity.",
    resourceLabel:"YouTube: Traditions from Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Traditions%20from%20Around%20the%20World%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
    quiz:[
      {q:"Why do countries have their own traditions?", options:["Everyone chose the same ones","Rules forced them to","They have to","They reflect a culture's history"], answer:3},
      {q:"Which festival involves lanterns and is celebrated in China?", options:["Diwali","Hanukkah","Chinese Lantern Festival","Carnival"], answer:2},

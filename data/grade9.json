@@ -4008,6 +4008,7 @@
         "summary": "Use properties of similar triangles and introduce the sine, cosine, and tangent ratios to find unknown sides and angles in right triangles (MTH1W Geometry strand).",
         "resourceLabel": "YouTube: Similar Triangles and Basic Trig Ratios",
         "resourceUrl": "https://www.youtube.com/results?search_query=Similar%20Triangles%20and%20Basic%20Trig%20Ratios%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=YiFwvAFk-xs",
         "quiz": [
           {
             "q": "Two triangles are similar if...",
@@ -4067,6 +4068,7 @@
         "summary": "Classify chemical reactions as synthesis, decomposition, single displacement, or double displacement, and identify examples of each (SNC1W Chemistry strand).",
         "resourceLabel": "YouTube: Types of Chemical Reactions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Chemical%20Reactions%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Lvbm8horG1U",
         "quiz": [
           {
             "q": "In a synthesis reaction...",
@@ -4192,6 +4194,7 @@
         "summary": "Critically analyze how visual elements (images, layout, colour, typography) in infographics and memes create meaning and influence the audience (ENL1W Strand C).",
         "resourceLabel": "YouTube: Analyzing Visual and Multimodal Texts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analyzing%20Visual%20and%20Multimodal%20Texts%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=se3G8LV40gg",
         "quiz": [
           {
             "q": "A multimodal text is one that combines...",
@@ -4251,6 +4254,7 @@
         "summary": "Calculate the area and perimeter of composite shapes made from rectangles, triangles, circles, and semicircles (MTH1W Geometry strand).",
         "resourceLabel": "YouTube: Area and Perimeter of Composite 2D Shapes",
         "resourceUrl": "https://www.youtube.com/results?search_query=Area%20and%20Perimeter%20of%20Composite%202D%20Shapes%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=rBpsauKXPfs",
         "quiz": [
           {
             "q": "A composite shape is made up of...",
@@ -4310,6 +4314,7 @@
         "summary": "Apply Ohm's Law (V = IR) to calculate voltage, current, and resistance in simple circuits (SNC1W Physics/Electricity strand).",
         "resourceLabel": "YouTube: Ohm's Law and Circuit Calculations",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ohm%27s%20Law%20and%20Circuit%20Calculations%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_rSHqvjDksg",
         "quiz": [
           {
             "q": "Ohm's Law states that V = IR, where V is voltage, I is current, and R is...",
@@ -4369,6 +4374,7 @@
         "summary": "Compare global energy resources (fossil fuels, nuclear, renewables) and examine patterns of consumption and their geographic distribution (CGC1W).",
         "resourceLabel": "YouTube: Global Energy Resources and Consumption Patterns",
         "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Energy%20Resources%20and%20Consumption%20Patterns%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=1N4Hs4Tsh0U",
         "quiz": [
           {
             "q": "Fossil fuels include...",

@@ -676,6 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"English", title:"Writing: Voice and Style in Creative Non-Fiction", summary:"Students examine and practise creative non-fiction (personal essay, literary journalism) — writing that uses narrative and literary techniques to engage with real events and ideas.",
    resourceLabel:"YouTube: Writing: Voice and Style in Creative Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Voice%20and%20Style%20in%20Creative%20Non-Fiction%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pHdzv1NfZRM",
    quiz:[
      {q:"Creative non-fiction differs from journalism because ___.", options:["it uses literary techniques, factually","it ignores truth","it is shorter","it invents facts"], answer:0},
      {q:"The personal essay is ___.", options:["only for personal stories with no ideas","experience exploring bigger ideas","always about childhood memories","a formal academic essay in first person"], answer:1},
@@ -685,6 +686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Analytic Geometry: Circles and Equations", summary:"Students write and analyse equations of circles in the form (x−h)² + (y−k)² = r², identify centre and radius, and find intersections with lines.",
    resourceLabel:"YouTube: Analytic Geometry: Circles and Equations", resourceUrl:"https://www.youtube.com/results?search_query=Analytic%20Geometry%3A%20Circles%20and%20Equations%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=u_39J-syjB0",
    quiz:[
      {q:"The equation (x − 3)² + (y + 2)² = 25 represents a circle with centre ___ and radius ___.", options:["(3, 2) and 25","(−3, −2) and 5","(3, −2) and 5","(−3, 2) and 5"], answer:2},
      {q:"A circle centred at the origin with radius 7 has equation ___.", options:["x + y = 7","x² + y² = 7","x² + y² = 49","(x+7)² + (y+7)² = 0"], answer:2},
@@ -716,6 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Media Literacy: News Literacy and Misinformation", summary:"Students develop skills for critically evaluating news sources, identifying misinformation, and understanding how false information spreads.",
    resourceLabel:"YouTube: Media Literacy: News Literacy and Misinformation", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20News%20Literacy%20and%20Misinformation%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9MJFRr7mY-Y",
    quiz:[
      {q:"Misinformation differs from disinformation in that ___.", options:["disinformation is accidental","they are identical","misinformation is always worse","one is accidental, the other deliberate"], answer:3},
      {q:"A 'deepfake' is ___.", options:["a credible news source","AI-faked video or audio of someone","a satire article","a type of documentary"], answer:1},
@@ -735,6 +738,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Nuclear Energy and Radiation Safety", summary:"Students examine nuclear fission reactors, CANDU reactor technology, radioactive waste management, and radiation safety.",
    resourceLabel:"YouTube: Physics: Nuclear Energy and Radiation Safety", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Nuclear%20Energy%20and%20Radiation%20Safety%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rcOFV4y5z8c",
    quiz:[
      {q:"The CANDU (CANada Deuterium Uranium) reactor is notable because ___.", options:["it produces no radiation","it uses natural uranium and heavy water","it uses enriched uranium","it was built in the US"], answer:1},
      {q:"A nuclear reactor moderator ___.", options:["splits uranium atoms","transfers heat to a generator","provides the reaction's fuel","slows neutrons for the chain reaction"], answer:3},
@@ -744,6 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Social Movements: Civil Rights and Equality in Canada", summary:"Students examine the civil rights struggles of Black Canadians, the women's movement, LGBTQ+ rights, and disability rights in the 20th-21st century.",
    resourceLabel:"YouTube: Social Movements: Civil Rights and Equality in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%3A%20Civil%20Rights%20and%20Equality%20in%20Canada%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cgjDPa15NLs",
    quiz:[
      {q:"The Viola Desmond case (1946) is significant because ___.", options:["it involved a legal dispute about property","arrested for defying segregation","she successfully argued her case","it was about voting rights"], answer:1},
      {q:"The Nova Scotia Human Rights Act (1963) and the Canadian Human Rights Act (1977) were ___.", options:["laws banning public discrimination","purely symbolic","only about employment","unenforceable"], answer:0},
