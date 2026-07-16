@@ -7429,5 +7429,3357 @@
         ]
       }
     ]
+  },
+  {
+    "day": 31,
+    "label": "Day 31 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Consonant Digraphs: sh, ch, th, wh",
+        "summary": "Students learn that two consonants can combine to make one new sound called a digraph, such as sh in ship, ch in chip, th in thin, and wh in whale.",
+        "resourceLabel": "YouTube: Consonant Digraphs: sh, ch, th, wh",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20sh%2C%20ch%2C%20th%2C%20wh%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the digraph sh?",
+            "options": [
+              "Cat",
+              "Dog",
+              "Ship",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word begins with the digraph ch?",
+            "options": [
+              "Hat",
+              "Chip",
+              "Sun",
+              "Pig"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with the digraph th?",
+            "options": [
+              "Top",
+              "Sit",
+              "Thin",
+              "Man"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A digraph is two consonant letters that make ___.",
+            "options": [
+              "One new sound together",
+              "A vowel sound",
+              "Two separate sounds",
+              "No sound at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the digraph wh?",
+            "options": [
+              "Whale",
+              "Cat",
+              "Bed",
+              "Sun"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the sh sound at the start of the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "What two letters make the ch sound at the start of the word chip?",
+            "answers": [
+              "ch"
+            ]
+          },
+          {
+            "prompt": "Say the word whale. What two letters make the wh sound at the start?",
+            "answers": [
+              "wh"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Counting to 100",
+        "summary": "Students practise counting aloud from 1 to 100 by ones, and recognize written numerals up to 100, extending counting skills learned earlier in the year.",
+        "resourceLabel": "YouTube: Counting to 100",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20to%20100%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 69?",
+            "options": [
+              "68",
+              "69",
+              "70",
+              "71"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number comes right after 99?",
+            "options": [
+              "98",
+              "99",
+              "101",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is greater, 76 or 67?",
+            "options": [
+              "They are equal",
+              "76",
+              "Cannot tell",
+              "67"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right before 80?",
+            "options": [
+              "78",
+              "80",
+              "81",
+              "79"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting from 1 to 100 means we say each number ___.",
+            "options": [
+              "Twice each",
+              "In order, one at a time",
+              "Backward only",
+              "In random order"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 59?",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 89?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 100?",
+            "answers": [
+              "99",
+              "ninety-nine",
+              "ninety nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Seasonal Changes: Spring",
+        "summary": "Students learn that spring is a season when the weather warms up, snow melts, plants begin to grow, and many animals become active again after winter.",
+        "resourceLabel": "YouTube: Seasonal Changes: Spring",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Spring%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What usually happens to the weather in spring?",
+            "options": [
+              "It gets colder",
+              "It stays exactly the same",
+              "It disappears",
+              "It gets warmer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to snow as spring arrives?",
+            "options": [
+              "It turns to sand",
+              "It grows bigger",
+              "It turns purple",
+              "It melts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these often happens to plants in spring?",
+            "options": [
+              "They freeze completely",
+              "They begin to grow",
+              "They disappear forever",
+              "They turn to stone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which season comes right before spring?",
+            "options": [
+              "Spring again",
+              "Winter",
+              "Summer",
+              "Fall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many animals become more active in spring?",
+            "options": [
+              "The warmer weather brings more food and better conditions",
+              "Animals never move in spring",
+              "Spring has no effect on animals",
+              "Animals sleep more in spring"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing that happens to snow in spring.",
+            "answers": [
+              "it melts",
+              "melts",
+              "melting"
+            ]
+          },
+          {
+            "prompt": "Name one thing that begins to grow in spring, like a flower or plant.",
+            "answers": [
+              "flowers",
+              "plants",
+              "flower",
+              "plant"
+            ]
+          },
+          {
+            "prompt": "Does the weather usually get warmer or colder in spring?",
+            "answers": [
+              "warmer"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Neighbourhood: Places We Visit",
+        "summary": "Students learn about familiar places in their neighbourhood, such as a park, library, or store, and discuss how each place helps the community.",
+        "resourceLabel": "YouTube: Our Neighbourhood: Places We Visit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Neighbourhood%3A%20Places%20We%20Visit%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a place you might find in a neighbourhood?",
+            "options": [
+              "The ocean floor",
+              "Outer space",
+              "A volcano",
+              "A park"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can you do at a library?",
+            "options": [
+              "Borrow books",
+              "Deliver mail",
+              "Fight fires",
+              "Buy groceries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are neighbourhood places like parks and libraries helpful?",
+            "options": [
+              "They cost nothing and do nothing",
+              "People never use them",
+              "They are not helpful",
+              "They give people places to play, learn, and gather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A neighbourhood is a part of a larger ___.",
+            "options": [
+              "Ocean",
+              "Desert",
+              "Galaxy",
+              "Community"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might you visit to buy food in your neighbourhood?",
+            "options": [
+              "A mountain",
+              "A cloud",
+              "A grocery store",
+              "A fire truck"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place you might visit in your neighbourhood, like a park or library.",
+            "answers": [
+              "park",
+              "library",
+              "store"
+            ]
+          },
+          {
+            "prompt": "What can you borrow at a library?",
+            "answers": [
+              "books",
+              "a book"
+            ]
+          },
+          {
+            "prompt": "Do neighbourhoods have many different places that help people?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "label": "Day 32 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -it and -in",
+        "summary": "Students explore the -it and -in word families, learning that changing the first letter of sit or pin can create new rhyming words such as bit, hit, win, and fin.",
+        "resourceLabel": "YouTube: Word Families: -it and -in",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-it%20and%20-in%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -it word family?",
+            "options": [
+              "Sit",
+              "Dog",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -in word family?",
+            "options": [
+              "Top",
+              "Bed",
+              "Win",
+              "Man"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with pin?",
+            "options": [
+              "Sun",
+              "Dog",
+              "Cat",
+              "Fin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A word family is a group of words that share the same ___.",
+            "options": [
+              "Meaning",
+              "Author",
+              "Colour",
+              "Ending sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word does not belong to the -it family?",
+            "options": [
+              "Sit",
+              "Hit",
+              "Bit",
+              "Dog"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the first letter of sit to make a new word that rhymes.",
+            "answers": [
+              "bit",
+              "hit",
+              "fit",
+              "kit"
+            ]
+          },
+          {
+            "prompt": "Change the first letter of pin to make a new word that rhymes.",
+            "answers": [
+              "win",
+              "fin",
+              "din",
+              "tin"
+            ]
+          },
+          {
+            "prompt": "Do sit and hit belong to the same word family?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 100: Tens and Ones",
+        "summary": "Students learn to break apart two-digit numbers into tens and ones, such as recognizing that 47 is made of 4 tens and 7 ones.",
+        "resourceLabel": "YouTube: Numbers to 100: Tens and Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20100%3A%20Tens%20and%20Ones%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many tens are in the number 52?",
+            "options": [
+              "2",
+              "50",
+              "5",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many ones are in the number 38?",
+            "options": [
+              "38",
+              "30",
+              "3",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number has 7 tens and 2 ones?",
+            "options": [
+              "79",
+              "27",
+              "70",
+              "72"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number is made of 9 tens and 0 ones?",
+            "options": [
+              "19",
+              "90",
+              "9",
+              "99"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Breaking a number into tens and ones helps us understand its ___.",
+            "options": [
+              "Sound",
+              "Smell",
+              "Value",
+              "Colour"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many tens are in the number 47?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "How many ones are in the number 47?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          },
+          {
+            "prompt": "Write the number that has 6 tens and 3 ones.",
+            "answers": [
+              "63"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Seasonal Changes: Summer",
+        "summary": "Students learn that summer is the warmest season of the year, with long sunny days, and that many plants and animals are very active during this time.",
+        "resourceLabel": "YouTube: Seasonal Changes: Summer",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Summer%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which season is usually the warmest of the year?",
+            "options": [
+              "Spring",
+              "Winter",
+              "Fall",
+              "Summer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In summer, are the days usually longer or shorter?",
+            "options": [
+              "Shorter",
+              "Longer",
+              "There is no daylight",
+              "Exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which season comes right after summer?",
+            "options": [
+              "Summer again",
+              "Spring",
+              "Winter",
+              "Fall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are plants often very healthy and green in summer?",
+            "options": [
+              "Summer is the coldest season",
+              "They get plenty of sunlight and warmth",
+              "Plants stop growing in summer",
+              "Summer has no sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common summer activity?",
+            "options": [
+              "Swimming outdoors",
+              "Sledding downhill",
+              "Building a snowman",
+              "Raking fallen leaves"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is summer usually the warmest or the coldest season?",
+            "answers": [
+              "warmest"
+            ]
+          },
+          {
+            "prompt": "Are the days in summer usually long or short?",
+            "answers": [
+              "long"
+            ]
+          },
+          {
+            "prompt": "Name one activity people often do in summer, like swimming.",
+            "answers": [
+              "swimming",
+              "swim",
+              "play outside",
+              "picnic"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Jobs People Do: Goods and Services",
+        "summary": "Students learn that some jobs make or sell goods, like toys or bread, while other jobs provide services, like teaching or fixing things, and both kinds of jobs help a community.",
+        "resourceLabel": "YouTube: Jobs People Do: Goods and Services",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Jobs%20People%20Do%3A%20Goods%20and%20Services%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What word describes an item that is made or sold, like a toy?",
+            "options": [
+              "A season",
+              "A good",
+              "A rule",
+              "A service"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes a helpful job like teaching or fixing something?",
+            "options": [
+              "A good",
+              "A holiday",
+              "A service",
+              "A season"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these jobs mainly provides a service?",
+            "options": [
+              "Farmer",
+              "Teacher",
+              "Baker",
+              "Toy maker"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these jobs mainly makes a good?",
+            "options": [
+              "Doctor",
+              "Teacher",
+              "Baker",
+              "Dentist"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a community need both goods and services?",
+            "options": [
+              "Goods and services are not needed",
+              "Communities need only goods",
+              "People need things to buy and helpful jobs done",
+              "Communities need only services"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one job that makes or sells a good, like a baker.",
+            "answers": [
+              "baker",
+              "toy maker",
+              "farmer"
+            ]
+          },
+          {
+            "prompt": "Name one job that provides a service, like a teacher.",
+            "answers": [
+              "teacher",
+              "doctor",
+              "dentist"
+            ]
+          },
+          {
+            "prompt": "Do both goods and services help people in a community?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "label": "Day 33 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -ug and -ub",
+        "summary": "Students explore the -ug and -ub word families, learning that changing the first letter of bug or cub can create new rhyming words such as hug, rug, tub, and cub.",
+        "resourceLabel": "YouTube: Word Families: -ug and -ub",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ug%20and%20-ub%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -ug word family?",
+            "options": [
+              "Cat",
+              "Sun",
+              "Bug",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word belongs to the -ub word family?",
+            "options": [
+              "Bed",
+              "Man",
+              "Cub",
+              "Top"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with rug?",
+            "options": [
+              "Dog",
+              "Sun",
+              "Cat",
+              "Hug"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word does not belong to the -ub family?",
+            "options": [
+              "Cub",
+              "Rub",
+              "Tub",
+              "Cat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Word families help us read new words by noticing ___.",
+            "options": [
+              "Similar endings",
+              "Pictures only",
+              "Colours",
+              "Page numbers"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the first letter of bug to make a new word that rhymes.",
+            "answers": [
+              "hug",
+              "rug",
+              "mug",
+              "jug",
+              "tug"
+            ]
+          },
+          {
+            "prompt": "Change the first letter of cub to make a new word that rhymes.",
+            "answers": [
+              "tub",
+              "rub",
+              "sub",
+              "hub"
+            ]
+          },
+          {
+            "prompt": "Do bug and hug belong to the same word family?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Numbers: Greater Than and Less Than",
+        "summary": "Students learn to compare two numbers up to 100 and use the words greater than, less than, and equal to describe which number is bigger or smaller.",
+        "resourceLabel": "YouTube: Comparing Numbers: Greater Than and Less Than",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%3A%20Greater%20Than%20and%20Less%20Than%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which number is greater, 62 or 26?",
+            "options": [
+              "They are equal",
+              "26",
+              "62",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is less, 81 or 18?",
+            "options": [
+              "They are equal",
+              "18",
+              "Cannot tell",
+              "81"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes two numbers that have the same value?",
+            "options": [
+              "Greater",
+              "Odd",
+              "Equal",
+              "Less"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word means a number is bigger than another?",
+            "options": [
+              "Less than",
+              "Equal to",
+              "Greater than",
+              "Odd"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is true?",
+            "options": [
+              "15 is greater than 25",
+              "50 is greater than 40",
+              "30 is less than 20",
+              "10 is equal to 20"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which number is greater, 45 or 54?",
+            "answers": [
+              "54"
+            ]
+          },
+          {
+            "prompt": "Which number is less, 68 or 39?",
+            "answers": [
+              "39"
+            ]
+          },
+          {
+            "prompt": "Are 20 and 20 equal or different?",
+            "answers": [
+              "equal",
+              "the same"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Insects and Their Body Parts",
+        "summary": "Students learn that insects, such as ants and butterflies, have three main body parts and six legs, and explore how insects are different from other animals.",
+        "resourceLabel": "YouTube: Insects and Their Body Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Insects%20and%20Their%20Body%20Parts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "10",
+              "4",
+              "8",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many main body parts does an insect have?",
+            "options": [
+              "5",
+              "3",
+              "2",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an insect?",
+            "options": [
+              "Dog",
+              "Fish",
+              "Butterfly",
+              "Bird"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is not an insect?",
+            "options": [
+              "Bee",
+              "Spider",
+              "Ladybug",
+              "Ant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What covers the outside of many insect bodies?",
+            "options": [
+              "A hard outer shell",
+              "Scales like a fish",
+              "Fur",
+              "Feathers"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many legs does an insect have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Name one insect, like an ant or butterfly.",
+            "answers": [
+              "ant",
+              "butterfly",
+              "bee",
+              "ladybug"
+            ]
+          },
+          {
+            "prompt": "How many main body parts does an insect have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Needs and Wants: What We Really Need",
+        "summary": "Students learn to tell the difference between needs, things we must have to live such as food and shelter, and wants, things that are nice to have but not necessary such as toys.",
+        "resourceLabel": "YouTube: Needs and Wants: What We Really Need",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Needs%20and%20Wants%3A%20What%20We%20Really%20Need%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a need?",
+            "options": [
+              "Water",
+              "A video game",
+              "Candy",
+              "A toy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a want?",
+            "options": [
+              "Shelter",
+              "Water",
+              "Food",
+              "A new toy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the difference between a need and a want?",
+            "options": [
+              "Needs are necessary to live, wants are not",
+              "There is no difference",
+              "Wants are more important",
+              "Needs are only for adults"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is something every person needs to survive?",
+            "options": [
+              "A birthday gift",
+              "Shelter",
+              "A game console",
+              "A bicycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to understand needs and wants?",
+            "options": [
+              "It does not matter",
+              "Wants are always more important than needs",
+              "It helps us make good choices about what is most important",
+              "Needs and wants are the same thing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing that is a need, like food or water.",
+            "answers": [
+              "food",
+              "water",
+              "shelter",
+              "clothing"
+            ]
+          },
+          {
+            "prompt": "Name one thing that is a want, like a toy.",
+            "answers": [
+              "toy",
+              "candy",
+              "video game"
+            ]
+          },
+          {
+            "prompt": "Do people need food to live?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "label": "Day 34 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Beginning Blends: sp, sm, sn, sw",
+        "summary": "Students learn that two consonants can blend together at the start of a word, such as sp in spin, sm in smile, sn in snail, and sw in swim.",
+        "resourceLabel": "YouTube: Beginning Blends: sp, sm, sn, sw",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Beginning%20Blends%3A%20sp%2C%20sm%2C%20sn%2C%20sw%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the blend sp?",
+            "options": [
+              "Dog",
+              "Run",
+              "Cat",
+              "Spin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the blend sm?",
+            "options": [
+              "Hat",
+              "Pig",
+              "Smile",
+              "Sun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word begins with the blend sn?",
+            "options": [
+              "Sit",
+              "Snail",
+              "Top",
+              "Man"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with the blend sw?",
+            "options": [
+              "Sun",
+              "Swim",
+              "Bed",
+              "Cat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A beginning blend is when two consonant letters ___.",
+            "options": [
+              "Blend their sounds together at the start of a word",
+              "Turn into vowels",
+              "Are never used",
+              "Are silent"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters blend together at the start of the word spin?",
+            "answers": [
+              "sp"
+            ]
+          },
+          {
+            "prompt": "What two letters blend together at the start of the word smile?",
+            "answers": [
+              "sm"
+            ]
+          },
+          {
+            "prompt": "Say the word swim. What two letters blend at the start?",
+            "answers": [
+              "sw"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Quarters",
+        "summary": "Students learn that dividing a whole into four equal parts creates quarters, and that one of the four parts is called one-quarter or one-fourth.",
+        "resourceLabel": "YouTube: Fractions: Quarters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Quarters%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If a shape is cut into 4 equal parts, each part is called ___.",
+            "options": [
+              "One-quarter",
+              "One whole",
+              "One-half",
+              "One-third"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many quarters make one whole?",
+            "options": [
+              "4",
+              "2",
+              "5",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is smaller, one-quarter or one-half?",
+            "options": [
+              "One-half",
+              "One-quarter",
+              "They are equal",
+              "Cannot tell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A whole cut into four equal parts shows ___.",
+            "options": [
+              "Quarters",
+              "Wholes",
+              "Thirds",
+              "Halves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you eat one-quarter of a sandwich, how many quarters are left?",
+            "options": [
+              "2",
+              "4",
+              "3",
+              "1"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a pizza is cut into 4 equal parts, what is each part called?",
+            "answers": [
+              "a quarter",
+              "quarter",
+              "one-quarter",
+              "one fourth",
+              "a fourth"
+            ]
+          },
+          {
+            "prompt": "How many quarters make one whole?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Is one-quarter bigger or smaller than one-half?",
+            "answers": [
+              "smaller"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nocturnal Animals: Creatures of the Night",
+        "summary": "Students learn that nocturnal animals, such as owls and bats, are awake and active mostly at night and sleep during the day.",
+        "resourceLabel": "YouTube: Nocturnal Animals: Creatures of the Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Creatures%20of%20the%20Night%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does the word nocturnal mean?",
+            "options": [
+              "Always asleep",
+              "Awake mostly at night",
+              "Awake mostly during the day",
+              "Never awake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals is known for being nocturnal?",
+            "options": [
+              "Squirrel",
+              "Owl",
+              "Chicken",
+              "Robin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do most nocturnal animals do during the day?",
+            "options": [
+              "Go swimming",
+              "Sleep or rest",
+              "Play loudly",
+              "Fly to school"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might large eyes help a nocturnal animal like an owl?",
+            "options": [
+              "Large eyes help in bright sunlight only",
+              "Nocturnal animals cannot see at all",
+              "They help the animal see well in the dark",
+              "Large eyes are not helpful at night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is also a nocturnal animal?",
+            "options": [
+              "Duck",
+              "Bat",
+              "Rooster",
+              "Robin"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes animals that are awake mostly at night?",
+            "answers": [
+              "nocturnal"
+            ]
+          },
+          {
+            "prompt": "Name one nocturnal animal, like an owl or bat.",
+            "answers": [
+              "owl",
+              "bat",
+              "raccoon"
+            ]
+          },
+          {
+            "prompt": "Do nocturnal animals usually sleep during the day?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Transportation Then and Now",
+        "summary": "Students compare how people travelled long ago, such as by horse and wagon, to how people travel today, such as by car, bus, and airplane.",
+        "resourceLabel": "YouTube: Transportation Then and Now",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Transportation%20Then%20and%20Now%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How did many people travel long ago before cars were invented?",
+            "options": [
+              "By airplane",
+              "By rocket",
+              "By horse and wagon",
+              "By submarine"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a common way people travel today?",
+            "options": [
+              "Car",
+              "Ox cart only",
+              "Sailboat only",
+              "Horse and wagon only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How has transportation changed over time?",
+            "options": [
+              "It has not changed at all",
+              "It has become slower",
+              "People no longer travel",
+              "It has become faster and easier"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these did NOT exist long ago the way it does today?",
+            "options": [
+              "Airplanes",
+              "Walking",
+              "Rivers",
+              "The sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to learn about transportation then and now?",
+            "options": [
+              "It helps us understand how travel has changed and improved",
+              "It is not useful",
+              "Old and new transportation are identical",
+              "Transportation never changes"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way people travelled long ago, like by horse.",
+            "answers": [
+              "horse",
+              "wagon",
+              "horse and wagon"
+            ]
+          },
+          {
+            "prompt": "Name one way people travel today, like by car.",
+            "answers": [
+              "car",
+              "bus",
+              "airplane",
+              "train"
+            ]
+          },
+          {
+            "prompt": "Is travel today usually faster than travel long ago?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "label": "Day 35 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Rhyming Words",
+        "summary": "Students practise identifying rhyming words, pairs of words that end with the same sound, such as cat and hat or sun and fun.",
+        "resourceLabel": "YouTube: Rhyming Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rhyming%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with cat?",
+            "options": [
+              "Sun",
+              "Pig",
+              "Hat",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with sun?",
+            "options": [
+              "Cat",
+              "Bed",
+              "Dog",
+              "Fun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Two words rhyme when they ___.",
+            "options": [
+              "Have the same meaning",
+              "Are the same length",
+              "Start with the same letter",
+              "End with the same sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with hop?",
+            "options": [
+              "Pig",
+              "Sun",
+              "Top",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which pair of words does NOT rhyme?",
+            "options": [
+              "Sun and fun",
+              "Dog and log",
+              "Cat and dog",
+              "Cat and hat"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word that rhymes with cat.",
+            "answers": [
+              "hat",
+              "bat",
+              "mat",
+              "sat",
+              "rat",
+              "fat"
+            ]
+          },
+          {
+            "prompt": "Name a word that rhymes with sun.",
+            "answers": [
+              "fun",
+              "run",
+              "bun",
+              "one"
+            ]
+          },
+          {
+            "prompt": "Do hat and cat rhyme?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Capacity: More and Less",
+        "summary": "Students compare the capacity of different containers, learning which container holds more or less using non-standard units, such as pouring water between cups.",
+        "resourceLabel": "YouTube: Measuring Capacity: More and Less",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Capacity%3A%20More%20and%20Less%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which container usually holds more water, a bucket or a teacup?",
+            "options": [
+              "Teacup",
+              "Cannot tell",
+              "Bucket",
+              "They hold the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes how much liquid a container can hold?",
+            "options": [
+              "Weight",
+              "Capacity",
+              "Length",
+              "Colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you pour water from a full cup into a bigger empty bowl, what happens?",
+            "options": [
+              "The bowl overflows immediately",
+              "The water disappears",
+              "The water fits with room to spare",
+              "Nothing happens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these containers likely holds the least amount of water?",
+            "options": [
+              "A swimming pool",
+              "A bucket",
+              "A teaspoon",
+              "A bathtub"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing capacity helps us understand ___.",
+            "options": [
+              "How much a container can hold",
+              "How heavy an object is",
+              "What colour something is",
+              "How long an object is"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a big jug and a small cup are filled with water, which one holds more?",
+            "answers": [
+              "the jug",
+              "jug",
+              "big jug"
+            ]
+          },
+          {
+            "prompt": "What word describes how much a container can hold?",
+            "answers": [
+              "capacity"
+            ]
+          },
+          {
+            "prompt": "Which usually holds less water, a bathtub or a teacup?",
+            "answers": [
+              "teacup",
+              "the teacup"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Moon and Its Phases",
+        "summary": "Students learn that the Moon appears to change shape in the sky over about a month, moving through phases such as a full moon and a crescent moon.",
+        "resourceLabel": "YouTube: The Moon and Its Phases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Moon%20and%20Its%20Phases%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call it when the Moon looks like a complete circle in the sky?",
+            "options": [
+              "New moon",
+              "Crescent moon",
+              "Half moon",
+              "Full moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the thin curved shape of the Moon?",
+            "options": [
+              "Star",
+              "Full moon",
+              "Square moon",
+              "Crescent moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "About how long does it take the Moon to go through all of its phases?",
+            "options": [
+              "One year",
+              "About a month",
+              "One day",
+              "Ten years"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the Moon appear to change shape in the sky?",
+            "options": [
+              "The Moon disappears and grows back",
+              "Clouds change the Moon shape",
+              "The Moon actually changes size",
+              "Different amounts of sunlit Moon are visible from Earth over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The changing shapes of the Moon are called Moon ___.",
+            "options": [
+              "Phases",
+              "Rings",
+              "Colours",
+              "Seasons"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when the whole round Moon is visible in the sky?",
+            "answers": [
+              "full moon"
+            ]
+          },
+          {
+            "prompt": "What do we call the thin curved shape of the Moon?",
+            "answers": [
+              "crescent moon",
+              "crescent"
+            ]
+          },
+          {
+            "prompt": "Does the Moon appear to change shape over time?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "My Body Belongs to Me: Personal Safety",
+        "summary": "Students learn simple personal safety rules, such as it is okay to say no to unwanted touches and to tell a trusted adult if something makes them feel unsafe.",
+        "resourceLabel": "YouTube: My Body Belongs to Me: Personal Safety",
+        "resourceUrl": "https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What should you do if someone makes you feel unsafe?",
+            "options": [
+              "Ignore the feeling",
+              "Run away and hide alone",
+              "Stay quiet forever",
+              "Tell a trusted adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is it okay to say no to a touch that makes you feel uncomfortable?",
+            "options": [
+              "Yes, it is okay",
+              "No, never",
+              "Only if an adult says so",
+              "Only at school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a trusted adult you might talk to about a safety concern?",
+            "options": [
+              "Nobody",
+              "A parent or teacher",
+              "A cartoon character",
+              "A stranger online"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to talk about feelings of being unsafe?",
+            "options": [
+              "Only adults have feelings",
+              "Feelings are never important",
+              "It is better to stay silent",
+              "Trusted adults can help keep you safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Whose body is it, and who gets to decide about unwanted touches?",
+            "options": [
+              "No one decides",
+              "Only an adult decides",
+              "My body belongs to me",
+              "Only a teacher decides"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What should you do if something makes you feel unsafe?",
+            "answers": [
+              "tell a trusted adult",
+              "tell an adult"
+            ]
+          },
+          {
+            "prompt": "Is it okay to say no if someone tries to touch you in a way you do not like?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one trusted adult you could talk to, like a parent or teacher.",
+            "answers": [
+              "parent",
+              "teacher",
+              "mom",
+              "dad"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "label": "Day 36 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sequencing Events: First, Next, Last",
+        "summary": "Students learn to put events from a story in order using the words first, next, and last, helping them understand and retell what happened.",
+        "resourceLabel": "YouTube: Sequencing Events: First, Next, Last",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequencing%20Events%3A%20First%2C%20Next%2C%20Last%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word describes the event that happens at the beginning of a story?",
+            "options": [
+              "Middle only",
+              "First",
+              "Never",
+              "Last"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word describes the event that happens at the end of a story?",
+            "options": [
+              "First",
+              "Last",
+              "Before",
+              "Next"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses sequencing words correctly?",
+            "options": [
+              "None of these show order",
+              "Last we start the day",
+              "First we ate lunch then we woke up",
+              "First we woke up, next we ate breakfast, last we went to school"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is putting events in order important when retelling a story?",
+            "options": [
+              "Stories have no order",
+              "It helps the story make sense",
+              "Only the ending matters",
+              "Order does not matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word would you use to describe an event that happens in the middle?",
+            "options": [
+              "Next",
+              "Before",
+              "First",
+              "Last"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word tells us an event that happens at the very beginning?",
+            "answers": [
+              "first"
+            ]
+          },
+          {
+            "prompt": "What word tells us an event that happens at the very end?",
+            "answers": [
+              "last"
+            ]
+          },
+          {
+            "prompt": "Put these words in order to describe a sequence: first, next, ___.",
+            "answers": [
+              "last"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Symmetry: Matching Halves",
+        "summary": "Students explore symmetry by folding shapes and pictures in half to see if both sides match exactly, learning that a symmetrical shape has two matching halves.",
+        "resourceLabel": "YouTube: Symmetry: Matching Halves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Symmetry%3A%20Matching%20Halves%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean for a shape to be symmetrical?",
+            "options": [
+              "The shape is coloured red",
+              "The shape has no sides",
+              "The shape is always a circle",
+              "Both halves match exactly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shapes is symmetrical?",
+            "options": [
+              "An uneven splash",
+              "A heart",
+              "A random blob",
+              "A scribble"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you fold a symmetrical picture exactly in half, what happens?",
+            "options": [
+              "The sides look completely different",
+              "Nothing can be compared",
+              "The picture disappears",
+              "Both sides match"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A line that divides a shape into two matching halves is called a line of ___.",
+            "options": [
+              "Colour",
+              "Weight",
+              "Length",
+              "Symmetry"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these letters is symmetrical when folded top to bottom?",
+            "options": [
+              "J",
+              "F",
+              "G",
+              "B"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a shape whose two halves match exactly?",
+            "answers": [
+              "symmetrical",
+              "symmetry"
+            ]
+          },
+          {
+            "prompt": "Name one shape that is symmetrical, like a circle or square.",
+            "answers": [
+              "circle",
+              "square",
+              "heart"
+            ]
+          },
+          {
+            "prompt": "If you fold a symmetrical shape in half, do both sides match?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Recycling and Reducing Waste",
+        "summary": "Students learn simple ways to care for the environment by reducing waste, reusing items, and recycling materials such as paper, plastic, and cans.",
+        "resourceLabel": "YouTube: Recycling and Reducing Waste",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%20and%20Reducing%20Waste%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these materials can often be recycled?",
+            "options": [
+              "Paper",
+              "Sunlight",
+              "Rainbows",
+              "Air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to reuse an item?",
+            "options": [
+              "Ignoring it",
+              "Burying it in the yard",
+              "Throwing it away right away",
+              "Using it again instead of throwing it away"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is recycling helpful for the environment?",
+            "options": [
+              "It has no effect",
+              "It creates more garbage",
+              "It reduces waste and saves resources",
+              "It harms the environment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these actions helps reduce waste?",
+            "options": [
+              "Littering outside",
+              "Using a reusable water bottle",
+              "Throwing away recyclable cans",
+              "Wasting paper"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The three words often used together to describe caring for the environment are reduce, reuse, and ___.",
+            "options": [
+              "Replace",
+              "Recycle",
+              "Remove",
+              "Repeat"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one material that can be recycled, like paper or plastic.",
+            "answers": [
+              "paper",
+              "plastic",
+              "cans",
+              "glass"
+            ]
+          },
+          {
+            "prompt": "What word describes using something again instead of throwing it away?",
+            "answers": [
+              "reuse",
+              "reusing"
+            ]
+          },
+          {
+            "prompt": "Is it good for the environment to recycle instead of throwing everything away?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Communication Then and Now",
+        "summary": "Students compare how people communicated long ago, such as sending letters, to how people communicate today, such as using phones and computers.",
+        "resourceLabel": "YouTube: Communication Then and Now",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Communication%20Then%20and%20Now%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How did many people send messages long ago before phones were common?",
+            "options": [
+              "By writing letters",
+              "By text message",
+              "By email",
+              "By video call"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common way people communicate today?",
+            "options": [
+              "Only smoke signals",
+              "Only carrier pigeons",
+              "Only letters carried by horse",
+              "Telephone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How has communication changed over time?",
+            "options": [
+              "People no longer communicate",
+              "It has become slower",
+              "It has not changed at all",
+              "It has become faster and easier"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these did people use to communicate long before phones existed?",
+            "options": [
+              "Written letters",
+              "Text messages",
+              "The internet",
+              "Video calls"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to compare communication then and now?",
+            "options": [
+              "Old and new communication are identical",
+              "It helps us understand how technology has changed our lives",
+              "Communication never changes",
+              "It is not useful"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way people communicated long ago, like writing a letter.",
+            "answers": [
+              "letter",
+              "writing letters",
+              "sending letters"
+            ]
+          },
+          {
+            "prompt": "Name one way people communicate today, like using a phone.",
+            "answers": [
+              "phone",
+              "telephone",
+              "computer",
+              "email"
+            ]
+          },
+          {
+            "prompt": "Is communication today usually faster than communication long ago?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "label": "Day 37 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Fiction and Non-Fiction: Comparing Texts",
+        "summary": "Students learn to compare fiction texts, which tell made-up stories, with non-fiction texts, which give true facts and information.",
+        "resourceLabel": "YouTube: Fiction and Non-Fiction: Comparing Texts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fiction%20and%20Non-Fiction%3A%20Comparing%20Texts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What kind of story does a fiction book tell?",
+            "options": [
+              "A true story",
+              "A made-up story",
+              "No story at all",
+              "Only facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of information does a non-fiction book give?",
+            "options": [
+              "Only pictures",
+              "Made-up stories",
+              "True facts and information",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a fiction book?",
+            "options": [
+              "A book about talking animals having an adventure",
+              "A book about the solar system",
+              "A book about real ocean animals",
+              "A book about the water cycle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a non-fiction book?",
+            "options": [
+              "A book of true facts about dinosaurs",
+              "A story about a talking teddy bear",
+              "A story about a dragon",
+              "A tale about a magic castle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to know if a book is fiction or non-fiction?",
+            "options": [
+              "All books are the same",
+              "Fiction and non-fiction are identical",
+              "It does not matter",
+              "It helps us know if a book is telling a true story or made-up story"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does a fiction book tell a true story or a made-up story?",
+            "answers": [
+              "made-up story",
+              "made up story",
+              "made-up"
+            ]
+          },
+          {
+            "prompt": "Does a non-fiction book give true facts or made-up stories?",
+            "answers": [
+              "true facts",
+              "facts"
+            ]
+          },
+          {
+            "prompt": "Name one example of a non-fiction topic, like animals or weather.",
+            "answers": [
+              "animals",
+              "weather",
+              "space"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Sorting and Classifying Objects",
+        "summary": "Students practise sorting a group of objects into categories based on shared attributes, such as colour, size, or shape, and explain the rule used to sort them.",
+        "resourceLabel": "YouTube: Sorting and Classifying Objects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20and%20Classifying%20Objects%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a way you could sort a group of objects?",
+            "options": [
+              "Randomly with no rule",
+              "By colour",
+              "Objects cannot be sorted",
+              "By nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you sort shapes by number of sides, where would a triangle and a different triangle go?",
+            "options": [
+              "In the same group",
+              "No group at all",
+              "Shapes cannot be sorted this way",
+              "In different groups"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do we sort objects into groups?",
+            "options": [
+              "Sorting is never useful",
+              "It makes objects disappear",
+              "It helps us see patterns and organize information",
+              "It has no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these objects would NOT belong in a group of red objects?",
+            "options": [
+              "A blue car",
+              "A red block",
+              "A red ball",
+              "A red apple"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A sorting rule tells us ___.",
+            "options": [
+              "The weather",
+              "Nothing useful",
+              "How objects are grouped together",
+              "The colour of the sky"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way you could sort a group of buttons, like by colour or size.",
+            "answers": [
+              "colour",
+              "size",
+              "shape"
+            ]
+          },
+          {
+            "prompt": "If you sort toys by colour, what group would a red ball and a red block go in?",
+            "answers": [
+              "red",
+              "red group"
+            ]
+          },
+          {
+            "prompt": "Can objects be sorted in more than one way?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Taking Care of Our Teeth",
+        "summary": "Students learn simple habits for keeping teeth healthy, such as brushing twice a day, flossing, eating healthy foods, and visiting the dentist.",
+        "resourceLabel": "YouTube: Taking Care of Our Teeth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Teeth%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many times a day should you usually brush your teeth?",
+            "options": [
+              "Twice",
+              "Only on weekends",
+              "Never",
+              "Once"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is a helper that checks and cares for our teeth?",
+            "options": [
+              "A dentist",
+              "A baker",
+              "A firefighter",
+              "A postal worker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these habits helps keep our teeth healthy?",
+            "options": [
+              "Ignoring toothaches",
+              "Brushing and flossing",
+              "Never brushing",
+              "Eating candy all day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to take care of our teeth?",
+            "options": [
+              "Teeth care is not important",
+              "Teeth do not need care",
+              "Healthy teeth help us eat and stay healthy",
+              "Only adults have teeth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these foods is better for healthy teeth?",
+            "options": [
+              "An apple",
+              "A sugary soda",
+              "A sugary candy",
+              "A lollipop"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many times a day should you usually brush your teeth?",
+            "answers": [
+              "2",
+              "two",
+              "twice"
+            ]
+          },
+          {
+            "prompt": "Who helps check that your teeth are healthy?",
+            "answers": [
+              "dentist"
+            ]
+          },
+          {
+            "prompt": "Name one healthy food that is good for your teeth, like an apple.",
+            "answers": [
+              "apple",
+              "vegetables",
+              "cheese"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Cooperation and Teamwork in a Group",
+        "summary": "Students learn what it means to cooperate with others in a group, such as sharing materials, taking turns, and listening to different ideas to reach a shared goal.",
+        "resourceLabel": "YouTube: Cooperation and Teamwork in a Group",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cooperation%20and%20Teamwork%20in%20a%20Group%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to cooperate with a group?",
+            "options": [
+              "Refusing to share",
+              "Doing everything alone",
+              "Working together toward a shared goal",
+              "Ignoring everyone else"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows good cooperation in a group?",
+            "options": [
+              "Yelling over others",
+              "Sharing materials and taking turns",
+              "Refusing to listen",
+              "Grabbing everything for yourself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is cooperation important when working in a group?",
+            "options": [
+              "It slows everything down",
+              "Groups work better without cooperation",
+              "Cooperation is not helpful",
+              "It helps the group reach its goal more smoothly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should you do if a group member has a different idea than you?",
+            "options": [
+              "Listen and discuss the idea",
+              "Yell at them",
+              "Leave the group",
+              "Ignore them completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A group that cooperates well can often ___.",
+            "options": [
+              "Make tasks harder",
+              "Finish tasks more successfully",
+              "Avoid working together",
+              "Never finish anything"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes people working together toward a shared goal?",
+            "answers": [
+              "cooperation",
+              "teamwork"
+            ]
+          },
+          {
+            "prompt": "Name one way to cooperate in a group, like sharing or taking turns.",
+            "answers": [
+              "sharing",
+              "taking turns",
+              "listening"
+            ]
+          },
+          {
+            "prompt": "Should group members listen to each other ideas?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "label": "Day 38 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Asking and Answering Questions About a Text",
+        "summary": "Students practise asking and answering simple questions about a story or text they have read or heard, to check their understanding of what happened.",
+        "resourceLabel": "YouTube: Asking and Answering Questions About a Text",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Asking%20and%20Answering%20Questions%20About%20a%20Text%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Why do readers ask questions about a text?",
+            "options": [
+              "Questions are never helpful",
+              "To skip reading",
+              "To help them understand what they read",
+              "To confuse themselves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a good question to ask after reading a story?",
+            "options": [
+              "What happened in the story?",
+              "What is your favourite colour?",
+              "What is the weather today?",
+              "None of these"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Answering questions about a text helps us ___.",
+            "options": [
+              "Skip the ending",
+              "Ignore the story",
+              "Understand and remember what we read",
+              "Forget the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which question word would you use to ask about a character in a story?",
+            "options": [
+              "Nothing",
+              "Who",
+              "Colour",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you cannot answer a question about a story, what might help?",
+            "options": [
+              "Reading the story again",
+              "Ignoring the question",
+              "Giving up completely",
+              "Changing the story"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is one question you could ask about a story you just read?",
+            "answers": [
+              "who is in the story",
+              "what happened",
+              "where did it happen"
+            ]
+          },
+          {
+            "prompt": "Why do we ask questions about a text?",
+            "answers": [
+              "to understand it",
+              "to check understanding"
+            ]
+          },
+          {
+            "prompt": "Can asking questions help you understand a story better?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Making Small Amounts",
+        "summary": "Students practise combining coins, such as nickels, dimes, and pennies, to make small amounts of money, such as making 15 cents using a dime and a nickel.",
+        "resourceLabel": "YouTube: Money: Making Small Amounts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Small%20Amounts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which coin is worth 10 cents?",
+            "options": [
+              "Dime",
+              "Penny",
+              "Quarter",
+              "Nickel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which coin is worth 5 cents?",
+            "options": [
+              "Penny",
+              "Quarter",
+              "Dime",
+              "Nickel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which combination of coins makes 15 cents?",
+            "options": [
+              "Two pennies",
+              "A dime and a nickel",
+              "A quarter",
+              "One nickel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many nickels make 10 cents?",
+            "options": [
+              "3",
+              "1",
+              "2",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you have a dime and two pennies, how much money do you have?",
+            "options": [
+              "12 cents",
+              "13 cents",
+              "11 cents",
+              "10 cents"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which two coins could you use to make 15 cents?",
+            "answers": [
+              "dime and nickel",
+              "a dime and a nickel"
+            ]
+          },
+          {
+            "prompt": "How many pennies make 5 cents?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What coin is worth 10 cents?",
+            "answers": [
+              "dime"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Five Senses",
+        "summary": "Students review the five senses, sight, hearing, smell, taste, and touch, and the body part used for each, such as eyes for sight and ears for hearing.",
+        "resourceLabel": "YouTube: The Five Senses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Five%20Senses%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which body part do we use to smell?",
+            "options": [
+              "Nose",
+              "Tongue",
+              "Eyes",
+              "Ears"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body part do we use to taste?",
+            "options": [
+              "Nose",
+              "Tongue",
+              "Ears",
+              "Skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sense do we use to hear sounds?",
+            "options": [
+              "Taste",
+              "Sight",
+              "Smell",
+              "Hearing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body part helps us feel if something is soft or rough?",
+            "options": [
+              "Ears",
+              "Tongue",
+              "Nose",
+              "Skin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many senses do people have?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to smell?",
+            "answers": [
+              "nose"
+            ]
+          },
+          {
+            "prompt": "What body part do we use to taste?",
+            "answers": [
+              "tongue"
+            ]
+          },
+          {
+            "prompt": "Name one sense that uses our skin to feel things.",
+            "answers": [
+              "touch"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Capital City: Ottawa",
+        "summary": "Students learn that Ottawa is the capital city of Canada, where important government buildings, such as the Parliament Buildings, are located.",
+        "resourceLabel": "YouTube: Our Capital City: Ottawa",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Capital%20City%3A%20Ottawa%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the capital city of Canada?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Montreal",
+              "Vancouver"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What important buildings are located in Ottawa?",
+            "options": [
+              "A ski resort",
+              "A fishing dock",
+              "The Parliament Buildings",
+              "A large farm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Ottawa an important city in Canada?",
+            "options": [
+              "It has no government buildings",
+              "It is the smallest town in Canada",
+              "It is where important government decisions are made",
+              "It is not important"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which province is Ottawa located?",
+            "options": [
+              "Alberta",
+              "Ontario",
+              "Quebec",
+              "Manitoba"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is usually located in a capital city?",
+            "options": [
+              "A large desert",
+              "A small pond",
+              "The government of a country",
+              "Nothing important"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the capital city of Canada?",
+            "answers": [
+              "ottawa"
+            ]
+          },
+          {
+            "prompt": "What are the important government buildings in Ottawa called?",
+            "answers": [
+              "parliament buildings",
+              "parliament"
+            ]
+          },
+          {
+            "prompt": "Is Ottawa an important city for the government of Canada?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "label": "Day 39 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Letter Writing: A Note to a Friend",
+        "summary": "Students learn the basic parts of a friendly letter, including a greeting, a short message, and a closing, and practise writing a simple note to a friend.",
+        "resourceLabel": "YouTube: Letter Writing: A Note to a Friend",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20Writing%3A%20A%20Note%20to%20a%20Friend%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What word often begins a friendly letter?",
+            "options": [
+              "Chapter One",
+              "Dear",
+              "The End",
+              "Once"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the greeting of a letter used for?",
+            "options": [
+              "To draw a picture",
+              "To end the letter",
+              "To greet the person you are writing to",
+              "To add a date only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could be a closing for a friendly letter?",
+            "options": [
+              "From",
+              "Once upon a time",
+              "Chapter Two",
+              "The middle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might you write a letter to a friend?",
+            "options": [
+              "To confuse your friend",
+              "To share news or say something kind",
+              "Letters are never useful",
+              "To avoid talking"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A friendly letter usually has a greeting, a message, and a ___.",
+            "options": [
+              "Table of contents",
+              "Index",
+              "Closing",
+              "Glossary"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word often starts a friendly letter, like Dear?",
+            "answers": [
+              "dear"
+            ]
+          },
+          {
+            "prompt": "What is one thing you might write in the closing of a letter, like Love or From?",
+            "answers": [
+              "love",
+              "from",
+              "your friend"
+            ]
+          },
+          {
+            "prompt": "Does a friendly letter usually have a greeting at the start?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Half Past the Hour",
+        "summary": "Students learn to read an analog clock showing half past the hour, recognizing that the long hand points to the 6 and the short hand is halfway between two numbers.",
+        "resourceLabel": "YouTube: Time: Half Past the Hour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Half%20Past%20the%20Hour%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "At half past the hour, where does the long hand point?",
+            "options": [
+              "The 6",
+              "The 12",
+              "The 3",
+              "The 9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At half past 4, where is the short hand pointing?",
+            "options": [
+              "Exactly at the 4",
+              "Exactly at the 5",
+              "Between the 4 and 5",
+              "Exactly at the 12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Half past the hour means how many minutes have passed since the hour started?",
+            "options": [
+              "60 minutes",
+              "15 minutes",
+              "30 minutes",
+              "45 minutes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the long hand points to the 6 and the short hand is between the 7 and 8, what time is it?",
+            "options": [
+              "Half past 7",
+              "Half past 8",
+              "Half past 6",
+              "Half past 12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Reading a clock to the half hour helps us know ___.",
+            "options": [
+              "What day it is",
+              "What colour it is",
+              "What time it is",
+              "What season it is"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "When the long hand points to the 6, what part of the hour is it?",
+            "answers": [
+              "half past",
+              "half past the hour"
+            ]
+          },
+          {
+            "prompt": "At half past 3, is the short hand pointing exactly at the 3 or between the 3 and 4?",
+            "answers": [
+              "between the 3 and 4",
+              "between 3 and 4"
+            ]
+          },
+          {
+            "prompt": "What number does the long hand point to at half past any hour?",
+            "answers": [
+              "6",
+              "the 6"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Changing Materials: Heating and Cooling",
+        "summary": "Students learn that heating and cooling can change materials, such as ice melting into water when warmed or water freezing into ice when cooled.",
+        "resourceLabel": "YouTube: Changing Materials: Heating and Cooling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Changing%20Materials%3A%20Heating%20and%20Cooling%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What happens to ice when it is heated?",
+            "options": [
+              "It turns to stone",
+              "It disappears completely",
+              "It gets colder",
+              "It melts into water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to water when it is cooled to a very low temperature?",
+            "options": [
+              "It boils",
+              "It freezes into ice",
+              "Nothing happens",
+              "It turns to gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Heating and cooling can change a material from one ___ to another.",
+            "options": [
+              "Name",
+              "Owner",
+              "Colour",
+              "State"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of heating changing a material?",
+            "options": [
+              "A rock staying the same",
+              "Butter melting in the sun",
+              "A book being read",
+              "A shoe being tied"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know how heating and cooling change materials?",
+            "options": [
+              "Materials never change",
+              "Heat and cold do nothing",
+              "It helps us understand how the world around us works",
+              "It is not useful"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What happens to ice when it is heated?",
+            "answers": [
+              "it melts",
+              "melts"
+            ]
+          },
+          {
+            "prompt": "What happens to water when it is cooled a lot?",
+            "answers": [
+              "it freezes",
+              "freezes"
+            ]
+          },
+          {
+            "prompt": "Name one material that changes when you heat it, like ice or chocolate.",
+            "answers": [
+              "ice",
+              "chocolate",
+              "butter"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Landmarks and Special Places in Canada",
+        "summary": "Students learn about well-known Canadian landmarks, such as Niagara Falls and the Rocky Mountains, and discuss why these special places are important.",
+        "resourceLabel": "YouTube: Landmarks and Special Places in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Landmarks%20and%20Special%20Places%20in%20Canada%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is Niagara Falls?",
+            "options": [
+              "A famous waterfall",
+              "A city hall",
+              "A desert",
+              "A small pond"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a famous Canadian mountain range?",
+            "options": [
+              "The Amazon River",
+              "The Rocky Mountains",
+              "The Great Wall",
+              "The Sahara Desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are landmarks like Niagara Falls important to Canada?",
+            "options": [
+              "No one visits them",
+              "They are found in every country",
+              "They are not important",
+              "They are special natural places many people visit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a tall tower landmark found in Toronto?",
+            "options": [
+              "The CN Tower",
+              "The Great Wall",
+              "The Rocky Mountains",
+              "The Eiffel Tower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a landmark?",
+            "options": [
+              "A type of food",
+              "A well-known and special place",
+              "A kind of weather",
+              "A school subject"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one famous Canadian landmark, like Niagara Falls.",
+            "answers": [
+              "niagara falls",
+              "the rocky mountains",
+              "cn tower"
+            ]
+          },
+          {
+            "prompt": "Are the Rocky Mountains located in Canada?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What is Niagara Falls an example of, a waterfall or a desert?",
+            "answers": [
+              "waterfall"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "label": "Day 40 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Sounds, Words, and Stories",
+        "summary": "Students review recent Language skills: digraphs, word families, blends, rhyming, sequencing, and comparing fiction and non-fiction texts.",
+        "resourceLabel": "YouTube: Language Review: Sounds, Words, and Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Sounds%2C%20Words%2C%20and%20Stories%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the digraph sh?",
+            "options": [
+              "Cat",
+              "Run",
+              "Dog",
+              "Ship"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with cat?",
+            "options": [
+              "Hat",
+              "Pig",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the -it word family?",
+            "options": [
+              "Sun",
+              "Dog",
+              "Sit",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of story does a fiction book tell?",
+            "options": [
+              "A true story",
+              "Only facts",
+              "No story at all",
+              "A made-up story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the blend sp?",
+            "options": [
+              "Spin",
+              "Cat",
+              "Dog",
+              "Run"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the sh sound at the start of the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "Name a word that rhymes with cat.",
+            "answers": [
+              "hat",
+              "bat",
+              "mat",
+              "sat",
+              "rat",
+              "fat"
+            ]
+          },
+          {
+            "prompt": "Does a fiction book tell a true story or a made-up story?",
+            "answers": [
+              "made-up story",
+              "made up story",
+              "made-up"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Numbers, Shapes, and Time",
+        "summary": "Students review recent Math skills: counting to 100, place value, comparing numbers, fractions, capacity, symmetry, sorting, money, and telling time to the half hour.",
+        "resourceLabel": "YouTube: Math Review: Numbers, Shapes, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Shapes%2C%20and%20Time%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 99?",
+            "options": [
+              "101",
+              "99",
+              "98",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is greater, 62 or 26?",
+            "options": [
+              "They are equal",
+              "26",
+              "62",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a shape is cut into 4 equal parts, each part is called ___.",
+            "options": [
+              "One-quarter",
+              "One-third",
+              "One-half",
+              "One whole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which coin is worth 10 cents?",
+            "options": [
+              "Dime",
+              "Penny",
+              "Quarter",
+              "Nickel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At half past the hour, where does the long hand point?",
+            "options": [
+              "The 3",
+              "The 9",
+              "The 12",
+              "The 6"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 89?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          },
+          {
+            "prompt": "How many tens are in the number 47?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "How many quarters make one whole?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Seasons, Senses, and Earth",
+        "summary": "Students review recent Science topics: seasonal changes, insects, nocturnal animals, the Moon, recycling, dental health, the five senses, and changing materials.",
+        "resourceLabel": "YouTube: Science Review: Seasons, Senses, and Earth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Seasons%2C%20Senses%2C%20and%20Earth%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which season is usually the warmest of the year?",
+            "options": [
+              "Spring",
+              "Fall",
+              "Winter",
+              "Summer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "4",
+              "8",
+              "10",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is known for being nocturnal?",
+            "options": [
+              "Owl",
+              "Chicken",
+              "Squirrel",
+              "Robin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body part do we use to smell?",
+            "options": [
+              "Ears",
+              "Tongue",
+              "Eyes",
+              "Nose"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to water when it is cooled to a very low temperature?",
+            "options": [
+              "It freezes into ice",
+              "It turns to gas",
+              "It boils",
+              "Nothing happens"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is summer usually the warmest or the coldest season?",
+            "answers": [
+              "warmest"
+            ]
+          },
+          {
+            "prompt": "How many legs does an insect have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What happens to ice when it is heated?",
+            "answers": [
+              "it melts",
+              "melts"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Community, Canada, and Cooperation",
+        "summary": "Students review recent Social Studies topics: neighbourhoods, jobs, needs and wants, transportation, personal safety, communication, cooperation, and Canadian landmarks.",
+        "resourceLabel": "YouTube: Social Studies Review: Community, Canada, and Cooperation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Canada%2C%20and%20Cooperation%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a place you might find in a neighbourhood?",
+            "options": [
+              "Outer space",
+              "A park",
+              "A volcano",
+              "The ocean floor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a need?",
+            "options": [
+              "Water",
+              "Candy",
+              "A video game",
+              "A toy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should you do if someone makes you feel unsafe?",
+            "options": [
+              "Run away and hide alone",
+              "Ignore the feeling",
+              "Tell a trusted adult",
+              "Stay quiet forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the capital city of Canada?",
+            "options": [
+              "Vancouver",
+              "Ottawa",
+              "Montreal",
+              "Toronto"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to cooperate with a group?",
+            "options": [
+              "Working together toward a shared goal",
+              "Ignoring everyone else",
+              "Refusing to share",
+              "Doing everything alone"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place you might visit in your neighbourhood, like a park or library.",
+            "answers": [
+              "park",
+              "library",
+              "store"
+            ]
+          },
+          {
+            "prompt": "What is the capital city of Canada?",
+            "answers": [
+              "ottawa"
+            ]
+          },
+          {
+            "prompt": "What should you do if someone makes you feel unsafe?",
+            "answers": [
+              "tell a trusted adult",
+              "tell an adult"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
