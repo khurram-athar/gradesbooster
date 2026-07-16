@@ -14608,5 +14608,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Bias in a Text",
+        "summary": "Grade 5 Language strand: bias occurs when a text presents information in a one-sided way, favouring a particular opinion instead of presenting facts fairly.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Bias in a text means the writing ___.",
+            "options": [
+              "Presents information in a one-sided, unfair way",
+              "A concept unrelated to reading",
+              "Contains only verified factual statements",
+              "Presents every side of an issue equally"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a clue that a text might be biased?",
+            "options": [
+              "A clue unrelated to identifying bias",
+              "It uses emotional language to persuade rather than inform",
+              "It cites where each piece of information came from",
+              "It includes a balanced mix of evidence from multiple sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for readers to notice bias in a text?",
+            "options": [
+              "A reason unrelated to critical reading",
+              "Noticing bias never changes how a reader understands a text",
+              "It helps readers judge how trustworthy or one-sided the information is",
+              "Bias has no effect on how information is presented"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of biased language?",
+            "options": [
+              "Describing an idea using only measured, neutral facts",
+              "Listing evidence for and against an idea equally",
+              "Describing an idea as “obviously the only sensible choice”",
+              "A phrase unrelated to biased language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can a reader check whether a text is biased?",
+            "options": [
+              "Reading only the title and nothing else",
+              "A method unrelated to identifying bias",
+              "Assuming every text is completely fair with no need to check",
+              "Comparing it with other sources to see if the information is one-sided"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Decimals",
+        "summary": "Grade 5 Math strand: adding and subtracting decimals requires lining up the decimal points and place values before combining or comparing the digits.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "When adding decimals, it is important to first ___.",
+            "options": [
+              "Ignore the decimal points entirely",
+              "A step unrelated to adding decimals",
+              "Round every number to a whole number",
+              "Line up the decimal points"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 4.5 + 3.2?",
+            "options": [
+              "7.7",
+              "4.8",
+              "7.2",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 6.8 - 2.3?",
+            "options": [
+              "4.5",
+              "4.1",
+              "A value unrelated to the calculation",
+              "9.1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 12.75 + 0.5?",
+            "options": [
+              "17.75",
+              "12.8",
+              "A value unrelated to the calculation",
+              "13.25"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone need to add decimals in real life?",
+            "options": [
+              "To total up amounts of money that include cents",
+              "Adding decimals never applies to real-life situations",
+              "A reason unrelated to decimals",
+              "Decimals are only used in scientific formulas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Magnetism and Magnetic Forces",
+        "summary": "Grade 5 Science strand: magnets create an invisible force field that attracts certain metals and can either pull objects together or push them apart, depending on their poles.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A magnet has two poles, called the ___.",
+            "options": [
+              "Positive pole and negative pole",
+              "North pole and south pole",
+              "Hot pole and cold pole",
+              "A concept unrelated to magnetism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these materials is most strongly attracted to a magnet?",
+            "options": [
+              "A material unrelated to magnetism",
+              "Iron",
+              "Wood",
+              "Plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when two like poles of a magnet are brought together?",
+            "options": [
+              "They always attract, or pull together",
+              "A concept unrelated to magnetism",
+              "They repel, or push apart",
+              "They have no effect on each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens when opposite poles of two magnets are brought together?",
+            "options": [
+              "A concept unrelated to magnetism",
+              "They attract, or pull together",
+              "They have no effect on each other",
+              "They repel, or push apart"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an everyday use of magnets?",
+            "options": [
+              "Measuring the temperature outside",
+              "Boiling water for tea",
+              "Holding notes on a refrigerator door",
+              "A use unrelated to magnetism"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Confederation: The Birth of Canada in 1867",
+        "summary": "Grade 5 Social Studies strand: Confederation in 1867 united several British colonies into the Dominion of Canada, creating a new country with its own federal government.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Confederation in 1867 united several British colonies to form ___.",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "The Dominion of Canada",
+              "A country called New France",
+              "A colony still ruled directly by Britain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which four provinces joined together at Confederation in 1867?",
+            "options": [
+              "A group unrelated to Confederation",
+              "British Columbia, Alberta, Manitoba, and Yukon",
+              "Only Ontario and Quebec",
+              "Ontario, Quebec, Nova Scotia, and New Brunswick"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did colonies consider joining together at Confederation?",
+            "options": [
+              "A reason unrelated to Confederation",
+              "The colonies were forced to join by another country",
+              "To gain strength through unity and build a stronger shared economy and defence",
+              "Joining together offered no benefits to the colonies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the significance of July 1, 1867 in Canadian history?",
+            "options": [
+              "It marks the day Canada became a country through Confederation",
+              "It has no connection to Canadian history",
+              "It marks the day Canada gained full independence from Britain",
+              "A date unrelated to Confederation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Confederation an important milestone for students to study?",
+            "options": [
+              "Confederation had no lasting impact on Canada",
+              "It only affected one small region of the country",
+              "It marks the founding of Canada as a nation and shaped its government",
+              "A reason unrelated to Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Prepositional Phrases",
+        "summary": "Grade 5 Language strand: a prepositional phrase begins with a preposition, such as “in,” “on,” or “under,” and ends with a noun or pronoun, adding detail about location, time, or direction.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A prepositional phrase begins with a ___.",
+            "options": [
+              "Verb",
+              "Noun only, with no preposition",
+              "Preposition",
+              "A part of speech unrelated to prepositional phrases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a prepositional phrase?",
+            "options": [
+              "Quickly ran",
+              "A phrase unrelated to prepositions",
+              "Under the table",
+              "The happy dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence “The cat slept on the couch,” what is the prepositional phrase?",
+            "options": [
+              "A phrase unrelated to this sentence",
+              "The cat slept",
+              "Slept on",
+              "On the couch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Prepositional phrases often add detail about ___.",
+            "options": [
+              "A concept unrelated to prepositional phrases",
+              "The subject’s exact age",
+              "Location, time, or direction",
+              "Only the main verb of a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is a common preposition?",
+            "options": [
+              "A word unrelated to prepositions",
+              "Happiness",
+              "Quickly",
+              "Beside"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Prime Factorization",
+        "summary": "Grade 5 Math strand: prime factorization breaks a number down into the prime numbers that multiply together to make it, often shown using a factor tree.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Prime factorization breaks a number down into ___.",
+            "options": [
+              "A list of all its factors, prime or not",
+              "A concept unrelated to factorization",
+              "The prime numbers that multiply together to make it",
+              "Only its largest factor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the prime factorization of 12?",
+            "options": [
+              "2 x 2 x 3",
+              "4 x 3",
+              "2 x 6",
+              "A factorization unrelated to 12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the prime factorization of 20?",
+            "options": [
+              "A factorization unrelated to 20",
+              "4 x 5",
+              "2 x 2 x 5",
+              "2 x 10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A factor tree is a tool used to ___.",
+            "options": [
+              "List multiples of a number",
+              "Add two numbers together",
+              "A tool unrelated to factorization",
+              "Break a number down into its prime factors visually"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is prime factorization a useful math skill?",
+            "options": [
+              "A reason unrelated to factorization",
+              "It has no connection to other math skills",
+              "It only applies to even numbers",
+              "It helps with finding common factors and simplifying fractions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Layers of the Earth",
+        "summary": "Grade 5 Science strand: the Earth is made up of several layers -- the crust, mantle, outer core, and inner core -- each with different properties and depths.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The outermost layer of the Earth is called the ___.",
+            "options": [
+              "Crust",
+              "Mantle",
+              "A layer unrelated to Earth’s structure",
+              "Inner core"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which layer of the Earth is closest to the centre?",
+            "options": [
+              "Crust",
+              "A layer unrelated to Earth’s structure",
+              "Inner core",
+              "Mantle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The mantle is located ___.",
+            "options": [
+              "Above the crust",
+              "Between the crust and the outer core",
+              "A location unrelated to Earth’s structure",
+              "Outside the Earth’s atmosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which layer of the Earth is believed to be extremely hot and mostly solid metal?",
+            "options": [
+              "Crust",
+              "Inner core",
+              "A layer unrelated to Earth’s structure",
+              "Mantle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study the layers of the Earth?",
+            "options": [
+              "To better understand processes like earthquakes and volcanic activity",
+              "Studying Earth’s layers provides no useful information",
+              "A reason unrelated to Earth science",
+              "The layers of the Earth have no connection to natural events"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Inventions and Innovators",
+        "summary": "Grade 5 Social Studies strand: Canadians have contributed many important inventions and innovations, from basketball to insulin, that have had a lasting impact on the world.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Which of these was invented by a Canadian?",
+            "options": [
+              "Basketball",
+              "The bicycle",
+              "The telephone book",
+              "A concept unrelated to Canadian inventions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to study Canadian inventors and innovators?",
+            "options": [
+              "It highlights the contributions Canadians have made to the world",
+              "Canadian inventors have made no notable contributions",
+              "A reason unrelated to Canadian history",
+              "Only inventions from other countries matter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Insulin, a treatment for diabetes, was discovered by a research team working in ___.",
+            "options": [
+              "A country unrelated to this discovery",
+              "A country that has never contributed to medicine",
+              "Only outside of North America",
+              "Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes an innovator?",
+            "options": [
+              "A concept unrelated to innovation",
+              "Someone with no interest in solving problems",
+              "Someone who creates a new idea, product, or way of doing something",
+              "Someone who only repeats ideas that already exist"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canadian inventions be a source of national pride?",
+            "options": [
+              "A reason unrelated to Canadian identity",
+              "National pride has no connection to accomplishments",
+              "They show how Canadians have contributed valuable ideas that benefit others",
+              "Inventions have no connection to how a country sees itself"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Book Review",
+        "summary": "Grade 5 Language strand: a book review summarizes a text and shares the writer’s opinion of it, supported by specific reasons and examples from the book.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A book review typically includes a summary and ___.",
+            "options": [
+              "The writer’s opinion, supported by reasons and examples",
+              "A completely different story with no connection to the book",
+              "Only a list of characters with no opinion at all",
+              "A concept unrelated to book reviews"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should a book review include specific examples from the text?",
+            "options": [
+              "Examples make a review harder to understand",
+              "Examples are never needed in a book review",
+              "They support the writer’s opinion and make the review more convincing",
+              "A reason unrelated to writing a review"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of an opinion a writer might include in a book review?",
+            "options": [
+              "A concept unrelated to book reviews",
+              "The pacing of the story felt slow in the middle chapters",
+              "The book has exactly two hundred pages",
+              "The book was published by a certain company"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one purpose of writing a book review?",
+            "options": [
+              "To retell the entire story without offering any opinion",
+              "To copy the book’s summary from its back cover",
+              "To help other readers decide whether they might enjoy the book",
+              "A purpose unrelated to book reviews"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might two readers write very different reviews of the same book?",
+            "options": [
+              "All readers are required to feel the same way about every book",
+              "Book reviews never include a personal opinion",
+              "A reason unrelated to book reviews",
+              "Readers can have different reactions and opinions about the same text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Exponents",
+        "summary": "Grade 5 Math strand: an exponent shows how many times a number, called the base, is multiplied by itself, such as 2 cubed meaning 2 x 2 x 2.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "An exponent tells you ___.",
+            "options": [
+              "How many times a number is multiplied by itself",
+              "How many times a number is divided by itself",
+              "The sum of a number added to itself",
+              "A concept unrelated to exponents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does 2 to the power of 3 (2 cubed) mean?",
+            "options": [
+              "2 + 2 + 2",
+              "2 x 3",
+              "2 x 2 x 2",
+              "A value unrelated to this expression"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the value of 2 to the power of 3?",
+            "options": [
+              "8",
+              "A value unrelated to the calculation",
+              "9",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of 5 to the power of 2 (5 squared)?",
+            "options": [
+              "A value unrelated to the calculation",
+              "25",
+              "52",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the expression 4 to the power of 2, what is the base?",
+            "options": [
+              "4",
+              "2",
+              "8",
+              "A number unrelated to this expression"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Volcanoes: Formation and Types",
+        "summary": "Grade 5 Science strand: volcanoes form when molten rock, gas, and ash escape from beneath the Earth’s surface, and different volcano types are shaped by how they erupt.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A volcano forms when molten rock, called magma, escapes from ___.",
+            "options": [
+              "The Earth’s atmosphere",
+              "Beneath the Earth’s surface",
+              "A concept unrelated to volcanoes",
+              "Only the ocean floor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Magma that reaches the Earth’s surface is called ___.",
+            "options": [
+              "Groundwater",
+              "Sediment",
+              "Lava",
+              "A term unrelated to volcanoes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A shield volcano is typically shaped by ___.",
+            "options": [
+              "Slow-flowing lava that spreads out widely",
+              "Cold temperatures with no eruption at all",
+              "A concept unrelated to volcano formation",
+              "Only ash with no lava involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some volcanoes erupt explosively?",
+            "options": [
+              "Explosive eruptions never involve pressure of any kind",
+              "A reason unrelated to volcanic activity",
+              "Built-up pressure from trapped gas is released suddenly",
+              "Volcanoes only erupt when the weather is cold"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists monitor active volcanoes closely?",
+            "options": [
+              "To help predict eruptions and protect nearby communities",
+              "A reason unrelated to science",
+              "Monitoring volcanoes provides no useful information",
+              "Volcanoes never pose any risk to nearby areas"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Economy: Primary, Secondary, and Tertiary Industries",
+        "summary": "Grade 5 Social Studies strand: Canada’s economy includes primary industries that gather raw materials, secondary industries that manufacture goods, and tertiary industries that provide services.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A primary industry is one that ___.",
+            "options": [
+              "Only sells finished products in stores",
+              "Provides services like teaching or banking",
+              "Gathers raw materials, such as mining or farming",
+              "A concept unrelated to industries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a secondary industry?",
+            "options": [
+              "A farm that grows wheat",
+              "A concept unrelated to secondary industries",
+              "A factory that manufactures cars from raw materials",
+              "A bank that offers financial services"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a tertiary industry?",
+            "options": [
+              "A mine that extracts minerals from the ground",
+              "A hospital that provides healthcare services",
+              "A forest where logging takes place",
+              "A concept unrelated to tertiary industries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Canada’s economy rely on all three types of industries?",
+            "options": [
+              "The three types of industries have no connection to each other",
+              "A reason unrelated to Canada’s economy",
+              "Only one type of industry is actually needed",
+              "Each type of industry plays a different role in producing goods and services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is fishing considered a primary industry in Canada?",
+            "options": [
+              "Fishing always involves manufacturing finished products",
+              "Fishing is classified only as a service industry",
+              "It involves gathering a natural resource directly from the environment",
+              "A reason unrelated to Canada’s economy"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Prefixes and Suffixes",
+        "summary": "Grade 5 Language strand: a prefix is added to the beginning of a word to change its meaning, while a suffix is added to the end, and both help readers figure out unfamiliar words.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A prefix is added to the ___ of a word.",
+            "options": [
+              "Beginning",
+              "A position unrelated to prefixes",
+              "Middle",
+              "End"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A suffix is added to the ___ of a word.",
+            "options": [
+              "End",
+              "Beginning",
+              "A position unrelated to suffixes",
+              "Middle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the prefix “un-” usually mean, as in “unhappy”?",
+            "options": [
+              "Before",
+              "A meaning unrelated to this prefix",
+              "Not",
+              "Again"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the suffix “-ful” usually mean, as in “helpful”?",
+            "options": [
+              "Before",
+              "Without",
+              "A meaning unrelated to this suffix",
+              "Full of"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are prefixes and suffixes useful when reading unfamiliar words?",
+            "options": [
+              "They never provide any clues about meaning",
+              "They only affect how a word is spelled, not its meaning",
+              "They can give clues about a word’s meaning",
+              "A reason unrelated to vocabulary"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Divisibility Rules",
+        "summary": "Grade 5 Math strand: divisibility rules are quick tests that show whether a number can be divided evenly by another number, without doing long division.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A number is divisible by 2 if it ___.",
+            "options": [
+              "A rule unrelated to divisibility by 2",
+              "Ends in an even digit",
+              "Is greater than 100",
+              "Ends in an odd digit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A number is divisible by 5 if it ___.",
+            "options": [
+              "A rule unrelated to divisibility by 5",
+              "Ends in an even digit",
+              "Ends in 0 or 5",
+              "Is a prime number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A number is divisible by 3 if ___.",
+            "options": [
+              "It ends in the digit 3",
+              "The sum of its digits is divisible by 3",
+              "A rule unrelated to divisibility by 3",
+              "It is an even number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is 42 divisible by 3? Use the digit-sum rule to check.",
+            "options": [
+              "Yes, because 4 + 2 = 6, which is divisible by 3",
+              "No, because 42 is an odd number",
+              "Yes, because 42 ends in 2",
+              "A conclusion unrelated to the digit-sum rule"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are divisibility rules useful?",
+            "options": [
+              "They make it impossible to check divisibility",
+              "They help quickly check if a number can be divided evenly without long division",
+              "They only work for the number 10",
+              "A reason unrelated to divisibility rules"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Types of Pollution and Their Impact",
+        "summary": "Grade 5 Science strand: pollution includes air, water, and land pollution caused by human activity, and each type can harm living things and the environment.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Air pollution can be caused by ___.",
+            "options": [
+              "A concept unrelated to air pollution",
+              "Sunlight reaching the Earth’s surface",
+              "Rainfall over a forest",
+              "Smoke and exhaust from vehicles and factories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of water pollution?",
+            "options": [
+              "Fish swimming in clean water",
+              "Rain falling into a lake",
+              "A concept unrelated to water pollution",
+              "Chemicals or waste being released into a river"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Land pollution often occurs when ___.",
+            "options": [
+              "Farmers plant new crops in a field",
+              "Garbage or harmful substances are dumped onto the ground",
+              "A concept unrelated to land pollution",
+              "Leaves fall naturally from trees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can pollution be harmful to living things?",
+            "options": [
+              "Pollution never has any effect on living things",
+              "A reason unrelated to pollution",
+              "It can damage habitats and make air, water, or soil unsafe",
+              "Pollution only affects things that are not alive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these actions could help reduce pollution?",
+            "options": [
+              "Dumping more garbage into rivers",
+              "Reducing waste and recycling materials",
+              "A concept unrelated to reducing pollution",
+              "Burning more fuel unnecessarily"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Taxes and Government Services",
+        "summary": "Grade 5 Social Studies strand: taxes are payments collected by governments from citizens and businesses, used to fund public services such as schools, roads, and healthcare.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Taxes are payments collected by governments to fund ___.",
+            "options": [
+              "Only the personal expenses of government leaders",
+              "Nothing, since taxes serve no real purpose",
+              "Public services such as schools, roads, and healthcare",
+              "A concept unrelated to taxes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is typically funded through taxes?",
+            "options": [
+              "A concept unrelated to public services",
+              "Public schools",
+              "A family’s personal savings account",
+              "A privately owned business"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might governments at different levels, such as municipal and federal, both collect taxes?",
+            "options": [
+              "Taxes are collected with no connection to government services",
+              "Each level of government funds different public services and responsibilities",
+              "Only one level of government is ever allowed to collect taxes",
+              "A reason unrelated to government funding"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a public service funded by taxes?",
+            "options": [
+              "A private vacation for one family",
+              "A personal savings account",
+              "A concept unrelated to tax-funded services",
+              "Public libraries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for citizens to understand how taxes are used?",
+            "options": [
+              "A reason unrelated to citizenship",
+              "Understanding taxes provides no useful information",
+              "It helps them understand how public services are funded and maintained",
+              "Taxes have no connection to the services citizens use"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Flashback",
+        "summary": "Grade 5 Language strand: a flashback is a writing technique where the story pauses to show an event that happened earlier, before returning to the present moment of the story.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "A flashback shows an event that happened ___.",
+            "options": [
+              "At exactly the same moment as the current scene",
+              "Earlier in time, before the present moment of the story",
+              "A concept unrelated to reading",
+              "Later in time, after the story has ended"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use a flashback?",
+            "options": [
+              "A reason unrelated to storytelling",
+              "To give readers important background information about a character or event",
+              "To confuse readers with no clear purpose",
+              "Flashbacks never provide any useful information to readers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a flashback?",
+            "options": [
+              "A concept unrelated to flashback",
+              "A character suddenly remembering a moment from their childhood",
+              "A story with no reference to any past events",
+              "A character planning something that will happen tomorrow"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a flashback different from foreshadowing?",
+            "options": [
+              "A flashback shows past events, while foreshadowing hints at future events",
+              "Foreshadowing always shows events from the past",
+              "A concept unrelated to these techniques",
+              "A flashback and foreshadowing mean exactly the same thing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What often signals to a reader that a flashback is beginning?",
+            "options": [
+              "A reason unrelated to flashback",
+              "A story ending abruptly with no explanation",
+              "A phrase or clue indicating a shift to an earlier time",
+              "Flashbacks are never signalled in any way"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Square Numbers and Square Roots",
+        "summary": "Grade 5 Math strand: a square number is the result of multiplying a whole number by itself, and its square root is the number that was multiplied to produce it.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A square number is the result of ___.",
+            "options": [
+              "Dividing a whole number by itself",
+              "Adding a whole number to itself",
+              "Multiplying a whole number by itself",
+              "A concept unrelated to square numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 4 squared (4 x 4)?",
+            "options": [
+              "8",
+              "12",
+              "A value unrelated to the calculation",
+              "16"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the square root of 25?",
+            "options": [
+              "10",
+              "5",
+              "A value unrelated to the calculation",
+              "25"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the square root of 49?",
+            "options": [
+              "A value unrelated to the calculation",
+              "9",
+              "14",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are square numbers often shown using a grid or array?",
+            "options": [
+              "Grids have no connection to square numbers",
+              "Square numbers can only be shown using a number line",
+              "A reason unrelated to square numbers",
+              "Because a square number can form a perfectly square grid of dots"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Life Cycles and Metamorphosis",
+        "summary": "Grade 5 Science strand: many animals go through distinct life cycle stages, and some, such as butterflies and frogs, undergo metamorphosis, a dramatic change in body form.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Metamorphosis is a process in which an animal ___.",
+            "options": [
+              "Stays exactly the same throughout its entire life",
+              "Loses all of its offspring immediately after birth",
+              "A concept unrelated to animal life cycles",
+              "Changes dramatically in body form as it grows"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals undergoes complete metamorphosis?",
+            "options": [
+              "A human",
+              "A butterfly",
+              "A dog",
+              "A concept unrelated to metamorphosis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the correct order of a butterfly’s life cycle?",
+            "options": [
+              "Adult, egg, pupa, larva",
+              "Egg, larva, pupa, adult",
+              "Pupa, adult, egg, larva",
+              "An order unrelated to a butterfly’s life cycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A tadpole changing into a frog is an example of ___.",
+            "options": [
+              "Hibernation",
+              "Metamorphosis",
+              "A concept unrelated to amphibians",
+              "A life cycle stage that never changes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is metamorphosis an important adaptation for some animals?",
+            "options": [
+              "Metamorphosis has no connection to how an animal survives",
+              "It can allow the animal to live in different environments or eat different foods at each stage",
+              "Metamorphosis prevents an animal from ever changing",
+              "A reason unrelated to animal life cycles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Agriculture and Farming Regions of Canada",
+        "summary": "Grade 5 Social Studies strand: Canada’s different regions support different types of farming, shaped by climate, soil, and land, from prairie grain farms to Ontario’s fruit orchards.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The Prairie provinces are well known for growing ___.",
+            "options": [
+              "Grain crops such as wheat",
+              "Only tropical fruit",
+              "A concept unrelated to Prairie agriculture",
+              "No crops at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might southern Ontario be suitable for growing fruit such as peaches and grapes?",
+            "options": [
+              "Southern Ontario has no farmland at all",
+              "A reason unrelated to agriculture",
+              "It has a milder climate and fertile soil suited to fruit growing",
+              "Climate and soil have no connection to farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which factor most affects what crops can be grown in a Canadian region?",
+            "options": [
+              "A factor unrelated to agriculture",
+              "The colour of the provincial flag",
+              "The size of the region’s cities",
+              "Climate and soil conditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is agriculture an important part of Canada’s economy?",
+            "options": [
+              "Agriculture has no connection to Canada’s economy",
+              "A reason unrelated to farming",
+              "It provides food and supports jobs across many regions",
+              "Farming no longer takes place anywhere in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might farming be more limited in Canada’s northern territories?",
+            "options": [
+              "Colder climates and shorter growing seasons make large-scale farming difficult",
+              "The north has the best possible climate for farming",
+              "A reason unrelated to Canadian geography",
+              "Farming is equally easy in every region of Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Personification and Metaphor",
+        "summary": "Grade 5 Language strand: personification gives human qualities to something non-human, while a metaphor directly compares two unlike things without using “like” or “as.”",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Personification gives ___.",
+            "options": [
+              "A concept unrelated to figurative language",
+              "No special qualities to anything at all",
+              "Animal qualities to a human being",
+              "Human qualities to something non-human"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A metaphor compares two unlike things ___.",
+            "options": [
+              "Directly, without using “like” or “as”",
+              "Only by using the word “like”",
+              "Only by using the word “as”",
+              "A concept unrelated to metaphors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of personification?",
+            "options": [
+              "The wind whispered through the trees.",
+              "A sentence unrelated to personification",
+              "The wind blew at ten kilometres per hour.",
+              "The tree has green leaves."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of a metaphor?",
+            "options": [
+              "Her smile appeared briefly.",
+              "Her smile was sunshine on a cloudy day.",
+              "Her smile was as bright as sunshine.",
+              "A sentence unrelated to metaphors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use personification or metaphor in a story?",
+            "options": [
+              "These techniques never affect how a reader pictures a scene",
+              "To create a vivid image or add deeper meaning to the writing",
+              "To make the writing more difficult to understand for no reason",
+              "A reason unrelated to figurative language"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Pictographs",
+        "summary": "Grade 5 Math strand: a pictograph displays data using pictures or symbols, where each symbol represents a set number of items, along with a key explaining its value.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "A pictograph displays data using ___.",
+            "options": [
+              "Pictures or symbols, along with a key",
+              "Only bars of different heights",
+              "Slices of a circle",
+              "A concept unrelated to pictographs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of the key in a pictograph?",
+            "options": [
+              "It explains how many items each symbol represents",
+              "It has no useful purpose in a pictograph",
+              "It shows the title of the graph only",
+              "A concept unrelated to pictographs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a key shows that one symbol equals 5 items, and a row has 3 symbols, how many items does that represent?",
+            "options": [
+              "15",
+              "A value unrelated to the calculation",
+              "3",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a half symbol appear in a pictograph?",
+            "options": [
+              "To represent exactly double the symbol’s usual value",
+              "To represent an amount that is half of the symbol’s usual value",
+              "Half symbols are never used in pictographs",
+              "A reason unrelated to pictographs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are pictographs useful for displaying data?",
+            "options": [
+              "Pictographs cannot be used to compare any data",
+              "A reason unrelated to pictographs",
+              "Pictographs only work with negative numbers",
+              "They present data in a simple, visual way that is easy to compare"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nutrition and the Food Groups",
+        "summary": "Grade 5 Science strand: a balanced diet includes a variety of foods from different groups, such as vegetables and fruits, grains, and protein foods, each providing different nutrients the body needs.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A balanced diet includes foods from ___.",
+            "options": [
+              "No specific groups at all",
+              "A variety of different food groups",
+              "Only a single food group",
+              "A concept unrelated to nutrition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is considered a protein food?",
+            "options": [
+              "A concept unrelated to protein foods",
+              "Bread",
+              "Rice",
+              "Fish"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the body need nutrients from vegetables and fruits?",
+            "options": [
+              "They are needed only for their colour",
+              "They provide important vitamins, minerals, and fibre",
+              "A reason unrelated to nutrition",
+              "Vegetables and fruits provide no nutrients at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one benefit of eating a variety of foods rather than just one type?",
+            "options": [
+              "It helps the body get all the different nutrients it needs",
+              "Eating a variety of foods provides no benefit",
+              "Variety only affects how food tastes, not health",
+              "A reason unrelated to nutrition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might drinking enough water be considered part of good nutrition?",
+            "options": [
+              "The body does not need water to stay healthy",
+              "Water helps the body function properly and stay hydrated",
+              "Water has no connection to how the body functions",
+              "A reason unrelated to nutrition"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Role in International Alliances (NATO)",
+        "summary": "Grade 5 Social Studies strand: Canada is a member of international alliances, such as NATO, that bring countries together to support mutual defence and cooperation.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "NATO is an alliance that brings countries together to support ___.",
+            "options": [
+              "Trade disputes between member countries",
+              "Mutual defence and cooperation",
+              "A concept unrelated to international alliances",
+              "Complete isolation from other countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might Canada choose to join an international alliance like NATO?",
+            "options": [
+              "A reason unrelated to international relations",
+              "Joining an alliance offers no benefits to a country",
+              "To strengthen security and cooperation with other countries",
+              "Canada is required to join with no choice involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best describes how alliance members support one another?",
+            "options": [
+              "A concept unrelated to alliances",
+              "They compete against each other militarily",
+              "They refuse to communicate with one another",
+              "They cooperate on shared defence and security goals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might belonging to an international alliance be considered part of Canada’s foreign policy?",
+            "options": [
+              "It reflects how Canada works with other countries on global issues",
+              "Canada has never taken part in any international alliance",
+              "A reason unrelated to Canadian government",
+              "Alliances have no connection to a country’s foreign policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for students to learn about international alliances?",
+            "options": [
+              "International alliances have no relevance to students",
+              "Countries never work together on shared goals",
+              "A reason unrelated to social studies learning",
+              "It helps them understand how countries cooperate on global security and issues"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing Effective Introductions",
+        "summary": "Grade 5 Language strand: an effective introduction grabs the reader’s attention, introduces the topic, and often previews the main ideas that will follow.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "An effective introduction should ___.",
+            "options": [
+              "Avoid mentioning the topic at all",
+              "Summarize the entire piece of writing word for word",
+              "Grab the reader’s attention and introduce the topic",
+              "A concept unrelated to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a strong opening hook in an introduction?",
+            "options": [
+              "A random sentence with no connection to the topic",
+              "An interesting question or surprising fact related to the topic",
+              "A concept unrelated to introductions",
+              "A list of every source used in the writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer preview the main ideas in an introduction?",
+            "options": [
+              "It helps the reader know what to expect from the rest of the writing",
+              "A reason unrelated to writing introductions",
+              "Introductions should never mention any main ideas",
+              "Previewing ideas always confuses the reader"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would likely make a weak introduction?",
+            "options": [
+              "A concept unrelated to introductions",
+              "Starting with “This essay is about a topic.” and nothing else",
+              "Starting with an interesting question about the topic",
+              "Starting with a surprising, relevant fact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the introduction often considered an important part of a piece of writing?",
+            "options": [
+              "The introduction has no effect on how a reader experiences the writing",
+              "Introductions are an optional part of writing that can be skipped",
+              "A reason unrelated to writing structure",
+              "It creates the reader’s first impression and sets up the rest of the writing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Sums and Differences",
+        "summary": "Grade 5 Math strand: estimating sums and differences involves rounding numbers before adding or subtracting to quickly find an approximate answer.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Estimating a sum or difference involves ___.",
+            "options": [
+              "Finding the exact answer using a calculator",
+              "Rounding numbers before adding or subtracting",
+              "A concept unrelated to estimation",
+              "Ignoring the numbers in the problem entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Estimate the sum of 48 + 31 by rounding to the nearest ten.",
+            "options": [
+              "79",
+              "90",
+              "80",
+              "A value unrelated to the estimation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Estimate the difference of 92 - 47 by rounding to the nearest ten.",
+            "options": [
+              "50",
+              "A value unrelated to the estimation",
+              "45",
+              "40"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone estimate before solving a math problem?",
+            "options": [
+              "A reason unrelated to estimation",
+              "Estimating always gives the exact same result as the real answer",
+              "Estimating never helps with checking an answer",
+              "To quickly check whether their exact answer seems reasonable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a real-life situation where estimating a sum could be useful?",
+            "options": [
+              "Estimating never applies to real-life situations",
+              "Quickly checking if you have enough money for groceries",
+              "Estimating is only used in advanced scientific research",
+              "A reason unrelated to estimation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skin and Its Functions",
+        "summary": "Grade 5 Science strand: the skin is the body’s largest organ, protecting internal tissues, helping regulate body temperature, and providing the sense of touch.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The skin is considered the body’s ___.",
+            "options": [
+              "Largest organ",
+              "A concept unrelated to the skin",
+              "Only a covering with no other function",
+              "Smallest organ"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a function of the skin?",
+            "options": [
+              "Pumping blood throughout the body",
+              "A function unrelated to the skin",
+              "Protecting the body from germs and injury",
+              "Digesting food for energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the skin help regulate body temperature?",
+            "options": [
+              "By preventing the body from ever losing heat",
+              "By sweating to cool the body down when it is hot",
+              "The skin has no connection to body temperature",
+              "A reason unrelated to the skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sense is closely connected to the skin?",
+            "options": [
+              "Taste",
+              "A sense unrelated to the skin",
+              "Touch",
+              "Hearing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to protect skin from sun damage?",
+            "options": [
+              "Sun exposure has no effect on the skin",
+              "A reason unrelated to skin health",
+              "The skin can be harmed by too much exposure to ultraviolet light",
+              "Skin cannot be damaged by sunlight"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Provincial and Territorial Capitals",
+        "summary": "Grade 5 Social Studies strand: each of Canada’s provinces and territories has its own capital city, which is home to that region’s government.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "The capital city of Ontario is ___.",
+            "options": [
+              "Ottawa",
+              "A city unrelated to Ontario",
+              "Hamilton",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The capital city of British Columbia is ___.",
+            "options": [
+              "A city unrelated to British Columbia",
+              "Vancouver",
+              "Kelowna",
+              "Victoria"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is typically located in a province’s or territory’s capital city?",
+            "options": [
+              "That region’s government buildings and legislature",
+              "A concept unrelated to capital cities",
+              "The capital of a different province entirely",
+              "Only farmland with no government presence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is the capital of Canada as a whole country?",
+            "options": [
+              "A city unrelated to Canada’s federal capital",
+              "Toronto",
+              "Ottawa",
+              "Montreal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to know the capital cities of Canada’s provinces and territories?",
+            "options": [
+              "It helps build understanding of where regional governments are based",
+              "A reason unrelated to Canadian geography",
+              "Every province and territory shares the exact same capital",
+              "Capital cities have no connection to how a region is governed"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Direct and Indirect Speech",
+        "summary": "Grade 5 Language strand: direct speech repeats a speaker’s exact words, often in quotation marks, while indirect speech reports what someone said without quoting them exactly.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Direct speech repeats a speaker’s ___.",
+            "options": [
+              "Words translated into a different language",
+              "General idea, without quoting them exactly",
+              "A concept unrelated to grammar",
+              "Exact words, often in quotation marks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Indirect speech reports what someone said ___.",
+            "options": [
+              "Using their exact words in quotation marks",
+              "Only in the form of a question",
+              "A concept unrelated to grammar",
+              "Without quoting them exactly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses direct speech?",
+            "options": [
+              "A sentence unrelated to direct speech",
+              "Maya mentioned something about a library once.",
+              "Maya said that she was going to the library.",
+              "Maya said, “I am going to the library.”"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses indirect speech?",
+            "options": [
+              "Jordan shouted, “I am here early!”",
+              "A sentence unrelated to indirect speech",
+              "Jordan said, “I will arrive early.”",
+              "Jordan said that he would arrive early."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose indirect speech instead of direct speech?",
+            "options": [
+              "A reason unrelated to grammar",
+              "Indirect speech is never used in writing",
+              "To summarize what someone said without quoting their exact words",
+              "Indirect speech always requires quotation marks"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Congruent and Similar Shapes",
+        "summary": "Grade 5 Math strand: congruent shapes are identical in size and shape, while similar shapes have the same shape but can differ in size, with matching angles and proportional sides.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Congruent shapes are ___.",
+            "options": [
+              "Identical in both size and shape",
+              "The same shape but always different sizes",
+              "Never the same in any way",
+              "A concept unrelated to congruent shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Similar shapes have ___.",
+            "options": [
+              "Completely different shapes and angles",
+              "The same shape, with matching angles and proportional sides",
+              "A concept unrelated to similar shapes",
+              "No matching angles or sides at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two triangles are congruent, their corresponding sides are ___.",
+            "options": [
+              "Only equal if the triangles are also similar",
+              "Always different in length",
+              "Exactly equal in length",
+              "A description unrelated to congruent triangles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two rectangles are similar, one rectangle is ___ the other.",
+            "options": [
+              "Never related in shape to",
+              "A description unrelated to similar shapes",
+              "Always exactly the same size as",
+              "A scaled-up or scaled-down version of"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might architects use similar shapes when designing a building?",
+            "options": [
+              "A reason unrelated to similar shapes",
+              "Architects never use scale models of any kind",
+              "Similar shapes have no use in architecture",
+              "To create a scaled model that keeps the same proportions as the final building"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Gravity and Its Effects",
+        "summary": "Grade 5 Science strand: gravity is a force that pulls objects toward each other, and on Earth it pulls objects toward the ground, giving them weight.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Gravity is a force that ___.",
+            "options": [
+              "Pulls objects toward each other",
+              "Pushes objects away from each other",
+              "A concept unrelated to gravity",
+              "Has no effect on objects at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On Earth, gravity pulls objects toward ___.",
+            "options": [
+              "The sky above",
+              "A direction unrelated to gravity",
+              "Outer space",
+              "The ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do objects fall when dropped?",
+            "options": [
+              "Objects fall with no connection to gravity",
+              "Objects only fall because of wind",
+              "A reason unrelated to gravity",
+              "Earth’s gravity pulls them downward"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An object’s weight is affected by ___.",
+            "options": [
+              "The strength of the gravity pulling on it",
+              "The temperature of the object",
+              "The colour of the object",
+              "A factor unrelated to weight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why would an astronaut weigh less on the Moon than on Earth?",
+            "options": [
+              "The Moon has weaker gravity than Earth",
+              "Gravity is exactly the same on the Moon and Earth",
+              "The Moon has stronger gravity than Earth",
+              "A reason unrelated to gravity"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Consumer Rights and Responsibilities",
+        "summary": "Grade 5 Social Studies strand: consumers have rights, such as receiving accurate information about products, along with responsibilities, such as spending money wisely.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "A consumer right includes receiving ___.",
+            "options": [
+              "Accurate information about a product before buying it",
+              "No information about a product at all",
+              "False advertising with no consequences",
+              "A concept unrelated to consumer rights"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a consumer responsibility?",
+            "options": [
+              "Comparing prices and making informed spending decisions",
+              "Ignoring the cost of a product entirely",
+              "Spending money without any thought or planning",
+              "A concept unrelated to consumer responsibilities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might it be important for advertisements to be truthful?",
+            "options": [
+              "Advertisements have no effect on what consumers decide to buy",
+              "Consumers rely on accurate information to make good decisions",
+              "A reason unrelated to consumer rights",
+              "Truthfulness in advertising is never required"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of being a responsible consumer?",
+            "options": [
+              "A concept unrelated to consumer responsibility",
+              "Buying items with no consideration of cost",
+              "Saving money for something important instead of spending it right away",
+              "Ignoring how much money is available before spending"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for students to learn about consumer rights and responsibilities?",
+            "options": [
+              "It helps prepare them to make informed decisions as future consumers",
+              "Consumers have no rights or responsibilities of any kind",
+              "This knowledge has no connection to everyday life",
+              "A reason unrelated to social studies learning"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Drawing Conclusions",
+        "summary": "Grade 5 Language strand: drawing a conclusion means combining evidence from the text with what you already know to form a logical judgment about something the author does not state directly.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Drawing a conclusion means combining text evidence with ___.",
+            "options": [
+              "A concept unrelated to reading",
+              "What you already know to form a logical judgment",
+              "A random guess with no evidence involved",
+              "Only information that is stated directly in the text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of drawing a conclusion?",
+            "options": [
+              "Ignoring all details in the text",
+              "A concept unrelated to drawing conclusions",
+              "Copying a sentence directly from the text",
+              "Deciding a character is nervous because of how they are described acting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for readers to draw conclusions while reading?",
+            "options": [
+              "Conclusions can only be drawn after finishing an entire book",
+              "A reason unrelated to reading comprehension",
+              "Drawing conclusions never adds anything to understanding a text",
+              "It helps them understand ideas the author implies but does not state directly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should a reader use as support when drawing a conclusion?",
+            "options": [
+              "A concept unrelated to drawing conclusions",
+              "Only the title of the text",
+              "A conclusion with no connection to the text at all",
+              "Specific evidence and details found in the text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is drawing a conclusion different from simply summarizing a text?",
+            "options": [
+              "Drawing a conclusion and summarizing mean exactly the same thing",
+              "Summarizing always requires forming a judgment about the text",
+              "Drawing a conclusion involves interpreting evidence, not just restating events",
+              "A concept unrelated to reading skills"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Elapsed Time and Time Zones",
+        "summary": "Grade 5 Math strand: elapsed time is the amount of time that passes between a start time and an end time, and time zones account for differences in time across regions.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "Elapsed time is the amount of time that ___.",
+            "options": [
+              "Is shown on a single clock at one moment",
+              "Never changes no matter the situation",
+              "Passes between a start time and an end time",
+              "A concept unrelated to elapsed time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a movie starts at 2:15 p.m. and ends at 4:00 p.m., how much time has elapsed?",
+            "options": [
+              "1 hour 45 minutes",
+              "1 hour 15 minutes",
+              "2 hours 15 minutes",
+              "A duration unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A time zone is a region that ___.",
+            "options": [
+              "Shares the same standard time",
+              "A concept unrelated to time zones",
+              "Has no connection to time at all",
+              "Never experiences any change in time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does Canada have more than one time zone?",
+            "options": [
+              "Time zones have no connection to a country’s size",
+              "A reason unrelated to time zones",
+              "The country spans a wide distance from east to west",
+              "Canada has only one time zone across the entire country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If it is 3:00 p.m. in one time zone and a neighbouring zone is one hour behind, what time is it there?",
+            "options": [
+              "2:00 p.m.",
+              "A time unrelated to the calculation",
+              "3:00 p.m.",
+              "4:00 p.m."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Eye and Vision",
+        "summary": "Grade 5 Science strand: the human eye detects light and sends signals to the brain, which interprets them as images, allowing us to see the world around us.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "The human eye allows us to see by detecting ___.",
+            "options": [
+              "Air pressure",
+              "Sound waves",
+              "A concept unrelated to vision",
+              "Light"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which part of the eye controls how much light enters?",
+            "options": [
+              "The pupil",
+              "The eyelash",
+              "A part unrelated to vision",
+              "The eyebrow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After light enters the eye, signals are sent to the ___ to be interpreted.",
+            "options": [
+              "A part unrelated to vision",
+              "Lungs",
+              "Stomach",
+              "Brain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the pupil become smaller in bright light?",
+            "options": [
+              "A reason unrelated to vision",
+              "The pupil always stays exactly the same size",
+              "Bright light has no effect on the pupil",
+              "To limit the amount of light entering the eye"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is protecting your eyes important?",
+            "options": [
+              "The eyes are sensitive organs needed for the sense of sight",
+              "The eyes have no important function in the body",
+              "A reason unrelated to eye safety",
+              "Eyes cannot be damaged in any way"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s National Symbols and Their History",
+        "summary": "Grade 5 Social Studies strand: Canada’s national symbols, such as the flag, coat of arms, and national anthem, represent the country’s identity and history.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s current national flag, featuring a red maple leaf, was officially adopted in ___.",
+            "options": [
+              "1867",
+              "2000",
+              "A year unrelated to Canada’s flag history",
+              "1965"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the maple leaf on the Canadian flag commonly represent?",
+            "options": [
+              "Another country’s national identity",
+              "A symbol with no connection to Canada",
+              "A concept unrelated to Canadian symbols",
+              "Canadian identity and natural heritage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is considered an official national symbol of Canada?",
+            "options": [
+              "A flag belonging to a different country",
+              "A symbol unrelated to Canadian identity",
+              "An object with no historical significance",
+              "The coat of arms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do countries often adopt national symbols?",
+            "options": [
+              "National symbols serve no real purpose",
+              "To represent shared identity, values, and history",
+              "Symbols are chosen with no meaning behind them",
+              "A reason unrelated to national identity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might learning about the history of national symbols be valuable?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "It helps explain how a country’s identity has developed over time",
+              "Symbols never change or have any background story",
+              "National symbols have no connection to a country’s history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Bias, Prepositions, Flashback, and Figurative Language",
+        "summary": "Grade 5 Language strand: this review lesson revisits key ideas from Days 61-69, including identifying bias, prepositional phrases, flashback, and personification and metaphor.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Bias in a text means the writing ___.",
+            "options": [
+              "Presents information in a one-sided, unfair way",
+              "A concept unrelated to reading",
+              "Presents every side of an issue equally",
+              "Contains only verified factual statements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A prepositional phrase begins with a ___.",
+            "options": [
+              "A part of speech unrelated to prepositional phrases",
+              "Verb",
+              "Noun only, with no preposition",
+              "Preposition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A flashback shows an event that happened ___.",
+            "options": [
+              "At exactly the same moment as the current scene",
+              "A concept unrelated to reading",
+              "Earlier in time, before the present moment of the story",
+              "Later in time, after the story has ended"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Personification gives ___.",
+            "options": [
+              "No special qualities to anything at all",
+              "A concept unrelated to figurative language",
+              "Human qualities to something non-human",
+              "Animal qualities to a human being"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review reading and grammar skills like these together?",
+            "options": [
+              "These skills have no connection to each other",
+              "It reinforces how different language skills support clear reading and writing",
+              "A reason unrelated to reviewing language",
+              "Review never helps strengthen understanding of a subject"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Decimals, Exponents, Factors, and Shapes",
+        "summary": "Grade 5 Math strand: this review lesson revisits key ideas from Days 61-69, including adding and subtracting decimals, exponents, prime factorization, and congruent and similar shapes.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "When adding decimals, it is important to first ___.",
+            "options": [
+              "Round every number to a whole number",
+              "Line up the decimal points",
+              "A step unrelated to adding decimals",
+              "Ignore the decimal points entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does 2 to the power of 3 (2 cubed) mean?",
+            "options": [
+              "A value unrelated to this expression",
+              "2 + 2 + 2",
+              "2 x 2 x 2",
+              "2 x 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Prime factorization breaks a number down into ___.",
+            "options": [
+              "Only its largest factor",
+              "A list of all its factors, prime or not",
+              "A concept unrelated to factorization",
+              "The prime numbers that multiply together to make it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Congruent shapes are ___.",
+            "options": [
+              "The same shape but always different sizes",
+              "Never the same in any way",
+              "Identical in both size and shape",
+              "A concept unrelated to congruent shapes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review decimals, exponents, factors, and shapes together?",
+            "options": [
+              "Review never helps strengthen understanding of a subject",
+              "It reinforces how these math concepts connect and build on one another",
+              "These topics have no connection to each other",
+              "A reason unrelated to reviewing math"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Magnetism, Earth Layers, Volcanoes, and the Human Body",
+        "summary": "Grade 5 Science strand: this review lesson revisits key ideas from Days 61-69, including magnetism, the layers of the Earth, volcanoes, and the skin and human eye.",
+        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "A magnet has two poles, called the ___.",
+            "options": [
+              "North pole and south pole",
+              "A concept unrelated to magnetism",
+              "Positive pole and negative pole",
+              "Hot pole and cold pole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The outermost layer of the Earth is called the ___.",
+            "options": [
+              "Inner core",
+              "Crust",
+              "Mantle",
+              "A layer unrelated to Earth’s structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Magma that reaches the Earth’s surface is called ___.",
+            "options": [
+              "A term unrelated to volcanoes",
+              "Groundwater",
+              "Sediment",
+              "Lava"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The skin is considered the body’s ___.",
+            "options": [
+              "Largest organ",
+              "Only a covering with no other function",
+              "Smallest organ",
+              "A concept unrelated to the skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review magnetism, Earth science, and body systems together?",
+            "options": [
+              "It reinforces how these interconnected science concepts relate to one another",
+              "These topics have no connection to each other",
+              "Review is never useful in science",
+              "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Confederation, Economy, Capitals, and Canadian Identity",
+        "summary": "Grade 5 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including Confederation, Canada’s economy, provincial capitals, and national symbols.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Confederation in 1867 united several British colonies to form ___.",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A colony still ruled directly by Britain",
+              "A country called New France",
+              "The Dominion of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A primary industry is one that ___.",
+            "options": [
+              "Provides services like teaching or banking",
+              "Gathers raw materials, such as mining or farming",
+              "Only sells finished products in stores",
+              "A concept unrelated to industries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The capital city of Ontario is ___.",
+            "options": [
+              "Ottawa",
+              "A city unrelated to Ontario",
+              "Toronto",
+              "Hamilton"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the maple leaf on the Canadian flag commonly represent?",
+            "options": [
+              "Another country’s national identity",
+              "Canadian identity and natural heritage",
+              "A symbol with no connection to Canada",
+              "A concept unrelated to Canadian symbols"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review Confederation, the economy, capitals, and national identity together?",
+            "options": [
+              "Review never helps strengthen understanding of a subject",
+              "It reinforces how these Social Studies concepts connect to build understanding of Canada",
+              "A reason unrelated to reviewing social studies",
+              "These topics have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
