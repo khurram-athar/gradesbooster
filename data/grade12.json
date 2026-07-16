@@ -4437,6 +4437,7 @@
         "summary": "Students analyse satire as a literary mode — examining targets, techniques (irony, parody, exaggeration), and the ethics and limits of satirical writing.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=d1bE7LfNqlU",
+        "videoUrl": "https://www.youtube.com/watch?v=udA1MVU59LQ",
         "quiz": [
           {
             "q": "Satire differs from simple comedy in that ___.",
@@ -4496,6 +4497,7 @@
         "summary": "Students find intersections of lines and planes in 3D and calculate distances from points to lines and planes.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=5AWob_z74Ks",
+        "videoUrl": "https://www.youtube.com/watch?v=j3LsSVlJ8co",
         "quiz": [
           {
             "q": "To find where a line intersects a plane, substitute the ___ into the plane equation.",
@@ -4555,6 +4557,7 @@
         "summary": "Students state and apply the Mean Value Theorem, Rolle's Theorem, and use them to analyse function behaviour.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=mAul5vTAJSA",
+        "videoUrl": "https://www.youtube.com/watch?v=SL2RobwU_M4",
         "quiz": [
           {
             "q": "Rolle's Theorem states: if f is continuous on [a,b], differentiable on (a,b), and f(a)=f(b), then ___.",
@@ -4614,6 +4617,7 @@
         "summary": "Students analyse the superposition of waves — constructive and destructive interference, standing waves, and resonance in strings and air columns.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=7cDAYFTXq3E",
+        "videoUrl": "https://www.youtube.com/watch?v=JUCLoczzwPo",
         "quiz": [
           {
             "q": "The principle of superposition states ___.",
@@ -4679,6 +4683,7 @@
         "summary": "Students write and revise a fully documented research essay integrating primary texts, secondary criticism, and their own analysis.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=vtIzMaLkCaM",
+        "videoUrl": "https://www.youtube.com/watch?v=UvsH5y91Eoo",
         "quiz": [
           {
             "q": "A literary research essay differs from a personal response in that ___.",
@@ -4738,6 +4743,7 @@
         "summary": "Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=ozwodzD5bte",
+        "videoUrl": "https://www.youtube.com/watch?v=1mNd2wLC_0c",
         "quiz": [
           {
             "q": "Resolving a force into components in 3D uses ___.",
@@ -4797,6 +4803,7 @@
         "summary": "Students apply the substitution rule (u-substitution) to evaluate indefinite and definite integrals of composite functions.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=-9M9P7xNDH4",
+        "videoUrl": "https://www.youtube.com/watch?v=sdYdnpYn-1o",
         "quiz": [
           {
             "q": "The substitution rule reverses ___.",
@@ -4856,6 +4863,7 @@
         "summary": "Students apply the law of reflection and Snell's Law to mirrors, lenses, and fibre optics; analyse total internal reflection.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=_dBmNF_XBTU",
+        "videoUrl": "https://www.youtube.com/watch?v=HOk4Zt2vZrA",
         "quiz": [
           {
             "q": "The law of reflection states ___.",

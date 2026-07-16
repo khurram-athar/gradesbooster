@@ -822,6 +822,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Week 4 review — mixed questions from Days 16–19", subjects:[
   {subject:"Language", title:"Review: Story Elements, Plurals, Possessives & Question Words", summary:"Mixed review of story elements, plural nouns, possessive nouns, and question words.",
    resourceLabel:"YouTube: Review: Story Elements, Plurals, Possessives & Question Words", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Story%20Elements%2C%20Plurals%2C%20Possessives%20%26%20Question%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=h7_aNX-wj9A",
    quiz:[
      {q:"The 'setting' of a story is...", options:["Who is in it","What happens","Where and when it takes place","The lesson"], answer:2},
      {q:"What is the plural of 'box'?", options:["Boxes","Boxies","Boxxes","Boxs"], answer:0},
@@ -831,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Patterns, Fractions, Graphs & Equal Groups", summary:"Mixed review of growing/shrinking patterns, fractions, reading graphs, and equal groups.",
    resourceLabel:"YouTube: Review: Patterns, Fractions, Graphs & Equal Groups", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Patterns%2C%20Fractions%2C%20Graphs%20%26%20Equal%20Groups%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-OyBdgTgQzE",
    quiz:[
      {q:"What comes next: 4, 8, 12, 16, __?", options:["19","20","22","18"], answer:1},
      {q:"A pizza cut into 4 equal parts — each part is...", options:["One whole","One third","One quarter","One half"], answer:2},
@@ -840,6 +842,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Materials, Shadows, Light & Body", summary:"Mixed review of properties of materials, day/night/shadows, light and sound, and the human body.",
    resourceLabel:"YouTube: Review: Materials, Shadows, Light & Body", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Materials%2C%20Shadows%2C%20Light%20%26%20Body%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lOIGOT88Aqc",
    quiz:[
      {q:"Which word describes the feel of sandpaper?", options:["Rough","Smooth","Wet","Soft"], answer:0},
      {q:"What causes day and night?", options:["The sun moving around Earth","The Earth rotating","The moon moving","Clouds"], answer:1},
@@ -849,6 +852,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Money, Continents, Environment & Citizenship", summary:"Mixed review of money and trading, continents and oceans, caring for the environment, and good citizenship.",
    resourceLabel:"YouTube: Review: Money, Continents, Environment & Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HV3qN-YHKT8",
    quiz:[
      {q:"What is bartering?", options:["Saving coins","Trading goods without money","Buying things with money","Spending all money"], answer:1},
      {q:"How many continents are there?", options:["8","7","6","5"], answer:1},
@@ -860,6 +864,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Alphabetical Order", summary:"Alphabetical order means putting words in the order of the letters in the alphabet (a, b, c… z). When words start with the same letter, look at the second letter.",
    resourceLabel:"YouTube: Alphabetical Order", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Order%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z9tqxFdmx5k",
    quiz:[
      {q:"Which word would come FIRST in alphabetical order?", options:["Cat","Dog","Ball","Ant"], answer:3},
      {q:"Put these in alphabetical order: sun, moon, star. Which comes first?", options:["Sun","All the same","Moon","Star"], answer:2},
@@ -869,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Position Words", summary:"Position words describe where things are — over, under, above, below, beside, left, right, in front, and behind.",
    resourceLabel:"YouTube: Position Words", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HnlJzWhsNnw",
    quiz:[
      {q:"If a ball is on TOP of a box, the ball is __ the box.", options:["Under","Over/above","Beside","Behind"], answer:1},
      {q:"Which word means the OPPOSITE of 'left'?", options:["Back","Down","Right","Up"], answer:2},
@@ -878,6 +884,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Living vs. Non-Living Things (Deeper Look)", summary:"Living things need food, water, air, and space to grow. They also respond to their environment and reproduce (have offspring). Non-living things do not do these things.",
    resourceLabel:"YouTube: Living vs. Non-Living Things (Deeper Look)", resourceUrl:"https://www.youtube.com/results?search_query=Living%20vs.%20Non-Living%20Things%20%28Deeper%20Look%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QmQvdUaH7hE",
    quiz:[
      {q:"Which is a characteristic of ALL living things?", options:["They always live in water","They can fly","They need food, water, and air","They are always green"], answer:2},
      {q:"Which of these is a non-living thing?", options:["A mushroom","A cloud","A flower","A worm"], answer:1},

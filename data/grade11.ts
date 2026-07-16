@@ -760,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"English", title:"Writing Workshop: Revising for Clarity and Sophistication", summary:"Students revise earlier essays and creative work, focusing on analytical depth, voice, and stylistic precision.",
    resourceLabel:"YouTube: Writing Workshop: Revising for Clarity and Sophistication", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Workshop%3A%20Revising%20for%20Clarity%20and%20Sophistication%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oLX7oyZB5Ng",
    quiz:[
      {q:"Revising for analytical depth means ___.", options:["checking each paragraph's claim","adding more quotations","making paragraphs longer","checking spelling only"], answer:0},
      {q:"Revising for voice means ___.", options:["using only formal academic language","sounding like a distinctive thinker","removing all personal perspective","making all sentences identical in length"], answer:1},
@@ -769,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Graphing Technology: Exploring Functions with Technology", summary:"Students use graphing technology (Desmos/GDC) to explore function families, transformations, and connections between algebraic and graphical representations.",
    resourceLabel:"YouTube: Graphing Technology: Exploring Functions with Technology", resourceUrl:"https://www.youtube.com/results?search_query=Graphing%20Technology%3A%20Exploring%20Functions%20with%20Technology%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
    quiz:[
      {q:"Graphing technology is most useful for ___.", options:["exploring patterns and making conjectures","only checking multiple-choice answers","hiding mathematical understanding","replacing all algebraic work"], answer:0},
      {q:"Using Desmos to graph y = asin(bx + c) + d while varying parameters develops understanding of ___.", options:["only how to use Desmos","only the formula","no useful mathematical insight","how each parameter affects the graph"], answer:3},
@@ -778,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Ecology: Climate Change and Ecological Response", summary:"Students examine how climate change is affecting ecosystems — range shifts, phenological changes, coral bleaching, and extinction risk.",
    resourceLabel:"YouTube: Ecology: Climate Change and Ecological Response", resourceUrl:"https://www.youtube.com/results?search_query=Ecology%3A%20Climate%20Change%20and%20Ecological%20Response%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=srpl5YRw-_U",
    quiz:[
      {q:"Phenological changes caused by climate change include ___.", options:["only changes in plant species","no changes in species timing","shifts in timing, like earlier blooming","only changes in animal migration"], answer:2},
      {q:"Range shifts in response to climate change mean ___.", options:["no species are affected","species moving poleward or upward","species ranges are shrinking equally","species are going extinct immediately"], answer:1},
@@ -787,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Analytical Chemistry: Qualitative and Quantitative Analysis", summary:"Students examine laboratory techniques for identifying and quantifying substances in chemical samples, including titration and spectroscopy.",
    resourceLabel:"YouTube: Analytical Chemistry: Qualitative and Quantitative Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Analytical%20Chemistry%3A%20Qualitative%20and%20Quantitative%20Analysis%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5rUVYWfZOb8",
    quiz:[
      {q:"Titration is a laboratory technique that ___.", options:["finds concentration through reaction","identifies elements through combustion","separates mixtures by boiling point","produces chemical compounds from scratch"], answer:0},
      {q:"The equivalence point in a titration is ___.", options:["when pH = 7 always","when the burette is empty","when the indicator changes colour (endpoint, close to equivalence)","the point at which stoichiometrically equivalent amounts of acid and base (or other reactants) have been combined — not always pH 7"], answer:0},
@@ -798,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Research: Seminar Preparation and Independent Research", summary:"Students design and conduct an independent research inquiry on a literary or cultural topic, preparing to lead or contribute to a formal seminar.",
    resourceLabel:"YouTube: Research: Seminar Preparation and Independent Research", resourceUrl:"https://www.youtube.com/results?search_query=Research%3A%20Seminar%20Preparation%20and%20Independent%20Research%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pDPlFRwMc1Y",
    quiz:[
      {q:"A genuine research question is ___.", options:["one with an obvious answer","a question your teacher can answer easily","an open question needing investigation","one found in the textbook"], answer:2},
      {q:"Synthesising research means ___.", options:["summarising each source separately","copying from multiple sources into one document","combining sources into an argument","only using one source at a time"], answer:2},
@@ -807,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Probability Distributions: Introduction", summary:"Students are introduced to discrete probability distributions — uniform, binomial — and calculate expected value and standard deviation.",
    resourceLabel:"YouTube: Probability Distributions: Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20Distributions%3A%20Introduction%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CfZa1daLjwo",
    quiz:[
      {q:"A probability distribution lists ___.", options:["only outcomes with equal probability","all possible outcomes with their probabilities","only outcomes that occur more than 50%","only the mean and standard deviation"], answer:1},
      {q:"Expected value (μ) of a discrete distribution is ___.", options:["the most common outcome","always the median","E(X) = Σ x·P(x)","always a whole number"], answer:2},
@@ -816,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Reproduction: Reproductive Technologies", summary:"Students examine assisted reproductive technologies (IVF, IUI, surrogacy) and their biological basis, success rates, and ethical dimensions.",
    resourceLabel:"YouTube: Human Reproduction: Reproductive Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Reproduction%3A%20Reproductive%20Technologies%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=als-gv_D7bc",
    quiz:[
      {q:"IVF (In Vitro Fertilisation) involves ___.", options:["fertilisation occurring inside the uterus","only natural fertilisation outside the body","lab fertilisation, then embryo transfer","no hormonal treatment"], answer:2},
      {q:"Pre-implantation Genetic Testing (PGT) in IVF allows ___.", options:["eliminating all genetic disease","creating designer babies easily","screening embryos for genetic disorders","selecting physical traits like eye colour"], answer:2},
@@ -825,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Environmental Chemistry: Pollution and Remediation", summary:"Students examine chemical pollutants (heavy metals, pesticides, pharmaceuticals in water, plastics), their environmental fate, and remediation strategies.",
    resourceLabel:"YouTube: Environmental Chemistry: Pollution and Remediation", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Chemistry%3A%20Pollution%20and%20Remediation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=A5jRLe_NFP0",
    quiz:[
      {q:"Bioaccumulation refers to ___.", options:["chemicals building up in body tissue","chemicals dissolving in soil","chemicals only affecting water","chemicals decomposing in organisms"], answer:0},
      {q:"Biomagnification is ___.", options:["the same as bioaccumulation","reduction of chemicals up the food chain","chemicals rising up the food chain","only affects top predators unconnected to bioaccumulation"], answer:2},

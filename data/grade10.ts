@@ -760,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"English", title:"Shakespeare: A Midsummer Night's Dream or Julius Caesar", summary:"Students study a second Shakespeare play, analysing dramatic structure, language, and themes with greater independence and sophistication than in Grade 9.",
    resourceLabel:"YouTube: Shakespeare: A Midsummer Night's Dream or Julius Caesar", resourceUrl:"https://www.youtube.com/results?search_query=Shakespeare%3A%20A%20Midsummer%20Night%27s%20Dream%20or%20Julius%20Caesar%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FxqXN7umwN0",
    quiz:[
      {q:"In Shakespeare's comedies, the central disruption is ___.", options:["a disorder resolved by the play's end","a political crisis","a tragic death","a major war"], answer:0},
      {q:"In Julius Caesar, Brutus's fatal flaw is arguably ___.", options:["an idealism blinding him politically","cowardice","ambition","greed"], answer:0},
@@ -769,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Functions, Geometry, and Systems", summary:"Students consolidate Grade 10 mathematics — quadratics, trigonometry, analytic geometry, linear systems, and an introduction to polynomial functions.",
    resourceLabel:"YouTube: Review: Functions, Geometry, and Systems", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Functions%2C%20Geometry%2C%20and%20Systems%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Veb22xD0Ao0",
    quiz:[
      {q:"The parabola y = −3(x + 2)² + 7 has vertex ___ and opens ___.", options:["(2, 7) downward","(−2, 7) downward","(2, −7) upward","(−2, 7) upward"], answer:1},
      {q:"Find the angle in a triangle where cos A = (9 + 25 − 16)/(2 × 3 × 5) = 18/30.", options:["A = 90°","A ≈ 37°","A = 60°","A ≈ 53°"], answer:3},
@@ -778,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Energy Systems and Sustainability", summary:"Students examine Ontario's energy mix, the transition to renewable energy, and the science behind solar, wind, hydro, and nuclear power.",
    resourceLabel:"YouTube: Science: Energy Systems and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Energy%20Systems%20and%20Sustainability%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ViXtT8c4z-c",
    quiz:[
      {q:"Ontario's electricity mix includes ___.", options:["mostly nuclear, hydro, wind, and gas","mostly coal","mostly imported US electricity","only nuclear"], answer:0},
      {q:"Solar photovoltaic (PV) cells convert ___.", options:["wind energy to electricity","light to electricity via semiconductors","heat directly to electricity","chemical energy to electricity"], answer:1},
@@ -787,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Constitution and Federalism", summary:"Students examine the Canadian Constitution — the division of powers, federalism, constitutional amendments, and ongoing debates about the constitutional order.",
    resourceLabel:"YouTube: Canada's Constitution and Federalism", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Constitution%20and%20Federalism%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bO7FQsCcbD8",
    quiz:[
      {q:"The division of powers in the Constitution Act (1867) allocates ___.", options:["powers only based on tradition","all power to the federal government","all power to provinces","some powers federal, some provincial"], answer:3},
      {q:"Section 91 lists federal powers, which include ___.", options:["criminal law, banking, and currency","property and civil rights","education and hospitals","only defence and foreign affairs"], answer:0},
@@ -798,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Independent Novel Study: Final Essay", summary:"Students write a full independent analytical essay on their novel, demonstrating the full range of Grade 10 literary analysis skills.",
    resourceLabel:"YouTube: Independent Novel Study: Final Essay", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Final%20Essay%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
    quiz:[
      {q:"The most important quality of a Grade 10 analytical essay is ___.", options:["length","number of quotations","a clear thesis backed by evidence","correct spelling"], answer:2},
      {q:"Literary analysis differs from plot summary in that ___.", options:["they are identical","literary analysis asks 'how' and 'why'","literary analysis requires less detail","plot summary is more valuable"], answer:1},
@@ -807,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Functions: Domain, Range, Notation", summary:"Students are introduced to functions formally — function notation f(x), domain, range, mapping diagrams, and identifying functions vs. relations.",
    resourceLabel:"YouTube: Introduction to Functions: Domain, Range, Notation", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Functions%3A%20Domain%2C%20Range%2C%20Notation%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9pJupVoCq7g",
    quiz:[
      {q:"A function is a relation in which ___.", options:["every ordered pair is (x, x)","every x-value maps to exactly one y-value","all x and y values are positive","every y-value maps to one x-value"], answer:1},
      {q:"The domain of a function is ___.", options:["the rule of the function","the set of all output values","the graph of the function","the set of possible x-values"], answer:3},
@@ -816,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Organic Chemistry Introduction", summary:"Students are introduced to organic compounds — hydrocarbons (alkanes, alkenes, alkynes), functional groups, and their importance in medicine, materials, and environment.",
    resourceLabel:"YouTube: Chemistry: Organic Chemistry Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Organic%20Chemistry%20Introduction%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B_ketdzJtY8",
    quiz:[
      {q:"Organic chemistry is the study of ___.", options:["only laboratory-made substances","all chemical reactions","only natural substances","compounds containing carbon"], answer:3},
      {q:"Hydrocarbons are compounds containing only ___.", options:["carbon only","carbon and hydrogen","carbon and nitrogen","carbon and oxygen"], answer:1},
@@ -825,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Environment and Politics: Canada's Climate Debate", summary:"Students examine the political dimensions of climate change in Canada — carbon pricing, oil sands, Indigenous rights, and intergenerational justice.",
    resourceLabel:"YouTube: The Environment and Politics: Canada's Climate Debate", resourceUrl:"https://www.youtube.com/results?search_query=The%20Environment%20and%20Politics%3A%20Canada%27s%20Climate%20Debate%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=odrnHketSGQ",
    quiz:[
      {q:"Canada's carbon pricing system (federal carbon tax/backstop) ___.", options:["prices carbon, rebates the proceeds","gives money to oil companies","has faced no political opposition","increases government profit directly"], answer:0},
      {q:"Alberta's oil sands are significant because ___.", options:["they are internationally praised universally","they pit environment against economy","they are already shut down","they are small and economically minor"], answer:1},

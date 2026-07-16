@@ -4437,6 +4437,7 @@
         "summary": "Students revise earlier essays and creative work, focusing on analytical depth, voice, and stylistic precision.",
         "resourceLabel": "YouTube: Writing Workshop: Revising for Clarity and Sophistication",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20Workshop%3A%20Revising%20for%20Clarity%20and%20Sophistication%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=oLX7oyZB5Ng",
         "quiz": [
           {
             "q": "Revising for analytical depth means ___.",
@@ -4496,6 +4497,7 @@
         "summary": "Students use graphing technology (Desmos/GDC) to explore function families, transformations, and connections between algebraic and graphical representations.",
         "resourceLabel": "YouTube: Graphing Technology: Exploring Functions with Technology",
         "resourceUrl": "https://www.youtube.com/results?search_query=Graphing%20Technology%3A%20Exploring%20Functions%20with%20Technology%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RSAD7QNT1hs",
         "quiz": [
           {
             "q": "Graphing technology is most useful for ___.",
@@ -4555,6 +4557,7 @@
         "summary": "Students examine how climate change is affecting ecosystems — range shifts, phenological changes, coral bleaching, and extinction risk.",
         "resourceLabel": "YouTube: Ecology: Climate Change and Ecological Response",
         "resourceUrl": "https://www.youtube.com/results?search_query=Ecology%3A%20Climate%20Change%20and%20Ecological%20Response%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=srpl5YRw-_U",
         "quiz": [
           {
             "q": "Phenological changes caused by climate change include ___.",
@@ -4614,6 +4617,7 @@
         "summary": "Students examine laboratory techniques for identifying and quantifying substances in chemical samples, including titration and spectroscopy.",
         "resourceLabel": "YouTube: Analytical Chemistry: Qualitative and Quantitative Analysis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Analytical%20Chemistry%3A%20Qualitative%20and%20Quantitative%20Analysis%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5rUVYWfZOb8",
         "quiz": [
           {
             "q": "Titration is a laboratory technique that ___.",
@@ -4679,6 +4683,7 @@
         "summary": "Students design and conduct an independent research inquiry on a literary or cultural topic, preparing to lead or contribute to a formal seminar.",
         "resourceLabel": "YouTube: Research: Seminar Preparation and Independent Research",
         "resourceUrl": "https://www.youtube.com/results?search_query=Research%3A%20Seminar%20Preparation%20and%20Independent%20Research%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=pDPlFRwMc1Y",
         "quiz": [
           {
             "q": "A genuine research question is ___.",
@@ -4738,6 +4743,7 @@
         "summary": "Students are introduced to discrete probability distributions — uniform, binomial — and calculate expected value and standard deviation.",
         "resourceLabel": "YouTube: Probability Distributions: Introduction",
         "resourceUrl": "https://www.youtube.com/results?search_query=Probability%20Distributions%3A%20Introduction%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=CfZa1daLjwo",
         "quiz": [
           {
             "q": "A probability distribution lists ___.",
@@ -4797,6 +4803,7 @@
         "summary": "Students examine assisted reproductive technologies (IVF, IUI, surrogacy) and their biological basis, success rates, and ethical dimensions.",
         "resourceLabel": "YouTube: Human Reproduction: Reproductive Technologies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Human%20Reproduction%3A%20Reproductive%20Technologies%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=als-gv_D7bc",
         "quiz": [
           {
             "q": "IVF (In Vitro Fertilisation) involves ___.",
@@ -4856,6 +4863,7 @@
         "summary": "Students examine chemical pollutants (heavy metals, pesticides, pharmaceuticals in water, plastics), their environmental fate, and remediation strategies.",
         "resourceLabel": "YouTube: Environmental Chemistry: Pollution and Remediation",
         "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Chemistry%3A%20Pollution%20and%20Remediation%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A5jRLe_NFP0",
         "quiz": [
           {
             "q": "Bioaccumulation refers to ___.",

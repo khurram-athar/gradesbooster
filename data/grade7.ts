@@ -802,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Visual Texts, Irony, Bias, and Research Reports", summary:"Mixed review of analyzing visual texts, irony/satire, bias detection, and research report structure.",
    resourceLabel:"YouTube: Review: Visual Texts, Irony, Bias, and Research Reports", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Visual%20Texts%2C%20Irony%2C%20Bias%2C%20and%20Research%20Reports%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tqg6RO8c_W0",
    quiz:[
      {q:"An infographic combines...", options:["Only numbers","Text and visuals","Only photos","Random colours"], answer:1},
      {q:"Irony involves a contrast between...", options:["Two settings only","Two characters only","Expectation and reality","Title and author"], answer:2},
@@ -811,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Surface Area/Volume, Proportional Reasoning, Linear Relations, Transformations", summary:"Mixed review of prisms, scale, linear relations, and grid transformations.",
    resourceLabel:"YouTube: Review: Surface Area/Volume, Proportional Reasoning, Linear Relations, Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Surface%20Area%2FVolume%2C%20Proportional%20Reasoning%2C%20Linear%20Relations%2C%20Transformations%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2UEUWC313QY",
    quiz:[
      {q:"Volume of a rectangular prism is found by...", options:["Length × Width only","Length + Width + Height","Perimeter only","Length × Width × Height"], answer:3},
      {q:"If a scale is 1:50, a 2 cm length represents...", options:["25 cm","2 cm","100 cm","50 cm"], answer:2},
@@ -820,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Simple Machines, Rocks, Weather, Biodiversity", summary:"Mixed review of mechanical efficiency, the rock cycle, weather systems, and biodiversity.",
    resourceLabel:"YouTube: Review: Simple Machines, Rocks, Weather, Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Simple%20Machines%2C%20Rocks%2C%20Weather%2C%20Biodiversity%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_WYjWUBXU-Y",
    quiz:[
      {q:"An inclined plane makes work easier by...", options:["Reducing force over more distance","Eliminating friction","Increasing weight","Doing nothing useful"], answer:0},
      {q:"Igneous rock forms from...", options:["Cooled magma or lava","Ocean water","Extreme cold","Compressed sediment"], answer:0},
@@ -829,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Suffrage, Urbanization, Climate Regions, Population", summary:"Mixed review of women's suffrage, urbanization, climate regions, and population distribution/density.",
    resourceLabel:"YouTube: Review: Suffrage, Urbanization, Climate Regions, Population", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Suffrage%2C%20Urbanization%2C%20Climate%20Regions%2C%20Population%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RRhjqqe750A",
    quiz:[
      {q:"Suffrage refers to the right to...", options:["Attend school","Work","Vote","Own property"], answer:2},
      {q:"Urbanization refers to...", options:["Cities disappearing","People moving from rural areas to cities","Farming expansion","Population decrease"], answer:1},
@@ -840,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Analyzing Character Motivation", summary:"Character motivation is the reason behind a character's actions, often revealed through their words, choices, and reactions to events.",
    resourceLabel:"YouTube: Analyzing Character Motivation", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Character%20Motivation%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3daaB08DhmE",
    quiz:[
      {q:"Character motivation refers to...", options:["The setting of the story","The author's name","The book's cover design","The reason a character acts that way"], answer:3},
      {q:"Readers can infer motivation by examining...", options:["Only the chapter titles","A character's words and choices","The page count","The font used in the book"], answer:1},
@@ -849,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Two-Step Equations", summary:"Two-step equations require two operations to isolate the variable, such as undoing addition/subtraction first, then multiplication/division.",
    resourceLabel:"YouTube: Two-Step Equations", resourceUrl:"https://www.youtube.com/results?search_query=Two-Step%20Equations%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AP5MbH88cdo",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=7","x=5","x=8","x=6"], answer:3},
      {q:"Solve: 3x - 4 = 11", options:["x=6","x=4","x=5","x=3"], answer:1},
@@ -858,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable Energy Technologies", summary:"Renewable energy sources like solar, wind, and hydro generate power without depleting finite resources, using technologies engineered to capture natural energy.",
    resourceLabel:"YouTube: Renewable Energy Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20Energy%20Technologies%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VfowJHJz6-s",
    quiz:[
      {q:"Solar panels convert which type of energy into electricity?", options:["Sunlight (solar energy)","Sound energy","Wind energy","Heat from the ground only"], answer:0},
      {q:"Wind turbines generate electricity using...", options:["Sunlight only","Ocean tides only","Underground heat","Moving air spinning turbine blades"], answer:3},

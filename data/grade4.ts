@@ -802,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Reading: Text Features in Non-Fiction", summary:"Grade 4 Reading strand: non-fiction text features include headings, subheadings, captions, text boxes, bold words, table of contents, index, and glossary.",
    resourceLabel:"YouTube: Reading: Text Features in Non-Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Text%20Features%20in%20Non-Fiction%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"A subheading in a text ___.", options:["is unrelated to the text","is the author's name","organizes info by labelling a section","introduces the whole article"], answer:2},
      {q:"A glossary provides ___.", options:["definitions of key words","the author's biography","an index of pages","pictures"], answer:0},
@@ -811,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Elapsed Time", summary:"Grade 4 Measurement strand: elapsed time is the amount of time that passes between a start time and an end time.",
    resourceLabel:"YouTube: Elapsed Time", resourceUrl:"https://www.youtube.com/results?search_query=Elapsed%20Time%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=t6xXsxq0shw",
    quiz:[
      {q:"A movie starts at 2:15 p.m. and ends at 4:45 p.m. How long is it?", options:["2 hours 45 min","2 hours 30 min","2 hours 15 min","3 hours"], answer:1},
      {q:"School starts at 8:30 a.m. and ends at 3:15 p.m. Total school time = ?", options:["6 h 15 min","7 h 15 min","7 h 45 min","6 h 45 min"], answer:3},
@@ -820,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Grade 4 Science Earth strand: our solar system has the Sun at its centre and 8 planets, plus moons, asteroids, and comets orbiting it.",
    resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7XseVrmpkUU",
    quiz:[
      {q:"How many planets are in our solar system?", options:["9","7","8","10"], answer:2},
      {q:"What is at the centre of our solar system?", options:["The Moon","The Sun","Earth","Jupiter"], answer:1},
@@ -829,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Confederation and Canadian Identity", summary:"Grade 4 Social Studies: Confederation (1867) united four provinces into the Dominion of Canada. Canadian identity includes bilingualism, multiculturalism, and respect for Indigenous peoples.",
    resourceLabel:"YouTube: Confederation and Canadian Identity", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Canadian%20Identity%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Confederation in 1867 united which four provinces?", options:["BC, AB, ON, QC","ON, QC, NB, NS","NL, PE, NB, NS","MB, SK, AB, BC"], answer:1},
      {q:"Canadian identity is shaped by ___.", options:["only British traditions","only geography","only one cultural group","many heritages, old and new"], answer:3},
@@ -850,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Equivalent Fractions", summary:"Grade 4 Number strand: equivalent fractions represent the same value even though they have different numerators and denominators. Example: 1/2 = 2/4 = 4/8.",
    resourceLabel:"YouTube: Equivalent Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Equivalent%20Fractions%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ke5Ik-Iq0YQ",
    quiz:[
      {q:"Which fraction is equivalent to 1/2?", options:["2/3","1/3","3/4","2/4"], answer:3},
      {q:"Which fraction is equivalent to 2/3?", options:["4/6","6/8","4/9","3/4"], answer:0},
@@ -859,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: Moon Phases", summary:"Grade 4 Science Earth strand: the Moon has no light of its own; it reflects sunlight. As it orbits Earth, we see different amounts of its lit side — the phases.",
    resourceLabel:"YouTube: Space: Moon Phases", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20Moon%20Phases%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wz01pTvuMa0",
    quiz:[
      {q:"The Moon produces its own light.", options:["True","Only in summer","Only at night","False"], answer:3},
      {q:"The Moon phases are caused by ___.", options:["The Moon moving in and out of shadow","Earth blocking sunlight (eclipse)","The Moon changing shape","Varying views of its sunlit side"], answer:3},
@@ -868,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Economics: Needs, Wants, Supply, and Demand", summary:"Grade 4 Social Studies: needs are essentials (food, shelter); wants are desires. Supply is how much is available; demand is how much people want.",
    resourceLabel:"YouTube: Economics: Needs, Wants, Supply, and Demand", resourceUrl:"https://www.youtube.com/results?search_query=Economics%3A%20Needs%2C%20Wants%2C%20Supply%2C%20and%20Demand%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yhr8X7H3yyE",
    quiz:[
      {q:"A 'need' is ___.", options:["a luxury item","something you want but cannot have","something essential for survival","something desirable but not essential"], answer:2},
      {q:"A 'want' is ___.", options:["the same as a need","only food and water","essential for survival","something desirable but not necessary"], answer:3},

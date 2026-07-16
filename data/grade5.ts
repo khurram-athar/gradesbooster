@@ -802,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Inferences, Text Features, and Persuasion", summary:"Mixed review of making inferences, nonfiction text features, persuasive writing, and dialogue.",
    resourceLabel:"YouTube: Review: Inferences, Text Features, and Persuasion", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Inferences%2C%20Text%20Features%2C%20and%20Persuasion%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JdaD2FZQFEY",
    quiz:[
      {q:"A character repeatedly glances at the clock and taps their foot while waiting. What can you infer about them?", options:["They are relaxed","They are asleep","They are impatient or anxious","They are bored of reading"], answer:2},
      {q:"Why would an author include a labeled diagram alongside a nonfiction paragraph about the water cycle?", options:["It serves no purpose","To replace the paragraph entirely","To decorate the page only","To help readers visualize the process"], answer:3},
@@ -811,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Fractions, Ratios, Grids, and Angles", summary:"Mixed review of multiplying fractions, ratios, coordinate grids, and angles.",
    resourceLabel:"YouTube: Review: Fractions, Ratios, Grids, and Angles", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fractions%2C%20Ratios%2C%20Grids%2C%20and%20Angles%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6BhIbszLYjE",
    quiz:[
      {q:"A recipe needs 3/4 cup of oil per batch. How much oil is needed for 4 batches?", options:["3/16 cups","12/16 cups","4/3 cups","3 cups"], answer:3},
      {q:"A ratio of cats to dogs at a shelter is 3:5. If there are 15 cats, how many dogs are there?", options:["20","25","9","30"], answer:1},
@@ -820,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Light, Sound, Rocks, and Matter", summary:"Mixed review of light and reflection, sound and vibration, the rock cycle, and states of matter.",
    resourceLabel:"YouTube: Review: Light, Sound, Rocks, and Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Light%2C%20Sound%2C%20Rocks%2C%20and%20Matter%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kkwgPwBKyl4",
    quiz:[
      {q:"A straw looks bent in a glass of water. Which phenomenon explains this?", options:["Vibration","Refraction","Reflection","Absorption"], answer:1},
      {q:"Why does sound travel faster through water than through air?", options:["Water molecules are packed tightly","Sound cannot travel through liquids","Water blocks all sound","Air is denser than water"], answer:0},
@@ -829,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Territories, the Arctic, Provinces, and Rights", summary:"Mixed review of Canada's territories, the Arctic, comparing provinces, and rights and freedoms.",
    resourceLabel:"YouTube: Review: Territories, the Arctic, Provinces, and Rights", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Territories%2C%20the%20Arctic%2C%20Provinces%2C%20and%20Rights%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DzHwLbYiqos",
    quiz:[
      {q:"Why do Canada's territories receive certain powers directly from the federal government, unlike provinces?", options:["There is no difference","Territories have more power than provinces","This isn't actually true","Territories relate differently to Ottawa"], answer:3},
      {q:"Why has traditional Inuit knowledge been essential for survival in the Arctic?", options:["It has no practical use","It only applies to farming","It offers skills for extreme cold","Arctic survival needs no special knowledge"], answer:2},
@@ -840,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Descriptive Writing with Sensory Details", summary:"Descriptive writing uses sensory details — sight, sound, smell, taste, and touch — to help readers picture a scene vividly.",
    resourceLabel:"YouTube: Descriptive Writing with Sensory Details", resourceUrl:"https://www.youtube.com/results?search_query=Descriptive%20Writing%20with%20Sensory%20Details%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kKb6fZRAEEU",
    quiz:[
      {q:"Which revision adds the MOST effective sensory detail to 'The forest was quiet'?", options:["The forest was quiet, which was good.","Silent but for leaves and an owl call.","The forest was quiet and nice.","The forest existed and was quiet."], answer:1},
      {q:"A writer describes a bakery scene using only sight ('the bread was golden'). What would improve the description?", options:["Only using longer words","Removing all description entirely","Adding details from smell and warmth","Repeating the same sentence"], answer:2},
@@ -849,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability", summary:"Probability describes how likely an event is to happen, using terms like impossible, unlikely, likely, and certain.",
    resourceLabel:"YouTube: Probability", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"A bag has 4 red, 3 blue, and 3 green marbles (10 total). What is the probability of picking a blue marble?", options:["7/10","4/10","3/10","3/7"], answer:2},
      {q:"A spinner has 8 equal sections: 5 yellow and 3 purple. Which best describes the probability of landing on purple?", options:["Unlikely — under half are purple","Impossible","Certain","Likely, but not certain"], answer:0},
@@ -858,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Electrical Circuits", summary:"A simple electrical circuit needs a power source, a conductor, and a closed path for electricity to flow and power things like a light bulb.",
    resourceLabel:"YouTube: Simple Electrical Circuits", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Electrical%20Circuits%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HOFp8bHTN30",
    quiz:[
      {q:"A light bulb in a circuit doesn't light up even though the battery is connected. Which problem would MOST likely explain this?", options:["The wire is made of copper","The circuit has too much electricity","The switch is closed","The circuit path is open or broken somewhere"], answer:3},
      {q:"Why is copper commonly used for electrical wiring instead of rubber?", options:["Copper is an insulator, better for safety","There's no difference between the two materials","Copper conducts; rubber insulates","Rubber conducts electricity better than copper"], answer:2},
@@ -867,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Importance of Voting and Elections", summary:"Voting in elections lets citizens choose their representatives and have a say in decisions that affect their communities and country.",
    resourceLabel:"YouTube: The Importance of Voting and Elections", resourceUrl:"https://www.youtube.com/results?search_query=The%20Importance%20of%20Voting%20and%20Elections%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2aUxNi4c2fk",
    quiz:[
      {q:"Why might low voter turnout in an election be a concern for a democracy?", options:["Elections require no voters to be valid","Low turnout has no effect on outcomes","Fewer voters always produce fairer results","Decisions may not reflect most views"], answer:3},
      {q:"Which levels of government does a Canadian citizen have the opportunity to vote for representatives in?", options:["Only local school boards","Only the Prime Minister directly","Only federal elections exist","Federal, provincial, and municipal"], answer:3},

@@ -780,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Technology and Society", summary:"Students evaluate how fluid technology has shaped society — from ancient aqueducts to modern medicine (syringes, IV drips, blood pressure monitors).",
    resourceLabel:"YouTube: Fluids: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Technology%20and%20Society%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8b0vNpX6pNA",
    quiz:[
      {q:"Ancient Roman aqueducts used ___.", options:["windmills","gravity to move water through channels","pumps and electricity","steam power"], answer:1},
      {q:"A syringe uses ___.", options:["compressed gases","pressure changes to draw or expel fluid","electrical pressure","gravity only"], answer:1},
@@ -789,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and Globalisation", summary:"Students examine how globalisation affects Canada — trade, immigration, cultural exchange, and environmental interdependence.",
    resourceLabel:"YouTube: Canada and Globalisation", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20Globalisation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JJ0nFD19eT8",
    quiz:[
      {q:"Globalisation refers to ___.", options:["only the spread of the internet","only economic trade","growing global interconnection","only political alliances"], answer:2},
      {q:"CUSMA (Canada-United States-Mexico Agreement, 2020) is ___.", options:["a cultural agreement","an immigration policy","a defence treaty","a trade deal replacing NAFTA"], answer:3},
@@ -800,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Independent Novel Study: Theme and Author's Craft", summary:"Students write an analytical essay on their novel, examining how the author uses specific craft choices to develop a central theme.",
    resourceLabel:"YouTube: Independent Novel Study: Theme and Author's Craft", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Theme%20and%20Author%27s%20Craft%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5M0zF8jlpYY",
    quiz:[
      {q:"A thematic essay about a novel should ___.", options:["summarise the plot","analyse how craft choices build a theme","list all the characters","only quote the most famous lines"], answer:1},
      {q:"Diction refers to ___.", options:["only dialogue","the author's word choice, shaping tone","sentence length only","only formal language"], answer:1},
@@ -809,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Budgeting and Tax", summary:"Students create a personal budget, understand gross vs. net income, and learn the basics of taxes (income tax, HST/GST) and why they exist.",
    resourceLabel:"YouTube: Financial Literacy: Budgeting and Tax", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Budgeting%20and%20Tax%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0iRbD5rM5qc",
    quiz:[
      {q:"Net income is ___.", options:["income after taxes and deductions","only investment income","income before deductions","total money earned before taxes"], answer:0},
      {q:"A personal budget ___.", options:["tracks income and planned expenses","replaces the need for a bank account","is only for people in debt","is unnecessary if you earn enough"], answer:0},
@@ -818,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Biodiversity and Ecosystems Review", summary:"Students consolidate understanding of cells, genetics, reproduction, and connect to ecosystem-level impacts of biodiversity loss.",
    resourceLabel:"YouTube: Biology: Biodiversity and Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Biodiversity%20and%20Ecosystems%20Review%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=beZgfPosKBA",
    quiz:[
      {q:"Genetic diversity within a species is important because ___.", options:["variation helps populations adapt","all individuals being identical is more efficient","genetic diversity has no survival value","only biodiversity between species matters"], answer:0},
      {q:"Species extinction reduces ecosystem resilience because ___.", options:["ecosystems function better with fewer species","losing species destabilises food webs","only keystone species matter","extinct species are replaced instantly"], answer:1},
@@ -827,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Environmental History and Policy", summary:"Students examine key environmental milestones — creation of national parks, environmental legislation, climate commitments, and Indigenous land stewardship.",
    resourceLabel:"YouTube: Canada's Environmental History and Policy", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20and%20Policy%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"Banff National Park (1885) was Canada's first national park, established primarily to ___.", options:["attract tourists to the hot springs","provide housing for workers","protect Indigenous territory","mine the Rocky Mountains"], answer:0},
      {q:"The Canadian Environmental Protection Act (CEPA) ___.", options:["bans all industrial activity","federal law regulating toxic substances","only applies to provinces","has no enforcement powers"], answer:1},

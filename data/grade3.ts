@@ -802,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Writing: Opinion", summary:"Students write opinion paragraphs stating a clear position, giving reasons supported by evidence or examples, and using opinion language.",
    resourceLabel:"YouTube: Writing: Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Opinion%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-J2SL7Et99k",
    quiz:[
      {q:"An opinion is ___.", options:["a proven fact","only a complaint","a personal belief, not a fact","only a question"], answer:2},
      {q:"Opinion writing should include ___.", options:["only facts with no personal stance","a clear position with reasons","only questions","random information"], answer:1},
@@ -811,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Division Facts: Linking to Multiplication", summary:"Students use their knowledge of multiplication to solve division problems (fact families).",
    resourceLabel:"YouTube: Division Facts: Linking to Multiplication", resourceUrl:"https://www.youtube.com/results?search_query=Division%20Facts%3A%20Linking%20to%20Multiplication%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fc2zif8oKt8",
    quiz:[
      {q:"If 4 × 5 = 20, then 20 ÷ 4 = ?", options:["20","10","5","4"], answer:2},
      {q:"Which multiplication fact helps solve 36 ÷ 6?", options:["7 × 6 = 42","5 × 6 = 30","6 × 6 = 36","6 × 4 = 24"], answer:2},
@@ -820,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"Students explore how water moves through the water cycle: evaporation, condensation, and precipitation. They understand how the cycle distributes fresh water.",
    resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=r-_MYNnurlQ",
    quiz:[
      {q:"The water cycle is powered mainly by ___.", options:["energy from the Sun","Earth's rotation","the Moon's gravity","wind"], answer:0},
      {q:"Evaporation is when ___.", options:["liquid water turns to vapour and rises","liquid water falls as rain","water freezes","water vapour turns into liquid droplets"], answer:0},
@@ -829,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Cultural Practices in Ontario Communities", summary:"Students explore how cultural practices — food, clothing, music, art, language — contribute to the identity of Ontario's diverse communities.",
    resourceLabel:"YouTube: Cultural Practices in Ontario Communities", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Practices%20in%20Ontario%20Communities%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=61bTEgGNN-E",
    quiz:[
      {q:"Cultural practices are ___.", options:["only for elderly people","only found in other countries","traditions and customs of a group","only government rules"], answer:2},
      {q:"How do different cultural practices enrich Ontario communities?", options:["They do not","They cause confusion","Only if everyone agrees","They make communities more vibrant"], answer:3},
@@ -840,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Reading: Inference", summary:"Students make inferences — use clues from the text plus their own knowledge to figure out what the author implies but does not state directly.",
    resourceLabel:"YouTube: Reading: Inference", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Inference%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JdaD2FZQFEY",
    quiz:[
      {q:"An inference is ___.", options:["a conclusion from clues and knowledge","something stated directly in the text","only for non-fiction","a guess with no evidence"], answer:0},
      {q:"When you infer, you use ___.", options:["only pictures","only the title","only the last paragraph","text clues plus what you already know"], answer:3},
@@ -849,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"3D Shapes: Nets", summary:"Students identify and create nets — flat shapes that can be folded to make 3D shapes — for cubes, rectangular prisms, and triangular prisms.",
    resourceLabel:"YouTube: 3D Shapes: Nets", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Nets%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=s7GrS0b3FRw",
    quiz:[
      {q:"A net of a 3D shape is ___.", options:["a shadow of the shape","a flat pattern that folds into a shape","only for squares","the weight of the shape"], answer:1},
      {q:"A cube's net has ___ squares.", options:["4","5","6","8"], answer:2},
@@ -858,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems and Food Chains", summary:"Students explore simple food chains in Ontario ecosystems: producer → primary consumer → secondary consumer, and the concept of the food web.",
    resourceLabel:"YouTube: Ecosystems and Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Food%20Chains%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0DL4AUBe3WA",
    quiz:[
      {q:"In a food chain, a producer is ___.", options:["a plant that makes its own food","a decomposer","an animal that hunts","a top predator"], answer:0},
      {q:"A primary consumer eats ___.", options:["nothing","other animals","only decomposers","plants (producers)"], answer:3},
@@ -867,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Communities Around the World", summary:"Students compare communities in different countries with Ontario communities, exploring similarities and differences in climate, culture, economy, and geography.",
    resourceLabel:"YouTube: Comparing Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20Around%20the%20World%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BdCn4ztrw6k",
    quiz:[
      {q:"Comparing communities from different countries helps us ___.", options:["feel superior","appreciate diverse ways of living","only find differences","avoid learning about others"], answer:1},
      {q:"A community in a desert region would face ___ challenges compared to one in Ontario.", options:["no challenges","easier challenges","challenges like scarce water and heat","the same"], answer:2},

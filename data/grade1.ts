@@ -822,6 +822,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Antonyms", summary:"Ontario Grade 1 Writing strand: antonyms are words that have opposite meanings, such as hot/cold, happy/sad, and big/small.",
    resourceLabel:"YouTube: Antonyms", resourceUrl:"https://www.youtube.com/results?search_query=Antonyms%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Kq78ZHokUGw",
    quiz:[
      {q:"An antonym is a word that means the ___ of another word.", options:["Similar","Bigger","Same","Opposite"], answer:3},
      {q:"What is the antonym of BIG?", options:["Large","Small","Huge","Giant"], answer:1},
@@ -831,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Time: Reading Clocks", summary:"Ontario Grade 1 Measurement strand: students tell time to the hour and half hour on both analogue and digital clocks.",
    resourceLabel:"YouTube: Time: Reading Clocks", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Reading%20Clocks%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Bvq5YqyRoKU",
    quiz:[
      {q:"On a clock, the short hand points to the ___.", options:["Minutes","Seconds","Day","Hour"], answer:3},
      {q:"What time is shown when both hands point to 12?", options:["6:00","12:00","9:00","3:00"], answer:1},
@@ -850,6 +852,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada Day and National Holidays", summary:"Ontario Grade 1 Social Studies strand B: students learn about Canada Day and other national holidays, understanding what they celebrate and why they are important.",
    resourceLabel:"YouTube: Canada Day and National Holidays", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Day%20and%20National%20Holidays%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Canada Day is celebrated on ___.", options:["July 1","November 11","July 4","October 1"], answer:0},
      {q:"What does Canada Day celebrate?", options:["Canada's birthday as a nation","Christmas","Thanksgiving","Halloween"], answer:0},
@@ -861,6 +864,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Prefixes: un- and re-", summary:"Ontario Grade 1 Reading strand: a prefix is added to the beginning of a word to change its meaning. Un- means not; re- means again.",
    resourceLabel:"YouTube: Prefixes: un- and re-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20un-%20and%20re-%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jX5VVlU2hVQ",
    quiz:[
      {q:"What does the prefix UN- mean?", options:["Not","Before","After","Again"], answer:0},
      {q:"What does UNKIND mean?", options:["Extremely kind","Not kind","Very kind","Kind again"], answer:1},
@@ -870,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Patterns", summary:"Ontario Grade 1 Algebra and Patterning strand: students identify, describe, and extend number patterns involving addition or subtraction.",
    resourceLabel:"YouTube: Number Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Patterns%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Tu4NRKtHxuM",
    quiz:[
      {q:"What comes next? 2, 4, 6, 8, ___", options:["9","10","11","12"], answer:1},
      {q:"What is the rule? 10, 20, 30, 40...", options:["Add 15","Add 5","Add 2","Add 10"], answer:3},
@@ -879,6 +884,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks and Their Properties", summary:"Ontario Grade 1 Earth and Space Systems strand: rocks can be described by colour, texture, hardness, and size. Different rocks have different properties and uses.",
    resourceLabel:"YouTube: Rocks and Their Properties", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Their%20Properties%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ty2Za-O9h6w",
    quiz:[
      {q:"Rocks can be described by ___.", options:["Their names only","Their feelings","Their families","Their colour, texture, and hardness"], answer:3},
      {q:"Which rock is used to make jewellery?", options:["Granite","Limestone","Sandstone","Diamond (a mineral)"], answer:3},
@@ -888,6 +894,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Maps of Canada", summary:"Ontario Grade 1 Social Studies strand B: students read simple maps of Canada, identifying provinces, territories, capital cities, and geographic regions.",
    resourceLabel:"YouTube: Maps of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Maps%20of%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"How many provinces does Canada have?", options:["10","8","12","9"], answer:0},
      {q:"How many territories does Canada have?", options:["2","3","1","4"], answer:1},

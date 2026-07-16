@@ -802,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Grammar: Complex Sentences and Clauses", summary:"Students identify and write complex sentences using independent and dependent clauses. They use subordinating conjunctions (because, although, when, if, while, unless).",
    resourceLabel:"YouTube: Grammar: Complex Sentences and Clauses", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Complex%20Sentences%20and%20Clauses%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=smgyeUomfyA",
    quiz:[
      {q:"An independent clause can ___.", options:["only be one word","never be part of a complex sentence","not stand on its own","stand alone as a complete sentence"], answer:3},
      {q:"A dependent clause ___.", options:["cannot stand alone","is always a complete thought","is never combined with other clauses","can stand alone"], answer:0},
@@ -811,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Students write and evaluate algebraic expressions. They use variables to represent unknown quantities and substitute values to find results.",
    resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-G9RkvRxp30",
    quiz:[
      {q:"A variable in algebra is ___.", options:["only used in equations","a symbol for an unknown quantity","always equal to 0","always the letter x"], answer:1},
      {q:"Evaluate 3n + 5 when n = 4.", options:["22","17","12","16"], answer:1},
@@ -820,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Climate and Climate Change", summary:"Students examine the difference between weather and climate, greenhouse gases, global warming, and human impacts on Earth's climate system.",
    resourceLabel:"YouTube: Climate and Climate Change", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20and%20Climate%20Change%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Y1mPWVzaGQY",
    quiz:[
      {q:"Climate is ___.", options:["average weather patterns over decades","only temperature and precipitation","only summer and winter temperatures","today's temperature"], answer:0},
      {q:"The greenhouse effect is ___.", options:["always harmful","only caused by humans","a type of pollution only","gases trapping heat to warm Earth"], answer:3},
@@ -829,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Renaissance", summary:"Students explore the Renaissance as a period of renewed interest in classical learning, humanism, art, science, and exploration (14th–17th century).",
    resourceLabel:"YouTube: The Renaissance", resourceUrl:"https://www.youtube.com/results?search_query=The%20Renaissance%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GOjBbkGiwq0",
    quiz:[
      {q:"Renaissance means ___.", options:["new beginning","rebirth of Greek and Roman ideas","darkness","revolution"], answer:1},
      {q:"Humanism during the Renaissance emphasised ___.", options:["human potential and dignity","only religious devotion","only farming improvements","only military conquest"], answer:0},
@@ -840,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Poetry: Form, Tone, and Theme", summary:"Students analyse the form (structure, rhyme scheme, stanza patterns), tone (author's attitude), and theme (central message) of a variety of poems.",
    resourceLabel:"YouTube: Poetry: Form, Tone, and Theme", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%3A%20Form%2C%20Tone%2C%20and%20Theme%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-m2C1vHpaHc",
    quiz:[
      {q:"A poem's tone is ___.", options:["the subject of the poem","the author's attitude toward the topic","the poem's rhyme scheme","the central message or lesson"], answer:1},
      {q:"A poem's theme is ___.", options:["only a stated lesson in the last line","the poem's central insight about life","the rhyming pattern","the number of stanzas"], answer:1},
@@ -849,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Equations: Solving One-Step", summary:"Students solve one-step equations involving addition, subtraction, multiplication, and division. They use inverse operations to isolate the variable.",
    resourceLabel:"YouTube: Equations: Solving One-Step", resourceUrl:"https://www.youtube.com/results?search_query=Equations%3A%20Solving%20One-Step%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=L0_K89UJfJY",
    quiz:[
      {q:"To solve x + 7 = 15, you ___.", options:["divide both sides by 7","multiply both sides by 7","add 7 to both sides","subtract 7 from both sides"], answer:3},
      {q:"Solve: x − 4 = 9", options:["x = 5","x = 4","x = 13","x = 36"], answer:2},
@@ -858,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Optics: Light and Mirrors", summary:"Students explore how light behaves with mirrors. They learn the law of reflection (angle of incidence = angle of reflection) and how concave/convex mirrors form images.",
    resourceLabel:"YouTube: Optics: Light and Mirrors", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Light%20and%20Mirrors%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jtTBOMVMSYM",
    quiz:[
      {q:"The law of reflection states that ___.", options:["light speeds up after reflecting","light is absorbed by mirrors","mirrors bend light","incidence angle equals reflection angle"], answer:3},
      {q:"The angle of incidence is measured from ___.", options:["the normal line to the mirror","the surface of the mirror","the light source","the edge of the mirror"], answer:0},
@@ -867,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Age of Exploration", summary:"Students study 15th–17th century European exploration, key explorers (Columbus, Cabot, Champlain), the impact on Indigenous peoples, and the Columbian Exchange.",
    resourceLabel:"YouTube: The Age of Exploration", resourceUrl:"https://www.youtube.com/results?search_query=The%20Age%20of%20Exploration%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sGeXtUZQScc",
    quiz:[
      {q:"The main motivations for European exploration were ___.", options:["Gold, God, and Glory","only scientific discovery","only curiosity","only escaping disease"], answer:0},
      {q:"Christopher Columbus's 1492 voyage ___.", options:["discovered Australia","proved the Earth was flat","established contact between Europe and the Americas, beginning sustained transatlantic interaction","reached Asia as planned"], answer:0},

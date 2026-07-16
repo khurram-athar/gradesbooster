@@ -760,6 +760,7 @@ const curriculum: DayContent[] = [
 {day:19, label:"Day 19 — Thu", subjects:[
   {subject:"English", title:"Satire: Social Critique Through Comedy", summary:"Students analyse satire as a literary mode — examining targets, techniques (irony, parody, exaggeration), and the ethics and limits of satirical writing.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=d1bE7LfNqlU",
+   videoUrl:"https://www.youtube.com/watch?v=udA1MVU59LQ",
    quiz:[
      {q:"Satire differs from simple comedy in that ___.", options:["satire is never funny","satire is always gentler than direct critique","satire uses humour to expose folly","satire has no political dimension"], answer:2},
      {q:"Horatian satire (after Horace) is characterised by ___.", options:["bitter, savage attack","no use of irony","no political targets","gentle, urbane wit"], answer:3},
@@ -769,6 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Equations of Lines and Planes: Intersections and Distances", summary:"Students find intersections of lines and planes in 3D and calculate distances from points to lines and planes.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=5AWob_z74Ks",
+   videoUrl:"https://www.youtube.com/watch?v=j3LsSVlJ8co",
    quiz:[
      {q:"To find where a line intersects a plane, substitute the ___ into the plane equation.", options:["normal vector of the plane","coordinates of any point on the plane","direction vector of the line","parametric equations, solve for t"], answer:3},
      {q:"The distance from point P=(x₁,y₁,z₁) to plane Ax+By+Cz=D is ___.", options:["|Ax₁+By₁+Cz₁|","√(A²+B²+C²)","|AP₁|","|Ax₁+By₁+Cz₁−D|/√(A²+B²+C²)"], answer:3},
@@ -778,6 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Mean Value Theorem and Monotonicity", summary:"Students state and apply the Mean Value Theorem, Rolle's Theorem, and use them to analyse function behaviour.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=mAul5vTAJSA",
+   videoUrl:"https://www.youtube.com/watch?v=SL2RobwU_M4",
    quiz:[
      {q:"Rolle's Theorem states: if f is continuous on [a,b], differentiable on (a,b), and f(a)=f(b), then ___.", options:["there exists c in (a,b) such that f'(c) = 1","f is constant on [a,b]","f has no local extrema","there exists c in (a,b) such that f'(c) = 0"], answer:3},
      {q:"The Mean Value Theorem states: if f is continuous on [a,b] and differentiable on (a,b), then ___.", options:["f'(c) = [f(b)−f(a)]/(b−a) for some c","f(a) = f(b) always","f achieves its maximum at a or b","f'(x) = 0 for some x"], answer:0},
@@ -787,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Wave Superposition and Interference", summary:"Students analyse the superposition of waves — constructive and destructive interference, standing waves, and resonance in strings and air columns.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=7cDAYFTXq3E",
+   videoUrl:"https://www.youtube.com/watch?v=JUCLoczzwPo",
    quiz:[
      {q:"The principle of superposition states ___.", options:["only two waves can interfere","louder waves always dominate","waves cannot occupy the same space","overlapping waves sum displacements"], answer:3},
      {q:"Constructive interference occurs when ___.", options:["waves have different frequencies","waves are perpendicular","the path difference is a half-integer multiple of λ","waves arrive in phase (path difference = nλ for integer n)"], answer:3},
@@ -798,6 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"The Research Essay: Argument and Evidence at University Level", summary:"Students write and revise a fully documented research essay integrating primary texts, secondary criticism, and their own analysis.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=vtIzMaLkCaM",
+   videoUrl:"https://www.youtube.com/watch?v=UvsH5y91Eoo",
    quiz:[
      {q:"A literary research essay differs from a personal response in that ___.", options:["it is longer only","personal response is always better","it joins the critical conversation","it does not use primary texts"], answer:2},
      {q:"Selecting secondary sources for a literary research essay requires ___.", options:["only using Wikipedia and study guides","only the most recent criticism","peer-reviewed scholarly articles and books","any online source about the author"], answer:2},
@@ -807,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Geometric Vectors: Applications to Physics and Engineering", summary:"Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=ozwodzD5bte",
+   videoUrl:"https://www.youtube.com/watch?v=1mNd2wLC_0c",
    quiz:[
      {q:"Resolving a force into components in 3D uses ___.", options:["trigonometry only","F = Fₓi + F_yj + F_zk","only the magnitude of the force","the dot product alone"], answer:1},
      {q:"For three forces to be in equilibrium, their vector sum must be ___.", options:["zero: F₁ + F₂ + F₃ = 0","equal to the largest force","non-zero","pointing downward"], answer:0},
@@ -816,6 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Integration by Substitution", summary:"Students apply the substitution rule (u-substitution) to evaluate indefinite and definite integrals of composite functions.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=-9M9P7xNDH4",
+   videoUrl:"https://www.youtube.com/watch?v=sdYdnpYn-1o",
    quiz:[
      {q:"The substitution rule reverses ___.", options:["the quotient rule","the chain rule","the power rule","the product rule"], answer:1},
      {q:"∫2x(x²+1)⁵ dx: let u = x²+1, du = 2x dx. The integral becomes ___.", options:["∫u⁵ 2x dx","∫2xu⁵ du","∫(x²+1)⁵ du","∫u⁵ du = u⁶/6 + C = (x²+1)⁶/6 + C"], answer:3},
@@ -825,6 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Optics: Reflection and Refraction", summary:"Students apply the law of reflection and Snell's Law to mirrors, lenses, and fibre optics; analyse total internal reflection.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=_dBmNF_XBTU",
+   videoUrl:"https://www.youtube.com/watch?v=HOk4Zt2vZrA",
    quiz:[
      {q:"The law of reflection states ___.", options:["the angle of incidence and refraction are equal","light always reflects at 45°","reflected rays are always horizontal","incidence angle equals reflection angle"], answer:3},
      {q:"Snell's Law of refraction is ___.", options:["n₁sinθ₁ = n₂sinθ₂","n₁θ₁ = n₂θ₂","n₁cosθ₁ = n₂cosθ₂","n₁/sinθ₁ = n₂/sinθ₂"], answer:0},
