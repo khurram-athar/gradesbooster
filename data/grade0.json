@@ -14108,5 +14108,3309 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Adjectives: Describing Words",
+        "summary": "Students learn that an adjective is a word that describes a noun, such as big, small, soft, or shiny, and practise picking adjectives to describe objects.",
+        "resourceLabel": "YouTube: Adjectives: Describing Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adjectives%3A%20Describing%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is an adjective?",
+            "options": [
+              "A word that describes a noun",
+              "A word that names a place",
+              "A word that shows action",
+              "A number word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is an adjective in the phrase a big red apple?",
+            "options": [
+              "Big",
+              "The",
+              "A",
+              "Apple"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word could describe a kitten?",
+            "options": [
+              "Jump",
+              "Fluffy",
+              "Run",
+              "Sing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence The tall tree swayed, which word is the adjective?",
+            "options": [
+              "Tall",
+              "Tree",
+              "Swayed",
+              "The"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Adjectives help us ___.",
+            "options": [
+              "Count objects",
+              "Describe how things look or feel",
+              "Name places only",
+              "Show action only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one describing word for a ball, like big or small.",
+            "answers": [
+              "big",
+              "small",
+              "round",
+              "red"
+            ]
+          },
+          {
+            "prompt": "Is the word soft an adjective or a verb?",
+            "answers": [
+              "adjective"
+            ]
+          },
+          {
+            "prompt": "In the phrase a fluffy dog, which word describes the dog?",
+            "answers": [
+              "fluffy"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Groups: Which Has More",
+        "summary": "Students compare two small groups of objects by counting each group and deciding which group has more, fewer, or the same amount.",
+        "resourceLabel": "YouTube: Comparing Groups: Which Has More",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Groups%3A%20Which%20Has%20More%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "A group has 6 balls and another has 3 balls. Which group has more?",
+            "options": [
+              "Cannot tell",
+              "They are equal",
+              "The group with 3",
+              "The group with 6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A group has 2 fish and another has 8 fish. Which group has fewer?",
+            "options": [
+              "The group with 8",
+              "They are equal",
+              "Cannot tell",
+              "The group with 2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one group has 5 cars and another group also has 5 cars, the groups are ___.",
+            "options": [
+              "Unequal",
+              "Equal",
+              "Smaller",
+              "Bigger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To compare two groups, what should you do first?",
+            "options": [
+              "Count each group",
+              "Guess",
+              "Close your eyes",
+              "Draw a picture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A group has 9 blocks and another has 4 blocks. Which group has more?",
+            "options": [
+              "They are equal",
+              "The group with 9",
+              "The group with 4",
+              "Cannot tell"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "A group has 4 apples and another has 2 apples. Which group has more?",
+            "answers": [
+              "4 apples",
+              "the group with 4",
+              "first group"
+            ]
+          },
+          {
+            "prompt": "If two groups both have 3 blocks, do they have the same amount or a different amount?",
+            "answers": [
+              "same"
+            ]
+          },
+          {
+            "prompt": "A group has 5 stars and another has 7 stars. Which group has fewer?",
+            "answers": [
+              "5 stars",
+              "the group with 5",
+              "first group"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Five Fingers and Toes: Counting Body Parts",
+        "summary": "Students count and name parts of their body, such as fingers, toes, ears, and eyes, and learn that most people have matching pairs of many body parts.",
+        "resourceLabel": "YouTube: Our Five Fingers and Toes: Counting Body Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Five%20Fingers%20and%20Toes%3A%20Counting%20Body%20Parts%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many fingers are on one hand?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many ears does a person usually have?",
+            "options": [
+              "4",
+              "3",
+              "1",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many toes are on one foot?",
+            "options": [
+              "10",
+              "6",
+              "5",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body part do we use to smell?",
+            "options": [
+              "Knee",
+              "Elbow",
+              "Nose",
+              "Ears"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Most people have body parts that come in matching ___.",
+            "options": [
+              "Squares",
+              "Pairs",
+              "Circles",
+              "Triangles"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many fingers do most people have on one hand?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "How many eyes do most people have?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "How many toes do most people have on one foot?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "My Body Belongs to Me: Personal Safety",
+        "summary": "Students learn that their body belongs to them, that they can say no to touches that feel wrong, and that they should tell a trusted adult if something feels unsafe.",
+        "resourceLabel": "YouTube: My Body Belongs to Me: Personal Safety",
+        "resourceUrl": "https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Whose body belongs to you?",
+            "options": [
+              "A stranger",
+              "Your own",
+              "Your friend",
+              "No one"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a touch feels wrong, what can you say?",
+            "options": [
+              "Maybe",
+              "No",
+              "Yes",
+              "Nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If something feels unsafe, what should you do?",
+            "options": [
+              "Keep it a secret",
+              "Ignore it",
+              "Run far away alone",
+              "Tell a trusted adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who could be a trusted adult you tell about an unsafe feeling?",
+            "options": [
+              "A parent or teacher",
+              "A cartoon character",
+              "No one at all",
+              "A stranger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "It is okay to say no to a touch that ___.",
+            "options": [
+              "Feels wrong or unsafe",
+              "Is a handshake",
+              "Is a hug from a parent",
+              "Is a high five"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Whose body is your body?",
+            "answers": [
+              "mine",
+              "my own",
+              "yours"
+            ]
+          },
+          {
+            "prompt": "If a touch feels wrong, what word can you say to stop it?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "If something feels unsafe, who should you tell?",
+            "answers": [
+              "a trusted adult",
+              "trusted adult",
+              "parent",
+              "teacher"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Alphabetical Order: A Comes Before B",
+        "summary": "Students practise putting a small group of letters in alphabetical order, learning that the alphabet always follows the same fixed sequence from A to Z.",
+        "resourceLabel": "YouTube: Alphabetical Order: A Comes Before B",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Alphabetical%20Order%3A%20A%20Comes%20Before%20B%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which letter comes first in the alphabet?",
+            "options": [
+              "B",
+              "A",
+              "D",
+              "C"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which letter comes right after D in the alphabet?",
+            "options": [
+              "E",
+              "F",
+              "C",
+              "B"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Put these letters in order: B, A, C. What comes first?",
+            "options": [
+              "C",
+              "None",
+              "A",
+              "B"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Alphabetical order means letters are arranged ___.",
+            "options": [
+              "Randomly",
+              "By size",
+              "In their fixed A to Z sequence",
+              "By colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which letter comes last of these three: M, A, G?",
+            "options": [
+              "G",
+              "None",
+              "A",
+              "M"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which letter comes first in the alphabet, A or B?",
+            "answers": [
+              "a",
+              "A"
+            ]
+          },
+          {
+            "prompt": "Which letter comes right after C in the alphabet?",
+            "answers": [
+              "d",
+              "D"
+            ]
+          },
+          {
+            "prompt": "Put these letters in order: C, A, B. What is the first letter in alphabetical order?",
+            "answers": [
+              "a",
+              "A"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Even and Odd: Sharing into Two Groups",
+        "summary": "Students explore even and odd numbers by trying to split a small group of objects into two equal groups, learning that even numbers split evenly and odd numbers leave one extra.",
+        "resourceLabel": "YouTube: Even and Odd: Sharing into Two Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Even%20and%20Odd%3A%20Sharing%20into%20Two%20Groups%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you split 6 counters into two equal groups, does one get left over?",
+            "options": [
+              "No",
+              "Cannot tell",
+              "Only sometimes",
+              "Yes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you split 7 counters into two equal groups, does one get left over?",
+            "options": [
+              "Only sometimes",
+              "Cannot tell",
+              "Yes",
+              "No"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the number 4 even or odd?",
+            "options": [
+              "Odd",
+              "Both",
+              "Neither",
+              "Even"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the number 3 even or odd?",
+            "options": [
+              "Neither",
+              "Both",
+              "Odd",
+              "Even"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An even number can always be split into two groups that are ___.",
+            "options": [
+              "Triangular",
+              "Unequal",
+              "Equal",
+              "Empty"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you split 4 blocks into two equal groups, does each group get the same amount?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If you split 5 blocks into two equal groups, is there one block left over?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is the number 2 an even number or an odd number?",
+            "answers": [
+              "even"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Where Food Comes From: Farm to Table",
+        "summary": "Students learn that much of our food comes from plants and animals on farms, and trace the simple journey of foods such as milk, apples, and bread to our table.",
+        "resourceLabel": "YouTube: Where Food Comes From: Farm to Table",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Food%20Comes%20From%3A%20Farm%20to%20Table%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Where does milk come from?",
+            "options": [
+              "A tree",
+              "A cow",
+              "The ground",
+              "A river"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do apples grow?",
+            "options": [
+              "On a tree",
+              "On a bush",
+              "In water",
+              "Underground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What crop is often used to make bread?",
+            "options": [
+              "Grass",
+              "Sand",
+              "Wheat",
+              "Cotton"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these foods comes from a plant?",
+            "options": [
+              "Cheese",
+              "Egg",
+              "Carrot",
+              "Milk"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it helpful to know where food comes from?",
+            "options": [
+              "Food does not come from anywhere",
+              "It is not helpful",
+              "It helps us understand and appreciate our food",
+              "Only farmers need to know"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where does milk come from?",
+            "answers": [
+              "cow",
+              "a cow"
+            ]
+          },
+          {
+            "prompt": "Where do apples grow?",
+            "answers": [
+              "tree",
+              "apple tree"
+            ]
+          },
+          {
+            "prompt": "What crop is often ground up to make bread?",
+            "answers": [
+              "wheat"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Waiting and Patience: Taking Our Turn in Line",
+        "summary": "Students learn why waiting patiently and standing in line is important for fairness, such as waiting for the slide, the washroom, or a turn to speak.",
+        "resourceLabel": "YouTube: Waiting and Patience: Taking Our Turn in Line",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Waiting%20and%20Patience%3A%20Taking%20Our%20Turn%20in%20Line%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to be patient?",
+            "options": [
+              "Pushing others",
+              "Running away",
+              "Yelling loudly",
+              "Staying calm while waiting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do people form a line at a water fountain?",
+            "options": [
+              "So everyone gets a fair turn",
+              "Lines are not needed",
+              "To confuse people",
+              "To slow everyone down forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is it fair to push ahead of others in a line?",
+            "options": [
+              "No",
+              "Sometimes",
+              "Yes",
+              "Only on Fridays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Waiting patiently in line shows that you are being ___.",
+            "options": [
+              "Rude",
+              "Selfish",
+              "Careless",
+              "Fair and respectful"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you really want a turn but must wait, what is a good choice?",
+            "options": [
+              "Cut in line",
+              "Push someone",
+              "Wait calmly for your turn",
+              "Cry loudly"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word means staying calm while you wait for your turn?",
+            "answers": [
+              "patience",
+              "patient"
+            ]
+          },
+          {
+            "prompt": "Why do we form a line at the slide or the water fountain?",
+            "answers": [
+              "to be fair",
+              "so everyone gets a turn"
+            ]
+          },
+          {
+            "prompt": "Is it fair to skip ahead of others in a line?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Print Concepts: Reading Left to Right",
+        "summary": "Students learn basic print concepts, such as reading a page from left to right and top to bottom, and that words are separated by spaces.",
+        "resourceLabel": "YouTube: Print Concepts: Reading Left to Right",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Reading%20Left%20to%20Right%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "When reading English, which way do our eyes move across the page?",
+            "options": [
+              "Left to right",
+              "Bottom to top",
+              "In circles",
+              "Right to left"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of the page do we usually read first?",
+            "options": [
+              "The middle",
+              "The very last line",
+              "The top",
+              "The bottom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What separates one word from the next word on a page?",
+            "options": [
+              "A colour",
+              "Nothing",
+              "A space",
+              "A number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When we finish reading one line, where do our eyes go next?",
+            "options": [
+              "Back to the very top",
+              "Off the page",
+              "Down to the start of the next line",
+              "To a different book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing how print works helps us ___.",
+            "options": [
+              "Read smoothly",
+              "Draw pictures",
+              "Count numbers",
+              "Sing songs"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "When reading English, do our eyes move left to right or right to left?",
+            "answers": [
+              "left to right"
+            ]
+          },
+          {
+            "prompt": "Do we read the top of the page first or the bottom of the page first?",
+            "answers": [
+              "top"
+            ]
+          },
+          {
+            "prompt": "What separates one word from another word on a page?",
+            "answers": [
+              "space",
+              "a space"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Positional Numbers: Counting Objects in a Row",
+        "summary": "Students count a row of objects and identify how many objects there are in total, as well as which object is in a certain counted position, reinforcing one-to-one counting.",
+        "resourceLabel": "YouTube: Positional Numbers: Counting Objects in a Row",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Positional%20Numbers%3A%20Counting%20Objects%20in%20a%20Row%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If there are 7 birds in a row, how many birds are there in total?",
+            "options": [
+              "7",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Count the row: star, star, star, star. How many stars are there?",
+            "options": [
+              "6",
+              "3",
+              "4",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you count 9 blocks one by one, what is the last number you say?",
+            "options": [
+              "8",
+              "9",
+              "7",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When counting objects, each object should be counted ___.",
+            "options": [
+              "Randomly",
+              "Zero times",
+              "Only one time",
+              "Twice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If there are 5 cars in a row, how many cars are there in total?",
+            "options": [
+              "6",
+              "7",
+              "4",
+              "5"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If there are 6 ducks in a row, how many ducks are there in total?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Count the row: apple, apple, apple. How many apples are there?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If you count 8 blocks one by one, what is the last number you say?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Hot and Cold: Temperature All Around Us",
+        "summary": "Students explore hot and cold temperatures in everyday life, sorting items and places such as ice, soup, snow, and sunshine into hot or cold categories.",
+        "resourceLabel": "YouTube: Hot and Cold: Temperature All Around Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hot%20and%20Cold%3A%20Temperature%20All%20Around%20Us%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Is ice hot or cold?",
+            "options": [
+              "Both",
+              "Cold",
+              "Neither",
+              "Hot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is a bowl of hot soup hot or cold?",
+            "options": [
+              "Neither",
+              "Hot",
+              "Cold",
+              "Both"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is usually cold?",
+            "options": [
+              "Snow",
+              "Hot soup",
+              "The summer sun",
+              "A campfire"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is usually hot?",
+            "options": [
+              "Ice cubes",
+              "Snow",
+              "A cold drink",
+              "A campfire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to know if something is hot or cold?",
+            "options": [
+              "It is not useful",
+              "Temperature does not matter",
+              "Only chefs need to know",
+              "To help us stay safe and comfortable"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is ice hot or cold?",
+            "answers": [
+              "cold"
+            ]
+          },
+          {
+            "prompt": "Is hot soup hot or cold?",
+            "answers": [
+              "hot"
+            ]
+          },
+          {
+            "prompt": "Is snow hot or cold?",
+            "answers": [
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Senior Neighbours: Respecting Older People",
+        "summary": "Students learn about older people in the community, such as grandparents and senior neighbours, and discuss ways to show them respect and kindness.",
+        "resourceLabel": "YouTube: Our Senior Neighbours: Respecting Older People",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senior%20Neighbours%3A%20Respecting%20Older%20People%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of an older family member?",
+            "options": [
+              "A puppy",
+              "A toddler",
+              "A baby",
+              "A grandparent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a kind way to treat an older neighbour?",
+            "options": [
+              "Be rude to them",
+              "Ignore them",
+              "Run away from them",
+              "Help them and speak politely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might older people have interesting stories to share?",
+            "options": [
+              "Only children have stories",
+              "Stories are not important",
+              "Older people know nothing",
+              "They have lived through many experiences over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Showing respect to older people means ___.",
+            "options": [
+              "Ignoring them completely",
+              "Being kind and listening to them",
+              "Being loud around them",
+              "Avoiding them always"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a polite way to greet an older neighbour?",
+            "options": [
+              "Pointing rudely",
+              "Walking away silently",
+              "Yelling",
+              "Saying hello and smiling"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one older family member you might have, like a grandparent.",
+            "answers": [
+              "grandparent",
+              "grandma",
+              "grandpa"
+            ]
+          },
+          {
+            "prompt": "What is one kind way to treat an older neighbour, like helping carry something?",
+            "answers": [
+              "helping",
+              "being kind",
+              "being polite"
+            ]
+          },
+          {
+            "prompt": "Should we be respectful and kind to older people in our community?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Onset and Rime: Word Families",
+        "summary": "Students explore word families by changing the first sound, or onset, of a word while keeping the ending, or rime, the same, such as changing cat to hat to mat.",
+        "resourceLabel": "YouTube: Onset and Rime: Word Families",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Onset%20and%20Rime%3A%20Word%20Families%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Change the first sound of cat to b. What new word do you make?",
+            "options": [
+              "Bad",
+              "Bat",
+              "Ban",
+              "Cab"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Cat, hat, and mat all end in the same sound. This is called a ___.",
+            "options": [
+              "Colour",
+              "Number",
+              "Rime",
+              "Prefix"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Change the first sound of dog to l. What new word do you make?",
+            "options": [
+              "Log",
+              "Dot",
+              "Lot",
+              "Dig"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs to the same word family as sun and fun?",
+            "options": [
+              "Sit",
+              "Cat",
+              "Top",
+              "Run"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Word families help us learn to read by ___.",
+            "options": [
+              "Counting numbers",
+              "Recognizing patterns in word endings",
+              "Ignoring letters",
+              "Memorizing colours"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the first sound of cat to h. What new word do you make?",
+            "answers": [
+              "hat"
+            ]
+          },
+          {
+            "prompt": "Change the first sound of hat to m. What new word do you make?",
+            "answers": [
+              "mat"
+            ]
+          },
+          {
+            "prompt": "Cat, hat, and mat all belong to which word family?",
+            "answers": [
+              "at family",
+              "-at",
+              "at"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Long and Short: Comparing Lengths of Three",
+        "summary": "Students compare three objects by length, placing them in order from shortest to longest, using words such as short, shorter, and shortest.",
+        "resourceLabel": "YouTube: Long and Short: Comparing Lengths of Three",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Long%20and%20Short%3A%20Comparing%20Lengths%20of%20Three%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Between a paperclip and a ruler, which is usually longer?",
+            "options": [
+              "Cannot tell",
+              "They are the same",
+              "Ruler",
+              "Paperclip"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you order a short pencil, a medium crayon, and a long ruler from shortest to longest, what comes first?",
+            "options": [
+              "None",
+              "Pencil",
+              "Crayon",
+              "Ruler"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word describes the object with the least length among three objects?",
+            "options": [
+              "Shortest",
+              "Longest",
+              "Tallest",
+              "Widest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word describes the object with the most length among three objects?",
+            "options": [
+              "Narrowest",
+              "Smallest",
+              "Longest",
+              "Shortest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To compare the length of three objects, you should line them up ___.",
+            "options": [
+              "Randomly scattered",
+              "At one end and compare",
+              "Underwater",
+              "In a pile"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Between a pencil and a crayon, which is usually longer?",
+            "answers": [
+              "pencil"
+            ]
+          },
+          {
+            "prompt": "If you have a short pencil, a longer crayon, and a long ruler, which one is the shortest?",
+            "answers": [
+              "pencil",
+              "short pencil"
+            ]
+          },
+          {
+            "prompt": "If you have a short pencil, a longer crayon, and a long ruler, which one is the longest?",
+            "answers": [
+              "ruler",
+              "long ruler"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Taking Care of Our Skin: Sun Safety",
+        "summary": "Students learn simple ways to protect their skin from the sun, such as wearing sunscreen, a hat, and sunglasses, and seeking shade on hot sunny days.",
+        "resourceLabel": "YouTube: Taking Care of Our Skin: Sun Safety",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Skin%3A%20Sun%20Safety%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What can protect your skin from the sun?",
+            "options": [
+              "Sunscreen",
+              "Paint",
+              "Mud",
+              "Ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can you wear on your head to block the sun?",
+            "options": [
+              "A scarf only",
+              "Boots",
+              "A hat",
+              "Mittens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is a cool, protected place to go on a very sunny day?",
+            "options": [
+              "The shade",
+              "A hot car",
+              "Direct sunlight",
+              "Nowhere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to protect our skin from too much sun?",
+            "options": [
+              "It is not important",
+              "Only adults need protection",
+              "Sun never affects skin",
+              "To help keep our skin healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these items helps protect your eyes from the sun?",
+            "options": [
+              "Sunglasses",
+              "Mittens",
+              "Boots",
+              "A scarf"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What can you put on your skin to protect it from the sun?",
+            "answers": [
+              "sunscreen"
+            ]
+          },
+          {
+            "prompt": "What can you wear on your head to block the sun?",
+            "answers": [
+              "hat"
+            ]
+          },
+          {
+            "prompt": "Where can you go on a very sunny day to stay cool and protected?",
+            "answers": [
+              "shade",
+              "the shade"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Public Places: Behaving in the Library",
+        "summary": "Students learn about behaviour expectations in shared public places such as a library, including using quiet voices and taking care of shared books.",
+        "resourceLabel": "YouTube: Public Places: Behaving in the Library",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Places%3A%20Behaving%20in%20the%20Library%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What kind of voice should you use in the library?",
+            "options": [
+              "Loud voice",
+              "Shouting voice",
+              "Quiet voice",
+              "No voice needed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should we take good care of library books?",
+            "options": [
+              "Books do not matter",
+              "Library books are not shared",
+              "Only new books need care",
+              "So other people can enjoy them too"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The library is an example of a ___.",
+            "options": [
+              "Private house",
+              "Shared public place",
+              "Farm",
+              "Forest"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which behaviour shows respect in a shared public place?",
+            "options": [
+              "Being quiet and careful",
+              "Ignoring the rules",
+              "Being loud and messy",
+              "Running around"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do public places like libraries have rules?",
+            "options": [
+              "Rules are not needed",
+              "So everyone can enjoy the space fairly",
+              "To make visiting harder",
+              "Only adults must follow rules"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Should you use a loud voice or a quiet voice in the library?",
+            "answers": [
+              "quiet voice",
+              "quiet"
+            ]
+          },
+          {
+            "prompt": "What should we do carefully with library books so others can enjoy them too?",
+            "answers": [
+              "take care of them",
+              "be gentle with them"
+            ]
+          },
+          {
+            "prompt": "Is the library a place we share with other people?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Characters: Who Is in the Story",
+        "summary": "Students learn that characters are the people or animals a story is about, and practise naming the characters in a story they have read or heard.",
+        "resourceLabel": "YouTube: Story Characters: Who Is in the Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Characters%3A%20Who%20Is%20in%20the%20Story%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a character in a story?",
+            "options": [
+              "The last page",
+              "A place in the story",
+              "The title of the book",
+              "A person or animal the story is about"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story about a bear and a bird, which of these is a character?",
+            "options": [
+              "The title",
+              "The cover",
+              "The forest",
+              "The bear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a story have more than one character?",
+            "options": [
+              "Yes, many characters",
+              "Stories have no characters",
+              "Only animals can be characters",
+              "No, only one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be a story character?",
+            "options": [
+              "A book cover",
+              "A talking fox",
+              "A page number",
+              "A title"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing the characters in a story helps us ___.",
+            "options": [
+              "Ignore the plot",
+              "Skip reading",
+              "Understand who the story is about",
+              "Count pages"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the people or animals a story is about?",
+            "answers": [
+              "characters",
+              "character"
+            ]
+          },
+          {
+            "prompt": "In a story about a rabbit and a fox, name one character.",
+            "answers": [
+              "rabbit",
+              "fox"
+            ]
+          },
+          {
+            "prompt": "Can an animal be a character in a story?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Counting On: Starting from a Number",
+        "summary": "Students practise counting on from a given number instead of always starting at one, such as starting at 5 and counting 6, 7, 8.",
+        "resourceLabel": "YouTube: Counting On: Starting from a Number",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20On%3A%20Starting%20from%20a%20Number%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you start counting on from 6, what number comes next?",
+            "options": [
+              "5",
+              "6",
+              "8",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you start counting on from 9, what are the next two numbers?",
+            "options": [
+              "10, 11",
+              "11, 12",
+              "8, 9",
+              "7, 8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Counting on means you ___.",
+            "options": [
+              "Count backward only",
+              "Start from a given number and keep going",
+              "Always start over at one",
+              "Skip every number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you start counting on from 13, what number comes next?",
+            "options": [
+              "15",
+              "14",
+              "13",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting on is a useful skill because it helps us ___.",
+            "options": [
+              "Avoid math",
+              "Add numbers more quickly",
+              "Slow down counting",
+              "Forget numbers"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Start counting at 4. What number comes next?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "Start counting at 7. Say the next two numbers.",
+            "answers": [
+              "8, 9",
+              "8 9",
+              "eight, nine"
+            ]
+          },
+          {
+            "prompt": "If you start counting on from 10, what is the next number?",
+            "answers": [
+              "11",
+              "eleven"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Trees Through the Seasons",
+        "summary": "Students observe how many trees change throughout the year, growing leaves in spring, staying green in summer, changing colour and dropping leaves in autumn, and standing bare in winter.",
+        "resourceLabel": "YouTube: Trees Through the Seasons",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trees%20Through%20the%20Seasons%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "In which season do many trees grow new leaves?",
+            "options": [
+              "Spring",
+              "Winter",
+              "Never",
+              "Autumn"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which season do many tree leaves change colour and fall?",
+            "options": [
+              "Summer",
+              "Autumn",
+              "Spring",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which season are many trees bare, without leaves?",
+            "options": [
+              "Autumn",
+              "Winter",
+              "Spring",
+              "Summer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During which season are tree leaves usually fully green?",
+            "options": [
+              "Winter",
+              "Summer",
+              "Late autumn",
+              "Early spring"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do trees change throughout the year?",
+            "options": [
+              "Trees never change",
+              "They respond to changing seasons and weather",
+              "Trees change only at night",
+              "Trees do not need seasons"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In which season do many trees grow new leaves?",
+            "answers": [
+              "spring"
+            ]
+          },
+          {
+            "prompt": "In which season do many tree leaves turn colours and fall off?",
+            "answers": [
+              "autumn",
+              "fall"
+            ]
+          },
+          {
+            "prompt": "In which season are many trees bare, without leaves?",
+            "answers": [
+              "winter"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "My Culture: Foods, Music, and Clothing",
+        "summary": "Students share and celebrate parts of their own culture, such as special foods, music, or clothing, and learn that different families celebrate in different ways.",
+        "resourceLabel": "YouTube: My Culture: Foods, Music, and Clothing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=My%20Culture%3A%20Foods%2C%20Music%2C%20and%20Clothing%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is culture?",
+            "options": [
+              "The shared customs, foods, and traditions of a group",
+              "A single food",
+              "A math tool",
+              "A type of weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be part of a family culture?",
+            "options": [
+              "A math problem",
+              "A traffic light",
+              "A weather report",
+              "Special foods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do all families around the world celebrate in the exact same way?",
+            "options": [
+              "Only some families celebrate",
+              "Culture does not exist",
+              "No, families celebrate in different ways",
+              "Yes, always"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sharing our culture with friends helps us ___.",
+            "options": [
+              "Ignore differences",
+              "Hide who we are",
+              "Learn about and respect each other",
+              "Avoid our classmates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of cultural music?",
+            "options": [
+              "A math worksheet",
+              "A traditional family song",
+              "A rain gauge",
+              "A traffic sign"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one special food your family might eat, like a favourite dish.",
+            "answers": [
+              "rice",
+              "noodles",
+              "bread",
+              "soup",
+              "pasta"
+            ]
+          },
+          {
+            "prompt": "What word describes the shared customs, foods, and traditions of a group of people?",
+            "answers": [
+              "culture"
+            ]
+          },
+          {
+            "prompt": "Do all families around the world share the exact same culture?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Setting: Where and When",
+        "summary": "Students learn that the setting of a story is the place and time where the story happens, such as a forest in the daytime or a house at night.",
+        "resourceLabel": "YouTube: Story Setting: Where and When",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Setting%3A%20Where%20and%20When%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the setting of a story?",
+            "options": [
+              "The characters in the story",
+              "The last page",
+              "The place and time where the story happens",
+              "The title of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a story happens on a farm during the day, what is the setting?",
+            "options": [
+              "A farm during the day",
+              "The moon",
+              "A classroom",
+              "A city at night"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be a story setting?",
+            "options": [
+              "The word the",
+              "A quiet forest",
+              "A character named Sam",
+              "A page number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a story have more than one setting, such as a house and then a park?",
+            "options": [
+              "Yes, a story can have more than one setting",
+              "No, never",
+              "Only animals have settings",
+              "Stories have no settings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Knowing the setting of a story helps us understand ___.",
+            "options": [
+              "How to sing songs",
+              "How to add numbers",
+              "How to draw shapes",
+              "Where and when the story takes place"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the place and time where a story happens?",
+            "answers": [
+              "setting"
+            ]
+          },
+          {
+            "prompt": "If a story happens in a forest, what is the setting?",
+            "answers": [
+              "forest",
+              "a forest",
+              "the forest"
+            ]
+          },
+          {
+            "prompt": "Can a story setting be at night?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Numbers with Symbols: Greater and Less",
+        "summary": "Students compare two numbers and describe which is greater and which is less, beginning to connect the ideas of more and fewer to number comparisons within 20.",
+        "resourceLabel": "YouTube: Comparing Numbers with Symbols: Greater and Less",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%20with%20Symbols%3A%20Greater%20and%20Less%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Between 12 and 7, which number is greater?",
+            "options": [
+              "7",
+              "Cannot tell",
+              "12",
+              "They are equal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Between 15 and 19, which number is less?",
+            "options": [
+              "Cannot tell",
+              "15",
+              "They are equal",
+              "19"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are 9 and 9 equal or different?",
+            "options": [
+              "Equal",
+              "Different",
+              "Greater",
+              "Less"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Between 4 and 14, which number is greater?",
+            "options": [
+              "14",
+              "They are equal",
+              "4",
+              "Cannot tell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If one number is greater than another, the smaller number is ___ the bigger one.",
+            "options": [
+              "Equal to",
+              "Less than",
+              "Bigger than",
+              "The same as"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Between 8 and 3, which number is greater?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "Between 8 and 3, which number is less?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "Are the numbers 6 and 6 equal or different?",
+            "answers": [
+              "equal"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Baby Animals: Growing Up",
+        "summary": "Students learn the special names for baby animals, such as puppy, kitten, calf, and chick, and observe how baby animals grow and change over time.",
+        "resourceLabel": "YouTube: Baby Animals: Growing Up",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Baby%20Animals%3A%20Growing%20Up%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a baby dog called?",
+            "options": [
+              "Puppy",
+              "Kitten",
+              "Calf",
+              "Chick"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a baby cat called?",
+            "options": [
+              "Puppy",
+              "Cub",
+              "Kitten",
+              "Chick"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a baby cow called?",
+            "options": [
+              "Foal",
+              "Cub",
+              "Kid",
+              "Calf"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a baby chicken called?",
+            "options": [
+              "Cub",
+              "Chick",
+              "Calf",
+              "Kitten"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As baby animals grow up, do they usually change size and appearance?",
+            "options": [
+              "No, never",
+              "Only some animals grow",
+              "They stay exactly the same",
+              "Yes, they grow and change"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a baby dog called?",
+            "answers": [
+              "puppy"
+            ]
+          },
+          {
+            "prompt": "What is a baby cat called?",
+            "answers": [
+              "kitten"
+            ]
+          },
+          {
+            "prompt": "What is a baby cow called?",
+            "answers": [
+              "calf"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Home Safety: Staying Safe Indoors",
+        "summary": "Students learn simple home safety rules, such as staying away from hot stoves, not touching sharp objects, and asking an adult for help with dangerous items.",
+        "resourceLabel": "YouTube: Home Safety: Staying Safe Indoors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Home%20Safety%3A%20Staying%20Safe%20Indoors%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Should young children touch a hot stove by themselves?",
+            "options": [
+              "No",
+              "Yes",
+              "Only sometimes",
+              "It does not matter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who should help with sharp or dangerous items at home?",
+            "options": [
+              "No one",
+              "A pet",
+              "A trusted adult",
+              "A stranger"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a home safety rule?",
+            "options": [
+              "Touch a hot stove",
+              "Play with matches alone",
+              "Run near hot pots",
+              "Ask an adult before using sharp tools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do we have safety rules at home?",
+            "options": [
+              "To keep us safe from getting hurt",
+              "Only for adults",
+              "Rules are not needed at home",
+              "To make home boring"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you see something dangerous at home, what should you do?",
+            "options": [
+              "Touch it right away",
+              "Ignore it",
+              "Tell a trusted adult",
+              "Hide it from everyone"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Should you touch a hot stove by yourself?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "Who should help you with sharp or dangerous items at home?",
+            "answers": [
+              "an adult",
+              "a grown up",
+              "parent"
+            ]
+          },
+          {
+            "prompt": "Is it safe to play near a hot stove without an adult?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Middle Sounds: Listening for the Vowel",
+        "summary": "Students practise listening for the middle sound in short words, identifying the vowel sound between the first and last consonant, such as the short a in cat.",
+        "resourceLabel": "YouTube: Middle Sounds: Listening for the Vowel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Middle%20Sounds%3A%20Listening%20for%20the%20Vowel%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the middle sound in the word cat?",
+            "options": [
+              "C",
+              "T",
+              "None",
+              "A"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the middle sound in the word hop?",
+            "options": [
+              "O",
+              "H",
+              "P",
+              "None"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the middle sound in the word pig?",
+            "options": [
+              "None",
+              "P",
+              "I",
+              "G"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Listening for the middle sound helps us hear the ___ in a word.",
+            "options": [
+              "First letter",
+              "Vowel sound",
+              "Last letter",
+              "Whole sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the middle sound in the word bug?",
+            "options": [
+              "None",
+              "U",
+              "G",
+              "B"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the middle sound in the word cat?",
+            "answers": [
+              "a"
+            ]
+          },
+          {
+            "prompt": "What is the middle sound in the word dog?",
+            "answers": [
+              "o"
+            ]
+          },
+          {
+            "prompt": "What is the middle sound in the word pin?",
+            "answers": [
+              "i"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Making Shapes with Sticks: Sides and Corners",
+        "summary": "Students build simple shapes using straight sticks or lines and count the number of sides and corners on shapes such as triangles, squares, and rectangles.",
+        "resourceLabel": "YouTube: Making Shapes with Sticks: Sides and Corners",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Shapes%20with%20Sticks%3A%20Sides%20and%20Corners%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many sides does a triangle have?",
+            "options": [
+              "2",
+              "3",
+              "5",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many corners does a square have?",
+            "options": [
+              "5",
+              "3",
+              "6",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many sides does a rectangle have?",
+            "options": [
+              "3",
+              "4",
+              "6",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A shape with three straight sides is called a ___.",
+            "options": [
+              "Triangle",
+              "Circle",
+              "Square",
+              "Rectangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A circle has how many straight sides?",
+            "options": [
+              "0",
+              "2",
+              "4",
+              "1"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many sides does a triangle have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many corners does a square have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "How many sides does a rectangle have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Ears: Hearing Loud and Quiet Sounds",
+        "summary": "Students explore how our ears help us hear sounds, and sort sounds into loud sounds, like thunder, and quiet sounds, like a whisper.",
+        "resourceLabel": "YouTube: Our Ears: Hearing Loud and Quiet Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Ears%3A%20Hearing%20Loud%20and%20Quiet%20Sounds%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part helps us hear sounds?",
+            "options": [
+              "Eyes",
+              "Hands",
+              "Nose",
+              "Ears"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is thunder a loud sound or a quiet sound?",
+            "options": [
+              "Quiet",
+              "Neither",
+              "Loud",
+              "Both"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is a whisper a loud sound or a quiet sound?",
+            "options": [
+              "Quiet",
+              "Both",
+              "Neither",
+              "Loud"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is usually a loud sound?",
+            "options": [
+              "A whisper",
+              "A quiet nap",
+              "A drum being banged",
+              "A soft breeze"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to protect our ears from very loud sounds?",
+            "options": [
+              "Ears do not need protection",
+              "Only adults have ears",
+              "Loud sounds never matter",
+              "To help keep our hearing healthy"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to hear sounds?",
+            "answers": [
+              "ears"
+            ]
+          },
+          {
+            "prompt": "Is thunder a loud sound or a quiet sound?",
+            "answers": [
+              "loud"
+            ]
+          },
+          {
+            "prompt": "Is a whisper a loud sound or a quiet sound?",
+            "answers": [
+              "quiet"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Volunteering: Helping Without Being Asked",
+        "summary": "Students learn what it means to volunteer, offering to help someone or the community without expecting anything in return, such as picking up litter or helping a classmate.",
+        "resourceLabel": "YouTube: Volunteering: Helping Without Being Asked",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Volunteering%3A%20Helping%20Without%20Being%20Asked%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to volunteer?",
+            "options": [
+              "Doing chores only for yourself",
+              "Only helping when paid",
+              "Never helping anyone",
+              "Offering to help without expecting payment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of volunteering?",
+            "options": [
+              "Demanding payment for help",
+              "Picking up litter in the park",
+              "Ignoring a mess",
+              "Refusing to help others"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone choose to volunteer?",
+            "options": [
+              "To help others and their community",
+              "To get rich",
+              "To avoid people",
+              "Volunteering is never helpful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a classmate drops their crayons, a good volunteer action would be to ___.",
+            "options": [
+              "Ignore them",
+              "Help pick them up",
+              "Laugh at them",
+              "Walk away"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Volunteering helps build a ___ community.",
+            "options": [
+              "Careless",
+              "Unfriendly",
+              "Selfish",
+              "Kind and caring"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word means offering to help without being asked or paid?",
+            "answers": [
+              "volunteering",
+              "volunteer"
+            ]
+          },
+          {
+            "prompt": "Name one way you could volunteer to help your classroom.",
+            "answers": [
+              "pick up litter",
+              "help a classmate",
+              "clean up",
+              "tidy up"
+            ]
+          },
+          {
+            "prompt": "Do volunteers usually expect payment for helping?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Problems: What Went Wrong",
+        "summary": "Students learn that many stories include a problem the characters must solve, and practise identifying the problem and how the characters try to fix it.",
+        "resourceLabel": "YouTube: Story Problems: What Went Wrong",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Problems%3A%20What%20Went%20Wrong%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a problem in a story?",
+            "options": [
+              "The title of the book",
+              "The last word",
+              "A challenge the character must solve",
+              "A picture on the cover"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a character is lost in the woods, what is the story problem?",
+            "options": [
+              "Taking a nap",
+              "Being lost",
+              "Eating lunch",
+              "Singing a song"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do stories often include a problem?",
+            "options": [
+              "Problems are not needed",
+              "To make the story interesting and show how it gets solved",
+              "Stories never have problems",
+              "To confuse readers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a story problem?",
+            "options": [
+              "A character sits down",
+              "A character eats breakfast",
+              "A character says hello",
+              "A character cannot find their lost puppy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a story problem usually resolved?",
+            "options": [
+              "It disappears with no reason",
+              "It is never resolved",
+              "The characters find a solution",
+              "The story simply ends with no solution"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a challenge a character must solve in a story?",
+            "answers": [
+              "problem"
+            ]
+          },
+          {
+            "prompt": "If a character loses their toy in a story, what is the problem?",
+            "answers": [
+              "losing the toy",
+              "lost toy",
+              "they lost their toy"
+            ]
+          },
+          {
+            "prompt": "Do most stories include a problem the character needs to solve?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Halves and Quarters: Cutting Shapes",
+        "summary": "Students explore cutting shapes into two equal halves or four equal quarters, building on earlier fraction ideas by comparing halves to quarters.",
+        "resourceLabel": "YouTube: Halves and Quarters: Cutting Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Halves%20and%20Quarters%3A%20Cutting%20Shapes%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you cut a circle into two equal parts, each part is called a ___.",
+            "options": [
+              "Quarter",
+              "Third",
+              "Half",
+              "Whole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you cut a circle into four equal parts, each part is called a ___.",
+            "options": [
+              "Half",
+              "Double",
+              "Whole",
+              "Quarter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a bigger piece of the same whole shape, a half or a quarter?",
+            "options": [
+              "They are the same size",
+              "Cannot tell",
+              "A quarter",
+              "A half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many quarters make one whole shape?",
+            "options": [
+              "4",
+              "3",
+              "5",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many halves make one whole shape?",
+            "options": [
+              "3",
+              "1",
+              "4",
+              "2"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you cut a square into two equal parts, what is each part called?",
+            "answers": [
+              "half",
+              "a half"
+            ]
+          },
+          {
+            "prompt": "If you cut a square into four equal parts, what is each part called?",
+            "answers": [
+              "quarter",
+              "a quarter"
+            ]
+          },
+          {
+            "prompt": "Which is smaller, a half or a quarter of the same whole shape?",
+            "answers": [
+              "quarter",
+              "a quarter"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Clouds in the Sky: Watching the Weather",
+        "summary": "Students observe clouds in the sky and learn that clouds can look different, such as fluffy white clouds on a sunny day or dark grey clouds before rain.",
+        "resourceLabel": "YouTube: Clouds in the Sky: Watching the Weather",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Watching%20the%20Weather%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the fluffy shapes we see in the sky?",
+            "options": [
+              "Stars",
+              "Clouds",
+              "Puddles",
+              "Rainbows"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What colour might clouds be right before it rains?",
+            "options": [
+              "Dark grey",
+              "Bright yellow",
+              "Green",
+              "Pink"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do clouds ever change shape as wind blows them?",
+            "options": [
+              "Only at night",
+              "Yes, they can change shape",
+              "Clouds do not move",
+              "No, never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fluffy white clouds on a sunny day often mean the weather is ___.",
+            "options": [
+              "Foggy everywhere",
+              "Snowing heavily",
+              "Very stormy",
+              "Calm and pleasant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do people look at clouds to help guess the weather?",
+            "options": [
+              "Clouds never mean anything",
+              "Clouds cannot be seen",
+              "Clouds can give hints about upcoming weather",
+              "Only pilots need to look at clouds"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the fluffy white or grey shapes we see in the sky?",
+            "answers": [
+              "clouds"
+            ]
+          },
+          {
+            "prompt": "What colour are clouds often before it rains?",
+            "answers": [
+              "grey",
+              "dark grey"
+            ]
+          },
+          {
+            "prompt": "Do clouds ever change shape as the wind blows them?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Signs Around Us: Reading Everyday Symbols",
+        "summary": "Students learn to recognize common signs and symbols in their community, such as a stop sign, a washroom sign, or an exit sign, and what each one means.",
+        "resourceLabel": "YouTube: Signs Around Us: Reading Everyday Symbols",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Signs%20Around%20Us%3A%20Reading%20Everyday%20Symbols%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What shape is a stop sign?",
+            "options": [
+              "Circle",
+              "Triangle",
+              "Square",
+              "Octagon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What colour is a stop sign?",
+            "options": [
+              "Red",
+              "Green",
+              "Blue",
+              "Yellow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a stop sign tell people to do?",
+            "options": [
+              "Sing a song",
+              "Go faster",
+              "Turn around",
+              "Stop"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are signs and symbols important in our community?",
+            "options": [
+              "Signs are just decorations",
+              "Signs are not important",
+              "They help keep everyone informed and safe",
+              "Only adults need signs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a community sign?",
+            "options": [
+              "A shoe",
+              "An exit sign",
+              "A birthday cake",
+              "A pillow"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What shape is a stop sign?",
+            "answers": [
+              "octagon",
+              "eight sided shape"
+            ]
+          },
+          {
+            "prompt": "What colour is a stop sign?",
+            "answers": [
+              "red"
+            ]
+          },
+          {
+            "prompt": "What does a stop sign tell drivers and walkers to do?",
+            "answers": [
+              "stop"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Feelings: How Characters Feel",
+        "summary": "Students learn to notice how a story character feels, such as happy, sad, scared, or excited, by looking at clues in the pictures and words.",
+        "resourceLabel": "YouTube: Story Feelings: How Characters Feel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Feelings%3A%20How%20Characters%20Feel%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If a character is smiling and laughing, how do they likely feel?",
+            "options": [
+              "Happy",
+              "Tired",
+              "Sad",
+              "Scared"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a character is crying with tears, how do they likely feel?",
+            "options": [
+              "Calm",
+              "Happy",
+              "Sad",
+              "Excited"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What clues can help us know how a character feels?",
+            "options": [
+              "The colour of the book cover",
+              "The page numbers",
+              "Pictures and words in the story",
+              "The size of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a character is jumping and clapping at a birthday party, how might they feel?",
+            "options": [
+              "Sleepy",
+              "Bored",
+              "Angry",
+              "Excited"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Understanding how characters feel helps readers ___.",
+            "options": [
+              "Forget the book",
+              "Connect with and understand the story",
+              "Skip pages",
+              "Ignore the story"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a character is smiling and laughing, how might they feel?",
+            "answers": [
+              "happy"
+            ]
+          },
+          {
+            "prompt": "If a character is crying, how might they feel?",
+            "answers": [
+              "sad"
+            ]
+          },
+          {
+            "prompt": "Name one feeling a story character might have, like happy or scared.",
+            "answers": [
+              "happy",
+              "sad",
+              "scared",
+              "excited",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calendar Basics: Days of the Week",
+        "summary": "Students learn the names of the seven days of the week in order, and practise identifying today, yesterday, and tomorrow on a simple calendar.",
+        "resourceLabel": "YouTube: Calendar Basics: Days of the Week",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calendar%20Basics%3A%20Days%20of%20the%20Week%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What day comes right after Monday?",
+            "options": [
+              "Wednesday",
+              "Sunday",
+              "Friday",
+              "Tuesday"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "5",
+              "6",
+              "8",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What day comes right before Sunday?",
+            "options": [
+              "Monday",
+              "Friday",
+              "Thursday",
+              "Saturday"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a day of the week?",
+            "options": [
+              "January",
+              "Spring",
+              "Friday",
+              "Summer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A calendar helps us keep track of ___.",
+            "options": [
+              "Days, weeks, and months",
+              "Weight",
+              "Sounds",
+              "Colours"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What day comes right after Monday?",
+            "answers": [
+              "tuesday",
+              "Tuesday"
+            ]
+          },
+          {
+            "prompt": "How many days are there in one week?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          },
+          {
+            "prompt": "What day comes right before Sunday?",
+            "answers": [
+              "saturday",
+              "Saturday"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Floating in Air: How Birds Fly",
+        "summary": "Students learn that birds have special features, such as wings and feathers, that help them fly, and compare birds to other animals that cannot fly.",
+        "resourceLabel": "YouTube: Floating in Air: How Birds Fly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Floating%20in%20Air%3A%20How%20Birds%20Fly%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part helps a bird fly?",
+            "options": [
+              "Fins",
+              "Hooves",
+              "Wings",
+              "Paws"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What covers most of a bird body?",
+            "options": [
+              "Feathers",
+              "Shells",
+              "Scales",
+              "Fur"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can most fish fly the way birds do?",
+            "options": [
+              "Always",
+              "Sometimes",
+              "No",
+              "Yes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals can fly using wings and feathers?",
+            "options": [
+              "A cow",
+              "A snake",
+              "A robin",
+              "A fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are feathers helpful for a flying bird?",
+            "options": [
+              "Only water animals need feathers",
+              "Feathers slow birds down only",
+              "Feathers are not useful at all",
+              "They help the bird fly and stay warm"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part helps a bird fly?",
+            "answers": [
+              "wings"
+            ]
+          },
+          {
+            "prompt": "What covers a bird body and helps it fly?",
+            "answers": [
+              "feathers"
+            ]
+          },
+          {
+            "prompt": "Can most fish fly like birds?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Comparing Homes: Apartments and Houses",
+        "summary": "Students compare different types of homes people live in, such as houses, apartments, and townhouses, and learn that families live in many different kinds of homes.",
+        "resourceLabel": "YouTube: Comparing Homes: Apartments and Houses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Homes%3A%20Apartments%20and%20Houses%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a type of home?",
+            "options": [
+              "A cloud",
+              "An apartment",
+              "A river",
+              "A mountain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do all families live in the exact same type of home?",
+            "options": [
+              "No, homes can be different",
+              "Homes do not exist",
+              "Only houses exist",
+              "Yes, always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An apartment is usually found inside ___.",
+            "options": [
+              "A boat only",
+              "A forest",
+              "A cave",
+              "A bigger building with many homes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might families choose different types of homes?",
+            "options": [
+              "Different homes fit different family needs",
+              "Homes never differ",
+              "Only rich families have homes",
+              "All homes are identical"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of comparing homes fairly?",
+            "options": [
+              "Noticing that homes can be different but all are someone special place",
+              "Making fun of a home",
+              "Saying one type of home is bad",
+              "Ignoring that homes differ"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one type of home a family might live in, like a house or apartment.",
+            "answers": [
+              "house",
+              "apartment",
+              "townhouse"
+            ]
+          },
+          {
+            "prompt": "Do all families live in the exact same type of home?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "Is an apartment usually one home inside a bigger building with many homes?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Describing, Stories, and Sounds",
+        "summary": "Students review recent Language skills: adjectives, alphabetical order, print concepts, onset and rime, story characters, story setting, middle sounds, story problems, and story feelings.",
+        "resourceLabel": "YouTube: Language Review: Describing, Stories, and Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Describing%2C%20Stories%2C%20and%20Sounds%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word is an adjective in the phrase a big red apple?",
+            "options": [
+              "The",
+              "A",
+              "Apple",
+              "Big"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When reading English, which way do our eyes move across the page?",
+            "options": [
+              "Right to left",
+              "Left to right",
+              "Bottom to top",
+              "In circles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the setting of a story?",
+            "options": [
+              "The last page",
+              "The title of the book",
+              "The characters in the story",
+              "The place and time where the story happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a problem in a story?",
+            "options": [
+              "A picture on the cover",
+              "A challenge the character must solve",
+              "The last word",
+              "The title of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a character is smiling and laughing, how do they likely feel?",
+            "options": [
+              "Tired",
+              "Happy",
+              "Sad",
+              "Scared"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a word that describes a noun called?",
+            "answers": [
+              "adjective"
+            ]
+          },
+          {
+            "prompt": "What word describes the people or animals a story is about?",
+            "answers": [
+              "characters",
+              "character"
+            ]
+          },
+          {
+            "prompt": "What is the middle sound in the word cat?",
+            "answers": [
+              "a"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Comparing, Shapes, and Time",
+        "summary": "Students review recent Math skills: comparing groups, even and odd numbers, counting rows, comparing lengths, comparing numbers, shapes, halves and quarters, and days of the week.",
+        "resourceLabel": "YouTube: Math Review: Comparing, Shapes, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Comparing%2C%20Shapes%2C%20and%20Time%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "A group has 6 balls and another has 3 balls. Which group has more?",
+            "options": [
+              "They are equal",
+              "The group with 6",
+              "The group with 3",
+              "Cannot tell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the number 4 even or odd?",
+            "options": [
+              "Both",
+              "Neither",
+              "Even",
+              "Odd"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many corners does a square have?",
+            "options": [
+              "3",
+              "6",
+              "4",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you cut a circle into four equal parts, each part is called a ___.",
+            "options": [
+              "Half",
+              "Double",
+              "Quarter",
+              "Whole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "8",
+              "7",
+              "6",
+              "5"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Between 8 and 3, which number is greater?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "How many sides does a triangle have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many days are in one week?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Animals, and Weather",
+        "summary": "Students review recent Science topics: body parts, food sources, hot and cold, baby animals, our ears, clouds, and how birds fly.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Weather",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Weather%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many ears does a person usually have?",
+            "options": [
+              "4",
+              "3",
+              "1",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does milk come from?",
+            "options": [
+              "A cow",
+              "A tree",
+              "The ground",
+              "A river"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is ice hot or cold?",
+            "options": [
+              "Cold",
+              "Both",
+              "Hot",
+              "Neither"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a baby cat called?",
+            "options": [
+              "Cub",
+              "Puppy",
+              "Kitten",
+              "Chick"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What covers most of a bird body?",
+            "options": [
+              "Feathers",
+              "Shells",
+              "Scales",
+              "Fur"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many fingers are on one hand?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What is a baby dog called?",
+            "answers": [
+              "puppy"
+            ]
+          },
+          {
+            "prompt": "What body part helps a bird fly?",
+            "answers": [
+              "wings"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Safety, Kindness, and Community",
+        "summary": "Students review recent Social Studies topics: personal safety, waiting patiently, respecting seniors, culture, home safety, volunteering, community signs, and comparing homes.",
+        "resourceLabel": "YouTube: Social Studies Review: Safety, Kindness, and Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Safety%2C%20Kindness%2C%20and%20Community%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If something feels unsafe, what should you do?",
+            "options": [
+              "Keep it a secret",
+              "Ignore it",
+              "Tell a trusted adult",
+              "Run far away alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do people form a line at a water fountain?",
+            "options": [
+              "To confuse people",
+              "To slow everyone down forever",
+              "So everyone gets a fair turn",
+              "Lines are not needed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is culture?",
+            "options": [
+              "The shared customs, foods, and traditions of a group",
+              "A type of weather",
+              "A math tool",
+              "A single food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who should help with sharp or dangerous items at home?",
+            "options": [
+              "No one",
+              "A pet",
+              "A stranger",
+              "A trusted adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What colour is a stop sign?",
+            "options": [
+              "Green",
+              "Yellow",
+              "Blue",
+              "Red"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a touch feels wrong, what can you say?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What word means offering to help without expecting payment?",
+            "answers": [
+              "volunteering",
+              "volunteer"
+            ]
+          },
+          {
+            "prompt": "What shape is a stop sign?",
+            "answers": [
+              "octagon",
+              "eight sided shape"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
