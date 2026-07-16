@@ -1251,6 +1251,586 @@ const curriculum: DayContent[] = [
      {q:"A good citizen ___.", options:["ignores community rules","never votes","only cares about themselves","respects others and helps the community"], answer:3}
    ]},
 ]},
+{day:31, label:"Day 31 — Mon", subjects:[
+  {subject:"Language", title:"Letter N", summary:"Explore uppercase and lowercase N. Students identify the letter, practise its sound, and find words beginning with N such as nest, nut, and net.",
+   resourceLabel:"YouTube: Letter N", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20N%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word starts with the same sound as nest?", options:["Net","Cat","Dog","Sun"], answer:0},
+     {q:"Which letter comes after M in the alphabet?", options:["N","O","P","L"], answer:0},
+     {q:"How many humps does lowercase n have?", options:["0","3","1","2"], answer:2},
+     {q:"Which N word is a small hard food that grows on trees?", options:["Net","Nut","Nose","Nest"], answer:1},
+     {q:"In sun, nut, dog, cat, which word starts with N?", options:["cat","nut","sun","dog"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Write the missing letter: _est (a home for a bird)", answers:["n"]},
+     {prompt:"Write the missing letter: _ut (a small hard food from a tree)", answers:["n"]},
+     {prompt:"What letter comes right after M?", answers:["n"]}
+   ]},
+  {subject:"Math", title:"Comparing Numbers: More, Less, or Equal", summary:"Students compare two groups of objects and use the words more, less, and equal to describe which group has a greater, smaller, or the same amount.",
+   resourceLabel:"YouTube: Comparing Numbers: More, Less, or Equal", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Numbers%3A%20More%2C%20Less%2C%20or%20Equal%20kindergarten%20educational",
+   quiz:[
+     {q:"Which group has more: 3 apples or 5 apples?", options:["5 apples","They are equal","Cannot tell","3 apples"], answer:0},
+     {q:"If you have 4 balls and your friend has 4 balls, the amounts are ___.", options:["Unknown","Equal","Less","More"], answer:1},
+     {q:"Which number is less: 2 or 7?", options:["2","Cannot tell","They are equal","7"], answer:0},
+     {q:"Count: 6 stars or 4 stars, which group has less?", options:["6 stars","Cannot tell","4 stars","Equal"], answer:2},
+     {q:"If two groups have the exact same amount, they are ___.", options:["Less than","Plus","More than","Equal"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Which is more: 3 or 8? Write the bigger number.", answers:["8","eight"]},
+     {prompt:"Which is less: 5 or 2? Write the smaller number.", answers:["2","two"]},
+     {prompt:"If both groups have 4 objects, are they equal or not equal?", answers:["equal"]}
+   ]},
+  {subject:"Science", title:"Five Senses: Seeing and Hearing", summary:"Students learn that eyes let us see and ears let us hear. They explore how these two senses help us learn about the world around us.",
+   resourceLabel:"YouTube: Five Senses: Seeing and Hearing", resourceUrl:"https://www.youtube.com/results?search_query=Five%20Senses%3A%20Seeing%20and%20Hearing%20kindergarten%20educational",
+   quiz:[
+     {q:"Which body part do we use to see?", options:["Nose","Tongue","Ears","Eyes"], answer:3},
+     {q:"Which body part do we use to hear?", options:["Feet","Eyes","Hands","Ears"], answer:3},
+     {q:"A loud sound is heard with your ___.", options:["Tongue","Ears","Eyes","Nose"], answer:1},
+     {q:"Which sense tells you a ball is red?", options:["Seeing","Smelling","Tasting","Hearing"], answer:0},
+     {q:"We have how many eyes and how many ears?", options:["Two eyes, one ear","Two eyes, two ears","One eye, one ear","Three eyes, three ears"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Which body part do you use to see a rainbow?", answers:["eyes","eye"]},
+     {prompt:"Which body part do you use to hear music?", answers:["ears","ear"]},
+     {prompt:"Name one sense that eyes give you.", answers:["sight","seeing","vision"]}
+   ]},
+  {subject:"SocialStudies", title:"Getting Around: Types of Transportation", summary:"Students explore different ways people travel, including cars, buses, bikes, trains, and airplanes, and talk about how they get to school or around their community.",
+   resourceLabel:"YouTube: Getting Around: Types of Transportation", resourceUrl:"https://www.youtube.com/results?search_query=Getting%20Around%3A%20Types%20of%20Transportation%20kindergarten%20educational",
+   quiz:[
+     {q:"Which vehicle travels on train tracks?", options:["Car","Bicycle","Airplane","Train"], answer:3},
+     {q:"Which vehicle can fly in the sky?", options:["Boat","Bicycle","Bus","Airplane"], answer:3},
+     {q:"Which of these has two wheels and is pedalled?", options:["Bicycle","Bus","Car","Train"], answer:0},
+     {q:"A bus is used to carry ___.", options:["Only food","Only pets","Only one person","Many people at once"], answer:3},
+     {q:"Which vehicle travels on water?", options:["Bus","Car","Boat","Bicycle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which vehicle flies in the sky?", answers:["airplane","plane"]},
+     {prompt:"Which vehicle has two wheels and no motor, pedalled by a rider?", answers:["bicycle","bike"]},
+     {prompt:"Name one way you can travel to school.", answers:["bus","car","walk","walking","bike","bicycle","train"]}
+   ]},
+]},
+{day:32, label:"Day 32 — Tue", subjects:[
+  {subject:"Language", title:"Letter O", summary:"Explore uppercase and lowercase O. Students identify the letter, practise its short /o/ sound, and find words beginning with O such as octopus, orange, and ostrich.",
+   resourceLabel:"YouTube: Letter O", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20O%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word starts with the same sound as octopus?", options:["Cat","Dog","Orange","Sun"], answer:2},
+     {q:"What shape does the letter O look like?", options:["A square","A line","A circle","A triangle"], answer:2},
+     {q:"Which O word is a fruit?", options:["Owl","Orange","Otter","Ostrich"], answer:1},
+     {q:"Which letter comes right after N?", options:["M","O","P","Q"], answer:1},
+     {q:"In dog, otter, cat, sun, which word starts with O?", options:["dog","sun","cat","otter"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Write the missing letter: _range (an orange fruit)", answers:["o"]},
+     {prompt:"Write the missing letter: _ctopus (has eight arms)", answers:["o"]},
+     {prompt:"What letter comes right after N?", answers:["o"]}
+   ]},
+  {subject:"Math", title:"Making 10: Number Bonds", summary:"Students explore pairs of numbers that combine to make 10, such as 6 and 4 or 7 and 3, building a strong foundation for addition.",
+   resourceLabel:"YouTube: Making 10: Number Bonds", resourceUrl:"https://www.youtube.com/results?search_query=Making%2010%3A%20Number%20Bonds%20kindergarten%20educational",
+   quiz:[
+     {q:"6 and ___ make 10.", options:["6","5","4","3"], answer:2},
+     {q:"Which pair of numbers makes 10?", options:["2 and 5","7 and 3","4 and 4","9 and 2"], answer:1},
+     {q:"10 is made of 8 and ___.", options:["2","1","4","3"], answer:0},
+     {q:"Which pair does NOT make 10?", options:["8 and 3","6 and 4","5 and 5","9 and 1"], answer:0},
+     {q:"9 and 1 make ___.", options:["8","10","9","11"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"6 and ___ make 10. Write the missing number.", answers:["4","four"]},
+     {prompt:"8 and ___ make 10. Write the missing number.", answers:["2","two"]},
+     {prompt:"Write two numbers that add up to make 10.", answers:["5 and 5","4 and 6","3 and 7","2 and 8","1 and 9","6 and 4","7 and 3","8 and 2","9 and 1"]}
+   ]},
+  {subject:"Science", title:"Five Senses: Smelling, Tasting, and Touching", summary:"Students learn that the nose helps us smell, the tongue helps us taste, and skin helps us feel or touch. They explore how these senses give us information about our world.",
+   resourceLabel:"YouTube: Five Senses: Smelling, Tasting, and Touching", resourceUrl:"https://www.youtube.com/results?search_query=Five%20Senses%3A%20Smelling%2C%20Tasting%2C%20and%20Touching%20kindergarten%20educational",
+   quiz:[
+     {q:"Which body part helps you smell a flower?", options:["Eyes","Ears","Hands","Nose"], answer:3},
+     {q:"Which body part helps you taste ice cream?", options:["Ears","Nose","Eyes","Tongue"], answer:3},
+     {q:"Which body part helps you feel if something is soft?", options:["Nose","Tongue","Ears","Skin"], answer:3},
+     {q:"A lemon tastes ___.", options:["Spicy","Sweet","Sour","Salty"], answer:2},
+     {q:"Which sense helps you know a blanket is warm?", options:["Smell","Touch","Hearing","Sight"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Which body part helps you smell cookies baking?", answers:["nose"]},
+     {prompt:"Which body part helps you taste food?", answers:["tongue"]},
+     {prompt:"Which body part covers your whole body and helps you feel things?", answers:["skin"]}
+   ]},
+  {subject:"SocialStudies", title:"Reading Simple Maps", summary:"Students look at simple picture maps of a classroom or park and learn that a map shows where things are located, using pictures and symbols.",
+   resourceLabel:"YouTube: Reading Simple Maps", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Simple%20Maps%20kindergarten%20educational",
+   quiz:[
+     {q:"A map is a drawing that shows ___.", options:["A list of numbers","A made-up story","A song","Where places and things are"], answer:3},
+     {q:"On a simple classroom map, a picture of a desk shows where the ___ is.", options:["Door","Window","Desk","Playground"], answer:2},
+     {q:"Maps often use small pictures instead of words. These are called ___.", options:["Symbols","Colours","Sentences","Songs"], answer:0},
+     {q:"Why are maps useful?", options:["They are only for adults","They are only for decoration","They tell jokes","They help us find our way to places"], answer:3},
+     {q:"Which of these could be shown on a park map?", options:["A telephone number","A playground and a pond","A math test","A birthday song"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a map help you find?", answers:["places","location","where things are","the way"]},
+     {prompt:"A small picture used on a map is called a ___.", answers:["symbol"]},
+     {prompt:"Name one place a map could show, like a park or a school.", answers:["park","school","playground","classroom","library","store"]}
+   ]},
+]},
+{day:33, label:"Day 33 — Wed", subjects:[
+  {subject:"Language", title:"Beginning Sounds: Listening for First Sounds", summary:"Students listen carefully to the first sound in a word and match words that begin with the same sound, building phonemic awareness.",
+   resourceLabel:"YouTube: Beginning Sounds: Listening for First Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Beginning%20Sounds%3A%20Listening%20for%20First%20Sounds%20kindergarten%20educational",
+   quiz:[
+     {q:"Which two words begin with the same sound: sun, sock, dog?", options:["sock and dog","sun and dog","sun and sock","dog only"], answer:2},
+     {q:"What is the first sound in ball?", options:["/t/","/m/","/b/","/s/"], answer:2},
+     {q:"Which word begins with the same sound as fish?", options:["Sun","Cat","Log","Fan"], answer:3},
+     {q:"Which word does NOT begin with the same sound as top, tap, and ten?", options:["Ball","Tap","Top","Ten"], answer:0},
+     {q:"Listening for beginning sounds helps us with ___.", options:["Reading and spelling","Swimming","Jumping","Cooking"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the first sound in the word map?", answers:["m","mmm"]},
+     {prompt:"Which word begins with the same sound as sun: bat or sock?", answers:["sock"]},
+     {prompt:"What is the first sound in the word run?", answers:["r"]}
+   ]},
+  {subject:"Math", title:"Position Words: Near, Far, Between, and Beside", summary:"Students use positional language such as near, far, between, and beside to describe where objects are located in relation to each other.",
+   resourceLabel:"YouTube: Position Words: Near, Far, Between, and Beside", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%3A%20Near%2C%20Far%2C%20Between%2C%20and%20Beside%20kindergarten%20educational",
+   quiz:[
+     {q:"If the cat is next to the box, the cat is ___ the box.", options:["Inside","Far from","Under","Beside"], answer:3},
+     {q:"If the school is many kilometres away, it is ___ your house.", options:["On top of","Near","Far from","Beside"], answer:2},
+     {q:"If the ball sits in the middle of two chairs, it is ___ the chairs.", options:["Under","Beside","Far from","Between"], answer:3},
+     {q:"If your friend sits right next to you, they are ___ you.", options:["Far from","Near or beside","Above","Under"], answer:1},
+     {q:"Which word describes something that is close by?", options:["Far","Between","Near","Above"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If a toy is right next to you, is it near or far?", answers:["near"]},
+     {prompt:"If a book sits in the middle of two other books, where is it?", answers:["between","in between"]},
+     {prompt:"Write a word that means the opposite of near.", answers:["far"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Butterfly", summary:"Students learn the four stages of a butterfly life cycle: egg, caterpillar, chrysalis, and butterfly.",
+   resourceLabel:"YouTube: Life Cycle of a Butterfly", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the first stage of a butterfly life cycle?", options:["Caterpillar","Chrysalis","Egg","Butterfly"], answer:2},
+     {q:"What hatches from a butterfly egg?", options:["Caterpillar","Cocoon","Chrysalis","Butterfly"], answer:0},
+     {q:"During which stage does the caterpillar change inside a hard case?", options:["Egg","Adult","Caterpillar","Chrysalis"], answer:3},
+     {q:"What is the last stage of the butterfly life cycle?", options:["Egg","Chrysalis","Butterfly","Caterpillar"], answer:2},
+     {q:"A caterpillar spends most of its time ___.", options:["Sleeping underground","Eating leaves","Swimming","Flying"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What comes first in a butterfly life cycle: egg or caterpillar?", answers:["egg"]},
+     {prompt:"What does a caterpillar turn into before becoming a butterfly?", answers:["chrysalis"]},
+     {prompt:"What is the last stage of the butterfly life cycle?", answers:["butterfly"]}
+   ]},
+  {subject:"SocialStudies", title:"Then and Now: How Things Change", summary:"Students compare how things like toys, clothing, and transportation looked long ago and how they look today, building an early sense of time and change.",
+   resourceLabel:"YouTube: Then and Now: How Things Change", resourceUrl:"https://www.youtube.com/results?search_query=Then%20and%20Now%3A%20How%20Things%20Change%20kindergarten%20educational",
+   quiz:[
+     {q:"Long ago, people often travelled by horse and wagon. Today, many people travel by ___.", options:["Walking only","Car","Nothing changed","Horse only"], answer:1},
+     {q:"Which of these is an old way to send a message, before phones?", options:["A letter carried by hand or mail","Texting","Video call","Email"], answer:0},
+     {q:"Comparing then and now helps us understand ___.", options:["Only today","Only future events","How life has changed over time","That nothing ever changes"], answer:2},
+     {q:"Long ago, many people washed clothes ___.", options:["By hand","With a dryer only","With a washing machine","They never washed clothes"], answer:0},
+     {q:"Which is true about toys long ago compared to today?", options:["There were no toys at all","They were all electronic","They were exactly the same","Some were simpler, like wooden toys"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one way people travelled long ago before cars.", answers:["horse","walking","wagon","horse and wagon"]},
+     {prompt:"Is a wooden toy from long ago or from today more likely to be electronic?", answers:["today"]},
+     {prompt:"Write one thing that has changed over time, like transportation or toys.", answers:["transportation","toys","clothing","communication","technology"]}
+   ]},
+]},
+{day:34, label:"Day 34 — Thu", subjects:[
+  {subject:"Language", title:"Ending Sounds: Listening for Last Sounds", summary:"Students listen carefully to the last sound in a word and identify words that end with the same sound, building phonemic awareness.",
+   resourceLabel:"YouTube: Ending Sounds: Listening for Last Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Ending%20Sounds%3A%20Listening%20for%20Last%20Sounds%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the last sound in the word cat?", options:["/a/","/k/","/t/","/c/"], answer:2},
+     {q:"Which word ends with the same sound as sun?", options:["Run","Dog","Cap","Sit"], answer:0},
+     {q:"Which word does NOT end with the same sound as hop, top, and mop?", options:["Top","Mop","Sun","Hop"], answer:2},
+     {q:"What is the last sound in the word dog?", options:["/g/","/d/","/o/","/n/"], answer:0},
+     {q:"Listening for ending sounds helps us with ___.", options:["Counting","Painting","Spelling and reading","Jumping rope"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the last sound in the word bed?", answers:["d"]},
+     {prompt:"Which word ends with the same sound as sun: fun or cat?", answers:["fun"]},
+     {prompt:"What is the last sound in the word map?", answers:["p"]}
+   ]},
+  {subject:"Math", title:"Telling Time: Day and Night", summary:"Students learn to tell the difference between day and night activities and begin to recognize a clock as a tool that shows time.",
+   resourceLabel:"YouTube: Telling Time: Day and Night", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%3A%20Day%20and%20Night%20kindergarten%20educational",
+   quiz:[
+     {q:"Which activity usually happens at night?", options:["Eating breakfast","Sleeping in bed","Going to school","Playing at recess"], answer:1},
+     {q:"The sun is in the sky during ___.", options:["Neither","Night","Both equally at all times","Day"], answer:3},
+     {q:"What tool do we use to tell the time?", options:["A scale","A ruler","A map","A clock"], answer:3},
+     {q:"Which of these happens during the day?", options:["We go to school","The moon is brightest","Stars come out","We always sleep"], answer:0},
+     {q:"At night, the sky is usually ___.", options:["Bright and sunny","Always orange","Dark, with the moon and stars","Rainy always"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Do we usually sleep during the day or at night?", answers:["night"]},
+     {prompt:"What tool tells us the time?", answers:["clock"]},
+     {prompt:"Name one thing you do during the daytime, like going to school.", answers:["school","play","eat breakfast","learn","go to school"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Frog", summary:"Students learn the stages of a frog life cycle: egg, tadpole, froglet, and adult frog.",
+   resourceLabel:"YouTube: Life Cycle of a Frog", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Frog%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the first stage of a frog life cycle?", options:["Adult frog","Froglet","Egg","Tadpole"], answer:2},
+     {q:"What hatches from a frog egg?", options:["Adult frog","Fish","Tadpole","Froglet"], answer:2},
+     {q:"A tadpole lives mostly ___.", options:["In water","In the air","Underground","On land"], answer:0},
+     {q:"As a tadpole grows legs and loses its tail, it becomes a ___.", options:["Fish","Egg","Bird","Froglet"], answer:3},
+     {q:"Where do adult frogs usually live?", options:["Only underwater","Both in water and on land","Only in the desert","Only in trees"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What comes out of a frog egg?", answers:["tadpole"]},
+     {prompt:"Where does a tadpole live?", answers:["water","in water","pond"]},
+     {prompt:"What is the last stage of a frog life cycle?", answers:["adult frog","frog"]}
+   ]},
+  {subject:"SocialStudies", title:"Rules Keep Us Safe: Traffic Safety", summary:"Students learn simple traffic safety rules, such as looking both ways before crossing, holding an adult hand, and stopping at a red light.",
+   resourceLabel:"YouTube: Rules Keep Us Safe: Traffic Safety", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20Keep%20Us%20Safe%3A%20Traffic%20Safety%20kindergarten%20educational",
+   quiz:[
+     {q:"Before crossing the street, you should ___.", options:["Look both ways","Close your eyes","Ignore traffic lights","Run across quickly"], answer:0},
+     {q:"A red traffic light means ___.", options:["Go","Turn only","Stop","Slow down only"], answer:2},
+     {q:"A green traffic light means ___.", options:["Wait","Go","Stop","Turn around"], answer:1},
+     {q:"When crossing the street, young children should ___.", options:["Look at their shoes","Run ahead","Hold an adult hand","Cross alone"], answer:2},
+     {q:"Why do we follow traffic safety rules?", options:["To have fun only","Rules do not matter","To slow down cars for no reason","To stay safe near cars and streets"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What colour traffic light means stop?", answers:["red"]},
+     {prompt:"What should you do before crossing the street?", answers:["look both ways","look both ways first"]},
+     {prompt:"What colour traffic light means go?", answers:["green"]}
+   ]},
+]},
+{day:35, label:"Day 35 — Fri", subjects:[
+  {subject:"Language", title:"Syllables: Clapping Words Apart", summary:"Students clap out the syllables, or beats, in words to build awareness that words are made of smaller sound parts.",
+   resourceLabel:"YouTube: Syllables: Clapping Words Apart", resourceUrl:"https://www.youtube.com/results?search_query=Syllables%3A%20Clapping%20Words%20Apart%20kindergarten%20educational",
+   quiz:[
+     {q:"How many syllables (claps) are in the word cat?", options:["1","3","2","4"], answer:0},
+     {q:"How many syllables are in the word apple?", options:["3","4","1","2"], answer:3},
+     {q:"How many syllables are in the word butterfly?", options:["4","2","1","3"], answer:3},
+     {q:"Clapping out a word into parts helps us ___.", options:["Count numbers","Break words into smaller sound parts","Draw pictures","Sing songs"], answer:1},
+     {q:"How many syllables are in the word dog?", options:["2","4","3","1"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many syllables (claps) are in the word sun?", answers:["1","one"]},
+     {prompt:"How many syllables are in the word rabbit?", answers:["2","two"]},
+     {prompt:"How many syllables are in the word banana?", answers:["3","three"]}
+   ]},
+  {subject:"Math", title:"Tally Marks: Counting in Groups of Five", summary:"Students learn to make and read tally marks, grouping marks into fives with a diagonal line, to count and organize information.",
+   resourceLabel:"YouTube: Tally Marks: Counting in Groups of Five", resourceUrl:"https://www.youtube.com/results?search_query=Tally%20Marks%3A%20Counting%20in%20Groups%20of%20Five%20kindergarten%20educational",
+   quiz:[
+     {q:"A group of 5 tally marks is usually shown with ___.", options:["Five circles","Five separate dots","One long line","Four straight lines and one diagonal line across them"], answer:3},
+     {q:"How many tally marks make one full group?", options:["4","5","3","6"], answer:1},
+     {q:"If you have 2 full groups of tally marks, how many is that?", options:["12","8","10","5"], answer:2},
+     {q:"Tally marks help us ___ things easily.", options:["Colour","Count","Sing about","Draw"], answer:1},
+     {q:"Four lines plus one diagonal line across them shows how many tally marks?", options:["6","4","10","5"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many single tally marks make one group before you draw the diagonal line?", answers:["5","five"]},
+     {prompt:"If you have one full group of tally marks, how many does that show?", answers:["5","five"]},
+     {prompt:"Tally marks are used to help us do what to objects?", answers:["count"]}
+   ]},
+  {subject:"Science", title:"Healthy Habits: Food and Exercise", summary:"Students learn that eating healthy foods, drinking water, staying active, and getting enough sleep help keep our bodies healthy and strong.",
+   resourceLabel:"YouTube: Healthy Habits: Food and Exercise", resourceUrl:"https://www.youtube.com/results?search_query=Healthy%20Habits%3A%20Food%20and%20Exercise%20kindergarten%20educational",
+   quiz:[
+     {q:"Which food is a healthy choice?", options:["Candy only","Chips only","Soda","An apple"], answer:3},
+     {q:"Why is exercise good for our bodies?", options:["It only helps our hair","It has no benefit","It keeps our bodies strong and healthy","It makes us tired forever"], answer:2},
+     {q:"What should we drink most often to stay healthy?", options:["Water","Juice only","Nothing","Soda"], answer:0},
+     {q:"Why do our bodies need sleep?", options:["To make us hungry","Sleep is not needed","To rest and grow","To make us sick"], answer:2},
+     {q:"Which is an example of exercise?", options:["Sitting quietly all day","Watching television all day","Sleeping all day","Running and jumping"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one healthy food, like a fruit or vegetable.", answers:["apple","banana","carrot","fruit","vegetable","broccoli"]},
+     {prompt:"What should we drink to stay healthy?", answers:["water"]},
+     {prompt:"Name one way to exercise, like running or jumping.", answers:["running","jumping","playing","walking","dancing"]}
+   ]},
+  {subject:"SocialStudies", title:"Where Our Food Comes From", summary:"Students learn that much of our food comes from farms, where farmers grow plants and raise animals, before it reaches grocery stores and our tables.",
+   resourceLabel:"YouTube: Where Our Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Where%20Our%20Food%20Comes%20From%20kindergarten%20educational",
+   quiz:[
+     {q:"Where do many fruits and vegetables come from?", options:["A farm","A toy store","A library","A pool"], answer:0},
+     {q:"Who grows crops and raises animals for food?", options:["A doctor","A pilot","A farmer","A teacher"], answer:2},
+     {q:"Before food reaches our table, it often travels from a farm to a ___.", options:["Grocery store","Playground","Museum","Movie theatre"], answer:0},
+     {q:"Which of these comes from an animal?", options:["A carrot","Milk","An apple","Bread from wheat only"], answer:1},
+     {q:"Why is it important to know where food comes from?", options:["It helps us understand and appreciate our food","It is not important","It has no purpose","Only farmers need to know"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Who grows the fruits and vegetables we eat?", answers:["farmer","farmers"]},
+     {prompt:"Name one place food travels to after leaving a farm.", answers:["grocery store","store","market"]},
+     {prompt:"Name one food that comes from an animal, like milk or eggs.", answers:["milk","eggs","cheese","meat"]}
+   ]},
+]},
+{day:36, label:"Day 36 — Mon", subjects:[
+  {subject:"Language", title:"Opposites: Words That Mean the Opposite", summary:"Students explore opposite word pairs such as big and small, hot and cold, and up and down to build vocabulary and understanding of contrast.",
+   resourceLabel:"YouTube: Opposites: Words That Mean the Opposite", resourceUrl:"https://www.youtube.com/results?search_query=Opposites%3A%20Words%20That%20Mean%20the%20Opposite%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the opposite of big?", options:["Small","Tall","Fast","Round"], answer:0},
+     {q:"What is the opposite of hot?", options:["Cold","Warm","Sunny","Wet"], answer:0},
+     {q:"What is the opposite of up?", options:["Over","Sideways","Near","Down"], answer:3},
+     {q:"What is the opposite of happy?", options:["Excited","Silly","Sad","Glad"], answer:2},
+     {q:"What is the opposite of fast?", options:["Quick","Slow","Loud","Bright"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the opposite of day?", answers:["night"]},
+     {prompt:"What is the opposite of open?", answers:["closed","shut"]},
+     {prompt:"What is the opposite of full?", answers:["empty"]}
+   ]},
+  {subject:"Math", title:"Symmetry: Matching Halves", summary:"Students explore symmetry by folding shapes and pictures in half to see when both sides match exactly, like a butterfly or a heart.",
+   resourceLabel:"YouTube: Symmetry: Matching Halves", resourceUrl:"https://www.youtube.com/results?search_query=Symmetry%3A%20Matching%20Halves%20kindergarten%20educational",
+   quiz:[
+     {q:"A shape is symmetrical when ___.", options:["Both halves match exactly when folded","It has no shape","It has many corners","It is always red"], answer:0},
+     {q:"Which of these shapes is symmetrical?", options:["A heart","A random splash of paint","A scribble","An uneven blob"], answer:0},
+     {q:"If you fold a symmetrical picture in half, both sides ___.", options:["Look completely different","Disappear","Match exactly","Turn a new colour"], answer:2},
+     {q:"Which everyday object often looks symmetrical?", options:["A butterfly","A messy scribble","A puddle","A cloud"], answer:0},
+     {q:"The line where you fold a shape to check symmetry is called the ___.", options:["Number line","Finish line","Colour line","Line of symmetry"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If you fold a symmetrical shape in half, do both sides match or not match?", answers:["match"]},
+     {prompt:"Name one object that looks symmetrical, like a butterfly or a heart.", answers:["butterfly","heart"]},
+     {prompt:"What do we call the line where you fold a shape to check for symmetry?", answers:["line of symmetry","fold line"]}
+   ]},
+  {subject:"Science", title:"Reduce, Reuse, Recycle", summary:"Students learn three simple ways to help the environment: reduce how much we use, reuse items instead of throwing them away, and recycle materials like paper and plastic.",
+   resourceLabel:"YouTube: Reduce, Reuse, Recycle", resourceUrl:"https://www.youtube.com/results?search_query=Reduce%2C%20Reuse%2C%20Recycle%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to reduce?", options:["Throw everything away","Use less of something","Never use anything","Use more than you need"], answer:1},
+     {q:"What does it mean to reuse an item?", options:["Never touch it again","Use it again instead of throwing it out","Throw it away right away","Recycle it immediately"], answer:1},
+     {q:"What does it mean to recycle?", options:["Bury everything in the ground","Throw everything in the garbage","Turn used materials into new items","Burn all materials"], answer:2},
+     {q:"Which of these can often be recycled?", options:["Only glass","Nothing can be recycled","Paper and plastic bottles","Food waste only"], answer:2},
+     {q:"Why is it helpful to reduce, reuse, and recycle?", options:["It has no benefit","It hurts the environment","It makes more garbage","It helps protect our environment and reduces waste"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word means to use an item again instead of throwing it away?", answers:["reuse"]},
+     {prompt:"What word means turning used materials into new items?", answers:["recycle"]},
+     {prompt:"Name one material that can often be recycled.", answers:["paper","plastic","glass","cardboard"]}
+   ]},
+  {subject:"SocialStudies", title:"Taking Care of Our Belongings", summary:"Students learn the importance of taking care of their toys, books, and clothing by keeping them clean, putting them away, and treating them gently.",
+   resourceLabel:"YouTube: Taking Care of Our Belongings", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Belongings%20kindergarten%20educational",
+   quiz:[
+     {q:"Why should we take care of our belongings?", options:["So they last longer and stay useful","Only adults need to care for things","It does not matter","So we can throw them away sooner"], answer:0},
+     {q:"Which is a good way to take care of a book?", options:["Throw it in mud","Leave it outside in the rain","Turn pages gently and keep it clean","Rip the pages"], answer:2},
+     {q:"After playing with toys, what should you do?", options:["Give them away without asking","Break them","Put them away neatly","Leave them everywhere"], answer:2},
+     {q:"Taking care of your belongings shows ___.", options:["Nothing important","Laziness","Responsibility","Carelessness"], answer:2},
+     {q:"Which is an example of NOT taking care of belongings?", options:["Washing your hands","Throwing toys and stepping on them","Putting clothes away neatly","Cleaning your desk"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What should you do with toys after you finish playing?", answers:["put them away","clean up"]},
+     {prompt:"Name one way to take care of a book.", answers:["turn pages gently","keep it clean","do not rip it"]},
+     {prompt:"Taking care of your things shows that you are being ___.", answers:["responsible"]}
+   ]},
+]},
+{day:37, label:"Day 37 — Tue", subjects:[
+  {subject:"Language", title:"Story Elements: Beginning, Middle, End", summary:"Students learn that stories have a beginning that introduces characters, a middle with a problem or event, and an end that solves the problem.",
+   resourceLabel:"YouTube: Story Elements: Beginning, Middle, End", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Elements%3A%20Beginning%2C%20Middle%2C%20End%20kindergarten%20educational",
+   quiz:[
+     {q:"What happens at the beginning of a story?", options:["Characters and setting are introduced","The problem is solved","Nothing happens","The story ends"], answer:0},
+     {q:"What usually happens in the middle of a story?", options:["A problem or event happens","The book closes","Credits roll","The story starts"], answer:0},
+     {q:"What happens at the end of a story?", options:["The problem is solved","Nothing at all","The story just starts","Characters are introduced"], answer:0},
+     {q:"Characters in a story are ___.", options:["The title only","The pictures only","The page numbers","The people or animals in the story"], answer:3},
+     {q:"Why do stories have a beginning, middle, and end?", options:["To help the story make sense in order","It is not necessary","Only for long books","To confuse readers"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What part of the story introduces the characters?", answers:["beginning"]},
+     {prompt:"What part of the story has the problem?", answers:["middle"]},
+     {prompt:"What part of the story solves the problem?", answers:["end"]}
+   ]},
+  {subject:"Math", title:"Numbers to 30", summary:"Students count, read, and recognize numbers from 20 to 30, extending their counting skills beyond 20.",
+   resourceLabel:"YouTube: Numbers to 30", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2030%20kindergarten%20educational",
+   quiz:[
+     {q:"What number comes after 24?", options:["20","25","26","23"], answer:1},
+     {q:"What number comes before 30?", options:["29","27","31","28"], answer:0},
+     {q:"Count: 26, 27, 28, ___.", options:["25","29","31","30"], answer:1},
+     {q:"Which number is between 21 and 23?", options:["25","22","24","20"], answer:1},
+     {q:"What number comes right after 29?", options:["31","30","28","20"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 27?", answers:["28"]},
+     {prompt:"What number comes right before 30?", answers:["29"]},
+     {prompt:"Write the number that comes between 24 and 26.", answers:["25"]}
+   ]},
+  {subject:"Science", title:"Simple Machines: Ramps and Wheels", summary:"Students explore two simple machines, ramps and wheels, and how they make moving objects easier.",
+   resourceLabel:"YouTube: Simple Machines: Ramps and Wheels", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Ramps%20and%20Wheels%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a ramp help us do?", options:["Cook food","Move things up or down more easily","Grow plants","Make loud noises"], answer:1},
+     {q:"What do wheels help with?", options:["Making objects heavier","Making objects move more easily","Making objects colourful","Stopping all movement"], answer:1},
+     {q:"Which of these is an example of a ramp?", options:["A spoon","A blanket","A slide","A ball"], answer:2},
+     {q:"Why do cars and bikes have wheels?", options:["To help them move smoothly","To make noise","To look nice","To make them heavier"], answer:0},
+     {q:"A ramp is a simple machine shaped like a ___.", options:["Slanted surface","Star","Circle","Cube"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one object that uses wheels to move, like a car or bike.", answers:["car","bike","bicycle","wagon"]},
+     {prompt:"What simple machine is shaped like a slide and helps move things up or down?", answers:["ramp"]},
+     {prompt:"Do wheels make it easier or harder to move objects?", answers:["easier"]}
+   ]},
+  {subject:"SocialStudies", title:"Keeping Our Community Clean", summary:"Students learn simple ways to help keep their community clean, such as putting garbage in the bin, picking up litter, and taking care of parks.",
+   resourceLabel:"YouTube: Keeping Our Community Clean", resourceUrl:"https://www.youtube.com/results?search_query=Keeping%20Our%20Community%20Clean%20kindergarten%20educational",
+   quiz:[
+     {q:"Where should garbage go?", options:["In the park grass","On the ground","In a garbage bin","Anywhere"], answer:2},
+     {q:"Litter is ___.", options:["A community helper","Garbage left on the ground instead of in a bin","A type of food","A type of flower"], answer:1},
+     {q:"Why is it important to keep our community clean?", options:["It makes more work for no reason","It does not matter","It keeps places healthy, safe, and nice for everyone","Only workers should care"], answer:2},
+     {q:"Which is a good way to help keep a park clean?", options:["Breaking plants","Picking up litter and using bins","Leaving trash behind","Ignoring the mess"], answer:1},
+     {q:"Everyone in a community can help keep it clean by ___.", options:["Doing nothing","Only blaming others","Leaving it to one person","Throwing garbage properly and picking up litter"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where should you put your garbage?", answers:["garbage bin","bin","trash can"]},
+     {prompt:"What word means garbage left on the ground instead of in a bin?", answers:["litter"]},
+     {prompt:"Name one way to help keep a park clean.", answers:["pick up litter","use the garbage bin","do not litter"]}
+   ]},
+]},
+{day:38, label:"Day 38 — Wed", subjects:[
+  {subject:"Language", title:"Writing: My Name", summary:"Students practise writing their own first name correctly, starting with a capital letter, as an important early writing and identity skill.",
+   resourceLabel:"YouTube: Writing: My Name", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Name%20kindergarten%20educational",
+   quiz:[
+     {q:"A name should always start with a ___.", options:["Lowercase letter","Symbol","Capital letter","Number"], answer:2},
+     {q:"Why is it important to learn to write your own name?", options:["It helps you recognize and label your own things","It is not important","Only teachers need names","Names are only spoken, never written"], answer:0},
+     {q:"If your name is Sam, how should you write the first letter?", options:["No letter at all","A number","lowercase s","Capital S"], answer:3},
+     {q:"Where might you write your name at school?", options:["Nowhere at school","Only in a book you do not own","Only on the wall","On your worksheet or cubby"], answer:3},
+     {q:"Practising writing your name helps you build ___.", options:["Cooking skills","Swimming skills","Fine motor and writing skills","Singing skills"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Should your name start with a capital letter or a lowercase letter?", answers:["capital letter","capital"]},
+     {prompt:"Write your first name using a capital letter at the start.", answers:["name","yes"]},
+     {prompt:"Name one place at school where you might write your name.", answers:["worksheet","cubby","paper","desk"]}
+   ]},
+  {subject:"Math", title:"Estimation: About How Many?", summary:"Students practise estimating, or making a smart guess, about how many objects are in a group before counting to check.",
+   resourceLabel:"YouTube: Estimation: About How Many?", resourceUrl:"https://www.youtube.com/results?search_query=Estimation%3A%20About%20How%20Many%3F%20kindergarten%20educational",
+   quiz:[
+     {q:"Estimating means ___.", options:["Always guessing zero","Ignoring numbers","Making a smart guess about an amount","Counting very slowly"], answer:2},
+     {q:"If a jar looks like it has about 10 candies, a good estimate might be ___.", options:["1000","1","10","0"], answer:2},
+     {q:"After estimating how many objects are in a group, what should you do to check?", options:["Nothing","Draw them","Count them","Throw them away"], answer:2},
+     {q:"Which is a more reasonable estimate for the number of students in one classroom?", options:["2","0","20","2000"], answer:2},
+     {q:"Estimating is a useful skill because it helps us ___.", options:["Avoid counting forever","Make quick, reasonable guesses before counting exactly","Make numbers disappear","Never need math"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to estimate?", answers:["make a smart guess","guess"]},
+     {prompt:"After you estimate how many objects there are, what should you do next?", answers:["count them","count"]},
+     {prompt:"Which is a more reasonable estimate for apples in a small basket: 5 or 5000?", answers:["5","five"]}
+   ]},
+  {subject:"Science", title:"Magnets: Attract and Repel", summary:"Students explore magnets and discover that they can pull, or attract, certain metal objects, and can also push away, or repel, other magnets.",
+   resourceLabel:"YouTube: Magnets: Attract and Repel", resourceUrl:"https://www.youtube.com/results?search_query=Magnets%3A%20Attract%20and%20Repel%20kindergarten%20educational",
+   quiz:[
+     {q:"What can a magnet pull toward it?", options:["Water","Paper only","Wooden blocks","Certain metal objects"], answer:3},
+     {q:"When a magnet pulls an object toward it, this is called ___.", options:["Floating","Repelling","Sinking","Attracting"], answer:3},
+     {q:"When two magnets push away from each other, this is called ___.", options:["Attracting","Repelling","Freezing","Melting"], answer:1},
+     {q:"Which object would a magnet most likely attract?", options:["A paper clip","A cotton ball","A plastic cup","A wooden spoon"], answer:0},
+     {q:"Magnets are useful for ___.", options:["Picking up certain metal objects","Growing plants","Changing the weather","Making food taste better"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word means a magnet pulling an object toward it?", answers:["attract","attracting"]},
+     {prompt:"What word means two magnets pushing away from each other?", answers:["repel","repelling"]},
+     {prompt:"Name one object a magnet could pick up, like a paper clip.", answers:["paper clip","nail","metal object"]}
+   ]},
+  {subject:"SocialStudies", title:"Working Together: Teamwork and Cooperation", summary:"Students explore how working together, sharing jobs, and helping each other lets a group accomplish more than one person alone, both at school and at home.",
+   resourceLabel:"YouTube: Working Together: Teamwork and Cooperation", resourceUrl:"https://www.youtube.com/results?search_query=Working%20Together%3A%20Teamwork%20and%20Cooperation%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to work as a team?", options:["Ignoring others","Working alone always","Competing to be the only winner","People working together toward a shared goal"], answer:3},
+     {q:"Which is an example of good teamwork?", options:["Refusing to help classmates","Sharing jobs and helping each other clean up","Taking all the toys for yourself","Ignoring group instructions"], answer:1},
+     {q:"Why is teamwork helpful?", options:["It never helps anyone","Groups can often accomplish more together than one person alone","It makes tasks harder","Only adults can work as a team"], answer:1},
+     {q:"When cleaning up a classroom together, everyone should ___.", options:["Make more mess","Help with a part of the job","Wait for one person to do it all","Leave the room"], answer:1},
+     {q:"Cooperation means ___.", options:["Working alone only","Ignoring group needs","Working well together with others","Arguing constantly"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call people working together toward the same goal?", answers:["teamwork","team"]},
+     {prompt:"Name one place you can practise teamwork, like at school or at home.", answers:["school","home","classroom"]},
+     {prompt:"When everyone helps clean up together, is that good teamwork or bad teamwork?", answers:["good teamwork","good"]}
+   ]},
+]},
+{day:39, label:"Day 39 — Thu", subjects:[
+  {subject:"Language", title:"Listening and Following Directions", summary:"Students practise listening carefully to simple two-step directions and following them in order, an important early literacy and classroom skill.",
+   resourceLabel:"YouTube: Listening and Following Directions", resourceUrl:"https://www.youtube.com/results?search_query=Listening%20and%20Following%20Directions%20kindergarten%20educational",
+   quiz:[
+     {q:"Why is it important to listen carefully to directions?", options:["It is not important","So you can follow them correctly","Only teachers need to listen","Directions are always the same"], answer:1},
+     {q:"If someone says stand up then clap your hands, what should you do first?", options:["Clap your hands","Nothing","Stand up","Sit down"], answer:2},
+     {q:"Following directions in the correct order is called ___.", options:["Sleeping","Singing","Painting","Sequencing"], answer:3},
+     {q:"Which is a good listening habit?", options:["Looking at the speaker and staying quiet","Playing with toys during directions","Talking while others speak","Ignoring instructions"], answer:0},
+     {q:"If you are unsure about a direction, what should you do?", options:["Guess and never ask","Do something else instead","Ignore it","Ask a question to make sure you understand"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If told to clap then jump, what should you do first?", answers:["clap"]},
+     {prompt:"What should you do if you do not understand a direction?", answers:["ask a question","ask"]},
+     {prompt:"Following directions in the correct order is called ___.", answers:["sequencing"]}
+   ]},
+  {subject:"Math", title:"Doubles: Adding a Number to Itself", summary:"Students explore doubles facts, where a number is added to itself, such as 2 plus 2 or 3 plus 3, to build quick addition fluency.",
+   resourceLabel:"YouTube: Doubles: Adding a Number to Itself", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%3A%20Adding%20a%20Number%20to%20Itself%20kindergarten%20educational",
+   quiz:[
+     {q:"2 + 2 = ?", options:["4","6","3","5"], answer:0},
+     {q:"3 + 3 = ?", options:["7","5","8","6"], answer:3},
+     {q:"A doubles fact means ___.", options:["Subtracting a number","Multiplying by zero","Adding two different numbers","Adding a number to itself"], answer:3},
+     {q:"4 + 4 = ?", options:["7","6","9","8"], answer:3},
+     {q:"5 + 5 = ?", options:["11","10","8","9"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"2 + 2 = ?", answers:["4","four"]},
+     {prompt:"3 + 3 = ?", answers:["6","six"]},
+     {prompt:"5 + 5 = ?", answers:["10","ten"]}
+   ]},
+  {subject:"Science", title:"Rocks and Soil", summary:"Students explore rocks and soil, learning that rocks can be different sizes, colours, and textures, and that soil is made partly of tiny broken pieces of rock along with other materials.",
+   resourceLabel:"YouTube: Rocks and Soil", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Soil%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these best describes soil?", options:["A type of metal","A mix of tiny broken rock pieces and other materials","Only water","A liquid"], answer:1},
+     {q:"Rocks can be different ___.", options:["Sizes, colours, and textures","Only one colour","Only round","Only one size"], answer:0},
+     {q:"Which of these is an example of a rock?", options:["A cloud","A pebble","A raindrop","A leaf only"], answer:1},
+     {q:"Plants often grow in ___.", options:["Soil","Only rocks","Only air","Only water"], answer:0},
+     {q:"A very small rock, smaller than a stone, is often called a ___.", options:["Boulder","Pebble","Cliff","Mountain"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is soil partly made of, along with other materials?", answers:["broken rock","tiny rock pieces","rock"]},
+     {prompt:"Name one place plants often grow in outside.", answers:["soil","dirt","ground"]},
+     {prompt:"What do we call a very small rock, smaller than a stone?", answers:["pebble"]}
+   ]},
+  {subject:"SocialStudies", title:"Children Around the World", summary:"Students learn that children around the world go to school, play, and live in families, though homes, clothing, food, and languages may look different from place to place.",
+   resourceLabel:"YouTube: Children Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Children%20Around%20the%20World%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is true about children all around the world?", options:["None of them go to school","They share things in common, like family and play, even though some things differ","They never have families","They are all exactly the same"], answer:1},
+     {q:"Why might children in different countries speak different languages?", options:["They come from different countries and cultures","Language never changes","It is random with no reason","Only some children speak languages"], answer:0},
+     {q:"Which of these might be different for children in different parts of the world?", options:["Whether they are children at all","Nothing is ever different","Clothing, food, and homes","Whether they have families"], answer:2},
+     {q:"Learning about children in other countries helps us ___.", options:["Ignore other cultures","Understand and respect different cultures","Believe only our own way is correct","Avoid learning anything new"], answer:1},
+     {q:"Which activity do most children around the world enjoy, no matter where they live?", options:["Playing","Sleeping all day","Working only","Nothing in common exists"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one thing that might be different for children in another country, like food or clothing.", answers:["food","clothing","language","homes"]},
+     {prompt:"Name one thing children around the world often have in common.", answers:["family","play","school","friends"]},
+     {prompt:"Learning about other cultures helps us build ___ for others.", answers:["respect","understanding"]}
+   ]},
+]},
+{day:40, label:"Day 40 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Sounds, Syllables, and Stories", summary:"Students review key Language skills from recent weeks: the letters N and O, beginning and ending sounds, syllables, opposites, story elements, writing names, and listening to directions.",
+   resourceLabel:"YouTube: Language Review: Sounds, Syllables, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Sounds%2C%20Syllables%2C%20and%20Stories%20kindergarten%20educational",
+   quiz:[
+     {q:"Which letter makes the sound heard at the start of nest?", options:["N","P","O","M"], answer:0},
+     {q:"Which letter makes the round shape like the one in orange?", options:["M","O","P","N"], answer:1},
+     {q:"How many syllables (claps) are in the word banana?", options:["3","2","4","1"], answer:0},
+     {q:"What is the opposite of hot?", options:["Sunny","Warm","Dry","Cold"], answer:3},
+     {q:"What part of a story tells us who the characters are?", options:["The end","The cover only","The beginning","The middle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What letter comes right after M?", answers:["n"]},
+     {prompt:"What letter comes right after N?", answers:["o"]},
+     {prompt:"What part of a story usually solves the problem: the beginning or the end?", answers:["end","the end"]}
+   ]},
+  {subject:"Math", title:"Math Review: Numbers, Time, and Shapes", summary:"Students review recent Math skills: comparing numbers, making 10, position words, telling time, tally marks, symmetry, numbers to 30, estimation, and doubles facts.",
+   resourceLabel:"YouTube: Math Review: Numbers, Time, and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Time%2C%20and%20Shapes%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is more: 4 or 9?", options:["4","They are equal","9","Cannot tell"], answer:2},
+     {q:"6 and ___ make 10.", options:["5","2","3","4"], answer:3},
+     {q:"What number comes right after 27?", options:["26","28","30","29"], answer:1},
+     {q:"3 + 3 = ?", options:["5","8","7","6"], answer:3},
+     {q:"A shape where both halves match when folded is called ___.", options:["Random","Symmetrical","Uneven","Broken"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Which is less: 3 or 8?", answers:["3","three"]},
+     {prompt:"8 and ___ make 10.", answers:["2","two"]},
+     {prompt:"4 + 4 = ?", answers:["8","eight"]}
+   ]},
+  {subject:"Science", title:"Science Review: Senses, Life Cycles, and Our Earth", summary:"Students review recent Science topics: the five senses, the life cycles of butterflies and frogs, healthy habits, reducing waste, simple machines, magnets, and rocks and soil.",
+   resourceLabel:"YouTube: Science Review: Senses, Life Cycles, and Our Earth", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Senses%2C%20Life%20Cycles%2C%20and%20Our%20Earth%20kindergarten%20educational",
+   quiz:[
+     {q:"Which body part do we use to hear?", options:["Eyes","Ears","Nose","Tongue"], answer:1},
+     {q:"What is the first stage of a butterfly life cycle?", options:["Adult","Chrysalis","Egg","Caterpillar"], answer:2},
+     {q:"What comes out of a frog egg?", options:["Adult frog","Tadpole","Chrysalis","Caterpillar"], answer:1},
+     {q:"What word means a magnet pulling an object toward it?", options:["Attracting","Repelling","Melting","Floating"], answer:0},
+     {q:"What is soil partly made of?", options:["Only air","Only metal","Tiny broken rock pieces","Only water"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which body part helps you taste food?", answers:["tongue"]},
+     {prompt:"What is the last stage of a butterfly life cycle?", answers:["butterfly"]},
+     {prompt:"What word means two magnets pushing away from each other?", answers:["repel","repelling"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Community and Change", summary:"Students review recent Social Studies topics: transportation, maps, changes over time, traffic safety, where food comes from, caring for belongings, teamwork, keeping our community clean, and children around the world.",
+   resourceLabel:"YouTube: Social Studies Review: Community and Change", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%20and%20Change%20kindergarten%20educational",
+   quiz:[
+     {q:"Which vehicle travels on train tracks?", options:["Train","Boat","Bicycle","Car"], answer:0},
+     {q:"What colour traffic light means stop?", options:["Blue","Yellow","Green","Red"], answer:3},
+     {q:"Who grows the fruits and vegetables we eat?", options:["Pilots","Doctors","Teachers","Farmers"], answer:3},
+     {q:"What do we call garbage left on the ground instead of in a bin?", options:["Recycling","Soil","Compost","Litter"], answer:3},
+     {q:"Working together toward a shared goal is called ___.", options:["Arguing","Competing alone","Ignoring","Teamwork"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What colour traffic light means go?", answers:["green"]},
+     {prompt:"Where should garbage go?", answers:["garbage bin","bin","trash can"]},
+     {prompt:"Name one way children around the world are similar, like going to school or playing.", answers:["school","play","family"]}
+   ]},
+]},
 ];
 
 export default curriculum;
