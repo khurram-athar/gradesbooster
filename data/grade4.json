@@ -14602,5 +14602,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Analogies",
+        "summary": "Grade 4 Language strand: an analogy compares two pairs of words that share the same kind of relationship, such as hot is to cold as up is to down.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "An analogy compares two pairs of words that share the same ___.",
+            "options": [
+              "Type of relationship",
+              "X unrelated to analogies",
+              "Number of letters",
+              "Spelling pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word completes the analogy: Bird is to nest as bee is to ___?",
+            "options": [
+              "Hive",
+              "X unrelated to the analogy",
+              "Web",
+              "Burrow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word completes the analogy: Puppy is to dog as kitten is to ___?",
+            "options": [
+              "Cow",
+              "Foal",
+              "X unrelated to the analogy",
+              "Cat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Hot is to cold as up is to ___?",
+            "options": [
+              "Sideways",
+              "Down",
+              "X unrelated to the analogy",
+              "Around"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are analogies useful for building vocabulary?",
+            "options": [
+              "Analogies have no connection to word meaning",
+              "They help readers see how word meanings and relationships connect",
+              "Analogies only test spelling, not meaning",
+              "X unrelated to vocabulary building"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Place Value to 10,000",
+        "summary": "Grade 4 Math strand: place value to 10,000 describes the value of each digit in a number based on its position -- ones, tens, hundreds, and thousands.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "In the number 6,482, the digit 4 represents ___.",
+            "options": [
+              "X unrelated to place value",
+              "4 tens",
+              "4 thousands",
+              "4 hundreds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the value of the 7 in 7,315?",
+            "options": [
+              "70",
+              "X unrelated to place value",
+              "700",
+              "7,000"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number has a 5 in the thousands place?",
+            "options": [
+              "5,214",
+              "2,514",
+              "X unrelated to place value",
+              "1,254"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3,000 + 400 + 20 + 6 written as a standard number?",
+            "options": [
+              "X unrelated to place value",
+              "3,246",
+              "3,426",
+              "3,624"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to understand place value in large numbers?",
+            "options": [
+              "It helps read, write, and compare numbers accurately",
+              "Every digit in a number always has the same value",
+              "Place value has no effect on the meaning of a number",
+              "X unrelated to place value"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Canadian Biomes: Forests, Wetlands, and Tundra",
+        "summary": "Grade 4 Science strand: Canada contains several distinct biomes, including forests, wetlands, and tundra, each with its own climate, plants, and animals.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "A biome is best described as a large region with a distinct ___.",
+            "options": [
+              "Type of rock only",
+              "X unrelated to biomes",
+              "Style of building",
+              "Climate, plants, and animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which biome is found in Canada’s far north, with very cold temperatures and few trees?",
+            "options": [
+              "Rainforest",
+              "Wetland",
+              "Tundra",
+              "X unrelated to biomes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A wetland is an area that is ___.",
+            "options": [
+              "Located only underground",
+              "X unrelated to biomes",
+              "Covered by water for at least part of the year",
+              "Always completely dry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which biome covers much of central and northern Ontario, with many coniferous and deciduous trees?",
+            "options": [
+              "Desert",
+              "Forest",
+              "Tundra",
+              "X unrelated to biomes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study different biomes?",
+            "options": [
+              "To understand how climate shapes the plants and animals living there",
+              "Every biome on Earth is exactly the same",
+              "X unrelated to biomes",
+              "Biomes provide no useful scientific information"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Ancient Maya Civilization",
+        "summary": "Grade 4 Social Studies strand: the ancient Maya built cities in Central America between about 2000 BCE and 1500 CE, known for their pyramids, writing system, and knowledge of astronomy.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The ancient Maya civilization was located in ___.",
+            "options": [
+              "Southern Africa",
+              "Central America",
+              "Northern Europe",
+              "X unrelated to the Maya"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Maya built large stone structures known as ___.",
+            "options": [
+              "Log cabins",
+              "X unrelated to Maya architecture",
+              "Pyramids",
+              "Igloos"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Maya developed a system of ___ to record dates and events.",
+            "options": [
+              "Modern printing presses",
+              "Writing (hieroglyphs)",
+              "Money made only of paper",
+              "X unrelated to Maya achievements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Maya were skilled observers of ___.",
+            "options": [
+              "X unrelated to Maya knowledge",
+              "The stars and sky (astronomy)",
+              "Only underwater life",
+              "Modern machinery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study the ruins of Maya cities today?",
+            "options": [
+              "Maya ruins provide no historical information",
+              "The Maya left behind no evidence of their civilization",
+              "They reveal how the Maya lived, built, and organized their society",
+              "X unrelated to studying history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Alliteration",
+        "summary": "Grade 4 Language strand: alliteration is the repetition of the same beginning consonant sound in a series of nearby words, such as slippery snakes slither silently.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Alliteration is the repetition of the same ___ in nearby words.",
+            "options": [
+              "Ending vowel sound",
+              "Beginning consonant sound",
+              "Number of syllables",
+              "X unrelated to alliteration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "The dog ran quickly",
+              "X unrelated to alliteration",
+              "Busy bees buzzed by",
+              "The sun was very hot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "Peter Piper picked peppers",
+              "The cat sat on the mat",
+              "She walked to the store",
+              "X unrelated to alliteration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet use alliteration?",
+            "options": [
+              "Alliteration has no effect on how a poem sounds",
+              "X unrelated to figurative language",
+              "To create rhythm and make language more memorable",
+              "To make a poem harder to read aloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word best continues this alliteration pattern: Silly snakes slid ___?",
+            "options": [
+              "Away",
+              "Loudly",
+              "Slowly",
+              "X unrelated to alliteration"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying 2-Digit by 2-Digit Numbers",
+        "summary": "Grade 4 Math strand: multiplying a 2-digit number by another 2-digit number involves breaking each factor into tens and ones, then adding the partial products together.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "When multiplying 2-digit numbers, each factor can be broken into ___.",
+            "options": [
+              "Only hundreds",
+              "X unrelated to multiplication",
+              "Only fractions",
+              "Tens and ones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 12 × 13?",
+            "options": [
+              "X unrelated to the calculation",
+              "156",
+              "146",
+              "136"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 21 × 14?",
+            "options": [
+              "294",
+              "X unrelated to the calculation",
+              "304",
+              "284"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 15 × 15?",
+            "options": [
+              "225",
+              "X unrelated to the calculation",
+              "215",
+              "235"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to break numbers into tens and ones before multiplying?",
+            "options": [
+              "It makes multiplying large numbers more manageable in smaller steps",
+              "It changes the value of the original numbers",
+              "Breaking numbers apart makes multiplication impossible",
+              "X unrelated to multiplication strategies"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Camouflage and Mimicry",
+        "summary": "Grade 4 Science strand: camouflage helps an animal blend into its surroundings, while mimicry occurs when one species evolves to resemble another species, both as strategies for survival.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Camouflage helps an animal ___.",
+            "options": [
+              "X unrelated to camouflage",
+              "Grow larger than other animals",
+              "Blend into its surroundings to avoid predators",
+              "Attract as much attention as possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Mimicry occurs when one species ___.",
+            "options": [
+              "Has no connection to any other species",
+              "Changes location every single day",
+              "X unrelated to mimicry",
+              "Resembles another species for protection or advantage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of camouflage?",
+            "options": [
+              "X unrelated to camouflage",
+              "A polar bear’s white fur blending into snow",
+              "A lion’s loud roar",
+              "A peacock’s bright, colourful tail feathers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a harmless insect evolve to look like a stinging wasp?",
+            "options": [
+              "To trick predators into avoiding it, an example of mimicry",
+              "X unrelated to mimicry",
+              "Looking similar to another species provides no benefit",
+              "Insects never resemble other species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do camouflage and mimicry both help animals survive?",
+            "options": [
+              "They make animals more visible to predators",
+              "X unrelated to animal survival strategies",
+              "They have no effect on an animal’s chances of survival",
+              "They help animals avoid predators or better catch prey"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Ancient Nubia (Kingdom of Kush)",
+        "summary": "Grade 4 Social Studies strand: ancient Nubia, home to the Kingdom of Kush, was located along the Nile River south of Egypt and became known for its skilled ironworkers, pyramids, and trade in gold.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The ancient Kingdom of Kush was located ___.",
+            "options": [
+              "In Northern Europe",
+              "X unrelated to Nubia",
+              "In Central America",
+              "Along the Nile River, south of Egypt"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Nubia became especially well known for its skill in working with ___.",
+            "options": [
+              "Iron",
+              "Plastic",
+              "X unrelated to Nubian achievements",
+              "Rubber"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Like ancient Egypt, the Kingdom of Kush built ___.",
+            "options": [
+              "Pyramids",
+              "Log cabins",
+              "Skyscrapers",
+              "X unrelated to Nubian architecture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nubia traded valuable resources such as ___ with neighbouring regions.",
+            "options": [
+              "Plastic goods",
+              "Modern currency",
+              "X unrelated to Nubian trade",
+              "Gold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to learn about ancient Nubia alongside ancient Egypt?",
+            "options": [
+              "Only Egypt existed in ancient Africa",
+              "X unrelated to ancient African civilizations",
+              "It shows another powerful African civilization with its own rich history",
+              "Nubia had no history worth studying"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Interjections",
+        "summary": "Grade 4 Language strand: an interjection is a word or phrase that expresses strong emotion, such as Wow! or Ouch!, and is often followed by an exclamation mark.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "An interjection is a word that expresses ___.",
+            "options": [
+              "A location in a sentence",
+              "X unrelated to interjections",
+              "A complete action",
+              "Strong emotion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is an interjection?",
+            "options": [
+              "X unrelated to interjections",
+              "Wow",
+              "Table",
+              "Jump"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An interjection is often followed by ___.",
+            "options": [
+              "Quotation marks only",
+              "A semicolon",
+              "An exclamation mark",
+              "X unrelated to punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains an interjection?",
+            "options": [
+              "Ouch! That really hurt.",
+              "She read the book quietly.",
+              "X unrelated to interjections",
+              "The dog ran across the yard."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use an interjection in dialogue?",
+            "options": [
+              "To replace the need for any punctuation",
+              "Interjections never appear in dialogue",
+              "X unrelated to interjections",
+              "To show a character’s strong feeling or reaction"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rounding Decimals",
+        "summary": "Grade 4 Math strand: rounding decimals means adjusting a decimal number to a nearby, simpler value, such as rounding to the nearest whole number or nearest tenth.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Rounding a decimal means adjusting it to a nearby, simpler ___.",
+            "options": [
+              "Value",
+              "Colour",
+              "Shape",
+              "X unrelated to rounding"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 4.7 rounded to the nearest whole number?",
+            "options": [
+              "4",
+              "6",
+              "X unrelated to the calculation",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2.3 rounded to the nearest whole number?",
+            "options": [
+              "1",
+              "3",
+              "2",
+              "X unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 6.85 rounded to the nearest tenth?",
+            "options": [
+              "7.0",
+              "X unrelated to the calculation",
+              "6.9",
+              "6.8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone round a decimal number in everyday life?",
+            "options": [
+              "Rounding decimals serves no practical purpose",
+              "To make an estimate or simplify a number quickly",
+              "Rounding always makes a number less accurate for every purpose",
+              "X unrelated to rounding"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space: Earth’s Rotation and the Day/Night Cycle",
+        "summary": "Grade 4 Science strand: Earth rotates on its axis once approximately every 24 hours, and this rotation causes the cycle of day and night.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earth’s rotation on its axis takes approximately ___.",
+            "options": [
+              "One year",
+              "X unrelated to Earth’s rotation",
+              "24 minutes",
+              "24 hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Day and night occur because Earth ___.",
+            "options": [
+              "Stops moving completely",
+              "X unrelated to day and night",
+              "Rotates on its axis",
+              "Changes shape every day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When your part of Earth is facing the Sun, it is ___.",
+            "options": [
+              "Always winter",
+              "Nighttime",
+              "Daytime",
+              "X unrelated to Earth’s rotation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which term describes Earth spinning on its axis?",
+            "options": [
+              "Revolution around the Sun",
+              "Reflection",
+              "X unrelated to Earth’s movement",
+              "Rotation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different places on Earth experience day and night at different times?",
+            "options": [
+              "X unrelated to Earth’s rotation",
+              "The entire Earth always faces the Sun at once",
+              "The Sun turns on and off each day",
+              "Only half of the rotating Earth faces the Sun at any moment"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Early Societies: Tools and Technology",
+        "summary": "Grade 4 Social Studies strand: early societies developed tools and technology, such as farming implements, pottery, and metalworking, to meet their daily needs and improve their way of life.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Early societies developed tools mainly to ___.",
+            "options": [
+              "X unrelated to early technology",
+              "Meet daily needs, such as farming and building",
+              "Compete in modern sporting events",
+              "Avoid doing any work at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which material did many early societies learn to shape into tools and weapons?",
+            "options": [
+              "X unrelated to early tools",
+              "Metal, such as bronze or iron",
+              "Glass fibre",
+              "Plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Pottery was an important early technology used mainly for ___.",
+            "options": [
+              "Building modern skyscrapers",
+              "X unrelated to pottery",
+              "Powering machines",
+              "Storing and carrying food and water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did farming tools, such as the plow, change early societies?",
+            "options": [
+              "They made growing food impossible",
+              "X unrelated to early technology",
+              "They allowed people to grow more food and support larger communities",
+              "Farming tools had no effect on early societies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study the tools used by early societies?",
+            "options": [
+              "X unrelated to studying history",
+              "Studying tools provides no historical information",
+              "Early societies never used any tools",
+              "Tools reveal how people lived, worked, and solved problems"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Theme",
+        "summary": "Grade 4 Language strand: the theme of a story is its central message or lesson about life, which is different from the plot, or the events that happen.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "The theme of a story is its ___.",
+            "options": [
+              "Central message or lesson about life",
+              "List of characters only",
+              "X unrelated to theme",
+              "Number of chapters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is theme different from plot?",
+            "options": [
+              "Theme is the underlying message, while plot is the sequence of events",
+              "Plot is the message and theme is the setting",
+              "Theme and plot always mean exactly the same thing",
+              "X unrelated to theme"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A story about a character who learns to be honest after telling a lie likely has a theme about ___.",
+            "options": [
+              "Cooking",
+              "X unrelated to the story’s theme",
+              "Honesty",
+              "Travel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might two different stories share the same theme, such as courage?",
+            "options": [
+              "X unrelated to identifying theme",
+              "Different plots and characters can still teach a similar life lesson",
+              "Every story must have a completely unique theme",
+              "Themes can never repeat across different stories"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which question would best help a reader identify a story’s theme?",
+            "options": [
+              "What colour is the book’s cover?",
+              "X unrelated to identifying theme",
+              "What lesson does this story teach about life?",
+              "How many pages does this story have?"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Products and Quotients",
+        "summary": "Grade 4 Math strand: estimating products and quotients involves rounding numbers before multiplying or dividing to quickly predict a reasonable answer.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Estimating a product or quotient means ___.",
+            "options": [
+              "Rounding numbers first to quickly predict a reasonable answer",
+              "Ignoring the numbers completely",
+              "X unrelated to estimation",
+              "Calculating the exact answer with no rounding"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is the best estimate for 29 × 4?",
+            "options": [
+              "120",
+              "X unrelated to the estimate",
+              "200",
+              "90"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is the best estimate for 58 ÷ 6?",
+            "options": [
+              "10",
+              "5",
+              "20",
+              "X unrelated to the estimate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To estimate 19 × 21, you might round to ___.",
+            "options": [
+              "X unrelated to estimating this product",
+              "20 × 20",
+              "19 × 30",
+              "10 × 10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is estimating useful before solving a multiplication or division problem?",
+            "options": [
+              "Estimating never helps with checking an answer",
+              "It helps check whether the exact answer is reasonable",
+              "Estimating always gives the exact same result as calculating",
+              "X unrelated to estimation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Matter: Why Objects Float or Sink (Buoyancy Basics)",
+        "summary": "Grade 4 Science strand: whether an object floats or sinks in water depends on its buoyancy, which compares the object’s weight to the weight of the water it displaces.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Buoyancy refers to the ability of an object to ___.",
+            "options": [
+              "Change colour underwater",
+              "X unrelated to buoyancy",
+              "Dissolve completely in water",
+              "Float in a liquid such as water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An object generally sinks in water when it is ___.",
+            "options": [
+              "Denser (heavier for its size) than water",
+              "Lighter for its size than water",
+              "Exactly the same temperature as water",
+              "X unrelated to sinking"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would most likely float in water?",
+            "options": [
+              "X unrelated to floating",
+              "A solid metal ball",
+              "A small wooden block",
+              "A heavy rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a large steel ship float, even though steel is denser than water?",
+            "options": [
+              "Its hollow shape displaces enough water to support its weight",
+              "X unrelated to buoyancy",
+              "Steel always sinks with no exceptions",
+              "Ships are not actually made of steel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding buoyancy useful in everyday life?",
+            "options": [
+              "X unrelated to buoyancy",
+              "Buoyancy has no real-world application",
+              "All objects behave identically in water",
+              "It helps explain how boats, life jackets, and other objects behave in water"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Early Societies: Leadership and Government Structures",
+        "summary": "Grade 4 Social Studies strand: early societies organized leadership in different ways, from kings and pharaohs to councils of elders, to make decisions and maintain order.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Many early societies were led by a single powerful ruler, such as a ___.",
+            "options": [
+              "Modern prime minister",
+              "King or pharaoh",
+              "Elected mayor",
+              "X unrelated to early leadership"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Some early societies made decisions through a ___.",
+            "options": [
+              "Coin toss with no discussion at all",
+              "Group of strangers chosen at random",
+              "X unrelated to early government",
+              "Council of elders or respected leaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did early societies need some form of leadership or government?",
+            "options": [
+              "X unrelated to early government structures",
+              "Early societies never needed any organization",
+              "To make decisions, resolve conflicts, and maintain order",
+              "Leadership served no purpose in early societies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In ancient Egypt, the pharaoh was believed to be ___.",
+            "options": [
+              "A god-like ruler with great authority",
+              "Chosen by a public vote every year",
+              "X unrelated to Egyptian leadership",
+              "An ordinary citizen with no power"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did leadership structures in early societies differ from one another?",
+            "options": [
+              "Early societies had no leaders at all",
+              "Every early society used the exact same system of leadership",
+              "X unrelated to comparing early societies",
+              "Some had a single ruler, while others relied on councils or shared leadership"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Newspaper Report Writing",
+        "summary": "Grade 4 Language strand: a newspaper report presents factual information about a recent event, answering the questions who, what, where, when, why, and how in a clear headline and opening paragraph.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A newspaper report is mainly meant to ___.",
+            "options": [
+              "Share a completely fictional made-up story",
+              "Present factual information about a recent event",
+              "Persuade readers to buy a product",
+              "X unrelated to newspaper reports"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A strong newspaper report usually answers ___.",
+            "options": [
+              "X unrelated to newspaper reports",
+              "A single random question",
+              "Who, what, where, when, why, and how",
+              "Only the writer’s personal opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The headline of a newspaper report should ___.",
+            "options": [
+              "X unrelated to headlines",
+              "Summarize the story in a short, attention-grabbing way",
+              "Be longer than the entire article",
+              "Never relate to the story’s content"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where is the most important information usually placed in a newspaper report?",
+            "options": [
+              "X unrelated to newspaper structure",
+              "Near the beginning, in the opening paragraph",
+              "Only at the very end of the article",
+              "Hidden within the middle paragraphs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should a newspaper report stick to facts rather than opinions?",
+            "options": [
+              "Opinions are always more important than facts",
+              "Facts are never important in a newspaper report",
+              "So readers can trust the information as accurate and unbiased",
+              "X unrelated to newspaper writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Classifying Polygons by Sides and Angles",
+        "summary": "Grade 4 Math strand: polygons are classified by their number of sides and angles, and can be described as regular (equal sides and angles) or irregular (unequal sides and angles).",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A polygon is classified based on its number of ___.",
+            "options": [
+              "Sides and angles",
+              "X unrelated to classifying polygons",
+              "Curved edges",
+              "Colours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A polygon with five sides is called a ___.",
+            "options": [
+              "X unrelated to polygon names",
+              "Octagon",
+              "Hexagon",
+              "Pentagon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A polygon with six sides is called a ___.",
+            "options": [
+              "Pentagon",
+              "Heptagon",
+              "Hexagon",
+              "X unrelated to polygon names"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A regular polygon has ___.",
+            "options": [
+              "X unrelated to regular polygons",
+              "A different number of sides each time",
+              "All sides and angles equal",
+              "No straight sides at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which best describes an irregular polygon?",
+            "options": [
+              "X unrelated to irregular polygons",
+              "It must always be a circle",
+              "It has no sides or angles at all",
+              "Its sides and angles are not all equal"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather: Cloud Types and What They Predict",
+        "summary": "Grade 4 Science strand: clouds form in different shapes and heights, and identifying cloud types, such as cumulus, stratus, and cirrus, can help predict upcoming weather.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Clouds form when water vapour in the air ___.",
+            "options": [
+              "Instantly disappears",
+              "Cools and condenses into tiny droplets",
+              "Freezes into solid rock",
+              "X unrelated to cloud formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fluffy, puffy clouds with flat bottoms are called ___ clouds.",
+            "options": [
+              "Nimbus only",
+              "Cumulus",
+              "X unrelated to cloud types",
+              "Cirrus"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Thin, wispy clouds high in the sky are called ___ clouds.",
+            "options": [
+              "X unrelated to cloud types",
+              "Stratus only",
+              "Cumulus",
+              "Cirrus"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Flat, grey clouds that cover the sky like a blanket are called ___ clouds.",
+            "options": [
+              "Stratus",
+              "Cumulus only",
+              "X unrelated to cloud types",
+              "Cirrus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might meteorologists study cloud types?",
+            "options": [
+              "Cloud shapes and heights can help predict upcoming weather",
+              "Cloud types provide no useful weather information",
+              "All clouds always predict the exact same weather",
+              "X unrelated to studying weather"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Shield: Formation and Landscape",
+        "summary": "Grade 4 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and northern Canada, shaped by glaciers and known for its lakes, forests, and mineral deposits.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The Canadian Shield is best described as a vast region of ___.",
+            "options": [
+              "Flat farmland found only in southern Ontario",
+              "Ancient rock covering much of central and northern Canada",
+              "Desert sand dunes",
+              "X unrelated to the Canadian Shield"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The landscape of the Canadian Shield was heavily shaped by ___.",
+            "options": [
+              "Ocean waves along a tropical coastline",
+              "Volcanic eruptions happening every year",
+              "Glaciers moving across the land long ago",
+              "X unrelated to the Canadian Shield’s formation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Canadian Shield is known for having many ___.",
+            "options": [
+              "Sandy beaches only",
+              "X unrelated to the Canadian Shield",
+              "Lakes and forests",
+              "Skyscrapers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the rock of the Canadian Shield considered especially old?",
+            "options": [
+              "It formed billions of years ago, making it some of the oldest rock on Earth",
+              "X unrelated to the Canadian Shield",
+              "The rock is not actually old at all",
+              "It formed only a few years ago"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these regions of Canada would you find part of the Canadian Shield?",
+            "options": [
+              "Much of Ontario and Quebec",
+              "X unrelated to the Canadian Shield’s location",
+              "Only Vancouver Island",
+              "Only Prince Edward Island"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Spelling: Silent Letters",
+        "summary": "Grade 4 Language strand: some English words contain silent letters that are written but not pronounced, such as the k in knee or the b in comb.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A silent letter is a letter that is ___.",
+            "options": [
+              "Written but not pronounced",
+              "Never written in a word",
+              "Always pronounced loudly",
+              "X unrelated to silent letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letter is silent in the word knee?",
+            "options": [
+              "K",
+              "E",
+              "N",
+              "X unrelated to silent letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letter is silent in the word comb?",
+            "options": [
+              "B",
+              "M",
+              "C",
+              "X unrelated to silent letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letter is silent in the word write?",
+            "options": [
+              "T",
+              "X unrelated to silent letters",
+              "R",
+              "W"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can silent letters make spelling tricky for readers?",
+            "options": [
+              "Silent letters are always pronounced exactly as written",
+              "A letter appears in the word but is not heard when the word is spoken",
+              "X unrelated to spelling challenges",
+              "Silent letters never appear in the English language"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Capacity: Litres and Millilitres",
+        "summary": "Grade 4 Math strand: capacity describes how much liquid a container can hold, and is measured in millilitres (mL) for small amounts and litres (L) for larger amounts.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Capacity describes how much ___ a container can hold.",
+            "options": [
+              "Liquid",
+              "Weight",
+              "X unrelated to capacity",
+              "Length"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which unit would best measure the capacity of a large water bottle?",
+            "options": [
+              "X unrelated to measuring capacity",
+              "Grams",
+              "Kilometres",
+              "Litres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which unit would best measure a small spoonful of liquid medicine?",
+            "options": [
+              "Litres",
+              "Millilitres",
+              "X unrelated to measuring capacity",
+              "Metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many millilitres are in 1 litre?",
+            "options": [
+              "X unrelated to this conversion",
+              "100 millilitres",
+              "1,000 millilitres",
+              "10 millilitres"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to know both litres and millilitres?",
+            "options": [
+              "X unrelated to measuring capacity",
+              "Litres and millilitres always measure the exact same amount",
+              "Litres suit larger amounts, while millilitres suit smaller, more precise amounts",
+              "Only one of these units is ever used in real life"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forces: Air Resistance and Motion",
+        "summary": "Grade 4 Science strand: air resistance is a force that pushes against objects as they move through the air, slowing them down depending on their shape and speed.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Air resistance is a force that ___.",
+            "options": [
+              "Pushes against an object moving through the air",
+              "Pulls every object straight down to the ground",
+              "X unrelated to air resistance",
+              "Only affects objects underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which object would experience more air resistance while falling?",
+            "options": [
+              "X unrelated to air resistance",
+              "A small pebble",
+              "An open parachute",
+              "A tightly folded piece of paper"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a flat sheet of paper fall more slowly than a crumpled ball of the same paper?",
+            "options": [
+              "Flat paper weighs much more than crumpled paper",
+              "Air resistance has no effect on falling paper",
+              "Its larger surface area creates more air resistance",
+              "X unrelated to air resistance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does air resistance affect a moving bicycle?",
+            "options": [
+              "It has no effect on how a bicycle moves",
+              "It always speeds up the bicycle",
+              "X unrelated to air resistance",
+              "It pushes against the rider, making it harder to pedal quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might race car designers shape cars to reduce air resistance?",
+            "options": [
+              "X unrelated to air resistance",
+              "Race cars are designed to increase air resistance as much as possible",
+              "A streamlined shape lets the car move faster with less resistance",
+              "Reducing air resistance has no benefit for a moving car"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s National Parks and Protected Areas",
+        "summary": "Grade 4 Social Studies strand: Canada has established national parks and other protected areas to preserve natural landscapes, wildlife, and ecosystems for future generations.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "A national park is an area of land that is ___.",
+            "options": [
+              "Protected to preserve its natural landscape and wildlife",
+              "Used only for large-scale farming",
+              "X unrelated to national parks",
+              "Open for unlimited building and development"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does Canada create protected areas such as national parks?",
+            "options": [
+              "X unrelated to conservation",
+              "To ensure land is developed as quickly as possible",
+              "To conserve natural environments and wildlife for future generations",
+              "Protected areas serve no environmental purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these activities is commonly allowed in many Canadian national parks?",
+            "options": [
+              "Building shopping malls",
+              "Hiking and camping",
+              "Large-scale industrial mining",
+              "X unrelated to national park activities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Banff National Park, one of Canada’s oldest national parks, is located in ___.",
+            "options": [
+              "Prince Edward Island",
+              "Nova Scotia",
+              "X unrelated to Banff’s location",
+              "Alberta"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do national parks help protect biodiversity?",
+            "options": [
+              "National parks have no connection to biodiversity",
+              "They preserve habitats where many plants and animals can continue to live",
+              "National parks remove all wildlife from an area",
+              "X unrelated to protecting the environment"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Direct Objects",
+        "summary": "Grade 4 Language strand: a direct object is the noun or pronoun that receives the action of a verb in a sentence, answering the question what or whom.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A direct object is the part of a sentence that ___.",
+            "options": [
+              "Performs the action of the verb",
+              "Describes the setting of a sentence",
+              "Receives the action of the verb",
+              "X unrelated to direct objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence Maya kicked the ball, what is the direct object?",
+            "options": [
+              "X unrelated to the direct object",
+              "Maya",
+              "Ball",
+              "Kicked"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence The chef baked a cake, what is the direct object?",
+            "options": [
+              "Baked",
+              "X unrelated to the direct object",
+              "Chef",
+              "Cake"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A direct object answers which question about the verb?",
+            "options": [
+              "Where or when",
+              "What or whom",
+              "X unrelated to direct objects",
+              "How often"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence The dog chased the squirrel, what is the direct object?",
+            "options": [
+              "Dog",
+              "Chased",
+              "Squirrel",
+              "X unrelated to the direct object"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Prices: Unit Rate and Best Value",
+        "summary": "Grade 4 Math strand: comparing prices using unit rate means finding the cost of a single item or unit, which helps shoppers decide which option offers the best value.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A unit rate compares the cost of ___.",
+            "options": [
+              "A single item or unit",
+              "X unrelated to unit rate",
+              "Only the tax on a purchase",
+              "An entire store’s total sales"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 4 apples cost 2 dollars, what is the unit rate per apple?",
+            "options": [
+              "2 dollars per apple",
+              "4 dollars per apple",
+              "X unrelated to this unit rate",
+              "0.50 dollars per apple"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A pack of 5 pencils costs 5 dollars, and a pack of 10 pencils costs 8 dollars. Which has the better unit rate?",
+            "options": [
+              "The pack of 5 pencils",
+              "X unrelated to comparing unit rates",
+              "Both packs have the exact same unit rate",
+              "The pack of 10 pencils"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is finding the unit rate helpful when shopping?",
+            "options": [
+              "Unit rate makes it impossible to compare prices",
+              "It helps shoppers compare prices fairly to find the best value",
+              "X unrelated to comparing prices",
+              "The total price is always more useful than the unit rate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 3 juice boxes cost 6 dollars, what is the cost per juice box?",
+            "options": [
+              "3 dollars",
+              "6 dollars",
+              "2 dollars",
+              "X unrelated to this unit rate"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Why Shape Affects Strength (Triangles vs Squares)",
+        "summary": "Grade 4 Science strand: the shape of a structure affects its strength, and triangles are especially strong because their fixed angles resist bending and twisting better than squares.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Triangles are considered a strong shape in structures because their angles ___.",
+            "options": [
+              "Change shape very easily under pressure",
+              "X unrelated to triangle strength",
+              "Have no effect on a structure’s strength",
+              "Resist bending and twisting under pressure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Compared to a triangle, a square shape is more likely to ___.",
+            "options": [
+              "Collapse or change shape under pressure",
+              "Support far more weight than a triangle",
+              "Remain perfectly rigid under any pressure",
+              "X unrelated to comparing shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do builders often use triangular supports in bridges and towers?",
+            "options": [
+              "Triangular supports have no effect on strength",
+              "Triangles make a structure weaker and less stable",
+              "X unrelated to structural design",
+              "Triangles distribute force evenly and resist bending"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you push on one corner of a square frame, what is likely to happen?",
+            "options": [
+              "The square remains rigid and never changes shape",
+              "The square becomes a triangle automatically",
+              "X unrelated to testing shape strength",
+              "The square can shift into a different shape, such as a parallelogram"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might engineers test different shapes before building a structure?",
+            "options": [
+              "Testing shapes provides no useful information for engineers",
+              "All shapes provide exactly the same strength",
+              "X unrelated to engineering design",
+              "To find the shape that provides the most strength and stability"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Time Zones Across Canada",
+        "summary": "Grade 4 Social Studies strand: because Canada spans such a wide area from east to west, it is divided into six time zones, meaning it can be a different time of day in different parts of the country at once.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Canada is divided into time zones because it ___.",
+            "options": [
+              "Has only one region with people living in it",
+              "Is a very small country",
+              "Spans a very wide area from east to west",
+              "X unrelated to Canada’s time zones"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many time zones does Canada have?",
+            "options": [
+              "X unrelated to Canada’s time zones",
+              "Twelve",
+              "Six",
+              "One"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If it is 3:00 p.m. in Ontario (Eastern time), it is generally earlier in the day in ___.",
+            "options": [
+              "A place in exactly the same time zone",
+              "X unrelated to comparing time zones",
+              "Newfoundland (Newfoundland time)",
+              "British Columbia (Pacific time)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone need to consider time zones when calling a friend in another province?",
+            "options": [
+              "Every province in Canada shares the exact same time",
+              "Time zones only matter for international travel",
+              "X unrelated to time zones",
+              "The time of day may be different in each province"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Time zones are generally organized based on a location’s ___.",
+            "options": [
+              "Population size",
+              "Longitude (east-west position)",
+              "X unrelated to time zones",
+              "Latitude (north-south position) only"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Skimming and Scanning for Information",
+        "summary": "Grade 4 Language strand: skimming means quickly reading a text to get its general idea, while scanning means searching a text quickly for specific facts, such as a date or name.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Skimming a text means reading quickly to ___.",
+            "options": [
+              "Memorize every single word",
+              "Get the general idea of the text",
+              "X unrelated to skimming",
+              "Find one exact fact only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Scanning a text means searching quickly for ___.",
+            "options": [
+              "The author’s complete biography",
+              "A specific piece of information",
+              "The entire meaning of the text",
+              "X unrelated to scanning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which strategy would be best for quickly finding a specific date in a long article?",
+            "options": [
+              "X unrelated to finding a specific fact",
+              "Reading every single word carefully",
+              "Scanning",
+              "Skimming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which strategy would be best for getting a quick overview of what a chapter is about?",
+            "options": [
+              "Memorizing the chapter word for word",
+              "Skimming",
+              "Scanning",
+              "X unrelated to getting an overview"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are skimming and scanning useful reading strategies?",
+            "options": [
+              "X unrelated to reading strategies",
+              "They help readers find information efficiently without reading every word",
+              "These strategies always take longer than reading word for word",
+              "They prevent readers from understanding a text at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Tally Charts and Frequency Tables",
+        "summary": "Grade 4 Math strand: a tally chart uses marks to record how often something occurs, and this data can be organized into a frequency table showing the total count for each category.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A tally chart uses marks to record ___.",
+            "options": [
+              "How often something occurs",
+              "X unrelated to tally charts",
+              "The colour of an object",
+              "The exact size of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In tally marks, a group of five is usually shown as ___.",
+            "options": [
+              "Four vertical lines with a line crossed through them",
+              "X unrelated to tally marks",
+              "Five separate dots",
+              "A single curved line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A frequency table organizes data by showing the ___ for each category.",
+            "options": [
+              "Colour",
+              "Total count",
+              "Alphabetical order only",
+              "X unrelated to frequency tables"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a tally chart shows a group of 5, then a group of 5, then 2 more marks for a category, how many are recorded?",
+            "options": [
+              "X unrelated to this tally count",
+              "10",
+              "14",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a survey use a tally chart while collecting data?",
+            "options": [
+              "Tally charts make it impossible to count responses",
+              "Tally charts can only be used for numbers larger than 100",
+              "X unrelated to collecting data",
+              "It makes it quick and easy to record and count responses"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Electricity: Reading Simple Circuit Diagrams",
+        "summary": "Grade 4 Science strand: a circuit diagram uses standard symbols to represent parts of an electric circuit, such as a battery, switch, and light bulb, showing how they are connected.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "A circuit diagram uses symbols to represent ___.",
+            "options": [
+              "The colours of the wires only",
+              "X unrelated to circuit diagrams",
+              "The parts of an electric circuit and how they connect",
+              "The weather conditions outside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which symbol typically represents a battery in a circuit diagram?",
+            "options": [
+              "A perfect circle with no lines",
+              "A wavy line",
+              "A pair of parallel lines, one longer than the other",
+              "X unrelated to circuit diagrams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a circuit diagram, a switch symbol shows where the circuit can be ___.",
+            "options": [
+              "Opened or closed to control the flow of electricity",
+              "Filled with water",
+              "X unrelated to switches",
+              "Permanently broken with no way to reconnect it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are standard symbols used in circuit diagrams instead of drawings of real objects?",
+            "options": [
+              "X unrelated to circuit diagrams",
+              "Standard symbols make circuits impossible to understand",
+              "Every country uses completely different, unrelated symbols",
+              "They allow anyone to read and understand a circuit clearly and quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a circuit diagram shows a break in the line connecting the parts, what does this likely mean?",
+            "options": [
+              "The circuit is complete and functioning normally",
+              "X unrelated to reading circuit diagrams",
+              "The circuit is open and electricity cannot flow",
+              "The diagram contains no useful information"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Natural Hazards in Canada (Floods, Forest Fires, Earthquakes)",
+        "summary": "Grade 4 Social Studies strand: different regions of Canada face different natural hazards, such as floods near rivers, forest fires in dry forested areas, and earthquakes along the west coast.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "A natural hazard is an event caused by nature that can ___.",
+            "options": [
+              "Only occur in outer space",
+              "Never affect people in any way",
+              "Threaten people, property, or the environment",
+              "X unrelated to natural hazards"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Areas near rivers are especially at risk of ___.",
+            "options": [
+              "Volcanic eruptions",
+              "Earthquakes only",
+              "X unrelated to river hazards",
+              "Flooding"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Dry, forested regions of Canada are especially at risk of ___.",
+            "options": [
+              "Forest fires",
+              "X unrelated to forest hazards",
+              "Blizzards only",
+              "Flooding from the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which region of Canada is more likely to experience earthquakes?",
+            "options": [
+              "The flat Prairies",
+              "The west coast, such as British Columbia",
+              "The Atlantic coast only",
+              "X unrelated to earthquake risk"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for communities to understand the natural hazards in their region?",
+            "options": [
+              "Natural hazards never affect any Canadian community",
+              "X unrelated to natural hazards",
+              "Understanding natural hazards provides no benefit to a community",
+              "It helps them prepare and respond safely to potential emergencies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Connotation and Denotation",
+        "summary": "Grade 4 Language strand: denotation is the exact dictionary meaning of a word, while connotation is the feeling or association a word carries beyond its literal meaning.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Denotation refers to a word’s ___.",
+            "options": [
+              "Emotional feeling only",
+              "Number of syllables",
+              "X unrelated to denotation",
+              "Exact dictionary meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Connotation refers to the ___ a word carries beyond its literal meaning.",
+            "options": [
+              "Exact spelling",
+              "Feeling or association",
+              "Number of letters",
+              "X unrelated to connotation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The words skinny and slim have similar denotations but different ___.",
+            "options": [
+              "Connotations",
+              "Spellings",
+              "X unrelated to comparing these words",
+              "Pronunciations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has a more positive connotation than stubborn?",
+            "options": [
+              "Careless",
+              "X unrelated to comparing connotations",
+              "Messy",
+              "Determined"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer carefully choose words based on their connotation?",
+            "options": [
+              "To create a specific feeling or impression for the reader",
+              "X unrelated to word choice",
+              "Connotation has no effect on how a reader feels",
+              "Every word carries exactly the same feeling"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Lines: Plotting Fractions and Decimals",
+        "summary": "Grade 4 Math strand: fractions and decimals can be plotted on a number line to compare their values and see how they relate to whole numbers.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A number line can be used to ___.",
+            "options": [
+              "Only show whole numbers greater than 100",
+              "Measure the weight of an object",
+              "Compare the values of fractions and decimals",
+              "X unrelated to number lines"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a number line from 0 to 1, where would 1/2 be plotted?",
+            "options": [
+              "Right next to 0",
+              "X unrelated to plotting fractions",
+              "Exactly halfway between 0 and 1",
+              "Right next to 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a number line, which is closer to 1: 0.75 or 0.25?",
+            "options": [
+              "0.25",
+              "X unrelated to comparing these decimals",
+              "They are equally close to 1",
+              "0.75"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where would the fraction 3/4 be plotted on a number line between 0 and 1?",
+            "options": [
+              "Exactly at 0",
+              "Closer to 0 than to 1",
+              "Closer to 1 than to 0",
+              "X unrelated to plotting this fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to plot fractions and decimals on the same number line?",
+            "options": [
+              "It helps show how fractions and decimals relate to and compare with each other",
+              "X unrelated to number lines",
+              "Fractions and decimals can never be compared to one another",
+              "A number line can only show whole numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Compound Machines: Combining Simple Machines",
+        "summary": "Grade 4 Science strand: a compound machine is made by combining two or more simple machines, such as a wheelbarrow (lever and wheel and axle) or scissors (two levers), to make work easier.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "A compound machine is made by combining ___.",
+            "options": [
+              "A single simple machine used alone",
+              "Two or more simple machines",
+              "X unrelated to compound machines",
+              "Only electrical parts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A wheelbarrow is an example of a compound machine because it combines a ___.",
+            "options": [
+              "X unrelated to how a wheelbarrow works",
+              "Wedge and an inclined plane only",
+              "Lever and a wheel and axle",
+              "Pulley and a screw"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Scissors are considered a compound machine because they are made of ___.",
+            "options": [
+              "X unrelated to how scissors work",
+              "Two levers joined together",
+              "A wheel and axle only",
+              "A single pulley"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might combining simple machines create a more useful tool?",
+            "options": [
+              "Combined machines can make certain tasks even easier than a single simple machine",
+              "Combining simple machines always makes tasks harder to complete",
+              "Simple machines cannot be combined with one another",
+              "X unrelated to compound machines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a compound machine?",
+            "options": [
+              "A single ramp with nothing else attached",
+              "A bicycle, which combines wheels, levers, and gears",
+              "X unrelated to compound machines",
+              "A single lever with no other parts"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Population Distribution: Where People Live",
+        "summary": "Grade 4 Social Studies strand: most of Canada’s population lives in a narrow band near the southern border, close to resources, transportation, and warmer climates, while northern regions remain sparsely populated.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Most of Canada’s population lives ___.",
+            "options": [
+              "Spread evenly across the entire country",
+              "X unrelated to Canada’s population",
+              "In a narrow band near the southern border",
+              "Mostly in the far north"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do fewer people live in Canada’s northern regions?",
+            "options": [
+              "The climate is harsher and there are fewer transportation routes and services",
+              "X unrelated to population distribution",
+              "Everyone in Canada is required to live in the south",
+              "The north has no land at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which factor most influences where Canadians choose to settle?",
+            "options": [
+              "Access to resources, jobs, and transportation",
+              "The colour of the provincial flag",
+              "The number of letters in a city’s name",
+              "X unrelated to population distribution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these Canadian cities would likely have one of the largest populations?",
+            "options": [
+              "Toronto",
+              "A remote research station",
+              "X unrelated to comparing population size",
+              "A small hamlet in Nunavut"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do geographers study population distribution?",
+            "options": [
+              "Every region of Canada has an identical population",
+              "Population distribution provides no useful information",
+              "It helps explain how and why people are spread across a country",
+              "X unrelated to studying geography"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Vocabulary, Grammar, and Reading Skills (Days 61-69)",
+        "summary": "Grade 4 Language strand: this review lesson revisits key ideas from Days 61-69, including analogies, alliteration, interjections, theme, and skimming and scanning.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "An analogy compares two pairs of words that share the same ___.",
+            "options": [
+              "Spelling pattern",
+              "Type of relationship",
+              "Number of letters",
+              "X unrelated to analogies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Alliteration is the repetition of the same ___ in nearby words.",
+            "options": [
+              "Beginning consonant sound",
+              "Ending vowel sound",
+              "X unrelated to alliteration",
+              "Number of syllables"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An interjection is a word that expresses ___.",
+            "options": [
+              "A location in a sentence",
+              "Strong emotion",
+              "A complete action",
+              "X unrelated to interjections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The theme of a story is its ___.",
+            "options": [
+              "Number of chapters",
+              "Central message or lesson about life",
+              "X unrelated to theme",
+              "List of characters only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review vocabulary, grammar, and reading strategies together?",
+            "options": [
+              "Reviewing past learning never helps strengthen understanding",
+              "It reinforces how these language skills support clear reading and writing",
+              "X unrelated to reviewing language arts",
+              "These skills have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Number Sense, Geometry, and Data (Days 61-69)",
+        "summary": "Grade 4 Math strand: this review lesson revisits key ideas from Days 61-69, including place value, multiplying 2-digit numbers, rounding decimals, classifying polygons, and tally charts.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "In the number 6,482, the digit 4 represents ___.",
+            "options": [
+              "X unrelated to place value",
+              "4 hundreds",
+              "4 thousands",
+              "4 tens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 12 × 13?",
+            "options": [
+              "X unrelated to the calculation",
+              "136",
+              "146",
+              "156"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 4.7 rounded to the nearest whole number?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "X unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A polygon with five sides is called a ___.",
+            "options": [
+              "X unrelated to polygon names",
+              "Octagon",
+              "Hexagon",
+              "Pentagon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review place value, multiplication, and geometry together?",
+            "options": [
+              "These topics have no connection to each other",
+              "X unrelated to reviewing math",
+              "Review never helps strengthen understanding of a subject",
+              "It reinforces how these math concepts connect and build on one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Ecosystems, Earth and Space, and Structures (Days 61-69)",
+        "summary": "Grade 4 Science strand: this review lesson revisits key ideas from Days 61-69, including Canadian biomes, camouflage, Earth’s rotation, buoyancy, air resistance, and structural strength.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "A biome is best described as a large region with a distinct ___.",
+            "options": [
+              "Type of rock only",
+              "Climate, plants, and animals",
+              "Style of building",
+              "X unrelated to biomes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Camouflage helps an animal ___.",
+            "options": [
+              "Grow larger than other animals",
+              "Blend into its surroundings to avoid predators",
+              "X unrelated to camouflage",
+              "Attract as much attention as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Day and night occur because Earth ___.",
+            "options": [
+              "Rotates on its axis",
+              "X unrelated to day and night",
+              "Changes shape every day",
+              "Stops moving completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Triangles are considered a strong shape in structures because their angles ___.",
+            "options": [
+              "Have no effect on a structure’s strength",
+              "Change shape very easily under pressure",
+              "X unrelated to triangle strength",
+              "Resist bending and twisting under pressure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review ecosystems, space, and structures together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "It reinforces how these science concepts each explain different parts of the natural world",
+              "These topics have no connection to each other",
+              "Review is never useful in science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Early Societies and Canadian Geography (Days 61-69)",
+        "summary": "Grade 4 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the Maya, Nubia, early leadership, the Canadian Shield, time zones, and population distribution.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "The ancient Maya civilization was located in ___.",
+            "options": [
+              "Northern Europe",
+              "Central America",
+              "Southern Africa",
+              "X unrelated to the Maya"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Nubia became especially well known for its skill in working with ___.",
+            "options": [
+              "Rubber",
+              "Iron",
+              "X unrelated to Nubian achievements",
+              "Plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Shield is best described as a vast region of ___.",
+            "options": [
+              "Desert sand dunes",
+              "Flat farmland found only in southern Ontario",
+              "X unrelated to the Canadian Shield",
+              "Ancient rock covering much of central and northern Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many time zones does Canada have?",
+            "options": [
+              "Six",
+              "One",
+              "Twelve",
+              "X unrelated to Canada’s time zones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review early societies alongside Canadian geography?",
+            "options": [
+              "These topics have no connection to social studies",
+              "Early societies and Canadian geography are exactly the same topic",
+              "It helps compare how different societies and regions have developed over time",
+              "X unrelated to reviewing social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
