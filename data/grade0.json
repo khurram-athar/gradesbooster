@@ -10779,5 +10779,3334 @@
         ]
       }
     ]
+  },
+  {
+    "day": 41,
+    "label": "Day 41 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Blending Sounds: Putting Sounds Together",
+        "summary": "Students practise blending separate sounds together to form a whole word, such as combining the sounds s, u, n to say sun, building an important pre-reading skill.",
+        "resourceLabel": "YouTube: Blending Sounds: Putting Sounds Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Blending%20Sounds%3A%20Putting%20Sounds%20Together%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "When you blend the sounds c, a, t, what word do you make?",
+            "options": [
+              "Cat",
+              "Cot",
+              "Cap",
+              "Can"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Blending sounds means to ___.",
+            "options": [
+              "Draw a picture",
+              "Sing a song",
+              "Put sounds together to make a word",
+              "Take a word apart"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word do the sounds r, u, n blend to make?",
+            "options": [
+              "Rug",
+              "Run",
+              "Ran",
+              "Rat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Blending sounds helps us ___.",
+            "options": [
+              "Learn to read words",
+              "Learn to swim",
+              "Learn to paint",
+              "Learn to count"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word do the sounds p, i, g blend to make?",
+            "options": [
+              "Pin",
+              "Pit",
+              "Pig",
+              "Peg"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Blend the sounds s, u, n together. What word do they make?",
+            "answers": [
+              "sun"
+            ]
+          },
+          {
+            "prompt": "Blend the sounds h, a, t together. What word do they make?",
+            "answers": [
+              "hat"
+            ]
+          },
+          {
+            "prompt": "Blend the sounds d, o, g together. What word do they make?",
+            "answers": [
+              "dog"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition to 20",
+        "summary": "Students extend their addition skills to sums within 20, using objects, fingers, or pictures to add two numbers together.",
+        "resourceLabel": "YouTube: Addition to 20",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20to%2020%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "11 + 4 = ?",
+            "options": [
+              "16",
+              "14",
+              "13",
+              "15"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "7 + 9 = ?",
+            "options": [
+              "16",
+              "15",
+              "17",
+              "18"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "10 + 6 = ?",
+            "options": [
+              "17",
+              "14",
+              "15",
+              "16"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "13 + 5 = ?",
+            "options": [
+              "16",
+              "18",
+              "19",
+              "17"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "8 + 8 = ?",
+            "options": [
+              "17",
+              "14",
+              "16",
+              "15"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "12 + 3 = ?",
+            "answers": [
+              "15",
+              "fifteen"
+            ]
+          },
+          {
+            "prompt": "9 + 8 = ?",
+            "answers": [
+              "17",
+              "seventeen"
+            ]
+          },
+          {
+            "prompt": "10 + 10 = ?",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Plant: Seed to Flower",
+        "summary": "Students learn the stages a plant goes through, starting as a small seed, sprouting into a seedling, and growing into a full plant that may bloom with flowers.",
+        "resourceLabel": "YouTube: Life Cycle of a Plant: Seed to Flower",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a plant life cycle?",
+            "options": [
+              "Root",
+              "Sprout",
+              "Flower",
+              "Seed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a seed need to grow into a plant?",
+            "options": [
+              "Only cold air",
+              "Nothing at all",
+              "Only darkness",
+              "Water and sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After a seed sprouts, a tiny young plant with leaves is called a ___.",
+            "options": [
+              "Seedling",
+              "Flower",
+              "Root",
+              "Petal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What often grows at the top of a fully grown plant?",
+            "options": [
+              "Flowers",
+              "Seeds only",
+              "Roots",
+              "Soil"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do plant roots usually grow?",
+            "options": [
+              "In the air",
+              "On leaves",
+              "On flowers",
+              "Under the soil"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a plant life cycle, before it sprouts?",
+            "answers": [
+              "seed"
+            ]
+          },
+          {
+            "prompt": "What does a seed need to grow, like water and sunlight?",
+            "answers": [
+              "water",
+              "sunlight",
+              "sun",
+              "soil"
+            ]
+          },
+          {
+            "prompt": "What grows on some plants at the end of their life cycle, like a rose?",
+            "answers": [
+              "flower",
+              "flowers"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Jobs People Do: Different Kinds of Work",
+        "summary": "Students explore different jobs people do in their community, such as chef, farmer, artist, and pilot, and talk about the work each job involves.",
+        "resourceLabel": "YouTube: Jobs People Do: Different Kinds of Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Jobs%20People%20Do%3A%20Different%20Kinds%20of%20Work%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who cooks meals at a restaurant?",
+            "options": [
+              "Farmer",
+              "Pilot",
+              "Chef",
+              "Artist"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who flies an airplane?",
+            "options": [
+              "Teacher",
+              "Chef",
+              "Pilot",
+              "Farmer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A farmer job includes ___.",
+            "options": [
+              "Painting pictures",
+              "Growing crops and raising animals",
+              "Flying planes",
+              "Teaching math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does an artist do?",
+            "options": [
+              "Flies planes",
+              "Creates paintings or drawings",
+              "Cooks food",
+              "Grows crops"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do people have different jobs?",
+            "options": [
+              "So our community works well with many different tasks done",
+              "Everyone does the same job",
+              "Jobs are not important",
+              "Only adults need jobs"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who cooks food at a restaurant?",
+            "answers": [
+              "chef",
+              "cook"
+            ]
+          },
+          {
+            "prompt": "Who flies an airplane?",
+            "answers": [
+              "pilot"
+            ]
+          },
+          {
+            "prompt": "Name one job a person can do, like teacher or farmer.",
+            "answers": [
+              "teacher",
+              "farmer",
+              "doctor",
+              "chef",
+              "pilot",
+              "artist",
+              "nurse"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "label": "Day 42 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compound Words: Two Words Become One",
+        "summary": "Students learn that some words are made by joining two smaller words together, such as sun and flower joining to make sunflower.",
+        "resourceLabel": "YouTube: Compound Words: Two Words Become One",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Words%3A%20Two%20Words%20Become%20One%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which two words join to make sunflower?",
+            "options": [
+              "Rain and flower",
+              "Sun and star",
+              "Sun and flower",
+              "Moon and flower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do rain and bow join to make?",
+            "options": [
+              "Bowtie",
+              "Raincoat",
+              "Rainbow",
+              "Rainfall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A compound word is made of ___.",
+            "options": [
+              "A number",
+              "Two smaller words joined together",
+              "One long letter",
+              "A picture"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which two words join to make butterfly?",
+            "options": [
+              "Bug and fly",
+              "Bee and fly",
+              "Butter and fly",
+              "Bird and fly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do bed and room join to make?",
+            "options": [
+              "Bedtime",
+              "Bunkbed",
+              "Bedroom",
+              "Bedsheet"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Sun plus flower makes which word?",
+            "answers": [
+              "sunflower"
+            ]
+          },
+          {
+            "prompt": "Rain plus bow makes which word?",
+            "answers": [
+              "rainbow"
+            ]
+          },
+          {
+            "prompt": "Butter plus fly makes which word?",
+            "answers": [
+              "butterfly"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Subtraction to 20",
+        "summary": "Students extend their subtraction skills to numbers within 20, taking one number away from another using objects or pictures.",
+        "resourceLabel": "YouTube: Subtraction to 20",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%20to%2020%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "16 - 4 = ?",
+            "options": [
+              "12",
+              "11",
+              "10",
+              "13"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "20 - 8 = ?",
+            "options": [
+              "13",
+              "11",
+              "12",
+              "14"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "14 - 7 = ?",
+            "options": [
+              "7",
+              "9",
+              "8",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "19 - 9 = ?",
+            "options": [
+              "10",
+              "8",
+              "11",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "12 - 5 = ?",
+            "options": [
+              "9",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "18 - 5 = ?",
+            "answers": [
+              "13",
+              "thirteen"
+            ]
+          },
+          {
+            "prompt": "20 - 10 = ?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "15 - 6 = ?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Habitats: Where Animals Live",
+        "summary": "Students learn that a habitat is the place where an animal lives, and explore different habitats such as forests, oceans, and deserts.",
+        "resourceLabel": "YouTube: Animal Habitats: Where Animals Live",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Habitats%3A%20Where%20Animals%20Live%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a habitat?",
+            "options": [
+              "The place where an animal lives",
+              "A type of toy",
+              "A type of food",
+              "A season"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do fish usually live?",
+            "options": [
+              "In water",
+              "In a forest",
+              "In the sky",
+              "In a desert"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is most likely to live in a forest?",
+            "options": [
+              "A bear",
+              "A whale",
+              "A camel",
+              "A fish"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which habitat is very hot and dry with little water?",
+            "options": [
+              "Desert",
+              "Pond",
+              "Ocean",
+              "Forest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do different animals live in different habitats?",
+            "options": [
+              "All animals live in the same place",
+              "Habitats do not matter to animals",
+              "Animals do not need homes",
+              "Each habitat gives the food and shelter that animal needs"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word means the place where an animal lives?",
+            "answers": [
+              "habitat"
+            ]
+          },
+          {
+            "prompt": "Name a habitat where a fish lives.",
+            "answers": [
+              "ocean",
+              "water",
+              "pond",
+              "lake",
+              "sea"
+            ]
+          },
+          {
+            "prompt": "Name a habitat where a bear might live.",
+            "answers": [
+              "forest",
+              "woods"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Indigenous Peoples: The First Peoples of Canada",
+        "summary": "Students learn that Indigenous Peoples were the first people to live in what is now Canada, and explore some of their traditions, such as storytelling and caring for the land.",
+        "resourceLabel": "YouTube: Indigenous Peoples: The First Peoples of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Indigenous%20Peoples%3A%20The%20First%20Peoples%20of%20Canada%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who were the first people to live in what is now Canada?",
+            "options": [
+              "European settlers",
+              "Indigenous Peoples",
+              "Astronauts",
+              "Pilots"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Indigenous Peoples have traditionally shared their history and lessons through ___.",
+            "options": [
+              "Video games",
+              "Newspapers only",
+              "Storytelling",
+              "Television"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Many Indigenous traditions show great respect and care for ___.",
+            "options": [
+              "The land and nature",
+              "Money",
+              "Buildings",
+              "Cars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about Indigenous Peoples helps us understand ___.",
+            "options": [
+              "The history and cultures of the first peoples of Canada",
+              "Only modern cities",
+              "Nothing important",
+              "Only farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of an Indigenous tradition mentioned in this lesson?",
+            "options": [
+              "Building skyscrapers",
+              "Flying airplanes",
+              "Storytelling",
+              "Playing video games"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who were the first people to live in Canada?",
+            "answers": [
+              "indigenous peoples",
+              "indigenous people",
+              "first nations"
+            ]
+          },
+          {
+            "prompt": "Name one way Indigenous Peoples traditionally shared knowledge, like through stories.",
+            "answers": [
+              "stories",
+              "storytelling"
+            ]
+          },
+          {
+            "prompt": "Indigenous Peoples traditionally cared deeply for the ___.",
+            "answers": [
+              "land",
+              "earth",
+              "nature"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "label": "Day 43 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Question Words: Who, What, and Where",
+        "summary": "Students learn common question words, including who, what, and where, and practise using them to ask about people, things, and places.",
+        "resourceLabel": "YouTube: Question Words: Who, What, and Where",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Question%20Words%3A%20Who%2C%20What%2C%20and%20Where%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which question word would you use to ask about a person, like your teacher?",
+            "options": [
+              "Who",
+              "What",
+              "Where",
+              "When"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which question word would you use to ask about a place, like the park?",
+            "options": [
+              "Where",
+              "Why",
+              "Who",
+              "What"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which question word would you use to ask about a thing, like a toy?",
+            "options": [
+              "What",
+              "When",
+              "Where",
+              "Who"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is my hat is an example of a question asking about a ___.",
+            "options": [
+              "Colour",
+              "Place",
+              "Person",
+              "Sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is your friend is an example of a question asking about a ___.",
+            "options": [
+              "Thing",
+              "Place",
+              "Time",
+              "Person"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which question word asks about a person?",
+            "answers": [
+              "who"
+            ]
+          },
+          {
+            "prompt": "Which question word asks about a place?",
+            "answers": [
+              "where"
+            ]
+          },
+          {
+            "prompt": "Which question word asks about a thing?",
+            "answers": [
+              "what"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 10s to 100",
+        "summary": "Students practise skip counting by tens, saying 10, 20, 30, and so on up to 100, to build number sense for larger numbers.",
+        "resourceLabel": "YouTube: Skip Counting by 10s to 100",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2010s%20to%20100%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Skip count by tens: 10, 20, then what number?",
+            "options": [
+              "21",
+              "40",
+              "25",
+              "30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip count by tens: 50, 60, 70, then what number?",
+            "options": [
+              "75",
+              "90",
+              "80",
+              "71"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number comes after 90 when counting by tens?",
+            "options": [
+              "95",
+              "91",
+              "110",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting by tens to 100 uses how many number words?",
+            "options": [
+              "5",
+              "100",
+              "10",
+              "20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Skip count by tens: 30, 40, then what number?",
+            "options": [
+              "50",
+              "41",
+              "45",
+              "60"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Skip count by tens: 10, 20, 30, then what number?",
+            "answers": [
+              "40",
+              "forty"
+            ]
+          },
+          {
+            "prompt": "Skip count by tens: 60, 70, then what number?",
+            "answers": [
+              "80",
+              "eighty"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 100 when counting by tens?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nocturnal Animals: Awake at Night",
+        "summary": "Students learn that some animals, called nocturnal animals, sleep during the day and are awake at night, such as owls and bats.",
+        "resourceLabel": "YouTube: Nocturnal Animals: Awake at Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Awake%20at%20Night%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does nocturnal mean?",
+            "options": [
+              "Awake during the day",
+              "Only found in water",
+              "Awake at night and asleep during the day",
+              "Never sleeping"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a nocturnal animal?",
+            "options": [
+              "Cow",
+              "Rooster",
+              "Chicken",
+              "Owl"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Bats are nocturnal, which means they are most active ___.",
+            "options": [
+              "Underwater",
+              "At noon",
+              "At night",
+              "In the morning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might nocturnal animals have very good hearing or eyesight in the dark?",
+            "options": [
+              "To help them find food and stay safe at night",
+              "Only daytime animals need senses",
+              "They never need to see or hear",
+              "It does not help them at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals is usually awake during the day instead of at night?",
+            "options": [
+              "Owl",
+              "Bat",
+              "Rooster",
+              "Raccoon"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes animals that are awake at night and sleep during the day?",
+            "answers": [
+              "nocturnal"
+            ]
+          },
+          {
+            "prompt": "Name one nocturnal animal, like an owl or bat.",
+            "answers": [
+              "owl",
+              "bat",
+              "raccoon"
+            ]
+          },
+          {
+            "prompt": "Are nocturnal animals awake during the day or at night?",
+            "answers": [
+              "night",
+              "at night"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Landmarks: Special Places in Our Community",
+        "summary": "Students learn about landmarks, special and well known places in a community such as a library, a park, or a city hall.",
+        "resourceLabel": "YouTube: Landmarks: Special Places in Our Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Landmarks%3A%20Special%20Places%20in%20Our%20Community%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a landmark?",
+            "options": [
+              "A special, well known place in a community",
+              "A kind of weather",
+              "A type of food",
+              "A math tool"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a landmark?",
+            "options": [
+              "A cloud",
+              "A sock",
+              "A pencil",
+              "A library"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community build a park as a landmark?",
+            "options": [
+              "So people have a special place to play and gather",
+              "To block traffic",
+              "To grow only weeds",
+              "Parks are not useful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A city hall is a landmark where ___.",
+            "options": [
+              "Food is grown",
+              "Community leaders work",
+              "Only animals live",
+              "Cars are repaired"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Landmarks help people in a community ___.",
+            "options": [
+              "Avoid each other",
+              "Get lost more easily",
+              "Forget their town",
+              "Recognize and gather in special shared places"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word means a special, well known place in a community?",
+            "answers": [
+              "landmark"
+            ]
+          },
+          {
+            "prompt": "Name one landmark you might visit, like a library or park.",
+            "answers": [
+              "library",
+              "park",
+              "city hall",
+              "museum"
+            ]
+          },
+          {
+            "prompt": "Why are landmarks important to a community?",
+            "answers": [
+              "they are special places",
+              "people gather there",
+              "important places"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "label": "Day 44 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sequencing Words: First, Next, and Last",
+        "summary": "Students learn to use sequencing words such as first, next, and last to describe the order in which things happen.",
+        "resourceLabel": "YouTube: Sequencing Words: First, Next, and Last",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sequencing%20Words%3A%20First%2C%20Next%2C%20and%20Last%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word describes what happens at the very beginning of an event?",
+            "options": [
+              "Then",
+              "First",
+              "Last",
+              "Next"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word describes what happens at the very end of an event?",
+            "options": [
+              "Before",
+              "Next",
+              "Last",
+              "First"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you brush your teeth, then eat breakfast, then go to school, what happens right after brushing your teeth?",
+            "options": [
+              "Sleep",
+              "Go to school",
+              "Eat breakfast",
+              "Brush teeth again"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sequencing words help us understand ___.",
+            "options": [
+              "Shapes",
+              "The order that things happen in",
+              "Colours",
+              "Weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word could describe something happening in the middle of an order of events?",
+            "options": [
+              "Before all",
+              "First",
+              "Next",
+              "Last"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which sequencing word describes what happens at the very beginning?",
+            "answers": [
+              "first"
+            ]
+          },
+          {
+            "prompt": "Which sequencing word describes what happens at the very end?",
+            "answers": [
+              "last"
+            ]
+          },
+          {
+            "prompt": "Which sequencing word can describe something that happens after first?",
+            "answers": [
+              "next"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Recognizing Coins",
+        "summary": "Students explore Canadian coins, including the penny, nickel, dime, and quarter, and practise recognizing them by their size and appearance.",
+        "resourceLabel": "YouTube: Money: Recognizing Coins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Recognizing%20Coins%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which coin is worth five cents?",
+            "options": [
+              "Dime",
+              "Nickel",
+              "Quarter",
+              "Penny"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which coin is worth ten cents?",
+            "options": [
+              "Quarter",
+              "Nickel",
+              "Dime",
+              "Penny"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which coin is worth twenty five cents?",
+            "options": [
+              "Nickel",
+              "Dime",
+              "Penny",
+              "Quarter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A penny is worth ___ cent.",
+            "options": [
+              "One",
+              "Twenty five",
+              "Ten",
+              "Five"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which coin has the smallest value?",
+            "options": [
+              "Penny",
+              "Nickel",
+              "Quarter",
+              "Dime"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name the smallest value Canadian coin, worth one cent.",
+            "answers": [
+              "penny"
+            ]
+          },
+          {
+            "prompt": "Name the coin worth five cents.",
+            "answers": [
+              "nickel"
+            ]
+          },
+          {
+            "prompt": "Name the coin worth twenty five cents.",
+            "answers": [
+              "quarter"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Body: Bones and Muscles",
+        "summary": "Students learn that bones give our body its shape and support, while muscles help our body move.",
+        "resourceLabel": "YouTube: Our Body: Bones and Muscles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Body%3A%20Bones%20and%20Muscles%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What gives our body its shape and support?",
+            "options": [
+              "Hair",
+              "Muscles",
+              "Bones",
+              "Skin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What helps our body move, like when we run or jump?",
+            "options": [
+              "Hair",
+              "Bones",
+              "Nails",
+              "Muscles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where are bones found in your body?",
+            "options": [
+              "Only in your feet",
+              "All throughout your body",
+              "They are not in the body",
+              "Only in your head"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to keep our bones and muscles healthy?",
+            "options": [
+              "Only athletes need healthy bones",
+              "It is not important",
+              "Bones do not need care",
+              "So our body can grow strong and move well"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which activity helps keep muscles strong?",
+            "options": [
+              "Watching television only",
+              "Exercise like running and jumping",
+              "Sitting all day",
+              "Sleeping all day"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part gives our body its shape and support?",
+            "answers": [
+              "bones",
+              "bone"
+            ]
+          },
+          {
+            "prompt": "What body part helps our body move?",
+            "answers": [
+              "muscles",
+              "muscle"
+            ]
+          },
+          {
+            "prompt": "Name one bone in your body, like in your arm or leg.",
+            "answers": [
+              "arm bone",
+              "leg bone",
+              "skull",
+              "rib",
+              "bone"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Money: Trading and Buying",
+        "summary": "Students learn that people use money to buy things they need or want, and that trading means exchanging one thing for another.",
+        "resourceLabel": "YouTube: Money: Trading and Buying",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Trading%20and%20Buying%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do people use to buy food and toys at a store?",
+            "options": [
+              "Leaves",
+              "Water",
+              "Rocks",
+              "Money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does trading mean?",
+            "options": [
+              "Hiding your things",
+              "Exchanging one thing for another",
+              "Throwing things away",
+              "Painting pictures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might a family use money to buy groceries?",
+            "options": [
+              "At a store",
+              "At the library only",
+              "At the playground",
+              "In the sky"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Long ago, before money, some people traded items directly. This is called ___.",
+            "options": [
+              "Bartering",
+              "Singing",
+              "Painting",
+              "Reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do people need money or trading?",
+            "options": [
+              "Only adults care about it",
+              "It is not needed",
+              "To make noise",
+              "To get things they need or want"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do people use to buy things at a store?",
+            "answers": [
+              "money"
+            ]
+          },
+          {
+            "prompt": "What word means exchanging one thing for another?",
+            "answers": [
+              "trading",
+              "trade"
+            ]
+          },
+          {
+            "prompt": "Name one place where people use money to buy things.",
+            "answers": [
+              "store",
+              "market",
+              "shop"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "label": "Day 45 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Labels for Pictures",
+        "summary": "Students practise writing simple labels, like one word or a short phrase, to describe a picture they have drawn.",
+        "resourceLabel": "YouTube: Writing: Labels for Pictures",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Labels%20for%20Pictures%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "A label under a picture usually tells us ___.",
+            "options": [
+              "A song",
+              "Nothing at all",
+              "What the picture shows",
+              "A math problem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you draw a dog, a good label would be ___.",
+            "options": [
+              "Sun",
+              "Tree",
+              "Dog",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers add labels to their pictures?",
+            "options": [
+              "Only for adults",
+              "To help explain what the picture shows",
+              "To make the picture messy",
+              "Labels are not helpful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A label is usually ___.",
+            "options": [
+              "A whole book",
+              "A short word or phrase",
+              "A very long story",
+              "A song"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you draw the sun, a good label would be ___.",
+            "options": [
+              "Cloud",
+              "Sun",
+              "Moon",
+              "Star"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you draw a picture of a cat, what simple label could you write under it?",
+            "answers": [
+              "cat"
+            ]
+          },
+          {
+            "prompt": "If you draw a picture of the sun, what simple label could you write?",
+            "answers": [
+              "sun"
+            ]
+          },
+          {
+            "prompt": "Why do we add labels to pictures?",
+            "answers": [
+              "to describe them",
+              "to tell what it is",
+              "to explain the picture"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Growing Patterns: Patterns That Change",
+        "summary": "Students explore growing patterns, where the pattern increases by a set amount each time, such as one block, two blocks, three blocks.",
+        "resourceLabel": "YouTube: Growing Patterns: Patterns That Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Growing%20Patterns%3A%20Patterns%20That%20Change%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "In a growing pattern, the amount ___ each time.",
+            "options": [
+              "Increases",
+              "Decreases",
+              "Disappears",
+              "Stays the same"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a growing pattern shows 1 block, 2 blocks, 3 blocks, how many blocks come next?",
+            "options": [
+              "5",
+              "1",
+              "4",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a growing pattern?",
+            "options": [
+              "Red, blue, red, blue repeating",
+              "1 star every time with no change",
+              "Sets that grow: 2 stars, then 3 stars, then 4 stars",
+              "The same shape every time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A growing pattern of 2, 4, 6 continues with ___.",
+            "options": [
+              "9",
+              "10",
+              "7",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a growing pattern that adds one more shape each time, if it starts with 2 shapes, the next step has ___.",
+            "options": [
+              "3 shapes",
+              "2 shapes",
+              "5 shapes",
+              "1 shape"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a growing pattern goes 1, 2, 3, what comes next?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "In a growing pattern of shapes with 1 circle, then 2 circles, then 3 circles, how many circles come next?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Does a growing pattern get bigger or stay the same each time?",
+            "answers": [
+              "bigger",
+              "gets bigger"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather Tools: Measuring Rain and Temperature",
+        "summary": "Students learn about simple weather tools, such as a rain gauge to measure rainfall and a thermometer to measure temperature.",
+        "resourceLabel": "YouTube: Weather Tools: Measuring Rain and Temperature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Tools%3A%20Measuring%20Rain%20and%20Temperature%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What tool measures temperature?",
+            "options": [
+              "Scale",
+              "Ruler",
+              "Rain gauge",
+              "Thermometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tool measures how much rain has fallen?",
+            "options": [
+              "Rain gauge",
+              "Thermometer",
+              "Clock",
+              "Compass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the thermometer shows a high number, the weather is likely ___.",
+            "options": [
+              "Foggy",
+              "Snowy",
+              "Hot",
+              "Cold"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do people use weather tools?",
+            "options": [
+              "Weather cannot be measured",
+              "They are only toys",
+              "To measure and understand the weather",
+              "To make noise"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rain gauge is usually shaped like a ___.",
+            "options": [
+              "Tall narrow container",
+              "Cube",
+              "Flat circle",
+              "Triangle"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool measures how hot or cold it is outside?",
+            "answers": [
+              "thermometer"
+            ]
+          },
+          {
+            "prompt": "What tool measures how much rain has fallen?",
+            "answers": [
+              "rain gauge"
+            ]
+          },
+          {
+            "prompt": "Would we use a thermometer to check temperature or to check the time?",
+            "answers": [
+              "temperature"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Sharing and Taking Turns",
+        "summary": "Students learn the importance of sharing toys and materials, and taking turns, when playing and working with others.",
+        "resourceLabel": "YouTube: Sharing and Taking Turns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sharing%20and%20Taking%20Turns%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to share?",
+            "options": [
+              "Letting others use or have some of what you have",
+              "Hiding your toys",
+              "Keeping everything for yourself",
+              "Ignoring friends"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does taking turns mean?",
+            "options": [
+              "Always going first",
+              "Waiting for your chance after someone else",
+              "Playing alone forever",
+              "Never playing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is sharing a kind thing to do?",
+            "options": [
+              "It is not kind",
+              "It has no effect",
+              "It makes others sad",
+              "It helps everyone feel included and happy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If two children want the same toy, a good solution is to ___.",
+            "options": [
+              "Break it",
+              "Take turns using it",
+              "Hide it from the other child",
+              "Fight over it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sharing and taking turns help us ___.",
+            "options": [
+              "Be good friends and get along with others",
+              "Make others upset",
+              "Never play together",
+              "Avoid all friends"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word means letting someone else use something you have?",
+            "answers": [
+              "sharing",
+              "share"
+            ]
+          },
+          {
+            "prompt": "What word means waiting for your chance to do something?",
+            "answers": [
+              "taking turns",
+              "turn"
+            ]
+          },
+          {
+            "prompt": "Why is sharing important when playing with friends?",
+            "answers": [
+              "it is kind",
+              "everyone gets a turn",
+              "it is fair"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "label": "Day 46 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Nouns: Naming People, Places, and Things",
+        "summary": "Students learn that a noun is a word that names a person, place, or thing, such as teacher, school, or ball.",
+        "resourceLabel": "YouTube: Nouns: Naming People, Places, and Things",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nouns%3A%20Naming%20People%2C%20Places%2C%20and%20Things%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a noun?",
+            "options": [
+              "A number",
+              "A word that names a person, place, or thing",
+              "A feeling only",
+              "A colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a noun that names a person?",
+            "options": [
+              "Run",
+              "Blue",
+              "Fast",
+              "Teacher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is a noun that names a place?",
+            "options": [
+              "School",
+              "Sing",
+              "Jump",
+              "Happy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a noun that names a thing?",
+            "options": [
+              "Sad",
+              "Ball",
+              "Sing",
+              "Quickly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is NOT a noun?",
+            "options": [
+              "Dog",
+              "Jump",
+              "Park",
+              "Book"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the word teacher a noun that names a person, place, or thing?",
+            "answers": [
+              "person"
+            ]
+          },
+          {
+            "prompt": "Is the word school a noun that names a person, place, or thing?",
+            "answers": [
+              "place"
+            ]
+          },
+          {
+            "prompt": "Is the word ball a noun that names a person, place, or thing?",
+            "answers": [
+              "thing"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Weight, Heavier and Lighter",
+        "summary": "Students compare objects by weight, using the words heavier and lighter to describe which object weighs more or less.",
+        "resourceLabel": "YouTube: Measurement: Weight, Heavier and Lighter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Weight%2C%20Heavier%20and%20Lighter%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which is heavier: a feather or a rock?",
+            "options": [
+              "Feather",
+              "Rock",
+              "They weigh the same",
+              "Cannot tell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is lighter: a book or a pencil?",
+            "options": [
+              "They weigh the same",
+              "Book",
+              "Pencil",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A scale can help us find out which object is ___.",
+            "options": [
+              "Colourful",
+              "Faster",
+              "Heavier or lighter",
+              "Louder"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two objects weigh the exact same amount, they are ___.",
+            "options": [
+              "Lighter",
+              "Heavier",
+              "Not comparable",
+              "Equal in weight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word describes an object that weighs a lot?",
+            "options": [
+              "Small",
+              "Heavy",
+              "Fast",
+              "Light"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Between a feather and a rock, which is heavier?",
+            "answers": [
+              "rock"
+            ]
+          },
+          {
+            "prompt": "Between a feather and a rock, which is lighter?",
+            "answers": [
+              "feather"
+            ]
+          },
+          {
+            "prompt": "What tool can help us check which object weighs more?",
+            "answers": [
+              "scale"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Solids and Liquids: Sorting by State",
+        "summary": "Students explore two states of matter, solids and liquids, and sort everyday materials such as ice, water, wood, and juice into each group.",
+        "resourceLabel": "YouTube: Solids and Liquids: Sorting by State",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solids%20and%20Liquids%3A%20Sorting%20by%20State%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a solid?",
+            "options": [
+              "A rock",
+              "Milk",
+              "Water",
+              "Juice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a liquid?",
+            "options": [
+              "A block",
+              "A rock",
+              "A book",
+              "Juice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A solid usually ___.",
+            "options": [
+              "Keeps its own shape",
+              "Is always a gas",
+              "Has no shape at all",
+              "Always flows and spreads out"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A liquid usually ___.",
+            "options": [
+              "Cannot be poured",
+              "Keeps a fixed shape like a block",
+              "Is always frozen",
+              "Flows and takes the shape of its container"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these could change from a solid to a liquid, like when it melts?",
+            "options": [
+              "A rock",
+              "A wooden block",
+              "A book",
+              "Ice"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a rock a solid or a liquid?",
+            "answers": [
+              "solid"
+            ]
+          },
+          {
+            "prompt": "Is water a solid or a liquid?",
+            "answers": [
+              "liquid"
+            ]
+          },
+          {
+            "prompt": "Name one solid object, like a block or a rock.",
+            "answers": [
+              "block",
+              "rock",
+              "book",
+              "toy"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Solving Problems: Working Out Disagreements",
+        "summary": "Students learn simple strategies to solve small disagreements with friends, such as talking calmly, listening, and finding a fair solution.",
+        "resourceLabel": "YouTube: Solving Problems: Working Out Disagreements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Problems%3A%20Working%20Out%20Disagreements%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a good first step when you disagree with a friend?",
+            "options": [
+              "Hitting",
+              "Walking away angrily",
+              "Yelling",
+              "Talking calmly about the problem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is listening important during a disagreement?",
+            "options": [
+              "It wastes time",
+              "It helps you understand how the other person feels",
+              "It is not important",
+              "It makes the problem worse"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a fair way to solve a disagreement over a toy?",
+            "options": [
+              "Breaking the toy",
+              "One person keeps it forever",
+              "Taking turns using it",
+              "Ignoring the other person"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you cannot solve a problem with a friend, who could help?",
+            "options": [
+              "Nobody, just ignore it",
+              "A stranger",
+              "No one can help",
+              "A teacher or trusted adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solving disagreements calmly helps friends ___.",
+            "options": [
+              "Stay friends and understand each other",
+              "Fight more",
+              "Avoid talking forever",
+              "Stop being friends"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What should you do first when you disagree with a friend?",
+            "answers": [
+              "talk calmly",
+              "talk about it"
+            ]
+          },
+          {
+            "prompt": "Why is it important to listen during a disagreement?",
+            "answers": [
+              "to understand each other",
+              "to be fair"
+            ]
+          },
+          {
+            "prompt": "Name one fair way to solve a disagreement, like taking turns.",
+            "answers": [
+              "taking turns",
+              "talking it out",
+              "compromise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "label": "Day 47 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Verbs: Action Words",
+        "summary": "Students learn that a verb is a word that shows action, such as run, jump, or sing, and practise identifying verbs in simple sentences.",
+        "resourceLabel": "YouTube: Verbs: Action Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Verbs%3A%20Action%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a verb?",
+            "options": [
+              "A number word",
+              "A word that names a person",
+              "A colour word",
+              "A word that shows action"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is a verb?",
+            "options": [
+              "Happy",
+              "Dog",
+              "Blue",
+              "Jump"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence She sings a song, which word is the verb?",
+            "options": [
+              "She",
+              "Song",
+              "Sings",
+              "A"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is NOT a verb?",
+            "options": [
+              "Jump",
+              "Table",
+              "Run",
+              "Swim"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word could complete the sentence The bird can ___?",
+            "options": [
+              "Table",
+              "Fly",
+              "Blue",
+              "Happy"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the word jump an action word or a naming word?",
+            "answers": [
+              "action word",
+              "action"
+            ]
+          },
+          {
+            "prompt": "Name one verb, or action word, like run or sing.",
+            "answers": [
+              "run",
+              "jump",
+              "sing",
+              "walk",
+              "eat",
+              "play"
+            ]
+          },
+          {
+            "prompt": "In the sentence The dog runs, which word is the verb?",
+            "answers": [
+              "runs"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Sharing Equally in Halves",
+        "summary": "Students explore the idea of a half, learning that cutting something into two equal parts means sharing it fairly and equally.",
+        "resourceLabel": "YouTube: Fractions: Sharing Equally in Halves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Sharing%20Equally%20in%20Halves%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you cut a sandwich into two equal parts, each part is called a ___.",
+            "options": [
+              "Whole",
+              "Quarter",
+              "Double",
+              "Half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many halves make one whole?",
+            "options": [
+              "4",
+              "3",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To share a cookie fairly between two friends, you should cut it into ___.",
+            "options": [
+              "One big piece",
+              "Four different sizes",
+              "Two equal parts",
+              "Three unequal parts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a pizza is cut into two equal halves, is each half bigger or smaller than the whole pizza?",
+            "options": [
+              "Smaller",
+              "Cannot tell",
+              "The exact same size",
+              "Bigger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these describes a shape cut into two equal halves?",
+            "options": [
+              "A whole uncut shape",
+              "A shape split into four different size parts",
+              "A shape with no parts",
+              "A shape split into two same size parts"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you cut a cookie into two equal parts, what is each part called?",
+            "answers": [
+              "half",
+              "a half"
+            ]
+          },
+          {
+            "prompt": "How many halves make one whole cookie?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "If you share one apple equally with a friend, does each person get more or less than the whole apple?",
+            "answers": [
+              "less"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Shadows: Light and Dark",
+        "summary": "Students explore how shadows are formed when an object blocks light, and observe how their own shadow can change size and shape.",
+        "resourceLabel": "YouTube: Shadows: Light and Dark",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Shadows%3A%20Light%20and%20Dark%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is needed to make a shadow?",
+            "options": [
+              "Wind",
+              "Light and an object blocking it",
+              "Only darkness",
+              "Water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A shadow forms when an object ___.",
+            "options": [
+              "Floats in water",
+              "Melts",
+              "Blocks light",
+              "Makes a sound"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a sunny day, where does your shadow usually appear?",
+            "options": [
+              "In the sky",
+              "On the ground near you",
+              "Nowhere",
+              "Underground"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a shadow shape and size change during the day?",
+            "options": [
+              "Yes, it can change as the sun moves",
+              "No, it never changes",
+              "Shadows do not exist",
+              "Only at night"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would create a shadow outside on a sunny day?",
+            "options": [
+              "Rain falling",
+              "A cloud passing at night",
+              "A tree blocking the sunlight",
+              "The wind blowing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is needed to make a shadow, besides an object?",
+            "answers": [
+              "light"
+            ]
+          },
+          {
+            "prompt": "What happens when an object blocks light?",
+            "answers": [
+              "a shadow forms",
+              "it makes a shadow"
+            ]
+          },
+          {
+            "prompt": "Can your shadow change size during the day?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Safety Helpers: Calling for Emergency Help",
+        "summary": "Students learn what an emergency is and that they can call a special number to reach safety helpers like police, firefighters, or paramedics if there is a serious emergency.",
+        "resourceLabel": "YouTube: Safety Helpers: Calling for Emergency Help",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Safety%20Helpers%3A%20Calling%20for%20Emergency%20Help%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What number can you call in an emergency in Canada?",
+            "options": [
+              "911",
+              "411",
+              "611",
+              "111"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a serious emergency?",
+            "options": [
+              "Being bored",
+              "Losing a toy",
+              "Wanting a snack",
+              "A fire in a house"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which safety helper might come if you call for emergency help?",
+            "options": [
+              "An artist",
+              "A firefighter",
+              "A pilot",
+              "A chef"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to only call for emergency help during a real emergency?",
+            "options": [
+              "So helpers can quickly reach people who truly need help",
+              "Emergency numbers are just for fun",
+              "It does not matter",
+              "Helpers are never busy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If someone is badly hurt, what is a safe first step?",
+            "options": [
+              "Ignore them",
+              "Tell a trusted adult or call for emergency help",
+              "Do nothing",
+              "Run away"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number can you call in Canada for a serious emergency?",
+            "answers": [
+              "911"
+            ]
+          },
+          {
+            "prompt": "Name one safety helper who might respond to an emergency call, like a firefighter.",
+            "answers": [
+              "firefighter",
+              "police officer",
+              "paramedic"
+            ]
+          },
+          {
+            "prompt": "Should you call for emergency help if someone is badly hurt or in danger?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "label": "Day 48 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Predicting: What Happens Next",
+        "summary": "Students practise predicting, or making a smart guess, about what might happen next in a story based on clues from the pictures and words.",
+        "resourceLabel": "YouTube: Predicting: What Happens Next",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Predicting%3A%20What%20Happens%20Next%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to predict?",
+            "options": [
+              "To ignore the story",
+              "To draw a picture",
+              "To read the last page first",
+              "To make a smart guess about what might happen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can help you make a good prediction about a story?",
+            "options": [
+              "Skipping pages",
+              "Ignoring the book",
+              "Closing your eyes",
+              "Clues from pictures and words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a story shows a character packing a suitcase, what might you predict happens next?",
+            "options": [
+              "The character is swimming",
+              "The character is going on a trip",
+              "The character is cooking",
+              "The character is going to sleep"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Predicting what happens next helps readers ___.",
+            "options": [
+              "Understand and enjoy the story more",
+              "Stop reading",
+              "Forget the story",
+              "Avoid thinking"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If dark clouds appear in a picture, a good prediction might be that ___.",
+            "options": [
+              "Nothing will happen",
+              "It will rain",
+              "The sun will disappear forever",
+              "It will snow candy"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does it mean to predict what happens next in a story?",
+            "answers": [
+              "make a guess",
+              "guess what happens"
+            ]
+          },
+          {
+            "prompt": "What can help you predict what happens next, like pictures or clues?",
+            "answers": [
+              "pictures",
+              "clues"
+            ]
+          },
+          {
+            "prompt": "If dark clouds appear in a story picture, what might you predict will happen next?",
+            "answers": [
+              "rain",
+              "it will rain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Shapes in Our World: 2D and 3D Together",
+        "summary": "Students look for 2D shapes, like circles and squares, and 3D shapes, like spheres and cubes, in everyday objects around their classroom and home.",
+        "resourceLabel": "YouTube: Shapes in Our World: 2D and 3D Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Shapes%20in%20Our%20World%3A%202D%20and%203D%20Together%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a 3D shape in real life?",
+            "options": [
+              "A triangle drawn on paper",
+              "A ball",
+              "A drawn circle",
+              "A flat square drawing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a 2D shape?",
+            "options": [
+              "A circle drawn on paper",
+              "A cube",
+              "A cylinder",
+              "A sphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A book is closest in shape to which 3D shape?",
+            "options": [
+              "Cube or rectangular prism",
+              "Cone",
+              "Sphere",
+              "Cylinder"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A clock face is closest in shape to which 2D shape?",
+            "options": [
+              "Triangle",
+              "Circle",
+              "Square",
+              "Rectangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we look for shapes in our world?",
+            "options": [
+              "Only artists need shapes",
+              "Shapes are only in math books",
+              "Shapes do not exist in real life",
+              "To notice that shapes are all around us in everyday objects"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a book shaped like a rectangular box a 2D or 3D shape example?",
+            "answers": [
+              "3d",
+              "3D"
+            ]
+          },
+          {
+            "prompt": "Name one object shaped like a sphere, like a ball.",
+            "answers": [
+              "ball"
+            ]
+          },
+          {
+            "prompt": "Name one flat shape you might see drawn on paper, like a circle or square.",
+            "answers": [
+              "circle",
+              "square",
+              "triangle",
+              "rectangle"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Camouflage: Hiding in Plain Sight",
+        "summary": "Students learn that camouflage is when an animal blends into its surroundings, using colours or patterns to hide from other animals.",
+        "resourceLabel": "YouTube: Camouflage: Hiding in Plain Sight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Camouflage%3A%20Hiding%20in%20Plain%20Sight%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "When an animal sleeps all day",
+              "When an animal flies very high",
+              "When an animal blends into its surroundings to hide",
+              "When an animal makes loud noises"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do some animals use camouflage?",
+            "options": [
+              "To hide from predators or prey",
+              "To make friends",
+              "To attract attention",
+              "To grow bigger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "White fur on a polar bear helps it blend into ___.",
+            "options": [
+              "Grass",
+              "Snow and ice",
+              "Mud",
+              "Sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is known for changing colour to blend into its surroundings?",
+            "options": [
+              "Lion",
+              "Whale",
+              "Chameleon",
+              "Elephant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Camouflage helps animals ___.",
+            "options": [
+              "Stay hidden and safe",
+              "Grow larger",
+              "Become louder",
+              "Fly faster"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes when an animal blends into its surroundings to hide?",
+            "answers": [
+              "camouflage"
+            ]
+          },
+          {
+            "prompt": "Why might an animal use camouflage?",
+            "answers": [
+              "to hide",
+              "to stay safe",
+              "to avoid predators"
+            ]
+          },
+          {
+            "prompt": "Name one animal that uses camouflage, like a chameleon or a frog.",
+            "answers": [
+              "chameleon",
+              "frog",
+              "polar bear",
+              "stick insect"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Land and Water: Exploring Our Earth",
+        "summary": "Students learn that the Earth is made up of land, such as mountains and forests, and water, such as lakes, rivers, and oceans.",
+        "resourceLabel": "YouTube: Land and Water: Exploring Our Earth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Land%20and%20Water%3A%20Exploring%20Our%20Earth%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a land feature?",
+            "options": [
+              "Ocean",
+              "Lake",
+              "Mountain",
+              "River"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a water feature?",
+            "options": [
+              "Ocean",
+              "Mountain",
+              "Forest",
+              "Hill"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Our Earth is covered mostly by ___.",
+            "options": [
+              "Only ice",
+              "Only land",
+              "A mix of land and water",
+              "Only sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a body of water?",
+            "options": [
+              "A forest",
+              "A river",
+              "A hill",
+              "A mountain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to learn about land and water on Earth?",
+            "options": [
+              "Land and water do not matter",
+              "It helps us understand and appreciate our planet",
+              "It is not useful",
+              "Only sailors need to know"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one type of land feature, like a mountain or forest.",
+            "answers": [
+              "mountain",
+              "forest",
+              "hill"
+            ]
+          },
+          {
+            "prompt": "Name one type of water feature, like a lake or ocean.",
+            "answers": [
+              "lake",
+              "ocean",
+              "river",
+              "pond"
+            ]
+          },
+          {
+            "prompt": "Is a mountain a land feature or a water feature?",
+            "answers": [
+              "land"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "label": "Day 49 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Retelling a Story in My Own Words",
+        "summary": "Students practise retelling a story they have heard, using their own words to describe the characters, setting, and events in order.",
+        "resourceLabel": "YouTube: Retelling a Story in My Own Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Retelling%20a%20Story%20in%20My%20Own%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to retell a story?",
+            "options": [
+              "To ignore the story",
+              "To read the story silently",
+              "To draw the story",
+              "To tell the story again in your own words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When retelling a story, what should you include?",
+            "options": [
+              "The characters, setting, and important events",
+              "Nothing at all",
+              "Only the title",
+              "Only the last page"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to retell a story in order?",
+            "options": [
+              "It is not helpful",
+              "Order does not matter",
+              "To make the story shorter always",
+              "So the story makes sense to the listener"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you retell a story, whose words should you mostly use?",
+            "options": [
+              "Only pictures",
+              "The exact words from the original book",
+              "No words at all",
+              "Your own words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Retelling a story helps us practise ___.",
+            "options": [
+              "Only drawing",
+              "Only counting",
+              "Listening and speaking skills",
+              "Only singing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "When you retell a story, whose words do you use?",
+            "answers": [
+              "your own",
+              "my own"
+            ]
+          },
+          {
+            "prompt": "What should you include when retelling a story, like the characters and what happened?",
+            "answers": [
+              "characters",
+              "events",
+              "what happened"
+            ]
+          },
+          {
+            "prompt": "Should you retell the events of a story in order or out of order?",
+            "answers": [
+              "in order"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Lines: Counting Forward and Back",
+        "summary": "Students use a number line to practise counting forward and backward, and to find numbers that come before, after, or between other numbers.",
+        "resourceLabel": "YouTube: Number Lines: Counting Forward and Back",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Lines%3A%20Counting%20Forward%20and%20Back%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "On a number line, counting forward from 3 gives you ___ next.",
+            "options": [
+              "1",
+              "5",
+              "4",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a number line, counting backward from 8 gives you ___ next.",
+            "options": [
+              "6",
+              "7",
+              "10",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number sits between 10 and 12 on a number line?",
+            "options": [
+              "13",
+              "14",
+              "11",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A number line helps us see numbers in ___.",
+            "options": [
+              "Backwards colours",
+              "Order from smallest to largest",
+              "Random order",
+              "Shapes only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a number line, moving to the right usually means the numbers ___.",
+            "options": [
+              "Disappear",
+              "Get smaller",
+              "Get bigger",
+              "Stay the same"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a number line, if you count forward from 5, what number comes next?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "On a number line, if you count backward from 5, what number comes next?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "On a number line, which number is between 7 and 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Taking Care of Our Teeth",
+        "summary": "Students learn simple habits for keeping their teeth healthy, such as brushing twice a day, flossing, and visiting the dentist.",
+        "resourceLabel": "YouTube: Taking Care of Our Teeth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Teeth%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many times a day should you brush your teeth?",
+            "options": [
+              "Never",
+              "Ten times a day",
+              "Twice a day",
+              "Once a week"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who helps take care of our teeth at a special office?",
+            "options": [
+              "A chef",
+              "An artist",
+              "A pilot",
+              "A dentist"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which food can be unhealthy for teeth if eaten too much?",
+            "options": [
+              "An apple",
+              "Broccoli",
+              "Water",
+              "Candy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tool do we use to clean between our teeth?",
+            "options": [
+              "A hairbrush",
+              "Floss",
+              "A pencil",
+              "A paintbrush"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to take care of our teeth?",
+            "options": [
+              "It does not matter",
+              "Only adults have teeth",
+              "To keep them healthy and strong",
+              "Teeth do not need care"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many times a day should you brush your teeth?",
+            "answers": [
+              "2",
+              "two",
+              "twice"
+            ]
+          },
+          {
+            "prompt": "Who helps check and take care of our teeth at a special office?",
+            "answers": [
+              "dentist"
+            ]
+          },
+          {
+            "prompt": "Name one food that can be unhealthy for teeth if eaten too much, like candy.",
+            "answers": [
+              "candy",
+              "sugar",
+              "sweets"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Classroom Jobs: Helping Out",
+        "summary": "Students learn about simple classroom jobs, such as line leader, helper, or paper passer, and how doing a job helps the whole class run smoothly.",
+        "resourceLabel": "YouTube: Our Classroom Jobs: Helping Out",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Classroom%20Jobs%3A%20Helping%20Out%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a classroom job?",
+            "options": [
+              "Watching television",
+              "Line leader",
+              "Sleeping",
+              "Nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do classrooms often give students jobs to do?",
+            "options": [
+              "Jobs are not helpful",
+              "To keep students bored",
+              "Only the teacher should do everything",
+              "To help the classroom run smoothly and share responsibility"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a line leader do?",
+            "options": [
+              "Cleans the whole school",
+              "Cooks lunch",
+              "Drives the bus",
+              "Leads the class in a line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Doing a classroom job well shows that you are being ___.",
+            "options": [
+              "Responsible",
+              "Unkind",
+              "Lazy",
+              "Careless"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a benefit of having classroom jobs?",
+            "options": [
+              "It causes more mess",
+              "It helps everyone contribute and feel part of the class",
+              "It is unfair to have jobs",
+              "Nobody benefits"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one classroom job, like line leader or helper.",
+            "answers": [
+              "line leader",
+              "helper",
+              "paper passer"
+            ]
+          },
+          {
+            "prompt": "Why do classrooms have jobs for students to do?",
+            "answers": [
+              "to help the class",
+              "to share responsibility"
+            ]
+          },
+          {
+            "prompt": "Who leads the line when walking to another room?",
+            "answers": [
+              "line leader"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "label": "Day 50 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Nouns, Verbs, and Stories",
+        "summary": "Students review recent Language skills: blending sounds, compound words, question words, sequencing words, writing labels, nouns, verbs, predicting, and retelling stories.",
+        "resourceLabel": "YouTube: Language Review: Nouns, Verbs, and Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Nouns%2C%20Verbs%2C%20and%20Stories%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Sun and flower blend to make which compound word?",
+            "options": [
+              "Sundial",
+              "Sunflower",
+              "Sunshine",
+              "Sunset"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which question word asks about a person?",
+            "options": [
+              "Who",
+              "What",
+              "Where",
+              "When"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a noun?",
+            "options": [
+              "Run",
+              "School",
+              "Quickly",
+              "Happy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a verb?",
+            "options": [
+              "Blue",
+              "Jump",
+              "Dog",
+              "Table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to predict what happens next in a story?",
+            "options": [
+              "To skip the story",
+              "To ignore pictures",
+              "To close the book",
+              "To make a smart guess based on clues"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word do the sounds c, a, t blend to make?",
+            "answers": [
+              "cat"
+            ]
+          },
+          {
+            "prompt": "What is a word that names a person, place, or thing called?",
+            "answers": [
+              "noun"
+            ]
+          },
+          {
+            "prompt": "What is a word that shows action called?",
+            "answers": [
+              "verb"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Addition, Money, and Shapes",
+        "summary": "Students review recent Math skills: addition and subtraction to 20, skip counting by tens, money, growing patterns, weight, fractions, shapes, and number lines.",
+        "resourceLabel": "YouTube: Math Review: Addition, Money, and Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Addition%2C%20Money%2C%20and%20Shapes%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "11 + 4 = ?",
+            "options": [
+              "13",
+              "15",
+              "16",
+              "14"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "18 - 5 = ?",
+            "options": [
+              "13",
+              "12",
+              "14",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip count by tens: 10, 20, 30, then what number?",
+            "options": [
+              "45",
+              "40",
+              "35",
+              "50"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which coin is worth twenty five cents?",
+            "options": [
+              "Nickel",
+              "Dime",
+              "Quarter",
+              "Penny"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is heavier: a feather or a rock?",
+            "options": [
+              "They weigh the same",
+              "Rock",
+              "Feather",
+              "Cannot tell"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "12 + 3 = ?",
+            "answers": [
+              "15",
+              "fifteen"
+            ]
+          },
+          {
+            "prompt": "Which coin is worth ten cents?",
+            "answers": [
+              "dime"
+            ]
+          },
+          {
+            "prompt": "If you cut a cookie into two equal parts, what is each part called?",
+            "answers": [
+              "half",
+              "a half"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Life Cycles, Habitats, and Our Bodies",
+        "summary": "Students review recent Science topics: plant life cycles, animal habitats, nocturnal animals, bones and muscles, weather tools, solids and liquids, shadows, camouflage, and taking care of our teeth.",
+        "resourceLabel": "YouTube: Science Review: Life Cycles, Habitats, and Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Life%20Cycles%2C%20Habitats%2C%20and%20Our%20Bodies%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a plant life cycle?",
+            "options": [
+              "Sprout",
+              "Flower",
+              "Root",
+              "Seed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does nocturnal mean?",
+            "options": [
+              "Always asleep",
+              "Living only in water",
+              "Awake during the day",
+              "Awake at night and asleep during the day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gives our body its shape and support?",
+            "options": [
+              "Muscles",
+              "Bones",
+              "Skin",
+              "Hair"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is needed to make a shadow?",
+            "options": [
+              "Water",
+              "Only darkness",
+              "Wind",
+              "Light and an object blocking it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "When an animal blends into its surroundings to hide",
+              "When an animal flies high",
+              "When an animal sleeps all day",
+              "When an animal makes loud noises"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a plant life cycle?",
+            "answers": [
+              "seed"
+            ]
+          },
+          {
+            "prompt": "What word means the place where an animal lives?",
+            "answers": [
+              "habitat"
+            ]
+          },
+          {
+            "prompt": "What tool measures temperature?",
+            "answers": [
+              "thermometer"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Jobs, Community, and Our Earth",
+        "summary": "Students review recent Social Studies topics: jobs people do, Indigenous Peoples, landmarks, money, sharing, solving problems, safety helpers, land and water, and classroom jobs.",
+        "resourceLabel": "YouTube: Social Studies Review: Jobs, Community, and Our Earth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Jobs%2C%20Community%2C%20and%20Our%20Earth%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who flies an airplane?",
+            "options": [
+              "Farmer",
+              "Teacher",
+              "Chef",
+              "Pilot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who were the first people to live in what is now Canada?",
+            "options": [
+              "European settlers",
+              "Pilots",
+              "Indigenous Peoples",
+              "Astronauts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a landmark?",
+            "options": [
+              "A kind of weather",
+              "A math tool",
+              "A type of food",
+              "A special, well known place in a community"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does taking turns mean?",
+            "options": [
+              "Always going first",
+              "Never playing",
+              "Playing alone forever",
+              "Waiting for your chance after someone else"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a land feature?",
+            "options": [
+              "River",
+              "Ocean",
+              "Lake",
+              "Mountain"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who cooks meals at a restaurant?",
+            "answers": [
+              "chef",
+              "cook"
+            ]
+          },
+          {
+            "prompt": "What number can you call in an emergency in Canada?",
+            "answers": [
+              "911"
+            ]
+          },
+          {
+            "prompt": "Name one classroom job, like line leader or helper.",
+            "answers": [
+              "line leader",
+              "helper",
+              "paper passer"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
