@@ -14602,5 +14602,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Prepositional Phrases and Their Function",
+        "summary": "Grade 6 Language strand: a prepositional phrase begins with a preposition and ends with a noun or pronoun, adding detail about location, time, or direction to a sentence.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A prepositional phrase begins with a preposition and ends with a ___.",
+            "options": [
+              "Verb only",
+              "Noun or pronoun",
+              "Punctuation mark",
+              "A concept unrelated to prepositional phrases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a prepositional phrase?",
+            "options": [
+              "A phrase unrelated to prepositional phrases",
+              "Under the old bridge",
+              "Quickly ran away",
+              "Happily singing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence “The cat slept on the warm windowsill,” which words form the prepositional phrase?",
+            "options": [
+              "The cat slept",
+              "Slept on the",
+              "On the warm windowsill",
+              "A phrase unrelated to this sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Prepositional phrases often add detail about ___.",
+            "options": [
+              "A concept unrelated to prepositional phrases",
+              "The subject’s name only",
+              "Nothing at all, since they carry no meaning",
+              "Location, time, or direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use prepositional phrases in their sentences?",
+            "options": [
+              "To add specific detail and make writing more descriptive",
+              "A reason unrelated to grammar",
+              "Prepositional phrases are never useful in writing",
+              "Prepositional phrases always make writing confusing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Decimals",
+        "summary": "Grade 6 Math strand: adding and subtracting decimals uses the same place-value rules as whole numbers, so digits must be lined up by their decimal point before combining them.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To add or subtract decimals correctly, you must first ___.",
+            "options": [
+              "Line up the decimal points so digits match by place value",
+              "A step unrelated to adding decimals",
+              "Ignore the decimal points completely",
+              "Round every number to the nearest whole number first"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 4.25 + 3.6?",
+            "options": [
+              "7.85",
+              "7.61",
+              "A value unrelated to the calculation",
+              "7.31"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 9.7 - 2.35?",
+            "options": [
+              "6.35",
+              "A value unrelated to the calculation",
+              "7.35",
+              "7.45"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 12.08 + 5.9?",
+            "options": [
+              "17.98",
+              "A value unrelated to the calculation",
+              "12.99",
+              "17.08"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a store use decimal addition and subtraction when handling money?",
+            "options": [
+              "Decimals are only used in scientific contexts, never in stores",
+              "Prices and change are often expressed using decimals for dollars and cents",
+              "A reason unrelated to decimals",
+              "Money is never expressed using decimal numbers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Adaptations and Survival Strategies",
+        "summary": "Grade 6 Science strand: an adaptation is a physical feature or behaviour that helps an organism survive and reproduce in its specific environment.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is best described as ___.",
+            "options": [
+              "A random change with no effect on survival",
+              "A concept unrelated to adaptations",
+              "A feature that always harms an organism’s chances of survival",
+              "A physical feature or behaviour that helps an organism survive in its environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a physical adaptation?",
+            "options": [
+              "A polar bear’s thick fur for insulation in cold climates",
+              "A behaviour with no connection to survival",
+              "A concept unrelated to physical adaptations",
+              "An animal’s name"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a behavioural adaptation?",
+            "options": [
+              "An adaptation with no connection to survival",
+              "A fixed physical feature like fur colour",
+              "Birds migrating to a warmer climate for winter",
+              "A concept unrelated to behavioural adaptations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might camouflage be considered a helpful adaptation for many animals?",
+            "options": [
+              "It helps an animal avoid predators or sneak up on prey by blending into its surroundings",
+              "A reason unrelated to adaptations",
+              "Camouflage always makes an animal more visible to predators",
+              "Camouflage has no effect on an animal’s survival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do different environments often lead to different adaptations in similar species?",
+            "options": [
+              "All environments present exactly the same challenges",
+              "Each environment presents different challenges, so useful traits differ from place to place",
+              "Adaptations never relate to an organism’s environment",
+              "A reason unrelated to adaptations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Ancient India: The Indus Valley Civilization",
+        "summary": "Grade 6 Social Studies strand: the Indus Valley Civilization was one of the world’s earliest urban societies, known for its advanced city planning, trade networks, and still-undeciphered writing system.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Indus Valley Civilization is known for its advanced ___.",
+            "options": [
+              "City planning, including organized streets and drainage systems",
+              "A concept unrelated to the Indus Valley Civilization",
+              "Complete absence of any cities or towns",
+              "Reliance on hunting and gathering, with no settled towns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Indus Valley Civilization developed along which river system?",
+            "options": [
+              "The Nile River",
+              "The Amazon River",
+              "A river unrelated to this civilization",
+              "The Indus River"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these remains a mystery to historians studying the Indus Valley Civilization?",
+            "options": [
+              "A concept unrelated to the Indus Valley Civilization",
+              "Its written script has not yet been fully deciphered",
+              "The civilization left behind no archaeological evidence at all",
+              "Historians know every detail about its writing system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Indus Valley Civilization often compared to Mesopotamia and Egypt?",
+            "options": [
+              "All three were early civilizations that developed advanced societies along major rivers",
+              "These civilizations developed with no connection to rivers at all",
+              "They existed on entirely different planets, with no shared characteristics",
+              "A reason unrelated to ancient river civilizations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians consider the Indus Valley Civilization an important part of ancient world history?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It existed for too short a time to be historically significant",
+              "It was one of the earliest large, organized urban societies, contributing to later civilizations",
+              "It had no influence on later societies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Descriptive Writing — Using Sensory Detail and Imagery",
+        "summary": "Grade 6 Language strand: descriptive writing uses sensory detail and imagery — appealing to sight, sound, smell, taste, and touch — to help readers vividly picture a scene.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Descriptive writing often appeals to the reader’s ___.",
+            "options": [
+              "Knowledge of grammar rules only",
+              "Ability to solve math problems",
+              "Five senses",
+              "A concept unrelated to descriptive writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses strong sensory detail?",
+            "options": [
+              "The crisp autumn air smelled of woodsmoke and fallen leaves.",
+              "It was outside.",
+              "A sentence unrelated to sensory detail",
+              "The weather happened."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Imagery in writing is best described as ___.",
+            "options": [
+              "Language that creates a vivid picture in the reader’s mind",
+              "A concept unrelated to imagery",
+              "A type of punctuation mark",
+              "A list of facts with no descriptive language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose specific, descriptive words over vague, general ones?",
+            "options": [
+              "Vague words always create a clearer picture than specific ones",
+              "Specific words make writing harder to understand",
+              "Specific words help readers form a clearer, more vivid mental picture",
+              "A reason unrelated to descriptive writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these appeals most directly to the sense of sound?",
+            "options": [
+              "A sentence unrelated to the sense of sound",
+              "The thunder rumbled loudly across the valley.",
+              "The lemon tasted sour.",
+              "The velvet fabric felt soft."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Nets of 3D Figures",
+        "summary": "Grade 6 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional figure, helping visualize the faces that make up a solid.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A net is best described as ___.",
+            "options": [
+              "A concept unrelated to nets",
+              "A type of graph used to display data",
+              "A three-dimensional figure with no flat faces",
+              "A two-dimensional pattern that folds into a three-dimensional figure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many faces does the net of a cube have?",
+            "options": [
+              "4",
+              "A number unrelated to the net of a cube",
+              "6",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which 3D figure is formed by a net made of one rectangle and two circles?",
+            "options": [
+              "A figure unrelated to this net",
+              "A cube",
+              "A cone",
+              "A cylinder"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The net of a triangular prism includes ___.",
+            "options": [
+              "A description unrelated to this net",
+              "Two triangles and three rectangles",
+              "Only triangles, with no rectangles at all",
+              "Six squares and no triangles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are nets useful when studying 3D figures?",
+            "options": [
+              "A reason unrelated to nets",
+              "Nets provide no useful information about a 3D figure",
+              "Nets can only be used with cubes, never other solids",
+              "They help show how many faces a solid has and how those faces connect"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Moon: Phases, Eclipses, and Its Effect on Earth",
+        "summary": "Grade 6 Science strand: the Moon’s phases result from its changing position relative to Earth and the Sun, and eclipses occur when the Sun, Earth, and Moon align in specific ways.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The Moon’s phases are caused by ___.",
+            "options": [
+              "Its changing position relative to Earth and the Sun",
+              "A concept unrelated to the Moon’s phases",
+              "The Moon changing shape physically each month",
+              "The Moon disappearing and reforming every month"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A solar eclipse occurs when ___.",
+            "options": [
+              "A concept unrelated to eclipses",
+              "Earth passes directly between the Sun and the Moon",
+              "The Moon and Sun are on opposite sides of Earth",
+              "The Moon passes between the Sun and Earth, blocking sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A lunar eclipse occurs when ___.",
+            "options": [
+              "The Moon blocks sunlight from reaching Earth",
+              "The Sun passes between Earth and the Moon",
+              "Earth passes between the Sun and the Moon, casting a shadow on the Moon",
+              "A concept unrelated to eclipses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best describes a full moon?",
+            "options": [
+              "No part of the Moon is visible at all",
+              "A concept unrelated to Moon phases",
+              "The entire visible side of the Moon appears illuminated",
+              "Only the Moon’s edge appears illuminated"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the Moon appear to change shape throughout the month, even though its own shape never changes?",
+            "options": [
+              "The Moon disappears completely between phases",
+              "A reason unrelated to Moon phases",
+              "We see different amounts of its sunlit side depending on its position in orbit",
+              "The Moon actually changes its physical shape each month"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "West African Kingdoms: Mali, Ghana, and Songhai",
+        "summary": "Grade 6 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through control of gold and salt trade routes across the Sahara.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The West African kingdoms of Ghana, Mali, and Songhai grew powerful largely through control of ___.",
+            "options": [
+              "Fishing rights along the Atlantic coast only",
+              "Gold and salt trade routes across the Sahara",
+              "A concept unrelated to these kingdoms",
+              "Trade routes that had no connection to gold or salt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which West African ruler is well known for a famous pilgrimage that showcased the kingdom’s vast wealth?",
+            "options": [
+              "A ruler of the Byzantine Empire",
+              "A ruler unrelated to West African history",
+              "A ruler of ancient Egypt",
+              "Mansa Musa of the Mali Empire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why were trans-Saharan trade routes important to these West African kingdoms?",
+            "options": [
+              "These routes had no economic importance to West Africa",
+              "They connected West Africa to North Africa and beyond, enabling valuable trade",
+              "A reason unrelated to trade routes",
+              "The kingdoms refused to trade with any outside regions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The city of Timbuktu, part of the Mali Empire, became well known as a centre of ___.",
+            "options": [
+              "A concept unrelated to Timbuktu",
+              "Learning and trade",
+              "Farming only, with no scholarly activity",
+              "Isolation, with no connections to trade or scholarship"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the history of these West African kingdoms an important part of world history?",
+            "options": [
+              "These kingdoms had no lasting historical significance",
+              "West Africa had no organized societies before European contact",
+              "It highlights sophisticated, wealthy societies that are often underrepresented in world history lessons",
+              "A reason unrelated to their historical importance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Fact from Opinion",
+        "summary": "Grade 6 Language strand: a fact can be proven true or false with evidence, while an opinion expresses a personal belief, feeling, or judgment that cannot be proven.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A fact is a statement that ___.",
+            "options": [
+              "Is always written in a persuasive tone",
+              "Can be proven true or false with evidence",
+              "Reflects only a personal belief or feeling",
+              "A concept unrelated to facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An opinion is a statement that ___.",
+            "options": [
+              "A concept unrelated to opinions",
+              "Expresses a personal belief or judgment",
+              "Is identical in meaning to a fact",
+              "Can always be proven true with evidence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a fact rather than an opinion?",
+            "options": [
+              "A statement unrelated to facts or opinions",
+              "Winter is the best season of the year.",
+              "Blue is the most beautiful colour.",
+              "Water freezes at zero degrees Celsius."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an opinion rather than a fact?",
+            "options": [
+              "This is the most exciting movie ever made.",
+              "The movie is ninety minutes long.",
+              "The movie was released in 2020.",
+              "A statement unrelated to facts or opinions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for readers to be able to distinguish fact from opinion?",
+            "options": [
+              "Facts and opinions always carry exactly the same weight",
+              "A reason unrelated to reading comprehension",
+              "It helps readers evaluate information critically and avoid being misled",
+              "Distinguishing fact from opinion serves no useful purpose"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Classifying and Constructing Quadrilaterals",
+        "summary": "Grade 6 Math strand: quadrilaterals are four-sided polygons classified by their side lengths, angles, and parallel sides, including squares, rectangles, rhombuses, trapezoids, and parallelograms.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A quadrilateral is a polygon with ___.",
+            "options": [
+              "A concept unrelated to quadrilaterals",
+              "Exactly four sides",
+              "Exactly three sides",
+              "Exactly six sides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which quadrilateral has exactly one pair of parallel sides?",
+            "options": [
+              "A rhombus",
+              "A square",
+              "A trapezoid",
+              "A shape unrelated to quadrilaterals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rhombus is a quadrilateral with ___.",
+            "options": [
+              "Only two equal sides",
+              "No sides that are ever equal",
+              "Four equal sides",
+              "A description unrelated to a rhombus"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is true of every rectangle?",
+            "options": [
+              "It always has four equal sides",
+              "It never has any parallel sides",
+              "It has four right angles",
+              "A statement unrelated to rectangles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to classify quadrilaterals by their properties?",
+            "options": [
+              "It helps identify shapes accurately and understand their relationships to one another",
+              "A reason unrelated to geometry",
+              "All quadrilaterals are identical, so classification is unnecessary",
+              "Classifying quadrilaterals provides no useful information"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Constellations and Navigating the Night Sky",
+        "summary": "Grade 6 Science strand: a constellation is a recognizable pattern of stars that people have used for centuries to tell stories, mark seasons, and navigate.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A constellation is best described as ___.",
+            "options": [
+              "A single, extremely bright star",
+              "A recognizable pattern of stars in the night sky",
+              "A concept unrelated to constellations",
+              "A type of planet found only in our solar system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why have constellations historically been useful for navigation?",
+            "options": [
+              "A reason unrelated to constellations",
+              "Constellations are only visible during the daytime",
+              "Constellations move randomly and provide no useful direction",
+              "Their fixed patterns helped travellers determine direction, such as finding north"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which constellation is well known for helping viewers locate the North Star?",
+            "options": [
+              "A constellation unrelated to finding the North Star",
+              "The Big Dipper (part of Ursa Major)",
+              "The Southern Cross, visible mainly from the far Southern Hemisphere",
+              "A group of planets, not stars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do different constellations appear in the sky during different seasons?",
+            "options": [
+              "The same constellations are visible at exactly the same time every night of the year",
+              "Earth’s orbit around the Sun changes which part of the night sky faces away from the Sun",
+              "A reason unrelated to constellations",
+              "The stars themselves physically move to new locations each season"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might ancient civilizations have created stories about constellations?",
+            "options": [
+              "Constellations were invented recently and have no historical stories attached",
+              "To help explain, remember, and pass down knowledge about the patterns in the sky",
+              "Ancient civilizations had no interest in the night sky",
+              "A reason unrelated to constellations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Maya Civilization: Innovation and Society",
+        "summary": "Grade 6 Social Studies strand: the Maya civilization, centred in present-day Mexico and Central America, developed advanced achievements in mathematics, astronomy, and writing.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Maya civilization was centred in present-day ___.",
+            "options": [
+              "East Asia",
+              "Mexico and Central America",
+              "Northern Europe",
+              "A region unrelated to the Maya civilization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these was a notable achievement of the Maya civilization?",
+            "options": [
+              "A concept unrelated to Maya achievements",
+              "A sophisticated calendar system based on astronomical observation",
+              "No knowledge of mathematics whatsoever",
+              "A complete lack of any written language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Maya developed a mathematical system that notably included the concept of ___.",
+            "options": [
+              "Zero",
+              "Fractions expressed only in Roman numerals",
+              "A concept unrelated to Maya mathematics",
+              "Negative decimals only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Maya cities often featured large stone structures such as ___.",
+            "options": [
+              "Pyramids and temples",
+              "Structures built entirely underground",
+              "Skyscrapers made of steel",
+              "A structure unrelated to Maya architecture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians study the Maya civilization’s achievements in mathematics and astronomy?",
+            "options": [
+              "They demonstrate a highly advanced understanding of science for their time",
+              "A reason unrelated to the Maya civilization",
+              "The Maya made no notable contributions to mathematics or astronomy",
+              "These achievements had no influence on how the Maya tracked time"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Prefixes, Suffixes, and Root Words",
+        "summary": "Grade 6 Language strand: a root word carries a word’s core meaning, a prefix is added to the beginning to change that meaning, and a suffix is added to the end, often changing its part of speech.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A root word is best described as ___.",
+            "options": [
+              "A punctuation mark used in spelling",
+              "A word part added only to the end of a word",
+              "The part of a word that carries its core meaning",
+              "A concept unrelated to root words"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A prefix is added to the ___ of a word.",
+            "options": [
+              "End",
+              "A position unrelated to prefixes",
+              "Middle, always splitting the word in half",
+              "Beginning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A suffix is added to the ___ of a word.",
+            "options": [
+              "Beginning",
+              "End",
+              "A position unrelated to suffixes",
+              "Middle, always splitting the word in half"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the word “unhappiness,” which part means “not”?",
+            "options": [
+              "The suffix -ness",
+              "The root word happy",
+              "A part unrelated to this word’s meaning",
+              "The prefix un-"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to recognize common prefixes and suffixes when reading?",
+            "options": [
+              "Prefixes and suffixes never affect a word’s meaning",
+              "A reason unrelated to vocabulary",
+              "Recognizing word parts makes reading more difficult",
+              "It can help figure out the meaning of unfamiliar words"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Perimeter and Area of Composite 2D Shapes",
+        "summary": "Grade 6 Math strand: a composite 2D shape is made of two or more simple shapes joined together, and finding its perimeter or area involves breaking it into familiar parts.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To find the area of a composite 2D shape, you generally ___.",
+            "options": [
+              "Ignore all but one part of the shape",
+              "A method unrelated to composite shapes",
+              "Break it into simple shapes, find each area, and add them together",
+              "Multiply only the longest side by itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a composite shape is made of a rectangle with area 24 and a triangle with area 6, what is its total area?",
+            "options": [
+              "144",
+              "30",
+              "18",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The perimeter of a shape is the ___.",
+            "options": [
+              "Total space it covers inside its boundary",
+              "Number of sides it has, regardless of length",
+              "Total distance around its outer edge",
+              "A concept unrelated to perimeter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A shape made of a square with side 5 and a rectangle attached has more sides than a simple square because ___.",
+            "options": [
+              "Composite shapes always have exactly four sides",
+              "A reason unrelated to composite shapes",
+              "Joining two shapes together adds additional edges to trace around",
+              "Joining shapes always removes edges from the total shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an architect need to calculate the area of a composite-shaped room?",
+            "options": [
+              "Area calculations are never needed for irregular shapes",
+              "Composite shapes have no real-world measurement applications",
+              "To know how much flooring or paint material will be needed to cover the space",
+              "A reason unrelated to area"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Gravity and Its Effects Throughout the Solar System",
+        "summary": "Grade 6 Science strand: gravity is a force of attraction between objects with mass, and it is what keeps planets in orbit around the Sun and moons in orbit around planets.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Gravity is best described as ___.",
+            "options": [
+              "A concept unrelated to gravity",
+              "A force that pushes objects apart from one another",
+              "A type of light emitted by stars",
+              "A force of attraction between objects with mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What keeps the planets in orbit around the Sun?",
+            "options": [
+              "The Sun’s gravitational pull",
+              "Strong winds in space",
+              "The complete absence of any force acting on the planets",
+              "A concept unrelated to orbits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do objects with more mass generally exert a stronger gravitational pull?",
+            "options": [
+              "A reason unrelated to gravity",
+              "Objects with more mass always have weaker gravity",
+              "Gravity’s strength has no connection to an object’s mass",
+              "Gravity’s strength increases as the amount of mass increases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why would an astronaut weigh less on the Moon than on Earth?",
+            "options": [
+              "The Moon has a stronger gravitational pull than Earth",
+              "A reason unrelated to gravity",
+              "The Moon has less mass than Earth, so its gravitational pull is weaker",
+              "Gravity does not exist on the Moon at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is gravity considered essential to the structure of the solar system?",
+            "options": [
+              "Without gravity, orbits would remain exactly the same",
+              "It holds planets, moons, and other objects in consistent orbital paths",
+              "A reason unrelated to gravity",
+              "Gravity has no role in how the solar system is organized"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The French Revolution: Causes and Impact",
+        "summary": "Grade 6 Social Studies strand: the French Revolution began in 1789 as widespread inequality and financial crisis led citizens to overthrow the monarchy and reshape France’s government.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "A major cause of the French Revolution was ___.",
+            "options": [
+              "Widespread inequality and a financial crisis affecting the country",
+              "An agreement between all social classes with no conflict",
+              "A period with no economic or social problems at all",
+              "A concept unrelated to the French Revolution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The French Revolution began in the year ___.",
+            "options": [
+              "A year unrelated to the French Revolution",
+              "1600",
+              "1900",
+              "1789"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which group faced the greatest hardship under France’s social and tax system before the revolution?",
+            "options": [
+              "The common people, known as the Third Estate",
+              "A group unrelated to French society at the time",
+              "The nobility, who paid the highest taxes",
+              "The clergy, who faced the same burdens as commoners"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "One major outcome of the French Revolution was ___.",
+            "options": [
+              "The overthrow of the monarchy and a reshaping of France’s government",
+              "A concept unrelated to the French Revolution",
+              "No change to France’s system of government",
+              "The strengthening of the king’s absolute power"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the French Revolution considered an important turning point in world history?",
+            "options": [
+              "It challenged the idea of absolute monarchy and inspired ideas about rights and citizenship",
+              "A reason unrelated to its historical significance",
+              "It only affected a small, isolated village with no wider impact",
+              "It had no influence on political ideas beyond France"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Structuring a Cause and Effect Essay",
+        "summary": "Grade 6 Language strand: a cause and effect essay explains why something happened (the cause) and what resulted from it (the effect), often using clear transition words to show these relationships.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A cause and effect essay explains ___.",
+            "options": [
+              "Only a sequence of unrelated events",
+              "A concept unrelated to this essay type",
+              "Why something happened and what resulted from it",
+              "A comparison between two unrelated topics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a transition word often used in cause and effect writing?",
+            "options": [
+              "Therefore",
+              "Meanwhile",
+              "Beside",
+              "A word unrelated to cause and effect writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence “Because the road was icy, the bus arrived late,” what is the effect?",
+            "options": [
+              "There is no effect described in this sentence",
+              "A concept unrelated to this sentence",
+              "The bus arrived late",
+              "The road was icy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a cause and effect structure when explaining a historical event?",
+            "options": [
+              "This structure makes historical events harder to understand",
+              "It helps readers understand the reasons behind an event and its consequences",
+              "Cause and effect writing cannot be used to explain historical events",
+              "A reason unrelated to cause and effect writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a well-structured cause and effect statement?",
+            "options": [
+              "The fields were flooded, so heavy rainfall must be blue.",
+              "The river flooded and rain fell at the same random time.",
+              "A sentence unrelated to cause and effect writing",
+              "Heavy rainfall caused the river to flood the nearby fields."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing and Ordering Rational Numbers",
+        "summary": "Grade 6 Math strand: comparing and ordering rational numbers means placing integers, fractions, and decimals on a common number line to determine their relative size.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To compare a fraction and a decimal, it often helps to first ___.",
+            "options": [
+              "A step unrelated to comparing numbers",
+              "Ignore one of the two values completely",
+              "Round both numbers up to the nearest ten",
+              "Convert them to the same form, such as both as decimals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is greater: -3 or -7?",
+            "options": [
+              "-3",
+              "A value unrelated to the comparison",
+              "-7",
+              "They are equal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is greater: 0.6 or 3/5?",
+            "options": [
+              "A value unrelated to the comparison",
+              "They are equal",
+              "0.6",
+              "3/5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these numbers is closest to zero on a number line?",
+            "options": [
+              "-1",
+              "A value unrelated to the comparison",
+              "-5",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to be able to order rational numbers that include fractions, decimals, and integers together?",
+            "options": [
+              "A reason unrelated to number sense",
+              "It allows accurate comparisons in real situations that mix different number forms",
+              "Rational numbers can never be compared to one another",
+              "Only whole numbers can ever be placed on a number line"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Load, Force, and Stability in Design",
+        "summary": "Grade 6 Science strand: engineers design structures to withstand different types of loads and forces, using shapes and materials that provide stability and strength.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "In structural design, a load refers to ___.",
+            "options": [
+              "A force or weight that a structure must support",
+              "A material used only for decoration",
+              "The colour chosen for a structure’s exterior",
+              "A concept unrelated to structures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many strong structures, like bridges, use triangular shapes?",
+            "options": [
+              "Triangles distribute force evenly and resist bending better than many other shapes",
+              "A reason unrelated to structural design",
+              "Triangular shapes are always weaker than square shapes",
+              "Triangles are only used for their appearance, with no structural benefit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A structure’s stability refers to its ability to ___.",
+            "options": [
+              "Change shape constantly under the slightest force",
+              "Move freely with no fixed base",
+              "A concept unrelated to stability",
+              "Remain standing and resist tipping or collapsing under a load"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an engineer widen the base of a tall structure?",
+            "options": [
+              "A wider base always makes a structure less stable",
+              "A wider base can improve stability and help prevent tipping",
+              "The width of a base has no effect on stability",
+              "A reason unrelated to structural design"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for engineers to consider both load and material strength when designing a structure?",
+            "options": [
+              "A reason unrelated to engineering",
+              "Load and material strength have no connection to a structure’s safety",
+              "A structure must support the forces acting on it without failing",
+              "Structures never need to support any kind of force"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The American Revolution and Its Impact on British North America",
+        "summary": "Grade 6 Social Studies strand: the American Revolution (1775-1783) saw the Thirteen Colonies gain independence from Britain, an event that also shaped migration and politics in British North America, including present-day Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The American Revolution resulted in the Thirteen Colonies gaining independence from ___.",
+            "options": [
+              "A country unrelated to the American Revolution",
+              "Spain",
+              "Britain",
+              "France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Following the American Revolution, many Loyalists (colonists who remained loyal to Britain) moved to ___.",
+            "options": [
+              "Continental Europe",
+              "British North America, including present-day Canada",
+              "The southern United States exclusively",
+              "A region unrelated to Loyalist migration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the arrival of Loyalists have significantly shaped early Canadian communities?",
+            "options": [
+              "No Loyalists ever settled in British North America",
+              "A reason unrelated to this migration",
+              "Loyalist migration had no effect on the communities they settled in",
+              "They brought new populations, skills, and ideas that influenced how these communities developed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The American Revolution took place between the years ___.",
+            "options": [
+              "A time period unrelated to the American Revolution",
+              "1600 and 1610",
+              "1900 and 1910",
+              "1775 and 1783"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the American Revolution relevant to the study of Canadian history?",
+            "options": [
+              "It influenced migration patterns and political developments in British North America",
+              "Canada was entirely unaffected by events happening south of its border",
+              "A reason unrelated to Canadian history",
+              "It had no connection to the history of British North America"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Making and Confirming Predictions",
+        "summary": "Grade 6 Language strand: making predictions means using text clues and prior knowledge to guess what might happen next, then confirming or revising those predictions as more of the text is read.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Making a prediction while reading means ___.",
+            "options": [
+              "Reading the ending of a story before the beginning",
+              "Using clues and prior knowledge to guess what might happen next",
+              "Ignoring the text completely and guessing randomly",
+              "A concept unrelated to reading strategies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a reader use to help make a prediction?",
+            "options": [
+              "A concept unrelated to making predictions",
+              "A source with no connection to the text",
+              "Information from a completely different book",
+              "Clues from the title, illustrations, and events so far"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to “confirm” a prediction while reading?",
+            "options": [
+              "A concept unrelated to predictions",
+              "Making a brand new, unrelated prediction with no connection to the first",
+              "Checking whether the prediction matched what actually happened in the text",
+              "Ignoring what actually happens in the text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reader need to revise a prediction while reading further?",
+            "options": [
+              "Predictions can never be revised once they are made",
+              "New information in the text may show the original prediction was incorrect",
+              "Revising predictions is unnecessary once a story begins",
+              "A reason unrelated to reading strategies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is making predictions considered a useful reading strategy?",
+            "options": [
+              "It encourages active engagement and deeper thinking about a text",
+              "Making predictions has no effect on reading comprehension",
+              "A reason unrelated to reading strategies",
+              "Predictions are only useful after finishing a text, never during"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Line Symmetry and Rotational Symmetry",
+        "summary": "Grade 6 Math strand: a shape has line symmetry if it can be folded along a line so both halves match exactly, and rotational symmetry if it looks the same after being turned less than a full rotation.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A shape has line symmetry if ___.",
+            "options": [
+              "It can be folded along a line so both halves match exactly",
+              "It has no straight edges at all",
+              "It looks completely different no matter how it is folded",
+              "A concept unrelated to line symmetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A shape has rotational symmetry if it ___.",
+            "options": [
+              "Never looks the same no matter how it is turned",
+              "Only looks the same after a full 360-degree turn",
+              "A concept unrelated to rotational symmetry",
+              "Looks the same after being turned less than a full rotation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many lines of symmetry does a square have?",
+            "options": [
+              "A number unrelated to a square’s symmetry",
+              "4",
+              "1",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these letters has line symmetry?",
+            "options": [
+              "A letter unrelated to line symmetry",
+              "R",
+              "F",
+              "A"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might artists and designers use symmetry in their work?",
+            "options": [
+              "Symmetry can create a sense of balance and visual appeal",
+              "A reason unrelated to symmetry",
+              "Designs are required to avoid symmetry entirely",
+              "Symmetry has no effect on how a design looks"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Conductors and Insulators: Materials in Electrical Circuits",
+        "summary": "Grade 6 Science strand: a conductor allows electric current to flow easily through it, while an insulator resists the flow of electric current, a property that shapes how circuits and everyday devices are designed.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A conductor is a material that ___.",
+            "options": [
+              "Blocks electric current from flowing through it",
+              "Allows electric current to flow through it easily",
+              "A concept unrelated to conductors",
+              "Has no connection to electricity at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An insulator is a material that ___.",
+            "options": [
+              "A concept unrelated to insulators",
+              "Resists the flow of electric current",
+              "Allows electric current to flow through it easily",
+              "Always conducts electricity better than metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these materials is typically a good conductor of electricity?",
+            "options": [
+              "A material unrelated to conducting electricity",
+              "Rubber",
+              "Plastic",
+              "Copper"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is rubber often used to coat electrical wires?",
+            "options": [
+              "A reason unrelated to electrical safety",
+              "Rubber has no effect on how a wire functions",
+              "It insulates the wire, helping prevent electric shock",
+              "It conducts electricity better than the metal wire inside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to understand the difference between conductors and insulators when designing electrical devices?",
+            "options": [
+              "It helps ensure electricity flows where intended and people stay safe from shock",
+              "A reason unrelated to electrical safety",
+              "All materials conduct electricity in exactly the same way",
+              "This distinction has no effect on how devices are designed"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Levels of Government in Canada: Municipal, Provincial, Federal",
+        "summary": "Grade 6 Social Studies strand: Canada’s government is organized into three levels — municipal, provincial, and federal — each with distinct responsibilities for serving citizens.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s government is organized into which three levels?",
+            "options": [
+              "Only a single level, with no other divisions",
+              "Regional, continental, and global",
+              "Municipal, provincial, and federal",
+              "A concept unrelated to Canada’s government structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which level of government is typically responsible for services like local roads and garbage collection?",
+            "options": [
+              "Municipal government",
+              "Federal government",
+              "A level unrelated to these responsibilities",
+              "A level of government that does not exist in Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which level of government is responsible for national defence and issues like immigration policy?",
+            "options": [
+              "Federal government",
+              "Municipal government",
+              "A level of government that does not exist in Canada",
+              "A level unrelated to these responsibilities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which level of government typically oversees education and healthcare policy within a province?",
+            "options": [
+              "No level of government oversees these areas",
+              "Provincial government",
+              "A level unrelated to these responsibilities",
+              "Municipal government only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Canada divide responsibilities among three levels of government?",
+            "options": [
+              "Dividing responsibilities serves no practical purpose",
+              "It allows different levels to focus on issues suited to local, regional, or national scale",
+              "A single level of government could handle every responsibility identically well",
+              "A reason unrelated to Canada’s government structure"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Active Listening and Note-Taking",
+        "summary": "Grade 6 Language strand: active listening involves fully focusing on a speaker and responding thoughtfully, while effective note-taking captures key ideas concisely rather than every single word.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Active listening involves ___.",
+            "options": [
+              "Only hearing a speaker while thinking about something else",
+              "A concept unrelated to active listening",
+              "Interrupting a speaker as often as possible",
+              "Fully focusing on a speaker and responding thoughtfully"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Effective notes should generally capture ___.",
+            "options": [
+              "Key ideas concisely, rather than every single word",
+              "A concept unrelated to note-taking",
+              "Every single word a speaker says, with nothing left out",
+              "Only the speaker’s name, with no other information"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a sign of active listening?",
+            "options": [
+              "Looking away and checking a phone during a conversation",
+              "Talking over the speaker repeatedly",
+              "Making eye contact and nodding to show understanding",
+              "A behaviour unrelated to active listening"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might using abbreviations and symbols be helpful while taking notes?",
+            "options": [
+              "They can help a listener record information quickly without missing key points",
+              "Abbreviations always make notes harder to understand later",
+              "A reason unrelated to note-taking",
+              "Using symbols is never useful while taking notes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is active listening an important skill in both school and everyday life?",
+            "options": [
+              "A reason unrelated to oral communication",
+              "It helps build understanding, respect, and clear communication with others",
+              "Listening skills are not connected to understanding a speaker",
+              "Active listening has no real benefit in communication"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Equations Involving Decimals",
+        "summary": "Grade 6 Math strand: solving equations involving decimals uses the same inverse-operation steps as whole-number equations, applied carefully to decimal values.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To solve an equation with a decimal, you generally ___.",
+            "options": [
+              "Ignore the decimal point during the solving process",
+              "A method unrelated to solving equations",
+              "Round every decimal to zero before solving",
+              "Use inverse operations, just as with whole numbers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: x + 2.5 = 7.8.",
+            "options": [
+              "x = 5.8",
+              "x = 5.3",
+              "x = 10.3",
+              "A solution unrelated to the equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Solve for x: x - 1.4 = 3.6.",
+            "options": [
+              "x = 5.6",
+              "x = 2.2",
+              "A solution unrelated to the equation",
+              "x = 5.0"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: 2x = 9.4.",
+            "options": [
+              "x = 4.7",
+              "A solution unrelated to the equation",
+              "x = 18.8",
+              "x = 7.4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to keep decimal points aligned while solving these equations?",
+            "options": [
+              "A reason unrelated to solving equations",
+              "Misaligned decimals can make the answer’s place value incorrect",
+              "Decimal point placement never affects the accuracy of an answer",
+              "Decimal points can be placed anywhere without changing the value"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Drones and Modern Flight Technology",
+        "summary": "Grade 6 Science strand: drones are unpiloted aircraft controlled remotely or by onboard computers, using propellers and the same basic forces of flight as other aircraft.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A drone is best described as ___.",
+            "options": [
+              "A concept unrelated to drones",
+              "An unpiloted aircraft controlled remotely or by onboard computers",
+              "A type of boat used for water travel",
+              "An aircraft that must always have a pilot inside it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Like other aircraft, drones rely on which force to overcome gravity?",
+            "options": [
+              "Friction only",
+              "A force unrelated to flight",
+              "Lift",
+              "Density"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a common real-world use for drones today?",
+            "options": [
+              "Underwater exploration only, never aerial tasks",
+              "Drones have no practical uses",
+              "Aerial photography and package delivery",
+              "A use unrelated to drone technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do most small drones typically generate lift?",
+            "options": [
+              "Large fixed wings alone, with no propellers",
+              "A method unrelated to how drones fly",
+              "Spinning propellers that push air downward",
+              "Balloons filled with helium"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might drones be useful for scientists studying hard-to-reach environments?",
+            "options": [
+              "They can access and capture data from locations that are difficult or unsafe for people to reach",
+              "Drones can only be used in easily accessible locations",
+              "A reason unrelated to drone technology",
+              "Drones have no useful application in scientific research"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Canadians Vote: Elections and Political Parties",
+        "summary": "Grade 6 Social Studies strand: Canadians participate in democracy by voting in elections for candidates who often represent political parties with differing platforms and ideas.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In a Canadian election, citizens generally vote for ___.",
+            "options": [
+              "Only the Prime Minister directly, with no other candidates involved",
+              "A concept unrelated to Canadian elections",
+              "No one, since Canada does not hold elections",
+              "A candidate to represent their area, often as part of a political party"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A political party is best described as ___.",
+            "options": [
+              "A celebration with no connection to government",
+              "A group of people with similar political ideas who run candidates for office",
+              "A single individual with no supporters",
+              "A concept unrelated to elections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might citizens compare political party platforms before voting?",
+            "options": [
+              "To choose the candidate or party whose ideas best match their own views",
+              "A reason unrelated to elections",
+              "All political parties always have identical platforms",
+              "Platforms have no influence on how people decide to vote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To be eligible to vote in a Canadian federal election, a citizen must generally be at least ___.",
+            "options": [
+              "30 years old",
+              "An age unrelated to voting eligibility",
+              "18 years old",
+              "10 years old"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is voting considered an important part of Canadian democracy?",
+            "options": [
+              "Elections are decided with no input from citizens at all",
+              "A reason unrelated to democracy",
+              "It gives citizens a voice in choosing their government representatives",
+              "Voting has no effect on who represents citizens in government"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Crafting Realistic Dialogue in Narrative",
+        "summary": "Grade 6 Language strand: realistic dialogue reflects how people actually speak, reveals character personality, and follows proper punctuation conventions like quotation marks and new paragraphs for each speaker.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Realistic dialogue in a story should ___.",
+            "options": [
+              "Avoid revealing anything about a character’s personality",
+              "Sound as formal as a textbook at all times",
+              "Reflect how people actually speak",
+              "A concept unrelated to dialogue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In written dialogue, a new paragraph is typically started ___.",
+            "options": [
+              "A concept unrelated to dialogue formatting",
+              "Only once per entire conversation",
+              "After every single word that is spoken",
+              "Each time the speaker changes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these correctly punctuates a line of dialogue?",
+            "options": [
+              "I am ready to go, said Maya.",
+              "“I am ready to go,” said Maya.",
+              "“I am ready to go said Maya.",
+              "A sentence unrelated to dialogue punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use dialogue to reveal a character’s personality?",
+            "options": [
+              "A reason unrelated to writing dialogue",
+              "Only narration, never dialogue, can reveal character traits",
+              "The way a character speaks can show their attitude, background, or emotions",
+              "Dialogue never reveals anything about a character"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for dialogue to sound natural rather than overly formal?",
+            "options": [
+              "Natural dialogue helps make characters and scenes feel realistic and relatable",
+              "The way characters speak has no effect on how readers experience a story",
+              "Formal dialogue always makes a story feel more realistic",
+              "A reason unrelated to writing dialogue"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Elapsed Time and the 24-Hour Clock",
+        "summary": "Grade 6 Math strand: elapsed time is the amount of time that passes between a start and an end time, and the 24-hour clock expresses time using hours 00 to 23 without needing a.m. or p.m.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Elapsed time is best described as ___.",
+            "options": [
+              "The amount of time that passes between a start time and an end time",
+              "The exact time an event begins, with no reference to when it ends",
+              "A measurement that has nothing to do with clocks",
+              "A concept unrelated to elapsed time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On the 24-hour clock, 3:00 p.m. is written as ___.",
+            "options": [
+              "13:00",
+              "03:00",
+              "A time unrelated to the conversion",
+              "15:00"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a movie starts at 14:30 and lasts 2 hours, at what time does it end?",
+            "options": [
+              "A time unrelated to the calculation",
+              "16:30",
+              "17:00",
+              "12:30"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How much time passes between 9:15 a.m. and 11:45 a.m.?",
+            "options": [
+              "2 hours 30 minutes",
+              "3 hours 15 minutes",
+              "2 hours",
+              "A duration unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the 24-hour clock be useful for schedules like train or flight timetables?",
+            "options": [
+              "It can only display times before noon",
+              "It avoids confusion between morning and afternoon times",
+              "The 24-hour clock makes timetables more confusing to read",
+              "A reason unrelated to timekeeping"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Layers of Earth’s Atmosphere",
+        "summary": "Grade 6 Science strand: Earth’s atmosphere is made up of distinct layers, including the troposphere and stratosphere, each with different characteristics that support weather, climate, and life.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The layer of the atmosphere closest to Earth’s surface, where most weather occurs, is the ___.",
+            "options": [
+              "Mesosphere",
+              "A layer unrelated to Earth’s atmosphere",
+              "Stratosphere",
+              "Troposphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The stratosphere contains a layer that protects life on Earth by absorbing ___.",
+            "options": [
+              "All visible light from the Sun",
+              "Sound waves travelling through space",
+              "Harmful ultraviolet radiation from the Sun",
+              "A concept unrelated to the stratosphere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does temperature generally decrease as altitude increases within the troposphere?",
+            "options": [
+              "Temperature always increases the higher you travel through the troposphere",
+              "The troposphere has no connection to temperature at all",
+              "A reason unrelated to atmospheric layers",
+              "The air becomes thinner and less able to trap heat near the surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which gas makes up the largest percentage of Earth’s atmosphere?",
+            "options": [
+              "A gas unrelated to Earth’s atmosphere",
+              "Nitrogen",
+              "Oxygen",
+              "Carbon dioxide"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for scientists to study the different layers of the atmosphere?",
+            "options": [
+              "A reason unrelated to Earth science",
+              "Earth’s atmosphere is a single uniform layer with no distinct sections",
+              "It helps explain weather patterns, climate, and how the atmosphere protects life on Earth",
+              "The atmosphere’s layers have no effect on weather or climate"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of the Governor General and Constitutional Monarchy",
+        "summary": "Grade 6 Social Studies strand: Canada is a constitutional monarchy, meaning the monarch is head of state, represented in Canada by the Governor General, while elected officials hold governing power.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada is best described politically as a ___.",
+            "options": [
+              "Absolute monarchy with no elected officials",
+              "Constitutional monarchy",
+              "Country with no head of state at all",
+              "A concept unrelated to Canada’s political structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Canada, the monarch is represented domestically by the ___.",
+            "options": [
+              "A role unrelated to representing the monarch",
+              "Governor General",
+              "Prime Minister",
+              "Provincial premier"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a constitutional monarchy like Canada, who holds the actual governing power?",
+            "options": [
+              "The monarch alone, with no elected input",
+              "No one holds any governing power",
+              "Elected officials, such as the Prime Minister and Parliament",
+              "A concept unrelated to constitutional monarchy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a duty commonly associated with the Governor General?",
+            "options": [
+              "A duty unrelated to the Governor General’s role",
+              "Replacing the Prime Minister whenever they choose",
+              "Formally giving royal assent to new laws passed by Parliament",
+              "Personally writing and voting on every new law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada’s system be described as balancing tradition with democratic government?",
+            "options": [
+              "It keeps a ceremonial monarchy while giving real governing power to elected representatives",
+              "It removes all connection between Canada and the monarchy",
+              "A reason unrelated to Canada’s political structure",
+              "It gives the monarch complete control over all governing decisions"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Text Structure Patterns",
+        "summary": "Grade 6 Language strand: nonfiction texts are often organized using structure patterns such as sequence, cause and effect, compare and contrast, or problem and solution, and recognizing these patterns supports comprehension.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Recognizing a text’s structure pattern can help a reader ___.",
+            "options": [
+              "Ignore the content of the text entirely",
+              "Only understand the title of a text",
+              "A concept unrelated to text structure",
+              "Better understand how ideas in the text are organized and connected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which structure pattern presents events in the order they happened?",
+            "options": [
+              "Compare and contrast",
+              "Problem and solution",
+              "Sequence",
+              "A pattern unrelated to text structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A text organized using the compare and contrast pattern focuses on ___.",
+            "options": [
+              "Only the order in which events occurred",
+              "A single cause with no described effect",
+              "A concept unrelated to text structure",
+              "Similarities and differences between two or more things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which structure pattern would most likely be used in a text describing a challenge and how it was resolved?",
+            "options": [
+              "Problem and solution",
+              "Compare and contrast",
+              "A pattern unrelated to text structure",
+              "Sequence only, with no described challenge"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might recognizing a cause and effect structure help a reader understand a nonfiction article?",
+            "options": [
+              "Cause and effect structures provide no useful information to readers",
+              "A reason unrelated to text structure",
+              "Recognizing structure patterns never improves comprehension",
+              "It helps clarify why something happened and what resulted from it"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Stem-and-Leaf Plots",
+        "summary": "Grade 6 Math strand: a stem-and-leaf plot organizes numerical data by splitting each value into a stem (leading digit or digits) and a leaf (the final digit), keeping the original values visible.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "In a stem-and-leaf plot, the stem usually represents ___.",
+            "options": [
+              "The final digit of a value only",
+              "The total number of data points collected",
+              "A concept unrelated to stem-and-leaf plots",
+              "The leading digit or digits of a value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a stem-and-leaf plot, the leaf usually represents ___.",
+            "options": [
+              "The final digit of a value",
+              "The average of all the data",
+              "The leading digit of a value",
+              "A concept unrelated to stem-and-leaf plots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the data value 47, which digit would typically be the leaf?",
+            "options": [
+              "A digit unrelated to this value",
+              "47",
+              "7",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one advantage of a stem-and-leaf plot compared to a simple list of numbers?",
+            "options": [
+              "It can only be used with exactly two data points",
+              "It hides the original data values completely",
+              "A reason unrelated to stem-and-leaf plots",
+              "It organizes data by size while still showing every original value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a teacher use a stem-and-leaf plot to display a class’s test scores?",
+            "options": [
+              "Stem-and-leaf plots cannot be used to display test scores",
+              "It shows the spread and clustering of scores while keeping each score visible",
+              "It removes all individual scores from the display",
+              "A reason unrelated to data management"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Insects and Pollinators: Their Role in Ecosystems",
+        "summary": "Grade 6 Science strand: insects, including many pollinators like bees and butterflies, play essential roles in ecosystems by helping plants reproduce and supporting food webs.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Pollinators help plants reproduce by ___.",
+            "options": [
+              "Removing pollen from flowers with no further effect",
+              "Carrying pollen from one flower to another",
+              "A concept unrelated to pollination",
+              "Preventing flowers from producing seeds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a well-known pollinator?",
+            "options": [
+              "A cloud",
+              "An organism unrelated to pollination",
+              "A bee",
+              "A rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are many fruits and vegetables dependent on pollinators?",
+            "options": [
+              "Fruits and vegetables never require pollination",
+              "Pollinators have no connection to fruit or vegetable production",
+              "A reason unrelated to pollinators",
+              "Pollination is often necessary for these plants to produce fruit and seeds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Besides pollination, how else do insects support many ecosystems?",
+            "options": [
+              "Insects only exist outside of any food web",
+              "Insects provide no useful role to other organisms",
+              "They serve as an important food source for birds, amphibians, and other animals",
+              "A reason unrelated to ecosystems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a decline in pollinator populations concern scientists?",
+            "options": [
+              "It could reduce plant reproduction and disrupt food webs that depend on those plants",
+              "A reason unrelated to insects and ecosystems",
+              "A decline in pollinators would have no effect on ecosystems",
+              "Pollinators have no connection to the plants around them"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Justice System: Courts and the Rule of Law",
+        "summary": "Grade 6 Social Studies strand: the rule of law means everyone, including government leaders, must follow the law, and Canada’s court system interprets and applies laws fairly through an independent judiciary.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The rule of law means that ___.",
+            "options": [
+              "Laws apply differently depending on a person’s job",
+              "A concept unrelated to the rule of law",
+              "Everyone, including government leaders, must follow the law",
+              "Only ordinary citizens must follow the law, not leaders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for Canada’s judges to be independent from political influence?",
+            "options": [
+              "Judges are expected to always favour the government’s position",
+              "A reason unrelated to Canada’s justice system",
+              "It helps ensure fair and unbiased decisions in court cases",
+              "Judicial independence has no effect on the fairness of court decisions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a role of Canada’s court system?",
+            "options": [
+              "Interpreting and applying laws to resolve disputes and legal cases",
+              "A role unrelated to the court system",
+              "Writing new laws with no involvement from Parliament",
+              "Collecting taxes from citizens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the highest court in Canada, with the final say on legal appeals?",
+            "options": [
+              "A court unrelated to Canada’s justice system",
+              "A provincial legislature",
+              "The Supreme Court of Canada",
+              "A municipal court"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the rule of law considered essential to a fair and functioning democracy?",
+            "options": [
+              "A fair society can function without any laws at all",
+              "A reason unrelated to democracy",
+              "The rule of law has no connection to fairness in society",
+              "It ensures laws are applied consistently and that no one is above them"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Language Days 61-69",
+        "summary": "Grade 6 Language strand: this review lesson revisits key ideas from Days 61-69, including prepositional phrases, descriptive writing, fact versus opinion, prefixes and suffixes, and text structure patterns.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A prepositional phrase begins with a preposition and ends with a ___.",
+            "options": [
+              "Noun or pronoun",
+              "A concept unrelated to prepositional phrases",
+              "Punctuation mark",
+              "Verb only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fact is a statement that ___.",
+            "options": [
+              "Can be proven true or false with evidence",
+              "Is always written in a persuasive tone",
+              "A concept unrelated to facts",
+              "Reflects only a personal belief or feeling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A prefix is added to the ___ of a word.",
+            "options": [
+              "A position unrelated to prefixes",
+              "End",
+              "Beginning",
+              "Middle, always splitting the word in half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Recognizing a text’s structure pattern can help a reader ___.",
+            "options": [
+              "A concept unrelated to text structure",
+              "Only understand the title of a text",
+              "Ignore the content of the text entirely",
+              "Better understand how ideas in the text are organized and connected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review grammar, writing, and reading strategies together?",
+            "options": [
+              "These skills have no connection to each other",
+              "It reinforces how these language skills connect and support one another",
+              "Review never helps strengthen understanding of language skills",
+              "A reason unrelated to reviewing language concepts"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Math Days 61-69",
+        "summary": "Grade 6 Math strand: this review lesson revisits key ideas from Days 61-69, including adding and subtracting decimals, nets of 3D figures, quadrilaterals, symmetry, and stem-and-leaf plots.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To add or subtract decimals correctly, you must first ___.",
+            "options": [
+              "Round every number to the nearest whole number first",
+              "Line up the decimal points so digits match by place value",
+              "Ignore the decimal points completely",
+              "A step unrelated to adding decimals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A net is best described as ___.",
+            "options": [
+              "A concept unrelated to nets",
+              "A three-dimensional figure with no flat faces",
+              "A type of graph used to display data",
+              "A two-dimensional pattern that folds into a three-dimensional figure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A rhombus is a quadrilateral with ___.",
+            "options": [
+              "Only two equal sides",
+              "A description unrelated to a rhombus",
+              "No sides that are ever equal",
+              "Four equal sides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A shape has rotational symmetry if it ___.",
+            "options": [
+              "Never looks the same no matter how it is turned",
+              "A concept unrelated to rotational symmetry",
+              "Looks the same after being turned less than a full rotation",
+              "Only looks the same after a full 360-degree turn"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review number, geometry, and data concepts together?",
+            "options": [
+              "These topics have no connection to each other",
+              "Review never helps strengthen understanding of a subject",
+              "A reason unrelated to reviewing math",
+              "It reinforces how these math skills connect and build on one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Science Days 61-69",
+        "summary": "Grade 6 Science strand: this review lesson revisits key ideas from Days 61-69, including animal adaptations, the Moon’s phases, gravity, conductors and insulators, and Earth’s atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is best described as ___.",
+            "options": [
+              "A random change with no effect on survival",
+              "A concept unrelated to adaptations",
+              "A feature that always harms an organism’s chances of survival",
+              "A physical feature or behaviour that helps an organism survive in its environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Moon’s phases are caused by ___.",
+            "options": [
+              "A concept unrelated to the Moon’s phases",
+              "The Moon changing shape physically each month",
+              "The Moon disappearing and reforming every month",
+              "Its changing position relative to Earth and the Sun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What keeps the planets in orbit around the Sun?",
+            "options": [
+              "Strong winds in space",
+              "A concept unrelated to orbits",
+              "The complete absence of any force acting on the planets",
+              "The Sun’s gravitational pull"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A conductor is a material that ___.",
+            "options": [
+              "Blocks electric current from flowing through it",
+              "Has no connection to electricity at all",
+              "Allows electric current to flow through it easily",
+              "A concept unrelated to conductors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review life systems, space, and physical science concepts together?",
+            "options": [
+              "These topics have no connection to each other",
+              "It reinforces how these interconnected science concepts relate to one another",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Social Studies Days 61-69",
+        "summary": "Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the Indus Valley Civilization, West African kingdoms, the French and American Revolutions, and levels of Canadian government.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Indus Valley Civilization developed along which river system?",
+            "options": [
+              "The Amazon River",
+              "The Nile River",
+              "A river unrelated to this civilization",
+              "The Indus River"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The West African kingdoms of Ghana, Mali, and Songhai grew powerful largely through control of ___.",
+            "options": [
+              "Gold and salt trade routes across the Sahara",
+              "A concept unrelated to these kingdoms",
+              "Trade routes that had no connection to gold or salt",
+              "Fishing rights along the Atlantic coast only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A major cause of the French Revolution was ___.",
+            "options": [
+              "Widespread inequality and a financial crisis affecting the country",
+              "A concept unrelated to the French Revolution",
+              "An agreement between all social classes with no conflict",
+              "A period with no economic or social problems at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada’s government is organized into which three levels?",
+            "options": [
+              "A concept unrelated to Canada’s government structure",
+              "Regional, continental, and global",
+              "Only a single level, with no other divisions",
+              "Municipal, provincial, and federal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review ancient civilizations, revolutions, and Canadian government together?",
+            "options": [
+              "These topics have no connection to one another",
+              "Review is never useful when studying history",
+              "A reason unrelated to social studies learning",
+              "It reinforces how historical developments connect to how societies and governments are structured today"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
