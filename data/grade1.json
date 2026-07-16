@@ -14114,5 +14114,3332 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Consonant Digraphs: ph and ck",
+        "summary": "Students learn that two letters can join to make one new sound called a digraph, such as ph making the f sound in phone, and ck making the k sound in duck.",
+        "resourceLabel": "YouTube: Consonant Digraphs: ph and ck",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20ph%20and%20ck%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the ph digraph making the f sound?",
+            "options": [
+              "Sun",
+              "Phone",
+              "Dog",
+              "Cat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word ends with the ck digraph?",
+            "options": [
+              "Duck",
+              "Sun",
+              "Bed",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the word dolphin, which letters make the f sound?",
+            "options": [
+              "th",
+              "ph",
+              "ck",
+              "sh"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word ends with the k sound spelled ck?",
+            "options": [
+              "Bird",
+              "Rock",
+              "Fish",
+              "Frog"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A digraph is two letters that ___.",
+            "options": [
+              "Are never used together",
+              "Work together to make one sound",
+              "Are always vowels",
+              "Always make two sounds"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the f sound in the word phone?",
+            "answers": [
+              "ph"
+            ]
+          },
+          {
+            "prompt": "What two letters make the k sound at the end of the word duck?",
+            "answers": [
+              "ck"
+            ]
+          },
+          {
+            "prompt": "Name one word that has the ph digraph, like phone or dolphin.",
+            "answers": [
+              "phone",
+              "dolphin",
+              "elephant"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 120",
+        "summary": "Students extend counting and number recognition beyond 100, learning to count, read, and write numbers up to 120.",
+        "resourceLabel": "YouTube: Numbers to 120",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20120%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 100?",
+            "options": [
+              "110",
+              "200",
+              "99",
+              "101"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is between 105 and 107?",
+            "options": [
+              "104",
+              "106",
+              "110",
+              "108"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right before 120?",
+            "options": [
+              "119",
+              "121",
+              "118",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these numbers is greater than 100?",
+            "options": [
+              "95",
+              "115",
+              "100",
+              "99"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting past 100 helps us because ___.",
+            "options": [
+              "We can count and compare even larger numbers",
+              "We never need numbers past 100",
+              "Numbers stop at 100",
+              "All numbers past 100 are the same"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 100?",
+            "answers": [
+              "101",
+              "one hundred one"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 109?",
+            "answers": [
+              "110",
+              "one hundred ten"
+            ]
+          },
+          {
+            "prompt": "Count from 115 to 120. What is the last number?",
+            "answers": [
+              "120",
+              "one hundred twenty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Reptiles and Their Body Parts",
+        "summary": "Students learn about the body parts of reptiles, such as dry scaly skin and four legs on many reptiles, and how these parts help reptiles such as turtles and lizards survive.",
+        "resourceLabel": "YouTube: Reptiles and Their Body Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reptiles%20and%20Their%20Body%20Parts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What covers the skin of most reptiles?",
+            "options": [
+              "Fur",
+              "Fins",
+              "Feathers",
+              "Scales"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is a reptile?",
+            "options": [
+              "A robin",
+              "A turtle",
+              "A fish",
+              "A frog"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the skin of most reptiles usually wet or dry?",
+            "options": [
+              "Sticky",
+              "Frozen",
+              "Wet",
+              "Dry"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these reptiles has no legs at all?",
+            "options": [
+              "A lizard",
+              "A crocodile",
+              "A snake",
+              "A turtle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a hard shell help a turtle?",
+            "options": [
+              "It protects the turtle body from danger",
+              "It helps the turtle fly",
+              "It has no purpose",
+              "It helps the turtle breathe underwater only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What covers the skin of most reptiles?",
+            "answers": [
+              "scales"
+            ]
+          },
+          {
+            "prompt": "Name one animal that is a reptile, like a turtle or lizard.",
+            "answers": [
+              "turtle",
+              "lizard",
+              "snake"
+            ]
+          },
+          {
+            "prompt": "Is a reptile skin usually wet or dry?",
+            "answers": [
+              "dry"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Rural and Urban Communities: City and Country Life",
+        "summary": "Students compare rural communities, quiet areas with farms and open land, to urban communities, busy cities with many buildings and people, and learn that Canada has both types.",
+        "resourceLabel": "YouTube: Rural and Urban Communities: City and Country Life",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rural%20and%20Urban%20Communities%3A%20City%20and%20Country%20Life%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a busy community with many tall buildings and people?",
+            "options": [
+              "An ocean",
+              "An urban community",
+              "A rural community",
+              "A desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a quiet community with farms and open fields?",
+            "options": [
+              "A rural community",
+              "A mountain",
+              "A city",
+              "An urban community"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is more likely found in a rural community?",
+            "options": [
+              "A crowded sidewalk",
+              "A subway train",
+              "A tall office tower",
+              "A large farm field"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is more likely found in an urban community?",
+            "options": [
+              "Many tall buildings close together",
+              "An empty field",
+              "A single farmhouse",
+              "A quiet forest trail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada has ___ communities.",
+            "options": [
+              "Both rural and urban",
+              "No",
+              "Only urban",
+              "Only rural"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a busy community with many tall buildings?",
+            "answers": [
+              "city",
+              "urban community",
+              "urban"
+            ]
+          },
+          {
+            "prompt": "What do we call a quiet community with farms and open land?",
+            "answers": [
+              "countryside",
+              "rural community",
+              "rural"
+            ]
+          },
+          {
+            "prompt": "Name one thing you might see more of in a city, like tall buildings.",
+            "answers": [
+              "tall buildings",
+              "many people",
+              "traffic"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Silent Letters: kn and wr",
+        "summary": "Students learn that some words have silent letters, letters that are not pronounced, such as the silent k in knee and the silent w in write.",
+        "resourceLabel": "YouTube: Silent Letters: kn and wr",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20Letters%3A%20kn%20and%20wr%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In the word knee, which letter makes no sound?",
+            "options": [
+              "e",
+              "all letters are heard",
+              "k",
+              "n"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the word write, which letter makes no sound?",
+            "options": [
+              "t",
+              "w",
+              "i",
+              "r"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with a silent letter?",
+            "options": [
+              "Knife",
+              "Dog",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with a silent w?",
+            "options": [
+              "Bed",
+              "Cat",
+              "Wrist",
+              "Sun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A silent letter is a letter that ___.",
+            "options": [
+              "Never appears in words",
+              "Is written but not pronounced",
+              "Is always pronounced loudly",
+              "Makes a new sound every time"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the word knee, which letter is silent?",
+            "answers": [
+              "k"
+            ]
+          },
+          {
+            "prompt": "In the word write, which letter is silent?",
+            "answers": [
+              "w"
+            ]
+          },
+          {
+            "prompt": "Name one word that begins with a silent k, like knee or knife.",
+            "answers": [
+              "knee",
+              "knife",
+              "know"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 4s",
+        "summary": "Students practise skip counting by 4s, saying the numbers 4, 8, 12, 16, and so on, to build number sense and prepare for multiplication.",
+        "resourceLabel": "YouTube: Skip Counting by 4s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%204s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When skip counting by 4s, what number comes after 8?",
+            "options": [
+              "12",
+              "10",
+              "9",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When skip counting by 4s, what number comes after 16?",
+            "options": [
+              "18",
+              "20",
+              "19",
+              "17"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these lists shows skip counting by 4s?",
+            "options": [
+              "3, 6, 9, 12",
+              "4, 8, 12, 16",
+              "4, 7, 10, 13",
+              "4, 6, 8, 10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When skip counting by 4s, what number comes after 20?",
+            "options": [
+              "22",
+              "21",
+              "23",
+              "24"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 4s means we count ___.",
+            "options": [
+              "Every second number",
+              "Backward only",
+              "Every fourth number",
+              "Only odd numbers"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes after 4 when skip counting by 4s?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "What number comes after 12 when skip counting by 4s?",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
+          },
+          {
+            "prompt": "Start at 4 and skip count by 4s three times. What is the third number?",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Amphibians and Their Life Cycle",
+        "summary": "Students learn that amphibians, such as frogs, begin life in water as eggs and tadpoles, then change into adults that can live both in water and on land.",
+        "resourceLabel": "YouTube: Amphibians and Their Life Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Amphibians%20and%20Their%20Life%20Cycle%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these animals is an amphibian?",
+            "options": [
+              "A shark",
+              "A frog",
+              "A robin",
+              "A turtle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a young frog called before it grows legs?",
+            "options": [
+              "A cub",
+              "A chick",
+              "A calf",
+              "A tadpole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do frog eggs usually hatch?",
+            "options": [
+              "Underground",
+              "In the sky",
+              "In water",
+              "In a nest in a tree"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As a tadpole grows into a frog, what happens to its body?",
+            "options": [
+              "It grows legs and can breathe air",
+              "It grows fur",
+              "It stays exactly the same",
+              "It grows feathers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can most adult frogs live?",
+            "options": [
+              "Only in the sky",
+              "Both in water and on land",
+              "Only underground",
+              "Only deep in the ocean"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one animal that is an amphibian, like a frog.",
+            "answers": [
+              "frog",
+              "toad",
+              "salamander"
+            ]
+          },
+          {
+            "prompt": "What is a baby frog called before it grows legs?",
+            "answers": [
+              "tadpole"
+            ]
+          },
+          {
+            "prompt": "Can adult frogs live both in water and on land?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Inventions and Inventors",
+        "summary": "Students learn about a few simple inventions created by people in Canada, such as basketball, and that inventors are people who create new and useful things.",
+        "resourceLabel": "YouTube: Canadian Inventions and Inventors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Inventions%20and%20Inventors%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a person who creates something new and useful?",
+            "options": [
+              "An inventor",
+              "A farmer",
+              "A pilot",
+              "A dentist"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sport was invented by a Canadian named James Naismith?",
+            "options": [
+              "Soccer",
+              "Basketball",
+              "Cricket",
+              "Tennis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are inventions helpful to people?",
+            "options": [
+              "They only cause problems",
+              "They have no purpose",
+              "Inventions never help anyone",
+              "They can solve problems or make life easier"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes an invention?",
+            "options": [
+              "A cloud",
+              "A new and useful thing that someone creates",
+              "A mountain",
+              "A river"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canadians have created inventions in fields such as ___.",
+            "options": [
+              "Only music",
+              "Sports and technology",
+              "Only cooking",
+              "Nothing at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a person who creates a new and useful thing?",
+            "answers": [
+              "inventor"
+            ]
+          },
+          {
+            "prompt": "What sport was invented by a Canadian named James Naismith?",
+            "answers": [
+              "basketball"
+            ]
+          },
+          {
+            "prompt": "Do inventions help solve problems or make life easier?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -op and -og",
+        "summary": "Students learn word families -op and -og, groups of words that share the same ending sound and spelling pattern, such as hop and top, or dog and log.",
+        "resourceLabel": "YouTube: Word Families: -op and -og",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-op%20and%20-og%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -op word family?",
+            "options": [
+              "Bed",
+              "Sun",
+              "Hop",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word belongs to the -og word family?",
+            "options": [
+              "Bed",
+              "Sun",
+              "Cat",
+              "Dog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with top?",
+            "options": [
+              "Cat",
+              "Bed",
+              "Sun",
+              "Hop"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with log?",
+            "options": [
+              "Bed",
+              "Sun",
+              "Fog",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A word family is a group of words that share the same ___.",
+            "options": [
+              "Beginning letter only",
+              "Number of letters",
+              "Meaning",
+              "Ending sound and spelling pattern"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word in the -op word family, like hop or top.",
+            "answers": [
+              "hop",
+              "top",
+              "mop",
+              "pop"
+            ]
+          },
+          {
+            "prompt": "Name one word in the -og word family, like dog or log.",
+            "answers": [
+              "dog",
+              "log",
+              "fog",
+              "jog"
+            ]
+          },
+          {
+            "prompt": "What ending sound do the words hop and top share?",
+            "answers": [
+              "op"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Thirds",
+        "summary": "Students learn that a whole can be split into three equal parts called thirds, and that each part is called one third of the whole.",
+        "resourceLabel": "YouTube: Fractions: Thirds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Thirds%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If a shape is split into three equal parts, each part is called ___.",
+            "options": [
+              "A quarter",
+              "A whole",
+              "A half",
+              "A third"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many equal parts make up thirds?",
+            "options": [
+              "2",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which picture would show thirds?",
+            "options": [
+              "A square split into 5 parts",
+              "A circle with no parts",
+              "A circle split into 3 equal parts",
+              "A circle split into 2 equal parts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you have 3 equal slices of an apple, each slice is ___ of the apple.",
+            "options": [
+              "One third",
+              "One quarter",
+              "One half",
+              "The whole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For a fraction to be a true third, the parts must be ___.",
+            "options": [
+              "Different shapes",
+              "Equal in size",
+              "Different colours",
+              "Different sizes"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a pizza is cut into three equal parts, what is each part called?",
+            "answers": [
+              "a third",
+              "one third"
+            ]
+          },
+          {
+            "prompt": "How many equal parts make up a whole cut into thirds?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If you eat one of three equal parts of a sandwich, how much did you eat?",
+            "answers": [
+              "one third",
+              "a third"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Mammals and Their Body Parts",
+        "summary": "Students learn about the body parts of mammals, such as fur covering their skin and the way most mammal babies drink milk from their mother, and how these features help mammals survive.",
+        "resourceLabel": "YouTube: Mammals and Their Body Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mammals%20and%20Their%20Body%20Parts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What usually covers the skin of a mammal?",
+            "options": [
+              "Scales",
+              "Feathers",
+              "Fur",
+              "Fins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals is a mammal?",
+            "options": [
+              "A snake",
+              "A fish",
+              "A dog",
+              "A frog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do most baby mammals get their food at first?",
+            "options": [
+              "They eat only rocks",
+              "They drink milk from their mother",
+              "They do not eat",
+              "They make their own food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is true about most mammals?",
+            "options": [
+              "They are always cold to the touch",
+              "They have no bones",
+              "They breathe only underwater using gills",
+              "They breathe air using lungs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is not a mammal?",
+            "options": [
+              "A dog",
+              "A cat",
+              "A cow",
+              "A fish"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What usually covers the skin of a mammal?",
+            "answers": [
+              "fur"
+            ]
+          },
+          {
+            "prompt": "Name one animal that is a mammal, like a dog or a cat.",
+            "answers": [
+              "dog",
+              "cat",
+              "cow",
+              "human"
+            ]
+          },
+          {
+            "prompt": "How do most baby mammals get food from their mother at first?",
+            "answers": [
+              "drink milk",
+              "milk"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Visiting the Library: Borrowing and Sharing Books",
+        "summary": "Students learn that a library is a community place where people can borrow books and other materials for free, and that a library card and returning books on time help everyone share.",
+        "resourceLabel": "YouTube: Visiting the Library: Borrowing and Sharing Books",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Visiting%20the%20Library%3A%20Borrowing%20and%20Sharing%20Books%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a library?",
+            "options": [
+              "A place that sells only toys",
+              "A place to buy food",
+              "A place where people can borrow books for free",
+              "A place with no books"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do you usually need to borrow books from a library?",
+            "options": [
+              "A map",
+              "A hammer",
+              "A library card",
+              "A ticket"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to return library books on time?",
+            "options": [
+              "So other people can also borrow them",
+              "Books do not need to be returned",
+              "Only librarians can read books",
+              "Returning books is not important"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who helps people find books at a library?",
+            "options": [
+              "A pilot",
+              "A firefighter",
+              "A farmer",
+              "A librarian"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sharing library books with the whole community is an example of ___.",
+            "options": [
+              "Being a good citizen",
+              "Wasting resources",
+              "Being unkind",
+              "Ignoring others"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a community place where people can borrow books for free?",
+            "answers": [
+              "library",
+              "the library"
+            ]
+          },
+          {
+            "prompt": "What card do you need to borrow books from a library?",
+            "answers": [
+              "a library card",
+              "library card"
+            ]
+          },
+          {
+            "prompt": "Why should borrowed books be returned on time?",
+            "answers": [
+              "so others can borrow them",
+              "to share with others"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: ee and ea",
+        "summary": "Students learn that the letters ee and ea can work together as a vowel team to make the long e sound, as in tree and leaf.",
+        "resourceLabel": "YouTube: Vowel Teams: ee and ea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ee%20and%20ea%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which letters make the long e sound in the word tree?",
+            "options": [
+              "oa",
+              "ea",
+              "ai",
+              "ee"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which letters make the long e sound in the word leaf?",
+            "options": [
+              "ay",
+              "ea",
+              "oo",
+              "ee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the ee vowel team?",
+            "options": [
+              "Cat",
+              "Dog",
+              "Sun",
+              "Bee"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the ea vowel team?",
+            "options": [
+              "Cat",
+              "Dog",
+              "Sun",
+              "Leaf"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The ee and ea vowel teams both usually make the ___ sound.",
+            "options": [
+              "Short a",
+              "Short i",
+              "Long e",
+              "Long o"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the long e sound in the word tree?",
+            "answers": [
+              "ee"
+            ]
+          },
+          {
+            "prompt": "What two letters make the long e sound in the word leaf?",
+            "answers": [
+              "ea"
+            ]
+          },
+          {
+            "prompt": "Name one word that has the ee vowel team, like tree or bee.",
+            "answers": [
+              "tree",
+              "bee",
+              "see",
+              "feet"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding and Subtracting Tens",
+        "summary": "Students learn to add and subtract multiples of ten, such as 30 add 20, by thinking about groups of ten instead of counting one at a time.",
+        "resourceLabel": "YouTube: Adding and Subtracting Tens",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Tens%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 20 add 30?",
+            "options": [
+              "40",
+              "70",
+              "50",
+              "60"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 70 minus 30?",
+            "options": [
+              "60",
+              "40",
+              "30",
+              "50"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 10 add 10 add 10?",
+            "options": [
+              "30",
+              "20",
+              "40",
+              "50"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 90 minus 40?",
+            "options": [
+              "70",
+              "50",
+              "40",
+              "60"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When adding tens, such as 40 add 30, it helps to think about ___.",
+            "options": [
+              "Groups of one hundred",
+              "Only shapes",
+              "Only single digits",
+              "Groups of ten"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 30 add 20?",
+            "answers": [
+              "50",
+              "fifty"
+            ]
+          },
+          {
+            "prompt": "What is 60 minus 20?",
+            "answers": [
+              "40",
+              "forty"
+            ]
+          },
+          {
+            "prompt": "What is 10 add 40?",
+            "answers": [
+              "50",
+              "fifty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Water Cycle",
+        "summary": "Students learn about the water cycle, the way water moves from Earth into the sky as it evaporates, forms clouds, and falls back down again as rain or snow.",
+        "resourceLabel": "YouTube: The Water Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call water turning into vapour and rising into the air?",
+            "options": [
+              "Evaporation",
+              "Sinking",
+              "Freezing",
+              "Camouflage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What forms in the sky when water vapour cools and gathers together?",
+            "options": [
+              "Sand",
+              "Rocks",
+              "Clouds",
+              "Soil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these falls from clouds back down to Earth?",
+            "options": [
+              "Sunlight",
+              "Soil",
+              "Rain",
+              "Wind only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Put these water cycle steps in order: water evaporates, clouds form, rain falls.",
+            "options": [
+              "Clouds then rain then evaporate",
+              "All happen at the same time",
+              "Rain then clouds then evaporate",
+              "Evaporate then clouds then rain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The water cycle describes how water ___.",
+            "options": [
+              "Only exists in oceans",
+              "Disappears forever",
+              "Never moves at all",
+              "Moves between Earth and the sky again and again"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call water rising into the air and turning into vapour?",
+            "answers": [
+              "evaporation"
+            ]
+          },
+          {
+            "prompt": "What falls from clouds back down to Earth, like rain or snow?",
+            "answers": [
+              "rain",
+              "snow",
+              "precipitation"
+            ]
+          },
+          {
+            "prompt": "What forms in the sky when water vapour cools and gathers together?",
+            "answers": [
+              "clouds",
+              "a cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Mail Gets Delivered: Post Office Helpers",
+        "summary": "Students learn that letters and packages travel through a post office and are delivered by mail carriers, who sort and bring mail to homes and businesses.",
+        "resourceLabel": "YouTube: How Mail Gets Delivered: Post Office Helpers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Mail%20Gets%20Delivered%3A%20Post%20Office%20Helpers%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a person whose job is to deliver mail?",
+            "options": [
+              "A dentist",
+              "A pilot",
+              "A mail carrier",
+              "A farmer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What building sorts letters and packages before they are delivered?",
+            "options": [
+              "A post office",
+              "A library",
+              "A school",
+              "A hospital"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is something that can be sent through the mail?",
+            "options": [
+              "A mountain",
+              "A letter",
+              "A river",
+              "The sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a mail carrier an important community helper?",
+            "options": [
+              "They grow food for the community",
+              "They put out fires",
+              "They help letters and packages reach the right homes",
+              "They teach students"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before mail trucks, how might people have sent letters long ago?",
+            "options": [
+              "By horse and rider or by ship",
+              "By video call",
+              "By airplane text message",
+              "By the internet"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the person who delivers mail to homes?",
+            "answers": [
+              "mail carrier",
+              "mail person",
+              "postal worker"
+            ]
+          },
+          {
+            "prompt": "Name one place mail might travel through before reaching your home, like a post office.",
+            "answers": [
+              "post office",
+              "a mail truck"
+            ]
+          },
+          {
+            "prompt": "Name one thing that can be delivered by mail, like a letter or a package.",
+            "answers": [
+              "a letter",
+              "a package",
+              "letters",
+              "packages"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "R-Controlled Vowels: ar and or",
+        "summary": "Students learn that when a vowel is followed by the letter r, its sound changes, such as ar in car and or in corn, forming an r-controlled vowel sound.",
+        "resourceLabel": "YouTube: R-Controlled Vowels: ar and or",
+        "resourceUrl": "https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20ar%20and%20or%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which letters make the sound in the word car?",
+            "options": [
+              "ee",
+              "ar",
+              "or",
+              "ai"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which letters make the sound in the word corn?",
+            "options": [
+              "ar",
+              "oo",
+              "ay",
+              "or"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the ar sound?",
+            "options": [
+              "Sun",
+              "Star",
+              "Dog",
+              "Cat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the or sound?",
+            "options": [
+              "Fork",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An r-controlled vowel happens when a vowel is followed by the letter ___.",
+            "options": [
+              "s",
+              "t",
+              "r",
+              "m"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the sound in the word car?",
+            "answers": [
+              "ar"
+            ]
+          },
+          {
+            "prompt": "What two letters make the sound in the word corn?",
+            "answers": [
+              "or"
+            ]
+          },
+          {
+            "prompt": "Name one word that has the ar sound, like car or star.",
+            "answers": [
+              "car",
+              "star",
+              "farm",
+              "park"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Numbers on a Number Line",
+        "summary": "Students use a number line, a line marked with numbers in order, to compare numbers and see which number is greater or less than another.",
+        "resourceLabel": "YouTube: Comparing Numbers on a Number Line",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Numbers%20on%20a%20Number%20Line%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "On a number line, numbers get larger as you move ___.",
+            "options": [
+              "To the right",
+              "To the left",
+              "Downward only",
+              "Upward only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a number line, which number is farther to the left, 4 or 10?",
+            "options": [
+              "4",
+              "Cannot tell",
+              "They are the same",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 6 is to the left of 9 on a number line, which number is greater?",
+            "options": [
+              "9",
+              "They are equal",
+              "Cannot tell",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A number line helps us compare numbers by showing ___.",
+            "options": [
+              "Their colour",
+              "Their order and position",
+              "Their weight",
+              "Their shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a number line from 0 to 20, which number would be closest to 0?",
+            "options": [
+              "15",
+              "19",
+              "20",
+              "1"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a number line, is the number 8 to the left or right of the number 5?",
+            "answers": [
+              "right"
+            ]
+          },
+          {
+            "prompt": "On a number line, which number is farther to the left, 3 or 9?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "On a number line, numbers get larger as you move in which direction?",
+            "answers": [
+              "right",
+              "to the right"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Day and Night",
+        "summary": "Students learn that Earth slowly spinning causes day and night, with daytime happening when a place faces the sun and nighttime happening when it faces away from the sun.",
+        "resourceLabel": "YouTube: Day and Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Day%20and%20Night%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What causes day and night on Earth?",
+            "options": [
+              "The moon disappearing",
+              "Earth changing colour",
+              "Earth slowly spinning around",
+              "The sun moving very fast"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During the day, a place on Earth is usually facing ___.",
+            "options": [
+              "Away from the sun",
+              "Toward the moon only",
+              "Toward the sun",
+              "Nowhere at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During the night, a place on Earth is usually facing ___.",
+            "options": [
+              "Toward a rainbow",
+              "Nowhere at all",
+              "Toward the sun",
+              "Away from the sun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these do we often see in the night sky?",
+            "options": [
+              "Only clouds",
+              "The moon and stars",
+              "Only rainbows",
+              "Only the sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "About how long does it take for Earth to spin around once, giving us one day and one night?",
+            "options": [
+              "About one hour",
+              "About one week",
+              "About one year",
+              "About one day"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we see in the sky mostly during the day?",
+            "answers": [
+              "the sun",
+              "sun"
+            ]
+          },
+          {
+            "prompt": "What do we often see in the sky at night?",
+            "answers": [
+              "the moon",
+              "moon",
+              "stars"
+            ]
+          },
+          {
+            "prompt": "Does the Earth slowly spin to cause day and night?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "National Parks: Protecting Nature in Canada",
+        "summary": "Students learn that national parks are special protected areas of land in Canada set aside to keep nature, plants, and animals safe for everyone to enjoy.",
+        "resourceLabel": "YouTube: National Parks: Protecting Nature in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=National%20Parks%3A%20Protecting%20Nature%20in%20Canada%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a national park?",
+            "options": [
+              "A shopping mall",
+              "A protected area of land set aside to keep nature safe",
+              "A tall office building",
+              "A parking lot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Canada have national parks?",
+            "options": [
+              "To sell more toys",
+              "National parks have no purpose",
+              "To build more houses",
+              "To protect plants, animals, and natural land"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might you find in a national park?",
+            "options": [
+              "Wild animals and forests",
+              "Video game arcades",
+              "Office buildings",
+              "Grocery stores"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How should visitors treat a national park?",
+            "options": [
+              "By ignoring the rules",
+              "By picking all the flowers",
+              "With care, so nature stays protected",
+              "By littering everywhere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "National parks help make sure that nature is enjoyed by ___.",
+            "options": [
+              "Only a few people",
+              "Only animals",
+              "No one",
+              "Everyone, now and in the future"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a protected area of land set aside to keep nature safe?",
+            "answers": [
+              "a national park",
+              "national park"
+            ]
+          },
+          {
+            "prompt": "Name one thing a national park helps protect, like plants or animals.",
+            "answers": [
+              "plants",
+              "animals",
+              "nature",
+              "wildlife"
+            ]
+          },
+          {
+            "prompt": "Should visitors to a national park take care not to harm nature?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Homophones: to, too, and two",
+        "summary": "Students learn about homophones, words that sound the same but have different spellings and meanings, such as to, too, and two.",
+        "resourceLabel": "YouTube: Homophones: to, too, and two",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Homophones%3A%20to%2C%20too%2C%20and%20two%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word means the number 2?",
+            "options": [
+              "Two",
+              "Too",
+              "To",
+              "Threw"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means also or as well?",
+            "options": [
+              "To",
+              "Too",
+              "Ate",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word would complete the sentence: I am going ___ the park?",
+            "options": [
+              "Too",
+              "Ate",
+              "Two",
+              "To"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word would complete the sentence: I want ___ apples?",
+            "options": [
+              "Two",
+              "Too",
+              "To",
+              "Ate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Homophones are words that ___.",
+            "options": [
+              "Are always spelled the same",
+              "Sound the same but have different spellings and meanings",
+              "Are always the same word",
+              "Never sound alike"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which word means the number 2?",
+            "answers": [
+              "two"
+            ]
+          },
+          {
+            "prompt": "Which word means also, or more than enough?",
+            "answers": [
+              "too"
+            ]
+          },
+          {
+            "prompt": "Which word is used to show direction, like going to the park?",
+            "answers": [
+              "to"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Bar Graphs",
+        "summary": "Students learn to read and create simple bar graphs, charts that use bars of different heights to show and compare amounts of data.",
+        "resourceLabel": "YouTube: Data: Bar Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Bar%20Graphs%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does a bar graph use to show data?",
+            "options": [
+              "Only words",
+              "Only numbers",
+              "Bars of different heights",
+              "Only colours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a bar graph, a taller bar usually shows ___.",
+            "options": [
+              "The same amount always",
+              "A smaller amount",
+              "A larger amount",
+              "No amount at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a bar graph shows 4 bars for apples and 2 bars for bananas, which fruit has more?",
+            "options": [
+              "Apples",
+              "They are equal",
+              "Bananas",
+              "Cannot tell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are bar graphs useful?",
+            "options": [
+              "They hide information",
+              "They only show colours",
+              "They are never useful",
+              "They help us compare amounts easily"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the information shown on a bar graph?",
+            "options": [
+              "Weather",
+              "Sounds",
+              "Data",
+              "Feelings"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a bar graph, does a taller bar show more or fewer items?",
+            "answers": [
+              "more"
+            ]
+          },
+          {
+            "prompt": "What do we call a chart that uses bars of different heights to compare amounts?",
+            "answers": [
+              "a bar graph",
+              "bar graph"
+            ]
+          },
+          {
+            "prompt": "If a bar graph shows 3 red bars and 5 blue bars, which colour has more?",
+            "answers": [
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forces: Gravity Pulls Things Down",
+        "summary": "Students learn that gravity is a force that pulls objects down toward the ground, which is why a dropped ball falls instead of floating away.",
+        "resourceLabel": "YouTube: Forces: Gravity Pulls Things Down",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20Pulls%20Things%20Down%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the name of the force that pulls objects down toward the ground?",
+            "options": [
+              "Sound",
+              "Magnetism",
+              "Light",
+              "Gravity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you drop an apple, what happens because of gravity?",
+            "options": [
+              "It disappears",
+              "It falls down to the ground",
+              "It floats up into the sky",
+              "It turns into water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shows gravity at work?",
+            "options": [
+              "A ball turning into a cloud",
+              "A ball changing colour",
+              "A ball floating in the air on its own",
+              "A ball rolling down a hill"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Without gravity, objects on Earth would likely ___.",
+            "options": [
+              "Turn into rocks",
+              "Disappear completely",
+              "Become heavier",
+              "Float away instead of staying on the ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Gravity is an example of a ___.",
+            "options": [
+              "Season",
+              "Force",
+              "Colour",
+              "Sound"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the name of the force that pulls objects down toward the ground?",
+            "answers": [
+              "gravity"
+            ]
+          },
+          {
+            "prompt": "If you drop a ball, does gravity pull it up or down?",
+            "answers": [
+              "down"
+            ]
+          },
+          {
+            "prompt": "Name one object that gravity pulls down when you drop it, like a ball or a book.",
+            "answers": [
+              "a ball",
+              "a book",
+              "a toy"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Activities Through the Seasons",
+        "summary": "Students learn that communities offer different activities depending on the season, such as skating in winter and swimming in summer, and that people plan events around the weather.",
+        "resourceLabel": "YouTube: Community Activities Through the Seasons",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Activities%20Through%20the%20Seasons%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which activity would a community more likely plan for winter?",
+            "options": [
+              "Skating on an outdoor rink",
+              "Planting a garden",
+              "Swimming at an outdoor pool",
+              "A beach picnic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which activity would a community more likely plan for summer?",
+            "options": [
+              "Sledding",
+              "A snowman building contest",
+              "Ice skating",
+              "A splash pad or pool day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do communities plan different activities for different seasons?",
+            "options": [
+              "Weather changes what activities are safe and fun",
+              "Communities do not plan activities",
+              "Activities are always the same all year",
+              "The season never changes anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which season might a community host an outdoor harvest festival?",
+            "options": [
+              "Only winter",
+              "No season",
+              "Only summer",
+              "Fall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Planning community events around the seasons helps people ___.",
+            "options": [
+              "Ignore the weather completely",
+              "Avoid all activities",
+              "Enjoy activities that fit the weather",
+              "Stay indoors all year"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one activity people might do in a community during winter, like skating.",
+            "answers": [
+              "skating",
+              "sledding",
+              "playing in the snow"
+            ]
+          },
+          {
+            "prompt": "Name one activity people might do in a community during summer, like swimming.",
+            "answers": [
+              "swimming",
+              "playing outside",
+              "having a picnic"
+            ]
+          },
+          {
+            "prompt": "Do communities plan different activities depending on the season?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Types of Sentences: Statements and Commands",
+        "summary": "Students learn that a statement is a sentence that tells something and usually ends with a period, while a command tells someone to do something, such as Close the door.",
+        "resourceLabel": "YouTube: Types of Sentences: Statements and Commands",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Sentences%3A%20Statements%20and%20Commands%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which sentence is a statement?",
+            "options": [
+              "Close the door.",
+              "Please sit down.",
+              "The sky is blue.",
+              "Pick it up."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is a command?",
+            "options": [
+              "Close the door.",
+              "I like apples.",
+              "The sky is blue.",
+              "The dog is brown."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A statement is a sentence that ___.",
+            "options": [
+              "Tells something",
+              "Never ends with a period",
+              "Always shouts",
+              "Always asks a question"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A command is a sentence that ___.",
+            "options": [
+              "Always ends with a question mark",
+              "Only tells a fact",
+              "Is never useful",
+              "Tells someone to do something"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which punctuation mark usually ends a statement?",
+            "options": [
+              "No punctuation",
+              "A comma only",
+              "A period",
+              "A question mark only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of sentence tells something, like The sky is blue?",
+            "answers": [
+              "a statement",
+              "statement"
+            ]
+          },
+          {
+            "prompt": "What kind of sentence tells someone to do something, like Close the door?",
+            "answers": [
+              "a command",
+              "command"
+            ]
+          },
+          {
+            "prompt": "What punctuation mark usually ends a statement?",
+            "answers": [
+              "a period",
+              "period"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Repeating Patterns: AB and ABC",
+        "summary": "Students learn to recognize and continue repeating patterns, such as an AB pattern like red, blue, red, blue, or an ABC pattern like circle, square, triangle, circle, square, triangle.",
+        "resourceLabel": "YouTube: Repeating Patterns: AB and ABC",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%3A%20AB%20and%20ABC%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In the pattern red, blue, red, blue, red, what comes next?",
+            "options": [
+              "Red",
+              "Green",
+              "Blue",
+              "Yellow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the pattern circle, square, triangle, circle, square, what comes next?",
+            "options": [
+              "Triangle",
+              "Star",
+              "Circle",
+              "Square"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a pattern that repeats two items, like clap, stomp, clap, stomp?",
+            "options": [
+              "A number pattern",
+              "An ABC pattern",
+              "An AB pattern",
+              "No pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a pattern that repeats three items, like red, yellow, blue, red, yellow, blue?",
+            "options": [
+              "A shape only",
+              "An ABC pattern",
+              "No pattern",
+              "An AB pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To continue a repeating pattern, we should ___.",
+            "options": [
+              "Look at what repeats and keep the order going",
+              "Change the pattern completely",
+              "Always pick the same item",
+              "Guess randomly"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the pattern red, blue, red, blue, what colour comes next?",
+            "answers": [
+              "red"
+            ]
+          },
+          {
+            "prompt": "In the pattern circle, square, triangle, circle, square, triangle, what shape comes next?",
+            "answers": [
+              "circle"
+            ]
+          },
+          {
+            "prompt": "What do we call a pattern that repeats two items over and over, like red, blue, red, blue?",
+            "answers": [
+              "an AB pattern",
+              "AB pattern"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Butterfly",
+        "summary": "Students learn the life cycle of a butterfly, which changes from an egg to a caterpillar, then to a chrysalis, and finally into an adult butterfly.",
+        "resourceLabel": "YouTube: Life Cycle of a Butterfly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a butterfly life cycle?",
+            "options": [
+              "Egg",
+              "Adult butterfly",
+              "Caterpillar",
+              "Chrysalis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the crawling stage that hatches from a butterfly egg?",
+            "options": [
+              "A cub",
+              "A caterpillar",
+              "A chick",
+              "A tadpole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the resting stage inside a hard case before a caterpillar becomes a butterfly?",
+            "options": [
+              "A chrysalis",
+              "A shell only",
+              "A nest",
+              "A den"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the last stage of the butterfly life cycle?",
+            "options": [
+              "Adult butterfly",
+              "Egg",
+              "Caterpillar",
+              "Chrysalis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Put these butterfly life cycle stages in the correct order.",
+            "options": [
+              "Egg, caterpillar, chrysalis, butterfly",
+              "Caterpillar, butterfly, egg, chrysalis",
+              "Butterfly, egg, caterpillar, chrysalis",
+              "Chrysalis, egg, butterfly, caterpillar"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the crawling stage of a butterfly life cycle called?",
+            "answers": [
+              "caterpillar"
+            ]
+          },
+          {
+            "prompt": "What do we call the stage when a caterpillar rests inside a hard case before becoming a butterfly?",
+            "answers": [
+              "chrysalis",
+              "pupa"
+            ]
+          },
+          {
+            "prompt": "What is the first stage of a butterfly life cycle?",
+            "answers": [
+              "egg"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Making Fair Choices in a Group",
+        "summary": "Students learn simple ways a group can make fair choices together, such as taking turns, listening to every idea, and choosing an option that works well for everyone.",
+        "resourceLabel": "YouTube: Making Fair Choices in a Group",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Fair%20Choices%20in%20a%20Group%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a fair way for a group to make a choice?",
+            "options": [
+              "Ignoring what others want",
+              "Taking turns and listening to everyone",
+              "Only one person deciding every time",
+              "Arguing without listening"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to listen to every idea in a group?",
+            "options": [
+              "Ideas from others do not matter",
+              "Listening wastes time",
+              "Only the loudest idea should count",
+              "It helps everyone feel heard and included"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If two friends want different games, what is a fair solution?",
+            "options": [
+              "Argue until someone gives up",
+              "Refuse to play any game",
+              "Take turns playing each game",
+              "Only one friend ever gets to choose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Making fair choices in a group helps everyone feel ___.",
+            "options": [
+              "Ignored",
+              "Included and respected",
+              "Unimportant",
+              "Left out"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shows a group working together fairly?",
+            "options": [
+              "Ideas are chosen without listening",
+              "Only the leader ever speaks",
+              "No one is allowed to share ideas",
+              "Everyone gets a chance to share their idea"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way a group can make a fair choice, like taking turns.",
+            "answers": [
+              "taking turns",
+              "listening to ideas",
+              "sharing"
+            ]
+          },
+          {
+            "prompt": "Why is it important to listen to everyone ideas in a group?",
+            "answers": [
+              "so everyone feels heard",
+              "to be fair"
+            ]
+          },
+          {
+            "prompt": "Is it fair for one person to always choose without asking others?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Making Inferences While Reading",
+        "summary": "Students learn to make inferences, using clues from a story along with what they already know, to figure out something the author does not say directly.",
+        "resourceLabel": "YouTube: Making Inferences While Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Inferences%20While%20Reading%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an inference?",
+            "options": [
+              "A type of punctuation",
+              "A made-up word",
+              "Using clues and what we already know to figure something out",
+              "A kind of picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a character is holding an umbrella and wearing boots, what might you infer?",
+            "options": [
+              "It is sunny and hot",
+              "It is snowing indoors",
+              "It is raining",
+              "It is nighttime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a story says a dog is wagging its tail and barking happily, what might you infer about the dog feelings?",
+            "options": [
+              "The dog is asleep",
+              "The dog is happy",
+              "The dog is sad",
+              "The dog is scared"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Making inferences while reading helps readers ___.",
+            "options": [
+              "Skip important details",
+              "Read more slowly with no benefit",
+              "Ignore the story completely",
+              "Understand more about the story than what is written"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which clue would help you infer that a character is tired?",
+            "options": [
+              "The character is running fast",
+              "The character is eating lunch",
+              "The character is yawning and rubbing their eyes",
+              "The character is laughing loudly"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call using story clues and what we already know to figure something out?",
+            "answers": [
+              "an inference",
+              "inference",
+              "making an inference"
+            ]
+          },
+          {
+            "prompt": "If a character in a story is shivering and wearing a coat, what might you infer about the weather?",
+            "answers": [
+              "it is cold",
+              "cold"
+            ]
+          },
+          {
+            "prompt": "Do good readers use clues from the story to make inferences?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating: More, Fewer, and About How Many",
+        "summary": "Students practise estimating, making a sensible guess about how many objects there are without counting each one exactly.",
+        "resourceLabel": "YouTube: Estimating: More, Fewer, and About How Many",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%3A%20More%2C%20Fewer%2C%20and%20About%20How%20Many%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to estimate?",
+            "options": [
+              "Measure with a ruler",
+              "Make a sensible guess without counting exactly",
+              "Count every single item slowly",
+              "Draw a picture"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one jar looks like it has many more candies than another jar, the first jar likely has ___ candies.",
+            "options": [
+              "Zero",
+              "The exact same amount",
+              "Fewer",
+              "More"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Estimating is a useful skill because it helps us ___.",
+            "options": [
+              "Avoid thinking about numbers",
+              "Replace counting completely",
+              "Make quick, sensible guesses about amounts",
+              "Always get the exact count"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "About how many apples might fit in a small basket that looks about half full of a dozen apples?",
+            "options": [
+              "Exactly 0",
+              "About 500",
+              "About 6",
+              "Exactly 1000"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of estimating?",
+            "options": [
+              "Weighing the jar on a scale",
+              "Measuring the jar with a ruler",
+              "Guessing about how many beans are in a jar",
+              "Counting each bean one by one out loud"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call making a sensible guess about how many objects there are?",
+            "answers": [
+              "an estimate",
+              "estimating",
+              "a guess"
+            ]
+          },
+          {
+            "prompt": "If a jar clearly has more items than another jar, does it have more or fewer?",
+            "answers": [
+              "more"
+            ]
+          },
+          {
+            "prompt": "Is an estimate always the exact count?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Coverings: Fur, Feathers, and Scales",
+        "summary": "Students compare different animal body coverings, such as fur on mammals, feathers on birds, and scales on fish and reptiles, and how each covering helps the animal.",
+        "resourceLabel": "YouTube: Animal Coverings: Fur, Feathers, and Scales",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Coverings%3A%20Fur%2C%20Feathers%2C%20and%20Scales%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which animal covering helps keep many mammals warm?",
+            "options": [
+              "Feathers",
+              "Fur",
+              "Shells",
+              "Scales"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which body covering helps many birds fly and stay warm?",
+            "options": [
+              "Scales",
+              "Fins",
+              "Feathers",
+              "Fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body covering do fish usually have that helps protect their skin?",
+            "options": [
+              "Feathers",
+              "Scales",
+              "Fur",
+              "Leaves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals is covered in feathers?",
+            "options": [
+              "A snake",
+              "A fish",
+              "A robin",
+              "A dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing animal coverings helps scientists ___.",
+            "options": [
+              "Group animals and understand how their bodies help them survive",
+              "Grow plants faster",
+              "Build machines",
+              "Change the weather"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body covering do most mammals have?",
+            "answers": [
+              "fur"
+            ]
+          },
+          {
+            "prompt": "What body covering do most birds have?",
+            "answers": [
+              "feathers"
+            ]
+          },
+          {
+            "prompt": "What body covering do fish and reptiles usually have?",
+            "answers": [
+              "scales"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Museums: Learning About the Past",
+        "summary": "Students learn that a museum is a community place where people can see and learn about objects from the past, such as old tools, artwork, and artifacts.",
+        "resourceLabel": "YouTube: Museums: Learning About the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Museums%3A%20Learning%20About%20the%20Past%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a museum?",
+            "options": [
+              "A place where people can see and learn about objects from the past",
+              "A place to buy groceries",
+              "A place to mail letters",
+              "A place to swim"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might you see displayed at a museum?",
+            "options": [
+              "Fresh vegetables for sale",
+              "Swimming pools",
+              "Old tools and artwork",
+              "Mail being sorted"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do people visit museums?",
+            "options": [
+              "To mail packages",
+              "To buy new clothes",
+              "To learn about history and the past",
+              "To play sports"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call an old object kept and shown at a museum because it teaches us about the past?",
+            "options": [
+              "A shopping list",
+              "An artifact",
+              "A recipe",
+              "A weather report"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Museums help communities by ___.",
+            "options": [
+              "Building new roads",
+              "Selling food to families",
+              "Delivering mail to homes",
+              "Helping people learn about history together"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a community place where people can see and learn about objects from the past?",
+            "answers": [
+              "a museum",
+              "museum"
+            ]
+          },
+          {
+            "prompt": "Name one type of object you might see at a museum, like old tools or artwork.",
+            "answers": [
+              "old tools",
+              "artwork",
+              "artifacts"
+            ]
+          },
+          {
+            "prompt": "Do museums help us learn about the past?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sorting Words into Categories",
+        "summary": "Students practise sorting words into categories, groups that share something in common, such as sorting animal words separately from food words.",
+        "resourceLabel": "YouTube: Sorting Words into Categories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%20Words%20into%20Categories%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs in the category of animals?",
+            "options": [
+              "Dog",
+              "Chair",
+              "Bread",
+              "Apple"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word belongs in the category of foods?",
+            "options": [
+              "Dog",
+              "Bread",
+              "Chair",
+              "Cat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word does not belong with the others: apple, banana, grape, dog?",
+            "options": [
+              "Grape",
+              "Banana",
+              "Dog",
+              "Apple"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word does not belong with the others: cat, dog, bird, chair?",
+            "options": [
+              "Bird",
+              "Dog",
+              "Chair",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sorting words into categories helps us ___.",
+            "options": [
+              "Make words longer",
+              "Forget what words mean",
+              "See how words are related to each other",
+              "Remove vowels from words"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that would belong in the category of animals, like dog or cat.",
+            "answers": [
+              "dog",
+              "cat",
+              "bird",
+              "fish"
+            ]
+          },
+          {
+            "prompt": "Name one word that would belong in the category of foods, like apple or bread.",
+            "answers": [
+              "apple",
+              "bread",
+              "milk"
+            ]
+          },
+          {
+            "prompt": "What do we call a group of words that share something in common?",
+            "answers": [
+              "a category",
+              "category"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Digital Time: Reading Digital Clocks",
+        "summary": "Students learn to read a digital clock, which shows the hour and minutes using numbers, such as 3:00 for three o clock.",
+        "resourceLabel": "YouTube: Digital Time: Reading Digital Clocks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Digital%20Time%3A%20Reading%20Digital%20Clocks%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "On a digital clock, which numbers come first?",
+            "options": [
+              "The seconds",
+              "The hour",
+              "The day",
+              "The minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What time does a digital clock showing 5:00 tell us?",
+            "options": [
+              "Five o clock",
+              "Five minutes past",
+              "Fifty o clock",
+              "Fifteen o clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a digital clock, the numbers after the colon show the ___.",
+            "options": [
+              "Month",
+              "Day",
+              "Hour",
+              "Minutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a digital clock shows 9:00, what time is it?",
+            "options": [
+              "Ninety o clock",
+              "Nine minutes",
+              "Nineteen o clock",
+              "Nine o clock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is different from a digital clock?",
+            "options": [
+              "A clock showing 4:00",
+              "A clock with two moving hands and numbers around it",
+              "A clock showing 12:00",
+              "A clock showing 8:00"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a digital clock showing 3:00, what hour is it?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "On a digital clock, which number comes first, the hour or the minutes?",
+            "answers": [
+              "the hour",
+              "hour"
+            ]
+          },
+          {
+            "prompt": "If a digital clock shows 7:00, is it seven o clock?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Animals: Creatures of the Sea",
+        "summary": "Students learn about animals that live in the ocean, such as fish, whales, and octopuses, and how the deep salty water of the ocean is their home.",
+        "resourceLabel": "YouTube: Ocean Animals: Creatures of the Sea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Animals%3A%20Creatures%20of%20the%20Sea%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these animals lives in the ocean?",
+            "options": [
+              "A rabbit",
+              "A whale",
+              "A cow",
+              "A robin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is ocean water salty or fresh?",
+            "options": [
+              "Fresh",
+              "Colourless only",
+              "Frozen always",
+              "Salty"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these ocean animals has eight arms?",
+            "options": [
+              "An octopus",
+              "A crab",
+              "A whale",
+              "A shark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are oceans important homes for many animals?",
+            "options": [
+              "Oceans have no water",
+              "Oceans are always frozen",
+              "Oceans have no animals living in them",
+              "They provide food, water, and space for ocean creatures to live"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is the largest ocean animal mentioned, known for its huge size?",
+            "options": [
+              "A whale",
+              "A starfish",
+              "A crab",
+              "A shrimp"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one animal that lives in the ocean, like a fish or a whale.",
+            "answers": [
+              "fish",
+              "whale",
+              "octopus",
+              "shark"
+            ]
+          },
+          {
+            "prompt": "Is ocean water salty or fresh?",
+            "answers": [
+              "salty"
+            ]
+          },
+          {
+            "prompt": "Do whales live in the ocean?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Grocery Stores and Where We Buy Our Food",
+        "summary": "Students learn that grocery stores are community places where people buy food grown on farms or made in factories, and that workers stock shelves and help customers.",
+        "resourceLabel": "YouTube: Grocery Stores and Where We Buy Our Food",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grocery%20Stores%20and%20Where%20We%20Buy%20Our%20Food%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a grocery store?",
+            "options": [
+              "A place to borrow books",
+              "A place to mail letters",
+              "A place where people buy food",
+              "A place to see art"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might a grocery store worker do?",
+            "options": [
+              "Deliver mail",
+              "Stock shelves with food",
+              "Put out fires",
+              "Teach a class"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does much of the food sold at a grocery store come from?",
+            "options": [
+              "Farms and factories",
+              "The library",
+              "Outer space",
+              "The post office"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are grocery stores important to a community?",
+            "options": [
+              "They give people a place to buy the food they need",
+              "They have no purpose",
+              "They only sell toys",
+              "They only sell furniture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is something you would likely buy at a grocery store?",
+            "options": [
+              "A stamp for mail",
+              "A museum ticket",
+              "A library book",
+              "Bread and vegetables"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a community place where people go to buy food?",
+            "answers": [
+              "a grocery store",
+              "grocery store"
+            ]
+          },
+          {
+            "prompt": "Name one job a worker might do at a grocery store, like stocking shelves.",
+            "answers": [
+              "stocking shelves",
+              "helping customers",
+              "cashier"
+            ]
+          },
+          {
+            "prompt": "Does food at a grocery store often come from farms?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Digraphs, Vowel Teams, and Sentence Types",
+        "summary": "Students review recent Language skills: consonant and silent-letter digraphs, word families, vowel teams, r-controlled vowels, homophones, sentence types, inferences, and sorting words into categories.",
+        "resourceLabel": "YouTube: Language Review: Digraphs, Vowel Teams, and Sentence Types",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Digraphs%2C%20Vowel%20Teams%2C%20and%20Sentence%20Types%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the ph digraph making the f sound?",
+            "options": [
+              "Dog",
+              "Sun",
+              "Phone",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the ee vowel team?",
+            "options": [
+              "Sun",
+              "Cat",
+              "Bee",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the ar sound?",
+            "options": [
+              "Star",
+              "Dog",
+              "Cat",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means the number 2?",
+            "options": [
+              "Too",
+              "Two",
+              "To",
+              "Threw"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is a command?",
+            "options": [
+              "The sky is blue.",
+              "I like apples.",
+              "The dog is brown.",
+              "Close the door."
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the f sound in the word phone?",
+            "answers": [
+              "ph"
+            ]
+          },
+          {
+            "prompt": "What two letters make the long e sound in the word tree?",
+            "answers": [
+              "ee"
+            ]
+          },
+          {
+            "prompt": "What kind of sentence tells something, like The sky is blue?",
+            "answers": [
+              "a statement",
+              "statement"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Numbers, Patterns, and Time",
+        "summary": "Students review recent Math skills: numbers to 120, skip counting by 4s, fractions of thirds, adding and subtracting tens, number lines, bar graphs, repeating patterns, estimating, and digital time.",
+        "resourceLabel": "YouTube: Math Review: Numbers, Patterns, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Patterns%2C%20and%20Time%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 100?",
+            "options": [
+              "101",
+              "110",
+              "99",
+              "200"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When skip counting by 4s, what number comes after 8?",
+            "options": [
+              "10",
+              "11",
+              "9",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a shape is split into three equal parts, each part is called ___.",
+            "options": [
+              "A half",
+              "A third",
+              "A quarter",
+              "A whole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 20 add 30?",
+            "options": [
+              "60",
+              "50",
+              "70",
+              "40"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the pattern red, blue, red, blue, red, what comes next?",
+            "options": [
+              "Blue",
+              "Green",
+              "Red",
+              "Yellow"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 100?",
+            "answers": [
+              "101",
+              "one hundred one"
+            ]
+          },
+          {
+            "prompt": "What is 30 add 20?",
+            "answers": [
+              "50",
+              "fifty"
+            ]
+          },
+          {
+            "prompt": "On a digital clock showing 3:00, what hour is it?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Animals, Water, and Sky",
+        "summary": "Students review recent Science topics: reptiles, amphibians, mammals, the water cycle, day and night, gravity, the butterfly life cycle, animal coverings, and ocean animals.",
+        "resourceLabel": "YouTube: Science Review: Animals, Water, and Sky",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Water%2C%20and%20Sky%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What covers the skin of most reptiles?",
+            "options": [
+              "Scales",
+              "Fur",
+              "Feathers",
+              "Fins"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals is an amphibian?",
+            "options": [
+              "A shark",
+              "A turtle",
+              "A frog",
+              "A robin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes day and night on Earth?",
+            "options": [
+              "The moon disappearing",
+              "Earth changing colour",
+              "The sun moving very fast",
+              "Earth slowly spinning around"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the resting stage inside a hard case before a caterpillar becomes a butterfly?",
+            "options": [
+              "A nest",
+              "A den",
+              "A shell only",
+              "A chrysalis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is ocean water salty or fresh?",
+            "options": [
+              "Salty",
+              "Colourless only",
+              "Frozen always",
+              "Fresh"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What covers the skin of most reptiles?",
+            "answers": [
+              "scales"
+            ]
+          },
+          {
+            "prompt": "What is a baby frog called before it grows legs?",
+            "answers": [
+              "tadpole"
+            ]
+          },
+          {
+            "prompt": "What is the name of the force that pulls objects down toward the ground?",
+            "answers": [
+              "gravity"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Places, Inventions, and Fair Choices",
+        "summary": "Students review recent Social Studies topics: rural and urban communities, Canadian inventions, libraries, mail delivery, national parks, seasonal activities, fair group choices, museums, and grocery stores.",
+        "resourceLabel": "YouTube: Social Studies Review: Places, Inventions, and Fair Choices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Places%2C%20Inventions%2C%20and%20Fair%20Choices%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a busy community with many tall buildings and people?",
+            "options": [
+              "A desert",
+              "A rural community",
+              "An urban community",
+              "An ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sport was invented by a Canadian named James Naismith?",
+            "options": [
+              "Cricket",
+              "Tennis",
+              "Soccer",
+              "Basketball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a national park?",
+            "options": [
+              "A tall office building",
+              "A parking lot",
+              "A protected area of land set aside to keep nature safe",
+              "A shopping mall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a fair way for a group to make a choice?",
+            "options": [
+              "Taking turns and listening to everyone",
+              "Only one person deciding every time",
+              "Ignoring what others want",
+              "Arguing without listening"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a museum?",
+            "options": [
+              "A place to swim",
+              "A place where people can see and learn about objects from the past",
+              "A place to buy groceries",
+              "A place to mail letters"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a busy community with many tall buildings?",
+            "answers": [
+              "city",
+              "urban community",
+              "urban"
+            ]
+          },
+          {
+            "prompt": "What sport was invented by a Canadian named James Naismith?",
+            "answers": [
+              "basketball"
+            ]
+          },
+          {
+            "prompt": "What is a community place where people go to buy food?",
+            "answers": [
+              "a grocery store",
+              "grocery store"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
