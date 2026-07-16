@@ -1825,6 +1825,586 @@ const curriculum: DayContent[] = [
      {prompt:"What should you do if someone makes you feel unsafe?", answers:["tell a trusted adult","tell an adult"]}
    ]},
 ]},
+{day:41, label:"Day 41 — Mon", subjects:[
+  {subject:"Language", title:"Consonant Blends: br, cr, dr, gr", summary:"Students learn that two consonants can blend together at the start of a word, such as br in brush, cr in crab, dr in drum, and gr in grape.",
+   resourceLabel:"YouTube: Consonant Blends: br, cr, dr, gr", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20br%2C%20cr%2C%20dr%2C%20gr%20grade%201%20educational",
+   quiz:[
+     {q:"Which word begins with the blend br?", options:["Run","Dog","Brush","Cat"], answer:2},
+     {q:"Which word begins with the blend cr?", options:["Sun","Crab","Hat","Pig"], answer:1},
+     {q:"Which word begins with the blend dr?", options:["Top","Drum","Man","Sit"], answer:1},
+     {q:"Which word begins with the blend gr?", options:["Bed","Sun","Cat","Grape"], answer:3},
+     {q:"A beginning blend is when two consonant letters ___.", options:["Blend their sounds together at the start of a word","Turn into vowels","Are never used","Are silent"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the start of the word brush?", answers:["br"]},
+     {prompt:"What two letters blend together at the start of the word crab?", answers:["cr"]},
+     {prompt:"Say the word drum. What two letters blend at the start?", answers:["dr"]}
+   ]},
+  {subject:"Math", title:"Addition and Subtraction Fact Families", summary:"Students learn that a fact family is a group of related addition and subtraction facts that use the same three numbers, such as 3 add 4 equals 7, 4 add 3 equals 7, 7 minus 3 equals 4, and 7 minus 4 equals 3.",
+   resourceLabel:"YouTube: Addition and Subtraction Fact Families", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Fact%20Families%20grade%201%20educational",
+   quiz:[
+     {q:"Which subtraction fact belongs to the same fact family as 3 add 4 equals 7?", options:["8 minus 1 equals 7","9 minus 4 equals 5","5 minus 2 equals 3","7 minus 3 equals 4"], answer:3},
+     {q:"A fact family uses how many different numbers?", options:["4","3","2","5"], answer:1},
+     {q:"Which addition fact belongs to the same fact family as 8 minus 5 equals 3?", options:["6 add 2 equals 8","4 add 4 equals 8","5 add 3 equals 8","7 add 1 equals 8"], answer:2},
+     {q:"If 6 add 3 equals 9, which subtraction fact is in the same family?", options:["9 minus 6 equals 3","9 minus 2 equals 7","8 minus 3 equals 5","7 minus 3 equals 4"], answer:0},
+     {q:"Knowing a fact family helps us because ___.", options:["Fact families only work for even numbers","All numbers are the same anyway","Subtraction and addition are never related","Related addition and subtraction facts share the same numbers"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If 3 add 4 equals 7, what is 7 minus 4?", answers:["3","three"]},
+     {prompt:"Name the three numbers in the fact family 2, 5, and 7.", answers:["2, 5, 7","2 5 7","two five seven"]},
+     {prompt:"If 6 add 2 equals 8, what is 8 minus 2?", answers:["6","six"]}
+   ]},
+  {subject:"Science", title:"Taking Care of Our Bodies: Exercise and Rest", summary:"Students learn that staying healthy means being active with exercise, such as running or playing, and also getting enough rest and sleep each night.",
+   resourceLabel:"YouTube: Taking Care of Our Bodies: Exercise and Rest", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Bodies%3A%20Exercise%20and%20Rest%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is a way to exercise your body?", options:["Running","Sitting still all day","Sleeping all day","Watching only"], answer:0},
+     {q:"Why is exercise good for your body?", options:["It has no effect on your body","It makes your body weaker","It helps keep your body strong and healthy","It only helps your hair grow"], answer:2},
+     {q:"Why do people need to sleep at night?", options:["Sleep is not needed","To make the body tired forever","To stop the body from growing","To help the body rest and grow"], answer:3},
+     {q:"About how many hours of sleep does a young child usually need each night?", options:["2 hours","10 hours","20 hours","5 hours"], answer:1},
+     {q:"Which of these is a healthy balance for a growing body?", options:["Only exercise, no rest","Neither exercise nor rest","Exercise and rest","Only rest, no exercise"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one way to exercise, like running or jumping.", answers:["running","jumping","playing","walking"]},
+     {prompt:"About how many hours of sleep should a child get each night?", answers:["10","ten","about 10 hours","10 hours"]},
+     {prompt:"Why does our body need rest?", answers:["to grow and stay healthy","to rest and grow","to feel better"]}
+   ]},
+  {subject:"SocialStudies", title:"Farms and Where Our Food Comes From", summary:"Students learn that many foods, such as fruits, vegetables, milk, and eggs, come from farms, and that farmers grow crops and raise animals to help feed communities.",
+   resourceLabel:"YouTube: Farms and Where Our Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Farms%20and%20Where%20Our%20Food%20Comes%20From%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these foods usually comes from a farm?", options:["Milk","A plastic toy","A cloud","A rock"], answer:0},
+     {q:"What do we call a person whose job is to grow crops and raise animals?", options:["A pilot","A librarian","A dentist","A farmer"], answer:3},
+     {q:"Which of these animals is commonly raised on a farm?", options:["A cow","A polar bear","A shark","A penguin"], answer:0},
+     {q:"Why are farms important to communities?", options:["Farms have no purpose","They grow and raise much of the food people eat","Farms only grow flowers","Farms do not help communities"], answer:1},
+     {q:"Which of these is something a farmer might grow in a field?", options:["Wheat","A computer","A television","A car"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one food that comes from a farm, like an egg or an apple.", answers:["egg","apple","milk","vegetables"]},
+     {prompt:"What do we call a person who grows crops and raises animals for food?", answers:["farmer"]},
+     {prompt:"Name one animal that might live on a farm, like a cow or chicken.", answers:["cow","chicken","pig","sheep"]}
+   ]},
+]},
+{day:42, label:"Day 42 — Tue", subjects:[
+  {subject:"Language", title:"Ending Blends: st, nd, nt, mp", summary:"Students learn that two consonants can blend together at the end of a word, such as st in nest, nd in hand, nt in tent, and mp in lamp.",
+   resourceLabel:"YouTube: Ending Blends: st, nd, nt, mp", resourceUrl:"https://www.youtube.com/results?search_query=Ending%20Blends%3A%20st%2C%20nd%2C%20nt%2C%20mp%20grade%201%20educational",
+   quiz:[
+     {q:"Which word ends with the blend st?", options:["Sun","Cat","Nest","Dog"], answer:2},
+     {q:"Which word ends with the blend nd?", options:["Top","Hand","Bed","Pig"], answer:1},
+     {q:"Which word ends with the blend nt?", options:["Run","Man","Tent","Sit"], answer:2},
+     {q:"Which word ends with the blend mp?", options:["Cat","Bed","Sun","Lamp"], answer:3},
+     {q:"An ending blend is when two consonant letters ___.", options:["Never appear together","Turn into vowels","Blend their sounds together at the end of a word","Are always silent"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the end of the word nest?", answers:["st"]},
+     {prompt:"What two letters blend together at the end of the word hand?", answers:["nd"]},
+     {prompt:"Say the word lamp. What two letters blend at the end?", answers:["mp"]}
+   ]},
+  {subject:"Math", title:"Doubles Facts in Addition", summary:"Students learn doubles facts, addition facts where both addends are the same number, such as 2 add 2 equals 4 and 5 add 5 equals 10, as a quick way to add.",
+   resourceLabel:"YouTube: Doubles Facts in Addition", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%20Facts%20in%20Addition%20grade%201%20educational",
+   quiz:[
+     {q:"What is 2 add 2?", options:["4","5","3","2"], answer:0},
+     {q:"What is 6 add 6?", options:["13","10","12","11"], answer:2},
+     {q:"A doubles fact is when ___.", options:["The two numbers are always different","One number is zero","Both numbers being added are the same","The sum is always ten"], answer:2},
+     {q:"What is 7 add 7?", options:["14","12","13","15"], answer:0},
+     {q:"Which of these is a doubles fact?", options:["2 add 6","3 add 5","4 add 4","1 add 7"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is 3 add 3?", answers:["6","six"]},
+     {prompt:"What is 5 add 5?", answers:["10","ten"]},
+     {prompt:"What is 4 add 4?", answers:["8","eight"]}
+   ]},
+  {subject:"Science", title:"Healthy Eating and Food Groups", summary:"Students learn that healthy eating means choosing foods from different groups, such as fruits, vegetables, grains, and protein foods, to help the body grow strong.",
+   resourceLabel:"YouTube: Healthy Eating and Food Groups", resourceUrl:"https://www.youtube.com/results?search_query=Healthy%20Eating%20and%20Food%20Groups%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is a healthy fruit?", options:["A soda","A candy bar","An apple","A lollipop"], answer:2},
+     {q:"Which of these is a healthy vegetable?", options:["Broccoli","Cookies","Candy","Chips"], answer:0},
+     {q:"Why do we eat foods from different food groups?", options:["To help our bodies grow strong and stay healthy","Eating only one food is best","To make us feel sick","Food groups do not matter"], answer:0},
+     {q:"Which of these is an example of a grain food?", options:["A balloon","Bread","A rock","A toy car"], answer:1},
+     {q:"Eating a variety of healthy foods each day is called eating a ___.", options:["Single food","Broken diet","Balanced diet","Empty plate"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one fruit that is healthy to eat, like an apple or banana.", answers:["apple","banana","orange","grapes"]},
+     {prompt:"Name one vegetable that is healthy to eat, like a carrot.", answers:["carrot","broccoli","peas"]},
+     {prompt:"Why is it important to eat a variety of healthy foods?", answers:["to help the body grow strong","to stay healthy","to grow strong"]}
+   ]},
+  {subject:"SocialStudies", title:"Local Government: Our Town Leaders", summary:"Students learn that towns and cities have leaders, such as a mayor and council, who help make decisions and take care of the community.",
+   resourceLabel:"YouTube: Local Government: Our Town Leaders", resourceUrl:"https://www.youtube.com/results?search_query=Local%20Government%3A%20Our%20Town%20Leaders%20grade%201%20educational",
+   quiz:[
+     {q:"What is the title of an elected leader of a city or town?", options:["Dentist","Mayor","Farmer","Pilot"], answer:1},
+     {q:"What does a town or city government help do?", options:["Only build houses","Only sell food","Nothing at all","Take care of the community and make decisions"], answer:3},
+     {q:"Which of these is something a local government might take care of?", options:["The weather","Outer space","Roads and parks","The ocean floor"], answer:2},
+     {q:"Why do towns and cities need leaders?", options:["To build spaceships","To confuse people","To help make decisions and take care of the community","Leaders are not needed"], answer:2},
+     {q:"A group of people who help a mayor make decisions is called a ___.", options:["Herd","Choir","Council","Flock"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call the elected leader of a city or town?", answers:["mayor"]},
+     {prompt:"Name one thing a town leader might help decide, like building a park.", answers:["building a park","fixing roads","building a school"]},
+     {prompt:"Do town leaders help take care of the community?", answers:["yes"]}
+   ]},
+]},
+{day:43, label:"Day 43 — Wed", subjects:[
+  {subject:"Language", title:"Vowel Teams: ai and ay", summary:"Students learn that the letters ai and ay can work together as a vowel team to make the long a sound, as in rain and day.",
+   resourceLabel:"YouTube: Vowel Teams: ai and ay", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ai%20and%20ay%20grade%201%20educational",
+   quiz:[
+     {q:"Which letters make the long a sound in the word rain?", options:["ee","ai","ay","oa"], answer:1},
+     {q:"Which letters make the long a sound in the word day?", options:["ay","oa","ai","ee"], answer:0},
+     {q:"Which word has the ai vowel team?", options:["Dog","Sun","Cat","Train"], answer:3},
+     {q:"Which word has the ay vowel team?", options:["Dog","Play","Sun","Cat"], answer:1},
+     {q:"A vowel team is two vowel letters that work together to make ___.", options:["No sound at all","Two separate sounds","One sound","A consonant sound"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What two letters make the long a sound in the word rain?", answers:["ai"]},
+     {prompt:"What two letters make the long a sound in the word day?", answers:["ay"]},
+     {prompt:"Name one word that has the ai vowel team, like rain or train.", answers:["rain","train","paint","mail"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 3s", summary:"Students practise skip counting by 3s, saying the numbers 3, 6, 9, 12, and so on, to build number sense and prepare for multiplication.",
+   resourceLabel:"YouTube: Skip Counting by 3s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%203s%20grade%201%20educational",
+   quiz:[
+     {q:"When skip counting by 3s, what number comes after 3?", options:["4","5","7","6"], answer:3},
+     {q:"When skip counting by 3s, what number comes after 9?", options:["11","10","12","13"], answer:2},
+     {q:"Which of these lists shows skip counting by 3s?", options:["3, 6, 9, 12","2, 4, 6, 8","3, 5, 7, 9","3, 6, 8, 10"], answer:0},
+     {q:"When skip counting by 3s, what number comes after 15?", options:["16","19","17","18"], answer:3},
+     {q:"Skip counting by 3s means we count ___.", options:["Backward only","Every third number","Every second number","Only even numbers"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 6 when skip counting by 3s?", answers:["9","nine"]},
+     {prompt:"What number comes after 12 when skip counting by 3s?", answers:["15","fifteen"]},
+     {prompt:"Start at 3 and skip count by 3s three times. What is the third number?", answers:["9","nine"]}
+   ]},
+  {subject:"Science", title:"Germs and Staying Healthy", summary:"Students learn that germs are tiny living things that can make people sick, and that washing hands and covering coughs are simple ways to stay healthy.",
+   resourceLabel:"YouTube: Germs and Staying Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Germs%20and%20Staying%20Healthy%20grade%201%20educational",
+   quiz:[
+     {q:"What are germs?", options:["Tiny living things that can make people sick","A type of weather","A kind of plant","Large rocks"], answer:0},
+     {q:"Which of these helps stop germs from spreading?", options:["Washing your hands","Touching your face often","Sharing food with someone who is sick","Never washing your hands"], answer:0},
+     {q:"What should you do when you cough or sneeze?", options:["Cough into your open hand and touch things","Do nothing","Cough on someone else","Cover your mouth"], answer:3},
+     {q:"Why is it important to wash your hands before eating?", options:["It is not important","Washing hands has no effect","It helps remove germs that could make you sick","It makes food taste better"], answer:2},
+     {q:"Which of these is a healthy habit that fights germs?", options:["Never washing hands","Touching everything at the store","Washing hands with soap and water","Sharing a toothbrush"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call tiny living things that can make people sick?", answers:["germs"]},
+     {prompt:"Name one way to stop germs from spreading, like washing hands.", answers:["washing hands","covering a cough","covering a sneeze"]},
+     {prompt:"Should you wash your hands before eating?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Currency: Our Coins and Bills", summary:"Students learn that Canada has its own money, called currency, including coins such as the loonie and toonie and paper bills of different colours and values.",
+   resourceLabel:"YouTube: Canadian Currency: Our Coins and Bills", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20Our%20Coins%20and%20Bills%20grade%201%20educational",
+   quiz:[
+     {q:"What is the name of the Canadian one dollar coin?", options:["Toonie","Nickel","Loonie","Dime"], answer:2},
+     {q:"What is the name of the Canadian two dollar coin?", options:["Penny","Quarter","Toonie","Loonie"], answer:2},
+     {q:"What do we call the money used in a country?", options:["Currency","Landmark","Language","Weather"], answer:0},
+     {q:"Besides coins, what other form does Canadian money take?", options:["Leaves","Shells","Paper bills","Rocks"], answer:2},
+     {q:"Why does Canada have its own currency?", options:["So people can buy and sell goods and services","Currency is not needed","To decorate homes","To use as toys only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the name of the Canadian one dollar coin?", answers:["loonie"]},
+     {prompt:"What is the name of the Canadian two dollar coin?", answers:["toonie"]},
+     {prompt:"Name one form Canadian money can take, like a coin or a bill.", answers:["coin","bill","coins","bills"]}
+   ]},
+]},
+{day:44, label:"Day 44 — Thu", subjects:[
+  {subject:"Language", title:"Vowel Teams: oa and ow", summary:"Students learn that the letters oa and ow can work together as a vowel team to make the long o sound, as in boat and snow.",
+   resourceLabel:"YouTube: Vowel Teams: oa and ow", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oa%20and%20ow%20grade%201%20educational",
+   quiz:[
+     {q:"Which letters make the long o sound in the word boat?", options:["ee","ai","ow","oa"], answer:3},
+     {q:"Which letters make the long o sound in the word snow?", options:["oa","ay","oo","ow"], answer:3},
+     {q:"Which word has the oa vowel team?", options:["Sun","Dog","Cat","Coat"], answer:3},
+     {q:"Which word has the ow vowel team?", options:["Cat","Grow","Dog","Sun"], answer:1},
+     {q:"The oa and ow vowel teams both make the ___ sound.", options:["Long o","Short i","Long e","Short a"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What two letters make the long o sound in the word boat?", answers:["oa"]},
+     {prompt:"What two letters make the long o sound in the word snow?", answers:["ow"]},
+     {prompt:"Name one word that has the oa vowel team, like boat or coat.", answers:["boat","coat","road","goat"]}
+   ]},
+  {subject:"Math", title:"Number Bonds to 10", summary:"Students explore number bonds to 10, learning the pairs of numbers that add together to make 10, such as 6 and 4, or 8 and 2.",
+   resourceLabel:"YouTube: Number Bonds to 10", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%20to%2010%20grade%201%20educational",
+   quiz:[
+     {q:"Which number pairs with 7 to make 10?", options:["2","3","4","1"], answer:0},
+     {q:"Which number pairs with 9 to make 10?", options:["2","1","4","3"], answer:1},
+     {q:"Which pair of numbers makes a number bond of 10?", options:["6 and 4","3 and 5","5 and 4","7 and 2"], answer:0},
+     {q:"Which number pairs with 5 to make 10?", options:["4","6","7","5"], answer:3},
+     {q:"A number bond shows two numbers that combine to make ___.", options:["A larger total","A smaller number","A different shape","No total at all"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What number pairs with 6 to make a number bond of 10?", answers:["4","four"]},
+     {prompt:"What number pairs with 8 to make a number bond of 10?", answers:["2","two"]},
+     {prompt:"What number pairs with 5 to make a number bond of 10?", answers:["5","five"]}
+   ]},
+  {subject:"Science", title:"Air All Around Us", summary:"Students learn that air is all around us even though we cannot see it, and that moving air, called wind, can push objects like leaves and kites.",
+   resourceLabel:"YouTube: Air All Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Air%20All%20Around%20Us%20grade%201%20educational",
+   quiz:[
+     {q:"Can we usually see the air around us?", options:["Yes, always","No, we cannot see it","Only in winter","Only at night"], answer:1},
+     {q:"What do we call moving air?", options:["Wind","Sunlight","Soil","Water"], answer:0},
+     {q:"Which of these can wind move?", options:["A kite","A mountain","The ocean floor","A building"], answer:0},
+     {q:"How do we know air is really there even though we cannot see it?", options:["Air can be seen clearly","Air never moves","Air does not really exist","We can feel it and see it move things like leaves"], answer:3},
+     {q:"Which of these is a sign that wind is blowing?", options:["A quiet, empty room","A rock sitting still","A closed door","Leaves moving on a tree"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Can you see the air around you?", answers:["no"]},
+     {prompt:"What do we call air that is moving?", answers:["wind"]},
+     {prompt:"Name one object that wind can move, like a kite or leaves.", answers:["kite","leaves","leaf"]}
+   ]},
+  {subject:"SocialStudies", title:"Saving and Spending Money Wisely", summary:"Students learn the difference between saving money, keeping it for later, and spending money, using it to buy something now, and why both choices can be helpful.",
+   resourceLabel:"YouTube: Saving and Spending Money Wisely", resourceUrl:"https://www.youtube.com/results?search_query=Saving%20and%20Spending%20Money%20Wisely%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean to save money?", options:["Throwing money away","Spending all money right away","Keeping money to use later","Losing money"], answer:2},
+     {q:"What does it mean to spend money?", options:["Using it to buy something now","Hiding it","Keeping it forever","Losing it"], answer:0},
+     {q:"Why might someone choose to save money instead of spending it right away?", options:["To lose it","Saving has no purpose","To buy something bigger later","Saving is never helpful"], answer:2},
+     {q:"Where might someone keep money they are saving, like in a small container with a slot?", options:["A backpack pocket only","A piggy bank","A garden","A closet floor"], answer:1},
+     {q:"Making thoughtful choices about saving and spending money is called being ___ with money.", options:["Wise","Wasteful","Confused","Careless"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes keeping money to use later?", answers:["saving"]},
+     {prompt:"What word describes using money to buy something now?", answers:["spending"]},
+     {prompt:"Name one reason someone might save money, like buying something big later.", answers:["to buy something big later","to buy a toy later","for later"]}
+   ]},
+]},
+{day:45, label:"Day 45 — Fri", subjects:[
+  {subject:"Language", title:"Plural Nouns: Adding -s and -es", summary:"Students learn that most nouns become plural, meaning more than one, by adding -s, as in cats, while some nouns need -es, as in boxes.",
+   resourceLabel:"YouTube: Plural Nouns: Adding -s and -es", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%3A%20Adding%20-s%20and%20-es%20grade%201%20educational",
+   quiz:[
+     {q:"What does the word plural mean?", options:["More than one","A colour","No amount at all","Only one"], answer:0},
+     {q:"How do you usually make a noun plural?", options:["Add -ing","Add -s or -es","Remove a letter","Add -er"], answer:1},
+     {q:"What is the plural of the word dog?", options:["Dogs","Dogx","Doges","Dogies"], answer:0},
+     {q:"Which words need -es instead of just -s to become plural, like box?", options:["Only short words","No words","Words ending in x, like box","All words"], answer:2},
+     {q:"What is the plural of the word bus?", options:["Buss","Busies","Buses","Bus"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How do you make the word cat plural?", answers:["add s","cats","add -s"]},
+     {prompt:"How do you make the word box plural?", answers:["add es","boxes","add -es"]},
+     {prompt:"What does the word plural mean?", answers:["more than one"]}
+   ]},
+  {subject:"Math", title:"Odd and Even Numbers", summary:"Students learn to tell odd numbers, which cannot be split into two equal groups, from even numbers, which can be split into two equal groups, such as 4 being even and 5 being odd.",
+   resourceLabel:"YouTube: Odd and Even Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Odd%20and%20Even%20Numbers%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these numbers is even?", options:["4","7","5","3"], answer:0},
+     {q:"Which of these numbers is odd?", options:["4","9","2","6"], answer:1},
+     {q:"A number is even if it can be split into ___.", options:["No groups at all","One large group","Three equal groups","Two equal groups"], answer:3},
+     {q:"Which of these numbers is odd?", options:["10","14","12","11"], answer:3},
+     {q:"Is 0 usually counted as an even or odd number?", options:["Both","Even","Odd","Neither"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Is the number 4 odd or even?", answers:["even"]},
+     {prompt:"Is the number 7 odd or even?", answers:["odd"]},
+     {prompt:"Name one even number less than 10.", answers:["2","4","6","8"]}
+   ]},
+  {subject:"Science", title:"Floating and Sinking", summary:"Students explore why some objects float on water while others sink, testing objects such as a wooden block, a rock, and a rubber duck.",
+   resourceLabel:"YouTube: Floating and Sinking", resourceUrl:"https://www.youtube.com/results?search_query=Floating%20and%20Sinking%20grade%201%20educational",
+   quiz:[
+     {q:"What happens when you drop a heavy rock into water?", options:["It turns to ice","It disappears","It sinks","It floats"], answer:2},
+     {q:"Which of these objects usually floats on water?", options:["A metal spoon","A rubber duck","A large rock","A brick"], answer:1},
+     {q:"What word describes an object that stays on top of the water?", options:["Floating","Melting","Freezing","Sinking"], answer:0},
+     {q:"What word describes an object that goes down to the bottom of the water?", options:["Growing","Melting","Floating","Sinking"], answer:3},
+     {q:"Why might a heavy metal spoon sink while a light rubber duck floats?", options:["All objects always sink","All objects always float","Heavy, dense objects tend to sink while light objects tend to float","Weight has no effect on floating"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Does a rock usually float or sink in water?", answers:["sink"]},
+     {prompt:"Name one object that usually floats in water, like a rubber duck.", answers:["rubber duck","wood","a leaf"]},
+     {prompt:"Does a wooden block usually float or sink?", answers:["float"]}
+   ]},
+  {subject:"SocialStudies", title:"Emergency Workers and Calling for Help", summary:"Students learn about emergency workers, such as firefighters, paramedics, and police officers, and that calling for help right away can keep people safe during an emergency.",
+   resourceLabel:"YouTube: Emergency Workers and Calling for Help", resourceUrl:"https://www.youtube.com/results?search_query=Emergency%20Workers%20and%20Calling%20for%20Help%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is an emergency worker?", options:["A baker","A firefighter","A farmer","An artist"], answer:1},
+     {q:"What should you do first if you see an emergency, like a fire?", options:["Wait a long time","Ignore it","Tell a trusted adult right away","Hide and tell no one"], answer:2},
+     {q:"What job do paramedics do during an emergency?", options:["Help people who are hurt or sick","Deliver mail","Teach school","Bake bread"], answer:0},
+     {q:"Why is it important to know about emergency workers?", options:["Emergencies never happen","They are not helpful","They can help keep people safe during emergencies","Only adults need to know this"], answer:2},
+     {q:"Which of these is a good reason to know how to get help in an emergency?", options:["It is not useful","It can keep you and others safe","Emergencies are not serious","Only firefighters need this information"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one type of emergency worker, like a firefighter or paramedic.", answers:["firefighter","paramedic","police officer"]},
+     {prompt:"What should you do if there is an emergency, like a fire?", answers:["call for help","tell an adult","call an emergency number"]},
+     {prompt:"Do emergency workers help keep people safe?", answers:["yes"]}
+   ]},
+]},
+{day:46, label:"Day 46 — Mon", subjects:[
+  {subject:"Language", title:"Alphabetical Order", summary:"Students learn to put words in alphabetical order by comparing the first letter of each word, using their knowledge of the alphabet from A to Z.",
+   resourceLabel:"YouTube: Alphabetical Order", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Order%20grade%201%20educational",
+   quiz:[
+     {q:"Which word would come first in alphabetical order, dog or cat?", options:["Dog","Cat","Cannot tell","They are the same"], answer:1},
+     {q:"What does it mean to put words in alphabetical order?", options:["Arranging them randomly","Arranging them by the order of the alphabet","Arranging them by size","Arranging them by colour"], answer:1},
+     {q:"Which word would come first in alphabetical order, sun or moon?", options:["Cannot tell","They are the same","Moon","Sun"], answer:2},
+     {q:"Which letter comes first in the alphabet, B or M?", options:["M","They are the same","B","Cannot tell"], answer:2},
+     {q:"Alphabetical order is useful for finding words in a ___.", options:["Dictionary","Puddle","Cloud","Shadow"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Which comes first in alphabetical order, apple or banana?", answers:["apple"]},
+     {prompt:"Which comes first in alphabetical order, cat or bat?", answers:["bat"]},
+     {prompt:"What is the very first letter of the alphabet?", answers:["a"]}
+   ]},
+  {subject:"Math", title:"Time: Quarter Past and Quarter To", summary:"Students learn to read an analog clock showing quarter past and quarter to the hour, recognizing that the long hand points to the 3 for quarter past and the 9 for quarter to.",
+   resourceLabel:"YouTube: Time: Quarter Past and Quarter To", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Quarter%20Past%20and%20Quarter%20To%20grade%201%20educational",
+   quiz:[
+     {q:"At quarter past the hour, where does the long hand point?", options:["The 6","The 12","The 3","The 9"], answer:2},
+     {q:"At quarter to the hour, where does the long hand point?", options:["The 12","The 9","The 6","The 3"], answer:1},
+     {q:"Quarter past the hour means how many minutes have passed?", options:["30 minutes","10 minutes","45 minutes","15 minutes"], answer:3},
+     {q:"Quarter to the hour means the clock is how many minutes before the next hour?", options:["10 minutes","5 minutes","15 minutes","20 minutes"], answer:2},
+     {q:"If the long hand points to the 3, what part of the hour is shown?", options:["Quarter to","Half past","On the hour","Quarter past"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"When the long hand points to the 3, what part of the hour is it?", answers:["quarter past"]},
+     {prompt:"When the long hand points to the 9, what part of the hour is it?", answers:["quarter to"]},
+     {prompt:"At quarter past the hour, how many minutes have passed since the start of the hour?", answers:["15","fifteen","15 minutes"]}
+   ]},
+  {subject:"Science", title:"Fish and Their Body Parts", summary:"Students learn about the body parts of fish, such as fins for swimming and gills for breathing underwater, and how these parts help fish live in water.",
+   resourceLabel:"YouTube: Fish and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Fish%20and%20Their%20Body%20Parts%20grade%201%20educational",
+   quiz:[
+     {q:"What body part helps a fish swim through water?", options:["Ears","Legs","Wings","Fins"], answer:3},
+     {q:"What body part helps a fish breathe underwater?", options:["Fur","A nose","Gills","Lungs"], answer:2},
+     {q:"Where do most fish live?", options:["In water","Underground","In the sky","In trees"], answer:0},
+     {q:"Which of these covers the body of many fish?", options:["Fur","Scales","Feathers","Leaves"], answer:1},
+     {q:"Why are gills important to a fish?", options:["They help the fish fly","They have no purpose","They let the fish breathe oxygen from water","They help the fish walk"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What body part helps a fish swim?", answers:["fins","a fin"]},
+     {prompt:"What body part helps a fish breathe underwater?", answers:["gills"]},
+     {prompt:"Do fish live in water?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Fire Safety at Home and School", summary:"Students learn simple fire safety rules, such as knowing an escape plan, never playing with matches, and what to do if they hear a smoke alarm.",
+   resourceLabel:"YouTube: Fire Safety at Home and School", resourceUrl:"https://www.youtube.com/results?search_query=Fire%20Safety%20at%20Home%20and%20School%20grade%201%20educational",
+   quiz:[
+     {q:"What should you do if you hear a smoke alarm?", options:["Ignore it","Go find your toys first","Hide under the bed","Leave the building right away"], answer:3},
+     {q:"Should children ever play with matches or lighters?", options:["Only at school","No, never","Yes, if an adult is not looking","Only outside"], answer:1},
+     {q:"What do we call a practice for safely leaving a building during a fire?", options:["A birthday party","A spelling test","A fire drill","A field trip"], answer:2},
+     {q:"Why is it helpful to know a fire escape plan?", options:["Only firefighters need a plan","Fires never happen","It is not helpful","It helps everyone leave safely and quickly"], answer:3},
+     {q:"Who should you tell if you notice something that could start a fire?", options:["No one","Nobody, just ignore it","A friend far away","A trusted adult"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What should you do if you hear a smoke alarm?", answers:["leave the building","get out","exit the building"]},
+     {prompt:"Should children ever play with matches or lighters?", answers:["no"]},
+     {prompt:"What do we call a plan for how to safely leave a building during a fire?", answers:["an escape plan","escape plan","a fire drill"]}
+   ]},
+]},
+{day:47, label:"Day 47 — Tue", subjects:[
+  {subject:"Language", title:"Comparing Adjectives: -er and -est", summary:"Students learn that adjectives can compare things by adding -er to compare two things, as in taller, or -est to compare more than two things, as in tallest.",
+   resourceLabel:"YouTube: Comparing Adjectives: -er and -est", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Adjectives%3A%20-er%20and%20-est%20grade%201%20educational",
+   quiz:[
+     {q:"Which word compares two things?", options:["Taller","Tallest","Tall","Tallness"], answer:0},
+     {q:"Which word compares three or more things and means the most?", options:["Talling","Tallest","Tall","Taller"], answer:1},
+     {q:"What ending do we add to compare two things, as in bigger?", options:["-er","-est","-ing","-ed"], answer:0},
+     {q:"What ending do we add to compare more than two things, as in biggest?", options:["-ly","-er","-ing","-est"], answer:3},
+     {q:"Which sentence correctly compares more than two friends?", options:["She is the tallest of the three friends.","She is tall of the three friends.","She is tall-er of the three friends.","She is taller of the three friends."], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How would you compare two things using the word tall, like comparing two friends?", answers:["taller"]},
+     {prompt:"How would you compare three or more things using the word tall?", answers:["tallest"]},
+     {prompt:"What does the ending -est usually mean when comparing things?", answers:["the most","the most of all"]}
+   ]},
+  {subject:"Math", title:"Money: Comparing Amounts", summary:"Students compare small amounts of money made from coins, learning to tell which group of coins has a greater value and which has a lesser value.",
+   resourceLabel:"YouTube: Money: Comparing Amounts", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Comparing%20Amounts%20grade%201%20educational",
+   quiz:[
+     {q:"Which coin has a greater value, a nickel or a dime?", options:["Cannot tell","They are equal","Nickel","Dime"], answer:3},
+     {q:"Which amount of money is greater, 3 pennies or 1 dime?", options:["1 dime","They are equal","Cannot tell","3 pennies"], answer:0},
+     {q:"If you have one quarter, how many cents do you have?", options:["50 cents","15 cents","25 cents","10 cents"], answer:2},
+     {q:"Which group of coins has more value, two dimes or one quarter?", options:["One quarter","Cannot tell","Two dimes","They are equal"], answer:0},
+     {q:"Comparing money amounts helps us know ___.", options:["The colour of a coin","The shape of a coin","Which amount is worth more","Nothing useful"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which has more value, a dime or a penny?", answers:["a dime","dime"]},
+     {prompt:"Which has more value, a quarter or a nickel?", answers:["a quarter","quarter"]},
+     {prompt:"If you have two dimes, how much money do you have?", answers:["20 cents","20"]}
+   ]},
+  {subject:"Science", title:"Birds and Their Body Parts", summary:"Students learn about the body parts of birds, such as feathers, wings, and beaks, and how these parts help many birds fly and find food.",
+   resourceLabel:"YouTube: Birds and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Birds%20and%20Their%20Body%20Parts%20grade%201%20educational",
+   quiz:[
+     {q:"What covers most of a bird body?", options:["Feathers","Fur","Skin only","Scales"], answer:0},
+     {q:"What body part helps most birds fly through the air?", options:["Legs","Gills","Fins","Wings"], answer:3},
+     {q:"What body part does a bird use to eat food?", options:["Teeth","A beak","Hands","A tongue only"], answer:1},
+     {q:"Which of these animals is a bird?", options:["A fish","A frog","A spider","A robin"], answer:3},
+     {q:"Why are feathers helpful to a bird?", options:["They make the bird heavier and unable to move","They help with flying and keeping warm","They help the bird swim only","Feathers have no purpose"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What body part covers most of a bird body?", answers:["feathers"]},
+     {prompt:"What body part helps most birds fly?", answers:["wings","a wing"]},
+     {prompt:"What body part does a bird use to eat, like pecking seeds?", answers:["beak"]}
+   ]},
+  {subject:"SocialStudies", title:"Caring for Pets and Animals", summary:"Students learn about the responsibility of caring for a pet, such as giving it food, water, and a safe home, and treating animals with kindness.",
+   resourceLabel:"YouTube: Caring for Pets and Animals", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20Pets%20and%20Animals%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is something a pet needs from its owner?", options:["Only a name","A birthday cake","Nothing at all","Food and water"], answer:3},
+     {q:"How should people treat animals?", options:["Animals do not need care","With kindness and care","It does not matter","With unkindness"], answer:1},
+     {q:"Why is caring for a pet a big responsibility?", options:["It is not a responsibility","Pets need nothing from people","A pet depends on its owner for food, water, and care","Pets can care for themselves completely"], answer:2},
+     {q:"Which of these shows responsible pet care?", options:["Never feeding a pet","Giving a pet fresh water every day","Leaving a pet outside in bad weather","Ignoring a pet completely"], answer:1},
+     {q:"Which of these animals is commonly kept as a pet?", options:["A shark","A tiger","A dog","An eagle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one thing a pet needs, like food or water.", answers:["food","water","a safe home","shelter"]},
+     {prompt:"Should we treat animals with kindness?", answers:["yes"]},
+     {prompt:"Name one pet that people might take care of, like a dog or cat.", answers:["dog","cat","fish","bird"]}
+   ]},
+]},
+{day:48, label:"Day 48 — Wed", subjects:[
+  {subject:"Language", title:"Following Written Instructions", summary:"Students practise reading and following short written instructions, such as steps in a simple recipe or a set of directions for an activity, in the correct order.",
+   resourceLabel:"YouTube: Following Written Instructions", resourceUrl:"https://www.youtube.com/results?search_query=Following%20Written%20Instructions%20grade%201%20educational",
+   quiz:[
+     {q:"Why is it important to read instructions carefully?", options:["So you know what steps to follow and in what order","You should skip reading them","Order never matters","Instructions do not matter"], answer:0},
+     {q:"Which of these is an example of written instructions?", options:["The steps in a simple recipe","A weather report","A made-up story","A birthday card"], answer:0},
+     {q:"What might happen if you follow instructions out of order?", options:["The activity might not turn out correctly","Order never matters","Nothing would change","It always works out fine"], answer:0},
+     {q:"What should you do if you do not understand a written instruction?", options:["Ignore the instruction","Ask a trusted adult or read it again","Give up completely","Guess and hope for the best"], answer:1},
+     {q:"Following instructions helps us ___.", options:["Make more mistakes","Confuse ourselves","Skip important steps","Complete a task correctly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Why is it important to follow instructions in order?", answers:["so the steps work correctly","to do the activity correctly","so it makes sense"]},
+     {prompt:"Name one place you might find written instructions, like a recipe.", answers:["a recipe","a game","a craft"]},
+     {prompt:"Should you read all the steps before starting an activity?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Positional Language: Above, Below, Beside, Between", summary:"Students learn positional words that describe where objects are located, such as above, below, beside, and between, to describe the position of one object compared to another.",
+   resourceLabel:"YouTube: Positional Language: Above, Below, Beside, Between", resourceUrl:"https://www.youtube.com/results?search_query=Positional%20Language%3A%20Above%2C%20Below%2C%20Beside%2C%20Between%20grade%201%20educational",
+   quiz:[
+     {q:"If a cloud is high in the sky over a house, the cloud is ___ the house.", options:["Beside","Below","Above","Inside"], answer:2},
+     {q:"If a shoe is under a bed, the shoe is ___ the bed.", options:["On top of","Above","Beside","Below"], answer:3},
+     {q:"If a chair is right next to a table, the chair is ___ the table.", options:["Above","Below","Under","Beside"], answer:3},
+     {q:"If a book is placed between two other books, how many books are on either side of it?", options:["0 books","3 on each side","1 on each side","2 on each side"], answer:2},
+     {q:"Positional words like above and below describe ___.", options:["The weight of an object","The sound an object makes","The colour of an object","Where an object is located"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If a bird is flying over a tree, is it above or below the tree?", answers:["above"]},
+     {prompt:"If a ball is under a table, is it above or below the table?", answers:["below"]},
+     {prompt:"If a cup is between two plates, how many plates are around it?", answers:["2","two"]}
+   ]},
+  {subject:"Science", title:"Camouflage: Hiding in Nature", summary:"Students learn that camouflage is when an animal color or pattern helps it blend in with its surroundings, making it harder for predators or prey to see it.",
+   resourceLabel:"YouTube: Camouflage: Hiding in Nature", resourceUrl:"https://www.youtube.com/results?search_query=Camouflage%3A%20Hiding%20in%20Nature%20grade%201%20educational",
+   quiz:[
+     {q:"What is camouflage?", options:["A type of weather","When an animal color or pattern helps it blend into its surroundings","A kind of food","A loud animal sound"], answer:1},
+     {q:"Why might camouflage help an animal survive?", options:["It helps the animal hide from predators or sneak up on prey","It only changes the animal sound","It makes the animal easier to see","Camouflage has no benefit"], answer:0},
+     {q:"Which of these is an example of an animal using camouflage?", options:["A bright pink flamingo in a field of snow","A loud animal call","A frog that is green like the leaves around it","An animal running very fast"], answer:2},
+     {q:"Which environment might a snowy white animal blend into using camouflage?", options:["A snowy, icy place","A sandy beach","A green forest","A hot desert"], answer:0},
+     {q:"Camouflage mainly helps an animal by ___.", options:["Making it louder","Making it harder to see against its surroundings","Making it faster","Making it a brighter color"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when an animal color helps it blend in with its surroundings?", answers:["camouflage"]},
+     {prompt:"Name one animal that uses camouflage, like a chameleon or a frog.", answers:["chameleon","frog","stick insect"]},
+     {prompt:"Does camouflage help an animal stay hidden?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Toys and Games: Then and Now", summary:"Students compare toys and games children played with long ago, such as simple wooden toys and marbles, to toys and games children play with today, such as video games.",
+   resourceLabel:"YouTube: Toys and Games: Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Toys%20and%20Games%3A%20Then%20and%20Now%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is an example of a toy children may have played with long ago?", options:["A tablet","A smartphone app","A video game console","A simple wooden toy"], answer:3},
+     {q:"Which of these is a toy or game children commonly play with today?", options:["A horse and wagon","A quill pen","A stone tool","A video game"], answer:3},
+     {q:"How have toys and games changed over time?", options:["Only old toys exist today","Children no longer play with toys","Toys and games have never changed","New technology has created many new kinds of toys and games"], answer:3},
+     {q:"Which of these toys likely existed long before video games?", options:["Marbles","A video game console","A tablet","A smartphone"], answer:0},
+     {q:"Why is it interesting to compare toys and games then and now?", options:["It is not interesting","It shows us how childhood and technology have changed","Toys have never changed","Old and new toys are identical"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one toy children might have played with long ago, like a wooden toy.", answers:["a wooden toy","marbles","a doll"]},
+     {prompt:"Name one toy or game children play with today, like a video game.", answers:["a video game","a tablet game","a board game"]},
+     {prompt:"Have toys and games changed over time?", answers:["yes"]}
+   ]},
+]},
+{day:49, label:"Day 49 — Thu", subjects:[
+  {subject:"Language", title:"Capital Letters: Names and Sentence Beginnings", summary:"Students learn that capital letters are used at the beginning of a sentence and for the names of people, places, and days of the week.",
+   resourceLabel:"YouTube: Capital Letters: Names and Sentence Beginnings", resourceUrl:"https://www.youtube.com/results?search_query=Capital%20Letters%3A%20Names%20and%20Sentence%20Beginnings%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of letter should begin the first word of a sentence?", options:["A capital letter","A number","A lowercase letter","No letter at all"], answer:0},
+     {q:"Which of these should always begin with a capital letter?", options:["The name of a person","No words at all","Only short words","Every word in a sentence"], answer:0},
+     {q:"Which sentence uses capital letters correctly?", options:["my friend maya lives on elm street.","MY FRIEND MAYA lives ON elm STREET.","My friend Maya lives on Elm Street.","my Friend maya Lives on elm street."], answer:2},
+     {q:"Which of these words should begin with a capital letter?", options:["apple","chair","run","Monday"], answer:3},
+     {q:"Why do we use capital letters for names and the start of sentences?", options:["Capital letters are never needed","It helps readers notice important words and where sentences begin","Capital letters have no purpose","Capital letters are only for shouting"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Should the first word of a sentence begin with a capital letter?", answers:["yes"]},
+     {prompt:"Should the name of a person, like Maya, begin with a capital letter?", answers:["yes"]},
+     {prompt:"Name one day of the week that should begin with a capital letter, like Monday.", answers:["monday","tuesday","friday"]}
+   ]},
+  {subject:"Math", title:"Adding Three Numbers Together", summary:"Students learn to add three one-digit numbers together, such as 2 add 3 add 4, by adding two numbers first and then adding the third number to that sum.",
+   resourceLabel:"YouTube: Adding Three Numbers Together", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20Three%20Numbers%20Together%20grade%201%20educational",
+   quiz:[
+     {q:"What is 3 add 2 add 1?", options:["5","7","8","6"], answer:3},
+     {q:"What is 4 add 4 add 1?", options:["8","9","11","10"], answer:1},
+     {q:"When adding three numbers, a good first step is to ___.", options:["Ignore the smallest number","Add nothing at all","Only add the largest number","Add two of the numbers first, then add the third"], answer:3},
+     {q:"What is 2 add 2 add 2?", options:["4","5","6","7"], answer:2},
+     {q:"What is 6 add 1 add 2?", options:["9","10","8","7"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is 2 add 3 add 4?", answers:["9","nine"]},
+     {prompt:"What is 1 add 1 add 1?", answers:["3","three"]},
+     {prompt:"What is 5 add 2 add 1?", answers:["8","eight"]}
+   ]},
+  {subject:"Science", title:"Temperature: Hot and Cold", summary:"Students learn to compare temperature, how hot or cold something is, and that a thermometer is a tool used to measure temperature.",
+   resourceLabel:"YouTube: Temperature: Hot and Cold", resourceUrl:"https://www.youtube.com/results?search_query=Temperature%3A%20Hot%20and%20Cold%20grade%201%20educational",
+   quiz:[
+     {q:"What tool do we use to measure temperature?", options:["A scale","A ruler","A clock","A thermometer"], answer:3},
+     {q:"Which of these usually feels hot?", options:["Snow","A cold drink","An ice cube","A campfire"], answer:3},
+     {q:"Which of these usually feels cold?", options:["A stove","A campfire","The sun","Ice"], answer:3},
+     {q:"Temperature tells us ___.", options:["What colour something is","How heavy something is","How long something is","How hot or cold something is"], answer:3},
+     {q:"Which season usually has colder temperatures?", options:["Both are the same","Summer","Temperature never changes","Winter"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What tool is used to measure temperature?", answers:["a thermometer","thermometer"]},
+     {prompt:"Name one thing that feels hot, like the sun or a stove.", answers:["the sun","a stove","fire"]},
+     {prompt:"Name one thing that feels cold, like ice or snow.", answers:["ice","snow","a fridge"]}
+   ]},
+  {subject:"SocialStudies", title:"Road and Bicycle Safety Rules", summary:"Students learn simple road and bicycle safety rules, such as looking both ways before crossing the street, wearing a helmet, and obeying traffic signals.",
+   resourceLabel:"YouTube: Road and Bicycle Safety Rules", resourceUrl:"https://www.youtube.com/results?search_query=Road%20and%20Bicycle%20Safety%20Rules%20grade%201%20educational",
+   quiz:[
+     {q:"What should you do before crossing the street?", options:["Run across quickly without looking","Close your eyes","Look both ways for traffic","Ignore traffic"], answer:2},
+     {q:"What should you wear on your head when riding a bicycle?", options:["Nothing","A helmet","A hat only","Sunglasses only"], answer:1},
+     {q:"What does a red traffic light mean?", options:["Go","Slow down only","Turn only","Stop"], answer:3},
+     {q:"What does a green traffic light mean?", options:["Turn around","Go","Stop","Wait"], answer:1},
+     {q:"Why is it important to follow road and bicycle safety rules?", options:["They help keep people safe near traffic","Traffic is never dangerous","They are not important","Rules only apply to adults"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What should you look for before crossing a street?", answers:["cars","traffic","both ways"]},
+     {prompt:"What should you wear on your head when riding a bicycle?", answers:["a helmet","helmet"]},
+     {prompt:"What colour on a traffic light means stop?", answers:["red"]}
+   ]},
+]},
+{day:50, label:"Day 50 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Blends, Vowel Teams, and Sentences", summary:"Students review recent Language skills: beginning and ending blends, vowel teams, plural nouns, alphabetical order, comparing adjectives, following instructions, and capital letters.",
+   resourceLabel:"YouTube: Language Review: Blends, Vowel Teams, and Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Vowel%20Teams%2C%20and%20Sentences%20grade%201%20educational",
+   quiz:[
+     {q:"Which word begins with the blend br?", options:["Dog","Brush","Run","Cat"], answer:1},
+     {q:"Which word ends with the blend st?", options:["Dog","Sun","Nest","Cat"], answer:2},
+     {q:"Which word has the ai vowel team?", options:["Train","Sun","Cat","Dog"], answer:0},
+     {q:"What is the plural of the word dog?", options:["Dogies","Dogs","Dogx","Doges"], answer:1},
+     {q:"What kind of letter should begin the first word of a sentence?", options:["A lowercase letter","A capital letter","A number","No letter at all"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the start of the word brush?", answers:["br"]},
+     {prompt:"What two letters make the long a sound in the word rain?", answers:["ai"]},
+     {prompt:"Should the first word of a sentence begin with a capital letter?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Math Review: Facts, Patterns, and Time", summary:"Students review recent Math skills: fact families, doubles facts, skip counting by 3s, number bonds, odd and even numbers, telling time, comparing money, positional language, and adding three numbers.",
+   resourceLabel:"YouTube: Math Review: Facts, Patterns, and Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Facts%2C%20Patterns%2C%20and%20Time%20grade%201%20educational",
+   quiz:[
+     {q:"Which subtraction fact belongs to the same fact family as 3 add 4 equals 7?", options:["7 minus 3 equals 4","8 minus 1 equals 7","9 minus 4 equals 5","5 minus 2 equals 3"], answer:0},
+     {q:"Which of these numbers is even?", options:["7","4","5","3"], answer:1},
+     {q:"At quarter past the hour, where does the long hand point?", options:["The 3","The 9","The 6","The 12"], answer:0},
+     {q:"Which coin has a greater value, a nickel or a dime?", options:["They are equal","Dime","Cannot tell","Nickel"], answer:1},
+     {q:"What is 3 add 2 add 1?", options:["7","6","8","5"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If 3 add 4 equals 7, what is 7 minus 4?", answers:["3","three"]},
+     {prompt:"What is 5 add 5?", answers:["10","ten"]},
+     {prompt:"Is the number 4 odd or even?", answers:["even"]}
+   ]},
+  {subject:"Science", title:"Science Review: Bodies, Air, and Animals", summary:"Students review recent Science topics: exercise and rest, healthy eating, germs, air and wind, floating and sinking, fish and birds, camouflage, and temperature.",
+   resourceLabel:"YouTube: Science Review: Bodies, Air, and Animals", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Air%2C%20and%20Animals%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is a way to exercise your body?", options:["Sleeping all day","Watching only","Sitting still all day","Running"], answer:3},
+     {q:"What do we call moving air?", options:["Water","Wind","Soil","Sunlight"], answer:1},
+     {q:"What word describes an object that stays on top of the water?", options:["Freezing","Floating","Sinking","Melting"], answer:1},
+     {q:"What body part helps a fish breathe underwater?", options:["A nose","Fur","Lungs","Gills"], answer:3},
+     {q:"What is camouflage?", options:["A type of weather","When an animal color or pattern helps it blend into its surroundings","A loud animal sound","A kind of food"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one way to exercise, like running or jumping.", answers:["running","jumping","playing","walking"]},
+     {prompt:"What do we call tiny living things that can make people sick?", answers:["germs"]},
+     {prompt:"What tool is used to measure temperature?", answers:["a thermometer","thermometer"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Safety, Money, and Community Helpers", summary:"Students review recent Social Studies topics: farms, local government, Canadian currency, saving and spending, emergency workers, fire safety, pet care, toys then and now, and road safety.",
+   resourceLabel:"YouTube: Social Studies Review: Safety, Money, and Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Safety%2C%20Money%2C%20and%20Community%20Helpers%20grade%201%20educational",
+   quiz:[
+     {q:"What is the title of an elected leader of a city or town?", options:["Dentist","Pilot","Mayor","Farmer"], answer:2},
+     {q:"What does it mean to save money?", options:["Losing money","Spending all money right away","Keeping money to use later","Throwing money away"], answer:2},
+     {q:"Which of these is an emergency worker?", options:["An artist","A farmer","A baker","A firefighter"], answer:3},
+     {q:"What should you do if you hear a smoke alarm?", options:["Hide under the bed","Leave the building right away","Go find your toys first","Ignore it"], answer:1},
+     {q:"What does a red traffic light mean?", options:["Go","Stop","Turn only","Slow down only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a person who grows crops and raises animals for food?", answers:["farmer"]},
+     {prompt:"What is the name of the Canadian one dollar coin?", answers:["loonie"]},
+     {prompt:"What should you wear on your head when riding a bicycle?", answers:["a helmet","helmet"]}
+   ]},
+]},
 ];
 
 export default curriculum;
