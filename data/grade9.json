@@ -14604,5 +14604,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Setting as a Literary Element",
+        "summary": "Grade 9 Reading strand: setting refers to the time and place in which a story occurs, and it can shape mood, influence character behaviour, and reinforce a story’s themes.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A story’s setting refers to ___.",
+            "options": [
+              "A concept unrelated to literary analysis",
+              "Only the names of the characters involved",
+              "The time and place in which a story occurs",
+              "The order in which events are told"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can setting influence the mood of a story?",
+            "options": [
+              "Setting never has any effect on a story’s mood",
+              "Details like weather, lighting, or location can create a particular emotional atmosphere",
+              "A concept unrelated to a story’s atmosphere",
+              "Mood is determined only by dialogue, never by setting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of setting shaping a character’s behaviour?",
+            "options": [
+              "A character who behaves identically in every possible location",
+              "A character whose actions never relate to their surroundings",
+              "A character acting fearfully while walking through a dark, isolated forest at night",
+              "A concept unrelated to setting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a specific historical setting to reinforce a story’s themes?",
+            "options": [
+              "An author’s choice of setting has no effect on meaning",
+              "Historical settings never connect to a story’s themes",
+              "The time period’s social conditions can echo or deepen the story’s central ideas",
+              "Themes are always unrelated to when or where a story takes place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is analyzing setting an important reading skill?",
+            "options": [
+              "Setting has no real connection to how a story is understood",
+              "It reveals how time and place shape mood, character, and theme throughout a text",
+              "This skill is never useful when studying literature",
+              "Setting only matters in nonfiction texts, not fiction"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Simplifying Radicals and Square Roots",
+        "summary": "Grade 9 Number/Algebra strand: simplifying a radical involves factoring out perfect square factors from beneath a square root sign to express the value in its simplest radical form.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
+            "options": [
+              "The entire number, leaving nothing beneath the radical",
+              "Only prime numbers, with no connection to perfect squares",
+              "Perfect square factors",
+              "A concept unrelated to radicals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the simplified form of the square root of 50?",
+            "options": [
+              "A value unrelated to the square root of 50",
+              "5 times the square root of 2",
+              "25 times the square root of 2",
+              "10 times the square root of 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is the largest perfect square factor of 72?",
+            "options": [
+              "72",
+              "36",
+              "A value unrelated to factors of 72",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is expressing a radical in simplest form useful in algebra?",
+            "options": [
+              "Simplest form always changes a radical’s actual value",
+              "It makes radicals easier to compare, add, and combine with like terms",
+              "This concept has no connection to algebraic operations",
+              "Simplifying radicals never has any mathematical benefit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A simplified radical is considered fully simplified when the number remaining under the root has ___.",
+            "options": [
+              "Been multiplied by an unrelated variable",
+              "A property unrelated to simplifying radicals",
+              "No remaining perfect square factors",
+              "At least one remaining perfect square factor"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Solutions and Solubility: Concentration and Saturation",
+        "summary": "Grade 9 Science Chemistry strand: a solution forms when a solute dissolves in a solvent, concentration describes the amount of solute relative to solvent, and a saturated solution has dissolved the maximum amount of solute possible at a given temperature.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "A solution forms when a ___ dissolves in a solvent.",
+            "options": [
+              "A substance that never mixes with a solvent",
+              "Solute",
+              "Solvent, dissolving into itself",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Concentration describes the amount of ___ relative to solvent in a solution.",
+            "options": [
+              "Only the solvent, with no connection to solute",
+              "Temperature exclusively",
+              "A property unrelated to solutions",
+              "Solute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A saturated solution has dissolved ___.",
+            "options": [
+              "No solute whatsoever",
+              "The maximum amount of solute possible at a given temperature",
+              "An unlimited amount of solute regardless of temperature",
+              "A concept unrelated to solubility"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might increasing the temperature of a solvent, such as water, allow more solute to dissolve?",
+            "options": [
+              "Temperature never affects how much solute can dissolve",
+              "This concept has no connection to solubility",
+              "Increasing temperature always decreases solubility for every solute",
+              "Higher temperatures often increase a solvent’s capacity to dissolve certain solutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a solution encountered in everyday life?",
+            "options": [
+              "Sand mixed with water that settles to the bottom",
+              "Oil floating on top of water with no mixing",
+              "Salt fully dissolved in water",
+              "A concept unrelated to solutions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Cartography: Map Projections and Distortion",
+        "summary": "Grade 9 Social Studies (Geography) strand: a map projection is a method of representing the curved surface of the Earth on a flat map, and every projection introduces some distortion in shape, area, distance, or direction.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "A map projection is best described as ___.",
+            "options": [
+              "A method of representing the curved surface of the Earth on a flat map",
+              "A perfectly accurate photograph of the Earth",
+              "A map that shows no distortion of any kind",
+              "A concept unrelated to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does every map projection introduce some distortion?",
+            "options": [
+              "Transferring a curved, three-dimensional surface onto a flat, two-dimensional map cannot be done without some trade-off",
+              "This concept has no connection to how maps are created",
+              "Map projections never introduce any distortion",
+              "Distortion only occurs on maps of very small areas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a type of distortion a map projection might introduce?",
+            "options": [
+              "A type of distortion unrelated to maps",
+              "Distortion that never affects a map’s appearance",
+              "Distortion in the relative size or area of landmasses",
+              "Perfectly accurate distances with no possible error"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a navigator choose a projection that preserves accurate angles and directions, even if it distorts area?",
+            "options": [
+              "Navigators never consider which type of map projection to use",
+              "Direction and angles are never distorted on any projection",
+              "This choice has no connection to a map’s intended purpose",
+              "Accurate direction is essential for plotting a reliable course between two points"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding map projections important when interpreting a world map?",
+            "options": [
+              "This concept has no relevance to interpreting maps",
+              "Recognizing a projection’s distortions helps avoid misleading conclusions about size or shape",
+              "All map projections represent the Earth with complete accuracy",
+              "World maps never require any special consideration when read"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Narrative Essay (Show, Don’t Tell)",
+        "summary": "Grade 9 Writing strand: a narrative essay tells a true, personal story using vivid scenes and sensory detail, and the “show, don’t tell” technique conveys emotion and meaning through concrete action and imagery rather than direct statement.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "The “show, don’t tell” technique conveys emotion and meaning through ___.",
+            "options": [
+              "A concept unrelated to narrative writing",
+              "Avoiding any description of actions or senses",
+              "Concrete action and sensory imagery rather than direct statement",
+              "Simply stating a character’s feelings outright with no detail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence best demonstrates “showing” rather than “telling”?",
+            "options": [
+              "A sentence with no connection to showing emotion.",
+              "Her hands trembled as she reread the acceptance letter for the third time.",
+              "She was very nervous and excited.",
+              "She felt many different emotions at once."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a narrative essay rely on vivid sensory detail?",
+            "options": [
+              "Sensory detail helps a reader experience the story’s events rather than simply being told about them",
+              "This technique has no connection to reader engagement",
+              "Sensory detail always weakens a narrative essay",
+              "Narrative essays should avoid any descriptive detail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A narrative essay is typically based on ___.",
+            "options": [
+              "A completely fictional story with no connection to the writer",
+              "A true, personal experience",
+              "A summary of someone else’s biography only",
+              "A concept unrelated to personal writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is choosing a specific, well-developed scene often more effective than summarizing an entire experience in a narrative essay?",
+            "options": [
+              "Summarizing an entire experience always produces a stronger narrative essay",
+              "This choice has no effect on how vivid an essay feels",
+              "Specific scenes have no connection to effective narrative writing",
+              "A focused scene allows for the vivid, concrete detail that “show, don’t tell” requires"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rational Exponents and Radical Notation",
+        "summary": "Grade 9 Number/Algebra strand: a rational exponent expresses a root using exponent notation, such as x to the power of one-half being equivalent to the square root of x.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A rational exponent expresses a root using ___.",
+            "options": [
+              "A notation that never involves roots",
+              "A concept unrelated to algebra",
+              "Only radical notation, with no connection to exponents",
+              "Exponent notation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "x to the power of one-half is equivalent to ___.",
+            "options": [
+              "The square root of x",
+              "x squared",
+              "Half of x",
+              "A value unrelated to square roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "x to the power of one-third is equivalent to ___.",
+            "options": [
+              "The cube root of x",
+              "One third of x",
+              "A value unrelated to cube roots",
+              "x cubed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the equivalent radical form of x to the power of two-thirds?",
+            "options": [
+              "A form unrelated to x to the power of two-thirds",
+              "The cube root of x squared",
+              "The square root of x cubed",
+              "Two-thirds of the square root of x"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are rational exponents useful when working with expressions that combine roots and powers?",
+            "options": [
+              "They allow exponent rules to be applied consistently to both roots and powers",
+              "This notation has no connection to simplifying expressions",
+              "Roots and powers can never be expressed using the same notation",
+              "Rational exponents can never be combined with exponent rules"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Immune System and Pathogens",
+        "summary": "Grade 9 Science Biology strand: the immune system defends the body against pathogens, such as bacteria and viruses, using barriers, white blood cells, and antibodies that recognize and respond to specific invaders.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "A pathogen is best described as ___.",
+            "options": [
+              "A concept unrelated to biology",
+              "A cell that always protects the body from disease",
+              "A microorganism, such as a bacterium or virus, that can cause disease",
+              "A nutrient the body requires to survive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a barrier that helps prevent pathogens from entering the body?",
+            "options": [
+              "Bones",
+              "The circulatory system exclusively",
+              "Skin",
+              "A structure unrelated to the immune system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "White blood cells help the immune system by ___.",
+            "options": [
+              "Identifying and attacking pathogens that enter the body",
+              "Producing energy for muscle movement",
+              "A function unrelated to the immune system",
+              "Transporting oxygen throughout the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An antibody is best described as a molecule that ___.",
+            "options": [
+              "A concept unrelated to the immune system",
+              "Has no role in fighting disease",
+              "Recognizes and helps neutralize a specific pathogen",
+              "Always attacks the body’s own healthy cells"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a vaccine help the immune system respond more quickly to a future infection?",
+            "options": [
+              "This concept has no connection to immunity",
+              "Vaccines always cause the full disease they are meant to prevent",
+              "It trains the immune system to recognize a specific pathogen without causing the actual disease",
+              "Vaccines have no effect on how the immune system responds to pathogens"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Time Zones and the Geography of Global Time",
+        "summary": "Grade 9 Social Studies (Geography) strand: the Earth is divided into time zones based on longitude, and this system allows regions around the world to keep local time roughly aligned with the position of the sun.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Time zones are primarily based on divisions of ___.",
+            "options": [
+              "Ocean currents",
+              "Longitude",
+              "A concept unrelated to geography",
+              "Latitude exclusively, with no connection to longitude"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The purpose of dividing the Earth into time zones is to ___.",
+            "options": [
+              "Eliminate the need for any standardized time system",
+              "Keep local time roughly aligned with the position of the sun",
+              "A purpose unrelated to time or geography",
+              "Make every region on Earth share the exact same clock time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the International Date Line primarily used to mark?",
+            "options": [
+              "The exact centre of every time zone on Earth",
+              "A concept unrelated to time zones",
+              "The approximate boundary where the calendar day changes",
+              "The boundary of a single country’s time zone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country that spans a very wide range of longitude, like Canada, include multiple time zones?",
+            "options": [
+              "Multiple time zones are chosen at random, with no geographic basis",
+              "Time zones have no connection to a country’s longitude",
+              "Wide countries never need more than one time zone",
+              "A single time zone would cause local clock time to drift noticeably from the sun’s position across such a wide area"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding time zones important for global communication and trade?",
+            "options": [
+              "Global coordination never requires any awareness of time differences",
+              "This concept has no relevance to international trade",
+              "Time zones have no effect on global communication",
+              "It helps people coordinate schedules and transactions accurately across different regions of the world"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Appositives and Sentence Combining",
+        "summary": "Grade 9 Writing strand: an appositive is a noun or noun phrase that renames or identifies another noun beside it, and using appositives allows writers to combine short, choppy sentences into more sophisticated ones.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "An appositive is best described as ___.",
+            "options": [
+              "A verb that shows action within a sentence",
+              "A word that always begins a question",
+              "A noun or noun phrase that renames or identifies another noun beside it",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses an appositive?",
+            "options": [
+              "A sentence with no appositive at all.",
+              "My neighbour is a retired firefighter who rebuilt fences.",
+              "My neighbour helped rebuild our fence quickly.",
+              "My neighbour, a retired firefighter, helped rebuild our fence."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use an appositive to combine two short sentences?",
+            "options": [
+              "It allows extra identifying detail to be added smoothly within a single, more sophisticated sentence",
+              "Combining sentences with appositives is never useful in writing",
+              "Appositives always make writing less clear",
+              "This technique has no effect on sentence structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence “Toronto, the largest city in Canada, has a diverse population,” the appositive is ___.",
+            "options": [
+              "Toronto has",
+              "A phrase unrelated to the sentence’s appositive",
+              "The largest city in Canada",
+              "Has a diverse population"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are commas typically needed around an appositive in a sentence?",
+            "options": [
+              "Commas are never used with appositives",
+              "This punctuation rule has no connection to appositives",
+              "Appositives should always be separated using a period instead",
+              "They set off the extra identifying information from the rest of the sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Systems of Linear Equations by Elimination",
+        "summary": "Grade 9 Algebra strand: the elimination method solves a system of linear equations by adding or subtracting the equations to cancel out one variable, allowing the remaining variable to be solved directly.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "The elimination method solves a system of linear equations by ___.",
+            "options": [
+              "Adding or subtracting the equations to cancel out one variable",
+              "Ignoring one of the two equations entirely",
+              "A concept unrelated to systems of equations",
+              "Graphing both equations with no algebraic calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before adding two equations using elimination, it is sometimes necessary to ___.",
+            "options": [
+              "A step unrelated to the elimination method",
+              "Divide both equations by zero",
+              "Multiply one or both equations so that a variable’s coefficients become opposites",
+              "Remove all variables from both equations first"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For the system x plus y equals 8 and x minus y equals 2, adding the equations eliminates ___.",
+            "options": [
+              "y",
+              "Both x and y at the same time",
+              "A variable unrelated to this system",
+              "x"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After eliminating one variable and solving for the other, the next step is to ___.",
+            "options": [
+              "Discard the solved value and start over completely",
+              "Substitute the solved value back into one of the original equations to find the remaining variable",
+              "Assume the remaining variable equals zero automatically",
+              "A step unrelated to solving systems of equations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the elimination method be more efficient than substitution for certain systems of equations?",
+            "options": [
+              "This method has no connection to solving systems of equations",
+              "Elimination is never more efficient than substitution in any case",
+              "When coefficients align well, elimination can cancel a variable directly without rearranging an equation first",
+              "Elimination always requires more steps than every other method"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Machines and Mechanical Advantage",
+        "summary": "Grade 9 Science Physics strand: a simple machine, such as a lever, pulley, or inclined plane, makes work easier by changing the size or direction of an applied force, and mechanical advantage measures how much a machine multiplies that force.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "A simple machine makes work easier by ___.",
+            "options": [
+              "Changing the size or direction of an applied force",
+              "A concept unrelated to physics",
+              "Always increasing the total amount of work required",
+              "Eliminating the need for any force at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mechanical advantage measures ___.",
+            "options": [
+              "A concept unrelated to simple machines",
+              "The weight of the machine itself",
+              "How much a machine multiplies an applied force",
+              "The total distance an object travels, with no connection to force"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a simple machine?",
+            "options": [
+              "A lever",
+              "A smartphone",
+              "A concept unrelated to simple machines",
+              "A battery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a longer lever arm increase the mechanical advantage of a lever?",
+            "options": [
+              "A longer arm allows a smaller applied force to lift a heavier load around the fulcrum",
+              "This concept has no connection to how levers work",
+              "Lever arm length never affects mechanical advantage",
+              "A longer lever arm always decreases mechanical advantage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a pulley system be used to lift heavy objects, such as at a construction site?",
+            "options": [
+              "It can reduce the amount of force needed to lift a load by redirecting or multiplying that force",
+              "Pulley systems always increase the force required to lift an object",
+              "Pulleys have no connection to mechanical advantage",
+              "This concept has no real-world application"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Geography of Urban Heat Islands",
+        "summary": "Grade 9 Social Studies (Geography) strand: an urban heat island occurs when a city experiences significantly higher temperatures than its surrounding rural areas, largely due to pavement, buildings, and reduced vegetation absorbing and retaining heat.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "An urban heat island occurs when a city experiences ___.",
+            "options": [
+              "No measurable temperature difference from rural areas",
+              "Significantly lower temperatures than its surrounding rural areas",
+              "Significantly higher temperatures than its surrounding rural areas",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these commonly contributes to the urban heat island effect?",
+            "options": [
+              "Cold ocean currents surrounding the city",
+              "A factor unrelated to urban temperature patterns",
+              "Extensive tree cover and open green space",
+              "Large areas of pavement and buildings that absorb and retain heat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does reduced vegetation in a city contribute to higher urban temperatures?",
+            "options": [
+              "This concept has no connection to urban heat islands",
+              "Plants normally provide shade and release moisture that helps cool the surrounding air",
+              "Reduced vegetation has no effect on urban temperature",
+              "Vegetation always increases a city’s overall temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which strategy might a city use to help reduce the urban heat island effect?",
+            "options": [
+              "A strategy unrelated to reducing urban temperatures",
+              "Replacing existing green spaces with additional pavement",
+              "Removing all rooftop and building insulation",
+              "Increasing green spaces and planting more trees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the urban heat island effect an important consideration for city planners?",
+            "options": [
+              "Urban heat islands have no effect on residents’ health or energy use",
+              "This topic has no relevance to city planning",
+              "Higher urban temperatures can increase energy use and pose health risks during heat waves",
+              "Urban temperature patterns never need to be considered by planners"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Etymology and Word Roots",
+        "summary": "Grade 9 Language strand: etymology is the study of a word’s origin and historical development, and recognizing common Greek and Latin roots can help readers determine the meaning of unfamiliar words.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "Etymology is best described as the study of ___.",
+            "options": [
+              "A word’s origin and historical development",
+              "The number of syllables in a word",
+              "A concept unrelated to vocabulary",
+              "A word’s pronunciation only, with no connection to meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Greek root “bio” most closely relates to the meaning ___.",
+            "options": [
+              "Water",
+              "Light",
+              "Life",
+              "A meaning unrelated to this root"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing that the Latin root “dict” relates to “speak” or “say” would most help a reader understand the word ___.",
+            "options": [
+              "A word unrelated to this root",
+              "Predict",
+              "Aquarium",
+              "Reptile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is recognizing common word roots a useful reading strategy?",
+            "options": [
+              "Every word’s meaning is entirely unrelated to its root",
+              "This strategy has no connection to vocabulary development",
+              "It can help a reader infer the meaning of unfamiliar words that share a similar root",
+              "Word roots never provide any clues about meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The word “transport” combines the roots “trans” (across) and “port” (carry), so it most literally means ___.",
+            "options": [
+              "To carry across",
+              "A meaning unrelated to these two roots",
+              "To carry nothing at all",
+              "To stay in one place"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Function Notation, Domain, and Range",
+        "summary": "Grade 9 Algebra strand (non-linear relations): function notation, such as f(x), represents the output of a function for a given input x, while the domain is the set of all possible input values and the range is the set of all possible output values.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "Function notation, such as f(x), represents ___.",
+            "options": [
+              "The output of a function for a given input x",
+              "Only the input value, with no connection to output",
+              "A fixed constant that never changes",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The domain of a function refers to ___.",
+            "options": [
+              "The set of all possible input values",
+              "A concept unrelated to functions",
+              "The set of all possible output values",
+              "A single specific output value only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The range of a function refers to ___.",
+            "options": [
+              "The set of all possible input values",
+              "The set of all possible output values",
+              "A single specific input value only",
+              "A concept unrelated to functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f(x) equals x squared, what is f(3)?",
+            "options": [
+              "9",
+              "6",
+              "3",
+              "A value unrelated to this function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the domain of a function involving a square root be restricted to non-negative values?",
+            "options": [
+              "Square root functions never have any domain restrictions",
+              "Negative numbers always produce valid real outputs under a square root",
+              "The square root of a negative number is not a real number, so those inputs must be excluded",
+              "This concept has no connection to domain and range"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Light: Reflection and Refraction",
+        "summary": "Grade 9 Science Physics strand: reflection occurs when light bounces off a surface, while refraction occurs when light bends as it passes from one medium into another with a different density, such as from air into water.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Reflection occurs when light ___.",
+            "options": [
+              "Bends as it passes into a new medium",
+              "Bounces off a surface",
+              "Is completely absorbed with no remaining energy",
+              "A concept unrelated to light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Refraction occurs when light ___.",
+            "options": [
+              "Bounces directly off a surface with no change in direction",
+              "A concept unrelated to light",
+              "Disappears entirely upon entering a new medium",
+              "Bends as it passes from one medium into another with a different density"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a real-world example of refraction?",
+            "options": [
+              "A straw appearing bent when placed in a glass of water",
+              "A concept unrelated to refraction",
+              "A shadow forming behind an object blocking light",
+              "A mirror showing a clear reflection of a person’s face"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the law of reflection, the angle of incidence is ___ the angle of reflection.",
+            "options": [
+              "A relationship unrelated to reflection",
+              "Equal to",
+              "Always greater than",
+              "Always less than"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does light bend when it passes from air into water?",
+            "options": [
+              "Light changes speed as it moves between materials with different densities, causing its path to bend",
+              "Light always travels in a perfectly straight line regardless of the medium",
+              "Light never changes speed when moving between different materials",
+              "This concept has no connection to refraction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Geography of Wildfire Risk and Management",
+        "summary": "Grade 9 Social Studies (Geography) strand: wildfire risk is shaped by geographic factors such as climate, vegetation, and terrain, and effective wildfire management combines prevention strategies with rapid response to protect communities and ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Wildfire risk is shaped by geographic factors such as ___.",
+            "options": [
+              "Only the time of year, with no other geographic influence",
+              "The presence of large bodies of water exclusively",
+              "A factor entirely unrelated to geography",
+              "Climate, vegetation, and terrain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a prolonged drought increase the risk of wildfires in a region?",
+            "options": [
+              "Wildfires only occur in regions with abundant rainfall",
+              "Dry vegetation and soil can ignite and spread fire more easily",
+              "This factor has no connection to wildfire risk",
+              "Drought conditions always decrease the likelihood of wildfires"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common wildfire prevention strategy?",
+            "options": [
+              "Increasing the density of dry vegetation near communities",
+              "A strategy unrelated to wildfire management",
+              "Controlled burns that reduce the buildup of flammable vegetation",
+              "Allowing flammable vegetation to accumulate indefinitely with no management"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might steep, hilly terrain make wildfires more difficult to control?",
+            "options": [
+              "Hilly terrain always makes wildfires easier to access and control",
+              "Fire always spreads more slowly on steep terrain",
+              "Terrain has no effect on how quickly a wildfire spreads",
+              "Fire can spread more quickly uphill, and difficult terrain can limit firefighter access"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is wildfire management an increasingly important geographic issue in many regions?",
+            "options": [
+              "This topic has no relevance to geography or climate",
+              "Wildfires never pose any risk to nearby communities",
+              "Wildfire risk has remained completely unchanged in recent decades",
+              "Changing climate patterns and expanding development near forests can increase both wildfire risk and its impact on communities"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Direct and Indirect Characterization",
+        "summary": "Grade 9 Reading strand: direct characterization occurs when a narrator explicitly states a character’s traits, while indirect characterization reveals traits through a character’s actions, dialogue, thoughts, and how other characters respond to them.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "Direct characterization occurs when ___.",
+            "options": [
+              "A character’s traits are only revealed through their actions",
+              "No information about a character is ever provided",
+              "A narrator explicitly states a character’s traits",
+              "A concept unrelated to characterization"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Indirect characterization reveals a character’s traits through ___.",
+            "options": [
+              "Their actions, dialogue, thoughts, and how others respond to them",
+              "A method that never involves a character’s behaviour",
+              "A concept unrelated to characterization",
+              "A narrator directly stating those traits outright"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of indirect characterization?",
+            "options": [
+              "A list of a character’s traits with no supporting detail",
+              "A character slamming a door and refusing to speak to anyone for the rest of the day",
+              "A concept unrelated to characterization",
+              "The narrator stating, “She was furious.”"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author rely more on indirect characterization than direct characterization?",
+            "options": [
+              "Authors never intentionally choose between these two methods",
+              "It allows readers to infer traits themselves, often creating a more engaging reading experience",
+              "This technique has no effect on how readers understand a character",
+              "Indirect characterization always makes a story less engaging"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might how other characters react to a character reveal something about that character’s traits?",
+            "options": [
+              "This concept has no connection to indirect characterization",
+              "A character’s traits can only be revealed through direct statement",
+              "Other characters’ reactions never provide any insight into a character’s traits",
+              "Other characters’ responses can reflect qualities the character possesses, even without a direct statement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Surface Area and Volume of Spheres and Cones",
+        "summary": "Grade 9 Measurement strand: the surface area and volume of a sphere or cone can be calculated using specific formulas involving the radius, and, for a cone, its height and slant height.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "The volume of a sphere can be calculated using a formula involving its ___.",
+            "options": [
+              "Only its diameter, with no connection to radius",
+              "A concept unrelated to measurement",
+              "Radius",
+              "Surface area exclusively, with no formula needed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The volume of a cone depends on its radius and its ___.",
+            "options": [
+              "A property unrelated to volume",
+              "Weight",
+              "Height",
+              "Colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a sphere has a radius of 3 cm, which value is needed to find its volume using the formula four-thirds pi r cubed?",
+            "options": [
+              "A value unrelated to this formula",
+              "The diameter squared",
+              "The radius cubed",
+              "The radius squared only, with no cubing involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The surface area of a cone includes the area of its circular base plus ___.",
+            "options": [
+              "The lateral (slanted) surface area",
+              "The volume of the cone",
+              "Only the height of the cone, with no area calculation",
+              "A concept unrelated to surface area"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an engineer need to calculate the volume of a spherical or conical storage tank?",
+            "options": [
+              "This concept has no connection to real-world storage design",
+              "Volume calculations have no practical engineering application",
+              "To determine how much material the tank can hold",
+              "Tank shape never affects how much it can hold"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Circulatory and Respiratory Systems",
+        "summary": "Grade 9 Science Biology strand: the circulatory system transports blood, oxygen, and nutrients throughout the body via the heart and blood vessels, while the respiratory system brings oxygen into the body and removes carbon dioxide through the lungs.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The circulatory system is primarily responsible for ___.",
+            "options": [
+              "Transporting blood, oxygen, and nutrients throughout the body",
+              "A function unrelated to body systems",
+              "Breaking down food for digestion",
+              "Producing hormones exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The respiratory system brings oxygen into the body through the ___.",
+            "options": [
+              "Kidneys",
+              "Lungs",
+              "An organ unrelated to respiration",
+              "Stomach"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organ pumps blood throughout the circulatory system?",
+            "options": [
+              "The pancreas",
+              "The liver",
+              "An organ unrelated to circulation",
+              "The heart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must the circulatory and respiratory systems work closely together?",
+            "options": [
+              "This concept has no connection to how the body functions",
+              "The respiratory system operates completely independently of blood transport",
+              "These two systems never interact with one another",
+              "Oxygen absorbed by the lungs must be transported by the blood to cells throughout the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the body exhale carbon dioxide through the respiratory system?",
+            "options": [
+              "Carbon dioxide is a nutrient the body needs to retain",
+              "This concept has no connection to respiration",
+              "The body never produces carbon dioxide as a waste product",
+              "Carbon dioxide is a waste product of cellular respiration that must be removed from the body"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Political Geography: Federal, Provincial, and Municipal Boundaries in Canada",
+        "summary": "Grade 9 Social Studies (Geography) strand: political geography examines how administrative boundaries, such as Canada’s federal, provincial, and municipal levels, divide authority and responsibility across different regions of a country.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Political geography examines how administrative boundaries divide ___.",
+            "options": [
+              "Physical landforms with no connection to governance",
+              "Only natural boundaries like rivers and mountains",
+              "A concept unrelated to geography",
+              "Authority and responsibility across different regions of a country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In Canada, which level of government is generally responsible for national issues such as defence and foreign affairs?",
+            "options": [
+              "The municipal government",
+              "The federal government",
+              "A level of government unrelated to Canada’s political structure",
+              "The provincial government exclusively, with no federal role"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is typically a responsibility of provincial governments in Canada?",
+            "options": [
+              "Education and healthcare",
+              "National defence",
+              "A responsibility unrelated to provincial government",
+              "Foreign diplomacy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Municipal governments in Canada are typically responsible for services such as ___.",
+            "options": [
+              "Local roads, waste collection, and public transit",
+              "National immigration policy",
+              "A responsibility unrelated to municipal government",
+              "International trade agreements"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might understanding the different levels of political boundaries help explain how decisions are made in Canada?",
+            "options": [
+              "This topic has no relevance to understanding Canadian geography",
+              "All levels of government in Canada have identical responsibilities",
+              "Different levels of government have distinct authority over specific issues within their geographic jurisdiction",
+              "Political boundaries have no connection to how decisions are made"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Advertising Techniques and Persuasion",
+        "summary": "Grade 9 Media Literacy strand: advertisements use persuasive techniques, such as appeals to emotion, celebrity endorsement, and bandwagon appeal, to influence a consumer’s attitudes and purchasing decisions.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "Advertisements often use persuasive techniques to influence a consumer’s ___.",
+            "options": [
+              "Attitudes and purchasing decisions",
+              "Personal identity in ways that are never intentional",
+              "A concept unrelated to media literacy",
+              "Ability to read, with no connection to persuasion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bandwagon appeal in advertising suggests that a consumer should buy a product because ___.",
+            "options": [
+              "No one else has ever purchased the product",
+              "A concept unrelated to persuasive advertising",
+              "Many other people are already using or buying it",
+              "The product has been scientifically proven ineffective"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an emotional appeal in advertising?",
+            "options": [
+              "An ad showing a heartwarming family reunion to promote a phone brand",
+              "A concept unrelated to advertising techniques",
+              "An ad listing only the technical specifications of a product",
+              "An ad providing no persuasive content of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a company use a celebrity endorsement in an advertisement?",
+            "options": [
+              "Association with a well-known, admired figure can make a product seem more appealing or trustworthy",
+              "Celebrity endorsements never influence a consumer’s perception of a product",
+              "Companies always avoid featuring well-known figures in ads",
+              "This technique has no connection to persuasive advertising"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to critically evaluate advertising techniques rather than accepting a message at face value?",
+            "options": [
+              "Critically evaluating advertisements never changes how a consumer responds",
+              "Advertisements never attempt to persuade their audience",
+              "This skill has no relevance to media literacy",
+              "Recognizing persuasive techniques helps consumers make more informed decisions rather than being simply influenced by emotion"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Currency Exchange and Purchasing Power",
+        "summary": "Grade 9 Financial Literacy strand: currency exchange rates determine how much one country’s currency is worth in terms of another, and purchasing power describes how much a given amount of money can actually buy.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A currency exchange rate determines ___.",
+            "options": [
+              "How much one country’s currency is worth in terms of another",
+              "The total population of a country",
+              "A concept unrelated to finance",
+              "A fixed value that never changes over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Purchasing power describes ___.",
+            "options": [
+              "A concept unrelated to currency or spending",
+              "The exact exchange rate between two currencies",
+              "How much a given amount of money can actually buy",
+              "The total amount of money a person earns in a year"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 1 Canadian dollar can be exchanged for 0.75 US dollars, how many US dollars would 100 Canadian dollars be worth?",
+            "options": [
+              "125 US dollars",
+              "100 US dollars",
+              "A value unrelated to this exchange rate",
+              "75 US dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a traveller’s purchasing power change when visiting a country with a different currency?",
+            "options": [
+              "Purchasing power never changes based on currency exchange",
+              "The exchange rate determines how much local currency, and therefore goods, their money can obtain",
+              "Exchange rates have no effect on how much a traveller can buy",
+              "This concept has no connection to international travel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do businesses that trade internationally need to monitor currency exchange rates closely?",
+            "options": [
+              "Exchange rates have no impact on international business",
+              "Businesses never need to consider currency values when trading internationally",
+              "Fluctuating exchange rates can significantly affect the cost of imports and the value of international sales",
+              "This concept has no connection to global trade"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Radioactivity and Half-Life",
+        "summary": "Grade 9 Science Chemistry/Physics strand: radioactive decay occurs when an unstable atomic nucleus releases energy and particles over time, and an isotope’s half-life is the time it takes for half of a radioactive sample to decay.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Radioactive decay occurs when ___.",
+            "options": [
+              "An atom becomes permanently stable with no further change",
+              "An unstable atomic nucleus releases energy and particles over time",
+              "A molecule dissolves completely in a solvent",
+              "A concept unrelated to atomic structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An isotope’s half-life refers to ___.",
+            "options": [
+              "A concept unrelated to radioactivity",
+              "The time it takes for half of a radioactive sample to decay",
+              "The total time before any decay begins",
+              "The complete lifespan of every atom in a sample"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If an isotope has a half-life of 10 years, how much of an original sample remains after 20 years?",
+            "options": [
+              "None of the original sample",
+              "Half of the original sample",
+              "One quarter of the original sample",
+              "A value unrelated to this half-life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a practical application of understanding radioactive half-life?",
+            "options": [
+              "Half-life calculations are never used outside of theoretical chemistry",
+              "An application unrelated to radioactivity",
+              "Radioactivity has no practical, real-world uses",
+              "Using radiocarbon dating to estimate the age of ancient organic materials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is radioactive material considered potentially hazardous to living organisms?",
+            "options": [
+              "The energy and particles released during decay can damage living cells and tissue",
+              "Radioactive decay never has any effect on living organisms",
+              "This concept has no connection to radioactivity",
+              "Radioactive material is always completely harmless to living cells"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Geography of Cultural Landscapes and Heritage Sites",
+        "summary": "Grade 9 Social Studies (Geography) strand: a cultural landscape reflects the interaction between people and their environment over time, and heritage sites are recognized and protected for their historical, cultural, or natural significance.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "A cultural landscape reflects ___.",
+            "options": [
+              "Only natural features with no human influence",
+              "A concept unrelated to geography",
+              "A landscape entirely untouched by human activity",
+              "The interaction between people and their environment over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A heritage site is typically recognized and protected for its ___.",
+            "options": [
+              "Economic value exclusively, with no other significance",
+              "A concept unrelated to heritage protection",
+              "Complete lack of historical or cultural importance",
+              "Historical, cultural, or natural significance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a cultural landscape?",
+            "options": [
+              "An uninhabited region never altered by people",
+              "A concept unrelated to cultural geography",
+              "A landscape with absolutely no connection to human activity",
+              "Terraced rice fields shaped by generations of farming practices"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community work to protect a local heritage site?",
+            "options": [
+              "Heritage sites are never considered worth protecting",
+              "This concept has no connection to cultural geography",
+              "To preserve its historical or cultural significance for future generations",
+              "Communities always prioritize development over heritage preservation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do geographers study cultural landscapes when examining a region?",
+            "options": [
+              "Cultural landscapes have no connection to a region’s geography",
+              "They reveal how human activity and the natural environment have shaped each other over time",
+              "This topic has no relevance to studying human-environment interaction",
+              "Geographers never consider the influence of human activity on landscapes"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Business Letter and Email Etiquette",
+        "summary": "Grade 9 Writing strand: a business letter or professional email follows a clear, formal structure and tone, including a proper greeting, concise purpose, and polite closing, appropriate for communicating in academic or workplace settings.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A business letter or professional email should generally use a ___ tone.",
+            "options": [
+              "A concept unrelated to professional writing",
+              "Casual and full of slang",
+              "Clear, formal, and polite",
+              "Overly emotional and unstructured"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an appropriate greeting for a formal business email?",
+            "options": [
+              "Hey there,",
+              "Yo,",
+              "Dear Ms. Chen,",
+              "A greeting unrelated to professional communication"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a professional email state its purpose clearly and concisely near the beginning?",
+            "options": [
+              "This concept has no connection to email etiquette",
+              "A purpose should always be buried at the very end of a message",
+              "It respects the reader’s time and ensures the main point is not missed",
+              "Clarity is never important in professional communication"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a polite, professional closing?",
+            "options": [
+              "A closing unrelated to professional writing",
+              "Sincerely,",
+              "Whatever,",
+              "See ya,"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is proofreading especially important before sending a formal business email?",
+            "options": [
+              "This step is never necessary for business communication",
+              "Errors can create an unprofessional impression and undermine the message’s credibility",
+              "Spelling and grammar mistakes always improve a message’s credibility",
+              "Proofreading has no effect on how a professional email is received"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability Distributions and Expected Value",
+        "summary": "Grade 9 Data Management strand: a probability distribution shows all possible outcomes of an event along with their probabilities, and expected value is the long-run average outcome calculated by weighting each outcome by its probability.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A probability distribution shows ___.",
+            "options": [
+              "The total number of trials conducted, with no connection to outcomes",
+              "Only the single most likely outcome, with no other information",
+              "A concept unrelated to probability",
+              "All possible outcomes of an event along with their probabilities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Expected value is calculated by ___.",
+            "options": [
+              "Choosing the outcome with the highest individual probability only",
+              "Weighting each possible outcome by its probability and summing the results",
+              "Adding all outcomes together with no consideration of probability",
+              "A concept unrelated to probability distributions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a game gives a 50 percent chance of winning 10 dollars and a 50 percent chance of winning nothing, what is the expected value?",
+            "options": [
+              "0 dollars",
+              "10 dollars",
+              "A value unrelated to this probability distribution",
+              "5 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is expected value described as a long-run average rather than a guaranteed outcome for any single event?",
+            "options": [
+              "A single trial always matches the calculated expected value exactly",
+              "Expected value always guarantees the exact same result every single time",
+              "Expected value predicts the average result over many repeated trials, not any one specific outcome",
+              "This concept has no connection to probability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a business use expected value when deciding whether a risky investment is worthwhile?",
+            "options": [
+              "This concept has no connection to evaluating risk",
+              "Expected value has no practical application in business decisions",
+              "It helps estimate the average financial outcome across many possible scenarios",
+              "Businesses never use probability when making financial decisions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Currents and Their Effect on Climate",
+        "summary": "Grade 9 Science Earth and Space Systems strand: ocean currents are large-scale movements of seawater driven by wind, temperature, and salinity differences, and they play a major role in distributing heat and shaping regional climate patterns.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean currents are large-scale movements of seawater driven by factors such as ___.",
+            "options": [
+              "Random, unpredictable movement with no identifiable cause",
+              "A factor entirely unrelated to ocean water movement",
+              "Only the position of the moon, with no other influence",
+              "Wind, temperature, and salinity differences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ocean currents play a major role in distributing ___ around the planet.",
+            "options": [
+              "Land elevation",
+              "Heat",
+              "A factor unrelated to climate",
+              "Only sunlight, with no connection to temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A warm ocean current flowing toward a coastal region generally has what effect on nearby land temperatures?",
+            "options": [
+              "A concept unrelated to ocean currents",
+              "It has no effect whatsoever on nearby land temperatures",
+              "It always cools the climate of that coastal region significantly",
+              "It tends to warm the climate of that coastal region"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a disruption to a major ocean current, such as changes linked to climate change, significantly affect regional weather patterns?",
+            "options": [
+              "Ocean currents have no connection to regional weather or climate",
+              "Disruptions to ocean currents never have any noticeable effects",
+              "Ocean currents help regulate heat distribution, so changes to them can shift established climate patterns",
+              "This concept has no relevance to studying Earth systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study ocean currents when researching global climate systems?",
+            "options": [
+              "Climate patterns are never influenced by ocean water movement",
+              "This topic has no connection to Earth and space systems",
+              "Ocean currents are considered irrelevant to global climate research",
+              "Currents significantly influence how heat and energy are distributed across the planet"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Geography of Urban Food Deserts",
+        "summary": "Grade 9 Social Studies (Geography) strand: an urban food desert is an area, often within a city, where residents have limited access to affordable, healthy food due to a lack of nearby grocery stores or fresh food retailers.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "An urban food desert is best described as an area where residents have limited access to ___.",
+            "options": [
+              "Any form of transportation",
+              "Affordable, healthy food",
+              "Unlimited amounts of fresh food from every nearby store",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A common contributing factor to urban food deserts is ___.",
+            "options": [
+              "A factor unrelated to food access",
+              "A lack of nearby grocery stores or fresh food retailers",
+              "Excessive regulation preventing any food sales in a city",
+              "An abundance of grocery stores offering only fresh produce"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might residents of a food desert rely more heavily on convenience stores or fast food?",
+            "options": [
+              "Convenience stores are always the healthiest available option",
+              "This factor has no connection to food access in a neighbourhood",
+              "These options may be more accessible nearby than stores offering fresh, affordable groceries",
+              "Residents in food deserts always have equal access to every type of food retailer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which strategy might a city use to help address a food desert?",
+            "options": [
+              "Removing existing grocery stores from underserved neighbourhoods",
+              "Supporting the development of a new grocery store or community garden in an underserved area",
+              "A strategy unrelated to addressing food access",
+              "Ignoring the issue of food access entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is studying urban food deserts relevant to understanding geographic inequality within cities?",
+            "options": [
+              "It shows how access to essential resources like food can vary significantly between neighbourhoods in the same city",
+              "This topic has no connection to geographic inequality",
+              "Urban geography never considers differences in resource access",
+              "Food access is always identical across every neighbourhood in a city"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Active and Passive Voice",
+        "summary": "Grade 9 Writing strand: in the active voice, the subject of a sentence performs the action, while in the passive voice, the subject receives the action, often shifting emphasis and requiring a form of the verb “to be.”",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "In the active voice, the subject of a sentence ___.",
+            "options": [
+              "Performs the action",
+              "A concept unrelated to grammar",
+              "Always receives the action",
+              "Is never mentioned in the sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the passive voice, the subject of a sentence ___.",
+            "options": [
+              "Receives the action",
+              "Is always the same as the object",
+              "A concept unrelated to grammar",
+              "Always performs the action"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is written in the active voice?",
+            "options": [
+              "A sentence with no clear subject performing an action.",
+              "The committee approved the new policy.",
+              "The policy, approved previously, exists now.",
+              "The new policy was approved by the committee."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose the passive voice when the person performing an action is unknown or unimportant?",
+            "options": [
+              "This choice has no effect on a sentence’s emphasis",
+              "The passive voice always requires naming the performer of the action",
+              "Passive voice is never appropriate in any writing situation",
+              "It allows the sentence to focus on the action or the receiver of the action instead of the performer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is active voice often preferred in clear, direct writing, such as many business or academic contexts?",
+            "options": [
+              "This concept has no connection to effective writing",
+              "Active voice always makes writing less clear",
+              "Passive voice is always shorter and more direct than active voice",
+              "It typically produces more concise, direct sentences than the passive voice"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Logarithms as Inverse of Exponents",
+        "summary": "Grade 9 Algebra strand (enrichment): a logarithm answers the question of what exponent a given base must be raised to in order to produce a certain number, making logarithms the inverse operation of exponentiation.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A logarithm answers the question of ___.",
+            "options": [
+              "What exponent a given base must be raised to in order to produce a certain number",
+              "What the square root of a number is",
+              "What number results from multiplying a base by itself repeatedly with no exponent involved",
+              "A concept unrelated to exponents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Logarithms are considered the inverse operation of ___.",
+            "options": [
+              "Exponentiation",
+              "Addition",
+              "Subtraction",
+              "A concept unrelated to logarithms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of log base 2 of 8?",
+            "options": [
+              "4, since 2 times 4 equals 8",
+              "A value unrelated to this logarithm",
+              "8, since 2 to the power of 8 equals a much larger number",
+              "3, since 2 to the power of 3 equals 8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If log base 10 of 1000 equals 3, this means ___.",
+            "options": [
+              "10 to the power of 3 equals 1000",
+              "10 divided by 3 equals 1000",
+              "3 to the power of 10 equals 1000",
+              "A relationship unrelated to this logarithm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are logarithms useful for solving equations where the unknown variable is an exponent?",
+            "options": [
+              "Logarithms only apply to equations with no exponents at all",
+              "This concept has no connection to exponential equations",
+              "Logarithms can never be used to solve equations involving exponents",
+              "They allow the exponent itself to be isolated and solved for directly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Friction, Air Resistance, and Terminal Velocity",
+        "summary": "Grade 9 Science Physics strand: friction is a force that opposes motion between surfaces in contact, air resistance is a form of friction from air molecules, and terminal velocity occurs when a falling object’s speed becomes constant as air resistance balances gravity.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Friction is best described as a force that ___.",
+            "options": [
+              "A concept unrelated to physics",
+              "Has no effect on moving objects",
+              "Always increases an object’s speed",
+              "Opposes motion between surfaces in contact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Air resistance is a form of friction caused by ___.",
+            "options": [
+              "A concept unrelated to friction",
+              "Gravity acting alone, with no connection to air",
+              "A vacuum with no molecules present at all",
+              "Air molecules interacting with a moving object"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Terminal velocity occurs when a falling object’s speed becomes ___.",
+            "options": [
+              "Constant, as air resistance balances the force of gravity",
+              "Continuously increasing with no upper limit",
+              "A concept unrelated to falling objects",
+              "Zero, as the object stops moving entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a skydiver reach terminal velocity before opening a parachute?",
+            "options": [
+              "This concept has no connection to falling objects",
+              "Air resistance has no effect on a skydiver’s speed",
+              "Air resistance eventually increases enough to balance the force of gravity pulling them downward",
+              "Gravity stops acting on the skydiver at a certain height"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a flat sheet of paper fall more slowly than a crumpled ball of the same paper?",
+            "options": [
+              "The flat sheet has more surface area, increasing air resistance and slowing its fall",
+              "A crumpled ball always experiences greater air resistance than a flat sheet",
+              "Surface area has no effect on how air resistance acts on a falling object",
+              "This concept has no connection to friction or air resistance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Geography of Space Exploration and Satellite Technology",
+        "summary": "Grade 9 Social Studies (Geography) strand: space exploration and satellite technology rely on carefully chosen launch sites and orbital paths, and satellites support geographic applications such as weather forecasting, communication, and Earth observation.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "The choice of a launch site for space exploration is often influenced by geographic factors such as ___.",
+            "options": [
+              "A factor entirely unrelated to geography",
+              "The presence of large freshwater lakes exclusively",
+              "Only the average temperature of a region, with no other consideration",
+              "Proximity to the equator and access to open airspace or ocean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Satellites in orbit around Earth support geographic applications such as ___.",
+            "options": [
+              "Only entertainment broadcasting, with no other purpose",
+              "Weather forecasting and Earth observation",
+              "Underground mineral extraction",
+              "A function unrelated to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might launch sites located closer to the equator provide an advantage for certain space launches?",
+            "options": [
+              "Equatorial regions always have the coldest possible launch conditions",
+              "The Earth’s rotational speed is greatest near the equator, providing an added boost to a launched rocket",
+              "This factor has no connection to launching satellites or spacecraft",
+              "Proximity to the equator always makes a launch site less effective"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do weather satellites benefit geographic study and forecasting?",
+            "options": [
+              "Satellites only track ocean currents, with no connection to weather",
+              "They provide continuous images and data used to track and predict weather patterns",
+              "This technology has no relevance to geography",
+              "Weather satellites have no connection to forecasting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is satellite technology considered valuable for geographic research on a global scale?",
+            "options": [
+              "Satellite technology has no practical use in geographic research",
+              "Remote or large areas can never be studied using satellite data",
+              "This concept has no connection to studying the Earth’s surface",
+              "It allows continuous observation of large or remote areas of the Earth that would be difficult to study directly"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Flashback and Foreshadowing",
+        "summary": "Grade 9 Reading strand: a flashback interrupts a story’s present action to show an earlier event, while foreshadowing hints at events that will occur later, and both techniques shape a reader’s understanding of a narrative’s timeline and meaning.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A flashback is best described as a technique that ___.",
+            "options": [
+              "Reveals events that will occur later in the story",
+              "Always occurs at the very end of a story",
+              "A concept unrelated to narrative structure",
+              "Interrupts a story’s present action to show an earlier event"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Foreshadowing is best described as a technique that ___.",
+            "options": [
+              "Hints at events that will occur later in a story",
+              "Interrupts the story to reveal a past event",
+              "A concept unrelated to narrative structure",
+              "Removes any sense of suspense from a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of foreshadowing?",
+            "options": [
+              "A character noticing dark storm clouds gathering just before a major conflict begins",
+              "A concept unrelated to foreshadowing",
+              "A character recalling their childhood in a scene set entirely in the past",
+              "A scene with no connection to future events in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use a flashback rather than simply telling events in chronological order?",
+            "options": [
+              "A flashback can provide important context or background at a moment when it is most meaningful to the reader",
+              "This technique always confuses a reader with no narrative purpose",
+              "Flashbacks are never used intentionally by authors",
+              "Chronological order is always required in every story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does recognizing foreshadowing enhance a reader’s engagement with a story?",
+            "options": [
+              "It can build anticipation and reward readers who notice subtle clues about what is to come",
+              "Recognizing foreshadowing always reduces a story’s suspense",
+              "Foreshadowing has no effect on how a reader experiences a story",
+              "This technique never connects to later events in a narrative"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Matrices: Rows, Columns, and Operations",
+        "summary": "Grade 9 Algebra strand (enrichment): a matrix is a rectangular array of numbers organized into rows and columns, and matrices can be added, subtracted, or multiplied following specific rules based on their dimensions.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A matrix is best described as ___.",
+            "options": [
+              "A concept unrelated to algebra",
+              "A single number with no structure",
+              "A type of graph with no numerical values",
+              "A rectangular array of numbers organized into rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The dimensions of a matrix are described using its number of ___.",
+            "options": [
+              "Only its total value, with no reference to structure",
+              "Diagonals exclusively",
+              "A property unrelated to matrices",
+              "Rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To add two matrices together, they must ___.",
+            "options": [
+              "Always have completely different dimensions",
+              "Have the same dimensions",
+              "Contain only positive numbers",
+              "A requirement unrelated to matrix addition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a matrix with 2 rows and 3 columns, how many total entries does the matrix contain?",
+            "options": [
+              "6",
+              "A value unrelated to this matrix’s dimensions",
+              "5",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might matrices be useful for organizing and solving real-world data problems?",
+            "options": [
+              "They allow large sets of related numerical data to be organized and manipulated systematically",
+              "Numerical data can never be represented using rows and columns",
+              "Matrices have no practical application for organizing data",
+              "This concept has no connection to solving real-world problems"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Enzymes and Biological Catalysts",
+        "summary": "Grade 9 Science Biology strand: an enzyme is a biological catalyst, typically a protein, that speeds up chemical reactions in living organisms without being consumed in the process.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "An enzyme is best described as ___.",
+            "options": [
+              "A molecule that always slows down chemical reactions",
+              "A biological catalyst that speeds up chemical reactions in living organisms",
+              "A type of cell found only in plants",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Enzymes are typically composed of ___.",
+            "options": [
+              "A substance unrelated to biological catalysts",
+              "Only water molecules, with no other component",
+              "Pure carbon with no other elements",
+              "Proteins"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A defining feature of an enzyme is that it ___.",
+            "options": [
+              "A feature unrelated to how enzymes function",
+              "Is always destroyed after catalyzing a single reaction",
+              "Is not consumed or permanently changed during the reaction it catalyzes",
+              "Slows down every reaction it interacts with"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an enzyme’s shape be important to its function?",
+            "options": [
+              "Its shape allows it to bind specifically to a particular substrate molecule",
+              "This concept has no relevance to biological catalysts",
+              "An enzyme’s shape has no connection to its function",
+              "Enzymes can bind to any molecule regardless of shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might extreme heat cause an enzyme to stop functioning properly?",
+            "options": [
+              "Heat never has any effect on an enzyme’s structure or function",
+              "Enzymes always function more effectively at extremely high temperatures",
+              "High temperatures can change an enzyme’s shape, preventing it from binding to its substrate",
+              "This concept has no connection to enzyme activity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Geography of Light and Noise Pollution in Cities",
+        "summary": "Grade 9 Social Studies (Geography) strand: light and noise pollution are byproducts of urban development that can disrupt ecosystems, obscure the night sky, and affect the health and well-being of city residents.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Light and noise pollution are commonly associated with ___.",
+            "options": [
+              "Entirely untouched, uninhabited wilderness",
+              "Regions with no human population whatsoever",
+              "A concept unrelated to urban geography",
+              "Urban development"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Light pollution can make it more difficult for city residents to ___.",
+            "options": [
+              "Access electricity in their homes",
+              "See stars and other objects in the night sky",
+              "A concept unrelated to light pollution",
+              "See during the daytime"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might excessive noise pollution in a city affect residents’ well-being?",
+            "options": [
+              "Noise pollution always improves residents’ overall well-being",
+              "Persistent noise can contribute to stress and disrupted sleep",
+              "This concept has no connection to urban geography",
+              "Noise pollution never has any effect on human health"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might light pollution disrupt local ecosystems?",
+            "options": [
+              "Light pollution has no effect on animal behaviour",
+              "Artificial light can interfere with the natural behaviour of nocturnal animals, such as migration or feeding patterns",
+              "Nocturnal animals are never affected by artificial lighting",
+              "This concept has no connection to ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which strategy might a city use to help reduce light pollution?",
+            "options": [
+              "Using shielded outdoor lighting that directs light downward rather than outward",
+              "Increasing the number of unshielded lights throughout the city",
+              "A strategy unrelated to reducing light pollution",
+              "Removing all lighting regulations entirely"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Setting, Characterization, Advertising, and Active/Passive Voice",
+        "summary": "Grade 9 Reading and Writing strands review: this lesson revisits analyzing setting, direct and indirect characterization, advertising persuasion techniques, and active and passive voice from Days 61-69.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A story’s setting refers to ___.",
+            "options": [
+              "The order in which events are told",
+              "Only the names of the characters involved",
+              "A concept unrelated to literary analysis",
+              "The time and place in which a story occurs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Direct characterization occurs when ___.",
+            "options": [
+              "No information about a character is ever provided",
+              "A character’s traits are only revealed through their actions",
+              "A narrator explicitly states a character’s traits",
+              "A concept unrelated to characterization"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Bandwagon appeal in advertising suggests that a consumer should buy a product because ___.",
+            "options": [
+              "The product has been scientifically proven ineffective",
+              "Many other people are already using or buying it",
+              "A concept unrelated to persuasive advertising",
+              "No one else has ever purchased the product"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the active voice, the subject of a sentence ___.",
+            "options": [
+              "Is never mentioned in the sentence",
+              "A concept unrelated to grammar",
+              "Performs the action",
+              "Always receives the action"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review reading and writing concepts like setting, characterization, persuasion, and voice together?",
+            "options": [
+              "Each concept must always be studied in complete isolation",
+              "Review is never useful for reading and writing skills",
+              "These topics have no meaningful connection to one another",
+              "These related literacy skills reinforce one another for stronger overall comprehension and communication"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Radicals, Systems, Spheres/Cones, and Logarithms",
+        "summary": "Grade 9 Algebra and Measurement strands review: this lesson revisits simplifying radicals, solving systems of linear equations by elimination, the surface area and volume of spheres and cones, and logarithms from Days 61-69.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "Simplifying a radical involves factoring out ___ from beneath the square root sign.",
+            "options": [
+              "Perfect square factors",
+              "Only prime numbers, with no connection to perfect squares",
+              "A concept unrelated to radicals",
+              "The entire number, leaving nothing beneath the radical"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The elimination method solves a system of linear equations by ___.",
+            "options": [
+              "Ignoring one of the two equations entirely",
+              "Graphing both equations with no algebraic calculation",
+              "A concept unrelated to systems of equations",
+              "Adding or subtracting the equations to cancel out one variable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The volume of a sphere can be calculated using a formula involving its ___.",
+            "options": [
+              "Radius",
+              "A concept unrelated to measurement",
+              "Only its diameter, with no connection to radius",
+              "Surface area exclusively, with no formula needed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A logarithm answers the question of ___.",
+            "options": [
+              "A concept unrelated to exponents",
+              "What exponent a given base must be raised to in order to produce a certain number",
+              "What number results from multiplying a base by itself repeatedly with no exponent involved",
+              "What the square root of a number is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review radicals, systems of equations, measurement formulas, and logarithms together?",
+            "options": [
+              "Review is never useful in mathematics",
+              "These topics have no connection to each other",
+              "These related algebra and measurement concepts build on and reinforce one another for deeper understanding",
+              "Each topic must be learned with no connection to the others"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Solutions, Immune System, Circulatory/Respiratory, and Radioactivity",
+        "summary": "Grade 9 Science strand review: this lesson revisits solutions and solubility, the immune system, the circulatory and respiratory systems, and radioactivity and half-life from Days 61-69.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "A solution forms when a ___ dissolves in a solvent.",
+            "options": [
+              "A substance that never mixes with a solvent",
+              "A concept unrelated to chemistry",
+              "Solvent, dissolving into itself",
+              "Solute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A pathogen is best described as ___.",
+            "options": [
+              "A cell that always protects the body from disease",
+              "A concept unrelated to biology",
+              "A nutrient the body requires to survive",
+              "A microorganism, such as a bacterium or virus, that can cause disease"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The circulatory system is primarily responsible for ___.",
+            "options": [
+              "Producing hormones exclusively",
+              "Breaking down food for digestion",
+              "Transporting blood, oxygen, and nutrients throughout the body",
+              "A function unrelated to body systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Radioactive decay occurs when ___.",
+            "options": [
+              "A concept unrelated to atomic structure",
+              "A molecule dissolves completely in a solvent",
+              "An unstable atomic nucleus releases energy and particles over time",
+              "An atom becomes permanently stable with no further change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to review chemistry, biology, and physics concepts like solutions, immunity, body systems, and radioactivity together?",
+            "options": [
+              "These topics are entirely unrelated to each other",
+              "It helps connect and reinforce related science concepts learned across recent lessons",
+              "Review provides no benefit in science",
+              "Each topic must always be studied in isolation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Map Projections, Urban Heat Islands, Political Boundaries, and Food Deserts",
+        "summary": "Grade 9 Social Studies (Geography) review: this lesson revisits map projections, urban heat islands, political geography in Canada, and urban food deserts from Days 61-69.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "A map projection is best described as ___.",
+            "options": [
+              "A perfectly accurate photograph of the Earth",
+              "A concept unrelated to geography",
+              "A map that shows no distortion of any kind",
+              "A method of representing the curved surface of the Earth on a flat map"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An urban heat island occurs when a city experiences ___.",
+            "options": [
+              "Significantly lower temperatures than its surrounding rural areas",
+              "Significantly higher temperatures than its surrounding rural areas",
+              "A concept unrelated to urban geography",
+              "No measurable temperature difference from rural areas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Political geography examines how administrative boundaries divide ___.",
+            "options": [
+              "Only natural boundaries like rivers and mountains",
+              "Authority and responsibility across different regions of a country",
+              "A concept unrelated to geography",
+              "Physical landforms with no connection to governance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An urban food desert is best described as an area where residents have limited access to ___.",
+            "options": [
+              "Affordable, healthy food",
+              "Unlimited amounts of fresh food from every nearby store",
+              "Any form of transportation",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review map projections, urban heat islands, political boundaries, and food deserts together?",
+            "options": [
+              "These topics have no meaningful connections",
+              "It reinforces how these interconnected geographic and spatial issues shape regions and communities",
+              "Review is never useful in social studies",
+              "Each topic must be studied with no connection to the others"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
