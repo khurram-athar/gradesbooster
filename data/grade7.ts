@@ -2364,6 +2364,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review international relations and policy topics together?", options:["A reason unrelated to social studies learning","It reinforces how these interconnected historical and political events shaped the modern world","These topics have no connection to one another","Review is never useful when studying history and policy"], answer:1}
    ]},
 ]},
+{day:61, label:"Day 61 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Author’s Purpose and Craft", summary:"Grade 7 Language strand: analyzing an author’s purpose and craft means identifying why a writer chose specific words, structures, or techniques to inform, persuade, or entertain readers.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"An author’s purpose for writing is often to ___.", options:["Avoid any communication with readers","Inform, persuade, or entertain readers","Confuse readers with no clear goal","A concept unrelated to author’s purpose"], answer:1},
+     {q:"Craft in writing refers to ___.", options:["Only the length of a piece of writing","A concept unrelated to writing craft","Random word choices with no purpose","The deliberate techniques and choices a writer uses"], answer:3},
+     {q:"Which is an example of analyzing an author’s craft?", options:["A concept unrelated to analyzing craft","Only counting the number of paragraphs","Ignoring all of the author’s word choices","Noticing why a writer repeats a phrase for emphasis"], answer:3},
+     {q:"If a text mainly explains how something works, its primary purpose is likely to ___.", options:["Inform","A purpose unrelated to explanatory texts","Persuade","Entertain"], answer:0},
+     {q:"Why is it useful for readers to consider an author’s purpose?", options:["It helps readers understand why the text was written and how to interpret it","Every text has exactly the same purpose","A reason unrelated to reading comprehension","Purpose never affects how a text should be read"], answer:0}
+   ]},
+  {subject:"Math", title:"Adding and Subtracting Fractions with Unlike Denominators", summary:"Grade 7 Math strand: adding or subtracting fractions with unlike denominators requires finding a common denominator before combining the numerators.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"To add or subtract fractions with unlike denominators, you must first ___.", options:["Add the denominators together","Ignore the denominators completely","Find a common denominator","A concept unrelated to fraction operations"], answer:2},
+     {q:"What is 1/4 + 1/2?", options:["1/6","3/4","A value unrelated to the calculation","2/6"], answer:1},
+     {q:"What is 2/3 - 1/6?", options:["A value unrelated to the calculation","3/9","1/3","1/2"], answer:3},
+     {q:"What is the least common denominator of 1/3 and 1/4?", options:["12","3","A value unrelated to the calculation","7"], answer:0},
+     {q:"Why is a common denominator needed when adding fractions?", options:["It ensures the fractions represent equal-sized parts that can be combined accurately","Common denominators are never needed for this operation","A reason unrelated to fraction operations","Denominators never affect how fractions are added"], answer:0}
+   ]},
+  {subject:"Science", title:"The Nervous System: Brain, Spinal Cord, and Neurons", summary:"Grade 7 Science strand: the nervous system, made up of the brain, spinal cord, and neurons, controls the body by sending and receiving electrical signals to coordinate actions and responses.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"The nervous system is primarily made up of the brain, spinal cord, and ___.", options:["A structure unrelated to the nervous system","Muscle fibres","Neurons","Red blood cells"], answer:2},
+     {q:"The main function of the nervous system is to ___.", options:["Break down food for digestion","Send and receive signals to control the body’s actions and responses","A function unrelated to the nervous system","Pump blood throughout the body"], answer:1},
+     {q:"A neuron is a specialized cell that ___.", options:["Produces digestive enzymes","Transmits electrical signals throughout the body","A function unrelated to neurons","Stores fat for energy"], answer:1},
+     {q:"Which part of the nervous system acts as the body’s main control centre?", options:["The skin","The brain","The stomach","An organ unrelated to the nervous system"], answer:1},
+     {q:"Why is the spinal cord considered a critical part of the nervous system?", options:["The spinal cord has no connection to sending signals","A reason unrelated to the nervous system","The spinal cord only affects digestion","It carries signals between the brain and the rest of the body"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Fur Trade and Its Impact on Indigenous Peoples and Settlers", summary:"Grade 7 Social Studies strand: the fur trade was an early economic system in Canada built on the exchange of furs, which relied heavily on partnerships and knowledge shared between Indigenous peoples and European settlers.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"The fur trade was primarily built on the exchange of ___.", options:["Furs, especially beaver pelts, for goods","A concept unrelated to the fur trade","Modern currency for stocks","Land for gold"], answer:0},
+     {q:"The fur trade relied heavily on partnerships between ___.", options:["Indigenous peoples and European settlers","Groups with no connection to trade at all","Only European countries with each other","A concept unrelated to the fur trade"], answer:0},
+     {q:"Which skill did Indigenous peoples often contribute to the success of the fur trade?", options:["No useful skills or knowledge at all","A concept unrelated to the fur trade","Knowledge of the land and trapping techniques","Knowledge of overseas shipping routes only"], answer:2},
+     {q:"Why did the fur trade have such a significant impact on early Canada?", options:["The fur trade only affected European countries directly","The fur trade had no effect on Canada’s early development","It shaped economic relationships, exploration, and settlement patterns","A reason unrelated to the fur trade"], answer:2},
+     {q:"Why do historians study the fur trade today?", options:["It helps explain early relationships between Indigenous peoples and European settlers","The fur trade never actually took place in Canada","The fur trade has no historical significance","A reason unrelated to Canadian history"], answer:0}
+   ]},
+]},
+{day:62, label:"Day 62 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Business Letter of Complaint or Request", summary:"Grade 7 Language strand: a business letter of complaint or request uses formal language and a clear structure to address an issue or ask for action from a company or organization.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"A business letter of complaint should use ___.", options:["Casual slang and abbreviations","Formal, polite, and clear language","No greeting or closing at all","A concept unrelated to business letters"], answer:1},
+     {q:"Which is an appropriate opening for a business letter?", options:["A greeting unrelated to formal letters","Hey there!","Yo,","Dear Customer Service Manager,"], answer:3},
+     {q:"A letter of complaint should clearly state ___.", options:["Only compliments about the company","The problem and what resolution is being requested","A concept unrelated to letters of complaint","Nothing specific at all"], answer:1},
+     {q:"Which closing is appropriate for a formal business letter?", options:["A closing unrelated to formal letters","Later,","Sincerely,","See ya,"], answer:2},
+     {q:"Why is a clear, specific description of the problem important in a complaint letter?", options:["Vague complaints are always more effective","A reason unrelated to letter writing","Specific details only confuse the reader","It helps the reader understand exactly what needs to be fixed"], answer:3}
+   ]},
+  {subject:"Math", title:"Multiplying and Dividing Fractions and Mixed Numbers", summary:"Grade 7 Math strand: multiplying fractions involves multiplying numerators and denominators directly, while dividing fractions involves multiplying by the reciprocal of the divisor.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"To multiply two fractions, you ___.", options:["Multiply the numerators together and the denominators together","Find a common denominator first","A concept unrelated to multiplying fractions","Add the numerators together"], answer:0},
+     {q:"What is 1/2 x 2/3?", options:["3/5","1/3","A value unrelated to the calculation","2/6"], answer:1},
+     {q:"To divide by a fraction, you multiply by its ___.", options:["A concept unrelated to dividing fractions","Reciprocal","Denominator squared","Numerator only"], answer:1},
+     {q:"What is 3/4 ÷ 1/2?", options:["3/2","3/8","A value unrelated to the calculation","1/2"], answer:0},
+     {q:"How do you convert a mixed number like 2 1/3 into an improper fraction?", options:["Multiply the whole number by the denominator and add the numerator","A method unrelated to mixed numbers","Add the whole number and denominator together","Multiply the whole number by the numerator only"], answer:0}
+   ]},
+  {subject:"Science", title:"Volcanoes and Earthquakes: Causes and Effects", summary:"Grade 7 Science strand: volcanoes and earthquakes are often caused by the movement of tectonic plates, releasing built-up pressure and energy that can dramatically reshape the Earth’s surface.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"Volcanoes and earthquakes are often caused by ___.", options:["A concept unrelated to volcanoes and earthquakes","Changes in the moon’s orbit","The movement of tectonic plates","A sudden increase in ocean temperature"], answer:2},
+     {q:"An earthquake occurs when ___.", options:["A concept unrelated to earthquakes","Built-up pressure along a fault is suddenly released","The Earth’s surface remains perfectly still","Ocean currents shift direction"], answer:1},
+     {q:"A volcano erupts when ___.", options:["A concept unrelated to volcanic eruptions","Water evaporates from the ocean","Magma and gases escape from beneath the Earth’s surface","The Earth’s crust cools and hardens completely"], answer:2},
+     {q:"Which of these regions is most likely to experience frequent earthquakes and volcanic activity?", options:["A region unrelated to plate boundaries","An area with no connection to plate boundaries at all","An area located far from any plate boundary","An area located along a tectonic plate boundary"], answer:3},
+     {q:"Why do scientists monitor volcanoes and fault lines?", options:["To help predict potential eruptions or earthquakes and protect nearby communities","A reason unrelated to Earth science","Volcanoes and fault lines never pose any risk to communities","Monitoring these areas provides no useful information"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The War of 1812: Causes and Consequences", summary:"Grade 7 Social Studies strand: the War of 1812 was fought between the United States and Britain (with its colonies, including present-day Canada), shaping early Canadian identity and border relations.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"The War of 1812 was fought between the United States and ___.", options:["France, alone, with no other countries involved","Spain, alone, with no other countries involved","A country unrelated to the War of 1812","Britain, including its colonies such as present-day Canada"], answer:3},
+     {q:"Which of these was a cause of the War of 1812?", options:["Trade restrictions and disputes over territory and shipping rights","A complete absence of any tension between the countries","A cause unrelated to the War of 1812","A disagreement about a sporting event"], answer:0},
+     {q:"How did the War of 1812 affect the identity of early Canadians?", options:["It helped strengthen a shared sense of identity in defending their homeland","A reason unrelated to Canadian identity","It had no effect on how Canadians viewed themselves","It caused Canada to become part of the United States"], answer:0},
+     {q:"Which of these was a result of the War of 1812?", options:["All trade between the two nations ended permanently","The border between the United States and British North America remained largely unchanged","A result unrelated to the War of 1812","The United States gained full control over all of British North America"], answer:1},
+     {q:"Why is the War of 1812 an important event in Canadian history?", options:["It played a role in shaping early Canadian identity and relations with the United States","The war had no lasting effects of any kind","The War of 1812 has no connection to Canadian history","A reason unrelated to its historical significance"], answer:0}
+   ]},
+]},
+{day:63, label:"Day 63 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Correcting Run-on Sentences and Comma Splices", summary:"Grade 7 Language strand: a run-on sentence incorrectly joins two independent clauses with no punctuation, while a comma splice incorrectly joins them with only a comma; both can be fixed with a period, semicolon, or conjunction.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"A run-on sentence occurs when ___.", options:["A sentence has only one clause","A concept unrelated to run-on sentences","Two independent clauses are joined with no punctuation","A sentence is too short to make sense"], answer:2},
+     {q:"A comma splice occurs when ___.", options:["A sentence uses too many commas correctly","Two independent clauses are joined by only a comma","A concept unrelated to comma splices","A sentence has no clauses at all"], answer:1},
+     {q:"Which is a correct way to fix a comma splice?", options:["Remove all punctuation from the sentence","A method unrelated to fixing comma splices","Add another comma splice","Replace the comma with a semicolon or add a conjunction"], answer:3},
+     {q:"Which sentence is a run-on?", options:["I finished my homework I went outside to play","I finished my homework, and I went outside to play.","I finished my homework before I went outside.","A sentence unrelated to run-ons"], answer:0},
+     {q:"Why is it important to fix run-on sentences and comma splices?", options:["A reason unrelated to grammar","Run-on sentences are always the correct way to write","These errors never affect a reader’s understanding","They can confuse readers about where one idea ends and another begins"], answer:3}
+   ]},
+  {subject:"Math", title:"Order of Operations with Integers and Exponents (BEDMAS Deeper Dive)", summary:"Grade 7 Math strand: the order of operations (BEDMAS) determines the sequence for evaluating expressions with brackets, exponents, division, multiplication, addition, and subtraction, including those with integers.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"BEDMAS stands for the order: ___.", options:["Addition, Subtraction, Multiplication, Division","An order unrelated to BEDMAS","Brackets, Exponents, Division/Multiplication, Addition/Subtraction","Exponents, Brackets, Subtraction, Addition"], answer:2},
+     {q:"Evaluate: 3 + 4 x 2.", options:["11","10","A value unrelated to the calculation","14"], answer:0},
+     {q:"Evaluate: (2 + 3)².", options:["10","25","A value unrelated to the calculation","13"], answer:1},
+     {q:"Evaluate: -2 + (-3) x 2.", options:["A value unrelated to the calculation","-8","2","-10"], answer:1},
+     {q:"Why must operations be completed in a specific order?", options:["Order of operations never affects the result of a calculation","Expressions can be solved in any order with the same result","Without a consistent order, the same expression could give multiple different, incorrect answers","A reason unrelated to BEDMAS"], answer:2}
+   ]},
+  {subject:"Science", title:"Magnetism and Electromagnets", summary:"Grade 7 Science strand: magnetism is a force that attracts certain materials, such as iron, and an electromagnet is a temporary magnet created when electric current flows through a coiled wire.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"Magnetism is a force that attracts materials such as ___.", options:["Plastic","Iron","A material unrelated to magnetism","Wood"], answer:1},
+     {q:"An electromagnet is created when ___.", options:["A permanent magnet is placed in water","A concept unrelated to electromagnets","A material is heated to a very high temperature","Electric current flows through a coiled wire"], answer:3},
+     {q:"Unlike a permanent magnet, an electromagnet’s magnetism can be ___.", options:["Increased only by cooling it down","Never changed once created","Turned on and off by controlling the electric current","A concept unrelated to electromagnets"], answer:2},
+     {q:"Which of these could increase the strength of an electromagnet?", options:["Removing the electric current entirely","Using a material that does not conduct electricity","A concept unrelated to electromagnets","Increasing the number of coils of wire"], answer:3},
+     {q:"Why are electromagnets useful in devices like electric motors and doorbells?", options:["A reason unrelated to electromagnets","Their magnetism can be controlled and adjusted using electricity","Electromagnets cannot be used in any electrical device","Electromagnets provide no practical use in technology"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Red River Resistance and Louis Riel", summary:"Grade 7 Social Studies strand: the Red River Resistance was led by Louis Riel and the Métis people to protect their land, rights, and way of life as Canada expanded westward in the late 1800s.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"The Red River Resistance was led by ___.", options:["A group with no connection to the Métis","Louis Riel and the Métis people","A group unrelated to the Red River Resistance","A group opposed to protecting any land rights"], answer:1},
+     {q:"The Red River Resistance occurred largely in response to ___.", options:["An unrelated international conflict","Canada’s westward expansion threatening Métis land and rights","A cause unrelated to the Red River Resistance","A sudden decrease in Canada’s population"], answer:1},
+     {q:"The Métis people are often described as having ___.", options:["Ancestry unrelated to Canadian history","Mixed Indigenous and European ancestry","Ancestry entirely unrelated to Canada’s history","No connection to Indigenous or European heritage"], answer:1},
+     {q:"Why is Louis Riel considered a significant figure in Canadian history?", options:["He led efforts to protect Métis rights and land during a period of major change","He opposed all forms of Métis representation","A reason unrelated to his historical significance","He played no role in Canadian history"], answer:0},
+     {q:"Why do students study the Red River Resistance today?", options:["It highlights the struggles for Indigenous and Métis rights during Canada’s expansion","This event has no connection to understanding Canadian history","A reason unrelated to social studies learning","The Red River Resistance never actually took place"], answer:0}
+   ]},
+]},
+{day:64, label:"Day 64 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Homophones and Homographs", summary:"Grade 7 Language strand: homophones are words that sound alike but have different meanings and spellings, while homographs are spelled the same but may have different meanings and pronunciations.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"Homophones are words that ___.", options:["Have the exact same meaning as one another","Are spelled identically but sound different","A concept unrelated to homophones","Sound alike but have different meanings and spellings"], answer:3},
+     {q:"Which pair of words are homophones?", options:["Run and jog","Happy and sad","There and their","A pair unrelated to homophones"], answer:2},
+     {q:"A homograph is a word that ___.", options:["Always sounds completely different from other words","A concept unrelated to homographs","Has only one possible meaning","Is spelled the same as another word but may differ in meaning or pronunciation"], answer:3},
+     {q:"Which word is a homograph, having two different pronunciations and meanings?", options:["A pair unrelated to homographs","Lead (to guide) and lead (the metal)","Cat and dog","Happy and joyful"], answer:1},
+     {q:"Why can homophones be tricky for writers?", options:["Homophones are always spelled identically","Homophones never cause any confusion in writing","A reason unrelated to vocabulary","They are easy to confuse because they sound the same but are spelled differently"], answer:3}
+   ]},
+  {subject:"Math", title:"Volume and Surface Area of Pyramids and Cones", summary:"Grade 7 Math strand: the volume of a pyramid or cone is one-third the volume of a prism or cylinder with the same base and height, and their surface area includes the base plus the slanted lateral surface.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"The volume of a pyramid or cone is ___ the volume of a prism or cylinder with the same base and height.", options:["Three times","A fraction unrelated to this relationship","One-third","Exactly the same as"], answer:2},
+     {q:"The formula for the volume of a cone is ___.", options:["2πrh","A formula unrelated to the volume of a cone","πr²h","(1/3)πr²h"], answer:3},
+     {q:"The surface area of a pyramid includes ___.", options:["Only the base, with no other surfaces","A concept unrelated to surface area","Only the height of the pyramid","The base plus the area of its triangular faces"], answer:3},
+     {q:"If a cone and a cylinder share the same base and height, and the cylinder’s volume is 90 cm³, what is the cone’s volume?", options:["30 cm³","90 cm³","270 cm³","A value unrelated to the calculation"], answer:0},
+     {q:"Why might understanding cone and pyramid volume be useful in real life?", options:["It helps calculate the capacity of objects like ice cream cones or tents","These calculations have no real-world use","Cones and pyramids never have a measurable volume","A reason unrelated to volume"], answer:0}
+   ]},
+  {subject:"Science", title:"The Greenhouse Effect and Global Climate Change", summary:"Grade 7 Science strand: the greenhouse effect occurs when gases in the atmosphere trap heat from the sun, and an increase in these gases from human activity is linked to global climate change.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"The greenhouse effect occurs when gases in the atmosphere ___.", options:["Trap heat from the sun near the Earth’s surface","A concept unrelated to the greenhouse effect","Block all sunlight from reaching the Earth","Remove all heat from the atmosphere"], answer:0},
+     {q:"Which of these is considered a greenhouse gas?", options:["Carbon dioxide","Nitrogen","Oxygen","A gas unrelated to the greenhouse effect"], answer:0},
+     {q:"Which human activity is commonly linked to increased greenhouse gas emissions?", options:["Burning fossil fuels","Drinking water","Planting large numbers of trees","An activity unrelated to greenhouse gases"], answer:0},
+     {q:"A natural greenhouse effect is important because it ___.", options:["A reason unrelated to the greenhouse effect","Has no effect on Earth’s temperature","Keeps the Earth warm enough to support life","Makes the Earth too cold to support life"], answer:2},
+     {q:"Why are scientists concerned about an increase in greenhouse gases from human activity?", options:["Increased greenhouse gases have no effect on global temperatures","Greenhouse gases only affect a single, isolated location","A reason unrelated to climate change","It can lead to rising global temperatures and significant climate changes"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Territorial Evolution: How the Provinces and Territories Joined", summary:"Grade 7 Social Studies strand: Canada’s provinces and territories joined Confederation at different times, gradually expanding the country’s borders from the original four provinces in 1867 to the ten provinces and three territories of today.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Canada began Confederation in 1867 with how many original provinces?", options:["A number unrelated to Confederation","Ten","Thirteen","Four"], answer:3},
+     {q:"Canada’s territorial evolution refers to ___.", options:["A concept unrelated to Canada’s territorial evolution","How provinces and territories gradually joined the country over time","A single event where all provinces joined at once","A process unrelated to Canada’s formation"], answer:1},
+     {q:"Why might a region have chosen to join Confederation?", options:["Regions were required to remain isolated forever","No benefit was ever offered to any region","Economic, political, or security benefits of joining a larger country","A reason unrelated to Confederation"], answer:2},
+     {q:"How many provinces and territories make up Canada today?", options:["Four provinces and no territories","A number unrelated to Canada today","Ten provinces and three territories","Twenty provinces and five territories"], answer:2},
+     {q:"Why is it useful to study how Canada’s provinces and territories joined over time?", options:["It helps explain the country’s political development and regional differences","This history has no connection to understanding Canada today","Canada’s borders have never changed since 1867","A reason unrelated to social studies learning"], answer:0}
+   ]},
+]},
+{day:65, label:"Day 65 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Internal and External Conflict", summary:"Grade 7 Language strand: internal conflict is a struggle within a character’s own mind, while external conflict is a struggle between a character and an outside force, such as another character or nature.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"Internal conflict is a struggle ___.", options:["Between two separate characters","Within a character’s own mind","A concept unrelated to internal conflict","Between a character and the weather"], answer:1},
+     {q:"External conflict is a struggle between a character and ___.", options:["An outside force, such as another character or nature","Only their own thoughts and feelings","A concept unrelated to external conflict","Nothing at all"], answer:0},
+     {q:"Which is an example of internal conflict?", options:["A character struggling to decide between telling the truth or a lie","A character fighting against a storm at sea","A concept unrelated to internal conflict","Two characters arguing over a game"], answer:0},
+     {q:"Which is an example of external conflict?", options:["A character reflecting quietly alone","A concept unrelated to external conflict","A character competing against a rival in a race","A character silently doubting their own abilities"], answer:2},
+     {q:"Why might an author include both internal and external conflict in a story?", options:["A reason unrelated to narrative writing","It adds depth by showing a character’s inner struggles alongside outside challenges","Stories are always more interesting with no conflict at all","Conflict never adds depth to a story"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Combinations and Permutations (Intro)", summary:"Grade 7 Math strand: a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"A permutation counts arrangements where ___.", options:["Order matters","Only one arrangement is ever possible","A concept unrelated to permutations","Order does not matter at all"], answer:0},
+     {q:"A combination counts selections where ___.", options:["A concept unrelated to combinations","Order does not matter","Order always matters","No selection is ever possible"], answer:1},
+     {q:"How many ways can you arrange the letters A, B, and C in order?", options:["6","9","A value unrelated to the calculation","3"], answer:0},
+     {q:"If you are choosing 2 fruits from a bowl of apples, bananas, and oranges, and order does not matter, this is an example of a ___.", options:["Ratio","Combination","A concept unrelated to this scenario","Permutation"], answer:1},
+     {q:"Why might the number of permutations of a set be larger than the number of combinations of the same set?", options:["Combinations always count more possibilities than permutations","Permutations count every different order separately, while combinations group the same items together regardless of order","Permutations and combinations always produce the exact same count","A reason unrelated to probability"], answer:1}
+   ]},
+  {subject:"Science", title:"Density and Buoyancy", summary:"Grade 7 Science strand: density is the amount of mass in a given volume of a substance, and buoyancy explains why objects less dense than a fluid float while denser objects sink.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"Density is defined as ___.", options:["The total weight of an object with no reference to volume","The temperature of a substance","A concept unrelated to density","The amount of mass in a given volume of a substance"], answer:3},
+     {q:"An object will float in water if it is ___.", options:["A concept unrelated to buoyancy","More dense than water","Exactly the same temperature as water","Less dense than water"], answer:3},
+     {q:"An object will sink in water if it is ___.", options:["Less dense than water","Perfectly round in shape","More dense than water","A concept unrelated to sinking"], answer:2},
+     {q:"Which formula correctly represents density?", options:["Mass multiplied by temperature","Mass divided by volume","Volume divided by mass","A formula unrelated to density"], answer:1},
+     {q:"Why can a large steel ship float, even though steel is denser than water?", options:["Ships are not affected by buoyancy at all","Its overall shape displaces enough water to make its average density less than water","A reason unrelated to buoyancy","Steel always floats regardless of its shape"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Human Rights: The Universal Declaration and Canadian Protections", summary:"Grade 7 Social Studies strand: the Universal Declaration of Human Rights outlines fundamental rights meant to be protected for all people, and Canada upholds many of these rights through its own laws and protections.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"The Universal Declaration of Human Rights outlines rights meant to be protected for ___.", options:["Only government leaders","All people","Only citizens of a single country","A group unrelated to human rights"], answer:1},
+     {q:"Which of these is an example of a fundamental human right?", options:["A concept unrelated to human rights","The right to freedom of expression","The right to ignore all laws","The right to control every other person’s beliefs"], answer:1},
+     {q:"Canada protects many human rights through laws such as ___.", options:["A law that removes protections for citizens","A law unrelated to Canadian rights protections","A law with no connection to human rights","The Canadian Charter of Rights and Freedoms"], answer:3},
+     {q:"Why was the Universal Declaration of Human Rights created after World War II?", options:["To help prevent future atrocities by establishing shared international standards for human dignity","A reason unrelated to its historical origins","It was created with no connection to global events","It aimed to reduce cooperation between countries"], answer:0},
+     {q:"Why is it valuable for students to learn about human rights?", options:["Human rights have no connection to understanding society","It helps them understand the protections and responsibilities that support a fair society","A reason unrelated to social studies learning","Human rights are a concept limited to only one country"], answer:1}
+   ]},
+]},
+{day:66, label:"Day 66 — Mon", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Memes and Internet Culture", summary:"Grade 7 Language strand: memes use images, text, and humour to quickly spread ideas online, and analyzing them involves considering their intended message, audience, and potential impact.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"A meme typically combines ___.", options:["A concept unrelated to memes","Silence with no message at all","Only long paragraphs of formal text","Images, text, and humour to spread an idea quickly"], answer:3},
+     {q:"When analyzing a meme, it is useful to consider ___.", options:["A concept unrelated to analyzing memes","Only how many colours it uses","Its intended message, audience, and potential impact","Nothing, since memes have no meaning"], answer:2},
+     {q:"Why can memes spread ideas quickly online?", options:["Memes are always difficult to understand quickly","Memes cannot be shared online","A reason unrelated to internet culture","They are easy to share, understand, and relate to at a glance"], answer:3},
+     {q:"Which is a potential concern when analyzing internet culture and memes?", options:["Internet culture has no connection to media literacy","Memes can spread misinformation or biased ideas quickly","A concept unrelated to media literacy","Memes never influence how people think"], answer:1},
+     {q:"Why is media literacy important when engaging with internet culture?", options:["It helps people think critically about the messages behind online content","Critical thinking is never needed online","All online content is equally accurate and reliable","A reason unrelated to media literacy"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: Solving Equations Involving Fractions and Decimals", summary:"Grade 7 Math strand: solving equations involving fractions or decimals often involves multiplying through by a common denominator or power of ten to clear the fractions or decimals before isolating the variable.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"One strategy for solving an equation with fractions is to ___.", options:["Add the denominators together first","Ignore the fractions completely","Multiply every term by a common denominator to clear the fractions","A concept unrelated to solving equations"], answer:2},
+     {q:"Solve for x: x/2 + 3 = 7.", options:["x = 20","x = 5","x = 8","A value unrelated to the calculation"], answer:2},
+     {q:"Solve for x: 0.5x = 10.", options:["x = 10.5","x = 5","x = 20","A value unrelated to the calculation"], answer:2},
+     {q:"Solve for x: x/3 = 4.", options:["x = 1.33","x = 12","A value unrelated to the calculation","x = 7"], answer:1},
+     {q:"Why might clearing fractions or decimals make an equation easier to solve?", options:["Fractions and decimals never affect how an equation is solved","It allows the equation to be solved using simpler whole-number operations","Clearing fractions or decimals always makes an equation harder to solve","A reason unrelated to solving equations"], answer:1}
+   ]},
+  {subject:"Science", title:"Invasive Species and Their Impact on Ecosystems", summary:"Grade 7 Science strand: an invasive species is a non-native organism introduced to an ecosystem, often causing harm by outcompeting native species for resources.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"An invasive species is a ___.", options:["Non-native organism introduced to an ecosystem","Native organism that has always lived in an ecosystem","Organism that has no effect on any ecosystem","A concept unrelated to invasive species"], answer:0},
+     {q:"Invasive species often harm ecosystems by ___.", options:["Having no interaction with native species at all","A concept unrelated to invasive species","Providing extra resources for every native species","Outcompeting native species for food, space, or resources"], answer:3},
+     {q:"Which of these is a way an invasive species might be introduced to a new ecosystem?", options:["A method unrelated to species introduction","Evolving naturally within that same ecosystem over time","Appearing with no possible explanation","Accidentally transported through international shipping or trade"], answer:3},
+     {q:"Why can invasive species be especially difficult to control once established?", options:["Invasive species always disappear naturally within a few days","A reason unrelated to invasive species","Invasive species are never able to survive in a new environment","They often lack natural predators in their new environment"], answer:3},
+     {q:"Why do scientists study the impact of invasive species on ecosystems?", options:["Invasive species have no real impact on ecosystems worth studying","A reason unrelated to ecology","To better understand and manage the risks they pose to native biodiversity","Studying invasive species provides no useful environmental information"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Electoral System and the Voting Process", summary:"Grade 7 Social Studies strand: Canada’s electoral system allows citizens to vote for representatives in federal, provincial, and municipal elections, playing a key role in how government leaders are chosen.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Canada’s electoral system allows citizens to ___.", options:["A concept unrelated to Canada’s electoral system","Choose their own laws with no representatives at all","Vote for representatives in government elections","Vote only once in their entire lifetime"], answer:2},
+     {q:"In a federal election, Canadians vote for a representative in their ___.", options:["Riding or constituency","Household only","A concept unrelated to federal elections","Entire province at once"], answer:0},
+     {q:"Which level of government holds elections for a mayor and city council?", options:["Federal government","Municipal government","No level of government holds these elections","A level of government unrelated to city elections"], answer:1},
+     {q:"Why is voting considered an important civic responsibility?", options:["Citizens have no role in choosing government leaders","It allows citizens to have a voice in choosing their government representatives","Voting has no effect on who leads the government","A reason unrelated to civic responsibility"], answer:1},
+     {q:"Why might it be important for citizens to understand the voting process before an election?", options:["A reason unrelated to voting","The voting process is not open to input from citizens","Understanding the voting process has no effect on participation","It helps ensure they can participate confidently and effectively in choosing their representatives"], answer:3}
+   ]},
+]},
+{day:67, label:"Day 67 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Public Service Announcement (PSA) Script", summary:"Grade 7 Language strand: a public service announcement (PSA) script delivers a brief, persuasive message about an important issue, using clear language and a strong call to action aimed at a specific audience.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"A public service announcement (PSA) is designed to ___.", options:["Tell a long fictional story with no clear message","Sell a specific product for profit","Deliver a brief, persuasive message about an important issue","A concept unrelated to PSAs"], answer:2},
+     {q:"A strong PSA typically includes a clear ___.", options:["A concept unrelated to PSAs","Random collection of unrelated facts","Long list of characters","Call to action"], answer:3},
+     {q:"Why should a PSA be written for a specific audience?", options:["Audience has no effect on how a PSA is written","A reason unrelated to writing a PSA","PSAs are always exactly the same for every audience","Tailoring the message helps it connect and resonate with that audience"], answer:3},
+     {q:"Which is an appropriate topic for a PSA?", options:["Encouraging people to recycle to protect the environment","A private diary entry with no public message","A fictional adventure story with dragons","A concept unrelated to PSA topics"], answer:0},
+     {q:"Why is concise, clear language important in a PSA script?", options:["PSAs are often short, so the message must be understood quickly","Clarity is never important in this type of writing","PSAs are always very long with no time limit","A reason unrelated to writing a PSA"], answer:0}
+   ]},
+  {subject:"Math", title:"Data: Line Graphs and Analyzing Trends Over Time", summary:"Grade 7 Math strand: a line graph displays how data changes over time, and analyzing its trend involves identifying whether values are increasing, decreasing, or staying constant.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"A line graph is especially useful for showing ___.", options:["Data with no connection to time at all","Only a single data point with no comparison","A concept unrelated to line graphs","How data changes over time"], answer:3},
+     {q:"If a line graph slopes upward from left to right, the trend is ___.", options:["A trend unrelated to this description","Increasing","Decreasing","Staying exactly constant"], answer:1},
+     {q:"If a line graph slopes downward from left to right, the trend is ___.", options:["A trend unrelated to this description","Decreasing","Impossible to determine","Increasing"], answer:1},
+     {q:"A flat, horizontal section of a line graph indicates that the data is ___.", options:["Increasing rapidly","Missing entirely","Staying constant over that period","A concept unrelated to line graphs"], answer:2},
+     {q:"Why might a business analyze trends on a line graph of monthly sales?", options:["It helps identify patterns that can inform future planning and decisions","Line graphs cannot be used to analyze sales data","Trends on a line graph provide no useful information","A reason unrelated to analyzing data"], answer:0}
+   ]},
+  {subject:"Science", title:"Biotechnology and Genetic Engineering (Intro)", summary:"Grade 7 Science strand: biotechnology uses living organisms or their processes to develop useful products, and genetic engineering involves directly modifying an organism’s DNA for a specific purpose.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"Biotechnology uses ___.", options:["A concept unrelated to biotechnology","A process unrelated to living organisms","Living organisms or their processes to develop useful products","Only non-living materials with no biological component"], answer:2},
+     {q:"Genetic engineering involves ___.", options:["A concept unrelated to genetic engineering","Studying an organism’s DNA with no modifications at all","Directly modifying an organism’s DNA for a specific purpose","Removing all DNA from an organism"], answer:2},
+     {q:"Which of these is an example of a biotechnology application?", options:["Painting a picture of a landscape","Developing crops that are more resistant to disease","A concept unrelated to biotechnology","Building a bridge using steel and concrete"], answer:1},
+     {q:"Why might scientists genetically engineer certain crops?", options:["Genetic engineering has no effect on a crop’s traits","A reason unrelated to genetic engineering","To make crops less nutritious on purpose","To improve traits like disease resistance or nutritional value"], answer:3},
+     {q:"Why is biotechnology an important and sometimes debated topic in science?", options:["It raises both potential benefits and ethical questions about modifying living organisms","Biotechnology has no real-world applications or implications","A reason unrelated to biotechnology","Biotechnology is a topic with no connection to ethics or society"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Income Inequality and Wealth Distribution", summary:"Grade 7 Social Studies strand: income inequality refers to the uneven distribution of income and wealth within a society, and studying it helps explain economic challenges and opportunities faced by different groups.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Income inequality refers to ___.", options:["A concept unrelated to economics","A concept unrelated to income inequality","A society where everyone earns exactly the same amount","The uneven distribution of income and wealth within a society"], answer:3},
+     {q:"Which of these could be a cause of income inequality?", options:["Every person having identical access to resources","A cause unrelated to economic factors","Unequal access to education and job opportunities","A cause unrelated to income inequality"], answer:2},
+     {q:"Which of these is a potential effect of significant income inequality?", options:["An effect unrelated to income inequality","Complete economic equality for all citizens","No effect on any aspect of society","Unequal access to healthcare, housing, or education"], answer:3},
+     {q:"Which of these is a policy some governments use to help address income inequality?", options:["Progressive taxation, where higher earners pay a higher tax rate","A policy unrelated to reducing inequality","A policy unrelated to income or taxation","A policy that increases inequality on purpose"], answer:0},
+     {q:"Why is income inequality an important topic to study in social studies?", options:["Income inequality is a concern only in fictional scenarios","Income inequality has no connection to social studies topics","It connects to economics, fairness, and the well-being of communities","A reason unrelated to this unit"], answer:2}
+   ]},
+]},
+{day:68, label:"Day 68 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Using Transitional Phrases to Link Ideas", summary:"Grade 7 Language strand: transitional phrases, such as “in addition” or “as a result,” connect ideas within and between paragraphs, helping writing flow logically and clearly.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"Transitional phrases help writing by ___.", options:["Removing the need for paragraphs entirely","Connecting ideas logically within and between paragraphs","Making ideas more confusing and disconnected","A concept unrelated to transitional phrases"], answer:1},
+     {q:"Which phrase could signal a cause-and-effect relationship?", options:["As a result","In contrast","A phrase unrelated to cause and effect","For example"], answer:0},
+     {q:"Which phrase could signal a contrast between two ideas?", options:["On the other hand","In addition","Similarly","A phrase unrelated to signalling contrast"], answer:0},
+     {q:"Which phrase could be used to add a similar or additional idea?", options:["A phrase unrelated to adding ideas","Nevertheless","In addition","However"], answer:2},
+     {q:"Why might a writer use transitional phrases throughout an essay?", options:["Transitional phrases always make an essay harder to follow","A reason unrelated to transitional phrases","Ideas never need to be connected in writing","They guide the reader smoothly from one idea to the next"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Income, Expenses, and Net Worth", summary:"Grade 7 Math strand: net worth is calculated by subtracting total expenses or debts from total income or assets, helping individuals understand and track their overall financial position.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"Net worth is calculated by ___.", options:["A concept unrelated to net worth","Subtracting total debts from total assets","Multiplying income by a fixed rate","Adding income and expenses together"], answer:1},
+     {q:"Income refers to ___.", options:["Money spent on goods and services","A type of debt owed to a bank","Money earned or received, such as from a job","A concept unrelated to income"], answer:2},
+     {q:"Expenses refer to ___.", options:["Money spent on goods, services, or bills","A type of savings account","A concept unrelated to expenses","Money earned from working"], answer:0},
+     {q:"If a person has $5,000 in assets and $2,000 in debts, what is their net worth?", options:["A value unrelated to the calculation","$7,000","$2,500","$3,000"], answer:3},
+     {q:"Why is tracking income and expenses important for financial literacy?", options:["Net worth has no connection to income or expenses","It helps individuals understand their financial position and make informed spending decisions","A reason unrelated to financial literacy","Tracking income and expenses provides no useful financial information"], answer:1}
+   ]},
+  {subject:"Science", title:"Groundwater and the Water Table", summary:"Grade 7 Science strand: groundwater is water stored beneath the Earth’s surface in soil and rock, and the water table marks the upper boundary of the area saturated with this water.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"Groundwater is water that is stored ___.", options:["In clouds high in the atmosphere","A concept unrelated to groundwater","Only on the surface of oceans and lakes","Beneath the Earth’s surface, in soil and rock"], answer:3},
+     {q:"The water table marks ___.", options:["A concept unrelated to the water table","The boundary between two oceans","The exact centre of the Earth","The upper boundary of the area saturated with groundwater"], answer:3},
+     {q:"Which of these could cause the water table to drop?", options:["A cause unrelated to the water table","A significant increase in annual rainfall","Excessive pumping of groundwater for human use","A process unrelated to groundwater levels"], answer:2},
+     {q:"A well is typically drilled deep enough to reach ___.", options:["Only the very surface of the soil","A concept unrelated to wells","A location with no connection to groundwater","Below the water table, where groundwater is present"], answer:3},
+     {q:"Why is groundwater an important resource to protect from pollution?", options:["Groundwater has no connection to drinking water supplies","A reason unrelated to groundwater","Pollution never affects groundwater quality","Many communities rely on it as a source of drinking water"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Urban vs. Rural Life in Canada", summary:"Grade 7 Social Studies strand: urban areas are densely populated with access to many services, while rural areas have lower population density and often rely more on agriculture or natural resources, creating distinct lifestyles across Canada.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Urban areas are generally characterized by ___.", options:["Very low populations with few services","A complete absence of any people","Dense populations and many available services","A concept unrelated to urban areas"], answer:2},
+     {q:"Rural areas often rely more heavily on ___.", options:["Only large corporate offices","A concept unrelated to rural economies","Agriculture or natural resources","A resource unrelated to rural economies"], answer:2},
+     {q:"Which of these might be a challenge faced by people living in rural areas?", options:["A challenge unrelated to rural areas","Longer travel distances to access certain services","An overwhelming number of nearby services","No connection to distance or access at all"], answer:1},
+     {q:"Which of these might be a challenge faced by people living in urban areas?", options:["No population at all","Higher cost of living and traffic congestion","A complete absence of any nearby services","A challenge unrelated to urban areas"], answer:1},
+     {q:"Why is it useful to compare urban and rural life in Canada?", options:["Comparing these areas has no relevance to social studies","Urban and rural life are always identical in every way","A reason unrelated to social studies learning","It helps explain how geography and population affect people’s daily lives and opportunities"], answer:3}
+   ]},
+]},
+{day:69, label:"Day 69 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Evaluating an Author’s Credentials and Expertise", summary:"Grade 7 Language strand: evaluating an author’s credentials and expertise involves considering their background, training, and experience to judge how reliable their claims about a topic might be.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"An author’s credentials refer to their ___.", options:["A concept unrelated to author credentials","Background, training, and experience related to a topic","Physical appearance","Favourite hobbies with no connection to the topic"], answer:1},
+     {q:"Why might a reader check an author’s expertise before trusting their claims?", options:["A reason unrelated to evaluating sources","An author’s background never affects how reliable their claims are","Expertise can indicate how reliable and well-informed the author’s claims are likely to be","All authors are equally reliable regardless of expertise"], answer:2},
+     {q:"Which is an example of a credential that might support an author’s expertise on a medical topic?", options:["A hobby unrelated to medicine","A concept unrelated to medical expertise","Years of experience working as a doctor","No connection to the medical field at all"], answer:2},
+     {q:"Why might a text written by someone with no relevant expertise be viewed with more caution?", options:["The claims may be less informed or less reliable without proper background knowledge","Expertise never matters when evaluating a text","A reason unrelated to evaluating a text","A lack of expertise always makes a text more trustworthy"], answer:0},
+     {q:"Why is evaluating an author’s credentials an important reading skill?", options:["It helps readers judge how much trust to place in a text’s claims","This skill has no effect on understanding a text","A reason unrelated to reading comprehension","Every author’s claims should be trusted equally without question"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Constructing Triangles and Angle Bisectors", summary:"Grade 7 Math strand: triangles can be constructed using given side lengths or angles, and an angle bisector is a line that divides an angle into two equal parts.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"An angle bisector divides an angle into ___.", options:["Four unequal parts","A concept unrelated to angle bisectors","Three equal parts","Two equal parts"], answer:3},
+     {q:"To construct a triangle given three side lengths, a compass is often used to ___.", options:["Draw a circle unrelated to the triangle","A concept unrelated to triangle construction","Measure the temperature of the triangle","Mark equal distances from given points"], answer:3},
+     {q:"If an angle measures 60 degrees, its bisector creates two angles of ___ each.", options:["60 degrees","15 degrees","30 degrees","A value unrelated to the calculation"], answer:2},
+     {q:"Which set of side lengths could NOT form a triangle?", options:["3 cm, 4 cm, and 5 cm","2 cm, 2 cm, and 10 cm","A set unrelated to triangle construction","5 cm, 6 cm, and 7 cm"], answer:1},
+     {q:"Why might construction tools like a compass and straightedge be used in geometry?", options:["These tools never help with accuracy in geometry","A reason unrelated to geometric construction","Constructions can always be done more accurately by estimating","They allow for precise, accurate constructions of shapes and angles"], answer:3}
+   ]},
+  {subject:"Science", title:"The Integumentary System: Skin, Hair, and Nails", summary:"Grade 7 Science strand: the integumentary system, made up of the skin, hair, and nails, protects the body from injury and infection while helping regulate body temperature.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"The integumentary system is made up of the skin, hair, and ___.", options:["Nails","Blood vessels only","A structure unrelated to the integumentary system","Bones"], answer:0},
+     {q:"One main function of the skin is to ___.", options:["A function unrelated to the skin","Pump blood throughout the body","Protect the body from injury and infection","Digest food for the body"], answer:2},
+     {q:"The skin helps regulate body temperature through processes such as ___.", options:["Digesting food","A process unrelated to temperature regulation","Filtering air for the lungs","Sweating"], answer:3},
+     {q:"Which of these is a function of hair on the human body?", options:["Providing some protection and insulation","A function unrelated to hair","Breaking down food in the stomach","Pumping blood through the body"], answer:0},
+     {q:"Why is the integumentary system considered the body’s first line of defence?", options:["A reason unrelated to the integumentary system","This system has no protective function at all","It forms a protective barrier between the body and the outside environment","The integumentary system is located entirely inside the body"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Mining and Natural Resource Industries", summary:"Grade 7 Social Studies strand: Canada’s mining and natural resource industries extract valuable materials like minerals and metals, playing a significant role in the economy while raising important questions about environmental impact.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Canada’s mining industry primarily focuses on extracting ___.", options:["Minerals and metals","A concept unrelated to mining","Only water resources","A resource unrelated to mining"], answer:0},
+     {q:"Why are mining and natural resource industries significant to Canada’s economy?", options:["These industries provide no economic benefit at all","They have no connection to Canada’s economy","They provide jobs and generate significant economic activity","A reason unrelated to Canada’s economy"], answer:2},
+     {q:"Which of these is a potential environmental concern related to mining?", options:["A concern unrelated to mining","Mining always improves the surrounding environment","Disruption of ecosystems and habitats near mining sites","Mining has no possible environmental impact"], answer:2},
+     {q:"Why might governments regulate mining and resource extraction?", options:["A reason unrelated to resource regulation","Regulations provide no benefit to the environment or communities","Mining requires no regulation of any kind","To help balance economic benefits with environmental and community protection"], answer:3},
+     {q:"Why is it useful for students to learn about Canada’s natural resource industries?", options:["Natural resource industries have no connection to understanding Canada","A reason unrelated to social studies learning","It helps them understand economic development alongside environmental responsibility","This topic is not relevant to social studies learning"], answer:2}
+   ]},
+]},
+{day:70, label:"Day 70 — Fri", subjects:[
+  {subject:"Language", title:"Review: Language Skills (Days 61-69)", summary:"Grade 7 Language strand: this review lesson revisits key ideas from Days 61-69, including author’s purpose, business letters, run-on sentences, homophones, conflict, memes, PSAs, transitions, and author credibility.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"An author’s purpose for writing is often to ___.", options:["Confuse readers with no clear goal","A concept unrelated to author’s purpose","Inform, persuade, or entertain readers","Avoid any communication with readers"], answer:2},
+     {q:"A run-on sentence occurs when ___.", options:["A sentence is too short to make sense","A concept unrelated to run-on sentences","A sentence has only one clause","Two independent clauses are joined with no punctuation"], answer:3},
+     {q:"Internal conflict is a struggle ___.", options:["A concept unrelated to internal conflict","Between two separate characters","Within a character’s own mind","Between a character and the weather"], answer:2},
+     {q:"Transitional phrases help writing by ___.", options:["A concept unrelated to transitional phrases","Removing the need for paragraphs entirely","Connecting ideas logically within and between paragraphs","Making ideas more confusing and disconnected"], answer:2},
+     {q:"Why is it useful to review purpose, structure, grammar, and evaluation skills together?", options:["It reinforces how these language skills work together for effective reading and writing","Review never helps strengthen understanding of language","These skills have no connection to each other","A reason unrelated to reviewing language skills"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Math Skills (Days 61-69)", summary:"Grade 7 Math strand: this review lesson revisits key ideas from Days 61-69, including fraction operations, order of operations, pyramid and cone volume, combinations and permutations, and financial literacy.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is 1/4 + 1/2?", options:["A value unrelated to the calculation","1/6","3/4","2/6"], answer:2},
+     {q:"Evaluate: 3 + 4 x 2.", options:["14","10","11","A value unrelated to the calculation"], answer:2},
+     {q:"A permutation counts arrangements where ___.", options:["Only one arrangement is ever possible","Order matters","A concept unrelated to permutations","Order does not matter at all"], answer:1},
+     {q:"Net worth is calculated by ___.", options:["Multiplying income by a fixed rate","Adding income and expenses together","A concept unrelated to net worth","Subtracting total debts from total assets"], answer:3},
+     {q:"Why is it useful to review fraction operations, order of operations, geometry, probability, and finance together?", options:["These topics have no connection to each other","A reason unrelated to reviewing math","It reinforces how these math concepts connect and build on one another","Review never helps strengthen understanding of math"], answer:2}
+   ]},
+  {subject:"Science", title:"Review: Science Skills (Days 61-69)", summary:"Grade 7 Science strand: this review lesson revisits key ideas from Days 61-69, including the nervous system, volcanoes and earthquakes, magnetism, the greenhouse effect, and biotechnology.",
+   resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"The nervous system is primarily made up of the brain, spinal cord, and ___.", options:["Neurons","Muscle fibres","A structure unrelated to the nervous system","Red blood cells"], answer:0},
+     {q:"Volcanoes and earthquakes are often caused by ___.", options:["A sudden increase in ocean temperature","The movement of tectonic plates","A concept unrelated to volcanoes and earthquakes","Changes in the moon’s orbit"], answer:1},
+     {q:"The greenhouse effect occurs when gases in the atmosphere ___.", options:["Trap heat from the sun near the Earth’s surface","Remove all heat from the atmosphere","A concept unrelated to the greenhouse effect","Block all sunlight from reaching the Earth"], answer:0},
+     {q:"Genetic engineering involves ___.", options:["Directly modifying an organism’s DNA for a specific purpose","Studying an organism’s DNA with no modifications at all","Removing all DNA from an organism","A concept unrelated to genetic engineering"], answer:0},
+     {q:"Why is it useful to review body systems, Earth processes, and emerging technologies together?", options:["It reinforces how these interconnected science concepts relate to one another","These topics have no connection to each other","Review is never useful in science","A reason unrelated to reviewing science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Review: Social Studies Skills (Days 61-69)", summary:"Grade 7 Social Studies strand: this review lesson revisits key ideas from Days 61-69, including the fur trade, the War of 1812, the Red River Resistance, Confederation’s expansion, human rights, and Canada’s electoral system.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"The fur trade was primarily built on the exchange of ___.", options:["Land for gold","Furs, especially beaver pelts, for goods","A concept unrelated to the fur trade","Modern currency for stocks"], answer:1},
+     {q:"The Red River Resistance was led by ___.", options:["A group unrelated to the Red River Resistance","A group with no connection to the Métis","Louis Riel and the Métis people","A group opposed to protecting any land rights"], answer:2},
+     {q:"The Universal Declaration of Human Rights outlines rights meant to be protected for ___.", options:["Only government leaders","All people","A group unrelated to human rights","Only citizens of a single country"], answer:1},
+     {q:"Canada’s electoral system allows citizens to ___.", options:["Choose their own laws with no representatives at all","A concept unrelated to Canada’s electoral system","Vote only once in their entire lifetime","Vote for representatives in government elections"], answer:3},
+     {q:"Why is it useful to review Canadian history, rights, and government together?", options:["A reason unrelated to reviewing social studies","Review is never useful when studying history and government","These topics have no connection to one another","It reinforces how these interconnected historical and political topics shaped modern Canada"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
