@@ -2991,6 +2991,586 @@ const curriculum: DayContent[] = [
      {prompt:"What shape is a stop sign?", answers:["octagon","eight sided shape"]}
    ]},
 ]},
+{day:61, label:"Day 61 — Mon", subjects:[
+  {subject:"Language", title:"Letter Sounds Review: Consonant Blends", summary:"Students learn that two consonants can blend together at the start of a word, such as bl in black or st in stop, and practise hearing both sounds.",
+   resourceLabel:"YouTube: Letter Sounds Review: Consonant Blends", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Sounds%20Review%3A%20Consonant%20Blends%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word begins with the blend st?", options:["Run","Dog","Stop","Cat"], answer:2},
+     {q:"Which word begins with the blend bl?", options:["Hat","Sun","Black","Pig"], answer:2},
+     {q:"In the word flag, which two letters blend together?", options:["Fl","Ag","Gl","La"], answer:0},
+     {q:"A consonant blend is when two consonant letters ___.", options:["Turn into vowels","Are never used","Are silent","Blend their sounds together"], answer:3},
+     {q:"Which word begins with the blend gr?", options:["Man","Green","Top","Sit"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the start of the word stop?", answers:["st"]},
+     {prompt:"What two letters blend together at the start of the word black?", answers:["bl"]},
+     {prompt:"Say the word flag. What two letters blend at the start?", answers:["fl"]}
+   ]},
+  {subject:"Math", title:"Number Words 11 to 20", summary:"Students learn to read and match the written number words for eleven through twenty, such as eleven, fifteen, and twenty, to their matching numerals.",
+   resourceLabel:"YouTube: Number Words 11 to 20", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Words%2011%20to%2020%20kindergarten%20educational",
+   quiz:[
+     {q:"Which number word matches the numeral 12?", options:["Ten","Twelve","Twenty","Two"], answer:1},
+     {q:"Which number word matches the numeral 16?", options:["Ten","Six","Sixteen","Sixty"], answer:2},
+     {q:"Which numeral matches the word nineteen?", options:["91","9","90","19"], answer:3},
+     {q:"Which number word matches the numeral 20?", options:["Ten","Two","Twelve","Twenty"], answer:3},
+     {q:"Which numeral matches the word eleven?", options:["1","111","10","11"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Write the number word for 11.", answers:["eleven"]},
+     {prompt:"Write the number word for 15.", answers:["fifteen"]},
+     {prompt:"Write the number word for 20.", answers:["twenty"]}
+   ]},
+  {subject:"Science", title:"Our Eyes: Seeing Colours and Shapes", summary:"Students learn that eyes help us see colours, shapes, and light, and explore how our two eyes work together to help us see the world around us.",
+   resourceLabel:"YouTube: Our Eyes: Seeing Colours and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Eyes%3A%20Seeing%20Colours%20and%20Shapes%20kindergarten%20educational",
+   quiz:[
+     {q:"What body part helps us see colours and shapes?", options:["Nose","Elbow","Eyes","Ears"], answer:2},
+     {q:"How many eyes does a person usually have?", options:["4","3","2","1"], answer:2},
+     {q:"Which of these can our eyes help us notice?", options:["Sounds only","Colours and shapes","Tastes only","Smells only"], answer:1},
+     {q:"Why do we have two eyes instead of one?", options:["Eyes do not help us see","They work together to help us see well","Only one eye is ever used","Two eyes are not useful"], answer:1},
+     {q:"Which of these would you use your eyes to notice?", options:["A loud drum","A bright red ball","A soft touch","A sweet smell"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What body part do we use to see?", answers:["eyes"]},
+     {prompt:"How many eyes do most people have?", answers:["2","two"]},
+     {prompt:"Name one colour your eyes can help you see, like red or blue.", answers:["red","blue","green","yellow"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Postal Worker: Delivering Mail", summary:"Students learn about the job of a postal worker, who delivers letters and packages to homes and businesses in the community every day.",
+   resourceLabel:"YouTube: Our Postal Worker: Delivering Mail", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Postal%20Worker%3A%20Delivering%20Mail%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a postal worker deliver?", options:["Mail and packages","Water only","Toys only","Food only"], answer:0},
+     {q:"Where might a postal worker deliver mail?", options:["Only to farms","Nowhere at all","Only to the moon","To homes and businesses"], answer:3},
+     {q:"Why is the job of a postal worker helpful to a community?", options:["It is not helpful","Only businesses need mail","It helps people send and receive mail","Mail is never needed"], answer:2},
+     {q:"Which of these is something a postal worker might wear or use?", options:["A chef hat","A stethoscope","A mail bag","A fire hose"], answer:2},
+     {q:"A postal worker is an example of a ___.", options:["Story character","Weather tool","Wild animal","Community helper"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a postal worker deliver to our homes?", answers:["mail","letters","packages"]},
+     {prompt:"Name one thing a postal worker might carry, like a letter or package.", answers:["letter","package","mail"]},
+     {prompt:"Does a postal worker help our community by delivering mail?", answers:["yes"]}
+   ]},
+]},
+{day:62, label:"Day 62 — Tue", subjects:[
+  {subject:"Language", title:"Ending Blends: Two Sounds at the End", summary:"Students learn that two consonants can blend together at the end of a word, such as nd in hand or st in fast, and practise hearing both ending sounds.",
+   resourceLabel:"YouTube: Ending Blends: Two Sounds at the End", resourceUrl:"https://www.youtube.com/results?search_query=Ending%20Blends%3A%20Two%20Sounds%20at%20the%20End%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word ends with the blend nd?", options:["Sun","Pig","Cat","Hand"], answer:3},
+     {q:"Which word ends with the blend st?", options:["Sit","Run","Fast","Top"], answer:2},
+     {q:"In the word jump, which two letters blend together at the end?", options:["Ju","Um","Pj","Mp"], answer:3},
+     {q:"An ending blend is when two consonant letters ___.", options:["Are always silent","Blend their sounds together at the end of a word","Turn into numbers","Are never used"], answer:1},
+     {q:"Which word ends with the blend lt?", options:["Belt","Man","Top","Sun"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the end of the word hand?", answers:["nd"]},
+     {prompt:"What two letters blend together at the end of the word fast?", answers:["st"]},
+     {prompt:"Say the word jump. What two letters blend at the end?", answers:["mp"]}
+   ]},
+  {subject:"Math", title:"Number Bonds to 20", summary:"Students explore pairs of numbers that combine to make 20, such as 10 and 10 or 15 and 5, building on earlier number bond work within 10.",
+   resourceLabel:"YouTube: Number Bonds to 20", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%20to%2020%20kindergarten%20educational",
+   quiz:[
+     {q:"What number added to 10 makes 20?", options:["10","20","5","15"], answer:0},
+     {q:"What number added to 15 makes 20?", options:["4","3","5","6"], answer:2},
+     {q:"What number added to 12 makes 20?", options:["6","7","9","8"], answer:3},
+     {q:"A number bond shows how two numbers ___.", options:["Are always equal","Are never related","Combine to make a total","Cancel each other out"], answer:2},
+     {q:"What number added to 19 makes 20?", options:["2","3","1","0"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What number added to 10 makes 20?", answers:["10","ten"]},
+     {prompt:"What number added to 15 makes 20?", answers:["5","five"]},
+     {prompt:"What number added to 18 makes 20?", answers:["2","two"]}
+   ]},
+  {subject:"Science", title:"Animal Coverings: Fur, Feathers, and Scales", summary:"Students sort animals by the type of covering on their body, such as fur on a dog, feathers on a bird, or scales on a fish, and learn each covering helps the animal in different ways.",
+   resourceLabel:"YouTube: Animal Coverings: Fur, Feathers, and Scales", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Coverings%3A%20Fur%2C%20Feathers%2C%20and%20Scales%20kindergarten%20educational",
+   quiz:[
+     {q:"What covering does a dog usually have?", options:["Feathers","Scales","Fur","Shell"], answer:2},
+     {q:"What covering does a bird usually have?", options:["Fur","Shell","Feathers","Scales"], answer:2},
+     {q:"What covering does a fish usually have?", options:["Scales","Fur","Feathers","Shell"], answer:0},
+     {q:"Which animal covering helps keep a dog warm?", options:["A shell","Fur","Feathers","Scales"], answer:1},
+     {q:"Why do different animals have different coverings?", options:["All animals have the same covering","Coverings do not matter","Coverings are only for decoration","Coverings help each animal survive in its own way"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What covers most of a dog body?", answers:["fur"]},
+     {prompt:"What covers most of a bird body?", answers:["feathers"]},
+     {prompt:"What covers most of a fish body?", answers:["scales"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Firehall: Where Firefighters Work", summary:"Students learn about the firehall as a special building in the community where firefighters work, sleep, and keep their fire trucks ready to help.",
+   resourceLabel:"YouTube: Our Firehall: Where Firefighters Work", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Firehall%3A%20Where%20Firefighters%20Work%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the building called where firefighters work?", options:["Farm","Bakery","Firehall","Library"], answer:2},
+     {q:"What vehicle is kept ready at the firehall?", options:["A bicycle","A fire truck","A school bus","A boat"], answer:1},
+     {q:"Why do firefighters keep their truck and gear ready at all times?", options:["They never need to respond quickly","Firefighters do not use trucks","The truck is just for show","So they can respond quickly to emergencies"], answer:3},
+     {q:"Which of these might you see at a firehall?", options:["A garden hose reel only","A blackboard","A cash register","A fire truck and hoses"], answer:3},
+     {q:"A firehall is an important part of our ___.", options:["Forest","Community","Desert","Ocean"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the name of the building where firefighters work?", answers:["firehall","fire hall","fire station"]},
+     {prompt:"What big vehicle do firefighters keep ready at the firehall?", answers:["fire truck"]},
+     {prompt:"Do firefighters live and sleep at the firehall while on duty?", answers:["yes"]}
+   ]},
+]},
+{day:63, label:"Day 63 — Wed", subjects:[
+  {subject:"Language", title:"Making New Words: Adding an S", summary:"Students learn that adding the letter s to the end of many words makes them mean more than one, such as changing cat to cats or dog to dogs.",
+   resourceLabel:"YouTube: Making New Words: Adding an S", resourceUrl:"https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20an%20S%20kindergarten%20educational",
+   quiz:[
+     {q:"Add an s to the word hat. What new word do you make?", options:["Has","Hats","Hate","Hate"], answer:1},
+     {q:"Which word means more than one book?", options:["Booked","Books","Booking","Book"], answer:1},
+     {q:"Adding an s to the end of a word usually shows that there is ___.", options:["Only one","More than one","A colour","None at all"], answer:1},
+     {q:"Which of these words already means more than one?", options:["Toy","Toys","Toying","Toyed"], answer:1},
+     {q:"Add an s to the word bird. What new word do you make?", options:["Birdy","Bird","Birds","Birde"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Add an s to the word cat. What new word do you make?", answers:["cats"]},
+     {prompt:"Add an s to the word dog. What new word do you make?", answers:["dogs"]},
+     {prompt:"Does the word cats mean one cat or more than one cat?", answers:["more than one"]}
+   ]},
+  {subject:"Math", title:"Counting to 50", summary:"Students practise counting aloud from 1 to 50 by ones, and recognize written numerals up to 50, extending their counting range beyond 30.",
+   resourceLabel:"YouTube: Counting to 50", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%2050%20kindergarten%20educational",
+   quiz:[
+     {q:"What number comes right after 29?", options:["28","30","29","31"], answer:1},
+     {q:"What number comes right after 39?", options:["41","39","40","38"], answer:2},
+     {q:"Which number is greater, 42 or 24?", options:["They are equal","42","24","Cannot tell"], answer:1},
+     {q:"What number comes right before 50?", options:["51","48","50","49"], answer:3},
+     {q:"Counting from 1 to 50 means we say each number ___.", options:["In random order","Backward only","Twice each","In order, one at a time"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 29?", answers:["30","thirty"]},
+     {prompt:"What number comes right after 39?", answers:["40","forty"]},
+     {prompt:"What number comes right after 49?", answers:["50","fifty"]}
+   ]},
+  {subject:"Science", title:"Fruits and Vegetables: Eating the Rainbow", summary:"Students sort common fruits and vegetables by colour, such as red apples, orange carrots, and green broccoli, and learn that eating many colours helps keep our bodies healthy.",
+   resourceLabel:"YouTube: Fruits and Vegetables: Eating the Rainbow", resourceUrl:"https://www.youtube.com/results?search_query=Fruits%20and%20Vegetables%3A%20Eating%20the%20Rainbow%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these fruits is usually red?", options:["Apple","Broccoli","Banana","Carrot"], answer:0},
+     {q:"Which of these vegetables is usually orange?", options:["Spinach","Broccoli","Grape","Carrot"], answer:3},
+     {q:"What colour is broccoli usually?", options:["Purple","Orange","Red","Green"], answer:3},
+     {q:"Why is it healthy to eat fruits and vegetables of many colours?", options:["Different colours give our bodies different helpful nutrients","Only one colour of food is healthy","Fruits and vegetables are not healthy","Colour does not matter for health"], answer:0},
+     {q:"Which of these is a fruit?", options:["Potato","Broccoli","Carrot","Banana"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one fruit that is red, like an apple.", answers:["apple"]},
+     {prompt:"Name one vegetable that is orange, like a carrot.", answers:["carrot"]},
+     {prompt:"Is broccoli usually green or purple?", answers:["green"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Grocery Store: Where Food Comes From", summary:"Students learn about the grocery store as a community place where families go to buy food and other everyday items they need.",
+   resourceLabel:"YouTube: Our Grocery Store: Where Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Grocery%20Store%3A%20Where%20Food%20Comes%20From%20kindergarten%20educational",
+   quiz:[
+     {q:"Where do many families buy food?", options:["A grocery store","A park","A firehall","A library"], answer:0},
+     {q:"Which of these might you buy at a grocery store?", options:["Milk","A fire truck","A library book","A mailbox"], answer:0},
+     {q:"What do people usually do before taking items home from a store?", options:["Leave without paying","Pay for them","Hide them","Break them"], answer:1},
+     {q:"Why is a grocery store helpful to a community?", options:["It gives people a place to buy the food they need","It is not helpful","Food is never needed","Grocery stores sell no food"], answer:0},
+     {q:"Who works at a grocery store to help customers?", options:["Firefighters only","Doctors only","Cashiers and store workers","Pilots only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Where do many families go to buy food?", answers:["grocery store","the grocery store"]},
+     {prompt:"Name one item you might buy at a grocery store, like milk or bread.", answers:["milk","bread","apples","fruit"]},
+     {prompt:"Do people usually pay for the items they take home from a grocery store?", answers:["yes"]}
+   ]},
+]},
+{day:64, label:"Day 64 — Thu", subjects:[
+  {subject:"Language", title:"Story Titles: What a Book Is Called", summary:"Students learn that the title of a book is its name, usually found on the cover, and practise identifying and talking about story titles.",
+   resourceLabel:"YouTube: Story Titles: What a Book Is Called", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Titles%3A%20What%20a%20Book%20Is%20Called%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the title of a book?", options:["The last page","The name of the book","The setting","A character"], answer:1},
+     {q:"Where is the title of a book usually found?", options:["On the cover","On the very last page","Inside a drawer","Nowhere"], answer:0},
+     {q:"Why is a title helpful when choosing a book?", options:["It tells us the weather","It tells us the name of the book","It tells us a phone number","Titles are not helpful"], answer:1},
+     {q:"Which of these could be a book title?", options:["The Little Red Hen","A staple","A page number","A blank space"], answer:0},
+     {q:"The title of a book is usually written in ___ letters.", options:["Large or bold","Invisible","No letters at all","Backward"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes the name of a book?", answers:["title"]},
+     {prompt:"Where on a book do you usually find the title?", answers:["cover","the cover","front cover"]},
+     {prompt:"Can two different books ever have the same title?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Shapes with Many Sides: Pentagon and Hexagon", summary:"Students learn to recognize and name shapes with more than four sides, such as a pentagon with five sides and a hexagon with six sides.",
+   resourceLabel:"YouTube: Shapes with Many Sides: Pentagon and Hexagon", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%20with%20Many%20Sides%3A%20Pentagon%20and%20Hexagon%20kindergarten%20educational",
+   quiz:[
+     {q:"How many sides does a pentagon have?", options:["7","5","6","4"], answer:1},
+     {q:"How many sides does a hexagon have?", options:["4","7","6","5"], answer:2},
+     {q:"Which shape has more sides, a pentagon or a hexagon?", options:["Pentagon","They are equal","Cannot tell","Hexagon"], answer:3},
+     {q:"A shape with five straight sides is called a ___.", options:["Pentagon","Circle","Triangle","Hexagon"], answer:0},
+     {q:"Which of these has six sides?", options:["Square","Triangle","Hexagon","Circle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How many sides does a pentagon have?", answers:["5","five"]},
+     {prompt:"How many sides does a hexagon have?", answers:["6","six"]},
+     {prompt:"Which shape has more sides, a pentagon or a hexagon?", answers:["hexagon"]}
+   ]},
+  {subject:"Science", title:"Migration: Animals on the Move", summary:"Students learn that some animals, such as geese and monarch butterflies, travel long distances called migration to find warmer weather or food during the year.",
+   resourceLabel:"YouTube: Migration: Animals on the Move", resourceUrl:"https://www.youtube.com/results?search_query=Migration%3A%20Animals%20on%20the%20Move%20kindergarten%20educational",
+   quiz:[
+     {q:"What is migration?", options:["Animals sleeping all winter","Animals eating leaves","Animals travelling long distances to find warmer weather or food","Animals building nests"], answer:2},
+     {q:"Which of these animals is known for migrating long distances?", options:["A garden worm","A house cat","Monarch butterfly","A pet goldfish"], answer:2},
+     {q:"Why might an animal migrate?", options:["Migration has no reason","To find warmer weather or more food","To avoid all food","To get lost on purpose"], answer:1},
+     {q:"Geese often fly together in a group shape during migration called a ___.", options:["V shape","Straight line only","Circle","Square"], answer:0},
+     {q:"Migration usually happens as the ___ change.", options:["Names of animals","Shapes of clouds","Colours of paint","Seasons"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word describes animals travelling long distances to find warmer weather?", answers:["migration"]},
+     {prompt:"Name one animal that migrates, like a goose or a butterfly.", answers:["goose","geese","butterfly","monarch butterfly"]},
+     {prompt:"Do migrating animals often move to find warmer weather or food?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Bakery: Where Bread Is Made", summary:"Students learn about the bakery as a community place where bakers make bread, cakes, and other baked goods for people to buy and enjoy.",
+   resourceLabel:"YouTube: Our Bakery: Where Bread Is Made", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Bakery%3A%20Where%20Bread%20Is%20Made%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a baker make?", options:["Library books","Bread and baked goods","Fire trucks","Mail"], answer:1},
+     {q:"Where might you go to buy fresh bread?", options:["A firehall","A bakery","A pond","A library"], answer:1},
+     {q:"Why is a bakery helpful to a community?", options:["It gives people fresh baked food to buy","Bakeries make no food","It is not helpful","Bread is never needed"], answer:0},
+     {q:"Which of these is something a baker might make?", options:["A fire hose","A library card","A mailbox","A loaf of bread"], answer:3},
+     {q:"A baker is an example of a ___.", options:["Story setting","Community helper","Weather tool","Wild animal"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a baker make at a bakery, like bread or cake?", answers:["bread","cake","baked goods"]},
+     {prompt:"Name one job a baker does, like baking bread.", answers:["baking bread","baking","making bread"]},
+     {prompt:"Do people buy baked goods like bread from a bakery?", answers:["yes"]}
+   ]},
+]},
+{day:65, label:"Day 65 — Fri", subjects:[
+  {subject:"Language", title:"Sentence Types: Telling and Asking", summary:"Students learn that some sentences tell us something and end with a period, while other sentences ask a question and end with a question mark.",
+   resourceLabel:"YouTube: Sentence Types: Telling and Asking", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Types%3A%20Telling%20and%20Asking%20kindergarten%20educational",
+   quiz:[
+     {q:"What punctuation mark ends a telling sentence?", options:["Exclamation mark","Period","Comma","Question mark"], answer:1},
+     {q:"What punctuation mark ends an asking sentence?", options:["Comma","Question mark","Exclamation mark","Period"], answer:1},
+     {q:"Which of these is an asking sentence?", options:["I like dogs.","She runs fast.","What is your name?","The sun is bright."], answer:2},
+     {q:"Which of these is a telling sentence?", options:["The cat is sleeping.","Do you like cake?","Where is my hat?","Can we go outside?"], answer:0},
+     {q:"A question mark tells us that a sentence is ___.", options:["Asking something","Singing","Shouting","Telling something"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Does a telling sentence end with a period or a question mark?", answers:["period"]},
+     {prompt:"Does an asking sentence end with a period or a question mark?", answers:["question mark"]},
+     {prompt:"Is the sentence Where is the ball? a telling sentence or an asking sentence?", answers:["asking sentence","asking"]}
+   ]},
+  {subject:"Math", title:"Addition and Subtraction Stories to 10", summary:"Students solve simple word problems within 10 by acting them out or drawing pictures, connecting real situations to addition and subtraction.",
+   resourceLabel:"YouTube: Addition and Subtraction Stories to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Stories%20to%2010%20kindergarten%20educational",
+   quiz:[
+     {q:"You have 5 stickers and get 3 more. How many stickers do you have now?", options:["8","9","7","6"], answer:0},
+     {q:"You have 9 grapes and eat 4 of them. How many grapes are left?", options:["3","4","6","5"], answer:3},
+     {q:"You have 2 blocks and get 6 more. How many blocks do you have now?", options:["6","9","7","8"], answer:3},
+     {q:"You have 10 marbles and give away 5. How many marbles are left?", options:["5","4","6","3"], answer:0},
+     {q:"A story problem that uses the word altogether usually means you should ___.", options:["Add","Subtract","Multiply","Ignore the numbers"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"You have 3 apples and get 2 more. How many apples do you have now?", answers:["5","five"]},
+     {prompt:"You have 7 crayons and give away 3. How many crayons do you have left?", answers:["4","four"]},
+     {prompt:"You have 4 balloons and get 1 more. How many balloons do you have now?", answers:["5","five"]}
+   ]},
+  {subject:"Science", title:"Bees and Pollination: Helping Flowers Grow", summary:"Students learn that bees visit flowers to collect nectar and, in doing so, carry pollen that helps new flowers and fruits grow, a process called pollination.",
+   resourceLabel:"YouTube: Bees and Pollination: Helping Flowers Grow", resourceUrl:"https://www.youtube.com/results?search_query=Bees%20and%20Pollination%3A%20Helping%20Flowers%20Grow%20kindergarten%20educational",
+   quiz:[
+     {q:"Which insect is well known for helping pollinate flowers?", options:["Ant","Bee","Spider","Worm"], answer:1},
+     {q:"What do bees collect from flowers?", options:["Water only","Sand","Nectar","Rocks"], answer:2},
+     {q:"What is pollination?", options:["Bees building fire trucks","Bees carrying pollen that helps flowers and fruits grow","Bees sleeping in winter","Bees eating leaves"], answer:1},
+     {q:"Why are bees important to plants?", options:["They help pollinate flowers so fruits can grow","Bees are not connected to plants","Bees do not help plants at all","Bees eat all the flowers"], answer:0},
+     {q:"What sweet food do bees make using nectar?", options:["Jam","Bread","Honey","Juice"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What insect helps carry pollen between flowers?", answers:["bee","bees"]},
+     {prompt:"What do bees collect from flowers to make honey?", answers:["nectar"]},
+     {prompt:"Does pollination help new flowers and fruits grow?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Fair Sharing: Splitting Things Equally", summary:"Students learn what it means to share fairly, such as splitting a snack or toys equally so that everyone gets a turn or an equal amount.",
+   resourceLabel:"YouTube: Fair Sharing: Splitting Things Equally", resourceUrl:"https://www.youtube.com/results?search_query=Fair%20Sharing%3A%20Splitting%20Things%20Equally%20kindergarten%20educational",
+   quiz:[
+     {q:"If two friends split a snack fairly, what happens?", options:["No one gets any snack","They fight over it","One friend gets everything","Each friend gets an equal amount"], answer:3},
+     {q:"What does it mean to share fairly?", options:["Giving everyone an equal or fair amount","Ignoring others","Keeping everything for yourself","Hiding your toys"], answer:0},
+     {q:"Is it fair for one person to take all the toys and share none?", options:["No","Yes","Sometimes","It does not matter"], answer:0},
+     {q:"Which of these shows fair sharing?", options:["Throwing the crackers away","Splitting crackers evenly between two friends","Taking all the crackers for yourself","Hiding the crackers"], answer:1},
+     {q:"Fair sharing helps friends feel ___.", options:["Ignored","Happy and included","Left out","Angry"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If two friends split a snack equally, does each friend get the same amount?", answers:["yes"]},
+     {prompt:"What word describes giving everyone the same amount or a fair turn?", answers:["fair","fairly","sharing fairly"]},
+     {prompt:"Is it fair for one friend to keep everything and give nothing to another?", answers:["no"]}
+   ]},
+]},
+{day:66, label:"Day 66 — Mon", subjects:[
+  {subject:"Language", title:"Making New Words: Adding -ing", summary:"Students learn that adding -ing to the end of an action word shows that the action is happening right now, such as changing jump to jumping.",
+   resourceLabel:"YouTube: Making New Words: Adding -ing", resourceUrl:"https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-ing%20kindergarten%20educational",
+   quiz:[
+     {q:"Add -ing to the word walk. What new word do you make?", options:["Walking","Walks","Walker","Walked"], answer:0},
+     {q:"Which word shows an action happening right now?", options:["Played","Playing","Play","Plays"], answer:1},
+     {q:"Adding -ing to an action word usually shows that the action is ___.", options:["Happening right now","Never going to happen","A noun","Finished long ago"], answer:0},
+     {q:"Add -ing to the word sing. What new word do you make?", options:["Sings","Singing","Singer","Sang"], answer:1},
+     {q:"Which of these words already ends in -ing?", options:["Reader","Reads","Read","Reading"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Add -ing to the word jump. What new word do you make?", answers:["jumping"]},
+     {prompt:"Add -ing to the word run. What new word do you make?", answers:["running"]},
+     {prompt:"Does the word jumping show an action happening right now or an action from long ago?", answers:["right now","now"]}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Weight with a Balance", summary:"Students use a simple balance scale to compare the weight of two objects, learning that the heavier object makes its side of the balance go down.",
+   resourceLabel:"YouTube: Measurement: Comparing Weight with a Balance", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Weight%20with%20a%20Balance%20kindergarten%20educational",
+   quiz:[
+     {q:"On a balance scale, which way does the heavier side move?", options:["Down","Up","Sideways","It stays still"], answer:0},
+     {q:"On a balance scale, which way does the lighter side move?", options:["Down","Up","It stays still","Sideways"], answer:1},
+     {q:"If a book and a crayon are on a balance scale, which side likely goes down?", options:["The crayon side","Both sides go down","The book side","Neither side moves"], answer:2},
+     {q:"A balance scale helps us compare two objects by their ___.", options:["Sound","Colour","Weight","Smell"], answer:2},
+     {q:"If both sides of a balance scale are level, the objects are ___.", options:["Invisible","Different weights","The same weight","Not real"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"On a balance scale, does the heavier object go up or down?", answers:["down"]},
+     {prompt:"On a balance scale, does the lighter object go up or down?", answers:["up"]},
+     {prompt:"If a rock and a feather are on a balance scale, which side goes down?", answers:["rock","the rock side"]}
+   ]},
+  {subject:"Science", title:"Our Lungs: Breathing In and Out", summary:"Students learn that lungs help our body breathe in fresh air and breathe out air we do not need, and practise taking slow, calm breaths.",
+   resourceLabel:"YouTube: Our Lungs: Breathing In and Out", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Lungs%3A%20Breathing%20In%20and%20Out%20kindergarten%20educational",
+   quiz:[
+     {q:"What body part helps us breathe air in and out?", options:["Elbow","Lungs","Hair","Knee"], answer:1},
+     {q:"What do our lungs help us breathe in?", options:["Rocks","Water","Fresh air","Sand"], answer:2},
+     {q:"Taking slow, calm breaths can help our body feel ___.", options:["More upset","Calm and relaxed","Hungry","Sleepy only"], answer:1},
+     {q:"Where are our lungs located in our body?", options:["In our hair","Outside our body","Inside our chest","In our feet"], answer:2},
+     {q:"Why is breathing important for our bodies?", options:["Our body never needs air","Only animals need to breathe","Breathing is not important","It brings fresh air that our body needs"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What body part helps us breathe?", answers:["lungs"]},
+     {prompt:"Do we breathe in fresh air using our lungs?", answers:["yes"]},
+     {prompt:"Name one time you might take slow, calm breaths, like when resting.", answers:["resting","sleeping","relaxing","calming down"]}
+   ]},
+  {subject:"SocialStudies", title:"Getting to School: Different Ways We Travel", summary:"Students compare different ways children get to school, such as walking, riding the bus, biking, or being driven, and discuss safe habits for each.",
+   resourceLabel:"YouTube: Getting to School: Different Ways We Travel", resourceUrl:"https://www.youtube.com/results?search_query=Getting%20to%20School%3A%20Different%20Ways%20We%20Travel%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a way children might get to school?", options:["Flying a plane alone","Riding a horse alone","Sailing a boat","Riding the bus"], answer:3},
+     {q:"What should you wear if you ride a bike to school?", options:["Sunglasses only","Nothing extra","Mittens only","A helmet"], answer:3},
+     {q:"What should you do before crossing the street on the way to school?", options:["Close your eyes","Run across quickly","Look both ways","Ignore traffic"], answer:2},
+     {q:"Why do different families choose different ways to get to school?", options:["Only buses are allowed","Travel choices never differ","There is only one way to get to school","Different families have different needs and distances"], answer:3},
+     {q:"Which is a safe habit no matter how you travel to school?", options:["Running into traffic","Not paying attention","Following safety rules","Ignoring adults"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one way you might get to school, like walking or riding the bus.", answers:["walking","bus","biking","car"]},
+     {prompt:"Should you wear a helmet if you ride a bike to school?", answers:["yes"]},
+     {prompt:"Is it safe to look both ways before crossing the street on the way to school?", answers:["yes"]}
+   ]},
+]},
+{day:67, label:"Day 67 — Tue", subjects:[
+  {subject:"Language", title:"Story Author and Illustrator", summary:"Students learn that the author is the person who writes the words of a book and the illustrator is the person who draws the pictures, and that sometimes one person does both jobs.",
+   resourceLabel:"YouTube: Story Author and Illustrator", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Author%20and%20Illustrator%20kindergarten%20educational",
+   quiz:[
+     {q:"What does an author do?", options:["Sells the book","Draws the pictures","Writes the words of a book","Prints the book"], answer:2},
+     {q:"What does an illustrator do?", options:["Writes the words","Sells the book","Reads the book aloud","Draws the pictures in a book"], answer:3},
+     {q:"Can one person be both the author and illustrator of a book?", options:["Yes, sometimes","Books need no author","No, never","Only in some countries"], answer:0},
+     {q:"Where might you find the name of a book author?", options:["On the cover","Only on the last page","Books have no author names","Nowhere"], answer:0},
+     {q:"Why are illustrations helpful in a story?", options:["Illustrations replace all the words","They help show the story with pictures","Pictures are never helpful","Only adults need pictures"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What word describes the person who writes the words of a book?", answers:["author"]},
+     {prompt:"What word describes the person who draws the pictures in a book?", answers:["illustrator"]},
+     {prompt:"Can the same person be both the author and the illustrator of a book?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Repeating Patterns with Three Elements", summary:"Students identify and extend repeating patterns that use three different elements, such as an ABC pattern of circle, square, triangle, circle, square, triangle.",
+   resourceLabel:"YouTube: Repeating Patterns with Three Elements", resourceUrl:"https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Three%20Elements%20kindergarten%20educational",
+   quiz:[
+     {q:"In the pattern star, moon, sun, star, moon, ___, what comes next?", options:["Star","Cloud","Moon","Sun"], answer:3},
+     {q:"How many different elements repeat in an ABC pattern?", options:["3","4","5","2"], answer:0},
+     {q:"In the pattern red, blue, green, red, blue, ___, what comes next?", options:["Blue","Red","Yellow","Green"], answer:3},
+     {q:"An ABC pattern repeats in groups of ___.", options:["Three","Two","Five","Four"], answer:0},
+     {q:"In the pattern dog, cat, bird, dog, cat, ___, what comes next?", options:["Cat","Fish","Dog","Bird"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"In the pattern circle, square, triangle, circle, square, ___, what comes next?", answers:["triangle"]},
+     {prompt:"How many different shapes repeat in an ABC pattern?", answers:["3","three"]},
+     {prompt:"In the pattern red, blue, green, red, blue, ___, what colour comes next?", answers:["green"]}
+   ]},
+  {subject:"Science", title:"Our Skeleton: Bones That Hold Us Up", summary:"Students learn that bones inside our body form a skeleton that helps us stand up, move, and protect important parts like the brain and heart.",
+   resourceLabel:"YouTube: Our Skeleton: Bones That Hold Us Up", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Skeleton%3A%20Bones%20That%20Hold%20Us%20Up%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a skeleton?", options:["A story character","A type of food","All the bones inside our body","A kind of weather"], answer:2},
+     {q:"What do our bones help us do?", options:["Taste food","Stand up and move","Hear sounds","Smell flowers"], answer:1},
+     {q:"Which body part do our skull bones help protect?", options:["Our brain","Our elbow","Our hair","Our toes"], answer:0},
+     {q:"Without bones, would our body be able to stand up easily?", options:["No, it would be much harder","Yes, easily","Bones do not matter","Standing needs no bones"], answer:0},
+     {q:"Why is it important to take care of our bones?", options:["Only adults have bones","Bones are not important","Bones do not need care","Healthy bones help our body work well"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word describes all the bones inside our body together?", answers:["skeleton"]},
+     {prompt:"Do bones help our body stand up and move?", answers:["yes"]},
+     {prompt:"Name one bone-protected body part, like the brain or heart.", answers:["brain","heart"]}
+   ]},
+  {subject:"SocialStudies", title:"Working Together to Solve a Problem", summary:"Students learn that a team can often solve a problem better than one person alone, and practise working together on a small classroom task.",
+   resourceLabel:"YouTube: Working Together to Solve a Problem", resourceUrl:"https://www.youtube.com/results?search_query=Working%20Together%20to%20Solve%20a%20Problem%20kindergarten%20educational",
+   quiz:[
+     {q:"Why might a problem be easier to solve with a team?", options:["Team members can share ideas and help each other","Teams never help","Teams make problems harder","One person is always better alone"], answer:0},
+     {q:"What word describes people working together toward a shared goal?", options:["Teamwork","Arguing","Ignoring","Selfishness"], answer:0},
+     {q:"When working in a team, what should members do with each other ideas?", options:["Yell over each other","Ignore all ideas","Refuse to share","Listen and consider them"], answer:3},
+     {q:"Which of these shows good teamwork?", options:["Doing everything alone","Arguing without listening","Sharing jobs and helping each other","Refusing to help"], answer:2},
+     {q:"A team that works well together can often ___.", options:["Make problems worse","Never solve anything","Avoid all tasks","Solve problems more easily"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Is it sometimes easier to solve a problem with a team or completely alone?", answers:["team","with a team"]},
+     {prompt:"What word describes people working together toward the same goal?", answers:["teamwork"]},
+     {prompt:"Should team members listen to each other ideas when solving a problem?", answers:["yes"]}
+   ]},
+]},
+{day:68, label:"Day 68 — Wed", subjects:[
+  {subject:"Language", title:"Long Vowel Sounds: Saying the Letter Name", summary:"Students learn that a long vowel sound says the letter name, such as the long a in cake or the long o in boat, compared to a short vowel sound.",
+   resourceLabel:"YouTube: Long Vowel Sounds: Saying the Letter Name", resourceUrl:"https://www.youtube.com/results?search_query=Long%20Vowel%20Sounds%3A%20Saying%20the%20Letter%20Name%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has a long a sound?", options:["Cat","Can","Cap","Cake"], answer:3},
+     {q:"Which word has a long o sound?", options:["Hot","Top","Boat","Dog"], answer:2},
+     {q:"A long vowel sound usually says the ___ of the letter.", options:["Shape","Number","Colour","Name"], answer:3},
+     {q:"Which word has a long e sound?", options:["Bee","Ten","Pen","Bed"], answer:0},
+     {q:"Which word has a short vowel sound instead of a long one?", options:["Boat","Bee","Cat","Cake"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Does the word cake have a long a sound or a short a sound?", answers:["long a","long"]},
+     {prompt:"Does the word boat have a long o sound or a short o sound?", answers:["long o","long"]},
+     {prompt:"A long vowel sound says the letter ___.", answers:["name"]}
+   ]},
+  {subject:"Math", title:"Position on a Grid: Rows and Columns", summary:"Students explore simple grids made of rows and columns, learning to find and describe the position of an object using words like row and column.",
+   resourceLabel:"YouTube: Position on a Grid: Rows and Columns", resourceUrl:"https://www.youtube.com/results?search_query=Position%20on%20a%20Grid%3A%20Rows%20and%20Columns%20kindergarten%20educational",
+   quiz:[
+     {q:"What word describes a line of boxes going across a grid?", options:["Row","Corner","Column","Circle"], answer:0},
+     {q:"What word describes a line of boxes going up and down a grid?", options:["Corner","Row","Column","Triangle"], answer:2},
+     {q:"On a grid, do columns go across or up and down?", options:["Diagonally","Up and down","Across","Nowhere"], answer:1},
+     {q:"A grid is made up of ___.", options:["Only triangles","Only one line","Rows and columns","Only circles"], answer:2},
+     {q:"Finding an object on a grid can help us describe its ___.", options:["Colour","Smell","Position","Sound"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What word describes a line of boxes going across a grid?", answers:["row"]},
+     {prompt:"What word describes a line of boxes going up and down a grid?", answers:["column"]},
+     {prompt:"On a grid, do rows go across or up and down?", answers:["across"]}
+   ]},
+  {subject:"Science", title:"Deserts: A Very Dry Habitat", summary:"Students learn that a desert is a very dry habitat with little rain, and that some plants and animals, such as cactuses and camels, are specially suited to live there.",
+   resourceLabel:"YouTube: Deserts: A Very Dry Habitat", resourceUrl:"https://www.youtube.com/results?search_query=Deserts%3A%20A%20Very%20Dry%20Habitat%20kindergarten%20educational",
+   quiz:[
+     {q:"Is a desert usually a wet place or a dry place?", options:["Dry","Neither","Wet","Both"], answer:0},
+     {q:"Which plant is specially suited to live in the desert?", options:["Cactus","Seaweed","Water lily","Moss"], answer:0},
+     {q:"Which animal is well known for living in the desert?", options:["Camel","Whale","Polar bear","Penguin"], answer:0},
+     {q:"Why do desert plants like cactuses need less water than other plants?", options:["Deserts have lots of rain","They need more water than other plants","They are specially suited to store water and survive dry conditions","Cactuses do not need water at all"], answer:2},
+     {q:"A desert is an example of a ___.", options:["Number","Habitat","Colour","Story character"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Is a desert a very wet place or a very dry place?", answers:["dry"]},
+     {prompt:"Name one plant that can live in the desert, like a cactus.", answers:["cactus"]},
+     {prompt:"Name one animal that can live in the desert, like a camel.", answers:["camel"]}
+   ]},
+  {subject:"SocialStudies", title:"Rules at the Playground: Playing Safely", summary:"Students learn simple playground rules that help everyone play safely and fairly, such as taking turns on the slide and not pushing others.",
+   resourceLabel:"YouTube: Rules at the Playground: Playing Safely", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20at%20the%20Playground%3A%20Playing%20Safely%20kindergarten%20educational",
+   quiz:[
+     {q:"Should you push other children on the playground?", options:["No","It does not matter","Only sometimes","Yes"], answer:0},
+     {q:"What should you do while waiting for a turn on the slide?", options:["Yell loudly","Climb over others","Wait patiently","Push ahead"], answer:2},
+     {q:"Why do playgrounds have rules?", options:["Only adults need rules","To help keep everyone safe and having fun","To make playing boring","Rules are not needed on a playground"], answer:1},
+     {q:"Which of these is a safe playground behaviour?", options:["Climbing the wrong way up the slide","Running with sticks","Taking turns on the slide","Pushing others off the swing"], answer:2},
+     {q:"Following playground rules helps everyone ___.", options:["Feel left out","Get hurt","Argue more","Play safely and have fun"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Should you push other children while playing on the playground?", answers:["no"]},
+     {prompt:"What should you do while waiting for a turn on the slide?", answers:["wait","take turns","wait patiently"]},
+     {prompt:"Do playground rules help keep everyone safe?", answers:["yes"]}
+   ]},
+]},
+{day:69, label:"Day 69 — Thu", subjects:[
+  {subject:"Language", title:"Story Lessons: What We Learn from a Story", summary:"Students learn that many stories teach a lesson or message, such as being kind or telling the truth, and practise thinking about what a story teaches.",
+   resourceLabel:"YouTube: Story Lessons: What We Learn from a Story", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Lessons%3A%20What%20We%20Learn%20from%20a%20Story%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a lesson in a story?", options:["The title of the book","The number of pages","A message or teaching found in the story","The name of a character"], answer:2},
+     {q:"Which of these could be a lesson from a story?", options:["The colour of the cover","Being kind to others","The page numbers","The size of the book"], answer:1},
+     {q:"Why do authors often include a lesson in a story?", options:["To confuse readers","Lessons are never included","Stories never teach anything","To help readers learn something important"], answer:3},
+     {q:"If a story is about sharing and being kind, what might the lesson be?", options:["Numbers are important","Sharing and kindness are important","Colours are important","Nothing can be learned"], answer:1},
+     {q:"Thinking about a story lesson helps us ___.", options:["Understand the message of the story","Skip the ending","Ignore the characters","Forget the story"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes a message or teaching found in a story?", answers:["lesson"]},
+     {prompt:"Name one lesson a story might teach, like being kind or honest.", answers:["being kind","honesty","kindness","telling the truth"]},
+     {prompt:"Do many stories try to teach us something?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Time: Reading a Clock to the Hour", summary:"Students learn to read a simple analog clock to the hour, recognizing that the short hand points to the hour and the long hand points to the 12 at the top.",
+   resourceLabel:"YouTube: Time: Reading a Clock to the Hour", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20the%20Hour%20kindergarten%20educational",
+   quiz:[
+     {q:"On a clock, which hand shows the hour?", options:["Both hands","The long hand","The short hand","Neither hand"], answer:2},
+     {q:"When it is exactly 6 oclock, where does the long hand point?", options:["The 3","The 9","The 6","The 12"], answer:3},
+     {q:"When it is exactly 8 oclock, where does the short hand point?", options:["The 12","The 8","The 6","The 3"], answer:1},
+     {q:"A clock with a short hand and a long hand is called an ___ clock.", options:["Analog","Broken","Digital","Empty"], answer:0},
+     {q:"Reading a clock to the hour helps us know ___.", options:["What colour it is","What season it is","What time it is","What day it is"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"On a clock, which hand is shorter, the hour hand or the minute hand?", answers:["hour hand"]},
+     {prompt:"When it is exactly 3 oclock, where does the long hand point?", answers:["12","the 12"]},
+     {prompt:"When it is exactly 3 oclock, where does the short hand point?", answers:["3","the 3"]}
+   ]},
+  {subject:"Science", title:"Oceans: A Home for Sea Animals", summary:"Students learn that oceans are large bodies of salt water that are home to many animals, such as fish, whales, and sea turtles.",
+   resourceLabel:"YouTube: Oceans: A Home for Sea Animals", resourceUrl:"https://www.youtube.com/results?search_query=Oceans%3A%20A%20Home%20for%20Sea%20Animals%20kindergarten%20educational",
+   quiz:[
+     {q:"Is ocean water salty or fresh?", options:["Salty","Neither","Fresh","Both the same"], answer:0},
+     {q:"Which of these animals lives in the ocean?", options:["Camel","Cow","Chicken","Whale"], answer:3},
+     {q:"An ocean is an example of a ___.", options:["Large body of salt water","Mountain","Desert","Forest"], answer:0},
+     {q:"Which of these is also an ocean animal?", options:["Garden worm","Barn owl","Sea turtle","Farm pig"], answer:2},
+     {q:"Why do many different animals live in the ocean?", options:["The ocean provides food and a home for sea life","The ocean has no water","Oceans are always frozen","Animals cannot live in oceans"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Is ocean water salty or fresh?", answers:["salty"]},
+     {prompt:"Name one animal that lives in the ocean, like a fish or whale.", answers:["fish","whale","sea turtle"]},
+     {prompt:"Are oceans large bodies of water?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Doctor Office: Staying Healthy", summary:"Students learn about visiting the doctor office for checkups and when feeling unwell, and that doctors and nurses work together to help keep people healthy.",
+   resourceLabel:"YouTube: Our Doctor Office: Staying Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Doctor%20Office%3A%20Staying%20Healthy%20kindergarten%20educational",
+   quiz:[
+     {q:"Who helps check if you are healthy at a doctor office?", options:["A baker","A firefighter","A postal worker","A doctor"], answer:3},
+     {q:"What is a checkup?", options:["A weather event","A regular visit to make sure you are healthy","A kind of toy","A type of food"], answer:1},
+     {q:"Who often works alongside doctors to help patients?", options:["Postal workers","Nurses","Bakers","Firefighters"], answer:1},
+     {q:"Why is it helpful to visit the doctor for regular checkups?", options:["It helps make sure we stay healthy","Doctors never help","Checkups are not helpful","Health does not matter"], answer:0},
+     {q:"A doctor office is a place in our community that helps people stay ___.", options:["Lost","Confused","Hungry","Healthy"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Who helps check if you are healthy at a doctor office?", answers:["doctor"]},
+     {prompt:"What word describes a regular visit to make sure you are healthy?", answers:["checkup"]},
+     {prompt:"Do doctors and nurses work together to help people?", answers:["yes"]}
+   ]},
+]},
+{day:70, label:"Day 70 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Blends, Words, and Stories", summary:"Students review recent Language skills: consonant blends, number of s and -ing endings, sentence types, book authors, and story lessons.",
+   resourceLabel:"YouTube: Language Review: Blends, Words, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Words%2C%20and%20Stories%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word begins with the blend bl?", options:["Pig","Black","Hat","Sun"], answer:1},
+     {q:"Which word means more than one book?", options:["Booked","Books","Book","Booking"], answer:1},
+     {q:"What punctuation mark ends an asking sentence?", options:["Question mark","Period","Comma","Exclamation mark"], answer:0},
+     {q:"What does an author do?", options:["Writes the words of a book","Draws the pictures","Sells the book","Prints the book"], answer:0},
+     {q:"What is a lesson in a story?", options:["The number of pages","A message or teaching found in the story","The name of a character","The title of the book"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What two letters blend together at the start of the word stop?", answers:["st"]},
+     {prompt:"Add an s to the word cat. What new word do you make?", answers:["cats"]},
+     {prompt:"What word describes the person who writes the words of a book?", answers:["author"]}
+   ]},
+  {subject:"Math", title:"Math Review: Numbers, Patterns, and Time", summary:"Students review recent Math skills: number words, counting to 50, number bonds to 20, shapes with many sides, patterns, grids, and telling time to the hour.",
+   resourceLabel:"YouTube: Math Review: Numbers, Patterns, and Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Patterns%2C%20and%20Time%20kindergarten%20educational",
+   quiz:[
+     {q:"Which number word matches the numeral 12?", options:["Ten","Two","Twenty","Twelve"], answer:3},
+     {q:"What number comes right after 39?", options:["38","39","41","40"], answer:3},
+     {q:"How many sides does a pentagon have?", options:["6","5","7","4"], answer:1},
+     {q:"In the pattern star, moon, sun, star, moon, ___, what comes next?", options:["Star","Sun","Moon","Cloud"], answer:1},
+     {q:"When it is exactly 6 oclock, where does the long hand point?", options:["The 12","The 9","The 3","The 6"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Write the number word for 15.", answers:["fifteen"]},
+     {prompt:"What number added to 15 makes 20?", answers:["5","five"]},
+     {prompt:"How many sides does a hexagon have?", answers:["6","six"]}
+   ]},
+  {subject:"Science", title:"Science Review: Bodies, Habitats, and Animals", summary:"Students review recent Science topics: our eyes, animal coverings, migration, bees and pollination, our skeleton, deserts, and oceans.",
+   resourceLabel:"YouTube: Science Review: Bodies, Habitats, and Animals", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Animals%20kindergarten%20educational",
+   quiz:[
+     {q:"How many eyes does a person usually have?", options:["4","1","2","3"], answer:2},
+     {q:"What covering does a bird usually have?", options:["Scales","Fur","Feathers","Shell"], answer:2},
+     {q:"What do bees collect from flowers?", options:["Rocks","Water only","Sand","Nectar"], answer:3},
+     {q:"Is a desert usually a wet place or a dry place?", options:["Wet","Dry","Neither","Both"], answer:1},
+     {q:"Is ocean water salty or fresh?", options:["Both the same","Neither","Salty","Fresh"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What body part do we use to see?", answers:["eyes"]},
+     {prompt:"What covers most of a dog body?", answers:["fur"]},
+     {prompt:"What word describes animals travelling long distances to find warmer weather?", answers:["migration"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Community Helpers and Habits", summary:"Students review recent Social Studies topics: postal workers, firefighters, grocery stores, bakeries, getting to school, teamwork, playground rules, and doctor offices.",
+   resourceLabel:"YouTube: Social Studies Review: Community Helpers and Habits", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%20Helpers%20and%20Habits%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a postal worker deliver?", options:["Water only","Toys only","Food only","Mail and packages"], answer:3},
+     {q:"What vehicle is kept ready at the firehall?", options:["A boat","A bicycle","A school bus","A fire truck"], answer:3},
+     {q:"What should you wear if you ride a bike to school?", options:["Nothing extra","Sunglasses only","A helmet","Mittens only"], answer:2},
+     {q:"Which of these shows good teamwork?", options:["Arguing without listening","Doing everything alone","Refusing to help","Sharing jobs and helping each other"], answer:3},
+     {q:"Who helps check if you are healthy at a doctor office?", options:["A firefighter","A postal worker","A baker","A doctor"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a postal worker deliver to our homes?", answers:["mail","letters","packages"]},
+     {prompt:"What is the name of the building where firefighters work?", answers:["firehall","fire hall","fire station"]},
+     {prompt:"Where do many families go to buy food?", answers:["grocery store","the grocery store"]}
+   ]},
+]},
 ];
 
 export default curriculum;
