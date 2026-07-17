@@ -17027,5 +17027,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: The Unreliable Narrator",
+        "summary": "Grade 10 English strand: an unreliable narrator is a narrator whose credibility is compromised, whether by bias, limited knowledge, or deliberate deception, requiring readers to critically evaluate the accuracy of the account being presented.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "An unreliable narrator is best described as a narrator whose ___.",
+            "options": [
+              "A concept unrelated to narrative point of view",
+              "Only appears in non-fiction texts, never in fiction",
+              "Credibility or accuracy is compromised in some way",
+              "Account is always completely accurate and objective"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might cause a narrator to be unreliable?",
+            "options": [
+              "A personal bias, limited knowledge, or a deliberate intent to deceive",
+              "A trait unrelated to narrative reliability",
+              "Having complete and perfect knowledge of every event",
+              "Narrating a story in the third person exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must readers pay close attention to inconsistencies when a narrator may be unreliable?",
+            "options": [
+              "Inconsistencies can reveal gaps between what a narrator claims and what actually occurred in the story",
+              "A reason unrelated to evaluating a narrator’s credibility",
+              "Inconsistencies never provide any useful information to a reader",
+              "Unreliable narrators always state events with perfect accuracy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to use an unreliable narrator rather than an objective one?",
+            "options": [
+              "Objective narrators are never a valid choice for a story",
+              "A reason unrelated to narrative technique",
+              "Unreliable narrators always make a story less interesting",
+              "It can create suspense or complexity by forcing readers to question what is really happening"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is recognizing an unreliable narrator considered an important critical reading skill?",
+            "options": [
+              "Readers should always accept a narrator’s account without question",
+              "This skill has no connection to critical reading",
+              "It helps readers interpret a text more carefully rather than accepting every claim at face value",
+              "This concept only applies to nonfiction writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Quadratic Relations: The Discriminant and Nature of Roots",
+        "summary": "Grade 10 Quadratics strand (extension): the discriminant, b² - 4ac, determines the number and type of roots a quadratic equation has, indicating whether the roots are real and distinct, real and equal, or non-real.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
+            "options": [
+              "-b divided by 2a",
+              "b² - 4ac",
+              "An expression unrelated to the discriminant",
+              "b² + 4ac"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the discriminant of a quadratic equation is positive, the equation has ___.",
+            "options": [
+              "Two real, distinct roots",
+              "A result unrelated to the discriminant",
+              "No real roots",
+              "Exactly one repeated real root"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the discriminant of a quadratic equation equals zero, the equation has ___.",
+            "options": [
+              "Two distinct real roots",
+              "No real roots at all",
+              "A result unrelated to the discriminant",
+              "Exactly one repeated real root"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a negative discriminant indicate that a quadratic equation has no real roots?",
+            "options": [
+              "A reason unrelated to the discriminant",
+              "A negative discriminant always indicates two real, distinct roots",
+              "The discriminant’s sign has no connection to the type of roots a quadratic has",
+              "A negative value under the square root in the quadratic formula produces non-real, complex results"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the discriminant a useful tool before fully solving a quadratic equation?",
+            "options": [
+              "A reason unrelated to solving quadratic equations",
+              "It allows a student to quickly determine the number and type of roots without applying the entire quadratic formula",
+              "The discriminant provides no useful information about a quadratic equation",
+              "Calculating the discriminant always takes longer than fully solving the equation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Periodic Trends",
+        "summary": "Grade 10 Chemistry strand (extension): periodic trends describe predictable patterns in properties such as atomic radius, ionization energy, and electronegativity as one moves across a period or down a group of the periodic table.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Periodic trends describe predictable patterns in properties as one moves across a ___ of the periodic table.",
+            "options": [
+              "A concept unrelated to the periodic table",
+              "Colour scheme only, with no connection to chemical properties",
+              "Random arrangement with no predictable pattern",
+              "Period or down a group"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As you move from left to right across a period, atomic radius generally ___.",
+            "options": [
+              "Stays exactly the same",
+              "Increases",
+              "A trend unrelated to atomic radius",
+              "Decreases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As you move down a group of the periodic table, atomic radius generally ___.",
+            "options": [
+              "Decreases",
+              "Increases",
+              "A trend unrelated to atomic radius",
+              "Stays exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does ionization energy generally increase as you move from left to right across a period?",
+            "options": [
+              "Increasing nuclear charge pulls the outermost electrons more tightly, making them harder to remove",
+              "Ionization energy always decreases across a period, with no connection to nuclear charge",
+              "Nuclear charge has no effect on how tightly electrons are held",
+              "A reason unrelated to periodic trends"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are periodic trends useful for predicting how an element will behave in a chemical reaction?",
+            "options": [
+              "A reason unrelated to periodic trends",
+              "They provide insight into an atom’s tendency to gain, lose, or share electrons based on its position on the periodic table",
+              "Periodic trends provide no useful information about chemical behaviour",
+              "An element’s position on the periodic table never affects how it reacts"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada and the First World War: Vimy Ridge and the Birth of National Identity",
+        "summary": "Grade 10 History strand: Canada entered the First World War in 1914 as part of the British Empire, and the 1917 victory at Vimy Ridge, where Canadian troops fought together as a unified force for the first time, became a defining symbol of emerging Canadian national identity.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada entered the First World War in which year?",
+            "options": [
+              "1929",
+              "1917",
+              "1939",
+              "1914"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "At the Battle of Vimy Ridge, Canadian troops fought together as a unified force for the ___.",
+            "options": [
+              "First time",
+              "Last time before Confederation",
+              "A detail unrelated to Vimy Ridge",
+              "Only time in Canadian military history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada’s participation in the First World War was initially tied to its status as part of ___.",
+            "options": [
+              "An independent nation with no ties to Britain",
+              "A relationship unrelated to Canada’s WWI involvement",
+              "The British Empire",
+              "The United States’ military alliance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Battle of Vimy Ridge often described as a defining moment in Canadian national identity?",
+            "options": [
+              "Canadian troops’ success fighting as a unified national force helped foster a growing sense of pride and distinct identity",
+              "This topic has no relevance to understanding Canadian history",
+              "This battle had no connection to Canadian national identity",
+              "Vimy Ridge has no lasting significance in Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians often connect Canada’s First World War experience to its later push for greater independence from Britain?",
+            "options": [
+              "Canada’s First World War experience had no connection to its later independence",
+              "Canadian independence was never connected to any historical events",
+              "The war’s sacrifices and achievements strengthened Canada’s confidence in asserting its own voice on the world stage",
+              "This topic has no relevance to understanding Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Motif and Recurring Imagery",
+        "summary": "Grade 10 English strand: a motif is a recurring element, image, or idea that appears throughout a text, reinforcing a story’s themes and adding layers of meaning through repetition.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A motif is best described as a recurring ___.",
+            "options": [
+              "Element, image, or idea that appears throughout a text",
+              "Character who appears only once in a story",
+              "Setting that changes completely with every scene",
+              "A concept unrelated to literary analysis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author repeat a specific image throughout a novel?",
+            "options": [
+              "A reason unrelated to literary technique",
+              "Repetition can reinforce a theme or draw attention to its significance",
+              "Repeating an image always weakens a story’s structure",
+              "Authors never intentionally repeat images or ideas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of how a motif might function in a text?",
+            "options": [
+              "An element that never connects to any broader theme",
+              "A recurring symbol, such as light and darkness, that reinforces a central theme",
+              "A technique unrelated to motif",
+              "A single unrelated detail mentioned only once"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might tracking a motif across an entire novel deepen a reader’s understanding of theme?",
+            "options": [
+              "Motifs never change or develop throughout a text",
+              "Seeing how a motif evolves or shifts can reveal how a theme develops over the course of the story",
+              "A reason unrelated to thematic analysis",
+              "Tracking a motif provides no additional insight into a text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is motif considered distinct from a one-time literary device, like a single metaphor?",
+            "options": [
+              "This distinction has no connection to literary analysis",
+              "A motif and a single metaphor are always identical in function",
+              "A motif recurs multiple times across a text, building cumulative meaning, rather than appearing only once",
+              "Motifs only ever appear a single time in a text"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Direct and Partial Variation",
+        "summary": "Grade 10 Algebra strand (extension): direct variation describes a relationship where one quantity is a constant multiple of another, expressed as y = kx, while partial variation includes an additional constant term, expressed as y = kx + b.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "Direct variation describes a relationship expressed in the form ___.",
+            "options": [
+              "y = k divided by x",
+              "y = kx",
+              "An expression unrelated to direct variation",
+              "y = kx + b"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Partial variation differs from direct variation because it includes ___.",
+            "options": [
+              "A difference unrelated to variation relationships",
+              "An additional constant term",
+              "A variable exponent on x",
+              "No constant of variation at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a direct variation relationship, when x = 0, the value of y must be ___.",
+            "options": [
+              "0",
+              "A value unrelated to direct variation",
+              "Undefined in every case",
+              "Equal to the constant of variation, k"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the graph of a partial variation relationship not pass through the origin, unlike a direct variation relationship?",
+            "options": [
+              "The constant of variation, k, has no effect on where a line is positioned",
+              "A reason unrelated to variation relationships",
+              "The added constant term shifts the line vertically away from the point (0, 0)",
+              "Partial variation relationships always pass through the origin, just like direct variation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are direct and partial variation useful for modelling real-world relationships, such as the cost of a service with a flat fee plus a per-unit rate?",
+            "options": [
+              "Costs involving a flat fee and a per-unit rate can never be modelled using these relationships",
+              "A reason unrelated to variation relationships",
+              "Direct and partial variation have no real-world modelling applications",
+              "They provide a simple linear model that reflects either a purely proportional relationship or one with a fixed starting value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Circulatory and Respiratory Systems",
+        "summary": "Grade 10 Biology strand: the circulatory system transports oxygen, nutrients, and waste throughout the body using the heart and blood vessels, working closely with the respiratory system, which exchanges oxygen and carbon dioxide between the body and the environment.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "The circulatory system primarily transports oxygen, nutrients, and waste using the heart and ___.",
+            "options": [
+              "A structure unrelated to circulation",
+              "Digestive organs only, with no connection to blood",
+              "Blood vessels",
+              "Lungs exclusively, with no connection to blood vessels"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The respiratory system primarily exchanges which two gases between the body and the environment?",
+            "options": [
+              "A pair of gases unrelated to respiration",
+              "Oxygen and helium",
+              "Nitrogen and hydrogen",
+              "Oxygen and carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which structure in the circulatory system pumps blood throughout the body?",
+            "options": [
+              "A structure unrelated to circulation",
+              "The heart",
+              "The diaphragm",
+              "The lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do the circulatory and respiratory systems work closely together?",
+            "options": [
+              "A reason unrelated to human body systems",
+              "The respiratory system has no role in delivering oxygen to the body’s cells",
+              "These two systems function completely independently with no connection to each other",
+              "The circulatory system carries the oxygen absorbed by the respiratory system to cells throughout the body, and returns carbon dioxide for exhalation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the circulatory and respiratory systems important for studying conditions like cardiovascular disease?",
+            "options": [
+              "Cardiovascular disease has no connection to the circulatory system",
+              "A reason unrelated to human health",
+              "These body systems have no connection to any medical conditions",
+              "Many health conditions arise from disruptions to how these systems transport oxygen and maintain blood flow"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Conscription Crisis of 1917",
+        "summary": "Grade 10 History strand: the 1917 Conscription Crisis erupted when the federal government introduced mandatory military service to address wartime troop shortages, a decision that deeply divided English and French Canada and strained national unity.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Conscription Crisis took place in which year?",
+            "options": [
+              "1929",
+              "1945",
+              "1917",
+              "1962"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Conscription refers to a policy of ___.",
+            "options": [
+              "A policy unrelated to military service",
+              "Mandatory civilian labour with no connection to the military",
+              "Voluntary military enlistment only",
+              "Mandatory military service"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The federal government introduced conscription in 1917 primarily to address ___.",
+            "options": [
+              "A shortage of agricultural labourers",
+              "A reason entirely unrelated to the war",
+              "Wartime troop shortages",
+              "A shortage of factory workers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did the Conscription Crisis deeply divide English and French Canada?",
+            "options": [
+              "Many French Canadians felt less connected to a war fought primarily for British imperial interests, while many English Canadians strongly supported the war effort",
+              "This topic has no relevance to understanding Canadian history",
+              "This crisis had no connection to any divisions within Canada",
+              "English and French Canadians held identical views on conscription"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians consider the Conscription Crisis an important moment in Canadian political history?",
+            "options": [
+              "It revealed and deepened long-standing tensions between English and French Canada that would continue to shape national politics",
+              "This topic has no relevance to understanding Canadian history",
+              "English and French Canada have never experienced any political tension",
+              "The Conscription Crisis had no lasting effect on Canadian politics"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Sentence Fragments and Run-On Sentences",
+        "summary": "Grade 10 English strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, while a run-on sentence improperly joins two or more independent clauses without correct punctuation or conjunctions.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A sentence fragment is best described as a group of words that ___.",
+            "options": [
+              "Is missing a subject, verb, or complete thought",
+              "Is always too long to be considered a single sentence",
+              "Always contains two complete independent clauses",
+              "A concept unrelated to sentence structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A run-on sentence occurs when ___.",
+            "options": [
+              "Two or more independent clauses are joined without correct punctuation or conjunctions",
+              "A sentence contains only a single word",
+              "A concept unrelated to grammar",
+              "A sentence is missing its subject entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a sentence fragment?",
+            "options": [
+              "After she finished, she ran through the park.",
+              "A sentence unrelated to fragments or run-ons",
+              "She ran through the park every morning.",
+              "Running through the park every morning."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use a semicolon to correct a run-on sentence?",
+            "options": [
+              "A reason unrelated to correcting run-on sentences",
+              "A semicolon can never be used to join two clauses",
+              "A semicolon can properly join two closely related independent clauses without a coordinating conjunction",
+              "Semicolons always create a sentence fragment instead of fixing one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to avoid both fragments and run-ons in formal academic writing?",
+            "options": [
+              "Formal writing has no expectations around sentence structure",
+              "These errors never affect how clearly a sentence communicates meaning",
+              "A reason unrelated to writing conventions",
+              "Both errors can confuse a reader and obscure the intended meaning of a sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Compound Interest and Amortization",
+        "summary": "Grade 10 Financial Literacy strand (extension): compound interest is calculated on both the initial principal and the accumulated interest from previous periods, and an amortization schedule breaks down how each loan payment is divided between interest and principal over time.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "Compound interest is calculated based on ___.",
+            "options": [
+              "Both the initial principal and the accumulated interest from previous periods",
+              "Only the initial principal, with no connection to accumulated interest",
+              "A fixed amount that never changes over time",
+              "A concept unrelated to interest calculations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An amortization schedule shows how each loan payment is divided between ___.",
+            "options": [
+              "Taxes and fees exclusively",
+              "A concept unrelated to loan repayment",
+              "Interest and principal",
+              "Only interest, with no connection to principal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Compared to simple interest, compound interest generally causes an investment to grow ___.",
+            "options": [
+              "At exactly the same rate as simple interest",
+              "A comparison unrelated to interest calculations",
+              "Faster over time",
+              "Slower over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the portion of an amortized loan payment applied to interest typically decrease over the life of the loan?",
+            "options": [
+              "A reason unrelated to amortization",
+              "As the principal balance shrinks with each payment, the interest charged on that smaller balance also decreases",
+              "The amount applied to interest never changes throughout a loan’s term",
+              "The portion applied to interest always increases over the life of the loan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding compound interest important when comparing long-term savings or investment options?",
+            "options": [
+              "Small differences in interest rate or compounding frequency can lead to significantly different amounts over a long period of time",
+              "All savings and investment options grow at an identical rate regardless of compounding",
+              "A reason unrelated to financial literacy",
+              "Compound interest has no meaningful effect on long-term savings or investments"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Static Electricity and Electric Charge",
+        "summary": "Grade 10 Physics strand: static electricity results from an imbalance of electric charge on an object’s surface, typically caused by the transfer of electrons through friction, and objects with like charges repel while objects with opposite charges attract.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Static electricity results from an imbalance of ___ on an object’s surface.",
+            "options": [
+              "Temperature",
+              "Electric charge",
+              "Mass",
+              "A concept unrelated to static electricity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Static electricity is typically caused by the transfer of ___ through friction.",
+            "options": [
+              "A particle unrelated to static electricity",
+              "Neutrons",
+              "Protons",
+              "Electrons"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Objects with like electric charges will ___ each other.",
+            "options": [
+              "Repel",
+              "A result unrelated to electric charge",
+              "Have no effect on",
+              "Attract"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does rubbing two different materials together often generate static electricity?",
+            "options": [
+              "Rubbing two materials together always removes all electric charge from both objects",
+              "Friction never causes any transfer of electric charge between materials",
+              "A reason unrelated to static electricity",
+              "The friction can transfer electrons from one material to the other, creating a charge imbalance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding static electricity important for practical safety concerns, such as around flammable materials?",
+            "options": [
+              "A reason unrelated to physics",
+              "Static discharges are never capable of producing a spark",
+              "A static discharge can create a spark capable of igniting flammable vapours or materials",
+              "Static electricity has no connection to any safety concerns"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Growing Canadian Autonomy: The Chanak Affair and the Statute of Westminster",
+        "summary": "Grade 10 History strand: Canada’s refusal to automatically support Britain during the 1922 Chanak Affair and the 1931 Statute of Westminster, which granted Canada full legal independence in domestic and foreign affairs, marked key steps in Canada’s growing autonomy from Britain.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Chanak Affair took place in which year?",
+            "options": [
+              "1931",
+              "1945",
+              "1914",
+              "1922"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Statute of Westminster was passed in which year?",
+            "options": [
+              "1922",
+              "1931",
+              "1914",
+              "1945"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Statute of Westminster granted Canada ___.",
+            "options": [
+              "Increased military obligations to Britain",
+              "Full legal independence in domestic and foreign affairs",
+              "A result unrelated to Canadian autonomy",
+              "Complete separation from the British monarchy entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s response to the Chanak Affair considered an early sign of growing Canadian autonomy?",
+            "options": [
+              "The Chanak Affair had no connection to Canadian autonomy",
+              "Canada immediately and fully supported Britain’s request with no hesitation",
+              "This topic has no relevance to understanding Canadian history",
+              "Canada declined to automatically commit troops to support Britain, showing a new willingness to make independent foreign policy decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians view the Statute of Westminster as a major turning point in Canada’s relationship with Britain?",
+            "options": [
+              "It formally recognized Canada’s legal authority to govern itself independently, rather than remaining subordinate to British parliamentary decisions",
+              "The Statute of Westminster had no effect on Canada’s relationship with Britain",
+              "This topic has no relevance to understanding Canadian history",
+              "This legislation increased Britain’s control over Canadian affairs"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: Analyzing Diction and Tone",
+        "summary": "Grade 10 English strand: diction refers to an author’s specific word choices, while tone is the author’s attitude toward a subject conveyed through that diction, style, and other stylistic choices.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Diction refers to an author’s ___.",
+            "options": [
+              "Specific word choices",
+              "Choice of setting exclusively, with no connection to word choice",
+              "Handwriting or font style alone",
+              "A concept unrelated to writing style"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Tone is best described as ___.",
+            "options": [
+              "A synonym for a story’s plot events",
+              "A concept unrelated to diction",
+              "The physical setting of a narrative, with no connection to attitude",
+              "The author’s attitude toward a subject, conveyed through word choice and style"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of how diction can shape tone?",
+            "options": [
+              "A technique unrelated to diction and tone",
+              "Word choice never has any effect on a text’s tone",
+              "Diction only affects a text’s length, not its tone",
+              "Choosing harsh, blunt words rather than gentle, soft ones to create a critical tone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might two authors describe the same event using very different diction?",
+            "options": [
+              "Word choice has no connection to an author’s perspective",
+              "Each author’s specific word choices reflect their own distinct attitude or perspective toward the event",
+              "A reason unrelated to diction and tone",
+              "Diction is always identical across every author who writes about the same event"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is analyzing diction and tone considered a valuable close-reading skill?",
+            "options": [
+              "Only plot events, not word choice, ever reveal an author’s attitude",
+              "This skill has no connection to understanding a text more deeply",
+              "It allows readers to uncover an author’s underlying attitude or perspective beyond the literal meaning of the words",
+              "Diction and tone are never worth analyzing closely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Angle of Elevation and Depression",
+        "summary": "Grade 10 Trigonometry strand: the angle of elevation is the angle measured upward from a horizontal line of sight to an object above, while the angle of depression is the angle measured downward from a horizontal line of sight to an object below.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The angle of elevation is measured ___ from a horizontal line of sight.",
+            "options": [
+              "Downward, to an object below",
+              "A concept unrelated to angles of elevation",
+              "Upward, to an object above",
+              "Sideways, with no vertical component"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The angle of depression is measured ___ from a horizontal line of sight.",
+            "options": [
+              "Downward, to an object below",
+              "Upward, to an object above",
+              "A concept unrelated to angles of depression",
+              "Only along the ground, with no connection to height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a person on top of a cliff looks down at a boat, the angle formed between their horizontal line of sight and the boat is called the ___.",
+            "options": [
+              "A right angle by definition, with no need for measurement",
+              "Angle of depression",
+              "An angle unrelated to this scenario",
+              "Angle of elevation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are the angle of elevation and the angle of depression between two points always equal to one another?",
+            "options": [
+              "The angle of depression is always exactly double the angle of elevation",
+              "A reason unrelated to angles of elevation and depression",
+              "These two angles are never related to each other in any way",
+              "They are alternate interior angles formed by a transversal crossing two parallel horizontal lines of sight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are angle of elevation and depression problems useful for solving real-world measurement tasks, such as finding the height of a building?",
+            "options": [
+              "A reason unrelated to trigonometry",
+              "These angles have no real-world measurement applications",
+              "They allow trigonometric ratios to be applied to indirectly calculate distances or heights that cannot be measured directly",
+              "Heights of buildings can never be calculated using angles of elevation or depression"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Renewable and Non-Renewable Energy Resources",
+        "summary": "Grade 10 Earth Science strand: renewable energy resources, such as solar and wind, can be replenished naturally within a short time frame, while non-renewable energy resources, such as coal and oil, take millions of years to form and are being depleted faster than they can be replaced.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Renewable energy resources are best described as resources that ___.",
+            "options": [
+              "Can be replenished naturally within a short time frame",
+              "Can never be replenished under any circumstances",
+              "Take millions of years to form",
+              "A concept unrelated to energy resources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a non-renewable energy resource?",
+            "options": [
+              "Coal",
+              "Solar energy",
+              "An energy source unrelated to this classification",
+              "Wind energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Non-renewable energy resources are generally being used ___ than they can naturally be replaced.",
+            "options": [
+              "Faster",
+              "At exactly the same rate",
+              "Slower",
+              "A comparison unrelated to energy resources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are fossil fuels classified as non-renewable energy resources?",
+            "options": [
+              "This classification has no connection to how quickly a resource forms",
+              "Fossil fuels can be replenished within a single human lifetime",
+              "A reason unrelated to energy classification",
+              "They take millions of years to form from ancient organic matter, far longer than the rate at which they are consumed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the shift toward renewable energy resources considered important for long-term sustainability?",
+            "options": [
+              "Non-renewable energy resources will never become depleted",
+              "Renewable energy resources have no connection to long-term sustainability",
+              "A reason unrelated to Earth Science",
+              "Renewable resources can be replenished naturally, reducing the risk of depleting a limited, non-renewable supply"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1918-1920 Spanish Flu Pandemic in Canada",
+        "summary": "Grade 10 History strand: the Spanish Flu pandemic swept through Canada from 1918 to 1920, killing tens of thousands of people, overwhelming healthcare systems already strained by the First World War, and prompting new public health measures.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Spanish Flu pandemic affected Canada primarily during which years?",
+            "options": [
+              "1929 to 1931",
+              "1945 to 1947",
+              "1939 to 1941",
+              "1918 to 1920"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Spanish Flu pandemic arrived in Canada around the same time as ___.",
+            "options": [
+              "The end of the First World War",
+              "An event entirely unrelated to the pandemic’s timing",
+              "The Second World War",
+              "The Great Depression"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Spanish Flu pandemic in Canada is estimated to have caused ___.",
+            "options": [
+              "A death toll unrelated to public health history",
+              "Tens of thousands of deaths",
+              "No deaths at all",
+              "Fewer than one hundred deaths nationwide"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did the Spanish Flu pandemic place such severe strain on Canadian healthcare systems at the time?",
+            "options": [
+              "This pandemic had no connection to the state of healthcare in Canada",
+              "Canadian healthcare systems faced no additional strain during this period",
+              "Healthcare resources and personnel were already stretched thin by the ongoing demands of the First World War",
+              "This topic has no relevance to understanding Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians and public health officials continue to study the 1918-1920 pandemic today?",
+            "options": [
+              "This topic has no relevance to understanding Canadian history",
+              "This event has been entirely forgotten with no historical record",
+              "It offers important lessons about public health responses, healthcare capacity, and the spread of infectious disease",
+              "The Spanish Flu pandemic has no lasting relevance to public health today"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Cover Letter and Resume",
+        "summary": "Grade 10 English strand: a cover letter introduces a candidate and explains their interest in a specific opportunity, while a resume summarizes a candidate’s skills, education, and experience in a clear, organized format.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A cover letter is primarily used to ___.",
+            "options": [
+              "Introduce a candidate and explain their interest in a specific opportunity",
+              "Replace the need for a resume entirely",
+              "A concept unrelated to professional writing",
+              "Provide a complete, detailed list of every job a candidate has ever held"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A resume is best described as a document that ___.",
+            "options": [
+              "Tells a detailed personal story with no organization",
+              "Summarizes a candidate’s skills, education, and experience in a clear, organized format",
+              "A concept unrelated to professional writing",
+              "Is always written in the same format as a cover letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should a cover letter be tailored to a specific job rather than written generically?",
+            "options": [
+              "Cover letters should never mention a specific job or opportunity",
+              "A reason unrelated to professional writing",
+              "A generic cover letter is always more effective than a tailored one",
+              "A tailored letter can directly connect a candidate’s relevant skills to the specific opportunity being sought"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is clear, concise formatting especially important in a resume?",
+            "options": [
+              "It allows a reader to quickly scan and identify a candidate’s most relevant qualifications",
+              "A reason unrelated to professional writing",
+              "Resumes are always read in extremely close detail, word for word",
+              "Formatting has no effect on how a resume is read or understood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are cover letter and resume writing considered valuable skills to develop in Grade 10?",
+            "options": [
+              "These skills have no real-world application for students",
+              "A reason unrelated to professional or practical writing",
+              "Only adults with careers ever need to write a cover letter or resume",
+              "They prepare students for real-world tasks like applying for jobs, volunteer positions, or programs"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Pythagorean Theorem in Three Dimensions",
+        "summary": "Grade 10 Geometry strand (extension): the Pythagorean theorem can be extended into three dimensions to find the diagonal length of a rectangular prism by applying the relationship twice, first to a base rectangle and then to the resulting right triangle.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "In three dimensions, the Pythagorean theorem can be used to find the ___ of a rectangular prism.",
+            "options": [
+              "Surface area",
+              "Volume",
+              "Diagonal length",
+              "A measurement unrelated to the Pythagorean theorem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the diagonal of a rectangular prism, the Pythagorean theorem is generally applied ___.",
+            "options": [
+              "Only once, with no additional steps required",
+              "Zero times, since this shape has no diagonal",
+              "Twice, first to a base rectangle and then to the resulting right triangle",
+              "A method unrelated to this calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For a rectangular prism with length l, width w, and height h, the length of the space diagonal, d, satisfies ___.",
+            "options": [
+              "A relationship unrelated to this calculation",
+              "d = l + w + h",
+              "d² = l² + w² + h²",
+              "d² = l² - w² - h²"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must the diagonal of the base rectangle be calculated as an intermediate step when finding a rectangular prism’s space diagonal?",
+            "options": [
+              "The base diagonal has no connection to the three-dimensional diagonal",
+              "This intermediate step is unnecessary and can always be skipped",
+              "A reason unrelated to this calculation",
+              "That base diagonal becomes one leg of the right triangle used to calculate the full three-dimensional diagonal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is extending the Pythagorean theorem into three dimensions useful in fields like construction or design?",
+            "options": [
+              "The Pythagorean theorem can never be applied to three-dimensional shapes",
+              "A reason unrelated to three-dimensional geometry",
+              "It allows the direct distance between opposite corners of a three-dimensional object to be calculated without physical measurement",
+              "This extension has no real-world application in construction or design"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Empirical and Molecular Formulas",
+        "summary": "Grade 10 Chemistry strand (extension): an empirical formula shows the simplest whole-number ratio of atoms in a compound, while a molecular formula shows the actual number of atoms of each element present in a single molecule.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "An empirical formula shows the ___ of atoms in a compound.",
+            "options": [
+              "Mass in grams",
+              "Simplest whole-number ratio",
+              "A concept unrelated to chemical formulas",
+              "Exact total number, regardless of ratio"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A molecular formula shows ___.",
+            "options": [
+              "The charge of the overall compound only",
+              "A concept unrelated to chemical formulas",
+              "Only the ratio of atoms, with no connection to actual quantity",
+              "The actual number of atoms of each element in a single molecule"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a compound has the molecular formula C6H12O6, what would its empirical formula be?",
+            "options": [
+              "A formula unrelated to this compound",
+              "CH2O",
+              "C3H6O3",
+              "C6H12O6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can two different compounds share the same empirical formula but have different molecular formulas?",
+            "options": [
+              "A reason unrelated to chemical formulas",
+              "Their molecular formulas can be different whole-number multiples of the same simplest ratio",
+              "Empirical and molecular formulas are always identical for every compound",
+              "Two compounds can never share the same empirical formula"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is determining a compound’s empirical formula a useful step in identifying an unknown substance?",
+            "options": [
+              "It provides the simplest ratio of elements present, which can then be used alongside molar mass data to determine the full molecular formula",
+              "An unknown substance can never be identified using its empirical formula",
+              "Empirical formulas provide no useful information for identifying a compound",
+              "A reason unrelated to chemical analysis"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Bomarc Missile Crisis and Canada-US Cold War Tensions",
+        "summary": "Grade 10 History strand: the early 1960s Bomarc missile controversy, over whether Canada should accept nuclear warheads for American-designed missiles on Canadian soil, exposed deep divisions within Canadian politics and ultimately contributed to the fall of the Diefenbaker government.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Bomarc missile controversy took place primarily during which decade?",
+            "options": [
+              "The 1940s",
+              "The 1980s",
+              "The 1920s",
+              "The 1960s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Bomarc missile controversy centred on whether Canada should accept ___.",
+            "options": [
+              "A trade agreement entirely unrelated to defense",
+              "Nuclear warheads for American-designed missiles on Canadian soil",
+              "A controversy unrelated to Cold War defense policy",
+              "New immigration quotas from the United States"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Bomarc missile controversy contributed to the fall of which prime minister’s government?",
+            "options": [
+              "A leader unrelated to this controversy",
+              "Lester Pearson",
+              "Pierre Trudeau",
+              "John Diefenbaker"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did the Bomarc missile controversy expose deep divisions within Canadian politics?",
+            "options": [
+              "This controversy had no connection to any political divisions",
+              "This topic has no relevance to understanding Canadian history",
+              "It raised difficult questions about Canadian sovereignty, nuclear weapons, and the country’s military relationship with the United States",
+              "All Canadian politicians agreed completely on this issue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study the Bomarc missile crisis as part of Canada’s broader Cold War history?",
+            "options": [
+              "The Bomarc crisis has no connection to Canada’s Cold War history",
+              "Canada’s defense policy was never influenced by Cold War tensions",
+              "It illustrates the pressures Canada faced in balancing its own sovereignty with its defense commitments to the United States during the Cold War",
+              "This topic has no relevance to understanding Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Frame Narratives and Nested Stories",
+        "summary": "Grade 10 English strand: a frame narrative is a story structure in which one story is told within another, using an outer narrative to introduce, contextualize, or provide a lens for one or more inner stories.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A frame narrative is best described as a structure in which ___.",
+            "options": [
+              "A concept unrelated to narrative structure",
+              "Every character narrates the exact same events identically",
+              "Only a single storyline exists with no embedded stories",
+              "One story is told within another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a frame narrative, the outer story typically functions to ___.",
+            "options": [
+              "Introduce, contextualize, or provide a lens for the inner story or stories",
+              "A function unrelated to frame narratives",
+              "Replace the need for an inner story entirely",
+              "Have no relationship to the inner story at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of how a frame narrative might be used?",
+            "options": [
+              "A technique unrelated to frame narratives",
+              "A story told entirely without any narrator",
+              "A character recounting a past experience as a story within the main narrative",
+              "A single event described only once with no embedded structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a frame narrative to explore a theme from multiple angles?",
+            "options": [
+              "Frame narratives never provide any additional perspective on a theme",
+              "The relationship between the outer and inner stories can add layered perspectives or meaning to a shared theme",
+              "A reason unrelated to narrative structure",
+              "A frame narrative always simplifies a theme rather than layering it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a frame narrative create suspense or curiosity about how the outer and inner stories connect?",
+            "options": [
+              "The outer and inner stories are always completely unrelated with no connection at all",
+              "Readers may wonder how the framing story relates to or is resolved by the story nested within it",
+              "A reason unrelated to narrative technique",
+              "Frame narratives never create any sense of suspense or curiosity"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Laws of Exponents and Rational Exponents",
+        "summary": "Grade 10 Algebra strand (extension): the laws of exponents govern how expressions with powers are multiplied, divided, and simplified, and a rational exponent expresses a root, such as x^(1/2) representing the square root of x.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "According to the product law of exponents, x^a multiplied by x^b equals ___.",
+            "options": [
+              "x^(a+b)",
+              "An expression unrelated to the laws of exponents",
+              "x^(a times b)",
+              "x^(a-b)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rational exponent such as x^(1/2) represents ___.",
+            "options": [
+              "A concept unrelated to rational exponents",
+              "X multiplied by one-half",
+              "The square root of x",
+              "X raised to a negative power"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "According to the quotient law of exponents, x^a divided by x^b equals ___.",
+            "options": [
+              "An expression unrelated to the laws of exponents",
+              "x^(a divided by b)",
+              "x^(a-b)",
+              "x^(a+b)"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does raising a power to another power require multiplying the exponents, as in (x^a)^b = x^(ab)?",
+            "options": [
+              "Raising a power to another power means repeating the multiplication of x^a a total of b times, which adds the exponent a to itself b times",
+              "A reason unrelated to the laws of exponents",
+              "This law only applies when a and b are both equal to one",
+              "Raising a power to another power always requires adding the exponents instead of multiplying them"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are rational exponents useful for representing roots within algebraic expressions?",
+            "options": [
+              "They allow roots to be manipulated using the same laws of exponents as whole-number powers",
+              "A reason unrelated to simplifying algebraic expressions",
+              "Roots can never be expressed using exponents of any kind",
+              "Rational exponents have no connection to roots or radicals"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Biodiversity and Conservation Strategies",
+        "summary": "Grade 10 Biology strand: biodiversity refers to the variety of living organisms within an ecosystem, and conservation strategies, such as protected areas and species reintroduction programs, aim to maintain or restore that variety in the face of habitat loss and other threats.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Biodiversity refers to the ___ within an ecosystem.",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "Total mass of a single dominant species",
+              "Variety of living organisms",
+              "Amount of available sunlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a conservation strategy?",
+            "options": [
+              "Establishing a protected area to preserve a habitat",
+              "Removing all protections from a natural habitat",
+              "A strategy unrelated to conservation",
+              "Deliberately introducing an invasive species to an ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Habitat loss is generally considered a ___ to biodiversity.",
+            "options": [
+              "Threat",
+              "A factor with no measurable effect on biodiversity",
+              "A factor unrelated to biodiversity",
+              "Benefit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is high biodiversity generally considered beneficial to the overall stability of an ecosystem?",
+            "options": [
+              "High biodiversity always makes an ecosystem less stable",
+              "Biodiversity has no connection to how an ecosystem responds to change",
+              "A greater variety of species can make an ecosystem more resilient to disturbances or environmental change",
+              "A reason unrelated to ecosystem stability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a species reintroduction program be used as a conservation strategy?",
+            "options": [
+              "Species that are lost from an ecosystem can never be reintroduced",
+              "It can help restore a species that has been lost from an ecosystem, supporting the ecosystem’s overall balance and function",
+              "Reintroduction programs have no effect on an ecosystem’s balance",
+              "A reason unrelated to conservation biology"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Massey Commission and the Shaping of Canadian Culture",
+        "summary": "Grade 10 History strand: the 1949-1951 Massey Commission investigated the state of arts, letters, and sciences in Canada, leading to recommendations that shaped the creation of institutions such as the Canada Council for the Arts to support Canadian cultural identity.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "The Massey Commission conducted its investigation primarily during which years?",
+            "options": [
+              "1969 to 1971",
+              "1949 to 1951",
+              "1914 to 1916",
+              "1929 to 1931"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Massey Commission investigated the state of ___ in Canada.",
+            "options": [
+              "Provincial boundaries and geography",
+              "Arts, letters, and sciences",
+              "Only military spending, with no connection to culture",
+              "A subject entirely unrelated to Canadian culture"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Recommendations from the Massey Commission helped lead to the creation of ___.",
+            "options": [
+              "The Canadian Armed Forces",
+              "A federal department focused only on agriculture",
+              "The Canada Council for the Arts",
+              "An organization entirely unrelated to Canadian culture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why was the Massey Commission concerned about the influence of American media and culture on Canada?",
+            "options": [
+              "This topic has no relevance to understanding Canadian history",
+              "The Massey Commission had no concerns about American cultural influence",
+              "This concern has no connection to Canadian cultural policy",
+              "Commissioners worried that a lack of support for Canadian arts and culture could weaken a distinct Canadian identity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians consider the Massey Commission significant in the development of Canadian cultural policy?",
+            "options": [
+              "It laid the groundwork for ongoing federal support of Canadian arts and culture that continues to shape national identity today",
+              "The Massey Commission had no lasting influence on Canadian cultural policy",
+              "Canadian cultural policy has never been shaped by federal government action",
+              "This topic has no relevance to understanding Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Giving and Receiving Constructive Feedback",
+        "summary": "Grade 10 English strand: constructive feedback offers specific, actionable observations intended to help a writer or speaker improve, balancing honest critique with respect and encouragement.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Constructive feedback is best described as feedback that is ___.",
+            "options": [
+              "Intended only to criticize without any purpose of improvement",
+              "A concept unrelated to communication",
+              "Specific, actionable, and intended to help someone improve",
+              "Vague and focused only on general praise with no detail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is specificity important when giving feedback on a piece of writing?",
+            "options": [
+              "A reason unrelated to giving effective feedback",
+              "Specific feedback helps the writer understand exactly what to revise and how to improve it",
+              "Vague feedback is always more helpful than specific feedback",
+              "Specificity has no effect on how useful feedback is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of constructive feedback on a piece of writing?",
+            "options": [
+              "A comment unrelated to giving feedback",
+              "I have no comments at all.",
+              "Your introduction could more clearly state your main argument.",
+              "This is bad."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a peer feedback session use a structured format, such as identifying one strength and one area for improvement?",
+            "options": [
+              "Structured formats always make feedback less useful",
+              "A reason unrelated to peer feedback",
+              "A structured format ensures feedback is balanced, focused, and useful for revision",
+              "Feedback sessions are more effective with no structure at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is learning to receive feedback gracefully considered an important part of the writing process?",
+            "options": [
+              "A reason unrelated to the writing process",
+              "Being open to feedback allows a writer to revise and strengthen their work more effectively",
+              "Receiving feedback has no connection to improving a piece of writing",
+              "Writers should always ignore any feedback they receive"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Vectors: The Dot Product and Applications",
+        "summary": "Grade 10 Vectors strand (extension): the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and can be used to determine the angle between two vectors.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The dot product of two vectors produces a ___.",
+            "options": [
+              "A new vector, with no connection to a scalar",
+              "A concept unrelated to vectors",
+              "A matrix, with no connection to scalars",
+              "Single scalar value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The dot product of two vectors is calculated by ___.",
+            "options": [
+              "Subtracting corresponding components from one another",
+              "Multiplying only the magnitudes of the two vectors, ignoring direction",
+              "A method unrelated to the dot product",
+              "Multiplying corresponding components and summing the results"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the dot product of two non-zero vectors equals zero, the vectors are ___.",
+            "options": [
+              "Perpendicular to each other",
+              "A relationship unrelated to the dot product",
+              "Parallel to each other",
+              "Identical in both magnitude and direction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can the dot product be used to determine the angle between two vectors?",
+            "options": [
+              "The dot product formula directly relates the vectors’ magnitudes and the cosine of the angle between them",
+              "A reason unrelated to vector operations",
+              "The angle between two vectors can never be calculated using any vector operation",
+              "The dot product has no connection to the angle between two vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the dot product useful in real-world applications, such as calculating the work done by a force?",
+            "options": [
+              "Work done by a force never involves any relationship between two vectors",
+              "The dot product has no real-world applications",
+              "A reason unrelated to vector operations",
+              "It captures how much one vector, like a force, acts in the direction of another, like displacement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Simple Machines and Mechanical Advantage",
+        "summary": "Grade 10 Physics strand: a simple machine, such as a lever or pulley, changes the direction or magnitude of an applied force, and mechanical advantage measures how much a machine multiplies an input force.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "A simple machine changes the direction or magnitude of ___.",
+            "options": [
+              "The colour of an object",
+              "An applied force",
+              "The mass of an object, with no connection to force",
+              "A concept unrelated to simple machines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mechanical advantage measures how much a machine ___.",
+            "options": [
+              "Reduces the total energy in a system",
+              "Multiplies an input force",
+              "Changes the temperature of an object",
+              "A concept unrelated to mechanical advantage"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a simple machine?",
+            "options": [
+              "A device unrelated to simple machines",
+              "A lever",
+              "A smartphone",
+              "A television"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does using a lever allow a person to lift a heavier load with less applied force?",
+            "options": [
+              "A reason unrelated to simple machines",
+              "Levers have no effect on the amount of force needed to lift a load",
+              "A lever always requires the exact same amount of force as lifting the load directly",
+              "The lever multiplies the applied force by trading off distance, requiring the effort to move a greater distance than the load"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are simple machines considered fundamental to understanding more complex mechanical systems?",
+            "options": [
+              "Complex mechanical systems never rely on any simple machine principles",
+              "Complex machines are often built from combinations of simple machines working together",
+              "Simple machines have no connection to more complex mechanical systems",
+              "A reason unrelated to physics"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Civics: How a Bill Becomes a Law in Canada",
+        "summary": "Grade 10 Civics strand: a bill must pass through multiple stages in both the House of Commons and the Senate, including readings, committee review, and votes, before receiving royal assent and becoming law.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "A bill must pass through multiple stages in which two bodies before becoming law?",
+            "options": [
+              "Only the Supreme Court, with no connection to Parliament",
+              "Only a provincial legislature, with no federal involvement",
+              "The House of Commons and the Senate",
+              "A pair of bodies unrelated to the legislative process"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before becoming law, a bill must receive ___.",
+            "options": [
+              "Royal assent",
+              "A public referendum vote",
+              "A step unrelated to the legislative process",
+              "Approval from every province individually"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Committee review of a bill typically involves ___.",
+            "options": [
+              "A step unrelated to the legislative process",
+              "The complete cancellation of the bill in every case",
+              "An automatic, unquestioned approval with no examination",
+              "Detailed examination and possible amendments to the bill"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a bill typically go through multiple readings in the House of Commons before becoming law?",
+            "options": [
+              "Multiple readings serve no purpose in the legislative process",
+              "A reason unrelated to how laws are made",
+              "Multiple readings allow for debate, scrutiny, and revision before a final decision is made",
+              "A bill only ever requires a single reading with no further discussion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding the legislative process considered an important part of Canadian civics education?",
+            "options": [
+              "This knowledge has no relevance to being an informed citizen",
+              "It helps citizens understand how laws affecting their lives are debated, revised, and ultimately passed",
+              "This topic has no relevance to understanding Canadian government",
+              "The legislative process has no connection to laws that affect citizens"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Dialogue as Characterization",
+        "summary": "Grade 10 English strand: dialogue reveals character through word choice, tone, and speech patterns, allowing readers to infer a character’s personality, background, and relationships without direct narrator description.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "Dialogue can reveal character through a speaker’s ___.",
+            "options": [
+              "A concept unrelated to characterization",
+              "Setting alone, with no connection to how a character speaks",
+              "Word choice, tone, and speech patterns",
+              "Physical appearance exclusively, with no connection to speech"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author give two characters noticeably different speech patterns?",
+            "options": [
+              "A reason unrelated to characterization through dialogue",
+              "Distinct speech patterns can help distinguish their personalities, backgrounds, or social status",
+              "Every character in a story must speak in an identical way",
+              "Speech patterns never provide any information about a character"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of how dialogue might reveal a character’s emotional state?",
+            "options": [
+              "A character speaking in short, clipped sentences when they are angry or anxious",
+              "Dialogue can only reveal a character’s physical location",
+              "A character’s dialogue never changes based on their emotional state",
+              "A technique unrelated to characterization"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is dialogue often considered a more subtle form of characterization than direct narrator description?",
+            "options": [
+              "Dialogue is always more direct and obvious than narrator description",
+              "It allows readers to infer a character’s traits themselves, rather than being told directly by the narrator",
+              "Readers can never infer anything about a character from dialogue",
+              "A reason unrelated to characterization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a character’s relationship with another character be revealed through their dialogue?",
+            "options": [
+              "Relationships between characters can only be shown through narration, never dialogue",
+              "A reason unrelated to characterization",
+              "The way characters address or respond to one another can reflect the closeness, tension, or power dynamic between them",
+              "Dialogue never reveals anything about the relationship between two characters"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Polynomial Functions: Zeros, Factors, and End Behaviour",
+        "summary": "Grade 10 Functions strand (extension): the zeros of a polynomial function are the x-values where the function equals zero, directly corresponding to its factors, and a polynomial’s degree and leading coefficient determine its end behaviour.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The zeros of a polynomial function are the x-values where the function’s output equals ___.",
+            "options": [
+              "A value unrelated to finding zeros",
+              "0",
+              "1",
+              "The function’s leading coefficient"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If (x - 3) is a factor of a polynomial function, then the function must have a zero at ___.",
+            "options": [
+              "x = 3",
+              "x = 0",
+              "x = -3",
+              "A value unrelated to this factor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The end behaviour of a polynomial function is primarily determined by its ___.",
+            "options": [
+              "A concept unrelated to polynomial functions",
+              "Degree and leading coefficient",
+              "Y-intercept only, with no connection to degree",
+              "Constant term only, with no connection to degree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does an even-degree polynomial function with a positive leading coefficient rise on both ends of its graph?",
+            "options": [
+              "As x approaches positive or negative infinity, an even power always produces a large positive result, multiplied by the positive coefficient",
+              "The leading coefficient has no effect on a polynomial’s end behaviour",
+              "A reason unrelated to end behaviour",
+              "Even-degree polynomials always fall on both ends of the graph regardless of their leading coefficient"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying the zeros and factors of a polynomial function useful for sketching its graph?",
+            "options": [
+              "Zeros and factors provide no useful information for graphing a polynomial function",
+              "The zeros indicate where the graph crosses or touches the x-axis, helping outline the overall shape of the curve",
+              "A polynomial’s graph can never be sketched using its zeros or factors",
+              "A reason unrelated to polynomial functions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Soil Formation and Land Use",
+        "summary": "Grade 10 Earth Science strand: soil forms gradually through the weathering of rock and the accumulation of organic matter, and land use decisions, such as farming practices or urban development, can significantly affect soil health and erosion rates.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Soil forms gradually through the weathering of rock and the accumulation of ___.",
+            "options": [
+              "A concept unrelated to soil formation",
+              "Organic matter",
+              "Metal ore exclusively",
+              "Liquid water only, with no connection to organic matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a land use decision that could affect soil health?",
+            "options": [
+              "The distance to the nearest ocean",
+              "The average daily temperature of the sun",
+              "A factor unrelated to land use",
+              "Farming practices"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Soil formation is generally considered a ___ process.",
+            "options": [
+              "Instantaneous",
+              "Slow, gradual",
+              "Process that reverses itself every day",
+              "A process unrelated to soil formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can certain farming practices, such as leaving fields bare after harvest, increase the rate of soil erosion?",
+            "options": [
+              "Without plant roots or cover to hold it in place, exposed soil is more easily carried away by wind or water",
+              "A reason unrelated to soil erosion",
+              "Farming practices have no connection to how quickly soil erodes",
+              "Bare soil is always more resistant to erosion than soil covered by plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding soil formation and land use important for sustainable agriculture?",
+            "options": [
+              "Soil formation has no connection to agricultural sustainability",
+              "Soil erosion has no effect on a region’s ability to grow food over time",
+              "A reason unrelated to Earth Science",
+              "Since soil forms so slowly, protecting it from excessive erosion or degradation is essential for long-term food production"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Civics: The Canadian Electoral System",
+        "summary": "Grade 10 Civics strand: Canada uses a first-past-the-post electoral system, in which the candidate who receives the most votes in a riding wins that seat, and the party that wins the most seats typically forms government.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada’s federal electoral system is generally described as ___.",
+            "options": [
+              "A system requiring a majority of 50 percent or more to win a riding",
+              "Pure proportional representation",
+              "A system unrelated to Canadian elections",
+              "First-past-the-post"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a first-past-the-post system, the winning candidate in a riding is the one who receives ___.",
+            "options": [
+              "A result unrelated to this electoral system",
+              "The fewest votes among all candidates",
+              "Exactly fifty percent of the vote",
+              "The most votes, even without an outright majority"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The political party that wins the most seats in a federal election typically ___.",
+            "options": [
+              "Is automatically dissolved",
+              "Forms government",
+              "A result unrelated to Canadian elections",
+              "Loses all further involvement in government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a party sometimes form a majority government without winning a majority of the total popular vote nationwide?",
+            "options": [
+              "A majority government always requires more than fifty percent of the national popular vote",
+              "This outcome is impossible under Canada’s electoral system",
+              "Under first-past-the-post, seats are won riding by riding, so a party can win many ridings without needing an overall majority of votes",
+              "A reason unrelated to Canada’s electoral system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding the electoral system considered important for informed civic participation?",
+            "options": [
+              "The electoral system has no connection to civic participation",
+              "It helps citizens understand how their votes translate into political representation and government formation",
+              "Understanding elections has no relevance to being an informed citizen",
+              "This topic has no relevance to understanding Canadian government"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Modifiers and Sentence Clarity",
+        "summary": "Grade 10 English strand: a modifier describes, clarifies, or adds detail to another word in a sentence, and a misplaced or dangling modifier can create confusing or unintentionally humorous sentence meanings.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "A modifier is best described as a word or phrase that ___.",
+            "options": [
+              "Always replaces the subject of a sentence entirely",
+              "Has no grammatical function within a sentence",
+              "Describes, clarifies, or adds detail to another word in a sentence",
+              "A concept unrelated to sentence structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A misplaced modifier occurs when ___.",
+            "options": [
+              "A modifier is positioned so that it appears to describe the wrong word in a sentence",
+              "A sentence contains no modifiers at all",
+              "A modifier is placed directly next to the word it describes",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences contains a misplaced modifier?",
+            "options": [
+              "A sentence unrelated to misplaced modifiers",
+              "Running down the street, the bus was missed by Sam.",
+              "Sam missed the bus while running down the street.",
+              "While running down the street, Sam missed the bus."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a dangling modifier create confusion for a reader?",
+            "options": [
+              "A reason unrelated to sentence clarity",
+              "Dangling modifiers only ever occur in spoken language, never in writing",
+              "Dangling modifiers always make a sentence perfectly clear",
+              "It leaves unclear or implies an incorrect subject for the action being described"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is revising for misplaced and dangling modifiers an important step in the editing process?",
+            "options": [
+              "This type of revision has no effect on a sentence’s clarity",
+              "Misplaced modifiers never cause any confusion for a reader",
+              "Correcting them ensures a sentence clearly communicates its intended meaning to the reader",
+              "A reason unrelated to the editing process"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Dilations and Scale Factor",
+        "summary": "Grade 10 Geometry strand: a dilation is a transformation that resizes a figure proportionally from a fixed centre point, using a scale factor to determine whether the resulting image is enlarged or reduced.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "A dilation is a transformation that ___.",
+            "options": [
+              "Reflects a figure across a line, with no change in size",
+              "A concept unrelated to geometric transformations",
+              "Moves a figure without changing its size",
+              "Resizes a figure proportionally from a fixed centre point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a dilation has a scale factor greater than 1, the resulting image is ___.",
+            "options": [
+              "Identical in size to the original figure",
+              "Enlarged",
+              "A result unrelated to scale factor",
+              "Reduced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a dilation has a scale factor between 0 and 1, the resulting image is ___.",
+            "options": [
+              "Enlarged",
+              "A result unrelated to scale factor",
+              "Reflected across the centre point",
+              "Reduced"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do the angles of a figure remain unchanged after a dilation, even though its side lengths change?",
+            "options": [
+              "A dilation resizes a figure proportionally, preserving its overall shape and therefore its angle measures",
+              "Angles always change proportionally along with the side lengths during a dilation",
+              "Dilations never preserve any properties of the original figure",
+              "A reason unrelated to dilations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are dilations and scale factor useful concepts in real-world contexts, such as creating a scale model or a map?",
+            "options": [
+              "They allow a real object to be proportionally resized while maintaining its accurate overall shape",
+              "A reason unrelated to geometric transformations",
+              "Scale models and maps never involve any proportional resizing of a real object",
+              "Dilations and scale factor have no real-world modelling applications"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Plant Structures and Transport Systems",
+        "summary": "Grade 10 Biology strand: vascular plants use specialized tissues called xylem and phloem to transport water, minerals, and the products of photosynthesis throughout the plant.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Xylem tissue in a plant is primarily responsible for transporting ___.",
+            "options": [
+              "Oxygen exclusively, with no connection to water or minerals",
+              "Only the products of photosynthesis, with no connection to water",
+              "Water and minerals",
+              "A concept unrelated to plant transport systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Phloem tissue in a plant is primarily responsible for transporting ___.",
+            "options": [
+              "A concept unrelated to plant transport systems",
+              "Only water, with no connection to sugars",
+              "The products of photosynthesis, such as sugars",
+              "Carbon dioxide exclusively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In most plants, water generally moves through the xylem in which direction?",
+            "options": [
+              "A direction unrelated to xylem transport",
+              "Downward, from the leaves toward the roots",
+              "Sideways only, with no vertical movement",
+              "Upward, from the roots toward the leaves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for a plant to have two separate transport tissues, xylem and phloem, rather than just one?",
+            "options": [
+              "A reason unrelated to plant biology",
+              "Xylem and phloem always transport the exact same substances in the exact same direction",
+              "Plants have no need to transport any substances internally",
+              "Each tissue is specialized to move different substances, such as water versus sugars, often in different directions at once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are xylem and phloem considered essential to the survival of tall vascular plants, like trees?",
+            "options": [
+              "A reason unrelated to plant biology",
+              "Tall plants have no need to transport water or nutrients internally",
+              "They allow water, nutrients, and sugars to be efficiently transported over long distances between the roots and the leaves",
+              "Xylem and phloem have no connection to how tall a plant can grow"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Civics: Levels of Government — Federal, Provincial, and Municipal",
+        "summary": "Grade 10 Civics strand: Canada’s system of government is divided into federal, provincial, and municipal levels, each responsible for distinct areas such as national defense, education and healthcare, and local services like garbage collection and zoning.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada’s system of government is divided into which three levels?",
+            "options": [
+              "Federal, provincial, and municipal",
+              "A set of levels unrelated to Canadian government",
+              "National, international, and local only",
+              "Executive, legislative, and judicial only, with no connection to jurisdiction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which level of government is typically responsible for national defense?",
+            "options": [
+              "A level unrelated to this responsibility",
+              "Federal",
+              "Municipal",
+              "Provincial"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which level of government is typically responsible for local services like garbage collection and zoning?",
+            "options": [
+              "Municipal",
+              "An international governing body",
+              "A level unrelated to this responsibility",
+              "Federal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are education and healthcare typically managed primarily at the provincial level in Canada?",
+            "options": [
+              "A reason unrelated to how Canadian government responsibilities are divided",
+              "The provincial level of government has no defined responsibilities",
+              "Canada’s constitution assigns these areas of responsibility to provincial governments rather than the federal government",
+              "Education and healthcare are always managed exclusively at the federal level"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding the division of responsibilities across levels of government important for Canadian citizens?",
+            "options": [
+              "It helps citizens know which level of government to contact or hold accountable for a specific issue",
+              "This topic has no relevance to understanding Canadian civics",
+              "This division of responsibilities has no relevance to Canadian citizens",
+              "All levels of government are responsible for identical issues"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Narrative Technique, Style, and Professional Writing",
+        "summary": "Grade 10 English strand: this review lesson revisits the unreliable narrator, motif and recurring imagery, sentence fragments and run-ons, diction and tone, the cover letter and resume, frame narratives, constructive feedback, dialogue as characterization, and modifiers covered across Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "An unreliable narrator is best described as a narrator whose ___.",
+            "options": [
+              "A concept unrelated to narrative point of view",
+              "Credibility or accuracy is compromised in some way",
+              "Account is always completely accurate and objective",
+              "Only appears in non-fiction texts, never in fiction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A motif is best described as a recurring ___.",
+            "options": [
+              "A concept unrelated to literary analysis",
+              "Character who appears only once in a story",
+              "Element, image, or idea that appears throughout a text",
+              "Setting that changes completely with every scene"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A resume is best described as a document that ___.",
+            "options": [
+              "Tells a detailed personal story with no organization",
+              "A concept unrelated to professional writing",
+              "Summarizes a candidate’s skills, education, and experience in a clear, organized format",
+              "Is always written in the same format as a cover letter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Dialogue can reveal character through a speaker’s ___.",
+            "options": [
+              "Setting alone, with no connection to how a character speaks",
+              "Physical appearance exclusively, with no connection to speech",
+              "A concept unrelated to characterization",
+              "Word choice, tone, and speech patterns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review these varied narrative and professional writing skills together?",
+            "options": [
+              "These topics have no connection to each other",
+              "It reinforces how narrative technique, style, and clear communication all shape effective writing",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in English studies"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Discriminants, Variation, Finance, and Vectors",
+        "summary": "Grade 10 Math strand review: this lesson revisits the discriminant, direct and partial variation, compound interest, angle of elevation and depression, the three-dimensional Pythagorean theorem, laws of exponents, the dot product, polynomial zeros and factors, and dilations covered across Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "The discriminant of a quadratic equation is calculated using the expression ___.",
+            "options": [
+              "An expression unrelated to the discriminant",
+              "b² + 4ac",
+              "b² - 4ac",
+              "-b divided by 2a"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Direct variation describes a relationship expressed in the form ___.",
+            "options": [
+              "y = k divided by x",
+              "y = kx",
+              "An expression unrelated to direct variation",
+              "y = kx + b"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compound interest is calculated based on ___.",
+            "options": [
+              "Both the initial principal and the accumulated interest from previous periods",
+              "Only the initial principal, with no connection to accumulated interest",
+              "A concept unrelated to interest calculations",
+              "A fixed amount that never changes over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the dot product of two non-zero vectors equals zero, the vectors are ___.",
+            "options": [
+              "Identical in both magnitude and direction",
+              "A relationship unrelated to the dot product",
+              "Parallel to each other",
+              "Perpendicular to each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review these connected mathematical concepts together?",
+            "options": [
+              "Review is never useful in math",
+              "These concepts have no connection to each other",
+              "Each concept must be understood with no connection to the others",
+              "It reinforces how these skills build on and relate to one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Periodic Trends, Body Systems, Energy, and Earth Resources",
+        "summary": "Grade 10 Science strand review: this lesson revisits periodic trends, the circulatory and respiratory systems, static electricity, renewable and non-renewable energy resources, empirical and molecular formulas, biodiversity and conservation, simple machines, soil formation, and xylem and phloem covered across Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "As you move from left to right across a period, atomic radius generally ___.",
+            "options": [
+              "Increases",
+              "A trend unrelated to atomic radius",
+              "Stays exactly the same",
+              "Decreases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The circulatory system primarily transports oxygen, nutrients, and waste using the heart and ___.",
+            "options": [
+              "Blood vessels",
+              "Lungs exclusively, with no connection to blood vessels",
+              "A structure unrelated to circulation",
+              "Digestive organs only, with no connection to blood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Renewable energy resources are best described as resources that ___.",
+            "options": [
+              "Can never be replenished under any circumstances",
+              "Can be replenished naturally within a short time frame",
+              "Take millions of years to form",
+              "A concept unrelated to energy resources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mechanical advantage measures how much a machine ___.",
+            "options": [
+              "Changes the temperature of an object",
+              "A concept unrelated to mechanical advantage",
+              "Reduces the total energy in a system",
+              "Multiplies an input force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review these connected science concepts together?",
+            "options": [
+              "It reinforces how these scientific ideas relate to and build on one another",
+              "These concepts have no connection to each other",
+              "Review is never useful at the end of a unit",
+              "Each concept must be understood with no connection to the others"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: The World Wars, Autonomy, and Canadian Civics",
+        "summary": "Grade 10 History strand review: this lesson revisits Canada and the First World War, the Conscription Crisis, the Chanak Affair and Statute of Westminster, the Spanish Flu pandemic, the Bomarc missile crisis, the Massey Commission, and how bills, elections, and levels of government function, covered across Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Canada entered the First World War in which year?",
+            "options": [
+              "1939",
+              "1917",
+              "1914",
+              "1929"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Conscription Crisis took place in which year?",
+            "options": [
+              "1917",
+              "1945",
+              "1929",
+              "1962"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Statute of Westminster was passed in which year?",
+            "options": [
+              "1922",
+              "1945",
+              "1931",
+              "1914"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada’s federal electoral system is generally described as ___.",
+            "options": [
+              "First-past-the-post",
+              "A system unrelated to Canadian elections",
+              "Pure proportional representation",
+              "A system requiring a majority of 50 percent or more to win a riding"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable to review these connected developments in Canadian history and civics together?",
+            "options": [
+              "Review is never useful in history",
+              "These events have no meaningful connections to each other",
+              "It reinforces how policy, autonomy, and civic structures have interacted throughout Canadian history",
+              "Each event must be studied with no connection to the others"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
