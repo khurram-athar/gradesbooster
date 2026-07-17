@@ -17477,5 +17477,3374 @@
         ]
       }
     ]
+  },
+  {
+    "day": 61,
+    "label": "Day 61 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Irregular Past Tense Verbs",
+        "summary": "Students learn that some verbs do not add -ed to show the past tense but change into a new word instead, such as go becoming went, run becoming ran, and see becoming saw.",
+        "resourceLabel": "YouTube: Irregular Past Tense Verbs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Irregular%20Past%20Tense%20Verbs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the past tense of the verb go?",
+            "options": [
+              "Goed",
+              "Went",
+              "Going",
+              "Goes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the past tense of the verb run?",
+            "options": [
+              "Runned",
+              "Runs",
+              "Ran",
+              "Running"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the past tense of the verb see?",
+            "options": [
+              "Saw",
+              "Sees",
+              "Seeing",
+              "Seed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses the correct irregular past tense of eat?",
+            "options": [
+              "Yesterday I eated breakfast.",
+              "Yesterday I eating breakfast.",
+              "Yesterday I eat breakfast.",
+              "Yesterday I ate breakfast."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Irregular past tense verbs are different from regular past tense verbs because they ___.",
+            "options": [
+              "Always add -ing at the end",
+              "Change into a whole new word instead of adding -ed",
+              "Always add -ed at the end",
+              "Never change at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the past tense of the verb go?",
+            "answers": [
+              "went"
+            ]
+          },
+          {
+            "prompt": "What is the past tense of the verb run?",
+            "answers": [
+              "ran"
+            ]
+          },
+          {
+            "prompt": "What is the past tense of the verb see?",
+            "answers": [
+              "saw"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Understanding Hundreds: Place Value to 1000",
+        "summary": "Students learn that three-digit numbers are made up of hundreds, tens, and ones, and practice breaking numbers like 342 into 3 hundreds, 4 tens, and 2 ones.",
+        "resourceLabel": "YouTube: Understanding Hundreds: Place Value to 1000",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Understanding%20Hundreds%3A%20Place%20Value%20to%201000%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many hundreds are in the number 342?",
+            "options": [
+              "2",
+              "4",
+              "7",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many tens are in the number 156?",
+            "options": [
+              "7",
+              "1",
+              "6",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the value of the 7 in the number 273?",
+            "options": [
+              "700",
+              "270",
+              "70",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number has 5 hundreds, 2 tens, and 8 ones?",
+            "options": [
+              "285",
+              "852",
+              "258",
+              "528"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Place value helps us understand ___.",
+            "options": [
+              "The shape of a number",
+              "The colour of a number",
+              "The sound of a number",
+              "What each digit in a number is worth"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many hundreds are in the number 342?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many tens are in the number 342?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "How many ones are in the number 342?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Frog: From Tadpole to Frog",
+        "summary": "Students learn the life cycle of a frog, which begins as an egg in water, hatches into a swimming tadpole, grows legs, and changes into an adult frog that can live on land and in water.",
+        "resourceLabel": "YouTube: Life Cycle of a Frog: From Tadpole to Frog",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Frog%3A%20From%20Tadpole%20to%20Frog%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a frog life cycle?",
+            "options": [
+              "Froglet",
+              "Adult frog",
+              "Tadpole",
+              "Egg"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a young frog that swims using a tail before it grows legs?",
+            "options": [
+              "A chick",
+              "A caterpillar",
+              "A cub",
+              "A tadpole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does a frog usually lay its eggs?",
+            "options": [
+              "In a nest in a tree",
+              "On a rock in the desert",
+              "In water",
+              "Underground"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Put the frog life cycle stages in the correct order.",
+            "options": [
+              "Froglet, egg, tadpole, adult frog",
+              "Adult frog, egg, froglet, tadpole",
+              "Tadpole, adult frog, egg, froglet",
+              "Egg, tadpole, froglet, adult frog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As a tadpole grows into a frog, it ___.",
+            "options": [
+              "Turns into a fish permanently",
+              "Grows legs and loses its tail",
+              "Grows a shell and stops moving",
+              "Grows wings and flies away"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a frog life cycle?",
+            "answers": [
+              "egg",
+              "an egg"
+            ]
+          },
+          {
+            "prompt": "What do we call a young frog that swims and breathes with gills before it grows legs?",
+            "answers": [
+              "a tadpole",
+              "tadpole"
+            ]
+          },
+          {
+            "prompt": "Where does a frog lay its eggs?",
+            "answers": [
+              "in water",
+              "water"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Local Businesses: Meeting Our Community Needs",
+        "summary": "Students learn that local businesses, such as bakeries, grocery stores, and repair shops, provide goods and services that help meet the needs of people living in a community.",
+        "resourceLabel": "YouTube: Local Businesses: Meeting Our Community Needs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Local%20Businesses%3A%20Meeting%20Our%20Community%20Needs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a local business?",
+            "options": [
+              "A bakery",
+              "A cloud",
+              "A mountain",
+              "A river"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do local businesses provide to the people in a community?",
+            "options": [
+              "Only entertainment",
+              "Only maps",
+              "Goods and services people need",
+              "Only weather reports"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a family visit a local grocery store?",
+            "options": [
+              "To mail a letter",
+              "To play a sport",
+              "To watch a movie",
+              "To buy food and other items they need"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A shoe repair shop is an example of a business that provides a ___.",
+            "options": [
+              "Service",
+              "Type of food",
+              "Type of weather",
+              "Type of animal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Local businesses help a community by ___.",
+            "options": [
+              "Making it harder to find food",
+              "Removing all jobs from a community",
+              "Providing jobs and things people need nearby",
+              "Taking away community services"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one local business found in many communities, like a bakery or a grocery store.",
+            "answers": [
+              "a bakery",
+              "bakery",
+              "a grocery store",
+              "grocery store"
+            ]
+          },
+          {
+            "prompt": "What do we call the goods and services a business provides to help people?",
+            "answers": [
+              "goods and services",
+              "things people need"
+            ]
+          },
+          {
+            "prompt": "Why are local businesses important to a community?",
+            "answers": [
+              "they provide goods and services",
+              "they help meet needs",
+              "they help people get what they need"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "label": "Day 62 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sentence Fragments vs Complete Sentences",
+        "summary": "Students learn that a complete sentence has a subject and a verb and expresses a full thought, while a sentence fragment is missing a part and does not express a complete thought.",
+        "resourceLabel": "YouTube: Sentence Fragments vs Complete Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Fragments%20vs%20Complete%20Sentences%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What two parts does a complete sentence need?",
+            "options": [
+              "A subject and a verb",
+              "Only a noun",
+              "Only a question mark",
+              "Only a capital letter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a complete sentence?",
+            "options": [
+              "Fast dog the.",
+              "Ran fast dog",
+              "The dog ran fast.",
+              "Running fast."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a sentence fragment?",
+            "options": [
+              "Under the table.",
+              "She smiled.",
+              "Birds fly.",
+              "The cat slept."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A sentence fragment is missing ___.",
+            "options": [
+              "A part needed to express a complete thought",
+              "A title",
+              "A capital letter only",
+              "A period only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to write in complete sentences?",
+            "options": [
+              "So readers can understand a full thought clearly",
+              "So sentences look longer",
+              "So readers get confused",
+              "So writing has no meaning"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two parts does a complete sentence need, like a subject and a verb?",
+            "answers": [
+              "a subject and a verb",
+              "subject and verb"
+            ]
+          },
+          {
+            "prompt": "Is the group of words running fast a complete sentence or a fragment?",
+            "answers": [
+              "a fragment",
+              "fragment"
+            ]
+          },
+          {
+            "prompt": "Is the sentence the dog ran fast a complete sentence or a fragment?",
+            "answers": [
+              "a complete sentence",
+              "complete sentence"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Adding Three One-Digit Numbers",
+        "summary": "Students learn strategies for adding three one-digit numbers together, such as looking for a ten first or adding two numbers before adding the third.",
+        "resourceLabel": "YouTube: Adding Three One-Digit Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20Three%20One-Digit%20Numbers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 2 + 3 + 4?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 5 + 5 + 1?",
+            "options": [
+              "10",
+              "11",
+              "12",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 6 + 2 + 2?",
+            "options": [
+              "8",
+              "10",
+              "11",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When adding three numbers, a helpful strategy is to ___.",
+            "options": [
+              "Look for two numbers that make a ten first",
+              "Only add the first two numbers",
+              "Ignore the third number",
+              "Always add in a random order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 4 + 4 + 4?",
+            "options": [
+              "8",
+              "12",
+              "10",
+              "14"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 2 + 3 + 4?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          },
+          {
+            "prompt": "What is 5 + 5 + 1?",
+            "answers": [
+              "11",
+              "eleven"
+            ]
+          },
+          {
+            "prompt": "What is 3 + 3 + 3?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fossils: Clues from the Past",
+        "summary": "Students learn that fossils are the preserved remains or traces of ancient plants and animals found in rock, giving scientists clues about life on earth long ago.",
+        "resourceLabel": "YouTube: Fossils: Clues from the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fossils%3A%20Clues%20from%20the%20Past%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes the preserved remains or traces of ancient living things?",
+            "options": [
+              "A shadow",
+              "A crystal",
+              "A fossil",
+              "A magnet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are fossils most often found?",
+            "options": [
+              "In layers of rock",
+              "Floating in the air",
+              "In a rainbow",
+              "Inside a cloud"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can scientists learn by studying fossils?",
+            "options": [
+              "How to bake bread",
+              "Clues about plants and animals from long ago",
+              "How to tell time",
+              "How to build a house"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could become a fossil over a very long time?",
+            "options": [
+              "A dinosaur bone buried in mud",
+              "A cloud",
+              "A snowflake",
+              "A soap bubble"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Studying fossils helps scientists understand ___.",
+            "options": [
+              "How to count money",
+              "How to grow a garden",
+              "What the weather will be tomorrow",
+              "What life on earth was like millions of years ago"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the preserved remains or traces of ancient living things found in rock?",
+            "answers": [
+              "fossil",
+              "fossils"
+            ]
+          },
+          {
+            "prompt": "Name one place fossils are often found, like in rock.",
+            "answers": [
+              "in rock",
+              "rock",
+              "in the ground"
+            ]
+          },
+          {
+            "prompt": "What can scientists learn from studying fossils?",
+            "answers": [
+              "clues about life long ago",
+              "about ancient plants and animals",
+              "about the past"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Schools Long Ago and Today",
+        "summary": "Students compare what schools were like long ago, such as one-room schoolhouses with fewer supplies, to schools today, which often have computers, libraries, and many more resources.",
+        "resourceLabel": "YouTube: Schools Long Ago and Today",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Schools%20Long%20Ago%20and%20Today%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What did many schools look like long ago, especially in small communities?",
+            "options": [
+              "A school with no students",
+              "An underwater classroom",
+              "A large building with computers in every room",
+              "A one-room schoolhouse with all grades together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is something many schools have today that schools long ago usually did not?",
+            "options": [
+              "Chalkboards",
+              "Desks",
+              "Pencils",
+              "Computers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did students long ago often travel to school compared to some students today?",
+            "options": [
+              "They often walked long distances",
+              "They always took a rocket",
+              "They always took an airplane",
+              "They never went to school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing schools long ago and today helps us understand ___.",
+            "options": [
+              "How to grow food",
+              "How to play a sport",
+              "How to build a computer",
+              "How education has changed over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might have been used for writing in schools long ago instead of paper and pencil?",
+            "options": [
+              "A laptop computer",
+              "A smartphone",
+              "A tablet",
+              "A small chalkboard called a slate"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing schools have today that schools long ago often did not have, like computers.",
+            "answers": [
+              "computers",
+              "a computer"
+            ]
+          },
+          {
+            "prompt": "What did many schools look like long ago, with all grades in one place?",
+            "answers": [
+              "a one-room schoolhouse",
+              "one-room schoolhouse",
+              "one room"
+            ]
+          },
+          {
+            "prompt": "Name one way schools have changed over time.",
+            "answers": [
+              "more technology",
+              "more resources",
+              "computers",
+              "bigger buildings"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "label": "Day 63 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Using Quotation Marks in Dialogue",
+        "summary": "Students learn that quotation marks are punctuation marks placed before and after the exact spoken words of a character in a story, helping readers know exactly what was said aloud.",
+        "resourceLabel": "YouTube: Using Quotation Marks in Dialogue",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Quotation%20Marks%20in%20Dialogue%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the punctuation marks placed before and after the exact words a character speaks?",
+            "options": [
+              "Quotation marks",
+              "A period",
+              "A question mark",
+              "A comma"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the words that characters speak aloud in a story?",
+            "options": [
+              "A summary",
+              "A heading",
+              "Dialogue",
+              "A caption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers use quotation marks around spoken words?",
+            "options": [
+              "To hide what a character said",
+              "To show readers exactly what a character said",
+              "To end the story",
+              "To make the story shorter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Quotation marks are placed ___ the exact words a character speaks.",
+            "options": [
+              "Before and after",
+              "In the middle of",
+              "Only before",
+              "Only after"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of a story would most likely use quotation marks?",
+            "options": [
+              "The title of the book",
+              "The table of contents",
+              "A conversation between two characters",
+              "The page number"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the punctuation marks placed before and after the exact words a character speaks?",
+            "answers": [
+              "quotation marks"
+            ]
+          },
+          {
+            "prompt": "What do we call the words that characters speak aloud in a story?",
+            "answers": [
+              "dialogue"
+            ]
+          },
+          {
+            "prompt": "Why do writers use quotation marks in a story?",
+            "answers": [
+              "to show exactly what a character said",
+              "to show spoken words",
+              "so readers know what was said"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Missing Number Addition and Subtraction Sentences",
+        "summary": "Students solve equations with a missing number, such as 5 plus a missing number equals 9, by using their knowledge of addition and subtraction facts.",
+        "resourceLabel": "YouTube: Missing Number Addition and Subtraction Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Number%20Addition%20and%20Subtraction%20Sentences%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What number makes this true: 5 + ___ = 9?",
+            "options": [
+              "5",
+              "9",
+              "4",
+              "14"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number makes this true: ___ minus 3 equals 6?",
+            "options": [
+              "6",
+              "9",
+              "3",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number makes this true: 10 minus ___ equals 4?",
+            "options": [
+              "6",
+              "10",
+              "14",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number makes this true: 7 + ___ = 12?",
+            "options": [
+              "4",
+              "6",
+              "5",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find a missing number in an equation, it helps to ___.",
+            "options": [
+              "Guess without checking",
+              "Think about the opposite operation or count on",
+              "Change all the numbers",
+              "Ignore the equal sign"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number makes this true: 5 + ___ = 9?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "What number makes this true: ___ - 3 = 6?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          },
+          {
+            "prompt": "What number makes this true: 10 - ___ = 4?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wheels and Axles: Making Work Easier",
+        "summary": "Students learn that a wheel and axle is a simple machine made of a wheel attached to a rod called an axle, which turns together to help move objects with less effort.",
+        "resourceLabel": "YouTube: Wheels and Axles: Making Work Easier",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wheels%20and%20Axles%3A%20Making%20Work%20Easier%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the rod that a wheel turns around?",
+            "options": [
+              "A ramp",
+              "An axle",
+              "A lever",
+              "A pulley"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these objects uses wheels and axles?",
+            "options": [
+              "A doorstop",
+              "A seesaw",
+              "A magnet",
+              "A bicycle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A wheel and axle is a type of ___.",
+            "options": [
+              "Simple machine",
+              "Living thing",
+              "Food group",
+              "Weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using a wheel and axle to move a heavy object makes the task ___.",
+            "options": [
+              "Easier",
+              "Impossible",
+              "Slower and harder",
+              "Dangerous"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of a wagon turns together as one unit?",
+            "options": [
+              "The box only",
+              "The paint on the wagon",
+              "The wheel and axle",
+              "The handle only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the rod that a wheel turns around?",
+            "answers": [
+              "an axle",
+              "axle"
+            ]
+          },
+          {
+            "prompt": "Name one object that uses wheels and axles, like a bicycle or a wagon.",
+            "answers": [
+              "a bicycle",
+              "bicycle",
+              "a wagon",
+              "wagon",
+              "a car",
+              "car"
+            ]
+          },
+          {
+            "prompt": "Does a wheel and axle make moving objects easier or harder?",
+            "answers": [
+              "easier"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Currency: The Loonie, Toonie, and Bills",
+        "summary": "Students learn about Canadian money, including the one dollar coin called the loonie, the two dollar coin called the toonie, and paper bills used to pay for goods and services.",
+        "resourceLabel": "YouTube: Canadian Currency: The Loonie, Toonie, and Bills",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20The%20Loonie%2C%20Toonie%2C%20and%20Bills%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the name of the Canadian one dollar coin?",
+            "options": [
+              "The toonie",
+              "The nickel",
+              "The dime",
+              "The loonie"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the name of the Canadian two dollar coin?",
+            "options": [
+              "The penny",
+              "The quarter",
+              "The loonie",
+              "The toonie"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do people in Canada use money like coins and bills?",
+            "options": [
+              "To measure temperature",
+              "To decorate their homes",
+              "To feed animals",
+              "To pay for goods and services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is Canadian paper money called?",
+            "options": [
+              "A leaf",
+              "A rock",
+              "A bill",
+              "A ticket"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The picture on the Canadian one dollar coin shows a ___.",
+            "options": [
+              "Moose",
+              "Bear",
+              "Loon, a type of bird",
+              "Beaver"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the name of the Canadian one dollar coin?",
+            "answers": [
+              "loonie",
+              "the loonie"
+            ]
+          },
+          {
+            "prompt": "What is the name of the Canadian two dollar coin?",
+            "answers": [
+              "toonie",
+              "the toonie"
+            ]
+          },
+          {
+            "prompt": "Name one way Canadian money is used, like paying for goods and services.",
+            "answers": [
+              "to pay for goods",
+              "to buy things",
+              "paying for goods and services"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "label": "Day 64 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Point of View: Whose Story Is It",
+        "summary": "Students learn that point of view tells readers who is telling the story, such as first person, when a character uses words like I and me, or third person, when a narrator uses words like he, she, and they.",
+        "resourceLabel": "YouTube: Point of View: Whose Story Is It",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Point%20of%20View%3A%20Whose%20Story%20Is%20It%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the perspective from which a story is told?",
+            "options": [
+              "A theme",
+              "Point of view",
+              "A heading",
+              "A caption"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a character tells the story using the word I, what point of view is being used?",
+            "options": [
+              "First person",
+              "No point of view",
+              "Second person",
+              "Third person"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a narrator tells the story using words like he and she, what point of view is being used?",
+            "options": [
+              "First person",
+              "No point of view",
+              "Third person",
+              "Second person"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is told from a first person point of view?",
+            "options": [
+              "He walked to the park with his dog.",
+              "I walked to the park with my dog.",
+              "They walked to the park with their dog.",
+              "She walked to the park with her dog."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing the point of view of a story helps readers understand ___.",
+            "options": [
+              "The title of the book",
+              "Whose thoughts and feelings are being shared",
+              "The font used in the book",
+              "The page number of the story"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the perspective from which a story is told?",
+            "answers": [
+              "point of view"
+            ]
+          },
+          {
+            "prompt": "If a character tells the story using the word I, what point of view is that?",
+            "answers": [
+              "first person"
+            ]
+          },
+          {
+            "prompt": "If a narrator tells the story using words like he and she, what point of view is that?",
+            "answers": [
+              "third person"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Arrays: Rows and Columns",
+        "summary": "Students learn that an array is a way of arranging objects into equal rows and columns, which helps show multiplication as repeated groups.",
+        "resourceLabel": "YouTube: Arrays: Rows and Columns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Arrays%3A%20Rows%20and%20Columns%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call objects arranged into equal rows and columns?",
+            "options": [
+              "A pattern",
+              "A fraction",
+              "A graph",
+              "An array"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an array has 3 rows with 4 objects in each row, how many objects are there in total?",
+            "options": [
+              "12",
+              "9",
+              "7",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an array has 2 rows with 5 objects in each row, how many objects are there in total?",
+            "options": [
+              "5",
+              "12",
+              "10",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In an array, each row must have ___.",
+            "options": [
+              "A different number of objects",
+              "The same number of objects as every other row",
+              "Only one object",
+              "No objects at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Arrays help us understand multiplication because they show ___.",
+            "options": [
+              "Only time",
+              "Only subtraction",
+              "Only measurement",
+              "Equal groups arranged in rows and columns"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call objects arranged into equal rows and columns?",
+            "answers": [
+              "an array",
+              "array"
+            ]
+          },
+          {
+            "prompt": "If an array has 3 rows with 4 objects in each row, how many objects are there in total?",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "Do all rows in an array have the same number of objects?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Decomposers: Breaking Down Dead Plants and Animals",
+        "summary": "Students learn that decomposers, such as worms, mushrooms, and some bacteria, break down dead plants and animals, returning nutrients to the soil.",
+        "resourceLabel": "YouTube: Decomposers: Breaking Down Dead Plants and Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Decomposers%3A%20Breaking%20Down%20Dead%20Plants%20and%20Animals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call living things that break down dead plants and animals?",
+            "options": [
+              "Predators",
+              "Decomposers",
+              "Producers",
+              "Pollinators"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a decomposer?",
+            "options": [
+              "A cloud",
+              "A rock",
+              "A rose",
+              "A worm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do decomposers return to the soil after breaking down dead material?",
+            "options": [
+              "Plastic",
+              "Sand",
+              "Nutrients",
+              "Water only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are decomposers important to nature?",
+            "options": [
+              "They recycle nutrients so new plants can grow",
+              "They make soil disappear",
+              "They stop all plants from growing",
+              "They create pollution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a job that mushrooms can do in nature?",
+            "options": [
+              "Fly through the air",
+              "Swim in the ocean",
+              "Help break down dead material",
+              "Make electricity"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call living things that break down dead plants and animals?",
+            "answers": [
+              "decomposers",
+              "decomposer"
+            ]
+          },
+          {
+            "prompt": "Name one example of a decomposer, like a worm or a mushroom.",
+            "answers": [
+              "a worm",
+              "worm",
+              "a mushroom",
+              "mushroom"
+            ]
+          },
+          {
+            "prompt": "What do decomposers return to the soil after breaking down dead material?",
+            "answers": [
+              "nutrients"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian National Parks: Protecting Wild Spaces",
+        "summary": "Students learn that Canada has national parks, protected areas of land set aside to preserve nature, wildlife, and beautiful landscapes for everyone to enjoy.",
+        "resourceLabel": "YouTube: Canadian National Parks: Protecting Wild Spaces",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20National%20Parks%3A%20Protecting%20Wild%20Spaces%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call an area of land protected to preserve nature and wildlife?",
+            "options": [
+              "A parking lot",
+              "A national park",
+              "A factory",
+              "A shopping mall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are national parks important to Canada?",
+            "options": [
+              "They remove all trees",
+              "They stop animals from living freely",
+              "They are used only for building houses",
+              "They protect nature, wildlife, and beautiful landscapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which activity might a family enjoy in a national park?",
+            "options": [
+              "Watching a movie indoors",
+              "Shopping for clothes",
+              "Hiking and camping",
+              "Visiting a bank"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "National parks help protect animals by ___.",
+            "options": [
+              "Taking away their water",
+              "Preserving their natural habitats",
+              "Filling their homes with buildings",
+              "Removing their food sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is something visitors are usually asked to do in a national park?",
+            "options": [
+              "Pick all the flowers",
+              "Leave garbage behind",
+              "Respect nature and leave no trace",
+              "Feed wild animals junk food"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call an area of land protected to preserve nature and wildlife?",
+            "answers": [
+              "a national park",
+              "national park"
+            ]
+          },
+          {
+            "prompt": "Name one reason national parks are important, like protecting wildlife.",
+            "answers": [
+              "to protect wildlife",
+              "protecting nature",
+              "protecting wildlife and nature"
+            ]
+          },
+          {
+            "prompt": "Name one activity people might do in a national park, like hiking.",
+            "answers": [
+              "hiking",
+              "camping",
+              "exploring nature"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "label": "Day 65 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Opinion Writing: Stating and Supporting an Opinion",
+        "summary": "Students learn to write an opinion by clearly stating what they think and giving at least one reason that supports their opinion.",
+        "resourceLabel": "YouTube: Opinion Writing: Stating and Supporting an Opinion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Opinion%20Writing%3A%20Stating%20and%20Supporting%20an%20Opinion%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a sentence that shares what a person thinks or feels?",
+            "options": [
+              "An opinion",
+              "A heading",
+              "A fact",
+              "A caption"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should a writer give after stating an opinion?",
+            "options": [
+              "A random fact",
+              "Nothing at all",
+              "A reason that supports it",
+              "A different opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an opinion?",
+            "options": [
+              "Puppies have four legs.",
+              "A puppy is a young dog.",
+              "Puppies are born with their eyes closed.",
+              "I think puppies are the best pets."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word often signals that a sentence is an opinion?",
+            "options": [
+              "Is",
+              "Was",
+              "Think",
+              "Has"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Good opinion writing includes ___.",
+            "options": [
+              "A clear opinion and a reason to support it",
+              "Only facts and numbers",
+              "A list of unrelated ideas",
+              "No opinion at all"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a sentence that shares what a person thinks or feels?",
+            "answers": [
+              "an opinion",
+              "opinion"
+            ]
+          },
+          {
+            "prompt": "What should you give after stating your opinion to support it?",
+            "answers": [
+              "a reason",
+              "reason",
+              "reasons"
+            ]
+          },
+          {
+            "prompt": "Name one word that often signals an opinion, like think or believe.",
+            "answers": [
+              "think",
+              "believe",
+              "i think",
+              "i believe"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Reading a Thermometer: Measuring Temperature",
+        "summary": "Students learn to read a thermometer to measure temperature in degrees Celsius and understand that higher numbers mean warmer temperatures.",
+        "resourceLabel": "YouTube: Reading a Thermometer: Measuring Temperature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20a%20Thermometer%3A%20Measuring%20Temperature%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What tool do we use to measure temperature?",
+            "options": [
+              "A ruler",
+              "A clock",
+              "A scale",
+              "A thermometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What unit is commonly used to measure temperature in Canada?",
+            "options": [
+              "Kilograms",
+              "Degrees Celsius",
+              "Metres",
+              "Litres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a higher number on a thermometer mean the temperature is warmer or colder?",
+            "options": [
+              "Colder",
+              "Impossible to tell",
+              "The same",
+              "Warmer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which temperature would most likely be recorded on a hot summer day?",
+            "options": [
+              "Minus 20 degrees Celsius",
+              "30 degrees Celsius",
+              "5 degrees Celsius",
+              "0 degrees Celsius"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A thermometer helps us know ___.",
+            "options": [
+              "How heavy something is",
+              "How long something is",
+              "How loud something is",
+              "How hot or cold something is"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool do we use to measure temperature?",
+            "answers": [
+              "a thermometer",
+              "thermometer"
+            ]
+          },
+          {
+            "prompt": "What unit do we use to measure temperature in Canada?",
+            "answers": [
+              "degrees celsius",
+              "celsius"
+            ]
+          },
+          {
+            "prompt": "Does a higher number on a thermometer mean warmer or colder?",
+            "answers": [
+              "warmer"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Plant Adaptations: Surviving in Different Places",
+        "summary": "Students learn that plants have special features, called adaptations, that help them survive in different environments, such as thick stems that store water in a desert or wide leaves that capture sunlight in a rainforest.",
+        "resourceLabel": "YouTube: Plant Adaptations: Surviving in Different Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Adaptations%3A%20Surviving%20in%20Different%20Places%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes a special feature that helps a plant survive in its environment?",
+            "options": [
+              "An adaptation",
+              "A fossil",
+              "A habitat",
+              "A migration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which adaptation helps a cactus survive in a dry desert?",
+            "options": [
+              "A stem that never stores water",
+              "Roots that need constant flooding",
+              "A thick stem that stores water",
+              "Wide leaves that need lots of rain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a rainforest plant have very wide leaves?",
+            "options": [
+              "To avoid all sunlight",
+              "To capture as much sunlight as possible",
+              "To stay hidden underground",
+              "To store extra water like a cactus"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a plant adaptation?",
+            "options": [
+              "A plant that never needs sunlight",
+              "Sharp spines that protect a cactus from animals",
+              "A plant that grows only in space",
+              "A plant that never needs water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Plant adaptations help a plant ___.",
+            "options": [
+              "Survive better in its specific environment",
+              "Move around like an animal",
+              "Stop needing sunlight completely",
+              "Change into a different species instantly"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a special feature that helps a plant survive in its environment?",
+            "answers": [
+              "an adaptation",
+              "adaptation"
+            ]
+          },
+          {
+            "prompt": "Name one plant adaptation that helps a cactus survive in a dry desert.",
+            "answers": [
+              "storing water",
+              "thick stem",
+              "spines",
+              "storing water in its stem"
+            ]
+          },
+          {
+            "prompt": "Why do plants in a rainforest often have wide leaves?",
+            "answers": [
+              "to capture sunlight",
+              "to collect more sunlight",
+              "to catch sunlight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Time Zones: Why Time Differs Across Canada",
+        "summary": "Students learn that Canada is so wide that it is divided into different time zones, meaning the time of day can be different in places like British Columbia and Newfoundland at the same moment.",
+        "resourceLabel": "YouTube: Time Zones: Why Time Differs Across Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Zones%3A%20Why%20Time%20Differs%20Across%20Canada%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the different regions of time across a wide country like Canada?",
+            "options": [
+              "Provinces",
+              "Continents",
+              "Territories",
+              "Time zones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does Canada have more than one time zone?",
+            "options": [
+              "Because every province chooses a random time",
+              "Because Canada has only one season",
+              "Because Canada has no clocks",
+              "Because the country is very wide from coast to coast"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If it is noon in one time zone, could it be a different time in another Canadian time zone at the same moment?",
+            "options": [
+              "No, time zones do not exist",
+              "No, it is always the same time everywhere",
+              "Yes, but only during winter",
+              "Yes, it could be earlier or later"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful to know about time zones when calling family in another province?",
+            "options": [
+              "So you can skip a day of the week",
+              "So you can change the weather",
+              "So you know what time it actually is for them",
+              "So you can change the date on a calendar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Time zones exist because ___.",
+            "options": [
+              "The sun never moves",
+              "Clocks are different colours in each province",
+              "Different parts of the world see sunrise and sunset at different times",
+              "All places on earth have the exact same time"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the different regions of time across a wide country like Canada?",
+            "answers": [
+              "time zones",
+              "time zone"
+            ]
+          },
+          {
+            "prompt": "Why does Canada have more than one time zone?",
+            "answers": [
+              "because it is so wide",
+              "because the country is very wide",
+              "because it stretches across a large distance"
+            ]
+          },
+          {
+            "prompt": "Can it be a different time of day in two provinces at the same moment?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "label": "Day 66 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Idioms and Expressions",
+        "summary": "Students learn that an idiom is a group of words with a meaning different from the literal meaning of the individual words, such as it is raining cats and dogs meaning it is raining very hard.",
+        "resourceLabel": "YouTube: Idioms and Expressions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Idioms%20and%20Expressions%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a group of words whose meaning is different from what the words literally say?",
+            "options": [
+              "A heading",
+              "A fact",
+              "An idiom",
+              "A caption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the idiom it is raining cats and dogs mean?",
+            "options": [
+              "It is very sunny",
+              "It is very cold",
+              "It is raining very hard",
+              "Animals are falling from the sky"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the idiom break a leg mean when said to a performer before a show?",
+            "options": [
+              "Be careful not to fall",
+              "Stay home today",
+              "Good luck",
+              "Stop performing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean if someone says an idea costs an arm and a leg?",
+            "options": [
+              "It requires body parts",
+              "It is impossible to buy",
+              "It is very expensive",
+              "It is very cheap"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Understanding idioms helps readers because ___.",
+            "options": [
+              "Idioms have no meaning at all",
+              "Idioms always mean exactly what they say",
+              "The literal words do not always explain the real meaning",
+              "Idioms are only used in math"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a group of words whose meaning is different from what the words literally say?",
+            "answers": [
+              "an idiom",
+              "idiom"
+            ]
+          },
+          {
+            "prompt": "What does the idiom it is raining cats and dogs mean?",
+            "answers": [
+              "it is raining very hard",
+              "raining hard",
+              "heavy rain"
+            ]
+          },
+          {
+            "prompt": "What does the idiom break a leg mean when said to a performer?",
+            "answers": [
+              "good luck",
+              "wishing someone good luck"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Near Doubles: Doubles Plus One and Doubles Minus One",
+        "summary": "Students learn to use known doubles facts, like 5 plus 5 equals 10, to quickly solve near doubles, such as 5 plus 6, by thinking of it as double 5 plus one more.",
+        "resourceLabel": "YouTube: Near Doubles: Doubles Plus One and Doubles Minus One",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Near%20Doubles%3A%20Doubles%20Plus%20One%20and%20Doubles%20Minus%20One%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 5 + 5?",
+            "options": [
+              "10",
+              "11",
+              "8",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using the fact that 5 + 5 = 10, what is 5 + 6?",
+            "options": [
+              "10",
+              "11",
+              "9",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the fact that 4 + 4 = 8, what is 4 + 5?",
+            "options": [
+              "10",
+              "9",
+              "8",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the fact that 6 + 6 = 12, what is 6 + 7?",
+            "options": [
+              "12",
+              "13",
+              "14",
+              "11"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Near doubles are a helpful strategy because they let us ___.",
+            "options": [
+              "Use a known double fact to solve a close addition problem quickly",
+              "Only work with even numbers",
+              "Always subtract instead of add",
+              "Ignore addition facts completely"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 5 + 5?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "Using the fact that 5 + 5 = 10, what is 5 + 6?",
+            "answers": [
+              "11",
+              "eleven"
+            ]
+          },
+          {
+            "prompt": "Using the fact that 4 + 4 = 8, what is 4 + 5?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Planets in Our Solar System",
+        "summary": "Students learn that the solar system includes the sun and the planets that orbit it, such as Mercury, Venus, Earth, and Mars, each with its own size and distance from the sun.",
+        "resourceLabel": "YouTube: Planets in Our Solar System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Planets%20in%20Our%20Solar%20System%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the group of planets that orbit the sun?",
+            "options": [
+              "The water cycle",
+              "The rock cycle",
+              "The solar system",
+              "The food chain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which planet do people live on?",
+            "options": [
+              "Venus",
+              "Mars",
+              "Earth",
+              "Jupiter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a planet in our solar system?",
+            "options": [
+              "Mars",
+              "A star",
+              "A comet",
+              "The moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do all the planets in our solar system orbit?",
+            "options": [
+              "The moon",
+              "The sun",
+              "A comet",
+              "Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which planet is often called the red planet?",
+            "options": [
+              "Earth",
+              "Venus",
+              "Mars",
+              "Mercury"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the group of planets that orbit the sun?",
+            "answers": [
+              "the solar system",
+              "solar system"
+            ]
+          },
+          {
+            "prompt": "Which planet do people live on?",
+            "answers": [
+              "earth"
+            ]
+          },
+          {
+            "prompt": "Name one planet in our solar system besides earth, like Mars or Venus.",
+            "answers": [
+              "mars",
+              "venus",
+              "mercury",
+              "jupiter",
+              "saturn",
+              "uranus",
+              "neptune"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Food From Around the World: Exploring Cultures Through Food",
+        "summary": "Students learn that families from different cultures often enjoy special foods and recipes that have been passed down for generations, helping to share and celebrate their culture.",
+        "resourceLabel": "YouTube: Food From Around the World: Exploring Cultures Through Food",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Food%20From%20Around%20the%20World%3A%20Exploring%20Cultures%20Through%20Food%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why might a family cook a special recipe that has been passed down for generations?",
+            "options": [
+              "To copy a recipe from a stranger",
+              "To avoid eating anything at all",
+              "To celebrate and share their culture",
+              "To follow a rule with no meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can trying foods from different cultures teach us?",
+            "options": [
+              "Only about one culture",
+              "Only about cooking tools",
+              "About the traditions and history of different cultures",
+              "Nothing about other cultures"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a food tradition?",
+            "options": [
+              "A family recipe passed down through generations",
+              "A brand new food invented yesterday",
+              "A food nobody has ever eaten",
+              "A food with no ingredients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about food from around the world helps students understand ___.",
+            "options": [
+              "That all cultures eat the same food",
+              "That different cultures have unique and special traditions",
+              "That food has no connection to culture",
+              "That recipes never change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sharing food from different cultures at a school event can help classmates ___.",
+            "options": [
+              "Ignore other cultures",
+              "Learn about and appreciate different cultures",
+              "Avoid trying new things",
+              "Stop celebrating traditions"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one reason families might cook a special recipe passed down in their family.",
+            "answers": [
+              "to celebrate their culture",
+              "to share their culture",
+              "tradition"
+            ]
+          },
+          {
+            "prompt": "What do we call food traditions passed down from one generation to the next?",
+            "answers": [
+              "a tradition",
+              "tradition",
+              "family tradition"
+            ]
+          },
+          {
+            "prompt": "Why is it fun to try foods from different cultures?",
+            "answers": [
+              "to learn about other cultures",
+              "to experience different cultures",
+              "to learn about the world"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "label": "Day 67 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Alliteration: Repeating Beginning Sounds",
+        "summary": "Students learn that alliteration happens when two or more words close together begin with the same sound, such as silly snakes slither slowly, adding rhythm to writing.",
+        "resourceLabel": "YouTube: Alliteration: Repeating Beginning Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Alliteration%3A%20Repeating%20Beginning%20Sounds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call it when two or more words close together begin with the same sound?",
+            "options": [
+              "Rhyme",
+              "Synonym",
+              "Alliteration",
+              "Onomatopoeia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "The dog ran fast",
+              "I like pizza",
+              "She is happy",
+              "Silly snakes slither slowly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the phrase silly snakes slither slowly, which sound repeats at the beginning of each word?",
+            "options": [
+              "The t sound",
+              "The s sound",
+              "The a sound",
+              "The l sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of words shows alliteration?",
+            "options": [
+              "Big blue balloon",
+              "Big blue kite",
+              "Big red balloon",
+              "Small blue balloon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Writers use alliteration to ___.",
+            "options": [
+              "Make writing shorter",
+              "Add rhythm and a fun sound to their writing",
+              "Make writing harder to read",
+              "Remove all sounds from writing"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when two or more words close together begin with the same sound?",
+            "answers": [
+              "alliteration"
+            ]
+          },
+          {
+            "prompt": "Which two words show alliteration: happy hippo or happy elephant?",
+            "answers": [
+              "happy hippo"
+            ]
+          },
+          {
+            "prompt": "In the phrase silly snakes slither slowly, which sound repeats at the beginning of each word?",
+            "answers": [
+              "s",
+              "the s sound",
+              "silly s sound"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Input and Output Number Patterns",
+        "summary": "Students learn to find a rule that changes an input number into an output number, such as add 2, and use that rule to complete a number pattern.",
+        "resourceLabel": "YouTube: Input and Output Number Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Input%20and%20Output%20Number%20Patterns%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If the rule is add 2 and the input is 3, what is the output?",
+            "options": [
+              "5",
+              "6",
+              "3",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the rule is add 3 and the input is 4, what is the output?",
+            "options": [
+              "5",
+              "8",
+              "7",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an input of 5 gives an output of 8, what is the rule?",
+            "options": [
+              "Subtract 3",
+              "Add 2",
+              "Add 5",
+              "Add 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the rule is subtract 2 and the input is 9, what is the output?",
+            "options": [
+              "5",
+              "9",
+              "11",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An input and output number pattern always follows ___.",
+            "options": [
+              "A different rule each time",
+              "Only subtraction",
+              "No rule at all",
+              "The same rule for every number in the pattern"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If the rule is add 2 and the input is 3, what is the output?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "If the rule is add 3 and the input is 4, what is the output?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          },
+          {
+            "prompt": "If an input of 5 gives an output of 8, what is the rule?",
+            "answers": [
+              "add 3",
+              "plus 3"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "How We Breathe: The Lungs and Respiratory System",
+        "summary": "Students learn that the lungs are organs inside the chest that help the body breathe in oxygen from the air and breathe out carbon dioxide.",
+        "resourceLabel": "YouTube: How We Breathe: The Lungs and Respiratory System",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20We%20Breathe%3A%20The%20Lungs%20and%20Respiratory%20System%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What organs help us breathe air in and out?",
+            "options": [
+              "The stomach",
+              "The bones",
+              "The skin",
+              "The lungs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gas does our body need that we breathe in from the air?",
+            "options": [
+              "Oxygen",
+              "Nitrogen only",
+              "Carbon dioxide",
+              "Smoke"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What gas do we breathe out of our lungs?",
+            "options": [
+              "Water only",
+              "Oxygen",
+              "Helium",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where are the lungs located in the body?",
+            "options": [
+              "Inside the foot",
+              "Inside the leg",
+              "Inside the chest",
+              "Inside the arm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is breathing important for our body?",
+            "options": [
+              "It has no purpose",
+              "It brings oxygen that our body needs to work",
+              "It only makes noise",
+              "It stops our heart from beating"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What organs help us breathe air in and out?",
+            "answers": [
+              "lungs",
+              "the lungs"
+            ]
+          },
+          {
+            "prompt": "What gas do we breathe in that our body needs?",
+            "answers": [
+              "oxygen"
+            ]
+          },
+          {
+            "prompt": "What gas do we breathe out?",
+            "answers": [
+              "carbon dioxide"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Postal Codes and Addresses: Finding Your Way",
+        "summary": "Students learn that an address, including a postal code, helps identify exactly where a person lives so that mail and packages can be delivered to the right place.",
+        "resourceLabel": "YouTube: Postal Codes and Addresses: Finding Your Way",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Postal%20Codes%20and%20Addresses%3A%20Finding%20Your%20Way%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the group of letters and numbers that helps identify a specific area for mail delivery?",
+            "options": [
+              "A postal code",
+              "A birthday",
+              "A time zone",
+              "A phone number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is part of a home address?",
+            "options": [
+              "A shoe size",
+              "A favourite colour",
+              "A street name and house number",
+              "A birthday"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is an address important?",
+            "options": [
+              "It tells you what to eat",
+              "It helps mail and packages reach the right place",
+              "It tells you the weather",
+              "It tells you what time it is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who might use your address to deliver a package?",
+            "options": [
+              "A mail carrier",
+              "A teacher",
+              "A dentist",
+              "A chef"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A complete address usually includes ___.",
+            "options": [
+              "Only a first name",
+              "Only a phone number",
+              "Only a favourite colour",
+              "A house number, street name, city, and postal code"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the group of letters and numbers that helps identify a specific area for mail delivery?",
+            "answers": [
+              "a postal code",
+              "postal code"
+            ]
+          },
+          {
+            "prompt": "Name one part of an address, like a street name or a house number.",
+            "answers": [
+              "a street name",
+              "street name",
+              "a house number",
+              "house number"
+            ]
+          },
+          {
+            "prompt": "Why is an address important for mail delivery?",
+            "answers": [
+              "so mail goes to the right place",
+              "so packages are delivered correctly",
+              "to find the right location"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "label": "Day 68 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading Fluency and Expression",
+        "summary": "Students learn that reading fluently means reading smoothly and at a good pace, while reading with expression means using your voice to show feelings and match punctuation, like excitement for an exclamation mark.",
+        "resourceLabel": "YouTube: Reading Fluency and Expression",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Fluency%20and%20Expression%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call reading smoothly and at a good pace?",
+            "options": [
+              "A caption",
+              "Fluency",
+              "A theme",
+              "A summary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should your voice show when reading a sentence that ends with an exclamation mark?",
+            "options": [
+              "Silence",
+              "Confusion only",
+              "No feeling at all",
+              "Excitement or strong feeling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Reading with expression means ___.",
+            "options": [
+              "Using your voice to show feelings while reading",
+              "Reading as fast as possible with no pauses",
+              "Skipping all punctuation",
+              "Reading in a whisper the whole time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is reading fluency important?",
+            "options": [
+              "It removes all meaning from a story",
+              "It slows readers down on purpose",
+              "It helps readers understand and enjoy a story more easily",
+              "It makes reading impossible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a sentence ends with a question mark, how should your voice sound at the end?",
+            "options": [
+              "It should stop suddenly with no sound",
+              "It should get very loud",
+              "It should stay completely flat",
+              "It should rise, like you are asking something"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call reading smoothly and at a good pace?",
+            "answers": [
+              "fluency",
+              "reading fluency",
+              "fluent reading"
+            ]
+          },
+          {
+            "prompt": "What should your voice show when you read a sentence that ends with an exclamation mark?",
+            "answers": [
+              "excitement",
+              "strong feeling",
+              "emotion"
+            ]
+          },
+          {
+            "prompt": "Why is reading with expression helpful to listeners?",
+            "answers": [
+              "it helps the story come alive",
+              "it makes the story more interesting",
+              "it helps listeners understand feelings"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Line Plots: Organizing Data Points",
+        "summary": "Students learn to organize data on a line plot, a simple graph that uses marks above a number line to show how many times each value occurs.",
+        "resourceLabel": "YouTube: Line Plots: Organizing Data Points",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Line%20Plots%3A%20Organizing%20Data%20Points%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a graph that uses marks above a number line to show data?",
+            "options": [
+              "A pictograph",
+              "A tally chart",
+              "A line plot",
+              "A bar graph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a line plot, what does each mark usually represent?",
+            "options": [
+              "One piece of data",
+              "The total of all data",
+              "The average of all data",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a line plot shows 3 marks above the number 5, how many times did the value 5 occur in the data?",
+            "options": [
+              "5",
+              "8",
+              "3",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A line plot is a useful tool because it helps us ___.",
+            "options": [
+              "Measure length",
+              "See how often each value occurs in a set of data",
+              "Tell time",
+              "Measure temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the number 4 has more marks above it than any other number on a line plot, what does that tell us?",
+            "options": [
+              "The value 4 is the smallest number",
+              "The value 4 was never counted",
+              "The value 4 occurs least often",
+              "The value 4 occurs most often in the data"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a graph that uses marks above a number line to show data?",
+            "answers": [
+              "a line plot",
+              "line plot"
+            ]
+          },
+          {
+            "prompt": "On a line plot, what does each mark usually represent?",
+            "answers": [
+              "one item",
+              "one piece of data",
+              "one data point"
+            ]
+          },
+          {
+            "prompt": "If a line plot shows 3 marks above the number 5, how many times did the value 5 occur?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Clouds and the Weather They Bring",
+        "summary": "Students learn to identify different types of clouds, such as fluffy cumulus clouds, thin wispy cirrus clouds, and gray stratus clouds, and connect them to the weather they often bring.",
+        "resourceLabel": "YouTube: Clouds and the Weather They Bring",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20and%20the%20Weather%20They%20Bring%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call fluffy, cotton-like clouds often seen on a sunny day?",
+            "options": [
+              "Stratus clouds",
+              "Storm clouds only",
+              "Cumulus clouds",
+              "Cirrus clouds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call thin, wispy clouds found high in the sky?",
+            "options": [
+              "Rain clouds only",
+              "Cirrus clouds",
+              "Stratus clouds",
+              "Cumulus clouds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call gray clouds that often cover the whole sky and can bring rain?",
+            "options": [
+              "Cirrus clouds",
+              "Cumulus clouds",
+              "Clear clouds",
+              "Stratus clouds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of cloud is most closely connected to a chance of rain covering the whole sky?",
+            "options": [
+              "Cirrus clouds",
+              "Stratus clouds",
+              "No clouds at all",
+              "Cumulus clouds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Observing clouds can help us ___.",
+            "options": [
+              "Predict what kind of weather might be coming",
+              "Tell exact time",
+              "Change the weather instantly",
+              "Measure how heavy an object is"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call fluffy, cotton-like clouds often seen on a sunny day?",
+            "answers": [
+              "cumulus clouds",
+              "cumulus"
+            ]
+          },
+          {
+            "prompt": "What do we call thin, wispy clouds high in the sky?",
+            "answers": [
+              "cirrus clouds",
+              "cirrus"
+            ]
+          },
+          {
+            "prompt": "What do we call gray clouds that often cover the whole sky and can bring rain?",
+            "answers": [
+              "stratus clouds",
+              "stratus"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Preparing for Severe Weather: Staying Safe",
+        "summary": "Students learn simple steps for staying safe during severe weather, such as a thunderstorm or blizzard, including listening to an adult, staying indoors, and having an emergency kit ready.",
+        "resourceLabel": "YouTube: Preparing for Severe Weather: Staying Safe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Preparing%20for%20Severe%20Weather%3A%20Staying%20Safe%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What should you do during a thunderstorm to stay safe?",
+            "options": [
+              "Ignore the storm completely",
+              "Stay indoors away from windows",
+              "Go swimming outside",
+              "Stand under a tall tree outside"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who should children listen to for guidance during severe weather?",
+            "options": [
+              "A pet",
+              "A stranger",
+              "A trusted adult",
+              "No one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might be found in a family emergency kit?",
+            "options": [
+              "A television remote",
+              "A flashlight and batteries",
+              "A bicycle",
+              "A video game"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful for a family to have an emergency plan for severe weather?",
+            "options": [
+              "So the storm becomes stronger",
+              "So everyone knows what to do and stays safe",
+              "So no one prepares at all",
+              "So the weather changes instantly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During a blizzard, which of these is a safe choice?",
+            "options": [
+              "Staying inside a warm home",
+              "Walking far from home alone",
+              "Ignoring warnings from adults",
+              "Staying outside for a long time"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What should you do during a thunderstorm to stay safe?",
+            "answers": [
+              "stay indoors",
+              "go inside",
+              "stay inside"
+            ]
+          },
+          {
+            "prompt": "Who should you listen to during severe weather to stay safe?",
+            "answers": [
+              "an adult",
+              "a trusted adult",
+              "adults"
+            ]
+          },
+          {
+            "prompt": "Name one item that might be in a family emergency kit, like a flashlight.",
+            "answers": [
+              "a flashlight",
+              "flashlight",
+              "water",
+              "batteries"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "label": "Day 69 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Root Words and Word Families",
+        "summary": "Students learn that a root word is the base part of a word that carries its main meaning, and that other words can be built from it, such as play, playful, and player, all coming from the root word play.",
+        "resourceLabel": "YouTube: Root Words and Word Families",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Root%20Words%20and%20Word%20Families%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the base part of a word that carries its main meaning?",
+            "options": [
+              "A caption",
+              "A root word",
+              "A synonym",
+              "An antonym"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word in the word playful?",
+            "options": [
+              "Fully",
+              "Ful",
+              "Full",
+              "Play"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words comes from the root word teach?",
+            "options": [
+              "Farmer",
+              "Painter",
+              "Doctor",
+              "Teacher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which group of words are all part of the same word family built from the root word jump?",
+            "options": [
+              "Read, reader, reading, reread",
+              "Jump, jumped, jumping, jumper",
+              "Run, ran, running, runner",
+              "Play, player, playful, played"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Understanding root words helps readers ___.",
+            "options": [
+              "Figure out the meaning of related unfamiliar words",
+              "Only read short words",
+              "Avoid learning new words",
+              "Forget how to read"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the base part of a word that carries its main meaning?",
+            "answers": [
+              "a root word",
+              "root word"
+            ]
+          },
+          {
+            "prompt": "What is the root word in the word playful?",
+            "answers": [
+              "play"
+            ]
+          },
+          {
+            "prompt": "Name one word that can be built from the root word teach, like teacher.",
+            "answers": [
+              "teacher",
+              "teaching",
+              "teaches"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication Facts: 2s, 5s, and 10s",
+        "summary": "Students learn and practice basic multiplication facts for the 2 times table, 5 times table, and 10 times table, such as 2 times 3 equals 6.",
+        "resourceLabel": "YouTube: Multiplication Facts: 2s, 5s, and 10s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%202s%2C%205s%2C%20and%2010s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 2 times 3?",
+            "options": [
+              "6",
+              "5",
+              "8",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5 times 4?",
+            "options": [
+              "15",
+              "10",
+              "20",
+              "25"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 10 times 2?",
+            "options": [
+              "12",
+              "10",
+              "20",
+              "22"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 5 times 5?",
+            "options": [
+              "20",
+              "25",
+              "30",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Multiplication facts for the 10 times table always end in what digit?",
+            "options": [
+              "0",
+              "5",
+              "2",
+              "1"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 2 times 3?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What is 5 times 4?",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          },
+          {
+            "prompt": "What is 10 times 2?",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Diets: Herbivores, Carnivores, and Omnivores",
+        "summary": "Students learn that animals can be grouped by what they eat, such as herbivores that eat only plants, carnivores that eat only meat, and omnivores that eat both plants and meat.",
+        "resourceLabel": "YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call an animal that eats only plants?",
+            "options": [
+              "A herbivore",
+              "A decomposer",
+              "A carnivore",
+              "An omnivore"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an animal that eats only meat?",
+            "options": [
+              "A producer",
+              "A carnivore",
+              "An omnivore",
+              "A herbivore"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call an animal that eats both plants and meat?",
+            "options": [
+              "An omnivore",
+              "A herbivore",
+              "A carnivore",
+              "A decomposer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals is a herbivore that eats mostly grass and leaves?",
+            "options": [
+              "A wolf",
+              "A deer",
+              "A lion",
+              "A shark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Bears are often considered omnivores because they eat ___.",
+            "options": [
+              "Only rocks and soil",
+              "Both plants like berries and meat like fish",
+              "Only sunlight",
+              "Only water"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call an animal that eats only plants?",
+            "answers": [
+              "a herbivore",
+              "herbivore"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that eats only meat?",
+            "answers": [
+              "a carnivore",
+              "carnivore"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that eats both plants and meat?",
+            "answers": [
+              "an omnivore",
+              "omnivore"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Life in Northern Canada: Weather and Ways of Living",
+        "summary": "Students learn that Northern Canada has a cold climate with long winters, and that communities there have adapted their ways of living, travel, and clothing to the environment.",
+        "resourceLabel": "YouTube: Life in Northern Canada: Weather and Ways of Living",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20in%20Northern%20Canada%3A%20Weather%20and%20Ways%20of%20Living%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of climate does Northern Canada generally have?",
+            "options": [
+              "A cold climate with long winters",
+              "A hot climate with no winter",
+              "A rainy climate with no snow",
+              "A desert climate with no water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a way people in Northern Canada might adapt to a cold climate?",
+            "options": [
+              "Avoiding all winter clothing",
+              "Ignoring the cold weather",
+              "Wearing sandals year round",
+              "Wearing warm layered clothing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might communities in Northern Canada use different methods of travel than a big city?",
+            "options": [
+              "Because cars are not allowed anywhere in Canada",
+              "Because of snow, ice, and remote locations",
+              "Because they have no need to travel",
+              "Because there are no roads anywhere in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might be true about daylight in parts of Northern Canada during winter?",
+            "options": [
+              "There is always more daylight than in summer",
+              "There can be very few hours of daylight",
+              "There is no daylight ever, all year",
+              "There is always exactly 12 hours of daylight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about life in Northern Canada helps us understand ___.",
+            "options": [
+              "That no one lives in Northern Canada",
+              "That all parts of Canada have the same weather",
+              "That climate has no effect on daily life",
+              "How people adapt their lives to a unique climate"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of climate does Northern Canada have, with long cold winters?",
+            "answers": [
+              "a cold climate",
+              "cold climate"
+            ]
+          },
+          {
+            "prompt": "Name one way people in Northern Canada might adapt to the cold climate, like wearing warm clothing.",
+            "answers": [
+              "wearing warm clothing",
+              "warm clothing",
+              "special travel methods"
+            ]
+          },
+          {
+            "prompt": "Why might traveling in Northern Canada look different than traveling in a city?",
+            "answers": [
+              "because of snow and ice",
+              "because of the cold climate",
+              "different terrain"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "label": "Day 70 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Final Review: Language Skills (Days 61-69)",
+        "summary": "Students review Language skills from Days 61 to 69: irregular past tense verbs, sentence fragments, quotation marks, point of view, opinion writing, idioms, alliteration, reading fluency, and root words.",
+        "resourceLabel": "YouTube: Final Review: Language Skills (Days 61-69)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the past tense of the verb go?",
+            "options": [
+              "Goed",
+              "Going",
+              "Goes",
+              "Went"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two parts does a complete sentence need?",
+            "options": [
+              "Only a question mark",
+              "Only a capital letter",
+              "A subject and a verb",
+              "Only a noun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the punctuation marks placed before and after the exact words a character speaks?",
+            "options": [
+              "Quotation marks",
+              "A comma",
+              "A period",
+              "A question mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the perspective from which a story is told?",
+            "options": [
+              "A theme",
+              "Point of view",
+              "A caption",
+              "A heading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a group of words whose meaning is different from what the words literally say?",
+            "options": [
+              "A fact",
+              "A caption",
+              "A heading",
+              "An idiom"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the past tense of the verb go?",
+            "answers": [
+              "went"
+            ]
+          },
+          {
+            "prompt": "What do we call a group of words whose meaning is different from what the words literally say?",
+            "answers": [
+              "an idiom",
+              "idiom"
+            ]
+          },
+          {
+            "prompt": "What do we call the base part of a word that carries its main meaning?",
+            "answers": [
+              "a root word",
+              "root word"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Final Review: Math Skills (Days 61-69)",
+        "summary": "Students review Math skills from Days 61 to 69: place value to 1000, adding three numbers, missing number equations, arrays, thermometers, near doubles, number patterns, line plots, and multiplication facts.",
+        "resourceLabel": "YouTube: Final Review: Math Skills (Days 61-69)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many hundreds are in the number 342?",
+            "options": [
+              "7",
+              "3",
+              "2",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 2 + 3 + 4?",
+            "options": [
+              "10",
+              "9",
+              "8",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number makes this true: 5 + ___ = 9?",
+            "options": [
+              "5",
+              "14",
+              "4",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an array has 3 rows with 4 objects in each row, how many objects are there in total?",
+            "options": [
+              "12",
+              "7",
+              "9",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2 times 3?",
+            "options": [
+              "6",
+              "8",
+              "5",
+              "7"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many hundreds are in the number 342?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 2 + 3 + 4?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          },
+          {
+            "prompt": "What is 2 times 3?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Final Review: Science Skills (Days 61-69)",
+        "summary": "Students review Science topics from Days 61 to 69: frog life cycles, fossils, wheels and axles, decomposers, plant adaptations, planets, breathing and lungs, clouds and weather, and animal diets.",
+        "resourceLabel": "YouTube: Final Review: Science Skills (Days 61-69)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a frog life cycle?",
+            "options": [
+              "Tadpole",
+              "Adult frog",
+              "Egg",
+              "Froglet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes the preserved remains or traces of ancient living things?",
+            "options": [
+              "A magnet",
+              "A crystal",
+              "A shadow",
+              "A fossil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call living things that break down dead plants and animals?",
+            "options": [
+              "Decomposers",
+              "Producers",
+              "Pollinators",
+              "Predators"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which planet do people live on?",
+            "options": [
+              "Earth",
+              "Mars",
+              "Venus",
+              "Jupiter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an animal that eats only meat?",
+            "options": [
+              "A carnivore",
+              "A herbivore",
+              "An omnivore",
+              "A producer"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a frog life cycle?",
+            "answers": [
+              "egg",
+              "an egg"
+            ]
+          },
+          {
+            "prompt": "What word describes the preserved remains or traces of ancient living things found in rock?",
+            "answers": [
+              "fossil",
+              "fossils"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that eats only plants?",
+            "answers": [
+              "a herbivore",
+              "herbivore"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Final Review: Social Studies Skills (Days 61-69)",
+        "summary": "Students review Social Studies topics from Days 61 to 69: local businesses, schools long ago and today, Canadian currency, national parks, time zones, food from around the world, addresses, severe weather safety, and life in Northern Canada.",
+        "resourceLabel": "YouTube: Final Review: Social Studies Skills (Days 61-69)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2061-69%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a local business?",
+            "options": [
+              "A bakery",
+              "A mountain",
+              "A cloud",
+              "A river"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of the Canadian one dollar coin?",
+            "options": [
+              "The toonie",
+              "The dime",
+              "The nickel",
+              "The loonie"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call an area of land protected to preserve nature and wildlife?",
+            "options": [
+              "A factory",
+              "A shopping mall",
+              "A parking lot",
+              "A national park"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the different regions of time across a wide country like Canada?",
+            "options": [
+              "Time zones",
+              "Provinces",
+              "Continents",
+              "Territories"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should you do during a thunderstorm to stay safe?",
+            "options": [
+              "Stand under a tall tree outside",
+              "Go swimming outside",
+              "Ignore the storm completely",
+              "Stay indoors away from windows"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the goods and services a business provides to help people?",
+            "answers": [
+              "goods and services",
+              "things people need"
+            ]
+          },
+          {
+            "prompt": "What is the name of the Canadian one dollar coin?",
+            "answers": [
+              "loonie",
+              "the loonie"
+            ]
+          },
+          {
+            "prompt": "What do we call an area of land protected to preserve nature and wildlife?",
+            "answers": [
+              "a national park",
+              "national park"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
