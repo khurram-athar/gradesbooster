@@ -17027,5 +17027,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Verse Novel -- Narrative Through Poetic Form",
+        "summary": "Grade 12 English strand: a verse novel tells an extended narrative using poetic form, most often free verse, combining the emotional compression and imagery of poetry with a novel’s sustained plot and character development, often unfolding through multiple first-person voices.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
+            "options": [
+              "Poetic",
+              "A concept unrelated to this literary form",
+              "Purely journalistic, with no connection to imaginative narrative",
+              "Strictly legal, a form unrelated to storytelling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A verse novel combines the emotional compression and imagery of poetry with a novel’s sustained plot and ___ development.",
+            "options": [
+              "Character",
+              "A concept unrelated to how a verse novel is built",
+              "Font, a formatting detail unrelated to narrative content",
+              "Currency, a concept unrelated to literary structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A verse novel often unfolds through multiple first-person ___.",
+            "options": [
+              "Blank pages, with no narrative content presented at all",
+              "Footnotes exclusively, with no connection to first-person narration",
+              "A concept unrelated to how a verse novel is narrated",
+              "Voices"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author choose the verse novel form, rather than conventional prose, to tell a story centred on intense emotional experience?",
+            "options": [
+              "Poetic form always removes any emotional content from a narrative",
+              "The compressed, image-rich language of poetry can convey heightened emotion and interiority with an intensity that extended prose description sometimes dilutes",
+              "Verse novels have no capacity to develop character or plot over an extended narrative",
+              "This concept has no connection to how literary form shapes emotional impact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does alternating between multiple first-person voices in a verse novel create a distinctive reading experience compared to a single first-person prose narrator?",
+            "options": [
+              "A verse novel with multiple voices always presents an identical, unified perspective with no variation between speakers",
+              "Each voice offers a different, partial perspective on shared events, requiring the reader to assemble a fuller picture of the story’s truth from fragments of subjective experience",
+              "This concept has no relevance to understanding how narrative voice shapes a reader’s experience",
+              "Multiple first-person voices have no effect on how a reader interprets a narrative’s events"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Quaternion -- Extending Complex Numbers Beyond the Plane",
+        "summary": "Grade 12 Advanced Functions strand: a quaternion extends the complex numbers by introducing three distinct imaginary units, producing a four-dimensional number system used to represent rotations in three-dimensional space more efficiently than some other methods.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A quaternion extends the complex numbers by introducing ___ distinct imaginary units.",
+            "options": [
+              "A concept unrelated to how a quaternion is constructed",
+              "One, an inaccurate count for a quaternion’s imaginary units",
+              "Zero, an inaccurate count that would describe the real numbers instead",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A quaternion produces a ___-dimensional number system.",
+            "options": [
+              "Six, an inaccurate dimensionality for a quaternion",
+              "A concept unrelated to describing a quaternion’s structure",
+              "Two, the dimensionality of the complex numbers rather than the quaternions",
+              "Four"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Quaternions are used to represent ___ in three-dimensional space.",
+            "options": [
+              "Rotations",
+              "Colours, a property unrelated to this mathematical structure’s typical application",
+              "A concept unrelated to a common application of quaternions",
+              "Temperatures, a property unrelated to this mathematical structure’s typical application"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might quaternions be preferred over some other methods for representing rotations in three-dimensional computer graphics or robotics?",
+            "options": [
+              "Other rotation representations are always mathematically superior to quaternions in every situation",
+              "Quaternions have no established application to representing rotations in three-dimensional space",
+              "Quaternions can avoid certain distortions, such as gimbal lock, that affect some other rotation representations, while also combining smoothly under multiplication",
+              "This concept has no relevance to applications of extended number systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is extending the complex numbers to quaternions considered a natural next step in the historical development of number systems?",
+            "options": [
+              "It follows a recurring pattern in mathematics of generalizing an existing number system to a larger one that preserves useful properties while enabling new kinds of calculation",
+              "This concept has no relevance to understanding how mathematical structures build on one another",
+              "Extending complex numbers to a four-dimensional system has no connection to how number systems have historically developed",
+              "Quaternions were developed with no connection to the earlier development of complex numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Introduction to Partial Derivatives -- Rates of Change in Multiple Directions",
+        "summary": "Grade 12 Calculus strand: a partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables constant, extending the familiar single-variable derivative to functions that depend on more than one input.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "A partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables ___.",
+            "options": [
+              "Undefined, an inaccurate description of how the other variables are treated",
+              "A concept unrelated to how a partial derivative is calculated",
+              "Equal to zero exclusively, an inaccurate description of how the other variables are treated",
+              "Constant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Partial derivatives extend the familiar single-variable derivative to functions that depend on more than one ___.",
+            "options": [
+              "Output, an inaccurate description since a function may still have a single output despite multiple inputs",
+              "Colour, a property unrelated to how a function’s inputs are defined",
+              "Input",
+              "A concept unrelated to functions of several variables"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A partial derivative with respect to x measures how a function changes as x changes, while ___ variables remain fixed.",
+            "options": [
+              "Every, an inaccurate description that would leave nothing to vary",
+              "A concept unrelated to how a partial derivative isolates one variable’s effect",
+              "Other",
+              "No other, an inaccurate description that misrepresents functions of several variables"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is holding all other variables constant a necessary step when calculating the partial derivative of a function with respect to one particular variable?",
+            "options": [
+              "This concept has no relevance to understanding how functions of multiple variables behave",
+              "Isolating the effect of a single variable’s change requires treating the remaining variables as fixed, so the resulting rate of change reflects only that one variable’s influence on the function",
+              "A partial derivative can be meaningfully calculated without holding any of the other variables constant",
+              "Treating other variables as fixed has no bearing on what a partial derivative measures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are partial derivatives a natural and important extension of single-variable calculus for describing real-world quantities that depend on multiple factors, such as temperature depending on both location and time?",
+            "options": [
+              "Many real quantities change simultaneously with respect to several different variables, and partial derivatives allow each variable’s individual contribution to that change to be analyzed separately",
+              "This concept has no relevance to extending calculus beyond functions of a single variable",
+              "Partial derivatives have no meaningful application to describing quantities that depend on multiple factors",
+              "Real-world quantities never depend on more than a single variable at a time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Gravitational Waves -- Ripples in Spacetime",
+        "summary": "Grade 12 Physics strand: gravitational waves are ripples in the curvature of spacetime, predicted by general relativity, that propagate outward from accelerating massive objects such as merging black holes, stretching and compressing space itself as they pass.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Gravitational waves are ripples in the curvature of ___, predicted by general relativity.",
+            "options": [
+              "The electromagnetic spectrum exclusively, an inaccurate description of what gravitational waves are",
+              "Spacetime",
+              "Only ordinary matter, an inaccurate description of what gravitational waves ripple through",
+              "A concept unrelated to this predicted phenomenon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Gravitational waves propagate outward from accelerating massive objects such as merging ___.",
+            "options": [
+              "Electrons, particles far too low in mass to be a typical source of gravitational waves",
+              "A concept unrelated to the typical sources of gravitational waves",
+              "Black holes",
+              "Photons, particles with no rest mass and not the typical source of gravitational waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Gravitational waves stretch and compress ___ itself as they pass.",
+            "options": [
+              "Only light exclusively, an inaccurate and overly narrow description of what a gravitational wave affects",
+              "Space",
+              "Only solid matter, an inaccurate and overly narrow description of what a gravitational wave affects",
+              "A concept unrelated to the physical effect of a passing gravitational wave"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do gravitational waves require an extraordinarily sensitive detector to observe directly, even though massive cosmic events are predicted to generate them?",
+            "options": [
+              "Detecting gravitational waves requires no particular sensitivity, since their effects are large and easily measured",
+              "The stretching and compressing of space caused by a gravitational wave reaching Earth is predicted to be exceedingly small, requiring detectors capable of measuring distance changes far smaller than the width of a proton",
+              "Gravitational waves are predicted to produce enormous, easily observed distortions of space upon reaching Earth",
+              "This concept has no relevance to understanding the observational challenge posed by gravitational waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was the direct detection of gravitational waves considered a landmark confirmation of general relativity, even though the theory had already been supported by other evidence?",
+            "options": [
+              "Gravitational waves have no connection to any prediction made by general relativity",
+              "This concept has no relevance to understanding how theoretical predictions in physics are experimentally confirmed",
+              "Gravitational waves were one of general relativity’s key predictions that had not been directly observed for decades, so their detection provided striking, independent experimental confirmation of a fundamental aspect of the theory",
+              "General relativity had never made any prediction regarding ripples in spacetime prior to their detection"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Rhetorical Analysis Essay -- Deconstructing Persuasion",
+        "summary": "Grade 12 English strand: a rhetorical analysis essay examines how a text persuades its audience, breaking down the writer’s use of ethos, pathos, and logos, along with structural and stylistic choices, to explain how those techniques work rather than whether the argument itself is correct.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "A rhetorical analysis essay examines how a text ___ its audience.",
+            "options": [
+              "Entirely ignores, with no attempt made to influence any reader",
+              "Persuades",
+              "Silences, an inaccurate description of a persuasive text’s purpose",
+              "A concept unrelated to this type of essay"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rhetorical analysis essay breaks down a writer’s use of ethos, pathos, and ___.",
+            "options": [
+              "Font size exclusively, with no connection to persuasive appeal",
+              "Only page length, a detail unrelated to rhetorical technique",
+              "Logos",
+              "A concept entirely unrelated to classical rhetorical appeals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rhetorical analysis essay explains how persuasive techniques work rather than whether the argument itself is ___.",
+            "options": [
+              "Correct",
+              "Written, a detail unrelated to the essay’s analytical focus",
+              "Illustrated, a detail unrelated to the essay’s analytical focus",
+              "A concept unrelated to the purpose of rhetorical analysis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a rhetorical analysis essay focus on how a text persuades rather than on agreeing or disagreeing with its argument?",
+            "options": [
+              "A rhetorical analysis essay always requires the writer to state personal agreement with the text under analysis",
+              "This type of essay has no connection to examining an author’s persuasive technique",
+              "The goal is to understand and explain the techniques an author uses to influence an audience, a distinct analytical task from evaluating the argument’s truth or merit",
+              "This concept has no relevance to analyzing how texts are constructed to influence readers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might identifying a text’s appeals to ethos, pathos, and logos help a reader become a more critical consumer of persuasive writing, such as advertising or political rhetoric?",
+            "options": [
+              "Identifying rhetorical appeals never affects how critically a reader engages with a persuasive text",
+              "This concept has no connection to developing critical reading skills",
+              "Recognizing these techniques in action makes their persuasive mechanisms visible, allowing a reader to evaluate a message’s effect rather than simply absorbing it uncritically",
+              "Ethos, pathos, and logos have no relevance to any real-world persuasive writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: The Euclidean Algorithm and Greatest Common Divisors",
+        "summary": "Grade 12 Advanced Functions strand: the Euclidean algorithm efficiently finds the greatest common divisor of two integers by repeatedly replacing the larger number with the remainder of dividing it by the smaller, continuing until a remainder of zero is reached.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "The Euclidean algorithm finds the greatest common divisor of two integers by repeatedly replacing the larger number with the ___ of dividing it by the smaller.",
+            "options": [
+              "Product, an inaccurate description of the operation used at each step",
+              "A concept unrelated to how this algorithm works",
+              "Square root, an inaccurate description of the operation used at each step",
+              "Remainder"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Euclidean algorithm continues until a remainder of ___ is reached.",
+            "options": [
+              "A concept unrelated to the algorithm’s stopping condition",
+              "Zero",
+              "One, an inaccurate stopping condition for this algorithm",
+              "Negative one, an inaccurate stopping condition for this algorithm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Euclidean algorithm efficiently finds the greatest common ___ of two integers.",
+            "options": [
+              "Divisor",
+              "A concept unrelated to this algorithm’s purpose",
+              "Sum, a concept unrelated to finding a shared divisor",
+              "Multiple, a related but distinct number theory concept"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Euclidean algorithm considered more efficient than listing all divisors of two large numbers to find their greatest common divisor?",
+            "options": [
+              "It reduces the problem through a small number of division steps rather than requiring an exhaustive search through every possible divisor, especially as the numbers involved grow very large",
+              "The Euclidean algorithm has no advantage over any other method of finding a greatest common divisor",
+              "Listing all divisors of two numbers is always faster than using the Euclidean algorithm",
+              "This concept has no relevance to solving number theory problems efficiently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Euclidean algorithm considered foundational to modern applications such as cryptography?",
+            "options": [
+              "Efficiently computing relationships between large integers, including greatest common divisors, underlies key steps in several encryption and security algorithms used in modern computing",
+              "This concept has no relevance to understanding real-world applications of number theory",
+              "The Euclidean algorithm has no connection to any modern computational or security application",
+              "Cryptography never requires any calculation involving the relationships between large integers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Lagrange Multipliers -- Optimization Under a Constraint",
+        "summary": "Grade 12 Calculus strand: the method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific constraint equation, by introducing an auxiliary variable that relates the gradients of the original function and the constraint at the optimal point.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "The method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific ___ equation.",
+            "options": [
+              "A concept unrelated to how this optimization method is defined",
+              "Quadratic, an inaccurate description of the type of equation involved in this method",
+              "Constraint",
+              "Trigonometric, an inaccurate description of the type of equation involved in this method"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The method of Lagrange multipliers introduces an auxiliary variable that relates the ___ of the original function and the constraint at the optimal point.",
+            "options": [
+              "Colours, a property unrelated to how this optimization method is defined",
+              "Areas, a property unrelated to how this optimization method identifies an optimal point",
+              "A concept unrelated to the relationship this method establishes",
+              "Gradients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Lagrange multipliers are used to optimize a function while ___ satisfying a given constraint.",
+            "options": [
+              "A concept unrelated to how Lagrange multipliers are applied",
+              "Simultaneously",
+              "Only occasionally, an inaccurate description of how strictly the constraint must be honoured",
+              "Never, an inaccurate description that would defeat the purpose of a constrained optimization method"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a specialized method such as Lagrange multipliers needed to optimize a function subject to a constraint, rather than simply using ordinary derivative techniques alone?",
+            "options": [
+              "Ordinary optimization techniques locate extrema of a function across its entire domain, but a constraint restricts the search to a smaller subset of that domain, requiring a method that accounts for the constraint directly",
+              "A constraint has no effect on where a function’s maximum or minimum value is located",
+              "Ordinary derivative techniques always find the correct constrained optimum without any need for a specialized method",
+              "This concept has no relevance to understanding constrained optimization problems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the method of Lagrange multipliers considered a significant extension of single-variable optimization studied earlier in Grade 12 Calculus?",
+            "options": [
+              "Lagrange multipliers have no meaningful connection to the optimization techniques studied earlier in the course",
+              "Constrained optimization problems involving multiple variables are never encountered in any practical application",
+              "This concept has no relevance to extending a student’s understanding of optimization",
+              "It generalizes the search for a maximum or minimum value to situations involving multiple variables linked by a constraint, a more realistic scenario for many practical optimization problems than optimizing a single unconstrained variable"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Higgs Boson and the Origin of Mass",
+        "summary": "Grade 12 Physics strand: the Higgs boson is a particle associated with the Higgs field, a field permeating all of space that is theorized to give many fundamental particles their mass through the strength of their interaction with it.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "The Higgs boson is a particle associated with the Higgs ___, a field theorized to permeate all of space.",
+            "options": [
+              "Orbit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
+              "A concept unrelated to the Higgs boson’s theoretical basis",
+              "Circuit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
+              "Field"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Higgs field is theorized to give many fundamental particles their ___ through the strength of their interaction with it.",
+            "options": [
+              "Mass",
+              "Electric charge, a property not primarily explained by the Higgs mechanism",
+              "A concept unrelated to what the Higgs field is theorized to explain",
+              "Colour, a property unrelated to the Higgs mechanism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A particle’s mass, under this theory, depends on the strength of its ___ with the Higgs field.",
+            "options": [
+              "Interaction",
+              "Colour, a property unrelated to the Higgs mechanism",
+              "Distance from the observable universe’s centre, a concept unrelated to how the Higgs mechanism assigns mass",
+              "A concept unrelated to how the Higgs field is theorized to give particles mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the Higgs mechanism propose that different fundamental particles have different masses, rather than all interacting with the Higgs field in an identical way?",
+            "options": [
+              "This concept has no relevance to explaining why fundamental particles have different masses",
+              "The Higgs mechanism proposes that every fundamental particle interacts with the Higgs field in an identical way with no variation whatsoever",
+              "Fundamental particles have no established variation in mass according to the Standard Model",
+              "Each type of particle is theorized to interact with the Higgs field with a different characteristic strength, and this varying strength of interaction is what is theorized to produce the varying masses observed among fundamental particles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was the experimental discovery of the Higgs boson considered such a significant achievement for the Standard Model of particle physics?",
+            "options": [
+              "This concept has no relevance to understanding major achievements in modern particle physics",
+              "The Standard Model makes no prediction regarding how fundamental particles acquire their mass",
+              "It provided direct experimental evidence for a particle that had been theoretically predicted decades earlier as central to explaining how fundamental particles acquire mass, confirming a key piece of the Standard Model",
+              "The discovery of the Higgs boson had no connection to any previously predicted aspect of the Standard Model"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Historiographic Metafiction -- Fiction That Questions History",
+        "summary": "Grade 12 English strand: historiographic metafiction is fiction that self-consciously blends invented narrative with documented historical events, drawing attention to its own constructed nature to question how official histories are written, whose voices they include, and whose they leave out.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "Historiographic metafiction self-consciously blends invented narrative with documented ___ events.",
+            "options": [
+              "Scientific, a category of event unrelated to this literary mode’s defining focus",
+              "A concept unrelated to this literary mode",
+              "Entirely fictional, with no connection to any real historical record",
+              "Historical"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "This literary mode draws attention to its own ___ nature.",
+            "options": [
+              "A concept unrelated to how this mode functions",
+              "Constructed",
+              "Purely factual, a description inconsistent with a self-conscious blend of fiction and history",
+              "Accidental, an inaccurate description of a deliberate literary technique"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Historiographic metafiction questions how official histories are written and whose voices they leave ___.",
+            "options": [
+              "Behind, an inaccurate description of this literary mode’s focus",
+              "In, an incomplete description of the concern with exclusion",
+              "Out",
+              "A concept unrelated to this mode’s central questions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use historiographic metafiction to tell the story of a historical event from a marginalized perspective largely absent from traditional historical records?",
+            "options": [
+              "Blending fiction with historical material allows the author to imagine and foreground perspectives that official records often failed to preserve, while still engaging directly with documented events",
+              "This concept has no relevance to how fiction can engage with the writing of history",
+              "This literary mode has no capacity to address whose perspectives are represented in historical accounts",
+              "Historiographic metafiction always avoids any engagement with real historical events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is drawing attention to its own fictional construction a defining feature of historiographic metafiction, rather than an incidental stylistic choice?",
+            "options": [
+              "This concept has no relevance to understanding this literary mode’s purpose",
+              "A text’s self-awareness about its own construction has no bearing on how a reader might view historical narratives generally",
+              "Historiographic metafiction never draws any attention to its own fictional or narrative nature",
+              "By foregrounding its own artifice, the text invites readers to question the similarly constructed, selective nature of official historical narratives themselves"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Möbius Transformations and Mappings of the Complex Plane",
+        "summary": "Grade 12 Advanced Functions strand: a Möbius transformation is a function that maps points on the complex plane to other points using a ratio of two linear expressions, preserving angles and mapping lines and circles to other lines or circles.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A Möbius transformation maps points on the complex plane using a ratio of two ___ expressions.",
+            "options": [
+              "Linear",
+              "Trigonometric, an inaccurate description of the expressions used in a Möbius transformation",
+              "Quadratic, an inaccurate description of the expressions used in a Möbius transformation",
+              "A concept unrelated to how this transformation is defined"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Möbius transformation preserves ___ between curves that intersect on the complex plane.",
+            "options": [
+              "Colours, a property unrelated to this transformation’s defining geometric characteristic",
+              "Weights, a property unrelated to this transformation’s defining geometric characteristic",
+              "A concept unrelated to what a Möbius transformation preserves",
+              "Angles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A Möbius transformation maps lines and circles to other lines or ___.",
+            "options": [
+              "Cubes, a three-dimensional shape unrelated to this planar transformation",
+              "Triangles, an inaccurate description of the shapes a Möbius transformation produces",
+              "Circles",
+              "A concept unrelated to how this transformation acts on shapes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the angle-preserving property of a Möbius transformation considered a particularly important characteristic within complex analysis?",
+            "options": [
+              "This concept has no relevance to understanding complex analysis",
+              "A transformation that preserves angles always distorts every shape beyond recognition",
+              "Preserving angles means the transformation maintains the local shape of small figures even as it distorts their overall position and size, a property central to conformal mapping in complex analysis",
+              "Angle preservation has no significance to how a Möbius transformation is used or studied"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Möbius transformations be a useful extension of a Grade 12 student’s earlier study of the complex plane?",
+            "options": [
+              "Möbius transformations have no connection to the earlier study of complex numbers on the complex plane",
+              "They demonstrate how a relatively simple algebraic rule can produce structured, predictable geometric transformations, deepening the connection between algebra and geometry on the complex plane",
+              "This concept has no relevance to extending a student’s understanding of complex numbers",
+              "A transformation on the complex plane can never be meaningfully connected to geometric structure"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Simpson’s Rule -- A Refined Method of Numerical Integration",
+        "summary": "Grade 12 Calculus strand: Simpson’s Rule approximates a definite integral by fitting parabolic curves through successive groups of points on a function, generally producing a more accurate estimate of the area under a curve than the Trapezoid Rule for the same number of subintervals.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "Simpson’s Rule approximates a definite integral by fitting ___ curves through successive groups of points on a function.",
+            "options": [
+              "Circular, an inaccurate description of the curves used in Simpson’s Rule",
+              "A concept unrelated to how Simpson’s Rule works",
+              "Straight-line, a description of the Trapezoid Rule’s approach rather than Simpson’s Rule",
+              "Parabolic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Simpson’s Rule generally produces a more accurate estimate of the area under a curve than the ___ Rule for the same number of subintervals.",
+            "options": [
+              "Power, a rule unrelated to numerical integration",
+              "A concept unrelated to comparing methods of numerical integration",
+              "Trapezoid",
+              "Chain, a rule unrelated to numerical integration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simpson’s Rule requires an ___ number of subintervals to pair points correctly for its parabolic fitting.",
+            "options": [
+              "Prime, an inaccurate and unnecessary requirement for this numerical integration method",
+              "Odd, an inaccurate requirement for this specific numerical integration method",
+              "Even",
+              "A concept unrelated to the requirements of applying Simpson’s Rule"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does fitting parabolic curves to a function, as Simpson’s Rule does, often produce a more accurate approximation of a definite integral than fitting straight lines, as the Trapezoid Rule does?",
+            "options": [
+              "Straight-line segments always approximate a curved function more accurately than parabolic segments do",
+              "This concept has no relevance to comparing different numerical integration techniques",
+              "The shape used to approximate a function’s curve has no bearing on the accuracy of a numerical integration method",
+              "A parabola can more closely follow the curvature of many functions than a straight line segment can, reducing the error between the approximated area and the true area under the curve"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a numerical method such as Simpson’s Rule be necessary when evaluating a definite integral that has no elementary antiderivative?",
+            "options": [
+              "Numerical integration methods have no practical use when a function’s antiderivative cannot be found using standard techniques",
+              "Every definite integral can always be evaluated exactly using an elementary antiderivative",
+              "This concept has no relevance to situations where standard integration techniques are insufficient",
+              "Some functions cannot be integrated using standard antiderivative techniques, so a numerical approximation method provides a practical way to estimate the definite integral’s value to a useful degree of accuracy"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Antimatter and Pair Production",
+        "summary": "Grade 12 Physics strand: antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric charge, and pair production is a process in which a sufficiently energetic photon converts into a particle-antiparticle pair, directly demonstrating the equivalence of energy and mass.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric ___.",
+            "options": [
+              "A concept unrelated to how antimatter is defined",
+              "Charge",
+              "Temperature, a property unrelated to the defining distinction between matter and antimatter",
+              "Colour, a property unrelated to the defining distinction between matter and antimatter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Pair production is a process in which a sufficiently energetic photon converts into a particle-___ pair.",
+            "options": [
+              "A concept unrelated to what is produced during pair production",
+              "Antiparticle",
+              "Proton, an inaccurate description of what a photon converts into during pair production",
+              "Neutron, an inaccurate description of what a photon converts into during pair production"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Pair production directly demonstrates the equivalence of energy and ___.",
+            "options": [
+              "Electric charge, a property not directly demonstrated by this specific process",
+              "A concept unrelated to what pair production demonstrates",
+              "Colour, a property not directly demonstrated by this specific process",
+              "Mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must a photon undergoing pair production possess a minimum threshold amount of energy before this process can occur?",
+            "options": [
+              "This concept has no relevance to understanding the conditions required for pair production to occur",
+              "Pair production has no established connection to the energy carried by the converting photon",
+              "The photon’s energy must be at least sufficient to account for the combined rest mass energy of both the particle and antiparticle produced, following the equivalence of energy and mass",
+              "A photon can undergo pair production regardless of how little energy it carries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is pair production considered striking experimental evidence for the equivalence of energy and mass first proposed in special relativity?",
+            "options": [
+              "A photon can never be converted into any particle possessing rest mass",
+              "Pair production has no established connection to the relationship between energy and mass proposed in special relativity",
+              "This concept has no relevance to understanding experimental support for special relativity",
+              "It shows pure electromagnetic energy, in the form of a photon, directly transforming into particles possessing rest mass, a vivid physical demonstration of energy converting into mass and vice versa"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Analysis: The Podcast and the Rise of Serial Audio Storytelling",
+        "summary": "Grade 12 English strand: the serial podcast delivers long-form nonfiction or fiction narrative in sequential audio episodes, relying on techniques such as cliffhangers, host narration, and intimate sound design to sustain listener engagement across an extended, deliberately paced release schedule.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "The serial podcast delivers long-form narrative in sequential audio ___.",
+            "options": [
+              "Episodes",
+              "Chapters printed exclusively on paper, with no audio component at all",
+              "A concept unrelated to this media form",
+              "Advertisements exclusively, with no narrative content involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Serial podcasts rely on techniques such as cliffhangers, host narration, and intimate sound ___ to sustain listener engagement.",
+            "options": [
+              "Design",
+              "Illustration, a visual technique unrelated to an audio-only medium",
+              "A concept entirely unrelated to how a podcast maintains audience interest",
+              "Only silence, with no auditory elements used at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Serial podcasts are released across an extended, deliberately paced release ___.",
+            "options": [
+              "Single instant, with no episodes distributed over any period of time",
+              "A concept unrelated to how serial podcasts are distributed",
+              "Schedule",
+              "Silence, an inaccurate description of a podcast’s release pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a podcast’s use of a cliffhanger at the end of an episode be an effective technique for sustaining audience engagement over a serialized release schedule?",
+            "options": [
+              "This technique has no established connection to sustaining audience interest across episodes",
+              "Leaving a central question unresolved motivates listeners to return for the next episode, mirroring the suspense techniques long used in serialized print and broadcast fiction",
+              "This concept has no relevance to understanding how serial audio narrative is structured",
+              "A cliffhanger always causes listeners to abandon a serialized podcast rather than continue with it"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the intimacy of audio, heard often through headphones directly into a listener’s ears, make sound design a particularly powerful storytelling tool in podcasting?",
+            "options": [
+              "This concept has no relevance to analyzing podcasts as a modern narrative medium",
+              "Audio storytelling always creates more emotional distance between the audience and the narrative than visual media does",
+              "The close, private listening experience can create a strong sense of immediacy and personal connection to the narrator or story that is distinct from how audiences typically experience visual or printed media",
+              "Sound design has no meaningful effect on how a listener experiences an audio narrative"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Hypothesis Testing and the P-Value",
+        "summary": "Grade 12 Advanced Functions strand: hypothesis testing is a statistical method for evaluating whether observed data provide enough evidence to reject an assumed default claim, using a p-value to quantify how likely such data would be if that default claim were actually true.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
+            "options": [
+              "Claim",
+              "Location, a concept unrelated to statistical evidence",
+              "A concept unrelated to hypothesis testing",
+              "Colour, a concept unrelated to statistical evidence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A p-value quantifies how likely observed data would be if the default claim were actually ___.",
+            "options": [
+              "True",
+              "A concept unrelated to what a p-value represents",
+              "Irrelevant, an inaccurate description of the default claim’s role in this calculation",
+              "False, an inaccurate description of what a p-value assumes when it is calculated"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In hypothesis testing, a sufficiently small p-value provides evidence to ___ the default claim.",
+            "options": [
+              "Reject",
+              "Confirm with absolute certainty, an overstatement of what a small p-value establishes",
+              "Ignore entirely, an inaccurate description of how a small p-value is used",
+              "A concept unrelated to how a p-value is interpreted"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a very small p-value provide stronger evidence against an assumed default claim than a large p-value does?",
+            "options": [
+              "The size of a p-value has no bearing on how much evidence the data provide against a default claim",
+              "A small p-value indicates the observed data would be quite unlikely if the default claim were true, suggesting the data are better explained by some alternative explanation",
+              "This concept has no relevance to interpreting the results of a statistical hypothesis test",
+              "A small p-value indicates the observed data are exactly what would be expected under the default claim"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to understand that a small p-value does not, by itself, prove that a default claim is false?",
+            "options": [
+              "A small p-value always provides complete, absolute mathematical proof that a default claim is false",
+              "A p-value only measures how unlikely the observed data would be under the default claim, not the probability that the claim itself is true or false, so it should be interpreted as evidence rather than absolute proof",
+              "This concept has no relevance to correctly interpreting statistical results",
+              "P-values have no established role in evaluating statistical evidence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Bisection Method -- Root-Finding by Interval Halving",
+        "summary": "Grade 12 Calculus strand: the Bisection Method locates a root of a continuous function by repeatedly halving an interval known to contain a sign change, guaranteeing convergence toward the root as the interval narrows, though typically more slowly than Newton’s Method.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
+            "options": [
+              "Doubling, an inaccurate description of how the interval changes at each step",
+              "A concept unrelated to how the Bisection Method works",
+              "Ignoring, an inaccurate description that would prevent the method from converging at all",
+              "Halving"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Bisection Method guarantees convergence toward a root as the interval ___.",
+            "options": [
+              "Narrows",
+              "Widens, an inaccurate description of how the interval changes as the method proceeds",
+              "Disappears entirely without ever narrowing gradually, an inaccurate description of this method’s gradual process",
+              "A concept unrelated to how convergence is achieved in this method"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Bisection Method typically converges more ___ than Newton’s Method.",
+            "options": [
+              "A concept unrelated to comparing the convergence speed of different methods",
+              "Quickly, an inaccurate comparison between these two root-finding methods",
+              "Slowly",
+              "Randomly, an inaccurate description of the Bisection Method’s predictable behaviour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the Bisection Method require an initial interval in which the function changes sign at its two endpoints?",
+            "options": [
+              "A sign change between the endpoints guarantees, by the Intermediate Value Theorem, that a continuous function must cross zero somewhere within that interval, ensuring a root actually exists to be located",
+              "The Bisection Method can reliably locate a root without any initial information about where a sign change occurs",
+              "A sign change at the interval’s endpoints has no bearing on whether a root exists within that interval",
+              "This concept has no relevance to understanding how the Bisection Method guarantees convergence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Bisection Method be preferred over Newton’s Method in some situations, despite its typically slower convergence?",
+            "options": [
+              "Newton’s Method always converges reliably to the correct root regardless of the chosen starting estimate",
+              "The Bisection Method never reliably converges to a function’s actual root under any circumstances",
+              "This concept has no relevance to comparing the reliability of different root-finding methods",
+              "The Bisection Method is guaranteed to converge once a valid sign-changing interval is identified, whereas Newton’s Method can sometimes fail to converge or converge to the wrong root depending on the starting estimate"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Cherenkov Radiation -- Faster Than Light in a Medium",
+        "summary": "Grade 12 Physics strand: Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium, such as water, at a speed exceeding the speed of light within that specific medium, though still slower than light’s speed in a vacuum.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Cherenkov radiation is a faint blue glow emitted when a charged particle travels through a transparent medium at a speed exceeding the speed of ___ within that specific medium.",
+            "options": [
+              "Sound, a type of wave unrelated to the defining condition for Cherenkov radiation",
+              "Light",
+              "Heat, a concept unrelated to the defining condition for Cherenkov radiation",
+              "A concept unrelated to the condition producing Cherenkov radiation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A charged particle producing Cherenkov radiation still travels slower than light’s speed in a ___.",
+            "options": [
+              "Solid medium exclusively, an inaccurate description that misrepresents this phenomenon’s defining speed comparison",
+              "Charged medium exclusively, an inaccurate and overly narrow description",
+              "A concept unrelated to the speed comparison relevant to Cherenkov radiation",
+              "Vacuum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Cherenkov radiation is commonly observed as a faint ___ glow.",
+            "options": [
+              "A concept unrelated to describing the appearance of Cherenkov radiation",
+              "Green, an inaccurate description of the characteristic colour of this radiation",
+              "Blue",
+              "Red, an inaccurate description of the characteristic colour of this radiation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a charged particle travel faster than light within a transparent medium such as water without violating the universal speed limit established by special relativity?",
+            "options": [
+              "Special relativity’s speed limit applies to light’s speed in a vacuum, while light travels more slowly through a medium such as water, leaving room for a particle to exceed that reduced, medium-specific speed without ever exceeding light’s vacuum speed",
+              "This concept has no relevance to understanding how Cherenkov radiation can occur without contradicting relativity",
+              "Special relativity places no limit on how fast any particle can travel under any circumstances",
+              "A charged particle producing Cherenkov radiation always travels faster than light’s speed in a vacuum"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Cherenkov radiation useful to physicists as a practical tool for detecting high-energy charged particles, such as in large particle detectors?",
+            "options": [
+              "This concept has no relevance to modern experimental particle physics techniques",
+              "Cherenkov radiation has no practical application to detecting or studying high-energy charged particles",
+              "Charged particles moving through a detector medium never produce any observable or useful signal",
+              "The characteristic glow produced when a fast-moving charged particle exceeds light’s speed in a detector’s medium provides a directly observable signal that reveals the particle’s presence, speed, and direction of travel"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Stream of Consciousness -- Rendering the Mind on the Page",
+        "summary": "Grade 12 English strand: stream of consciousness is a narrative technique that attempts to capture the continuous, often unstructured flow of a character’s thoughts, sensations, and impressions as they occur, frequently abandoning conventional punctuation, syntax, or chronological order to mimic the mind’s actual movement.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
+            "options": [
+              "Physical measurements exclusively, with no connection to a character’s inner experience",
+              "Impressions",
+              "Financial transactions exclusively, with no connection to a character’s inner life",
+              "A concept unrelated to this narrative technique"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "This technique frequently abandons conventional punctuation, syntax, or ___ order.",
+            "options": [
+              "Alphabetical, an order not typically relevant to narrative sequence",
+              "Numerical, an order not typically relevant to narrative sequence",
+              "Chronological",
+              "A concept entirely unrelated to how this technique departs from convention"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Stream of consciousness aims to mimic the mind’s actual ___.",
+            "options": [
+              "A concept unrelated to the purpose of this technique",
+              "Movement",
+              "Silence, an inaccurate description of the flow of thought this technique tries to capture",
+              "Complete stillness, an inaccurate description of the mind’s constant activity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer abandon conventional punctuation and linear syntax when using stream of consciousness to depict a character’s inner experience?",
+            "options": [
+              "Abandoning grammatical convention has no connection to representing a character’s inner thoughts",
+              "Thought rarely unfolds in tidy, grammatically complete sentences, so unconventional form can more accurately mirror the associative, fragmented way the mind actually moves between ideas",
+              "Conventional punctuation and syntax always represent the mind’s actual thought process more accurately than any alternative structure",
+              "This concept has no relevance to how narrative technique can shape the reader’s access to a character’s mind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does stream of consciousness often require more active interpretive effort from a reader than a conventionally narrated passage of interior thought?",
+            "options": [
+              "This concept has no relevance to understanding how narrative technique affects a reader’s experience",
+              "Stream of consciousness passages are always easier to follow than conventionally structured narration",
+              "Without the usual signposts of clear syntax and logical transitions, the reader must actively piece together meaning, associations, and emotional undercurrents from a less structured presentation of thought",
+              "This technique requires no interpretive effort, since every thought is presented with complete clarity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Golden Ratio and Its Algebraic Properties",
+        "summary": "Grade 12 Advanced Functions strand: the golden ratio is an irrational number arising as the positive solution to a specific quadratic equation, with the defining algebraic property that it equals one plus its own reciprocal, and it appears repeatedly in geometric and recursive contexts.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
+            "options": [
+              "Quadratic",
+              "A concept unrelated to how the golden ratio is defined",
+              "Trigonometric, an inaccurate description of the type of equation defining the golden ratio",
+              "Logarithmic, an inaccurate description of the type of equation defining the golden ratio"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The golden ratio has the defining algebraic property that it equals one plus its own ___.",
+            "options": [
+              "A concept unrelated to the golden ratio’s key algebraic property",
+              "Negative, an inaccurate description of this defining algebraic relationship",
+              "Square, an inaccurate description of this defining algebraic relationship",
+              "Reciprocal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The golden ratio appears repeatedly in geometric and ___ contexts.",
+            "options": [
+              "A concept entirely unrelated to where the golden ratio commonly appears",
+              "Only chemical, a context unrelated to the golden ratio’s typical mathematical appearances",
+              "Recursive",
+              "Purely financial, a context unrelated to the golden ratio’s typical mathematical appearances"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the golden ratio’s defining property, that it equals one plus its own reciprocal, connect it closely to continued fraction representations?",
+            "options": [
+              "This algebraic property has no connection to how the golden ratio can be expressed in other mathematical forms",
+              "This concept has no relevance to understanding the golden ratio’s mathematical properties",
+              "Substituting this self-referential relationship repeatedly into itself generates an infinite continued fraction made entirely of ones, reflecting the golden ratio’s uniquely simple recursive structure",
+              "The golden ratio has no defined relationship to continued fraction representations of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the golden ratio often cited as connecting algebra, geometry, and sequences such as the Fibonacci numbers?",
+            "options": [
+              "Algebra, geometry, and recursive sequences have no meaningful mathematical relationship to one another",
+              "This concept has no relevance to understanding connections across different branches of mathematics",
+              "The golden ratio has no established connection to geometry or to any recursively defined sequence",
+              "It emerges from a simple quadratic equation, appears in constructions such as the golden rectangle, and is the limiting ratio of consecutive terms in the Fibonacci sequence, linking several distinct areas of mathematics"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Differential Equations -- The Predator-Prey Model",
+        "summary": "Grade 12 Calculus strand: the predator-prey model uses a coupled system of differential equations to describe how the populations of two interacting species change over time, capturing how each population’s growth rate depends on the size of both populations simultaneously.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "The predator-prey model uses a coupled system of differential equations to describe how the populations of ___ interacting species change over time.",
+            "options": [
+              "Four, an inaccurate number of species involved in this classic model",
+              "Two",
+              "Zero, an inaccurate description that would leave no populations to model",
+              "A concept unrelated to how this model is structured"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the predator-prey model, each population’s growth rate depends on the size of ___ populations simultaneously.",
+            "options": [
+              "Only its own, an inaccurate description that ignores the interaction central to this model",
+              "Both",
+              "A concept unrelated to how the two populations influence each other",
+              "Neither, an inaccurate description that would eliminate any interaction between the two species"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The predator-prey model is a system of ___ equations, since the two population equations are linked together.",
+            "options": [
+              "A concept unrelated to how the predator and prey equations relate to each other",
+              "Unrelated, an inaccurate description that would remove any interaction between the two equations",
+              "Entirely independent, an inaccurate description that would remove any interaction between the two equations",
+              "Coupled"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must the predator and prey population equations in this model be solved together as a coupled system, rather than separately?",
+            "options": [
+              "Each population’s rate of change depends explicitly on the size of the other population, so the two equations must be considered simultaneously to accurately capture their interdependent dynamics",
+              "This concept has no relevance to understanding how interacting populations are modelled mathematically",
+              "Solving the two population equations separately always produces the exact same result as solving them together",
+              "The predator and prey populations in this model change completely independently of one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the predator-prey model often cited as a compelling illustration of how differential equations can describe cyclical, oscillating behaviour in a real system?",
+            "options": [
+              "The interdependence between the two populations can produce recurring rises and falls in each population over time, a pattern of sustained oscillation that a system of coupled differential equations is well suited to capture",
+              "This model always predicts that both populations settle immediately into an unchanging, constant value",
+              "This concept has no relevance to understanding how calculus can model dynamic, interacting real-world systems",
+              "Differential equations have no capacity to describe cyclical or oscillating behaviour of any kind"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Aurora Borealis -- Charged Particles and Earth’s Magnetic Field",
+        "summary": "Grade 12 Physics strand: the aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the polar regions, colliding with atmospheric gas atoms and exciting their electrons, which then emit visible light as they return to a lower energy state.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "The aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the ___ regions.",
+            "options": [
+              "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
+              "Polar",
+              "Oceanic, a description unrelated to the magnetic funnelling that produces the aurora",
+              "A concept unrelated to where the aurora is typically observed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the aurora, charged particles collide with atmospheric gas atoms and excite their ___.",
+            "options": [
+              "Protons, particles within the nucleus rather than the ones directly excited in this process",
+              "Neutrons, particles within the nucleus rather than the ones directly excited in this process",
+              "Electrons",
+              "A concept unrelated to what is excited within atmospheric gas atoms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Excited electrons in atmospheric gas atoms emit visible light as they return to a ___ energy state.",
+            "options": [
+              "Higher, an inaccurate description of the direction of this energy transition",
+              "A concept unrelated to how visible light is emitted during this process",
+              "Lower",
+              "Identical, an inaccurate description that would produce no emitted light at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does Earth’s magnetic field cause the aurora to be concentrated near the polar regions rather than appearing uniformly across the entire planet?",
+            "options": [
+              "Earth’s magnetic field lines funnel incoming charged particles from the solar wind toward the magnetic poles, concentrating the resulting atmospheric collisions and light emission in those polar regions",
+              "The aurora is produced with no connection whatsoever to Earth’s magnetic field",
+              "This concept has no relevance to understanding why the aurora is typically observed near polar latitudes",
+              "Earth’s magnetic field has no influence on where charged particles from the solar wind travel within the atmosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do different gases in the atmosphere produce different colours of auroral light?",
+            "options": [
+              "Each type of gas atom has its own characteristic set of energy levels, so the specific wavelengths of light emitted as its excited electrons return to lower energy states depend on which gas is involved",
+              "The colour of light emitted during the aurora has no connection to which specific gas atoms are involved in the collisions",
+              "Every type of atmospheric gas atom produces exactly the same colour of light when its electrons are excited",
+              "This concept has no relevance to understanding the range of colours observed in the aurora"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The Socratic Seminar -- Dialogue as Inquiry",
+        "summary": "Grade 12 English strand: a Socratic seminar is a structured group discussion in which participants pose and respond to open-ended questions about a shared text, building collaboratively on one another’s ideas rather than debating to win, with the facilitator guiding rather than directing the conversation.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "A Socratic seminar is a structured group discussion in which participants pose and respond to ___ questions about a shared text.",
+            "options": [
+              "Open-ended",
+              "Yes-or-no exclusively, a format inconsistent with open inquiry",
+              "Entirely rhetorical, with no expectation of any genuine response",
+              "A concept unrelated to how a Socratic seminar functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Socratic seminar, participants build collaboratively on one another’s ideas rather than debating to ___.",
+            "options": [
+              "Win",
+              "Agree immediately, without any exploration of differing ideas",
+              "Listen, an action the format actively encourages rather than discourages",
+              "A concept unrelated to the seminar’s collaborative purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Socratic seminar, the facilitator guides rather than ___ the conversation.",
+            "options": [
+              "Directs",
+              "Silences, an inaccurate description of the facilitator’s intended role",
+              "Ignores, an inaccurate description of the facilitator’s active but non-dominant role",
+              "A concept unrelated to the facilitator’s role"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a Socratic seminar prioritize open-ended questions over questions with a single correct answer?",
+            "options": [
+              "This concept has no relevance to understanding how structured discussion can deepen textual analysis",
+              "This questioning style has no connection to the goals of a Socratic seminar",
+              "Open-ended questions always shut down further discussion among participants",
+              "Open-ended questions invite multiple interpretations and sustained exploration of a text’s ideas, encouraging genuine collaborative inquiry rather than a search for one predetermined answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a Socratic seminar considered valuable preparation for university-level academic discussion?",
+            "options": [
+              "A Socratic seminar has no connection to the kinds of discussion expected in university courses",
+              "It builds the skills of listening carefully, building on others’ ideas, and articulating textual evidence in real time, all central to seminar-style discussion common in post-secondary study",
+              "This format discourages any engagement with a shared text’s ideas",
+              "This concept has no relevance to developing oral communication skills for further study"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Markov Chains and Transition Matrices",
+        "summary": "Grade 12 Advanced Functions strand: a Markov chain models a system that moves between a finite set of states, where the probability of moving to the next state depends only on the current state, with these probabilities organized into a transition matrix used to project the system’s behaviour forward.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A Markov chain models a system that moves between a finite set of ___.",
+            "options": [
+              "States",
+              "Colours, a concept unrelated to how a Markov chain is structured",
+              "A concept unrelated to this mathematical model",
+              "Constants, a concept unrelated to how a Markov chain is structured"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Markov chain, the probability of moving to the next state depends only on the ___ state.",
+            "options": [
+              "A concept unrelated to how a Markov chain’s probabilities work",
+              "Final, an inaccurate description of this defining memoryless property",
+              "Very first, an inaccurate description of this defining memoryless property",
+              "Current"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The probabilities in a Markov chain are organized into a ___ matrix.",
+            "options": [
+              "Identity, a specific type of matrix unrelated to modelling changing states",
+              "Transition",
+              "A concept unrelated to how a Markov chain’s probabilities are represented",
+              "Zero, a matrix that would represent no possible transitions at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the property that a Markov chain’s next state depends only on its current state, and not on its earlier history, considered a defining simplification of this model?",
+            "options": [
+              "This defining property has no bearing on how a Markov chain’s future states are calculated",
+              "A Markov chain always requires tracking a system’s entire past history to project its future behaviour",
+              "This memoryless property allows the system’s future behaviour to be projected using only the current state and the transition matrix, greatly simplifying calculations compared to tracking a system’s full history",
+              "This concept has no relevance to understanding how this mathematical model is used"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a transition matrix be a useful tool for projecting the long-term behaviour of a system, such as customers moving between competing products over time?",
+            "options": [
+              "Markov chains have no real-world application to modelling systems that change between different states",
+              "A transition matrix has no established use in projecting how a system’s state might change over time",
+              "Repeatedly applying the transition matrix to a current distribution of states projects how that distribution is expected to evolve, revealing long-term trends or a stable equilibrium the system may approach",
+              "This concept has no relevance to using matrices to model changing systems"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Wallis Product -- An Infinite Product for Pi",
+        "summary": "Grade 12 Calculus strand: the Wallis Product expresses pi as the limit of an infinite product of fractions built from even and odd integers, offering a striking early example of how calculus techniques can connect infinite processes to a fundamental constant.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "The Wallis Product expresses pi as the limit of an infinite product of fractions built from even and ___ integers.",
+            "options": [
+              "Odd",
+              "Negative, an inaccurate description of the integers used in the Wallis Product",
+              "A concept unrelated to how the Wallis Product is constructed",
+              "Imaginary, an inaccurate description of the integers used in the Wallis Product"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Wallis Product offers an early example of how calculus techniques can connect infinite processes to a fundamental ___.",
+            "options": [
+              "A concept unrelated to the significance of the Wallis Product",
+              "Variable, an inaccurate description of the fixed quantity the Wallis Product converges toward",
+              "Constant",
+              "Function, an inaccurate description of the fixed numerical quantity the Wallis Product converges toward"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Wallis Product converges toward its value as more and more ___ are included in the product.",
+            "options": [
+              "Colours, a property unrelated to how convergence in the Wallis Product is achieved",
+              "Variables, an inaccurate description since the product is built from specific numerical terms",
+              "Terms",
+              "A concept unrelated to how the Wallis Product approaches its limiting value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is convergence, rather than an exact finite calculation, the relevant concept for understanding how the Wallis Product produces a value related to pi?",
+            "options": [
+              "The Wallis Product can be calculated exactly using only a small, finite number of terms with no need to consider any limiting process",
+              "This concept has no relevance to understanding how infinite processes are evaluated in calculus",
+              "Convergence has no relevance to understanding an infinite product such as the Wallis Product",
+              "The product involves infinitely many terms, so its value is understood as the limit approached by multiplying together more and more of these terms, rather than a result obtained from a finite calculation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the Wallis Product be considered a historically significant result connecting elementary arithmetic to the fundamental constant pi?",
+            "options": [
+              "Pi can never be expressed or approximated using any kind of infinite process",
+              "This concept has no relevance to understanding the historical development of calculus",
+              "It shows that a value as fundamental as pi can emerge from a surprisingly simple pattern built entirely from ordinary integers, foreshadowing the deeper relationships between infinite processes and fundamental constants explored throughout calculus",
+              "The Wallis Product has no established mathematical or historical connection to the constant pi"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Radioactive Dating and the Applications of Half-Life",
+        "summary": "Grade 12 Physics strand: radioactive dating estimates the age of a material by measuring the remaining proportion of a radioactive isotope compared to its stable decay product, using the isotope’s known half-life to calculate how much time has elapsed since the material formed.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Radioactive dating estimates the age of a material by measuring the remaining proportion of a radioactive isotope compared to its stable ___ product.",
+            "options": [
+              "Decay",
+              "Magnetic, a property unrelated to the isotopic comparison used in radioactive dating",
+              "A concept unrelated to how radioactive dating is performed",
+              "Original, an inaccurate description of the comparison used in radioactive dating"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Radioactive dating uses an isotope’s known ___ to calculate how much time has elapsed since a material formed.",
+            "options": [
+              "A concept unrelated to how elapsed time is calculated in radioactive dating",
+              "Colour, a property unrelated to calculating elapsed time in radioactive dating",
+              "Half-life",
+              "Electric charge, a property unrelated to calculating elapsed time in radioactive dating"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A material’s age can be estimated using radioactive dating once the remaining proportion of the original ___ is measured.",
+            "options": [
+              "Volume exclusively, an inaccurate description of the primary measurement used in radioactive dating",
+              "Isotope",
+              "Colour, a property unrelated to the measurement used in radioactive dating",
+              "A concept unrelated to what is measured in radioactive dating"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does knowing an isotope’s half-life allow scientists to calculate the age of a material containing that isotope, rather than only describing how quickly it decays in general?",
+            "options": [
+              "This concept has no relevance to how radioactive dating methods are used to estimate age",
+              "An isotope’s half-life provides no information relevant to calculating how much time has passed since a material formed",
+              "The proportion of a radioactive isotope remaining in a material has no established mathematical relationship to elapsed time",
+              "Since a fixed proportion of a radioactive isotope decays over each successive half-life, measuring how much of the isotope remains allows the number of elapsed half-lives, and therefore the material’s age, to be calculated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is radioactive dating considered a valuable scientific tool across fields such as archaeology and geology?",
+            "options": [
+              "Radioactive dating has no meaningful application to estimating the age of materials studied in archaeology or geology",
+              "It provides a quantitative method for estimating the age of certain materials based on measurable, well-understood decay processes, offering evidence about timescales that cannot be directly observed or witnessed",
+              "This concept has no relevance to understanding how physics principles are applied in other scientific fields",
+              "The decay of radioactive isotopes provides no measurable or useful information about elapsed time"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Testimonio and the Literature of Witness",
+        "summary": "Grade 12 English strand: testimonio is a first-person narrative form in which a speaker recounts direct experience of collective trauma, oppression, or struggle, often collaborating with a writer or editor to transform lived witness into a text that speaks for a broader community rather than an individual alone.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "Testimonio is a first-person narrative form in which a speaker recounts direct experience of collective trauma, oppression, or ___.",
+            "options": [
+              "Leisure, a category of experience unrelated to this narrative form’s typical subject matter",
+              "Entertainment, a category of experience unrelated to this narrative form’s central concerns",
+              "Struggle",
+              "A concept unrelated to testimonio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A testimonio often involves collaboration with a writer or ___ to transform lived witness into a text.",
+            "options": [
+              "Illustrator exclusively, with no connection to the transcription or shaping of spoken testimony",
+              "A concept entirely unrelated to how a testimonio is typically produced",
+              "Editor",
+              "Composer exclusively, a role unrelated to producing a written testimonio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A testimonio speaks for a broader community rather than an individual ___.",
+            "options": [
+              "Only briefly, a description that misrepresents this form’s sustained collective focus",
+              "A concept unrelated to the purpose of this narrative form",
+              "Exclusively, an inaccurate description of testimonio’s collective purpose",
+              "Alone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a testimonio be produced collaboratively between a witness and a writer or editor, rather than written entirely alone by the person who experienced the events?",
+            "options": [
+              "Collaboration between a witness and a writer always removes the witness’s own voice entirely from the resulting text",
+              "The person bearing witness may lack access to publishing resources or writing training, so collaboration can help transform an oral account into a text while preserving the witness’s direct voice and authority",
+              "Testimonio has no connection to the collaborative production of a written narrative",
+              "This concept has no relevance to understanding how this literature of witness is typically created"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is testimonio often studied as distinct from both memoir and journalism, even though it shares features with each?",
+            "options": [
+              "Testimonio is entirely identical to memoir and journalism, with no meaningful distinction between the three forms",
+              "This concept has no relevance to classifying different forms of first-person and documentary writing",
+              "Testimonio centres explicitly on speaking for a broader collective experience of oppression or struggle, a communal purpose that distinguishes it from memoir’s individual focus and journalism’s claim to detached objectivity",
+              "This narrative form has no distinct purpose or defining features of its own"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Diophantine Equations -- Integer Solutions to Polynomial Equations",
+        "summary": "Grade 12 Advanced Functions strand: a Diophantine equation is a polynomial equation for which only integer solutions are sought, a restriction that can make an equation with infinitely many real solutions have only a few integer solutions, or none at all.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A Diophantine equation is a polynomial equation for which only ___ solutions are sought.",
+            "options": [
+              "Integer",
+              "A concept unrelated to this type of equation",
+              "Irrational, a type of solution excluded rather than sought in a Diophantine equation",
+              "Purely imaginary, a type of solution not the focus of a Diophantine equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Restricting a polynomial equation to integer solutions can make an equation with infinitely many real solutions have only a few integer solutions, or ___ at all.",
+            "options": [
+              "Infinitely many, an inaccurate description of how restricting to integers typically affects the solution set",
+              "Exactly one, an overly specific and inaccurate description of every possible outcome",
+              "A concept unrelated to how this restriction affects an equation’s solutions",
+              "None"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Diophantine equations are named after an ancient mathematician who studied equations restricted to ___ solutions.",
+            "options": [
+              "Purely geometric, a description unrelated to the algebraic focus of these equations",
+              "A concept unrelated to the historical origin of this equation type",
+              "Random, a description unrelated to the deliberate restriction defining these equations",
+              "Integer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can restricting a polynomial equation’s solutions to integers dramatically change the nature of the problem compared to allowing any real number solution?",
+            "options": [
+              "Restricting solutions to integers never changes how many solutions a polynomial equation has",
+              "Many equations with a smooth, continuous range of real solutions have only isolated integer points, if any, satisfying the equation exactly, so integer restriction transforms a continuous problem into a much more constrained, discrete one",
+              "Diophantine equations always have exactly the same number of solutions as their real-number counterparts",
+              "This concept has no relevance to understanding how solution restrictions affect an equation’s difficulty"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are Diophantine equations considered a significant area of study within number theory, despite sometimes appearing deceptively simple to state?",
+            "options": [
+              "Diophantine equations are always trivially easy to solve once they are correctly stated",
+              "This concept has no relevance to understanding open or historically significant problems in number theory",
+              "Many Diophantine equations that look elementary have proven extraordinarily difficult to solve or have required centuries of mathematical development to fully understand, revealing deep structure hidden behind a simple-looking statement",
+              "This area of study has no significant history or connection to other developments in mathematics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Divergence and Curl of a Vector Field",
+        "summary": "Grade 12 Calculus strand: divergence measures the extent to which a vector field spreads outward from a given point, while curl measures the extent to which a vector field rotates around that point, together describing two distinct local behaviours of a vector field.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "Divergence measures the extent to which a vector field spreads ___ from a given point.",
+            "options": [
+              "Only inward, an inaccurate and incomplete description of what divergence measures",
+              "A concept unrelated to what divergence describes about a vector field",
+              "Sideways exclusively, an inaccurate description of what divergence measures",
+              "Outward"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Curl measures the extent to which a vector field ___ around a given point.",
+            "options": [
+              "Rotates",
+              "Disappears entirely, an inaccurate description of what curl measures",
+              "Spreads outward exclusively, a description of divergence rather than curl",
+              "A concept unrelated to what curl describes about a vector field"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Divergence and curl together describe two distinct ___ behaviours of a vector field.",
+            "options": [
+              "Financial, a category unrelated to describing a vector field’s behaviour",
+              "Global, a description that does not capture the point-specific nature of these two measures",
+              "A concept unrelated to what divergence and curl describe",
+              "Local"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are divergence and curl considered two distinct, complementary measures of a vector field’s local behaviour, rather than two versions of the same idea?",
+            "options": [
+              "Divergence and curl always describe exactly the same behaviour of a vector field at any given point",
+              "This concept has no relevance to understanding the different ways a vector field can behave locally",
+              "A vector field can only ever exhibit one of these two behaviours, never both simultaneously",
+              "Divergence captures a field’s tendency to expand from or converge toward a point, while curl captures its tendency to rotate around that point, two genuinely different geometric behaviours a vector field can exhibit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding divergence and curl be useful for describing physical phenomena such as fluid flow or electromagnetic fields?",
+            "options": [
+              "Divergence and curl have no established connection to describing physical phenomena such as fluid flow or electromagnetic fields",
+              "This concept has no relevance to applying vector calculus to physical systems",
+              "Physical fields such as fluid flow never exhibit any spreading or rotational behaviour worth describing mathematically",
+              "Divergence can indicate a source or sink of fluid or field lines at a point, while curl can indicate local rotational motion, both physically meaningful properties in fields such as fluid velocity or magnetic fields"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Magnetic Monopoles -- A Hypothetical Particle",
+        "summary": "Grade 12 Physics strand: a magnetic monopole is a hypothetical particle carrying an isolated north or south magnetic pole, unlike every magnet observed so far, which always has both poles together, and its predicted existence remains an open question actively pursued in experimental physics.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "A magnetic monopole is a hypothetical particle carrying an isolated north or south magnetic ___.",
+            "options": [
+              "Field line exclusively, an incomplete description of a magnetic monopole’s defining property",
+              "Charge exclusively, an inaccurate description that conflates magnetic and electric properties",
+              "Pole",
+              "A concept unrelated to what a magnetic monopole is theorized to carry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Every magnet observed so far always has ___ poles together, unlike a hypothetical magnetic monopole.",
+            "options": [
+              "A concept unrelated to the defining property of ordinary magnets",
+              "No, an inaccurate description of ordinary observed magnets",
+              "Both",
+              "Neither, an inaccurate description of ordinary observed magnets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The predicted existence of magnetic monopoles remains an ___ question actively pursued in experimental physics.",
+            "options": [
+              "Entirely irrelevant, an inaccurate description of the current scientific status of this question",
+              "A concept unrelated to the current status of this scientific question",
+              "Fully and permanently resolved, an inaccurate description of the current scientific status of this question",
+              "Open"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the hypothetical existence of a magnetic monopole considered surprising given how ordinary magnets behave?",
+            "options": [
+              "Ordinary magnets have never been observed to have both a north and a south pole simultaneously",
+              "This concept has no relevance to understanding why magnetic monopoles are considered a distinctive hypothetical particle",
+              "A magnetic monopole would behave in exactly the same way as every ordinary magnet observed so far",
+              "Every known magnet, no matter how many times it is divided, always produces a new pair of north and south poles rather than an isolated single pole, so a particle with only one pole would represent a genuinely new kind of magnetic behaviour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do physicists continue to search experimentally for magnetic monopoles despite their consistent absence from observation so far?",
+            "options": [
+              "This concept has no relevance to how physicists evaluate predictions made by theoretical models",
+              "Some theoretical frameworks in physics predict that magnetic monopoles should exist, so their confirmed detection or continued absence provides valuable evidence for evaluating those broader theories",
+              "No theoretical framework in physics has ever predicted the possible existence of magnetic monopoles",
+              "Physicists have already conclusively proven that magnetic monopoles cannot exist under any theoretical framework"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Literary Parody -- Imitation as Critique",
+        "summary": "Grade 12 English strand: a literary parody closely imitates the style, structure, or conventions of an existing text or genre while exaggerating or distorting them for comic or critical effect, requiring the writer to understand the original deeply enough to reproduce its voice before subverting it.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "A literary parody closely imitates the style, structure, or conventions of an existing text or ___.",
+            "options": [
+              "Currency, a concept unrelated to literary imitation",
+              "Genre",
+              "A concept unrelated to this form of writing",
+              "Weather pattern, a concept unrelated to literary imitation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A literary parody exaggerates or distorts an original text’s conventions for comic or ___ effect.",
+            "options": [
+              "Financial, an effect unrelated to a literary text’s purpose",
+              "Critical",
+              "A concept entirely unrelated to the purpose of parody",
+              "Purely accidental, an inaccurate description of a deliberate literary technique"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Writing an effective parody requires understanding the original deeply enough to reproduce its ___ before subverting it.",
+            "options": [
+              "A concept unrelated to how parody is constructed",
+              "Publication date exclusively, a detail unrelated to a text’s stylistic voice",
+              "Voice",
+              "Price, a detail entirely unrelated to a text’s literary qualities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must a writer understand an original text or genre in considerable depth before successfully parodying it?",
+            "options": [
+              "This concept has no relevance to how literary parody is constructed",
+              "Effective parody depends on precisely reproducing recognizable features of the original, so its exaggerations and distortions land as intentional and pointed rather than as simple misunderstanding",
+              "A writer can successfully parody a text without any familiarity with its style or conventions",
+              "Understanding an original text has no bearing on a writer’s ability to imitate or exaggerate its features"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a literary parody function as a form of serious criticism, even though it is often intended to be comic?",
+            "options": [
+              "Comic exaggeration always removes any critical content from a piece of writing",
+              "By exaggerating a text’s or genre’s conventions to the point of absurdity, a parody can expose underlying assumptions, clichés, or weaknesses that a straightforward critique might not make as vivid or memorable",
+              "Parody can never function as a meaningful form of literary or cultural criticism",
+              "This concept has no relevance to understanding the purposes literary parody can serve"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Bézier Curve and Parametric Curve Design",
+        "summary": "Grade 12 Advanced Functions strand: a Bézier curve is a smooth curve defined parametrically using a set of control points, where the curve itself typically does not pass through the interior control points but is shaped by their influence, a technique widely used in computer graphics and font design.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A Bézier curve is a smooth curve defined parametrically using a set of ___ points.",
+            "options": [
+              "Control",
+              "A concept unrelated to how a Bézier curve is defined",
+              "Terminal, an incomplete description that omits the interior points shaping the curve",
+              "Random, an inaccurate description of the deliberately placed points shaping a Bézier curve"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Bézier curve typically does not pass through its interior control points but is shaped by their ___.",
+            "options": [
+              "Influence",
+              "A concept unrelated to the role of interior control points",
+              "Colour, a property unrelated to how control points shape a Bézier curve",
+              "Weight in kilograms, a physical property unrelated to this mathematical construction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bézier curves are widely used in computer graphics and ___ design.",
+            "options": [
+              "Currency, a field unrelated to typical applications of Bézier curves",
+              "Font",
+              "Weather, a field unrelated to typical applications of Bézier curves",
+              "A concept unrelated to common real-world applications of this curve type"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a graphic designer prefer using a Bézier curve, defined by adjustable control points, over manually plotting many individual points to create a smooth curved shape?",
+            "options": [
+              "Bézier curves have no practical advantage over any other method of drawing a curved shape",
+              "Manually plotting individual points always produces a smoother, more easily editable curve than using control points",
+              "This concept has no relevance to how curves are constructed in digital design applications",
+              "Moving just a few control points reshapes the entire curve smoothly and predictably, making a Bézier curve far more efficient and flexible to edit than manually repositioning many individual plotted points"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the parametric definition of a Bézier curve, rather than a direct equation relating x and y, particularly well suited to representing complex curved shapes such as letters in a font?",
+            "options": [
+              "A direct equation relating x and y can represent every possible curved shape just as effectively as a parametric definition",
+              "This concept has no relevance to understanding why certain curve representations are chosen for specific design applications",
+              "Parametric equations have no particular advantage in representing complex or looping curved shapes",
+              "A parametric definition can represent shapes, including ones that loop back on themselves or are not functions of x, more flexibly than a single equation directly relating x and y"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Runge-Kutta Methods -- Numerical Solutions to Differential Equations",
+        "summary": "Grade 12 Calculus strand: Runge-Kutta methods approximate the solution of a differential equation by taking several intermediate slope estimates within each step, combining them into a weighted average that is generally far more accurate than the single-slope estimate used in Euler’s Method.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "Runge-Kutta methods approximate the solution of a differential equation by taking several intermediate ___ estimates within each step.",
+            "options": [
+              "Colour, a property unrelated to how Runge-Kutta methods refine an approximation",
+              "A concept unrelated to how Runge-Kutta methods work",
+              "Slope",
+              "Distance, an inaccurate description of the quantity estimated at each intermediate stage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Runge-Kutta methods combine several intermediate slope estimates into a ___ average.",
+            "options": [
+              "Random, an inaccurate description of how the intermediate estimates are combined",
+              "Unweighted, an inaccurate description that overlooks how these methods emphasize different estimates",
+              "Weighted",
+              "A concept unrelated to how Runge-Kutta methods combine their estimates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Runge-Kutta methods are generally far more ___ than the single-slope estimate used in Euler’s Method.",
+            "options": [
+              "Accurate",
+              "Slow to converge, an inaccurate description of Runge-Kutta’s typical advantage over Euler’s Method",
+              "A concept unrelated to comparing Runge-Kutta methods to Euler’s Method",
+              "Complicated to apply by hand, a true but secondary characteristic rather than this method’s primary advantage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does taking multiple intermediate slope estimates within a single step, rather than just one, generally improve the accuracy of a Runge-Kutta approximation compared to Euler’s Method?",
+            "options": [
+              "The number of slope estimates taken within a step has no bearing on the accuracy of a numerical solution to a differential equation",
+              "Using multiple intermediate slope estimates within a step always produces a less accurate approximation than using a single slope estimate",
+              "This concept has no relevance to comparing different numerical methods for solving differential equations",
+              "Combining several estimates of how the slope changes across a step accounts for curvature within that step more effectively than relying on a single slope value calculated only at its starting point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a more computationally intensive method such as Runge-Kutta be worth the additional calculation compared to the simpler Euler’s Method, especially for equations solved using a computer?",
+            "options": [
+              "A more computationally intensive method never provides any meaningful improvement in the accuracy of a numerical approximation",
+              "Euler’s Method always produces results at least as accurate as any more advanced numerical method",
+              "The improved accuracy from combining multiple slope estimates per step often allows Runge-Kutta methods to use larger step sizes while still producing a reliable approximation, a valuable tradeoff readily handled by computational tools",
+              "This concept has no relevance to choosing an appropriate numerical method for solving differential equations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Tensile Strength, Stress, and Strain -- The Physics of Materials",
+        "summary": "Grade 12 Physics strand: stress describes the internal force per unit area within a material under load, while strain describes the resulting proportional deformation, and a material’s tensile strength is the maximum stress it can withstand before failing.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Stress describes the internal force per unit ___ within a material under load.",
+            "options": [
+              "Colour, a quantity unrelated to how stress within a material is defined",
+              "Time, a quantity unrelated to how stress within a material is defined",
+              "Area",
+              "A concept unrelated to the definition of stress"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Strain describes the resulting proportional ___ of a material under load.",
+            "options": [
+              "Temperature increase exclusively, an inaccurate description of what strain measures",
+              "Electric charge, a quantity unrelated to the definition of strain",
+              "A concept unrelated to the definition of strain",
+              "Deformation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A material’s tensile strength is the maximum ___ it can withstand before failing.",
+            "options": [
+              "Stress",
+              "A concept unrelated to the definition of tensile strength",
+              "Temperature, a quantity unrelated to the definition of tensile strength",
+              "Weight measured in kilograms alone, an incomplete description that does not account for the material’s cross-sectional area"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is stress defined as force per unit area, rather than simply as the total applied force, when analyzing how a material responds to a load?",
+            "options": [
+              "The total applied force alone always provides a complete and sufficient description of how a material will respond to a load",
+              "Defining stress relative to a material’s cross-sectional area allows meaningful comparisons between materials or objects of different sizes, since the same total force can produce very different internal effects depending on how it is distributed",
+              "This concept has no relevance to understanding how stress is defined and applied in materials physics",
+              "Cross-sectional area has no bearing on how a material internally responds to an applied force"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding a material’s tensile strength important in fields such as structural engineering?",
+            "options": [
+              "This concept has no relevance to applying physics principles to real-world material selection",
+              "Structural engineering never requires any consideration of how much stress a material can safely withstand",
+              "A material’s tensile strength has no practical relevance to how it is selected or used in engineering design",
+              "Knowing the maximum stress a material can withstand before failing allows engineers to select materials and dimensions that keep expected loads safely below that failure threshold"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Verse Drama -- Poetry on the Stage",
+        "summary": "Grade 12 English strand: verse drama is a play written substantially or entirely in poetic metre rather than prose dialogue, using the heightened rhythm and compression of verse to intensify emotional stakes and elevate a character’s speech beyond ordinary conversational language.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "Verse drama is a play written substantially or entirely in poetic ___ rather than prose dialogue.",
+            "options": [
+              "Silence, an inaccurate description of a play built around spoken language",
+              "Stage directions exclusively, with no connection to a character’s spoken dialogue",
+              "A concept unrelated to this dramatic form",
+              "Metre"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Verse drama uses the heightened rhythm and compression of verse to intensify emotional ___.",
+            "options": [
+              "A concept entirely unrelated to the effect of poetic dialogue in drama",
+              "Stakes",
+              "Set dimensions, a production detail unrelated to a play’s dialogue",
+              "Costume budgets, a production detail unrelated to a play’s dialogue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Verse drama elevates a character’s speech beyond ordinary conversational ___.",
+            "options": [
+              "Language",
+              "Silence, an inaccurate description of a form built on spoken poetic dialogue",
+              "A concept unrelated to how verse drama functions",
+              "Stage lighting, a technical element unrelated to a character’s spoken lines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a playwright choose verse over prose dialogue for scenes depicting a character’s most intense emotional or philosophical moments?",
+            "options": [
+              "Verse dialogue always makes a character’s emotional or philosophical moments feel less significant than prose would",
+              "Poetic metre has no established effect on how a dramatic moment is experienced by an audience",
+              "This concept has no relevance to understanding the dramatic function of verse",
+              "The compressed rhythm and heightened diction of verse can lend such moments a weight and intensity that ordinary conversational prose might not achieve as effectively"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does performing verse drama require particular attention from actors to rhythm and metre, beyond the demands of naturalistic prose dialogue?",
+            "options": [
+              "The underlying poetic structure carries meaning and emotional emphasis of its own, so honouring the metre’s rhythm while still sounding natural is a distinct performance challenge compared to conversational prose delivery",
+              "Rhythm and metre have no bearing on how a line of verse drama should be performed",
+              "Verse drama places no additional demand on actors beyond what naturalistic prose dialogue requires",
+              "This concept has no relevance to understanding the performance challenges specific to verse drama"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Cantor Set and the Idea of Self-Similarity",
+        "summary": "Grade 12 Advanced Functions strand: the Cantor set is constructed by repeatedly removing the middle third of a line segment, an infinite process that produces a set with no length yet infinitely many points, illustrating the counterintuitive properties that can arise from self-similar, recursively defined structures.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "The Cantor set is constructed by repeatedly removing the ___ third of a line segment.",
+            "options": [
+              "Outer, an inaccurate description of the portion removed at each stage of this construction",
+              "First, an inaccurate description of the portion removed at each stage of this construction",
+              "Middle",
+              "A concept unrelated to how the Cantor set is constructed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The infinite process constructing the Cantor set produces a set with no length yet infinitely many ___.",
+            "options": [
+              "Colours, a property unrelated to describing this counterintuitive mathematical set",
+              "A concept unrelated to the resulting properties of the Cantor set",
+              "Points",
+              "Dimensions in the ordinary geometric sense, a description that oversimplifies this set’s unusual structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Cantor set illustrates the counterintuitive properties that can arise from self-similar, ___ defined structures.",
+            "options": [
+              "Accidentally, an inaccurate description of this deliberately repeated construction process",
+              "A concept unrelated to how the Cantor set’s defining process is described",
+              "Randomly, an inaccurate description of this deliberately repeated construction process",
+              "Recursively"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it considered counterintuitive that the Cantor set has zero total length yet contains infinitely many points?",
+            "options": [
+              "This concept has no relevance to understanding the unusual properties that infinite recursive constructions can produce",
+              "A set that contains infinitely many points must always have a total length greater than zero",
+              "Removing the middle third at every stage shrinks the total remaining length toward zero even as the process continues indefinitely, leaving behind an infinite scattering of points that nonetheless takes up no length at all",
+              "Removing portions of a line segment repeatedly always leaves behind a set with a substantial positive length"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Cantor set often used as an introductory example of a self-similar fractal structure?",
+            "options": [
+              "Zooming into any small piece of the Cantor set reveals a smaller copy of the same overall pattern, illustrating the defining feature of self-similarity in an unusually simple and visualizable way",
+              "Fractal structures can never be meaningfully introduced using a relatively simple recursive construction",
+              "The Cantor set has no self-similar structure of any kind at any scale",
+              "This concept has no relevance to understanding self-similarity as a mathematical idea"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Chain Rule for Multivariable Functions",
+        "summary": "Grade 12 Calculus strand: the multivariable chain rule extends the familiar single-variable chain rule to functions of several variables that each depend on one or more underlying variables, combining partial derivatives to determine how the overall function changes as those underlying variables change.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "The multivariable chain rule extends the familiar single-variable chain rule to functions of several variables that each depend on one or more ___ variables.",
+            "options": [
+              "Financial, a category unrelated to how this rule’s variables are described",
+              "Underlying",
+              "A concept unrelated to how the multivariable chain rule is structured",
+              "Colour-coded, an inaccurate description of the variables involved in this extension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The multivariable chain rule combines ___ derivatives to determine how the overall function changes.",
+            "options": [
+              "A concept unrelated to what the multivariable chain rule combines",
+              "Zero, an inaccurate description that would leave nothing to combine",
+              "Partial",
+              "Only ordinary single-variable, an inaccurate description that overlooks the role of partial derivatives in this rule"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The multivariable chain rule determines how the overall function changes as the underlying variables ___.",
+            "options": [
+              "A concept unrelated to the purpose of this rule",
+              "Change",
+              "Disappear entirely, an inaccurate description of how underlying variables behave",
+              "Remain exactly constant, an inaccurate description that would eliminate any need for a chain rule at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the multivariable chain rule needed when a function depends on several variables that each, in turn, depend on a common underlying variable such as time?",
+            "options": [
+              "Each intermediate variable’s own rate of change with respect to the underlying variable must be accounted for and combined, since the overall function’s total rate of change results from the combined influence of every dependent variable",
+              "A single ordinary derivative is always sufficient to describe how such a function changes with respect to the underlying variable",
+              "This concept has no relevance to understanding how interconnected variables affect a function’s overall rate of change",
+              "The multivariable chain rule has no meaningful connection to functions whose variables each depend on a common underlying variable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the multivariable chain rule considered a natural extension of ideas a Grade 12 Calculus student has already studied, such as partial derivatives and the single-variable chain rule?",
+            "options": [
+              "The multivariable chain rule has no meaningful connection to either partial derivatives or the single-variable chain rule studied earlier",
+              "It combines the earlier idea of isolating one variable’s effect through a partial derivative with the established chain rule pattern of tracking how change propagates through dependent variables, extending both concepts to a more general setting",
+              "Extending previously studied calculus concepts to more general settings is never a meaningful or useful mathematical practice",
+              "This concept has no relevance to building a coherent understanding of calculus across different topics"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Twin Paradox and the Reality of Time Dilation",
+        "summary": "Grade 12 Physics strand: the twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip through space while the other remains on Earth, resulting in the travelling twin ageing less due to the effects of time dilation.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "The twin paradox is a thought experiment in special relativity in which one twin travels at high speed on a round trip while the other remains on ___.",
+            "options": [
+              "A distant, unspecified location with no meaningful comparison point",
+              "A concept unrelated to how this thought experiment is set up",
+              "Earth",
+              "A spacecraft identical to the travelling twin’s, an inaccurate description of the stationary twin’s situation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the twin paradox, the travelling twin ages ___ than the twin who remained on Earth.",
+            "options": [
+              "Less",
+              "A concept unrelated to the predicted outcome of this thought experiment",
+              "Exactly the same amount as, an inaccurate description that would eliminate the paradox’s central result",
+              "More, an inaccurate description of the outcome predicted for the travelling twin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The twin paradox’s outcome results from the effects of ___ predicted by special relativity.",
+            "options": [
+              "Time dilation",
+              "Only ordinary gravity, a concept not central to this particular thought experiment",
+              "Electric charge, a concept unrelated to the physical effect responsible for this outcome",
+              "A concept unrelated to the physical effect responsible for this outcome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the travelling twin in this thought experiment experience less elapsed time than the twin who remains on Earth, according to special relativity?",
+            "options": [
+              "Time dilation predicts that a clock moving at high speed relative to an observer runs more slowly from that observer’s perspective, so the high-speed round trip results in less elapsed time for the travelling twin",
+              "This concept has no relevance to understanding how relative motion affects elapsed time in special relativity",
+              "Time dilation has no established connection to the outcome of the twin paradox thought experiment",
+              "Special relativity predicts that both twins must always experience exactly the same amount of elapsed time regardless of their relative motion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the twin paradox useful for illustrating the counterintuitive predictions of special relativity, even though extreme relativistic speeds are far beyond ordinary human experience?",
+            "options": [
+              "This concept has no relevance to understanding how thought experiments are used to illustrate physical theories",
+              "The twin paradox has no meaningful connection to any prediction made by special relativity",
+              "It translates an abstract mathematical prediction about time dilation into a vivid, concrete scenario involving two comparable observers, making the theory’s striking implications easier to grasp than the underlying equations alone",
+              "Special relativity makes no predictions that differ from ordinary, everyday human experience of time"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Grade 12 English -- Days 71-79 Synthesis",
+        "summary": "Grade 12 English strand review: this lesson revisits the verse novel, the rhetorical analysis essay, historiographic metafiction, and stream of consciousness from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "A verse novel tells an extended narrative using ___ form, most often free verse.",
+            "options": [
+              "Strictly legal, a form unrelated to storytelling",
+              "Poetic",
+              "Purely journalistic, with no connection to imaginative narrative",
+              "A concept unrelated to this literary form"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rhetorical analysis essay examines how a text ___ its audience.",
+            "options": [
+              "Persuades",
+              "Entirely ignores, with no attempt made to influence any reader",
+              "A concept unrelated to this type of essay",
+              "Silences, an inaccurate description of a persuasive text’s purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Historiographic metafiction self-consciously blends invented narrative with documented ___ events.",
+            "options": [
+              "Scientific, a category of event unrelated to this literary mode’s defining focus",
+              "Historical",
+              "Entirely fictional, with no connection to any real historical record",
+              "A concept unrelated to this literary mode"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Stream of consciousness attempts to capture the continuous flow of a character’s thoughts, sensations, and ___ as they occur.",
+            "options": [
+              "Financial transactions exclusively, with no connection to a character’s inner life",
+              "Impressions",
+              "A concept unrelated to this narrative technique",
+              "Physical measurements exclusively, with no connection to a character’s inner experience"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review the verse novel, the rhetorical analysis essay, historiographic metafiction, and stream of consciousness together?",
+            "options": [
+              "Each topic must be learned in complete isolation",
+              "These related English concepts reinforce each other for stronger overall understanding",
+              "Review is never useful in English",
+              "These topics have no connection to each other"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Review: Grade 12 Advanced Functions -- Days 71-79 Synthesis",
+        "summary": "Grade 12 Advanced Functions strand review: this lesson revisits quaternions, the Euclidean algorithm, hypothesis testing, and the golden ratio from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "A quaternion extends the complex numbers by introducing ___ distinct imaginary units.",
+            "options": [
+              "A concept unrelated to how a quaternion is constructed",
+              "Three",
+              "Zero, an inaccurate count that would describe the real numbers instead",
+              "One, an inaccurate count for a quaternion’s imaginary units"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Euclidean algorithm finds the greatest common divisor of two integers by repeatedly replacing the larger number with the ___ of dividing it by the smaller.",
+            "options": [
+              "A concept unrelated to how this algorithm works",
+              "Square root, an inaccurate description of the operation used at each step",
+              "Product, an inaccurate description of the operation used at each step",
+              "Remainder"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Hypothesis testing evaluates whether observed data provide enough evidence to reject an assumed default ___.",
+            "options": [
+              "Claim",
+              "Location, a concept unrelated to statistical evidence",
+              "Colour, a concept unrelated to statistical evidence",
+              "A concept unrelated to hypothesis testing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The golden ratio is an irrational number arising as the positive solution to a specific ___ equation.",
+            "options": [
+              "A concept unrelated to how the golden ratio is defined",
+              "Trigonometric, an inaccurate description of the type of equation defining the golden ratio",
+              "Logarithmic, an inaccurate description of the type of equation defining the golden ratio",
+              "Quadratic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review quaternions, the Euclidean algorithm, hypothesis testing, and the golden ratio together?",
+            "options": [
+              "These topics have no connection to each other",
+              "Review is never useful in math",
+              "Each topic must be learned in complete isolation",
+              "These related math concepts reinforce each other for stronger overall understanding"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Review: Grade 12 Calculus -- Days 71-79 Synthesis",
+        "summary": "Grade 12 Calculus strand review: this lesson revisits partial derivatives, Lagrange multipliers, Simpson’s Rule, and the Bisection Method from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "quiz": [
+          {
+            "q": "A partial derivative measures the rate of change of a function of several variables with respect to one variable at a time, holding all other variables ___.",
+            "options": [
+              "Undefined, an inaccurate description of how the other variables are treated",
+              "Constant",
+              "Equal to zero exclusively, an inaccurate description of how the other variables are treated",
+              "A concept unrelated to how a partial derivative is calculated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The method of Lagrange multipliers finds the maximum or minimum value of a function subject to a specific ___ equation.",
+            "options": [
+              "Quadratic, an inaccurate description of the type of equation involved in this method",
+              "Constraint",
+              "A concept unrelated to how this optimization method is defined",
+              "Trigonometric, an inaccurate description of the type of equation involved in this method"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simpson’s Rule approximates a definite integral by fitting ___ curves through successive groups of points on a function.",
+            "options": [
+              "Parabolic",
+              "A concept unrelated to how Simpson’s Rule works",
+              "Circular, an inaccurate description of the curves used in Simpson’s Rule",
+              "Straight-line, a description of the Trapezoid Rule’s approach rather than Simpson’s Rule"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Bisection Method locates a root of a continuous function by repeatedly ___ an interval known to contain a sign change.",
+            "options": [
+              "Ignoring, an inaccurate description that would prevent the method from converging at all",
+              "Doubling, an inaccurate description of how the interval changes at each step",
+              "A concept unrelated to how the Bisection Method works",
+              "Halving"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review partial derivatives, Lagrange multipliers, Simpson’s Rule, and the Bisection Method together?",
+            "options": [
+              "Each topic must be studied with no connection to the others",
+              "These related calculus techniques reinforce each other for stronger overall understanding",
+              "These topics have no connection to each other",
+              "Review is never useful in calculus"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Review: Grade 12 Physics -- Days 71-79 Synthesis",
+        "summary": "Grade 12 Physics strand review: this lesson revisits gravitational waves, the Higgs boson, antimatter and pair production, and the aurora borealis from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Gravitational waves are ripples in the curvature of ___, predicted by general relativity.",
+            "options": [
+              "Only ordinary matter, an inaccurate description of what gravitational waves ripple through",
+              "Spacetime",
+              "The electromagnetic spectrum exclusively, an inaccurate description of what gravitational waves are",
+              "A concept unrelated to this predicted phenomenon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Higgs boson is a particle associated with the Higgs ___, a field theorized to permeate all of space.",
+            "options": [
+              "Orbit, a concept unrelated to the theoretical framework surrounding the Higgs boson",
+              "Field",
+              "A concept unrelated to the Higgs boson’s theoretical basis",
+              "Circuit, a concept unrelated to the theoretical framework surrounding the Higgs boson"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Antimatter consists of particles with the same mass as their ordinary matter counterparts but opposite electric ___.",
+            "options": [
+              "Temperature, a property unrelated to the defining distinction between matter and antimatter",
+              "Colour, a property unrelated to the defining distinction between matter and antimatter",
+              "A concept unrelated to how antimatter is defined",
+              "Charge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The aurora borealis is produced when charged particles from the solar wind are funnelled by Earth’s magnetic field toward the ___ regions.",
+            "options": [
+              "Polar",
+              "Equatorial, an inaccurate description of where these charged particles are typically funnelled",
+              "Oceanic, a description unrelated to the magnetic funnelling that produces the aurora",
+              "A concept unrelated to where the aurora is typically observed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review gravitational waves, the Higgs boson, antimatter, and the aurora borealis together?",
+            "options": [
+              "These topics have no connection to each other",
+              "Each topic must be studied with no connection to the others",
+              "These related physics concepts reinforce each other for stronger overall understanding",
+              "Review is never useful in physics"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
