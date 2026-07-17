@@ -17032,5 +17032,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Point of View: First-Person, Third-Person Limited, and Omniscient Narration",
+        "summary": "Grade 7 Language strand: point of view describes who is telling a story — first-person narrators use I, third-person limited narrators reveal one character’s thoughts, and third-person omniscient narrators know the thoughts of every character.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A first-person narrator tells a story using ___.",
+            "options": [
+              "No pronouns of any kind",
+              "A concept unrelated to point of view",
+              "Only third-person pronouns like he and she",
+              "Pronouns such as I and we"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A third-person limited narrator reveals the thoughts of ___.",
+            "options": [
+              "A concept unrelated to third-person limited narration",
+              "No character at all",
+              "Every character in the story",
+              "Only one character"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A third-person omniscient narrator ___.",
+            "options": [
+              "Can only describe what one character sees",
+              "Knows the thoughts and feelings of every character",
+              "Has no knowledge of any character’s thoughts",
+              "A concept unrelated to omniscient narration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is told from a first-person point of view?",
+            "options": [
+              "He and she walked toward the house together.",
+              "I walked slowly toward the old house.",
+              "A sentence unrelated to point of view",
+              "She walked slowly toward the old house."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author choose a limited point of view instead of an omniscient one?",
+            "options": [
+              "It can build suspense by keeping some information hidden from the reader",
+              "Omniscient narration always reveals less information than limited narration",
+              "A reason unrelated to point of view",
+              "Point of view never affects how a reader experiences a story"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Circle Graphs (Pie Charts): Constructing and Interpreting",
+        "summary": "Grade 7 Math strand: a circle graph (pie chart) represents data as proportional slices of a circle, where each slice’s size corresponds to its percentage of the whole data set.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A circle graph represents data using ___.",
+            "options": [
+              "A single straight line",
+              "Proportional slices of a circle",
+              "A concept unrelated to circle graphs",
+              "A grid of individual dots"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a circle graph, a larger slice represents ___.",
+            "options": [
+              "A smaller percentage of the total data",
+              "A greater percentage of the total data",
+              "No connection to the data at all",
+              "A concept unrelated to circle graphs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a circle graph shows that 50% of students chose pizza as their favourite food, that slice would take up ___ of the circle.",
+            "options": [
+              "A value unrelated to the calculation",
+              "The entire circle",
+              "A quarter",
+              "Half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A full circle graph always represents ___.",
+            "options": [
+              "A value unrelated to circle graphs",
+              "100% of the data",
+              "0% of the data",
+              "50% of the data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a circle graph be a good choice for displaying survey results?",
+            "options": [
+              "Circle graphs can only display exactly two categories",
+              "Circle graphs never show proportions clearly",
+              "It clearly shows how each category compares as a proportion of the whole",
+              "A reason unrelated to displaying data"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Introduction to Atoms, Elements, and the Periodic Table",
+        "summary": "Grade 7 Science strand: atoms are the basic building blocks of matter, elements are pure substances made of only one type of atom, and the periodic table organizes all known elements by their properties.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "An atom is ___.",
+            "options": [
+              "The basic building block of matter",
+              "A concept unrelated to atoms",
+              "A mixture of two or more substances",
+              "A type of chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An element is a pure substance made of ___.",
+            "options": [
+              "No atoms at all",
+              "Two or more different types of atoms combined",
+              "Only one type of atom",
+              "A concept unrelated to elements"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The periodic table organizes elements by their ___.",
+            "options": [
+              "Colour only",
+              "Properties, such as atomic structure and behaviour",
+              "A concept unrelated to the periodic table",
+              "Alphabetical order only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an element?",
+            "options": [
+              "A substance unrelated to elements",
+              "Oxygen",
+              "Water",
+              "Salt water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the periodic table a useful tool for scientists?",
+            "options": [
+              "The periodic table provides no useful scientific information",
+              "A reason unrelated to the periodic table",
+              "It organizes elements in a way that reveals patterns in their properties",
+              "Elements on the periodic table share no patterns at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Acadian Expulsion (Le Grand Dérangement)",
+        "summary": "Grade 7 Social Studies strand: the Acadian Expulsion, known as Le Grand Dérangement, was the forced removal of thousands of Acadian settlers from their homes by the British in the 1750s.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Acadian Expulsion involved the forced removal of ___.",
+            "options": [
+              "A small group of British soldiers",
+              "Thousands of Acadian settlers from their homes",
+              "No people at all",
+              "A concept unrelated to the Acadian Expulsion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Acadian Expulsion was carried out by ___.",
+            "options": [
+              "A group unrelated to the Acadian Expulsion",
+              "The British",
+              "The French government alone",
+              "Indigenous nations acting alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Le Grand Dérangement took place primarily during the ___.",
+            "options": [
+              "1850s",
+              "A time period unrelated to the Acadian Expulsion",
+              "1750s",
+              "1950s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Many Acadians who were expelled were forced to ___.",
+            "options": [
+              "Remain safely in their original homes",
+              "Immediately return home within days",
+              "Resettle in distant and unfamiliar regions",
+              "A consequence unrelated to the Acadian Expulsion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Acadian Expulsion an important event to study in Canadian history?",
+            "options": [
+              "The Acadian Expulsion had no lasting impact on Canadian history",
+              "A reason unrelated to its historical significance",
+              "This event never actually took place",
+              "It highlights the impact of colonial conflict on the lives of settler communities"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Short Story with a Clear Plot Arc",
+        "summary": "Grade 7 Language strand: a short story with a clear plot arc follows a structure of exposition, rising action, climax, falling action, and resolution to build tension and satisfy the reader.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "The exposition of a story introduces ___.",
+            "options": [
+              "Only the story’s title",
+              "The final resolution of the conflict",
+              "The characters, setting, and initial situation",
+              "A concept unrelated to exposition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The climax of a story is ___.",
+            "options": [
+              "A concept unrelated to a story’s climax",
+              "The very first event in the story",
+              "A part of the story with no importance",
+              "The turning point or moment of highest tension"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rising action refers to the events that ___.",
+            "options": [
+              "Occur only in the story’s final sentence",
+              "Build tension and lead toward the climax",
+              "Happen after the story’s conflict is resolved",
+              "A concept unrelated to rising action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The resolution of a story typically ___.",
+            "options": [
+              "Introduces the main characters for the first time",
+              "Builds tension toward the climax",
+              "A concept unrelated to a story’s resolution",
+              "Shows how the conflict is finally settled"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a clear plot arc useful when writing a short story?",
+            "options": [
+              "It helps organize events so the story builds tension and feels satisfying to readers",
+              "A reason unrelated to writing a short story",
+              "Stories are always more effective with no structure at all",
+              "A plot arc never affects how a story is experienced"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Repeating and Terminating Decimals",
+        "summary": "Grade 7 Math strand: a terminating decimal ends after a finite number of digits, while a repeating decimal has one or more digits that repeat infinitely, and both can result from converting fractions to decimal form.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A terminating decimal is a decimal that ___.",
+            "options": [
+              "Ends after a finite number of digits",
+              "Has no digits after the decimal point",
+              "Repeats the same digits forever",
+              "A concept unrelated to terminating decimals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A repeating decimal is a decimal in which ___.",
+            "options": [
+              "The digits always end after two places",
+              "No digits ever appear after the decimal point",
+              "A concept unrelated to repeating decimals",
+              "One or more digits repeat infinitely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which fraction converts to a terminating decimal?",
+            "options": [
+              "1/3",
+              "1/4",
+              "2/3",
+              "A fraction unrelated to the calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which fraction converts to a repeating decimal?",
+            "options": [
+              "A fraction unrelated to the calculation",
+              "3/4",
+              "1/3",
+              "1/2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to recognize whether a decimal terminates or repeats?",
+            "options": [
+              "This distinction never matters when working with decimals",
+              "All decimals terminate after exactly one digit",
+              "A reason unrelated to decimals",
+              "It helps identify patterns when converting between fractions and decimals"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Static Electricity and Electric Charge",
+        "summary": "Grade 7 Science strand: static electricity builds up when electric charges accumulate on the surface of an object, often due to friction, and can cause objects to attract or repel one another.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Static electricity builds up when ___.",
+            "options": [
+              "A concept unrelated to static electricity",
+              "A magnet is placed near metal",
+              "Electric charges accumulate on the surface of an object",
+              "An object loses all of its mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Static electricity is often caused by ___.",
+            "options": [
+              "A decrease in temperature alone",
+              "Objects being placed in water",
+              "A concept unrelated to static electricity",
+              "Friction between two objects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Objects with the same electric charge will ___ each other.",
+            "options": [
+              "Repel",
+              "Attract",
+              "Have no effect on",
+              "A concept unrelated to electric charge"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Objects with opposite electric charges will ___ each other.",
+            "options": [
+              "Repel",
+              "Attract",
+              "A concept unrelated to electric charge",
+              "Have no effect on"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does rubbing a balloon on hair sometimes cause it to stick to a wall?",
+            "options": [
+              "A reason unrelated to static electricity",
+              "Balloons always stick to walls regardless of electric charge",
+              "The friction transfers electric charge, creating an attraction between the balloon and the wall",
+              "Friction removes all electric charge from the balloon"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Underground Railroad and Its Connection to Canada",
+        "summary": "Grade 7 Social Studies strand: the Underground Railroad was a secret network of routes and safe houses that helped freedom seekers escape enslavement in the United States, with many settling in British North America, including present-day Ontario.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Underground Railroad was a secret network that helped ___.",
+            "options": [
+              "Settlers travel to Europe for trade",
+              "A concept unrelated to the Underground Railroad",
+              "Freedom seekers escape enslavement in the United States",
+              "Soldiers move between military bases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Many freedom seekers who used the Underground Railroad settled in ___.",
+            "options": [
+              "British North America, including present-day Ontario",
+              "A region unrelated to the Underground Railroad",
+              "Regions with no connection to freedom seekers",
+              "The southern United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Underground Railroad relied on ___.",
+            "options": [
+              "A concept unrelated to the Underground Railroad",
+              "Secret routes and safe houses run by helpers along the way",
+              "A single, well-known public road",
+              "Official government railways with public schedules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did British North America become a destination for freedom seekers?",
+            "options": [
+              "British North America required freedom seekers to remain enslaved",
+              "A reason unrelated to the Underground Railroad",
+              "Slavery had been abolished there, offering greater safety and freedom",
+              "British North America had no laws regarding slavery at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Underground Railroad an important part of Canadian history?",
+            "options": [
+              "It highlights Canada’s role as a destination for people escaping enslavement",
+              "This network only ever operated within Canada’s borders",
+              "The Underground Railroad has no connection to Canadian history",
+              "A reason unrelated to its historical significance"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Correcting Pronoun-Antecedent Agreement Errors",
+        "summary": "Grade 7 Language strand: a pronoun must agree in number with its antecedent, the noun it replaces, to avoid confusing or grammatically incorrect sentences.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An antecedent is ___.",
+            "options": [
+              "The noun that a pronoun refers back to",
+              "A verb tense used in formal writing",
+              "A type of punctuation mark",
+              "A concept unrelated to antecedents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence shows correct pronoun-antecedent agreement?",
+            "options": [
+              "The girls packed their bags for the trip.",
+              "The girls packed her bags for the trip.",
+              "The girl packed their bags for the trip.",
+              "A sentence unrelated to pronoun-antecedent agreement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the antecedent is singular, the pronoun that replaces it must also be ___.",
+            "options": [
+              "Singular",
+              "Plural",
+              "Written in all capital letters",
+              "A concept unrelated to pronoun-antecedent agreement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a pronoun-antecedent agreement error?",
+            "options": [
+              "A sentence unrelated to pronoun-antecedent agreement",
+              "The book fell off its shelf and landed on the floor.",
+              "The books fell off their shelf and landed on the floor.",
+              "The book fell off their shelf and landed on the floor."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to match a pronoun with its correct antecedent?",
+            "options": [
+              "It helps readers clearly understand which noun the pronoun is referring to",
+              "Antecedents have no connection to the pronouns used in a sentence",
+              "A reason unrelated to grammar",
+              "Pronoun-antecedent agreement never affects how clear a sentence is"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Cartesian Plane and Plotting in All Four Quadrants",
+        "summary": "Grade 7 Math strand: the Cartesian plane is divided into four quadrants by a horizontal x-axis and vertical y-axis, and each point is located using an ordered pair (x, y).",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "The Cartesian plane is divided into ___ quadrants.",
+            "options": [
+              "Eight",
+              "A number unrelated to the Cartesian plane",
+              "Four",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An ordered pair (x, y) identifies a point’s location using ___.",
+            "options": [
+              "A concept unrelated to ordered pairs",
+              "Its distance along the x-axis and y-axis",
+              "Only its distance from the origin",
+              "The colour of the point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which quadrant would the point (-3, 4) be located?",
+            "options": [
+              "A quadrant unrelated to this point",
+              "The fourth quadrant",
+              "The second quadrant",
+              "The first quadrant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The point where the x-axis and y-axis intersect is called the ___.",
+            "options": [
+              "Vertex",
+              "A term unrelated to the Cartesian plane",
+              "Median",
+              "Origin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Cartesian plane useful in mathematics?",
+            "options": [
+              "It allows points, shapes, and relationships to be represented and analyzed visually",
+              "A reason unrelated to the Cartesian plane",
+              "Points can only be described using words, never a plane",
+              "The Cartesian plane has no practical mathematical use"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Light: Reflection and the Law of Reflection",
+        "summary": "Grade 7 Science strand: reflection occurs when light bounces off a surface, and the law of reflection states that the angle at which light hits a surface equals the angle at which it bounces off.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Reflection occurs when ___.",
+            "options": [
+              "A concept unrelated to reflection",
+              "Light bounces off a surface",
+              "Light is completely absorbed by a surface",
+              "Light bends as it passes through a new material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The law of reflection states that the angle of incidence ___.",
+            "options": [
+              "A concept unrelated to the law of reflection",
+              "Has no relationship to the angle of reflection",
+              "Equals the angle of reflection",
+              "Is always greater than the angle of reflection"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A smooth, shiny surface like a mirror produces a ___ reflection.",
+            "options": [
+              "Completely invisible",
+              "Clear",
+              "A concept unrelated to reflection",
+              "Scattered"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rough surface, such as paper, produces a reflection that is ___.",
+            "options": [
+              "A concept unrelated to reflection off rough surfaces",
+              "Perfectly clear and focused",
+              "Completely absorbed with no light bouncing at all",
+              "Scattered in many directions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can you see your reflection clearly in a mirror but not in a piece of paper?",
+            "options": [
+              "Mirrors do not actually reflect any light",
+              "A mirror’s smooth surface reflects light in an organized way, while paper scatters light in many directions",
+              "A reason unrelated to reflection",
+              "Paper reflects light exactly the same way a mirror does"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Persons Case and Women’s Legal Rights in Canada",
+        "summary": "Grade 7 Social Studies strand: the Persons Case was a 1929 legal ruling that recognized women as “persons” eligible to serve in the Canadian Senate, marking a major milestone in the fight for women’s legal rights.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Persons Case was a legal ruling that recognized women as ___.",
+            "options": [
+              "“Persons” eligible to serve in the Canadian Senate",
+              "Persons only for the purpose of paying taxes",
+              "Ineligible for any political involvement",
+              "A concept unrelated to the Persons Case"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Persons Case was decided in ___.",
+            "options": [
+              "1929",
+              "A year unrelated to the Persons Case",
+              "1982",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before the Persons Case, women were often excluded from ___.",
+            "options": [
+              "All forms of paid employment",
+              "A concept unrelated to the Persons Case",
+              "Serving in the Canadian Senate",
+              "Attending public schools"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The group of women who led the legal challenge in the Persons Case became known as ___.",
+            "options": [
+              "The Confederation Five",
+              "A group unrelated to the Persons Case",
+              "The Famous Five",
+              "The Senate Six"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Persons Case considered a significant milestone in Canadian history?",
+            "options": [
+              "The Persons Case had no effect on women’s rights",
+              "It expanded legal recognition and rights for women in Canadian public life",
+              "A reason unrelated to its historical significance",
+              "The Persons Case reduced legal rights for women"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Etymology and Word Origins",
+        "summary": "Grade 7 Language strand: etymology is the study of where words come from and how their meanings have changed over time, often tracing roots back to languages such as Latin or Greek.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Etymology is the study of ___.",
+            "options": [
+              "How to spell words correctly",
+              "Where words come from and how their meanings have changed over time",
+              "A concept unrelated to etymology",
+              "The grammar rules of a language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many English words trace their origins back to ___.",
+            "options": [
+              "Languages such as Latin or Greek",
+              "Only modern English slang",
+              "A concept unrelated to word origins",
+              "Numbers and mathematical symbols"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Knowing a word’s Greek or Latin root can help a reader ___.",
+            "options": [
+              "Determine the punctuation of a sentence",
+              "Figure out the meaning of unfamiliar related words",
+              "Guess the exact spelling of any word",
+              "A concept unrelated to word origins"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The word biology comes from Greek roots meaning ___.",
+            "options": [
+              "The study of numbers",
+              "The study of ancient buildings",
+              "The study of life",
+              "A meaning unrelated to the word biology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is studying etymology useful for building vocabulary?",
+            "options": [
+              "Word origins never help with understanding vocabulary",
+              "Every word in English has a completely unrelated, unique origin",
+              "A reason unrelated to etymology",
+              "Recognizing common roots helps readers decode the meaning of many unfamiliar words"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Congruence and Symmetry in 2D Shapes",
+        "summary": "Grade 7 Math strand: congruent shapes are identical in size and shape, and a shape has line symmetry if it can be folded along a line so both halves match exactly.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Two shapes are congruent if they are ___.",
+            "options": [
+              "Different in both size and shape",
+              "Identical in size and shape",
+              "Similar in shape but different in size",
+              "A concept unrelated to congruence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A shape has line symmetry if ___.",
+            "options": [
+              "It can be folded along a line so both halves match exactly",
+              "It has more than four sides",
+              "It can never be folded to match on both sides",
+              "A concept unrelated to line symmetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many lines of symmetry does a square have?",
+            "options": [
+              "A number unrelated to the calculation",
+              "Two",
+              "Four",
+              "Zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which shape is an example of two congruent triangles placed together?",
+            "options": [
+              "A rectangle divided in half diagonally",
+              "A single triangle with no division",
+              "A circle with no straight edges",
+              "A shape unrelated to congruent triangles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding congruence and symmetry useful in geometry?",
+            "options": [
+              "A reason unrelated to this topic",
+              "Congruence and symmetry have no practical use in geometry",
+              "All shapes are automatically congruent to one another",
+              "It helps identify relationships and patterns between shapes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Adaptations and Natural Selection: An Introduction",
+        "summary": "Grade 7 Science strand: an adaptation is a trait that helps an organism survive in its environment, and natural selection is the process by which organisms with helpful adaptations are more likely to survive and reproduce.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "An adaptation is a trait that ___.",
+            "options": [
+              "Helps an organism survive in its environment",
+              "Always harms an organism’s chances of survival",
+              "A concept unrelated to adaptations",
+              "Has no effect on an organism’s survival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Natural selection is the process by which ___.",
+            "options": [
+              "Organisms with helpful adaptations are more likely to survive and reproduce",
+              "A concept unrelated to natural selection",
+              "All organisms survive and reproduce equally, regardless of traits",
+              "Organisms lose all of their adaptations over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a physical adaptation?",
+            "options": [
+              "An object with no living characteristics",
+              "A polar bear’s thick fur for insulation in cold climates",
+              "A concept unrelated to physical adaptations",
+              "A rock sitting in a cold climate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A behavioural adaptation is best described as ___.",
+            "options": [
+              "An action an organism takes to help it survive",
+              "A concept unrelated to behavioural adaptations",
+              "A trait with no connection to survival",
+              "A physical body part used for survival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do organisms with helpful adaptations tend to survive and reproduce more successfully over time?",
+            "options": [
+              "All organisms in an environment face identical challenges regardless of traits",
+              "Adaptations never affect an organism’s chances of survival",
+              "Their traits make them better suited to overcome challenges in their environment",
+              "A reason unrelated to natural selection"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The October Crisis and the War Measures Act",
+        "summary": "Grade 7 Social Studies strand: the October Crisis of 1970 was a major political crisis centred in Quebec that led the federal government to invoke the War Measures Act, temporarily suspending certain civil liberties to respond to the emergency.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The October Crisis took place in ___.",
+            "options": [
+              "1970",
+              "A year unrelated to the October Crisis",
+              "1929",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The War Measures Act, when invoked, allowed the federal government to ___.",
+            "options": [
+              "A concept unrelated to the War Measures Act",
+              "Permanently remove a province from Confederation",
+              "Immediately dissolve all provincial governments",
+              "Temporarily suspend certain civil liberties during an emergency"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The October Crisis was centred in the province of ___.",
+            "options": [
+              "British Columbia",
+              "Ontario",
+              "A province unrelated to the October Crisis",
+              "Quebec"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Invoking the War Measures Act during the October Crisis was controversial because it ___.",
+            "options": [
+              "Limited civil liberties that Canadians normally have",
+              "Only applied to citizens outside of Canada",
+              "Had no effect on the rights of Canadian citizens",
+              "A reason unrelated to the controversy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do historians and students study the October Crisis today?",
+            "options": [
+              "The October Crisis has no connection to understanding Canadian history",
+              "This event never actually took place",
+              "A reason unrelated to its historical significance",
+              "It raises important questions about balancing public safety with civil liberties during a crisis"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Cause and Effect Relationships in Text",
+        "summary": "Grade 7 Language strand: identifying cause and effect in a text involves recognizing how one event or action (the cause) leads directly to a result (the effect).",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A cause-and-effect relationship shows how ___.",
+            "options": [
+              "One event leads directly to a result",
+              "A concept unrelated to cause and effect",
+              "A story’s setting connects to its characters",
+              "Two unrelated events happen at the same time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence “Because it rained, the game was cancelled,” the cause is ___.",
+            "options": [
+              "It rained",
+              "A concept unrelated to this sentence",
+              "Neither part of the sentence",
+              "The game was cancelled"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which signal word often introduces an effect in a sentence?",
+            "options": [
+              "A word unrelated to cause and effect",
+              "Similarly",
+              "Therefore",
+              "Meanwhile"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence shows a clear cause-and-effect relationship?",
+            "options": [
+              "She forgot her umbrella, so she got soaked in the rain.",
+              "The umbrella and the raincoat were both new.",
+              "A sentence unrelated to cause and effect",
+              "She has a red umbrella and a blue raincoat."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for readers to identify cause-and-effect relationships in a text?",
+            "options": [
+              "It helps readers understand why events happen and how ideas are connected",
+              "A reason unrelated to reading comprehension",
+              "Every event in a text happens for no reason at all",
+              "Cause-and-effect relationships never help readers understand a text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Constructing and Interpreting Stem-and-Leaf Plots",
+        "summary": "Grade 7 Math strand: a stem-and-leaf plot organizes numerical data by splitting each value into a “stem” (leading digits) and a “leaf” (last digit), making it easy to see the shape and spread of a data set.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "In a stem-and-leaf plot, the “stem” usually represents ___.",
+            "options": [
+              "The leading digit or digits of a value",
+              "The final digit of a value",
+              "The total number of data points",
+              "A concept unrelated to stem-and-leaf plots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “leaf” usually represents ___.",
+            "options": [
+              "The average of all values",
+              "The last digit of a value",
+              "A concept unrelated to stem-and-leaf plots",
+              "The leading digit of a value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the value 47, which digit would typically be the stem?",
+            "options": [
+              "A digit unrelated to the calculation",
+              "7",
+              "4",
+              "47"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "One advantage of a stem-and-leaf plot is that it ___.",
+            "options": [
+              "Only works with exactly two data points",
+              "Displays every individual data value while showing overall patterns",
+              "A concept unrelated to stem-and-leaf plots",
+              "Hides all of the individual data values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a stem-and-leaf plot be useful for analyzing a set of test scores?",
+            "options": [
+              "This type of plot only works with negative numbers",
+              "It shows both the exact scores and the overall distribution at a glance",
+              "Stem-and-leaf plots cannot display exact data values",
+              "A reason unrelated to analyzing data"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Currents and Their Influence on Climate",
+        "summary": "Grade 7 Science strand: ocean currents are large-scale movements of seawater driven by wind, temperature, and salinity differences, and they play a major role in distributing heat and shaping climate around the world.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean currents are large-scale movements of ___.",
+            "options": [
+              "Only surface ice",
+              "Seawater",
+              "A concept unrelated to ocean currents",
+              "Underground freshwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these can drive ocean currents?",
+            "options": [
+              "The colour of the water",
+              "Differences in wind, temperature, and salinity",
+              "The number of fish in the ocean",
+              "A concept unrelated to ocean currents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ocean currents play a major role in ___.",
+            "options": [
+              "Keeping all regions of the world at the exact same temperature",
+              "Preventing any heat from moving through the ocean",
+              "A concept unrelated to ocean currents",
+              "Distributing heat and shaping climate around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A warm ocean current flowing toward a coastal region can cause that region’s climate to be ___.",
+            "options": [
+              "Colder than it would otherwise be",
+              "Completely unaffected by the current",
+              "Milder than it would otherwise be",
+              "A concept unrelated to ocean currents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study ocean currents when trying to understand global climate patterns?",
+            "options": [
+              "Ocean currents move large amounts of heat around the planet, directly influencing regional climates",
+              "A reason unrelated to ocean currents",
+              "Ocean currents have no connection to climate patterns",
+              "Ocean currents only affect a single, isolated location"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Population Pyramids and Demographic Transition",
+        "summary": "Grade 7 Social Studies strand: a population pyramid is a graph showing the age and sex distribution of a population, and demographic transition describes how birth and death rates change as a country develops economically.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "A population pyramid displays a population’s distribution by ___.",
+            "options": [
+              "A concept unrelated to population pyramids",
+              "Age and sex",
+              "Income level only",
+              "Favourite occupations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A population pyramid with a wide base typically indicates ___.",
+            "options": [
+              "A concept unrelated to population pyramids",
+              "No connection to birth rates at all",
+              "A high birth rate and a young population",
+              "A low birth rate and an aging population"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Demographic transition describes how ___.",
+            "options": [
+              "A population’s culture disappears completely",
+              "Birth and death rates change as a country develops economically",
+              "A concept unrelated to demographic transition",
+              "A country’s borders change over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A country with a narrowing pyramid base over time often reflects ___.",
+            "options": [
+              "Rapidly increasing birth rates",
+              "A concept unrelated to population pyramids",
+              "Declining birth rates",
+              "No change in birth rates at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are population pyramids useful tools for geographers and planners?",
+            "options": [
+              "They help predict future needs for schools, healthcare, and other services",
+              "A reason unrelated to population pyramids",
+              "Population pyramids provide no useful information for planning",
+              "Population data never changes over time"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Podcasts and Audio Storytelling",
+        "summary": "Grade 7 Language strand: analyzing podcasts and audio storytelling involves considering how sound effects, music, tone of voice, and pacing are used to inform or engage a listening audience.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Audio storytelling relies on elements such as ___.",
+            "options": [
+              "Only written text with no sound at all",
+              "A concept unrelated to audio storytelling",
+              "Photographs and illustrations only",
+              "Sound effects, music, tone of voice, and pacing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A podcast host’s tone of voice can help convey ___.",
+            "options": [
+              "Nothing useful to the listener",
+              "Emotion and emphasis about the topic being discussed",
+              "Only the exact spelling of words being said",
+              "A concept unrelated to tone of voice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a podcast use background music during a serious moment?",
+            "options": [
+              "A reason unrelated to audio storytelling",
+              "To help set an emotional mood for the listener",
+              "Background music always distracts from the story with no purpose",
+              "Music never affects how a listener feels"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Pacing in a podcast refers to ___.",
+            "options": [
+              "A concept unrelated to pacing",
+              "The length of the podcast’s title",
+              "The speed and rhythm at which information is delivered",
+              "The number of speakers involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to critically analyze podcasts and other audio media?",
+            "options": [
+              "Critical analysis is only useful for written texts, not audio",
+              "A reason unrelated to media literacy",
+              "Audio media never influences how listeners understand a topic",
+              "It helps listeners understand how audio techniques shape their understanding of a topic"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimation Strategies and Rounding for Real-World Problems",
+        "summary": "Grade 7 Math strand: estimation strategies, such as rounding numbers to the nearest ten or hundred, help quickly approximate answers and check whether an exact calculation is reasonable.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Estimation is useful because it helps ___.",
+            "options": [
+              "Always produce the exact correct answer",
+              "A concept unrelated to estimation",
+              "Quickly approximate an answer and check if an exact calculation is reasonable",
+              "Replace the need for exact calculations entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rounded to the nearest ten, 47 becomes ___.",
+            "options": [
+              "A value unrelated to the calculation",
+              "45",
+              "40",
+              "50"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Rounded to the nearest hundred, 342 becomes ___.",
+            "options": [
+              "350",
+              "300",
+              "400",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which situation would benefit most from an estimate rather than an exact answer?",
+            "options": [
+              "A situation unrelated to estimation",
+              "Quickly checking if you have enough money for groceries",
+              "Recording an exact measurement for a science experiment",
+              "Calculating exact change owed at a cash register"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to estimate before solving a problem exactly?",
+            "options": [
+              "Estimating always gives a more accurate result than exact calculation",
+              "Estimating never helps confirm whether an answer makes sense",
+              "It helps identify whether the final exact answer is reasonable",
+              "A reason unrelated to estimation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Scientific Method: Variables and Designing a Fair Test",
+        "summary": "Grade 7 Science strand: a fair test changes only one variable at a time while keeping all other conditions constant, allowing scientists to determine the true cause of a result.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "A fair test changes ___.",
+            "options": [
+              "No variables at all",
+              "A concept unrelated to a fair test",
+              "Every variable at the same time",
+              "Only one variable at a time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The variable that a scientist deliberately changes in an experiment is called the ___.",
+            "options": [
+              "Dependent variable",
+              "Constant variable",
+              "Independent variable",
+              "A concept unrelated to experimental variables"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The variable that is measured or observed as a result of an experiment is called the ___.",
+            "options": [
+              "Independent variable",
+              "Dependent variable",
+              "Controlled variable",
+              "A concept unrelated to experimental variables"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Keeping all other conditions the same during an experiment, except for the one variable being tested, helps ensure ___.",
+            "options": [
+              "A concept unrelated to fair testing",
+              "The experiment will always fail",
+              "The results will always be inaccurate",
+              "The results can be reliably attributed to the variable being tested"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is designing a fair test important in scientific investigations?",
+            "options": [
+              "A reason unrelated to the scientific method",
+              "Fair tests never affect the reliability of an experiment’s results",
+              "Changing multiple variables at once always produces clearer results",
+              "It allows scientists to determine the true cause of a result with confidence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Fair Trade and Ethical Consumerism",
+        "summary": "Grade 7 Social Studies strand: fair trade is a movement that aims to ensure producers in developing countries receive fair prices and working conditions, and ethical consumerism involves making purchasing choices based on their social and environmental impact.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Fair trade aims to ensure that producers in developing countries receive ___.",
+            "options": [
+              "Fair prices and working conditions",
+              "The lowest possible price for their goods",
+              "No compensation for their work",
+              "A concept unrelated to fair trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ethical consumerism involves making purchasing choices based on ___.",
+            "options": [
+              "Random selection with no consideration at all",
+              "A concept unrelated to ethical consumerism",
+              "A product’s social and environmental impact",
+              "Only the lowest possible price"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might be a benefit of buying fair trade products?",
+            "options": [
+              "Supporting better wages and working conditions for producers",
+              "Reducing the quality of products being sold",
+              "A concept unrelated to fair trade products",
+              "Guaranteeing the lowest price for consumers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fair trade certification label on a product is meant to show that ___.",
+            "options": [
+              "The product was made using child labour",
+              "The product has no connection to its country of origin",
+              "The product meets certain standards for fair pricing and labour practices",
+              "A concept unrelated to fair trade certification"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might consumers choose to support fair trade and ethical consumerism?",
+            "options": [
+              "Fair trade products always cost less than other products",
+              "A reason unrelated to fair trade",
+              "To help promote fairer treatment of workers and more sustainable practices globally",
+              "Ethical consumerism has no effect on global trade practices"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Interview Script or Q&A Feature",
+        "summary": "Grade 7 Language strand: an interview script or Q&A feature uses purposeful, open-ended questions to draw out detailed and informative responses from a subject.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "An effective interview question is usually ___.",
+            "options": [
+              "Closed, allowing only a yes or no answer",
+              "A concept unrelated to interview questions",
+              "Completely unrelated to the interview’s topic",
+              "Open-ended, encouraging a detailed response"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of an open-ended interview question?",
+            "options": [
+              "A question unrelated to open-ended interviewing",
+              "Are you busy today?",
+              "What inspired you to pursue this career?",
+              "Do you like your job?"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before conducting an interview, it is helpful to ___.",
+            "options": [
+              "Research the subject and prepare thoughtful questions",
+              "A concept unrelated to interview preparation",
+              "Avoid any preparation at all",
+              "Only ask questions the subject suggests"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Q&A feature typically presents information in the format of ___.",
+            "options": [
+              "A concept unrelated to Q&A features",
+              "A list of unrelated facts with no questions",
+              "A single continuous paragraph with no structure",
+              "Questions followed by the subject’s direct responses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are follow-up questions useful during an interview?",
+            "options": [
+              "A reason unrelated to interviewing",
+              "They allow the interviewer to explore interesting details further",
+              "Interviews are always more effective with no follow-up questions",
+              "Follow-up questions never add useful information"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Theoretical vs. Experimental Probability",
+        "summary": "Grade 7 Math strand: theoretical probability predicts outcomes based on mathematical reasoning, while experimental probability is based on the actual results of repeated trials, and the two may differ.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Theoretical probability is based on ___.",
+            "options": [
+              "Mathematical reasoning about possible outcomes",
+              "Guessing with no reasoning at all",
+              "A concept unrelated to theoretical probability",
+              "The actual results of trials that have occurred"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Experimental probability is based on ___.",
+            "options": [
+              "A concept unrelated to experimental probability",
+              "A single guess with no data",
+              "Mathematical reasoning alone, with no trials",
+              "The actual results of repeated trials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the theoretical probability of rolling a 4 on a fair six-sided die?",
+            "options": [
+              "A value unrelated to the calculation",
+              "4/6",
+              "1/4",
+              "1/6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a coin is flipped 20 times and lands on heads 13 times, the experimental probability of heads is ___.",
+            "options": [
+              "A value unrelated to the calculation",
+              "7/20",
+              "1/2",
+              "13/20"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might experimental probability differ from theoretical probability?",
+            "options": [
+              "Experimental and theoretical probability are always exactly the same",
+              "Theoretical probability is always incorrect",
+              "Random chance can cause actual results to vary from what is mathematically expected",
+              "A reason unrelated to probability"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Resource Management: Forestry and Fisheries",
+        "summary": "Grade 7 Science strand: renewable resource management involves practices such as sustainable forestry and fisheries quotas that allow resources like trees and fish populations to replenish over time.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Renewable resource management aims to ___.",
+            "options": [
+              "Prevent any use of natural resources at all",
+              "Allow resources to replenish over time while still being used",
+              "A concept unrelated to renewable resource management",
+              "Use up resources as quickly as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sustainable forestry practices might include ___.",
+            "options": [
+              "Replanting trees after harvesting",
+              "Removing all trees from a forest with no replanting",
+              "Avoiding any use of forest resources",
+              "A concept unrelated to sustainable forestry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fisheries quota is used to ___.",
+            "options": [
+              "Limit the number of fish that can be caught to protect the population",
+              "A concept unrelated to fisheries quotas",
+              "Remove all fish from a body of water at once",
+              "Encourage catching as many fish as possible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might overfishing be a concern for ocean ecosystems?",
+            "options": [
+              "Overfishing has no effect on fish populations",
+              "It can reduce fish populations faster than they can naturally replenish",
+              "Fish populations always grow regardless of how many are caught",
+              "A reason unrelated to overfishing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is renewable resource management important for both the environment and the economy?",
+            "options": [
+              "Renewable resources never need to be managed carefully",
+              "A reason unrelated to renewable resource management",
+              "Resource management has no connection to the environment or economy",
+              "It helps ensure resources like forests and fisheries remain available for future use"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of Non-Governmental Organizations (NGOs) in Global Issues",
+        "summary": "Grade 7 Social Studies strand: non-governmental organizations (NGOs) are independent groups that work to address global issues such as poverty, health, and human rights, often operating without direct government control.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "A non-governmental organization (NGO) is best described as ___.",
+            "options": [
+              "A for-profit business with no social mission",
+              "A branch of a country’s official government",
+              "An independent group working to address global issues",
+              "A concept unrelated to NGOs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "NGOs often work to address global issues such as ___.",
+            "options": [
+              "A concept unrelated to the work of NGOs",
+              "Poverty, health, and human rights",
+              "Issues unrelated to communities or people",
+              "Only issues within a single company"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of what an NGO might do?",
+            "options": [
+              "Pass new laws for a country",
+              "Control a country’s military",
+              "A concept unrelated to NGO activities",
+              "Provide emergency relief supplies after a natural disaster"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "NGOs typically operate ___.",
+            "options": [
+              "Independently, without direct government control",
+              "As an official part of every national government",
+              "Only within a single city",
+              "A concept unrelated to NGOs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are NGOs important players in addressing global issues?",
+            "options": [
+              "A reason unrelated to their role",
+              "NGOs only operate within one specific country and never globally",
+              "NGOs have no meaningful impact on global issues",
+              "They can mobilize resources and expertise to help communities facing challenges worldwide"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Correct Verb Tense Consistency",
+        "summary": "Grade 7 Language strand: verb tense consistency means keeping the same tense throughout a passage unless a shift in time genuinely requires a change, helping avoid confusing readers.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Verb tense consistency means ___.",
+            "options": [
+              "Keeping the same tense throughout a passage unless a time shift requires a change",
+              "Avoiding verbs altogether in writing",
+              "Using a different tense in every sentence",
+              "A concept unrelated to verb tense consistency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence has a verb tense inconsistency?",
+            "options": [
+              "She walks to the store and buys some milk.",
+              "She walked to the store and buys some milk.",
+              "She walked to the store and bought some milk.",
+              "A sentence unrelated to verb tense"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a paragraph is written in the past tense, most verbs should ___.",
+            "options": [
+              "Also be in the past tense",
+              "Switch randomly to the future tense",
+              "A concept unrelated to verb tense consistency",
+              "Be written with no verbs at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly maintains consistent verb tense?",
+            "options": [
+              "He finishes his homework and then watched a movie.",
+              "He finished his homework and then watched a movie.",
+              "He finished his homework and then watches a movie.",
+              "A sentence unrelated to verb tense consistency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can inconsistent verb tense confuse a reader?",
+            "options": [
+              "Readers always understand a passage the same way regardless of tense",
+              "Verb tense never affects how a reader understands a timeline",
+              "A reason unrelated to grammar",
+              "It makes it unclear when the events in a passage are taking place"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Comparing Loan and Savings Options",
+        "summary": "Grade 7 Math strand: comparing loan and savings options involves evaluating interest rates and terms to determine which option costs less when borrowing or earns more when saving.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "When comparing loans, a lower interest rate generally means ___.",
+            "options": [
+              "A concept unrelated to comparing loans",
+              "No difference in the total amount paid",
+              "Less money paid in interest over time",
+              "More money paid in interest over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When comparing savings accounts, a higher interest rate generally means ___.",
+            "options": [
+              "A concept unrelated to comparing savings accounts",
+              "No difference in the total amount earned",
+              "Less money earned over time",
+              "More money earned over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If Loan A has a 4% interest rate and Loan B has a 7% interest rate on the same amount borrowed, which loan generally costs less overall?",
+            "options": [
+              "Both loans cost exactly the same",
+              "A choice unrelated to the calculation",
+              "Loan A",
+              "Loan B"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The term of a loan refers to ___.",
+            "options": [
+              "The exact amount of money borrowed",
+              "The name of the bank offering the loan",
+              "A concept unrelated to loan terms",
+              "The length of time given to repay it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to compare loan and savings options carefully before choosing one?",
+            "options": [
+              "Comparing these options never affects a person’s finances",
+              "A reason unrelated to financial literacy",
+              "It helps ensure a person pays less in interest or earns more on their savings over time",
+              "All loans and savings accounts offer identical terms"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather Instruments and How Meteorologists Forecast",
+        "summary": "Grade 7 Science strand: meteorologists use instruments such as thermometers, barometers, and anemometers to measure conditions like temperature, air pressure, and wind speed in order to forecast weather.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "A thermometer is used to measure ___.",
+            "options": [
+              "Wind speed",
+              "Air pressure",
+              "Temperature",
+              "An instrument unrelated to thermometers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A barometer is used to measure ___.",
+            "options": [
+              "An instrument unrelated to barometers",
+              "Air pressure",
+              "Temperature",
+              "Humidity only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An anemometer is used to measure ___.",
+            "options": [
+              "An instrument unrelated to anemometers",
+              "Rainfall amounts",
+              "Air pressure",
+              "Wind speed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A sudden drop in air pressure often signals that ___.",
+            "options": [
+              "Clear, sunny weather is guaranteed",
+              "A concept unrelated to air pressure",
+              "Temperature will remain exactly the same",
+              "Stormy weather may be approaching"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do meteorologists rely on multiple instruments to forecast weather?",
+            "options": [
+              "A single instrument always provides a complete and accurate forecast",
+              "A reason unrelated to weather forecasting",
+              "Weather instruments provide no useful information for forecasting",
+              "Combining data on temperature, pressure, and wind gives a more accurate picture of upcoming conditions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Official Languages: French and English Bilingualism",
+        "summary": "Grade 7 Social Studies strand: Canada’s Official Languages Act, passed in 1969, established French and English as the country’s two official languages, reflecting its history and diverse linguistic heritage.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s Official Languages Act established ___ as the country’s official languages.",
+            "options": [
+              "Only English",
+              "A concept unrelated to Canada’s official languages",
+              "English and Spanish",
+              "French and English"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada’s Official Languages Act was passed in ___.",
+            "options": [
+              "1969",
+              "1867",
+              "A year unrelated to the Official Languages Act",
+              "1929"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Official Languages Act reflects Canada’s ___.",
+            "options": [
+              "A concept unrelated to the Official Languages Act",
+              "Complete rejection of its French heritage",
+              "History and diverse linguistic heritage",
+              "Adoption of a single national language only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Under the Official Languages Act, federal government services must generally be available in ___.",
+            "options": [
+              "Only French",
+              "Only Indigenous languages",
+              "A concept unrelated to federal government services",
+              "Both French and English"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada’s bilingual policy significant to its national identity?",
+            "options": [
+              "Bilingualism has no connection to Canadian identity",
+              "The policy eliminated French as an official language",
+              "A reason unrelated to its significance",
+              "It reflects and protects the country’s dual linguistic heritage"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Dialogue for Characterization",
+        "summary": "Grade 7 Language strand: analyzing dialogue for characterization means examining what characters say and how they say it to understand their personality, motivations, and relationships with others.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "Analyzing dialogue for characterization involves examining ___.",
+            "options": [
+              "What characters say and how they say it",
+              "Only the setting described in a story",
+              "A concept unrelated to analyzing dialogue",
+              "The number of paragraphs in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A character’s word choice in dialogue can reveal ___.",
+            "options": [
+              "Nothing about who the character is",
+              "A concept unrelated to word choice in dialogue",
+              "Only the story’s setting",
+              "Their personality, background, or emotional state"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of using dialogue to show a character’s personality?",
+            "options": [
+              "A list of a character’s physical features",
+              "A narrator describing the weather in detail",
+              "A character speaking sharply and interrupting others often",
+              "A concept unrelated to characterization through dialogue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Dialogue tags, such as she whispered or he shouted, can help readers understand ___.",
+            "options": [
+              "The tone or emotion behind a character’s words",
+              "The setting of the story",
+              "A concept unrelated to dialogue tags",
+              "The story’s overall theme"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author give two characters noticeably different speech patterns?",
+            "options": [
+              "To help distinguish their personalities and make them feel distinct",
+              "A reason unrelated to characterization",
+              "Speech patterns never affect how readers view a character",
+              "All characters in a story should sound exactly alike"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Complementary, Supplementary, and Vertical Angle Pairs",
+        "summary": "Grade 7 Math strand: complementary angles add up to 90 degrees, supplementary angles add up to 180 degrees, and vertical angles, formed by intersecting lines, are always equal to each other.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Complementary angles add up to ___.",
+            "options": [
+              "360 degrees",
+              "90 degrees",
+              "A value unrelated to complementary angles",
+              "180 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Supplementary angles add up to ___.",
+            "options": [
+              "180 degrees",
+              "90 degrees",
+              "45 degrees",
+              "A value unrelated to supplementary angles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Vertical angles, formed when two lines intersect, are always ___.",
+            "options": [
+              "Supplementary to each other",
+              "A concept unrelated to vertical angles",
+              "Equal to each other",
+              "Complementary to each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If one angle measures 35 degrees, its complementary angle measures ___.",
+            "options": [
+              "A value unrelated to the calculation",
+              "145 degrees",
+              "65 degrees",
+              "55 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are vertical angles always equal when two lines intersect?",
+            "options": [
+              "A reason unrelated to vertical angles",
+              "They are formed by the same pair of intersecting lines and share the same angle measure by geometric definition",
+              "Vertical angles are always supplementary instead of equal",
+              "Vertical angles are only sometimes equal, depending on the shape"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Friction and Its Effects on Motion",
+        "summary": "Grade 7 Science strand: friction is a force that opposes motion between two surfaces in contact, slowing down or preventing movement depending on how rough or smooth the surfaces are.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Friction is a force that ___.",
+            "options": [
+              "Opposes motion between two surfaces in contact",
+              "Always speeds up motion between two surfaces",
+              "Has no effect on moving objects",
+              "A concept unrelated to friction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Rougher surfaces generally produce ___ friction than smoother surfaces.",
+            "options": [
+              "More",
+              "The exact same amount of",
+              "Less",
+              "A concept unrelated to friction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would likely produce the least friction?",
+            "options": [
+              "Sandpaper",
+              "A rough gravel surface",
+              "A smooth ice surface",
+              "A surface unrelated to this comparison"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do cars use brakes that rely on friction?",
+            "options": [
+              "A reason unrelated to friction",
+              "Friction has no effect on a car’s ability to slow down",
+              "Friction between the brake pads and wheels helps slow the car down",
+              "Brakes work by eliminating all friction on the road"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers try to reduce friction in machines with moving parts?",
+            "options": [
+              "A reason unrelated to friction",
+              "Friction has no effect on how machines wear over time",
+              "Reducing friction always makes a machine less efficient",
+              "Reducing friction can decrease wear and improve the machine’s efficiency"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Manhattan Project and the Dawn of the Nuclear Age",
+        "summary": "Grade 7 Social Studies strand: the Manhattan Project was a major scientific and military effort during World War II that developed the first nuclear weapons, marking the beginning of the nuclear age and changing global politics.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Manhattan Project was a major effort during World War II to develop ___.",
+            "options": [
+              "A new global trade agreement",
+              "A concept unrelated to the Manhattan Project",
+              "The first commercial airplanes",
+              "The first nuclear weapons"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Manhattan Project involved cooperation between ___.",
+            "options": [
+              "Groups with no scientific expertise at all",
+              "A concept unrelated to the Manhattan Project",
+              "Only a single individual working alone",
+              "Scientists, engineers, and government officials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The completion of the Manhattan Project marked the beginning of ___.",
+            "options": [
+              "The end of all international conflict",
+              "A concept unrelated to the Manhattan Project",
+              "A period with no further scientific development",
+              "The nuclear age"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The development of nuclear weapons significantly changed ___.",
+            "options": [
+              "Only local weather patterns",
+              "Global politics and international relations",
+              "Nothing about international relations",
+              "A concept unrelated to the Manhattan Project’s impact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians consider the Manhattan Project a turning point in world history?",
+            "options": [
+              "The Manhattan Project had no lasting effect on world history",
+              "A reason unrelated to its historical significance",
+              "It introduced a powerful new technology that reshaped global politics and security for decades",
+              "The technology developed was never used or referenced again"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Language Skills (Days 71-79)",
+        "summary": "Grade 7 Language strand: this review lesson revisits key ideas from Days 71-79, including point of view, plot arcs, pronoun-antecedent agreement, cause and effect, and interview writing.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "A first-person narrator tells a story using ___.",
+            "options": [
+              "A concept unrelated to point of view",
+              "Pronouns such as I and we",
+              "Only third-person pronouns like he and she",
+              "No pronouns of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An antecedent is ___.",
+            "options": [
+              "A concept unrelated to antecedents",
+              "The noun that a pronoun refers back to",
+              "A type of punctuation mark",
+              "A verb tense used in formal writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A cause-and-effect relationship shows how ___.",
+            "options": [
+              "One event leads directly to a result",
+              "A story’s setting connects to its characters",
+              "Two unrelated events happen at the same time",
+              "A concept unrelated to cause and effect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An effective interview question is usually ___.",
+            "options": [
+              "Completely unrelated to the interview’s topic",
+              "A concept unrelated to interview questions",
+              "Open-ended, encouraging a detailed response",
+              "Closed, allowing only a yes or no answer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review point of view, grammar, cause and effect, and interview writing together?",
+            "options": [
+              "It reinforces how these language skills support clear reading and writing across different formats",
+              "These skills have no connection to each other",
+              "Review never helps strengthen understanding of language",
+              "A reason unrelated to reviewing language skills"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Math Skills (Days 71-79)",
+        "summary": "Grade 7 Math strand: this review lesson revisits key ideas from Days 71-79, including circle graphs, the Cartesian plane, stem-and-leaf plots, and theoretical probability.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "A circle graph represents data using ___.",
+            "options": [
+              "A concept unrelated to circle graphs",
+              "Proportional slices of a circle",
+              "A grid of individual dots",
+              "A single straight line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Cartesian plane is divided into ___ quadrants.",
+            "options": [
+              "Four",
+              "Two",
+              "A number unrelated to the Cartesian plane",
+              "Eight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a stem-and-leaf plot, the “stem” usually represents ___.",
+            "options": [
+              "A concept unrelated to stem-and-leaf plots",
+              "The total number of data points",
+              "The leading digit or digits of a value",
+              "The final digit of a value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Theoretical probability is based on ___.",
+            "options": [
+              "The actual results of trials that have occurred",
+              "Guessing with no reasoning at all",
+              "Mathematical reasoning about possible outcomes",
+              "A concept unrelated to theoretical probability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review data displays, coordinate geometry, probability, and financial literacy together?",
+            "options": [
+              "A reason unrelated to reviewing math",
+              "Review never helps strengthen understanding of math",
+              "It reinforces how these math concepts connect and apply to real-world situations",
+              "These topics have no connection to each other"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Science Skills (Days 71-79)",
+        "summary": "Grade 7 Science strand: this review lesson revisits key ideas from Days 71-79, including atoms and elements, light reflection, ocean currents, and renewable resource management.",
+        "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "An atom is ___.",
+            "options": [
+              "A concept unrelated to atoms",
+              "A mixture of two or more substances",
+              "A type of chemical reaction",
+              "The basic building block of matter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Reflection occurs when ___.",
+            "options": [
+              "Light is completely absorbed by a surface",
+              "Light bends as it passes through a new material",
+              "Light bounces off a surface",
+              "A concept unrelated to reflection"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ocean currents are large-scale movements of ___.",
+            "options": [
+              "Only surface ice",
+              "Seawater",
+              "A concept unrelated to ocean currents",
+              "Underground freshwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Renewable resource management aims to ___.",
+            "options": [
+              "Allow resources to replenish over time while still being used",
+              "Prevent any use of natural resources at all",
+              "A concept unrelated to renewable resource management",
+              "Use up resources as quickly as possible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review matter, light, Earth systems, and resource management together?",
+            "options": [
+              "A reason unrelated to reviewing science",
+              "These topics have no connection to each other",
+              "Review is never useful in science",
+              "It reinforces how these interconnected science concepts help explain the natural world"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Social Studies Skills (Days 71-79)",
+        "summary": "Grade 7 Social Studies strand: this review lesson revisits key ideas from Days 71-79, including the Acadian Expulsion, the Persons Case, population pyramids, and non-governmental organizations.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "The Acadian Expulsion involved the forced removal of ___.",
+            "options": [
+              "Thousands of Acadian settlers from their homes",
+              "No people at all",
+              "A concept unrelated to the Acadian Expulsion",
+              "A small group of British soldiers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Persons Case was a legal ruling that recognized women as ___.",
+            "options": [
+              "Ineligible for any political involvement",
+              "A concept unrelated to the Persons Case",
+              "Persons only for the purpose of paying taxes",
+              "“Persons” eligible to serve in the Canadian Senate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A population pyramid displays a population’s distribution by ___.",
+            "options": [
+              "Favourite occupations",
+              "Age and sex",
+              "Income level only",
+              "A concept unrelated to population pyramids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A non-governmental organization (NGO) is best described as ___.",
+            "options": [
+              "A branch of a country’s official government",
+              "An independent group working to address global issues",
+              "A concept unrelated to NGOs",
+              "A for-profit business with no social mission"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review Canadian history, women’s rights, demographics, and global organizations together?",
+            "options": [
+              "Review is never useful when studying history and demographics",
+              "A reason unrelated to reviewing social studies",
+              "It reinforces how these interconnected historical and civic topics shape Canadian and global society",
+              "These topics have no connection to one another"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
