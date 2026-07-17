@@ -14100,5 +14100,3382 @@
         ]
       }
     ]
+  },
+  {
+    "day": 51,
+    "label": "Day 51 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Regular Past Tense Verbs: Adding -ed",
+        "summary": "Students learn that many verbs show something already happened by adding the ending -ed, such as jump becoming jumped, walk becoming walked, and play becoming played.",
+        "resourceLabel": "YouTube: Regular Past Tense Verbs: Adding -ed",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Regular%20Past%20Tense%20Verbs%3A%20Adding%20-ed%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What ending do we usually add to a verb to show something already happened?",
+            "options": [
+              "-est",
+              "-er",
+              "-ed",
+              "-ing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the past tense of the verb jump?",
+            "options": [
+              "Jumps",
+              "Jumpy",
+              "Jumping",
+              "Jumped"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the past tense of the verb walk?",
+            "options": [
+              "Walker",
+              "Walking",
+              "Walks",
+              "Walked"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses the correct past tense of play?",
+            "options": [
+              "Yesterday I plays outside.",
+              "Yesterday I played outside.",
+              "Yesterday I play outside.",
+              "Yesterday I playing outside."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adding -ed to a verb tells the reader that an action ___.",
+            "options": [
+              "Will happen soon",
+              "Is happening right now",
+              "Already happened",
+              "Never happened"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What ending do we usually add to a verb to show it already happened?",
+            "answers": [
+              "-ed",
+              "ed"
+            ]
+          },
+          {
+            "prompt": "What is the past tense of the verb jump?",
+            "answers": [
+              "jumped"
+            ]
+          },
+          {
+            "prompt": "What is the past tense of the verb walk?",
+            "answers": [
+              "walked"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 3s and 4s",
+        "summary": "Students practice skip counting by 3s and by 4s, extending patterns such as 3, 6, 9, 12 and 4, 8, 12, 16 to build number sense.",
+        "resourceLabel": "YouTube: Skip Counting by 3s and 4s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%203s%20and%204s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Skip count by 3s: 3, 6, 9, ___",
+            "options": [
+              "15",
+              "10",
+              "11",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip count by 4s: 4, 8, 12, ___",
+            "options": [
+              "14",
+              "15",
+              "16",
+              "20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which set of numbers shows skip counting by 3s?",
+            "options": [
+              "5, 10, 15, 20",
+              "4, 8, 12, 16",
+              "3, 6, 9, 12",
+              "2, 4, 6, 8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which set of numbers shows skip counting by 4s?",
+            "options": [
+              "5, 10, 15, 20",
+              "3, 6, 9, 12",
+              "4, 8, 12, 16",
+              "2, 4, 6, 8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Skip counting by 3s and 4s helps us ___.",
+            "options": [
+              "Count in equal groups more quickly",
+              "Read a clock",
+              "Tell time",
+              "Measure length"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Skip count by 3s: 3, 6, 9, ___",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "Skip count by 4s: 4, 8, 12, ___",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
+          },
+          {
+            "prompt": "What number comes next when skip counting by 3s: 9, 12, 15, ___?",
+            "answers": [
+              "18",
+              "eighteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Camouflage: Hiding in Plain Sight",
+        "summary": "Students learn that camouflage happens when the color or pattern of an animal helps it blend into its surroundings, making it harder for predators or prey to see it.",
+        "resourceLabel": "YouTube: Animal Camouflage: Hiding in Plain Sight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Camouflage%3A%20Hiding%20in%20Plain%20Sight%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes an animal blending into its surroundings using color or pattern?",
+            "options": [
+              "Pollination",
+              "Migration",
+              "Hibernation",
+              "Camouflage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an animal use camouflage?",
+            "options": [
+              "To fly faster",
+              "To hide from predators or sneak up on prey",
+              "To change the weather",
+              "To make more noise"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is well known for using camouflage to blend into leaves?",
+            "options": [
+              "A stick insect",
+              "A peacock",
+              "A flamingo",
+              "A penguin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The white fur of a polar bear helps it camouflage in ___.",
+            "options": [
+              "A sandy desert",
+              "A rocky cave",
+              "A green forest",
+              "Snow and ice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Camouflage helps animals survive by ___.",
+            "options": [
+              "Making them harder to see in their habitat",
+              "Making them louder",
+              "Making them run faster",
+              "Making them brighter colors always"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes an animal blending into its surroundings using color or pattern?",
+            "answers": [
+              "camouflage"
+            ]
+          },
+          {
+            "prompt": "Name one reason an animal might use camouflage, like hiding from a predator.",
+            "answers": [
+              "hiding from a predator",
+              "to hide from predators",
+              "to hide from prey"
+            ]
+          },
+          {
+            "prompt": "Name one animal that uses camouflage, like a frog or a stick insect.",
+            "answers": [
+              "a frog",
+              "frog",
+              "a stick insect",
+              "stick insect",
+              "a chameleon",
+              "chameleon"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Notable Canadians and Their Achievements",
+        "summary": "Students learn about notable Canadians from the past and present who made important contributions in fields such as science, sports, and the arts.",
+        "resourceLabel": "YouTube: Notable Canadians and Their Achievements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Notable%20Canadians%20and%20Their%20Achievements%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes a person who is well known for an important contribution?",
+            "options": [
+              "Invisible",
+              "Ordinary",
+              "Silent",
+              "Notable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a field where a notable Canadian might make a contribution?",
+            "options": [
+              "Only traveling",
+              "Only sleeping",
+              "Only eating",
+              "Science, sports, or the arts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to learn about notable Canadians?",
+            "options": [
+              "It helps us understand important achievements and history",
+              "It teaches nothing about Canada",
+              "It has no value at all",
+              "It only teaches math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A notable Canadian scientist might be remembered for ___.",
+            "options": [
+              "An important discovery or invention",
+              "Losing a game",
+              "Staying home all day",
+              "Forgetting their homework"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about people who made a difference can inspire us to ___.",
+            "options": [
+              "Avoid learning new things",
+              "Ignore our community",
+              "Stop trying new things",
+              "Work hard and contribute to our community"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a person who is well known for an important contribution?",
+            "answers": [
+              "notable",
+              "famous"
+            ]
+          },
+          {
+            "prompt": "Name one field where a notable Canadian might make a contribution, like science or sports.",
+            "answers": [
+              "science",
+              "sports",
+              "the arts",
+              "music"
+            ]
+          },
+          {
+            "prompt": "Why do we learn about notable Canadians in social studies?",
+            "answers": [
+              "to learn about their achievements",
+              "to learn about important contributions",
+              "to learn about their achievements and history"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "label": "Day 52 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Capitalization Rules: Names, Places, and Titles",
+        "summary": "Students learn that capital letters are used at the beginning of names of people, places, and titles, such as Sarah, Toronto, and the title of a book.",
+        "resourceLabel": "YouTube: Capitalization Rules: Names, Places, and Titles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Capitalization%20Rules%3A%20Names%2C%20Places%2C%20and%20Titles%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of letter starts the name of a person, like Sarah?",
+            "options": [
+              "A lowercase letter",
+              "A capital letter",
+              "A number",
+              "A silent letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words should start with a capital letter?",
+            "options": [
+              "dog",
+              "the",
+              "and",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses capitalization correctly?",
+            "options": [
+              "my friend sam lives in ottawa.",
+              "My friend Sam lives in Ottawa.",
+              "My Friend sam Lives in ottawa.",
+              "my friend Sam lives in Ottawa."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The first word in the title of a book should begin with a ___.",
+            "options": [
+              "Question mark",
+              "Capital letter",
+              "Number",
+              "Lowercase letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Capitalization rules help readers know that a word is ___.",
+            "options": [
+              "A special name for a person, place, or title",
+              "Always plural",
+              "Always a verb",
+              "Always short"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of letter starts the name of a person?",
+            "answers": [
+              "a capital letter",
+              "capital letter"
+            ]
+          },
+          {
+            "prompt": "Should the name of a city, like Toronto, start with a capital letter?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one type of word that always starts with a capital letter, like a name or a place.",
+            "answers": [
+              "a name",
+              "name",
+              "a place",
+              "place",
+              "a title",
+              "title"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Division: Sharing Equally into Groups",
+        "summary": "Students learn that division means sharing a group of objects equally into smaller groups, such as sharing 12 apples equally among 3 friends so each friend gets 4.",
+        "resourceLabel": "YouTube: Introduction to Division: Sharing Equally into Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Introduction%20to%20Division%3A%20Sharing%20Equally%20into%20Groups%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call splitting a group of objects equally into smaller groups?",
+            "options": [
+              "Multiplication",
+              "Rounding",
+              "Addition",
+              "Division"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you share 12 apples equally among 3 friends, how many apples does each friend get?",
+            "options": [
+              "4",
+              "3",
+              "6",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you share 10 stickers equally between 2 friends, how many stickers does each friend get?",
+            "options": [
+              "5",
+              "10",
+              "2",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you share 8 cookies equally among 4 friends, how many cookies does each friend get?",
+            "options": [
+              "4",
+              "1",
+              "8",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sharing a group of objects equally means each group gets ___.",
+            "options": [
+              "The same amount",
+              "Only one object total",
+              "A different amount each time",
+              "Nothing at all"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you share 12 apples equally among 3 friends, how many apples does each friend get?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "What do we call splitting a group of objects equally into smaller groups?",
+            "answers": [
+              "division",
+              "sharing equally"
+            ]
+          },
+          {
+            "prompt": "If you share 10 stickers equally between 2 friends, how many stickers does each friend get?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Butterfly: Metamorphosis",
+        "summary": "Students learn the life cycle of a butterfly, called metamorphosis, which includes the stages of egg, caterpillar, chrysalis, and adult butterfly.",
+        "resourceLabel": "YouTube: Life Cycle of a Butterfly: Metamorphosis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%3A%20Metamorphosis%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a butterfly life cycle?",
+            "options": [
+              "Egg",
+              "Adult butterfly",
+              "Caterpillar",
+              "Chrysalis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a young butterfly that hatches from an egg and eats leaves?",
+            "options": [
+              "A chick",
+              "A caterpillar",
+              "A cub",
+              "A tadpole"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the stage where a caterpillar forms a hard case and changes shape?",
+            "options": [
+              "Burrow",
+              "Chrysalis",
+              "Nest",
+              "Web"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Put the butterfly life cycle stages in the correct order.",
+            "options": [
+              "Adult butterfly, egg, chrysalis, caterpillar",
+              "Caterpillar, adult butterfly, egg, chrysalis",
+              "Chrysalis, egg, caterpillar, adult butterfly",
+              "Egg, caterpillar, chrysalis, adult butterfly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The complete change in body shape that a butterfly goes through is called ___.",
+            "options": [
+              "Hibernation",
+              "Pollination",
+              "Metamorphosis",
+              "Migration"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a butterfly life cycle?",
+            "answers": [
+              "egg",
+              "an egg"
+            ]
+          },
+          {
+            "prompt": "What do we call a young butterfly that hatches from an egg and eats leaves?",
+            "answers": [
+              "a caterpillar",
+              "caterpillar"
+            ]
+          },
+          {
+            "prompt": "What do we call the changing process a caterpillar goes through inside a chrysalis?",
+            "answers": [
+              "metamorphosis"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Inventions That Changed the World",
+        "summary": "Students learn about inventions created in Canada that changed the way people live, work, and play, such as basketball and insulin.",
+        "resourceLabel": "YouTube: Canadian Inventions That Changed the World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Inventions%20That%20Changed%20the%20World%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes something new that a person creates for the first time?",
+            "options": [
+              "An invention",
+              "A festival",
+              "A tradition",
+              "A landmark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sport was invented by a Canadian named James Naismith?",
+            "options": [
+              "Soccer",
+              "Basketball",
+              "Baseball",
+              "Tennis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are inventions important to a community?",
+            "options": [
+              "They always cause problems",
+              "They can solve problems and make life easier",
+              "They stop people from working",
+              "They have no effect on daily life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Insulin, an important medicine, was discovered by scientists working in which country?",
+            "options": [
+              "Brazil",
+              "Australia",
+              "Egypt",
+              "Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about inventions helps us understand ___.",
+            "options": [
+              "How to play music",
+              "How to grow plants",
+              "How new ideas can improve daily life",
+              "How to bake bread"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one invention or discovery created in Canada, like basketball or insulin.",
+            "answers": [
+              "basketball",
+              "insulin"
+            ]
+          },
+          {
+            "prompt": "What word describes something new that a person creates for the first time?",
+            "answers": [
+              "an invention",
+              "invention"
+            ]
+          },
+          {
+            "prompt": "Why are inventions important to a community?",
+            "answers": [
+              "they solve problems",
+              "they make life easier",
+              "they help people"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "label": "Day 53 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Multiple-Meaning Words",
+        "summary": "Students learn that some words have more than one meaning depending on how they are used in a sentence, such as bat, an animal or something used to hit a ball, and bark, the sound a dog makes or the covering of a tree.",
+        "resourceLabel": "YouTube: Multiple-Meaning Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiple-Meaning%20Words%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a word that has more than one meaning?",
+            "options": [
+              "A multiple-meaning word",
+              "A synonym",
+              "An antonym",
+              "A silent letter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence, the dog began to bark, what does bark mean?",
+            "options": [
+              "A type of boat",
+              "The covering of a tree",
+              "A baseball bat",
+              "The sound a dog makes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence, the bark of the tree was rough, what does bark mean?",
+            "options": [
+              "The covering of a tree",
+              "A flying animal",
+              "A type of ball",
+              "The sound a dog makes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word can mean both an animal and a piece of sports equipment?",
+            "options": [
+              "Dog",
+              "Chair",
+              "Tree",
+              "Bat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To figure out which meaning of a word is being used, readers should ___.",
+            "options": [
+              "Guess without reading",
+              "Look at the other words in the sentence",
+              "Ignore the sentence completely",
+              "Only look at the first letter"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that can mean two different things, like bat or bark.",
+            "answers": [
+              "bat",
+              "bark",
+              "ring",
+              "bank"
+            ]
+          },
+          {
+            "prompt": "In the sentence, the dog began to bark, what does bark mean?",
+            "answers": [
+              "the sound a dog makes",
+              "dog sound",
+              "sound"
+            ]
+          },
+          {
+            "prompt": "In the sentence, we saw a bat flying at night, what does bat mean?",
+            "answers": [
+              "an animal",
+              "animal",
+              "flying animal"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Likely, Unlikely, Certain, and Impossible",
+        "summary": "Students learn to describe the chance of an event happening using the words certain, likely, unlikely, and impossible.",
+        "resourceLabel": "YouTube: Probability: Likely, Unlikely, Certain, and Impossible",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Probability%3A%20Likely%2C%20Unlikely%2C%20Certain%2C%20and%20Impossible%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes an event that will definitely happen?",
+            "options": [
+              "Certain",
+              "Unlikely",
+              "Impossible",
+              "Random"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes an event that can never happen?",
+            "options": [
+              "Probable",
+              "Impossible",
+              "Likely",
+              "Certain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is it certain or unlikely that the sun will rise tomorrow?",
+            "options": [
+              "Impossible",
+              "Unlikely",
+              "Certain",
+              "Random"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is it likely or unlikely that it will snow in Ontario in July?",
+            "options": [
+              "Impossible",
+              "Certain",
+              "Likely",
+              "Unlikely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a bag has only red marbles, picking a blue marble is ___.",
+            "options": [
+              "Likely",
+              "Certain",
+              "Unlikely but possible",
+              "Impossible"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes an event that will definitely happen?",
+            "answers": [
+              "certain"
+            ]
+          },
+          {
+            "prompt": "What word describes an event that will definitely not happen?",
+            "answers": [
+              "impossible"
+            ]
+          },
+          {
+            "prompt": "Is it likely or unlikely that it will snow in July in Ontario?",
+            "answers": [
+              "unlikely"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bones and Muscles: How Our Body Moves",
+        "summary": "Students learn that bones form a skeleton that supports and protects the body, while muscles work with bones to help the body move.",
+        "resourceLabel": "YouTube: Bones and Muscles: How Our Body Moves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bones%20and%20Muscles%3A%20How%20Our%20Body%20Moves%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the frame of bones that supports our body?",
+            "options": [
+              "A skeleton",
+              "A muscle",
+              "An organ",
+              "A joint"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What body part works together with bones to help us move?",
+            "options": [
+              "Skin",
+              "Nails",
+              "Muscles",
+              "Hair"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a job that bones do for the body?",
+            "options": [
+              "Digesting food",
+              "Seeing light",
+              "Protecting organs like the heart and brain",
+              "Pumping blood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where would you find the bones that protect your brain?",
+            "options": [
+              "The hand",
+              "The skull",
+              "The leg",
+              "The arm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Muscles help the body move by ___.",
+            "options": [
+              "Turning into skin",
+              "Pulling on bones to create movement",
+              "Making bones disappear",
+              "Stopping the heart"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the frame of bones inside our body?",
+            "answers": [
+              "a skeleton",
+              "skeleton"
+            ]
+          },
+          {
+            "prompt": "What body part works with bones to help us move?",
+            "answers": [
+              "muscles",
+              "muscle"
+            ]
+          },
+          {
+            "prompt": "Name one job that bones do for our body, like protecting organs.",
+            "answers": [
+              "protecting organs",
+              "support the body",
+              "protect the body"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How We Get Our Water: From Source to Tap",
+        "summary": "Students learn how water travels from lakes and rivers, through a treatment plant that makes it clean, and finally through pipes to homes and schools.",
+        "resourceLabel": "YouTube: How We Get Our Water: From Source to Tap",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20We%20Get%20Our%20Water%3A%20From%20Source%20to%20Tap%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where might the water that reaches our homes first come from?",
+            "options": [
+              "A grocery store",
+              "A cloud only",
+              "A lake or river",
+              "A library"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a place that cleans water so it is safe to drink?",
+            "options": [
+              "A fire station",
+              "A school",
+              "A water treatment plant",
+              "A farm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does clean water usually travel from a treatment plant to our homes?",
+            "options": [
+              "Through underground pipes",
+              "By airplane",
+              "By boat only",
+              "By truck only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to clean water before people drink it?",
+            "options": [
+              "To make it taste like juice",
+              "To remove dirt and germs so it is safe",
+              "To make it colder",
+              "To make it a different color"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Communities build water systems so that people can ___.",
+            "options": [
+              "Never use water at all",
+              "Avoid drinking water completely",
+              "Only use rainwater",
+              "Have safe, clean water for drinking and washing"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place water might come from before it reaches our homes, like a lake or river.",
+            "answers": [
+              "a lake",
+              "lake",
+              "a river",
+              "river"
+            ]
+          },
+          {
+            "prompt": "What do we call a place that cleans water before it reaches our homes?",
+            "answers": [
+              "a treatment plant",
+              "treatment plant",
+              "water treatment plant"
+            ]
+          },
+          {
+            "prompt": "How does clean water travel from a treatment plant to our homes?",
+            "answers": [
+              "through pipes",
+              "pipes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "label": "Day 54 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Using Context Clues to Find Word Meaning",
+        "summary": "Students learn to use context clues, the words and sentences around an unfamiliar word, to figure out what that word probably means.",
+        "resourceLabel": "YouTube: Using Context Clues to Find Word Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Context%20Clues%20to%20Find%20Word%20Meaning%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the words and sentences around an unfamiliar word that help us understand its meaning?",
+            "options": [
+              "Context clues",
+              "Silent letters",
+              "Compound words",
+              "Rhyming words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a sentence says, the enormous elephant was huge and heavy, what does enormous most likely mean?",
+            "options": [
+              "Very small",
+              "Very quiet",
+              "Very fast",
+              "Very big"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should readers use context clues when they find an unfamiliar word?",
+            "options": [
+              "To change the word into a picture",
+              "To figure out its meaning without a dictionary",
+              "To stop reading the book",
+              "To skip the word completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a sentence says, the frigid winter air made her shiver, what does frigid most likely mean?",
+            "options": [
+              "Very bright",
+              "Very loud",
+              "Very cold",
+              "Very hot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Context clues can be found ___.",
+            "options": [
+              "Only in the title of the book",
+              "In the words and sentences near the unfamiliar word",
+              "Only in pictures",
+              "Only in the dictionary"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the words around an unfamiliar word that help us guess its meaning?",
+            "answers": [
+              "context clues"
+            ]
+          },
+          {
+            "prompt": "If a sentence says, the enormous elephant was huge and heavy, what might enormous mean?",
+            "answers": [
+              "very big",
+              "huge",
+              "big"
+            ]
+          },
+          {
+            "prompt": "Why are context clues useful when reading?",
+            "answers": [
+              "they help us understand new words",
+              "help figure out word meaning"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Using a Number Line to Add and Subtract",
+        "summary": "Students learn to use a number line as a tool to add by jumping forward and to subtract by jumping backward.",
+        "resourceLabel": "YouTube: Using a Number Line to Add and Subtract",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20a%20Number%20Line%20to%20Add%20and%20Subtract%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "On a number line, which direction do you jump to add numbers?",
+            "options": [
+              "Backward",
+              "Forward",
+              "You do not move",
+              "Sideways"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a number line, which direction do you jump to subtract numbers?",
+            "options": [
+              "Backward",
+              "Forward",
+              "Upward",
+              "Downward"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Starting at 5 on a number line and jumping forward 3, where do you land?",
+            "options": [
+              "2",
+              "6",
+              "8",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Starting at 10 on a number line and jumping backward 4, where do you land?",
+            "options": [
+              "4",
+              "8",
+              "14",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A number line is a useful tool because it helps us ___.",
+            "options": [
+              "Only measure weight",
+              "Only count coins",
+              "See addition and subtraction as jumps forward or backward",
+              "Only tell time"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a number line, which direction do you jump to add?",
+            "answers": [
+              "forward",
+              "to the right"
+            ]
+          },
+          {
+            "prompt": "On a number line, which direction do you jump to subtract?",
+            "answers": [
+              "backward",
+              "to the left"
+            ]
+          },
+          {
+            "prompt": "Starting at 5 on a number line and jumping forward 3, where do you land?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Phases of the Moon",
+        "summary": "Students learn that the moon appears to change shape in the sky over about a month, moving through phases such as new moon, crescent, half moon, and full moon.",
+        "resourceLabel": "YouTube: The Phases of the Moon",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Phases%20of%20the%20Moon%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the changing shapes of the moon that we see in the sky?",
+            "options": [
+              "Seasons",
+              "Phases of the moon",
+              "Constellations",
+              "Eclipses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which phase of the moon looks like a complete bright circle?",
+            "options": [
+              "New moon",
+              "Crescent moon",
+              "Full moon",
+              "Half moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During a new moon, how much of the moon can we usually see?",
+            "options": [
+              "Very little or none",
+              "The whole moon",
+              "Exactly half",
+              "Three quarters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how long does it take the moon to go through all of its phases?",
+            "options": [
+              "About a week",
+              "About a year",
+              "About a day",
+              "About a month"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The moon appears to change shape because ___.",
+            "options": [
+              "We see different amounts of its sunlit side as it orbits earth",
+              "The moon changes size",
+              "The moon turns a different color",
+              "The moon disappears and reappears"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the changing shapes of the moon we see in the sky?",
+            "answers": [
+              "phases of the moon",
+              "moon phases"
+            ]
+          },
+          {
+            "prompt": "Name one phase of the moon, like full moon or new moon.",
+            "answers": [
+              "full moon",
+              "new moon",
+              "crescent",
+              "half moon"
+            ]
+          },
+          {
+            "prompt": "About how long does it take the moon to go through all its phases?",
+            "answers": [
+              "about a month",
+              "one month",
+              "a month"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Types of Homes Around the World",
+        "summary": "Students learn that people around the world live in many different types of homes, such as apartments, houses, igloos, and huts, often built to suit the climate and resources of their region.",
+        "resourceLabel": "YouTube: Types of Homes Around the World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Types%20of%20Homes%20Around%20the%20World%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a type of home people might live in?",
+            "options": [
+              "An apartment",
+              "A mountain",
+              "A cloud",
+              "A river"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might homes look different in different parts of the world?",
+            "options": [
+              "Different climates and available resources",
+              "All homes are exactly the same everywhere",
+              "Weather does not affect homes",
+              "Homes never change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of home was traditionally built to suit a very cold, snowy climate?",
+            "options": [
+              "A houseboat",
+              "A beach hut",
+              "A treehouse",
+              "An igloo"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a crowded city, many people might choose to live in a ___.",
+            "options": [
+              "A large farm",
+              "An apartment building",
+              "A floating village",
+              "A desert tent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about homes around the world helps us understand ___.",
+            "options": [
+              "How to build roads",
+              "How people adapt to their environment",
+              "How to grow crops",
+              "How to read a map only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one type of home people might live in, like an apartment or a house.",
+            "answers": [
+              "an apartment",
+              "apartment",
+              "a house",
+              "house",
+              "an igloo",
+              "igloo"
+            ]
+          },
+          {
+            "prompt": "Why might homes look different in different parts of the world?",
+            "answers": [
+              "different climates",
+              "different resources",
+              "climate and resources"
+            ]
+          },
+          {
+            "prompt": "Name a type of home built to suit a cold, snowy climate.",
+            "answers": [
+              "an igloo",
+              "igloo"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "label": "Day 55 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Onomatopoeia: Sound Words in Stories",
+        "summary": "Students learn that onomatopoeia words imitate the sound they describe, such as buzz, crash, splash, and pop, adding excitement to writing.",
+        "resourceLabel": "YouTube: Onomatopoeia: Sound Words in Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Onomatopoeia%3A%20Sound%20Words%20in%20Stories%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a word that imitates the sound it describes?",
+            "options": [
+              "An antonym",
+              "Onomatopoeia",
+              "A synonym",
+              "A compound word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words is an example of onomatopoeia?",
+            "options": [
+              "Buzz",
+              "Quickly",
+              "Elephant",
+              "Happy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which onomatopoeia word describes the sound of something falling into water?",
+            "options": [
+              "Pop",
+              "Crash",
+              "Buzz",
+              "Splash"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which onomatopoeia word describes the sound of two objects colliding loudly?",
+            "options": [
+              "Hum",
+              "Splash",
+              "Whisper",
+              "Crash"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Writers use onomatopoeia to ___.",
+            "options": [
+              "Remove all sounds from a story",
+              "Confuse the reader",
+              "Make writing longer only",
+              "Help readers imagine the sounds in a story"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a word that imitates the sound it describes, like buzz or splash?",
+            "answers": [
+              "onomatopoeia"
+            ]
+          },
+          {
+            "prompt": "Name one onomatopoeia word that describes the sound a bee makes.",
+            "answers": [
+              "buzz"
+            ]
+          },
+          {
+            "prompt": "Name one onomatopoeia word that describes the sound something makes when it falls into water.",
+            "answers": [
+              "splash"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Mass with Grams and Kilograms",
+        "summary": "Students learn that mass, or how heavy an object is, can be measured using grams for lighter objects and kilograms for heavier objects.",
+        "resourceLabel": "YouTube: Measuring Mass with Grams and Kilograms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Mass%20with%20Grams%20and%20Kilograms%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What unit would you most likely use to measure the mass of a paperclip?",
+            "options": [
+              "Litres",
+              "Centimetres",
+              "Grams",
+              "Kilograms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What unit would you most likely use to measure the mass of a large dog?",
+            "options": [
+              "Kilograms",
+              "Metres",
+              "Millilitres",
+              "Grams"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is heavier, 1 kilogram or 1 gram?",
+            "options": [
+              "They are equal",
+              "1 gram",
+              "Cannot tell",
+              "1 kilogram"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tool would you use to measure the mass of an object?",
+            "options": [
+              "A thermometer",
+              "A scale",
+              "A ruler",
+              "A clock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mass tells us ___.",
+            "options": [
+              "How hot an object is",
+              "How much liquid an object holds",
+              "How long an object is",
+              "How heavy an object is"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What unit would you use to measure the mass of a light object, like a pencil?",
+            "answers": [
+              "grams",
+              "gram"
+            ]
+          },
+          {
+            "prompt": "What unit would you use to measure the mass of a heavy object, like a dog?",
+            "answers": [
+              "kilograms",
+              "kilogram"
+            ]
+          },
+          {
+            "prompt": "Which is heavier, 1 kilogram or 1 gram?",
+            "answers": [
+              "1 kilogram",
+              "kilogram"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "How Wind and Water Change the Land: Erosion",
+        "summary": "Students learn that erosion happens when wind and water slowly wear away rock and soil, changing the shape of the land over time.",
+        "resourceLabel": "YouTube: How Wind and Water Change the Land: Erosion",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Wind%20and%20Water%20Change%20the%20Land%3A%20Erosion%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call it when wind and water slowly wear away rock and soil?",
+            "options": [
+              "Hibernation",
+              "Erosion",
+              "Migration",
+              "Pollination"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these can cause erosion?",
+            "options": [
+              "Sunlight only",
+              "Silence",
+              "Wind and water",
+              "Colours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Erosion usually happens ___.",
+            "options": [
+              "In one single second",
+              "Only in cities",
+              "Only during the night",
+              "Slowly, over a long period of time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these landforms could be shaped by water erosion over time?",
+            "options": [
+              "A library",
+              "A parking lot",
+              "A river canyon",
+              "A classroom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Planting trees and grass can help reduce erosion because roots ___.",
+            "options": [
+              "Attract more wind",
+              "Hold soil in place",
+              "Stop rain completely",
+              "Make rocks heavier"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when wind and water slowly wear away rock and soil?",
+            "answers": [
+              "erosion"
+            ]
+          },
+          {
+            "prompt": "Name one force of nature that can cause erosion, like wind or water.",
+            "answers": [
+              "wind",
+              "water"
+            ]
+          },
+          {
+            "prompt": "Does erosion happen quickly or slowly, over a long time?",
+            "answers": [
+              "slowly",
+              "over a long time"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Sports and Pastimes",
+        "summary": "Students learn about sports and pastimes enjoyed across Canada, such as hockey, lacrosse, skating, and camping, and how they reflect Canadian culture and geography.",
+        "resourceLabel": "YouTube: Canadian Sports and Pastimes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Sports%20and%20Pastimes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which sport is widely played and watched across Canada, especially in winter?",
+            "options": [
+              "Sumo wrestling",
+              "Bullfighting",
+              "Hockey",
+              "Surfing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sport, often called the national summer sport of Canada, uses a small rubber ball and a net on a long stick?",
+            "options": [
+              "Lacrosse",
+              "Cricket",
+              "Basketball",
+              "Golf"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might winter sports like hockey and skating be popular in many parts of Canada?",
+            "options": [
+              "Because it never snows in Canada",
+              "Because Canada has no winter season",
+              "Because winters are cold with lots of snow and ice",
+              "Because ice never forms in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an outdoor pastime many Canadians enjoy in the summer?",
+            "options": [
+              "Camping",
+              "Ice fishing",
+              "Tobogganing",
+              "Building snow forts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sports and pastimes in a country can reflect its ___.",
+            "options": [
+              "Only its currency",
+              "Only its government",
+              "Culture, climate, and geography",
+              "Only its population size"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one sport that is popular in Canada, like hockey or lacrosse.",
+            "answers": [
+              "hockey",
+              "lacrosse"
+            ]
+          },
+          {
+            "prompt": "Which Canadian sport is often played on ice?",
+            "answers": [
+              "hockey"
+            ]
+          },
+          {
+            "prompt": "Name one outdoor pastime enjoyed in Canada, like camping or skating.",
+            "answers": [
+              "camping",
+              "skating"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "label": "Day 56 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Titles, Headings, and Captions",
+        "summary": "Students learn that text features such as titles, headings, and captions help readers find information and understand what a section of text is about.",
+        "resourceLabel": "YouTube: Text Features: Titles, Headings, and Captions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Titles%2C%20Headings%2C%20and%20Captions%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the words at the top of a book that tell what it is about?",
+            "options": [
+              "A title",
+              "A glossary",
+              "A footnote",
+              "A caption"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a short label under a picture that explains what it shows?",
+            "options": [
+              "A title",
+              "A heading",
+              "A caption",
+              "A table of contents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a word or phrase that introduces a new section in a text?",
+            "options": [
+              "A footnote",
+              "An index",
+              "A caption",
+              "A heading"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are text features like titles and headings helpful to readers?",
+            "options": [
+              "They remove all pictures",
+              "They make books heavier",
+              "They make reading impossible",
+              "They help readers find information quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a text feature?",
+            "options": [
+              "A heading",
+              "A verb",
+              "A syllable",
+              "A vowel"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the words at the top of a book or chapter that tell what it is about?",
+            "answers": [
+              "a title",
+              "title"
+            ]
+          },
+          {
+            "prompt": "What do we call a short label under a picture that explains what it shows?",
+            "answers": [
+              "a caption",
+              "caption"
+            ]
+          },
+          {
+            "prompt": "What do we call a word or phrase that introduces a new section of text?",
+            "answers": [
+              "a heading",
+              "heading"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Capacity with Litres and Millilitres",
+        "summary": "Students learn that capacity, or how much liquid a container can hold, can be measured using millilitres for small amounts and litres for larger amounts.",
+        "resourceLabel": "YouTube: Measuring Capacity with Litres and Millilitres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Capacity%20with%20Litres%20and%20Millilitres%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What unit would you most likely use to measure a small spoonful of liquid?",
+            "options": [
+              "Metres",
+              "Millilitres",
+              "Kilograms",
+              "Litres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What unit would you most likely use to measure the water in a bathtub?",
+            "options": [
+              "Millilitres",
+              "Litres",
+              "Grams",
+              "Centimetres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which holds more liquid, 1 litre or 1 millilitre?",
+            "options": [
+              "1 millilitre",
+              "They are equal",
+              "Cannot tell",
+              "1 litre"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the amount of liquid a container can hold?",
+            "options": [
+              "Mass",
+              "Area",
+              "Capacity",
+              "Perimeter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A large water bottle would most likely be measured in ___.",
+            "options": [
+              "Metres",
+              "Litres",
+              "Kilograms",
+              "Degrees"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What unit would you use to measure a small amount of liquid, like in a spoon?",
+            "answers": [
+              "millilitres",
+              "millilitre"
+            ]
+          },
+          {
+            "prompt": "What unit would you use to measure a large amount of liquid, like in a bathtub?",
+            "answers": [
+              "litres",
+              "litre"
+            ]
+          },
+          {
+            "prompt": "Which holds more liquid, 1 litre or 1 millilitre?",
+            "answers": [
+              "1 litre",
+              "litre"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Static Electricity: Why Balloons Stick to Walls",
+        "summary": "Students learn that static electricity happens when tiny charges build up on an object, such as a balloon rubbed on hair, causing it to stick to a wall or attract small bits of paper.",
+        "resourceLabel": "YouTube: Static Electricity: Why Balloons Stick to Walls",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Static%20Electricity%3A%20Why%20Balloons%20Stick%20to%20Walls%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of electricity builds up when you rub a balloon on your hair?",
+            "options": [
+              "Solar electricity",
+              "Circuit electricity",
+              "Wind electricity",
+              "Static electricity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After rubbing a balloon on your hair, what might the balloon do?",
+            "options": [
+              "Stick to a wall",
+              "Freeze",
+              "Turn into a solid",
+              "Melt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can happen when you rub a balloon on hair and then hold it near small bits of paper?",
+            "options": [
+              "Nothing happens at all",
+              "The paper turns into water",
+              "The paper disappears",
+              "The paper is attracted to the balloon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Static electricity is different from the electricity in a simple circuit because static electricity ___.",
+            "options": [
+              "Never happens outdoors",
+              "Builds up charges that are not flowing in a loop",
+              "Always needs a battery",
+              "Only comes from the sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Rubbing certain materials together can cause tiny charges to ___.",
+            "options": [
+              "Turn into heat only",
+              "Disappear completely",
+              "Build up on their surfaces",
+              "Turn into light only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of electricity builds up when you rub a balloon on your hair?",
+            "answers": [
+              "static electricity",
+              "static"
+            ]
+          },
+          {
+            "prompt": "What can a balloon with static electricity stick to, like a wall?",
+            "answers": [
+              "a wall",
+              "wall"
+            ]
+          },
+          {
+            "prompt": "Name one small object that a balloon with static electricity might attract, like bits of paper.",
+            "answers": [
+              "bits of paper",
+              "paper",
+              "small pieces of paper"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Why People Settle Near Water and Resources",
+        "summary": "Students learn that communities often grow near lakes, rivers, and other resources because water and resources provide food, transportation, and materials people need.",
+        "resourceLabel": "YouTube: Why People Settle Near Water and Resources",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Why%20People%20Settle%20Near%20Water%20and%20Resources%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why do many communities grow near lakes and rivers?",
+            "options": [
+              "Water and resources are easier to access there",
+              "Water is never useful to communities",
+              "Rivers make land colder",
+              "Lakes make travel impossible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a reason people might settle near water?",
+            "options": [
+              "Water stops all travel",
+              "Water makes land disappear",
+              "Water removes all resources",
+              "Water for drinking, farming, and transportation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these resources might attract people to build a community nearby?",
+            "options": [
+              "Empty air only",
+              "Fertile farmland and fresh water",
+              "A place with no water",
+              "A place with no resources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Rivers can help communities by providing a route for ___.",
+            "options": [
+              "Only swimming",
+              "Transportation and trade",
+              "Only fishing tournaments",
+              "Only boating races"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying why communities settle in certain places helps us understand ___.",
+            "options": [
+              "How to build a car",
+              "How to play music",
+              "How to bake bread",
+              "How geography and resources shape where people live"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one resource that might make people want to build a community nearby, like water.",
+            "answers": [
+              "water",
+              "fresh water",
+              "fertile land",
+              "trees"
+            ]
+          },
+          {
+            "prompt": "Why might people build communities near rivers or lakes?",
+            "answers": [
+              "for water",
+              "for transportation",
+              "for water and transportation"
+            ]
+          },
+          {
+            "prompt": "Name one thing water provides for a community, like transportation or drinking water.",
+            "answers": [
+              "transportation",
+              "drinking water",
+              "water for farming"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "label": "Day 57 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Purpose for Writing: Inform, Entertain, or Persuade",
+        "summary": "Students learn that writers have a purpose for writing, such as to inform readers with facts, to entertain readers with a fun story, or to persuade readers to agree with an idea.",
+        "resourceLabel": "YouTube: Purpose for Writing: Inform, Entertain, or Persuade",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Purpose%20for%20Writing%3A%20Inform%2C%20Entertain%2C%20or%20Persuade%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of writing that gives readers facts and information?",
+            "options": [
+              "To entertain",
+              "To inform",
+              "To rhyme",
+              "To persuade"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of writing a funny story or an adventure tale?",
+            "options": [
+              "To entertain",
+              "To persuade",
+              "To measure",
+              "To inform"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of writing that tries to convince readers to agree with an idea?",
+            "options": [
+              "To persuade",
+              "To inform",
+              "To entertain",
+              "To describe only colours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A weather report that shares facts about the weather tomorrow is meant to ___.",
+            "options": [
+              "Entertain",
+              "Persuade",
+              "Inform",
+              "Confuse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A poster that says, recycle to help our planet, is trying to ___.",
+            "options": [
+              "Only entertain readers",
+              "Confuse the reader",
+              "Persuade readers to take action",
+              "Only inform readers with numbers"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the purpose of writing when the goal is to give readers facts?",
+            "answers": [
+              "to inform",
+              "inform"
+            ]
+          },
+          {
+            "prompt": "What is the purpose of writing when the goal is to make readers laugh or enjoy a story?",
+            "answers": [
+              "to entertain",
+              "entertain"
+            ]
+          },
+          {
+            "prompt": "What is the purpose of writing when the goal is to convince readers to agree with an idea?",
+            "answers": [
+              "to persuade",
+              "persuade"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Money Amounts and Making Combinations",
+        "summary": "Students learn to compare different amounts of money to see which is greater, and to find different combinations of coins that add up to the same amount.",
+        "resourceLabel": "YouTube: Comparing Money Amounts and Making Combinations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Money%20Amounts%20and%20Making%20Combinations%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which is worth more, 3 quarters or 2 dimes?",
+            "options": [
+              "Cannot tell",
+              "They are equal",
+              "2 dimes",
+              "3 quarters"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which combination of coins adds up to 15 cents?",
+            "options": [
+              "A dime and a nickel",
+              "One nickel",
+              "Two quarters",
+              "Three dimes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many cents is 1 quarter worth?",
+            "options": [
+              "10 cents",
+              "1 cent",
+              "25 cents",
+              "5 cents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which amount of money is greater, 45 cents or 4 dimes?",
+            "options": [
+              "They are equal",
+              "45 cents",
+              "Cannot tell",
+              "4 dimes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing money amounts helps us know ___.",
+            "options": [
+              "How to measure length",
+              "How to weigh objects",
+              "How to tell time",
+              "Which amount is worth more or less"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which is worth more, 3 quarters or 2 dimes?",
+            "answers": [
+              "3 quarters",
+              "three quarters"
+            ]
+          },
+          {
+            "prompt": "Name two coins that could add up to 15 cents.",
+            "answers": [
+              "a dime and a nickel",
+              "dime and nickel"
+            ]
+          },
+          {
+            "prompt": "If you have 1 quarter, how many cents do you have?",
+            "answers": [
+              "25",
+              "25 cents"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Protecting Endangered Animals",
+        "summary": "Students learn that an endangered animal is one that is at risk of disappearing forever, and that people can help protect these animals by preserving habitats and reducing pollution.",
+        "resourceLabel": "YouTube: Protecting Endangered Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Protecting%20Endangered%20Animals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What word describes an animal that is at risk of disappearing forever?",
+            "options": [
+              "Domestic",
+              "Migratory",
+              "Nocturnal",
+              "Endangered"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these can help protect endangered animals?",
+            "options": [
+              "Cutting down more forests",
+              "Ignoring the problem",
+              "Increasing pollution",
+              "Preserving their habitats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of an endangered animal?",
+            "options": [
+              "A pet goldfish",
+              "A giant panda",
+              "A farm cow",
+              "A house cat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an animal become endangered?",
+            "options": [
+              "Eating too much food",
+              "Losing its habitat or being hunted too much",
+              "Having too many babies",
+              "Living too long"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Protecting endangered animals is important because ___.",
+            "options": [
+              "It makes habitats disappear faster",
+              "It has no effect on nature",
+              "It only helps people, not animals",
+              "It helps keep nature balanced and healthy for the future"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes an animal that is at risk of disappearing forever?",
+            "answers": [
+              "endangered"
+            ]
+          },
+          {
+            "prompt": "Name one way people can help protect endangered animals, like preserving habitats.",
+            "answers": [
+              "preserving habitats",
+              "protecting habitats",
+              "reducing pollution"
+            ]
+          },
+          {
+            "prompt": "Name one endangered animal, like a panda or a sea turtle.",
+            "answers": [
+              "a panda",
+              "panda",
+              "a sea turtle",
+              "sea turtle"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "History of Money: From Trading to Coins",
+        "summary": "Students learn that before coins and bills existed, people traded goods directly, called bartering, and over time societies developed coins and paper money to make trading easier.",
+        "resourceLabel": "YouTube: History of Money: From Trading to Coins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=History%20of%20Money%3A%20From%20Trading%20to%20Coins%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call it when people trade goods directly without using money?",
+            "options": [
+              "Borrowing",
+              "Bartering",
+              "Saving",
+              "Investing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Before coins and paper money existed, how did people usually get the things they needed?",
+            "options": [
+              "By using the internet",
+              "By using credit cards",
+              "By trading goods directly with each other",
+              "By using cheques"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did societies eventually begin using coins instead of only trading goods?",
+            "options": [
+              "Coins made trading easier and fairer",
+              "Coins made trading impossible",
+              "Coins were heavier than goods",
+              "Coins removed the need for goods"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What were some of the first types of money often made from?",
+            "options": [
+              "Plastic cards",
+              "Wood only",
+              "Metal, shaped into coins",
+              "Paper only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about the history of money helps us understand ___.",
+            "options": [
+              "How to read a map",
+              "How to grow crops",
+              "How to build houses",
+              "How trading and money have changed over time"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when people trade goods directly without using money?",
+            "answers": [
+              "bartering",
+              "trading goods"
+            ]
+          },
+          {
+            "prompt": "What did people use before coins and paper money existed?",
+            "answers": [
+              "bartering",
+              "trading goods",
+              "trading"
+            ]
+          },
+          {
+            "prompt": "Why did societies eventually start using coins instead of only bartering?",
+            "answers": [
+              "to make trading easier",
+              "easier trading"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "label": "Day 58 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Theme: The Lesson Behind a Story",
+        "summary": "Students learn that a theme is the main lesson or message of a story, often about kindness, honesty, or working hard, that readers can apply to their own lives.",
+        "resourceLabel": "YouTube: Story Theme: The Lesson Behind a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Theme%3A%20The%20Lesson%20Behind%20a%20Story%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the main lesson or message of a story?",
+            "options": [
+              "Theme",
+              "Setting",
+              "Character",
+              "Caption"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common theme found in stories?",
+            "options": [
+              "The book title only",
+              "The exact page number",
+              "The font used",
+              "Kindness matters"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is theme different from plot?",
+            "options": [
+              "Theme and plot are the same thing",
+              "Plot is the lesson, theme is the setting",
+              "Theme is only a picture",
+              "Theme is the lesson, plot is the sequence of events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a story where a slow turtle wins a race by trying hard, a likely theme is ___.",
+            "options": [
+              "Fast animals always win",
+              "Racing is dangerous",
+              "Hard work and patience can lead to success",
+              "Turtles cannot move"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Finding the theme of a story helps readers ___.",
+            "options": [
+              "Skip the ending",
+              "Avoid thinking about the story",
+              "Understand a lesson they can apply to their own lives",
+              "Forget the story quickly"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the main lesson or message of a story?",
+            "answers": [
+              "theme",
+              "the theme"
+            ]
+          },
+          {
+            "prompt": "Name one common story theme, like kindness or honesty.",
+            "answers": [
+              "kindness",
+              "honesty",
+              "hard work",
+              "friendship"
+            ]
+          },
+          {
+            "prompt": "How is a theme different from the plot of a story?",
+            "answers": [
+              "theme is the lesson",
+              "theme is the message, plot is what happens"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Sorting 3D Objects by Attributes",
+        "summary": "Students learn to sort three-dimensional objects, such as cubes, spheres, cones, and cylinders, by attributes like the number of faces, edges, and whether they can roll.",
+        "resourceLabel": "YouTube: Sorting 3D Objects by Attributes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%203D%20Objects%20by%20Attributes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which 3D shape looks like a ball and can roll in any direction?",
+            "options": [
+              "Sphere",
+              "Cylinder",
+              "Cube",
+              "Cone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which 3D shape has six flat square faces?",
+            "options": [
+              "Sphere",
+              "Cone",
+              "Cube",
+              "Cylinder"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which 3D shape has one flat circular face and one pointed tip?",
+            "options": [
+              "Cone",
+              "Cube",
+              "Cylinder",
+              "Sphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which 3D shape has two flat circular faces and one curved surface, like a can?",
+            "options": [
+              "Cone",
+              "Cube",
+              "Cylinder",
+              "Sphere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When sorting 3D shapes, we can group them by ___.",
+            "options": [
+              "The number of faces, edges, and whether they roll",
+              "Their name only",
+              "Their colour only",
+              "Their smell"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one three-dimensional shape, like a cube or a sphere.",
+            "answers": [
+              "a cube",
+              "cube",
+              "a sphere",
+              "sphere",
+              "a cone",
+              "cone",
+              "a cylinder",
+              "cylinder"
+            ]
+          },
+          {
+            "prompt": "Which 3D shape looks like a ball and can roll in any direction?",
+            "answers": [
+              "a sphere",
+              "sphere"
+            ]
+          },
+          {
+            "prompt": "Which 3D shape has six flat square faces?",
+            "answers": [
+              "a cube",
+              "cube"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Taking Care of Your Teeth",
+        "summary": "Students learn healthy habits for taking care of their teeth, such as brushing twice a day, flossing, and visiting the dentist for checkups.",
+        "resourceLabel": "YouTube: Taking Care of Your Teeth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Your%20Teeth%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many times a day should you usually brush your teeth?",
+            "options": [
+              "Once a week",
+              "Twice",
+              "Never",
+              "Ten times"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tool is used to clean between your teeth?",
+            "options": [
+              "A hammer",
+              "A ruler",
+              "Floss",
+              "A thermometer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who should you visit for regular teeth checkups?",
+            "options": [
+              "A dentist",
+              "A farmer",
+              "A firefighter",
+              "A librarian"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these foods can help keep teeth healthy?",
+            "options": [
+              "Sugary candy",
+              "Sugary soda",
+              "Fruits and vegetables",
+              "Sticky sweets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Taking care of your teeth is important because it helps ___.",
+            "options": [
+              "Prevent cavities and keep teeth healthy",
+              "Stop you from smiling",
+              "Make teeth fall out faster",
+              "Make food taste worse"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many times a day should you usually brush your teeth?",
+            "answers": [
+              "twice",
+              "two times",
+              "2"
+            ]
+          },
+          {
+            "prompt": "Name one tool used to clean between your teeth, like floss.",
+            "answers": [
+              "floss"
+            ]
+          },
+          {
+            "prompt": "Who should you visit for regular teeth checkups?",
+            "answers": [
+              "a dentist",
+              "dentist"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Recreation: Parks, Rinks, and Playgrounds",
+        "summary": "Students learn that communities build recreation spaces, such as parks, skating rinks, and playgrounds, so people can exercise, play, and spend time together.",
+        "resourceLabel": "YouTube: Community Recreation: Parks, Rinks, and Playgrounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Recreation%3A%20Parks%2C%20Rinks%2C%20and%20Playgrounds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a community recreation space?",
+            "options": [
+              "A park",
+              "A bank",
+              "A hospital",
+              "A factory"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do communities build recreation spaces like parks and playgrounds?",
+            "options": [
+              "To store extra food",
+              "To park cars only",
+              "So people can exercise, play, and spend time together",
+              "So no one can go outside"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which recreation space would most likely have ice for skating in winter?",
+            "options": [
+              "A skating rink",
+              "A library",
+              "A grocery store",
+              "A bakery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these activities might happen at a community playground?",
+            "options": [
+              "Firefighters putting out fires",
+              "Children playing on swings and slides",
+              "Farmers growing crops",
+              "Doctors performing surgery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Community recreation spaces help people by ___.",
+            "options": [
+              "Removing all green spaces",
+              "Giving them places to be active and connect with others",
+              "Keeping everyone indoors",
+              "Making communities more crowded with buildings only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one recreation space found in many communities, like a park or a playground.",
+            "answers": [
+              "a park",
+              "park",
+              "a playground",
+              "playground",
+              "a rink",
+              "rink"
+            ]
+          },
+          {
+            "prompt": "Why do communities build recreation spaces like parks and playgrounds?",
+            "answers": [
+              "so people can play and exercise",
+              "for exercise and fun",
+              "so people can spend time together"
+            ]
+          },
+          {
+            "prompt": "Name one activity people might do at a community park.",
+            "answers": [
+              "playing",
+              "exercising",
+              "picnicking",
+              "walking"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "label": "Day 59 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing a Friendly Letter",
+        "summary": "Students learn the parts of a friendly letter, including the greeting, body, closing, and signature, used to write a personal message to someone.",
+        "resourceLabel": "YouTube: Writing a Friendly Letter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Friendly%20Letter%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What part of a friendly letter greets the person you are writing to?",
+            "options": [
+              "The greeting",
+              "The closing",
+              "The signature only",
+              "The body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What part of a friendly letter contains the main message?",
+            "options": [
+              "The date only",
+              "The body",
+              "The closing",
+              "The greeting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a greeting in a friendly letter?",
+            "options": [
+              "Once upon a time.",
+              "Your friend,",
+              "Dear Sam,",
+              "The end."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a closing in a friendly letter?",
+            "options": [
+              "The Title",
+              "Chapter One",
+              "Your friend,",
+              "Dear Sam,"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A friendly letter is most often written to ___.",
+            "options": [
+              "Share a personal message with someone you know",
+              "List math problems",
+              "Explain science facts only",
+              "Give a weather report"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What part of a friendly letter greets the person you are writing to, like Dear Sam?",
+            "answers": [
+              "the greeting",
+              "greeting"
+            ]
+          },
+          {
+            "prompt": "What part of a friendly letter contains the main message?",
+            "answers": [
+              "the body",
+              "body"
+            ]
+          },
+          {
+            "prompt": "What part of a friendly letter comes at the end, like Your friend, before your name?",
+            "answers": [
+              "the closing",
+              "closing"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Finding the Mode in a Data Set",
+        "summary": "Students learn that the mode of a data set is the number or item that appears most often, helping to summarize information collected in a survey or chart.",
+        "resourceLabel": "YouTube: Finding the Mode in a Data Set",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Finding%20the%20Mode%20in%20a%20Data%20Set%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the number or item that appears most often in a data set?",
+            "options": [
+              "Mode",
+              "Fraction",
+              "Area",
+              "Perimeter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the data set 2, 3, 3, 5, 3, what number appears most often?",
+            "options": [
+              "4",
+              "2",
+              "5",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If most classmates in a survey picked red as their favourite colour, what is the mode?",
+            "options": [
+              "Yellow",
+              "Green",
+              "Red",
+              "Blue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the data set 7, 7, 8, 9, 9, 9, what is the mode?",
+            "options": [
+              "7",
+              "9",
+              "There is no mode",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Finding the mode of a data set helps us know ___.",
+            "options": [
+              "How long something is",
+              "What time it is",
+              "Which item or number appears most often",
+              "How much something weighs"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the number or item that appears most often in a data set?",
+            "answers": [
+              "mode",
+              "the mode"
+            ]
+          },
+          {
+            "prompt": "In the data set 2, 3, 3, 5, 3, what number appears most often?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If most classmates picked red as their favourite colour, what is the mode of that survey?",
+            "answers": [
+              "red"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Where Energy Comes From: Sun, Wind, and Water",
+        "summary": "Students learn that energy can come from natural sources such as the sun, wind, and moving water, which can be used to create electricity and power homes.",
+        "resourceLabel": "YouTube: Where Energy Comes From: Sun, Wind, and Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Where%20Energy%20Comes%20From%3A%20Sun%2C%20Wind%2C%20and%20Water%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a natural source of energy?",
+            "options": [
+              "A rubber ball",
+              "A cardboard box",
+              "The sun",
+              "A plastic bag"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call panels that capture energy from sunlight?",
+            "options": [
+              "Water wheels",
+              "Batteries only",
+              "Wind turbines",
+              "Solar panels"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which machine uses wind to create energy?",
+            "options": [
+              "A solar panel",
+              "A wind turbine",
+              "A battery",
+              "A dam"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Moving water, like a river through a dam, can be used to create ___.",
+            "options": [
+              "Wind",
+              "Soil",
+              "Sunlight",
+              "Electricity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using natural sources like sun, wind, and water for energy is helpful because they ___.",
+            "options": [
+              "Disappear after one use",
+              "Can be used again and again without running out",
+              "Cannot power anything",
+              "Always cause pollution"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one natural source of energy, like the sun or wind.",
+            "answers": [
+              "the sun",
+              "sun",
+              "wind",
+              "water"
+            ]
+          },
+          {
+            "prompt": "What do we call panels that capture energy from the sun?",
+            "answers": [
+              "solar panels"
+            ]
+          },
+          {
+            "prompt": "Name one machine that uses wind to create energy, like a wind turbine.",
+            "answers": [
+              "a wind turbine",
+              "wind turbine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Museums and Historical Sites: Learning About the Past",
+        "summary": "Students learn that museums and historical sites help people learn about the past by displaying old objects, artifacts, and stories from earlier times.",
+        "resourceLabel": "YouTube: Museums and Historical Sites: Learning About the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Museums%20and%20Historical%20Sites%3A%20Learning%20About%20the%20Past%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a place that displays old objects and artifacts for people to learn from?",
+            "options": [
+              "A museum",
+              "A bank",
+              "A farm",
+              "A factory"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call an old object that helps us learn about people from the past?",
+            "options": [
+              "A recipe",
+              "A map only",
+              "A calendar",
+              "An artifact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a class visit a historical site on a field trip?",
+            "options": [
+              "To buy groceries",
+              "To learn about important events from the past",
+              "To play sports",
+              "To watch a movie"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might you find displayed inside a museum?",
+            "options": [
+              "Old tools and artifacts",
+              "Restaurant menus",
+              "Fresh vegetables",
+              "New cars for sale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Museums and historical sites help communities by ___.",
+            "options": [
+              "Hiding artifacts from everyone",
+              "Preserving and sharing stories from the past",
+              "Selling old objects only",
+              "Erasing history completely"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a place that displays old objects and artifacts for people to learn from?",
+            "answers": [
+              "a museum",
+              "museum"
+            ]
+          },
+          {
+            "prompt": "What do we call an old object that helps us learn about the past, like an old tool?",
+            "answers": [
+              "an artifact",
+              "artifact"
+            ]
+          },
+          {
+            "prompt": "Name one reason people visit museums, like to learn about history.",
+            "answers": [
+              "to learn about history",
+              "to learn about the past"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "label": "Day 60 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Final Review: Language Skills (Days 51-59)",
+        "summary": "Students review Language skills from Days 51 to 59: past tense verbs, capitalization, multiple-meaning words, context clues, onomatopoeia, text features, purpose for writing, story theme, and friendly letters.",
+        "resourceLabel": "YouTube: Final Review: Language Skills (Days 51-59)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What ending do we usually add to a verb to show something already happened?",
+            "options": [
+              "-ing",
+              "-er",
+              "-ed",
+              "-est"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of letter starts the name of a person, like Sarah?",
+            "options": [
+              "A number",
+              "A capital letter",
+              "A silent letter",
+              "A lowercase letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the words and sentences around an unfamiliar word that help us understand its meaning?",
+            "options": [
+              "Compound words",
+              "Context clues",
+              "Silent letters",
+              "Rhyming words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of writing that gives readers facts and information?",
+            "options": [
+              "To entertain",
+              "To persuade",
+              "To inform",
+              "To rhyme"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What part of a friendly letter contains the main message?",
+            "options": [
+              "The greeting",
+              "The body",
+              "The closing",
+              "The date only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the past tense of the verb jump?",
+            "answers": [
+              "jumped"
+            ]
+          },
+          {
+            "prompt": "What do we call a word that has more than one meaning?",
+            "answers": [
+              "a multiple-meaning word",
+              "multiple-meaning word"
+            ]
+          },
+          {
+            "prompt": "What do we call the main lesson or message of a story?",
+            "answers": [
+              "theme",
+              "the theme"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Final Review: Math Skills (Days 51-59)",
+        "summary": "Students review Math skills from Days 51 to 59: skip counting by 3s and 4s, division, probability, number lines, measuring mass and capacity, comparing money, sorting 3D objects, and finding the mode.",
+        "resourceLabel": "YouTube: Final Review: Math Skills (Days 51-59)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Skip count by 4s: 4, 8, 12, ___",
+            "options": [
+              "14",
+              "16",
+              "15",
+              "20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you share 12 apples equally among 3 friends, how many apples does each friend get?",
+            "options": [
+              "6",
+              "4",
+              "3",
+              "12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is it likely or unlikely that it will snow in Ontario in July?",
+            "options": [
+              "Certain",
+              "Impossible",
+              "Likely",
+              "Unlikely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What unit would you most likely use to measure the water in a bathtub?",
+            "options": [
+              "Centimetres",
+              "Litres",
+              "Millilitres",
+              "Grams"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which 3D shape has six flat square faces?",
+            "options": [
+              "Cube",
+              "Sphere",
+              "Cylinder",
+              "Cone"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Skip count by 3s: 3, 6, 9, ___",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "What do we call splitting a group of objects equally into smaller groups?",
+            "answers": [
+              "division",
+              "sharing equally"
+            ]
+          },
+          {
+            "prompt": "What do we call the number or item that appears most often in a data set?",
+            "answers": [
+              "mode",
+              "the mode"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Final Review: Science Skills (Days 51-59)",
+        "summary": "Students review Science topics from Days 51 to 59: animal camouflage, butterfly metamorphosis, bones and muscles, moon phases, erosion, static electricity, endangered animals, dental care, and energy sources.",
+        "resourceLabel": "YouTube: Final Review: Science Skills (Days 51-59)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why might an animal use camouflage?",
+            "options": [
+              "To hide from predators or sneak up on prey",
+              "To make more noise",
+              "To fly faster",
+              "To change the weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the stage where a caterpillar forms a hard case and changes shape?",
+            "options": [
+              "Nest",
+              "Web",
+              "Burrow",
+              "Chrysalis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call it when wind and water slowly wear away rock and soil?",
+            "options": [
+              "Pollination",
+              "Migration",
+              "Erosion",
+              "Hibernation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of electricity builds up when you rub a balloon on your hair?",
+            "options": [
+              "Static electricity",
+              "Circuit electricity",
+              "Wind electricity",
+              "Solar electricity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a natural source of energy?",
+            "options": [
+              "A cardboard box",
+              "A rubber ball",
+              "The sun",
+              "A plastic bag"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes an animal blending into its surroundings using color or pattern?",
+            "answers": [
+              "camouflage"
+            ]
+          },
+          {
+            "prompt": "What do we call the changing shapes of the moon that we see in the sky?",
+            "answers": [
+              "phases of the moon",
+              "moon phases"
+            ]
+          },
+          {
+            "prompt": "What word describes an animal that is at risk of disappearing forever?",
+            "answers": [
+              "endangered"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Final Review: Social Studies Skills (Days 51-59)",
+        "summary": "Students review Social Studies topics from Days 51 to 59: notable Canadians, Canadian inventions, water systems, homes around the world, Canadian sports, settlement patterns, the history of money, community recreation, and museums.",
+        "resourceLabel": "YouTube: Final Review: Social Studies Skills (Days 51-59)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2051-59%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which sport was invented by a Canadian named James Naismith?",
+            "options": [
+              "Soccer",
+              "Baseball",
+              "Tennis",
+              "Basketball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does clean water usually travel from a treatment plant to our homes?",
+            "options": [
+              "By truck only",
+              "By boat only",
+              "Through underground pipes",
+              "By airplane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sport is widely played and watched across Canada, especially in winter?",
+            "options": [
+              "Surfing",
+              "Bullfighting",
+              "Hockey",
+              "Sumo wrestling"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did societies eventually begin using coins instead of only trading goods?",
+            "options": [
+              "Coins removed the need for goods",
+              "Coins were heavier than goods",
+              "Coins made trading easier and fairer",
+              "Coins made trading impossible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a class visit a historical site on a field trip?",
+            "options": [
+              "To watch a movie",
+              "To play sports",
+              "To learn about important events from the past",
+              "To buy groceries"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a person who is well known for an important contribution?",
+            "answers": [
+              "notable",
+              "famous"
+            ]
+          },
+          {
+            "prompt": "What do we call a place that cleans water before it reaches our homes?",
+            "answers": [
+              "a treatment plant",
+              "treatment plant",
+              "water treatment plant"
+            ]
+          },
+          {
+            "prompt": "What do we call a place that displays old objects and artifacts for people to learn from?",
+            "answers": [
+              "a museum",
+              "museum"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
