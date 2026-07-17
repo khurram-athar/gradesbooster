@@ -17027,5 +17027,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Mood and Tone",
+        "summary": "Grade 8 Reading strand: mood is the emotional atmosphere a reader feels while reading a text, while tone is the author’s attitude toward the subject, often revealed through word choice, imagery, and sentence structure.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Mood in a text is best described as ___.",
+            "options": [
+              "The emotional atmosphere a reader feels while reading",
+              "The physical setting where a story takes place",
+              "A concept unrelated to mood",
+              "The exact number of characters in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Tone in a text is best described as ___.",
+            "options": [
+              "The total number of pages in a text",
+              "The author’s attitude toward the subject, revealed through word choice",
+              "A concept unrelated to tone",
+              "The emotional atmosphere the reader feels, with no connection to the author"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word choice would most likely create a tense, uneasy mood?",
+            "options": [
+              "Words like sunny, cheerful, and bright",
+              "A set of words unrelated to mood",
+              "Words like calm, peaceful, and gentle",
+              "Words like lurking, shadowy, and creeping"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An author writing with a sarcastic tone about a topic is expressing ___.",
+            "options": [
+              "Attitude that says the opposite of what is literally stated",
+              "Total indifference toward the subject",
+              "Complete sincerity with no hidden meaning",
+              "A concept unrelated to tone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is distinguishing between mood and tone useful when analyzing a text?",
+            "options": [
+              "A reason unrelated to reading comprehension",
+              "Neither mood nor tone affects how a reader interprets a text",
+              "Mood and tone are always identical with no distinction needed",
+              "It helps a reader separate how a text feels from what the author’s attitude toward it is"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Prime Factorization, GCF, and LCM",
+        "summary": "Grade 8 Math strand: prime factorization expresses a number as a product of prime numbers, and this factorization can be used to find the greatest common factor (GCF) and least common multiple (LCM) of two or more numbers.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Prime factorization expresses a number as ___.",
+            "options": [
+              "A concept unrelated to prime factorization",
+              "A product of prime numbers",
+              "A sum of consecutive integers",
+              "The square root of the original number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The prime factorization of 12 is ___.",
+            "options": [
+              "2 x 2 x 3",
+              "2 x 6",
+              "3 x 4",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The greatest common factor (GCF) of 18 and 24 is ___.",
+            "options": [
+              "9",
+              "A value unrelated to the calculation",
+              "6",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The least common multiple (LCM) of 4 and 6 is ___.",
+            "options": [
+              "24",
+              "12",
+              "10",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is finding the GCF useful when simplifying a fraction?",
+            "options": [
+              "Dividing both the numerator and denominator by the GCF reduces the fraction to its lowest terms",
+              "A reason unrelated to prime factorization",
+              "Multiplying by the GCF always makes a fraction larger",
+              "The GCF has no connection to simplifying fractions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures and Mechanisms: Load, Stress, and Structural Strength",
+        "summary": "Grade 8 Science strand: a structure must be designed to withstand different types of load and stress, such as compression, tension, and shear, and engineers select shapes and materials that distribute these forces effectively.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A load applied to a structure is best described as ___.",
+            "options": [
+              "A colour applied to the surface of a structure",
+              "A concept unrelated to structural load",
+              "A force the structure must support or withstand",
+              "A measurement of a structure’s height only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Compression is a type of stress that occurs when a structure is ___.",
+            "options": [
+              "Twisted around its centre",
+              "A concept unrelated to compression",
+              "Squeezed or pushed together",
+              "Stretched or pulled apart"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Tension is a type of stress that occurs when a structure is ___.",
+            "options": [
+              "Squeezed or pushed together",
+              "Left completely still with no force applied",
+              "Stretched or pulled apart",
+              "A concept unrelated to tension"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do engineers often use triangular shapes in structural frameworks?",
+            "options": [
+              "Triangular shapes are chosen only for decoration",
+              "A reason unrelated to structural design",
+              "Triangles are the weakest possible shape for supporting a load",
+              "Triangles distribute force evenly and resist changing shape under load"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding load and stress important when designing a bridge?",
+            "options": [
+              "It ensures the bridge can safely support the forces acting on it without failing",
+              "Load and stress have no effect on whether a bridge can support weight",
+              "A reason unrelated to structures and mechanisms",
+              "Bridges never experience any force once they are built"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Klondike Gold Rush",
+        "summary": "Grade 8 History strand: the Klondike Gold Rush of 1896-99 drew tens of thousands of prospectors to the Yukon after gold was discovered near Dawson City, rapidly transforming the region and prompting Canada to establish stronger governance in the north.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Klondike Gold Rush took place primarily in ___.",
+            "options": [
+              "Southern Ontario",
+              "A region unrelated to the Klondike Gold Rush",
+              "The Yukon",
+              "Nova Scotia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Klondike Gold Rush began after gold was discovered near ___.",
+            "options": [
+              "Halifax",
+              "Dawson City",
+              "A location unrelated to the Klondike Gold Rush",
+              "Toronto"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Klondike Gold Rush primarily took place during ___.",
+            "options": [
+              "1929-33",
+              "1812-14",
+              "1896-99",
+              "A time period unrelated to the Klondike Gold Rush"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "One effect of the Klondike Gold Rush on the Canadian government was that it ___.",
+            "options": [
+              "A result unrelated to the Klondike Gold Rush",
+              "Led to the immediate creation of the province of Yukon",
+              "Prompted Canada to establish stronger governance and infrastructure in the north",
+              "Caused Canada to abandon all interest in the northern territories"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Klondike Gold Rush considered a significant event in Canadian history?",
+            "options": [
+              "It occurred entirely outside of Canadian territory",
+              "It had no lasting effect on the Yukon or Canada as a whole",
+              "A reason unrelated to its historical significance",
+              "It rapidly transformed the Yukon and drew national attention to Canada’s north"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Formal Business Letter and Email",
+        "summary": "Grade 8 Writing strand: a formal business letter or email follows a professional structure — a clear subject line or heading, formal greeting, concise body, and polite closing — appropriate for communicating with an organization or unfamiliar recipient.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A formal business letter typically begins with ___.",
+            "options": [
+              "A list of unrelated personal stories",
+              "A formal greeting addressing the recipient",
+              "An informal joke to open the message",
+              "A concept unrelated to business letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a formal email include a clear subject line?",
+            "options": [
+              "It helps the recipient quickly understand the purpose of the message",
+              "A reason unrelated to formal email writing",
+              "Subject lines never provide any useful information",
+              "A subject line is only needed in a resume"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which closing is most appropriate for a formal business letter?",
+            "options": [
+              "Peace out",
+              "A closing unrelated to formal letters",
+              "See ya",
+              "Sincerely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should a formal business letter avoid slang and casual language?",
+            "options": [
+              "Slang always makes a letter more professional",
+              "Formal letters are never read by anyone important",
+              "A reason unrelated to formal writing",
+              "It maintains a professional and respectful tone for the recipient"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to proofread a formal email before sending it?",
+            "options": [
+              "Proofreading never changes how a message is received",
+              "Errors can make the message appear less professional and harder to understand",
+              "Formal emails are never checked for mistakes",
+              "A reason unrelated to formal writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems of Equations by Graphing",
+        "summary": "Grade 8 Math strand: solving a system of linear equations by graphing involves plotting both equations on the same coordinate plane, where the point of intersection represents the solution that satisfies both equations.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Solving a system of equations by graphing involves ___.",
+            "options": [
+              "Plotting both equations and finding their point of intersection",
+              "Adding the two equations together without graphing them",
+              "A concept unrelated to solving systems by graphing",
+              "Plotting only one equation and ignoring the other"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The point of intersection of two graphed lines represents ___.",
+            "options": [
+              "The solution that satisfies both equations",
+              "A concept unrelated to systems of equations",
+              "The y-intercept of only one equation",
+              "A point that satisfies neither equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two lines in a system are parallel and never intersect, the system has ___.",
+            "options": [
+              "Exactly one solution",
+              "No solution",
+              "A result unrelated to systems of equations",
+              "Infinitely many solutions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two equations in a system graph as the exact same line, the system has ___.",
+            "options": [
+              "A result unrelated to systems of equations",
+              "Infinitely many solutions",
+              "No solution",
+              "Exactly one solution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might solving a system by graphing be less precise than solving it algebraically?",
+            "options": [
+              "Graphing and algebraic methods always produce different, unrelated answers",
+              "Reading an exact intersection point from a graph can be difficult, especially with non-integer solutions",
+              "A reason unrelated to solving systems of equations",
+              "Graphing always produces a more precise answer than algebra"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Elements, Compounds, and Mixtures",
+        "summary": "Grade 8 Science strand: matter can be classified as an element, a pure substance made of only one type of atom, a compound, two or more elements chemically combined, or a mixture, two or more substances physically combined without a fixed ratio.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "An element is a pure substance made of ___.",
+            "options": [
+              "A concept unrelated to elements",
+              "Two or more types of atoms chemically combined",
+              "Only one type of atom",
+              "Substances combined in no fixed ratio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A compound is formed when ___.",
+            "options": [
+              "Two or more elements are chemically combined in a fixed ratio",
+              "A concept unrelated to compounds",
+              "A single element exists on its own",
+              "Substances are physically mixed with no chemical bonding"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A mixture is best described as ___.",
+            "options": [
+              "A substance that can never be separated into parts",
+              "A single pure substance made of only one type of atom",
+              "A concept unrelated to mixtures",
+              "Two or more substances physically combined without a fixed ratio"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a compound?",
+            "options": [
+              "Oxygen gas on its own",
+              "A salad containing separate, unmixed ingredients",
+              "Water, made of hydrogen and oxygen chemically bonded",
+              "A substance unrelated to compounds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a mixture, unlike a compound, generally be separated using physical methods?",
+            "options": [
+              "Compounds can always be separated more easily than mixtures",
+              "The substances in a mixture are not chemically bonded together",
+              "Mixtures are always chemically bonded more strongly than compounds",
+              "A reason unrelated to mixtures and compounds"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada and the South African (Boer) War",
+        "summary": "Grade 8 History strand: Canada sent volunteer troops to fight alongside Britain in the South African War of 1899-1902, marking the country’s first overseas military commitment and sparking early debate over Canada’s independence from British foreign policy.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The South African War, also known as the Boer War, took place from ___.",
+            "options": [
+              "1867 to 1870",
+              "A time period unrelated to the Boer War",
+              "1914 to 1918",
+              "1899 to 1902"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada’s involvement in the Boer War represented ___.",
+            "options": [
+              "The country’s first overseas military commitment",
+              "Canada’s first war fought entirely on its own soil",
+              "A conflict Canada refused to participate in at all",
+              "A description unrelated to the Boer War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canadian troops in the Boer War fought alongside ___.",
+            "options": [
+              "The United States",
+              "Britain",
+              "A country unrelated to the Boer War",
+              "France"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Debate over Canada’s participation in the Boer War centred on ___.",
+            "options": [
+              "Whether to abolish the Canadian military entirely",
+              "Whether Canada should follow British foreign policy or act independently",
+              "Whether Canada should join the war against Britain",
+              "A debate unrelated to the Boer War"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Boer War significant in the development of Canadian identity?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It raised early questions about how independently Canada should act from Britain",
+              "It had no connection to questions about Canadian independence",
+              "It ended Canada’s relationship with Britain immediately and completely"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Verbals — Gerunds, Participles, and Infinitives",
+        "summary": "Grade 8 Grammar strand: a verbal is a word formed from a verb that functions as a different part of speech — a gerund acts as a noun, a participle acts as an adjective, and an infinitive can act as a noun, adjective, or adverb.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A gerund is a verb form ending in -ing that functions as a ___.",
+            "options": [
+              "Preposition",
+              "Adjective only",
+              "A part of speech unrelated to gerunds",
+              "Noun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A participle is a verb form that functions as ___.",
+            "options": [
+              "A noun only",
+              "An adjective",
+              "A part of speech unrelated to participles",
+              "A conjunction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An infinitive is typically formed using ___.",
+            "options": [
+              "A form unrelated to infinitives",
+              "Only the past tense of a verb",
+              "To plus the base form of a verb",
+              "The verb with an -ed ending"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence “Swimming is my favourite hobby,” the word swimming functions as a ___.",
+            "options": [
+              "A part of speech unrelated to verbals",
+              "Gerund acting as the subject noun",
+              "Preposition introducing a phrase",
+              "Participle acting as an adjective"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use verbals instead of separate simple sentences?",
+            "options": [
+              "They can combine ideas smoothly and add variety to sentence structure",
+              "Verbals can never be used in formal writing",
+              "Verbals always make writing harder to understand with no benefit",
+              "A reason unrelated to grammar"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume and Surface Area of Composite Figures",
+        "summary": "Grade 8 Math strand: a composite figure is made by combining two or more simple three-dimensional shapes, and its volume or surface area can be found by calculating each individual shape’s measurement and combining the results.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A composite figure is a three-dimensional shape formed by ___.",
+            "options": [
+              "A single shape with no other shapes involved",
+              "A concept unrelated to composite figures",
+              "Removing every face from a single shape",
+              "Combining two or more simple shapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To find the volume of a composite figure, a student should ___.",
+            "options": [
+              "Use only the volume of the largest shape and ignore the rest",
+              "Calculate the volume of each individual shape and add them together",
+              "Multiply the volumes of each shape together",
+              "A method unrelated to composite figures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A silo shaped like a cylinder topped with a hemisphere is an example of ___.",
+            "options": [
+              "A composite figure",
+              "A two-dimensional shape only",
+              "A concept unrelated to composite figures",
+              "A single simple shape with no combination involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When calculating the surface area of a composite figure, a student must be careful to ___.",
+            "options": [
+              "Exclude any internal faces where two shapes are joined together",
+              "Ignore all curved surfaces in the calculation",
+              "Include every face of every shape, even hidden internal ones",
+              "A concept unrelated to surface area of composite figures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are composite figures commonly used in real-world architecture and design?",
+            "options": [
+              "Simple shapes alone can achieve every design goal with no combination needed",
+              "Composite figures are never used in real-world design",
+              "Combining simple shapes allows for more complex, functional, and creative structures",
+              "A reason unrelated to composite figures"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth and Space: Earth’s Internal Layers and Heat Transfer",
+        "summary": "Grade 8 Science strand: Earth is composed of distinct internal layers — the crust, mantle, outer core, and inner core — and heat generated in the core drives convection currents in the mantle that influence processes at the surface.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Earth’s outermost layer is called the ___.",
+            "options": [
+              "Inner core",
+              "A layer unrelated to Earth’s structure",
+              "Mantle",
+              "Crust"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Earth’s inner core is believed to be ___.",
+            "options": [
+              "Liquid, and cooler than the outer core",
+              "A concept unrelated to Earth’s inner core",
+              "Made entirely of gas",
+              "Solid, due to immense pressure despite extremely high temperatures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Convection currents in the mantle are driven primarily by ___.",
+            "options": [
+              "Heat generated within Earth’s core",
+              "Ocean tides pulling on the mantle",
+              "A cause unrelated to convection currents",
+              "Cold air currents from the atmosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which layer of the Earth is where tectonic plates are located?",
+            "options": [
+              "The inner core",
+              "A layer unrelated to tectonic plates",
+              "The crust",
+              "The outer core only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding Earth’s internal heat important for explaining surface geological activity?",
+            "options": [
+              "The crust moves completely independently of any internal heat or currents",
+              "A reason unrelated to Earth’s structure",
+              "Convection currents driven by internal heat help move tectonic plates and shape the surface",
+              "Earth’s internal heat has no connection to surface geological activity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Quiet Revolution in Quebec",
+        "summary": "Grade 8 History strand: the Quiet Revolution was a period of rapid social, political, and economic change in Quebec during the 1960s, marked by the secularization of institutions, expansion of the provincial government, and the rise of Quebec nationalism.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Quiet Revolution took place primarily during the ___.",
+            "options": [
+              "1960s",
+              "A time period unrelated to the Quiet Revolution",
+              "1990s",
+              "1930s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Quiet Revolution in Quebec involved the secularization of institutions, meaning ___.",
+            "options": [
+              "Religious institutions were left completely unchanged",
+              "The provincial government took over roles previously held by the Catholic Church",
+              "The Catholic Church gained even greater control over Quebec’s institutions",
+              "A meaning unrelated to secularization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Quiet Revolution contributed to a rise in ___.",
+            "options": [
+              "Quebec nationalism",
+              "Support for a return to earlier, more traditional institutions",
+              "A decline in interest in Quebec’s provincial government",
+              "A concept unrelated to the Quiet Revolution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During the Quiet Revolution, the government of Quebec expanded its role in areas such as ___.",
+            "options": [
+              "Only agriculture, with no other sectors affected",
+              "Education and healthcare",
+              "International military alliances",
+              "A sector unrelated to the Quiet Revolution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Quiet Revolution considered a turning point in Quebec’s history?",
+            "options": [
+              "It had no lasting effect on Quebec’s society or politics",
+              "A reason unrelated to its historical significance",
+              "It rapidly modernized Quebec society and reshaped its political and cultural identity",
+              "It reversed all previous social and political change in Quebec"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Fact-Checking and Source Verification",
+        "summary": "Grade 8 Media Literacy strand: fact-checking involves verifying claims against reliable, independent sources before accepting or sharing information, an essential skill for evaluating news and content encountered online.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Fact-checking involves ___.",
+            "options": [
+              "Sharing information immediately with no review",
+              "A concept unrelated to fact-checking",
+              "Verifying claims against reliable, independent sources",
+              "Accepting every claim without question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a sign that a source may be reliable?",
+            "options": [
+              "The source provides no evidence and hides its author",
+              "The source only uses emotional language with no facts",
+              "The source cites evidence and is transparent about where information came from",
+              "A characteristic unrelated to reliable sources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to check multiple independent sources before believing a claim?",
+            "options": [
+              "It helps confirm whether the claim is supported by consistent evidence",
+              "Checking multiple sources never changes how believable a claim is",
+              "A single source is always enough to confirm any claim",
+              "A reason unrelated to fact-checking"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a red flag when evaluating an online claim?",
+            "options": [
+              "A characteristic unrelated to evaluating claims",
+              "The source clearly explains its methodology and evidence",
+              "The claim has no cited evidence and cannot be verified elsewhere",
+              "The claim is supported by several credible, independent sources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is fact-checking an important skill when using social media?",
+            "options": [
+              "A reason unrelated to media literacy",
+              "Misinformation can spread quickly, so verifying claims helps prevent sharing false information",
+              "Fact-checking has no effect on what a person chooses to share",
+              "Misinformation never appears on social media"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Two-Way Tables and Conditional Frequency",
+        "summary": "Grade 8 Math strand: a two-way table organizes data by two categorical variables, allowing conditional frequencies to be calculated to compare how one variable relates to another within the data set.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A two-way table organizes data by ___.",
+            "options": [
+              "A concept unrelated to two-way tables",
+              "A single variable displayed in one row only",
+              "Numerical data with no categories involved",
+              "Two categorical variables displayed in rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A conditional frequency describes ___.",
+            "options": [
+              "A concept unrelated to conditional frequency",
+              "The total frequency of an entire data set with no conditions",
+              "The frequency of one variable given a specific condition of another variable",
+              "A frequency that never changes based on any condition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a two-way table comparing favourite sport and grade level, the row totals typically represent ___.",
+            "options": [
+              "The total count for each category in one variable",
+              "The total count for the entire table combined into one number",
+              "A concept unrelated to two-way tables",
+              "The percentage of students who dislike every sport listed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a two-way table be useful for identifying a relationship between two variables?",
+            "options": [
+              "A reason unrelated to two-way tables",
+              "Two-way tables never reveal any relationship between variables",
+              "A two-way table can only display a single variable at a time",
+              "It organizes the data so patterns and comparisons can be seen clearly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 30 out of 50 students who play soccer also play basketball, what conditional frequency does this represent?",
+            "options": [
+              "The total number of students in the entire school",
+              "The frequency of playing soccer, given that a student plays no other sport",
+              "The frequency of playing basketball, given that a student plays soccer",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics: Mutations and Genetic Variation",
+        "summary": "Grade 8 Science strand: a mutation is a change in an organism’s DNA sequence that can arise spontaneously or from environmental factors, and mutations are a key source of the genetic variation that natural selection acts upon.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "A mutation is best described as ___.",
+            "options": [
+              "A concept unrelated to mutations",
+              "A process that only occurs in plants and never in animals",
+              "A trait that is always passed down unchanged for every generation",
+              "A change in an organism’s DNA sequence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Mutations can be caused by ___.",
+            "options": [
+              "A cause unrelated to mutations",
+              "A complete absence of any environmental influence",
+              "Only deliberate actions taken by an organism",
+              "Environmental factors such as radiation or certain chemicals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Mutations are considered a key source of ___.",
+            "options": [
+              "Complete genetic uniformity within a population",
+              "Genetic variation within a population",
+              "A concept unrelated to mutations",
+              "The total elimination of all genetic differences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A mutation that occurs in a reproductive cell is significant because it ___.",
+            "options": [
+              "Only affects the individual organism and no others",
+              "Can be passed on to offspring",
+              "A concept unrelated to mutations",
+              "Can never be passed on to any future generation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are mutations important to the process of natural selection?",
+            "options": [
+              "Natural selection can only act on traits that never change",
+              "Mutations have no connection to natural selection",
+              "They introduce new genetic variation that can be selected for or against based on the environment",
+              "A reason unrelated to genetics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1967 Immigration Points System",
+        "summary": "Grade 8 History strand: in 1967, Canada introduced a points-based immigration system that evaluated applicants using factors such as education and skills rather than race or country of origin, replacing earlier discriminatory immigration policies.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The points-based immigration system was introduced by Canada in ___.",
+            "options": [
+              "1945",
+              "1967",
+              "1900",
+              "A year unrelated to the immigration points system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The points system evaluated immigration applicants based primarily on ___.",
+            "options": [
+              "Race and country of origin",
+              "Religious affiliation alone",
+              "A factor unrelated to the points system",
+              "Factors such as education and skills"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The introduction of the points system replaced earlier immigration policies that were ___.",
+            "options": [
+              "Discriminatory, often favouring applicants from specific countries or backgrounds",
+              "Already based entirely on education and skill, with no changes needed",
+              "Focused only on refugees, with no other immigration categories",
+              "A description unrelated to earlier immigration policies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A key goal of the 1967 points system was to make Canadian immigration policy ___.",
+            "options": [
+              "A goal unrelated to the points system",
+              "Entirely closed to new immigrants",
+              "More fair and objective by focusing on measurable qualifications",
+              "More restrictive toward every applicant regardless of qualifications"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the 1967 points system considered a significant shift in Canadian immigration history?",
+            "options": [
+              "It moved Canada away from race-based immigration policy toward a more merit-based system",
+              "It had no effect on how immigration applicants were evaluated",
+              "It reintroduced restrictions based on country of origin",
+              "A reason unrelated to its historical significance"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Unreliable Narrators in Fiction",
+        "summary": "Grade 8 Reading strand: an unreliable narrator is a storyteller whose credibility is compromised, whether by bias, limited knowledge, or dishonesty, requiring readers to question the narrator’s version of events.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "An unreliable narrator is a storyteller whose ___.",
+            "options": [
+              "Credibility is compromised, requiring readers to question their account",
+              "A concept unrelated to unreliable narrators",
+              "Account is always completely accurate and trustworthy",
+              "Perspective is identical to every other character in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might cause a narrator to be considered unreliable?",
+            "options": [
+              "Personal bias that distorts their description of events",
+              "A cause unrelated to unreliable narrators",
+              "Complete honesty about every event in the story",
+              "Access to every character’s private thoughts with total accuracy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to use an unreliable narrator?",
+            "options": [
+              "To create suspense or encourage readers to think critically about the story",
+              "Unreliable narrators never add anything meaningful to a story",
+              "To make a story simpler and easier to follow",
+              "A reason unrelated to unreliable narrators"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What reading strategy is useful when encountering a potentially unreliable narrator?",
+            "options": [
+              "Ignoring the narrator’s account entirely with no analysis",
+              "Believing everything the narrator says without question",
+              "A strategy unrelated to unreliable narrators",
+              "Looking for clues elsewhere in the text that confirm or contradict the narrator’s claims"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A young child narrator with limited understanding of adult events is an example of ___.",
+            "options": [
+              "A narrator who is always completely reliable",
+              "A narrator with no connection to the story at all",
+              "An unreliable narrator due to limited knowledge",
+              "A concept unrelated to unreliable narrators"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Percent Change, Markup, and Discount",
+        "summary": "Grade 8 Math strand: percent change describes how much a value has increased or decreased relative to its original amount, and this concept applies directly to calculating a markup added by a retailer or a discount subtracted during a sale.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Percent change describes ___.",
+            "options": [
+              "The exact dollar amount of an item with no percentage involved",
+              "A value that never changes regardless of price adjustments",
+              "A concept unrelated to percent change",
+              "How much a value has increased or decreased relative to its original amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A markup is ___.",
+            "options": [
+              "A fixed tax applied equally to every product",
+              "An amount added to the cost of an item to determine its selling price",
+              "A concept unrelated to markup",
+              "An amount subtracted from an item during a clearance sale"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An item that originally costs 40 dollars is discounted by 25 percent. What is the sale price?",
+            "options": [
+              "30 dollars",
+              "35 dollars",
+              "10 dollars",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A store buys a shirt for 20 dollars and sells it for 30 dollars. What is the percent markup?",
+            "options": [
+              "30 percent",
+              "150 percent",
+              "50 percent",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding percent change useful when comparing sale prices at different stores?",
+            "options": [
+              "It allows a shopper to calculate the actual savings and compare true value between offers",
+              "Every percent discount always results in the exact same savings regardless of price",
+              "A reason unrelated to percent change",
+              "Percent change provides no useful information when shopping"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Newton’s Laws of Motion",
+        "summary": "Grade 8 Science strand: Newton’s three laws of motion describe how objects behave under forces — an object at rest or in motion maintains its state unless acted on by a force, force equals mass times acceleration, and every action has an equal and opposite reaction.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Newton’s First Law of Motion states that an object ___.",
+            "options": [
+              "A concept unrelated to Newton’s First Law",
+              "Always accelerates, even without any force applied",
+              "Remains at rest or in motion unless acted on by an unbalanced force",
+              "Immediately stops moving once it starts, with no force required"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Newton’s Second Law of Motion is often summarized by the formula ___.",
+            "options": [
+              "Force equals mass times acceleration",
+              "Force equals mass divided by acceleration",
+              "Force equals distance divided by time",
+              "A formula unrelated to Newton’s Second Law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Newton’s Third Law of Motion states that ___.",
+            "options": [
+              "Reactions are always stronger than the original action",
+              "A concept unrelated to Newton’s Third Law",
+              "Actions never produce any reaction at all",
+              "For every action there is an equal and opposite reaction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to Newton’s Second Law, if the same force is applied to a heavier object, the acceleration will be ___.",
+            "options": [
+              "Larger, since heavier objects always accelerate faster",
+              "Exactly the same, regardless of the object’s mass",
+              "Smaller, since mass and acceleration are inversely related for a given force",
+              "A result unrelated to Newton’s Second Law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Newton’s Third Law used to explain how a rocket launches into space?",
+            "options": [
+              "The rocket pushes gas downward, and the gas pushes the rocket upward with equal force",
+              "The rocket’s motion has no connection to any reaction force",
+              "A reason unrelated to Newton’s laws",
+              "Rockets launch with no force acting on them at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Japanese Canadian Redress Agreement of 1988",
+        "summary": "Grade 8 History strand: in 1988, the Canadian government formally apologized for the internment and mistreatment of Japanese Canadians during the Second World War and provided financial compensation as part of a redress agreement with the community.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Japanese Canadian Redress Agreement was signed in ___.",
+            "options": [
+              "1945",
+              "A year unrelated to the Redress Agreement",
+              "1988",
+              "1970"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Redress Agreement included a formal apology for ___.",
+            "options": [
+              "A conflict that had no connection to Japanese Canadians",
+              "Actions taken entirely by a foreign government",
+              "A subject unrelated to the Redress Agreement",
+              "The internment and mistreatment of Japanese Canadians during the Second World War"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In addition to an apology, the Redress Agreement provided ___.",
+            "options": [
+              "New restrictions on Japanese Canadian communities",
+              "Financial compensation to affected Japanese Canadians",
+              "No compensation of any kind",
+              "A provision unrelated to the Redress Agreement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Redress Agreement was reached following advocacy from ___.",
+            "options": [
+              "Japanese Canadian community organizations seeking acknowledgment and justice",
+              "A group unrelated to the Redress Agreement",
+              "Foreign governments with no connection to Japanese Canadians",
+              "The organizations that originally supported internment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the 1988 Redress Agreement considered an important step in Canadian history?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It formally acknowledged a past injustice and worked toward reconciliation with an affected community",
+              "It had no connection to the internment of Japanese Canadians",
+              "It denied that any injustice had occurred"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Synonyms, Antonyms, and Shades of Meaning",
+        "summary": "Grade 8 Vocabulary strand: synonyms share similar meanings and antonyms have opposite meanings, but many synonyms carry subtly different shades of meaning that affect tone and precision in writing.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A synonym is a word that ___.",
+            "options": [
+              "Sounds identical to another word but means something unrelated",
+              "A concept unrelated to synonyms",
+              "Has a similar meaning to another word",
+              "Has the exact opposite meaning of another word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An antonym is a word that ___.",
+            "options": [
+              "Is always spelled the same as another word",
+              "A concept unrelated to antonyms",
+              "Has a similar meaning to another word",
+              "Has the opposite meaning of another word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of words are synonyms with slightly different shades of meaning?",
+            "options": [
+              "A pair unrelated to synonyms",
+              "Fast and slow",
+              "Happy and sad",
+              "Skinny and slender"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose the word “frugal” instead of “stingy” when describing a careful spender?",
+            "options": [
+              "The two words always mean exactly the same thing in every context",
+              "Stingy always sounds more positive than frugal",
+              "A reason unrelated to word choice",
+              "Frugal carries a more positive shade of meaning than stingy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding shades of meaning important when choosing precise vocabulary?",
+            "options": [
+              "A reason unrelated to vocabulary",
+              "Shades of meaning never affect how a word is understood",
+              "Every synonym conveys the exact same tone with no difference",
+              "It allows a writer to convey a more exact tone or attitude"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Independent and Dependent Events",
+        "summary": "Grade 8 Math strand: two events are independent if the outcome of one does not affect the probability of the other, while two events are dependent if the outcome of one event changes the probability of the other occurring.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "Two events are independent if ___.",
+            "options": [
+              "Both events must occur at the exact same time",
+              "A concept unrelated to independent events",
+              "The outcome of one event always determines the other completely",
+              "The outcome of one event does not affect the probability of the other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Two events are dependent if ___.",
+            "options": [
+              "A concept unrelated to dependent events",
+              "Both events always have an equal, unchanging probability",
+              "The two events have no relationship to each other whatsoever",
+              "The outcome of one event changes the probability of the other occurring"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Flipping a coin and then rolling a die are examples of ___.",
+            "options": [
+              "Dependent events",
+              "A concept unrelated to probability",
+              "Events that cannot be assigned any probability",
+              "Independent events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Drawing two cards from a deck without replacing the first card is an example of ___.",
+            "options": [
+              "An event with no measurable probability at all",
+              "Independent events, since each draw has no effect on the other",
+              "A concept unrelated to probability",
+              "Dependent events, since removing a card changes the probabilities for the second draw"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to determine whether events are independent or dependent before calculating their combined probability?",
+            "options": [
+              "The distinction never affects how a probability calculation is performed",
+              "A reason unrelated to probability",
+              "Dependent events always have exactly the same probability as independent events",
+              "It determines whether probabilities are multiplied using the same or adjusted values"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Environmental Science: The Carbon Cycle and the Greenhouse Effect",
+        "summary": "Grade 8 Science strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, land, and living things, and human activities that release additional carbon dioxide intensify the greenhouse effect, trapping more heat in the atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The carbon cycle describes how carbon moves between ___.",
+            "options": [
+              "A concept unrelated to the carbon cycle",
+              "The atmosphere, oceans, land, and living things",
+              "A single, fixed location that never changes",
+              "Only the atmosphere, with no other locations involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Photosynthesis removes carbon dioxide from the atmosphere by ___.",
+            "options": [
+              "Releasing it directly back into the atmosphere",
+              "A process unrelated to the carbon cycle",
+              "Destroying carbon dioxide completely with no byproduct",
+              "Converting it into oxygen and stored carbon compounds in plants"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The greenhouse effect refers to ___.",
+            "options": [
+              "A concept unrelated to the greenhouse effect",
+              "The atmosphere reflecting all incoming sunlight away from Earth",
+              "Gases in the atmosphere trapping heat that would otherwise escape into space",
+              "A complete absence of heat in Earth’s atmosphere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which human activity significantly increases the amount of carbon dioxide in the atmosphere?",
+            "options": [
+              "An activity unrelated to increasing carbon dioxide",
+              "Planting large numbers of trees across a region",
+              "Burning fossil fuels such as coal, oil, and natural gas",
+              "Reducing the use of vehicles and factories"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is an intensified greenhouse effect a concern for scientists studying climate?",
+            "options": [
+              "A reason unrelated to the greenhouse effect",
+              "The greenhouse effect has no connection to global temperature",
+              "It traps additional heat in the atmosphere, contributing to rising global temperatures",
+              "An intensified greenhouse effect always cools the planet"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canada-United States Free Trade Agreement",
+        "summary": "Grade 8 History strand: the Canada-United States Free Trade Agreement, implemented in 1989, eliminated most tariffs between the two countries, sparking national debate over its economic impact and later expanding into the trilateral North American Free Trade Agreement.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Canada-United States Free Trade Agreement was implemented in ___.",
+            "options": [
+              "A year unrelated to the Free Trade Agreement",
+              "1989",
+              "1920",
+              "1960"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Free Trade Agreement primarily aimed to ___.",
+            "options": [
+              "Increase tariffs between Canada and the United States",
+              "End all trade between Canada and the United States",
+              "A goal unrelated to the Free Trade Agreement",
+              "Eliminate most tariffs between Canada and the United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Free Trade Agreement was a significant topic of debate during the Canadian federal election of ___.",
+            "options": [
+              "1988",
+              "1945",
+              "1867",
+              "A year unrelated to the Free Trade Agreement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Canada-United States Free Trade Agreement later expanded into a trilateral agreement that included ___.",
+            "options": [
+              "Japan",
+              "Britain",
+              "A country unrelated to this trade agreement",
+              "Mexico"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did the Free Trade Agreement spark significant national debate in Canada?",
+            "options": [
+              "Every Canadian agreed completely on its expected impact",
+              "The agreement had no effect on the Canadian economy",
+              "A reason unrelated to the Free Trade Agreement",
+              "Canadians disagreed over how it would affect jobs, industries, and economic sovereignty"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Instructional Guide (Procedural Writing)",
+        "summary": "Grade 8 Writing strand: procedural writing gives clear, sequential instructions using numbered steps, precise language, and imperative verbs so that a reader can successfully complete a task or process.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Procedural writing is used to ___.",
+            "options": [
+              "Persuade a reader to agree with an opinion",
+              "A concept unrelated to procedural writing",
+              "Tell an entertaining story with no instructions",
+              "Give clear, sequential instructions for completing a task"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of verb is commonly used in procedural writing?",
+            "options": [
+              "Verbs written only in the past tense",
+              "Verbs that only describe feelings",
+              "Imperative verbs, such as mix or press",
+              "A type of verb unrelated to procedural writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do instructional guides often use numbered steps?",
+            "options": [
+              "Numbered steps make instructions harder to follow",
+              "Order never matters when completing a task",
+              "They show the reader the exact order in which actions must be completed",
+              "A reason unrelated to procedural writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is precise language important in an instructional guide?",
+            "options": [
+              "Vague instructions can cause a reader to complete a task incorrectly",
+              "Instructions are always understood correctly no matter the wording",
+              "A reason unrelated to procedural writing",
+              "Precise language never affects how well instructions are understood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a clear procedural instruction?",
+            "options": [
+              "Ovens can sometimes be found in kitchens",
+              "Preheat the oven to 180 degrees Celsius before baking",
+              "The oven was interesting to think about",
+              "A sentence unrelated to procedural writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Circle Theorems — Tangents and Inscribed Angles",
+        "summary": "Grade 8 Math strand (pre-high-school extension): a tangent line touches a circle at exactly one point and is perpendicular to the radius at that point, while an inscribed angle is formed by two chords meeting at a point on the circle.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A tangent line to a circle touches the circle at ___.",
+            "options": [
+              "Exactly one point",
+              "A concept unrelated to tangent lines",
+              "No points on the circle at all",
+              "Two separate points"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At the point of tangency, a tangent line is always ___.",
+            "options": [
+              "Perpendicular to the radius drawn to that point",
+              "A concept unrelated to tangent lines",
+              "Parallel to the radius drawn to that point",
+              "Passing directly through the centre of the circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An inscribed angle is formed by ___.",
+            "options": [
+              "A single line segment with no second chord involved",
+              "Two chords meeting at a point on the circle",
+              "A concept unrelated to inscribed angles",
+              "Two radii meeting at the centre of the circle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An inscribed angle is always equal to ___ the measure of its intercepted central angle.",
+            "options": [
+              "The same as",
+              "A fraction unrelated to inscribed angles",
+              "Double",
+              "Half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are circle theorems, such as those involving tangents and inscribed angles, useful in fields like engineering and design?",
+            "options": [
+              "A reason unrelated to circle theorems",
+              "Tangents and inscribed angles cannot be measured or calculated",
+              "They allow precise calculations of angles and distances in circular structures",
+              "Circle theorems have no practical use outside of a mathematics classroom"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space Science: The Phases of the Moon and Eclipses",
+        "summary": "Grade 8 Science strand: the Moon’s phases occur as it orbits Earth and different portions of its sunlit side become visible, while a solar eclipse occurs when the Moon passes between the Sun and Earth, and a lunar eclipse occurs when Earth passes between the Sun and Moon.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The phases of the Moon occur because ___.",
+            "options": [
+              "A concept unrelated to the phases of the Moon",
+              "The Moon actually changes shape during its orbit",
+              "Different portions of the Moon’s sunlit side are visible from Earth as it orbits",
+              "The Moon produces its own light that changes in intensity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A solar eclipse occurs when ___.",
+            "options": [
+              "The Moon is at its farthest point from Earth",
+              "The Moon passes between the Sun and Earth, blocking sunlight",
+              "Earth passes between the Sun and the Moon",
+              "A concept unrelated to solar eclipses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A lunar eclipse occurs when ___.",
+            "options": [
+              "A concept unrelated to lunar eclipses",
+              "The Moon passes directly between the Sun and Earth",
+              "Earth passes between the Sun and the Moon, casting a shadow on the Moon",
+              "The Sun passes between Earth and the Moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A full moon occurs when ___.",
+            "options": [
+              "The entire sunlit side of the Moon faces Earth",
+              "The Moon is positioned directly between the Sun and Earth",
+              "A concept unrelated to the phases of the Moon",
+              "None of the sunlit side of the Moon faces Earth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do eclipses not occur every single month, even though the Moon orbits Earth monthly?",
+            "options": [
+              "Eclipses actually occur every month without exception",
+              "The Moon’s orbit is slightly tilted relative to Earth’s orbit around the Sun, so perfect alignment is rare",
+              "A reason unrelated to eclipses",
+              "The Moon’s orbit has no tilt at all relative to Earth’s orbit"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Atlantic Cod Moratorium of 1992",
+        "summary": "Grade 8 History strand: in 1992, the Canadian government declared a moratorium on cod fishing off the coast of Newfoundland after decades of overfishing caused the collapse of cod stocks, resulting in the loss of tens of thousands of jobs in Atlantic Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Atlantic cod moratorium was declared in ___.",
+            "options": [
+              "A year unrelated to the cod moratorium",
+              "2010",
+              "1992",
+              "1960"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The cod moratorium was declared primarily because of ___.",
+            "options": [
+              "The collapse of cod stocks caused by decades of overfishing",
+              "A new law banning all fishing of every species",
+              "A cause unrelated to the cod moratorium",
+              "A sudden increase in the cod population that needed to be managed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The cod moratorium had a major economic impact on ___.",
+            "options": [
+              "Communities in the Canadian prairies",
+              "A region unrelated to the cod moratorium",
+              "Communities along the Pacific coast exclusively",
+              "Communities in Atlantic Canada, especially Newfoundland"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As a direct result of the cod moratorium, tens of thousands of workers ___.",
+            "options": [
+              "Received significant pay increases in the fishing industry",
+              "A result unrelated to the cod moratorium",
+              "Lost their jobs in the fishing industry",
+              "Were relocated permanently outside of Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the cod moratorium often cited as a lesson in resource management?",
+            "options": [
+              "A reason unrelated to its historical significance",
+              "It demonstrated the consequences of overfishing a resource without sustainable limits",
+              "It showed that overfishing never has any lasting effect on a resource",
+              "It proved that fish populations always recover immediately regardless of fishing practices"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Direct and Indirect Characterization",
+        "summary": "Grade 8 Reading strand: direct characterization occurs when an author explicitly states a character’s traits, while indirect characterization reveals traits through a character’s actions, dialogue, thoughts, and how other characters respond to them.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Direct characterization occurs when an author ___.",
+            "options": [
+              "Only reveals traits through a character’s actions",
+              "Never describes a character in any way",
+              "A concept unrelated to direct characterization",
+              "Explicitly states a character’s traits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Indirect characterization reveals traits through ___.",
+            "options": [
+              "The book’s cover illustration alone",
+              "A character’s actions, dialogue, and thoughts",
+              "A direct statement naming the trait explicitly",
+              "A concept unrelated to indirect characterization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of direct characterization?",
+            "options": [
+              "A sentence unrelated to characterization",
+              "Maria was a kind and patient person.",
+              "Maria walked quickly down the street.",
+              "Maria smiled and helped the lost child find her way home."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of indirect characterization?",
+            "options": [
+              "Jordan slammed the door and refused to speak to anyone.",
+              "Jordan was described as difficult by the narrator.",
+              "Jordan was an angry and stubborn person.",
+              "A sentence unrelated to characterization"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author prefer indirect characterization over stating traits directly?",
+            "options": [
+              "Direct statements are always more engaging than showing traits through action",
+              "Indirect characterization always confuses readers with no benefit",
+              "It allows readers to draw their own conclusions and become more engaged with the character",
+              "A reason unrelated to characterization"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Recursive and Explicit Formulas for Sequences",
+        "summary": "Grade 8 Math strand: a recursive formula defines each term in a sequence based on the previous term, while an explicit formula calculates any term directly using its position number in the sequence.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A recursive formula defines each term in a sequence based on ___.",
+            "options": [
+              "The previous term in the sequence",
+              "A completely random value each time",
+              "A concept unrelated to recursive formulas",
+              "Only the position number of the term"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An explicit formula allows a term to be calculated ___.",
+            "options": [
+              "A concept unrelated to explicit formulas",
+              "Only by first calculating every previous term in the sequence",
+              "By guessing randomly with no formula involved",
+              "Directly using its position number, without knowing previous terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For the sequence 3, 7, 11, 15, the recursive rule is ___.",
+            "options": [
+              "Subtract 4 from the previous term",
+              "Add 4 to the previous term",
+              "Multiply the previous term by 4",
+              "A rule unrelated to the sequence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the arithmetic sequence with first term 3 and common difference 4, the explicit formula for the nth term is ___.",
+            "options": [
+              "3 + 4(n - 1)",
+              "A formula unrelated to the sequence",
+              "3 x 4n",
+              "4 + 3(n - 1)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an explicit formula be more useful than a recursive formula when finding the 100th term of a sequence?",
+            "options": [
+              "A recursive formula is always faster for finding distant terms",
+              "It calculates the term directly without needing to find all 99 previous terms",
+              "A reason unrelated to patterning",
+              "Explicit and recursive formulas always require the exact same amount of work"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Technology: 3D Printing and Additive Manufacturing",
+        "summary": "Grade 8 Science strand: 3D printing, or additive manufacturing, builds objects layer by layer from a digital design, contrasting with traditional subtractive manufacturing, which removes material from a larger block to create a shape.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "3D printing is also known as ___.",
+            "options": [
+              "Subtractive manufacturing",
+              "Additive manufacturing",
+              "Traditional casting",
+              "A concept unrelated to 3D printing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Additive manufacturing builds objects by ___.",
+            "options": [
+              "Removing material from a larger solid block",
+              "A concept unrelated to additive manufacturing",
+              "Adding material layer by layer based on a digital design",
+              "Melting an entire object into a single new shape at once"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Subtractive manufacturing differs from 3D printing because it ___.",
+            "options": [
+              "A concept unrelated to subtractive manufacturing",
+              "Removes material from a larger block to create a shape",
+              "Uses no material of any kind",
+              "Adds material layer by layer to create a shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common advantage of 3D printing over traditional manufacturing?",
+            "options": [
+              "It can create complex, customized shapes with relatively little material waste",
+              "It always produces more material waste than traditional methods",
+              "3D printing can never create a customized design",
+              "An advantage unrelated to 3D printing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might 3D printing be useful in fields such as medicine, for creating custom prosthetics?",
+            "options": [
+              "3D printed objects can never be customized to an individual",
+              "Prosthetics can only be made using subtractive manufacturing",
+              "It allows objects to be precisely customized to an individual’s specific measurements",
+              "A reason unrelated to 3D printing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Creation of Nunavut",
+        "summary": "Grade 8 History strand: in 1999, the territory of Nunavut was created out of the eastern portion of the Northwest Territories, establishing a homeland with Inuit self-government following decades of negotiation between Inuit leaders and the Canadian government.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The territory of Nunavut was officially created in ___.",
+            "options": [
+              "1999",
+              "A year unrelated to the creation of Nunavut",
+              "1931",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nunavut was created out of the eastern portion of ___.",
+            "options": [
+              "The Northwest Territories",
+              "A region unrelated to the creation of Nunavut",
+              "British Columbia",
+              "Quebec"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The creation of Nunavut established a homeland with significant self-government for ___.",
+            "options": [
+              "The Métis",
+              "A group unrelated to the creation of Nunavut",
+              "The Inuit",
+              "European settlers exclusively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The creation of Nunavut followed decades of ___.",
+            "options": [
+              "Conflict between Nunavut and the Northwest Territories over unrelated issues",
+              "A single, immediate decision made without any negotiation",
+              "Negotiation between Inuit leaders and the Canadian government",
+              "A process unrelated to the creation of Nunavut"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the creation of Nunavut considered a significant milestone in Indigenous self-governance in Canada?",
+            "options": [
+              "It removed all self-governance previously held by the Inuit",
+              "It gave the Inuit greater control over their own land and government after years of advocacy",
+              "A reason unrelated to its historical significance",
+              "It had no connection to Inuit land or governance"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Sentence Fragments and Run-on Sentences",
+        "summary": "Grade 8 Grammar strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, while a run-on sentence incorrectly joins two or more complete sentences without proper punctuation or conjunctions.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "A sentence fragment is an incomplete sentence that is missing ___.",
+            "options": [
+              "A subject, verb, or complete thought",
+              "Only a title at the beginning",
+              "A concept unrelated to sentence fragments",
+              "A specific number of words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A run-on sentence occurs when ___.",
+            "options": [
+              "A sentence contains only a single short word",
+              "A sentence uses too many commas correctly",
+              "A concept unrelated to run-on sentences",
+              "Two or more complete sentences are joined without proper punctuation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a sentence fragment?",
+            "options": [
+              "A sentence unrelated to fragments",
+              "She runs through the park every morning.",
+              "The dog barked loudly at the mail carrier.",
+              "Running through the park every morning."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these correctly fixes a run-on sentence?",
+            "options": [
+              "I finished my homework, and then I watched a movie.",
+              "A correction unrelated to run-on sentences",
+              "I finished my homework I watched a movie.",
+              "I finished my homework then I watched a movie no comma at all."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to avoid sentence fragments and run-ons in formal writing?",
+            "options": [
+              "A reason unrelated to grammar",
+              "Fragments and run-ons always make writing clearer",
+              "Formal writing never requires complete, properly punctuated sentences",
+              "They can confuse readers and make ideas harder to follow clearly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Line of Best Fit — Interpolation and Extrapolation",
+        "summary": "Grade 8 Math strand: a line of best fit approximates the trend in a scatter plot, and it can be used for interpolation, estimating values within the range of the data, or extrapolation, estimating values beyond the range of the data.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "A line of best fit is used to ___.",
+            "options": [
+              "A concept unrelated to lines of best fit",
+              "Connect every single data point exactly with no approximation",
+              "Approximate the overall trend shown in a scatter plot",
+              "Remove all the data points from a scatter plot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Interpolation refers to estimating a value ___.",
+            "options": [
+              "Within the range of the existing data",
+              "A concept unrelated to interpolation",
+              "Far beyond the range of the existing data",
+              "With no connection to any data at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Extrapolation refers to estimating a value ___.",
+            "options": [
+              "Only within the exact range of the existing data",
+              "That already appears directly in the data set",
+              "Beyond the range of the existing data",
+              "A concept unrelated to extrapolation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is generally considered less reliable, interpolation or extrapolation?",
+            "options": [
+              "Interpolation, since it always ignores the known data points",
+              "Extrapolation, since it assumes the trend continues beyond the known data",
+              "Both are always equally reliable in every situation",
+              "A comparison unrelated to lines of best fit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a line of best fit useful when analyzing a scatter plot of real-world data?",
+            "options": [
+              "It helps identify trends and make predictions based on the overall pattern in the data",
+              "A reason unrelated to statistics",
+              "Scatter plots never show any pattern that a line could approximate",
+              "A line of best fit provides no useful information about a data set"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Health Science: The Nervous System and Reflex Actions",
+        "summary": "Grade 8 Science strand: the nervous system transmits electrical signals between the brain, spinal cord, and body through neurons, and a reflex action is a rapid, automatic response to a stimulus that bypasses conscious thought in the brain.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "The nervous system transmits signals through specialized cells called ___.",
+            "options": [
+              "Red blood cells",
+              "Neurons",
+              "Muscle fibres",
+              "A type of cell unrelated to the nervous system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The two main components of the central nervous system are the ___.",
+            "options": [
+              "Heart and lungs",
+              "Stomach and liver",
+              "Brain and spinal cord",
+              "A pair of organs unrelated to the nervous system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A reflex action is best described as ___.",
+            "options": [
+              "A rapid, automatic response to a stimulus that bypasses conscious thought",
+              "An action that never involves the nervous system at all",
+              "A concept unrelated to reflex actions",
+              "A slow, carefully considered decision made by the brain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Pulling your hand away quickly after touching something hot is an example of ___.",
+            "options": [
+              "An action with no connection to the nervous system",
+              "A concept unrelated to reflex actions",
+              "A carefully planned decision made by the brain",
+              "A reflex action controlled by the spinal cord"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are reflex actions important for protecting the body from harm?",
+            "options": [
+              "They allow a rapid response to danger before the brain fully processes the situation",
+              "A reason unrelated to reflex actions",
+              "The nervous system has no role in protecting the body",
+              "Reflex actions always occur too slowly to provide any protection"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in NATO and NORAD",
+        "summary": "Grade 8 History strand: Canada became a founding member of NATO in 1949 and later joined NORAD in 1958, two Cold War-era defence partnerships with the United States and other allied nations aimed at collective security and continental air defence.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "Canada became a founding member of NATO in ___.",
+            "options": [
+              "A year unrelated to NATO",
+              "1949",
+              "1982",
+              "1918"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "NATO was formed primarily to ___.",
+            "options": [
+              "Provide collective security among member nations during the Cold War",
+              "End all military alliances between Western nations",
+              "Focus exclusively on trade agreements",
+              "A purpose unrelated to NATO"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Canada joined NORAD, a joint continental air defence system, in ___.",
+            "options": [
+              "2001",
+              "1958",
+              "A year unrelated to NORAD",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "NORAD was established as a partnership between Canada and ___.",
+            "options": [
+              "Britain",
+              "The Soviet Union",
+              "A country unrelated to NORAD",
+              "The United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why were NATO and NORAD significant for Canada’s role during the Cold War?",
+            "options": [
+              "A reason unrelated to their historical significance",
+              "They demonstrated Canada’s commitment to collective defence alongside its allies",
+              "They had no connection to Canada’s foreign or defence policy",
+              "They ended Canada’s military cooperation with other nations entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Days 71-79 Language Arts",
+        "summary": "Grade 8 Language strand: this review lesson revisits mood and tone, formal business letters, verbals, fact-checking, unreliable narrators, shades of meaning, procedural writing, characterization, and sentence fragments/run-ons from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Mood in a text is best described as ___.",
+            "options": [
+              "The exact number of characters in a story",
+              "The emotional atmosphere a reader feels while reading",
+              "A concept unrelated to mood",
+              "The physical setting where a story takes place"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fact-checking involves ___.",
+            "options": [
+              "A concept unrelated to fact-checking",
+              "Accepting every claim without question",
+              "Verifying claims against reliable, independent sources",
+              "Sharing information immediately with no review"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An unreliable narrator is a storyteller whose ___.",
+            "options": [
+              "Account is always completely accurate and trustworthy",
+              "A concept unrelated to unreliable narrators",
+              "Perspective is identical to every other character in the story",
+              "Credibility is compromised, requiring readers to question their account"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Indirect characterization reveals traits through ___.",
+            "options": [
+              "A character’s actions, dialogue, and thoughts",
+              "A direct statement naming the trait explicitly",
+              "The book’s cover illustration alone",
+              "A concept unrelated to indirect characterization"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review reading, writing, grammar, and media literacy skills together?",
+            "options": [
+              "Review never helps strengthen understanding of language skills",
+              "These topics have no connection to one another",
+              "A reason unrelated to reviewing language arts",
+              "It reinforces how these language and literacy skills connect and support one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Days 71-79 Math Concepts",
+        "summary": "Grade 8 Math strand review: this lesson revisits prime factorization and the GCF/LCM, solving systems of equations by graphing, composite figures, two-way tables, percent change, independent and dependent events, circle theorems, recursive and explicit formulas, and lines of best fit from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "The greatest common factor (GCF) of 18 and 24 is ___.",
+            "options": [
+              "3",
+              "9",
+              "A value unrelated to the calculation",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The point of intersection of two graphed lines represents ___.",
+            "options": [
+              "The y-intercept of only one equation",
+              "A point that satisfies neither equation",
+              "The solution that satisfies both equations",
+              "A concept unrelated to systems of equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two events are independent if ___.",
+            "options": [
+              "The outcome of one event always determines the other completely",
+              "The outcome of one event does not affect the probability of the other",
+              "Both events must occur at the exact same time",
+              "A concept unrelated to independent events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An explicit formula allows a term to be calculated ___.",
+            "options": [
+              "By guessing randomly with no formula involved",
+              "Only by first calculating every previous term in the sequence",
+              "A concept unrelated to explicit formulas",
+              "Directly using its position number, without knowing previous terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review number theory, algebra, geometry, data management, and probability together?",
+            "options": [
+              "Review is never useful in math",
+              "A reason unrelated to reviewing math",
+              "These topics have no connection to each other in mathematics",
+              "These related math concepts reinforce each other for stronger overall understanding"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Days 71-79 Science Concepts",
+        "summary": "Grade 8 Science strand review: this lesson revisits structures and mechanisms, elements/compounds/mixtures, Earth’s internal layers, genetic mutations, Newton’s laws of motion, the carbon cycle, phases of the Moon, 3D printing, and the nervous system from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Compression is a type of stress that occurs when a structure is ___.",
+            "options": [
+              "A concept unrelated to compression",
+              "Squeezed or pushed together",
+              "Twisted around its centre",
+              "Stretched or pulled apart"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A compound is formed when ___.",
+            "options": [
+              "Substances are physically mixed with no chemical bonding",
+              "Two or more elements are chemically combined in a fixed ratio",
+              "A concept unrelated to compounds",
+              "A single element exists on its own"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Newton’s Second Law of Motion is often summarized by the formula ___.",
+            "options": [
+              "Force equals mass times acceleration",
+              "Force equals distance divided by time",
+              "A formula unrelated to Newton’s Second Law",
+              "Force equals mass divided by acceleration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A reflex action is best described as ___.",
+            "options": [
+              "A concept unrelated to reflex actions",
+              "A slow, carefully considered decision made by the brain",
+              "A rapid, automatic response to a stimulus that bypasses conscious thought",
+              "An action that never involves the nervous system at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review physics, chemistry, earth science, and life science topics together?",
+            "options": [
+              "A reason unrelated to reviewing science",
+              "Each topic must be studied with no connection to the others",
+              "It reinforces how these interconnected science concepts relate to one another",
+              "These topics have no connection to each other"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Days 71-79 Canadian History",
+        "summary": "Grade 8 History strand review: this lesson revisits the Klondike Gold Rush, the Boer War, the Quiet Revolution, the 1967 immigration points system, the Japanese Canadian Redress Agreement, the Free Trade Agreement, the cod moratorium, the creation of Nunavut, and Canada’s role in NATO and NORAD from recent lessons.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "quiz": [
+          {
+            "q": "The Klondike Gold Rush began after gold was discovered near ___.",
+            "options": [
+              "Toronto",
+              "Dawson City",
+              "A location unrelated to the Klondike Gold Rush",
+              "Halifax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Quiet Revolution took place primarily during the ___.",
+            "options": [
+              "1930s",
+              "1960s",
+              "1990s",
+              "A time period unrelated to the Quiet Revolution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The points system evaluated immigration applicants based primarily on ___.",
+            "options": [
+              "Factors such as education and skills",
+              "A factor unrelated to the points system",
+              "Religious affiliation alone",
+              "Race and country of origin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The creation of Nunavut established a homeland with significant self-government for ___.",
+            "options": [
+              "A group unrelated to the creation of Nunavut",
+              "The Métis",
+              "The Inuit",
+              "European settlers exclusively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review these events in Canadian history together?",
+            "options": [
+              "A reason unrelated to social studies learning",
+              "Review is never useful when studying history and policy",
+              "These topics have no connection to one another",
+              "It reinforces how these events shaped Canadian identity, governance, and international relationships over time"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
