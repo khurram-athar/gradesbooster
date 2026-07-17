@@ -17032,5 +17032,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Paradox and Oxymoron",
+        "summary": "Grade 9 Reading strand: a paradox is a statement that seems contradictory but reveals a deeper truth, while an oxymoron combines two seemingly contradictory terms within a single phrase for rhetorical or poetic effect.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A paradox is best described as ___.",
+            "options": [
+              "A statement that seems contradictory but reveals a deeper truth",
+              "A sentence with no rhetorical purpose whatsoever",
+              "A concept unrelated to literary analysis",
+              "A statement that is always literally false"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An oxymoron combines ___.",
+            "options": [
+              "Only synonyms that mean the exact same thing",
+              "Two unrelated ideas that share no connection at all",
+              "A concept unrelated to figurative language",
+              "Two seemingly contradictory terms within a single phrase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these phrases is an example of an oxymoron?",
+            "options": [
+              "Bright sunshine",
+              "Deafening silence",
+              "Quiet whisper",
+              "A phrase unrelated to oxymorons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a paradox, such as “less is more,” to express an idea?",
+            "options": [
+              "Paradoxes never communicate any meaningful idea",
+              "It captures a surprising truth that a straightforward statement might not convey as memorably",
+              "A paradox always states the obvious with no deeper meaning",
+              "This technique has no connection to persuasive or literary writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is recognizing paradox and oxymoron a useful skill when reading literature and poetry?",
+            "options": [
+              "This skill has no relevance to interpreting figurative language",
+              "These devices never appear in literature or poetry",
+              "Contradiction in a text is always a writing error, not a deliberate device",
+              "It helps readers uncover deeper meaning conveyed through intentional contradiction"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Arithmetic Sequences and Series (Intro)",
+        "summary": "Grade 9 Algebra strand: an arithmetic sequence is an ordered list of numbers with a constant difference between consecutive terms, and the sum of its terms forms an arithmetic series.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "An arithmetic sequence is defined by ___.",
+            "options": [
+              "Terms that never follow any predictable pattern",
+              "A concept unrelated to sequences",
+              "A constant ratio between consecutive terms",
+              "A constant difference between consecutive terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the common difference in the sequence 4, 9, 14, 19?",
+            "options": [
+              "5",
+              "4",
+              "9",
+              "A value unrelated to this sequence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sequence 3, 7, 11, 15, what is the next term?",
+            "options": [
+              "17",
+              "A value unrelated to this sequence",
+              "19",
+              "21"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An arithmetic series refers to ___.",
+            "options": [
+              "The sum of the terms in an arithmetic sequence",
+              "The common difference of a sequence only",
+              "A single term drawn at random from a sequence",
+              "A concept unrelated to arithmetic sequences"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying the common difference useful for predicting future terms in an arithmetic sequence?",
+            "options": [
+              "It allows each successive term to be found by repeatedly adding the same fixed value",
+              "Future terms in a sequence can never be predicted mathematically",
+              "The common difference has no connection to predicting future terms",
+              "This concept applies only to geometric sequences, not arithmetic ones"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Digestive System and Nutrient Absorption",
+        "summary": "Grade 9 Science Biology strand: the digestive system breaks down food both mechanically and chemically into nutrients that can be absorbed into the bloodstream, primarily through the stomach, small intestine, and large intestine.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The digestive system breaks down food into ___.",
+            "options": [
+              "A concept unrelated to biology",
+              "Oxygen that can be used by the lungs",
+              "Waste products only, with no nutrients produced",
+              "Nutrients that can be absorbed into the bloodstream"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which organ is primarily responsible for absorbing most nutrients into the bloodstream?",
+            "options": [
+              "The small intestine",
+              "The liver exclusively",
+              "An organ unrelated to digestion",
+              "The stomach"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mechanical digestion refers to ___.",
+            "options": [
+              "The physical breakdown of food, such as chewing and churning in the stomach",
+              "The chemical breakdown of food using enzymes exclusively",
+              "A concept unrelated to digestion",
+              "The absorption of nutrients into the blood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are digestive enzymes important during chemical digestion?",
+            "options": [
+              "Enzymes only function outside of the digestive tract",
+              "Enzymes have no role in breaking down food",
+              "They break down large food molecules into smaller molecules the body can absorb and use",
+              "This concept has no connection to the digestive system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the large intestine play an important role after most nutrients have already been absorbed?",
+            "options": [
+              "The large intestine has no remaining function after nutrient absorption",
+              "This concept has no connection to the digestive system",
+              "The large intestine is where most chemical digestion begins",
+              "It absorbs remaining water and forms solid waste for elimination"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Physical Geography: Weathering, Erosion, and Landform Change",
+        "summary": "Grade 9 Social Studies (Geography) strand: weathering breaks down rock into smaller pieces through physical or chemical processes, while erosion transports those weathered materials elsewhere, together gradually reshaping landforms over time.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Weathering is best described as the process that ___.",
+            "options": [
+              "Instantly transforms rock into soil with no gradual process",
+              "Transports weathered material from one location to another",
+              "A concept unrelated to physical geography",
+              "Breaks down rock into smaller pieces through physical or chemical processes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Erosion is best described as the process that ___.",
+            "options": [
+              "Prevents any movement of weathered material",
+              "A concept unrelated to physical geography",
+              "Transports weathered material from one location to another",
+              "Breaks rock down into smaller pieces at its original location"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an agent of erosion?",
+            "options": [
+              "Flowing water in a river",
+              "Sunlight with no accompanying force",
+              "A completely still, motionless lake with no current",
+              "A concept unrelated to erosion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a river gradually carve a deep canyon over thousands of years?",
+            "options": [
+              "This concept has no connection to landform change",
+              "Canyons form instantly with no gradual geological process",
+              "Rivers never have any erosive effect on surrounding rock",
+              "Continuous erosion by flowing water gradually wears away rock along the riverbed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding weathering and erosion important for studying how landscapes change over time?",
+            "options": [
+              "These processes explain how mountains, valleys, and coastlines are gradually reshaped",
+              "Landforms never change once they are originally formed",
+              "Weathering and erosion have no effect on the appearance of landscapes",
+              "This topic has no relevance to physical geography"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Process (How-To) Essay",
+        "summary": "Grade 9 Writing strand: a process essay explains how to complete a task or how something works through a clear sequence of steps, often using transitional words to guide the reader from one stage to the next.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A process essay primarily explains ___.",
+            "options": [
+              "A personal narrative with no instructional purpose",
+              "A concept unrelated to expository writing",
+              "How to complete a task or how something works through a sequence of steps",
+              "An argument meant to persuade a reader toward one opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are transitional words such as “first,” “next,” and “finally” especially important in a process essay?",
+            "options": [
+              "These words are only appropriate in narrative writing",
+              "They help guide the reader clearly through each step in the correct order",
+              "This concept has no connection to expository writing",
+              "Transitional words are never necessary in a process essay"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these topics would be best suited to a process essay?",
+            "options": [
+              "A topic unrelated to explaining a process",
+              "An opinion piece arguing for a change in school policy",
+              "A purely emotional recollection with no steps involved",
+              "How to set up and organize a small vegetable garden"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a process essay benefit from being organized in strict chronological order?",
+            "options": [
+              "Steps that must be completed in sequence are easiest to follow when presented in the order they occur",
+              "Steps in a process essay should always be presented in random order",
+              "Chronological order is never useful in expository writing",
+              "This concept has no connection to how a process essay is structured"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should a process essay include precise, specific details at each step?",
+            "options": [
+              "Specific details only matter in narrative or descriptive writing",
+              "This concept has no relevance to expository writing",
+              "Precise details help ensure the reader can accurately follow and complete the process",
+              "Vague, general details are always more effective in a process essay"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Graphing Systems of Linear Inequalities",
+        "summary": "Grade 9 Algebra strand: solving a system of linear inequalities involves graphing each inequality on the same coordinate plane and identifying the overlapping shaded region that satisfies every inequality simultaneously.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "The solution to a system of linear inequalities is represented by ___.",
+            "options": [
+              "A single point that satisfies only one inequality",
+              "The overlapping shaded region that satisfies every inequality simultaneously",
+              "A concept unrelated to systems of inequalities",
+              "The entire coordinate plane, regardless of any inequality"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When graphing an inequality that uses a strict inequality symbol, such as less than, the boundary line should be drawn as ___.",
+            "options": [
+              "A solid line, since points on the line are always included",
+              "A dashed line, since points on the line are not included in the solution",
+              "A concept unrelated to graphing inequalities",
+              "No line at all, since boundaries are never graphed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the inequality y is greater than or equal to x plus 1, which type of line should be used?",
+            "options": [
+              "A solid line, since points on the line satisfy the inequality",
+              "A value unrelated to graphing this inequality",
+              "A dashed line, since points on the line never satisfy the inequality",
+              "A curved line, since this inequality is non-linear"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a test point, such as the origin, be used when graphing an inequality?",
+            "options": [
+              "This concept has no connection to systems of inequalities",
+              "Test points are never useful when graphing inequalities",
+              "It helps determine which side of the boundary line should be shaded as the solution region",
+              "A test point always lies exactly on the boundary line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a system of linear inequalities have no solution?",
+            "options": [
+              "A system can never be graphed if it includes more than one inequality",
+              "Every system of linear inequalities always has a solution",
+              "The shaded regions of each inequality might not overlap anywhere on the coordinate plane",
+              "This concept has no connection to graphing systems of inequalities"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skeletal and Muscular Systems",
+        "summary": "Grade 9 Science Biology strand: the skeletal system provides structural support and protection for the body, while the muscular system works with the skeleton to enable movement through the contraction and relaxation of muscles.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The skeletal system primarily provides the body with ___.",
+            "options": [
+              "The ability to digest food",
+              "The transportation of oxygen throughout the body",
+              "Structural support and protection for internal organs",
+              "A concept unrelated to body systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Muscles enable movement by ___.",
+            "options": [
+              "Remaining permanently rigid with no change in length",
+              "A concept unrelated to the muscular system",
+              "Producing digestive enzymes",
+              "Contracting and relaxing in coordination with the skeleton"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a function of the skeletal system?",
+            "options": [
+              "Producing sound waves for hearing",
+              "A function unrelated to the skeletal system",
+              "Protecting organs such as the brain and heart",
+              "Filtering waste from the blood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must the skeletal and muscular systems work closely together to produce movement?",
+            "options": [
+              "These two systems function completely independently of one another",
+              "Muscles pull on bones connected at joints, and the skeleton provides the rigid structure needed for that force to create motion",
+              "The muscular system alone can produce movement without the skeleton",
+              "This concept has no connection to how the body moves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might bones be described as living tissue rather than simply rigid, non-living structures?",
+            "options": [
+              "Bones are incapable of any growth or repair",
+              "Bones contain living cells, grow, and can repair themselves after injury",
+              "This concept has no connection to the skeletal system",
+              "Bones contain no living cells whatsoever"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Site and Situation: Why Cities Are Located Where They Are",
+        "summary": "Grade 9 Social Studies (Geography) strand: a city’s site refers to its exact physical location and local features, while its situation refers to its position relative to surrounding regions, and both factors influence why cities develop where they do.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "A city’s site refers to ___.",
+            "options": [
+              "Its exact physical location and local features",
+              "A concept unrelated to urban geography",
+              "Its position relative to surrounding regions",
+              "The total population living within the city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A city’s situation refers to ___.",
+            "options": [
+              "Its position relative to surrounding regions",
+              "The architectural style of its buildings",
+              "Its exact physical location and local features",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might early settlers have chosen a site near a river when founding a city?",
+            "options": [
+              "Rivers never provided any practical advantage for early settlement",
+              "Rivers were avoided because they made travel more difficult",
+              "Rivers provided access to fresh water, transportation, and fertile land",
+              "This concept has no connection to why cities are located where they are"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a city’s situation, such as being located along a major trade route, contribute to its economic growth?",
+            "options": [
+              "This concept has no relevance to urban geography",
+              "Trade routes never influence where cities grow economically",
+              "Situation has no connection to a city’s economic development",
+              "A favourable position relative to trade routes can improve access to goods, markets, and other regions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do geographers examine both site and situation when studying why a city developed in a particular location?",
+            "options": [
+              "A city’s location is always determined randomly, with no identifiable factors",
+              "These factors have no connection to understanding urban development",
+              "Together, these factors explain both the local physical advantages and the broader regional relationships that shaped a city’s growth",
+              "Site and situation are the same concept with no meaningful distinction"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Semicolons, Colons, and Complex Punctuation",
+        "summary": "Grade 9 Writing strand: a semicolon joins two closely related independent clauses without a coordinating conjunction, while a colon introduces a list, explanation, or example following a complete sentence.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A semicolon is used to ___.",
+            "options": [
+              "A concept unrelated to punctuation",
+              "Join two closely related independent clauses without a coordinating conjunction",
+              "Separate items within a simple list of single words",
+              "End a sentence in place of a period"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A colon is typically used to ___.",
+            "options": [
+              "Join two unrelated sentences with no logical connection",
+              "Replace a comma in every possible situation",
+              "Introduce a list, explanation, or example following a complete sentence",
+              "A concept unrelated to punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "A sentence with no semicolon at all.",
+              "The rain continued all afternoon; the game was eventually postponed.",
+              "The rain continued all afternoon, the game was eventually postponed.",
+              "The rain, continued all afternoon; the game postponed."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a colon to introduce a list?",
+            "options": [
+              "Please bring the following: items a notebook a pencil.",
+              "A sentence with no colon or list included.",
+              "Please bring the following items, a notebook, a pencil, and a calculator.",
+              "Please bring the following items: a notebook, a pencil, and a calculator."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose a semicolon rather than a period between two related independent clauses?",
+            "options": [
+              "This concept has no connection to punctuation choices",
+              "A semicolon and a period always convey the exact same relationship between ideas",
+              "A semicolon signals a closer logical connection between the two ideas than a period would suggest",
+              "Semicolons are never appropriate between two independent clauses"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Discriminant and the Nature of Roots",
+        "summary": "Grade 9 Algebra strand: in a quadratic equation, the discriminant, calculated as b squared minus 4ac, determines whether the equation has two real roots, one repeated real root, or no real roots.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "The discriminant of a quadratic equation is calculated using the formula ___.",
+            "options": [
+              "A formula unrelated to the discriminant",
+              "negative b divided by 2a",
+              "b squared plus 4ac",
+              "b squared minus 4ac"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the discriminant of a quadratic equation is positive, the equation has ___.",
+            "options": [
+              "Two distinct real roots",
+              "Exactly one repeated real root",
+              "A result unrelated to the discriminant",
+              "No real roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the discriminant of a quadratic equation equals zero, the equation has ___.",
+            "options": [
+              "One repeated real root",
+              "A result unrelated to the discriminant",
+              "No real roots at all",
+              "Two distinct real roots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the discriminant of a quadratic equation is negative, the equation has ___.",
+            "options": [
+              "Two distinct real roots",
+              "No real roots",
+              "Exactly one repeated real root",
+              "A result unrelated to the discriminant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is calculating the discriminant useful before attempting to solve a quadratic equation using the quadratic formula?",
+            "options": [
+              "It reveals how many real solutions to expect, which can save time and clarify the type of answer to look for",
+              "The discriminant has no connection to the number of solutions a quadratic equation has",
+              "This concept has no relevance to solving quadratic equations",
+              "The discriminant must always be calculated after solving the equation, never before"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nanotechnology and Materials Science",
+        "summary": "Grade 9 Science Technology strand: nanotechnology involves manipulating matter at an extremely small scale, often at the level of individual atoms or molecules, to create materials with new or enhanced properties.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Nanotechnology involves manipulating matter at ___.",
+            "options": [
+              "A scale only relevant to astronomical distances",
+              "A concept unrelated to materials science",
+              "A scale visible clearly to the naked eye with no magnification",
+              "An extremely small scale, often at the level of individual atoms or molecules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Materials engineered at the nanoscale can have properties that ___.",
+            "options": [
+              "Are always identical to the same material at a larger scale",
+              "A concept unrelated to nanotechnology",
+              "Never change regardless of the scale being examined",
+              "Differ significantly from the same material at a larger scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a real-world application of nanotechnology?",
+            "options": [
+              "A process that only applies to astronomical research",
+              "Coatings that make fabric resistant to stains and water",
+              "A technology that has never been applied outside of theory",
+              "An application unrelated to nanotechnology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might scientists be interested in developing new materials using nanotechnology?",
+            "options": [
+              "Nanoscale materials can offer improved strength, conductivity, or other useful properties for various applications",
+              "This concept has no connection to materials science",
+              "Nanotechnology has no practical applications in any field",
+              "New materials developed through nanotechnology never offer any advantage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is precise control at the atomic or molecular level considered a defining feature of nanotechnology?",
+            "options": [
+              "It allows scientists to engineer materials with specific, intentional properties not found in bulk materials",
+              "Precise control at this scale has no effect on a material’s properties",
+              "This concept has no relevance to nanotechnology",
+              "Materials can never be engineered with any intentional design at this scale"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Central Place Theory and the Hierarchy of Settlements",
+        "summary": "Grade 9 Social Studies (Geography) strand: central place theory explains how settlements of different sizes are distributed across a region, with smaller communities providing basic services and larger centres offering a wider range of specialized goods and services.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Central place theory explains how ___.",
+            "options": [
+              "All settlements grow to become exactly the same size",
+              "A concept unrelated to geography",
+              "Settlements of different sizes are distributed across a region",
+              "Weather patterns are distributed across a region"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "According to central place theory, smaller communities typically provide ___.",
+            "options": [
+              "Highly specialized goods and services found nowhere else",
+              "A concept unrelated to settlement hierarchy",
+              "Basic, frequently needed goods and services",
+              "No goods or services whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "According to central place theory, larger urban centres typically offer ___.",
+            "options": [
+              "A wider range of specialized goods and services",
+              "Fewer services than smaller surrounding communities",
+              "Only the most basic goods and services",
+              "A concept unrelated to settlement hierarchy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a resident travel from a small town to a nearby large city to access certain services, such as specialized medical care?",
+            "options": [
+              "Larger centres can support specialized services that would not have enough demand to operate in a smaller community",
+              "Residents never need to travel to access specialized services",
+              "Specialized services are always equally available in communities of every size",
+              "This concept has no connection to settlement hierarchy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the hierarchy of settlements useful for urban and regional planning?",
+            "options": [
+              "Every settlement requires the exact same range of services regardless of size",
+              "This concept has no connection to how communities are organized",
+              "Settlement hierarchy has no relevance to planning decisions",
+              "It helps planners anticipate what services a community of a given size is likely to need or support"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Analogies and Word Relationships",
+        "summary": "Grade 9 Vocabulary strand: an analogy compares two pairs of words that share a similar relationship, such as synonym, antonym, or cause-and-effect, and recognizing that relationship helps determine a missing or unfamiliar word.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "An analogy compares two pairs of words that share ___.",
+            "options": [
+              "A similar relationship",
+              "No connection to each other whatsoever",
+              "A concept unrelated to vocabulary",
+              "The exact same spelling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the analogy “Hot is to cold as up is to ___,” the missing word should express ___.",
+            "options": [
+              "Sky, since the relationship is about location only",
+              "Down, since the relationship is one of antonyms",
+              "A word unrelated to this analogy",
+              "Warm, since the relationship is one of synonyms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The analogy “Author is to book as sculptor is to ___” is based on which relationship?",
+            "options": [
+              "Synonym to synonym",
+              "Antonym to antonym",
+              "Creator to creation",
+              "A relationship unrelated to this analogy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is identifying the relationship between the first pair of words an important first step in solving an analogy?",
+            "options": [
+              "Analogies never require identifying any relationship between words",
+              "The same relationship must apply consistently to the second pair of words for the analogy to be valid",
+              "The relationship between the first pair of words never matters when solving an analogy",
+              "This concept has no connection to vocabulary skills"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can practising analogies help strengthen a reader’s vocabulary and reasoning skills?",
+            "options": [
+              "This practice never improves a reader’s understanding of words",
+              "Analogies only test spelling, with no connection to meaning",
+              "Analogies have no connection to vocabulary or reasoning",
+              "It requires understanding precise word meanings and recognizing logical relationships between concepts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Budgeting and Net Worth",
+        "summary": "Grade 9 Financial Literacy strand: a budget tracks income and expenses over a period of time, while net worth is calculated by subtracting total liabilities from total assets to measure overall financial position.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A budget is best described as a tool that tracks ___.",
+            "options": [
+              "Only expenses, with no connection to income",
+              "A person’s age and physical location",
+              "A concept unrelated to financial literacy",
+              "Income and expenses over a period of time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Net worth is calculated by ___.",
+            "options": [
+              "Adding total liabilities to total assets",
+              "Subtracting total liabilities from total assets",
+              "Dividing monthly income by monthly expenses",
+              "A concept unrelated to financial literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a person has 20,000 dollars in assets and 8,000 dollars in liabilities, what is their net worth?",
+            "options": [
+              "28,000 dollars",
+              "8,000 dollars",
+              "A value unrelated to this calculation",
+              "12,000 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might tracking expenses in a budget help someone reach a savings goal?",
+            "options": [
+              "This concept has no connection to budgeting or financial goals",
+              "It reveals spending patterns, making it easier to identify where to reduce costs and set aside savings",
+              "Tracking expenses never has any effect on a person’s ability to save",
+              "A budget only tracks income, with no relevance to saving money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a rising net worth over time generally considered a sign of improving financial health?",
+            "options": [
+              "Net worth has no connection to a person’s overall financial health",
+              "This concept has no relevance to personal finance",
+              "It suggests that a person’s assets are growing faster than their liabilities",
+              "A rising net worth always indicates a person is spending more than they earn"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Thermal Energy: Heat Transfer by Conduction, Convection, and Radiation",
+        "summary": "Grade 9 Science Physics strand: thermal energy can transfer between objects or through a medium via conduction (direct contact), convection (movement of fluids), or radiation (electromagnetic waves), each occurring under different conditions.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Conduction is best described as heat transfer that occurs through ___.",
+            "options": [
+              "Direct contact between particles or objects",
+              "Electromagnetic waves travelling through empty space",
+              "A concept unrelated to thermal energy",
+              "The movement of a heated fluid, such as air or water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Convection is best described as heat transfer that occurs through ___.",
+            "options": [
+              "A concept unrelated to thermal energy",
+              "The movement of a heated fluid, such as air or water",
+              "A process that requires no matter or medium at all",
+              "Direct contact between particles or objects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Radiation is best described as heat transfer that occurs through ___.",
+            "options": [
+              "A concept unrelated to thermal energy",
+              "The movement of a heated fluid exclusively",
+              "Electromagnetic waves, which can travel even through empty space",
+              "Direct contact between two solid objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a metal spoon left in a hot pot of soup quickly become hot to the touch?",
+            "options": [
+              "Metal never conducts heat, regardless of contact with a hot object",
+              "The spoon heats up due to convection currents within the metal",
+              "Heat is transferred through the metal via conduction, from particle to particle",
+              "This concept has no connection to thermal energy transfer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is radiation the only method by which the Sun’s heat can reach Earth?",
+            "options": [
+              "Radiation does not require a medium, so it can travel through the vacuum of space",
+              "Conduction easily transfers heat through the vacuum of space",
+              "This concept has no connection to how heat travels from the Sun",
+              "Convection is responsible for transferring the Sun’s heat to Earth"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Great Lakes: Geography and Environmental Challenges",
+        "summary": "Grade 9 Social Studies (Geography) strand: the Great Lakes form the largest group of freshwater lakes in the world, support major Canadian and American population centres, and face environmental challenges such as pollution, invasive species, and changing water levels.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "The Great Lakes are best described as ___.",
+            "options": [
+              "A chain of saltwater lakes found only in Canada",
+              "The largest group of freshwater lakes in the world",
+              "A concept unrelated to physical geography",
+              "A single small lake located entirely within Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Great Lakes support major population centres by providing ___.",
+            "options": [
+              "Fresh water, transportation routes, and economic opportunities",
+              "No practical benefit to nearby communities",
+              "A concept unrelated to the Great Lakes region",
+              "Saltwater resources used primarily for ocean shipping"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an environmental challenge currently facing the Great Lakes?",
+            "options": [
+              "The spread of invasive species that disrupt native ecosystems",
+              "Permanently rising water levels with no fluctuation ever recorded",
+              "A challenge unrelated to the Great Lakes",
+              "A complete absence of any human activity nearby"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might pollution entering the Great Lakes from surrounding cities and farms be a significant environmental concern?",
+            "options": [
+              "The Great Lakes are unaffected by any activity occurring on surrounding land",
+              "This concept has no connection to environmental geography",
+              "Pollution entering the Great Lakes has no effect on nearby communities or ecosystems",
+              "The lakes provide drinking water and habitat for millions of people and countless species"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do the Great Lakes require cooperative management between Canada and the United States?",
+            "options": [
+              "Cooperative management between the two countries has never been necessary",
+              "The Great Lakes are located entirely within a single country, with no shared border",
+              "The lakes and their watershed cross the international border, so environmental and economic decisions affect both countries",
+              "This concept has no relevance to studying the region’s geography"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Nonfiction Text Structures (Cause-Effect, Sequence, Problem-Solution)",
+        "summary": "Grade 9 Reading strand: nonfiction writers organize information using identifiable text structures, such as cause-and-effect, sequence, and problem-solution, and recognizing these patterns helps readers understand how ideas connect.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A cause-and-effect text structure organizes information by showing ___.",
+            "options": [
+              "Two opposing viewpoints with no connection between them",
+              "How one event or condition leads to a resulting outcome",
+              "A concept unrelated to nonfiction text structures",
+              "A list of steps that must occur in a fixed order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A sequence text structure organizes information ___.",
+            "options": [
+              "By presenting only unrelated, random facts",
+              "In a chronological or step-by-step order",
+              "A concept unrelated to nonfiction text structures",
+              "Around a single cause and its resulting effect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A problem-solution text structure typically presents ___.",
+            "options": [
+              "A concept unrelated to nonfiction text structures",
+              "Two unrelated topics compared with no clear purpose",
+              "A specific issue followed by one or more possible ways to address it",
+              "A random sequence of events with no clear organization"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which signal words might indicate a cause-and-effect text structure?",
+            "options": [
+              "However, in contrast, on the other hand",
+              "Words unrelated to identifying text structure",
+              "Because, therefore, as a result",
+              "First, next, finally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recognizing a nonfiction text’s underlying structure a useful reading strategy?",
+            "options": [
+              "Text structure never affects how a reader understands nonfiction",
+              "This strategy has no connection to reading comprehension",
+              "It helps readers anticipate how ideas will be organized and better understand the relationships between them",
+              "Nonfiction texts are never organized using any identifiable structure"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Combinations and Permutations (Intro)",
+        "summary": "Grade 9 Data Management strand: a permutation counts the number of ways items can be arranged when order matters, while a combination counts the number of ways items can be selected when order does not matter.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A permutation counts the number of ways items can be arranged when ___.",
+            "options": [
+              "Order matters",
+              "Order does not matter at all",
+              "Only one item is available to arrange",
+              "A concept unrelated to counting methods"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A combination counts the number of ways items can be selected when ___.",
+            "options": [
+              "Order always matters",
+              "Every possible item must be selected",
+              "Order does not matter",
+              "A concept unrelated to counting methods"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Choosing 3 students from a class to serve on a committee, where each role is identical, is an example of a ___.",
+            "options": [
+              "A probability distribution",
+              "Combination",
+              "A concept unrelated to this scenario",
+              "Permutation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Arranging 3 different books in a specific order on a shelf is an example of a ___.",
+            "options": [
+              "Combination",
+              "A concept unrelated to this scenario",
+              "Permutation",
+              "An expected value calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does choosing a class president, vice-president, and treasurer from a group of students involve permutations rather than combinations?",
+            "options": [
+              "This concept has no connection to permutations or combinations",
+              "The order in which students are assigned to roles never matters",
+              "Selecting students for distinct roles is always a combination, never a permutation",
+              "Each role is distinct, so the order in which students are assigned to positions matters"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Astronomy: The Moon, Tides, and Eclipses",
+        "summary": "Grade 9 Science Earth and Space Systems strand: the Moon’s gravitational pull causes ocean tides on Earth, while its position relative to the Earth and Sun produces phases and, occasionally, solar or lunar eclipses.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "Ocean tides on Earth are primarily caused by ___.",
+            "options": [
+              "The Moon’s gravitational pull",
+              "The rotation of the Earth on its axis alone",
+              "A concept unrelated to astronomy",
+              "Wind patterns exclusively, with no connection to gravity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A solar eclipse occurs when ___.",
+            "options": [
+              "A concept unrelated to eclipses",
+              "The Earth passes between the Sun and Moon",
+              "The Moon is at its farthest point from Earth with no alignment involved",
+              "The Moon passes between the Sun and Earth, blocking the Sun’s light"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A lunar eclipse occurs when ___.",
+            "options": [
+              "The Sun passes directly behind the Earth as seen from the Moon",
+              "A concept unrelated to eclipses",
+              "The Earth passes between the Sun and the Moon, casting a shadow on the Moon",
+              "The Moon passes between the Sun and Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do the phases of the Moon change throughout the month?",
+            "options": [
+              "The Moon’s phases change because the Moon itself changes shape",
+              "Moon phases occur randomly with no predictable pattern",
+              "This concept has no connection to the Moon’s position in space",
+              "The Moon’s position relative to the Earth and Sun changes, altering how much of its sunlit side is visible from Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are unusually high tides, known as spring tides, more likely to occur during a full or new moon?",
+            "options": [
+              "Spring tides only occur when the Moon and Sun are positioned at a right angle to each other",
+              "This concept has no connection to tides or lunar phases",
+              "During these phases, the Sun and Moon align, and their combined gravitational pull increases the tidal effect",
+              "The Sun and Moon have no combined gravitational effect on Earth’s tides"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Toponymy: Place Names and Cultural Meaning",
+        "summary": "Grade 9 Social Studies (Geography) strand: toponymy is the study of place names, and analyzing how places are named, and sometimes renamed, reveals important information about a region’s history, culture, and power relationships.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Toponymy is best described as the study of ___.",
+            "options": [
+              "Population density in a given region",
+              "Weather and climate patterns",
+              "Place names and their origins",
+              "A concept unrelated to geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A place name derived from an Indigenous language often reflects ___.",
+            "options": [
+              "A name chosen entirely at random with no cultural significance",
+              "A concept unrelated to toponymy",
+              "No meaningful connection to the land whatsoever",
+              "A long-standing cultural or historical connection to that land"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might colonial powers have historically renamed places they claimed?",
+            "options": [
+              "Renaming places had no connection to power or authority",
+              "Colonial powers never renamed places they encountered",
+              "This concept has no connection to political or cultural geography",
+              "Renaming was often used to assert authority and reflect the identity of the colonizing culture"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community choose to restore a location’s original Indigenous place name today?",
+            "options": [
+              "To recognize and honour the region’s Indigenous history and cultural heritage",
+              "Restoring original place names is never considered meaningful",
+              "Place names have no connection to a community’s identity or history",
+              "This concept has no relevance to cultural geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do geographers study toponymy when examining the history of a region?",
+            "options": [
+              "Place names can reveal layers of history, migration, and cultural influence over time",
+              "Place names have no connection to a region’s history or culture",
+              "This topic has no relevance to studying geography",
+              "Toponymy is only useful for studying modern urban planning"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Clickbait and Headline Analysis",
+        "summary": "Grade 9 Media Literacy strand: clickbait headlines use sensational or misleading language to attract clicks, and critically analyzing headlines helps readers evaluate whether a headline accurately represents the content that follows.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A clickbait headline is designed primarily to ___.",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Attract clicks using sensational or misleading language",
+              "Accurately and objectively summarize an article’s content",
+              "Discourage readers from viewing the linked content"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common characteristic of a clickbait headline?",
+            "options": [
+              "Precise, factual language that fully explains the article’s content",
+              "A concept unrelated to headline analysis",
+              "Vague, exaggerated language that creates curiosity without revealing details",
+              "A headline with no emotional or persuasive language at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reader feel misled after clicking a clickbait headline?",
+            "options": [
+              "Readers are never affected by the accuracy of a headline",
+              "Clickbait headlines always accurately represent their article’s content",
+              "This concept has no connection to media literacy",
+              "The actual content often fails to deliver on the dramatic promise made by the headline"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is comparing a headline to the full article an important media literacy strategy?",
+            "options": [
+              "Headlines always match their article’s content exactly",
+              "This strategy has no relevance to evaluating media content",
+              "It helps determine whether the headline accurately represents the article’s actual content",
+              "Comparing a headline to its article is never a useful practice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might websites that rely on advertising revenue be more likely to use clickbait headlines?",
+            "options": [
+              "This concept has no relevance to media literacy",
+              "More clicks generally generate more advertising revenue, creating an incentive to maximize attention-grabbing headlines",
+              "Websites relying on advertising revenue never use exaggerated headlines",
+              "Advertising revenue has no connection to how a website writes its headlines"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Volume and Surface Area of Composite 3D Solids",
+        "summary": "Grade 9 Measurement strand: a composite 3D solid is formed by combining two or more basic solids, such as a cylinder and a cone, and its volume and surface area can be found by breaking the shape into its individual parts.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A composite 3D solid is formed by ___.",
+            "options": [
+              "A concept unrelated to measurement",
+              "Combining two or more basic solids into a single shape",
+              "A shape that contains no identifiable basic solids at all",
+              "Removing all volume from a single basic solid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the volume of a composite solid, such as a cylinder topped with a cone, it is generally necessary to ___.",
+            "options": [
+              "Calculate the volume of each individual solid and add them together",
+              "Multiply the surface areas of each solid together",
+              "A concept unrelated to composite solids",
+              "Calculate the volume of only one of the solids and ignore the rest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When calculating the total surface area of a composite solid, it is important to ___.",
+            "options": [
+              "Exclude any internal surfaces where the two solids are joined together",
+              "Ignore the surface area of both solids entirely",
+              "A concept unrelated to surface area",
+              "Include every surface of each individual solid with no exceptions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a silo shaped like a cylinder with a cone-shaped top be considered a composite solid?",
+            "options": [
+              "It combines two distinct basic solids, a cylinder and a cone, into one structure",
+              "A silo shaped this way is not actually a composite solid",
+              "This concept has no connection to composite solids",
+              "A cylinder and a cone can never be combined into a single structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is breaking a composite solid into its individual basic shapes a useful problem-solving strategy?",
+            "options": [
+              "This strategy has no connection to measurement problems",
+              "Breaking a composite solid into parts never simplifies a volume or surface area calculation",
+              "It allows familiar volume and surface area formulas to be applied to each simpler part",
+              "Composite solids can only be measured as a single, unbreakable unit"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Nervous System and the Brain",
+        "summary": "Grade 9 Science Biology strand: the nervous system, including the brain, spinal cord, and nerves, coordinates the body’s responses to internal and external stimuli by transmitting electrical signals throughout the body.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The nervous system coordinates the body’s responses to stimuli by transmitting ___.",
+            "options": [
+              "Electrical signals throughout the body",
+              "A concept unrelated to biology",
+              "Oxygen directly to muscle tissue",
+              "Digestive enzymes to the stomach"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is considered part of the central nervous system?",
+            "options": [
+              "An organ unrelated to the nervous system",
+              "The brain and spinal cord",
+              "The nerves found throughout the arms and legs exclusively",
+              "The heart and lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A reflex, such as pulling a hand away from a hot surface, is best described as ___.",
+            "options": [
+              "A concept unrelated to the nervous system",
+              "A voluntary action planned well in advance",
+              "A rapid, involuntary response coordinated primarily by the spinal cord",
+              "A response that always requires conscious thought before occurring"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might damage to the spinal cord affect a person’s ability to move certain parts of their body?",
+            "options": [
+              "The spinal cord has no role in transmitting signals related to movement",
+              "The spinal cord transmits signals between the brain and the rest of the body, so damage can disrupt that communication",
+              "This concept has no connection to how the nervous system functions",
+              "Damage to the spinal cord never affects the body’s ability to move"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the brain often described as the control centre of the nervous system?",
+            "options": [
+              "This concept has no relevance to understanding the nervous system",
+              "It processes information from the body and environment and directs appropriate responses",
+              "The brain plays no role in processing information or directing responses",
+              "Every response in the body occurs with no involvement from the brain"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Urban Geography: Housing Affordability and the Housing Crisis",
+        "summary": "Grade 9 Social Studies (Geography) strand: housing affordability refers to the relationship between housing costs and household income, and rising costs in many cities have created a housing crisis that affects where and how people can afford to live.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Housing affordability refers to the relationship between ___.",
+            "options": [
+              "The number of homes built in a single year",
+              "Housing costs and household income",
+              "The physical size of a home and its location only",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A city is generally considered to be experiencing a housing crisis when ___.",
+            "options": [
+              "Every resident can easily afford quality housing",
+              "A concept unrelated to housing affordability",
+              "A large portion of residents struggle to find housing they can afford",
+              "Housing prices remain completely unchanged for decades"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a common factor contributing to rising housing costs in many cities?",
+            "options": [
+              "Housing supply failing to keep pace with growing demand",
+              "A continuous decline in a city’s population",
+              "A steady oversupply of affordable housing options",
+              "A factor unrelated to housing affordability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a housing crisis push lower-income residents farther from a city’s core?",
+            "options": [
+              "Housing costs near a city’s core have no effect on where residents choose to live",
+              "Lower-income residents are never affected by rising housing costs",
+              "Rising housing costs near the core can force residents to seek more affordable housing farther away, often with longer commutes",
+              "This concept has no connection to urban geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might city governments consider policies such as zoning reform to address housing affordability?",
+            "options": [
+              "This concept has no relevance to addressing a housing crisis",
+              "Increasing housing supply never has any effect on affordability",
+              "Zoning policies have no connection to housing affordability",
+              "Adjusting zoning rules can increase the supply of housing, potentially easing rising costs"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Critical Review (Book or Film)",
+        "summary": "Grade 9 Writing strand: a critical review evaluates a book or film using specific criteria, supporting an overall judgment with evidence and reasoned analysis rather than simply summarizing the plot.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A critical review primarily aims to ___.",
+            "options": [
+              "Persuade a reader with no reference to the actual work",
+              "A concept unrelated to critical writing",
+              "Provide a complete summary of the plot with no evaluation",
+              "Evaluate a work using specific criteria and supporting evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should a critical review avoid simply summarizing the plot from beginning to end?",
+            "options": [
+              "Summarizing the plot is always the main purpose of a critical review",
+              "A review should focus on evaluating the work’s strengths and weaknesses rather than retelling every event",
+              "A review should never mention any part of the plot",
+              "This concept has no connection to writing an effective review"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would most strengthen a critical review’s argument?",
+            "options": [
+              "A concept unrelated to writing a review",
+              "A list of unrelated personal facts about the reviewer",
+              "Vague opinions with no supporting evidence",
+              "Specific examples from the book or film that support the reviewer’s judgment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a reviewer evaluate a film using specific criteria, such as acting, pacing, and cinematography?",
+            "options": [
+              "A review should always avoid using any particular criteria",
+              "Clear criteria provide a structured, consistent basis for judging the work’s overall quality",
+              "Specific criteria are never useful when writing a review",
+              "This concept has no connection to critical analysis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for a critical review to support its overall judgment with reasoned analysis?",
+            "options": [
+              "An overall judgment never needs to be supported with any analysis",
+              "This concept has no relevance to writing an effective review",
+              "Reasoned analysis always weakens a review’s persuasive power",
+              "Reasoned analysis helps convince readers that the reviewer’s opinion is thoughtful and well-founded"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Systems: Rational, Irrational, and Real Numbers",
+        "summary": "Grade 9 Number Sense strand: rational numbers can be expressed as a ratio of two integers, irrational numbers cannot, and together rational and irrational numbers make up the set of real numbers.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A rational number can always be expressed as ___.",
+            "options": [
+              "A ratio of two integers",
+              "A concept unrelated to number sense",
+              "Only a whole number with no fractional part",
+              "A number with an infinite, non-repeating decimal expansion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An irrational number is best described as a number that ___.",
+            "options": [
+              "A concept unrelated to number sense",
+              "Is always a negative whole number",
+              "Cannot be expressed as a ratio of two integers",
+              "Can always be expressed as a simple fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an irrational number?",
+            "options": [
+              "A number unrelated to this classification",
+              "Negative three",
+              "Pi",
+              "One half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The set of real numbers includes ___.",
+            "options": [
+              "All rational and irrational numbers",
+              "A concept unrelated to number classification",
+              "Only irrational numbers, excluding all rational numbers",
+              "Only whole numbers, with no fractions or decimals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the square root of a non-perfect square, such as the square root of 2, classified as an irrational number?",
+            "options": [
+              "It can always be written exactly as a simple fraction",
+              "The square root of 2 is classified as a whole number",
+              "This concept has no connection to number classification",
+              "Its decimal expansion continues infinitely without repeating, so it cannot be written as a ratio of two integers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics: Predicting Inheritance with Punnett Squares",
+        "summary": "Grade 9 Science Biology strand: a Punnett square is a diagram used to predict the probability of specific genetic traits appearing in offspring, based on the combination of alleles inherited from each parent.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Predict the probability of specific genetic traits appearing in offspring",
+              "A concept unrelated to genetics",
+              "Measure the physical size of an organism’s cells",
+              "Determine the exact age of an organism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Punnett square, the letters used to represent traits refer to ___.",
+            "options": [
+              "The physical appearance of the parents only, with no connection to genes",
+              "The alleles inherited from each parent",
+              "A concept unrelated to Punnett squares",
+              "The total number of offspring produced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If both parents are heterozygous for a trait (Aa x Aa), what is the probability of an offspring being homozygous recessive (aa)?",
+            "options": [
+              "A value unrelated to this cross",
+              "100 percent",
+              "50 percent",
+              "25 percent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a Punnett square useful for predicting the likelihood of inherited traits, such as certain genetic conditions?",
+            "options": [
+              "A Punnett square guarantees the exact outcome for every individual offspring",
+              "Punnett squares provide no useful information about genetic inheritance",
+              "It systematically shows all possible allele combinations from a given genetic cross",
+              "This concept has no connection to genetics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a dominant allele mask the effect of a recessive allele in a heterozygous individual?",
+            "options": [
+              "This concept has no connection to how traits are inherited",
+              "A recessive allele always overrides a dominant allele when both are present",
+              "Dominant and recessive alleles always produce a blended trait with no dominance",
+              "The dominant allele’s trait is expressed even when only one copy is present alongside a recessive allele"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Geography of Hosting Sport Mega-Events",
+        "summary": "Grade 9 Social Studies (Geography) strand: hosting a sport mega-event, such as the Olympic Games or World Cup, requires significant infrastructure investment and can reshape a host city’s economy, land use, and international profile.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Hosting a sport mega-event typically requires significant investment in ___.",
+            "options": [
+              "Agricultural land exclusively, with no connection to urban development",
+              "A concept unrelated to urban and economic geography",
+              "No infrastructure whatsoever, since events use only existing facilities",
+              "Infrastructure, such as stadiums, transportation, and housing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a potential economic benefit a city might experience from hosting a sport mega-event?",
+            "options": [
+              "A guaranteed elimination of all municipal debt",
+              "An automatic and permanent decrease in unemployment with no other effects",
+              "Increased tourism revenue and global visibility",
+              "A benefit unrelated to hosting sport mega-events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a common criticism of hosting large sport mega-events?",
+            "options": [
+              "The high cost of infrastructure can leave a city with significant long-term debt",
+              "These events never require any significant public spending",
+              "Host cities never experience any economic risk",
+              "A concern unrelated to hosting sport mega-events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a city’s land use change significantly in preparation for hosting a sport mega-event?",
+            "options": [
+              "New stadiums, transportation systems, and housing are often built or expanded to accommodate the event",
+              "Existing infrastructure is always sufficient with no new development required",
+              "Land use in a host city never changes in preparation for such events",
+              "This concept has no connection to urban geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some newly built stadiums and facilities become known as “white elephants” after a mega-event concludes?",
+            "options": [
+              "This concept has no connection to hosting sport mega-events",
+              "“White elephants” refers to facilities that generate consistent, long-term profit",
+              "These facilities are always used extensively for decades after the event",
+              "They can become costly to maintain with little ongoing use once the event has ended"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallel Structure in Sentences",
+        "summary": "Grade 9 Writing strand: parallel structure requires that items in a list or comparison share the same grammatical form, such as matching verb tenses or matching phrase types, to create balanced, clear sentences.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "Parallel structure requires that items in a list or comparison ___.",
+            "options": [
+              "A concept unrelated to grammar",
+              "Always contain exactly one word each",
+              "Use as many different grammatical forms as possible",
+              "Share the same grammatical form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence demonstrates correct parallel structure?",
+            "options": [
+              "She enjoys reading, writing, and to hike.",
+              "She enjoys reading, writing, and hiking.",
+              "She enjoys reading, to write, and hiking.",
+              "A sentence with no attempt at a parallel list."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the sentence “He likes swimming, biking, and to run” considered grammatically inconsistent?",
+            "options": [
+              "It contains no grammatical inconsistency at all",
+              "It mixes gerund forms (swimming, biking) with an infinitive form (to run) in the same list",
+              "A concept unrelated to parallel structure",
+              "It uses only one form throughout the entire sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is parallel structure especially important in a sentence with a series of comparisons or a list?",
+            "options": [
+              "This concept has no connection to sentence clarity",
+              "It creates balance and clarity, making the sentence easier for a reader to follow",
+              "Lists and comparisons never benefit from consistent grammatical form",
+              "Parallel structure always makes a sentence more difficult to understand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which revision correctly fixes the faulty parallelism in “The coach asked us to run faster, to jump higher, and lifting more weight”?",
+            "options": [
+              "The coach asked us to run faster, to jump higher, and to lift more weight.",
+              "The coach asked us to run faster, jumping higher, and to lift more weight.",
+              "A revision that leaves the original inconsistency unchanged.",
+              "The coach asked us running faster, jumping higher, and lifting more weight."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Graphing Absolute Value Functions",
+        "summary": "Grade 9 Algebra strand (non-linear relations): the graph of an absolute value function forms a distinctive V shape, with a vertex representing the point where the function changes direction from decreasing to increasing.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "The graph of a basic absolute value function, such as y equals the absolute value of x, forms a shape best described as ___.",
+            "options": [
+              "A concept unrelated to graphing functions",
+              "A perfect circle",
+              "A straight diagonal line",
+              "A V shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The vertex of an absolute value function’s graph represents the point where the function ___.",
+            "options": [
+              "Crosses the y-axis exclusively, with no other significance",
+              "Changes direction from decreasing to increasing",
+              "A concept unrelated to absolute value functions",
+              "Becomes undefined and stops existing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the function y equals the absolute value of x, what is the vertex of the graph?",
+            "options": [
+              "(0, 0)",
+              "(1, 1)",
+              "(0, 1)",
+              "A point unrelated to this function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the graph of y equals the absolute value of x plus 3 compare to the graph of y equals the absolute value of x?",
+            "options": [
+              "It is shifted 3 units upward",
+              "A comparison unrelated to this transformation",
+              "It is shifted 3 units to the right",
+              "It is shifted 3 units to the left"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does an absolute value function’s graph never extend below its vertex when the function is in the standard form y equals the absolute value of x?",
+            "options": [
+              "An absolute value always produces a non-negative output, so the graph cannot fall below that minimum point",
+              "This concept has no connection to how absolute value functions behave",
+              "The graph extends below its vertex whenever x is a negative number",
+              "Absolute value functions always extend infinitely in every direction with no minimum point"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Environmental Science: Ozone Depletion and the Ozone Layer",
+        "summary": "Grade 9 Science Earth and Space Systems strand: the ozone layer in the upper atmosphere absorbs most of the Sun’s harmful ultraviolet radiation, and certain human-made chemicals, such as CFCs, have contributed to its depletion over time.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The ozone layer is primarily important because it absorbs ___.",
+            "options": [
+              "Visible light exclusively, with no connection to radiation",
+              "A concept unrelated to Earth’s atmosphere",
+              "Most of the Sun’s harmful ultraviolet radiation",
+              "Carbon dioxide released from human activity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these human-made chemicals has historically contributed significantly to ozone depletion?",
+            "options": [
+              "Chlorofluorocarbons (CFCs)",
+              "A substance unrelated to ozone depletion",
+              "Water vapour",
+              "Oxygen gas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is increased ultraviolet radiation reaching Earth’s surface a health concern for humans?",
+            "options": [
+              "Ultraviolet radiation has no known effect on human health",
+              "Increased ultraviolet radiation always improves human health outcomes",
+              "This concept has no connection to ozone depletion",
+              "It can increase the risk of skin cancer and other health problems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was international cooperation, such as the Montreal Protocol, important in addressing ozone depletion?",
+            "options": [
+              "Ozone depletion can only be addressed by a single country acting alone",
+              "Coordinated global action helped phase out the production of ozone-depleting substances",
+              "International cooperation has had no measurable effect on the ozone layer",
+              "This concept has no relevance to environmental science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the recovery of the ozone layer often cited as an example of successful environmental policy?",
+            "options": [
+              "Global reductions in ozone-depleting chemicals have been linked to gradual healing of the ozone layer over time",
+              "The ozone layer has shown no measurable change since international regulations were introduced",
+              "Ozone-depleting chemicals were never successfully reduced through policy action",
+              "This concept has no connection to environmental science policy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Urban Land Use Models: The Concentric Zone and Sector Models",
+        "summary": "Grade 9 Social Studies (Geography) strand: urban land use models, such as the concentric zone model and the sector model, attempt to describe and predict patterns of land use within a city, from the central business district outward to surrounding residential areas.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Urban land use models attempt to ___.",
+            "options": [
+              "Predict weather patterns within an urban area",
+              "Measure the exact population of a city at a single moment",
+              "A concept unrelated to urban geography",
+              "Describe and predict patterns of land use within a city"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the concentric zone model, land use is typically arranged in ___.",
+            "options": [
+              "A concept unrelated to urban land use models",
+              "A completely random, unpredictable pattern",
+              "Rings radiating outward from a central business district",
+              "Wedge-shaped sectors extending from the city centre"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sector model, land use is typically arranged in ___.",
+            "options": [
+              "A single, uniform zone covering the entire city",
+              "Concentric rings with no connection to transportation routes",
+              "A concept unrelated to urban land use models",
+              "Wedge-shaped sectors extending outward from the city centre, often along transportation routes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might critics argue that urban land use models like the concentric zone model do not perfectly describe every real city?",
+            "options": [
+              "Urban land use models were never intended to describe real cities",
+              "Real cities are shaped by unique geographic, historical, and economic factors that a simplified model cannot fully capture",
+              "This concept has no connection to urban geography",
+              "Every real city follows these models with complete accuracy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do geographers still find value in urban land use models despite their limitations?",
+            "options": [
+              "These models provide no useful insight into how cities are organized",
+              "Urban land use models are only used to describe rural areas",
+              "They provide a useful general framework for comparing and understanding patterns of urban growth",
+              "This concept has no relevance to studying urban geography"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Crafting Effective Introductions and Conclusions",
+        "summary": "Grade 9 Writing strand: an effective introduction engages the reader and establishes a clear purpose or thesis, while an effective conclusion reinforces the main idea and leaves the reader with a sense of closure.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "An effective introduction should primarily ___.",
+            "options": [
+              "Summarize every detail that will appear later in the essay",
+              "Avoid stating any purpose until the very end of the essay",
+              "Engage the reader and establish a clear purpose or thesis",
+              "A concept unrelated to essay writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An effective conclusion should primarily ___.",
+            "options": [
+              "Restate the introduction word for word with no variation",
+              "Reinforce the main idea and leave the reader with a sense of closure",
+              "Introduce entirely new evidence not mentioned anywhere earlier",
+              "A concept unrelated to essay writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common technique for opening an engaging introduction?",
+            "options": [
+              "A concept unrelated to writing introductions",
+              "Beginning with unrelated information that has no connection to the topic",
+              "Starting with a relevant anecdote, question, or striking fact",
+              "Starting with a full restatement of the entire essay’s content"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a conclusion generally avoid introducing significant new evidence or arguments?",
+            "options": [
+              "A conclusion’s only purpose is to present new information",
+              "This concept has no connection to effective essay structure",
+              "Conclusions should always introduce the essay’s most important evidence for the first time",
+              "New evidence at the end can leave a reader confused rather than providing a sense of closure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a strong conclusion return to an image, question, or idea introduced at the beginning of the essay?",
+            "options": [
+              "It creates a sense of unity and closure by connecting the ending back to the essay’s opening",
+              "A conclusion should never reference anything mentioned earlier in the essay",
+              "Returning to the introduction’s ideas always weakens a conclusion",
+              "This concept has no relevance to writing an effective conclusion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Vectors",
+        "summary": "Grade 9 Geometry/Algebra strand (enrichment): a vector is a quantity that has both magnitude and direction, and vectors can be represented graphically as arrows or algebraically as ordered pairs of components.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "A vector is best described as a quantity that has ___.",
+            "options": [
+              "A concept unrelated to geometry or algebra",
+              "Magnitude only, with no direction",
+              "Both magnitude and direction",
+              "Direction only, with no magnitude"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A vector can be represented graphically as ___.",
+            "options": [
+              "A single point with no length or orientation",
+              "A circle with no defined direction",
+              "A concept unrelated to vectors",
+              "An arrow, where length indicates magnitude and orientation indicates direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a vector quantity in everyday life?",
+            "options": [
+              "The temperature of a room",
+              "The total mass of an object",
+              "A quantity unrelated to vectors",
+              "A car travelling 60 kilometres per hour due north"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is velocity considered a vector quantity while speed is not?",
+            "options": [
+              "Velocity and speed are identical concepts with no meaningful difference",
+              "Velocity includes both a magnitude (speed) and a specific direction, while speed only describes magnitude",
+              "Speed always includes a specific direction, unlike velocity",
+              "This concept has no connection to vectors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might vectors be represented algebraically using ordered pairs of components?",
+            "options": [
+              "Components allow a vector’s magnitude and direction to be broken down and calculated using coordinate geometry",
+              "Vectors can only ever be represented graphically, never algebraically",
+              "This concept has no relevance to working with vectors",
+              "Ordered pairs have no connection to representing a vector’s magnitude or direction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Engineering Design Process and Prototyping",
+        "summary": "Grade 9 Science and Technology strand: the engineering design process guides the development of a solution to a problem through stages such as defining the problem, brainstorming, prototyping, testing, and refining a design based on results.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The engineering design process typically begins by ___.",
+            "options": [
+              "Skipping directly to testing with no planning",
+              "Clearly defining the problem to be solved",
+              "Immediately building a final, finished product",
+              "A concept unrelated to engineering or technology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A prototype is best described as ___.",
+            "options": [
+              "A written description with no physical or testable model",
+              "The final, unchangeable version of a product",
+              "A concept unrelated to the engineering design process",
+              "An early, testable model of a proposed design or solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is testing an important stage in the engineering design process?",
+            "options": [
+              "This concept has no connection to engineering",
+              "It reveals how well a prototype performs and identifies areas that may need improvement",
+              "A design is always considered complete before any testing occurs",
+              "Testing has no useful role in developing a design"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might engineers repeat several stages of the design process multiple times before finalizing a solution?",
+            "options": [
+              "This concept has no connection to how engineering problems are solved",
+              "Refining a design based on testing results often requires revisiting earlier stages to improve the outcome",
+              "The design process is always completed correctly on the very first attempt",
+              "Repeating stages of the design process is never necessary or useful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is brainstorming multiple possible solutions considered a valuable step before selecting a final design?",
+            "options": [
+              "Brainstorming multiple solutions never improves the quality of a final design",
+              "This concept has no relevance to the engineering design process",
+              "Considering several options increases the likelihood of identifying an effective and practical solution",
+              "Only a single possible solution should ever be considered for any given problem"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Rural Geography: Depopulation and Changing Land Use",
+        "summary": "Grade 9 Social Studies (Geography) strand: rural depopulation occurs when people move away from rural areas toward cities, often leading to significant changes in land use, such as farm consolidation and the decline of local services.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Rural depopulation refers to ___.",
+            "options": [
+              "A process that occurs only within large urban centres",
+              "A significant increase in population within rural areas",
+              "A concept unrelated to geography",
+              "People moving away from rural areas, often toward cities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Farm consolidation, a common outcome of rural depopulation, occurs when ___.",
+            "options": [
+              "Smaller farms are combined into larger operations, often requiring fewer workers",
+              "Farmland is converted entirely into urban housing overnight",
+              "A concept unrelated to rural land use",
+              "Small farms are divided into many even smaller plots"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might local services, such as schools and hospitals, decline in a rural area experiencing depopulation?",
+            "options": [
+              "Local services always improve as a rural population declines",
+              "This concept has no connection to rural geography",
+              "A shrinking population can reduce the demand and funding needed to sustain those services",
+              "Population change has no effect on the availability of local services"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might young people from rural areas move to cities in search of opportunity?",
+            "options": [
+              "Rural areas always offer more job opportunities than cities",
+              "Young people never consider moving from rural areas to cities",
+              "Cities often offer a wider range of jobs, education, and services than rural areas",
+              "This concept has no connection to rural depopulation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is rural depopulation an important issue for geographers studying land use change?",
+            "options": [
+              "Rural depopulation has no effect on how land is used in a region",
+              "Land use patterns never change as a result of population shifts",
+              "It can significantly alter how land is used, farmed, and settled over time",
+              "This topic has no relevance to studying geography"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Paradox, Process Essays, Clickbait, and Parallel Structure",
+        "summary": "Grade 9 Reading and Writing strands review: this lesson revisits paradox and oxymoron, the process essay, clickbait headline analysis, and parallel structure in sentences from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 9 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "quiz": [
+          {
+            "q": "A paradox is best described as ___.",
+            "options": [
+              "A sentence with no rhetorical purpose whatsoever",
+              "A statement that seems contradictory but reveals a deeper truth",
+              "A statement that is always literally false",
+              "A concept unrelated to literary analysis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A process essay primarily explains ___.",
+            "options": [
+              "A personal narrative with no instructional purpose",
+              "An argument meant to persuade a reader toward one opinion",
+              "A concept unrelated to expository writing",
+              "How to complete a task or how something works through a sequence of steps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A clickbait headline is designed primarily to ___.",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Discourage readers from viewing the linked content",
+              "Accurately and objectively summarize an article’s content",
+              "Attract clicks using sensational or misleading language"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Parallel structure requires that items in a list or comparison ___.",
+            "options": [
+              "A concept unrelated to grammar",
+              "Share the same grammatical form",
+              "Always contain exactly one word each",
+              "Use as many different grammatical forms as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review reading, writing, and grammar skills like paradox, process essays, clickbait, and parallel structure together?",
+            "options": [
+              "Each concept must always be studied in complete isolation",
+              "These related literacy skills reinforce one another for stronger overall reading, writing, and critical thinking",
+              "Review is never useful for reading and writing skills",
+              "These topics have no meaningful connection to one another"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Arithmetic Sequences, Linear Inequalities, the Discriminant, and Number Systems",
+        "summary": "Grade 9 Algebra and Number Sense strands review: this lesson revisits arithmetic sequences, systems of linear inequalities, the discriminant of a quadratic equation, and classifying rational, irrational, and real numbers from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "An arithmetic sequence is defined by ___.",
+            "options": [
+              "A constant ratio between consecutive terms",
+              "A constant difference between consecutive terms",
+              "A concept unrelated to sequences",
+              "Terms that never follow any predictable pattern"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The solution to a system of linear inequalities is represented by ___.",
+            "options": [
+              "A single point that satisfies only one inequality",
+              "The overlapping shaded region that satisfies every inequality simultaneously",
+              "The entire coordinate plane, regardless of any inequality",
+              "A concept unrelated to systems of inequalities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The discriminant of a quadratic equation is calculated using the formula ___.",
+            "options": [
+              "negative b divided by 2a",
+              "A formula unrelated to the discriminant",
+              "b squared minus 4ac",
+              "b squared plus 4ac"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rational number can always be expressed as ___.",
+            "options": [
+              "A concept unrelated to number sense",
+              "Only a whole number with no fractional part",
+              "A number with an infinite, non-repeating decimal expansion",
+              "A ratio of two integers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to review sequences, inequalities, the discriminant, and number classification together?",
+            "options": [
+              "Review is never useful in mathematics",
+              "Each topic must be learned with no connection to the others",
+              "These topics have no connection to each other",
+              "These related algebra and number sense concepts build on and reinforce one another for deeper mathematical understanding"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: The Digestive System, Nervous System, Genetics, and Ozone Depletion",
+        "summary": "Grade 9 Science strand review: this lesson revisits the digestive system, the nervous system, predicting inheritance with Punnett squares, and ozone depletion from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "quiz": [
+          {
+            "q": "The digestive system breaks down food into ___.",
+            "options": [
+              "Oxygen that can be used by the lungs",
+              "Nutrients that can be absorbed into the bloodstream",
+              "Waste products only, with no nutrients produced",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The nervous system coordinates the body’s responses to stimuli by transmitting ___.",
+            "options": [
+              "Digestive enzymes to the stomach",
+              "Electrical signals throughout the body",
+              "Oxygen directly to muscle tissue",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A Punnett square is used to ___.",
+            "options": [
+              "Predict the probability of specific genetic traits appearing in offspring",
+              "Determine the exact age of an organism",
+              "A concept unrelated to genetics",
+              "Measure the physical size of an organism’s cells"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The ozone layer is primarily important because it absorbs ___.",
+            "options": [
+              "Carbon dioxide released from human activity",
+              "Visible light exclusively, with no connection to radiation",
+              "A concept unrelated to Earth’s atmosphere",
+              "Most of the Sun’s harmful ultraviolet radiation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to review body systems, genetics, and environmental science concepts like digestion, the nervous system, inheritance, and ozone depletion together?",
+            "options": [
+              "It helps connect and reinforce related science concepts learned across recent lessons in biology and Earth systems",
+              "Each topic must always be studied in isolation",
+              "These topics are entirely unrelated to each other",
+              "Review provides no benefit in science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Weathering/Erosion, Site and Situation, the Great Lakes, and Housing Affordability",
+        "summary": "Grade 9 Social Studies (Geography) review: this lesson revisits weathering and erosion, site and situation, the geography of the Great Lakes, and housing affordability from Days 71-79.",
+        "resourceLabel": "TVO Learn: Grade 9 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "quiz": [
+          {
+            "q": "Weathering is best described as the process that ___.",
+            "options": [
+              "A concept unrelated to physical geography",
+              "Instantly transforms rock into soil with no gradual process",
+              "Breaks down rock into smaller pieces through physical or chemical processes",
+              "Transports weathered material from one location to another"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A city’s site refers to ___.",
+            "options": [
+              "The total population living within the city",
+              "Its exact physical location and local features",
+              "Its position relative to surrounding regions",
+              "A concept unrelated to urban geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Great Lakes are best described as ___.",
+            "options": [
+              "A chain of saltwater lakes found only in Canada",
+              "The largest group of freshwater lakes in the world",
+              "A single small lake located entirely within Ontario",
+              "A concept unrelated to physical geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Housing affordability refers to the relationship between ___.",
+            "options": [
+              "Housing costs and household income",
+              "The physical size of a home and its location only",
+              "A concept unrelated to urban geography",
+              "The number of homes built in a single year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review physical and urban geography topics like weathering, site and situation, the Great Lakes, and housing affordability together?",
+            "options": [
+              "It reinforces how physical processes and human settlement patterns both shape the geography of a region",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in social studies",
+              "These topics have no meaningful connections"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
