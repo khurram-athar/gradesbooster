@@ -7445,5 +7445,3318 @@
         ]
       }
     ]
+  },
+  {
+    "day": 31,
+    "label": "Day 31 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Consonant Blends: bl, cl, fl, gl",
+        "summary": "Students learn beginning consonant blends where two consonants join and both sounds are heard, such as bl in black, cl in clap, fl in flag, and gl in glow.",
+        "resourceLabel": "YouTube: Consonant Blends: bl, cl, fl, gl",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20bl%2C%20cl%2C%20fl%2C%20gl%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the bl blend?",
+            "options": [
+              "Black",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the cl blend?",
+            "options": [
+              "Cat",
+              "Bed",
+              "Sun",
+              "Clap"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the fl blend?",
+            "options": [
+              "Sun",
+              "Cat",
+              "Dog",
+              "Flag"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the gl blend?",
+            "options": [
+              "Cat",
+              "Glow",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A consonant blend is two consonants that ___.",
+            "options": [
+              "Always make one new sound like a digraph",
+              "Are always silent",
+              "Blend together with both sounds heard",
+              "Never appear together"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that begins with the bl blend, like black or blue.",
+            "answers": [
+              "black",
+              "blue",
+              "blow",
+              "blob"
+            ]
+          },
+          {
+            "prompt": "What two letters begin the word clap?",
+            "answers": [
+              "cl"
+            ]
+          },
+          {
+            "prompt": "Name one word that begins with the gl blend, like glow or glue.",
+            "answers": [
+              "glow",
+              "glue",
+              "glass"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition Within 100 (With Regrouping)",
+        "summary": "Students add two-digit numbers within 100 that require regrouping a ten when the ones digits add to 10 or more.",
+        "resourceLabel": "YouTube: Addition Within 100 (With Regrouping)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28With%20Regrouping%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 27 + 15?",
+            "options": [
+              "43",
+              "41",
+              "32",
+              "42"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 38 + 26?",
+            "options": [
+              "54",
+              "65",
+              "63",
+              "64"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 46 + 19?",
+            "options": [
+              "64",
+              "55",
+              "66",
+              "65"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When the ones digits add to 10 or more, we ___.",
+            "options": [
+              "Regroup a ten into the tens column",
+              "Ignore the extra",
+              "Stop the problem",
+              "Subtract instead"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 55 + 27?",
+            "options": [
+              "82",
+              "81",
+              "72",
+              "83"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 27 + 15?",
+            "answers": [
+              "42",
+              "forty-two",
+              "forty two"
+            ]
+          },
+          {
+            "prompt": "When adding 38 + 26, do the ones digits add up to 10 or more?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What is 46 + 19?",
+            "answers": [
+              "65",
+              "sixty-five",
+              "sixty five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nocturnal Animals: Creatures of the Night",
+        "summary": "Students learn that nocturnal animals, such as owls and bats, are awake and active at night and sleep during the day, often having special senses like keen hearing or eyesight to help them in the dark.",
+        "resourceLabel": "YouTube: Nocturnal Animals: Creatures of the Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Creatures%20of%20the%20Night%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call an animal that is active mainly at night?",
+            "options": [
+              "A hibernating animal",
+              "A migrating animal",
+              "A nocturnal animal",
+              "A diurnal animal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals is known for being nocturnal?",
+            "options": [
+              "An owl",
+              "A butterfly",
+              "A robin",
+              "A squirrel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nocturnal animals usually sleep during ___.",
+            "options": [
+              "Every other hour",
+              "The night",
+              "The day",
+              "Only in winter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might keen hearing help a nocturnal animal?",
+            "options": [
+              "It helps them find food and avoid danger in the dark",
+              "It helps them change colour",
+              "It helps them build nests only",
+              "It helps them fly to warmer places"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sense often helps owls hunt at night?",
+            "options": [
+              "Taste only",
+              "Smell only",
+              "Hearing and sight",
+              "Touch only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call an animal that is awake mostly at night?",
+            "answers": [
+              "a nocturnal animal",
+              "nocturnal"
+            ]
+          },
+          {
+            "prompt": "Name one nocturnal animal, like an owl or a bat.",
+            "answers": [
+              "an owl",
+              "owl",
+              "a bat",
+              "bat"
+            ]
+          },
+          {
+            "prompt": "Do nocturnal animals usually sleep during the day?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Farms and Where Our Food Comes From",
+        "summary": "Students learn that much of our food is grown or raised on farms, where farmers grow crops like wheat and vegetables and raise animals like cows and chickens, before the food travels to stores.",
+        "resourceLabel": "YouTube: Farms and Where Our Food Comes From",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Farms%20and%20Where%20Our%20Food%20Comes%20From%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where does much of our food come from before it reaches a store?",
+            "options": [
+              "A library",
+              "A farm",
+              "A school",
+              "A hospital"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a crop a farmer might grow?",
+            "options": [
+              "A television",
+              "Wheat",
+              "A shoe",
+              "A car"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals might a farmer raise for food?",
+            "options": [
+              "A cow",
+              "A tiger",
+              "A lion",
+              "A whale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After food is grown or raised on a farm, it usually ___.",
+            "options": [
+              "Stays on the farm forever",
+              "Is never eaten",
+              "Travels to stores for people to buy",
+              "Disappears completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are farms important to communities?",
+            "options": [
+              "They print newspapers",
+              "They teach students",
+              "They build houses",
+              "They grow and raise much of the food we eat"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place where much of our food is grown or raised.",
+            "answers": [
+              "a farm",
+              "farm"
+            ]
+          },
+          {
+            "prompt": "Name one crop a farmer might grow, like wheat or corn.",
+            "answers": [
+              "wheat",
+              "corn",
+              "vegetables"
+            ]
+          },
+          {
+            "prompt": "Does food usually travel from a farm to a store before we buy it?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "label": "Day 32 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Consonant Digraphs: sh, ch, th, wh",
+        "summary": "Students learn that a consonant digraph is two consonants that combine to make one new sound, such as sh in ship, ch in chip, th in thin, and wh in whale.",
+        "resourceLabel": "YouTube: Consonant Digraphs: sh, ch, th, wh",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20sh%2C%20ch%2C%20th%2C%20wh%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the sh digraph?",
+            "options": [
+              "Sun",
+              "Cat",
+              "Ship",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word begins with the ch digraph?",
+            "options": [
+              "Dog",
+              "Cat",
+              "Sun",
+              "Chip"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the th digraph?",
+            "options": [
+              "Dog",
+              "Sun",
+              "Cat",
+              "Thin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the wh digraph?",
+            "options": [
+              "Cat",
+              "Sun",
+              "Whale",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A consonant digraph is two consonants that ___.",
+            "options": [
+              "Are always silent",
+              "Always keep both sounds separate",
+              "Combine to make one new sound",
+              "Never appear together"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make the beginning sound in the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "Name one word that begins with the ch digraph, like chip or chair.",
+            "answers": [
+              "chip",
+              "chair",
+              "chin"
+            ]
+          },
+          {
+            "prompt": "What two letters make the beginning sound in the word whale?",
+            "answers": [
+              "wh"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Subtraction Within 100 (With Regrouping)",
+        "summary": "Students subtract two-digit numbers within 100 that require regrouping a ten when the ones digit of the first number is smaller than the ones digit being subtracted.",
+        "resourceLabel": "YouTube: Subtraction Within 100 (With Regrouping)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28With%20Regrouping%29%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 52 - 27?",
+            "options": [
+              "24",
+              "35",
+              "25",
+              "26"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 43 - 18?",
+            "options": [
+              "35",
+              "24",
+              "26",
+              "25"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 71 - 36?",
+            "options": [
+              "35",
+              "34",
+              "36",
+              "45"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "We regroup (borrow) a ten when ___.",
+            "options": [
+              "The numbers are both even",
+              "The ones digit we are subtracting from is too small",
+              "We are adding not subtracting",
+              "The tens digits are equal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 80 - 45?",
+            "options": [
+              "45",
+              "36",
+              "34",
+              "35"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 52 - 27?",
+            "answers": [
+              "25",
+              "twenty-five",
+              "twenty five"
+            ]
+          },
+          {
+            "prompt": "When subtracting 43 - 18, is the ones digit 3 smaller than 8?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What is 71 - 36?",
+            "answers": [
+              "35",
+              "thirty-five",
+              "thirty five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Insects and Their Body Parts",
+        "summary": "Students learn that insects are small animals with six legs and three main body parts, head, thorax, and abdomen, and that many insects also have wings and antennae.",
+        "resourceLabel": "YouTube: Insects and Their Body Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Insects%20and%20Their%20Body%20Parts%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "Four",
+              "Six",
+              "Ten",
+              "Eight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the three main body parts of an insect?",
+            "options": [
+              "Head, thorax, and abdomen",
+              "Legs, eyes, and fur",
+              "Shell, fin, and gills",
+              "Head, tail, and wings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body part do many insects use to sense their surroundings?",
+            "options": [
+              "Fins",
+              "Fur",
+              "Antennae",
+              "Gills"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an insect?",
+            "options": [
+              "A worm",
+              "A spider",
+              "A ladybug",
+              "A snail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a spider different from an insect?",
+            "options": [
+              "A spider has six legs, not eight",
+              "A spider has wings",
+              "A spider has eight legs, not six",
+              "An insect has eight legs"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many legs does an insect have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Name the three main body parts of an insect: head, thorax, and ___.",
+            "answers": [
+              "abdomen"
+            ]
+          },
+          {
+            "prompt": "Name one body part many insects use to sense their surroundings, like antennae.",
+            "answers": [
+              "antennae",
+              "wings"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Types: City, Suburb, and Countryside",
+        "summary": "Students compare different types of communities, such as a busy city with tall buildings, a quieter suburb with houses close together, and the countryside with farms and open land.",
+        "resourceLabel": "YouTube: Community Types: City, Suburb, and Countryside",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Types%3A%20City%2C%20Suburb%2C%20and%20Countryside%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which type of community usually has tall buildings and many people?",
+            "options": [
+              "The countryside",
+              "A forest",
+              "An ocean",
+              "A city"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of community usually has farms and open land?",
+            "options": [
+              "A subway",
+              "The countryside",
+              "A skyscraper",
+              "A city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A suburb is usually ___.",
+            "options": [
+              "Found only underwater",
+              "The same as a farm",
+              "Busier than any city",
+              "Between a city and the countryside in size and busyness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might you find in a city but not usually in the countryside?",
+            "options": [
+              "Large farms",
+              "Quiet forests only",
+              "Wide open fields",
+              "Many tall buildings close together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different communities look different from each other?",
+            "options": [
+              "They are built to fit the land and the needs of the people there",
+              "Communities never change",
+              "Only cities have people",
+              "All communities look exactly the same"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one type of community with tall buildings and many people, like a city.",
+            "answers": [
+              "a city",
+              "city"
+            ]
+          },
+          {
+            "prompt": "Name one type of community with farms and open land, like the countryside.",
+            "answers": [
+              "the countryside",
+              "countryside",
+              "rural area"
+            ]
+          },
+          {
+            "prompt": "Are suburbs usually busier than the countryside but quieter than a city?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "label": "Day 33 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Common and Proper Nouns",
+        "summary": "Students learn that a common noun names a general person, place, or thing, like city or dog, while a proper noun names a specific one and begins with a capital letter, like Toronto or Rex.",
+        "resourceLabel": "YouTube: Common and Proper Nouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Common%20and%20Proper%20Nouns%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a common noun?",
+            "options": [
+              "Dog",
+              "Monday",
+              "Toronto",
+              "Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a proper noun?",
+            "options": [
+              "dog",
+              "Toronto",
+              "city",
+              "boy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A proper noun always begins with a ___.",
+            "options": [
+              "Number",
+              "Capital letter",
+              "Question mark",
+              "Lowercase letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a proper noun correctly?",
+            "options": [
+              "My friend lives in Toronto.",
+              "My Friend lives in toronto.",
+              "My friend lives in toronto.",
+              "my friend lives in Toronto."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common noun, not a proper noun?",
+            "options": [
+              "Canada",
+              "City",
+              "Monday",
+              "Toronto"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the word dog a common noun or a proper noun?",
+            "answers": [
+              "common noun",
+              "common"
+            ]
+          },
+          {
+            "prompt": "Is the word Toronto a common noun or a proper noun?",
+            "answers": [
+              "proper noun",
+              "proper"
+            ]
+          },
+          {
+            "prompt": "Should a proper noun begin with a capital letter?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Telling Time to Five-Minute Intervals",
+        "summary": "Students learn to read an analog clock to the nearest five minutes, counting by 5s around the clock face starting from the 12.",
+        "resourceLabel": "YouTube: Telling Time to Five-Minute Intervals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Telling%20Time%20to%20Five-Minute%20Intervals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If the minute hand points to the 3, what time is it past the hour?",
+            "options": [
+              "15 minutes",
+              "5 minutes",
+              "20 minutes",
+              "30 minutes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the minute hand points to the 6, what time is it past the hour?",
+            "options": [
+              "45 minutes",
+              "30 minutes",
+              "15 minutes",
+              "6 minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the minute hand points to the 9, what time is it past the hour?",
+            "options": [
+              "15 minutes",
+              "30 minutes",
+              "9 minutes",
+              "45 minutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When reading a clock, each number represents ___ minutes.",
+            "options": [
+              "5",
+              "15",
+              "10",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the hour hand is between 2 and 3, and the minute hand points to the 6, what time is it?",
+            "options": [
+              "2:15",
+              "6:02",
+              "2:30",
+              "3:30"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If the minute hand points to the 3, how many minutes past the hour is it?",
+            "answers": [
+              "15"
+            ]
+          },
+          {
+            "prompt": "If the minute hand points to the 6, how many minutes past the hour is it?",
+            "answers": [
+              "30"
+            ]
+          },
+          {
+            "prompt": "Counting by 5s around a clock face, what number comes after 20?",
+            "answers": [
+              "25"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Recycling and Reducing Waste",
+        "summary": "Students learn that recycling turns used materials like paper, plastic, and glass into new products, and that reducing and reusing waste helps protect the environment.",
+        "resourceLabel": "YouTube: Recycling and Reducing Waste",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%20and%20Reducing%20Waste%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is recycling?",
+            "options": [
+              "Burying all waste",
+              "Burning all garbage",
+              "Turning used materials into new products",
+              "Throwing everything away"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these materials can often be recycled?",
+            "options": [
+              "Water",
+              "Food scraps only",
+              "Air",
+              "Paper"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which action helps reduce waste?",
+            "options": [
+              "Reusing a shopping bag",
+              "Buying more than you need",
+              "Wasting paper",
+              "Throwing away items that still work"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is recycling helpful for the environment?",
+            "options": [
+              "It creates more garbage",
+              "It has no effect",
+              "It uses up more resources",
+              "It saves materials and reduces garbage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these bins would glass bottles most likely go into?",
+            "options": [
+              "A recycling bin",
+              "A garden",
+              "A closet",
+              "A pond"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one material that can be recycled, like paper or plastic.",
+            "answers": [
+              "paper",
+              "plastic",
+              "glass"
+            ]
+          },
+          {
+            "prompt": "What do we call turning used materials into new products?",
+            "answers": [
+              "recycling"
+            ]
+          },
+          {
+            "prompt": "Name one way to reduce waste, like reusing a bag.",
+            "answers": [
+              "reusing a bag",
+              "reusing",
+              "using less"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Provinces and Territories of Canada",
+        "summary": "Students learn that Canada is divided into ten provinces and three territories, each with its own capital city, and that Ontario is the province where they live.",
+        "resourceLabel": "YouTube: Provinces and Territories of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Provinces%20and%20Territories%20of%20Canada%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the large regions Canada is divided into, such as Ontario and Quebec?",
+            "options": [
+              "Oceans",
+              "Provinces",
+              "Countries",
+              "Continents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many provinces does Canada have?",
+            "options": [
+              "3",
+              "5",
+              "13",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Besides provinces, Canada also has three ___.",
+            "options": [
+              "Continents",
+              "Capitals",
+              "Oceans",
+              "Territories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a province in Canada?",
+            "options": [
+              "London",
+              "Texas",
+              "France",
+              "Ontario"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Each province and territory in Canada has its own ___.",
+            "options": [
+              "Continent",
+              "Ocean",
+              "Capital city",
+              "Language spoken by everyone"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the large regions Canada is divided into, like Ontario?",
+            "answers": [
+              "provinces"
+            ]
+          },
+          {
+            "prompt": "How many provinces does Canada have?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "Name the province where Ontario students live.",
+            "answers": [
+              "Ontario"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "label": "Day 34 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Pronouns: He, She, It, They",
+        "summary": "Students learn that a pronoun is a word that can take the place of a noun, such as using he for a boy, she for a girl, it for a thing, and they for more than one person or thing.",
+        "resourceLabel": "YouTube: Pronouns: He, She, It, They",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Pronouns%3A%20He%2C%20She%2C%20It%2C%20They%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which pronoun could replace the noun Sam if Sam is a boy?",
+            "options": [
+              "They",
+              "She",
+              "He",
+              "It"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which pronoun could replace the noun Maria if Maria is a girl?",
+            "options": [
+              "It",
+              "He",
+              "They",
+              "She"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pronoun could replace the words the two cats?",
+            "options": [
+              "She",
+              "It",
+              "He",
+              "They"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pronoun could replace the word ball?",
+            "options": [
+              "They",
+              "It",
+              "She",
+              "He"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A pronoun is a word that ___.",
+            "options": [
+              "Takes the place of a noun",
+              "Describes a noun",
+              "Joins two sentences",
+              "Shows an action"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which pronoun could replace the word boy?",
+            "answers": [
+              "he"
+            ]
+          },
+          {
+            "prompt": "Which pronoun could replace the word girl?",
+            "answers": [
+              "she"
+            ]
+          },
+          {
+            "prompt": "Which pronoun could replace the words the dogs?",
+            "answers": [
+              "they"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Length with Centimetres and Metres",
+        "summary": "Students learn to measure the length of objects using standard units, choosing centimetres for shorter objects like a pencil and metres for longer distances like a hallway.",
+        "resourceLabel": "YouTube: Measuring Length with Centimetres and Metres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Length%20with%20Centimetres%20and%20Metres%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which unit would you use to measure the length of a pencil?",
+            "options": [
+              "Kilograms",
+              "Centimetres",
+              "Litres",
+              "Metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would you use to measure the length of a hallway?",
+            "options": [
+              "Millilitres",
+              "Metres",
+              "Degrees",
+              "Centimetres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is longer, 1 metre or 1 centimetre?",
+            "options": [
+              "1 centimetre",
+              "They are equal",
+              "1 metre",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "About how many centimetres long is a small paperclip?",
+            "options": [
+              "About 3 metres",
+              "About 3 centimetres",
+              "About 300 centimetres",
+              "About 30 metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing the right unit helps us measure length ___.",
+            "options": [
+              "Incorrectly",
+              "Loudly",
+              "Accurately",
+              "Randomly"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Would you use centimetres or metres to measure a pencil?",
+            "answers": [
+              "centimetres"
+            ]
+          },
+          {
+            "prompt": "Would you use centimetres or metres to measure the length of a hallway?",
+            "answers": [
+              "metres"
+            ]
+          },
+          {
+            "prompt": "Which is longer, 1 metre or 1 centimetre?",
+            "answers": [
+              "1 metre",
+              "metre"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "States of Matter: Gases",
+        "summary": "Students learn that a gas is a state of matter that has no definite shape or volume and spreads out to fill its container, such as the air we breathe.",
+        "resourceLabel": "YouTube: States of Matter: Gases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=States%20of%20Matter%3A%20Gases%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a gas?",
+            "options": [
+              "Air",
+              "Juice",
+              "A rock",
+              "Ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a gas have a definite shape of its own?",
+            "options": [
+              "Only when frozen",
+              "Yes, it always keeps one shape",
+              "Only sometimes",
+              "No, it takes the shape of its container"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a gas inside a balloon?",
+            "options": [
+              "It stays in one corner",
+              "It spreads out to fill the whole balloon",
+              "It turns into a solid",
+              "It disappears completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the three states of matter usually cannot be seen?",
+            "options": [
+              "Liquid",
+              "Solid",
+              "Gas",
+              "None of them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Water can become a gas called water vapour when it ___.",
+            "options": [
+              "Turns into a rock",
+              "Evaporates and turns into a gas",
+              "Freezes solid",
+              "Becomes colder"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one example of a gas, like air.",
+            "answers": [
+              "air"
+            ]
+          },
+          {
+            "prompt": "Does a gas have a definite shape?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What state of matter fills up all the space in its container?",
+            "answers": [
+              "a gas",
+              "gas"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Municipal Government: Mayors and Councils",
+        "summary": "Students learn that a municipal government, led by a mayor and council, makes decisions for a city or town, such as caring for parks, roads, and local services.",
+        "resourceLabel": "YouTube: Municipal Government: Mayors and Councils",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Municipal%20Government%3A%20Mayors%20and%20Councils%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Who usually leads a city or town government?",
+            "options": [
+              "A principal",
+              "A mayor",
+              "A king",
+              "A farmer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is something a municipal government might take care of?",
+            "options": [
+              "Local roads and parks",
+              "Outer space",
+              "Ocean currents",
+              "The weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do people in a community usually choose their mayor?",
+            "options": [
+              "By voting in an election",
+              "By age only",
+              "By flipping a coin",
+              "It is never chosen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A group of elected people who help run a city along with the mayor is called the ___.",
+            "options": [
+              "School board",
+              "Sports team",
+              "City council",
+              "Farmers market"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is local government important to a community?",
+            "options": [
+              "It makes decisions that affect daily life, like roads and parks",
+              "It never makes decisions",
+              "It only affects other countries",
+              "It has no effect on daily life"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the leader of a city or town government?",
+            "answers": [
+              "a mayor",
+              "mayor"
+            ]
+          },
+          {
+            "prompt": "Name one thing a municipal government might take care of, like roads or parks.",
+            "answers": [
+              "roads",
+              "parks",
+              "local services"
+            ]
+          },
+          {
+            "prompt": "Do people in a community vote to choose their mayor and council?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "label": "Day 35 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Blends, Digraphs, Nouns and Pronouns",
+        "summary": "Students review recent Language skills: consonant blends, consonant digraphs, common and proper nouns, and pronouns.",
+        "resourceLabel": "YouTube: Review: Blends, Digraphs, Nouns and Pronouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Blends%2C%20Digraphs%2C%20Nouns%20and%20Pronouns%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the bl blend?",
+            "options": [
+              "Black",
+              "Dog",
+              "Cat",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the sh digraph?",
+            "options": [
+              "Dog",
+              "Cat",
+              "Ship",
+              "Sun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a proper noun?",
+            "options": [
+              "city",
+              "boy",
+              "dog",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pronoun could replace the words the two cats?",
+            "options": [
+              "She",
+              "It",
+              "They",
+              "He"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A consonant digraph is two consonants that ___.",
+            "options": [
+              "Never appear together",
+              "Are always silent",
+              "Always keep both sounds separate",
+              "Combine to make one new sound"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that begins with the bl blend, like black or blue.",
+            "answers": [
+              "black",
+              "blue",
+              "blow"
+            ]
+          },
+          {
+            "prompt": "What two letters make the beginning sound in the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "Which pronoun could replace the word boy?",
+            "answers": [
+              "he"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Regrouping, Time and Measuring",
+        "summary": "Students review recent Math skills: addition and subtraction within 100 with regrouping, telling time to five-minute intervals, and measuring length with centimetres and metres.",
+        "resourceLabel": "YouTube: Review: Regrouping, Time and Measuring",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Regrouping%2C%20Time%20and%20Measuring%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 27 + 15?",
+            "options": [
+              "32",
+              "41",
+              "43",
+              "42"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 52 - 27?",
+            "options": [
+              "26",
+              "25",
+              "35",
+              "24"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the minute hand points to the 3, what time is it past the hour?",
+            "options": [
+              "20 minutes",
+              "15 minutes",
+              "5 minutes",
+              "30 minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would you use to measure the length of a hallway?",
+            "options": [
+              "Degrees",
+              "Centimetres",
+              "Millilitres",
+              "Metres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 46 + 19?",
+            "options": [
+              "64",
+              "55",
+              "65",
+              "66"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 27 + 15?",
+            "answers": [
+              "42",
+              "forty-two",
+              "forty two"
+            ]
+          },
+          {
+            "prompt": "If the minute hand points to the 6, how many minutes past the hour is it?",
+            "answers": [
+              "30"
+            ]
+          },
+          {
+            "prompt": "Would you use centimetres or metres to measure a pencil?",
+            "answers": [
+              "centimetres"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Nocturnal Animals, Insects, Recycling and Gases",
+        "summary": "Students review recent Science topics: nocturnal animals, insects and their body parts, recycling and reducing waste, and the gas state of matter.",
+        "resourceLabel": "YouTube: Review: Nocturnal Animals, Insects, Recycling and Gases",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Nocturnal%20Animals%2C%20Insects%2C%20Recycling%20and%20Gases%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these animals is known for being nocturnal?",
+            "options": [
+              "A squirrel",
+              "An owl",
+              "A robin",
+              "A butterfly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the three main body parts of an insect?",
+            "options": [
+              "Legs, eyes, and fur",
+              "Head, thorax, and abdomen",
+              "Head, tail, and wings",
+              "Shell, fin, and gills"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these materials can often be recycled?",
+            "options": [
+              "Air",
+              "Paper",
+              "Food scraps only",
+              "Water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a gas?",
+            "options": [
+              "A rock",
+              "Ice",
+              "Juice",
+              "Air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are nocturnal animals often good at hearing or seeing in the dark?",
+            "options": [
+              "It helps them fly to warmer places",
+              "It helps them find food and avoid danger at night",
+              "It helps them build nests only",
+              "It helps them change colour"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one nocturnal animal, like an owl or a bat.",
+            "answers": [
+              "an owl",
+              "owl",
+              "a bat",
+              "bat"
+            ]
+          },
+          {
+            "prompt": "How many legs does an insect have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Name one material that can be recycled, like paper or plastic.",
+            "answers": [
+              "paper",
+              "plastic",
+              "glass"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Food Sources, Community Types, Provinces and Local Government",
+        "summary": "Students review recent Social Studies topics: where food comes from, types of communities, the provinces and territories of Canada, and municipal government.",
+        "resourceLabel": "YouTube: Review: Food Sources, Community Types, Provinces and Local Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Food%20Sources%2C%20Community%20Types%2C%20Provinces%20and%20Local%20Government%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where does much of our food come from before it reaches a store?",
+            "options": [
+              "A farm",
+              "A school",
+              "A hospital",
+              "A library"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of community usually has farms and open land?",
+            "options": [
+              "The countryside",
+              "A subway",
+              "A skyscraper",
+              "A city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many provinces does Canada have?",
+            "options": [
+              "10",
+              "13",
+              "3",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who usually leads a city or town government?",
+            "options": [
+              "A mayor",
+              "A farmer",
+              "A king",
+              "A principal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are farms important to communities?",
+            "options": [
+              "They build houses",
+              "They print newspapers",
+              "They teach students",
+              "They grow and raise much of the food we eat"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place where much of our food is grown or raised.",
+            "answers": [
+              "a farm",
+              "farm"
+            ]
+          },
+          {
+            "prompt": "Name one type of community with tall buildings and many people, like a city.",
+            "answers": [
+              "a city",
+              "city"
+            ]
+          },
+          {
+            "prompt": "How many provinces does Canada have?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "label": "Day 36 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Prefixes: un- and re-",
+        "summary": "Students learn that the prefixes un- and re- can be added to the beginning of a word to change its meaning, with un- often meaning not, and re- often meaning again.",
+        "resourceLabel": "YouTube: Prefixes: un- and re-",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20un-%20and%20re-%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the prefix un- usually mean?",
+            "options": [
+              "Again",
+              "Always",
+              "Before",
+              "Not"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the prefix re- usually mean?",
+            "options": [
+              "Before",
+              "Never",
+              "Not",
+              "Again"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word means to do something again by using the prefix re-?",
+            "options": [
+              "Redo",
+              "Predo",
+              "Undo",
+              "Disdo"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means not happy by using the prefix un-?",
+            "options": [
+              "Unhappy",
+              "Prehappy",
+              "Rehappy",
+              "Dishappy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A prefix is added to the ___ of a word to change its meaning.",
+            "options": [
+              "Middle",
+              "Beginning",
+              "End",
+              "Nowhere"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the prefix un- usually mean, as in unhappy?",
+            "answers": [
+              "not"
+            ]
+          },
+          {
+            "prompt": "What does the prefix re- usually mean, as in redo?",
+            "answers": [
+              "again"
+            ]
+          },
+          {
+            "prompt": "Name one word that begins with the prefix un-, like unhappy or unsafe.",
+            "answers": [
+              "unhappy",
+              "unsafe",
+              "unfair"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Thirds and Eighths",
+        "summary": "Students explore fractions with thirds and eighths, understanding that a whole can be split into 3 or 8 equal parts, each called one third or one eighth.",
+        "resourceLabel": "YouTube: Fractions: Thirds and Eighths",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Thirds%20and%20Eighths%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If a whole is split into 3 equal parts, each part is called ___.",
+            "options": [
+              "One eighth",
+              "One half",
+              "One quarter",
+              "One third"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a whole is split into 8 equal parts, each part is called ___.",
+            "options": [
+              "One half",
+              "One third",
+              "One whole",
+              "One eighth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is bigger, one third or one eighth of the same pizza?",
+            "options": [
+              "They are equal",
+              "One eighth",
+              "One third",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Three friends sharing a pizza equally would each get ___ of the pizza.",
+            "options": [
+              "One half",
+              "One eighth",
+              "One third",
+              "The whole pizza"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Splitting a whole into more equal parts makes each part ___.",
+            "options": [
+              "Disappear",
+              "Smaller",
+              "Bigger",
+              "Stay the same size"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a pizza is cut into 3 equal parts, what is each part called?",
+            "answers": [
+              "one third",
+              "a third"
+            ]
+          },
+          {
+            "prompt": "If a chocolate bar is cut into 8 equal parts, what is each part called?",
+            "answers": [
+              "one eighth",
+              "an eighth"
+            ]
+          },
+          {
+            "prompt": "Which is bigger, one third or one eighth of the same whole?",
+            "answers": [
+              "one third",
+              "a third"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Magnets: Push and Pull Without Touching",
+        "summary": "Students learn that a magnet can push or pull certain metal objects without touching them, and that magnets have two ends called poles that can attract or repel each other.",
+        "resourceLabel": "YouTube: Magnets: Push and Pull Without Touching",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Magnets%3A%20Push%20and%20Pull%20Without%20Touching%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What can a magnet do to certain metal objects without touching them?",
+            "options": [
+              "Make them disappear",
+              "Change their colour",
+              "Melt them",
+              "Push or pull them"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these materials would a magnet most likely attract?",
+            "options": [
+              "An iron nail",
+              "A plastic cup",
+              "A wooden block",
+              "A paper towel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the two ends of a magnet?",
+            "options": [
+              "Tips",
+              "Wheels",
+              "Poles",
+              "Corners"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens when two magnets with the same pole are brought close together?",
+            "options": [
+              "They melt",
+              "They always stick together",
+              "They disappear",
+              "They push each other away"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens when two magnets with opposite poles are brought close together?",
+            "options": [
+              "They always push apart",
+              "They melt",
+              "They disappear",
+              "They attract and pull together"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the force a magnet uses to attract or push away objects?",
+            "answers": [
+              "magnetism",
+              "magnetic force"
+            ]
+          },
+          {
+            "prompt": "Name one material that a magnet can attract, like iron or steel.",
+            "answers": [
+              "iron",
+              "steel"
+            ]
+          },
+          {
+            "prompt": "Do magnets have two ends called poles?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Immigration: New Families Joining Canada",
+        "summary": "Students learn that immigration is when people move from one country to make a new home in another country, and that many families have come to Canada from around the world, adding to its cultures and traditions.",
+        "resourceLabel": "YouTube: Immigration: New Families Joining Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Immigration%3A%20New%20Families%20Joining%20Canada%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is immigration?",
+            "options": [
+              "When animals migrate with the seasons",
+              "When people travel on vacation",
+              "When people move from one country to live in another",
+              "When a family moves within the same city"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a person who has moved to a new country to live?",
+            "options": [
+              "An immigrant",
+              "A citizen only",
+              "A tourist",
+              "A visitor only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family choose to immigrate to Canada?",
+            "options": [
+              "To find new opportunities, safety, or to be with family",
+              "Only for a short vacation",
+              "To avoid all other countries",
+              "Canada has no reasons to immigrate to"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do immigrant families often help Canadian communities?",
+            "options": [
+              "They do not help communities",
+              "By changing nothing about the community",
+              "By sharing their cultures, languages, and traditions",
+              "By keeping to themselves only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada is often described as a country made up of ___.",
+            "options": [
+              "Only one culture",
+              "People from many different cultures and backgrounds",
+              "Only people born in Canada",
+              "No immigrants at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when people move from one country to live in another?",
+            "answers": [
+              "immigration"
+            ]
+          },
+          {
+            "prompt": "What do we call a person who moves to a new country to live?",
+            "answers": [
+              "an immigrant",
+              "immigrant"
+            ]
+          },
+          {
+            "prompt": "Do families who immigrate to Canada bring their own traditions and cultures?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "label": "Day 37 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Suffixes: -ful and -less",
+        "summary": "Students learn that the suffixes -ful and -less can be added to the end of a word, with -ful often meaning full of, and -less often meaning without.",
+        "resourceLabel": "YouTube: Suffixes: -ful and -less",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20-ful%20and%20-less%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the suffix -ful usually mean?",
+            "options": [
+              "Before",
+              "Full of",
+              "Again",
+              "Without"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the suffix -less usually mean?",
+            "options": [
+              "Without",
+              "Full of",
+              "Never before",
+              "Always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means without help by using the suffix -less?",
+            "options": [
+              "Helpless",
+              "Helpful",
+              "Prehelp",
+              "Rehelp"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means full of joy by using the suffix -ful?",
+            "options": [
+              "Joyful",
+              "Prejoy",
+              "Rejoy",
+              "Joyless"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A suffix is added to the ___ of a word to change its meaning.",
+            "options": [
+              "Beginning",
+              "End",
+              "Nowhere",
+              "Middle"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the suffix -ful usually mean, as in joyful?",
+            "answers": [
+              "full of"
+            ]
+          },
+          {
+            "prompt": "What does the suffix -less usually mean, as in helpless?",
+            "answers": [
+              "without"
+            ]
+          },
+          {
+            "prompt": "Name one word that ends in -ful, like joyful or careful.",
+            "answers": [
+              "joyful",
+              "careful",
+              "colourful"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Odd and Even Numbers",
+        "summary": "Students learn to identify odd and even numbers, understanding that even numbers can be split into two equal groups and odd numbers cannot.",
+        "resourceLabel": "YouTube: Odd and Even Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Odd%20and%20Even%20Numbers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Is the number 8 odd or even?",
+            "options": [
+              "Even",
+              "Both",
+              "Neither",
+              "Odd"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is the number 7 odd or even?",
+            "options": [
+              "Odd",
+              "Neither",
+              "Even",
+              "Both"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these numbers is even?",
+            "options": [
+              "11",
+              "13",
+              "10",
+              "15"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers is odd?",
+            "options": [
+              "6",
+              "9",
+              "8",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An even number can always be split into ___.",
+            "options": [
+              "Three equal groups",
+              "Odd groups only",
+              "No equal groups",
+              "Two equal groups"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the number 8 odd or even?",
+            "answers": [
+              "even"
+            ]
+          },
+          {
+            "prompt": "Is the number 7 odd or even?",
+            "answers": [
+              "odd"
+            ]
+          },
+          {
+            "prompt": "Can an even number always be split into two equal groups?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Water Cycle",
+        "summary": "Students learn about the water cycle, the process where water evaporates into the air, forms clouds through condensation, and falls back to the earth as precipitation like rain or snow.",
+        "resourceLabel": "YouTube: The Water Cycle",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call water turning into vapour and rising into the air?",
+            "options": [
+              "Freezing",
+              "Condensation",
+              "Evaporation",
+              "Precipitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call water vapour forming into clouds?",
+            "options": [
+              "Evaporation",
+              "Condensation",
+              "Melting",
+              "Precipitation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call rain or snow falling from clouds to the ground?",
+            "options": [
+              "Freezing",
+              "Precipitation",
+              "Evaporation",
+              "Condensation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does most of the water that evaporates come from?",
+            "options": [
+              "Only underground caves",
+              "Only clouds",
+              "Oceans, lakes, and rivers",
+              "Only swimming pools"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The water cycle describes how water ___.",
+            "options": [
+              "Only exists in oceans",
+              "Moves between the earth, air, and clouds again and again",
+              "Never moves at all",
+              "Disappears forever after it rains"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call water turning into vapour and rising into the air?",
+            "answers": [
+              "evaporation"
+            ]
+          },
+          {
+            "prompt": "What do we call rain or snow falling from clouds?",
+            "answers": [
+              "precipitation"
+            ]
+          },
+          {
+            "prompt": "Name one form precipitation can take, like rain or snow.",
+            "answers": [
+              "rain",
+              "snow"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "My Body Belongs to Me: Personal Safety",
+        "summary": "Students learn that their body belongs to them, that they can say no to touches that make them uncomfortable, and that they should tell a trusted adult if something makes them feel unsafe.",
+        "resourceLabel": "YouTube: My Body Belongs to Me: Personal Safety",
+        "resourceUrl": "https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Whose body belongs to a child?",
+            "options": [
+              "Only their parents decide everything about it",
+              "Their own body belongs to them",
+              "No one, it belongs to strangers",
+              "Only their teacher"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can a child do if a touch makes them feel uncomfortable or unsafe?",
+            "options": [
+              "Ignore the feeling completely",
+              "Do whatever they are told",
+              "Say no and tell a trusted adult",
+              "Stay quiet and never tell anyone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who could be a trusted adult a child talks to about feeling unsafe?",
+            "options": [
+              "A stranger",
+              "A parent or teacher",
+              "Only another child",
+              "No one at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for children to know their body belongs to them?",
+            "options": [
+              "It helps them stay safe and speak up if something feels wrong",
+              "Children should never speak up",
+              "It only matters for adults",
+              "It has no importance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If something makes a child feel unsafe, a helpful first step is to ___.",
+            "options": [
+              "Ignore it and hope it stops",
+              "Blame themselves",
+              "Tell a trusted adult right away",
+              "Keep it a secret forever"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Whose body belongs to you?",
+            "answers": [
+              "my body",
+              "mine",
+              "yours"
+            ]
+          },
+          {
+            "prompt": "What should you do if a touch makes you feel unsafe or uncomfortable?",
+            "answers": [
+              "say no",
+              "tell a trusted adult"
+            ]
+          },
+          {
+            "prompt": "Name one person who could be a trusted adult, like a parent or teacher.",
+            "answers": [
+              "a parent",
+              "parent",
+              "a teacher",
+              "teacher"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "label": "Day 38 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Comparing with -er and -est",
+        "summary": "Students learn that the suffixes -er and -est can be added to describing words to compare things, with -er comparing two things, as in taller, and -est comparing three or more, as in tallest.",
+        "resourceLabel": "YouTube: Comparing with -er and -est",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20with%20-er%20and%20-est%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which suffix compares exactly two things?",
+            "options": [
+              "-less",
+              "-ful",
+              "-est",
+              "-er"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which suffix compares three or more things?",
+            "options": [
+              "-er",
+              "-ful",
+              "-est",
+              "-less"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word correctly compares two runners?",
+            "options": [
+              "Fast",
+              "Fasting",
+              "Fastest",
+              "Faster"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word correctly compares the tallest person in a whole class?",
+            "options": [
+              "Tallest",
+              "Tall",
+              "Talling",
+              "Taller"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If Sam is tall, Mia is taller, and Leo is the ___, Leo is the tallest of all three.",
+            "options": [
+              "Tallness",
+              "Taller",
+              "Tallest",
+              "Tall"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If comparing two children heights, which word would you use, taller or tallest?",
+            "answers": [
+              "taller"
+            ]
+          },
+          {
+            "prompt": "If comparing the heights of a whole class, which word would you use, taller or tallest?",
+            "answers": [
+              "tallest"
+            ]
+          },
+          {
+            "prompt": "Add -er to the word fast to compare two runners.",
+            "answers": [
+              "faster"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Repeating Patterns with Shapes and Numbers",
+        "summary": "Students identify and extend repeating patterns made from shapes, colours, or numbers, recognizing the core unit that repeats over and over.",
+        "resourceLabel": "YouTube: Repeating Patterns with Shapes and Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Shapes%20and%20Numbers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In the pattern circle, square, circle, square, ___, what comes next?",
+            "options": [
+              "Star",
+              "Triangle",
+              "Square",
+              "Circle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the pattern 3, 6, 3, 6, 3, ___, what comes next?",
+            "options": [
+              "12",
+              "9",
+              "6",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the pattern red, blue, blue, red, blue, blue, ___, what comes next?",
+            "options": [
+              "Blue",
+              "Yellow",
+              "Green",
+              "Red"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the smallest part of a pattern that repeats over and over?",
+            "options": [
+              "The end",
+              "The core",
+              "The total",
+              "The middle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A repeating pattern is one where the core ___.",
+            "options": [
+              "Only appears once",
+              "Repeats again and again",
+              "Gets bigger each time",
+              "Never repeats"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the pattern circle, square, circle, square, what shape comes next?",
+            "answers": [
+              "circle"
+            ]
+          },
+          {
+            "prompt": "In the pattern 2, 4, 2, 4, 2, what number comes next?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "What do we call the smallest part of a pattern that repeats?",
+            "answers": [
+              "the core",
+              "core"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rocks and Soil: What the Earth is Made Of",
+        "summary": "Students learn that rocks come in many shapes, sizes, and colours, and that soil is made up of tiny broken bits of rock mixed with decayed plants and animals, which helps plants grow.",
+        "resourceLabel": "YouTube: Rocks and Soil: What the Earth is Made Of",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rocks%20and%20Soil%3A%20What%20the%20Earth%20is%20Made%20Of%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is soil made up of?",
+            "options": [
+              "Only glass",
+              "Tiny broken bits of rock mixed with decayed plants and animals",
+              "Only water",
+              "Only metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is true about rocks?",
+            "options": [
+              "They are always tiny",
+              "They are all exactly the same",
+              "They are all soft",
+              "They come in many shapes, sizes, and colours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is soil important for plants?",
+            "options": [
+              "It only harms plants",
+              "It provides nutrients and support for roots to grow",
+              "It has no use for plants",
+              "It stops plants from growing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Over a very long time, rocks can slowly break down into ___.",
+            "options": [
+              "Tiny pieces that become part of soil",
+              "Water",
+              "Gas",
+              "Metal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a rock?",
+            "options": [
+              "Air",
+              "Water",
+              "Granite",
+              "Wood"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing soil is made of, like broken rock or decayed plants.",
+            "answers": [
+              "broken rock",
+              "decayed plants",
+              "tiny rock pieces"
+            ]
+          },
+          {
+            "prompt": "Do rocks come in different shapes, sizes, and colours?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Does soil help plants grow?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Saving and Spending Money Wisely",
+        "summary": "Students learn the difference between saving money for later and spending money now, and that making thoughtful choices about money helps people reach their goals.",
+        "resourceLabel": "YouTube: Saving and Spending Money Wisely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Saving%20and%20Spending%20Money%20Wisely%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Giving all your money away",
+              "Putting money aside instead of spending it right away",
+              "Losing your money",
+              "Spending all your money right away"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to spend money?",
+            "options": [
+              "Using money to buy something",
+              "Putting money away for later",
+              "Hiding money",
+              "Throwing money away"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to save money instead of spending it right away?",
+            "options": [
+              "To lose track of it",
+              "Money should never be saved",
+              "To buy something bigger or more important later",
+              "Saving money is never useful"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of making a wise choice about money?",
+            "options": [
+              "Thinking before spending and saving some for later",
+              "Losing money on purpose",
+              "Never thinking about money at all",
+              "Spending every coin the moment you get it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Making thoughtful choices about money can help someone ___.",
+            "options": [
+              "Waste all their money",
+              "Reach a savings goal",
+              "Never buy anything they want",
+              "Avoid ever having money"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call putting money aside instead of spending it right away?",
+            "answers": [
+              "saving"
+            ]
+          },
+          {
+            "prompt": "What do we call using money to buy something now?",
+            "answers": [
+              "spending"
+            ]
+          },
+          {
+            "prompt": "Can saving money help you buy something bigger later?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "label": "Day 39 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing a Simple Paragraph",
+        "summary": "Students learn that a simple paragraph has a topic sentence that introduces the main idea, a few detail sentences that add information, and stays focused on one idea.",
+        "resourceLabel": "YouTube: Writing a Simple Paragraph",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Simple%20Paragraph%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a topic sentence?",
+            "options": [
+              "The last sentence in a story",
+              "A sentence with no meaning",
+              "The sentence that introduces the main idea of a paragraph",
+              "A question only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do detail sentences in a paragraph do?",
+            "options": [
+              "Change the topic completely",
+              "Add more information about the main idea",
+              "Ask random questions",
+              "End the paragraph immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A good paragraph usually stays focused on ___.",
+            "options": [
+              "Only questions",
+              "No idea at all",
+              "Many unrelated ideas",
+              "One main idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these would make the best topic sentence for a paragraph about dogs?",
+            "options": [
+              "Dogs make wonderful pets for many families.",
+              "I like pizza for lunch.",
+              "Cars can be fast or slow.",
+              "The sky is blue today."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to stay on topic when writing a paragraph?",
+            "options": [
+              "It confuses the reader on purpose",
+              "Paragraphs do not need a topic",
+              "Readers prefer unrelated ideas",
+              "It helps the reader understand the main idea clearly"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the sentence that introduces the main idea of a paragraph?",
+            "answers": [
+              "the topic sentence",
+              "topic sentence"
+            ]
+          },
+          {
+            "prompt": "Should the sentences in a paragraph stay focused on one idea?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing a detail sentence does in a paragraph, like adding information.",
+            "answers": [
+              "adds information",
+              "gives more details"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Symmetry in Shapes",
+        "summary": "Students learn that a shape has symmetry if it can be folded along a line so that both halves match exactly, and that this line is called a line of symmetry.",
+        "resourceLabel": "YouTube: Symmetry in Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Symmetry%20in%20Shapes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "A shape has symmetry if it can be folded so that ___.",
+            "options": [
+              "Both halves match exactly",
+              "One half disappears",
+              "Both halves are different sizes",
+              "It cannot be folded at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the line where a symmetrical shape can be folded so both halves match?",
+            "options": [
+              "A border line",
+              "A line of symmetry",
+              "A number line",
+              "A curved line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shapes has a line of symmetry?",
+            "options": [
+              "An uneven shape",
+              "A square",
+              "A scribble",
+              "A random blob"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many lines of symmetry does a circle have?",
+            "options": [
+              "Exactly two",
+              "Exactly one",
+              "Many",
+              "None"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these letters has a line of symmetry?",
+            "options": [
+              "A",
+              "G",
+              "R",
+              "F"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a shape that can be folded so both halves match exactly?",
+            "answers": [
+              "a symmetrical shape",
+              "symmetrical"
+            ]
+          },
+          {
+            "prompt": "What do we call the line where a symmetrical shape can be folded so both halves match?",
+            "answers": [
+              "a line of symmetry",
+              "line of symmetry"
+            ]
+          },
+          {
+            "prompt": "Does a circle have a line of symmetry?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Healthy Eating and the Food Groups",
+        "summary": "Students learn that eating a balance of different food groups, such as fruits, vegetables, grains, and proteins, helps their bodies grow strong and stay healthy.",
+        "resourceLabel": "YouTube: Healthy Eating and the Food Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Healthy%20Eating%20and%20the%20Food%20Groups%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why is it important to eat a balance of different food groups?",
+            "options": [
+              "It only matters for adults",
+              "It makes food taste worse",
+              "It has no effect on health",
+              "It helps the body grow strong and stay healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a fruit or vegetable?",
+            "options": [
+              "An apple",
+              "A cookie",
+              "A candy bar",
+              "A soda"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which food group gives the body energy from foods like bread and rice?",
+            "options": [
+              "Only fats",
+              "Only sugar",
+              "Grains",
+              "Only sweets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a healthy snack choice?",
+            "options": [
+              "A bag of candy",
+              "A can of soda",
+              "Carrot sticks",
+              "A bag of chips"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Eating too much of only one food group and ignoring the others can ___.",
+            "options": [
+              "Always make you healthier",
+              "Make you grow taller instantly",
+              "Make it harder for the body to stay balanced and healthy",
+              "Have no effect at all"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one food group, like fruits or vegetables.",
+            "answers": [
+              "fruits",
+              "vegetables",
+              "grains",
+              "proteins"
+            ]
+          },
+          {
+            "prompt": "Does eating a balance of different food groups help your body stay healthy?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one fruit or vegetable you could eat for a healthy snack.",
+            "answers": [
+              "an apple",
+              "apple",
+              "carrot",
+              "banana"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Landmarks and Famous Places in Canada",
+        "summary": "Students learn about well-known Canadian landmarks, such as the CN Tower, Niagara Falls, and the Parliament Buildings, and why these places are important to the country.",
+        "resourceLabel": "YouTube: Landmarks and Famous Places in Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Landmarks%20and%20Famous%20Places%20in%20Canada%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a famous Canadian landmark?",
+            "options": [
+              "The Pyramids",
+              "The Great Wall",
+              "The CN Tower",
+              "The Eiffel Tower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which city would you find the CN Tower?",
+            "options": [
+              "Montreal",
+              "Ottawa",
+              "Vancouver",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which famous Canadian landmark is a large and powerful waterfall?",
+            "options": [
+              "Parliament Hill",
+              "The CN Tower",
+              "Niagara Falls",
+              "The Rocky Mountains"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where do Canadas government leaders meet, at a famous landmark in Ottawa?",
+            "options": [
+              "The Parliament Buildings",
+              "A shopping mall",
+              "Niagara Falls",
+              "The CN Tower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are landmarks important to a country?",
+            "options": [
+              "They are never visited",
+              "They are only found in other countries",
+              "They have no importance at all",
+              "They represent history, culture, or natural beauty"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one famous Canadian landmark, like the CN Tower or Niagara Falls.",
+            "answers": [
+              "the CN Tower",
+              "CN Tower",
+              "Niagara Falls"
+            ]
+          },
+          {
+            "prompt": "In which city is the CN Tower located?",
+            "answers": [
+              "Toronto"
+            ]
+          },
+          {
+            "prompt": "Name one reason people visit famous landmarks, like to learn about history.",
+            "answers": [
+              "to learn about history",
+              "to see something special",
+              "to visit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "label": "Day 40 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Final Review: Prefixes, Suffixes, Comparing Words and Paragraphs",
+        "summary": "Students review recent Language skills: prefixes un- and re-, suffixes -ful and -less, comparing with -er and -est, and writing a simple paragraph.",
+        "resourceLabel": "YouTube: Final Review: Prefixes, Suffixes, Comparing Words and Paragraphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Prefixes%2C%20Suffixes%2C%20Comparing%20Words%20and%20Paragraphs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the prefix un- usually mean?",
+            "options": [
+              "Before",
+              "Not",
+              "Always",
+              "Again"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word means full of joy by using the suffix -ful?",
+            "options": [
+              "Joyless",
+              "Rejoy",
+              "Joyful",
+              "Prejoy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which suffix compares three or more things?",
+            "options": [
+              "-est",
+              "-er",
+              "-less",
+              "-ful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a topic sentence?",
+            "options": [
+              "The sentence that introduces the main idea of a paragraph",
+              "A question only",
+              "The last sentence in a story",
+              "A sentence with no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means without help by using the suffix -less?",
+            "options": [
+              "Prehelp",
+              "Helpful",
+              "Helpless",
+              "Rehelp"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the prefix re- usually mean, as in redo?",
+            "answers": [
+              "again"
+            ]
+          },
+          {
+            "prompt": "What does the suffix -less usually mean, as in helpless?",
+            "answers": [
+              "without"
+            ]
+          },
+          {
+            "prompt": "What do we call the sentence that introduces the main idea of a paragraph?",
+            "answers": [
+              "the topic sentence",
+              "topic sentence"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Final Review: Fractions, Odd/Even, Patterns and Symmetry",
+        "summary": "Students review recent Math skills: thirds and eighths, odd and even numbers, repeating patterns, and symmetry in shapes.",
+        "resourceLabel": "YouTube: Final Review: Fractions, Odd/Even, Patterns and Symmetry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Fractions%2C%20Odd/Even%2C%20Patterns%20and%20Symmetry%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If a whole is split into 8 equal parts, each part is called ___.",
+            "options": [
+              "One whole",
+              "One eighth",
+              "One half",
+              "One third"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these numbers is odd?",
+            "options": [
+              "8",
+              "4",
+              "6",
+              "9"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the pattern circle, square, circle, square, ___, what comes next?",
+            "options": [
+              "Star",
+              "Triangle",
+              "Circle",
+              "Square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A shape has symmetry if it can be folded so that ___.",
+            "options": [
+              "Both halves are different sizes",
+              "Both halves match exactly",
+              "One half disappears",
+              "It cannot be folded at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Splitting a whole into more equal parts makes each part ___.",
+            "options": [
+              "Disappear",
+              "Bigger",
+              "Smaller",
+              "Stay the same size"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a whole is split into 3 equal parts, what is each part called?",
+            "answers": [
+              "one third",
+              "a third"
+            ]
+          },
+          {
+            "prompt": "Is the number 8 odd or even?",
+            "answers": [
+              "even"
+            ]
+          },
+          {
+            "prompt": "What do we call the line where a symmetrical shape can be folded so both halves match?",
+            "answers": [
+              "a line of symmetry",
+              "line of symmetry"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Final Review: Magnets, Water Cycle, Rocks/Soil and Healthy Eating",
+        "summary": "Students review recent Science topics: magnets, the water cycle, rocks and soil, and healthy eating and food groups.",
+        "resourceLabel": "YouTube: Final Review: Magnets, Water Cycle, Rocks/Soil and Healthy Eating",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Magnets%2C%20Water%20Cycle%2C%20Rocks/Soil%20and%20Healthy%20Eating%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these materials would a magnet most likely attract?",
+            "options": [
+              "A paper towel",
+              "A wooden block",
+              "A plastic cup",
+              "An iron nail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call rain or snow falling from clouds to the ground?",
+            "options": [
+              "Precipitation",
+              "Condensation",
+              "Evaporation",
+              "Freezing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is soil made up of?",
+            "options": [
+              "Tiny broken bits of rock mixed with decayed plants and animals",
+              "Only water",
+              "Only metal",
+              "Only glass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to eat a balance of different food groups?",
+            "options": [
+              "It has no effect on health",
+              "It only matters for adults",
+              "It makes food taste worse",
+              "It helps the body grow strong and stay healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens when two magnets with opposite poles are brought close together?",
+            "options": [
+              "They melt",
+              "They disappear",
+              "They always push apart",
+              "They attract and pull together"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the force a magnet uses to attract or push away objects?",
+            "answers": [
+              "magnetism",
+              "magnetic force"
+            ]
+          },
+          {
+            "prompt": "What do we call water turning into vapour and rising into the air?",
+            "answers": [
+              "evaporation"
+            ]
+          },
+          {
+            "prompt": "What is soil made up of?",
+            "answers": [
+              "broken rock and decayed plants",
+              "tiny broken bits of rock and decayed matter"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Final Review: Immigration, Personal Safety, Money and Landmarks",
+        "summary": "Students review recent Social Studies topics: immigration, personal safety, saving and spending money wisely, and Canadian landmarks.",
+        "resourceLabel": "YouTube: Final Review: Immigration, Personal Safety, Money and Landmarks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Immigration%2C%20Personal%20Safety%2C%20Money%20and%20Landmarks%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is immigration?",
+            "options": [
+              "When people travel on vacation",
+              "When people move from one country to live in another",
+              "When animals migrate with the seasons",
+              "When a family moves within the same city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who could be a trusted adult a child talks to about feeling unsafe?",
+            "options": [
+              "Only another child",
+              "A stranger",
+              "A parent or teacher",
+              "No one at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Losing your money",
+              "Putting money aside instead of spending it right away",
+              "Spending all your money right away",
+              "Giving all your money away"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which city would you find the CN Tower?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Vancouver",
+              "Montreal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family choose to immigrate to Canada?",
+            "options": [
+              "Only for a short vacation",
+              "To find new opportunities, safety, or to be with family",
+              "To avoid all other countries",
+              "Canada has no reasons to immigrate to"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when people move from one country to live in another?",
+            "answers": [
+              "immigration"
+            ]
+          },
+          {
+            "prompt": "What should you do if a touch makes you feel unsafe or uncomfortable?",
+            "answers": [
+              "say no",
+              "tell a trusted adult"
+            ]
+          },
+          {
+            "prompt": "What do we call putting money aside instead of spending it right away?",
+            "answers": [
+              "saving"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
