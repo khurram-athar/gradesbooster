@@ -2753,6 +2753,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review early societies alongside Canadian geography?", options:["These topics have no connection to social studies","Early societies and Canadian geography are exactly the same topic","It helps compare how different societies and regions have developed over time","X unrelated to reviewing social studies"], answer:2}
    ]},
 ]},
+{day:71, label:"Day 71 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Proverbs and Adages", summary:"Grade 4 Language strand: a proverb or adage is a short, well-known saying that expresses a piece of traditional wisdom or advice, such as look before you leap.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A proverb or adage is best described as a short saying that expresses ___.", options:["X unrelated to proverbs","Traditional wisdom or advice","A character’s exact name","A story’s complete plot"], answer:1},
+     {q:"Which saying is an example of a proverb?", options:["The sky is blue today","My shoes are red","Look before you leap","X unrelated to proverbs"], answer:2},
+     {q:"The proverb the early bird catches the worm suggests that ___.", options:["X unrelated to this proverb","Waiting is always the best choice","Acting early often brings success","Birds only eat worms in the morning"], answer:2},
+     {q:"Why do people still use proverbs that are hundreds of years old?", options:["Their advice about life often still applies today","X unrelated to using proverbs","Proverbs are only used in ancient texts","Old sayings have no meaning today"], answer:0},
+     {q:"Which proverb best warns against judging something only by its outward appearance?", options:["X unrelated to this proverb","Don’t judge a book by its cover","The early bird catches the worm","Practice makes perfect"], answer:1}
+   ]},
+  {subject:"Math", title:"Comparing and Ordering Numbers to 10,000", summary:"Grade 4 Math strand: comparing and ordering numbers to 10,000 means using place value to decide whether one number is greater than, less than, or equal to another, and arranging numbers from least to greatest or greatest to least.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"To compare two numbers, you should first look at the digit with the greatest ___.", options:["Font size","Place value","X unrelated to comparing numbers","Colour"], answer:1},
+     {q:"Which symbol means greater than?", options:["=","X unrelated to comparing numbers",">","<"], answer:2},
+     {q:"Which number is greater: 4,562 or 4,265?", options:["X unrelated to this comparison","4,562","4,265","They are equal"], answer:1},
+     {q:"Which of these lists correctly orders the numbers from least to greatest?", options:["3,201; 3,120; 3,021","3,021; 3,120; 3,201","3,120; 3,201; 3,021","X unrelated to this ordering"], answer:1},
+     {q:"Why is comparing and ordering numbers a useful skill in everyday life?", options:["X unrelated to comparing numbers","Every number is always considered equal in size","It helps make sense of amounts, scores, or measurements","Comparing numbers serves no everyday purpose"], answer:2}
+   ]},
+  {subject:"Science", title:"Freshwater Habitats: Ponds, Lakes, and Rivers", summary:"Grade 4 Science strand: freshwater habitats, such as ponds, lakes, and rivers, contain low levels of salt and support plants and animals, such as frogs, fish, and cattails, that are adapted to living in fresh water.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A freshwater habitat contains water with ___.", options:["No water at all","Very low levels of salt","Very high levels of salt","X unrelated to freshwater habitats"], answer:1},
+     {q:"Which of these is an example of a freshwater habitat?", options:["X unrelated to freshwater habitats","A pond","An ocean","A salt marsh"], answer:1},
+     {q:"Which plant commonly grows along the edges of ponds and marshes?", options:["Seaweed","Cattails","Cactus","X unrelated to freshwater plants"], answer:1},
+     {q:"Rivers differ from lakes and ponds mainly because river water ___.", options:["X unrelated to comparing freshwater habitats","Never moves at all","Is always frozen solid","Flows continuously in one direction"], answer:3},
+     {q:"Why are freshwater habitats important to many communities?", options:["X unrelated to freshwater habitats","Freshwater habitats provide no benefit to communities","Only ocean habitats support living things","They provide drinking water and support diverse plants and animals"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Ancient Persia", summary:"Grade 4 Social Studies strand: the ancient Persian Empire, centred in what is now Iran, grew to become one of the largest empires in the ancient world, known for its royal roads, diverse cultures, and organized system of governing distant provinces.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The ancient Persian Empire was centred in the region that is now known as ___.", options:["Central America","Northern Europe","Iran","X unrelated to Persia"], answer:2},
+     {q:"The Persian Empire became known for building an extensive network of ___.", options:["X unrelated to Persian achievements","Underwater tunnels","Modern highways","Roads connecting distant parts of the empire"], answer:3},
+     {q:"To govern such a large empire, Persian rulers divided their land into ___.", options:["Provinces, each managed by an appointed governor","Independent countries with no ruler","X unrelated to Persian government","A single small village"], answer:0},
+     {q:"The Persian Empire is remembered for allowing conquered peoples to ___.", options:["Speak only the Persian language","Live with no laws at all","Keep many of their own customs and beliefs","X unrelated to Persian rule"], answer:2},
+     {q:"Why do historians consider ancient Persia to be one of the largest empires of the ancient world?", options:["X unrelated to studying ancient Persia","Ancient Persia had no organized government","It controlled a vast amount of land and many diverse peoples","Persia never expanded beyond a single city"], answer:2}
+   ]},
+]},
+{day:72, label:"Day 72 — Tue", subjects:[
+  {subject:"Language", title:"Figurative Language: Onomatopoeia", summary:"Grade 4 Language strand: onomatopoeia is a word that imitates the sound it describes, such as buzz, crash, or sizzle.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Onomatopoeia is a word that ___.", options:["Has the opposite meaning of another word","Imitates the sound it describes","Always rhymes with another word","X unrelated to onomatopoeia"], answer:1},
+     {q:"Which word is an example of onomatopoeia?", options:["Happy","X unrelated to onomatopoeia","Table","Buzz"], answer:3},
+     {q:"Which word is an example of onomatopoeia?", options:["Chair","Quickly","Sizzle","X unrelated to onomatopoeia"], answer:2},
+     {q:"Why might an author use onomatopoeia in a story?", options:["Onomatopoeia has no effect on how a reader imagines a scene","To help readers imagine the sounds happening in the scene","X unrelated to figurative language","To make a sentence longer with no other purpose"], answer:1},
+     {q:"Which sentence uses onomatopoeia?", options:["The bacon sizzled loudly in the pan","X unrelated to onomatopoeia","The bacon cooked in the pan","The pan was on the stove"], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplication Strategies: The Distributive Property", summary:"Grade 4 Math strand: the distributive property is a multiplication strategy that breaks one factor into smaller parts, multiplies each part separately, and then adds the results together, such as 6 x 14 = (6 x 10) + (6 x 4).",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"The distributive property breaks a factor into ___ before multiplying.", options:["X unrelated to the distributive property","Negative numbers","Larger, more complicated numbers","Smaller parts"], answer:3},
+     {q:"Using the distributive property, 6 x 14 can be broken into ___.", options:["(6 + 10) x (6 + 4)","(6 x 10) - (6 x 4)","X unrelated to this calculation","(6 x 10) + (6 x 4)"], answer:3},
+     {q:"What is 7 x 13 using the distributive property: (7 x 10) + (7 x 3)?", options:["81","91","101","X unrelated to the calculation"], answer:1},
+     {q:"What is 5 x 24 using the distributive property: (5 x 20) + (5 x 4)?", options:["120","130","X unrelated to the calculation","110"], answer:0},
+     {q:"Why is the distributive property a useful multiplication strategy?", options:["It makes multiplication problems impossible to solve","It only works for adding two numbers together","It breaks a hard multiplication problem into smaller, simpler steps","X unrelated to multiplication strategies"], answer:2}
+   ]},
+  {subject:"Science", title:"Animal Behaviours: Migration and Hibernation", summary:"Grade 4 Science strand: some animals survive seasonal changes through migration, travelling long distances to a different climate, while others survive through hibernation, a long period of deep rest during which their body slows down.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Migration is best described as an animal ___.", options:["X unrelated to migration","Changing colour to match its surroundings","Sleeping through the entire winter without moving","Travelling long distances to reach a different climate"], answer:3},
+     {q:"Hibernation is best described as a long period during which an animal’s body ___.", options:["X unrelated to hibernation","Grows a completely new set of fur","Moves faster than usual","Slows down and enters a deep, resting state"], answer:3},
+     {q:"Which of these animals is well known for migrating long distances each year?", options:["X unrelated to migration","The Canada goose","A pet goldfish","A garden snail"], answer:1},
+     {q:"Which of these animals is well known for hibernating through the winter?", options:["A migrating whale","X unrelated to hibernation","The Canada goose","The black bear"], answer:3},
+     {q:"Why might migration and hibernation both help animals survive cold winters?", options:["X unrelated to animal survival strategies","They help animals avoid harsh conditions or a shortage of food","These behaviours make survival more difficult for animals","All animals behave the exact same way in winter"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Vikings: Explorers and Traders", summary:"Grade 4 Social Studies strand: the Vikings were seafaring people from Scandinavia who, between about 800 and 1050 CE, explored, traded, and settled across parts of Europe and even reached North America in their longships.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The Vikings originally came from the region known today as ___.", options:["Southern Africa","X unrelated to the Vikings","Scandinavia","Central America"], answer:2},
+     {q:"Vikings travelled across the seas using long, narrow boats known as ___.", options:["X unrelated to Viking travel","Steamships","Submarines","Longships"], answer:3},
+     {q:"Besides raiding, Vikings were also skilled ___.", options:["Builders of ancient pyramids","X unrelated to Viking activities","Traders who exchanged goods across long distances","Astronauts who explored space"], answer:2},
+     {q:"Evidence suggests Vikings reached which part of North America long before other Europeans?", options:["A settlement in what is now Mexico","A settlement in what is now Newfoundland","A settlement in what is now Hawaii","X unrelated to Viking exploration"], answer:1},
+     {q:"Why are the Vikings remembered as skilled sailors?", options:["X unrelated to Viking sailing skills","Vikings avoided water travel completely","Vikings never travelled far from home","They travelled vast distances across open ocean using their longships"], answer:3}
+   ]},
+]},
+{day:73, label:"Day 73 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Compound and Complex Sentences", summary:"Grade 4 Language strand: a compound sentence joins two complete sentences with a joining word, such as and or but, while a complex sentence joins a complete sentence with an incomplete idea using a word such as because or although.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A compound sentence joins two complete sentences using a ___.", options:["X unrelated to compound sentences","Silent letter","Joining word, such as and or but","Question mark only"], answer:2},
+     {q:"Which sentence is a compound sentence?", options:["X unrelated to compound sentences","I finished my homework quickly","I like homework","I finished my homework, and I played outside"], answer:3},
+     {q:"A complex sentence joins a complete sentence with an incomplete idea using a word such as ___.", options:["Because or although","Wow or ouch","X unrelated to complex sentences","And or but"], answer:0},
+     {q:"Which sentence is a complex sentence?", options:["We stayed inside","We stayed inside and read books","Because it was raining, we stayed inside","X unrelated to complex sentences"], answer:2},
+     {q:"Why might a writer combine short sentences into compound or complex sentences?", options:["X unrelated to sentence combining","Short sentences can never be combined","Combining sentences always confuses the reader","To show how ideas connect and to make writing flow more smoothly"], answer:3}
+   ]},
+  {subject:"Math", title:"Long Division: Dividing 3-Digit Numbers by a 1-Digit Divisor", summary:"Grade 4 Math strand: dividing a 3-digit number by a 1-digit divisor uses the same long division steps as smaller problems -- divide, multiply, subtract, and bring down -- one digit at a time from left to right.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"When dividing a 3-digit number by a 1-digit divisor, you work through the digits from ___.", options:["The middle digit outward","X unrelated to long division","Right to left, all at once","Left to right, one digit at a time"], answer:3},
+     {q:"What is 936 divided by 3?", options:["312","X unrelated to the calculation","302","322"], answer:0},
+     {q:"What is 848 divided by 4?", options:["202","212","222","X unrelated to the calculation"], answer:1},
+     {q:"What is 639 divided by 3?", options:["213","223","203","X unrelated to the calculation"], answer:0},
+     {q:"Why is it helpful to divide, multiply, subtract, and bring down one step at a time?", options:["It makes the division problem impossible to complete","It breaks a large division problem into smaller, more manageable steps","X unrelated to long division steps","It changes the value of the original number being divided"], answer:1}
+   ]},
+  {subject:"Science", title:"Fossils: Clues to Earth’s Past", summary:"Grade 4 Science strand: a fossil is the preserved remains or trace of a plant or animal that lived long ago, and studying fossils helps scientists learn what life on Earth was like millions of years ago.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A fossil is best described as the preserved ___ of a living thing from long ago.", options:["X unrelated to fossils","Recorded voice","Remains or trace","Modern-day photograph"], answer:2},
+     {q:"Fossils are most commonly found in which type of rock?", options:["Sedimentary rock","Freshly poured concrete","Igneous rock formed from lava","X unrelated to where fossils form"], answer:0},
+     {q:"Which of these could be preserved as a fossil?", options:["A dinosaur’s footprint pressed into mud","X unrelated to fossils","A cloud passing overhead","A sound made yesterday"], answer:0},
+     {q:"Why do scientists study fossils?", options:["Fossils provide no information about the past","To learn what plants, animals, and environments were like long ago","Fossils only reveal information about modern life","X unrelated to studying fossils"], answer:1},
+     {q:"About how long can it take for a fossil to form?", options:["A single day","Thousands to millions of years","A few minutes","X unrelated to fossil formation"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Early Societies: Farming and Food Production", summary:"Grade 4 Social Studies strand: early societies developed farming methods, such as planting crops and raising animals, that allowed them to produce a reliable food supply and settle in permanent communities.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Farming allowed early societies to produce a more reliable ___.", options:["X unrelated to early farming","Number of holidays","Amount of rainfall","Food supply"], answer:3},
+     {q:"Before farming, many early people found food mainly by ___.", options:["Shopping at a market","X unrelated to early food gathering","Growing crops in large fields","Hunting animals and gathering wild plants"], answer:3},
+     {q:"How did farming change where early people chose to live?", options:["X unrelated to early settlement patterns","It allowed them to settle in permanent communities near their fields","It forced people to move constantly with no fixed home","Farming had no effect on where people lived"], answer:1},
+     {q:"Which of these is an example of an early farming activity?", options:["Building a modern factory","X unrelated to early farming","Sending an email","Raising animals such as goats or cattle"], answer:3},
+     {q:"Why is the development of farming considered such an important change in early societies?", options:["Farming made it harder for communities to find food","Farming had no impact on how societies developed","It allowed populations to grow and communities to become more settled","X unrelated to the importance of early farming"], answer:2}
+   ]},
+]},
+{day:74, label:"Day 74 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Character Traits and Motivation", summary:"Grade 4 Language strand: a character trait describes what a character is like, such as brave or curious, while motivation explains the reasons behind a character’s actions in a story.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A character trait describes ___.", options:["Where a story takes place","X unrelated to character traits","The number of pages in a book","What a character is like"], answer:3},
+     {q:"A character’s motivation explains ___.", options:["The reasons behind a character’s actions","X unrelated to motivation","The title of the book","The colour of a character’s clothing"], answer:0},
+     {q:"If a character shares their lunch with a hungry classmate, this shows the trait of ___.", options:["Kindness","Dishonesty","X unrelated to this character trait","Laziness"], answer:0},
+     {q:"Why might a character in a story act bravely even when they are afraid?", options:["Characters never have reasons for their actions","X unrelated to character motivation","Fear always stops a character from acting","Their motivation, such as protecting a friend, drives them to act despite fear"], answer:3},
+     {q:"How can a reader figure out a character’s traits?", options:["X unrelated to identifying character traits","By paying attention to what the character says, does, and thinks","By only reading the book’s title","By ignoring the character’s actions completely"], answer:1}
+   ]},
+  {subject:"Math", title:"Fraction of a Set (Finding a Fractional Part of a Whole Number)", summary:"Grade 4 Math strand: finding a fraction of a set means dividing a group of objects into equal parts and taking a certain number of those parts, such as finding 1/4 of 12 by dividing 12 into 4 equal groups.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"To find a fraction of a set, you first divide the set into ___.", options:["Equal parts based on the denominator","Exactly two parts every time","X unrelated to finding a fraction of a set","Random, uneven parts"], answer:0},
+     {q:"What is 1/4 of 12?", options:["3","X unrelated to the calculation","6","4"], answer:0},
+     {q:"What is 1/3 of 15?", options:["5","3","45","X unrelated to the calculation"], answer:0},
+     {q:"What is 2/5 of 20?", options:["10","X unrelated to the calculation","8","4"], answer:2},
+     {q:"Why is it helpful to know how to find a fraction of a set?", options:["It helps solve real-world problems, such as sharing a group of items equally","Fractions can only describe parts of a single whole object","X unrelated to fractions of a set","Finding a fraction of a set is never useful in real life"], answer:0}
+   ]},
+  {subject:"Science", title:"Simple Machines: Mechanical Advantage", summary:"Grade 4 Science strand: mechanical advantage is the benefit a simple machine provides by making a task require less effort force, even though the distance or direction of the force may change.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Mechanical advantage refers to how a simple machine ___.", options:["Always makes a task take longer to complete","Removes the need for any force at all","Makes a task require less effort force","X unrelated to mechanical advantage"], answer:2},
+     {q:"Using a lever to lift a heavy rock is easier because the lever ___.", options:["X unrelated to how levers work","Provides mechanical advantage by reducing the effort needed","Has no effect on the force required","Makes the rock lighter in actual weight"], answer:1},
+     {q:"A ramp provides mechanical advantage by allowing a heavy object to be moved ___.", options:["X unrelated to how ramps work","Using less effort over a longer distance","With more effort over a shorter distance","Without any force at all"], answer:1},
+     {q:"Why might a longer lever arm provide a greater mechanical advantage?", options:["A longer lever arm always makes lifting an object harder","Lever length has no effect on mechanical advantage","X unrelated to lever length","It further reduces the amount of effort force needed to lift a load"], answer:3},
+     {q:"Why do engineers consider mechanical advantage when designing tools and machines?", options:["X unrelated to engineering design","Mechanical advantage has no role in designing tools","Machines are always designed to make tasks harder","It helps them design tools that make tasks easier to complete"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Great Lakes: Geography and Importance to Canada", summary:"Grade 4 Social Studies strand: the Great Lakes are a group of five large freshwater lakes along the border between Canada and the United States, important for transportation, drinking water, and trade.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The Great Lakes are located along the border between Canada and ___.", options:["Mexico","France","X unrelated to the Great Lakes","The United States"], answer:3},
+     {q:"How many lakes make up the Great Lakes?", options:["Two","Ten","X unrelated to the Great Lakes","Five"], answer:3},
+     {q:"The Great Lakes contain ___.", options:["X unrelated to the Great Lakes","Fresh water","No water at all","Salt water"], answer:1},
+     {q:"Why are the Great Lakes important for trade in Canada?", options:["No ships are able to travel on the Great Lakes","X unrelated to the importance of the Great Lakes","Ships can transport goods across the lakes to different communities","The Great Lakes have no connection to trade"], answer:2},
+     {q:"Besides transportation and trade, the Great Lakes also provide many communities with ___.", options:["Ocean tides","Volcanic rock","X unrelated to the Great Lakes","Drinking water"], answer:3}
+   ]},
+]},
+{day:75, label:"Day 75 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Opinion Writing with Reasons and Evidence", summary:"Grade 4 Language strand: opinion writing states a clear position on a topic and supports it with reasons and evidence, helping to convince the reader that the opinion is well thought out.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Opinion writing begins by clearly stating a writer’s ___.", options:["List of unrelated facts","X unrelated to opinion writing","Favourite colour only","Position on a topic"], answer:3},
+     {q:"A strong opinion piece supports its position with ___.", options:["Random, unrelated sentences","No explanation at all","Reasons and evidence","X unrelated to supporting an opinion"], answer:2},
+     {q:"Which sentence is an example of an opinion?", options:["The classroom has twenty desks","The school day starts at nine o’clock","X unrelated to opinion writing","Recess should be longer because students need more time to be active"], answer:3},
+     {q:"Why should a writer include evidence when writing an opinion piece?", options:["Evidence has no effect on convincing a reader","Evidence helps convince readers that the opinion is well supported","X unrelated to opinion writing","Opinions never need any support"], answer:1},
+     {q:"Which is the best way to conclude an opinion piece?", options:["Ending in the middle of an unfinished idea","Introducing a brand new, unrelated topic","X unrelated to concluding opinion writing","Restating the opinion and summarizing the strongest reasons"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Nets of 3D Figures", summary:"Grade 4 Math strand: a net is a two-dimensional shape that can be folded to form a three-dimensional figure, showing all of the flat faces that make up that solid.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A net is a two-dimensional shape that can be folded to form a ___.", options:["Two-dimensional figure only","X unrelated to nets","Three-dimensional figure","One-dimensional line"], answer:2},
+     {q:"The net of a cube is made up of ___ identical squares.", options:["Eight","Six","X unrelated to a cube’s net","Four"], answer:1},
+     {q:"Which 3D figure is formed by folding a net made of two triangles and three rectangles connected correctly?", options:["A sphere","X unrelated to this net","A triangular prism","A cube"], answer:2},
+     {q:"Why do the faces shown in a net need to match the faces of the solid figure exactly?", options:["So the net can be folded to correctly form that specific 3D figure","The shape of the faces has no effect on the folded figure","A net never needs to match its 3D figure","X unrelated to how nets work"], answer:0},
+     {q:"Why might a net be a useful tool for understanding 3D figures?", options:["X unrelated to using nets","Nets provide no information about a 3D figure’s faces","It shows all the flat faces of a solid figure in one flattened view","A net can only represent a 2D shape with no connection to 3D figures"], answer:2}
+   ]},
+  {subject:"Science", title:"Light: How Shadows Are Formed", summary:"Grade 4 Science strand: a shadow forms when an opaque object blocks the path of light, creating a dark area where the light cannot reach.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A shadow forms when an opaque object ___.", options:["Produces its own light","Blocks the path of light","X unrelated to shadows","Bends light around itself"], answer:1},
+     {q:"An opaque object is one that light ___.", options:["X unrelated to opaque objects","Passes through completely","Only partly passes through","Cannot pass through at all"], answer:3},
+     {q:"What happens to the size of a shadow as a light source moves closer to an object?", options:["X unrelated to how shadows change size","The shadow generally becomes larger","The shadow disappears completely","The shadow always stays exactly the same size"], answer:1},
+     {q:"Why can you not see a shadow in a completely dark room?", options:["X unrelated to how shadows form","Shadows only form in rooms with no light at all","Darkness always creates its own shadow","There is no light source to be blocked by an object"], answer:3},
+     {q:"Why do shadows change position throughout the day outdoors?", options:["The ground moves underneath the shadow","X unrelated to how outdoor shadows change","Shadows never change position during the day","The position of the Sun in the sky changes throughout the day"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Political Map: Capital Cities and Their Roles", summary:"Grade 4 Social Studies strand: each Canadian province and territory has a capital city, where the provincial or territorial government meets and makes important decisions, and Ottawa serves as the capital of Canada as a whole.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The capital city of a province is where its ___.", options:["Tallest mountain is located","X unrelated to capital cities","Government meets and makes important decisions","Professional sports teams always play"], answer:2},
+     {q:"Which city is the capital of Canada?", options:["Toronto","Ottawa","Vancouver","X unrelated to Canada’s capital"], answer:1},
+     {q:"Which city is the capital of Ontario?", options:["X unrelated to Ontario’s capital","Toronto","Montreal","Ottawa"], answer:1},
+     {q:"Why does every province and territory have its own capital city?", options:["Capital cities serve no purpose for a province","Only the federal government is allowed to make decisions","Each has its own government that needs a central place to meet and govern","X unrelated to why provinces have capitals"], answer:2},
+     {q:"How is Canada’s capital city different from a provincial capital?", options:["A provincial capital governs the entire country","Canada’s capital is where the federal government meets to govern the whole country","Canada’s capital has no connection to government at all","X unrelated to comparing capital cities"], answer:1}
+   ]},
+]},
+{day:76, label:"Day 76 — Mon", subjects:[
+  {subject:"Language", title:"Spelling: Contractions and Apostrophes", summary:"Grade 4 Language strand: a contraction combines two words into one shorter word, using an apostrophe to show where letters have been left out, such as do not becoming don’t.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A contraction combines two words into ___.", options:["X unrelated to contractions","Two completely new, unrelated words","A single letter","One shorter word, using an apostrophe"], answer:3},
+     {q:"In a contraction, the apostrophe shows where ___.", options:["Letters have been left out","A word has been repeated","A new sentence begins","X unrelated to apostrophes in contractions"], answer:0},
+     {q:"What is the contraction for do not?", options:["Don’t","Doesn’t","Didn’t","X unrelated to this contraction"], answer:0},
+     {q:"What is the contraction for they are?", options:["Their","X unrelated to this contraction","There","They’re"], answer:3},
+     {q:"Why might a writer use contractions in a story’s dialogue?", options:["To make characters sound more natural, the way people actually speak","Contractions make dialogue sound less natural","Contractions are never used in spoken language","X unrelated to using contractions"], answer:0}
+   ]},
+  {subject:"Math", title:"Data: Double Bar Graphs", summary:"Grade 4 Math strand: a double bar graph compares two related sets of data side by side using pairs of bars, making it easy to see differences between the two groups.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A double bar graph compares ___ sets of related data.", options:["Four","X unrelated to double bar graphs","Zero","Two"], answer:3},
+     {q:"In a double bar graph, each category is represented by ___.", options:["X unrelated to double bar graphs","A single pie-shaped slice","A single, isolated dot","A pair of bars, side by side"], answer:3},
+     {q:"A double bar graph would be most useful for comparing ___.", options:["X unrelated to using a double bar graph","A single number with no comparison","This year’s and last year’s rainfall totals for each month","Only one category with no comparison group"], answer:2},
+     {q:"Why is a legend often included with a double bar graph?", options:["X unrelated to reading double bar graphs","A legend always replaces the need for bars","It shows which colour or pattern represents each of the two data sets","A legend has no purpose on a double bar graph"], answer:2},
+     {q:"Why might a double bar graph be more useful than a single bar graph for comparing two classes’ test scores?", options:["X unrelated to comparing data with graphs","Single bar graphs always show more information","It lets you see both classes’ data side by side for easy comparison","A double bar graph can only show one class’s data"], answer:2}
+   ]},
+  {subject:"Science", title:"Weathering: How Rocks Break Down Over Time", summary:"Grade 4 Science strand: weathering is the process by which wind, water, ice, and changes in temperature slowly break rocks down into smaller pieces without moving them from their original location.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Weathering is the process of rocks being ___.", options:["X unrelated to weathering","Formed deep underground from magma","Broken down into smaller pieces over time","Instantly transformed into soil"], answer:2},
+     {q:"Which of these can cause weathering?", options:["X unrelated to causes of weathering","A rock being weighed on a scale","Repeated freezing and thawing of water in cracks","A rock sitting in complete darkness"], answer:2},
+     {q:"How is weathering different from erosion?", options:["Weathering and erosion always mean exactly the same thing","Weathering breaks rock down in place, while erosion moves the broken pieces elsewhere","X unrelated to comparing weathering and erosion","Erosion breaks rock down while weathering moves it"], answer:1},
+     {q:"Why might a rock exposed to wind and rain break apart faster than a rock kept sheltered indoors?", options:["Wind and rain have no effect on rocks","X unrelated to weathering conditions","Sheltered rocks weather more quickly than exposed rocks","Wind and rain speed up the process of weathering"], answer:3},
+     {q:"Why is weathering an important process to study in earth science?", options:["Rocks never change once they are formed","Weathering has no effect on Earth’s landscapes","It helps explain how landscapes and landforms slowly change over time","X unrelated to studying weathering"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Exploring Life in Canada’s Arctic Communities", summary:"Grade 4 Social Studies strand: communities in Canada’s Arctic, home to many Inuit peoples, have adapted to a cold climate, long winters, and remote locations, developing unique ways of travelling, hunting, and staying connected.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Canada’s Arctic region is home to many communities of ___ peoples.", options:["X unrelated to Arctic communities","Only recent immigrants","Inuit","Ancient Roman"], answer:2},
+     {q:"Communities in the Arctic have adapted to a climate that is ___.", options:["Cold, with long winters","Rainy with no snow at all","Warm and tropical all year","X unrelated to the Arctic climate"], answer:0},
+     {q:"Because many Arctic communities are remote, transportation often relies on ___.", options:["Subway trains","City buses only","X unrelated to Arctic transportation","Planes and snowmobiles"], answer:3},
+     {q:"Traditional Inuit knowledge and skills, such as hunting and travelling on ice, have been passed down through ___.", options:["X unrelated to passing down traditional knowledge","Written textbooks only","Generations of families and communities","A single individual with no connection to others"], answer:2},
+     {q:"Why is it important to learn about life in Canada’s Arctic communities?", options:["X unrelated to learning about Arctic life","Arctic communities have no connection to the rest of Canada","It shows how people adapt and thrive in one of Canada’s most challenging climates","No one has ever lived in Canada’s Arctic region"], answer:2}
+   ]},
+]},
+{day:77, label:"Day 77 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Adjective Order", summary:"Grade 4 Language strand: when a sentence uses more than one adjective before a noun, the adjectives usually follow a typical order, such as opinion, size, and colour, as in a beautiful, small, red bird.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"When more than one adjective describes a noun, the adjectives usually follow a typical ___.", options:["Order","Number of syllables","Rhyme scheme","X unrelated to adjective order"], answer:0},
+     {q:"Which sentence follows the typical order for adjectives?", options:["She wore a beautiful, small, red hat","She wore a red, small, beautiful hat","She wore a hat beautiful, small, red","X unrelated to adjective order"], answer:0},
+     {q:"In the phrase a large, old, wooden table, which category comes first?", options:["X unrelated to this phrase’s adjective order","Size","Material","Age"], answer:1},
+     {q:"Why might a sentence sound unusual if adjectives are placed in the wrong order?", options:["Adjective order never affects how a sentence sounds","English speakers are used to hearing adjectives follow a familiar pattern","X unrelated to adjective order","Every possible order sounds exactly the same"], answer:1},
+     {q:"Which phrase correctly places an opinion adjective before a colour adjective?", options:["A lovely blue bicycle","A blue lovely bicycle","X unrelated to this phrase’s adjective order","A bicycle lovely blue"], answer:0}
+   ]},
+  {subject:"Math", title:"Converting Between Metric Units of Length", summary:"Grade 4 Math strand: converting between metric units of length involves multiplying or dividing by powers of ten, such as changing between millimetres, centimetres, metres, and kilometres.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Converting between metric units of length involves multiplying or dividing by ___.", options:["Powers of ten","Random, unrelated numbers","Only the number one","X unrelated to metric conversions"], answer:0},
+     {q:"How many centimetres are in 1 metre?", options:["100 centimetres","X unrelated to this conversion","1,000 centimetres","10 centimetres"], answer:0},
+     {q:"How many metres are in 1 kilometre?", options:["10 metres","1,000 metres","X unrelated to this conversion","100 metres"], answer:1},
+     {q:"How many millimetres are in 5 centimetres?", options:["X unrelated to this conversion","500 millimetres","50 millimetres","5 millimetres"], answer:2},
+     {q:"Why is it useful to convert between metric units of length?", options:["It allows you to choose the most appropriate unit for measuring something","X unrelated to converting metric units","Every metric unit always measures the exact same distance","Metric units can never be converted from one to another"], answer:0}
+   ]},
+  {subject:"Science", title:"Pollination and the Role of Insects in Ecosystems", summary:"Grade 4 Science strand: pollination occurs when pollen is carried from one flower to another, often by insects such as bees and butterflies, allowing many plants to produce seeds and fruit.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Pollination occurs when pollen is carried ___.", options:["Deep underground into the soil","Directly into the air with no destination","X unrelated to pollination","From one flower to another"], answer:3},
+     {q:"Which insect is especially well known for pollinating flowers?", options:["The bee","X unrelated to pollination","The housefly","The ant"], answer:0},
+     {q:"Pollination allows many plants to produce ___.", options:["Seeds and fruit","Additional roots only","X unrelated to pollination","More sunlight"], answer:0},
+     {q:"Why are pollinators, such as bees, important to ecosystems and food production?", options:["X unrelated to the importance of pollinators","Plants never need help reproducing","Pollinators have no effect on plant reproduction","Many plants, including food crops, rely on pollinators to reproduce"], answer:3},
+     {q:"What might happen to a plant if pollinating insects disappeared from its ecosystem?", options:["X unrelated to the effects of losing pollinators","The plant would immediately grow larger","The plant could struggle to produce seeds and fruit","The plant would be completely unaffected"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Transportation Networks: Connecting Communities", summary:"Grade 4 Social Studies strand: Canada relies on transportation networks, including roads, railways, airports, and shipping routes, to connect communities, move goods, and support trade across a vast country.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Transportation networks help connect communities by allowing people and goods to ___.", options:["Move between different places","X unrelated to transportation networks","Disappear from a community entirely","Remain in exactly one location forever"], answer:0},
+     {q:"Which of these is an example of a transportation network in Canada?", options:["A single garden path","A railway system","A backyard fence","X unrelated to transportation networks"], answer:1},
+     {q:"Why are transportation networks especially important in a large country like Canada?", options:["They connect communities that may be very far apart from one another","Transportation has no importance in a large country","Every Canadian community is located right next to every other one","X unrelated to Canada’s transportation needs"], answer:0},
+     {q:"Which transportation method would most likely be used to move goods long distances between remote northern communities?", options:["A bicycle","A city subway","An airplane","X unrelated to northern transportation"], answer:2},
+     {q:"How do transportation networks support trade within Canada?", options:["Transportation networks have no connection to trade","X unrelated to supporting trade","Goods can only be sold in the community where they are made","They allow goods to be moved efficiently between producers and consumers"], answer:3}
+   ]},
+]},
+{day:78, label:"Day 78 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Setting and Mood", summary:"Grade 4 Language strand: the setting of a story is when and where it takes place, and details about the setting often help create the story’s mood, or the overall feeling it gives the reader.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"The setting of a story refers to ___.", options:["X unrelated to setting","The main character’s personality","The number of chapters in a book","When and where the story takes place"], answer:3},
+     {q:"The mood of a story is best described as ___.", options:["A list of every character’s name","The overall feeling the story gives the reader","X unrelated to mood","The exact number of pages in the book"], answer:1},
+     {q:"A story set in a dark, abandoned house on a stormy night likely creates a mood of ___.", options:["Calm relaxation","Cheerful excitement","Suspense or fear","X unrelated to this story’s mood"], answer:2},
+     {q:"How might a sunny beach setting affect the mood of a story?", options:["Setting never has any effect on mood","A sunny beach always creates a frightening mood","It could help create a relaxed or cheerful mood","X unrelated to how setting affects mood"], answer:2},
+     {q:"Why do authors carefully choose details about setting?", options:["Setting details can help shape the mood and feeling of a story","X unrelated to choosing setting details","Setting details have no connection to a story’s mood","Every setting creates the exact same mood"], answer:0}
+   ]},
+  {subject:"Math", title:"Congruent Shapes and Sizes", summary:"Grade 4 Math strand: two shapes are congruent when they have exactly the same size and shape, even if one has been turned, flipped, or moved to a different position.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Two shapes are congruent when they have exactly the same ___.", options:["Size and shape","Colour only","X unrelated to congruent shapes","Number of sides only, regardless of size"], answer:0},
+     {q:"If one triangle is flipped and moved but is still the exact same size and shape as another, the two triangles are ___.", options:["Congruent","Never related to one another","X unrelated to congruent shapes","Always different shapes entirely"], answer:0},
+     {q:"Which of these pairs of shapes would be considered congruent?", options:["Two identical squares, each with 4 cm sides","A small square and a large square","A triangle and a circle","X unrelated to congruent shapes"], answer:0},
+     {q:"Does rotating a shape change whether it is congruent to its original form?", options:["Yes, rotating a shape always changes its number of sides","No, rotating a shape does not change its size or shape","Yes, rotating a shape always makes it larger","X unrelated to rotating congruent shapes"], answer:1},
+     {q:"Why is understanding congruence useful in geometry?", options:["X unrelated to congruent shapes","Every shape is automatically congruent to every other shape","Congruence has no useful purpose in geometry","It helps identify when shapes are truly identical in size and shape"], answer:3}
+   ]},
+  {subject:"Science", title:"Renewable Energy: Solar, Wind, and Hydro Power", summary:"Grade 4 Science strand: renewable energy sources, such as solar, wind, and hydro power, use natural resources that are continually replenished to generate electricity without running out.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Renewable energy sources are ones that ___.", options:["Are continually replenished by nature","Can never be used to generate electricity","X unrelated to renewable energy","Run out permanently after a single use"], answer:0},
+     {q:"Solar power generates electricity using energy from the ___.", options:["Underground coal deposits","Sun","Ocean tides only","X unrelated to solar power"], answer:1},
+     {q:"Wind power uses turbines that are turned by ___.", options:["Flowing water","X unrelated to wind power","Moving air","Burning fuel"], answer:2},
+     {q:"Hydro power generates electricity using the energy of ___.", options:["Sunlight only","Burning wood","Moving or falling water","X unrelated to hydro power"], answer:2},
+     {q:"Why are solar, wind, and hydro power considered better for the environment than burning fossil fuels?", options:["They produce electricity without releasing the pollution fossil fuels create","These renewable sources always create more pollution than fossil fuels","X unrelated to comparing energy sources","Renewable energy sources cannot generate electricity at all"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Role of Rivers in the Growth of Early Civilizations", summary:"Grade 4 Social Studies strand: many early civilizations, such as those along the Nile, Tigris-Euphrates, Indus, and Yellow rivers, developed near rivers because the water supported farming, transportation, and trade.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Many early civilizations developed near rivers mainly because rivers provided ___.", options:["A barrier that prevented any settlement","Water for farming, drinking, and transportation","X unrelated to why civilizations settled near rivers","No useful resources at all"], answer:1},
+     {q:"Ancient Egypt developed along which river?", options:["The Yellow River","X unrelated to Ancient Egypt’s location","The Amazon River","The Nile River"], answer:3},
+     {q:"Ancient Mesopotamia developed between which two rivers?", options:["X unrelated to Mesopotamia’s location","The Tigris and Euphrates rivers","The Mississippi and Missouri rivers","The Nile and Amazon rivers"], answer:1},
+     {q:"How did rivers support trade in early civilizations?", options:["X unrelated to rivers and trade","Boats could carry goods and people along the river between communities","Rivers made it impossible for goods to be transported","Trade never happened near rivers"], answer:1},
+     {q:"Why might farmland near a river be especially fertile?", options:["Rivers remove all nutrients from nearby soil","Flooding rivers often deposit nutrient-rich soil along their banks","Land near rivers is always too dry for farming","X unrelated to fertile farmland near rivers"], answer:1}
+   ]},
+]},
+{day:79, label:"Day 79 — Thu", subjects:[
+  {subject:"Language", title:"Media Literacy: Comparing Print, Digital, and Video Media", summary:"Grade 4 Language strand: information can be shared through different media forms, such as print, digital text, and video, and each form has its own strengths for informing or entertaining an audience.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Print, digital, and video are all examples of different ___.", options:["Forms of media","Types of punctuation","Genres of poetry only","X unrelated to media literacy"], answer:0},
+     {q:"Which of these is an example of print media?", options:["A newspaper","A podcast","X unrelated to print media","An online video"], answer:0},
+     {q:"A strength of video media is that it can combine ___.", options:["Nothing but silence","Moving images and sound together","X unrelated to video media","Only plain black-and-white text"], answer:1},
+     {q:"Why might someone choose to read a digital article instead of a printed one?", options:["Digital articles can often be accessed instantly and updated easily","Digital articles can never be updated once published","Printed articles are always the fastest way to get new information","X unrelated to comparing print and digital media"], answer:0},
+     {q:"Why is it useful to understand the differences between media forms?", options:["X unrelated to comparing media forms","Every media form works exactly the same way","It helps you choose or evaluate the best source for a specific purpose","Understanding media forms serves no useful purpose"], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Comparing Costs and Estimating Totals While Shopping", summary:"Grade 4 Math strand: comparing costs and estimating totals while shopping involves rounding prices to quickly add them up and predict whether a purchase stays within a set budget.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Estimating a shopping total usually involves ___ prices before adding them.", options:["Ignoring","Rounding","X unrelated to estimating totals","Multiplying by zero"], answer:1},
+     {q:"If items cost 4.85 dollars and 2.10 dollars, which is the best estimate of the total?", options:["About 15 dollars","About 7 dollars","About 3 dollars","X unrelated to this estimate"], answer:1},
+     {q:"Why might a shopper estimate a total before reaching the checkout?", options:["X unrelated to estimating shopping totals","Estimating always gives a completely wrong answer","To check whether the purchase will stay within their budget","Estimating a total is never useful while shopping"], answer:2},
+     {q:"Which strategy would help you compare the cost of two different-sized boxes of cereal?", options:["Only looking at the total price on each box","X unrelated to comparing shopping costs","Choosing the box with the biggest picture","Finding the unit price, or cost per item, for each box"], answer:3},
+     {q:"Why is estimating totals a useful skill even when a calculator is available?", options:["It helps quickly check whether a calculated total seems reasonable","A calculator always removes the need to think about numbers","Estimating serves no purpose when a calculator is available","X unrelated to estimating shopping totals"], answer:0}
+   ]},
+  {subject:"Science", title:"Structures: Foundations and Stability", summary:"Grade 4 Science strand: a foundation is the base that supports a structure, and a stable structure is designed with a wide, strong base and an even distribution of weight to help it resist tipping or collapsing.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A foundation is best described as the ___ that supports a structure.", options:["Topmost floor","X unrelated to foundations","Roof","Base"], answer:3},
+     {q:"A structure is more likely to be stable when it has a ___.", options:["Wide, strong base","Extremely narrow, weak base","X unrelated to structural stability","No base at all"], answer:0},
+     {q:"Why might a tall tower with a wide base be more stable than one with a narrow base?", options:["A wide base better distributes weight and resists tipping over","X unrelated to comparing structural stability","The width of a base has no effect on stability","A narrow base always provides more stability than a wide one"], answer:0},
+     {q:"Why do builders dig deep, strong foundations before constructing large buildings?", options:["Buildings are always built with no foundation at all","Foundations have no effect on how well a building is supported","X unrelated to why foundations matter","A strong foundation helps support the weight of the building above it"], answer:3},
+     {q:"Why might engineers test the stability of a structure’s foundation before construction begins?", options:["Every foundation is equally stable regardless of design","X unrelated to testing structural stability","To ensure the structure will be safe and unlikely to collapse or tip","Testing a foundation provides no useful information"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Trade Routes of the Ancient World (Silk Road and Beyond)", summary:"Grade 4 Social Studies strand: ancient trade routes, such as the Silk Road, connected distant civilizations across Asia, Europe, and Africa, allowing goods, ideas, and cultures to be exchanged over long distances.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The Silk Road was a network of ancient trade routes connecting ___.", options:["Only two neighbouring villages","Cities located entirely underwater","X unrelated to the Silk Road","Distant civilizations across Asia, Europe, and Africa"], answer:3},
+     {q:"The Silk Road gets its name from a valuable good, ___, that was traded along the route.", options:["Silk","Plastic","X unrelated to the Silk Road’s name","Rubber"], answer:0},
+     {q:"Besides goods, what else spread between civilizations along ancient trade routes?", options:["Only modern technology","Ideas and cultural practices","X unrelated to ancient trade routes","Nothing besides physical goods"], answer:1},
+     {q:"Why were ancient trade routes, such as the Silk Road, important to the civilizations they connected?", options:["They allowed distant societies to exchange goods, ideas, and culture","Ancient civilizations never exchanged goods with one another","Trade routes prevented any contact between civilizations","X unrelated to the importance of trade routes"], answer:0},
+     {q:"Why do historians study ancient trade routes like the Silk Road today?", options:["X unrelated to studying ancient trade routes","Ancient trade routes provide no useful historical information","They reveal how ancient civilizations were connected to one another","Ancient civilizations were always completely isolated from each other"], answer:2}
+   ]},
+]},
+{day:80, label:"Day 80 — Fri", subjects:[
+  {subject:"Language", title:"Review: Vocabulary, Grammar, and Reading Skills (Days 71-79)", summary:"Grade 4 Language strand: this review lesson revisits key ideas from Days 71-79, including proverbs and adages, onomatopoeia, compound and complex sentences, character traits, and setting and mood.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"A proverb or adage is best described as a short saying that expresses ___.", options:["X unrelated to proverbs","A character’s exact name","A story’s complete plot","Traditional wisdom or advice"], answer:3},
+     {q:"Onomatopoeia is a word that ___.", options:["X unrelated to onomatopoeia","Has the opposite meaning of another word","Always rhymes with another word","Imitates the sound it describes"], answer:3},
+     {q:"A compound sentence joins two complete sentences using a ___.", options:["Joining word, such as and or but","Question mark only","X unrelated to compound sentences","Silent letter"], answer:0},
+     {q:"A character trait describes ___.", options:["What a character is like","The number of pages in a book","X unrelated to character traits","Where a story takes place"], answer:0},
+     {q:"Why is it useful to review vocabulary, grammar, and reading strategies together?", options:["X unrelated to reviewing language arts","It reinforces how these language skills support clear reading and writing","Reviewing past learning never helps strengthen understanding","These skills have no connection to each other"], answer:1}
+   ]},
+  {subject:"Math", title:"Review: Number Sense, Geometry, and Data (Days 71-79)", summary:"Grade 4 Math strand: this review lesson revisits key ideas from Days 71-79, including comparing numbers, the distributive property, long division, fractions of a set, and congruent shapes.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Which symbol means greater than?", options:["X unrelated to comparing numbers",">","=","<"], answer:1},
+     {q:"Using the distributive property, 6 x 14 can be broken into ___.", options:["X unrelated to this calculation","(6 x 10) - (6 x 4)","(6 + 10) x (6 + 4)","(6 x 10) + (6 x 4)"], answer:3},
+     {q:"What is 936 divided by 3?", options:["302","322","312","X unrelated to the calculation"], answer:2},
+     {q:"What is 1/4 of 12?", options:["4","X unrelated to the calculation","3","6"], answer:2},
+     {q:"Why is it useful to review number sense, geometry, and data together?", options:["Review never helps strengthen understanding of a subject","X unrelated to reviewing math","It reinforces how these math concepts connect and build on one another","These topics have no connection to each other"], answer:2}
+   ]},
+  {subject:"Science", title:"Review: Habitats, Earth Science, and Structures (Days 71-79)", summary:"Grade 4 Science strand: this review lesson revisits key ideas from Days 71-79, including freshwater habitats, migration and hibernation, fossils, shadows, weathering, pollination, renewable energy, and structural stability.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"A freshwater habitat contains water with ___.", options:["Very low levels of salt","Very high levels of salt","No water at all","X unrelated to freshwater habitats"], answer:0},
+     {q:"Migration is best described as an animal ___.", options:["Changing colour to match its surroundings","X unrelated to migration","Travelling long distances to reach a different climate","Sleeping through the entire winter without moving"], answer:2},
+     {q:"A fossil is best described as the preserved ___ of a living thing from long ago.", options:["Modern-day photograph","Remains or trace","Recorded voice","X unrelated to fossils"], answer:1},
+     {q:"A shadow forms when an opaque object ___.", options:["Bends light around itself","Produces its own light","Blocks the path of light","X unrelated to shadows"], answer:2},
+     {q:"Why is it useful to review ecosystems, earth science, and structures together?", options:["It reinforces how these science concepts each explain different parts of the natural world","These topics have no connection to each other","Review is never useful in science","Each topic must be studied with no connection to the others"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Review: Early Societies and Canadian Geography (Days 71-79)", summary:"Grade 4 Social Studies strand: this review lesson revisits key ideas from Days 71-79, including ancient Persia, the Vikings, early farming, the Great Lakes, capital cities, Arctic communities, transportation networks, rivers, and trade routes.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"The ancient Persian Empire was centred in the region that is now known as ___.", options:["X unrelated to Persia","Iran","Northern Europe","Central America"], answer:1},
+     {q:"Vikings travelled across the seas using long, narrow boats known as ___.", options:["Longships","Submarines","Steamships","X unrelated to Viking travel"], answer:0},
+     {q:"The Great Lakes are located along the border between Canada and ___.", options:["X unrelated to the Great Lakes","France","Mexico","The United States"], answer:3},
+     {q:"Which city is the capital of Canada?", options:["Ottawa","Vancouver","X unrelated to Canada’s capital","Toronto"], answer:0},
+     {q:"Why is it useful to review early societies alongside Canadian geography?", options:["Early societies and Canadian geography are exactly the same topic","X unrelated to reviewing social studies","It helps compare how different societies and regions have developed over time","These topics have no connection to social studies"], answer:2}
+   ]},
+]},
 ];
 
 export default curriculum;
