@@ -1825,6 +1825,586 @@ const curriculum: DayContent[] = [
      {prompt:"What do we call putting money aside instead of spending it right away?", answers:["saving"]}
    ]},
 ]},
+{day:41, label:"Day 41 — Mon", subjects:[
+  {subject:"Language", title:"Silent Letters: kn, wr, mb, gh", summary:"Students learn that some words contain silent letters, letters that are written but not pronounced, such as the k in knee, the w in write, the b in comb, and the gh in night.",
+   resourceLabel:"YouTube: Silent Letters: kn, wr, mb, gh", resourceUrl:"https://www.youtube.com/results?search_query=Silent%20Letters%3A%20kn%2C%20wr%2C%20mb%2C%20gh%20grade%202%20educational",
+   quiz:[
+     {q:"Which letter is silent in the word knee?", options:["K","N","E","All letters are pronounced"], answer:0},
+     {q:"Which letter is silent in the word write?", options:["I","W","R","T"], answer:1},
+     {q:"Which letter is silent in the word comb?", options:["O","M","C","B"], answer:3},
+     {q:"In the word night, which two letters together are silent?", options:["IG","NI","HT","GH"], answer:3},
+     {q:"A silent letter is a letter that is ___.", options:["Written but not pronounced","Always capitalized","Never written","Always pronounced loudly"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What letter is silent at the beginning of the word knee?", answers:["k"]},
+     {prompt:"What letter is silent at the beginning of the word write?", answers:["w"]},
+     {prompt:"Name one word with a silent letter, like comb or night.", answers:["comb","night","knee","write"]}
+   ]},
+  {subject:"Math", title:"Numbers to 1000: Counting and Comparing", summary:"Students count, read, and compare numbers up to 1000, using place value to understand hundreds, tens, and ones.",
+   resourceLabel:"YouTube: Numbers to 1000: Counting and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%201000%3A%20Counting%20and%20Comparing%20grade%202%20educational",
+   quiz:[
+     {q:"What number comes right after 499?", options:["501","500","450","499"], answer:1},
+     {q:"Which number is greater, 620 or 602?", options:["They are equal","620","602","Cannot tell"], answer:1},
+     {q:"How many hundreds are in the number 700?", options:["17","70","7","700"], answer:2},
+     {q:"Which of these numbers is between 400 and 500?", options:["501","399","600","450"], answer:3},
+     {q:"In the number 384, what digit is in the hundreds place?", options:["0","3","8","4"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 499?", answers:["500","five hundred"]},
+     {prompt:"Which is greater, 350 or 305?", answers:["350"]},
+     {prompt:"How many hundreds are in the number 400?", answers:["4","four"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Plant: Seed to Flower", summary:"Students learn the life cycle of a plant, from a seed that sprouts into a seedling, grows into a mature plant, and produces flowers that make new seeds.",
+   resourceLabel:"YouTube: Life Cycle of a Plant: Seed to Flower", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20grade%202%20educational",
+   quiz:[
+     {q:"What is the very first stage of a plant life cycle?", options:["A flower","A root","A seed","A leaf"], answer:2},
+     {q:"What do we call a young plant that has just sprouted from a seed?", options:["A sapling","A seedling","A bud","A stem"], answer:1},
+     {q:"What does a mature plant produce that can grow into a new plant?", options:["Seeds","Water","Soil","Rocks"], answer:0},
+     {q:"Put these stages in order.", options:["Seed, seedling, mature plant, flower","Flower, seed, seedling, mature plant","Seedling, flower, seed, mature plant","Mature plant, flower, seed, seedling"], answer:0},
+     {q:"A plant life cycle describes how a plant ___.", options:["Grows and changes from a seed to a new seed-producing plant","Turns into an animal","Never changes at all","Only lives for one day"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the very first stage in a plant life cycle?", answers:["a seed","seed"]},
+     {prompt:"What do we call a young plant that has just sprouted?", answers:["a seedling","seedling"]},
+     {prompt:"What does a flower produce that can grow into a new plant?", answers:["seeds","new seeds"]}
+   ]},
+  {subject:"SocialStudies", title:"Explorers and Early Settlers in Canada", summary:"Students learn about explorers and early settlers who traveled to Canada long ago, discovering the land, meeting Indigenous peoples, and building the first small communities.",
+   resourceLabel:"YouTube: Explorers and Early Settlers in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Explorers%20and%20Early%20Settlers%20in%20Canada%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a person who travels to discover new lands?", options:["An explorer","A farmer","A tourist","A mayor"], answer:0},
+     {q:"What do we call people who build the first communities in a new place?", options:["Settlers","Mayors","Tourists","Astronauts"], answer:0},
+     {q:"When explorers arrived in Canada long ago, who was already living on the land?", options:["No one at all","Indigenous peoples","Only animals","Only settlers from Europe"], answer:1},
+     {q:"Why did early explorers travel to new lands like Canada?", options:["To discover new places and resources","To avoid meeting new people","To build only underground homes","To stay home instead"], answer:0},
+     {q:"Early settlers often built their first communities near ___.", options:["The top of tall mountains only","Rivers and lakes for water and travel","Places with no resources","The middle of the desert"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a person who travels to discover new lands?", answers:["an explorer","explorer"]},
+     {prompt:"What do we call the first people to build a community in a new place?", answers:["settlers","early settlers"]},
+     {prompt:"Did explorers meet Indigenous peoples already living on the land?", answers:["yes"]}
+   ]},
+]},
+{day:42, label:"Day 42 — Tue", subjects:[
+  {subject:"Language", title:"Homophones: Words That Sound the Same", summary:"Students learn that homophones are words that sound the same but have different spellings and meanings, such as to, too, and two, or their and there.",
+   resourceLabel:"YouTube: Homophones: Words That Sound the Same", resourceUrl:"https://www.youtube.com/results?search_query=Homophones%3A%20Words%20That%20Sound%20the%20Same%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call words that sound the same but have different spellings and meanings?", options:["Homophones","Antonyms","Compound words","Synonyms"], answer:0},
+     {q:"Which word means also or as well?", options:["Too","Ten","Two","To"], answer:0},
+     {q:"Which word means the number 2?", options:["Too","Twelve","Two","To"], answer:2},
+     {q:"Which word means toward or in the direction of?", options:["Ten","Two","Too","To"], answer:3},
+     {q:"Their and there are examples of ___.", options:["Prefixes","Homophones","Contractions","Compound words"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one homophone pair, like to and too.", answers:["to and too","their and there","two and to"]},
+     {prompt:"Which word means the number after one, to, too, or two?", answers:["two"]},
+     {prompt:"Which word means also, to, too, or two?", answers:["too"]}
+   ]},
+  {subject:"Math", title:"Fact Families: Addition and Subtraction", summary:"Students learn that a fact family is a group of related addition and subtraction facts made from the same three numbers, such as 4 + 5 = 9, 5 + 4 = 9, 9 - 4 = 5, and 9 - 5 = 4.",
+   resourceLabel:"YouTube: Fact Families: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Fact%20Families%3A%20Addition%20and%20Subtraction%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a group of related addition and subtraction facts made from the same three numbers?", options:["A fact family","A number line","A pattern","A fraction"], answer:0},
+     {q:"If 4 + 5 = 9, which of these also belongs in the same fact family?", options:["5 - 9 = 4","9 - 5 = 4","4 - 5 = 9","9 + 5 = 14"], answer:1},
+     {q:"Which three numbers make up the fact family that includes 3 + 6 = 9?", options:["3, 6, and 9","3, 9, and 12","6, 9, and 15","3, 6, and 18"], answer:0},
+     {q:"If 8 + 2 = 10, what is 10 - 8?", options:["2","10","8","18"], answer:0},
+     {q:"Knowing a fact family helps you ___.", options:["Multiply numbers","Only solve addition problems","Forget subtraction","Solve both addition and subtraction problems more quickly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If 4 + 5 = 9, what subtraction fact also belongs in this fact family?", answers:["9 - 5 = 4","9 - 4 = 5"]},
+     {prompt:"Name the three numbers in the fact family for 3 + 6 = 9.", answers:["3, 6, and 9","3 6 9"]},
+     {prompt:"If 7 + 2 = 9, what is 9 - 2?", answers:["7"]}
+   ]},
+  {subject:"Science", title:"Floating and Sinking", summary:"Students explore why some objects float on water while others sink, learning that this depends on an objects weight, shape, and the material it is made of.",
+   resourceLabel:"YouTube: Floating and Sinking", resourceUrl:"https://www.youtube.com/results?search_query=Floating%20and%20Sinking%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call it when an object stays on top of the water?", options:["Sinking","Melting","Floating","Freezing"], answer:2},
+     {q:"What do we call it when an object goes down under the water?", options:["Sinking","Floating","Boiling","Evaporating"], answer:0},
+     {q:"Which of these objects would most likely float in water?", options:["A large rock","A brick","A metal spoon","A wooden block"], answer:3},
+     {q:"Which of these objects would most likely sink in water?", options:["A heavy rock","A leaf","A rubber duck","An empty plastic bottle"], answer:0},
+     {q:"Whether an object floats or sinks depends on its ___.", options:["Name only","Colour only","Smell only","Weight, shape, and material"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when an object stays on top of the water?", answers:["floating","float"]},
+     {prompt:"What do we call it when an object goes down under the water?", answers:["sinking","sink"]},
+     {prompt:"Name one object that usually floats in water, like a leaf or a piece of wood.", answers:["a leaf","leaf","a piece of wood","wood"]}
+   ]},
+  {subject:"SocialStudies", title:"Volunteering: Helping Our Community", summary:"Students learn that volunteering means giving time and effort to help others without expecting payment, such as helping clean a park or collecting food for those in need.",
+   resourceLabel:"YouTube: Volunteering: Helping Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Volunteering%3A%20Helping%20Our%20Community%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call giving your time to help others without being paid?", options:["Shopping","Voting","Working for money","Volunteering"], answer:3},
+     {q:"Which of these is an example of volunteering?", options:["Buying a new toy","Sleeping in late","Watching television","Helping clean up a local park"], answer:3},
+     {q:"Why might someone choose to volunteer in their community?", options:["To stay away from other people","To avoid helping anyone","To help others and make the community better","To earn a large paycheck"], answer:2},
+     {q:"Which of these groups might collect food to help families in need?", options:["A food bank","A car dealership","A toy store","A movie theatre"], answer:0},
+     {q:"Volunteering can help a community by ___.", options:["Taking resources away from people","Having no effect at all","Bringing people together to solve problems and help others","Making the community worse"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call giving your time to help others without expecting payment?", answers:["volunteering"]},
+     {prompt:"Name one way someone could volunteer, like cleaning a park.", answers:["cleaning a park","collecting food","helping others"]},
+     {prompt:"Does volunteering help make a community better?", answers:["yes"]}
+   ]},
+]},
+{day:43, label:"Day 43 — Wed", subjects:[
+  {subject:"Language", title:"Adverbs: How, When, and Where", summary:"Students learn that an adverb is a word that describes a verb, telling how, when, or where an action happens, such as quickly, today, or outside.",
+   resourceLabel:"YouTube: Adverbs: How, When, and Where", resourceUrl:"https://www.youtube.com/results?search_query=Adverbs%3A%20How%2C%20When%2C%20and%20Where%20grade%202%20educational",
+   quiz:[
+     {q:"An adverb is a word that describes a ___.", options:["Article","Noun","Verb","Pronoun"], answer:2},
+     {q:"Which word tells how someone runs in the sentence, She runs quickly?", options:["Runs","She","Quickly","The"], answer:2},
+     {q:"Which word is an adverb that tells when, as in We will go today?", options:["We","Today","Will","Go"], answer:1},
+     {q:"Which word is an adverb that tells where, as in The cat sat outside?", options:["The","Outside","Cat","Sat"], answer:1},
+     {q:"Which of these words is an adverb?", options:["Happy","Dog","Carefully","Jump"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one adverb that tells how something happens, like quickly or slowly.", answers:["quickly","slowly","carefully"]},
+     {prompt:"Name one adverb that tells when something happens, like today or soon.", answers:["today","soon","yesterday"]},
+     {prompt:"Name one adverb that tells where something happens, like outside or here.", answers:["outside","here","there"]}
+   ]},
+  {subject:"Math", title:"Telling Time: Elapsed Time and the Calendar", summary:"Students learn to figure out how much time has passed between two events, called elapsed time, and to read a calendar to find days, weeks, and months.",
+   resourceLabel:"YouTube: Telling Time: Elapsed Time and the Calendar", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%3A%20Elapsed%20Time%20and%20the%20Calendar%20grade%202%20educational",
+   quiz:[
+     {q:"How many days are in one week?", options:["10","5","30","7"], answer:3},
+     {q:"If a game starts at 2:00 and ends at 3:00, how much time has passed?", options:["30 minutes","15 minutes","1 hour","2 hours"], answer:2},
+     {q:"How many months are in one year?", options:["12","10","365","52"], answer:0},
+     {q:"What tool would you use to find out what day of the week a date falls on?", options:["A calendar","A thermometer","A scale","A ruler"], answer:0},
+     {q:"Elapsed time tells us ___.", options:["The temperature outside","The day of the week only","How much time has passed between two events","The weight of an object"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How many days are in one week?", answers:["7","seven"]},
+     {prompt:"If a movie starts at 3:00 and ends at 4:00, how much time has passed?", answers:["1 hour","one hour"]},
+     {prompt:"How many months are in one year?", answers:["12","twelve"]}
+   ]},
+  {subject:"Science", title:"Forces: Gravity Pulls Things Down", summary:"Students learn that gravity is a force that pulls objects toward the earth, which is why things fall down instead of floating away when dropped.",
+   resourceLabel:"YouTube: Forces: Gravity Pulls Things Down", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20Pulls%20Things%20Down%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the force that pulls objects toward the earth?", options:["Gravity","Wind","Friction","Magnetism"], answer:0},
+     {q:"If you drop a ball, which way does gravity pull it?", options:["Sideways only","Down toward the ground","Nowhere at all","Up into the sky"], answer:1},
+     {q:"Why does a dropped pencil fall to the floor instead of floating in the air?", options:["Gravity pulls it toward the earth","Magnetism pulls it down","Wind pushes it down","It has no weight"], answer:0},
+     {q:"Which of these is an example of gravity at work?", options:["Water evaporating","An apple falling from a tree","Wind blowing leaves","A magnet pulling a paperclip"], answer:1},
+     {q:"Without gravity, objects on earth would ___.", options:["Float away instead of staying on the ground","Melt instantly","Become heavier","Turn into gas"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the force that pulls objects toward the earth?", answers:["gravity"]},
+     {prompt:"If you drop a ball, which direction does gravity pull it?", answers:["down","downward"]},
+     {prompt:"Does gravity pull objects toward the earth or away from it?", answers:["toward the earth","toward"]}
+   ]},
+  {subject:"SocialStudies", title:"Weather and Climate Across Canada", summary:"Students learn that weather and climate can be very different across Canada, with some regions having cold snowy winters, others having milder weather, and coastlines with rain.",
+   resourceLabel:"YouTube: Weather and Climate Across Canada", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Climate%20Across%20Canada%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the usual weather pattern of a region over a long time?", options:["A map","A season","A landmark","Climate"], answer:3},
+     {q:"Which season in many parts of Canada is known for cold temperatures and snow?", options:["Only autumn","Winter","Only spring","Summer"], answer:1},
+     {q:"Why might the climate be different in different parts of Canada?", options:["Climate never changes anywhere","Only cities have climate","All of Canada always has the exact same weather","Location, such as being near mountains, coasts, or the north, affects climate"], answer:3},
+     {q:"Which part of Canada might experience a lot of rain because it is near the ocean?", options:["A coastal region","The top of a dry plain","The middle of a desert","An underground cave"], answer:0},
+     {q:"Understanding climate helps people ___.", options:["Change the seasons","Ignore the weather completely","Stop the weather from happening","Prepare for the kind of weather common in their region"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one type of weather common in many parts of Canada during winter.", answers:["snow","cold weather","snowy weather"]},
+     {prompt:"Do different regions of Canada have different climates?", answers:["yes"]},
+     {prompt:"Name one part of Canada known for rainy weather, like the coast.", answers:["the coast","coast","coastal areas"]}
+   ]},
+]},
+{day:44, label:"Day 44 — Thu", subjects:[
+  {subject:"Language", title:"Cause and Effect in Stories", summary:"Students learn to identify cause and effect in stories, understanding that a cause is why something happens and an effect is what happens as a result.",
+   resourceLabel:"YouTube: Cause and Effect in Stories", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20in%20Stories%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the reason something happens in a story?", options:["An effect","A character","A setting","A cause"], answer:3},
+     {q:"What do we call the result of an event in a story?", options:["A title","A cause","A rhyme","An effect"], answer:3},
+     {q:"If a boy forgot his umbrella and got wet in the rain, what is the cause?", options:["He stayed dry","It stopped raining","He got wet","He forgot his umbrella"], answer:3},
+     {q:"If a boy forgot his umbrella and got wet in the rain, what is the effect?", options:["He forgot his umbrella","He owns an umbrella","It was sunny","He got wet"], answer:3},
+     {q:"Understanding cause and effect helps readers ___.", options:["Ignore the story completely","Skip the ending","Change the characters names","Understand why events happen in a story"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the reason something happens in a story?", answers:["a cause","cause"]},
+     {prompt:"What do we call the result of what happens in a story?", answers:["an effect","effect"]},
+     {prompt:"If it rained and the ground got wet, name the effect.", answers:["the ground got wet","ground got wet"]}
+   ]},
+  {subject:"Math", title:"Tally Charts and Simple Data Collection", summary:"Students learn to collect data by counting and recording it using tally marks, then use a tally chart to see totals for each category.",
+   resourceLabel:"YouTube: Tally Charts and Simple Data Collection", resourceUrl:"https://www.youtube.com/results?search_query=Tally%20Charts%20and%20Simple%20Data%20Collection%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call marks used to keep count while collecting data?", options:["Tally marks","Number lines","Fractions","Graphs"], answer:0},
+     {q:"How many tally marks are grouped together before starting a new group?", options:["4","10","5","3"], answer:2},
+     {q:"If a tally chart shows one full group of five plus three more marks, what is the total?", options:["5","8","10","3"], answer:1},
+     {q:"Why do we collect data using a tally chart?", options:["To draw pictures only","To tell time","To measure length","To count and organize information clearly"], answer:3},
+     {q:"After collecting data in a tally chart, the totals can be shown in a ___.", options:["Clock","Bar graph or pictograph","Calendar","Thermometer"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"How many tally marks make up one group in a tally chart?", answers:["5","five"]},
+     {prompt:"What do we call marks used to keep count while collecting data?", answers:["tally marks"]},
+     {prompt:"If a tally chart shows one full group of 5 plus 2 more marks, how many is that in total?", answers:["7","seven"]}
+   ]},
+  {subject:"Science", title:"Food Chains: Who Eats What", summary:"Students learn that a food chain shows how energy passes from one living thing to another, starting with a plant, moving to an animal that eats the plant, and then to an animal that eats that animal.",
+   resourceLabel:"YouTube: Food Chains: Who Eats What", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%3A%20Who%20Eats%20What%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a chain that shows how energy passes from one living thing to another through eating?", options:["A food chain","A habitat","A water cycle","A life cycle"], answer:0},
+     {q:"What is usually the first link in a food chain?", options:["A fish","A lion","A bird","A plant"], answer:3},
+     {q:"In a food chain with grass, a rabbit, and a fox, what does the rabbit eat?", options:["Grass","Rocks","The fox","Water"], answer:0},
+     {q:"In a food chain with grass, a rabbit, and a fox, what eats the rabbit?", options:["Nothing eats the rabbit","The sun","The fox","The grass"], answer:2},
+     {q:"Food chains show how ___.", options:["Water evaporates into the air","Energy moves from plants to animals that eat them","Seasons change throughout the year","Rocks turn into soil"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a chain that shows who eats what in nature?", answers:["a food chain","food chain"]},
+     {prompt:"What is usually the first link in a food chain, like a plant?", answers:["a plant","plant"]},
+     {prompt:"Name an animal that eats plants, like a rabbit or a deer.", answers:["a rabbit","rabbit","a deer","deer"]}
+   ]},
+  {subject:"SocialStudies", title:"Public Safety Services: Police, Fire, and Ambulance", summary:"Students learn about public safety services in a community, such as police officers who keep people safe, firefighters who put out fires, and paramedics who help people who are hurt or sick.",
+   resourceLabel:"YouTube: Public Safety Services: Police, Fire, and Ambulance", resourceUrl:"https://www.youtube.com/results?search_query=Public%20Safety%20Services%3A%20Police%2C%20Fire%2C%20and%20Ambulance%20grade%202%20educational",
+   quiz:[
+     {q:"Which public safety service is trained to put out fires?", options:["Farmers","Mail carriers","Firefighters","Teachers"], answer:2},
+     {q:"Which public safety service helps keep a community safe from crime?", options:["Police officers","Bakers","Artists","Librarians"], answer:0},
+     {q:"Which public safety service helps people who are hurt or sick get to a hospital quickly?", options:["A librarian","Paramedics in an ambulance","A shopkeeper","A mail carrier"], answer:1},
+     {q:"What number do many communities use to call for help in an emergency?", options:["911","411","511","111"], answer:0},
+     {q:"Public safety services are important because they ___.", options:["Are never needed","Help keep people in a community safe and healthy","Have no purpose in a community","Only help during holidays"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one public safety service that helps put out fires.", answers:["firefighters","fire department"]},
+     {prompt:"Name one public safety service that helps keep people safe from crime.", answers:["police","police officers"]},
+     {prompt:"Name one public safety service that helps people who are hurt or sick.", answers:["ambulance","paramedics"]}
+   ]},
+]},
+{day:45, label:"Day 45 — Fri", subjects:[
+  {subject:"Language", title:"Review: Silent Letters, Homophones, Adverbs and Cause and Effect", summary:"Students review recent Language skills: silent letters, homophones, adverbs, and cause and effect in stories.",
+   resourceLabel:"YouTube: Review: Silent Letters, Homophones, Adverbs and Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Silent%20Letters%2C%20Homophones%2C%20Adverbs%20and%20Cause%20and%20Effect%20grade%202%20educational",
+   quiz:[
+     {q:"Which letter is silent in the word write?", options:["T","I","W","R"], answer:2},
+     {q:"Which word means also or as well?", options:["Two","Too","Ten","To"], answer:1},
+     {q:"Which word is an adverb that tells where, as in The cat sat outside?", options:["Outside","Cat","The","Sat"], answer:0},
+     {q:"What do we call the result of an event in a story?", options:["A cause","A title","An effect","A rhyme"], answer:2},
+     {q:"Their and there are examples of ___.", options:["Compound words","Homophones","Prefixes","Contractions"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What letter is silent at the beginning of the word knee?", answers:["k"]},
+     {prompt:"Name one homophone pair, like to and too.", answers:["to and too","their and there","two and to"]},
+     {prompt:"Name one adverb that tells how something happens, like quickly or slowly.", answers:["quickly","slowly","carefully"]}
+   ]},
+  {subject:"Math", title:"Review: Numbers to 1000, Fact Families, Elapsed Time and Data", summary:"Students review recent Math skills: numbers to 1000, fact families, elapsed time and the calendar, and tally charts.",
+   resourceLabel:"YouTube: Review: Numbers to 1000, Fact Families, Elapsed Time and Data", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%20to%201000%2C%20Fact%20Families%2C%20Elapsed%20Time%20and%20Data%20grade%202%20educational",
+   quiz:[
+     {q:"Which number is greater, 620 or 602?", options:["620","602","They are equal","Cannot tell"], answer:0},
+     {q:"If 8 + 2 = 10, what is 10 - 8?", options:["18","8","10","2"], answer:3},
+     {q:"How many months are in one year?", options:["10","12","52","365"], answer:1},
+     {q:"Why do we collect data using a tally chart?", options:["To tell time","To draw pictures only","To count and organize information clearly","To measure length"], answer:2},
+     {q:"In the number 384, what digit is in the hundreds place?", options:["8","3","0","4"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 499?", answers:["500","five hundred"]},
+     {prompt:"If 4 + 5 = 9, what subtraction fact also belongs in this fact family?", answers:["9 - 5 = 4","9 - 4 = 5"]},
+     {prompt:"How many days are in one week?", answers:["7","seven"]}
+   ]},
+  {subject:"Science", title:"Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains", summary:"Students review recent Science topics: the life cycle of a plant, floating and sinking, gravity, and food chains.",
+   resourceLabel:"YouTube: Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plant%20Life%20Cycle%2C%20Floating%20and%20Sinking%2C%20Gravity%20and%20Food%20Chains%20grade%202%20educational",
+   quiz:[
+     {q:"What does a mature plant produce that can grow into a new plant?", options:["Water","Rocks","Seeds","Soil"], answer:2},
+     {q:"Which of these objects would most likely sink in water?", options:["A leaf","A rubber duck","An empty plastic bottle","A heavy rock"], answer:3},
+     {q:"Why does a dropped pencil fall to the floor instead of floating in the air?", options:["It has no weight","Gravity pulls it toward the earth","Wind pushes it down","Magnetism pulls it down"], answer:1},
+     {q:"In a food chain with grass, a rabbit, and a fox, what eats the rabbit?", options:["The sun","The fox","Nothing eats the rabbit","The grass"], answer:1},
+     {q:"What do we call a chain that shows how energy passes from one living thing to another through eating?", options:["A life cycle","A water cycle","A habitat","A food chain"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the very first stage in a plant life cycle?", answers:["a seed","seed"]},
+     {prompt:"What do we call it when an object stays on top of the water?", answers:["floating","float"]},
+     {prompt:"What do we call the force that pulls objects toward the earth?", answers:["gravity"]}
+   ]},
+  {subject:"SocialStudies", title:"Review: Explorers, Volunteering, Weather and Public Safety", summary:"Students review recent Social Studies topics: explorers and early settlers, volunteering, weather and climate across Canada, and public safety services.",
+   resourceLabel:"YouTube: Review: Explorers, Volunteering, Weather and Public Safety", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Explorers%2C%20Volunteering%2C%20Weather%20and%20Public%20Safety%20grade%202%20educational",
+   quiz:[
+     {q:"Why did early explorers travel to new lands like Canada?", options:["To build only underground homes","To discover new places and resources","To avoid meeting new people","To stay home instead"], answer:1},
+     {q:"Which of these is an example of volunteering?", options:["Buying a new toy","Sleeping in late","Helping clean up a local park","Watching television"], answer:2},
+     {q:"Which season in many parts of Canada is known for cold temperatures and snow?", options:["Only spring","Summer","Winter","Only autumn"], answer:2},
+     {q:"What number do many communities use to call for help in an emergency?", options:["511","411","111","911"], answer:3},
+     {q:"Why might the climate be different in different parts of Canada?", options:["Climate never changes anywhere","Only cities have climate","Location, such as being near mountains, coasts, or the north, affects climate","All of Canada always has the exact same weather"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a person who travels to discover new lands?", answers:["an explorer","explorer"]},
+     {prompt:"What do we call giving your time to help others without expecting payment?", answers:["volunteering"]},
+     {prompt:"Name one public safety service that helps put out fires.", answers:["firefighters","fire department"]}
+   ]},
+]},
+{day:46, label:"Day 46 — Mon", subjects:[
+  {subject:"Language", title:"Combining Sentences with And, But, and Because", summary:"Students learn to combine two short sentences into one longer sentence using the joining words and, but, and because.",
+   resourceLabel:"YouTube: Combining Sentences with And, But, and Because", resourceUrl:"https://www.youtube.com/results?search_query=Combining%20Sentences%20with%20And%2C%20But%2C%20and%20Because%20grade%202%20educational",
+   quiz:[
+     {q:"Which joining word combines two similar ideas?", options:["Because","Or","And","But"], answer:2},
+     {q:"Which joining word shows a contrast or difference between two ideas?", options:["Because","And","So","But"], answer:3},
+     {q:"Which joining word gives a reason for something?", options:["Or","But","Because","And"], answer:2},
+     {q:"Which sentence correctly combines two ideas with and?", options:["I like dogs but I like cats.","I like dogs, cats.","I like dogs and I like cats.","I like dogs because cats."], answer:2},
+     {q:"Combining short sentences into one longer sentence can make writing ___.", options:["Shorter than one word","Impossible to read","Smoother and more interesting","Always incorrect"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which joining word would you use to combine two similar ideas, like I like apples and I like pears?", answers:["and"]},
+     {prompt:"Which joining word shows a difference between two ideas, like It was cold but I was warm?", answers:["but"]},
+     {prompt:"Which joining word explains a reason, like I wore a coat because it was cold?", answers:["because"]}
+   ]},
+  {subject:"Math", title:"Rounding to the Nearest Ten", summary:"Students learn to round two-digit numbers to the nearest ten, checking the ones digit to decide whether to round up or down.",
+   resourceLabel:"YouTube: Rounding to the Nearest Ten", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Ten%20grade%202%20educational",
+   quiz:[
+     {q:"What is 23 rounded to the nearest ten?", options:["10","23","20","30"], answer:2},
+     {q:"What is 47 rounded to the nearest ten?", options:["40","45","50","47"], answer:2},
+     {q:"When rounding, if the ones digit is 5 or more, we round ___.", options:["Nowhere","Up to the next ten","Down to the previous ten","To zero"], answer:1},
+     {q:"What is 62 rounded to the nearest ten?", options:["62","50","60","70"], answer:2},
+     {q:"Rounding numbers helps us ___.", options:["Avoid using numbers","Get the exact answer every time","Make numbers bigger only","Estimate quickly using simpler numbers"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is 23 rounded to the nearest ten?", answers:["20","twenty"]},
+     {prompt:"What is 47 rounded to the nearest ten?", answers:["50","fifty"]},
+     {prompt:"If the ones digit is 5 or more, do we round up?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Animal Migration and Hibernation", summary:"Students learn that some animals migrate, traveling long distances to find food or warmer weather, while other animals hibernate, going into a deep sleep through the cold winter months.",
+   resourceLabel:"YouTube: Animal Migration and Hibernation", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Migration%20and%20Hibernation%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call it when animals travel long distances to find food or warmer weather?", options:["Pollination","Migration","Hibernation","Evaporation"], answer:1},
+     {q:"What do we call it when an animal goes into a deep sleep through the cold winter months?", options:["Metamorphosis","Camouflage","Migration","Hibernation"], answer:3},
+     {q:"Which of these animals is known for migrating long distances?", options:["A snail","A goose","A worm","A rock"], answer:1},
+     {q:"Which of these animals is known for hibernating in winter?", options:["A fish","A butterfly","A bear","A goose"], answer:2},
+     {q:"Why might an animal migrate to a warmer place?", options:["To change colour","To find food and better living conditions","To avoid all other animals","To grow new feathers only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when animals travel long distances to find food or warmer weather?", answers:["migration","migrate"]},
+     {prompt:"What do we call it when an animal goes into a deep sleep through winter?", answers:["hibernation","hibernate"]},
+     {prompt:"Name one animal that hibernates, like a bear.", answers:["a bear","bear"]}
+   ]},
+  {subject:"SocialStudies", title:"Cultural Diversity: Celebrating Our Differences", summary:"Students learn that communities in Canada are made up of people from many different cultures and backgrounds, and that learning about different traditions, languages, and foods helps everyone understand and respect each other.",
+   resourceLabel:"YouTube: Cultural Diversity: Celebrating Our Differences", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Diversity%3A%20Celebrating%20Our%20Differences%20grade%202%20educational",
+   quiz:[
+     {q:"What word describes a community made up of people from many different cultures and backgrounds?", options:["Empty","Diverse","Identical","Silent"], answer:1},
+     {q:"Which of these might be different between two cultures?", options:["Food, language, and traditions","The number of days in a week","Gravity","The colour of the sky"], answer:0},
+     {q:"Why is it helpful to learn about different cultures in your community?", options:["It helps people understand and respect each other","It has no benefit at all","It causes communities to fall apart","It makes people forget their own culture"], answer:0},
+     {q:"Which of these is a respectful way to learn about a friends culture?", options:["Refusing to learn anything new","Asking questions and listening with respect","Making fun of their traditions","Ignoring them completely"], answer:1},
+     {q:"Celebrating cultural diversity means ___.", options:["Valuing and respecting many different backgrounds and traditions","Ignoring all traditions","Only valuing one culture","Avoiding people who are different"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes a community made up of people from many different cultures?", answers:["diverse","diversity"]},
+     {prompt:"Name one thing that can be different between cultures, like food or language.", answers:["food","language","traditions","clothing"]},
+     {prompt:"Does learning about other cultures help people understand each other?", answers:["yes"]}
+   ]},
+]},
+{day:47, label:"Day 47 — Tue", subjects:[
+  {subject:"Language", title:"Reading Comprehension: Fact vs Opinion", summary:"Students learn the difference between a fact, a statement that can be proven true, and an opinion, a statement that shows what someone thinks or feels.",
+   resourceLabel:"YouTube: Reading Comprehension: Fact vs Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Fact%20vs%20Opinion%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a statement that can be proven true?", options:["An opinion","A question","A rhyme","A fact"], answer:3},
+     {q:"What do we call a statement that shows what someone thinks or feels?", options:["An opinion","A setting","A title","A fact"], answer:0},
+     {q:"Which of these sentences is a fact?", options:["Cats are better than dogs.","Summer is the best season.","A week has seven days.","Pizza is the tastiest food."], answer:2},
+     {q:"Which of these sentences is an opinion?", options:["There are twelve months in a year.","Fish live in water.","Chocolate ice cream tastes the best.","A triangle has three sides."], answer:2},
+     {q:"Facts can be checked and proven, while opinions ___.", options:["Are always false","Show what a person thinks or feels","Can never be spoken aloud","Are always the same as facts"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a statement that can be proven true?", answers:["a fact","fact"]},
+     {prompt:"What do we call a statement that shows what someone thinks or feels?", answers:["an opinion","opinion"]},
+     {prompt:"Is the statement dogs are the best pets a fact or an opinion?", answers:["an opinion","opinion"]}
+   ]},
+  {subject:"Math", title:"Area: Covering a Shape with Squares", summary:"Students learn that area is the amount of space a flat shape covers, measured by counting how many equal squares fit inside the shape.",
+   resourceLabel:"YouTube: Area: Covering a Shape with Squares", resourceUrl:"https://www.youtube.com/results?search_query=Area%3A%20Covering%20a%20Shape%20with%20Squares%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the amount of space a flat shape covers?", options:["Weight","Perimeter","Length","Area"], answer:3},
+     {q:"If a rectangle is covered exactly by 8 equal squares, what is its area?", options:["8 square units","4 square units","2 square units","8 metres"], answer:0},
+     {q:"To measure area, we count how many equal ___ fit inside a shape.", options:["Squares","Circles","Dots","Lines"], answer:0},
+     {q:"Which shape would likely have a larger area, one covered by 4 squares or one covered by 10 squares?", options:["The one covered by 10 squares","They are always equal","Cannot be measured","The one covered by 4 squares"], answer:0},
+     {q:"Area is measured in units such as ___.", options:["Kilograms","Litres","Degrees","Square units"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the amount of space a flat shape covers?", answers:["area"]},
+     {prompt:"If a rectangle is covered by 6 equal squares with no gaps, what is its area?", answers:["6 squares","6"]},
+     {prompt:"Do all the squares used to measure area need to be the same size?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Pollination: How Bees Help Plants Grow", summary:"Students learn that pollination happens when bees and other insects carry pollen from one flower to another, helping plants make seeds and grow new plants.",
+   resourceLabel:"YouTube: Pollination: How Bees Help Plants Grow", resourceUrl:"https://www.youtube.com/results?search_query=Pollination%3A%20How%20Bees%20Help%20Plants%20Grow%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call it when insects carry pollen from one flower to another?", options:["Evaporation","Migration","Hibernation","Pollination"], answer:3},
+     {q:"Which of these insects is well known for helping pollinate flowers?", options:["A worm","A bee","An ant","A spider"], answer:1},
+     {q:"What is the powder inside a flower called that bees carry from flower to flower?", options:["Soil","Bark","Sap","Pollen"], answer:3},
+     {q:"Why is pollination important for plants?", options:["It helps plants stay small forever","It stops plants from growing","It helps plants make seeds and grow new plants","It has no effect on plants"], answer:2},
+     {q:"Bees are attracted to flowers partly because flowers provide ___.", options:["Rocks for the bees to eat","Nectar for the bees to collect","Nothing at all","Water for the bees to drink only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one insect that helps pollinate flowers, like a bee or a butterfly.", answers:["a bee","bee","a butterfly","butterfly"]},
+     {prompt:"What is the yellow powder inside a flower called that insects carry from flower to flower?", answers:["pollen"]},
+     {prompt:"Does pollination help plants make seeds?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"The Role of Schools and Libraries in a Community", summary:"Students learn that schools help children learn and grow, while libraries offer books and resources for people of all ages to read, learn, and explore new ideas.",
+   resourceLabel:"YouTube: The Role of Schools and Libraries in a Community", resourceUrl:"https://www.youtube.com/results?search_query=The%20Role%20of%20Schools%20and%20Libraries%20in%20a%20Community%20grade%202%20educational",
+   quiz:[
+     {q:"What is the main purpose of a school in a community?", options:["To fix cars","To grow crops","To help children learn and grow","To sell food"], answer:2},
+     {q:"What can people typically borrow for free at a library?", options:["Cars","Houses","Food only","Books"], answer:3},
+     {q:"Who can usually use the resources at a public library?", options:["Only children","Only teachers","People of all ages","Only adults"], answer:2},
+     {q:"Which of these activities might happen at a school?", options:["Doctors performing surgery","Students learning to read and do math","Farmers growing crops","Firefighters putting out fires"], answer:1},
+     {q:"Schools and libraries both help communities by ___.", options:["Building roads","Selling clothing","Supporting learning and sharing knowledge","Growing vegetables"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a place where children go to learn?", answers:["a school","school"]},
+     {prompt:"What do we call a place where people can borrow books for free?", answers:["a library","library"]},
+     {prompt:"Are libraries useful for people of all ages?", answers:["yes"]}
+   ]},
+]},
+{day:48, label:"Day 48 — Wed", subjects:[
+  {subject:"Language", title:"Using a Dictionary and Glossary", summary:"Students learn how to use a dictionary or glossary to find the meaning of a word, using guide words and alphabetical order to locate entries quickly.",
+   resourceLabel:"YouTube: Using a Dictionary and Glossary", resourceUrl:"https://www.youtube.com/results?search_query=Using%20a%20Dictionary%20and%20Glossary%20grade%202%20educational",
+   quiz:[
+     {q:"What can you use to find the meaning of an unfamiliar word?", options:["A map","A recipe","A calendar","A dictionary"], answer:3},
+     {q:"What do we call a list of important words and their meanings at the back of a book?", options:["A glossary","A table of contents","An index card","A title page"], answer:0},
+     {q:"How are words usually organized in a dictionary?", options:["Randomly","In alphabetical order","By length","By colour"], answer:1},
+     {q:"What are the two words at the top of a dictionary page called, showing the first and last entries?", options:["Title words","Cover words","Guide words","Page numbers"], answer:2},
+     {q:"Using a dictionary helps readers ___.", options:["Solve math problems","Find the meaning and spelling of words","Draw pictures","Tell time"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What book can you use to find the meaning of a word?", answers:["a dictionary","dictionary"]},
+     {prompt:"What do we call a list of words and meanings found at the back of a book?", answers:["a glossary","glossary"]},
+     {prompt:"Are the words in a dictionary listed in alphabetical order?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Perimeter: Measuring Around a Shape", summary:"Students learn that perimeter is the total distance around the outside edge of a shape, found by adding the lengths of all its sides.",
+   resourceLabel:"YouTube: Perimeter: Measuring Around a Shape", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%3A%20Measuring%20Around%20a%20Shape%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the total distance around the outside edge of a shape?", options:["Mass","Area","Perimeter","Volume"], answer:2},
+     {q:"If a square has sides of 4 centimetres each, what is its perimeter?", options:["16 centimetres","8 centimetres","4 centimetres","12 centimetres"], answer:0},
+     {q:"To find the perimeter of a shape, we ___.", options:["Measure only one side","Multiply its width by its height","Count the squares inside it","Add the lengths of all its sides"], answer:3},
+     {q:"What is the perimeter of a rectangle with sides of 3, 5, 3, and 5 centimetres?", options:["15 centimetres","8 centimetres","20 centimetres","16 centimetres"], answer:3},
+     {q:"Perimeter is different from area because perimeter measures ___.", options:["The exact same thing as area","Only weight","Only the width of a shape","The distance around a shape, not the space inside it"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the distance around the outside edge of a shape?", answers:["perimeter"]},
+     {prompt:"If a square has sides of 4 centimetres each, what is its perimeter?", answers:["16 centimetres","16"]},
+     {prompt:"To find perimeter, do we add the lengths of all the sides?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Simple Circuits and Electricity", summary:"Students learn that a simple electric circuit is a complete loop that lets electricity flow from a battery through wires to power something like a light bulb.",
+   resourceLabel:"YouTube: Simple Circuits and Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Circuits%20and%20Electricity%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a complete loop that lets electricity flow through it?", options:["A pattern","A magnet","A circuit","A pulley"], answer:2},
+     {q:"Which of these provides the energy in a simple circuit?", options:["A cotton ball","A leaf","A battery","A wooden block"], answer:2},
+     {q:"What happens to a light bulb in a circuit if the loop is broken?", options:["The light turns off","The light gets brighter","The light changes colour","Nothing changes"], answer:0},
+     {q:"Which of these materials would work well as a wire in a circuit because it lets electricity flow through it?", options:["Paper","Rubber","Wood","Metal"], answer:3},
+     {q:"A simple circuit usually includes a battery, wires, and ___.", options:["A cup of water","Something that uses electricity, like a light bulb","A stack of books","A pile of sand"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a complete loop that lets electricity flow?", answers:["a circuit","circuit"]},
+     {prompt:"Name one part of a simple circuit, like a battery or a wire.", answers:["a battery","battery","a wire","wire","a bulb","bulb"]},
+     {prompt:"Does a circuit need to be a complete loop for electricity to flow?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Wildlife and Where Animals Live", summary:"Students learn about wildlife found across Canada, such as moose in forests, polar bears in the Arctic, and beavers near rivers and lakes, and how each animal is suited to where it lives.",
+   resourceLabel:"YouTube: Canadian Wildlife and Where Animals Live", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Wildlife%20and%20Where%20Animals%20Live%20grade%202%20educational",
+   quiz:[
+     {q:"Which large animal is commonly found in Canadian forests?", options:["A moose","A camel","A penguin","A kangaroo"], answer:0},
+     {q:"Which animal is well known for living in the cold Arctic region of Canada?", options:["A lion","A monkey","A polar bear","A parrot"], answer:2},
+     {q:"Which animal is often found building dams near rivers and lakes in Canada?", options:["A beaver","A giraffe","An elephant","A camel"], answer:0},
+     {q:"Why is a polar bear well suited to living in the Arctic?", options:["It only eats plants","It has thin fur to stay cool","It cannot swim in cold water","It has thick fur and fat to stay warm in the cold"], answer:3},
+     {q:"Learning about Canadian wildlife helps us understand ___.", options:["How to read a clock","How to build houses","How to bake bread","How animals are suited to the places they live"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one animal found in Canadian forests, like a moose or a deer.", answers:["a moose","moose","a deer","deer"]},
+     {prompt:"Name one animal that lives in the cold Arctic region of Canada.", answers:["a polar bear","polar bear"]},
+     {prompt:"Name one animal often found living near rivers and lakes in Canada.", answers:["a beaver","beaver"]}
+   ]},
+]},
+{day:49, label:"Day 49 — Thu", subjects:[
+  {subject:"Language", title:"Writing Simple Instructions: How-To Writing", summary:"Students learn to write simple step-by-step instructions, called how-to writing, using order words like first, next, and last to explain how to do something.",
+   resourceLabel:"YouTube: Writing Simple Instructions: How-To Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Simple%20Instructions%3A%20How-To%20Writing%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call writing that explains the steps to do something?", options:["A song","How-to writing","A poem","A letter"], answer:1},
+     {q:"Which of these is an order word used in how-to writing?", options:["Blue","Quickly","Happy","First"], answer:3},
+     {q:"Why is it important to write the steps of instructions in order?", options:["To make the writing longer","So the reader can follow them correctly","Order does not matter","So the reader gets confused"], answer:1},
+     {q:"Which sentence would most likely begin a set of how-to instructions?", options:["The end.","First, gather all your materials.","Once upon a time.","Yesterday I went to the park."], answer:1},
+     {q:"How-to writing is most useful for ___.", options:["Telling a make-believe story","Listing opinions about a topic","Describing a characters feelings","Explaining how to complete a task step by step"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call writing that explains the steps to do something?", answers:["how-to writing","instructions"]},
+     {prompt:"Name one order word used in how-to writing, like first or next.", answers:["first","next","last","then"]},
+     {prompt:"Should the steps in how-to writing be written in the correct order?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Ordinal Numbers: First, Second, Third", summary:"Students learn to use ordinal numbers, such as first, second, and third, to describe the position or order of objects and events in a sequence.",
+   resourceLabel:"YouTube: Ordinal Numbers: First, Second, Third", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%2C%20Second%2C%20Third%20grade%202%20educational",
+   quiz:[
+     {q:"Which ordinal number describes the object at the very start of a line?", options:["Second","Fourth","First","Third"], answer:2},
+     {q:"Which ordinal number comes right after first?", options:["Fourth","Fifth","Third","Second"], answer:3},
+     {q:"If a student is the third person in line, which two students came before them?", options:["The fourth and fifth students","Only the first student","No one came before them","The first and second students"], answer:3},
+     {q:"Ordinal numbers are used to describe ___.", options:["The exact amount of something","The weight of an object","The position or order of something in a sequence","The temperature outside"], answer:2},
+     {q:"Which of these is an ordinal number?", options:["Five","Fifty","Fives","Fifth"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Which ordinal number describes the very first object in a line?", answers:["first"]},
+     {prompt:"Which ordinal number describes the object right after the first one?", answers:["second"]},
+     {prompt:"If a runner finishes the race in third place, what ordinal number describes their position?", answers:["third"]}
+   ]},
+  {subject:"Science", title:"Classifying Animals: Mammals, Birds, Fish, and More", summary:"Students learn to classify animals into groups such as mammals, birds, fish, reptiles, and amphibians, based on shared features like fur, feathers, scales, or how they breathe.",
+   resourceLabel:"YouTube: Classifying Animals: Mammals, Birds, Fish, and More", resourceUrl:"https://www.youtube.com/results?search_query=Classifying%20Animals%3A%20Mammals%2C%20Birds%2C%20Fish%2C%20and%20More%20grade%202%20educational",
+   quiz:[
+     {q:"Which animal group is covered in fur and feeds its babies milk?", options:["Reptiles","Birds","Fish","Mammals"], answer:3},
+     {q:"Which animal group is covered in feathers and can usually fly?", options:["Fish","Birds","Mammals","Amphibians"], answer:1},
+     {q:"Which animal group lives mostly in water and breathes using gills?", options:["Fish","Mammals","Insects","Birds"], answer:0},
+     {q:"Which of these is an example of a reptile?", options:["A frog","A robin","A snake","A dog"], answer:2},
+     {q:"Scientists classify animals into groups based on ___.", options:["Shared features like fur, feathers, or scales","Their favourite colour","Their name only","Where they were born only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one group that animals with fur and that feed their babies milk belong to.", answers:["mammals","mammal"]},
+     {prompt:"Name one feature that helps classify a bird, like feathers or wings.", answers:["feathers","wings"]},
+     {prompt:"Name one group of animals that live mostly in water and breathe with gills.", answers:["fish"]}
+   ]},
+  {subject:"SocialStudies", title:"Communication Long Ago and Today", summary:"Students compare how people communicated long ago, using letters and messengers, with how people communicate today, using telephones, computers, and the internet.",
+   resourceLabel:"YouTube: Communication Long Ago and Today", resourceUrl:"https://www.youtube.com/results?search_query=Communication%20Long%20Ago%20and%20Today%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these was a common way people communicated with each other long ago?", options:["Using the internet","Writing a letter","Sending a text message","Video calling"], answer:1},
+     {q:"Which of these tools helps people communicate quickly over long distances today?", options:["A carrier pigeon only","A telephone","A messenger on foot only","A quill pen only"], answer:1},
+     {q:"How has communication changed from long ago to today?", options:["It has completely stopped","It has become much faster with new technology","It has stayed exactly the same","It has become much slower"], answer:1},
+     {q:"Long ago, how might an important message have been delivered to a faraway town?", options:["By a video call","By email","By a messenger traveling on foot or horseback","By a text message"], answer:2},
+     {q:"Fast communication today, like the internet, allows people to ___.", options:["Wait many weeks to send a simple message","Never talk to people far away","Share information and messages almost instantly","Only communicate in person"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one way people communicated long ago, like writing a letter.", answers:["a letter","letter","writing a letter"]},
+     {prompt:"Name one way people communicate quickly today, like a telephone or computer.", answers:["a telephone","telephone","a computer","computer","the internet"]},
+     {prompt:"Is communicating with someone far away usually faster today than it was long ago?", answers:["yes"]}
+   ]},
+]},
+{day:50, label:"Day 50 — Fri", subjects:[
+  {subject:"Language", title:"Final Review: Sentence Combining, Fact and Opinion, Dictionaries and How-To Writing", summary:"Students review recent Language skills: combining sentences with joining words, fact versus opinion, using a dictionary and glossary, and how-to writing.",
+   resourceLabel:"YouTube: Final Review: Sentence Combining, Fact and Opinion, Dictionaries and How-To Writing", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Sentence%20Combining%2C%20Fact%20and%20Opinion%2C%20Dictionaries%20and%20How-To%20Writing%20grade%202%20educational",
+   quiz:[
+     {q:"Which joining word shows a contrast or difference between two ideas?", options:["Because","But","Or","And"], answer:1},
+     {q:"Which of these sentences is a fact?", options:["Pizza is the tastiest food.","Summer is the best season.","A week has seven days.","Cats are better than dogs."], answer:2},
+     {q:"What do we call a list of important words and their meanings at the back of a book?", options:["An index card","A table of contents","A title page","A glossary"], answer:3},
+     {q:"Which of these is an order word used in how-to writing?", options:["First","Blue","Happy","Quickly"], answer:0},
+     {q:"Combining short sentences into one longer sentence can make writing ___.", options:["Smoother and more interesting","Shorter than one word","Always incorrect","Impossible to read"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Which joining word gives a reason for something?", answers:["because"]},
+     {prompt:"Is the statement dogs are the best pets a fact or an opinion?", answers:["an opinion","opinion"]},
+     {prompt:"Name one order word used in how-to writing, like first or next.", answers:["first","next","last","then"]}
+   ]},
+  {subject:"Math", title:"Final Review: Rounding, Area, Perimeter and Ordinal Numbers", summary:"Students review recent Math skills: rounding to the nearest ten, area, perimeter, and ordinal numbers.",
+   resourceLabel:"YouTube: Final Review: Rounding, Area, Perimeter and Ordinal Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Rounding%2C%20Area%2C%20Perimeter%20and%20Ordinal%20Numbers%20grade%202%20educational",
+   quiz:[
+     {q:"What is 47 rounded to the nearest ten?", options:["47","50","40","45"], answer:1},
+     {q:"To measure area, we count how many equal ___ fit inside a shape.", options:["Squares","Circles","Lines","Dots"], answer:0},
+     {q:"To find the perimeter of a shape, we ___.", options:["Add the lengths of all its sides","Multiply its width by its height","Measure only one side","Count the squares inside it"], answer:0},
+     {q:"If a student is the third person in line, which two students came before them?", options:["The first and second students","Only the first student","No one came before them","The fourth and fifth students"], answer:0},
+     {q:"What is the perimeter of a rectangle with sides of 3, 5, 3, and 5 centimetres?", options:["8 centimetres","15 centimetres","20 centimetres","16 centimetres"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is 23 rounded to the nearest ten?", answers:["20","twenty"]},
+     {prompt:"What do we call the amount of space a flat shape covers?", answers:["area"]},
+     {prompt:"Which ordinal number comes right after first?", answers:["second"]}
+   ]},
+  {subject:"Science", title:"Final Review: Migration, Pollination, Circuits and Animal Classification", summary:"Students review recent Science topics: animal migration and hibernation, pollination, simple circuits and electricity, and classifying animals.",
+   resourceLabel:"YouTube: Final Review: Migration, Pollination, Circuits and Animal Classification", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Migration%2C%20Pollination%2C%20Circuits%20and%20Animal%20Classification%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these animals is known for hibernating in winter?", options:["A fish","A butterfly","A bear","A goose"], answer:2},
+     {q:"Why is pollination important for plants?", options:["It helps plants make seeds and grow new plants","It stops plants from growing","It has no effect on plants","It helps plants stay small forever"], answer:0},
+     {q:"What happens to a light bulb in a circuit if the loop is broken?", options:["The light changes colour","Nothing changes","The light turns off","The light gets brighter"], answer:2},
+     {q:"Which animal group is covered in fur and feeds its babies milk?", options:["Fish","Reptiles","Mammals","Birds"], answer:2},
+     {q:"Which of these is an example of a reptile?", options:["A dog","A snake","A robin","A frog"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when animals travel long distances to find food or warmer weather?", answers:["migration","migrate"]},
+     {prompt:"What is the powder inside a flower called that bees carry from flower to flower?", answers:["pollen"]},
+     {prompt:"What do we call a complete loop that lets electricity flow?", answers:["a circuit","circuit"]}
+   ]},
+  {subject:"SocialStudies", title:"Final Review: Diversity, Schools and Libraries, Wildlife and Communication", summary:"Students review recent Social Studies topics: cultural diversity, the role of schools and libraries, Canadian wildlife, and communication long ago and today.",
+   resourceLabel:"YouTube: Final Review: Diversity, Schools and Libraries, Wildlife and Communication", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Diversity%2C%20Schools%20and%20Libraries%2C%20Wildlife%20and%20Communication%20grade%202%20educational",
+   quiz:[
+     {q:"Why is it helpful to learn about different cultures in your community?", options:["It has no benefit at all","It makes people forget their own culture","It causes communities to fall apart","It helps people understand and respect each other"], answer:3},
+     {q:"Who can usually use the resources at a public library?", options:["People of all ages","Only children","Only adults","Only teachers"], answer:0},
+     {q:"Which animal is often found building dams near rivers and lakes in Canada?", options:["A camel","A giraffe","An elephant","A beaver"], answer:3},
+     {q:"How has communication changed from long ago to today?", options:["It has become much slower","It has become much faster with new technology","It has completely stopped","It has stayed exactly the same"], answer:1},
+     {q:"Celebrating cultural diversity means ___.", options:["Avoiding people who are different","Ignoring all traditions","Valuing and respecting many different backgrounds and traditions","Only valuing one culture"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What word describes a community made up of people from many different cultures?", answers:["diverse","diversity"]},
+     {prompt:"What do we call a place where people can borrow books for free?", answers:["a library","library"]},
+     {prompt:"Name one animal that lives in the cold Arctic region of Canada.", answers:["a polar bear","polar bear"]}
+   ]},
+]},
 ];
 
 export default curriculum;
