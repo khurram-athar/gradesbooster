@@ -3573,6 +3573,586 @@ const curriculum: DayContent[] = [
      {prompt:"What do we call an area of land protected to preserve nature and wildlife?", answers:["a national park","national park"]}
    ]},
 ]},
+{day:71, label:"Day 71 — Mon", subjects:[
+  {subject:"Language", title:"Similes: Comparing with Like and As", summary:"Students learn that a simile is a figure of speech that compares two different things using the words like or as, helping readers picture an idea more clearly, such as as brave as a lion.",
+   resourceLabel:"YouTube: Similes: Comparing with Like and As", resourceUrl:"https://www.youtube.com/results?search_query=Similes%3A%20Comparing%20with%20Like%20and%20As%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a phrase that compares two things using like or as?", options:["An antonym","A simile","A synonym","A caption"], answer:1},
+     {q:"Which sentence contains a simile?", options:["The kitten was as fluffy as a cloud.","The kitten is small.","The kitten sat down.","The kitten was fluffy."], answer:0},
+     {q:"Finish the simile: as busy as a ___.", options:["Rock","Cloud","Bee","Chair"], answer:2},
+     {q:"Which word is most often used along with like to form a simile?", options:["The","As","But","And"], answer:1},
+     {q:"Writers use similes to ___.", options:["Help readers picture an idea by comparing it to something familiar","Make sentences shorter","Remove all description from writing","Confuse the reader on purpose"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call a phrase that compares two things using like or as?", answers:["a simile","simile"]},
+     {prompt:"Finish the simile: as quiet as a ___.", answers:["mouse","a mouse"]},
+     {prompt:"Which two words are most often used to signal a simile?", answers:["like and as","like, as"]}
+   ]},
+  {subject:"Math", title:"Three-Digit Addition with Regrouping", summary:"Students learn to add two three-digit numbers that require regrouping, carrying a group of ten ones into the tens place or a group of ten tens into the hundreds place.",
+   resourceLabel:"YouTube: Three-Digit Addition with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Three-Digit%20Addition%20with%20Regrouping%20grade%202%20educational",
+   quiz:[
+     {q:"What is 236 + 148?", options:["384","374","284","394"], answer:0},
+     {q:"What is 275 + 126?", options:["301","391","411","401"], answer:3},
+     {q:"What is 359 + 172?", options:["431","531","521","541"], answer:1},
+     {q:"When adding two three-digit numbers, we regroup when a column adds up to ___.", options:["Ten or more","Always, no matter what","Exactly one","Zero"], answer:0},
+     {q:"What is 418 + 265?", options:["583","693","673","683"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is 236 + 148?", answers:["384"]},
+     {prompt:"What is 275 + 126?", answers:["401"]},
+     {prompt:"When do we regroup while adding, when a column adds to ten or more, or when it adds to less than ten?", answers:["ten or more","when a column adds to ten or more"]}
+   ]},
+  {subject:"Science", title:"Parts of a Plant: Roots, Stem, Leaves, and Flower", summary:"Students learn to identify the main parts of a plant, including the roots that absorb water, the stem that supports the plant, the leaves that capture sunlight, and the flower that helps make seeds.",
+   resourceLabel:"YouTube: Parts of a Plant: Roots, Stem, Leaves, and Flower", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20a%20Plant%3A%20Roots%2C%20Stem%2C%20Leaves%2C%20and%20Flower%20grade%202%20educational",
+   quiz:[
+     {q:"Which part of a plant absorbs water from the soil?", options:["The stem","The flower","The leaves","The roots"], answer:3},
+     {q:"Which part of a plant supports it and carries water upward?", options:["The stem","The roots","The petals","The seeds"], answer:0},
+     {q:"Which part of a plant captures sunlight to help make food?", options:["The roots","The seeds","The leaves","The stem"], answer:2},
+     {q:"Which part of a plant helps it make seeds?", options:["The soil","The flower","The stem","The roots"], answer:1},
+     {q:"Roots grow ___.", options:["Underground to anchor the plant and absorb water","Only in water, never in soil","In the sky to catch sunlight","Only on the flower"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Which part of a plant absorbs water from the soil?", answers:["the roots","roots"]},
+     {prompt:"Which part of a plant supports it and carries water upward?", answers:["the stem","stem"]},
+     {prompt:"Which part of a plant captures sunlight to make food?", answers:["the leaves","leaves"]}
+   ]},
+  {subject:"SocialStudies", title:"Where Our Clothes and Toys Come From", summary:"Students learn that many of the clothes and toys we use are made in factories, sometimes in other countries, using materials that started as raw resources like cotton or plastic.",
+   resourceLabel:"YouTube: Where Our Clothes and Toys Come From", resourceUrl:"https://www.youtube.com/results?search_query=Where%20Our%20Clothes%20and%20Toys%20Come%20From%20grade%202%20educational",
+   quiz:[
+     {q:"Where are many clothes and toys made before they reach a store?", options:["A farm only","A forest","A factory","A lake"], answer:2},
+     {q:"Which of these is a raw material that clothing can be made from?", options:["Glass","Water only","Cotton","Metal only"], answer:2},
+     {q:"Are all the clothes and toys people use always made in the same country they live in?", options:["Clothes are never made anywhere","Yes, always","No, many are made in other countries and shipped","Toys are never shipped anywhere"], answer:2},
+     {q:"Why might a toy be made in one country and sold in another?", options:["Toys can only be sold in the country where they are made","Companies often make products where it is efficient, then ship them to stores worldwide","Toys are only made by hand at home","Shipping does not exist"], answer:1},
+     {q:"Learning where products come from helps us understand ___.", options:["That factories do not exist","How different countries and communities are connected","That every product magically appears in stores","That all toys grow on trees"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where are many clothes and toys made before they reach a store?", answers:["a factory","factory","factories"]},
+     {prompt:"Name one raw material that clothing can be made from, like cotton.", answers:["cotton","wool"]},
+     {prompt:"Are all the clothes and toys we use always made in the same country we live in?", answers:["no"]}
+   ]},
+]},
+{day:72, label:"Day 72 — Tue", subjects:[
+  {subject:"Language", title:"Prepositions: Words That Show Where", summary:"Students learn that a preposition is a word that shows the location or position of one thing in relation to another, such as in, on, under, and beside.",
+   resourceLabel:"YouTube: Prepositions: Words That Show Where", resourceUrl:"https://www.youtube.com/results?search_query=Prepositions%3A%20Words%20That%20Show%20Where%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a word that shows the position of one thing compared to another?", options:["A pronoun","A preposition","A verb","An adjective"], answer:1},
+     {q:"Which sentence uses a preposition correctly to show location?", options:["The cat is under the table.","The cat under.","Table the cat is.","The cat is table."], answer:0},
+     {q:"Which word is a preposition in the sentence: the book is on the shelf?", options:["Book","On","The","Shelf"], answer:1},
+     {q:"Which of these is an example of a preposition?", options:["Quickly","Jumped","Beside","Happy"], answer:2},
+     {q:"Prepositions help readers understand ___.", options:["When a story ends","How a character feels","Where something is located","Who wrote the story"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a word that shows the position of one thing compared to another, like under or beside?", answers:["a preposition","preposition"]},
+     {prompt:"Which preposition tells that the ball is inside the box?", answers:["in","in the box"]},
+     {prompt:"Name one preposition that tells where something is, such as under or beside.", answers:["under","beside","on","in","above","below"]}
+   ]},
+  {subject:"Math", title:"Three-Digit Subtraction with Regrouping", summary:"Students learn to subtract three-digit numbers that require regrouping, borrowing a group of ten from the tens place or hundreds place when a digit is too small to subtract from.",
+   resourceLabel:"YouTube: Three-Digit Subtraction with Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Three-Digit%20Subtraction%20with%20Regrouping%20grade%202%20educational",
+   quiz:[
+     {q:"What is 342 - 158?", options:["284","184","194","174"], answer:1},
+     {q:"What is 500 - 267?", options:["233","243","333","223"], answer:0},
+     {q:"What is 623 - 348?", options:["375","265","285","275"], answer:3},
+     {q:"When the top digit in a column is smaller than the bottom digit, what do we do to subtract?", options:["Ignore that column","Regroup from the next place value","Skip the whole problem","Add instead of subtract"], answer:1},
+     {q:"What is 415 - 289?", options:["226","116","126","136"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is 342 - 158?", answers:["184"]},
+     {prompt:"What is 500 - 267?", answers:["233"]},
+     {prompt:"When subtracting, if the top digit is smaller than the bottom digit in a column, what do we do?", answers:["regroup","borrow from the next column","regroup from the next place value"]}
+   ]},
+  {subject:"Science", title:"Levers: Lifting with Less Effort", summary:"Students learn that a lever is a simple machine made of a bar that rests on a fixed point called a fulcrum, which helps lift or move heavy objects with less effort.",
+   resourceLabel:"YouTube: Levers: Lifting with Less Effort", resourceUrl:"https://www.youtube.com/results?search_query=Levers%3A%20Lifting%20with%20Less%20Effort%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the fixed point that a lever rests on?", options:["An axle","A wedge","A fulcrum","A pulley"], answer:2},
+     {q:"Which of these tools is an example of a lever?", options:["A thermometer","A magnet","A funnel","A seesaw"], answer:3},
+     {q:"A lever is a type of ___.", options:["Food group","Living thing","Simple machine","Weather pattern"], answer:2},
+     {q:"Using a lever to lift a heavy rock makes the task ___.", options:["Dangerous only","Slower and harder","Impossible","Easier"], answer:3},
+     {q:"Which part of a lever stays still while the bar moves up and down?", options:["The fulcrum","The handle","The load","The tip"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the fixed point that a lever rests on?", answers:["a fulcrum","fulcrum"]},
+     {prompt:"Name one tool that works as a lever, like a seesaw or a shovel.", answers:["a seesaw","seesaw","a shovel","shovel"]},
+     {prompt:"Does a lever make lifting a heavy object easier or harder?", answers:["easier"]}
+   ]},
+  {subject:"SocialStudies", title:"Advertising: How Companies Try to Sell Us Things", summary:"Students learn that advertisements are messages created by companies to convince people to buy a product, often using bright colours, catchy words, or famous characters to grab attention.",
+   resourceLabel:"YouTube: Advertising: How Companies Try to Sell Us Things", resourceUrl:"https://www.youtube.com/results?search_query=Advertising%3A%20How%20Companies%20Try%20to%20Sell%20Us%20Things%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a message created by a company to convince people to buy a product?", options:["A biography","An advertisement","A weather report","A map"], answer:1},
+     {q:"Which of these is a technique advertisements often use to grab attention?", options:["Bright colours and catchy words","Silence and no sound at all","Blank pages with no pictures","Tiny grey text no one can read"], answer:0},
+     {q:"Why is it helpful to think carefully before buying something seen in an advertisement?", options:["Because advertisements are always true","To avoid ever buying anything at all","To decide if it is something you really need or want","Because advertisements never try to persuade anyone"], answer:2},
+     {q:"Where might a child see an advertisement?", options:["On television, a website, or a billboard","Nowhere at all","Only in outer space","Only inside a locked box"], answer:0},
+     {q:"Advertisements often try to ___.", options:["Teach a math lesson","Give a weather forecast","Explain a science experiment","Persuade people that they need or want a product"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call a message created by a company to convince people to buy a product?", answers:["an advertisement","advertisement","an ad"]},
+     {prompt:"Name one technique advertisements use to grab attention, like bright colours.", answers:["bright colours","catchy words","famous characters"]},
+     {prompt:"Why is it a good idea to think carefully before buying something you saw in an advertisement?", answers:["to make sure you really need it","to decide if it is a good choice","to avoid spending money on things you do not need"]}
+   ]},
+]},
+{day:73, label:"Day 73 — Wed", subjects:[
+  {subject:"Language", title:"Interjections: Showing Strong Feelings", summary:"Students learn that an interjection is a short word or phrase that expresses strong feeling, such as wow, oh no, or hooray, and is often followed by an exclamation mark.",
+   resourceLabel:"YouTube: Interjections: Showing Strong Feelings", resourceUrl:"https://www.youtube.com/results?search_query=Interjections%3A%20Showing%20Strong%20Feelings%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a short word or phrase that expresses strong feeling?", options:["A pronoun","An interjection","A preposition","A synonym"], answer:1},
+     {q:"Which of these is an example of an interjection?", options:["Under","Hooray","Quietly","Table"], answer:1},
+     {q:"What punctuation mark most often follows an interjection?", options:["A question mark","An exclamation mark","A comma","A period"], answer:1},
+     {q:"Which sentence begins with an interjection?", options:["Wow, that is a huge dinosaur!","A huge dinosaur is here.","That is a huge dinosaur.","Is that a huge dinosaur?"], answer:0},
+     {q:"Interjections are used in writing to ___.", options:["Connect two sentences together","Name a person or place","Show strong feelings like surprise or excitement","Show the location of an object"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a short word that expresses strong feeling, like wow?", answers:["an interjection","interjection"]},
+     {prompt:"What punctuation mark often follows an interjection?", answers:["an exclamation mark","exclamation mark","exclamation point"]},
+     {prompt:"Give one example of an interjection that shows excitement.", answers:["wow","hooray","yay","oh no","ouch"]}
+   ]},
+  {subject:"Math", title:"Multiplication Facts: 3s and 4s", summary:"Students learn and practice basic multiplication facts for the 3 times table and 4 times table, such as 3 times 4 equals 12.",
+   resourceLabel:"YouTube: Multiplication Facts: 3s and 4s", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%203s%20and%204s%20grade%202%20educational",
+   quiz:[
+     {q:"What is 3 times 4?", options:["14","10","12","16"], answer:2},
+     {q:"What is 4 times 5?", options:["20","16","24","18"], answer:0},
+     {q:"What is 3 times 6?", options:["15","21","18","12"], answer:2},
+     {q:"What is 4 times 4?", options:["20","16","14","12"], answer:1},
+     {q:"What is 3 times 7?", options:["20","21","18","24"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 3 times 4?", answers:["12"]},
+     {prompt:"What is 4 times 5?", answers:["20"]},
+     {prompt:"What is 3 times 6?", answers:["18"]}
+   ]},
+  {subject:"Science", title:"The Heart: Pumping Blood Through Our Body", summary:"Students learn that the heart is a muscle that pumps blood through the body, delivering oxygen and nutrients to every part, and that exercise helps keep the heart strong.",
+   resourceLabel:"YouTube: The Heart: Pumping Blood Through Our Body", resourceUrl:"https://www.youtube.com/results?search_query=The%20Heart%3A%20Pumping%20Blood%20Through%20Our%20Body%20grade%202%20educational",
+   quiz:[
+     {q:"What organ pumps blood through the body?", options:["The brain","The heart","The lungs","The stomach"], answer:1},
+     {q:"What does blood deliver to every part of the body?", options:["Only sound","Only water","Only air","Oxygen and nutrients"], answer:3},
+     {q:"Which of these activities helps keep the heart strong?", options:["Regular exercise","Skipping meals","Sitting still all day","Avoiding all movement"], answer:0},
+     {q:"The heart is made mostly of ___.", options:["Bone","Skin","Muscle","Hair"], answer:2},
+     {q:"Why is the heart an important organ?", options:["It pumps blood that carries oxygen through the body","It helps us hear","It helps us smell","It helps us see"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What organ pumps blood through the body?", answers:["the heart","heart"]},
+     {prompt:"What does blood deliver to every part of the body?", answers:["oxygen and nutrients","oxygen","nutrients"]},
+     {prompt:"Name one activity that helps keep the heart strong, like exercise.", answers:["exercise","running","playing sports","being active"]}
+   ]},
+  {subject:"SocialStudies", title:"Levels of Government: Town, Province, and Country", summary:"Students learn that Canada has three levels of government, municipal government that looks after a town or city, provincial government that looks after a province, and federal government that looks after the whole country.",
+   resourceLabel:"YouTube: Levels of Government: Town, Province, and Country", resourceUrl:"https://www.youtube.com/results?search_query=Levels%20of%20Government%3A%20Town%2C%20Province%2C%20and%20Country%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the level of government that looks after a town or city?", options:["Federal government","Provincial government","No government","Municipal government"], answer:3},
+     {q:"What do we call the level of government that looks after the whole country?", options:["Municipal government","Federal government","Town council only","Provincial government"], answer:1},
+     {q:"Which level of government looks after an entire province, like Ontario?", options:["School government","Municipal government","Provincial government","Federal government"], answer:2},
+     {q:"Which of these is usually a responsibility of a municipal government?", options:["The entire national defence","Choosing the countrywide currency","Local roads and garbage collection","Setting the whole country border"], answer:2},
+     {q:"Canada has how many main levels of government?", options:["Ten","One","Five","Three"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the level of government that looks after a town or city?", answers:["municipal government","municipal"]},
+     {prompt:"What do we call the level of government that looks after the whole country?", answers:["federal government","federal"]},
+     {prompt:"Name one thing a provincial government might be responsible for, like schools or highways.", answers:["schools","highways","hospitals"]}
+   ]},
+]},
+{day:74, label:"Day 74 — Thu", subjects:[
+  {subject:"Language", title:"Persuasive Writing: Convincing Your Reader", summary:"Students learn that persuasive writing tries to convince a reader to agree with an idea or take an action by giving strong reasons and using words like should or must.",
+   resourceLabel:"YouTube: Persuasive Writing: Convincing Your Reader", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Writing%3A%20Convincing%20Your%20Reader%20grade%202%20educational",
+   quiz:[
+     {q:"What is the main goal of persuasive writing?", options:["To tell what time it is","To list random facts","To describe a setting only","To convince the reader to agree with an idea"], answer:3},
+     {q:"Which sentence is an example of persuasive writing?", options:["Recycling bins are blue.","Paper comes from trees.","You should recycle to help protect the earth.","The earth is a planet."], answer:2},
+     {q:"Which word is commonly used in persuasive writing to urge the reader to act?", options:["Has","Should","Was","The"], answer:1},
+     {q:"A strong piece of persuasive writing includes ___.", options:["No opinion at all","Clear reasons that support the opinion of the writer","Only questions and no reasons","Random unrelated facts"], answer:1},
+     {q:"Why might a student write a persuasive letter to their school?", options:["To list the alphabet","To convince the school to make a positive change","To retell a story","To describe the weather"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the goal of persuasive writing?", answers:["to convince the reader","convince the reader","to persuade the reader"]},
+     {prompt:"Name one word often used in persuasive writing, like should or must.", answers:["should","must"]},
+     {prompt:"What should a persuasive writer give to support an idea?", answers:["strong reasons","reasons","a reason"]}
+   ]},
+  {subject:"Math", title:"Fractions of a Group: Sharing a Set of Objects", summary:"Students learn to find a fraction of a group of objects, such as finding one half of a group of 8 apples by splitting the group into two equal parts.",
+   resourceLabel:"YouTube: Fractions of a Group: Sharing a Set of Objects", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%20of%20a%20Group%3A%20Sharing%20a%20Set%20of%20Objects%20grade%202%20educational",
+   quiz:[
+     {q:"What is one half of a group of 8 apples?", options:["6","8","4","2"], answer:2},
+     {q:"What is one quarter of a group of 12 stickers?", options:["2","6","4","3"], answer:3},
+     {q:"If a group of 6 balloons is split into two equal parts, how many balloons are in each part?", options:["6","3","4","2"], answer:1},
+     {q:"What is one third of a group of 9 marbles?", options:["2","9","4","3"], answer:3},
+     {q:"To find a fraction of a group, we ___.", options:["Multiply the group by ten","Add one to the group","Ignore the group size","Split the group into equal parts"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is one half of a group of 8 apples?", answers:["4"]},
+     {prompt:"What is one quarter of a group of 12 stickers?", answers:["3"]},
+     {prompt:"If a group of 6 balloons is split into two equal parts, how many balloons are in each part?", answers:["3"]}
+   ]},
+  {subject:"Science", title:"How Our Body Digests Food", summary:"Students learn that digestion is the process the body uses to break down food into nutrients, starting in the mouth and continuing through the stomach and intestines.",
+   resourceLabel:"YouTube: How Our Body Digests Food", resourceUrl:"https://www.youtube.com/results?search_query=How%20Our%20Body%20Digests%20Food%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the process the body uses to break down food?", options:["Circulation","Reflection","Respiration","Digestion"], answer:3},
+     {q:"Where does digestion of food begin?", options:["The mouth","The lungs","The intestines","The stomach"], answer:0},
+     {q:"Which organ helps break down food after it leaves the mouth?", options:["The heart","The stomach","The lungs","The brain"], answer:1},
+     {q:"Why does our body need to digest food?", options:["To change food into water","To break it down into nutrients the body can use","To make food disappear completely","To stop the body from growing"], answer:1},
+     {q:"After food leaves the stomach, where does it travel next?", options:["The brain","The heart","The intestines","The lungs"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call the process the body uses to break down food?", answers:["digestion"]},
+     {prompt:"Where does digestion begin?", answers:["the mouth","mouth"]},
+     {prompt:"Name one organ that helps digest food, like the stomach.", answers:["the stomach","stomach","the intestines","intestines"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Holidays: Canada Day and Remembrance Day", summary:"Students learn about two important Canadian holidays: Canada Day on July 1st, which celebrates the birthday of Canada, and Remembrance Day on November 11th, when Canadians honour those who served in the armed forces.",
+   resourceLabel:"YouTube: Canadian Holidays: Canada Day and Remembrance Day", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Holidays%3A%20Canada%20Day%20and%20Remembrance%20Day%20grade%202%20educational",
+   quiz:[
+     {q:"On what date is Canada Day celebrated?", options:["January 1st","December 25th","July 1st","November 11th"], answer:2},
+     {q:"On what date is Remembrance Day observed?", options:["October 31st","September 1st","November 11th","July 1st"], answer:2},
+     {q:"What does Canada Day celebrate?", options:["The start of school","A famous hockey game","The end of winter","The birthday of Canada"], answer:3},
+     {q:"What symbol do many Canadians wear in November to honour those who served?", options:["A poppy","A maple leaf pin","A snowflake","A flag pin"], answer:0},
+     {q:"Why do communities across Canada hold ceremonies on Remembrance Day?", options:["To welcome the new school year","To celebrate a hockey championship","To celebrate a harvest festival","To honour and remember those who served the country"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"On what date is Canada Day celebrated?", answers:["july 1","july 1st"]},
+     {prompt:"On what date is Remembrance Day observed?", answers:["november 11","november 11th"]},
+     {prompt:"What symbol do Canadians often wear in November to honour those who served?", answers:["a poppy","poppy"]}
+   ]},
+]},
+{day:75, label:"Day 75 — Fri", subjects:[
+  {subject:"Language", title:"Nonfiction Text Features: Diagrams and Labels", summary:"Students learn that nonfiction books often include diagrams and labels, which are pictures with words pointing to specific parts, to help readers understand information more clearly.",
+   resourceLabel:"YouTube: Nonfiction Text Features: Diagrams and Labels", resourceUrl:"https://www.youtube.com/results?search_query=Nonfiction%20Text%20Features%3A%20Diagrams%20and%20Labels%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a picture with labels pointing to specific parts?", options:["A glossary","A diagram","A caption","A heading"], answer:1},
+     {q:"What do we call the words that point to and name parts of a diagram?", options:["Titles","Chapters","Rhymes","Labels"], answer:3},
+     {q:"Why do nonfiction books often include diagrams?", options:["To confuse the reader","To help readers understand information more clearly","To make the book longer","To replace all the words in a book"], answer:1},
+     {q:"Which of these would most likely include a labelled diagram?", options:["A fairy tale about a dragon","A birthday card","A nonfiction book about the parts of a plant","A poem about the moon"], answer:2},
+     {q:"A label on a diagram usually points to ___.", options:["The title of the book","The page number","A specific part being named","A random unrelated word"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a picture with labels pointing to specific parts?", answers:["a diagram","diagram"]},
+     {prompt:"What do we call the words that point to and name parts of a diagram?", answers:["labels","a label"]},
+     {prompt:"Why do nonfiction books use diagrams and labels?", answers:["to help readers understand information","to explain information clearly","to show information visually"]}
+   ]},
+  {subject:"Math", title:"Comparing Fractions: Which Is Greater", summary:"Students learn to compare simple fractions with the same denominator, such as comparing three quarters and one quarter, to decide which fraction represents a greater amount.",
+   resourceLabel:"YouTube: Comparing Fractions: Which Is Greater", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Fractions%3A%20Which%20Is%20Greater%20grade%202%20educational",
+   quiz:[
+     {q:"Which is greater, one half or one quarter?", options:["One half","Cannot tell","One quarter","They are equal"], answer:0},
+     {q:"Which is greater, three quarters or one quarter?", options:["They are equal","Three quarters","One quarter","Cannot tell"], answer:1},
+     {q:"When two fractions have the same denominator, which fraction is greater?", options:["The one written first","They are always equal","The one with the smaller numerator","The one with the larger numerator"], answer:3},
+     {q:"Which is greater, two thirds or one third?", options:["They are equal","One third","Cannot tell","Two thirds"], answer:3},
+     {q:"A fraction with a larger numerator and the same denominator represents ___.", options:["No amount at all","The same amount","A greater amount","A smaller amount"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which is greater, one half or one quarter?", answers:["one half"]},
+     {prompt:"Which is greater, three quarters or one quarter?", answers:["three quarters"]},
+     {prompt:"When two fractions have the same denominator, how do we know which is greater?", answers:["the one with the bigger numerator is greater","compare the numerators","the larger top number is greater"]}
+   ]},
+  {subject:"Science", title:"Types of Precipitation: Rain, Snow, Sleet, and Hail", summary:"Students learn that precipitation is water that falls from clouds in different forms, including rain, snow, sleet, and hail, depending on the temperature of the air.",
+   resourceLabel:"YouTube: Types of Precipitation: Rain, Snow, Sleet, and Hail", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Precipitation%3A%20Rain%2C%20Snow%2C%20Sleet%2C%20and%20Hail%20grade%202%20educational",
+   quiz:[
+     {q:"What word describes water that falls from clouds in different forms?", options:["Condensation","Evaporation","Pollination","Precipitation"], answer:3},
+     {q:"Which of these is a form of precipitation?", options:["A rainbow","Sunshine","Snow","Wind"], answer:2},
+     {q:"What usually causes precipitation to fall as snow instead of rain?", options:["Hot temperatures","Strong sunshine","No clouds at all","Cold temperatures"], answer:3},
+     {q:"Which type of precipitation falls as small balls of ice, often during a thunderstorm?", options:["Hail","Rain","Fog","Snow"], answer:0},
+     {q:"Precipitation is an important part of ___.", options:["The water cycle","The solar system","The rock cycle","The food chain"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes water that falls from clouds, such as rain or snow?", answers:["precipitation"]},
+     {prompt:"Name one form of precipitation that falls in cold winter weather.", answers:["snow","hail","sleet"]},
+     {prompt:"What usually causes water to fall as snow instead of rain?", answers:["cold air","cold temperatures","freezing temperatures"]}
+   ]},
+  {subject:"SocialStudies", title:"Family Heritage: Learning Where We Come From", summary:"Students learn that heritage means the traditions, language, and history passed down through a family, and that people can learn about their heritage by talking to relatives or looking at old photographs.",
+   resourceLabel:"YouTube: Family Heritage: Learning Where We Come From", resourceUrl:"https://www.youtube.com/results?search_query=Family%20Heritage%3A%20Learning%20Where%20We%20Come%20From%20grade%202%20educational",
+   quiz:[
+     {q:"What word describes the traditions, language, and history passed down through a family?", options:["Heritage","Government","Currency","Geography"], answer:0},
+     {q:"Which of these is a good way to learn about family heritage?", options:["Ignoring all family members","Talking with relatives about family stories","Only reading science books","Watching random cartoons"], answer:1},
+     {q:"Which of these could be part of a family heritage?", options:["A rule made up on the spot","A special recipe passed down for generations","A stranger encountered yesterday","A brand new invention with no history"], answer:1},
+     {q:"Why might someone look at old family photographs?", options:["To learn about outer space","To learn how to cook","To learn a new sport","To learn about family history and heritage"], answer:3},
+     {q:"Learning about family heritage helps a person understand ___.", options:["Where their family traditions and history come from","How to measure length","How to tell time","How to build a house"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes the traditions, language, and history passed down through a family?", answers:["heritage"]},
+     {prompt:"Name one way a person could learn about their family heritage, like talking to relatives.", answers:["talking to relatives","asking relatives","looking at old photographs"]},
+     {prompt:"Name one thing that might be part of a family heritage, like a language or a recipe.", answers:["a language","language","a recipe","recipe","a tradition","tradition"]}
+   ]},
+]},
+{day:76, label:"Day 76 — Mon", subjects:[
+  {subject:"Language", title:"Making Connections: Text to Self", summary:"Students learn to make text-to-self connections by relating events or feelings in a story to their own life experiences, which helps deepen understanding of what they read.",
+   resourceLabel:"YouTube: Making Connections: Text to Self", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Connections%3A%20Text%20to%20Self%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call connecting a story to something in your own life?", options:["A caption","A rhyme","A summary","A text-to-self connection"], answer:3},
+     {q:"Why might a reader make a text-to-self connection while reading?", options:["It removes all the pictures","It changes the ending of the story","It helps them understand the story more deeply","It makes the book disappear"], answer:2},
+     {q:"Which is an example of a text-to-self connection?", options:["This book was written by a famous author.","This book has ten chapters.","This book has a red cover.","This story reminds me of the time I lost my favourite toy."], answer:3},
+     {q:"Making connections while reading can help a reader ___.", options:["Read more slowly with no purpose","Skip the whole book","Understand and remember a story better","Forget the story completely"], answer:2},
+     {q:"A text-to-self connection links a story to ___.", options:["Something the reader has experienced in their own life","The title of another book","A math equation","A map of the world"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call connecting a story to something in your own life?", answers:["a text-to-self connection","text-to-self connection"]},
+     {prompt:"Why do readers make text-to-self connections?", answers:["to understand the story better","to deepen understanding","it helps understanding"]},
+     {prompt:"Name one thing a reader might connect a story to, like a memory or a feeling.", answers:["a memory","a feeling","an experience"]}
+   ]},
+  {subject:"Math", title:"Faces, Edges, and Vertices of 3D Shapes", summary:"Students learn to identify and count the flat faces, straight edges, and pointed vertices of three-dimensional shapes, such as cubes and pyramids.",
+   resourceLabel:"YouTube: Faces, Edges, and Vertices of 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Faces%2C%20Edges%2C%20and%20Vertices%20of%203D%20Shapes%20grade%202%20educational",
+   quiz:[
+     {q:"How many faces does a cube have?", options:["12","6","8","4"], answer:1},
+     {q:"What do we call the corner point where edges of a 3D shape meet?", options:["A base","A face","An edge","A vertex"], answer:3},
+     {q:"How many edges does a cube have?", options:["6","12","10","8"], answer:1},
+     {q:"What do we call a flat surface on a 3D shape?", options:["A face","An edge","A line","A vertex"], answer:0},
+     {q:"How many vertices does a cube have?", options:["6","12","8","4"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How many faces does a cube have?", answers:["6"]},
+     {prompt:"What do we call the corner point where edges of a 3D shape meet?", answers:["a vertex","vertex","corner"]},
+     {prompt:"How many edges does a cube have?", answers:["12"]}
+   ]},
+  {subject:"Science", title:"Stars and Constellations", summary:"Students learn that stars are giant balls of hot gas that give off their own light, and that a constellation is a group of stars that forms a pattern in the night sky.",
+   resourceLabel:"YouTube: Stars and Constellations", resourceUrl:"https://www.youtube.com/results?search_query=Stars%20and%20Constellations%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a giant ball of hot gas that gives off its own light in space?", options:["A star","A moon","A planet","A comet"], answer:0},
+     {q:"What do we call a group of stars that forms a pattern in the night sky?", options:["A constellation","An orbit","A galaxy","An eclipse"], answer:0},
+     {q:"Which of these is an example of a constellation?", options:["Earth","The moon","The sun","The Big Dipper"], answer:3},
+     {q:"Stars appear to twinkle in the night sky because ___.", options:["Their light travels through moving air in our atmosphere","They are actually moving very slowly across the sky","They are very close to Earth","They turn on and off"], answer:0},
+     {q:"When is it easiest to see stars in the sky?", options:["During a thunderstorm","At noon on a sunny day","At night, away from bright city lights","Only in the summer"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a giant ball of hot gas that gives off its own light in space?", answers:["a star","star"]},
+     {prompt:"What do we call a group of stars that forms a pattern in the sky?", answers:["a constellation","constellation"]},
+     {prompt:"Name one famous constellation, like the Big Dipper.", answers:["the big dipper","big dipper","orion"]}
+   ]},
+  {subject:"SocialStudies", title:"Famous Landmarks Around the World", summary:"Students learn about famous landmarks from other countries, such as the Eiffel Tower in France and the Great Wall in China, and how landmarks help people recognize and remember a place.",
+   resourceLabel:"YouTube: Famous Landmarks Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Famous%20Landmarks%20Around%20the%20World%20grade%202%20educational",
+   quiz:[
+     {q:"In which country would you find the Eiffel Tower?", options:["Canada","France","Egypt","China"], answer:1},
+     {q:"In which country would you find the Great Wall?", options:["Egypt","China","Canada","France"], answer:1},
+     {q:"What do we call a well-known structure or place that helps people recognize a location?", options:["A government","A province","A landmark","A currency"], answer:2},
+     {q:"Why are famous landmarks important to a country?", options:["They have no meaning at all","They stop tourists from visiting","They help represent the culture and history of a place","They are only used for parking"], answer:2},
+     {q:"Which of these is an example of a famous landmark?", options:["A random empty field","An ordinary street sign","The Great Wall","A plain brick wall"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"In which country would you find the Eiffel Tower?", answers:["france"]},
+     {prompt:"In which country would you find the Great Wall?", answers:["china"]},
+     {prompt:"What do we call a well-known structure or place that helps people recognize a location?", answers:["a landmark","landmark"]}
+   ]},
+]},
+{day:77, label:"Day 77 — Tue", subjects:[
+  {subject:"Language", title:"Summarizing a Story in a Few Sentences", summary:"Students learn to summarize a story by telling the most important events in just a few sentences, leaving out small details that are not essential to the main plot.",
+   resourceLabel:"YouTube: Summarizing a Story in a Few Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Summarizing%20a%20Story%20in%20a%20Few%20Sentences%20grade%202%20educational",
+   quiz:[
+     {q:"What does it mean to summarize a story?", options:["To tell the most important events in a few sentences","To draw a picture instead of writing","To read the story out loud","To copy the whole story word for word"], answer:0},
+     {q:"A good summary should include ___.", options:["Only the most important events","Every single detail from the story","No events at all","Only the title of the story"], answer:0},
+     {q:"Which of these is closest to a summary of a story about a lost dog?", options:["A dog gets lost, a family searches, and they find the dog.","Dogs are mammals with four legs.","The author lives in Ontario.","The cover of the book is blue."], answer:0},
+     {q:"Why might a student summarize a chapter before starting a new one?", options:["To make the chapter longer","To change the ending","To remember what happened so far","To forget the story completely"], answer:2},
+     {q:"A summary is usually ___ than the original story.", options:["Exactly the same length","Written only in pictures","Much shorter","Much longer"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to summarize a story?", answers:["to tell the most important events in a few sentences","to tell the main events briefly","retelling the main events shortly"]},
+     {prompt:"Should a summary include every small detail or just the most important events?", answers:["the most important events","just the most important events"]},
+     {prompt:"Why is summarizing a story a useful skill?", answers:["it helps readers remember the main events","it helps understanding","to check understanding of the story"]}
+   ]},
+  {subject:"Math", title:"Quarter Past and Quarter To: Telling Time in Detail", summary:"Students learn to read clocks that show quarter past the hour, when the minute hand points to the 3, and quarter to the hour, when the minute hand points to the 9.",
+   resourceLabel:"YouTube: Quarter Past and Quarter To: Telling Time in Detail", resourceUrl:"https://www.youtube.com/results?search_query=Quarter%20Past%20and%20Quarter%20To%3A%20Telling%20Time%20in%20Detail%20grade%202%20educational",
+   quiz:[
+     {q:"When the minute hand points to the 3, what time is it, quarter past or quarter to the hour?", options:["Quarter past","Half past","Quarter to","On the hour"], answer:0},
+     {q:"When the minute hand points to the 9, what time is it?", options:["On the hour","Half past the hour","Quarter past the hour","Quarter to the next hour"], answer:3},
+     {q:"How many minutes are in a quarter of an hour?", options:["30","15","10","45"], answer:1},
+     {q:"If it is quarter past 4, where does the minute hand point?", options:["The 12","The 6","The 9","The 3"], answer:3},
+     {q:"If it is quarter to 5, how many minutes remain until the hour of 5?", options:["15","45","30","10"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"When the minute hand points to the 3, what do we call that time, quarter past or quarter to?", answers:["quarter past"]},
+     {prompt:"When the minute hand points to the 9, what do we call that time?", answers:["quarter to"]},
+     {prompt:"How many minutes are in a quarter of an hour?", answers:["15"]}
+   ]},
+  {subject:"Science", title:"Animal Life Spans: How Long Animals Live", summary:"Students learn that different animals have different life spans, the length of time they typically live, such as a mouse living only a few years while a tortoise can live over one hundred years.",
+   resourceLabel:"YouTube: Animal Life Spans: How Long Animals Live", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Life%20Spans%3A%20How%20Long%20Animals%20Live%20grade%202%20educational",
+   quiz:[
+     {q:"What word describes the length of time an animal typically lives?", options:["Camouflage","Migration","Habitat","Life span"], answer:3},
+     {q:"Which of these animals is known for having a very long life span?", options:["A mayfly","A housefly","A tortoise","A mouse"], answer:2},
+     {q:"Does a small mouse usually have a longer or shorter life span than a large tortoise?", options:["Longer","Exactly the same","Shorter","Mice do not have a life span"], answer:2},
+     {q:"Which of these could affect how long an animal lives?", options:["The colour of the sky","The season only","The day of the week","Its size, habitat, and species"], answer:3},
+     {q:"Learning about animal life spans helps scientists understand ___.", options:["How long different animals typically live","How to tell time","How to build a house","How to bake bread"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes the length of time an animal typically lives?", answers:["life span","a life span"]},
+     {prompt:"Name one animal that has a very long life span, like a tortoise.", answers:["a tortoise","tortoise","an elephant","elephant"]},
+     {prompt:"Does a mouse usually have a longer or shorter life span than a tortoise?", answers:["shorter"]}
+   ]},
+  {subject:"SocialStudies", title:"Reading a Map Legend: Symbols and Keys", summary:"Students learn that a map legend, also called a key, explains what the symbols and colours on a map represent, such as a blue line for a river or a green square for a park.",
+   resourceLabel:"YouTube: Reading a Map Legend: Symbols and Keys", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20a%20Map%20Legend%3A%20Symbols%20and%20Keys%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the part of a map that explains what symbols and colours represent?", options:["A border","A scale","A legend","A compass"], answer:2},
+     {q:"What might a blue line on a map most likely represent?", options:["A road","A desert","A mountain","A river or body of water"], answer:3},
+     {q:"Why is a map legend useful to someone reading a map?", options:["It changes the size of the map","It explains what the symbols and colours mean","It tells you the time of day","It removes all symbols from the map"], answer:1},
+     {q:"If a map legend shows a green square means a park, what does a green square on the map represent?", options:["A park","A school","A river","A hospital"], answer:0},
+     {q:"A map legend is also sometimes called a ___.", options:["Key","Border","Compass rose","Scale bar"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the part of a map that explains what symbols and colours represent?", answers:["a legend","legend","a key","key"]},
+     {prompt:"What might a blue line on a map represent?", answers:["a river","river","water"]},
+     {prompt:"Why is a map legend useful?", answers:["it explains what the symbols mean","it helps readers understand the map","to understand map symbols"]}
+   ]},
+]},
+{day:78, label:"Day 78 — Wed", subjects:[
+  {subject:"Language", title:"Editing Your Writing: Checking for Mistakes", summary:"Students learn that editing means rereading their writing to check for and fix mistakes in spelling, punctuation, and capital letters before sharing a finished piece.",
+   resourceLabel:"YouTube: Editing Your Writing: Checking for Mistakes", resourceUrl:"https://www.youtube.com/results?search_query=Editing%20Your%20Writing%3A%20Checking%20for%20Mistakes%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call rereading writing to check for and fix mistakes?", options:["Editing","Skipping","Illustrating","Publishing"], answer:0},
+     {q:"Which of these is something a writer checks for while editing?", options:["Spelling and punctuation","The size of the desk","The colour of the paper","The time of day"], answer:0},
+     {q:"When should editing usually happen during the writing process?", options:["After a first draft is written, before sharing the final piece","Never, editing is not needed","Before any writing begins","Only after the piece is published"], answer:0},
+     {q:"Which sentence needs editing because of a capitalization mistake?", options:["my dog likes to run in the park.","She has a small dog.","The dog ran fast.","My dog likes to run in the park."], answer:0},
+     {q:"Editing helps a writer ___.", options:["Ignore spelling completely","Add random mistakes on purpose","Erase the whole piece of writing","Make their writing clearer and more correct"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call rereading writing to check for and fix mistakes?", answers:["editing","edit"]},
+     {prompt:"Name one thing a writer checks for while editing, like spelling or punctuation.", answers:["spelling","punctuation","capital letters"]},
+     {prompt:"Why is editing an important step in writing?", answers:["to fix mistakes","to make writing clearer","it helps writing become clearer"]}
+   ]},
+  {subject:"Math", title:"Estimating Sums and Differences", summary:"Students learn to estimate a sum or difference by rounding numbers before adding or subtracting, which gives a quick, reasonable answer without exact calculation.",
+   resourceLabel:"YouTube: Estimating Sums and Differences", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%20Sums%20and%20Differences%20grade%202%20educational",
+   quiz:[
+     {q:"What do we do to numbers before estimating a sum?", options:["Divide them in half","Multiply them by ten","Round them to a nearby ten","Ignore them completely"], answer:2},
+     {q:"Estimate the sum of 42 and 39 by rounding each to the nearest ten first.", options:["60","70","80","90"], answer:2},
+     {q:"Estimate the difference of 81 and 19 by rounding each to the nearest ten first.", options:["60","40","70","50"], answer:0},
+     {q:"Why might someone estimate before solving an exact math problem?", options:["To quickly check if the exact answer seems reasonable","To make the problem harder","To avoid all math forever","To get a random answer"], answer:0},
+     {q:"An estimate is ___.", options:["Never useful in math","Always the exact answer","Always wrong","A close, reasonable answer found by rounding"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we do to numbers before estimating a sum?", answers:["round them","round the numbers"]},
+     {prompt:"Estimate the sum of 42 and 39 by rounding each to the nearest ten first.", answers:["80"]},
+     {prompt:"Why is estimating a useful skill?", answers:["it gives a quick reasonable answer","to check if an exact answer makes sense","it helps check work quickly"]}
+   ]},
+  {subject:"Science", title:"Renewable and Nonrenewable Energy Sources", summary:"Students learn that renewable energy sources, like sunlight and wind, can be used again and again without running out, while nonrenewable energy sources, like coal and oil, take millions of years to form and can run out.",
+   resourceLabel:"YouTube: Renewable and Nonrenewable Energy Sources", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20and%20Nonrenewable%20Energy%20Sources%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these is a renewable energy source?", options:["Coal","Sunlight","Natural gas","Oil"], answer:1},
+     {q:"Which of these is a nonrenewable energy source?", options:["Water","Wind","Coal","Sunlight"], answer:2},
+     {q:"What does it mean for an energy source to be renewable?", options:["It takes millions of years to form","It runs out after one use","It cannot be used at all","It can be used again and again without running out"], answer:3},
+     {q:"Why do many scientists encourage using more renewable energy?", options:["Because it is always more expensive","Because it never produces any energy","Because it is illegal to use nonrenewable energy","Because it will not run out like nonrenewable sources can"], answer:3},
+     {q:"Wind turbines and solar panels are used to capture ___.", options:["Renewable energy from wind and sunlight","Energy from ocean salt only","Nonrenewable energy from coal","Energy from underground oil"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one renewable energy source, like the sun or wind.", answers:["the sun","sun","wind","water"]},
+     {prompt:"Name one nonrenewable energy source, like coal or oil.", answers:["coal","oil"]},
+     {prompt:"Which type of energy source can run out, renewable or nonrenewable?", answers:["nonrenewable"]}
+   ]},
+  {subject:"SocialStudies", title:"Fair Play: Following Rules When We Play", summary:"Students learn that fair play means following the rules of a game, taking turns, and treating others with respect, whether a team wins or loses.",
+   resourceLabel:"YouTube: Fair Play: Following Rules When We Play", resourceUrl:"https://www.youtube.com/results?search_query=Fair%20Play%3A%20Following%20Rules%20When%20We%20Play%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call following the rules of a game and treating others with respect?", options:["Fair play","Arguing","Cheating","Ignoring the rules"], answer:0},
+     {q:"Which of these is an example of fair play?", options:["Cheating to win","Yelling at teammates","Breaking the rules on purpose","Taking turns and following the rules"], answer:3},
+     {q:"How should players treat each other after a game, whether they win or lose?", options:["With respect and good sportsmanship","By ignoring the other team","By breaking the rules","With anger"], answer:0},
+     {q:"Why is fair play important in games and sports?", options:["It lets one team cheat","It helps everyone enjoy the game and be treated fairly","It makes the game longer","It stops anyone from playing"], answer:1},
+     {q:"Which of these shows good sportsmanship after losing a game?", options:["Blaming a teammate unfairly","Breaking the game equipment","Yelling and refusing to shake hands","Congratulating the other team"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call following the rules of a game and treating others with respect?", answers:["fair play"]},
+     {prompt:"Name one example of fair play, like taking turns.", answers:["taking turns","following the rules","sharing"]},
+     {prompt:"How should players treat each other whether their team wins or loses?", answers:["with respect","fairly","kindly"]}
+   ]},
+]},
+{day:79, label:"Day 79 — Thu", subjects:[
+  {subject:"Language", title:"Word Choice: How Writers Choose Strong Words", summary:"Students learn that writers choose strong, specific words on purpose, such as replacing happy with thrilled, to create a clearer picture and stronger feeling for the reader.",
+   resourceLabel:"YouTube: Word Choice: How Writers Choose Strong Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Choice%3A%20How%20Writers%20Choose%20Strong%20Words%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call the specific words a writer chooses on purpose to create an effect?", options:["A title","Punctuation","Word choice","A caption"], answer:2},
+     {q:"Which word is a stronger, more specific choice than the word happy?", options:["Fine","Thrilled","Nice","Good"], answer:1},
+     {q:"Why might a writer replace the word big with enormous?", options:["To remove all meaning","To make the word shorter","To make the sentence confusing","To create a stronger, clearer picture for the reader"], answer:3},
+     {q:"Which sentence uses the strongest word choice?", options:["The dinosaur moved.","The big dinosaur walked.","A dinosaur was there.","The enormous dinosaur stomped through the forest."], answer:3},
+     {q:"Strong word choice helps writing become ___.", options:["Harder to understand","Completely silent","More vivid and interesting for the reader","Shorter than a single word"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call the specific words a writer chooses on purpose?", answers:["word choice"]},
+     {prompt:"Which is a stronger word choice than happy: glad or thrilled?", answers:["thrilled"]},
+     {prompt:"Why do writers choose strong, specific words?", answers:["to create a clearer picture","to make writing more interesting","to give the reader a stronger feeling"]}
+   ]},
+  {subject:"Math", title:"Venn Diagrams: Sorting Objects by Attributes", summary:"Students learn to use a Venn diagram, two overlapping circles, to sort objects by shared and different attributes, placing items that share both attributes in the overlapping middle section.",
+   resourceLabel:"YouTube: Venn Diagrams: Sorting Objects by Attributes", resourceUrl:"https://www.youtube.com/results?search_query=Venn%20Diagrams%3A%20Sorting%20Objects%20by%20Attributes%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a diagram with two overlapping circles used to sort objects?", options:["A Venn diagram","A bar graph","A line plot","A tally chart"], answer:0},
+     {q:"Where do we place an object that shares both attributes in a Venn diagram?", options:["Only in the left circle","In the overlapping middle section","Only in the right circle","Outside both circles"], answer:1},
+     {q:"Which of these could be an attribute used to sort shapes in a Venn diagram?", options:["The weather today","The time of day","Number of sides","A favourite song"], answer:2},
+     {q:"If a shape is red and has four sides, and the circles show red shapes and four-sided shapes, where does it go?", options:["Only in the red circle","Only in the four-sided circle","In the overlapping middle section","Outside both circles"], answer:2},
+     {q:"A Venn diagram helps us understand ___.", options:["How to add two numbers","How to measure temperature","How to tell time","How groups of objects are similar and different"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call a diagram with two overlapping circles used to sort objects?", answers:["a venn diagram","venn diagram"]},
+     {prompt:"Where do we place an object that fits into both circles of a Venn diagram?", answers:["in the overlapping middle section","the middle","in the middle"]},
+     {prompt:"Name one attribute we might use to sort shapes in a Venn diagram, like colour or number of sides.", answers:["colour","number of sides","shape","size"]}
+   ]},
+  {subject:"Science", title:"Scientific Method: Asking Questions and Testing Ideas", summary:"Students learn that scientists use the scientific method, a set of steps that includes asking a question, making a prediction, testing the idea, and recording what happens, to learn about the world.",
+   resourceLabel:"YouTube: Scientific Method: Asking Questions and Testing Ideas", resourceUrl:"https://www.youtube.com/results?search_query=Scientific%20Method%3A%20Asking%20Questions%20and%20Testing%20Ideas%20grade%202%20educational",
+   quiz:[
+     {q:"What is usually the first step of the scientific method?", options:["Building a robot","Recording results","Skipping the test","Asking a question"], answer:3},
+     {q:"What do we call the guess a scientist makes about what will happen before testing an idea?", options:["A constellation","A habitat","A fossil","A prediction"], answer:3},
+     {q:"Why do scientists test their ideas?", options:["To skip recording results","To see if their prediction was correct","To avoid learning anything new","To make the question disappear"], answer:1},
+     {q:"Why is it important for scientists to record what happens during a test?", options:["So no one else can see the results","So they can remember and learn from the results","So they can forget the test happened","So the test becomes a secret"], answer:1},
+     {q:"Using the scientific method helps scientists ___.", options:["Ignore what they observe","Guess randomly with no testing","Avoid asking any questions","Learn about the world in a careful, organized way"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the first step of the scientific method, before testing an idea?", answers:["asking a question","ask a question"]},
+     {prompt:"What do we call the guess a scientist makes about what will happen before testing an idea?", answers:["a prediction","prediction"]},
+     {prompt:"Why do scientists record what happens during a test?", answers:["to remember the results","to see what happened","to learn from the results"]}
+   ]},
+  {subject:"SocialStudies", title:"How People Told Time Before Clocks and Watches", summary:"Students learn that before mechanical clocks and watches were common, people told time using tools like sundials, which used the position of the sun shadow, and hourglasses filled with falling sand.",
+   resourceLabel:"YouTube: How People Told Time Before Clocks and Watches", resourceUrl:"https://www.youtube.com/results?search_query=How%20People%20Told%20Time%20Before%20Clocks%20and%20Watches%20grade%202%20educational",
+   quiz:[
+     {q:"What tool used the position of a shadow from the sun to tell time?", options:["A thermometer","A sundial","A compass","A calendar"], answer:1},
+     {q:"What tool used falling sand to measure time?", options:["A globe","An hourglass","A map","A sundial"], answer:1},
+     {q:"Why did a sundial stop working well at night?", options:["Clocks needed batteries","The moon was too bright","Sand ran out","There was no sunlight to make a shadow"], answer:3},
+     {q:"Before alarm clocks, what natural event often helped people know it was time to wake up?", options:["The sunrise","A thunderstorm","A rainbow","A full moon"], answer:0},
+     {q:"Learning about tools like sundials and hourglasses helps us understand ___.", options:["How to travel by airplane","How to build a computer","How to grow food","How people measured time long ago before modern clocks"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What tool used the position of a shadow from the sun to tell time?", answers:["a sundial","sundial"]},
+     {prompt:"What tool used falling sand to measure time?", answers:["an hourglass","hourglass"]},
+     {prompt:"Name one way people long ago knew it was time to wake up without an alarm clock, like the sunrise.", answers:["the sunrise","sunrise","a rooster crowing","rooster crowing"]}
+   ]},
+]},
+{day:80, label:"Day 80 — Fri", subjects:[
+  {subject:"Language", title:"Final Review: Language Skills (Days 71-79)", summary:"Students review Language skills from Days 71 to 79: similes, prepositions, interjections, persuasive writing, nonfiction text features, making connections, summarizing, editing, and word choice.",
+   resourceLabel:"YouTube: Final Review: Language Skills (Days 71-79)", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20%28Days%2071-79%29%20grade%202%20educational",
+   quiz:[
+     {q:"What do we call a phrase that compares two things using like or as?", options:["A caption","A synonym","A simile","An antonym"], answer:2},
+     {q:"What do we call a word that shows the position of one thing compared to another?", options:["A verb","A pronoun","A preposition","An adjective"], answer:2},
+     {q:"What do we call a short word or phrase that expresses strong feeling?", options:["A synonym","An interjection","A pronoun","A preposition"], answer:1},
+     {q:"What is the main goal of persuasive writing?", options:["To tell what time it is","To convince the reader to agree with an idea","To list random facts","To describe a setting only"], answer:1},
+     {q:"What do we call rereading writing to check for and fix mistakes?", options:["Illustrating","Skipping","Editing","Publishing"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a phrase that compares two things using like or as?", answers:["a simile","simile"]},
+     {prompt:"What do we call a word that shows the position of one thing compared to another, like under or beside?", answers:["a preposition","preposition"]},
+     {prompt:"What do we call rereading writing to check for and fix mistakes?", answers:["editing","edit"]}
+   ]},
+  {subject:"Math", title:"Final Review: Math Skills (Days 71-79)", summary:"Students review Math skills from Days 71 to 79: three-digit addition and subtraction with regrouping, multiplication facts for 3s and 4s, fractions of a group, comparing fractions, 3D shape attributes, quarter past and quarter to, estimating sums and differences, and Venn diagrams.",
+   resourceLabel:"YouTube: Final Review: Math Skills (Days 71-79)", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20%28Days%2071-79%29%20grade%202%20educational",
+   quiz:[
+     {q:"What is 236 + 148?", options:["374","394","384","284"], answer:2},
+     {q:"What is 342 - 158?", options:["184","284","174","194"], answer:0},
+     {q:"What is 3 times 4?", options:["10","16","12","14"], answer:2},
+     {q:"Which is greater, one half or one quarter?", options:["They are equal","One half","One quarter","Cannot tell"], answer:1},
+     {q:"How many faces does a cube have?", options:["12","6","8","4"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 236 + 148?", answers:["384"]},
+     {prompt:"What is 3 times 4?", answers:["12"]},
+     {prompt:"How many faces does a cube have?", answers:["6"]}
+   ]},
+  {subject:"Science", title:"Final Review: Science Skills (Days 71-79)", summary:"Students review Science topics from Days 71 to 79: parts of a plant, levers, the heart, digestion, precipitation, stars and constellations, animal life spans, renewable and nonrenewable energy, and the scientific method.",
+   resourceLabel:"YouTube: Final Review: Science Skills (Days 71-79)", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20%28Days%2071-79%29%20grade%202%20educational",
+   quiz:[
+     {q:"Which part of a plant absorbs water from the soil?", options:["The leaves","The roots","The flower","The stem"], answer:1},
+     {q:"What do we call the fixed point that a lever rests on?", options:["A pulley","A fulcrum","An axle","A wedge"], answer:1},
+     {q:"What organ pumps blood through the body?", options:["The lungs","The heart","The brain","The stomach"], answer:1},
+     {q:"What word describes water that falls from clouds in different forms?", options:["Condensation","Evaporation","Pollination","Precipitation"], answer:3},
+     {q:"What do we call a group of stars that forms a pattern in the night sky?", options:["A constellation","An eclipse","A galaxy","An orbit"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Which part of a plant absorbs water from the soil?", answers:["the roots","roots"]},
+     {prompt:"What organ pumps blood through the body?", answers:["the heart","heart"]},
+     {prompt:"What word describes water that falls from clouds in different forms?", answers:["precipitation"]}
+   ]},
+  {subject:"SocialStudies", title:"Final Review: Social Studies Skills (Days 71-79)", summary:"Students review Social Studies topics from Days 71 to 79: where products come from, advertising, levels of government, Canadian holidays, family heritage, world landmarks, map legends, fair play, and how people told time long ago.",
+   resourceLabel:"YouTube: Final Review: Social Studies Skills (Days 71-79)", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20%28Days%2071-79%29%20grade%202%20educational",
+   quiz:[
+     {q:"Where are many clothes and toys made before they reach a store?", options:["A lake","A forest","A farm only","A factory"], answer:3},
+     {q:"What do we call a message created by a company to convince people to buy a product?", options:["A weather report","A biography","A map","An advertisement"], answer:3},
+     {q:"What do we call the level of government that looks after a town or city?", options:["Municipal government","No government","Provincial government","Federal government"], answer:0},
+     {q:"On what date is Canada Day celebrated?", options:["December 25th","January 1st","November 11th","July 1st"], answer:3},
+     {q:"What do we call the part of a map that explains what symbols and colours represent?", options:["A legend","A scale","A border","A compass"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where are many clothes and toys made before they reach a store?", answers:["a factory","factory","factories"]},
+     {prompt:"What do we call the level of government that looks after a town or city?", answers:["municipal government","municipal"]},
+     {prompt:"On what date is Canada Day celebrated?", answers:["july 1","july 1st"]}
+   ]},
+]},
 ];
 
 export default curriculum;
