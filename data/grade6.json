@@ -17026,5 +17026,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Adverbs and Adverbial Phrases",
+        "summary": "Grade 6 Language strand: an adverb modifies a verb, adjective, or other adverb, often telling how, when, where, or to what extent something happens, and an adverbial phrase is a group of words serving the same function.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "An adverb typically modifies a ___.",
+            "options": [
+              "Noun or pronoun only",
+              "Punctuation mark",
+              "A concept unrelated to adverbs",
+              "Verb, adjective, or other adverb"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word in the sentence “She sang beautifully” is the adverb?",
+            "options": [
+              "Beautifully",
+              "Sang",
+              "A word unrelated to this sentence",
+              "She"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these adverbial phrases tells when an action happened?",
+            "options": [
+              "Very quickly",
+              "After the bell rang",
+              "A phrase unrelated to adverbial phrases",
+              "Under the table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Many adverbs are formed by adding which suffix to an adjective?",
+            "options": [
+              "-est",
+              "-ly",
+              "A suffix unrelated to forming adverbs",
+              "-ing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use an adverb such as “cautiously” instead of just “walked”?",
+            "options": [
+              "A reason unrelated to adverbs",
+              "Adverbs can only describe nouns, never actions",
+              "Adverbs never add any detail to a sentence",
+              "It adds detail about how an action was performed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying and Dividing Decimals by Powers of Ten",
+        "summary": "Grade 6 Math strand: multiplying a decimal by a power of ten moves the decimal point to the right, while dividing by a power of ten moves the decimal point to the left, with the number of places matching the power’s exponent.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When you multiply a decimal by 10, the decimal point moves ___.",
+            "options": [
+              "A direction unrelated to multiplying by ten",
+              "One place to the left",
+              "One place to the right",
+              "Two places to the right"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3.42 × 100?",
+            "options": [
+              "34.2",
+              "A value unrelated to the calculation",
+              "342",
+              "3420"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 56.7 ÷ 10?",
+            "options": [
+              "0.567",
+              "A value unrelated to the calculation",
+              "5.67",
+              "567"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 0.08 × 1000?",
+            "options": [
+              "8",
+              "800",
+              "80",
+              "A value unrelated to the calculation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to recognize the pattern of moving the decimal point when multiplying or dividing by powers of ten?",
+            "options": [
+              "It allows quick mental calculations without long multiplication or division",
+              "A reason unrelated to place value",
+              "Powers of ten have no effect on decimal numbers",
+              "This pattern never applies to decimal numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Digestive System and Nutrient Absorption",
+        "summary": "Grade 6 Science strand: the digestive system breaks down food into nutrients that the body can absorb and use for energy, growth, and repair, through organs including the stomach, small intestine, and large intestine.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main purpose of the digestive system is to ___.",
+            "options": [
+              "Filter air before it reaches the lungs",
+              "A concept unrelated to the digestive system",
+              "Break down food into nutrients the body can absorb and use",
+              "Pump blood throughout the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organ mixes food with acid to begin breaking down proteins?",
+            "options": [
+              "The lungs",
+              "An organ unrelated to digestion",
+              "The stomach",
+              "The heart"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Most nutrient absorption into the bloodstream happens in the ___.",
+            "options": [
+              "Large intestine",
+              "An organ unrelated to nutrient absorption",
+              "Esophagus",
+              "Small intestine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main role of the large intestine in digestion?",
+            "options": [
+              "Absorbing water and forming solid waste",
+              "A role unrelated to the large intestine",
+              "Breaking down proteins with acid",
+              "Pumping digested food to the heart"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the body need to break large food molecules into smaller nutrients during digestion?",
+            "options": [
+              "Large food molecules are already able to enter cells directly",
+              "Smaller nutrient molecules can pass into the bloodstream and be used by cells",
+              "A reason unrelated to digestion",
+              "Breaking down food serves no useful purpose for the body"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The War of 1812: Defending British North America",
+        "summary": "Grade 6 Social Studies strand: the War of 1812 was fought between the United States and Britain (including its colonies in British North America), and its outcome helped shape a distinct identity for the colonies that would later become Canada.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The War of 1812 was fought primarily between Britain (with its colonies) and ___.",
+            "options": [
+              "The United States",
+              "A country unrelated to the War of 1812",
+              "Spain",
+              "France"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The War of 1812 took place in and around which region?",
+            "options": [
+              "The Caribbean islands exclusively",
+              "Continental Europe",
+              "A region unrelated to the War of 1812",
+              "British North America (including present-day Ontario and Quebec)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which group, alongside British soldiers and colonial militia, played an important role in defending British North America during the war?",
+            "options": [
+              "Volunteers from countries outside North America only",
+              "A group unrelated to the War of 1812",
+              "No additional groups were involved in the defence",
+              "Indigenous allies, such as those led by Tecumseh"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the War of 1812 often seen as important to the development of a Canadian identity?",
+            "options": [
+              "Successfully defending the colonies helped foster pride and a sense of shared identity",
+              "A reason unrelated to Canadian history",
+              "The war had no effect on the colonies’ sense of identity",
+              "The colonies were conquered and lost all self-governance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was one major outcome of the War of 1812?",
+            "options": [
+              "Britain lost control of all its remaining North American colonies",
+              "A concept unrelated to the war’s outcome",
+              "The United States permanently annexed all of British North America",
+              "Borders between British North America and the United States remained largely unchanged"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Procedural Writing — How-To Texts",
+        "summary": "Grade 6 Language strand: procedural writing gives step-by-step instructions for completing a task, typically using a list of materials, sequential steps, and clear, imperative verbs.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Procedural writing is best described as ___.",
+            "options": [
+              "Step-by-step instructions for completing a task",
+              "A story with characters and a setting",
+              "A poem describing personal feelings",
+              "A concept unrelated to procedural writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences uses an imperative verb typical of procedural writing?",
+            "options": [
+              "Flour, bowls, and pouring are sometimes related.",
+              "Pour the flour into the bowl.",
+              "The flour was poured into the bowl by someone.",
+              "A sentence unrelated to procedural writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do procedural texts often include a list of materials at the beginning?",
+            "options": [
+              "So the reader can gather everything needed before starting the steps",
+              "To make the text longer with no real purpose",
+              "A reason unrelated to procedural writing",
+              "Materials lists are never included in procedural writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which transition word would most likely appear in a procedural text to show order?",
+            "options": [
+              "A word unrelated to sequencing steps",
+              "Meanwhile",
+              "Although",
+              "Next"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for the steps in a procedural text to be written in the correct order?",
+            "options": [
+              "Following steps out of order could cause the task to fail or turn out incorrectly",
+              "Procedural texts are not meant to be followed in any specific order",
+              "A reason unrelated to procedural writing",
+              "The order of steps never affects the outcome of a task"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Angle Relationships: Complementary, Supplementary, and Vertical Angles",
+        "summary": "Grade 6 Math strand: complementary angles sum to 90 degrees, supplementary angles sum to 180 degrees, and vertical angles are formed by intersecting lines and are always equal to each other.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Two angles are complementary if their measures add up to ___.",
+            "options": [
+              "180 degrees",
+              "A sum unrelated to complementary angles",
+              "90 degrees",
+              "360 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Two angles are supplementary if their measures add up to ___.",
+            "options": [
+              "A sum unrelated to supplementary angles",
+              "180 degrees",
+              "90 degrees",
+              "45 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one angle measures 35 degrees, what does its complementary angle measure?",
+            "options": [
+              "35 degrees",
+              "145 degrees",
+              "A measure unrelated to the calculation",
+              "55 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Vertical angles, formed when two lines cross, are always ___.",
+            "options": [
+              "Impossible to measure",
+              "Supplementary to each other",
+              "A relationship unrelated to vertical angles",
+              "Equal to each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding angle relationships useful when solving geometry problems?",
+            "options": [
+              "Every angle in a diagram must be measured directly with a protractor",
+              "A reason unrelated to geometry",
+              "Angle relationships provide no useful information for solving problems",
+              "It allows missing angle measures to be calculated without a protractor"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Circulatory System: Heart, Blood, and Vessels",
+        "summary": "Grade 6 Science strand: the circulatory system, made up of the heart, blood, and blood vessels, transports oxygen and nutrients throughout the body while carrying away waste products.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main function of the circulatory system is to ___.",
+            "options": [
+              "Transport oxygen, nutrients, and waste throughout the body",
+              "Break down food into nutrients",
+              "A concept unrelated to the circulatory system",
+              "Filter air before it reaches the lungs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organ pumps blood throughout the circulatory system?",
+            "options": [
+              "The stomach",
+              "The heart",
+              "The liver",
+              "An organ unrelated to circulation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which blood vessels carry oxygen-rich blood away from the heart to the body?",
+            "options": [
+              "Capillaries only carry waste, never oxygen",
+              "Veins",
+              "Arteries",
+              "A vessel unrelated to circulation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the role of tiny blood vessels called capillaries?",
+            "options": [
+              "Pumping blood directly out of the heart",
+              "Allowing oxygen and nutrients to pass between blood and body cells",
+              "Storing digested food for later use",
+              "A role unrelated to capillaries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the circulatory system considered essential for nearly every cell in the body?",
+            "options": [
+              "A reason unrelated to the circulatory system",
+              "The circulatory system only serves the heart itself",
+              "Most cells in the body do not need oxygen or nutrients",
+              "Cells rely on the blood supply for oxygen and nutrients to survive and function"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Underground Railroad and Its Connection to Canada",
+        "summary": "Grade 6 Social Studies strand: the Underground Railroad was a secret network of routes and safe houses that helped enslaved people in the United States escape to freedom, with many settling in British North America (present-day Canada).",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Underground Railroad was best described as ___.",
+            "options": [
+              "A concept unrelated to the Underground Railroad",
+              "A secret network of routes and safe houses helping enslaved people escape to freedom",
+              "A government program run openly by the United States",
+              "An actual railway built underground"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did many freedom seekers travel all the way to British North America (present-day Canada)?",
+            "options": [
+              "Canada offered no additional safety compared to the United States",
+              "A reason unrelated to the Underground Railroad",
+              "British North America required freedom seekers to remain enslaved",
+              "Slavery had been abolished there, offering greater safety and legal protection"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "People who helped guide freedom seekers along the Underground Railroad were sometimes called ___.",
+            "options": [
+              "Passengers only, with no guides involved",
+              "A term unrelated to the Underground Railroad",
+              "Conductors",
+              "Engineers who built physical railways"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these communities in present-day Ontario became known as a settlement point for people who arrived via the Underground Railroad?",
+            "options": [
+              "A community unrelated to the Underground Railroad",
+              "A settlement located outside of Canada",
+              "A city that refused to accept any new settlers",
+              "Buxton"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the story of the Underground Railroad an important part of Canadian history?",
+            "options": [
+              "It highlights Canada’s role in offering freedom and safety to those escaping enslavement",
+              "The Underground Railroad had no connection to Canadian history",
+              "A reason unrelated to this history",
+              "No freedom seekers ever settled permanently in Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Similes, Metaphors, and Personification",
+        "summary": "Grade 6 Language strand: a simile compares two things using “like” or “as,” a metaphor states that one thing is another to suggest a comparison, and personification gives human qualities to something non-human.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A simile compares two things using which words?",
+            "options": [
+              "Words unrelated to similes",
+              "Like or as",
+              "Because or therefore",
+              "Metaphor or simile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of a metaphor?",
+            "options": [
+              "Her smile was sunshine on a cloudy day.",
+              "Her smile appeared briefly on her face.",
+              "A sentence unrelated to metaphors",
+              "Her smile was as bright as the sun."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses personification?",
+            "options": [
+              "The wind blew at ten kilometres per hour.",
+              "The trees were tall and green.",
+              "The wind whispered through the trees.",
+              "A sentence unrelated to personification"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Unlike a simile, a metaphor ___.",
+            "options": [
+              "States directly that one thing is another, without using “like” or “as”",
+              "Always uses the word “like” to make a comparison",
+              "A description unrelated to metaphors",
+              "Never compares two different things"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use personification when describing a storm?",
+            "options": [
+              "A reason unrelated to personification",
+              "Personification can only be used to describe human characters",
+              "Personification always makes writing harder to understand",
+              "It can make the storm feel more vivid, powerful, or alive to the reader"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Least Common Multiple and Greatest Common Factor",
+        "summary": "Grade 6 Math strand: the least common multiple (LCM) is the smallest number that is a multiple of two or more numbers, while the greatest common factor (GCF) is the largest number that divides evenly into two or more numbers.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The least common multiple of two numbers is ___.",
+            "options": [
+              "The largest number that divides evenly into both numbers",
+              "Always equal to one of the two original numbers",
+              "The smallest number that is a multiple of both numbers",
+              "A concept unrelated to least common multiple"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the least common multiple of 4 and 6?",
+            "options": [
+              "A value unrelated to the calculation",
+              "10",
+              "24",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The greatest common factor of two numbers is ___.",
+            "options": [
+              "The largest number that divides evenly into both numbers",
+              "A concept unrelated to greatest common factor",
+              "Always equal to one of the two original numbers",
+              "The smallest number that is a multiple of both numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the greatest common factor of 18 and 24?",
+            "options": [
+              "3",
+              "A value unrelated to the calculation",
+              "12",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is finding the greatest common factor useful when simplifying fractions?",
+            "options": [
+              "Simplifying fractions never requires finding common factors",
+              "The greatest common factor has no connection to simplifying fractions",
+              "Dividing both the numerator and denominator by it reduces a fraction to lowest terms",
+              "A reason unrelated to fractions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Respiratory System: Breathing and Gas Exchange",
+        "summary": "Grade 6 Science strand: the respiratory system brings oxygen into the body and removes carbon dioxide, using the lungs as the main site of gas exchange between air and blood.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main function of the respiratory system is to ___.",
+            "options": [
+              "Pump blood throughout the body",
+              "Bring oxygen into the body and remove carbon dioxide",
+              "Break down food into usable nutrients",
+              "A concept unrelated to the respiratory system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does gas exchange mainly occur in the respiratory system?",
+            "options": [
+              "In the heart’s chambers",
+              "In the stomach",
+              "A location unrelated to gas exchange",
+              "In tiny air sacs called alveoli, inside the lungs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a person inhales, which gas mainly enters the bloodstream from the lungs?",
+            "options": [
+              "Nitrogen is absorbed in the largest amount",
+              "Oxygen",
+              "Carbon dioxide",
+              "A gas unrelated to breathing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role does the diaphragm play in breathing?",
+            "options": [
+              "It pumps blood to the lungs",
+              "It contracts and relaxes to help air move in and out of the lungs",
+              "It filters food before it enters the stomach",
+              "A role unrelated to the diaphragm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the respiratory system’s connection to the circulatory system important for the body?",
+            "options": [
+              "Oxygen never needs to reach cells outside the lungs",
+              "A reason unrelated to these body systems",
+              "Oxygen absorbed by the lungs must be carried by the blood to cells throughout the body",
+              "The respiratory and circulatory systems have no connection to one another"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Treaties and Indigenous-Crown Relations in Canada",
+        "summary": "Grade 6 Social Studies strand: treaties are formal agreements made between Indigenous peoples and the Crown, historically involving land, resources, and rights, and they remain an important part of Indigenous-Crown relations in Canada today.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "A treaty between Indigenous peoples and the Crown is best described as ___.",
+            "options": [
+              "A formal agreement involving matters such as land, resources, or rights",
+              "A concept unrelated to treaties",
+              "A type of holiday celebrated across Canada",
+              "An informal conversation with no lasting effect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why were many historical treaties in Canada focused on land?",
+            "options": [
+              "Treaties in Canada have never mentioned land in any way",
+              "A reason unrelated to treaties",
+              "Land was never a topic addressed in Canadian treaties",
+              "They often set out how land would be shared or used by Indigenous peoples and settlers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for treaties to be honoured by all parties involved?",
+            "options": [
+              "Treaties represent legal and moral commitments that affect rights and relationships today",
+              "Only one side of a treaty is ever expected to follow its terms",
+              "Treaties have no legal or lasting significance once signed",
+              "A reason unrelated to treaties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes the ongoing relationship between Indigenous peoples and the Crown today?",
+            "options": [
+              "A description unrelated to Indigenous-Crown relations",
+              "It ended completely once historical treaties were signed",
+              "It continues to evolve through dialogue, land claims, and treaty rights discussions",
+              "No relationship of any kind currently exists"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do students study historical treaties as part of Canadian social studies?",
+            "options": [
+              "Understanding treaties helps explain present-day rights, land use, and reconciliation efforts",
+              "Treaties have no connection to present-day Canadian society",
+              "A reason unrelated to studying Canadian history",
+              "Treaties are considered unimportant to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Using a Thesaurus and Dictionary Effectively",
+        "summary": "Grade 6 Language strand: a dictionary provides a word’s definition, pronunciation, and part of speech, while a thesaurus offers synonyms and antonyms to help writers choose more precise or varied words.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "A dictionary is a resource that provides a word’s ___.",
+            "options": [
+              "A concept unrelated to dictionaries",
+              "Only its spelling, with no other information",
+              "List of synonyms only, with no definitions",
+              "Definition, pronunciation, and part of speech"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A thesaurus is most useful for finding ___.",
+            "options": [
+              "Synonyms and antonyms for a word",
+              "The number of letters in a word",
+              "A concept unrelated to a thesaurus",
+              "A word’s exact pronunciation only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer consult a thesaurus while revising a paragraph?",
+            "options": [
+              "A thesaurus can only be used before any writing begins",
+              "A reason unrelated to using a thesaurus",
+              "To replace an overused word with a more precise or varied synonym",
+              "Thesauruses never provide alternative word choices"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would most likely be found first in a dictionary entry?",
+            "options": [
+              "A concept unrelated to dictionary entries",
+              "A list of the word’s antonyms only",
+              "A paragraph written entirely by the reader",
+              "The word’s pronunciation and part of speech"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to consider context when choosing a synonym from a thesaurus?",
+            "options": [
+              "Not all synonyms carry the exact same tone or meaning in every situation",
+              "A reason unrelated to using a thesaurus",
+              "All synonyms for a word always mean exactly the same thing in every context",
+              "Context has no effect on which word is most appropriate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimation Strategies for Multi-Step Problems",
+        "summary": "Grade 6 Math strand: estimation strategies, such as rounding numbers before calculating, help predict a reasonable answer to a multi-step problem and check whether a final calculated answer makes sense.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "Estimation in math is best described as ___.",
+            "options": [
+              "Ignoring a problem entirely rather than solving it",
+              "A concept unrelated to estimation",
+              "Calculating an answer with complete precision every time",
+              "Finding an approximate, reasonable answer rather than an exact one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To estimate 297 + 512, which rounded numbers might you use?",
+            "options": [
+              "300 + 500",
+              "250 + 550",
+              "200 + 500",
+              "A pair of numbers unrelated to this estimation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is estimation especially useful before solving a multi-step problem?",
+            "options": [
+              "A reason unrelated to estimation",
+              "It helps predict a reasonable range for the final answer",
+              "Estimating makes multi-step problems impossible to solve",
+              "Estimation always provides the single, exact final answer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you estimate an answer to be about 450, but your exact calculation gives 4,500, what does this suggest?",
+            "options": [
+              "The exact calculation must be correct with no need to check further",
+              "Estimation is never useful for checking calculations",
+              "A calculation error likely occurred somewhere in the steps",
+              "A conclusion unrelated to estimation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a shopper use estimation while adding up the cost of several items in a store?",
+            "options": [
+              "It provides a quick check of whether they have enough money before reaching the checkout",
+              "A reason unrelated to estimation",
+              "Estimation provides no useful information while shopping",
+              "Shoppers are required to calculate exact totals mentally at all times"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "States of Matter and Changes of State",
+        "summary": "Grade 6 Science strand: matter exists in states such as solid, liquid, and gas, and changes of state — like melting, freezing, evaporation, and condensation — occur when energy is added to or removed from a substance.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is a change of state that occurs when a solid becomes a liquid?",
+            "options": [
+              "A process unrelated to changes of state",
+              "Condensation",
+              "Freezing",
+              "Melting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which process describes a liquid changing into a gas?",
+            "options": [
+              "Evaporation",
+              "A process unrelated to changes of state",
+              "Melting",
+              "Freezing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What generally happens to the particles in a substance as it is heated and changes from solid to liquid to gas?",
+            "options": [
+              "They stop moving completely",
+              "A concept unrelated to particle movement",
+              "They lose energy and move closer together",
+              "They gain energy and move faster and farther apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Condensation occurs when a gas ___.",
+            "options": [
+              "Gains energy and changes into a solid",
+              "Loses energy and changes into a liquid",
+              "Remains a gas with no change occurring",
+              "A process unrelated to condensation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does water vapour on a cold glass of lemonade turn into visible droplets?",
+            "options": [
+              "Water vapour never changes into liquid water",
+              "The glass produces new water that was not present before",
+              "The vapour loses heat energy near the cold surface and condenses into liquid water",
+              "A reason unrelated to changes of state"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Charter of Rights and Freedoms",
+        "summary": "Grade 6 Social Studies strand: the Canadian Charter of Rights and Freedoms, part of Canada’s Constitution since 1982, guarantees fundamental rights and freedoms to people in Canada, including equality, expression, and legal rights.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Canadian Charter of Rights and Freedoms is best described as ___.",
+            "options": [
+              "A set of rules that apply only to elected officials",
+              "A part of Canada’s Constitution that guarantees fundamental rights and freedoms",
+              "A concept unrelated to Canadian rights",
+              "A document with no legal significance in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Canadian Charter of Rights and Freedoms became part of Canada’s Constitution in which year?",
+            "options": [
+              "A year unrelated to the Charter",
+              "1867",
+              "1982",
+              "1945"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a right protected under the Charter?",
+            "options": [
+              "The right to ignore all laws",
+              "Freedom of expression",
+              "The right to prevent others from voting",
+              "A concept unrelated to the Charter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the equality guarantee in the Charter considered significant?",
+            "options": [
+              "A reason unrelated to the Charter",
+              "The equality guarantee applies to no one in Canada",
+              "It affirms that everyone is entitled to equal protection and benefit of the law",
+              "It allows certain groups to be treated unfairly under the law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Charter considered an important part of Canadian identity and government?",
+            "options": [
+              "The Charter has been removed from Canada’s Constitution",
+              "The Charter has no influence on Canadian laws or society",
+              "It sets out core rights and freedoms that shape how laws and society operate",
+              "A reason unrelated to the Charter’s significance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Coordinating and Subordinating Conjunctions",
+        "summary": "Grade 6 Language strand: coordinating conjunctions (like “and,” “but,” and “or”) join equal ideas, while subordinating conjunctions (like “because,” “although,” and “since”) join a dependent clause to an independent clause.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Coordinating conjunctions are used to ___.",
+            "options": [
+              "Join two equal ideas or clauses",
+              "Replace punctuation marks entirely",
+              "A concept unrelated to coordinating conjunctions",
+              "Only join a subject to a verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a coordinating conjunction?",
+            "options": [
+              "Because",
+              "But",
+              "Although",
+              "A word unrelated to conjunctions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a subordinating conjunction?",
+            "options": [
+              "A word unrelated to conjunctions",
+              "Or",
+              "And",
+              "Because"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence “Although it was raining, we went outside,” which word introduces the dependent clause?",
+            "options": [
+              "Went",
+              "A word unrelated to this sentence",
+              "We",
+              "Although"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose a subordinating conjunction instead of simply joining two ideas with “and”?",
+            "options": [
+              "Subordinating conjunctions must always come at the end of a sentence",
+              "Subordinating conjunctions never show a relationship between ideas",
+              "It can show a specific relationship, such as cause, contrast, or time, between the ideas",
+              "A reason unrelated to conjunctions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Sample Space and Outcomes",
+        "summary": "Grade 6 Math strand: a sample space is the set of all possible outcomes of an experiment, and probability compares the number of favourable outcomes to the total number of outcomes in that sample space.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The sample space of an experiment is best described as ___.",
+            "options": [
+              "A concept unrelated to sample space",
+              "A single guaranteed outcome",
+              "The set of all possible outcomes",
+              "Only the outcomes that are considered favourable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the sample space when rolling a standard six-sided die?",
+            "options": [
+              "{0, 1}",
+              "{1, 2, 3, 4, 5, 6}",
+              "A set unrelated to this sample space",
+              "{1, 2, 3}"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a bag contains 3 red marbles and 2 blue marbles, what is the probability of picking a red marble?",
+            "options": [
+              "A probability unrelated to the calculation",
+              "2/5",
+              "1/5",
+              "3/5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When flipping a fair coin, what is the probability of landing on heads?",
+            "options": [
+              "A probability unrelated to the calculation",
+              "1/4",
+              "1",
+              "1/2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to identify the full sample space before calculating a probability?",
+            "options": [
+              "The sample space has no effect on calculating probability",
+              "Probability can be calculated accurately without knowing all possible outcomes",
+              "It ensures every possible outcome is accounted for when comparing favourable outcomes to the total",
+              "A reason unrelated to probability"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Soil Composition and Formation",
+        "summary": "Grade 6 Science strand: soil forms over long periods of time as rock is broken down by weathering and mixed with organic matter, water, and air, creating layers that support plant growth.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Soil is formed largely through the weathering of ___.",
+            "options": [
+              "Only water, with no solid material involved",
+              "Rock, combined with organic matter over time",
+              "Metal objects buried underground",
+              "A concept unrelated to soil formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is considered organic matter that can become part of soil?",
+            "options": [
+              "A material unrelated to soil composition",
+              "Large boulders with no decomposition",
+              "Decomposed plant and animal material",
+              "Metal fragments from human structures"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does soil formation typically take a very long time?",
+            "options": [
+              "Weathering rock into small particles and mixing in organic material is a slow, gradual process",
+              "Soil requires no weathering or organic material to form",
+              "Soil forms instantly whenever rock is exposed to air",
+              "A reason unrelated to soil formation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which layer of soil is typically richest in nutrients and organic matter, supporting plant growth?",
+            "options": [
+              "Topsoil",
+              "A layer made entirely of ice",
+              "A layer unrelated to soil composition",
+              "Bedrock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is soil considered an important natural resource for ecosystems and agriculture?",
+            "options": [
+              "It provides nutrients, water, and support that plants need to grow",
+              "Soil provides no benefit to plants or ecosystems",
+              "A reason unrelated to soil’s importance",
+              "Plants can grow equally well with no soil at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Fur Trade and the Voyageurs",
+        "summary": "Grade 6 Social Studies strand: the fur trade was a major economic activity in early Canada, relying on voyageurs — skilled canoe travellers — and partnerships with Indigenous peoples to transport furs across vast distances.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The fur trade in early Canada was centred mainly around which resource?",
+            "options": [
+              "Beaver pelts and other furs",
+              "Grain and other crops",
+              "Gold and silver",
+              "A resource unrelated to the fur trade"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Voyageurs were best known for their skill in ___.",
+            "options": [
+              "Paddling canoes over long distances to transport furs and goods",
+              "Building large stone structures",
+              "Farming large areas of land",
+              "A skill unrelated to voyageurs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why were partnerships between European traders and Indigenous peoples important to the fur trade?",
+            "options": [
+              "A reason unrelated to the fur trade",
+              "European traders required no assistance to succeed in the fur trade",
+              "These groups never worked together in the fur trade",
+              "Indigenous peoples had knowledge of the land, trapping, and trade routes essential to the trade’s success"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which companies competed for control of the fur trade in what is now Canada?",
+            "options": [
+              "Only companies based outside of North America",
+              "The Hudson’s Bay Company and the North West Company",
+              "Companies unrelated to the fur trade",
+              "A single company that faced no competition at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the fur trade considered a significant part of early Canadian economic history?",
+            "options": [
+              "A reason unrelated to the fur trade’s significance",
+              "It shaped exploration, trade routes, and relationships between European settlers and Indigenous peoples",
+              "The fur trade had no lasting effect on Canada’s development",
+              "The fur trade took place entirely outside of Canada’s territory"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Revising for Clarity and Conciseness",
+        "summary": "Grade 6 Language strand: revising for clarity and conciseness means removing unnecessary words, combining repetitive ideas, and choosing precise language so that writing communicates its meaning as clearly as possible.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Revising for conciseness mainly involves ___.",
+            "options": [
+              "Removing unnecessary words while keeping the meaning clear",
+              "Adding as many extra words as possible",
+              "A concept unrelated to conciseness",
+              "Rewriting a text in a completely different language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences is more concise while keeping the same meaning?",
+            "options": [
+              "Homework dinner she quick finish before.",
+              "She quickly finished her homework before dinner.",
+              "A sentence unrelated to conciseness",
+              "She, in a very fast and quick manner, finished up completing all of her homework before the time came for dinner."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer combine two repetitive sentences into one clearer sentence during revision?",
+            "options": [
+              "A reason unrelated to revising for clarity",
+              "Combining sentences always makes writing more confusing",
+              "Repetitive sentences are always preferred over concise ones",
+              "It removes redundancy and helps the writing flow more smoothly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these phrases could most likely be shortened for conciseness?",
+            "options": [
+              "A phrase unrelated to conciseness",
+              "The dog ran",
+              "She smiled",
+              "Due to the fact that"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is clarity an important goal when revising a piece of writing?",
+            "options": [
+              "Clarity has no effect on how well a reader understands a text",
+              "Clear writing helps the reader understand the intended meaning without confusion",
+              "Confusing writing is always more effective than clear writing",
+              "A reason unrelated to revising writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Unit Rates and Comparing Best Buys",
+        "summary": "Grade 6 Math strand: a unit rate expresses a quantity per single unit, such as price per item, and comparing unit rates helps determine which of two or more options offers the better value.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A unit rate expresses a quantity ___.",
+            "options": [
+              "A concept unrelated to unit rates",
+              "As a fraction with no connection to a single unit",
+              "Per single unit, such as price per one item",
+              "Only in terms of time, never price"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 4 apples cost $2.00, what is the unit rate (price per apple)?",
+            "options": [
+              "A rate unrelated to the calculation",
+              "$8.00 per apple",
+              "$2.00 per apple",
+              "$0.50 per apple"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A box of 8 granola bars costs $4.00, and a box of 10 granola bars costs $4.50. Which box offers the better unit rate?",
+            "options": [
+              "Both boxes offer exactly the same unit rate",
+              "A comparison unrelated to this calculation",
+              "The box of 10, at $0.45 per bar",
+              "The box of 8, at $0.50 per bar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is comparing unit rates more useful than comparing total prices alone when shopping?",
+            "options": [
+              "It accounts for differences in quantity, showing which option is truly the better value",
+              "Unit rates provide no useful information for comparing prices",
+              "Total price always shows the better value regardless of quantity",
+              "A reason unrelated to comparing unit rates"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a car travels 240 kilometres in 3 hours, what is its unit rate of speed?",
+            "options": [
+              "60 kilometres per hour",
+              "A rate unrelated to the calculation",
+              "720 kilometres per hour",
+              "80 kilometres per hour"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Freshwater and Saltwater Ecosystems",
+        "summary": "Grade 6 Science strand: freshwater ecosystems, such as lakes and rivers, and saltwater ecosystems, such as oceans, support different communities of organisms adapted to their specific water conditions.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a freshwater ecosystem?",
+            "options": [
+              "A saltwater coral reef",
+              "A concept unrelated to freshwater ecosystems",
+              "An ocean",
+              "A river"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a saltwater ecosystem?",
+            "options": [
+              "An ocean",
+              "A concept unrelated to saltwater ecosystems",
+              "A small freshwater pond",
+              "A freshwater lake"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can most freshwater fish not survive if placed directly into a saltwater ecosystem?",
+            "options": [
+              "Freshwater and saltwater fish always have identical adaptations",
+              "A reason unrelated to freshwater and saltwater ecosystems",
+              "Their bodies are adapted to a much lower salt concentration than ocean water contains",
+              "Freshwater fish are never adapted to any specific water conditions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these organisms is specifically adapted to live in a saltwater ecosystem?",
+            "options": [
+              "A frog living in a small freshwater pond",
+              "A clownfish living among ocean coral reefs",
+              "A trout living only in a freshwater stream",
+              "An organism unrelated to saltwater ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for scientists to study both freshwater and saltwater ecosystems?",
+            "options": [
+              "Only one type of water ecosystem exists on Earth",
+              "A reason unrelated to studying ecosystems",
+              "Each supports unique organisms and plays a distinct role in the health of the planet",
+              "Freshwater and saltwater ecosystems are identical, so studying both is unnecessary"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Métis Nation and the Red River Resistance",
+        "summary": "Grade 6 Social Studies strand: the Métis Nation, descended from First Nations and European ancestry, developed a distinct culture in the Red River area, and the Red River Resistance of 1869-1870, led by Louis Riel, arose to protect Métis land and rights.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Métis Nation developed from a blend of ___.",
+            "options": [
+              "A concept unrelated to the Métis Nation",
+              "First Nations and European ancestry and culture",
+              "Only Indigenous groups with no European connection",
+              "Only European settlers, with no Indigenous connection"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Red River Resistance took place in the region now known as ___.",
+            "options": [
+              "Manitoba",
+              "Newfoundland and Labrador",
+              "A region unrelated to the Red River Resistance",
+              "British Columbia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who was the key Métis leader during the Red River Resistance?",
+            "options": [
+              "A leader who represented only the federal government",
+              "Louis Riel",
+              "A leader from an entirely different region of Canada",
+              "A leader unrelated to the Red River Resistance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was a major goal of the Red River Resistance?",
+            "options": [
+              "Expanding Métis territory into other countries",
+              "A concept unrelated to the Red River Resistance",
+              "Protecting Métis land, rights, and way of life as settlers moved westward",
+              "Removing all settlers from Canada entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Red River Resistance considered an important event in Canadian history?",
+            "options": [
+              "The resistance had no lasting impact on Canadian history",
+              "It led to the creation of Manitoba as a province and highlighted Métis rights",
+              "A reason unrelated to its historical significance",
+              "It occurred in a region that never became part of Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Mood and Atmosphere in Fiction",
+        "summary": "Grade 6 Language strand: mood is the feeling or atmosphere a piece of writing creates for the reader, often shaped by word choice, setting, and descriptive imagery.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Mood in a story is best described as ___.",
+            "options": [
+              "The exact number of characters in a story",
+              "The order in which events occur",
+              "A concept unrelated to mood",
+              "The feeling or atmosphere the writing creates for the reader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these word choices would most likely create a mysterious mood?",
+            "options": [
+              "Shadowy, silent, and eerie",
+              "Words unrelated to creating a mysterious mood",
+              "Loud, festive, and colourful",
+              "Bright, cheerful, and sunny"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does setting often contribute to a story’s mood?",
+            "options": [
+              "Mood can only be created through dialogue, never setting",
+              "Setting has no connection to a story’s mood",
+              "A reason unrelated to mood",
+              "Details like weather, time, and location can shape how a scene feels to the reader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these sentences most strongly creates a tense, suspenseful mood?",
+            "options": [
+              "The floorboards creaked as a shadow moved slowly closer.",
+              "The book had two hundred pages.",
+              "The kitchen smelled like fresh cookies on a sunny afternoon.",
+              "A sentence unrelated to creating mood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author carefully choose descriptive imagery to build a story’s mood?",
+            "options": [
+              "Strong imagery can immerse the reader in the emotional tone of a scene",
+              "Mood is entirely unaffected by an author’s descriptive choices",
+              "A reason unrelated to mood in fiction",
+              "Imagery has no connection to how a reader experiences a story’s mood"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Long Division with Multi-Digit Divisors",
+        "summary": "Grade 6 Math strand: long division with a multi-digit divisor uses repeated steps of dividing, multiplying, subtracting, and bringing down digits to find a quotient, extending single-digit division strategies to larger numbers.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "The steps of long division are generally repeated in which order?",
+            "options": [
+              "An order unrelated to long division",
+              "Divide, multiply, subtract, bring down",
+              "Multiply, divide, bring down, subtract",
+              "Subtract, divide, bring down, multiply"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 936 ÷ 12?",
+            "options": [
+              "87",
+              "78",
+              "A value unrelated to the calculation",
+              "68"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1,244 ÷ 22?",
+            "options": [
+              "54",
+              "62",
+              "A value unrelated to the calculation",
+              "56"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When dividing 875 by 25, what does the remainder equal?",
+            "options": [
+              "A remainder unrelated to the calculation",
+              "0, since 25 divides evenly into 875",
+              "5, since the division does not come out evenly",
+              "25, matching the divisor itself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is estimating a quotient first often helpful before completing long division with a multi-digit divisor?",
+            "options": [
+              "Long division cannot be checked using estimation",
+              "It gives a reasonable range to check whether the final quotient makes sense",
+              "Estimating never provides useful information about a division problem",
+              "A reason unrelated to long division"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fossils and What They Reveal About Earth’s History",
+        "summary": "Grade 6 Science strand: fossils are the preserved remains or traces of ancient organisms, and studying them helps scientists understand how life and environments on Earth have changed over millions of years.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "A fossil is best described as ___.",
+            "options": [
+              "A concept unrelated to fossils",
+              "A type of soil found only in deserts",
+              "A rock that has never contained any living material",
+              "The preserved remains or traces of an ancient organism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Fossils most commonly form when an organism is ___.",
+            "options": [
+              "A process unrelated to fossil formation",
+              "Quickly buried by sediment that later hardens into rock",
+              "Placed underwater for only a few minutes",
+              "Left exposed to air and sunlight indefinitely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are fossils useful to scientists studying Earth’s past environments?",
+            "options": [
+              "Fossils provide no information about past environments",
+              "A reason unrelated to fossils",
+              "All fossils are exactly the same age, regardless of location",
+              "They provide evidence of what organisms and conditions existed at a certain time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can scientists learn by studying layers of rock that contain different fossils?",
+            "options": [
+              "The exact weather conditions of the present day",
+              "Layers of rock never contain any fossil evidence",
+              "A concept unrelated to studying fossils",
+              "A general timeline of how life on Earth has changed over long periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the discovery of a new fossil species be considered scientifically significant?",
+            "options": [
+              "A reason unrelated to fossils",
+              "New fossil discoveries never add to scientific understanding",
+              "Fossils have no connection to the study of evolution",
+              "It can provide new evidence about how life evolved and adapted over time"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Nunavut and Canada’s Northern Territories",
+        "summary": "Grade 6 Social Studies strand: Canada’s three northern territories — Yukon, the Northwest Territories, and Nunavut — cover a vast area, with Nunavut created in 1999 as a homeland with significant Inuit self-government.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Canada’s three northern territories are ___.",
+            "options": [
+              "British Columbia, Alberta, and Saskatchewan",
+              "Ontario, Quebec, and Manitoba",
+              "Yukon, the Northwest Territories, and Nunavut",
+              "A grouping unrelated to Canada’s northern territories"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nunavut was created as a separate territory in which year?",
+            "options": [
+              "A year unrelated to Nunavut’s creation",
+              "1867",
+              "1999",
+              "1949"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Nunavut was established largely to provide ___.",
+            "options": [
+              "An area intended only for southern Canadian settlement",
+              "A territory with no connection to any Indigenous peoples",
+              "A homeland with significant self-government for the Inuit",
+              "A concept unrelated to Nunavut’s creation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the capital city of Nunavut?",
+            "options": [
+              "A city unrelated to Nunavut",
+              "Whitehorse",
+              "Iqaluit",
+              "Yellowknife"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are Canada’s northern territories often considered geographically and culturally distinct from the provinces?",
+            "options": [
+              "A reason unrelated to Canada’s northern territories",
+              "The territories are identical to the provinces in every way",
+              "They have vast, sparsely populated land, unique climates, and significant Indigenous populations and governance",
+              "The territories have no distinct population or government structures"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Online Sources for Reliability",
+        "summary": "Grade 6 Language strand: evaluating online sources for reliability involves checking the author’s credentials, the publication date, and whether the information can be verified by other trustworthy sources.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "When evaluating an online source, a reader should check ___.",
+            "options": [
+              "Only how visually appealing the website looks",
+              "The author’s credentials, the publication date, and whether it can be verified elsewhere",
+              "Nothing, since all online sources are equally reliable",
+              "A concept unrelated to evaluating sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might checking a website’s publication date be important when researching a topic?",
+            "options": [
+              "Outdated information may no longer be accurate, especially for fast-changing topics",
+              "Publication dates never affect how accurate information is",
+              "A reason unrelated to evaluating sources",
+              "Older sources are always more reliable than newer ones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a sign that an online source might be less reliable?",
+            "options": [
+              "It provides no author, sources, or way to verify its claims",
+              "It is regularly updated with verified information",
+              "It cites clear sources and identifies a credible author",
+              "A sign unrelated to evaluating reliability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to compare information across multiple reliable sources?",
+            "options": [
+              "Comparing sources never helps determine whether information is accurate",
+              "It helps confirm accuracy and reveals whether a claim is widely supported by evidence",
+              "A single online source is always sufficient for verifying any claim",
+              "A reason unrelated to evaluating sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is evaluating online sources an important skill in today’s digital world?",
+            "options": [
+              "A reason unrelated to media literacy",
+              "Being able to identify reliable information helps prevent the spread of misinformation",
+              "All information found online is automatically accurate",
+              "Evaluating sources has no real-world importance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Classifying and Naming Prisms and Pyramids",
+        "summary": "Grade 6 Math strand: prisms have two parallel, congruent bases connected by rectangular faces, while pyramids have a single base connected to triangular faces that meet at a point called the apex.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A prism is a 3D figure with ___.",
+            "options": [
+              "Two parallel, congruent bases connected by rectangular faces",
+              "No flat faces of any kind",
+              "A single base connected only to triangular faces",
+              "A concept unrelated to prisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A pyramid is a 3D figure with ___.",
+            "options": [
+              "A concept unrelated to pyramids",
+              "No faces that meet at a single point",
+              "Two parallel bases connected by rectangular faces",
+              "A single base connected to triangular faces that meet at an apex"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A triangular prism has which two-shaped bases?",
+            "options": [
+              "Rectangles",
+              "Circles",
+              "A shape unrelated to a triangular prism’s bases",
+              "Triangles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A square pyramid has how many triangular faces?",
+            "options": [
+              "6",
+              "2",
+              "A number unrelated to a square pyramid",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to classify 3D figures as prisms or pyramids based on their base and faces?",
+            "options": [
+              "It helps identify and compare figures accurately using consistent geometric properties",
+              "Classifying 3D figures provides no useful information",
+              "All 3D figures are identical, making classification unnecessary",
+              "A reason unrelated to geometry"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Forces of Motion: Friction and Air Resistance",
+        "summary": "Grade 6 Science strand: friction is a force that resists motion between two surfaces in contact, and air resistance is a type of friction caused by air pushing against a moving object.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Friction is best described as ___.",
+            "options": [
+              "A force that always speeds up a moving object",
+              "A force that resists motion between two surfaces in contact",
+              "A concept unrelated to friction",
+              "A force that only exists in outer space"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Air resistance is a type of friction caused by ___.",
+            "options": [
+              "Water pushing against a moving object",
+              "Air pushing against a moving object",
+              "A concept unrelated to air resistance",
+              "Gravity pulling an object downward"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does a parachute slow a falling skydiver down?",
+            "options": [
+              "Parachutes increase the effect of gravity on the skydiver",
+              "Its large surface area increases air resistance against the fall",
+              "A reason unrelated to air resistance",
+              "Parachutes eliminate all forces acting on the skydiver"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a rough surface create more friction than a smooth surface?",
+            "options": [
+              "Smooth and rough surfaces always produce identical amounts of friction",
+              "A reason unrelated to friction",
+              "Rough surfaces have more contact points that resist sliding motion",
+              "Rough surfaces always eliminate friction completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do engineers design cars with smooth, streamlined shapes?",
+            "options": [
+              "To reduce air resistance and improve fuel efficiency at higher speeds",
+              "Smooth shapes are designed only for appearance, with no functional benefit",
+              "A reason unrelated to friction and air resistance",
+              "Streamlined shapes have no effect on a car’s movement through air"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Great Depression in Canada",
+        "summary": "Grade 6 Social Studies strand: the Great Depression of the 1930s brought widespread unemployment, poverty, and hardship to Canada, prompting government relief efforts and long-term changes to economic and social policy.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The Great Depression brought widespread ___.",
+            "options": [
+              "A sudden increase in average wages across Canada",
+              "A concept unrelated to the Great Depression",
+              "Economic prosperity with no hardship at all",
+              "Unemployment, poverty, and economic hardship"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Great Depression is generally associated with which decade?",
+            "options": [
+              "The 1980s",
+              "The 1950s",
+              "A decade unrelated to the Great Depression",
+              "The 1930s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these was a hardship many Canadians faced during the Great Depression?",
+            "options": [
+              "Difficulty finding steady work and providing for their families",
+              "A concept unrelated to the Great Depression",
+              "No effect at all on Canadian households",
+              "An abundance of well-paying jobs for everyone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Canadian government respond to widespread hardship during the Great Depression?",
+            "options": [
+              "It refused to take any action to help struggling citizens",
+              "A response unrelated to the Great Depression",
+              "It eliminated all forms of government assistance",
+              "It introduced relief efforts and work programs to help struggling citizens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Great Depression considered an important turning point in Canadian economic and social policy?",
+            "options": [
+              "The Great Depression had no lasting effect on Canadian policy",
+              "Government policy remained completely unchanged after this period",
+              "It led to lasting changes in how government supports citizens during economic hardship",
+              "A reason unrelated to its historical significance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Giving Clear Instructions and Directions",
+        "summary": "Grade 6 Language strand: giving clear oral instructions involves using precise, sequential language, checking for understanding, and adjusting explanations based on a listener’s questions or reactions.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Clear oral instructions should generally be ___.",
+            "options": [
+              "Given all at once with no order at all",
+              "A concept unrelated to giving instructions",
+              "Vague, with details left out on purpose",
+              "Precise and given in a logical, sequential order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a speaker pause and ask “Does that make sense?” while giving instructions?",
+            "options": [
+              "Speakers should never check for understanding",
+              "To check the listener’s understanding before continuing",
+              "A reason unrelated to giving instructions",
+              "This question always confuses the listener further"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of clear, sequential instructional language?",
+            "options": [
+              "A sentence unrelated to giving instructions",
+              "Just do it however you want, in any order.",
+              "First, gather your materials; next, follow each step in order.",
+              "Materials, steps, maybe, whenever, some things."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a speaker need to adjust their explanation if a listener looks confused?",
+            "options": [
+              "Instructions never need to be adjusted once they are spoken",
+              "A confused listener’s reaction should always be ignored",
+              "Adjusting helps ensure the listener understands the instructions being given",
+              "A reason unrelated to oral communication"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is giving clear instructions considered an important everyday communication skill?",
+            "options": [
+              "It helps ensure tasks are completed correctly and reduces misunderstandings",
+              "Confusing instructions are always just as effective as clear ones",
+              "Clear instructions have no real effect on how well a task is completed",
+              "A reason unrelated to oral communication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Sampling Methods and Bias in Surveys",
+        "summary": "Grade 6 Math strand: a sample is a smaller group selected to represent a larger population in a survey, and bias occurs when a sample or survey question unfairly favours certain results over others.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "A sample in data management is best described as ___.",
+            "options": [
+              "A concept unrelated to sampling",
+              "A smaller group selected to represent a larger population",
+              "A single random guess with no connection to data",
+              "The entire population being studied, with nothing left out"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Bias in a survey occurs when ___.",
+            "options": [
+              "A concept unrelated to survey bias",
+              "A sample or question unfairly favours certain results over others",
+              "A survey collects information from the entire population",
+              "Every group in a population has an equal chance of being selected"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these sampling methods would most likely produce a fair, representative sample?",
+            "options": [
+              "Surveying only the survey creator’s close friends",
+              "A method unrelated to fair sampling",
+              "Randomly selecting students from every grade in a school",
+              "Surveying only students in one specific class"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the survey question “Don’t you agree that recess should be longer?” be considered biased?",
+            "options": [
+              "A reason unrelated to survey bias",
+              "Its wording leads respondents toward a particular answer instead of asking neutrally",
+              "The question is worded in a completely neutral way",
+              "Biased wording never affects how people respond to a survey"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to use a representative sample when conducting a survey?",
+            "options": [
+              "A representative sample has no effect on how accurate survey results are",
+              "A reason unrelated to data management",
+              "Surveys are always accurate regardless of who is sampled",
+              "It helps ensure the results reflect the opinions or characteristics of the larger population"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Integumentary System: Skin as an Organ",
+        "summary": "Grade 6 Science strand: the skin is the body’s largest organ, forming the integumentary system, which protects the body from injury and infection, helps regulate temperature, and senses touch.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The skin is considered the body’s largest ___.",
+            "options": [
+              "Organ",
+              "A concept unrelated to the skin",
+              "Bone",
+              "Muscle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a main function of the skin?",
+            "options": [
+              "Protecting the body from injury and infection",
+              "Breaking down food into nutrients",
+              "A function unrelated to the skin",
+              "Pumping blood throughout the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the skin help regulate body temperature?",
+            "options": [
+              "The skin has no role in regulating body temperature",
+              "A process unrelated to temperature regulation",
+              "Through processes like sweating, which cools the body as moisture evaporates",
+              "By preventing the body from ever losing heat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these senses is closely associated with the skin?",
+            "options": [
+              "Hearing",
+              "Touch",
+              "Taste",
+              "A sense unrelated to the skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for the skin to act as a barrier against germs and injury?",
+            "options": [
+              "It helps prevent harmful bacteria and other pathogens from entering the body",
+              "A reason unrelated to the skin’s function",
+              "The skin provides no protection against germs or injury",
+              "Bacteria are always able to enter the body regardless of the skin"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Immigration Waves: Irish, Ukrainian, and Chinese Settlers in Canada",
+        "summary": "Grade 6 Social Studies strand: throughout the 19th and early 20th centuries, waves of immigrants, including Irish, Ukrainian, and Chinese settlers, came to Canada and contributed to its growth, often while facing significant hardship and discrimination.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Many Irish immigrants came to Canada in the 19th century partly due to ___.",
+            "options": [
+              "An abundance of food and prosperity in Ireland at the time",
+              "A government requirement that all Irish citizens relocate",
+              "The Great Famine in Ireland, which caused widespread hunger and hardship",
+              "A reason unrelated to Irish immigration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Many Ukrainian immigrants settled in which region of Canada to farm the land?",
+            "options": [
+              "The Canadian Prairies",
+              "A region unrelated to Ukrainian settlement",
+              "Downtown areas of major cities only",
+              "The Arctic coastline exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Chinese immigrants made significant contributions to Canada, notably including labour on ___.",
+            "options": [
+              "A project unrelated to Chinese immigration",
+              "Only local farms, with no connection to major infrastructure",
+              "The Canadian Pacific Railway",
+              "Government buildings exclusively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these did many immigrant groups, including Chinese immigrants, face in Canada during this period?",
+            "options": [
+              "A concept unrelated to immigrant experiences",
+              "No barriers of any kind to settling in Canada",
+              "Discriminatory laws and unfair treatment, such as the Chinese Head Tax",
+              "Complete equality and fair treatment upon arrival"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to study the experiences of Irish, Ukrainian, and Chinese immigrants in Canadian history?",
+            "options": [
+              "Studying immigration history serves no educational purpose",
+              "A reason unrelated to studying immigration history",
+              "It highlights both their contributions to Canada’s growth and the hardships they overcame",
+              "These groups made no meaningful contributions to Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Language Days 71-79",
+        "summary": "Grade 6 Language strand: this review lesson revisits key ideas from Days 71-79, including adverbs, procedural writing, figurative language, vocabulary resources, conjunctions, revising for clarity, mood, evaluating online sources, and giving clear instructions.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "An adverb typically modifies a ___.",
+            "options": [
+              "A concept unrelated to adverbs",
+              "Noun or pronoun only",
+              "Verb, adjective, or other adverb",
+              "Punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A simile compares two things using which words?",
+            "options": [
+              "Metaphor or simile",
+              "Because or therefore",
+              "Like or as",
+              "Words unrelated to similes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Coordinating conjunctions are used to ___.",
+            "options": [
+              "Join two equal ideas or clauses",
+              "A concept unrelated to coordinating conjunctions",
+              "Replace punctuation marks entirely",
+              "Only join a subject to a verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Mood in a story is best described as ___.",
+            "options": [
+              "A concept unrelated to mood",
+              "The feeling or atmosphere the writing creates for the reader",
+              "The order in which events occur",
+              "The exact number of characters in a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to review grammar, writing, and reading strategies together?",
+            "options": [
+              "It reinforces how these language skills connect and support one another",
+              "A reason unrelated to reviewing language concepts",
+              "Review never helps strengthen understanding of language skills",
+              "These skills have no connection to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Math Days 71-79",
+        "summary": "Grade 6 Math strand: this review lesson revisits key ideas from Days 71-79, including multiplying and dividing decimals by powers of ten, angle relationships, LCM and GCF, probability, unit rates, long division, 3D figure classification, and sampling.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When you multiply a decimal by 10, the decimal point moves ___.",
+            "options": [
+              "One place to the right",
+              "Two places to the right",
+              "One place to the left",
+              "A direction unrelated to multiplying by ten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Two angles are complementary if their measures add up to ___.",
+            "options": [
+              "A sum unrelated to complementary angles",
+              "90 degrees",
+              "360 degrees",
+              "180 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The least common multiple of two numbers is ___.",
+            "options": [
+              "The largest number that divides evenly into both numbers",
+              "The smallest number that is a multiple of both numbers",
+              "Always equal to one of the two original numbers",
+              "A concept unrelated to least common multiple"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A unit rate expresses a quantity ___.",
+            "options": [
+              "Per single unit, such as price per one item",
+              "A concept unrelated to unit rates",
+              "Only in terms of time, never price",
+              "As a fraction with no connection to a single unit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to review number, geometry, and data concepts together?",
+            "options": [
+              "A reason unrelated to reviewing math",
+              "It reinforces how these math skills connect and build on one another",
+              "These topics have no connection to each other",
+              "Review never helps strengthen understanding of a subject"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Science Days 71-79",
+        "summary": "Grade 6 Science strand: this review lesson revisits key ideas from Days 71-79, including the digestive, circulatory, respiratory, and integumentary systems, states of matter, soil formation, freshwater and saltwater ecosystems, fossils, and friction.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "The main purpose of the digestive system is to ___.",
+            "options": [
+              "A concept unrelated to the digestive system",
+              "Pump blood throughout the body",
+              "Break down food into nutrients the body can absorb and use",
+              "Filter air before it reaches the lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The main function of the circulatory system is to ___.",
+            "options": [
+              "A concept unrelated to the circulatory system",
+              "Transport oxygen, nutrients, and waste throughout the body",
+              "Filter air before it reaches the lungs",
+              "Break down food into nutrients"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a change of state that occurs when a solid becomes a liquid?",
+            "options": [
+              "A process unrelated to changes of state",
+              "Melting",
+              "Freezing",
+              "Condensation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Friction is best described as ___.",
+            "options": [
+              "A concept unrelated to friction",
+              "A force that only exists in outer space",
+              "A force that resists motion between two surfaces in contact",
+              "A force that always speeds up a moving object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review body systems, matter, and Earth science concepts together?",
+            "options": [
+              "These topics have no connection to each other",
+              "Each topic must be studied with no connection to the others",
+              "Review is never useful in science",
+              "It reinforces how these interconnected science concepts relate to one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Social Studies Days 71-79",
+        "summary": "Grade 6 Social Studies strand: this review lesson revisits key ideas from Days 71-79, including the War of 1812, the Underground Railroad, Indigenous treaties, the Charter of Rights and Freedoms, the fur trade, the Red River Resistance, Nunavut, the Great Depression, and immigration waves.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "The War of 1812 was fought primarily between Britain (with its colonies) and ___.",
+            "options": [
+              "The United States",
+              "Spain",
+              "A country unrelated to the War of 1812",
+              "France"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Underground Railroad was best described as ___.",
+            "options": [
+              "An actual railway built underground",
+              "A government program run openly by the United States",
+              "A concept unrelated to the Underground Railroad",
+              "A secret network of routes and safe houses helping enslaved people escape to freedom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Canadian Charter of Rights and Freedoms became part of Canada’s Constitution in which year?",
+            "options": [
+              "1945",
+              "1982",
+              "1867",
+              "A year unrelated to the Charter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Nunavut was created as a separate territory in which year?",
+            "options": [
+              "A year unrelated to Nunavut’s creation",
+              "1949",
+              "1999",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to review Canadian history topics like treaties, migration, and government together?",
+            "options": [
+              "These topics have no connection to one another",
+              "A reason unrelated to social studies learning",
+              "It reinforces how historical events connect to shape Canadian identity and society today",
+              "Review is never useful when studying history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
