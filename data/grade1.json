@@ -20788,5 +20788,3385 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Digraph Endings: -ng and -nk",
+        "summary": "Students learn that the letters ng and nk work together at the end of a word to make one ending sound, as in sing and ring for ng, and sink and pink for nk.",
+        "resourceLabel": "YouTube: Digraph Endings: -ng and -nk",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Digraph%20Endings%3A%20-ng%20and%20-nk%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word ends with the ng sound?",
+            "options": [
+              "Sing",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word ends with the nk sound?",
+            "options": [
+              "Sink",
+              "Dog",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which letters end the word ring?",
+            "options": [
+              "sh",
+              "ng",
+              "nk",
+              "ck"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which letters end the word pink?",
+            "options": [
+              "ck",
+              "ng",
+              "sh",
+              "nk"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The ng and nk endings are examples of ___.",
+            "options": [
+              "Silent letters",
+              "Prefixes",
+              "Letter combinations that make one ending sound",
+              "Vowel teams only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that ends with the ng sound, like sing or ring.",
+            "answers": [
+              "sing",
+              "ring",
+              "king"
+            ]
+          },
+          {
+            "prompt": "Name one word that ends with the nk sound, like sink or pink.",
+            "answers": [
+              "sink",
+              "pink",
+              "think"
+            ]
+          },
+          {
+            "prompt": "What two letters make the ending sound in the word sing?",
+            "answers": [
+              "ng"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 7s",
+        "summary": "Students practise skip counting by 7s, saying the numbers 7, 14, 21, 28, and so on, to build number sense and recognize patterns.",
+        "resourceLabel": "YouTube: Skip Counting by 7s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%207s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When skip counting by 7s, what number comes after 7?",
+            "options": [
+              "15",
+              "21",
+              "13",
+              "14"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When skip counting by 7s, what number comes after 14?",
+            "options": [
+              "20",
+              "21",
+              "22",
+              "28"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which list shows skip counting by 7s?",
+            "options": [
+              "7, 14, 21, 28",
+              "5, 10, 15, 20",
+              "7, 9, 11, 13",
+              "7, 10, 13, 16"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When skip counting by 7s, what number comes after 21?",
+            "options": [
+              "27",
+              "28",
+              "35",
+              "29"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Skip counting by 7s means we count ___.",
+            "options": [
+              "Only even numbers",
+              "Every seventh number",
+              "Every second number",
+              "Backward only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes after 7 when skip counting by 7s?",
+            "answers": [
+              "14",
+              "fourteen"
+            ]
+          },
+          {
+            "prompt": "What number comes after 21 when skip counting by 7s?",
+            "answers": [
+              "28",
+              "twenty-eight"
+            ]
+          },
+          {
+            "prompt": "Start at 7 and skip count by 7s two times. What is the second number?",
+            "answers": [
+              "14",
+              "fourteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Clouds in the Sky: Types of Clouds",
+        "summary": "Students learn that clouds are made of tiny drops of water high in the sky, and that clouds can look fluffy, flat, or wispy, with grey clouds often meaning rain is coming.",
+        "resourceLabel": "YouTube: Clouds in the Sky: Types of Clouds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Clouds%20in%20the%20Sky%3A%20Types%20of%20Clouds%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are clouds mostly made of?",
+            "options": [
+              "Tiny drops of water",
+              "Solid rock",
+              "Sand",
+              "Metal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which colour of cloud often means rain is coming soon?",
+            "options": [
+              "Orange only",
+              "Pink",
+              "Bright blue",
+              "Grey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these describes a fluffy white cloud shape?",
+            "options": [
+              "Cumulus, puffy like cotton",
+              "Always flat and thin",
+              "Always tiny and invisible",
+              "Always red"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Clouds form high up in the ___.",
+            "options": [
+              "Ground",
+              "Ocean",
+              "Sky",
+              "Trees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Watching clouds can help us guess ___.",
+            "options": [
+              "What the weather might do next",
+              "The time of day only",
+              "The name of a season only",
+              "The colour of grass"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are clouds made of, mostly tiny drops of what?",
+            "answers": [
+              "water",
+              "tiny water droplets"
+            ]
+          },
+          {
+            "prompt": "Name one shape a cloud can look like, such as fluffy or flat.",
+            "answers": [
+              "fluffy",
+              "flat",
+              "wispy"
+            ]
+          },
+          {
+            "prompt": "What colour of cloud often means rain is coming?",
+            "answers": [
+              "grey",
+              "dark grey",
+              "gray"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Police Officers: Keeping Our Community Safe",
+        "summary": "Students learn that police officers help keep people safe, follow and enforce community rules, help in emergencies, and assist people who need help, such as directing traffic.",
+        "resourceLabel": "YouTube: Police Officers: Keeping Our Community Safe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Police%20Officers%3A%20Keeping%20Our%20Community%20Safe%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a police officer?",
+            "options": [
+              "Cooking food for a restaurant",
+              "Teaching a classroom",
+              "Delivering mail",
+              "Keeping people in the community safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who might help direct traffic to keep streets safe?",
+            "options": [
+              "A chef",
+              "A farmer",
+              "A police officer",
+              "A librarian"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is something a police officer might do?",
+            "options": [
+              "Help someone who is lost find their way home",
+              "Fly an airplane",
+              "Grow vegetables",
+              "Paint a picture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to know how to find a police officer in an emergency?",
+            "options": [
+              "They never help anyone",
+              "They are not part of the community",
+              "They can help keep you and others safe",
+              "They only work at night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Police officers are an example of ___.",
+            "options": [
+              "People who grow food",
+              "People who build houses only",
+              "Community helpers who keep people safe",
+              "People who deliver newspapers"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is one job of a police officer, like keeping people safe?",
+            "answers": [
+              "keeping people safe",
+              "helping people",
+              "directing traffic"
+            ]
+          },
+          {
+            "prompt": "Who can you call for help in an emergency, like a police officer?",
+            "answers": [
+              "a police officer",
+              "police",
+              "911"
+            ]
+          },
+          {
+            "prompt": "Name one tool a police officer might use, like a radio.",
+            "answers": [
+              "a radio",
+              "a car",
+              "a whistle"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "The Letter Y as a Vowel: sky, my, happy",
+        "summary": "Students learn that the letter y can act as a vowel, making a long i sound at the end of short words like my and sky, and a long e sound at the end of longer words like happy and funny.",
+        "resourceLabel": "YouTube: The Letter Y as a Vowel: sky, my, happy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Letter%20Y%20as%20a%20Vowel%3A%20sky%2C%20my%2C%20happy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What sound does y make at the end of the word my?",
+            "options": [
+              "Short o",
+              "Long e",
+              "Long i",
+              "Short a"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What sound does y make at the end of the word happy?",
+            "options": [
+              "Long i",
+              "Short e",
+              "Long e",
+              "Short u"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has y making a long i sound?",
+            "options": [
+              "Funny",
+              "Happy",
+              "Bunny",
+              "Sky"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has y making a long e sound?",
+            "options": [
+              "Sky",
+              "Funny",
+              "Cry",
+              "Fly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The letter y can act as a ___ at the end of some words.",
+            "options": [
+              "Consonant blend",
+              "Silent letter",
+              "Punctuation mark",
+              "Vowel"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What sound does the letter y make at the end of the word sky?",
+            "answers": [
+              "long i",
+              "i sound"
+            ]
+          },
+          {
+            "prompt": "What sound does the letter y make at the end of the word happy?",
+            "answers": [
+              "long e",
+              "e sound"
+            ]
+          },
+          {
+            "prompt": "Name one word where y sounds like long i, like sky or my.",
+            "answers": [
+              "sky",
+              "my",
+              "fly",
+              "cry"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ordering Numbers from Least to Greatest",
+        "summary": "Students practise putting a group of numbers in order starting with the smallest, called the least, and ending with the largest, called the greatest.",
+        "resourceLabel": "YouTube: Ordering Numbers from Least to Greatest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Numbers%20from%20Least%20to%20Greatest%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which list shows the numbers in order from least to greatest: 3, 7, 1?",
+            "options": [
+              "3, 1, 7",
+              "1, 3, 7",
+              "7, 1, 3",
+              "7, 3, 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is the least: 12, 4, 9?",
+            "options": [
+              "4",
+              "9",
+              "They are equal",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which number is the greatest: 15, 20, 10?",
+            "options": [
+              "10",
+              "They are equal",
+              "15",
+              "20"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To order numbers from least to greatest, we start with the ___.",
+            "options": [
+              "Largest number",
+              "Middle number",
+              "Last number written",
+              "Smallest number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which list is already in order from least to greatest?",
+            "options": [
+              "2, 6, 9",
+              "9, 6, 2",
+              "6, 2, 9",
+              "9, 2, 6"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Put these numbers in order from least to greatest: 5, 2, 8.",
+            "answers": [
+              "2, 5, 8",
+              "2 5 8"
+            ]
+          },
+          {
+            "prompt": "Which number is the least: 12, 4, 9?",
+            "answers": [
+              "4"
+            ]
+          },
+          {
+            "prompt": "Which number is the greatest: 15, 20, 10?",
+            "answers": [
+              "20"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Plant Parts We Eat: Roots, Stems, and Leaves",
+        "summary": "Students learn that people eat different parts of plants, such as roots like carrots, stems like celery, and leaves like lettuce.",
+        "resourceLabel": "YouTube: Plant Parts We Eat: Roots, Stems, and Leaves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Plant%20Parts%20We%20Eat%3A%20Roots%2C%20Stems%2C%20and%20Leaves%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a root that people eat?",
+            "options": [
+              "An apple",
+              "Celery",
+              "A carrot",
+              "Lettuce"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a stem that people eat?",
+            "options": [
+              "Lettuce",
+              "A carrot",
+              "Celery",
+              "A cherry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a leaf that people eat?",
+            "options": [
+              "A carrot",
+              "Lettuce",
+              "A potato",
+              "Celery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A potato is an example of a plant ___ that people eat.",
+            "options": [
+              "Flower",
+              "Fruit",
+              "Seed only",
+              "Root"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Eating different parts of plants can give our bodies ___.",
+            "options": [
+              "Healthy vitamins and energy",
+              "Only water",
+              "Only sugar",
+              "No nutrition at all"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one root vegetable that people eat, like a carrot.",
+            "answers": [
+              "a carrot",
+              "carrot",
+              "a potato"
+            ]
+          },
+          {
+            "prompt": "Name one plant stem that people eat, like celery.",
+            "answers": [
+              "celery"
+            ]
+          },
+          {
+            "prompt": "Name one plant leaf that people eat, like lettuce.",
+            "answers": [
+              "lettuce",
+              "spinach"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Hospitals and Doctors: Healthcare in Our Community",
+        "summary": "Students learn that hospitals and doctors help people who are sick or hurt get better, and that healthcare workers are an important part of a community.",
+        "resourceLabel": "YouTube: Hospitals and Doctors: Healthcare in Our Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hospitals%20and%20Doctors%3A%20Healthcare%20in%20Our%20Community%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a hospital?",
+            "options": [
+              "A place to see movies",
+              "A place to buy food",
+              "A place to mail letters",
+              "A place where doctors and nurses help sick or hurt people"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one job of a doctor?",
+            "options": [
+              "Cooking meals for a restaurant",
+              "Driving a bus",
+              "Delivering mail",
+              "Helping people who are sick or hurt get better"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a healthcare worker?",
+            "options": [
+              "A librarian",
+              "A pilot",
+              "A nurse",
+              "A farmer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are hospitals important to a community?",
+            "options": [
+              "They have no workers",
+              "They help keep people healthy and safe",
+              "They only sell toys",
+              "They are not important"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If someone gets hurt, who might help them feel better?",
+            "options": [
+              "A librarian",
+              "A mail carrier",
+              "A doctor or nurse",
+              "A chef"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place where doctors and nurses help sick people.",
+            "answers": [
+              "a hospital",
+              "hospital",
+              "a clinic"
+            ]
+          },
+          {
+            "prompt": "Name one job of a doctor, like helping people who are sick.",
+            "answers": [
+              "helping people who are sick",
+              "checking up on patients"
+            ]
+          },
+          {
+            "prompt": "Name one healthcare worker besides a doctor, like a nurse.",
+            "answers": [
+              "a nurse",
+              "nurse"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "R-Controlled Vowels: er, ir, ur",
+        "summary": "Students learn that when the letter r follows a vowel, it changes the vowel sound, as in er in fern, ir in bird, and ur in turn, which often sound alike.",
+        "resourceLabel": "YouTube: R-Controlled Vowels: er, ir, ur",
+        "resourceUrl": "https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20er%2C%20ir%2C%20ur%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the er sound?",
+            "options": [
+              "Sun",
+              "Cat",
+              "Fern",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the ir sound?",
+            "options": [
+              "Bird",
+              "Cat",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has the ur sound?",
+            "options": [
+              "Cat",
+              "Dog",
+              "Turn",
+              "Sun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The letters er, ir, and ur often make the ___ sound.",
+            "options": [
+              "A silent sound",
+              "A short i sound",
+              "A long a sound",
+              "Same r-controlled vowel sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the word bird, which letters control the vowel sound?",
+            "options": [
+              "ur",
+              "ir",
+              "er",
+              "ar"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word with the er sound, like fern or her.",
+            "answers": [
+              "fern",
+              "her",
+              "term"
+            ]
+          },
+          {
+            "prompt": "Name one word with the ir sound, like bird or girl.",
+            "answers": [
+              "bird",
+              "girl",
+              "shirt"
+            ]
+          },
+          {
+            "prompt": "Name one word with the ur sound, like turn or fur.",
+            "answers": [
+              "turn",
+              "fur",
+              "burn"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Missing Number Subtraction Sentences",
+        "summary": "Students solve subtraction sentences with a missing number, such as 9 minus what number equals 4, using known facts and counting strategies.",
+        "resourceLabel": "YouTube: Missing Number Subtraction Sentences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Number%20Subtraction%20Sentences%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number is missing: 9 minus ___ equals 4?",
+            "options": [
+              "3",
+              "6",
+              "5",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is missing: ___ minus 3 equals 7?",
+            "options": [
+              "11",
+              "8",
+              "10",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is missing: 6 minus ___ equals 2?",
+            "options": [
+              "4",
+              "5",
+              "2",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number is missing: ___ minus 5 equals 0?",
+            "options": [
+              "10",
+              "1",
+              "5",
+              "0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To solve a missing number subtraction sentence, it helps to ___.",
+            "options": [
+              "Always answer zero",
+              "Think about what number completes the difference",
+              "Skip the problem",
+              "Guess with no strategy"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number is missing: 9 minus ___ equals 4?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What number is missing: ___ minus 3 equals 7?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "What number is missing: 8 minus ___ equals 8?",
+            "answers": [
+              "0",
+              "zero"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Skeleton: Bones That Support Us",
+        "summary": "Students learn that the human body has many bones that make up a skeleton, which supports the body, protects organs like the heart, and helps us move.",
+        "resourceLabel": "YouTube: The Human Skeleton: Bones That Support Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Human%20Skeleton%3A%20Bones%20That%20Support%20Us%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call all the bones in the body together?",
+            "options": [
+              "An organ",
+              "A muscle",
+              "A skeleton",
+              "A vein"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one job of the skeleton?",
+            "options": [
+              "Growing hair",
+              "Supporting the body and helping it move",
+              "Producing sound",
+              "Making blood only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which bone protects the brain?",
+            "options": [
+              "The skull",
+              "The leg bone",
+              "The rib",
+              "The arm bone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ribs are bones that help protect ___.",
+            "options": [
+              "The teeth only",
+              "The hair",
+              "The skin only",
+              "The heart and lungs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Without a skeleton, a body would not be able to ___.",
+            "options": [
+              "See colours",
+              "Sleep",
+              "Stand up or move properly",
+              "Breathe at all"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call all the bones in the body together?",
+            "answers": [
+              "a skeleton",
+              "skeleton"
+            ]
+          },
+          {
+            "prompt": "Name one job of the skeleton, like supporting the body.",
+            "answers": [
+              "supporting the body",
+              "protecting organs",
+              "helping us move"
+            ]
+          },
+          {
+            "prompt": "Name one bone in your body, like your skull or a rib.",
+            "answers": [
+              "skull",
+              "rib",
+              "arm bone"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Volunteers: Helping Without Pay",
+        "summary": "Students learn that a volunteer is someone who helps others without being paid, such as helping clean a park or reading to younger children.",
+        "resourceLabel": "YouTube: Volunteers: Helping Without Pay",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Volunteers%3A%20Helping%20Without%20Pay%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a volunteer?",
+            "options": [
+              "A kind of machine",
+              "A type of animal",
+              "Someone who helps others without being paid",
+              "Someone who is always paid a lot of money"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of volunteering?",
+            "options": [
+              "Being paid to drive a bus",
+              "Working at a bank for a salary",
+              "Selling toys at a store",
+              "Helping clean up a park for free"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone choose to volunteer?",
+            "options": [
+              "To help others and make the community better",
+              "It is against the rules",
+              "Because they must be paid to help",
+              "Volunteering is never helpful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could a volunteer do at a school?",
+            "options": [
+              "Fly an airplane",
+              "Read stories to younger students",
+              "Print money",
+              "Build a hospital alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Volunteering shows that people in a community can ___.",
+            "options": [
+              "Only help if paid",
+              "Never help others",
+              "Care for each other and help without expecting pay",
+              "Ignore each other"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call someone who helps others without being paid?",
+            "answers": [
+              "a volunteer",
+              "volunteer"
+            ]
+          },
+          {
+            "prompt": "Name one way a volunteer might help a community, like cleaning a park.",
+            "answers": [
+              "cleaning a park",
+              "reading to children",
+              "helping at a food bank"
+            ]
+          },
+          {
+            "prompt": "Do volunteers get paid money for their help?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compound Sentences: Joining Two Ideas with And",
+        "summary": "Students learn that two short sentences can be joined into one longer sentence using the word and, making writing smoother and connecting related ideas.",
+        "resourceLabel": "YouTube: Compound Sentences: Joining Two Ideas with And",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Sentences%3A%20Joining%20Two%20Ideas%20with%20And%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word can join two short sentences into one longer sentence?",
+            "options": [
+              "Is",
+              "Was",
+              "The",
+              "And"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly joins two ideas with and?",
+            "options": [
+              "Sun bright and.",
+              "The sun is bright and the sky is blue.",
+              "The sun is bright the sky is blue.",
+              "And the sun is bright sky."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer join two short sentences with and?",
+            "options": [
+              "To connect related ideas smoothly",
+              "To make the sentence confusing",
+              "To remove all punctuation",
+              "To make two new paragraphs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is two short sentences joined by and?",
+            "options": [
+              "I, ran, fast, happy.",
+              "I ran fast. I felt happy.",
+              "I ran fast and I felt happy.",
+              "Ran fast happy I."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A sentence that joins two ideas together is called a ___ sentence.",
+            "options": [
+              "Silent",
+              "Backward",
+              "Broken",
+              "Compound"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Join these two sentences with and: I like cats. I like dogs.",
+            "answers": [
+              "i like cats and i like dogs",
+              "i like cats and dogs"
+            ]
+          },
+          {
+            "prompt": "What word can join two short sentences together, like and?",
+            "answers": [
+              "and"
+            ]
+          },
+          {
+            "prompt": "Name one reason writers join sentences with and, like to connect ideas.",
+            "answers": [
+              "to connect ideas",
+              "to make writing smoother"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Equal and Unequal Parts",
+        "summary": "Students learn to tell the difference between a whole shape cut into equal parts, where each piece is the same size, and a shape cut into unequal parts, where the pieces are different sizes.",
+        "resourceLabel": "YouTube: Fractions: Equal and Unequal Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20and%20Unequal%20Parts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If a pizza is cut into two same-size pieces, the parts are ___.",
+            "options": [
+              "Missing",
+              "Equal",
+              "Unequal",
+              "Doubled"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a sandwich is cut into one big piece and one small piece, the parts are ___.",
+            "options": [
+              "Equal",
+              "Unequal",
+              "Fractions only",
+              "The same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For a fraction like one half to be correct, the parts must be ___.",
+            "options": [
+              "Different shapes",
+              "Unequal in size",
+              "Equal in size",
+              "Different colours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows a shape cut into equal parts?",
+            "options": [
+              "A triangle with a corner missing",
+              "A circle cut into two same-size halves",
+              "A square with no cuts",
+              "A circle cut into one big and one tiny piece"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do equal parts matter when sharing food fairly?",
+            "options": [
+              "Equal parts do not matter",
+              "So the food disappears",
+              "So everyone gets the same amount",
+              "So one person gets more"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a shape is cut into two same-size pieces, are the parts equal or unequal?",
+            "answers": [
+              "equal"
+            ]
+          },
+          {
+            "prompt": "If a shape is cut into pieces of different sizes, are the parts equal or unequal?",
+            "answers": [
+              "unequal"
+            ]
+          },
+          {
+            "prompt": "Name one shape you could cut into two equal parts, like a circle or a square.",
+            "answers": [
+              "a circle",
+              "a square",
+              "a rectangle"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rainbows: Sunlight and Colours",
+        "summary": "Students learn that a rainbow appears when sunlight passes through raindrops and splits into many colours, and that rainbows always show the colours in the same order.",
+        "resourceLabel": "YouTube: Rainbows: Sunlight and Colours",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rainbows%3A%20Sunlight%20and%20Colours%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is needed to make a rainbow?",
+            "options": [
+              "Sunlight and raindrops",
+              "Only wind",
+              "Only darkness",
+              "Only snow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to sunlight when it passes through a raindrop to make a rainbow?",
+            "options": [
+              "It splits into many colours",
+              "It becomes invisible",
+              "It turns into snow",
+              "It disappears completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When might you be most likely to see a rainbow?",
+            "options": [
+              "After rain when the sun comes out",
+              "Inside a closed room",
+              "During a snowstorm only",
+              "In the middle of the night"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Rainbows always show their colours in ___.",
+            "options": [
+              "A different order each time",
+              "No particular order",
+              "The same order",
+              "Only one colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rainbow is an example of ___.",
+            "options": [
+              "A sound wave",
+              "A living thing",
+              "A solid object",
+              "Light splitting into many colours"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the colourful arc that appears in the sky after rain?",
+            "answers": [
+              "a rainbow",
+              "rainbow"
+            ]
+          },
+          {
+            "prompt": "What two things are needed to make a rainbow, like sunlight and rain?",
+            "answers": [
+              "sunlight and rain",
+              "sun and rain",
+              "light and water"
+            ]
+          },
+          {
+            "prompt": "Name one colour you might see in a rainbow, like red or blue.",
+            "answers": [
+              "red",
+              "blue",
+              "orange",
+              "yellow",
+              "green",
+              "purple"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Newcomers to Canada: Welcoming New Families",
+        "summary": "Students learn that many families move to Canada from other countries to start a new life, and that welcoming newcomers with kindness helps them feel at home in their new community.",
+        "resourceLabel": "YouTube: Newcomers to Canada: Welcoming New Families",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Newcomers%20to%20Canada%3A%20Welcoming%20New%20Families%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a newcomer?",
+            "options": [
+              "A type of building",
+              "A person or family who has recently moved to a new country",
+              "A kind of holiday",
+              "A person born in the same town forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a kind way to welcome a newcomer at school?",
+            "options": [
+              "Saying hello and inviting them to play",
+              "Making fun of how they speak",
+              "Refusing to be their friend",
+              "Ignoring them completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family choose to move to a new country?",
+            "options": [
+              "They are forced to leave for no reason",
+              "To find a better or safer life",
+              "They never have a reason",
+              "Only for vacation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a community help newcomers feel at home?",
+            "options": [
+              "By refusing to speak with them",
+              "By ignoring their needs",
+              "By being kind, friendly, and helpful",
+              "By excluding them from activities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Communities in Canada are often made up of ___.",
+            "options": [
+              "Only one kind of family",
+              "People who never move",
+              "People and families from many different places",
+              "Only very old buildings"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a family that has just moved to a new country?",
+            "answers": [
+              "newcomers",
+              "a newcomer family"
+            ]
+          },
+          {
+            "prompt": "Name one kind way to welcome a newcomer to your class, like saying hello.",
+            "answers": [
+              "saying hello",
+              "being their friend",
+              "helping them feel welcome"
+            ]
+          },
+          {
+            "prompt": "Why might a family move to a new country, like Canada?",
+            "answers": [
+              "to start a new life",
+              "for a better life",
+              "for safety"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Onomatopoeia: Sound Words in Stories",
+        "summary": "Students learn that onomatopoeia is when a word sounds like the noise it describes, such as buzz, splash, or crash, and that authors use these words to make stories more exciting.",
+        "resourceLabel": "YouTube: Onomatopoeia: Sound Words in Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Onomatopoeia%3A%20Sound%20Words%20in%20Stories%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is onomatopoeia?",
+            "options": [
+              "A word with no meaning",
+              "A silent letter",
+              "A type of punctuation",
+              "A word that sounds like the noise it describes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is an example of onomatopoeia for a bee?",
+            "options": [
+              "Buzz",
+              "Table",
+              "Happy",
+              "Green"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is an example of onomatopoeia for something falling in water?",
+            "options": [
+              "Quiet",
+              "Splash",
+              "Chair",
+              "Yellow"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do authors use sound words like crash and pop in stories?",
+            "options": [
+              "To make the story more exciting and vivid",
+              "To confuse the reader",
+              "To make the story shorter",
+              "To remove all action"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a sound word for something popping?",
+            "options": [
+              "Book",
+              "Chair",
+              "Window",
+              "Pop"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one sound word that sounds like the noise it describes, like buzz.",
+            "answers": [
+              "buzz",
+              "splash",
+              "crash",
+              "pop"
+            ]
+          },
+          {
+            "prompt": "What sound word describes the noise a bee makes?",
+            "answers": [
+              "buzz"
+            ]
+          },
+          {
+            "prompt": "What sound word describes something falling into water?",
+            "answers": [
+              "splash"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Counting Up to One Dollar",
+        "summary": "Students practise adding coins such as quarters, dimes, and nickels to see how close they can get to making one dollar, which equals 100 cents.",
+        "resourceLabel": "YouTube: Money: Counting Up to One Dollar",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Counting%20Up%20to%20One%20Dollar%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many cents make one dollar?",
+            "options": [
+              "10 cents",
+              "100 cents",
+              "50 cents",
+              "75 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you have 4 quarters, how much money do you have?",
+            "options": [
+              "25 cents",
+              "100 cents (one dollar)",
+              "75 cents",
+              "50 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you have 75 cents, how many more cents do you need to make one dollar?",
+            "options": [
+              "25 cents",
+              "10 cents",
+              "15 cents",
+              "50 cents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which coin is worth 25 cents?",
+            "options": [
+              "A penny",
+              "A quarter",
+              "A nickel",
+              "A dime"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting coins to reach one dollar helps us practise ___.",
+            "options": [
+              "Measuring length",
+              "Adding money amounts",
+              "Telling time",
+              "Reading a map"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many cents make one dollar?",
+            "answers": [
+              "100 cents",
+              "100"
+            ]
+          },
+          {
+            "prompt": "If you have 4 quarters, how many cents do you have?",
+            "answers": [
+              "100 cents",
+              "100"
+            ]
+          },
+          {
+            "prompt": "If you have 75 cents, how many more cents do you need to make one dollar?",
+            "answers": [
+              "25 cents",
+              "25"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Deserts: Life in a Dry Habitat",
+        "summary": "Students learn that a desert is a very dry habitat with little rain, and that plants and animals living there, like cactuses and camels, have special ways to survive with very little water.",
+        "resourceLabel": "YouTube: Deserts: Life in a Dry Habitat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Deserts%3A%20Life%20in%20a%20Dry%20Habitat%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a desert?",
+            "options": [
+              "A dry habitat that gets very little rain",
+              "A habitat found only underwater",
+              "A habitat covered in ice",
+              "A habitat with constant rain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which plant is well known for surviving in the desert?",
+            "options": [
+              "A cactus",
+              "A fern",
+              "A water lily",
+              "A pine tree"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is known for surviving in the desert with little water?",
+            "options": [
+              "A whale",
+              "A penguin",
+              "A polar bear",
+              "A camel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do desert plants like cactuses often survive with little water?",
+            "options": [
+              "They grow only underwater",
+              "They store water inside their thick stems",
+              "They need rain every day",
+              "They cannot survive at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes desert weather?",
+            "options": [
+              "Always foggy",
+              "Very wet with constant rain",
+              "Very dry with little rainfall",
+              "Always covered in snow"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of habitat gets very little rain, like a desert?",
+            "answers": [
+              "a desert",
+              "desert"
+            ]
+          },
+          {
+            "prompt": "Name one plant that can survive in a desert, like a cactus.",
+            "answers": [
+              "a cactus",
+              "cactus"
+            ]
+          },
+          {
+            "prompt": "Name one animal that can survive in a desert, like a camel.",
+            "answers": [
+              "a camel",
+              "camel"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Earning Money: Jobs and Working",
+        "summary": "Students learn that people earn money by working at a job, and that the money they earn can be used to pay for things their family needs, like food and clothing.",
+        "resourceLabel": "YouTube: Earning Money: Jobs and Working",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earning%20Money%3A%20Jobs%20and%20Working%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How do most people earn money?",
+            "options": [
+              "Money grows on trees",
+              "By working at a job",
+              "It appears for free",
+              "By doing nothing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can a family use the money they earn for?",
+            "options": [
+              "Only toys",
+              "Nothing important",
+              "Throwing it away",
+              "Buying food, clothing, and a home"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a job where someone earns money?",
+            "options": [
+              "Working as a teacher",
+              "Sleeping all day",
+              "Watching television",
+              "Playing video games all day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for people to earn money?",
+            "options": [
+              "To avoid working",
+              "To help pay for things their family needs",
+              "Money is never needed",
+              "It has no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Working hard at a job to earn money is an example of being ___.",
+            "options": [
+              "Careless",
+              "Lazy",
+              "Responsible",
+              "Unhelpful"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the money a person gets for doing a job?",
+            "answers": [
+              "earnings",
+              "pay",
+              "wages"
+            ]
+          },
+          {
+            "prompt": "Name one job a person could have to earn money, like a teacher.",
+            "answers": [
+              "a teacher",
+              "a doctor",
+              "a farmer"
+            ]
+          },
+          {
+            "prompt": "What can families use the money they earn for, like food?",
+            "answers": [
+              "food",
+              "clothing",
+              "a home"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Similes: Comparing with Like and As",
+        "summary": "Students learn that a simile compares two different things using the words like or as, such as saying someone is as fast as a cheetah, to help readers picture an idea more clearly.",
+        "resourceLabel": "YouTube: Similes: Comparing with Like and As",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Similes%3A%20Comparing%20with%20Like%20and%20As%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a simile?",
+            "options": [
+              "A type of punctuation",
+              "A word that sounds like a noise",
+              "A silent letter",
+              "A comparison using the words like or as"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is an example of a simile?",
+            "options": [
+              "She was as brave as a lion.",
+              "She was brave.",
+              "She ran quickly.",
+              "The lion was big."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which words are commonly used in a simile?",
+            "options": [
+              "And and but",
+              "Is and was",
+              "The and a",
+              "Like and as"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do writers use similes?",
+            "options": [
+              "To remove description",
+              "To confuse the reader",
+              "To make writing shorter only",
+              "To help readers picture an idea more clearly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these completes a simile: The baby was as quiet as a ___.",
+            "options": [
+              "Mouse",
+              "Chair",
+              "Rock band",
+              "Table"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two words are often used in a simile, like like and as?",
+            "answers": [
+              "like and as",
+              "like, as"
+            ]
+          },
+          {
+            "prompt": "Finish this simile: The snow was as white as ___.",
+            "answers": [
+              "snow",
+              "a cloud",
+              "milk"
+            ]
+          },
+          {
+            "prompt": "Name one simile you know, like busy as a bee.",
+            "answers": [
+              "busy as a bee",
+              "as fast as a cheetah",
+              "as quiet as a mouse"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Simple Addition and Subtraction Word Problems",
+        "summary": "Students practise reading a short word problem, deciding whether to add or subtract, and solving it, such as figuring out how many apples are left after some are eaten.",
+        "resourceLabel": "YouTube: Solving Simple Addition and Subtraction Word Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solving%20Simple%20Addition%20and%20Subtraction%20Word%20Problems%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Sam had 6 apples and ate 2. How many apples are left?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Mia had 3 stickers and got 5 more. How many stickers does she have now?",
+            "options": [
+              "2",
+              "7",
+              "8",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A word problem that asks how many are left usually means you should ___.",
+            "options": [
+              "Subtract",
+              "Multiply",
+              "Ignore the numbers",
+              "Add"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A word problem that asks how many in all usually means you should ___.",
+            "options": [
+              "Subtract",
+              "Ignore the numbers",
+              "Add",
+              "Skip count only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Tom had 4 toy cars and got 3 more for his birthday. How many toy cars does he have now?",
+            "options": [
+              "7",
+              "1",
+              "8",
+              "6"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Sam had 6 apples and ate 2. How many apples are left?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Mia had 3 stickers and got 5 more. How many stickers does she have now?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "Should you add or subtract to find how many are left after some are used?",
+            "answers": [
+              "subtract"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Arctic Animals: Life in the Cold",
+        "summary": "Students learn that Arctic animals, such as polar bears and penguins, have special features like thick fur or feathers and fat to help them survive in very cold, icy habitats.",
+        "resourceLabel": "YouTube: Arctic Animals: Life in the Cold",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Arctic%20Animals%3A%20Life%20in%20the%20Cold%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which animal is known for living in the cold Arctic?",
+            "options": [
+              "A monkey",
+              "A lion",
+              "A polar bear",
+              "A camel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What helps many Arctic animals stay warm in the cold?",
+            "options": [
+              "Bright colours",
+              "Thin skin only",
+              "Large ears",
+              "Thick fur or fat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of weather does the Arctic usually have?",
+            "options": [
+              "Very cold with snow and ice",
+              "Very hot and dry",
+              "Mild all year",
+              "Warm and rainy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an Arctic animal have white fur?",
+            "options": [
+              "It has no purpose",
+              "To attract more sunlight",
+              "To stay cool in the heat",
+              "To blend in with the snow and ice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a feature that helps Arctic animals survive the cold?",
+            "options": [
+              "Living only in warm deserts",
+              "Having no protection from cold",
+              "Very thin fur with no warmth",
+              "A thick layer of fat called blubber"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one animal that lives in a cold Arctic habitat, like a polar bear.",
+            "answers": [
+              "a polar bear",
+              "polar bear",
+              "a penguin"
+            ]
+          },
+          {
+            "prompt": "Name one thing that helps an Arctic animal stay warm, like thick fur.",
+            "answers": [
+              "thick fur",
+              "fat",
+              "feathers"
+            ]
+          },
+          {
+            "prompt": "Is the Arctic a very cold or very hot place?",
+            "answers": [
+              "very cold",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Airports: Travelling by Airplane",
+        "summary": "Students learn that an airport is a place where airplanes take off and land, helping people travel quickly to faraway places for work, visiting family, or vacations.",
+        "resourceLabel": "YouTube: Airports: Travelling by Airplane",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Airports%3A%20Travelling%20by%20Airplane%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an airport?",
+            "options": [
+              "A place where airplanes take off and land",
+              "A place to borrow books",
+              "A place to buy groceries",
+              "A place to see movies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family travel by airplane?",
+            "options": [
+              "To buy milk nearby",
+              "To visit family or go on vacation far away",
+              "To walk to school",
+              "Airplanes are never used for travel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For very long trips, travelling by airplane is usually ___ than travelling by car.",
+            "options": [
+              "Faster",
+              "Slower",
+              "Impossible",
+              "The same speed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who helps fly the airplane at an airport?",
+            "options": [
+              "A farmer",
+              "A chef",
+              "A librarian",
+              "A pilot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Airports help connect communities by allowing people to ___.",
+            "options": [
+              "Stay home always",
+              "Travel quickly to faraway places",
+              "Only travel by boat",
+              "Never leave their town"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a place where airplanes take off and land?",
+            "answers": [
+              "an airport",
+              "airport"
+            ]
+          },
+          {
+            "prompt": "Name one reason people might travel by airplane, like visiting family.",
+            "answers": [
+              "visiting family",
+              "going on vacation",
+              "for work"
+            ]
+          },
+          {
+            "prompt": "Is travelling by airplane usually faster or slower than travelling by car for long trips?",
+            "answers": [
+              "faster"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Making Connections: Text to Self",
+        "summary": "Students learn that good readers make connections between a story and their own lives, thinking about times they felt or did something similar to a character.",
+        "resourceLabel": "YouTube: Making Connections: Text to Self",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Making%20Connections%3A%20Text%20to%20Self%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a text-to-self connection?",
+            "options": [
+              "Skipping every page",
+              "Connecting a story to something in your own life",
+              "Only reading the title",
+              "Ignoring the story completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a character feels excited about a birthday party, a reader might connect this to ___.",
+            "options": [
+              "A grocery list",
+              "A weather report",
+              "A math problem",
+              "A time they felt excited about their own celebration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is making connections helpful for readers?",
+            "options": [
+              "It replaces reading completely",
+              "It helps them understand and remember the story better",
+              "It makes reading pointless",
+              "It confuses the reader"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a text-to-self connection?",
+            "options": [
+              "The cover is blue.",
+              "The book has ten pages.",
+              "I felt scared like the character when I was lost once too.",
+              "The author lives far away."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Making connections while reading is a strategy used by ___.",
+            "options": [
+              "Only writers",
+              "Only teachers",
+              "Good readers to understand a story better",
+              "No one"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when a reader connects a story to their own life?",
+            "answers": [
+              "a text-to-self connection",
+              "making a connection"
+            ]
+          },
+          {
+            "prompt": "If a character in a story feels nervous on the first day of school, name a time you may have felt the same way.",
+            "answers": [
+              "first day of school",
+              "a new place",
+              "starting something new"
+            ]
+          },
+          {
+            "prompt": "Why do good readers make connections while reading?",
+            "answers": [
+              "it helps them understand the story",
+              "to understand characters better"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing Length: Longer, Shorter, and the Same",
+        "summary": "Students compare the length of two or more objects directly, using words like longer, shorter, and the same to describe the difference.",
+        "resourceLabel": "YouTube: Comparing Length: Longer, Shorter, and the Same",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Length%3A%20Longer%2C%20Shorter%2C%20and%20the%20Same%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If a pencil is longer than a crayon, the crayon is ___.",
+            "options": [
+              "Longer",
+              "Heavier",
+              "The same length",
+              "Shorter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is likely the longest object?",
+            "options": [
+              "A paperclip",
+              "A school bus",
+              "A crayon",
+              "A pencil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two ribbons are exactly the same length, we say they are ___.",
+            "options": [
+              "Equal in length",
+              "Both very short",
+              "Different lengths",
+              "Both very heavy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word describes an object that is not as long as another?",
+            "options": [
+              "Heavier",
+              "Shorter",
+              "Longer",
+              "Wider"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To compare the length of two objects, you can line them up and see which one is ___.",
+            "options": [
+              "Longer or shorter",
+              "Louder",
+              "Colder",
+              "Heavier only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a pencil is longer than a crayon, which object is shorter?",
+            "answers": [
+              "the crayon",
+              "crayon"
+            ]
+          },
+          {
+            "prompt": "Name one object in your home that is longer than a pencil.",
+            "answers": [
+              "a table",
+              "a broom",
+              "a book"
+            ]
+          },
+          {
+            "prompt": "If two ribbons are exactly the same length, what word describes them?",
+            "answers": [
+              "the same",
+              "equal"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Composting: Turning Food Scraps into Soil",
+        "summary": "Students learn that composting is a way to turn food scraps and plant waste, like banana peels and leaves, into rich soil that helps new plants grow.",
+        "resourceLabel": "YouTube: Composting: Turning Food Scraps into Soil",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composting%3A%20Turning%20Food%20Scraps%20into%20Soil%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is composting?",
+            "options": [
+              "Freezing food waste forever",
+              "Throwing all garbage into the ocean",
+              "Turning food scraps and plant waste into rich soil",
+              "Burning old leaves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these can be composted?",
+            "options": [
+              "A plastic bottle",
+              "A glass jar",
+              "A metal can",
+              "A banana peel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does compost help new plants do?",
+            "options": [
+              "Turn into rocks",
+              "Disappear",
+              "Stop growing completely",
+              "Grow better with rich soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is composting a helpful habit for the environment?",
+            "options": [
+              "It has no benefit",
+              "It reduces waste and creates healthy soil",
+              "It creates more garbage",
+              "It harms plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of something that should NOT go in a compost bin?",
+            "options": [
+              "Dried leaves",
+              "A banana peel",
+              "An apple core",
+              "A plastic toy"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call turning food scraps into rich soil?",
+            "answers": [
+              "composting",
+              "compost"
+            ]
+          },
+          {
+            "prompt": "Name one food scrap that can be composted, like a banana peel.",
+            "answers": [
+              "a banana peel",
+              "banana peel",
+              "apple core"
+            ]
+          },
+          {
+            "prompt": "What can compost help new plants do, like grow?",
+            "answers": [
+              "grow",
+              "grow better"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Weather Around the World: Hot and Cold Climates",
+        "summary": "Students learn that different places around the world have very different climates, from very hot places near the equator to very cold places near the poles, which affects how people live and dress.",
+        "resourceLabel": "YouTube: Weather Around the World: Hot and Cold Climates",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Around%20the%20World%3A%20Hot%20and%20Cold%20Climates%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the usual weather pattern of a place over a long time?",
+            "options": [
+              "A storm",
+              "A season",
+              "A forecast",
+              "Climate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these places is usually very hot?",
+            "options": [
+              "The Arctic Ocean",
+              "The North Pole",
+              "A snowy mountain top",
+              "A desert near the equator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these places is usually very cold?",
+            "options": [
+              "Near the North Pole",
+              "A hot desert",
+              "A sunny beach at the equator",
+              "A tropical rainforest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people who live in cold climates wear heavy coats and boots?",
+            "options": [
+              "To stay warm in cold weather",
+              "To stay cool",
+              "Coats are only for decoration",
+              "They never feel cold"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Different climates around the world affect how people ___.",
+            "options": [
+              "Have no effect at all",
+              "Dress and live",
+              "Never change anything",
+              "Only eat one kind of food"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place that is usually very hot, like a desert near the equator.",
+            "answers": [
+              "a desert",
+              "near the equator",
+              "a hot country"
+            ]
+          },
+          {
+            "prompt": "Name one place that is usually very cold, like near the North Pole.",
+            "answers": [
+              "near the north pole",
+              "the arctic",
+              "a cold country"
+            ]
+          },
+          {
+            "prompt": "Why might people in a hot climate dress differently than people in a cold climate?",
+            "answers": [
+              "to stay comfortable",
+              "because of the weather"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Descriptive Writing: Painting a Picture with Words",
+        "summary": "Students learn that descriptive writing uses detailed words about how something looks, sounds, feels, smells, or tastes to help readers picture it clearly in their minds.",
+        "resourceLabel": "YouTube: Descriptive Writing: Painting a Picture with Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Descriptive%20Writing%3A%20Painting%20a%20Picture%20with%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is descriptive writing?",
+            "options": [
+              "A type of math problem",
+              "A list of numbers",
+              "Writing that uses detailed words to help readers picture something",
+              "Writing with no details at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is the most descriptive?",
+            "options": [
+              "The bright red apple was crisp and sweet.",
+              "It was a fruit.",
+              "Apple.",
+              "The apple was there."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these senses might a writer use to describe a flower?",
+            "options": [
+              "Only numbers",
+              "Smell, sight, and touch",
+              "None at all",
+              "Only math facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Descriptive writing helps a reader ___.",
+            "options": [
+              "Ignore the characters",
+              "Skip the story entirely",
+              "Forget the details",
+              "Picture the story clearly in their mind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is a strong describing word for a stormy sky?",
+            "options": [
+              "It",
+              "Dark and swirling",
+              "Thing",
+              "A sky"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one describing word you could use for a lemon, like sour or yellow.",
+            "answers": [
+              "sour",
+              "yellow",
+              "bumpy"
+            ]
+          },
+          {
+            "prompt": "What is descriptive writing used for, like helping readers picture something?",
+            "answers": [
+              "helping readers picture something",
+              "to describe things clearly"
+            ]
+          },
+          {
+            "prompt": "Name one sense you can use in descriptive writing, like sight or smell.",
+            "answers": [
+              "sight",
+              "smell",
+              "sound",
+              "taste",
+              "touch"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Morning, Afternoon, and Evening",
+        "summary": "Students learn to sort daily activities into morning, afternoon, and evening, building an understanding of how a day is divided into different parts.",
+        "resourceLabel": "YouTube: Time: Morning, Afternoon, and Evening",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Evening%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which activity usually happens in the morning?",
+            "options": [
+              "Watching the sunset",
+              "Eating breakfast",
+              "Eating dinner",
+              "Going to bed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which activity usually happens in the evening?",
+            "options": [
+              "Eating dinner",
+              "Going to school",
+              "Eating breakfast",
+              "Waking up"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is lunch usually eaten in the morning or afternoon?",
+            "options": [
+              "Night",
+              "Morning",
+              "Afternoon",
+              "Evening"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which part of the day comes right after morning?",
+            "options": [
+              "Midnight",
+              "Afternoon",
+              "Night",
+              "Evening"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sorting activities into morning, afternoon, and evening helps us understand ___.",
+            "options": [
+              "How to measure length",
+              "How to add numbers",
+              "How a day is divided into different parts",
+              "How to count coins"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one activity you do in the morning, like eating breakfast.",
+            "answers": [
+              "eating breakfast",
+              "waking up",
+              "brushing teeth"
+            ]
+          },
+          {
+            "prompt": "Name one activity you do in the evening, like eating dinner.",
+            "answers": [
+              "eating dinner",
+              "going to bed",
+              "taking a bath"
+            ]
+          },
+          {
+            "prompt": "Is lunch usually eaten in the morning or the afternoon?",
+            "answers": [
+              "the afternoon",
+              "afternoon"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ladybugs and Beetles: Helpful Insects",
+        "summary": "Students learn that ladybugs and other beetles are helpful insects because they eat pests like aphids that can harm garden plants.",
+        "resourceLabel": "YouTube: Ladybugs and Beetles: Helpful Insects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ladybugs%20and%20Beetles%3A%20Helpful%20Insects%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which insect is known for helping gardens by eating small pests?",
+            "options": [
+              "A mosquito",
+              "A moth",
+              "A ladybug",
+              "A housefly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What small pest do ladybugs often eat?",
+            "options": [
+              "Worms only",
+              "Aphids",
+              "Fish",
+              "Large birds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many legs does a ladybug have, like other insects?",
+            "options": [
+              "Ten",
+              "Eight",
+              "Six",
+              "Four"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are ladybugs considered helpful to gardeners?",
+            "options": [
+              "They eat pests that harm plants",
+              "They destroy all the plants",
+              "They scare away helpful bees",
+              "They have no effect on gardens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A ladybug is an example of a type of insect called a ___.",
+            "options": [
+              "Reptile",
+              "Mammal",
+              "Beetle",
+              "Amphibian"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one insect that helps gardens by eating pests, like a ladybug.",
+            "answers": [
+              "a ladybug",
+              "ladybug"
+            ]
+          },
+          {
+            "prompt": "What small pest do ladybugs like to eat, like aphids?",
+            "answers": [
+              "aphids",
+              "tiny bugs"
+            ]
+          },
+          {
+            "prompt": "How many legs does a ladybug have, like an insect?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Knowing Your Address: Where You Live",
+        "summary": "Students learn why it is helpful to know their home address, including street name and city, so they can find their way home and share it with a trusted adult in an emergency.",
+        "resourceLabel": "YouTube: Knowing Your Address: Where You Live",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Knowing%20Your%20Address%3A%20Where%20You%20Live%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an address?",
+            "options": [
+              "A type of food",
+              "The street name and number where a person lives",
+              "A kind of game",
+              "A school subject"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful for a child to know their home address?",
+            "options": [
+              "It is never useful",
+              "So they can get help finding their way home in an emergency",
+              "Addresses are secret from everyone",
+              "Only adults need addresses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is a safe person to share your address with if you need help?",
+            "options": [
+              "A trusted adult like a parent or police officer",
+              "A stranger you just met",
+              "No one, ever",
+              "Anyone who asks online"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is part of a home address?",
+            "options": [
+              "A favourite colour",
+              "A birthday",
+              "A pet name",
+              "A street name and number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Knowing your address can help keep you ___.",
+            "options": [
+              "Unable to get help",
+              "Confused",
+              "Unsafe",
+              "Safe if you ever get lost"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the street name and number where you live?",
+            "answers": [
+              "an address",
+              "address"
+            ]
+          },
+          {
+            "prompt": "Why is it helpful to know your address, like for an emergency?",
+            "answers": [
+              "for an emergency",
+              "to find your way home",
+              "so a trusted adult can help you"
+            ]
+          },
+          {
+            "prompt": "Who should you tell your address to if you need help, like a police officer?",
+            "answers": [
+              "a police officer",
+              "a trusted adult",
+              "a parent"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Asking Questions Before, During, and After Reading",
+        "summary": "Students learn that good readers ask questions before reading to predict what a book might be about, during reading to check understanding, and after reading to think about what they learned.",
+        "resourceLabel": "YouTube: Asking Questions Before, During, and After Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Asking%20Questions%20Before%2C%20During%2C%20and%20After%20Reading%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Why might a reader ask a question before starting a book?",
+            "options": [
+              "To predict what the book might be about",
+              "To avoid reading",
+              "To skip the book entirely",
+              "To ignore the title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader ask a question while reading a story?",
+            "options": [
+              "To check their understanding of what is happening",
+              "To forget the story",
+              "To close the book",
+              "To stop thinking"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader ask a question after finishing a book?",
+            "options": [
+              "To think about what they learned or enjoyed",
+              "Questions are not useful after reading",
+              "To erase their memory of the book",
+              "To avoid discussing it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a good question to ask before reading, based on the cover?",
+            "options": [
+              "What time is it?",
+              "What colour is the sky?",
+              "What do I think this book will be about?",
+              "What did I eat for lunch?"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Asking questions while reading helps a reader ___.",
+            "options": [
+              "Forget everything they read",
+              "Read more slowly with no purpose",
+              "Understand and remember the story better",
+              "Ignore the characters"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one question you could ask before reading a book, like what will this book be about.",
+            "answers": [
+              "what will this book be about",
+              "what is the title telling me"
+            ]
+          },
+          {
+            "prompt": "Name one question you could ask during reading, like what just happened.",
+            "answers": [
+              "what just happened",
+              "why did the character do that"
+            ]
+          },
+          {
+            "prompt": "Name one question you could ask after reading, like what did I learn.",
+            "answers": [
+              "what did i learn",
+              "what was the lesson"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Making a Simple Survey and Chart",
+        "summary": "Students learn to ask classmates a simple survey question, such as their favourite fruit, collect the answers, and organize the results into a simple chart.",
+        "resourceLabel": "YouTube: Data: Making a Simple Survey and Chart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Making%20a%20Simple%20Survey%20and%20Chart%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a survey?",
+            "options": [
+              "A type of shape",
+              "Asking a group of people the same question to collect information",
+              "A math symbol",
+              "A kind of clock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a good survey question?",
+            "options": [
+              "What is your favourite fruit?",
+              "What time is it right now?",
+              "What colour is the sky?",
+              "How many legs does a spider have?"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After collecting survey answers, what can we use to organize the results?",
+            "options": [
+              "A chart",
+              "A ruler",
+              "A map",
+              "A clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If most classmates chose apples as their favourite fruit in a survey, apples would be the ___ answer.",
+            "options": [
+              "Wrong",
+              "Least popular",
+              "Only",
+              "Most popular"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A chart of survey results helps us ___.",
+            "options": [
+              "Erase the results",
+              "Make the data harder to read",
+              "See information clearly at a glance",
+              "Hide the information"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call asking a group of people the same question to collect information?",
+            "answers": [
+              "a survey",
+              "survey"
+            ]
+          },
+          {
+            "prompt": "Name one question you could use for a survey, like what is your favourite fruit.",
+            "answers": [
+              "what is your favourite fruit",
+              "what is your favourite colour"
+            ]
+          },
+          {
+            "prompt": "After collecting survey answers, where can you organize them, like on a chart?",
+            "answers": [
+              "a chart",
+              "chart"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Diets: Herbivores, Carnivores, and Omnivores",
+        "summary": "Students learn that animals can be grouped by what they eat: herbivores eat only plants, carnivores eat only other animals, and omnivores eat both plants and animals.",
+        "resourceLabel": "YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call an animal that eats only plants?",
+            "options": [
+              "An omnivore",
+              "A predator only",
+              "A carnivore",
+              "A herbivore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call an animal that eats only other animals?",
+            "options": [
+              "A herbivore",
+              "A plant",
+              "An omnivore",
+              "A carnivore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call an animal that eats both plants and animals?",
+            "options": [
+              "A carnivore",
+              "A producer",
+              "A herbivore",
+              "An omnivore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is a herbivore that eats mostly plants?",
+            "options": [
+              "A shark",
+              "A rabbit",
+              "A wolf",
+              "A lion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals is an omnivore that eats both plants and animals?",
+            "options": [
+              "A cow",
+              "A bear",
+              "A rabbit",
+              "A shark"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call an animal that eats only plants?",
+            "answers": [
+              "a herbivore",
+              "herbivore"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that eats only other animals?",
+            "answers": [
+              "a carnivore",
+              "carnivore"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that eats both plants and animals?",
+            "answers": [
+              "an omnivore",
+              "omnivore"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Time Capsules: Saving Memories for the Future",
+        "summary": "Students learn that a time capsule is a container filled with objects and messages from today that is saved and opened many years later, helping people in the future learn about the past.",
+        "resourceLabel": "YouTube: Time Capsules: Saving Memories for the Future",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Capsules%3A%20Saving%20Memories%20for%20the%20Future%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a time capsule?",
+            "options": [
+              "A container of objects saved to be opened in the future",
+              "A type of vehicle",
+              "A musical instrument",
+              "A kind of clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might someone put inside a time capsule?",
+            "options": [
+              "A running car",
+              "A live animal",
+              "A full-grown tree",
+              "A photo and a letter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might people create a time capsule?",
+            "options": [
+              "To share memories and objects with people in the future",
+              "It has no purpose",
+              "To hide from other people",
+              "To throw items away forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A time capsule is usually opened ___ after it is buried or stored.",
+            "options": [
+              "Immediately",
+              "The very next day",
+              "Many years later",
+              "Never"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Time capsules help future people learn about ___.",
+            "options": [
+              "What life was like in the past",
+              "Only the weather tomorrow",
+              "Nothing at all",
+              "Only numbers"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a container of objects saved to be opened in the future?",
+            "answers": [
+              "a time capsule",
+              "time capsule"
+            ]
+          },
+          {
+            "prompt": "Name one object you might put in a time capsule, like a photo or letter.",
+            "answers": [
+              "a photo",
+              "a letter",
+              "a drawing"
+            ]
+          },
+          {
+            "prompt": "Why might people make a time capsule, like to share memories with the future?",
+            "answers": [
+              "to share memories with the future",
+              "so people in the future can learn about today"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Y as a Vowel, R-Controlled Vowels, and Reading Strategies",
+        "summary": "Students review recent Language skills: digraph endings, y as a vowel, r-controlled vowels, compound sentences, onomatopoeia, similes, text-to-self connections, descriptive writing, and questioning strategies.",
+        "resourceLabel": "YouTube: Language Review: Y as a Vowel, R-Controlled Vowels, and Reading Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Y%20as%20a%20Vowel%2C%20R-Controlled%20Vowels%2C%20and%20Reading%20Strategies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word ends with the ng sound?",
+            "options": [
+              "Sun",
+              "Sing",
+              "Cat",
+              "Dog"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has y making a long i sound?",
+            "options": [
+              "Funny",
+              "Happy",
+              "Bunny",
+              "Sky"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the er sound?",
+            "options": [
+              "Dog",
+              "Sun",
+              "Fern",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly joins two ideas with and?",
+            "options": [
+              "The sun is bright and the sky is blue.",
+              "Sun bright and.",
+              "The sun is bright the sky is blue.",
+              "And the sun is bright sky."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of a simile?",
+            "options": [
+              "She ran quickly.",
+              "The lion was big.",
+              "She was brave.",
+              "She was as brave as a lion."
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word where y sounds like long i, like sky or my.",
+            "answers": [
+              "sky",
+              "my",
+              "fly",
+              "cry"
+            ]
+          },
+          {
+            "prompt": "Name one word with the er sound, like fern or her.",
+            "answers": [
+              "fern",
+              "her",
+              "term"
+            ]
+          },
+          {
+            "prompt": "What word can join two short sentences together, like and?",
+            "answers": [
+              "and"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Counting, Fractions, Money, and Time",
+        "summary": "Students review recent Math skills: skip counting by 7s, ordering numbers, missing number subtraction, equal and unequal fraction parts, counting money to one dollar, word problems, comparing length, and parts of a day.",
+        "resourceLabel": "YouTube: Math Review: Counting, Fractions, Money, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Counting%2C%20Fractions%2C%20Money%2C%20and%20Time%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When skip counting by 7s, what number comes after 7?",
+            "options": [
+              "13",
+              "14",
+              "21",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which list shows the numbers in order from least to greatest: 3, 7, 1?",
+            "options": [
+              "7, 1, 3",
+              "7, 3, 1",
+              "3, 1, 7",
+              "1, 3, 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a pizza is cut into two same-size pieces, the parts are ___.",
+            "options": [
+              "Equal",
+              "Missing",
+              "Doubled",
+              "Unequal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many cents make one dollar?",
+            "options": [
+              "50 cents",
+              "100 cents",
+              "75 cents",
+              "10 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which activity usually happens in the morning?",
+            "options": [
+              "Watching the sunset",
+              "Eating breakfast",
+              "Going to bed",
+              "Eating dinner"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes after 7 when skip counting by 7s?",
+            "answers": [
+              "14",
+              "fourteen"
+            ]
+          },
+          {
+            "prompt": "Which number is the greatest: 15, 20, 10?",
+            "answers": [
+              "20"
+            ]
+          },
+          {
+            "prompt": "How many cents make one dollar?",
+            "answers": [
+              "100 cents",
+              "100"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Weather, Plants, Habitats, and Animals",
+        "summary": "Students review recent Science topics: clouds, plant parts we eat, the human skeleton, rainbows, deserts, arctic animals, composting, ladybugs, and animal diets.",
+        "resourceLabel": "YouTube: Science Review: Weather, Plants, Habitats, and Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Weather%2C%20Plants%2C%20Habitats%2C%20and%20Animals%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are clouds mostly made of?",
+            "options": [
+              "Sand",
+              "Tiny drops of water",
+              "Metal",
+              "Solid rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call all the bones in the body together?",
+            "options": [
+              "A vein",
+              "A muscle",
+              "A skeleton",
+              "An organ"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a desert?",
+            "options": [
+              "A habitat with constant rain",
+              "A habitat covered in ice",
+              "A habitat found only underwater",
+              "A dry habitat that gets very little rain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal is known for living in the cold Arctic?",
+            "options": [
+              "A lion",
+              "A camel",
+              "A monkey",
+              "A polar bear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call an animal that eats only plants?",
+            "options": [
+              "An omnivore",
+              "A carnivore",
+              "A predator only",
+              "A herbivore"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are clouds made of, mostly tiny drops of what?",
+            "answers": [
+              "water",
+              "tiny water droplets"
+            ]
+          },
+          {
+            "prompt": "Name one root vegetable that people eat, like a carrot.",
+            "answers": [
+              "a carrot",
+              "carrot",
+              "a potato"
+            ]
+          },
+          {
+            "prompt": "What do we call all the bones in the body together?",
+            "answers": [
+              "a skeleton",
+              "skeleton"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Helpers, Newcomers, and Travel",
+        "summary": "Students review recent Social Studies topics: police officers, hospitals and doctors, volunteers, newcomers to Canada, earning money, airports, weather around the world, addresses, and time capsules.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Newcomers, and Travel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Newcomers%2C%20and%20Travel%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a police officer?",
+            "options": [
+              "Delivering mail",
+              "Cooking food for a restaurant",
+              "Keeping people in the community safe",
+              "Teaching a classroom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a hospital?",
+            "options": [
+              "A place to mail letters",
+              "A place to see movies",
+              "A place where doctors and nurses help sick or hurt people",
+              "A place to buy food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a volunteer?",
+            "options": [
+              "A type of animal",
+              "A kind of machine",
+              "Someone who helps others without being paid",
+              "Someone who is always paid a lot of money"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an airport?",
+            "options": [
+              "A place to see movies",
+              "A place to buy groceries",
+              "A place where airplanes take off and land",
+              "A place to borrow books"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an address?",
+            "options": [
+              "A school subject",
+              "A kind of game",
+              "A type of food",
+              "The street name and number where a person lives"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is one job of a police officer, like keeping people safe?",
+            "answers": [
+              "keeping people safe",
+              "helping people",
+              "directing traffic"
+            ]
+          },
+          {
+            "prompt": "What do we call someone who helps others without being paid?",
+            "answers": [
+              "a volunteer",
+              "volunteer"
+            ]
+          },
+          {
+            "prompt": "What do we call the street name and number where you live?",
+            "answers": [
+              "an address",
+              "address"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
