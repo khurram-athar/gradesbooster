@@ -20701,5 +20701,3310 @@
         ]
       }
     ]
+  },
+  {
+    "day": 71,
+    "label": "Day 71 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Digraphs: sh, ch, and th",
+        "summary": "Students learn that certain pairs of letters, such as sh, ch, and th, blend together to make one brand new sound instead of two separate sounds, as in ship, chip, and think.",
+        "resourceLabel": "YouTube: Digraphs: sh, ch, and th",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Digraphs%3A%20sh%2C%20ch%2C%20and%20th%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the digraph sh?",
+            "options": [
+              "Cat",
+              "Sun",
+              "Ship",
+              "Dog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word begins with the digraph ch?",
+            "options": [
+              "Man",
+              "Sit",
+              "Top",
+              "Chip"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the word think, which two letters make one new sound?",
+            "options": [
+              "Ti",
+              "In",
+              "Th",
+              "Nk"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A digraph is when two letters ___.",
+            "options": [
+              "Make one brand new sound together",
+              "Blend to keep both sounds",
+              "Are never used together",
+              "Are always silent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the digraph th?",
+            "options": [
+              "Big",
+              "Wet",
+              "Think",
+              "Red"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make one new sound at the start of the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "What two letters make one new sound at the start of the word chip?",
+            "answers": [
+              "ch"
+            ]
+          },
+          {
+            "prompt": "Say the word think. What two letters make one new sound at the start?",
+            "answers": [
+              "th"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Counting to 100 by Ones",
+        "summary": "Students practise counting aloud from 1 to 100 by ones, and recognize written numerals up to 100, extending their counting range beyond 50.",
+        "resourceLabel": "YouTube: Counting to 100 by Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20to%20100%20by%20Ones%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 59?",
+            "options": [
+              "60",
+              "59",
+              "61",
+              "58"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes right after 89?",
+            "options": [
+              "80",
+              "91",
+              "88",
+              "90"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right before 100?",
+            "options": [
+              "101",
+              "99",
+              "98",
+              "100"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is greater, 75 or 57?",
+            "options": [
+              "57",
+              "They are equal",
+              "Cannot tell",
+              "75"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting from 1 to 100 means we say each number ___.",
+            "options": [
+              "In order, one at a time",
+              "Backward only",
+              "Twice each",
+              "In random order"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 59?",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 89?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 99?",
+            "answers": [
+              "100",
+              "one hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Heart: Beating and Pumping Blood",
+        "summary": "Students learn that the heart is a strong muscle inside our chest that beats and pumps blood all through our body, and that exercise can make our heart beat faster.",
+        "resourceLabel": "YouTube: Our Heart: Beating and Pumping Blood",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Heart%3A%20Beating%20and%20Pumping%20Blood%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part pumps blood through our body?",
+            "options": [
+              "Elbow",
+              "Hair",
+              "Heart",
+              "Ear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is our heart located?",
+            "options": [
+              "In our hair",
+              "Inside our chest",
+              "In our foot",
+              "Outside our body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to our heart rate when we exercise?",
+            "options": [
+              "Nothing changes",
+              "It beats faster",
+              "It beats slower",
+              "It stops beating"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is our heart important?",
+            "options": [
+              "It only helps us hear",
+              "It pumps blood that our body needs to work",
+              "It only helps us see",
+              "It has no important job"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Our heart is best described as a strong ___.",
+            "options": [
+              "Feather",
+              "Muscle",
+              "Bone",
+              "Rock"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part beats and pumps blood through our body?",
+            "answers": [
+              "heart"
+            ]
+          },
+          {
+            "prompt": "Where in our body is our heart located?",
+            "answers": [
+              "chest",
+              "inside our chest"
+            ]
+          },
+          {
+            "prompt": "Can exercise make our heart beat faster?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Dentist: Keeping Our Teeth Healthy",
+        "summary": "Students learn about the job of a dentist, a community helper who checks our teeth, helps keep them clean and healthy, and teaches us how to brush properly.",
+        "resourceLabel": "YouTube: Our Dentist: Keeping Our Teeth Healthy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Dentist%3A%20Keeping%20Our%20Teeth%20Healthy%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who checks and helps keep our teeth healthy?",
+            "options": [
+              "A dentist",
+              "A postal worker",
+              "A firefighter",
+              "A baker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to visit the dentist regularly?",
+            "options": [
+              "It helps keep our teeth clean and healthy",
+              "Teeth never need care",
+              "Dentists do not help with teeth",
+              "It is not helpful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might a dentist teach you?",
+            "options": [
+              "How to bake bread",
+              "How to fly a plane",
+              "How to deliver mail",
+              "How to brush your teeth properly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A dentist office is a place in our community that helps people stay ___.",
+            "options": [
+              "Lost",
+              "Confused",
+              "Healthy",
+              "Hungry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A dentist is an example of a ___.",
+            "options": [
+              "Story character",
+              "Weather tool",
+              "Community helper",
+              "Wild animal"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who checks and helps keep our teeth healthy?",
+            "answers": [
+              "dentist"
+            ]
+          },
+          {
+            "prompt": "Name one tool a dentist might use, like a small mirror or brush.",
+            "answers": [
+              "mirror",
+              "brush",
+              "toothbrush"
+            ]
+          },
+          {
+            "prompt": "Should we visit the dentist to keep our teeth healthy?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "label": "Day 72 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Silent E: The Magic E at the End",
+        "summary": "Students learn that adding a silent e to the end of a short word can change the vowel sound, such as changing cap to cape or kit to kite, a pattern often called magic e.",
+        "resourceLabel": "YouTube: Silent E: The Magic E at the End",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20E%3A%20The%20Magic%20E%20at%20the%20End%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Add a silent e to the word cap. What new word do you make?",
+            "options": [
+              "Cape",
+              "Cop",
+              "Cab",
+              "Cup"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Add a silent e to the word kit. What new word do you make?",
+            "options": [
+              "Sit",
+              "Bit",
+              "Kite",
+              "Hit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a silent e at the end of a word often do to the vowel sound?",
+            "options": [
+              "Makes it long",
+              "Does nothing at all",
+              "Makes it disappear",
+              "Makes it short"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word has a silent e at the end?",
+            "options": [
+              "Cake",
+              "Cap",
+              "Can",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Add a silent e to the word tap. What new word do you make?",
+            "options": [
+              "Tip",
+              "Top",
+              "Tape",
+              "Tag"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Add a silent e to the word cap. What new word do you make?",
+            "answers": [
+              "cape"
+            ]
+          },
+          {
+            "prompt": "Add a silent e to the word kit. What new word do you make?",
+            "answers": [
+              "kite"
+            ]
+          },
+          {
+            "prompt": "Does adding a silent e to cap change the short a sound to a long a sound?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Doubles Plus One: Near Doubles",
+        "summary": "Students learn a mental math strategy for adding two numbers that are almost the same, such as 5 plus 6, by first thinking of the double 5 plus 5 and then adding one more.",
+        "resourceLabel": "YouTube: Doubles Plus One: Near Doubles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Doubles%20Plus%20One%3A%20Near%20Doubles%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is double 5 (5 plus 5)?",
+            "options": [
+              "11",
+              "8",
+              "10",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If double 5 is 10, what is 5 plus 6?",
+            "options": [
+              "12",
+              "9",
+              "10",
+              "11"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is double 3 (3 plus 3)?",
+            "options": [
+              "5",
+              "8",
+              "7",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using double 3 plus 3 equals 6, what is 3 plus 4?",
+            "options": [
+              "6",
+              "8",
+              "5",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A near doubles strategy helps us add two numbers that are ___.",
+            "options": [
+              "Always odd",
+              "Never related",
+              "Always equal to 10",
+              "Almost the same"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is double 5 (5 plus 5)?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "If double 5 is 10, what is 5 plus 6?",
+            "answers": [
+              "11",
+              "eleven"
+            ]
+          },
+          {
+            "prompt": "What is double 4 plus 1 more, or 4 plus 5?",
+            "answers": [
+              "9",
+              "nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rainforests: A Warm, Wet Habitat",
+        "summary": "Students learn that a rainforest is a warm, wet habitat with lots of rain and tall trees, home to many colourful animals such as parrots, monkeys, and frogs.",
+        "resourceLabel": "YouTube: Rainforests: A Warm, Wet Habitat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rainforests%3A%20A%20Warm%2C%20Wet%20Habitat%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Is a rainforest usually warm and wet or cold and dry?",
+            "options": [
+              "Warm and wet",
+              "Cold and dry",
+              "Cold and wet",
+              "Warm and dry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is well known for living in the rainforest?",
+            "options": [
+              "Monkey",
+              "Penguin",
+              "Polar bear",
+              "Camel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do rainforests have a lot of, that gives them their name?",
+            "options": [
+              "Ice",
+              "Rain",
+              "Snow",
+              "Sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do so many different animals live in the rainforest?",
+            "options": [
+              "It is warm and wet with lots of trees and food",
+              "It is always frozen",
+              "Animals cannot live there",
+              "It has no trees or food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rainforest is an example of a ___.",
+            "options": [
+              "Story character",
+              "Colour",
+              "Number",
+              "Habitat"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a rainforest usually a warm, wet place or a cold, dry place?",
+            "answers": [
+              "warm, wet",
+              "warm and wet"
+            ]
+          },
+          {
+            "prompt": "Name one animal that can live in the rainforest, like a parrot or monkey.",
+            "answers": [
+              "parrot",
+              "monkey",
+              "frog"
+            ]
+          },
+          {
+            "prompt": "Does a rainforest get a lot of rain?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Bank: Saving Our Money",
+        "summary": "Students learn about the bank as a community place where people can keep their money safe and save it for things they want to buy later.",
+        "resourceLabel": "YouTube: Our Bank: Saving Our Money",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Bank%3A%20Saving%20Our%20Money%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a place called where people can keep their money safe?",
+            "options": [
+              "A firehall",
+              "A bank",
+              "A library",
+              "A bakery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Throwing money away",
+              "Losing money on purpose",
+              "Keeping money instead of spending it right away",
+              "Spending all money at once"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a family save money at a bank?",
+            "options": [
+              "Money cannot be saved",
+              "Banks do not help with money",
+              "Saving money is never useful",
+              "To buy something they want later"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is something you might do at a bank?",
+            "options": [
+              "Borrow a library book",
+              "Mail a letter",
+              "Buy bread",
+              "Save your money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A bank helps people in a community by ___.",
+            "options": [
+              "Delivering mail",
+              "Keeping their money safe",
+              "Fighting fires",
+              "Baking bread"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a place called where people can keep their money safe?",
+            "answers": [
+              "bank"
+            ]
+          },
+          {
+            "prompt": "What word describes keeping money instead of spending it right away?",
+            "answers": [
+              "saving"
+            ]
+          },
+          {
+            "prompt": "Can people save money at a bank for something they want later?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "label": "Day 73 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Adding -ed: Talking About the Past",
+        "summary": "Students learn that adding -ed to the end of many action words shows that something already happened, such as changing jump to jumped or walk to walked.",
+        "resourceLabel": "YouTube: Adding -ed: Talking About the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20-ed%3A%20Talking%20About%20the%20Past%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Add -ed to the word walk. What new word do you make?",
+            "options": [
+              "Walker",
+              "Walked",
+              "Walks",
+              "Walking"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word shows an action that already happened?",
+            "options": [
+              "Playing",
+              "Played",
+              "Plays",
+              "Play"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adding -ed to an action word usually shows the action ___.",
+            "options": [
+              "Will happen tomorrow",
+              "Is happening right now",
+              "Already happened",
+              "Never happened"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Add -ed to the word help. What new word do you make?",
+            "options": [
+              "Helps",
+              "Helped",
+              "Helper",
+              "Helping"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words already ends in -ed?",
+            "options": [
+              "Cooks",
+              "Cook",
+              "Cooked",
+              "Cooking"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Add -ed to the word jump. What new word do you make?",
+            "answers": [
+              "jumped"
+            ]
+          },
+          {
+            "prompt": "Add -ed to the word walk. What new word do you make?",
+            "answers": [
+              "walked"
+            ]
+          },
+          {
+            "prompt": "Does the word jumped show something happening now or something that already happened?",
+            "answers": [
+              "already happened",
+              "happened already",
+              "the past"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Adding Pennies and Nickels Together",
+        "summary": "Students practise finding the total value of a small group of coins, learning that a penny is worth 1 cent and a nickel is worth 5 cents, and adding their values together.",
+        "resourceLabel": "YouTube: Money: Adding Pennies and Nickels Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Adding%20Pennies%20and%20Nickels%20Together%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many cents is one penny worth?",
+            "options": [
+              "1",
+              "5",
+              "10",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many cents is one nickel worth?",
+            "options": [
+              "50",
+              "10",
+              "1",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you have 2 pennies, how many cents do you have?",
+            "options": [
+              "5",
+              "1",
+              "10",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you have 1 nickel and 2 pennies, how many cents do you have in total?",
+            "options": [
+              "5",
+              "7",
+              "2",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which coin is worth more, a nickel or a penny?",
+            "options": [
+              "Cannot tell",
+              "Penny",
+              "They are equal",
+              "Nickel"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many cents is one penny worth?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "How many cents is one nickel worth?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "If you have 1 nickel and 1 penny, how many cents do you have in total?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Arctic Animals: Living in the Cold",
+        "summary": "Students learn that the Arctic is a very cold habitat, and that animals such as polar bears, seals, and arctic foxes have thick fur or fat to help them stay warm.",
+        "resourceLabel": "YouTube: Arctic Animals: Living in the Cold",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Arctic%20Animals%3A%20Living%20in%20the%20Cold%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Is the Arctic usually a very cold place or a very hot place?",
+            "options": [
+              "Very hot",
+              "Rainy",
+              "Warm",
+              "Very cold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal is well known for living in the Arctic?",
+            "options": [
+              "Camel",
+              "Monkey",
+              "Parrot",
+              "Polar bear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What helps many Arctic animals stay warm?",
+            "options": [
+              "Wet skin",
+              "Thick fur or fat",
+              "Nothing at all",
+              "Thin feathers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is also an Arctic animal?",
+            "options": [
+              "Desert cactus",
+              "Farm cow",
+              "Seal",
+              "Rainforest parrot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are Arctic animals specially suited to their habitat?",
+            "options": [
+              "They do not need to survive the cold",
+              "Arctic animals prefer heat",
+              "Their bodies help them survive the cold",
+              "The Arctic is always warm"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the Arctic usually a very cold place or a very hot place?",
+            "answers": [
+              "cold",
+              "very cold"
+            ]
+          },
+          {
+            "prompt": "Name one animal that lives in the Arctic, like a polar bear or seal.",
+            "answers": [
+              "polar bear",
+              "seal",
+              "arctic fox"
+            ]
+          },
+          {
+            "prompt": "Does thick fur help an Arctic animal stay warm?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Recycling Centre: Where Bottles and Cans Go",
+        "summary": "Students learn about the recycling centre, a place in the community where bottles, cans, and paper are collected and turned into new materials instead of becoming trash.",
+        "resourceLabel": "YouTube: Our Recycling Centre: Where Bottles and Cans Go",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Recycling%20Centre%3A%20Where%20Bottles%20and%20Cans%20Go%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a recycling centre?",
+            "options": [
+              "A place that sells bread",
+              "A place that delivers mail",
+              "A place that fights fires",
+              "A place where items like bottles and cans are collected to be reused"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these items might go to a recycling centre?",
+            "options": [
+              "A fallen leaf",
+              "A glass bottle",
+              "A puddle of water",
+              "A banana peel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to materials sent to a recycling centre?",
+            "options": [
+              "They are turned into new materials",
+              "They are always thrown away",
+              "Nothing happens to them",
+              "They disappear forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is recycling helpful to our community and earth?",
+            "options": [
+              "It harms the earth",
+              "It creates more trash",
+              "It has no effect at all",
+              "It reduces waste and reuses materials"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sorting bottles, cans, and paper for recycling is an example of ___.",
+            "options": [
+              "Ignoring our environment",
+              "Harming nature",
+              "Wasting resources",
+              "Caring for our environment"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one item that might go to a recycling centre, like a bottle or can.",
+            "answers": [
+              "bottle",
+              "can",
+              "paper"
+            ]
+          },
+          {
+            "prompt": "What happens to items at a recycling centre instead of becoming trash?",
+            "answers": [
+              "turned into new materials",
+              "recycled",
+              "made into new things"
+            ]
+          },
+          {
+            "prompt": "Is recycling bottles and cans helpful for our earth?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "label": "Day 74 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -at Words",
+        "summary": "Students explore the -at word family, learning that changing the first letter of words like cat, hat, and mat creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -at Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-at%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with cat?",
+            "options": [
+              "Hat",
+              "Dog",
+              "Sun",
+              "Pig"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Change the c in cat to m. What new word do you make?",
+            "options": [
+              "Mad",
+              "Mat",
+              "Cap",
+              "Man"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words is part of the -at word family?",
+            "options": [
+              "Sun",
+              "Six",
+              "Sit",
+              "Sat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A word family is a group of words that share the same ___.",
+            "options": [
+              "Number of letters",
+              "Colour",
+              "Meaning",
+              "Ending sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word does not belong in the -at word family?",
+            "options": [
+              "Rat",
+              "Dog",
+              "Bat",
+              "Hat"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the c in cat to h. What new word do you make?",
+            "answers": [
+              "hat"
+            ]
+          },
+          {
+            "prompt": "Change the h in hat to m. What new word do you make?",
+            "answers": [
+              "mat"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with cat, hat, and mat.",
+            "answers": [
+              "bat",
+              "sat",
+              "rat",
+              "fat",
+              "pat"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Capacity: Full, Empty, and Half Full",
+        "summary": "Students compare containers by how much they hold, learning to describe them as full, empty, or half full, and explore which containers hold more or less.",
+        "resourceLabel": "YouTube: Capacity: Full, Empty, and Half Full",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Capacity%3A%20Full%2C%20Empty%2C%20and%20Half%20Full%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What word describes a cup with no water in it?",
+            "options": [
+              "Empty",
+              "Half full",
+              "Heavy",
+              "Full"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes a cup filled all the way to the top?",
+            "options": [
+              "Half full",
+              "Full",
+              "Light",
+              "Empty"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes a cup filled only partway, about to the middle?",
+            "options": [
+              "Full",
+              "Half full",
+              "Empty",
+              "Tiny"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which container likely holds more water, a small cup or a large bucket?",
+            "options": [
+              "A large bucket",
+              "A small cup",
+              "They hold the same",
+              "Neither holds water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Capacity describes how much a container can ___.",
+            "options": [
+              "Smell",
+              "Cost",
+              "Hold",
+              "Weigh"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a cup with no water in it at all?",
+            "answers": [
+              "empty"
+            ]
+          },
+          {
+            "prompt": "What word describes a cup filled all the way to the top?",
+            "answers": [
+              "full"
+            ]
+          },
+          {
+            "prompt": "What word describes a cup filled only partway, about to the middle?",
+            "answers": [
+              "half full"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Spiders: Eight Legs and Webs",
+        "summary": "Students learn that spiders have eight legs, unlike insects which have six, and that many spiders spin silky webs to catch food.",
+        "resourceLabel": "YouTube: Spiders: Eight Legs and Webs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Spiders%3A%20Eight%20Legs%20and%20Webs%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many legs does a spider have?",
+            "options": [
+              "6",
+              "2",
+              "8",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many legs does an insect have?",
+            "options": [
+              "8",
+              "6",
+              "4",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do many spiders spin to catch food?",
+            "options": [
+              "A nest",
+              "A shell",
+              "A cocoon",
+              "A web"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is a spider an insect?",
+            "options": [
+              "No, it has more legs than an insect",
+              "Insects have more legs than spiders",
+              "Spiders have no legs",
+              "Yes, it is exactly the same as an insect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do spiders spin webs?",
+            "options": [
+              "To swim",
+              "To fly",
+              "To catch food",
+              "To make honey"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many legs does a spider have?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "How many legs does an insect have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What do many spiders spin to catch food?",
+            "answers": [
+              "web",
+              "a web"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Local Park: Where Neighbours Gather",
+        "summary": "Students learn about the local park as a shared community space where neighbours can play, relax, and gather together outdoors.",
+        "resourceLabel": "YouTube: Our Local Park: Where Neighbours Gather",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Park%3A%20Where%20Neighbours%20Gather%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a local park?",
+            "options": [
+              "A place with no outdoor space",
+              "A shared outdoor space where neighbours can gather",
+              "A kind of store",
+              "A place that only one family may use"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might you do at a local park?",
+            "options": [
+              "Play and relax with neighbours",
+              "Buy groceries",
+              "Visit the dentist",
+              "Mail a letter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to take care of a local park?",
+            "options": [
+              "So everyone in the community can enjoy it",
+              "Parks are never shared",
+              "Only one person uses a park",
+              "Parks do not need care"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A local park is an example of a space shared by the ___.",
+            "options": [
+              "Ocean",
+              "Moon",
+              "Community",
+              "Desert"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows good behaviour at a local park?",
+            "options": [
+              "Ignoring other visitors rudely",
+              "Cleaning up after yourself and sharing space",
+              "Littering on the grass",
+              "Damaging the playground equipment"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing you might do at a local park, like play or relax.",
+            "answers": [
+              "play",
+              "relax",
+              "gather"
+            ]
+          },
+          {
+            "prompt": "Is a park a place shared by many neighbours, or owned by just one family?",
+            "answers": [
+              "shared by many neighbours",
+              "shared"
+            ]
+          },
+          {
+            "prompt": "Should we take care of our local park so everyone can enjoy it?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "label": "Day 75 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -an Words",
+        "summary": "Students explore the -an word family, learning that changing the first letter of words like can, man, and fan creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -an Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-an%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with can?",
+            "options": [
+              "Man",
+              "Cup",
+              "Dog",
+              "Pig"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Change the m in man to f. What new word do you make?",
+            "options": [
+              "Fin",
+              "Fat",
+              "Fun",
+              "Fan"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words is part of the -an word family?",
+            "options": [
+              "Run",
+              "Ran",
+              "Rid",
+              "Red"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Words in the same word family share the same ___.",
+            "options": [
+              "Cover colour",
+              "Ending sound",
+              "Page number",
+              "Author"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word does not belong in the -an word family?",
+            "options": [
+              "Pan",
+              "Man",
+              "Can",
+              "Cup"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the c in can to m. What new word do you make?",
+            "answers": [
+              "man"
+            ]
+          },
+          {
+            "prompt": "Change the m in man to f. What new word do you make?",
+            "answers": [
+              "fan"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with can, man, and fan.",
+            "answers": [
+              "pan",
+              "ran",
+              "tan",
+              "van"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Picture Graphs",
+        "summary": "Students learn to read a simple picture graph, where each picture or symbol represents one item, and use it to count and compare groups of objects.",
+        "resourceLabel": "YouTube: Data: Picture Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Picture%20Graphs%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "On a picture graph, what does each picture usually represent?",
+            "options": [
+              "One item",
+              "Ten items",
+              "Nothing",
+              "A colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a row on a picture graph has 5 star pictures, how many stars does it show?",
+            "options": [
+              "5",
+              "1",
+              "4",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a picture graph used for?",
+            "options": [
+              "Measuring weight",
+              "Showing and comparing information with pictures",
+              "Naming shapes",
+              "Telling time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a picture graph, which row shows more items, one with 3 pictures or one with 6 pictures?",
+            "options": [
+              "Cannot tell",
+              "The row with 3 pictures",
+              "The row with 6 pictures",
+              "They are equal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A picture graph helps us ___ groups of objects.",
+            "options": [
+              "Cook",
+              "Sing about",
+              "Paint",
+              "Compare and count"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a picture graph, does each picture usually stand for one item?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If a row has 4 apple pictures, how many apples does that row show?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "What do we call a graph that uses pictures to show information?",
+            "answers": [
+              "picture graph"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Water Cycle: Rain, Clouds, and Evaporation",
+        "summary": "Students learn the simple steps of the water cycle, where the sun warms water and turns it into vapour that rises to form clouds, which later fall back down as rain.",
+        "resourceLabel": "YouTube: The Water Cycle: Rain, Clouds, and Evaporation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Water%20Cycle%3A%20Rain%2C%20Clouds%2C%20and%20Evaporation%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What warms water and turns it into vapour that rises up?",
+            "options": [
+              "The wind",
+              "The moon",
+              "The sun",
+              "The snow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What forms in the sky when water vapour rises up?",
+            "options": [
+              "Ice cream",
+              "Rocks",
+              "Clouds",
+              "Sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What falls from clouds back down to the ground?",
+            "options": [
+              "Leaves",
+              "Fire",
+              "Rain",
+              "Sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call these repeating steps of water moving between the ground, air, and clouds?",
+            "options": [
+              "The rock cycle",
+              "The seasons",
+              "The food chain",
+              "The water cycle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the water cycle important?",
+            "options": [
+              "It removes all water from the earth",
+              "It never repeats",
+              "It has nothing to do with rain",
+              "It brings fresh water back to the earth again and again"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What warms water and turns it into vapour that rises up?",
+            "answers": [
+              "sun",
+              "the sun"
+            ]
+          },
+          {
+            "prompt": "What forms in the sky when water vapour rises up?",
+            "answers": [
+              "clouds"
+            ]
+          },
+          {
+            "prompt": "What falls from clouds back down to the ground?",
+            "answers": [
+              "rain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Being a Good Sport: Winning and Losing Kindly",
+        "summary": "Students learn what it means to be a good sport, such as congratulating others after a game, staying calm when losing, and celebrating kindly when winning.",
+        "resourceLabel": "YouTube: Being a Good Sport: Winning and Losing Kindly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Good%20Sport%3A%20Winning%20and%20Losing%20Kindly%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to be a good sport?",
+            "options": [
+              "Yelling at others when you lose",
+              "Being kind and fair whether you win or lose",
+              "Never playing games",
+              "Only being kind when you win"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should you say to a friend who won a game?",
+            "options": [
+              "Nothing at all",
+              "Well done or congratulations",
+              "You are not a winner",
+              "Something unkind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is it kind or unkind to brag loudly after winning a game?",
+            "options": [
+              "Kind",
+              "Unkind",
+              "Neither kind nor unkind",
+              "Always required"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How should a good sport act after losing a game?",
+            "options": [
+              "Cry and refuse to play again",
+              "Stay calm and congratulate the winner",
+              "Yell at the winner",
+              "Break the game pieces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being a good sport helps friends feel ___ during games.",
+            "options": [
+              "Embarrassed",
+              "Left out",
+              "Ignored",
+              "Respected and included"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes someone who plays fair and is kind whether they win or lose?",
+            "answers": [
+              "good sport"
+            ]
+          },
+          {
+            "prompt": "Should you say well done to a friend who won a game?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is it kind or unkind to brag loudly after winning a game?",
+            "answers": [
+              "unkind"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "label": "Day 76 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Punctuation: Exclamation Marks for Excitement",
+        "summary": "Students learn that an exclamation mark is used at the end of a sentence to show strong feeling or excitement, such as Wow! or Look out!, instead of a calm period.",
+        "resourceLabel": "YouTube: Punctuation: Exclamation Marks for Excitement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Exclamation%20Marks%20for%20Excitement%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What punctuation mark shows strong feeling or excitement?",
+            "options": [
+              "Comma",
+              "Question mark",
+              "Period",
+              "Exclamation mark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these sentences would likely end with an exclamation mark?",
+            "options": [
+              "Watch out for that ball!",
+              "She is reading.",
+              "The sky is blue.",
+              "I like apples."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A period usually ends a sentence that sounds ___.",
+            "options": [
+              "Calm and telling",
+              "Musical",
+              "Excited and shouting",
+              "Confused"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which punctuation mark would best end an excited sentence like We won the game?",
+            "options": [
+              "Semicolon",
+              "Comma",
+              "Exclamation mark",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Exclamation marks help readers know a sentence should sound ___.",
+            "options": [
+              "Confusing",
+              "Excited",
+              "Silent",
+              "Sleepy"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What punctuation mark shows excitement at the end of a sentence?",
+            "answers": [
+              "exclamation mark"
+            ]
+          },
+          {
+            "prompt": "Does the sentence Wow, look at that! sound calm or excited?",
+            "answers": [
+              "excited"
+            ]
+          },
+          {
+            "prompt": "Which is more calm: a period or an exclamation mark?",
+            "answers": [
+              "period"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Missing Numbers: Filling in the Gaps to 20",
+        "summary": "Students practise finding a missing number in a short counting sequence up to 20, such as figuring out the number that belongs between 7 and 9.",
+        "resourceLabel": "YouTube: Missing Numbers: Filling in the Gaps to 20",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Missing%20Numbers%3A%20Filling%20in%20the%20Gaps%20to%2020%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What number is missing between 7 and 9?",
+            "options": [
+              "9",
+              "7",
+              "8",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is missing between 14 and 16?",
+            "options": [
+              "16",
+              "14",
+              "13",
+              "15"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number is missing between 3 and 5?",
+            "options": [
+              "5",
+              "4",
+              "3",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number is missing between 18 and 20?",
+            "options": [
+              "20",
+              "19",
+              "17",
+              "18"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Finding a missing number in a sequence means figuring out the number that fits ___.",
+            "options": [
+              "Before the sequence starts",
+              "At the very end only",
+              "In order between the other numbers",
+              "Nowhere at all"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number is missing between 7 and 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 14 and 16?",
+            "answers": [
+              "15",
+              "fifteen"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 18 and 20?",
+            "answers": [
+              "19",
+              "nineteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Magnifying Glasses: Looking Closely at Small Things",
+        "summary": "Students learn that a magnifying glass is a tool with a curved piece of glass that makes small objects look bigger, helping scientists observe tiny details.",
+        "resourceLabel": "YouTube: Magnifying Glasses: Looking Closely at Small Things",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Magnifying%20Glasses%3A%20Looking%20Closely%20at%20Small%20Things%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What tool makes small objects look bigger?",
+            "options": [
+              "A paintbrush",
+              "A hammer",
+              "A magnifying glass",
+              "A spoon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a scientist use a magnifying glass?",
+            "options": [
+              "To make loud sounds",
+              "To see small details more clearly",
+              "To make things smaller",
+              "To measure weight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might you look at closely with a magnifying glass?",
+            "options": [
+              "A tiny insect",
+              "The entire sky",
+              "A whole mountain",
+              "A large lake"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes looking closely and carefully to learn about something?",
+            "options": [
+              "Sleeping",
+              "Guessing without looking",
+              "Observing",
+              "Forgetting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A magnifying glass uses curved glass to make things appear ___.",
+            "options": [
+              "Smaller",
+              "Bigger",
+              "Invisible",
+              "Colder"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool makes small objects look bigger?",
+            "answers": [
+              "magnifying glass"
+            ]
+          },
+          {
+            "prompt": "Would a magnifying glass help you see the tiny hairs on a leaf?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What word describes looking closely at something to learn about it?",
+            "answers": [
+              "observing",
+              "observation"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Helpers: Veterinarians Caring for Animals",
+        "summary": "Students learn about the job of a veterinarian, a community helper who checks on pets and other animals to keep them healthy when they are sick or hurt.",
+        "resourceLabel": "YouTube: Community Helpers: Veterinarians Caring for Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Veterinarians%20Caring%20for%20Animals%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who checks on pets and animals to keep them healthy?",
+            "options": [
+              "A baker",
+              "A librarian",
+              "A postal worker",
+              "A veterinarian"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might a veterinarian help?",
+            "options": [
+              "A broken chair",
+              "A sick dog",
+              "A burnt cake",
+              "A leaking pipe"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a veterinarian an important community helper?",
+            "options": [
+              "They deliver mail",
+              "They fight fires",
+              "They help keep animals healthy",
+              "They bake bread"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might you take a sick pet for help?",
+            "options": [
+              "A bakery",
+              "A firehall",
+              "A veterinarian office",
+              "A post office"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A veterinarian is similar to a doctor, but they help ___.",
+            "options": [
+              "Animals",
+              "Only buildings",
+              "Only plants",
+              "Only cars"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who checks on pets and animals to keep them healthy?",
+            "answers": [
+              "veterinarian",
+              "vet"
+            ]
+          },
+          {
+            "prompt": "Name one animal a veterinarian might help, like a dog or cat.",
+            "answers": [
+              "dog",
+              "cat",
+              "pet"
+            ]
+          },
+          {
+            "prompt": "Does a veterinarian help animals when they are sick or hurt?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "label": "Day 77 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Fiction and Nonfiction: Real or Make-Believe",
+        "summary": "Students learn that fiction stories are make-believe, with events and characters that are not real, while nonfiction books give true facts about real people, places, or things.",
+        "resourceLabel": "YouTube: Fiction and Nonfiction: Real or Make-Believe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fiction%20and%20Nonfiction%3A%20Real%20or%20Make-Believe%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What kind of story is fiction?",
+            "options": [
+              "A make-believe story",
+              "A phone book",
+              "A recipe",
+              "A book of true facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of book is nonfiction?",
+            "options": [
+              "A make-believe story",
+              "A fairy tale",
+              "A book that gives true facts",
+              "A story about dragons"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is most likely a fiction story?",
+            "options": [
+              "A talking dragon who flies to the moon",
+              "A book about real weather",
+              "A book about how bees make honey",
+              "A book about real animals in the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is most likely a nonfiction book?",
+            "options": [
+              "A true book about how plants grow",
+              "A story about a dragon and a wizard",
+              "A story about a talking teapot",
+              "A tale about a flying carpet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Knowing if a book is fiction or nonfiction helps readers know if the story is ___.",
+            "options": [
+              "Real or make-believe",
+              "Old or new",
+              "Long or short",
+              "Loud or quiet"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does a fiction story tell about real events or make-believe events?",
+            "answers": [
+              "make-believe",
+              "make believe"
+            ]
+          },
+          {
+            "prompt": "Does a nonfiction book give true facts or make-believe stories?",
+            "answers": [
+              "true facts",
+              "facts"
+            ]
+          },
+          {
+            "prompt": "Is a book about talking animals wearing hats fiction or nonfiction?",
+            "answers": [
+              "fiction"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Sorting 2D Shapes by Number of Sides",
+        "summary": "Students sort a mixed group of 2D shapes, such as triangles, squares, and hexagons, into groups based on how many straight sides each shape has.",
+        "resourceLabel": "YouTube: Sorting 2D Shapes by Number of Sides",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sorting%202D%20Shapes%20by%20Number%20of%20Sides%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many sides does a triangle have?",
+            "options": [
+              "5",
+              "4",
+              "3",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many sides does a square have?",
+            "options": [
+              "4",
+              "5",
+              "3",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which shape has the most sides: triangle, square, or hexagon?",
+            "options": [
+              "Triangle",
+              "They are equal",
+              "Hexagon",
+              "Square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When sorting shapes by number of sides, which two shapes would go together?",
+            "options": [
+              "A square and a hexagon",
+              "A triangle and a hexagon",
+              "A circle and a square",
+              "Two squares"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sorting shapes by number of sides means grouping shapes that ___.",
+            "options": [
+              "Have the same number of straight sides",
+              "Have no sides at all",
+              "Are the same colour",
+              "Are the same size"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many sides does a triangle have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How many sides does a square have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you sort shapes by number of sides, would a triangle and a hexagon go in the same group?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Compost: Turning Food Scraps into Soil",
+        "summary": "Students learn that compost is made when food scraps, such as fruit peels and vegetable bits, break down over time and turn into rich soil that helps plants grow.",
+        "resourceLabel": "YouTube: Compost: Turning Food Scraps into Soil",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compost%3A%20Turning%20Food%20Scraps%20into%20Soil%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is compost?",
+            "options": [
+              "A kind of rock",
+              "A type of animal",
+              "A weather event",
+              "Food scraps that break down into rich soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these could go into a compost bin?",
+            "options": [
+              "A glass bottle",
+              "A metal spoon",
+              "A plastic toy",
+              "A fruit peel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does compost eventually turn into?",
+            "options": [
+              "Sand",
+              "Ice",
+              "Water",
+              "Rich soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does compost help plants?",
+            "options": [
+              "It stops plants from growing",
+              "It removes all nutrients from soil",
+              "It has no effect on plants",
+              "It adds helpful nutrients to the soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Making compost instead of throwing food scraps away helps ___.",
+            "options": [
+              "Harm plants",
+              "Reduce waste and help the earth",
+              "Increase waste",
+              "Make more garbage"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one food scrap that could go into a compost bin, like a fruit peel.",
+            "answers": [
+              "fruit peel",
+              "vegetable bits",
+              "banana peel"
+            ]
+          },
+          {
+            "prompt": "What does compost eventually turn into?",
+            "answers": [
+              "soil",
+              "rich soil"
+            ]
+          },
+          {
+            "prompt": "Does compost help plants grow?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Local Museum: Learning About the Past",
+        "summary": "Students learn about the museum as a community place that displays old objects and stories, helping visitors learn about history and how things used to be.",
+        "resourceLabel": "YouTube: Our Local Museum: Learning About the Past",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Museum%3A%20Learning%20About%20the%20Past%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a museum?",
+            "options": [
+              "A place that displays old objects and stories about history",
+              "A place that sells bread",
+              "A place that fights fires",
+              "A place that delivers mail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family visit a museum?",
+            "options": [
+              "To buy groceries",
+              "To mail a letter",
+              "To learn about history and the past",
+              "To see a doctor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might you find in a museum?",
+            "options": [
+              "A fresh loaf of bread",
+              "An old object from long ago",
+              "A fire truck ready to respond",
+              "A mailbox"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A museum helps a community by ___.",
+            "options": [
+              "Delivering mail",
+              "Teaching people about history",
+              "Baking bread",
+              "Fighting fires"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about the past at a museum helps us understand ___.",
+            "options": [
+              "Only the weather today",
+              "How things used to be",
+              "Only future events",
+              "Nothing useful"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of place displays old objects and stories about history?",
+            "answers": [
+              "museum"
+            ]
+          },
+          {
+            "prompt": "Can a museum help us learn about how things used to be long ago?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing you might see at a museum, like an old object.",
+            "answers": [
+              "old object",
+              "artifact",
+              "old tool"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "label": "Day 78 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Book Parts: Front Cover, Back Cover, and Pages",
+        "summary": "Students learn to identify the parts of a book, including the front cover, back cover, and pages in between, and practise handling books carefully.",
+        "resourceLabel": "YouTube: Book Parts: Front Cover, Back Cover, and Pages",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Book%20Parts%3A%20Front%20Cover%2C%20Back%20Cover%2C%20and%20Pages%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the front cover of a book?",
+            "options": [
+              "The very last page",
+              "The part that shows the title and a picture",
+              "The spine only",
+              "A blank page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the back cover of a book?",
+            "options": [
+              "The title only",
+              "A picture only",
+              "The part at the very end of the book",
+              "The first page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the parts inside a book that we turn to read?",
+            "options": [
+              "Spines",
+              "Titles",
+              "Covers",
+              "Pages"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should we handle a book carefully?",
+            "options": [
+              "Handling does not matter",
+              "Only new books need care",
+              "So the pages and covers do not get damaged",
+              "Books cannot be damaged"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which part of the book would you look at first to guess what a story is about?",
+            "options": [
+              "The front cover",
+              "The back cover",
+              "A random page",
+              "The spine only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What part of a book usually shows the title and a picture?",
+            "answers": [
+              "front cover",
+              "the front cover"
+            ]
+          },
+          {
+            "prompt": "What part of a book is at the very end?",
+            "answers": [
+              "back cover",
+              "the back cover"
+            ]
+          },
+          {
+            "prompt": "What do we call the parts of a book that we turn to read the words?",
+            "answers": [
+              "pages"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Reading a Clock to the Half Hour",
+        "summary": "Students learn to read a simple analog clock to the half hour, recognizing that when the long hand points to the 6, it means thirty minutes past the hour.",
+        "resourceLabel": "YouTube: Time: Reading a Clock to the Half Hour",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20the%20Half%20Hour%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "When the long hand points to the 6, how many minutes past the hour is it?",
+            "options": [
+              "45",
+              "15",
+              "30",
+              "60"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "At half past 3, where does the short hand usually point?",
+            "options": [
+              "Exactly at the 12",
+              "Exactly at the 9",
+              "Partway between 3 and 4",
+              "Exactly at the 6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call it when the long hand points to the 6?",
+            "options": [
+              "The top of the hour",
+              "Midnight only",
+              "Noon only",
+              "Half past the hour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If it is half past 8, which numbers might you see the clock hands near?",
+            "options": [
+              "The 1 and the 1",
+              "The 3 and the 9",
+              "The 8 and the 6",
+              "The 12 and the 12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Reading a clock to the half hour helps us know time in steps of ___ minutes.",
+            "options": [
+              "60",
+              "5",
+              "30",
+              "1"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "When the long hand points to the 6, how many minutes past the hour is it?",
+            "answers": [
+              "30",
+              "thirty"
+            ]
+          },
+          {
+            "prompt": "At half past 3, does the short hand point exactly at the 3 or partway between 3 and 4?",
+            "answers": [
+              "partway between 3 and 4",
+              "between 3 and 4"
+            ]
+          },
+          {
+            "prompt": "What do we call the time when the long hand points to the 6?",
+            "answers": [
+              "half past",
+              "half hour",
+              "half past the hour"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nests and Homes: How Animals Build Shelter",
+        "summary": "Students learn that many animals build or find shelters to live in, such as birds building nests from twigs, beavers building dams, and rabbits digging burrows.",
+        "resourceLabel": "YouTube: Nests and Homes: How Animals Build Shelter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nests%20and%20Homes%3A%20How%20Animals%20Build%20Shelter%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do many birds build to live in?",
+            "options": [
+              "A dam",
+              "A burrow",
+              "A nest",
+              "A hive"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do beavers build using sticks and mud?",
+            "options": [
+              "A dam",
+              "A web",
+              "A shell",
+              "A nest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do rabbits often dig to make a home?",
+            "options": [
+              "A burrow",
+              "A web",
+              "A dam",
+              "A nest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do animals build or find shelters?",
+            "options": [
+              "To stay safe and protected from weather and danger",
+              "Animals never need a home",
+              "Shelters are not useful to animals",
+              "To make more noise"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is known for building a home from twigs?",
+            "options": [
+              "A fish",
+              "A worm",
+              "A snake",
+              "A bird"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do many birds build out of twigs to live in?",
+            "answers": [
+              "nest",
+              "a nest"
+            ]
+          },
+          {
+            "prompt": "What do beavers build using sticks and mud?",
+            "answers": [
+              "dam",
+              "a dam"
+            ]
+          },
+          {
+            "prompt": "What do rabbits often dig to make a home?",
+            "answers": [
+              "burrow",
+              "a burrow",
+              "hole"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Choosing Together: How Groups Decide",
+        "summary": "Students learn that when a group needs to make a choice, such as picking a class activity, everyone can share their opinion and the group can decide together in a fair way.",
+        "resourceLabel": "YouTube: Choosing Together: How Groups Decide",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Choosing%20Together%3A%20How%20Groups%20Decide%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean for a group to choose together?",
+            "options": [
+              "The group never makes a choice",
+              "Everyone shares an opinion and the group decides fairly",
+              "One person decides for everyone without asking",
+              "No one is allowed to share ideas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to let everyone share their opinion before a group decision?",
+            "options": [
+              "It helps the group make a fair choice everyone can accept",
+              "Opinions are not helpful",
+              "Only one opinion should ever be heard",
+              "Sharing opinions wastes time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shows a fair way for a group to decide?",
+            "options": [
+              "Listening to everyone and choosing together",
+              "Refusing to make a choice at all",
+              "Ignoring everyone but one person",
+              "Arguing without listening"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a class wants to pick a game to play together, what is a fair way to decide?",
+            "options": [
+              "Fighting over the choice",
+              "Not playing any games",
+              "Letting only one student choose every time",
+              "Letting everyone share ideas and choosing together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Choosing together as a group helps everyone feel ___.",
+            "options": [
+              "Unimportant",
+              "Left out",
+              "Included and heard",
+              "Ignored"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a group deciding something together fairly?",
+            "answers": [
+              "choosing together",
+              "group decision",
+              "deciding together"
+            ]
+          },
+          {
+            "prompt": "Should everyone in a group have a chance to share their opinion before deciding?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is it fair for one person to decide everything without asking the group?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "label": "Day 79 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sight Words: Reading Words We Know by Heart",
+        "summary": "Students learn that some common words, such as the, and, and see, appear so often in books that readers practise recognizing them instantly, without sounding them out each time.",
+        "resourceLabel": "YouTube: Sight Words: Reading Words We Know by Heart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sight%20Words%3A%20Reading%20Words%20We%20Know%20by%20Heart%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a sight word?",
+            "options": [
+              "A word that is never used",
+              "A number word",
+              "A word found in only one book",
+              "A common word readers recognize instantly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a common sight word?",
+            "options": [
+              "Dinosaur",
+              "Hexagon",
+              "The",
+              "Kaleidoscope"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do readers practise sight words?",
+            "options": [
+              "To make reading slower",
+              "So they can read them quickly without sounding them out",
+              "So they never have to read again",
+              "Sight words are not useful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words would likely be a sight word because it appears so often?",
+            "options": [
+              "Xylophone",
+              "And",
+              "Astronaut",
+              "Rhinoceros"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Recognizing sight words instantly helps readers ___.",
+            "options": [
+              "Avoid reading altogether",
+              "Skip every page",
+              "Forget the story",
+              "Read more smoothly"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one common sight word that appears often in books, like the or and.",
+            "answers": [
+              "the",
+              "and",
+              "see",
+              "is"
+            ]
+          },
+          {
+            "prompt": "Do sight words need to be sounded out every single time, or recognized instantly?",
+            "answers": [
+              "recognized instantly",
+              "instantly"
+            ]
+          },
+          {
+            "prompt": "Why do readers practise sight words often?",
+            "answers": [
+              "so they can read them quickly",
+              "to read faster",
+              "to recognize them instantly"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ordering Three Numbers: Least to Greatest",
+        "summary": "Students practise putting a group of three numbers in order from least to greatest, using their knowledge of counting and comparing numbers.",
+        "resourceLabel": "YouTube: Ordering Three Numbers: Least to Greatest",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Three%20Numbers%3A%20Least%20to%20Greatest%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Put these numbers in order from least to greatest: 4, 1, 7.",
+            "options": [
+              "1, 7, 4",
+              "4, 1, 7",
+              "7, 4, 1",
+              "1, 4, 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is the least: 9, 2, 6?",
+            "options": [
+              "2",
+              "They are equal",
+              "9",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which number is the greatest: 15, 8, 20?",
+            "options": [
+              "They are equal",
+              "20",
+              "8",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Put these numbers in order from least to greatest: 10, 3, 6.",
+            "options": [
+              "3, 10, 6",
+              "10, 6, 3",
+              "3, 6, 10",
+              "6, 3, 10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ordering numbers from least to greatest means starting with the ___ number.",
+            "options": [
+              "Roundest",
+              "Loudest",
+              "Smallest",
+              "Largest"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Put these numbers in order from least to greatest: 5, 2, 8.",
+            "answers": [
+              "2, 5, 8",
+              "2 5 8"
+            ]
+          },
+          {
+            "prompt": "Which number is the least: 10, 3, 7?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "Which number is the greatest: 12, 20, 6?",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Tongue: Tasting Sweet, Sour, and Salty",
+        "summary": "Students learn that the tongue helps us taste different flavours, such as sweet, sour, and salty, and that our sense of taste helps us enjoy and notice our food.",
+        "resourceLabel": "YouTube: Our Tongue: Tasting Sweet, Sour, and Salty",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Tongue%3A%20Tasting%20Sweet%2C%20Sour%2C%20and%20Salty%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part helps us taste food?",
+            "options": [
+              "Tongue",
+              "Hair",
+              "Elbow",
+              "Ear"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a taste our tongue can notice?",
+            "options": [
+              "Soft",
+              "Sweet",
+              "Bright",
+              "Loud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is a lemon usually described as tasting sweet or sour?",
+            "options": [
+              "Spicy only",
+              "Sweet",
+              "Salty",
+              "Sour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is sugar usually described as tasting sweet or sour?",
+            "options": [
+              "Sweet",
+              "Bitter only",
+              "Salty",
+              "Sour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is our sense of taste helpful?",
+            "options": [
+              "Taste is not helpful at all",
+              "We cannot taste anything",
+              "It helps us enjoy and notice different foods",
+              "Taste only works on rainy days"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part helps us taste our food?",
+            "answers": [
+              "tongue"
+            ]
+          },
+          {
+            "prompt": "Name one taste our tongue can notice, like sweet or salty.",
+            "answers": [
+              "sweet",
+              "sour",
+              "salty"
+            ]
+          },
+          {
+            "prompt": "Is a lemon usually described as tasting sweet or sour?",
+            "answers": [
+              "sour"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Being Honest: Telling the Truth",
+        "summary": "Students learn what it means to be honest, such as telling the truth even when it is hard, and why honesty helps people trust one another.",
+        "resourceLabel": "YouTube: Being Honest: Telling the Truth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Being%20Honest%3A%20Telling%20the%20Truth%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to be honest?",
+            "options": [
+              "Telling the truth",
+              "Hiding what happened",
+              "Never speaking at all",
+              "Telling made-up stories"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you accidentally break a toy, what is the honest thing to do?",
+            "options": [
+              "Tell an adult what happened",
+              "Pretend it never happened",
+              "Blame someone else",
+              "Hide the toy and say nothing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is honesty important between friends?",
+            "options": [
+              "Honesty is not important",
+              "Honesty makes friends distrust each other",
+              "Friends should never be honest",
+              "It helps friends trust one another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shows honesty?",
+            "options": [
+              "Making up a story to avoid trouble",
+              "Telling the truth even when it is hard",
+              "Blaming a friend for your mistake",
+              "Hiding a mistake from everyone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being honest helps build ___ between people.",
+            "options": [
+              "Distrust",
+              "Confusion",
+              "Fear",
+              "Trust"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes telling the truth?",
+            "answers": [
+              "honest",
+              "honesty"
+            ]
+          },
+          {
+            "prompt": "If you accidentally break something, should you tell the truth about what happened?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Does honesty help people trust one another?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "label": "Day 80 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Digraphs, Word Families, and Books",
+        "summary": "Students review recent Language skills: digraphs, silent e, adding -ed, word families, exclamation marks, fiction and nonfiction, book parts, and sight words.",
+        "resourceLabel": "YouTube: Language Review: Digraphs, Word Families, and Books",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Digraphs%2C%20Word%20Families%2C%20and%20Books%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the digraph sh?",
+            "options": [
+              "Dog",
+              "Cat",
+              "Sun",
+              "Ship"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with cat?",
+            "options": [
+              "Hat",
+              "Dog",
+              "Pig",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What punctuation mark shows strong feeling or excitement?",
+            "options": [
+              "Comma",
+              "Period",
+              "Question mark",
+              "Exclamation mark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of book is nonfiction?",
+            "options": [
+              "A make-believe story",
+              "A story about dragons",
+              "A book that gives true facts",
+              "A fairy tale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a sight word?",
+            "options": [
+              "A common word readers recognize instantly",
+              "A word found in only one book",
+              "A word that is never used",
+              "A number word"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters make one new sound at the start of the word ship?",
+            "answers": [
+              "sh"
+            ]
+          },
+          {
+            "prompt": "Change the c in cat to h. What new word do you make?",
+            "answers": [
+              "hat"
+            ]
+          },
+          {
+            "prompt": "Is a book about talking animals wearing hats fiction or nonfiction?",
+            "answers": [
+              "fiction"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Counting, Money, and Time",
+        "summary": "Students review recent Math skills: counting to 100, near doubles, coin values, capacity, picture graphs, missing numbers, sorting shapes, and telling time to the half hour.",
+        "resourceLabel": "YouTube: Math Review: Counting, Money, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Counting%2C%20Money%2C%20and%20Time%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 59?",
+            "options": [
+              "61",
+              "60",
+              "59",
+              "58"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If double 5 is 10, what is 5 plus 6?",
+            "options": [
+              "9",
+              "11",
+              "12",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes a cup filled all the way to the top?",
+            "options": [
+              "Half full",
+              "Light",
+              "Full",
+              "Empty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a picture graph, what does each picture usually represent?",
+            "options": [
+              "One item",
+              "Ten items",
+              "A colour",
+              "Nothing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When the long hand points to the 6, how many minutes past the hour is it?",
+            "options": [
+              "15",
+              "30",
+              "45",
+              "60"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 89?",
+            "answers": [
+              "90",
+              "ninety"
+            ]
+          },
+          {
+            "prompt": "How many cents is one nickel worth?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "What number is missing between 7 and 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Habitats, and Nature",
+        "summary": "Students review recent Science topics: our heart, rainforests, Arctic animals, spiders, the water cycle, magnifying glasses, compost, animal shelters, and our tongue.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Habitats, and Nature",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Habitats%2C%20and%20Nature%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which animal is well known for living in the rainforest?",
+            "options": [
+              "Penguin",
+              "Camel",
+              "Monkey",
+              "Polar bear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animal is well known for living in the Arctic?",
+            "options": [
+              "Polar bear",
+              "Monkey",
+              "Camel",
+              "Parrot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do many spiders spin to catch food?",
+            "options": [
+              "A nest",
+              "A web",
+              "A cocoon",
+              "A shell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tool makes small objects look bigger?",
+            "options": [
+              "A magnifying glass",
+              "A spoon",
+              "A paintbrush",
+              "A hammer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What body part helps us taste food?",
+            "options": [
+              "Elbow",
+              "Tongue",
+              "Ear",
+              "Hair"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part pumps blood through our body?",
+            "answers": [
+              "heart"
+            ]
+          },
+          {
+            "prompt": "How many legs does a spider have?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "What falls from clouds back down to the ground?",
+            "answers": [
+              "rain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Helpers, Places, and Kindness",
+        "summary": "Students review recent Social Studies topics: dentists, banks, recycling centres, local parks, good sportsmanship, veterinarians, museums, group choices, and honesty.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Places, and Kindness",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Places%2C%20and%20Kindness%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a place called where people can keep their money safe?",
+            "options": [
+              "A firehall",
+              "A bakery",
+              "A library",
+              "A bank"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to materials sent to a recycling centre?",
+            "options": [
+              "They disappear forever",
+              "Nothing happens to them",
+              "They are turned into new materials",
+              "They are always thrown away"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to be a good sport?",
+            "options": [
+              "Only being kind when you win",
+              "Never playing games",
+              "Yelling at others when you lose",
+              "Being kind and fair whether you win or lose"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a museum?",
+            "options": [
+              "A place that displays old objects and stories about history",
+              "A place that sells bread",
+              "A place that fights fires",
+              "A place that delivers mail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to be honest?",
+            "options": [
+              "Hiding what happened",
+              "Telling made-up stories",
+              "Telling the truth",
+              "Never speaking at all"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who checks and helps keep our teeth healthy?",
+            "answers": [
+              "dentist"
+            ]
+          },
+          {
+            "prompt": "Who checks on pets and animals to keep them healthy?",
+            "answers": [
+              "veterinarian",
+              "vet"
+            ]
+          },
+          {
+            "prompt": "What word describes telling the truth?",
+            "answers": [
+              "honest",
+              "honesty"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
