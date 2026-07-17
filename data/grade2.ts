@@ -906,6 +906,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Punctuation in Context", summary:"Sentences end with different punctuation marks: a period (.) ends a statement, a question mark (?) ends a question, and an exclamation mark (!) ends an exciting or surprising sentence.",
    resourceLabel:"YouTube: Punctuation in Context", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%20in%20Context%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LdCOswMeXFQ",
    quiz:[
      {q:"Which punctuation mark ends a question?", options:["Question mark (?)","Exclamation mark (!)","Comma (,)","Period (.)"], answer:0},
      {q:"'The cat sat on the mat' should end with a...", options:["Exclamation mark","Comma","Period","Question mark"], answer:2},
@@ -915,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Estimation Then Counting to Check", summary:"Estimation means making a good guess about a number without counting exactly. After estimating, you count to check how close your guess was.",
    resourceLabel:"YouTube: Estimation Then Counting to Check", resourceUrl:"https://www.youtube.com/results?search_query=Estimation%20Then%20Counting%20to%20Check%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xnUkIsdvfGY",
    quiz:[
      {q:"What is an estimate?", options:["A good guess about a number","A type of graph","The wrong answer always","An exact answer"], answer:0},
      {q:"If you see about 30 marbles in a jar, a good estimate would be...", options:["1,000","1","500","30"], answer:3},
@@ -924,6 +926,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Using Tools: Thermometers and Magnifying Glasses", summary:"Scientists use special tools to observe and measure. A thermometer measures temperature (how hot or cold something is). A magnifying glass makes small things look bigger so we can study them.",
    resourceLabel:"YouTube: Using Tools: Thermometers and Magnifying Glasses", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Tools%3A%20Thermometers%20and%20Magnifying%20Glasses%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AmrFkCwd1Lc",
    quiz:[
      {q:"What does a thermometer measure?", options:["Time","Temperature","Length","Weight"], answer:1},
      {q:"What does a magnifying glass do?", options:["Measures temperature","Makes objects look bigger","Measures length","Weighs objects"], answer:1},
@@ -933,6 +936,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Celebrations and Traditions Around the World", summary:"Families and communities around the world celebrate many different holidays and traditions, like Diwali, Hanukkah, Eid, Christmas, Lunar New Year, and Kwanzaa. Each celebration has its own meaning and customs.",
    resourceLabel:"YouTube: Celebrations and Traditions Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Celebrations%20and%20Traditions%20Around%20the%20World%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
    quiz:[
      {q:"Diwali is often called the...", options:["Festival of Harvest","Festival of Water","Festival of Lights","Festival of Snow"], answer:2},
      {q:"Lunar New Year is celebrated by many people from...", options:["No specific culture","African cultures","Asian cultures like Chinese","European cultures only"], answer:2},
@@ -944,6 +948,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Types of Sentences", summary:"There are three types of sentences: a statement tells something (ends with a period), a question asks something (ends with a question mark), and an exclamation shows strong feeling (ends with an exclamation mark).",
    resourceLabel:"YouTube: Types of Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Sentences%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g9_DQOwETMo",
    quiz:[
      {q:"Which sentence is a STATEMENT?", options:["Watch out!","Are you ready?","The sun is bright.","Where are you going?"], answer:2},
      {q:"Which sentence is a QUESTION?", options:["The sky is blue.","Go away!","I like cats.","What is your name?"], answer:3},
@@ -953,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Doubles Facts", summary:"Doubles facts are when you add a number to itself: 1+1=2, 2+2=4, 3+3=6, 4+4=8, 5+5=10, 6+6=12. Knowing doubles makes adding much faster!",
    resourceLabel:"YouTube: Doubles Facts", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%20Facts%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qaqLjzMyyHI",
    quiz:[
      {q:"What is 4 + 4?", options:["8","6","7","9"], answer:0},
      {q:"What is 6 + 6?", options:["13","10","12","11"], answer:2},
@@ -962,6 +968,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Habitats (Deeper Look)", summary:"Animals are specially suited for their habitats — their body features help them survive. A polar bear has thick fur for the cold arctic. A fish has gills for breathing underwater.",
    resourceLabel:"YouTube: Animal Habitats (Deeper Look)", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20%28Deeper%20Look%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Mad8J-iu2J0",
    quiz:[
      {q:"Why does a polar bear have thick white fur?", options:["To swim faster","To stay warm and blend in with snow","Just for looks","Because all bears have white fur"], answer:1},
      {q:"A fish breathes underwater using...", options:["Lungs","Gills","Its skin only","Fins"], answer:1},
@@ -971,6 +978,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Alphabetical Review: Canadian Communities", summary:"Canada has many communities from coast to coast — from big cities like Toronto, Vancouver, and Montreal to smaller towns and rural areas. Each place has unique features that make it special.",
    resourceLabel:"YouTube: Alphabetical Review: Canadian Communities", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Review%3A%20Canadian%20Communities%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Which city is the capital of Canada?", options:["Ottawa","Vancouver","Montreal","Toronto"], answer:0},
      {q:"Canada stretches from coast to coast — from which ocean to which ocean?", options:["Pacific to Atlantic","Only one ocean","Arctic to Indian","Atlantic to Pacific"], answer:0},

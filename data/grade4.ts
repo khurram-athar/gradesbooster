@@ -886,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Writing: Procedural Texts", summary:"Grade 4 Writing strand: a procedural text (how-to) explains how to do something in step-by-step order. It uses numbered steps, imperative verbs, and clear language.",
    resourceLabel:"YouTube: Writing: Procedural Texts", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dDIZM9Ky_aM",
    quiz:[
      {q:"The purpose of a procedural text is to ___.", options:["persuade the reader","entertain with a story","explain how to do or make something","compare two ideas"], answer:2},
      {q:"Procedural texts use ___ verbs.", options:["passive","past tense","imperative (command)","subjunctive"], answer:2},
@@ -895,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: 3D Figures", summary:"Grade 4 Geometry strand: 3D figures have length, width, and height. Key figures: cube, rectangular prism, cylinder, cone, sphere, pyramid.",
    resourceLabel:"YouTube: Geometry: 3D Figures", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%203D%20Figures%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ux_kLd7qAcY",
    quiz:[
      {q:"How many faces does a cube have?", options:["6","4","5","8"], answer:0},
      {q:"A rectangular prism has ___ vertices.", options:["8","6","12","4"], answer:0},
@@ -904,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Conservation of Energy", summary:"Grade 4 Science Energy strand: energy cannot be created or destroyed; it can only change form. Examples: electrical → light, chemical (food) → kinetic.",
    resourceLabel:"YouTube: Conservation of Energy", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20of%20Energy%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Vx0yAS2u8gI",
    quiz:[
      {q:"The law of conservation of energy states that energy ___.", options:["is always used up","cannot be created or destroyed","can be created from nothing","disappears when used"], answer:1},
      {q:"When you eat food, chemical energy converts to ___.", options:["nuclear energy","light energy","electrical energy","kinetic (movement) and heat energy"], answer:3},
@@ -913,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Heritage Celebrations", summary:"Grade 4 Social Studies: cultural celebrations reflect the heritage and identity of communities. Understanding different celebrations builds respect and inclusion.",
    resourceLabel:"YouTube: Heritage Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Celebrations%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VFt1Fl--zxQ",
    quiz:[
      {q:"A heritage celebration reflects ___.", options:["only modern pop culture","only sports","only government events","a community's traditions and history"], answer:3},
      {q:"Diwali is the Festival of Lights celebrated primarily by ___.", options:["Hindu, Sikh, and Jain communities","Celtic communities","Indigenous communities","Chinese communities"], answer:0},
@@ -924,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Prepositions", summary:"Grade 4 Language strand: prepositions show the relationship between a noun and another word. Common prepositions: in, on, at, by, under, over, between, through.",
    resourceLabel:"YouTube: Grammar: Prepositions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Prepositions%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eSDuxQjwUPM",
    quiz:[
      {q:"A preposition shows the ___ between words.", options:["relationship, like location or time","sound","colour","size"], answer:0},
      {q:"Which is a preposition in: 'The cat sat on the mat'?", options:["cat","mat","The","on"], answer:3},
@@ -933,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Division: 2-Digit Divisor Introduction", summary:"Grade 4 Number strand: students divide larger dividends by 1-digit divisors and are introduced to estimation with division.",
    resourceLabel:"YouTube: Division: 2-Digit Divisor Introduction", resourceUrl:"https://www.youtube.com/results?search_query=Division%3A%202-Digit%20Divisor%20Introduction%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HdU_rf7eMTI",
    quiz:[
      {q:"84 ÷ 4 = ?", options:["21","22","20","19"], answer:0},
      {q:"96 ÷ 8 = ?", options:["12","11","10","13"], answer:0},
@@ -942,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sustainable Practices", summary:"Grade 4 Science Life Systems/Materials strand: sustainable practices reduce waste and protect the environment. The 3 Rs: Reduce, Reuse, Recycle.",
    resourceLabel:"YouTube: Sustainable Practices", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Practices%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zx04Kl8y4dE",
    quiz:[
      {q:"Sustainable means ___.", options:["never using resources","using as much as possible","meeting today's needs sustainably","spending less money"], answer:2},
      {q:"Which is a sustainable practice?", options:["Printing one page per word","Leaving lights on","Composting organic waste","Buying single-use plastics"], answer:2},
@@ -951,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration: Building Canada", summary:"Grade 4 Social Studies: immigrants have come to Canada from all over the world, contributing to its economy, culture, and identity. Immigration continues today.",
    resourceLabel:"YouTube: Immigration: Building Canada", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%3A%20Building%20Canada%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=d6xX3gYDvPw",
    quiz:[
      {q:"Why have people immigrated to Canada?", options:["Seeking safety, opportunity, or family","Canada is not a destination","Canada forced them","Only recently has anyone come to Canada"], answer:0},
      {q:"What is a refugee?", options:["A student studying abroad","A tourist who stays","Someone fleeing war or persecution","A wealthy immigrant"], answer:2},

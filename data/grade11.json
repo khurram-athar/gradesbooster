@@ -4929,6 +4929,7 @@
         "summary": "Students plan and write a comparative essay examining two literary texts, developing sophisticated analytical frameworks for comparison.",
         "resourceLabel": "YouTube: Writing: The Comparative Essay",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hvMSeg1s7uc",
         "quiz": [
           {
             "q": "A comparative essay does not simply list similarities and differences because ___.",
@@ -4988,6 +4989,7 @@
         "summary": "Students explore more complex rational functions, including partial fraction concepts and the connection to asymptotic behaviour.",
         "resourceLabel": "YouTube: Advanced Functions Preview: Rational Functions and Partial Fractions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Advanced%20Functions%20Preview%3A%20Rational%20Functions%20and%20Partial%20Fractions%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QKkdYW77xNI",
         "quiz": [
           {
             "q": "A rational function with degree of numerator > degree of denominator has ___.",
@@ -5047,6 +5049,7 @@
         "summary": "Students examine conservation case studies — the recovery of specific species (wolves, whooping cranes, bison) and habitat restoration projects in Canada.",
         "resourceLabel": "YouTube: Conservation Biology: Case Studies",
         "resourceUrl": "https://www.youtube.com/results?search_query=Conservation%20Biology%3A%20Case%20Studies%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=iZrZw_VC9Ik",
         "quiz": [
           {
             "q": "The reintroduction of wolves to Yellowstone (1995) demonstrated ___.",
@@ -5106,6 +5109,7 @@
         "summary": "Students examine the major biological macromolecules — carbohydrates, lipids, proteins, nucleic acids — as organic chemistry in action.",
         "resourceLabel": "YouTube: Organic Chemistry: Functional Groups and Biological Molecules",
         "resourceUrl": "https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Functional%20Groups%20and%20Biological%20Molecules%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=m9jM8lWxrAE",
         "quiz": [
           {
             "q": "Carbohydrates (sugars and starches) are ___.",
@@ -5171,6 +5175,7 @@
         "summary": "Students plan, write, edit, and design a class literary magazine, integrating writing, editing, visual design, and publishing skills.",
         "resourceLabel": "YouTube: Media Production: Creating a Literary Magazine",
         "resourceUrl": "https://www.youtube.com/results?search_query=Media%20Production%3A%20Creating%20a%20Literary%20Magazine%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=NefOesTl1iQ",
         "quiz": [
           {
             "q": "The editorial process in publishing involves ___.",
@@ -5230,6 +5235,7 @@
         "summary": "Students practise exam-style questions across all Grade 11 Functions topics under timed conditions.",
         "resourceLabel": "YouTube: Exam Preparation: Functions — Problem Solving Under Time Pressure",
         "resourceUrl": "https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Functions%20%E2%80%94%20Problem%20Solving%20Under%20Time%20Pressure%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=vZr0yNHbHU0",
         "quiz": [
           {
             "q": "A function has x-intercepts at x = −3 (order 2) and x = 1 (order 1) and passes through (0, −9). Find a and the equation.",
@@ -5289,6 +5295,7 @@
         "summary": "Students connect biological knowledge to environmental stewardship — examining what biology teaches us about our responsibility to the living world.",
         "resourceLabel": "YouTube: Biology Culminating: Environmental Stewardship",
         "resourceUrl": "https://www.youtube.com/results?search_query=Biology%20Culminating%3A%20Environmental%20Stewardship%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=BpcwV4LP_1s",
         "quiz": [
           {
             "q": "Biodiversity has intrinsic value, meaning ___.",
@@ -5348,6 +5355,7 @@
         "summary": "Students examine how chemistry contributes to solving global challenges — clean energy, medicine, clean water, and sustainable materials.",
         "resourceLabel": "YouTube: Chemistry Culminating: Chemistry for a Better World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Chemistry%20for%20a%20Better%20World%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5iTOphGnCtg",
         "quiz": [
           {
             "q": "Green chemistry solutions to plastic pollution include ___.",

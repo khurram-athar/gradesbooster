@@ -4929,6 +4929,7 @@
         "summary": "Students examine realist novels and their sociological dimension — how fiction can document social reality while remaining art.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
+        "videoUrl": "https://www.youtube.com/watch?v=F3raAcK18cQ",
         "quiz": [
           {
             "q": "Nineteenth-century realism in the novel aimed to ___.",
@@ -4988,6 +4989,7 @@
         "summary": "Students apply 3D vector techniques to navigation, structural problems, and multi-step applied problems.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=ml4NSzCQobk",
+        "videoUrl": "https://www.youtube.com/watch?v=Ej3ZVxljJfo",
         "quiz": [
           {
             "q": "A boat travels at 20 km/h in a river with current 5 km/h perpendicular. Its actual speed is ___.",
@@ -5047,6 +5049,7 @@
         "summary": "Students apply the integration by parts formula to products of functions, including repeated application and tabular method.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=2I-_SV8cwsw",
+        "videoUrl": "https://www.youtube.com/watch?v=sWSLLO3DS1I",
         "quiz": [
           {
             "q": "Integration by parts: ∫u dv = ___.",
@@ -5106,6 +5109,7 @@
         "summary": "Students examine the photoelectric effect, photon model of light, and the evidence for wave-particle duality.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kcSYV8bZhjc",
+        "videoUrl": "https://www.youtube.com/watch?v=MFPKwu5vugg",
         "quiz": [
           {
             "q": "The photoelectric effect is the emission of electrons from a metal surface when ___.",
@@ -5171,6 +5175,7 @@
         "summary": "Students study canonical short stories, examining how compressed form demands particular mastery of voice, structure, epiphany, and economy of language.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=dtRCMONW8bQ",
+        "videoUrl": "https://www.youtube.com/watch?v=WLF7_uaPu0w",
         "quiz": [
           {
             "q": "The short story differs from the novel in that ___.",
@@ -5230,6 +5235,7 @@
         "summary": "Students apply the fundamental counting principle, permutations (with and without repetition), and circular permutations to combinatorics problems.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=XqQTXW7XfYA",
+        "videoUrl": "https://www.youtube.com/watch?v=xOtsY5Raj_4",
         "quiz": [
           {
             "q": "The fundamental counting principle: if event A can occur in m ways and event B in n ways, then A then B can occur in ___.",
@@ -5289,6 +5295,7 @@
         "summary": "Students compute volumes using disc/washer and shell methods, and apply the methods to multi-region problems.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=EFkEnCYdVAU",
+        "videoUrl": "https://www.youtube.com/watch?v=QLHJl2_aM5Q",
         "quiz": [
           {
             "q": "The washer method for a solid between y=f(x) and y=g(x) (f≥g) rotated about x-axis gives ___.",
@@ -5348,6 +5355,7 @@
         "summary": "Students examine the Bohr model, quantum mechanical model, and electron configurations using quantum numbers.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=Ewf6RuLlSvc",
+        "videoUrl": "https://www.youtube.com/watch?v=eRIN9CPDrpo",
         "quiz": [
           {
             "q": "The Bohr model of the hydrogen atom correctly predicted ___.",

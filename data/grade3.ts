@@ -886,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Adverbs and Prepositions", summary:"Students identify adverbs (modify verbs: how, when, where) and prepositions (show relationship in space/time: in, on, under, after).",
    resourceLabel:"YouTube: Grammar: Adverbs and Prepositions", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20and%20Prepositions%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qVo6N4vMPfI",
    quiz:[
      {q:"An adverb modifies a ___.", options:["verb, adjective, or other adverb","pronoun","adjective only","noun"], answer:0},
      {q:"In 'She sang beautifully,' the adverb is ___.", options:["She","is","beautifully","sang"], answer:2},
@@ -895,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Congruence and Symmetry", summary:"Students identify congruent shapes (same size and shape) and lines of symmetry. They recognise symmetrical shapes by folding.",
    resourceLabel:"YouTube: Geometry: Congruence and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Congruence%20and%20Symmetry%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1u57rNNxDHg",
    quiz:[
      {q:"Congruent shapes are ___.", options:["only the same colour","the same size AND shape","the same colour","only the same size"], answer:1},
      {q:"A line of symmetry divides a shape into ___.", options:["only triangles","two random pieces","two mirror-image halves","unequal parts"], answer:2},
@@ -904,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound: Vibration, Pitch, Volume", summary:"Students explore how sound is produced (vibration), transmitted, and detected. They investigate pitch (high/low) and volume (loud/soft).",
    resourceLabel:"YouTube: Sound: Vibration, Pitch, Volume", resourceUrl:"https://www.youtube.com/results?search_query=Sound%3A%20Vibration%2C%20Pitch%2C%20Volume%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yMLTF_0PAQw",
    quiz:[
      {q:"Sound is produced by ___.", options:["magnetism","vibration of an object","light","heat"], answer:1},
      {q:"Pitch describes how ___ or ___ a sound is.", options:["long or short","loud or soft","high or low","fast or slow"], answer:2},
@@ -913,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Confederation and Canada's History", summary:"Students learn about Confederation (1867) when four provinces joined to form Canada, and how the country grew to its current size.",
    resourceLabel:"YouTube: Confederation and Canada's History", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%20and%20Canada%27s%20History%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
    quiz:[
      {q:"Confederation happened in ___.", options:["1812","1867","1900","1776"], answer:1},
      {q:"The first four provinces to join Confederation were ___.", options:["British Columbia, Alberta, Saskatchewan, Manitoba","Ontario, Quebec, British Columbia, Manitoba","Ontario, Quebec, Nova Scotia, and New Brunswick","All ten provinces at once"], answer:2},
@@ -924,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Research Skills: Finding Information", summary:"Students practise using books, encyclopedias, and reliable websites to find information. They evaluate source reliability.",
    resourceLabel:"YouTube: Research Skills: Finding Information", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Skills%3A%20Finding%20Information%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pDPlFRwMc1Y",
    quiz:[
      {q:"A reliable source of information is one that ___.", options:["written by experts and fact-checked","is only on social media","anyone can edit without verification","only contains pictures"], answer:0},
      {q:"An index in a non-fiction book helps you ___.", options:["find topics alphabetically","draw pictures","find the author's biography","read faster"], answer:0},
@@ -933,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Area and Perimeter: Problem Solving", summary:"Students solve real-world problems involving area and perimeter of rectangles.",
    resourceLabel:"YouTube: Area and Perimeter: Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Area%20and%20Perimeter%3A%20Problem%20Solving%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DnH6aOEopcA",
    quiz:[
      {q:"A garden is 8 m long and 5 m wide. What is its area?", options:["40 m²","45 m²","13 m²","26 m²"], answer:0},
      {q:"A garden is 8 m long and 5 m wide. What is its perimeter?", options:["13 m","45 m","40 m","26 m"], answer:3},
@@ -942,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Impact on the Environment", summary:"Students explore positive and negative human impacts on natural environments. They understand stewardship and sustainability.",
    resourceLabel:"YouTube: Human Impact on the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Impact%20on%20the%20Environment%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=94cA_JLDcFk",
    quiz:[
      {q:"Which is a NEGATIVE human impact on the environment?", options:["Dumping toxic waste in a river","Setting up nature reserves","Planting trees","Creating wildlife corridors"], answer:0},
      {q:"Which is a POSITIVE human impact on the environment?", options:["Urban sprawl replacing forests","Overfishing","Burning fossil fuels","Reforestation and habitat restoration"], answer:3},
@@ -951,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Human Rights and Equity", summary:"Students explore the concept of human rights and equity — ensuring everyone gets what they need to thrive, not just equal treatment.",
    resourceLabel:"YouTube: Human Rights and Equity", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Rights%20and%20Equity%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9isVHRDeGis",
    quiz:[
      {q:"Human rights are ___.", options:["only for adults","only for citizens of wealthy countries","privileges earned by good behaviour","basic rights everyone has as a human"], answer:3},
      {q:"Equity means ___.", options:["everyone gets what they need","everyone gets exactly the same","only equality of opportunity","never helping anyone extra"], answer:0},

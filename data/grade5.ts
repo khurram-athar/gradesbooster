@@ -886,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Point of View: First vs. Third Person", summary:"First-person narration uses 'I' and 'we'; third-person narration uses 'he,' 'she,' or 'they' to tell the story.",
    resourceLabel:"YouTube: Point of View: First vs. Third Person", resourceUrl:"https://www.youtube.com/results?search_query=Point%20of%20View%3A%20First%20vs.%20Third%20Person%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iFaaNuA9LKA",
    quiz:[
      {q:"A story reads: 'James walked into the room, unaware that everyone was watching him.' Which point of view is this, and how do you know?", options:["First person, because it reveals his inner thoughts only","First person, because it uses 'I'","Third person, because it uses a character's name and describes him from outside","Second person, because it addresses the reader directly"], answer:2},
      {q:"Why might an author choose third-person point of view to tell a story with multiple important characters?", options:["It removes all characters from the story","It only allows describing one character at a time forever","Third person cannot describe more than one character","It allows the narrator to show the thoughts, feelings, or actions of multiple characters"], answer:3},
@@ -895,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"2D Shape Properties and Symmetry", summary:"Polygons can be classified by their sides and angles, and a shape has symmetry if it can be divided into matching mirror-image parts.",
    resourceLabel:"YouTube: 2D Shape Properties and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shape%20Properties%20and%20Symmetry%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QHq3CSoal0I",
    quiz:[
      {q:"A shape has 6 equal sides and 6 equal angles. What is it called, and is it regular?", options:["An irregular hexagon","A regular octagon","A regular hexagon","An irregular pentagon"], answer:2},
      {q:"A quadrilateral has exactly one pair of parallel sides. Which shape is this MOST likely to be?", options:["A regular pentagon","A square","A trapezoid","A circle"], answer:2},
@@ -904,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Digestive System in Depth", summary:"The digestive system breaks down food step by step through the mouth, esophagus, stomach, small intestine, and large intestine.",
    resourceLabel:"YouTube: The Digestive System in Depth", resourceUrl:"https://www.youtube.com/results?search_query=The%20Digestive%20System%20in%20Depth%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1UvuBYUbFk0",
    quiz:[
      {q:"Food takes longer to digest fully in the stomach than to travel through the esophagus. What explains this?", options:["Food doesn't actually change in the stomach","The stomach only stores food without processing it","The esophagus is longer than the stomach","The stomach churns and breaks it down"], answer:3},
      {q:"Why is the small intestine considered the main site of nutrient absorption rather than the stomach?", options:["The small intestine does not touch digested food","Nutrient absorption happens only in the mouth","It's built for absorbing nutrients","The stomach absorbs all nutrients before food even arrives"], answer:2},
@@ -913,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of the Great Lakes", summary:"The Great Lakes — Superior, Michigan, Huron, Erie, and Ontario — form a major freshwater system shared between Canada and the United States.",
    resourceLabel:"YouTube: Geography of the Great Lakes", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20the%20Great%20Lakes%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AvSHdCGpF3A",
    quiz:[
      {q:"Why are the Great Lakes considered vital to both Canada's and the United States' economies?", options:["They have no economic significance","They are located entirely within one country","They provide shipping and fresh water","They only benefit Canada"], answer:2},
      {q:"Which factor makes the Great Lakes an important source of freshwater for millions of people?", options:["They are too small to matter","They are located in a desert region","They are made of saltwater like oceans","They hold a large portion of the world's surface freshwater"], answer:3},
@@ -924,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Using Transition Words", summary:"Transition words like 'first,' 'next,' 'however,' and 'finally' help connect ideas and guide the reader through a text.",
    resourceLabel:"YouTube: Using Transition Words", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Transition%20Words%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=i8FrMVY7xjo",
    quiz:[
      {q:"Which transition word would BEST connect: 'It rained all day. ___, the game continued as scheduled.'", options:["Also","However","First","Similarly"], answer:1},
      {q:"A student writes a paragraph with steps but no transition words. What problem does this likely cause?", options:["The steps become harder to follow in order","Transition words are never necessary","The paragraph becomes automatically organized","No problem occurs"], answer:0},
@@ -933,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Transformations: Translations and Reflections", summary:"A translation slides a shape without flipping or turning it; a reflection flips a shape over a line, like a mirror image.",
    resourceLabel:"YouTube: Transformations: Translations and Reflections", resourceUrl:"https://www.youtube.com/results?search_query=Transformations%3A%20Translations%20and%20Reflections%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=no9Drfcw2Zo",
    quiz:[
      {q:"A triangle is reflected over a horizontal line. Which property stays the same?", options:["Its orientation, left/right","Its size and shape","Its position on the grid","Nothing stays the same"], answer:1},
      {q:"A shape is translated 3 units right and 2 units down. What happens to its size and orientation?", options:["Both stay the same; position changes","The shape gets bigger","The shape flips","The shape rotates"], answer:0},
@@ -942,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Food Chains and Energy Pyramids", summary:"A food chain shows how energy moves from the sun to producers, then to consumers, while an energy pyramid shows energy decreasing at each level.",
    resourceLabel:"YouTube: Food Chains and Energy Pyramids", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%20and%20Energy%20Pyramids%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-oVavgmveyY",
    quiz:[
      {q:"In a food chain of grass → rabbit → fox, which organism has the LEAST energy available to it?", options:["Grass","Rabbit","All have equal energy","Fox"], answer:3},
      {q:"Why do energy pyramids typically show fewer organisms at the top than at the bottom?", options:["This pattern is not actually true","There are always more predators than prey","Producers need more energy than consumers","Energy decreases at each level as it's used for life processes"], answer:3},

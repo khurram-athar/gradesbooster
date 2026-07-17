@@ -968,6 +968,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animals in Winter", summary:"Students learn how animals survive winter: some hibernate, some migrate south, and some stay active by adapting their behaviour.",
    resourceLabel:"YouTube: Animals in Winter", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20in%20Winter%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0N7FGPeykfE",
    quiz:[
      {q:"Hibernation means ___.", options:["building a nest","growing a thicker coat","flying south for winter","sleeping deeply through winter"], answer:3},
      {q:"Which animal is known for hibernating in winter?", options:["Butterfly","Robin","Bear","Goose"], answer:2},
@@ -977,6 +978,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Weather and Our Lives", summary:"Students explore how weather affects daily decisions: what to wear, what activities to do, and how communities prepare for extreme weather.",
    resourceLabel:"YouTube: Weather and Our Lives", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Our%20Lives%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oPq42NB2aTA",
    quiz:[
      {q:"Weather affects what we ___.", options:["read","eat for breakfast","wear and what activities we do","dream about"], answer:2},
      {q:"On a rainy day you would wear ___.", options:["a t-shirt and shorts","a raincoat and boots","nothing different","a swimsuit"], answer:1},

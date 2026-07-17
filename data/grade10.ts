@@ -844,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"Media Creation: Short Film or Podcast Episode", summary:"Students plan, script, and produce a short media piece (podcast episode or video essay) on a literary or social topic, applying media literacy and production skills.",
    resourceLabel:"YouTube: Media Creation: Short Film or Podcast Episode", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Creation%3A%20Short%20Film%20or%20Podcast%20Episode%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fMpjENF1VDc",
    quiz:[
      {q:"A video essay differs from a documentary in that ___.", options:["it uses no research","it's a personal, narrated argument","it is always shorter","it is fictional"], answer:1},
      {q:"Pre-production in media making includes ___.", options:["only recording","planning before recording begins","only editing","only publishing"], answer:1},
@@ -853,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Quadratics and Functions: Consolidation", summary:"Students review and consolidate Grade 10 quadratic and function concepts, preparing for Grade 11 Functions.",
    resourceLabel:"YouTube: Quadratics and Functions: Consolidation", resourceUrl:"https://www.youtube.com/results?search_query=Quadratics%20and%20Functions%3A%20Consolidation%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SGUP6BkA870",
    quiz:[
      {q:"Convert y = x² − 6x + 11 to vertex form.", options:["y = (x − 3)² − 9 + 11 = (x−3)²+2","y = (x − 6)² + 2","y = (x − 3)² + 2","y = (x + 3)² − 11"], answer:2},
      {q:"A function has domain {x ∈ ℝ | x ≠ −2}. What type of function likely has this restriction?", options:["A quadratic function","A rational function, denominator x+2","A polynomial function","A linear function"], answer:1},
@@ -862,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Human Health and Biotechnology", summary:"Students examine how scientific knowledge is applied in medicine — vaccines, antibiotics, gene therapy, and CRISPR — and the ethical questions raised.",
    resourceLabel:"YouTube: Science: Human Health and Biotechnology", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Human%20Health%20and%20Biotechnology%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jXcUaLPivVU",
    quiz:[
      {q:"mRNA vaccines (like those developed for COVID-19) work by ___.", options:["using a live pathogen","injecting a weakened virus","mRNA trains cells to fight the virus","injecting DNA into the nucleus"], answer:2},
      {q:"Antibiotic resistance is a growing problem because ___.", options:["viruses have become resistant","resistance only affects hospitals","bacteria evolve resistance to drugs","antibiotics are now weaker"], answer:2},
@@ -871,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada Today: Contemporary Challenges", summary:"Students examine contemporary challenges facing Canada: reconciliation, climate, housing, inequality, and democratic participation.",
    resourceLabel:"YouTube: Canada Today: Contemporary Challenges", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Today%3A%20Contemporary%20Challenges%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"Canada's housing crisis affects young Canadians because ___.", options:["only major cities have issues","housing is affordable everywhere","homes are now largely unaffordable","the crisis is limited to coastal cities"], answer:2},
      {q:"Income inequality in Canada has ___.", options:["grown since the 1980s","has no effect on social outcomes","remained perfectly stable","decreased dramatically"], answer:0},
@@ -882,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Writing: Final Culminating Task", summary:"Students complete a major writing task — analytical essay, creative work, or multimodal project — that demonstrates the full range of Grade 10 English skills.",
    resourceLabel:"YouTube: Writing: Final Culminating Task", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Final%20Culminating%20Task%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3Jlx_Tkv8Xc",
    quiz:[
      {q:"A culminating writing task should demonstrate ___.", options:["only your length capabilities","only your vocabulary knowledge","only your grammar skills","the range of skills learned all year"], answer:3},
      {q:"Self-editing a major piece means ___.", options:["fixing only spelling errors","reviewing argument, then surface errors","asking a friend to rewrite it","reading aloud to catch awkward phrasing"], answer:1},
@@ -891,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exam Preparation: Grade 10 Mathematics Review", summary:"Students review all major Grade 10 math concepts for assessment readiness.",
    resourceLabel:"YouTube: Exam Preparation: Grade 10 Mathematics Review", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Grade%2010%20Mathematics%20Review%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Veb22xD0Ao0",
    quiz:[
      {q:"Solve: x² + 2x − 15 = 0", options:["x = 3 and x = 5","x = 3 and x = −5","x = −3 and x = 5","x = 5 and x = −5"], answer:1},
      {q:"In triangle ABC, a = 10, b = 7, B = 30°. Use the Sine Law to find sin A.", options:["sin A = 7/10","sin A = 1","sin A = 10 sin30° / 7 = 5/7 ≈ 0.714","sin A = sin30°"], answer:2},
@@ -900,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Review and Synthesis", summary:"Students synthesise all three Grade 10 science strands — chemistry, biology, and physics — and their interconnections.",
    resourceLabel:"YouTube: Science: Review and Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Review%20and%20Synthesis%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oefAI2x2CQM",
    quiz:[
      {q:"Chemical bonding concepts explain ___.", options:["only ionic compounds","only why acids are sour","only laboratory reactions","properties of water, DNA, and metals"], answer:3},
      {q:"Evolution (biology) connects to chemistry through ___.", options:["only protein structure","only fossil records","no connection exists","mutation being a chemical process"], answer:3},
@@ -909,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Grade 10 History: Looking Back and Forward", summary:"Students synthesise Grade 10 history and connect it to their emerging understanding of citizenship and their role in the future of Canada.",
    resourceLabel:"YouTube: Grade 10 History: Looking Back and Forward", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20History%3A%20Looking%20Back%20and%20Forward%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qFxco8vX6Rw",
    quiz:[
      {q:"The thread connecting Canada's WWII experience, the Charter, and reconciliation is ___.", options:["only conflict","only politics","only economic growth","expanding who counts as a full citizen"], answer:3},
      {q:"Canada's relationship with the United States, seen across the 20th century, is best described as ___.", options:["complete American dominance","complete Canadian independence","close ties, yet a push to stay distinct","identical interests always"], answer:2},

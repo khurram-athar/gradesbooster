@@ -844,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"The Novel as Social Document: Realism and Its Discontents", summary:"Students examine realist novels and their sociological dimension — how fiction can document social reality while remaining art.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=qGHBcRcPQeI",
+   videoUrl:"https://www.youtube.com/watch?v=F3raAcK18cQ",
    quiz:[
      {q:"Nineteenth-century realism in the novel aimed to ___.", options:["represent society as it actually is","create pure fantasy worlds","avoid representing working-class life","focus only on aristocratic characters"], answer:0},
      {q:"The sociological reading of a novel examines ___.", options:["only the author's biography","only plot and character","how the novel reflects its social era","only style and form"], answer:2},
@@ -853,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Vectors: Applications to Navigation and Problem Solving", summary:"Students apply 3D vector techniques to navigation, structural problems, and multi-step applied problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=ml4NSzCQobk",
+   videoUrl:"https://www.youtube.com/watch?v=Ej3ZVxljJfo",
    quiz:[
      {q:"A boat travels at 20 km/h in a river with current 5 km/h perpendicular. Its actual speed is ___.", options:["15 km/h","√(20² + 5²) = √425 ≈ 20.6 km/h","25 km/h","10 km/h"], answer:1},
      {q:"A plane heads north at 800 km/h; wind blows east at 100 km/h. The resultant speed is ___.", options:["700 km/h","900 km/h","800 + 100 = 900 km/h (this adds speeds, not vectors)","√(800² + 100²) = √650000 ≈ 806 km/h"], answer:3},
@@ -862,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Integration by Parts", summary:"Students apply the integration by parts formula to products of functions, including repeated application and tabular method.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=2I-_SV8cwsw",
+   videoUrl:"https://www.youtube.com/watch?v=sWSLLO3DS1I",
    quiz:[
      {q:"Integration by parts: ∫u dv = ___.", options:["uv − ∫u dv","∫u dx + ∫dv","uv − ∫v du","u dv − v du"], answer:2},
      {q:"To integrate ∫x·eˣ dx, choose u = x, dv = eˣ dx. Then du = dx, v = eˣ. Result:", options:["x·eˣ − eˣ + C = eˣ(x−1) + C","eˣ(x+1) + C","x·eˣ + eˣ + C","x·eˣ + C"], answer:0},
@@ -871,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"The Photoelectric Effect and Wave-Particle Duality", summary:"Students examine the photoelectric effect, photon model of light, and the evidence for wave-particle duality.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=kcSYV8bZhjc",
+   videoUrl:"https://www.youtube.com/watch?v=MFPKwu5vugg",
    quiz:[
      {q:"The photoelectric effect is the emission of electrons from a metal surface when ___.", options:["a current is applied to the metal","the metal is heated sufficiently","the metal is cooled to absolute zero","light of sufficient frequency illuminates the metal"], answer:3},
      {q:"Classical wave theory failed to explain the photoelectric effect because ___.", options:["it correctly predicted everything","any frequency could eject electrons","it predicted no electrons would be emitted","it predicted only red light would work"], answer:1},
@@ -882,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Short Fiction Masterworks: Structure, Voice, and Compression", summary:"Students study canonical short stories, examining how compressed form demands particular mastery of voice, structure, epiphany, and economy of language.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=dtRCMONW8bQ",
+   videoUrl:"https://www.youtube.com/watch?v=WLF7_uaPu0w",
    quiz:[
      {q:"The short story differs from the novel in that ___.", options:["it demands absolute economy","it is always easier to write","it can never achieve the depth of a novel","it has no character development"], answer:0},
      {q:"The 'epiphany' in Joyce's short fiction (from 'Dubliners') refers to ___.", options:["a moment of sudden insight or revelation","a surprise plot twist","a religious experience only","the story's happy ending"], answer:0},
@@ -891,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Counting Principles and Permutations", summary:"Students apply the fundamental counting principle, permutations (with and without repetition), and circular permutations to combinatorics problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=XqQTXW7XfYA",
+   videoUrl:"https://www.youtube.com/watch?v=xOtsY5Raj_4",
    quiz:[
      {q:"The fundamental counting principle: if event A can occur in m ways and event B in n ways, then A then B can occur in ___.", options:["m × n ways (multiplication principle)","m − n ways","m! ways","m + n ways (addition applies when events are mutually exclusive alternatives)"], answer:0},
      {q:"The number of permutations of n distinct objects taken r at a time is ___.", options:["n!","nCr = n!/(r!(n−r)!)","n!/r!","n!/(n−r)!... = nPr"], answer:3},
@@ -900,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Volumes of Solids of Revolution: Advanced", summary:"Students compute volumes using disc/washer and shell methods, and apply the methods to multi-region problems.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=EFkEnCYdVAU",
+   videoUrl:"https://www.youtube.com/watch?v=QLHJl2_aM5Q",
    quiz:[
      {q:"The washer method for a solid between y=f(x) and y=g(x) (f≥g) rotated about x-axis gives ___.", options:["V = π∫{[f(x)]² − [g(x)]²} dx","V = 2π∫x[f(x)−g(x)] dx","V = π∫[f(x)+g(x)] dx","V = π∫[f(x)−g(x)]² dx"], answer:0},
      {q:"Find the volume when the region between y=x and y=x² (0≤x≤1) is rotated about the x-axis.", options:["V = π/6","V = π/15","V = 2π/15","V = π/3"], answer:2},
@@ -909,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Atomic Structure and Quantum Numbers", summary:"Students examine the Bohr model, quantum mechanical model, and electron configurations using quantum numbers.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=Ewf6RuLlSvc",
+   videoUrl:"https://www.youtube.com/watch?v=eRIN9CPDrpo",
    quiz:[
      {q:"The Bohr model of the hydrogen atom correctly predicted ___.", options:["the Zeeman effect","the spectra of all elements","the 3D shape of orbitals","hydrogen's discrete emission spectrum"], answer:3},
      {q:"The principal quantum number n determines ___.", options:["the energy level and size of the orbital","the shape of the orbital","the magnetic orientation of the orbital","the spin of the electron"], answer:0},

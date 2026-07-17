@@ -844,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Subject-Verb Agreement in Complex Sentences", summary:"Apply subject-verb agreement rules in sentences with compound subjects, intervening phrases, and indefinite pronouns (ENL1W Strand B — Grammar).",
    resourceLabel:"YouTube: Subject-Verb Agreement in Complex Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Subject-Verb%20Agreement%20in%20Complex%20Sentences%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zfbUzWqsH74",
    quiz:[
      {q:"Which sentence is correct?", options:["The box of chocolates is on the table.","The boxes of chocolate is on the table.","The box of chocolates are on the table.","The box of chocolates were on the tables."], answer:0},
      {q:"Compound subjects joined by 'and' require a...", options:["Verb that matches only the first subject","Singular verb always","Plural verb","No verb"], answer:2},
@@ -853,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rate of Change and Direct Variation", summary:"Interpret rate of change as slope in context and distinguish direct variation (y = kx) from other linear relations (MTH1W Algebra/Linear Relations strand).",
    resourceLabel:"YouTube: Rate of Change and Direct Variation", resourceUrl:"https://www.youtube.com/results?search_query=Rate%20of%20Change%20and%20Direct%20Variation%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vh8Bs1iSrag",
    quiz:[
      {q:"Rate of change in a linear relation represents...", options:["A constant that never changes","The y-intercept only","The starting value of the relation","How much y changes per unit of x"], answer:3},
      {q:"A direct variation has the form y = kx. Its graph always passes through...", options:["The origin (0, 0)","The point (1, 1) only","The y-axis at y = k","Any random point"], answer:0},
@@ -862,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plate Tectonics and Continental Drift Evidence", summary:"Describe the theory of plate tectonics and evaluate the evidence for continental drift, including fossil records and coastline fit (SNC1W Earth Science strand).",
    resourceLabel:"YouTube: Plate Tectonics and Continental Drift Evidence", resourceUrl:"https://www.youtube.com/results?search_query=Plate%20Tectonics%20and%20Continental%20Drift%20Evidence%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2_e0PuPl9js",
    quiz:[
      {q:"The theory of continental drift, proposed by Alfred Wegener, suggests that...", options:["The continents have always been in their current positions","Only the ocean floors move, not the continents","Continents move rapidly in human lifetimes","Continents were once joined as Pangaea"], answer:3},
      {q:"One piece of evidence for continental drift is...", options:["Identical languages across all continents","The fact that all continents have the same climate","Matching fossils on separate continents","All rivers flow in the same direction"], answer:2},
@@ -871,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Cultural Geography: Language and Religion Distribution", summary:"Examine the global distribution of major world languages and religions as geographic and cultural phenomena (CGC1W — factual and respectful treatment).",
    resourceLabel:"YouTube: Cultural Geography: Language and Religion Distribution", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Geography%3A%20Language%20and%20Religion%20Distribution%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0ZvYJmzvgLo",
    quiz:[
      {q:"The study of how languages are distributed across the world is part of...", options:["Economic geography only","Cultural geography","Physical geography only","Political geography only"], answer:1},
      {q:"Mandarin Chinese is spoken by the largest number of native speakers globally. Its distribution is concentrated in...", options:["North America and Australia","Europe and South America","China and parts of Southeast Asia","Sub-Saharan Africa"], answer:2},
@@ -882,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Analyzing Symbolism in a Poem", summary:"Identify and interpret symbols in poetry, and explain how imagery and figurative language build layers of meaning (ENL1W Strand A).",
    resourceLabel:"YouTube: Analyzing Symbolism in a Poem", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Symbolism%20in%20a%20Poem%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=o3x-g5qRCYw",
    quiz:[
      {q:"In literature, a symbol is an object, person, or place that...", options:["Represents something beyond its literal meaning","Has only a literal, physical meaning","Is always described in a simile","Only appears in novels, not poetry"], answer:0},
      {q:"Imagery in a poem refers to...", options:["The length of each line","Only rhyme schemes","Language that appeals to the senses","Only the title of the poem"], answer:2},
@@ -891,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Simple vs Compound Interest", summary:"Calculate simple interest using I = Prt and compare it to compound interest to understand how investments and loans grow over time (MTH1W Financial Literacy strand).",
    resourceLabel:"YouTube: Simple vs Compound Interest", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20vs%20Compound%20Interest%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=T2u2vTn4shM",
    quiz:[
      {q:"The formula for simple interest is I = Prt, where P is principal, r is annual rate, and t is...", options:["The number of payments","Time in years","The interest rate as a whole number","The total amount"], answer:1},
      {q:"Calculate simple interest on $500 at 4% per year for 3 years.", options:["$20","$560","$500","$60"], answer:3},
@@ -900,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Rock Cycle and Rock Types", summary:"Describe the three main rock types (igneous, sedimentary, metamorphic) and explain how rocks transform through the rock cycle (SNC1W Earth Science strand).",
    resourceLabel:"YouTube: The Rock Cycle and Rock Types", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rock%20Cycle%20and%20Rock%20Types%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VByCLpj-I_s",
    quiz:[
      {q:"Igneous rocks form from...", options:["Compressed sediment layers","Cooling and solidifying magma or lava","Dissolved minerals in water","Heat and pressure applied to existing rock"], answer:1},
      {q:"Sedimentary rocks form from...", options:["Volcanic lava only","Cooling magma","Heat and pressure on metamorphic rocks","Layers of sediment compressed over time"], answer:3},
@@ -909,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Migration Patterns and Causes (Push/Pull Factors)", summary:"Examine why people migrate — distinguishing push factors (reasons to leave) from pull factors (reasons to move to a destination) — and describe global migration patterns (CGC1W — factual).",
    resourceLabel:"YouTube: Migration Patterns and Causes (Push/Pull Factors)", resourceUrl:"https://www.youtube.com/results?search_query=Migration%20Patterns%20and%20Causes%20%28Push%2FPull%20Factors%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cV4zCTZV7EM",
    quiz:[
      {q:"A push factor in migration is something that...", options:["Has no effect on migration decisions","Motivates someone to leave home","Attracts a person to a destination","Only applies to international migration"], answer:1},
      {q:"A pull factor in migration is something that...", options:["Attracts a person to a new location","Only applies to internal migration within a country","Forces a person to leave their home","Is always related to climate"], answer:0},

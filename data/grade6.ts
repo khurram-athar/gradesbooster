@@ -886,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Research Project: Planning and Sourcing", summary:"Students plan a research project by developing a research question, identifying key subtopics, evaluating sources for credibility, and organising notes.",
    resourceLabel:"YouTube: Research Project: Planning and Sourcing", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Project%3A%20Planning%20and%20Sourcing%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZCIJQJRw6xw",
    quiz:[
      {q:"A good research question is ___.", options:["focused, specific, and answerable","one with a simple yes/no answer","so broad it can never be answered","already answered in one book"], answer:0},
      {q:"A primary source is ___.", options:["only an internet source","a first-hand account or document","a textbook summary","always more reliable than a secondary source"], answer:1},
@@ -895,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Transformations", summary:"Students perform and describe translations (slides), reflections (flips), and rotations (turns) of 2D shapes on a coordinate plane.",
    resourceLabel:"YouTube: Geometry: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Transformations%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a6MQTpBSNBk",
    quiz:[
      {q:"A translation (slide) moves a shape ___.", options:["sliding it without turning or flipping","by resizing it","by flipping it over a line","by rotating it around a point"], answer:0},
      {q:"A reflection (flip) produces ___.", options:["a rotated version","the same orientation as the original","a mirror image across a line","a smaller version of the shape"], answer:2},
@@ -904,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biodiversity: Food Webs and Human Impact", summary:"Students analyse multi-level food webs, identify keystone species, and examine how human activities alter ecosystems and biodiversity.",
    resourceLabel:"YouTube: Biodiversity: Food Webs and Human Impact", resourceUrl:"https://www.youtube.com/results?search_query=Biodiversity%3A%20Food%20Webs%20and%20Human%20Impact%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=srpl5YRw-_U",
    quiz:[
      {q:"A keystone species is ___.", options:["always the largest animal in an ecosystem","a species with an outsized effect","only an endangered species","any common animal"], answer:1},
      {q:"If a top predator is removed from an ecosystem, the most likely effect is ___.", options:["prey overgraze and collapse the system","no change","only the plants change","only the prey population changes"], answer:0},
@@ -913,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The British Empire and Colonialism", summary:"Students examine how Britain built a global empire through trade, military power, and colonisation, and explore the complex consequences for colonised peoples.",
    resourceLabel:"YouTube: The British Empire and Colonialism", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Empire%20and%20Colonialism%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VcnSsEVsrf0",
    quiz:[
      {q:"At its height, the British Empire was ___.", options:["only in Asia","the largest empire in history","only in Africa","only in North America"], answer:1},
      {q:"Colonialism involved ___.", options:["controlling and exploiting territory","only sending aid","only building roads abroad","only trading with other nations"], answer:0},

@@ -844,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"Writing: The Comparative Essay", summary:"Students plan and write a comparative essay examining two literary texts, developing sophisticated analytical frameworks for comparison.",
    resourceLabel:"YouTube: Writing: The Comparative Essay", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Comparative%20Essay%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hvMSeg1s7uc",
    quiz:[
      {q:"A comparative essay does not simply list similarities and differences because ___.", options:["listing IS comparative analysis","the goal is only to describe each text separately","listing replaces analysis with description","comparison is not analytical"], answer:2},
      {q:"The two main organisational structures for comparative essays are ___.", options:["block and point-by-point structures","alphabetical and reverse alphabetical","only paragraph by paragraph","introduction-based and conclusion-based"], answer:0},
@@ -853,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Advanced Functions Preview: Rational Functions and Partial Fractions", summary:"Students explore more complex rational functions, including partial fraction concepts and the connection to asymptotic behaviour.",
    resourceLabel:"YouTube: Advanced Functions Preview: Rational Functions and Partial Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Advanced%20Functions%20Preview%3A%20Rational%20Functions%20and%20Partial%20Fractions%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QKkdYW77xNI",
    quiz:[
      {q:"A rational function with degree of numerator > degree of denominator has ___.", options:["a horizontal asymptote","no asymptotes of any kind","an oblique (slant) asymptote","only vertical asymptotes"], answer:2},
      {q:"The oblique asymptote of f(x) = (x² + 2x + 1)/(x − 1) is found by ___.", options:["long division gives y = x + 3","setting numerator = denominator","only graphing","setting the denominator to zero"], answer:0},
@@ -862,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Conservation Biology: Case Studies", summary:"Students examine conservation case studies — the recovery of specific species (wolves, whooping cranes, bison) and habitat restoration projects in Canada.",
    resourceLabel:"YouTube: Conservation Biology: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20Biology%3A%20Case%20Studies%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iZrZw_VC9Ik",
    quiz:[
      {q:"The reintroduction of wolves to Yellowstone (1995) demonstrated ___.", options:["no significant ecological effect","an immediate improvement in predator numbers only","a trophic cascade across the ecosystem","only a reduction in prey animals"], answer:2},
      {q:"The recovery of whooping cranes in Canada is significant because ___.", options:["it was achieved without any conservation effort","from under 20 birds to about 500 today","they were never endangered","they have already fully recovered without human help"], answer:1},
@@ -871,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Functional Groups and Biological Molecules", summary:"Students examine the major biological macromolecules — carbohydrates, lipids, proteins, nucleic acids — as organic chemistry in action.",
    resourceLabel:"YouTube: Organic Chemistry: Functional Groups and Biological Molecules", resourceUrl:"https://www.youtube.com/results?search_query=Organic%20Chemistry%3A%20Functional%20Groups%20and%20Biological%20Molecules%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m9jM8lWxrAE",
    quiz:[
      {q:"Carbohydrates (sugars and starches) are ___.", options:["only energy storage molecules","only structural polymers","molecules with a 1:2:1 C:H:O ratio","always monomers"], answer:2},
      {q:"Fats (triglycerides) are formed by ___.", options:["denaturation of protein","condensation of glycerol and three fatty acids","addition of water to glycerol","polymerisation of amino acids"], answer:1},
@@ -882,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Media Production: Creating a Literary Magazine", summary:"Students plan, write, edit, and design a class literary magazine, integrating writing, editing, visual design, and publishing skills.",
    resourceLabel:"YouTube: Media Production: Creating a Literary Magazine", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Production%3A%20Creating%20a%20Literary%20Magazine%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
    quiz:[
      {q:"The editorial process in publishing involves ___.", options:["structural, copy, and proof edits","only correcting spelling","only the author working alone","one round of changes"], answer:0},
      {q:"Selecting work for a literary magazine requires ___.", options:["pieces that are all in the same style","only the highest-graded pieces","only selecting friends' work","judgment about quality and coherence"], answer:3},
@@ -891,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Exam Preparation: Functions — Problem Solving Under Time Pressure", summary:"Students practise exam-style questions across all Grade 11 Functions topics under timed conditions.",
    resourceLabel:"YouTube: Exam Preparation: Functions — Problem Solving Under Time Pressure", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Functions%20%E2%80%94%20Problem%20Solving%20Under%20Time%20Pressure%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vZr0yNHbHU0",
    quiz:[
      {q:"A function has x-intercepts at x = −3 (order 2) and x = 1 (order 1) and passes through (0, −9). Find a and the equation.", options:["y = (x+3)²(x−1)","y = 3(x+3)(x−1)","y = (x−3)²(x+1) with a test: f(0) = −9: a(3)²(−1) = −9a = −9, a = 1... wait: a(0+3)²(0−1) = a(9)(−1) = −9a = −9, a = 1. So y = (x+3)²(x−1)","y = −3(x+3)²(x−1)"], answer:0},
      {q:"Solve: log₂(x + 1) + log₂(x − 1) = 3", options:["x = 9","x = 2","x = 3","x = ±3"], answer:2},
@@ -900,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology Culminating: Environmental Stewardship", summary:"Students connect biological knowledge to environmental stewardship — examining what biology teaches us about our responsibility to the living world.",
    resourceLabel:"YouTube: Biology Culminating: Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Culminating%3A%20Environmental%20Stewardship%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BpcwV4LP_1s",
    quiz:[
      {q:"Biodiversity has intrinsic value, meaning ___.", options:["only economic value counts","biodiversity has no value beyond aesthetics","species only matter if useful to humans","species have value independent of their usefulness to humans"], answer:3},
      {q:"The biological case for protecting intact ecosystems includes ___.", options:["the full range of ecosystem services","no biological argument beyond sentiment","only carbon sequestration","only food production services"], answer:0},
@@ -909,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry Culminating: Chemistry for a Better World", summary:"Students examine how chemistry contributes to solving global challenges — clean energy, medicine, clean water, and sustainable materials.",
    resourceLabel:"YouTube: Chemistry Culminating: Chemistry for a Better World", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Chemistry%20for%20a%20Better%20World%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
    quiz:[
      {q:"Green chemistry solutions to plastic pollution include ___.", options:["biodegradable polymers and enzymes","no practical alternatives exist yet","more effective landfill design","banning all chemistry"], answer:0},
      {q:"Solar photovoltaic cells work through ___.", options:["only thermal energy conversion","a chemical reaction with oxygen","combustion of silicon","photons exciting electrons in silicon"], answer:3},

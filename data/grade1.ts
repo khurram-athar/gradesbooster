@@ -906,6 +906,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Suffixes: -er and -ing", summary:"Ontario Grade 1 Reading strand: a suffix is added to the end of a word to change its meaning. -Er means one who does; -ing indicates an ongoing action.",
    resourceLabel:"YouTube: Suffixes: -er and -ing", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20-er%20and%20-ing%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nzXAASiSrDs",
    quiz:[
      {q:"What does the suffix -ER mean when added to a verb?", options:["One who does the action","The action itself","Having done the action","Doing the action now"], answer:0},
      {q:"What does TEACHER mean?", options:["Is teaching","To teach","One who teaches","Taught"], answer:2},
@@ -915,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Strategies", summary:"Ontario Grade 1 Number strand: students use mental math strategies such as doubles, near doubles, make ten, and counting on to add efficiently.",
    resourceLabel:"YouTube: Addition Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Strategies%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m_sX7YyiyBs",
    quiz:[
      {q:"Counting on means starting at the bigger number and ___.", options:["Counting from 1","Adding backwards","Counting forward the smaller number","Subtracting"], answer:2},
      {q:"6 + 6 = 12 is an example of a ___.", options:["Make ten","Counting on","Near double","Double"], answer:3},
@@ -924,6 +926,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Water on Earth", summary:"Ontario Grade 1 Earth and Space Systems strand: water covers most of Earth's surface. It exists in three states and cycles through the environment.",
    resourceLabel:"YouTube: Water on Earth", resourceUrl:"https://www.youtube.com/results?search_query=Water%20on%20Earth%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FFr3YbZED5E",
    quiz:[
      {q:"What percentage of Earth's surface is covered by water?", options:["About 50 percent","About 90 percent","About 30 percent","About 70 percent"], answer:3},
      {q:"Water in three states: ___.", options:["Deep, shallow, wide","Hot, warm, cold","Solid, liquid, gas","Fast, slow, still"], answer:2},
@@ -933,6 +936,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Provinces of Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify the ten provinces of Canada and some facts about each, locating them on a map.",
    resourceLabel:"YouTube: Provinces of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provinces%20of%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Which province is on the west coast of Canada?", options:["Manitoba","Ontario","Quebec","British Columbia"], answer:3},
      {q:"Which province is Canada's largest by area?", options:["British Columbia","Alberta","Quebec","Ontario"], answer:2},
@@ -944,6 +948,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Poetry", summary:"Ontario Grade 1 Reading and Writing strands: students read and write simple poems, identifying rhyme, rhythm, and descriptive language, and appreciating how poets choose words carefully.",
    resourceLabel:"YouTube: Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LYN_typ45K4",
    quiz:[
      {q:"Poetry often uses ___.", options:["Only facts","Rhyme, rhythm, and descriptive language","Only long sentences","Lots of numbers"], answer:1},
      {q:"Which lines rhyme?", options:["The cat sat on the mat / The dog ran to school","She ran fast / He jumped high","Today is Monday / I ate my lunch","Roses are red / Violets are blue"], answer:3},
@@ -953,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction Strategies", summary:"Ontario Grade 1 Number strand: students use strategies such as counting back, fact families, and think-addition to subtract efficiently.",
    resourceLabel:"YouTube: Subtraction Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Strategies%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ySkjVZ0ym7k",
    quiz:[
      {q:"Counting back: 12 - 3 means start at 12 and count back ___.", options:["1 step","12 steps","2 steps","3 steps"], answer:3},
      {q:"Think-addition: 13 - 5 = ? Think 5 + ___ = 13", options:["6","7","9","8"], answer:3},
@@ -962,6 +968,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Stars and Space", summary:"Ontario Grade 1 Earth and Space Systems strand: the Sun is the closest star to Earth. Stars are large balls of hot gas. The Moon orbits Earth.",
    resourceLabel:"YouTube: Stars and Space", resourceUrl:"https://www.youtube.com/results?search_query=Stars%20and%20Space%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZrS3Ye8p61Y",
    quiz:[
      {q:"The Sun is a ___.", options:["Moon","Planet","Comet","Large ball of hot gas called a star"], answer:3},
      {q:"Which planet do we live on?", options:["Earth","Jupiter","Mars","Venus"], answer:0},
@@ -971,6 +978,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Caring for the Environment", summary:"Ontario Grade 1 Social Studies strand B: students identify ways to protect the environment including reducing waste, recycling, and conserving water and energy.",
    resourceLabel:"YouTube: Caring for the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Environment%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=belXC_IoW4o",
    quiz:[
      {q:"What does REDUCE mean in reduce, reuse, recycle?", options:["Use less of something","Throw away more","Make something bigger","Buy more"], answer:0},
      {q:"Which is an example of recycling?", options:["Wasting water","Buying new items","Turning a used newspaper into new paper","Throwing a bottle in the garbage"], answer:2},

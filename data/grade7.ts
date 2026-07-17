@@ -874,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade and Globalization (Intro)", summary:"Globalization connects countries through trade, technology, and culture, allowing goods, services, and ideas to move around the world.",
    resourceLabel:"YouTube: Trade and Globalization (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Globalization%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=15d818t9UZ0",
    quiz:[
      {q:"Globalization refers to...", options:["Countries becoming more isolated","A single world government","The end of all trade","Increasing global connections"], answer:3},
      {q:"International trade allows countries to...", options:["Only use their own resources","Exchange goods and services they may lack","Eliminate imports completely","Avoid all economic interaction"], answer:1},
@@ -885,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Comparing Perspectives in Two Texts", summary:"Comparing how two texts present the same topic or event helps readers identify different viewpoints, tone, and emphasis.",
    resourceLabel:"YouTube: Comparing Perspectives in Two Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Perspectives%20in%20Two%20Texts%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=92352fy-rBA",
    quiz:[
      {q:"When comparing two texts on the same topic, readers should look for...", options:["The page count of each text","The font size used","Differences in viewpoint and tone","Only spelling differences"], answer:2},
      {q:"Two authors writing about the same historical event might differ in...", options:["The actual date of the event","The language the event happened in","Nothing at all","What facts they choose to emphasize"], answer:3},
@@ -894,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Measures of Central Tendency with Real Data Sets", summary:"Mean, median, and mode summarize data sets, and the choice of measure can affect how data is interpreted, especially with outliers.",
    resourceLabel:"YouTube: Data: Measures of Central Tendency with Real Data Sets", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Measures%20of%20Central%20Tendency%20with%20Real%20Data%20Sets%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B1HEzNTGeZ4",
    quiz:[
      {q:"An outlier in a data set is a value that is...", options:["Typical of the rest of the data","Always the mode","Much higher or lower than the rest","Always the median"], answer:2},
      {q:"Which measure is most affected by an extreme outlier?", options:["Mean","Mode","Median","None of them"], answer:0},
@@ -903,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Layers of the Earth", summary:"Earth is made of distinct layers — crust, mantle, outer core, and inner core — each with different composition and properties.",
    resourceLabel:"YouTube: The Layers of the Earth", resourceUrl:"https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Earth%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PFzTZJHKkZE",
    quiz:[
      {q:"The outermost layer of the Earth is the...", options:["Inner core","Mantle","Crust","Outer core"], answer:2},
      {q:"The mantle is located...", options:["In the atmosphere","At the very centre of Earth","Above the crust","Between the crust and the outer core"], answer:3},
@@ -912,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Disasters and Their Geographic Causes", summary:"Natural disasters like earthquakes, volcanoes, floods, and hurricanes often occur in predictable geographic patterns related to tectonic activity and climate.",
    resourceLabel:"YouTube: Natural Disasters and Their Geographic Causes", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Disasters%20and%20Their%20Geographic%20Causes%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HaEmIakO7f4",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["River deltas only","Tectonic plate boundaries","The equator only","Polar ice caps only"], answer:1},
      {q:"Hurricanes typically form over...", options:["Warm ocean waters","Cold polar oceans","Mountain ranges","Deserts"], answer:0},

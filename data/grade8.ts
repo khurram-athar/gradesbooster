@@ -844,6 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Writing: Reflection and Self-Assessment", summary:"Students write a formal self-assessment of their learning and growth throughout the year, applying metacognitive skills to evaluate strengths and areas for continued development.",
    resourceLabel:"YouTube: Writing: Reflection and Self-Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Reflection%20and%20Self-Assessment%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IRmEkry7alY",
    quiz:[
      {q:"Metacognition means ___.", options:["only remembering what you learned","thinking about your own thinking and learning","only writing reflections","thinking about other people's ideas"], answer:1},
      {q:"A strong self-assessment is ___.", options:["honest, specific, and evidence-based","only critical","vague and general","only positive"], answer:0},
@@ -853,6 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra and Analytic Geometry", summary:"Students consolidate Grade 8 algebra and geometry — equations, polynomials, graphing, systems, and geometric formulas.",
    resourceLabel:"YouTube: Review: Algebra and Analytic Geometry", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Analytic%20Geometry%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ouUaxWVJNSI",
    quiz:[
      {q:"Solve: 2(3x − 4) = 16", options:["x = 2","x = 4","x = 3","x = 6"], answer:1},
      {q:"What is the slope of the line through (0,3) and (4,11)?", options:["2","8","4","3"], answer:0},
@@ -862,6 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Science Synthesis Grade 8", summary:"Students connect all four Grade 8 science strands and reflect on how scientific knowledge evolves and intersects with ethical and social questions.",
    resourceLabel:"YouTube: Review: Science Synthesis Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Synthesis%20Grade%208%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fozDk4qH_JM",
    quiz:[
      {q:"Which strand explains how a vaccine trains your immune system?", options:["Fluids","Cells, genetics, and the immune system","Optics","Mechanical systems"], answer:1},
      {q:"A hydraulic excavator applies which strand's principles?", options:["Optics","Genetics","Fluids and mechanical systems","Cells"], answer:2},
@@ -871,6 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Review: Canadian History Grade 8", summary:"Students synthesise their understanding of Canadian history from New France to the present, identifying themes of identity, power, rights, and responsibility.",
    resourceLabel:"YouTube: Review: Canadian History Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canadian%20History%20Grade%208%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MtbL8HZ4hGM",
    quiz:[
      {q:"Which theme connects New France, Confederation, and modern Canada most directly?", options:["Cultural exchange only","Economic growth only","The ongoing negotiation of identity","Military conflict only"], answer:2},
      {q:"The numbered treaties, residential schools, and UNDRIP are all connected by ___.", options:["the state-Indigenous relationship","environmental history","immigration policy","economic policy"], answer:0},
@@ -882,6 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Media: Analysing Propaganda", summary:"Students examine propaganda techniques and historical and contemporary examples. They develop critical tools for identifying manipulation in media.",
    resourceLabel:"YouTube: Media: Analysing Propaganda", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Analysing%20Propaganda%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=V-flzlNo-kE",
    quiz:[
      {q:"Propaganda is ___.", options:["always obviously false","media pushing a cause via manipulation","only used in wartime","only government communication"], answer:1},
      {q:"The 'big lie' propaganda technique involves ___.", options:["repeating a big lie until believed","a minor exaggeration","stating a minor untruth","satire"], answer:0},
@@ -891,6 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Measurement and Data", summary:"Students consolidate measurement (surface area, volume of 3D solids) and data management (scatter plots, probability) from Grade 8.",
    resourceLabel:"YouTube: Review: Measurement and Data", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20and%20Data%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hcgThf5mv38",
    quiz:[
      {q:"A cone has radius 4 cm and height 9 cm. Volume = ? (π ≈ 3.14)", options:["603.0 cm³","37.7 cm³","452.2 cm³","150.7 cm³"], answer:3},
      {q:"A sphere has radius 6 cm. Surface area = ? (π ≈ 3.14)", options:["150.7 cm²","75.4 cm²","452.2 cm²","904.3 cm²"], answer:2},
@@ -900,6 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Careers and Future Directions", summary:"Students explore STEM careers and how Grade 8 science connects to real-world professions and future study.",
    resourceLabel:"YouTube: Science: Careers and Future Directions", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Careers%20and%20Future%20Directions%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zhpcgpqWc1Q",
    quiz:[
      {q:"A biomedical engineer uses knowledge from ___.", options:["only one science strand","only math","only history","cells and fluids and mechanical systems"], answer:3},
      {q:"An optometrist applies knowledge of ___.", options:["fluid dynamics","genetics and cells","the physics of light and lenses","mechanical advantage"], answer:2},
@@ -909,6 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Critical Thinking: Historical Perspective Taking", summary:"Students practise empathetic historical thinking — examining events from multiple perspectives to develop nuanced understanding and avoid presentism.",
    resourceLabel:"YouTube: Critical Thinking: Historical Perspective Taking", resourceUrl:"https://www.youtube.com/results?search_query=Critical%20Thinking%3A%20Historical%20Perspective%20Taking%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tqz7UcCgbLA",
    quiz:[
      {q:"Presentism in history means ___.", options:["caring about the present","judging the past by today's standards","accurately applying modern values to all periods","studying the present day"], answer:1},
      {q:"Historical perspective taking means ___.", options:["understanding actors in their context","ignoring historical wrongdoing","agreeing with all historical actors","only focusing on victims"], answer:0},
