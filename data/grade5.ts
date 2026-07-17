@@ -2752,6 +2752,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review Confederation, the economy, capitals, and national identity together?", options:["Review never helps strengthen understanding of a subject","It reinforces how these Social Studies concepts connect to build understanding of Canada","A reason unrelated to reviewing social studies","These topics have no connection to each other"], answer:1}
    ]},
 ]},
+{day:71, label:"Day 71 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Understanding Irony", summary:"Grade 5 Language strand: irony occurs when there is a difference between what is expected to happen and what actually happens, or between what is said and what is truly meant.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Irony occurs when there is a difference between what is expected and ___.", options:["What always happens exactly as planned","A synonym for exactly what is expected","What actually happens","A concept unrelated to irony"], answer:2},
+     {q:"Which is an example of irony?", options:["A concept unrelated to irony","A fire station burning down","A weather report that is always accurate","A fire station opening on time"], answer:1},
+     {q:"Verbal irony occurs when a speaker says ___.", options:["Exactly what they truly mean","A concept unrelated to verbal irony","The opposite of what they truly mean","Nothing at all"], answer:2},
+     {q:"Why might an author use irony in a story?", options:["Irony never affects how a reader experiences a story","A reason unrelated to irony","To make the plot completely predictable","To create humour or emphasize a surprising contrast"], answer:3},
+     {q:"How is irony different from simply describing an unexpected event?", options:["Irony only occurs in nonfiction texts","Irony and unexpected events are exactly the same thing","Irony highlights a meaningful contrast between expectation and reality","A concept unrelated to irony"], answer:2}
+   ]},
+  {subject:"Math", title:"Multiplying Two-Digit Numbers", summary:"Grade 5 Math strand: multiplying two two-digit numbers involves breaking the numbers into tens and ones, multiplying each part, and adding the partial products together.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.", options:["Each digit of the other number","Only the first digit of the same number","Only the ones digit of the other number","A concept unrelated to multiplication"], answer:0},
+     {q:"What is 23 x 14?", options:["A value unrelated to the calculation","342","322","312"], answer:2},
+     {q:"What is 32 x 21?", options:["672","A value unrelated to the calculation","662","640"], answer:0},
+     {q:"What are the partial products of 12 x 13 when broken into tens and ones (10+2) x (10+3)?", options:["12 and 13 added together","A concept unrelated to partial products","Only one product with no breakdown","100, 30, 20, and 6"], answer:3},
+     {q:"Why might breaking a multiplication problem into tens and ones make it easier to solve?", options:["It changes the answer to the problem","A reason unrelated to multiplication strategies","Breaking numbers apart never makes multiplication easier","It turns one large multiplication into smaller, simpler steps"], answer:3}
+   ]},
+  {subject:"Science", title:"Heat Transfer: Conduction, Convection, and Radiation", summary:"Grade 5 Science strand: heat energy moves from warmer objects to cooler ones through conduction, convection, and radiation, each involving a different method of transfer.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Conduction is the transfer of heat through ___.", options:["Direct contact between objects","A concept unrelated to heat transfer","Empty space with no matter involved","Sound waves travelling through air"], answer:0},
+     {q:"Convection is the transfer of heat through the movement of ___.", options:["A solid object only","Light rays only","A liquid or a gas","A concept unrelated to convection"], answer:2},
+     {q:"Radiation is the transfer of heat through ___.", options:["Only cold objects","A concept unrelated to radiation","Waves that can travel through empty space","Direct contact between two solids only"], answer:2},
+     {q:"Which is an example of conduction?", options:["Heat moving from a hot stove into a metal pot touching it","A concept unrelated to conduction","Heat from the sun reaching Earth through space","Warm air rising in a room"], answer:0},
+     {q:"Why does heat generally move from a warmer object to a cooler one?", options:["Cooler objects always transfer heat to warmer ones","Heat naturally flows toward areas with less thermal energy until they balance out","A reason unrelated to heat transfer","Heat never moves between objects of different temperatures"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Klondike Gold Rush", summary:"Grade 5 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, shaping the growth and history of northern Canada.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"The Klondike Gold Rush drew thousands of prospectors to the ___.", options:["Prairies","Atlantic coast","Yukon","A region unrelated to the Klondike Gold Rush"], answer:2},
+     {q:"What resource were prospectors searching for during the Klondike Gold Rush?", options:["Gold","Coal","A resource unrelated to the Klondike Gold Rush","Oil"], answer:0},
+     {q:"The Klondike Gold Rush mainly took place during which decade?", options:["The 1890s","A decade unrelated to the Klondike Gold Rush","The 1950s","The 1700s"], answer:0},
+     {q:"How did the Klondike Gold Rush affect the growth of towns in the Yukon?", options:["The Gold Rush had no effect on any towns in the Yukon","It caused towns such as Dawson City to grow quickly as prospectors arrived","A reason unrelated to the Klondike Gold Rush","It caused every town in the Yukon to shrink and disappear"], answer:1},
+     {q:"Why is the Klondike Gold Rush an important event in Canadian history?", options:["It shaped the settlement and development of northern Canada","The event had no lasting impact on Canadian history","It only affected countries outside of Canada","A reason unrelated to Canadian history"], answer:0}
+   ]},
+]},
+{day:72, label:"Day 72 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Subject-Verb Agreement", summary:"Grade 5 Language strand: subject-verb agreement means a singular subject takes a singular verb, and a plural subject takes a plural verb, so the two match in a sentence.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Subject-verb agreement means the subject and verb in a sentence must ___.", options:["A concept unrelated to subject-verb agreement","Always be in the past tense","Always start with a capital letter","Match in number, singular or plural"], answer:3},
+     {q:"Which sentence shows correct subject-verb agreement?", options:["A sentence unrelated to subject-verb agreement","The dog run in the park.","The dogs runs in the park.","The dogs run in the park."], answer:3},
+     {q:"In the sentence “She ___ to school every day,” which verb correctly completes it?", options:["Walk","Walking","Walks","A word unrelated to this sentence"], answer:2},
+     {q:"Why is subject-verb agreement important in writing?", options:["A reason unrelated to grammar","Verbs never need to match their subject","Subject-verb agreement has no effect on how a sentence reads","It helps sentences read clearly and sound grammatically correct"], answer:3},
+     {q:"Which subject requires a plural verb?", options:["A subject unrelated to subject-verb agreement","One student","The children","The child"], answer:2}
+   ]},
+  {subject:"Math", title:"Long Division: Interpreting Remainders", summary:"Grade 5 Math strand: when a division problem does not divide evenly, the leftover amount is called the remainder, and how it is interpreted depends on the real-world context of the problem.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"A remainder is the amount left over when a number ___.", options:["Is multiplied by another number","Does not divide evenly into equal groups","A concept unrelated to remainders","Divides evenly with nothing left over"], answer:1},
+     {q:"What is 17 divided by 5, expressed with a remainder?", options:["4 remainder 1","A value unrelated to the calculation","3 remainder 5","3 remainder 2"], answer:3},
+     {q:"If 23 stickers are shared equally among 4 friends, how many whole stickers does each friend get, and how many are left over?", options:["6 stickers each, with 1 left over","5 stickers each, with 3 left over","A result unrelated to the calculation","4 stickers each, with 5 left over"], answer:1},
+     {q:"If 26 students need to travel in vans that hold 6 students each, how many vans are needed to fit everyone, including the leftover students?", options:["6 vans","A number unrelated to the calculation","4 vans","5 vans"], answer:3},
+     {q:"Why might a remainder sometimes need to be rounded up in a real-world problem, such as the vans example?", options:["Because the leftover people or items still need to be accounted for","A reason unrelated to interpreting remainders","Rounding up always gives an incorrect answer","Remainders should always be ignored in real-world problems"], answer:0}
+   ]},
+  {subject:"Science", title:"Simple Machines: The Wheel and Axle and the Inclined Plane", summary:"Grade 5 Science strand: a wheel and axle reduces the force needed to move an object by rotating together, while an inclined plane is a sloped surface that reduces the force needed to raise an object.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"A wheel and axle reduces the force needed to move an object by ___.", options:["Cutting the object into smaller pieces","Staying completely still","A concept unrelated to the wheel and axle","Rotating together as a single unit"], answer:3},
+     {q:"An inclined plane is best described as a ___.", options:["Wheel that spins around an axle","Sloped surface that makes it easier to raise a load","A concept unrelated to inclined planes","Flat surface with no slope at all"], answer:1},
+     {q:"Which of these is an example of a wheel and axle?", options:["A pair of scissors","A concept unrelated to the wheel and axle","A ramp leading up to a doorway","A doorknob"], answer:3},
+     {q:"Which of these is an example of an inclined plane?", options:["A concept unrelated to inclined planes","A pair of pliers","A ramp used to load a truck","A steering wheel on a car"], answer:2},
+     {q:"Why might a ramp make it easier to move a heavy object to a higher place?", options:["Ramps have no effect on the force needed to move an object","A ramp always requires more force than lifting straight up","It spreads the work over a longer distance, reducing the force needed at any moment","A reason unrelated to inclined planes"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Bilingualism and Canada’s Official Languages", summary:"Grade 5 Social Studies strand: Canada has two official languages, English and French, and government services at the federal level are available in both languages.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Canada’s two official languages are ___.", options:["French and Mandarin","A pair of languages unrelated to Canada’s official languages","English and French","English and Spanish"], answer:2},
+     {q:"Federal government services in Canada must be available in ___.", options:["Both official languages","A concept unrelated to bilingualism","No particular language","Only one official language"], answer:0},
+     {q:"Which Canadian province is officially bilingual?", options:["A province unrelated to official bilingualism","British Columbia","New Brunswick","Alberta"], answer:2},
+     {q:"Why might a country choose to have more than one official language?", options:["To reflect and respect the languages and history of its diverse population","Having more than one official language offers no benefit to a country","A reason unrelated to bilingualism","Countries are never allowed to have more than one official language"], answer:0},
+     {q:"Why is it useful for students to learn about Canada’s official languages?", options:["A reason unrelated to social studies learning","Canada has never had more than one language spoken","It helps them understand an important part of Canadian identity and government","Official languages have no connection to Canadian identity"], answer:2}
+   ]},
+]},
+{day:73, label:"Day 73 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Diary Entry from a Character’s Perspective", summary:"Grade 5 Language strand: a diary entry written from a character’s perspective uses first-person voice to express that character’s thoughts, feelings, and experiences about events in a story.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"A diary entry written from a character’s perspective is written in ___.", options:["First-person voice","A concept unrelated to diary entries","Third-person voice","A voice with no clear perspective at all"], answer:0},
+     {q:"What might a diary entry from a character’s perspective include?", options:["Information the character could not possibly know","Only a list of facts with no personal feelings included","The character’s private thoughts and feelings about events","A concept unrelated to diary entries"], answer:2},
+     {q:"Why is writing in first person useful for a diary entry?", options:["It allows the writer to express a character’s personal thoughts directly","First person always describes events from an outside narrator","A reason unrelated to writing a diary entry","First person can never be used for diary entries"], answer:0},
+     {q:"Which is an example of a sentence that might appear in a character’s diary entry?", options:["Today I felt nervous walking into the new school for the first time.","A sentence unrelated to diary entries","The character walked into the new school on Monday morning.","The story takes place in a small town."], answer:0},
+     {q:"Why might writing a diary entry from a character’s point of view help a reader understand a story better?", options:["A reason unrelated to writing diary entries","It offers insight into the character’s inner thoughts and emotions","Diary entries never help a reader understand a character better","Diary entries only describe events with no personal feelings"], answer:1}
+   ]},
+  {subject:"Math", title:"Comparing and Ordering Decimals", summary:"Grade 5 Math strand: comparing and ordering decimals involves lining up the decimal points and comparing digits from left to right, starting with the largest place value.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When comparing decimals, it helps to first ___.", options:["Line up the decimal points","Ignore the decimal points completely","Round every decimal to a whole number","A step unrelated to comparing decimals"], answer:0},
+     {q:"Which decimal is greater: 0.45 or 0.5?", options:["Both are exactly equal","0.45","0.5","A value unrelated to the comparison"], answer:2},
+     {q:"Which list of decimals is ordered from least to greatest?", options:["A list unrelated to the comparison","0.8, 0.35, 0.2","0.2, 0.35, 0.8","0.35, 0.2, 0.8"], answer:2},
+     {q:"Which decimal is smaller: 0.6 or 0.09?", options:["A value unrelated to the comparison","Both are exactly equal","0.6","0.09"], answer:3},
+     {q:"Why might someone need to compare decimals in real life?", options:["To compare prices or measurements that include cents or fractional units","A reason unrelated to decimals","Comparing decimals never applies to real-life situations","Decimals are only used in advanced scientific research"], answer:0}
+   ]},
+  {subject:"Science", title:"Electrical Conductors and Insulators", summary:"Grade 5 Science strand: an electrical conductor allows electric current to pass through it easily, such as metal, while an insulator resists the flow of electric current, such as rubber or plastic.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"An electrical conductor is a material that ___.", options:["Allows electric current to pass through it easily","Has no connection to electricity at all","Blocks electric current from passing through","A concept unrelated to conductors"], answer:0},
+     {q:"An electrical insulator is a material that ___.", options:["Allows electric current to flow through it easily","Resists the flow of electric current","Always generates its own electricity","A concept unrelated to insulators"], answer:1},
+     {q:"Which of these materials is a good electrical conductor?", options:["Wood","Copper","A material unrelated to electrical conductivity","Rubber"], answer:1},
+     {q:"Which of these materials is a good electrical insulator?", options:["Plastic","Aluminum","Copper","A material unrelated to electrical insulation"], answer:0},
+     {q:"Why are electrical cords often covered in a material like rubber or plastic?", options:["Rubber and plastic make the wire conduct more electricity","To insulate the wire and protect people from electric shock","A reason unrelated to electrical safety","Covering a cord has no effect on electrical safety"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Role of the Governor General", summary:"Grade 5 Social Studies strand: the Governor General is the representative of the Crown in Canada, performing ceremonial duties and formally approving new laws passed by Parliament.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"The Governor General is the representative of ___ in Canada.", options:["A political party","A foreign government","A concept unrelated to the Governor General","The Crown"], answer:3},
+     {q:"One duty of the Governor General is to ___.", options:["Vote in every federal election","A concept unrelated to the Governor General","Formally approve new laws passed by Parliament","Lead a political party in Parliament"], answer:2},
+     {q:"Which of these best describes the Governor General’s role?", options:["The elected leader of the government","Largely ceremonial, representing the Crown at official events","A role identical to the Prime Minister’s","A role with no connection to Canadian government"], answer:1},
+     {q:"Who recommends the appointment of the Governor General?", options:["The Prime Minister","A concept unrelated to this appointment","A foreign country’s leader","A vote from all Canadian citizens"], answer:0},
+     {q:"Why is it useful for students to learn about the role of the Governor General?", options:["A reason unrelated to social studies learning","The Governor General has no connection to Canadian government","It helps them understand Canada’s system of government and its ties to the Crown","The role of Governor General no longer exists"], answer:2}
+   ]},
+]},
+{day:74, label:"Day 74 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Homophones and Homographs", summary:"Grade 5 Language strand: homophones are words that sound alike but have different spellings and meanings, while homographs are spelled the same but can have different meanings and sometimes different pronunciations.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Homophones are words that ___.", options:["A concept unrelated to homophones","Sound alike but have different spellings and meanings","Are spelled exactly the same and mean the same thing","Always begin with the same letter"], answer:1},
+     {q:"Which pair of words are homophones?", options:["Happy and sad","Run and running","Their and there","A pair of words unrelated to homophones"], answer:2},
+     {q:"Homographs are words that ___.", options:["Are spelled the same but can have different meanings","A concept unrelated to homographs","Always sound completely different from each other","Are always opposite in meaning"], answer:0},
+     {q:"Which sentence uses the word “bow” as a homograph, where its meaning depends on context?", options:["He read the entire book in one day.","She ran quickly to the store.","A sentence unrelated to homographs","She wore a bow in her hair, then took a bow after the play."], answer:3},
+     {q:"Why is it important for readers to understand homophones and homographs?", options:["A reason unrelated to vocabulary","To choose the correct spelling and meaning based on context","These words never cause any confusion for readers","Homophones and homographs mean exactly the same thing"], answer:1}
+   ]},
+  {subject:"Math", title:"Least Common Multiple and Greatest Common Factor", summary:"Grade 5 Math strand: the least common multiple is the smallest number that two numbers both divide into evenly, while the greatest common factor is the largest number that divides evenly into both numbers.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"The least common multiple of two numbers is the smallest number that ___.", options:["A concept unrelated to least common multiple","Is smaller than both numbers","Both numbers divide into evenly","Only one of the numbers divides into evenly"], answer:2},
+     {q:"What is the least common multiple of 4 and 6?", options:["24","10","12","A value unrelated to the calculation"], answer:2},
+     {q:"The greatest common factor of two numbers is the largest number that ___.", options:["Divides evenly into both numbers","Is greater than both numbers","A concept unrelated to greatest common factor","Cannot divide into either number"], answer:0},
+     {q:"What is the greatest common factor of 12 and 18?", options:["3","12","A value unrelated to the calculation","6"], answer:3},
+     {q:"Why might the greatest common factor be useful when simplifying a fraction?", options:["It shows the largest number that can divide both the numerator and denominator evenly","The greatest common factor has no connection to simplifying fractions","It can only be used with even numbers","A reason unrelated to this math skill"], answer:0}
+   ]},
+  {subject:"Science", title:"Vertebrates and Invertebrates", summary:"Grade 5 Science strand: vertebrates are animals with a backbone, such as fish and mammals, while invertebrates are animals without a backbone, such as insects and worms.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"A vertebrate is an animal that has a ___.", options:["Set of wings","A concept unrelated to vertebrates","Shell only","Backbone"], answer:3},
+     {q:"An invertebrate is an animal that ___.", options:["Always has a backbone","Cannot move at all","A concept unrelated to invertebrates","Does not have a backbone"], answer:3},
+     {q:"Which of these animals is a vertebrate?", options:["A fish","A concept unrelated to vertebrates","A worm","An insect"], answer:0},
+     {q:"Which of these animals is an invertebrate?", options:["A spider","A concept unrelated to invertebrates","A reptile","A bird"], answer:0},
+     {q:"Why might scientists group animals into vertebrates and invertebrates?", options:["A reason unrelated to classifying animals","It helps organize and compare animals based on a shared physical feature","This grouping provides no useful information about animals","All animals belong to exactly the same group"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Currency and Its Symbols", summary:"Grade 5 Social Studies strand: Canada’s currency includes coins and bills featuring symbols such as the loon on the one-dollar coin, reflecting the country’s history, wildlife, and identity.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Canada’s one-dollar coin is nicknamed the ___ because of the bird pictured on it.", options:["A name unrelated to Canadian currency","Loonie","Toonie","Beaver dollar"], answer:1},
+     {q:"Canadian currency includes coins and ___.", options:["A concept unrelated to Canadian currency","Paper or polymer bills","Items with no value at all","Only gold bars"], answer:1},
+     {q:"Why might Canadian currency feature images such as wildlife or historical figures?", options:["Currency images have no connection to a country’s identity","To reflect the country’s history, culture, and identity","Currency designs are chosen completely at random","A reason unrelated to Canadian currency"], answer:1},
+     {q:"What is the name of Canada’s central bank, responsible for issuing currency?", options:["The Bank of Canada","A bank located in another country","A bank unrelated to Canadian currency","A private company with no government connection"], answer:0},
+     {q:"Why is it useful for students to learn about the symbols on Canadian currency?", options:["Canadian currency has never featured any symbols","Currency symbols have no meaning behind them","A reason unrelated to social studies learning","It helps them understand how currency reflects national identity and history"], answer:3}
+   ]},
+]},
+{day:75, label:"Day 75 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Main Idea and Supporting Details", summary:"Grade 5 Language strand: the main idea is the central point a text is making, while supporting details are the specific facts, examples, or reasons that explain and back up that main idea.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"The main idea of a text is ___.", options:["A minor detail mentioned only once","The central point the text is making","A concept unrelated to reading comprehension","The very last sentence of the text, always"], answer:1},
+     {q:"Supporting details in a text ___.", options:["A concept unrelated to supporting details","Provide facts or examples that explain the main idea","Always contradict the main idea","Have no connection to the main idea at all"], answer:1},
+     {q:"Which is an example of a supporting detail for the main idea “Recycling helps protect the environment”?", options:["A sentence with no connection to recycling","A concept unrelated to supporting details","The weather was sunny on Tuesday","Recycling paper reduces the number of trees that need to be cut down"], answer:3},
+     {q:"Why is it useful for readers to identify the main idea of a text?", options:["The main idea is always stated in the title only","Identifying the main idea never helps with understanding a text","It helps them understand the central point the author is making","A reason unrelated to reading comprehension"], answer:2},
+     {q:"How can a reader use supporting details to find the main idea?", options:["A reason unrelated to identifying the main idea","Supporting details never provide any clues about the main idea","By ignoring all the details in the text","By noticing what several details have in common and what point they support"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Surveys, Tally Charts, and Frequency Tables", summary:"Grade 5 Math strand: a survey collects information by asking people questions, and the results can be recorded using tally charts and organized into frequency tables before being displayed as a graph.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"A survey collects information by ___.", options:["A concept unrelated to surveys","Reading a story from beginning to end","Measuring temperature with a thermometer","Asking people questions"], answer:3},
+     {q:"A tally chart is used to ___.", options:["Draw a picture of the data collected","Record how many times each response occurs","A concept unrelated to tally charts","Show only the final average of the data"], answer:1},
+     {q:"A frequency table organizes data by showing ___.", options:["Only the largest value collected","A single result with no other information","How often each value or category occurs","A concept unrelated to frequency tables"], answer:2},
+     {q:"If a tally chart shows 10 marks grouped in fives plus 2 more marks for a category, how many responses does that represent?", options:["12","A value unrelated to the calculation","10","9"], answer:0},
+     {q:"Why might someone organize survey data into a frequency table before making a graph?", options:["It makes the data easier to read and turn into a graph","Organizing data into a table never helps with making a graph","A reason unrelated to data management","Frequency tables can only be used with numbers larger than 100"], answer:0}
+   ]},
+  {subject:"Science", title:"Soil Composition and Formation", summary:"Grade 5 Science strand: soil forms over long periods of time as rock breaks down through weathering and mixes with decayed plant and animal matter, called humus.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Soil forms as rock breaks down through a process called ___.", options:["A concept unrelated to soil formation","Evaporation","Photosynthesis","Weathering"], answer:3},
+     {q:"Humus, an important part of soil, is made up of ___.", options:["Pure water with no other materials","Decayed plant and animal matter","A concept unrelated to soil composition","Melted rock from a volcano"], answer:1},
+     {q:"Why does soil formation typically take a very long time?", options:["Soil forms instantly with no time required at all","Weathering has no connection to how soil forms","A reason unrelated to soil formation","Rock breaks down gradually through weathering over many years"], answer:3},
+     {q:"Which of these is a component commonly found in soil?", options:["Pure oxygen gas","A component unrelated to soil","Minerals from broken-down rock","Only liquid water with nothing else mixed in"], answer:2},
+     {q:"Why is healthy soil important for growing plants?", options:["It provides nutrients, water, and support for plant roots","Plants can grow equally well with no soil at all","Soil has no connection to how plants grow","A reason unrelated to soil health"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The History of Transportation in Canada", summary:"Grade 5 Social Studies strand: transportation in Canada has changed over time, from canoes and horse-drawn wagons to railways, automobiles, and airplanes, shaping how people and goods move across the country.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Before railways and cars, Indigenous peoples and early settlers in Canada often travelled by ___.", options:["Canoe","Subway","A method unrelated to early transportation","Airplane"], answer:0},
+     {q:"How did railways change transportation in Canada?", options:["A reason unrelated to Canadian transportation history","Railways had no effect on how goods were moved","They allowed people and goods to travel long distances more quickly","Railways made travel across Canada impossible"], answer:2},
+     {q:"Which mode of transportation became common in Canada during the twentieth century, changing how people travelled locally?", options:["A mode unrelated to twentieth-century transportation","The horse-drawn wagon, exclusively","The canoe","The automobile"], answer:3},
+     {q:"Why is transportation important to Canada’s development as a country?", options:["Transportation has no connection to how a country develops","It connects communities and helps move people and goods across long distances","A reason unrelated to Canadian history","Canada has never needed methods of transportation"], answer:1},
+     {q:"Why might studying the history of transportation help students understand Canada’s growth?", options:["A reason unrelated to social studies learning","Transportation methods have never changed throughout Canadian history","The history of transportation has no connection to a country’s growth","It shows how new technology changed how people lived, worked, and travelled"], answer:3}
+   ]},
+]},
+{day:76, label:"Day 76 — Mon", subjects:[
+  {subject:"Language", title:"Figurative Language: Imagery", summary:"Grade 5 Language strand: imagery is descriptive language that appeals to the five senses, helping readers picture, hear, smell, taste, or feel what is happening in a text.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Imagery is descriptive language that appeals to ___.", options:["The five senses","Only numbers and statistics","A concept unrelated to imagery","Only the sense of sight"], answer:0},
+     {q:"Which sentence is a strong example of imagery?", options:["It was a certain time of year.","The season was autumn.","A sentence unrelated to imagery","The crisp autumn air smelled of woodsmoke and fallen leaves."], answer:3},
+     {q:"Why might a writer use imagery in a story?", options:["To help readers vividly picture or experience a scene","To make a text shorter and less detailed","A reason unrelated to imagery","Imagery never helps a reader picture a scene"], answer:0},
+     {q:"Which sense does the phrase “the rough bark of the old oak tree” appeal to?", options:["Hearing","A sense unrelated to this phrase","Taste","Touch"], answer:3},
+     {q:"How is imagery different from simply stating a fact?", options:["Facts always include vivid sensory description","Imagery and stating a fact are exactly the same thing","Imagery uses descriptive, sensory language rather than a plain statement","A concept unrelated to imagery"], answer:2}
+   ]},
+  {subject:"Math", title:"Multiplying Decimals by Powers of Ten", summary:"Grade 5 Math strand: multiplying a decimal by a power of ten, such as 10, 100, or 1000, moves the decimal point to the right the same number of places as there are zeros.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When multiplying a decimal by 10, the decimal point moves ___.", options:["One place to the right","One place to the left","A direction unrelated to this rule","Two places to the left"], answer:0},
+     {q:"What is 3.4 x 10?", options:["3.4","A value unrelated to the calculation","340","34"], answer:3},
+     {q:"What is 2.75 x 100?", options:["2.75","A value unrelated to the calculation","27.5","275"], answer:3},
+     {q:"What is 0.6 x 1000?", options:["60","6","600","A value unrelated to the calculation"], answer:2},
+     {q:"Why is it useful to know the pattern for multiplying decimals by powers of ten?", options:["A reason unrelated to this math skill","This pattern never applies to multiplying decimals","It allows for quick mental math without needing long multiplication","It only works with whole numbers, not decimals"], answer:2}
+   ]},
+  {subject:"Science", title:"Sound: Pitch and Frequency", summary:"Grade 5 Science strand: pitch is how high or low a sound seems, and it is determined by frequency, the number of sound wave vibrations that occur each second.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Pitch describes how ___ a sound seems.", options:["High or low","Long or short","A concept unrelated to pitch","Loud or quiet"], answer:0},
+     {q:"Frequency refers to ___.", options:["The loudness of a sound only","The number of sound wave vibrations occurring each second","A concept unrelated to frequency","The colour of a sound wave"], answer:1},
+     {q:"A sound with a higher frequency has a ___ pitch.", options:["Lower","Completely silent","Higher","A description unrelated to pitch"], answer:2},
+     {q:"Which of these is likely to produce a higher-pitched sound?", options:["A small, tightly stretched guitar string","A large, loosely stretched guitar string","An object that is not vibrating at all","A concept unrelated to pitch"], answer:0},
+     {q:"Why might a shorter vibrating object generally produce a higher pitch than a longer one?", options:["It vibrates faster, producing a higher frequency","Shorter objects always vibrate more slowly than longer ones","The length of an object never affects the pitch it produces","A reason unrelated to pitch and frequency"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Provincial Legislatures and the Role of the Premier", summary:"Grade 5 Social Studies strand: each Canadian province has its own legislature that makes provincial laws, led by a premier, the head of the provincial government.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"A provincial legislature is responsible for making laws at the ___ level.", options:["Provincial","International","A level unrelated to provincial legislatures","Federal"], answer:0},
+     {q:"The head of a provincial government is called the ___.", options:["A title unrelated to provincial government","Governor General","Premier","Prime Minister"], answer:2},
+     {q:"Which of these is typically a responsibility handled at the provincial level in Canada?", options:["Education and healthcare","National defence","A responsibility unrelated to provincial government","Printing national currency"], answer:0},
+     {q:"How does the role of a premier differ from the role of the Prime Minister?", options:["A concept unrelated to Canadian government","A premier leads a provincial government, while the Prime Minister leads the federal government","A premier and the Prime Minister have exactly the same role","The Prime Minister only leads one province"], answer:1},
+     {q:"Why does Canada have both federal and provincial levels of government?", options:["Having multiple levels of government serves no purpose","A reason unrelated to Canadian government","To divide responsibilities between national and regional issues","Only one level of government exists in Canada"], answer:2}
+   ]},
+]},
+{day:77, label:"Day 77 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Procedural Writing (How-To Instructions)", summary:"Grade 5 Language strand: procedural writing gives step-by-step instructions in a clear sequence, often using numbered steps and precise, action-oriented language so a reader can complete a task.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Procedural writing gives instructions in ___.", options:["A clear, step-by-step sequence","A single long paragraph with no steps","A random order with no particular sequence","A concept unrelated to procedural writing"], answer:0},
+     {q:"Why do procedural texts often use numbered steps?", options:["To show the reader the exact order actions should be completed","Numbered steps make instructions harder to follow","A reason unrelated to procedural writing","Numbers are never used in procedural writing"], answer:0},
+     {q:"Which sentence is an example of procedural writing?", options:["The bread smelled wonderful as it baked.","A sentence unrelated to procedural writing","The bakery was famous for its fresh bread.","First, pour the flour into a large bowl."], answer:3},
+     {q:"Why is precise, action-oriented language important in procedural writing?", options:["Precise language makes instructions more confusing","A reason unrelated to procedural writing","It helps the reader understand exactly what action to take","Procedural writing should always be vague"], answer:2},
+     {q:"Which of these is a common example of procedural writing?", options:["A diary entry about a school day","A concept unrelated to procedural writing","A poem describing a sunset","A recipe explaining how to bake a cake"], answer:3}
+   ]},
+  {subject:"Math", title:"Comparing and Ordering Fractions", summary:"Grade 5 Math strand: comparing and ordering fractions involves finding a common denominator or using benchmarks, such as one-half, to determine which fraction is greater or smaller.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"One way to compare two fractions with different denominators is to first find a ___.", options:["Common numerator only","Whole number with no fraction involved","A concept unrelated to comparing fractions","Common denominator"], answer:3},
+     {q:"Which fraction is greater: 3/4 or 1/2?", options:["1/2","Both are exactly equal","A value unrelated to the comparison","3/4"], answer:3},
+     {q:"Which fraction is smaller: 2/5 or 3/5?", options:["2/5","A value unrelated to the comparison","3/5","Both are exactly equal"], answer:0},
+     {q:"Which list of fractions is ordered from least to greatest?", options:["A list unrelated to the comparison","3/4, 1/2, 1/4","1/4, 1/2, 3/4","1/2, 1/4, 3/4"], answer:2},
+     {q:"Why might using a benchmark such as one-half help when comparing fractions?", options:["It gives a quick reference point to judge whether a fraction is greater or less than half","One-half can only be used when comparing whole numbers","Benchmarks never help when comparing fractions","A reason unrelated to comparing fractions"], answer:0}
+   ]},
+  {subject:"Science", title:"Types of Clouds and Weather Prediction", summary:"Grade 5 Science strand: different cloud types, such as cumulus, stratus, and cirrus, form in different conditions and can give clues about upcoming weather.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Cumulus clouds are typically described as ___.", options:["A description unrelated to cumulus clouds","Flat sheets covering the entire sky","Thin and wispy","Puffy and cotton-like"], answer:3},
+     {q:"Stratus clouds typically form as ___.", options:["Bright, colourful patches","Flat, grey layers covering much of the sky","A description unrelated to stratus clouds","Tall, narrow columns reaching into space"], answer:1},
+     {q:"Cirrus clouds are typically found ___.", options:["Very close to the ground","High in the atmosphere and appear thin and wispy","Only during a thunderstorm","A description unrelated to cirrus clouds"], answer:1},
+     {q:"Which cloud type is often associated with an approaching storm?", options:["A cloud type unrelated to storms","Dark, towering cumulonimbus clouds","Clear skies with no clouds at all","Thin, wispy cirrus clouds"], answer:1},
+     {q:"Why might observing clouds help people predict upcoming weather?", options:["Clouds have no connection to weather conditions","Different cloud types are linked to different weather conditions","Weather can never be predicted by observing the sky","A reason unrelated to weather prediction"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Fishing Industry in Atlantic Canada", summary:"Grade 5 Social Studies strand: the Atlantic provinces have long relied on the fishing industry, harvesting species such as cod and lobster from the ocean, which has shaped the region’s economy and communities.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"The fishing industry has long been an important part of the economy in ___.", options:["Atlantic Canada","The Prairie provinces","Northern Ontario","A region unrelated to the fishing industry"], answer:0},
+     {q:"Which of these is a species commonly harvested by the Atlantic fishing industry?", options:["Lobster","Wheat","Corn","A species unrelated to Atlantic fishing"], answer:0},
+     {q:"Why might a decline in fish populations, such as cod, seriously affect Atlantic coastal communities?", options:["A reason unrelated to the fishing industry","A decline in fish populations has no effect on coastal communities","Coastal communities never rely on fishing for their economy","Many jobs and local economies depend on the fishing industry"], answer:3},
+     {q:"The fishing industry is considered part of which type of industry?", options:["A concept unrelated to fishing","A tertiary industry that only provides services","A secondary industry that manufactures goods","A primary industry that gathers a natural resource"], answer:3},
+     {q:"Why is it useful for students to learn about the fishing industry in Atlantic Canada?", options:["The fishing industry has no connection to Atlantic Canada","A reason unrelated to social studies learning","Fishing has never taken place in Atlantic Canada","It helps them understand how geography shapes a region’s economy and communities"], answer:3}
+   ]},
+]},
+{day:78, label:"Day 78 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Skimming and Scanning for Information", summary:"Grade 5 Language strand: skimming means quickly reading a text to get a general idea of its content, while scanning means quickly looking through a text to find specific information.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Skimming a text means reading it quickly to ___.", options:["Find one specific fact only","Get a general idea of its content","A concept unrelated to skimming","Memorize every single word"], answer:1},
+     {q:"Scanning a text means looking through it quickly to ___.", options:["Read the text extremely slowly","Understand every detail in depth","A concept unrelated to scanning","Find specific information"], answer:3},
+     {q:"Which situation is a good example of scanning?", options:["Memorizing an entire poem word for word","Reading a novel slowly from cover to cover","Looking through a phone book to find one specific name","A concept unrelated to scanning"], answer:2},
+     {q:"Why might a reader skim a chapter before reading it in detail?", options:["A reason unrelated to skimming","Skimming always replaces the need to read a text closely","To get a general sense of what the chapter is about before reading closely","Skimming never helps a reader prepare to read a text"], answer:2},
+     {q:"Why are skimming and scanning useful research skills?", options:["A reason unrelated to research skills","They help readers find and understand information quickly and efficiently","Skimming and scanning mean exactly the same thing","These skills never help with finding information quickly"], answer:1}
+   ]},
+  {subject:"Math", title:"Rounding Whole Numbers to a Given Place Value", summary:"Grade 5 Math strand: rounding a whole number to a given place value involves looking at the digit to the right of that place to decide whether to round up or keep the digit the same.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When rounding a number, you look at the digit ___ the place value you are rounding to.", options:["Immediately to the left of","A position unrelated to rounding","Immediately to the right of","Two places to the left of"], answer:2},
+     {q:"What is 452 rounded to the nearest ten?", options:["450","400","460","A value unrelated to the calculation"], answer:0},
+     {q:"What is 3,675 rounded to the nearest hundred?", options:["A value unrelated to the calculation","3,700","3,600","3,680"], answer:1},
+     {q:"What is 8,249 rounded to the nearest thousand?", options:["8,200","8,000","A value unrelated to the calculation","9,000"], answer:1},
+     {q:"Why might someone round a large number instead of using its exact value?", options:["A reason unrelated to rounding","Rounding a number always makes a problem harder to solve","To make the number easier to work with or estimate quickly","Rounding is only useful for very small numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"Insects and Their Characteristics", summary:"Grade 5 Science strand: insects are a group of invertebrates with three main body parts -- the head, thorax, and abdomen -- along with six legs and, in most species, wings.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"An insect’s body is divided into three main parts: the head, thorax, and ___.", options:["Shell","Abdomen","Backbone","A body part unrelated to insects"], answer:1},
+     {q:"How many legs does a typical insect have?", options:["Four","A number unrelated to insects","Six","Eight"], answer:2},
+     {q:"Which of these is classified as an insect?", options:["A concept unrelated to insects","A worm","A spider","An ant"], answer:3},
+     {q:"Why are spiders not classified as insects, even though both are invertebrates?", options:["Spiders have eight legs and two main body parts, unlike an insect’s six legs and three body parts","Spiders and insects have exactly the same body structure","Spiders are actually a type of vertebrate","A reason unrelated to classifying insects"], answer:0},
+     {q:"Why might scientists study the characteristics that define an insect?", options:["All invertebrates are classified as insects","It helps them accurately classify and compare different invertebrate species","Studying insect characteristics provides no useful scientific information","A reason unrelated to classifying living things"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Charities and Non-Profit Organizations in Canada", summary:"Grade 5 Social Studies strand: charities and non-profit organizations work to support communities by addressing needs such as poverty, health, and education, relying on donations and volunteers rather than earning profit for owners.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"A non-profit organization is one that ___.", options:["Does not earn profit for owners, instead using funds to support its cause","Exists only to earn as much profit as possible","Is required to shut down after one year","A concept unrelated to non-profit organizations"], answer:0},
+     {q:"Charities often rely on ___ to fund their work.", options:["Only government-owned businesses","Donations and volunteers","Money earned exclusively from selling stocks","A concept unrelated to charities"], answer:1},
+     {q:"Which of these is an example of a cause a charity might support?", options:["Increasing profits for a private company’s shareholders","Providing food for families in need","Selling products for maximum personal gain","A concept unrelated to charitable causes"], answer:1},
+     {q:"Why might volunteers be important to the work of a non-profit organization?", options:["They provide time and effort to help the organization carry out its mission","A reason unrelated to non-profit organizations","Non-profit organizations never rely on the help of others","Volunteers have no role in how a non-profit organization operates"], answer:0},
+     {q:"Why is it useful for students to learn about charities and non-profit organizations?", options:["Non-profit organizations do not exist in Canada","It helps them understand how communities support people in need","A reason unrelated to social studies learning","Charities have no connection to supporting communities"], answer:1}
+   ]},
+]},
+{day:79, label:"Day 79 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Pronoun-Antecedent Agreement", summary:"Grade 5 Language strand: an antecedent is the noun a pronoun refers to, and pronoun-antecedent agreement means the pronoun must match its antecedent in number and gender.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"An antecedent is the noun that a ___ refers to.", options:["Adjective","Pronoun","Verb","A part of speech unrelated to antecedents"], answer:1},
+     {q:"Pronoun-antecedent agreement means the pronoun must match its antecedent in ___.", options:["Only the number of syllables","Number and gender","Only its spelling","A concept unrelated to pronoun-antecedent agreement"], answer:1},
+     {q:"In the sentence “Maria lost her book,” what is the antecedent of the pronoun “her”?", options:["A word unrelated to this sentence","Maria","Lost","Book"], answer:1},
+     {q:"Which sentence shows correct pronoun-antecedent agreement?", options:["The students packed his bag.","A sentence unrelated to pronoun-antecedent agreement","The students packed their bags.","The student packed their bags, referring incorrectly to only one student."], answer:2},
+     {q:"Why is pronoun-antecedent agreement important in writing?", options:["Pronouns never need to match the nouns they replace","It helps make sentences clear by matching pronouns correctly to the nouns they replace","A reason unrelated to grammar","This agreement has no effect on how clear a sentence is"], answer:1}
+   ]},
+  {subject:"Math", title:"Volume of Rectangular Prisms", summary:"Grade 5 Math strand: the volume of a rectangular prism is found by multiplying its length, width, and height, giving the amount of space inside the three-dimensional shape.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"The volume of a rectangular prism is found by multiplying its ___.", options:["Length, width, and height","A concept unrelated to volume","Length and width only","Only its height"], answer:0},
+     {q:"What is the volume of a rectangular prism with a length of 4 cm, a width of 3 cm, and a height of 2 cm?", options:["12 cubic centimetres","A value unrelated to the calculation","24 cubic centimetres","9 cubic centimetres"], answer:2},
+     {q:"Volume is measured in ___.", options:["Linear units only","Square units","Cubic units","A unit unrelated to volume"], answer:2},
+     {q:"What is the volume of a rectangular prism with a length of 5 m, a width of 2 m, and a height of 3 m?", options:["15 cubic metres","10 cubic metres","A value unrelated to the calculation","30 cubic metres"], answer:3},
+     {q:"Why might knowing how to calculate volume be useful in real life?", options:["Volume can only be used for two-dimensional shapes","It helps determine how much space is inside a container or room","A reason unrelated to volume","Calculating volume never applies to real-life situations"], answer:1}
+   ]},
+  {subject:"Science", title:"Groundwater and the Water Table", summary:"Grade 5 Science strand: groundwater is water stored beneath the Earth’s surface in soil and rock, and the water table is the upper level at which the ground becomes saturated with water.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Groundwater is water stored ___.", options:["Only in oceans and lakes","Only inside clouds","A concept unrelated to groundwater","Beneath the Earth’s surface in soil and rock"], answer:3},
+     {q:"The water table is the upper level at which the ground becomes ___.", options:["A concept unrelated to the water table","Covered in ice","Completely dry","Saturated with water"], answer:3},
+     {q:"A well is used to access ___.", options:["Water located in outer space","Only rainwater falling from the sky","A concept unrelated to wells","Groundwater stored beneath the surface"], answer:3},
+     {q:"Why might the level of the water table change over time?", options:["A reason unrelated to groundwater","Amounts of rainfall and water usage can cause it to rise or fall","The water table always stays at exactly the same level","The water table has no connection to rainfall"], answer:1},
+     {q:"Why is groundwater an important resource for many communities?", options:["Groundwater has no practical use for communities","It can be a source of drinking water and water for farming","A reason unrelated to groundwater","Communities never rely on groundwater for any purpose"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Franklin Expedition and Arctic Exploration", summary:"Grade 5 Social Studies strand: the Franklin Expedition of the 1840s was a British attempt to find a Northwest Passage through the Arctic that ended in disaster, and its story remains an important part of Arctic exploration history.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"The Franklin Expedition set out in the 1840s to search for a ___.", options:["New farming region in the Prairies","A concept unrelated to the Franklin Expedition","Northwest Passage through the Arctic","A gold mine in the Yukon"], answer:2},
+     {q:"What ultimately happened to the ships and crew of the Franklin Expedition?", options:["A concept unrelated to the Franklin Expedition","The expedition successfully returned home with no difficulties","The crew immediately turned back before entering the Arctic","They became trapped in ice and the entire crew was lost"], answer:3},
+     {q:"Why is the Northwest Passage significant to explorers historically?", options:["A reason unrelated to Arctic exploration","It was believed to be located in Europe","It was seen as a possible shipping route connecting the Atlantic and Pacific oceans through the Arctic","It has no connection to trade or exploration"], answer:2},
+     {q:"How did Inuit oral history contribute to understanding the fate of the Franklin Expedition?", options:["Inuit accounts provided important clues that helped later searches locate the wrecked ships","Inuit oral history had no connection to the Franklin Expedition","A reason unrelated to Arctic exploration","Only written British records were ever used to study the expedition"], answer:0},
+     {q:"Why is the story of the Franklin Expedition still studied today?", options:["A reason unrelated to Arctic exploration","It offers insight into the risks of Arctic exploration and Canada’s Arctic history","The expedition has no lasting significance to Canadian history","The expedition took place outside of Arctic Canada"], answer:1}
+   ]},
+]},
+{day:80, label:"Day 80 — Fri", subjects:[
+  {subject:"Language", title:"Review: Irony, Subject-Verb Agreement, Imagery, and Pronoun Agreement", summary:"Grade 5 Language strand: this review lesson revisits key ideas from Days 71-79, including irony, subject-verb agreement, imagery, and pronoun-antecedent agreement.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Irony occurs when there is a difference between what is expected and ___.", options:["A concept unrelated to irony","A synonym for exactly what is expected","What actually happens","What always happens exactly as planned"], answer:2},
+     {q:"Subject-verb agreement means the subject and verb in a sentence must ___.", options:["Always be in the past tense","A concept unrelated to subject-verb agreement","Match in number, singular or plural","Always start with a capital letter"], answer:2},
+     {q:"Imagery is descriptive language that appeals to ___.", options:["Only the sense of sight","A concept unrelated to imagery","Only numbers and statistics","The five senses"], answer:3},
+     {q:"Pronoun-antecedent agreement means the pronoun must match its antecedent in ___.", options:["A concept unrelated to pronoun-antecedent agreement","Only the number of syllables","Number and gender","Only its spelling"], answer:2},
+     {q:"Why is it useful to review reading and grammar skills like these together?", options:["Review never helps strengthen understanding of a subject","It reinforces how different language skills support clear reading and writing","These skills have no connection to each other","A reason unrelated to reviewing language"], answer:1}
+   ]},
+  {subject:"Math", title:"Review: Multiplication, Factors, Decimals, and Volume", summary:"Grade 5 Math strand: this review lesson revisits key ideas from Days 71-79, including multiplying two-digit numbers, least common multiple and greatest common factor, multiplying decimals by powers of ten, and volume of rectangular prisms.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When multiplying two two-digit numbers using the standard algorithm, each digit of one number is multiplied by ___.", options:["Only the ones digit of the other number","Only the first digit of the same number","A concept unrelated to multiplication","Each digit of the other number"], answer:3},
+     {q:"The least common multiple of two numbers is the smallest number that ___.", options:["A concept unrelated to least common multiple","Only one of the numbers divides into evenly","Is smaller than both numbers","Both numbers divide into evenly"], answer:3},
+     {q:"When multiplying a decimal by 10, the decimal point moves ___.", options:["A direction unrelated to this rule","Two places to the left","One place to the right","One place to the left"], answer:2},
+     {q:"The volume of a rectangular prism is found by multiplying its ___.", options:["Length and width only","Length, width, and height","Only its height","A concept unrelated to volume"], answer:1},
+     {q:"Why is it useful to review multiplication, factors, decimals, and volume together?", options:["Review never helps strengthen understanding of a subject","These topics have no connection to each other","It reinforces how these math concepts connect and build on one another","A reason unrelated to reviewing math"], answer:2}
+   ]},
+  {subject:"Science", title:"Review: Heat Transfer, Electricity, Sound, and Groundwater", summary:"Grade 5 Science strand: this review lesson revisits key ideas from Days 71-79, including heat transfer, electrical conductors and insulators, sound pitch and frequency, and groundwater and the water table.",
+   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Conduction is the transfer of heat through ___.", options:["Sound waves travelling through air","Direct contact between objects","Empty space with no matter involved","A concept unrelated to heat transfer"], answer:1},
+     {q:"An electrical conductor is a material that ___.", options:["A concept unrelated to conductors","Allows electric current to pass through it easily","Blocks electric current from passing through","Has no connection to electricity at all"], answer:1},
+     {q:"Pitch describes how ___ a sound seems.", options:["Long or short","Loud or quiet","High or low","A concept unrelated to pitch"], answer:2},
+     {q:"The water table is the upper level at which the ground becomes ___.", options:["Saturated with water","Covered in ice","Completely dry","A concept unrelated to the water table"], answer:0},
+     {q:"Why is it useful to review heat, electricity, sound, and water together?", options:["Each topic must be studied with no connection to the others","These topics have no connection to each other","Review is never useful in science","It reinforces how these interconnected science concepts relate to one another"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Review: The Klondike, Government Roles, and Arctic Exploration", summary:"Grade 5 Social Studies strand: this review lesson revisits key ideas from Days 71-79, including the Klondike Gold Rush, the Governor General, provincial premiers, and the Franklin Expedition.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"The Klondike Gold Rush drew thousands of prospectors to the ___.", options:["A region unrelated to the Klondike Gold Rush","Prairies","Atlantic coast","Yukon"], answer:3},
+     {q:"The Governor General is the representative of ___ in Canada.", options:["The Crown","A political party","A concept unrelated to the Governor General","A foreign government"], answer:0},
+     {q:"The head of a provincial government is called the ___.", options:["Prime Minister","A title unrelated to provincial government","Governor General","Premier"], answer:3},
+     {q:"The Franklin Expedition set out in the 1840s to search for a ___.", options:["A concept unrelated to the Franklin Expedition","Northwest Passage through the Arctic","New farming region in the Prairies","A gold mine in the Yukon"], answer:1},
+     {q:"Why is it useful to review these events and roles in Canadian history and government together?", options:["These topics have no connection to each other","A reason unrelated to reviewing social studies","Review never helps strengthen understanding of a subject","It reinforces how these Social Studies concepts connect to build understanding of Canada"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
