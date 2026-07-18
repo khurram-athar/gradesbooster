@@ -5421,6 +5421,7 @@
         "summary": "Students select, polish, and present a piece of writing to a real or simulated audience. They understand the writing-to-publish process.",
         "resourceLabel": "YouTube: Writing: Publishing and Sharing",
         "resourceUrl": "https://www.youtube.com/results?search_query=Writing%3A%20Publishing%20and%20Sharing%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7x2e9DXYufM",
         "quiz": [
           {
             "q": "Publishing writing means ___.",
@@ -5480,6 +5481,7 @@
         "summary": "Students are introduced to quadratic equations in standard form (ax² + bx + c = 0). They solve simple cases by factoring.",
         "resourceLabel": "YouTube: Algebra: Solving Quadratic Equations (Introduction)",
         "resourceUrl": "https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Quadratic%20Equations%20%28Introduction%29%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PDIudNFEoGw",
         "quiz": [
           {
             "q": "A quadratic equation has a degree of ___.",
@@ -5539,6 +5541,7 @@
         "summary": "Students examine the evidence for climate change, the greenhouse effect, tipping points, and current mitigation and adaptation strategies.",
         "resourceLabel": "YouTube: Environmental Science: Climate Change Science",
         "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20Change%20Science%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Y1mPWVzaGQY",
         "quiz": [
           {
             "q": "The enhanced greenhouse effect refers to ___.",
@@ -5598,6 +5601,7 @@
         "summary": "Students examine key challenges Canada faces in the 21st century: reconciliation, climate change, economic inequality, and democratic participation.",
         "resourceLabel": "YouTube: Canada's Future: Challenges and Opportunities",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Challenges%20and%20Opportunities%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
             "q": "The most significant unresolved challenge in Canadian history for Indigenous peoples is ___.",
@@ -5663,6 +5667,7 @@
         "summary": "Students closely analyse poems from different traditions and periods. They examine structure, diction, imagery, figurative language, and theme.",
         "resourceLabel": "YouTube: Reading: Poetry Analysis",
         "resourceUrl": "https://www.youtube.com/results?search_query=Reading%3A%20Poetry%20Analysis%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=-RqwPj_J_IU",
         "quiz": [
           {
             "q": "Close reading of a poem means ___.",
@@ -5722,6 +5727,7 @@
         "summary": "Students distinguish rational from irrational numbers, estimate square roots, and place them on a number line.",
         "resourceLabel": "YouTube: Number Systems: Square Roots and Irrational Numbers",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Systems%3A%20Square%20Roots%20and%20Irrational%20Numbers%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=wg4YXMe5ccs",
         "quiz": [
           {
             "q": "A rational number is ___.",
@@ -5781,6 +5787,7 @@
         "summary": "Students explore how the four Grade 8 science strands connect — cells and systems, fluids and pressure, mechanical advantage, optics — within real engineering contexts.",
         "resourceLabel": "YouTube: Systems: Connecting Science Strands",
         "resourceUrl": "https://www.youtube.com/results?search_query=Systems%3A%20Connecting%20Science%20Strands%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=7EtiXrJlh5c",
         "quiz": [
           {
             "q": "A kidney dialysis machine demonstrates ___.",
@@ -5840,6 +5847,7 @@
         "summary": "Students examine how digital technology has transformed Canadian society, economy, and governance since the 1980s.",
         "resourceLabel": "YouTube: Digital History: Canada's Information Age",
         "resourceUrl": "https://www.youtube.com/results?search_query=Digital%20History%3A%20Canada%27s%20Information%20Age%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=QbTm6m7198g",
         "quiz": [
           {
             "q": "The World Wide Web, invented by Tim Berners-Lee in 1989, transformed Canada by ___.",

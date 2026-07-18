@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Understanding Satire and Parody", summary:"Define satire and parody, identify their targets and techniques, and analyze how they comment on society, culture, or human behaviour (ENL1W Strand A/C).",
    resourceLabel:"YouTube: Understanding Satire and Parody", resourceUrl:"https://www.youtube.com/results?search_query=Understanding%20Satire%20and%20Parody%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=udA1MVU59LQ",
    quiz:[
      {q:"Satire is a form of writing or media that uses...", options:["Only straightforward praise of social institutions","Only children's humour with no critical intent","Humour and irony to mock failings","Only factual reporting"], answer:2},
      {q:"Parody specifically imitates...", options:["Current events without reference to any existing text","Scientific research papers","Only political speeches","A work's style, exaggerated for effect"], answer:3},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Scatter Plots and Trend Lines", summary:"Create and interpret scatter plots, identify correlation (positive, negative, none), and draw a line of best fit to make predictions (MTH1W Data Literacy strand).",
    resourceLabel:"YouTube: Scatter Plots and Trend Lines", resourceUrl:"https://www.youtube.com/results?search_query=Scatter%20Plots%20and%20Trend%20Lines%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DmGLQkUm-4g",
    quiz:[
      {q:"A scatter plot is used to show...", options:["The relationship between two variables","Only one variable at a time","Time series only","A frequency of categorical data"], answer:0},
      {q:"A positive correlation in a scatter plot means...", options:["As one variable increases, the other tends to increase as well","Both variables are always equal","As one variable increases, the other decreases","There is no relationship between the variables"], answer:0},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of Stars and Types of Galaxies", summary:"Describe the stages in the life cycle of stars of different masses and identify types of galaxies in the universe (SNC1W Earth and Space Science strand).",
    resourceLabel:"YouTube: Life Cycle of Stars and Types of Galaxies", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20Stars%20and%20Types%20of%20Galaxies%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BG-ukUB_sQU",
    quiz:[
      {q:"Stars begin their lives in...", options:["Supernovae explosions","Black holes","Galaxies' outer edges only","Nebulae — gas and dust clouds"], answer:3},
      {q:"Our Sun is currently in the main sequence stage, which means it is...", options:["About to explode as a supernova","A white dwarf","Fusing hydrogen into helium","A red giant"], answer:2},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Resources and Political Tensions (General)", summary:"Examine how uneven distribution of natural resources can create geographic and political tensions between regions and nations, using general patterns and principles (CGC1W — balanced).",
    resourceLabel:"YouTube: Geography of Resources and Political Tensions (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Resources%20and%20Political%20Tensions%20%28General%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tFr5rtkX2JU",
    quiz:[
      {q:"Why can the uneven geographic distribution of resources lead to political tensions?", options:["Only military strength, not resources, causes political tensions","Resources are always evenly distributed so tensions rarely occur","Resource control brings outsized power","Political tensions are never related to geography"], answer:2},
      {q:"Water rights disputes between countries or regions typically arise because...", options:["Water is always evenly available everywhere","Water disputes only occur in deserts","Only one country in the world faces water shortages","Rivers cross borders, supply is scarce"], answer:3},
@@ -966,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Close Reading and Annotation Strategies", summary:"Apply close reading strategies — annotating for main idea, key details, author's craft, and questions — to extract deep understanding from a complex text (ENL1W Strand A).",
    resourceLabel:"YouTube: Close Reading and Annotation Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Close%20Reading%20and%20Annotation%20Strategies%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=J2KHX1Pm5co",
    quiz:[
      {q:"Close reading involves...", options:["Examining closely how a text is written","Skipping unfamiliar words","Only identifying the main character","Only reading a text once quickly"], answer:0},
      {q:"Annotation (marking up a text) is useful because...", options:["It helps you engage and track ideas","It replaces the need to re-read the text","It is only helpful for creative writing, not analysis","It damages the text and should never be done"], answer:0},
@@ -975,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability of Combined Events and Tree Diagrams", summary:"Calculate the probability of combined independent and dependent events and use tree diagrams to organize outcomes (MTH1W Probability strand).",
    resourceLabel:"YouTube: Probability of Combined Events and Tree Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Probability%20of%20Combined%20Events%20and%20Tree%20Diagrams%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jcggUGY3vIg",
    quiz:[
      {q:"Two events are independent if the outcome of one...", options:["Are always equally likely","Does not affect the probability of the other","Always affects the other","Must occur at the same time"], answer:1},
      {q:"The probability of two independent events A and B both occurring is...", options:["P(A) ÷ P(B)","P(A) + P(B)","P(A) × P(B)","P(A) - P(B)"], answer:2},
@@ -984,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable Energy Technologies and Engineering", summary:"Describe how solar, wind, hydroelectric, and geothermal technologies convert natural energy sources into electricity, and evaluate engineering trade-offs (SNC1W strand).",
    resourceLabel:"YouTube: Renewable Energy Technologies and Engineering", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20Energy%20Technologies%20and%20Engineering%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1kUE0BZtTRc",
    quiz:[
      {q:"Solar panels (photovoltaic cells) convert...", options:["Wind energy into electricity","Chemical energy into light","Thermal energy into mechanical energy","Light energy directly into electricity"], answer:3},
      {q:"Wind turbines generate electricity by using wind to...", options:["Compress air into fuel","Heat water to create steam","Turn blades connected to a generator","Split water molecules"], answer:2},
@@ -993,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"GPS, GIS, and Remote Sensing Technology", summary:"Describe how GPS, Geographic Information Systems (GIS), and remote sensing (satellites, aerial photography) are used as geographic tools for mapping, analysis, and decision-making (CGC1W).",
    resourceLabel:"YouTube: GPS, GIS, and Remote Sensing Technology", resourceUrl:"https://www.youtube.com/results?search_query=GPS%2C%20GIS%2C%20and%20Remote%20Sensing%20Technology%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7Yt7Ssput9k",
    quiz:[
      {q:"GPS (Global Positioning System) works by...", options:["Measuring air pressure to determine elevation only","Reading paper maps electronically","Using satellites to find your location","Using internet cell towers only"], answer:2},
      {q:"GIS (Geographic Information System) is a tool that allows geographers to...", options:["Store non-geographic data only","Track the weather exclusively","Store and layer spatial data","Only create paper maps"], answer:2},

@@ -990,6 +990,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Predicting What Happens Next", summary:"Good readers make predictions — they use clues in the story and what they already know to guess what might happen next.",
    resourceLabel:"YouTube: Predicting What Happens Next", resourceUrl:"https://www.youtube.com/results?search_query=Predicting%20What%20Happens%20Next%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pu0RahGZ-38",
    quiz:[
      {q:"What is a prediction when reading?", options:["A guess about what happens next","Reading backwards","Copying the story","Remembering what happened"], answer:0},
      {q:"What do good readers use to make a prediction?", options:["Nothing","The last word in the book","Clues and their own knowledge","Random guesses only"], answer:2},
@@ -999,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Capacity and Mass Informally", summary:"Capacity is how much something can hold. Mass is how heavy something is. We can compare by asking: which holds more? Which is heavier?",
    resourceLabel:"YouTube: Comparing Capacity and Mass Informally", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Capacity%20and%20Mass%20Informally%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pbX2c_nTWl0",
    quiz:[
      {q:"Which holds MORE: a bathtub or a teacup?", options:["Cannot compare","Both the same","Bathtub","Teacup"], answer:2},
      {q:"Which is HEAVIER: a schoolbag full of books or an empty bag?", options:["Full schoolbag with books","Both the same","Empty bag","Cannot compare"], answer:0},
@@ -1008,6 +1010,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Five Senses in Science Observations", summary:"Scientists use all five senses to make observations — they look, listen, smell, feel, and sometimes taste (safely!) to learn about the world around them.",
    resourceLabel:"YouTube: The Five Senses in Science Observations", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20in%20Science%20Observations%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=q1xNuU7gaAQ",
    quiz:[
      {q:"What is a scientific observation?", options:["Drawing a picture only","Guessing randomly","Reading a textbook only","Using senses to notice details"], answer:3},
      {q:"Which senses can a scientist use to observe a lemon?", options:["Only smell","Sight, smell, touch, and taste","Only sight","Hearing only"], answer:1},
@@ -1017,6 +1020,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Transportation and Its Impact on Communities", summary:"Transportation connects communities — roads, trains, and airports allow people and goods to move between towns, cities, and countries. This helps communities grow and trade.",
    resourceLabel:"YouTube: Transportation and Its Impact on Communities", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20and%20Its%20Impact%20on%20Communities%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3ww-9ZkVkMw",
    quiz:[
      {q:"How does transportation help communities?", options:["It does not help","It only helps cities","It only brings problems","It connects people and moves goods"], answer:3},
      {q:"Which form of transportation connects cities very quickly over long distances?", options:["Airplane","Bicycle","Walking","Horse"], answer:0},
@@ -1028,6 +1032,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24", subjects:[
   {subject:"Language", title:"Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", summary:"Mixed review of alphabetical order, punctuation marks, types of sentences, and making predictions.",
    resourceLabel:"YouTube: Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Alphabetical%20Order%2C%20Punctuation%2C%20Sentence%20Types%20%26%20Predictions%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_QbTB8EtEz8",
    quiz:[
      {q:"Which word comes first in alphabetical order: dog, ant, cat?", options:["All the same","Dog","Ant","Cat"], answer:2},
      {q:"A question ends with a...", options:["Period","Exclamation mark","Question mark","Comma"], answer:2},
@@ -1037,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Position Words, Doubles, Estimation & Capacity", summary:"Mixed review of position words, doubles facts, estimating, and comparing capacity and mass.",
    resourceLabel:"YouTube: Review: Position Words, Doubles, Estimation & Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Position%20Words%2C%20Doubles%2C%20Estimation%20%26%20Capacity%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TqKYb5QdVvU",
    quiz:[
      {q:"Which word describes where something is below another object?", options:["In front","Over","Under","Beside"], answer:2},
      {q:"What is 5 + 5?", options:["8","11","9","10"], answer:3},
@@ -1046,6 +1052,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Living Things, Animal Adaptations, Tools & Senses", summary:"Mixed review of living vs. non-living, animal adaptations, science tools, and using senses to observe.",
    resourceLabel:"YouTube: Review: Living Things, Animal Adaptations, Tools & Senses", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Living%20Things%2C%20Animal%20Adaptations%2C%20Tools%20%26%20Senses%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m2MibjJgyjs",
    quiz:[
      {q:"Which is a characteristic of all living things?", options:["They can fly","They need food, water, and air","They are always green","They live in water only"], answer:1},
      {q:"Why does a polar bear have thick white fur?", options:["Because all bears do","To swim faster","To stay warm and blend in with snow","For looks"], answer:2},

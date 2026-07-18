@@ -990,6 +990,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Non-Fiction Text Features", summary:"Ontario Grade 1 Reading strand: non-fiction texts contain features like headings, photographs, captions, table of contents, and indexes that help readers find and understand information.",
    resourceLabel:"YouTube: Non-Fiction Text Features", resourceUrl:"https://www.youtube.com/results?search_query=Non-Fiction%20Text%20Features%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=y03gQNA2PgE",
    quiz:[
      {q:"What is a heading in a non-fiction text?", options:["A picture at the top","A bold title for a section","A type of hat","The author's name"], answer:1},
      {q:"What is a caption?", options:["A title","Words explaining a photo","A type of heading","The conclusion"], answer:1},
@@ -999,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Number Sense to 50", summary:"Ontario Grade 1 Number strand review: students count, compare, order, and represent numbers to 50, and demonstrate understanding of place value and operations.",
    resourceLabel:"YouTube: Review: Number Sense to 50", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20to%2050%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Er1RrnMe_6I",
    quiz:[
      {q:"What is 3 tens and 7 ones?", options:["30","13","37","73"], answer:2},
      {q:"Which is greatest: 24, 42, or 34?", options:["34","24","44","42"], answer:3},
@@ -1008,6 +1010,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seasons Review", summary:"Ontario Grade 1 Earth and Space Systems strand review: students review the four seasons, their characteristics, and how plants, animals, and people respond to seasonal changes.",
    resourceLabel:"YouTube: Seasons Review", resourceUrl:"https://www.youtube.com/results?search_query=Seasons%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KjkQ2d5Apu8",
    quiz:[
      {q:"What are the four seasons in order starting with spring?", options:["Spring, Summer, Fall, Winter","Fall, Winter, Spring, Summer","Summer, Fall, Winter, Spring","Winter, Spring, Summer, Fall"], answer:0},
      {q:"In which season do most plants grow flowers?", options:["No season","Fall","Spring and Summer","Winter"], answer:2},
@@ -1017,6 +1020,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rights Review", summary:"Ontario Grade 1 Social Studies strand A review: students review children's rights, responsibilities, and what it means to be a responsible citizen in the school and community.",
    resourceLabel:"YouTube: Rights Review", resourceUrl:"https://www.youtube.com/results?search_query=Rights%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=puarPOoJUy8",
    quiz:[
      {q:"What are the three main rights of all children?", options:["Education, safety, and being cared for","Work, play, travel","Adults choose their rights","Money, toys, vacations"], answer:0},
      {q:"What is a responsibility?", options:["Something we are paid for","Something we can always skip","Something we're expected to do","Something only adults have"], answer:2},
@@ -1028,6 +1032,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Creative Writing", summary:"Ontario Grade 1 Writing strand: students write short creative stories with a beginning, middle, and end, using descriptive language, interesting characters, and a simple plot.",
    resourceLabel:"YouTube: Creative Writing", resourceUrl:"https://www.youtube.com/results?search_query=Creative%20Writing%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pAL1nW6JcTw",
    quiz:[
      {q:"Creative writing lets you ___.", options:["Copy other stories","Write only your name","Write only facts","Create imaginary stories and characters"], answer:3},
      {q:"A good creative story has a ___.", options:["Middle only","Only a problem","Beginning only","Beginning, middle, and end"], answer:3},
@@ -1037,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Patterns and Shapes", summary:"Ontario Grade 1 Geometry and Patterning review: students identify and extend patterns, and describe properties of 2D and 3D shapes.",
    resourceLabel:"YouTube: Review: Patterns and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Patterns%20and%20Shapes%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Js45cR_7wFE",
    quiz:[
      {q:"Which 2D shape has three sides?", options:["Rectangle","Square","Triangle","Circle"], answer:2},
      {q:"What comes next? Triangle, Square, Triangle, Square, ___", options:["Triangle","Rectangle","Square","Circle"], answer:0},
@@ -1046,6 +1052,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycles Review", summary:"Ontario Grade 1 Life Systems strand review: students review life cycles of different animals including butterfly, frog, and chicken, identifying the stages.",
    resourceLabel:"YouTube: Life Cycles Review", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycles%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bnqPTva-xkE",
    quiz:[
      {q:"What are the four stages of a butterfly's life cycle?", options:["Baby, child, teen, adult","Egg, larva, pupa, adult","Seed, sprout, plant, flower","Egg, chick, chicken, adult"], answer:1},
      {q:"What is a tadpole?", options:["A baby bird","A baby frog","A type of fish","A baby butterfly"], answer:1},
@@ -1055,6 +1062,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Review", summary:"Ontario Grade 1 Social Studies review: students review the concept of community, types of communities, community workers, and the importance of caring for the environment.",
    resourceLabel:"YouTube: Community Review", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zeM5ewySceQ",
    quiz:[
      {q:"What is a community?", options:["A type of map","A group living and working together","A natural resource","A building"], answer:1},
      {q:"Name two types of communities.", options:["Old and new","Urban and rural","Rich and poor","Big and small"], answer:1},

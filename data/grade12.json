@@ -5481,6 +5481,7 @@
         "summary": "Students calculate combinations, apply Pascal's triangle, and expand binomials using the Binomial Theorem.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=Eu2oYKiPxu0",
+        "videoUrl": "https://www.youtube.com/watch?v=s19dWIHficY",
         "quiz": [
           {
             "q": "The number of combinations of n objects taken r at a time is ___.",
@@ -5540,6 +5541,7 @@
         "summary": "Students approximate definite integrals using Riemann sums, the Trapezoid Rule, and Simpson's Rule.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=YTKQswb60Pw",
+        "videoUrl": "https://www.youtube.com/watch?v=Rn9Gr52zhrY",
         "quiz": [
           {
             "q": "A Riemann sum approximates a definite integral by ___.",
@@ -5599,6 +5601,7 @@
         "summary": "Students analyse nuclear reactions, calculate binding energy per nucleon, and apply decay equations.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=nRmBsxBpTjs",
+        "videoUrl": "https://www.youtube.com/watch?v=fES21E0qebw",
         "quiz": [
           {
             "q": "Radioactive decay follows ___.",
@@ -5664,6 +5667,7 @@
         "summary": "Students examine a contemporary play, analysing the relationship between the written text and its realisation in performance.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=W3MJj5AjAMc",
+        "videoUrl": "https://www.youtube.com/watch?v=tVChDzCvvko",
         "quiz": [
           {
             "q": "A play script is ___.",
@@ -5723,6 +5727,7 @@
         "summary": "Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=J8jNoF-K8Z8",
+        "videoUrl": "https://www.youtube.com/watch?v=94AmzeR9n2w",
         "quiz": [
           {
             "q": "The binomial distribution applies when ___.",
@@ -5782,6 +5787,7 @@
         "summary": "Students solve separable ODEs applied to exponential growth, radioactive decay, and Newton's Law of Cooling.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=H0VEL9TFjqw",
+        "videoUrl": "https://www.youtube.com/watch?v=M9rcYTuFG4w",
         "quiz": [
           {
             "q": "The general solution of dP/dt = kP is ___.",
@@ -5841,6 +5847,7 @@
         "summary": "Students examine the probabilistic nature of quantum mechanics, wave functions, and an overview of the Standard Model.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=p7bzE1E5PMY",
+        "videoUrl": "https://www.youtube.com/watch?v=p9pPjASnnxw",
         "quiz": [
           {
             "q": "The wave function ψ(x,t) in quantum mechanics gives ___.",

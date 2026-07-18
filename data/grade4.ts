@@ -970,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Reading Comprehension Strategies Review", summary:"Grade 4 Reading strand: skilled readers use multiple strategies: predicting, visualising, asking questions, making connections, summarising, and synthesising.",
    resourceLabel:"YouTube: Reading Comprehension Strategies Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%20Strategies%20Review%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NqpbTN3diUc",
    quiz:[
      {q:"Visualising while reading means ___.", options:["writing notes","looking at the illustrations only","drawing pictures in a book","creating mental images of the text"], answer:3},
      {q:"Asking questions before and during reading helps ___.", options:["set a purpose and deepen understanding","avoid the text entirely","slow down your reading","only find main ideas"], answer:0},
@@ -979,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Number Sense and Operations", summary:"Grade 4 Number strand review: students demonstrate fluency with multiplication, division, fractions, and decimals.",
    resourceLabel:"YouTube: Review: Number Sense and Operations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20and%20Operations%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dAgfnK528RA",
    quiz:[
      {q:"345 × 4 = ?", options:["1360","1380","1390","1370"], answer:1},
      {q:"96 ÷ 6 = ?", options:["16","14","17","15"], answer:0},
@@ -988,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science Concepts", summary:"Grade 4 Science strand review: habitats, rocks, energy (light, sound, electricity), weather, and space.",
    resourceLabel:"YouTube: Year Review: Science Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20Concepts%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
    quiz:[
      {q:"A food web shows ___.", options:["the structure of rock layers","how energy flows through food chains","the rock cycle","the water cycle"], answer:1},
      {q:"Igneous rock forms from ___.", options:["sediment layers","compressed sediment","heat and pressure on existing rock","cooled magma/lava"], answer:3},
@@ -997,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Grade 4 Social Studies review: ancient civilizations, Canadian history, geography, government, economics, and citizenship.",
    resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
    quiz:[
      {q:"Which ancient civilization developed democracy?", options:["China","Greece","Egypt","Rome"], answer:1},
      {q:"Confederation in 1867 formed which country?", options:["The Dominion of Canada","New France","The British Empire","The United States"], answer:0},

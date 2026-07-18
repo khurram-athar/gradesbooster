@@ -938,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Combinations and the Binomial Theorem", summary:"Students calculate combinations, apply Pascal's triangle, and expand binomials using the Binomial Theorem.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=Eu2oYKiPxu0",
+   videoUrl:"https://www.youtube.com/watch?v=s19dWIHficY",
    quiz:[
      {q:"The number of combinations of n objects taken r at a time is ___.", options:["n!/(n−r)!","n!/r!","n!","C(n,r) = n!/(r!(n−r)!)"], answer:3},
      {q:"How many ways can a committee of 3 be chosen from 10 people?", options:["10!/3! = 604800","10P3 = 720","10 × 3 = 30","C(10,3) = 10!/(3!7!) = 120"], answer:3},
@@ -947,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Numerical Integration: Riemann Sums and the Trapezoid Rule", summary:"Students approximate definite integrals using Riemann sums, the Trapezoid Rule, and Simpson's Rule.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=YTKQswb60Pw",
+   videoUrl:"https://www.youtube.com/watch?v=Rn9Gr52zhrY",
    quiz:[
      {q:"A Riemann sum approximates a definite integral by ___.", options:["differentiating at sample points","only using the left endpoint always","summing the areas of rectangles","using the antiderivative"], answer:2},
      {q:"The Trapezoid Rule approximates ∫f dx using ___.", options:["only left-endpoint rectangles","the average of f(a) and f(b) only","only the area of one trapezoid","trapezoids instead of rectangles"], answer:3},
@@ -956,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Nuclear Reactions: Fission, Fusion, and Radioactive Decay", summary:"Students analyse nuclear reactions, calculate binding energy per nucleon, and apply decay equations.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
+   videoUrl:"https://www.youtube.com/watch?v=fES21E0qebw",
    quiz:[
      {q:"Radioactive decay follows ___.", options:["a linear decrease in activity","constant activity indefinitely","an exponential law: N(t) = N₀e^(−λt)","a quadratic decay law"], answer:2},
      {q:"Half-life T½ is related to decay constant λ by ___.", options:["T½ = λ","T½ = ln2/λ = 0.693/λ","T½ = 1/λ","T½ = e^λ"], answer:1},
@@ -967,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Contemporary Drama: Stagecraft and Text", summary:"Students examine a contemporary play, analysing the relationship between the written text and its realisation in performance.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=W3MJj5AjAMc",
+   videoUrl:"https://www.youtube.com/watch?v=tVChDzCvvko",
    quiz:[
      {q:"A play script is ___.", options:["always the same in any production","less important than the director's vision","the complete work of art in itself","a blueprint for performance"], answer:3},
      {q:"Stage directions in a contemporary play ___.", options:["are always followed literally","may be poetic, ambiguous, or minimal","tell audiences what to think","are always ignored by directors"], answer:1},
@@ -976,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Probability Distributions: Binomial and Geometric", summary:"Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=J8jNoF-K8Z8",
+   videoUrl:"https://www.youtube.com/watch?v=94AmzeR9n2w",
    quiz:[
      {q:"The binomial distribution applies when ___.", options:["only one trial is performed","probability changes each trial","n trials, constant probability p","trials have more than two outcomes"], answer:2},
      {q:"P(X=k) for a binomial distribution is ___.", options:["C(n,k) × pᵏ × (1−p)^n","C(n,k) × pᵏ × (1−p)^(n−k)","p^k × (1-p)^(n-k)","n × p × k"], answer:1},
@@ -985,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Differential Equations: Growth, Decay, and Newton's Law", summary:"Students solve separable ODEs applied to exponential growth, radioactive decay, and Newton's Law of Cooling.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=H0VEL9TFjqw",
+   videoUrl:"https://www.youtube.com/watch?v=M9rcYTuFG4w",
    quiz:[
      {q:"The general solution of dP/dt = kP is ___.", options:["P(t) = ke^(P₀t)","P(t) = P₀ + kt","P(t) = P₀e^(kt)","P(t) = P₀kt"], answer:2},
      {q:"A culture of 1000 bacteria doubles in 3 hours. After 9 hours:", options:["6000","2000","3000","8000 (doubles 3 times)"], answer:3},
@@ -994,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Modern Physics: Quantum Mechanics and the Standard Model", summary:"Students examine the probabilistic nature of quantum mechanics, wave functions, and an overview of the Standard Model.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=p7bzE1E5PMY",
+   videoUrl:"https://www.youtube.com/watch?v=p9pPjASnnxw",
    quiz:[
      {q:"The wave function ψ(x,t) in quantum mechanics gives ___.", options:["the exact position of the particle","the energy of the particle directly","the probability amplitude","the actual path of the particle"], answer:2},
      {q:"The Schrödinger equation is ___.", options:["the fundamental equation of quantum mechanics","only applicable to classical waves","a statement of conservation of energy","only for relativistic particles"], answer:0},

@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Oral Presentation: Formal Presentation on a Literary Topic", summary:"Students deliver a formal 8-10 minute presentation on a literary or cultural topic, demonstrating research, organisation, visual literacy, and presentational skills.",
    resourceLabel:"YouTube: Oral Presentation: Formal Presentation on a Literary Topic", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Presentation%3A%20Formal%20Presentation%20on%20a%20Literary%20Topic%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q4K0SnRlik0",
    quiz:[
      {q:"A formal academic presentation differs from casual speaking in that ___.", options:["it needs careful preparation","it is much shorter","it is always scripted word for word","it never uses notes"], answer:0},
      {q:"Presentation slides should ___.", options:["contain all your speaking notes","have as much text as possible","provide visual support","be identical to your notes"], answer:2},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Applications and Real-World Modelling", summary:"Students apply function families to real-world data — choosing the appropriate model, fitting it to data, and interpreting results.",
    resourceLabel:"YouTube: Functions: Applications and Real-World Modelling", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Applications%20and%20Real-World%20Modelling%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=52tpYl2tTqk",
    quiz:[
      {q:"Choosing a function model for data requires ___.", options:["always using a linear model","only using the most complex model","matching patterns to function types","trying every possible model"], answer:2},
      {q:"A logarithmic model is appropriate when ___.", options:["data is perfectly linear","data grows explosively","data oscillates","rapid growth that then slows"], answer:3},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Biology: Reproductive System and Development Review", summary:"Students consolidate understanding of the human reproductive system, development, and reproductive health.",
    resourceLabel:"YouTube: Human Biology: Reproductive System and Development Review", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Biology%3A%20Reproductive%20System%20and%20Development%20Review%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=als-gv_D7bc",
    quiz:[
      {q:"Oogenesis (egg cell production) differs from spermatogenesis in that ___.", options:["both produce 4 functional gametes","only oogenesis involves meiosis","spermatogenesis produces eggs","it makes 1 egg, not 4 like sperm cells"], answer:3},
      {q:"The embryonic period (weeks 3-8 of development) is critical because ___.", options:["it is when sex is determined","no development occurs during this time","it is only important for heart development","all major organs and body systems are forming"], answer:3},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Thermodynamics: Entropy and Free Energy (Introduction)", summary:"Students are introduced to entropy (disorder) and Gibbs free energy as predictors of reaction spontaneity.",
    resourceLabel:"YouTube: Thermodynamics: Entropy and Free Energy (Introduction)", resourceUrl:"https://www.youtube.com/results?search_query=Thermodynamics%3A%20Entropy%20and%20Free%20Energy%20%28Introduction%29%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8N1BxHgsoOw",
    quiz:[
      {q:"Entropy (S) is a measure of ___.", options:["a system's energy","a system's temperature","a system's heat content","a system's disorder or randomness"], answer:3},
      {q:"The Second Law of Thermodynamics states ___.", options:["entropy is irrelevant to chemistry","entropy always increases spontaneously","entropy is conserved","entropy always decreases"], answer:1},
@@ -966,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Synthesis: Literature and the Human Experience", summary:"Students reflect on what the literature they've read across Grade 11 reveals about the human experience and their own intellectual development.",
    resourceLabel:"YouTube: Synthesis: Literature and the Human Experience", resourceUrl:"https://www.youtube.com/results?search_query=Synthesis%3A%20Literature%20and%20the%20Human%20Experience%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zIYC6zG265E",
    quiz:[
      {q:"The literature studied in Grade 11 reveals that ___.", options:["all cultures experience life identically","literature has no relationship to life","diverse, yet with recurring concerns","human experience is simple and universal"], answer:2},
      {q:"What has changed most in your reading this year?", options:["Only your speed has increased","Your ability to tolerate and value ambiguity","Nothing — reading is always the same","Only your vocabulary has grown"], answer:1},
@@ -975,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Statistics: Correlation and Regression", summary:"Students investigate scatter plots, linear correlation, regression lines, and the interpretation and limitations of statistical relationships.",
    resourceLabel:"YouTube: Statistics: Correlation and Regression", resourceUrl:"https://www.youtube.com/results?search_query=Statistics%3A%20Correlation%20and%20Regression%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=upseC-rZ5QI",
    quiz:[
      {q:"A positive correlation means ___.", options:["as one variable increases, the other tends to increase","as one variable increases, the other decreases","the correlation coefficient is between −1 and 0","there is no relationship between variables"], answer:0},
      {q:"The correlation coefficient r ranges from ___.", options:["0 to 1","−1 to 0","−1 to 1 (perfect negative to positive)","−100 to 100"], answer:2},
@@ -984,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Year-End Exam Preparation", summary:"Students review all Grade 11 Biology content — cell biology, genetics, evolution, ecology, and physiology — for final assessment.",
    resourceLabel:"YouTube: Biology: Year-End Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-qU1mQ0ilxo",
    quiz:[
      {q:"Distinguish: mitosis produces ___ and meiosis produces ___.", options:["haploid identical cells; haploid diverse cells","diploid identical cells; diploid diverse cells","diploid identical; haploid diverse","haploid diverse cells; diploid identical cells"], answer:2},
      {q:"Natural selection is based on differences in ___.", options:["intelligence only","only physical size","mutation rate","success from heritable variation"], answer:3},
@@ -993,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Year-End Exam Preparation", summary:"Students review all Grade 11 Chemistry content for final assessment.",
    resourceLabel:"YouTube: Chemistry: Year-End Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
    quiz:[
      {q:"Balance: C₃H₈ + O₂ → CO₂ + H₂O", options:["C₃H₈ + 4O₂ → 3CO₂ + 3H₂O","C₃H₈ + O₂ → CO₂ + H₂O (unbalanced)","C₃H₈ + 3O₂ → 3CO₂ + 4H₂O","C₃H₈ + 5O₂ → 3CO₂ + 4H₂O"], answer:3},
      {q:"The equilibrium constant Keq for N₂ + 3H₂ ⇌ 2NH₃ is ___.", options:["Keq = [N₂][H₂]³/[NH₃]²","Keq = [NH₃]²/([N₂][H₂]³)","Keq = [NH₃]/([N₂][H₂])","Keq = 2[NH₃]/[N₂]/3[H₂]"], answer:1},

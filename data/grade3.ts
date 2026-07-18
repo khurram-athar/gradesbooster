@@ -970,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Oral Communication: Presentations", summary:"Students learn how to plan and deliver a short oral presentation. Key skills: clear voice, eye contact, staying on topic, and responding to questions.",
    resourceLabel:"YouTube: Oral Communication: Presentations", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Presentations%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8IbheB2-ixM",
    quiz:[
      {q:"When presenting, you should ___.", options:["talk as fast as possible","read directly from a paper without looking up","mumble quietly","speak clearly and project your voice"], answer:3},
      {q:"Eye contact with the audience shows ___.", options:["lack of preparation","nervousness only","confidence and engagement","aggression"], answer:2},
@@ -979,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication in Context: Word Problems", summary:"Students apply multiplication to solve real-world problems.",
    resourceLabel:"YouTube: Multiplication in Context: Word Problems", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20in%20Context%3A%20Word%20Problems%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_rA8eEel6Hg",
    quiz:[
      {q:"There are 6 bags with 8 apples in each. How many apples in all?", options:["36","48","14","54"], answer:1},
      {q:"A box has 5 rows of 7 chocolates. How many chocolates?", options:["25","40","30","35"], answer:3},
@@ -988,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Technology and Science: Inventions", summary:"Students explore how scientific understanding leads to inventions that solve human problems. They investigate examples like the telephone, electricity, and vaccines.",
    resourceLabel:"YouTube: Technology and Science: Inventions", resourceUrl:"https://www.youtube.com/results?search_query=Technology%20and%20Science%3A%20Inventions%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=weK9S1Ny3kw",
    quiz:[
      {q:"An invention is ___.", options:["a discovery of something already existing","only for scientists","a new idea that solves a problem","only for adults"], answer:2},
      {q:"Alexander Graham Bell invented the ___.", options:["printing press","telephone","light bulb","car"], answer:1},
@@ -997,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities in the Past vs Today", summary:"Students compare life in an Ontario community 100 years ago with life today, focusing on changes in transportation, communication, and daily life.",
    resourceLabel:"YouTube: Communities in the Past vs Today", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20in%20the%20Past%20vs%20Today%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=04lO0ISBT40",
    quiz:[
      {q:"One hundred years ago, most Ontarians communicated over long distances by ___.", options:["email","text message","telegraph and letter","video call"], answer:2},
      {q:"Transportation in Ontario has changed from ___.", options:["cars to horses","horses and trains to cars and planes","exactly the same","random changes"], answer:1},

@@ -990,6 +990,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Letter X", summary:"Explore uppercase and lowercase X. Students identify the letter, practise its /ks/ sound, and note that X rarely starts words in English.",
    resourceLabel:"YouTube: Letter X", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20X%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3AQUDbEhTm8",
    quiz:[
      {q:"What sound does X usually make?", options:["Zuh","Tuh","Ks (as in fox)","Sh"], answer:2},
      {q:"X is found at the ___ of most English words.", options:["never","beginning","only at the start","middle or end"], answer:3},
@@ -999,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Capacity", summary:"Students compare the capacity (how much a container holds) using non-standard units. They use terms: more, less, same.",
    resourceLabel:"YouTube: Measurement: Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Capacity%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a9YXx1BGltk",
    quiz:[
      {q:"Capacity means ___.", options:["how long something is","how hot something is","how heavy something is","how much a container can hold"], answer:3},
      {q:"A bucket holds ___ water than a cup.", options:["the same","less","more","no"], answer:2},
@@ -1008,6 +1010,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Water", summary:"Students explore water as a liquid that takes the shape of its container, that it freezes into solid ice and evaporates into invisible vapour.",
    resourceLabel:"YouTube: Properties of Water", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Water%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xgS9uXb3o8I",
    quiz:[
      {q:"Water is a ___.", options:["solid","powder","liquid at room temperature","gas"], answer:2},
      {q:"When water freezes it becomes ___.", options:["solid ice","liquid","gas","vapour"], answer:0},
@@ -1017,6 +1020,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Country: Canada", summary:"Students explore Canada as their country: its size, capital city, official languages, and symbols that make it unique.",
    resourceLabel:"YouTube: My Country: Canada", resourceUrl:"https://www.youtube.com/results?search_query=My%20Country%3A%20Canada%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Canada is located in ___.", options:["Africa","Europe","South America","North America"], answer:3},
      {q:"Canada's capital city is ___.", options:["Vancouver","Ottawa","Montreal","Toronto"], answer:1},
@@ -1028,6 +1032,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Letter Y", summary:"Explore uppercase and lowercase Y. Students identify the letter, practise its /y/ sound, and name Y words such as yak, yarn, and yes.",
    resourceLabel:"YouTube: Letter Y", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Y%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZKjXyxkPllA",
    quiz:[
      {q:"Which word starts with Y?", options:["Zoo","Yak","Ant","Fox"], answer:1},
      {q:"What sound does Y make at the start of a word?", options:["Wuh","Juh","Iuh","Yuh"], answer:3},
@@ -1037,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 20: Addition and Subtraction", summary:"Students add and subtract within 20 using number lines, counters, and mental strategies.",
    resourceLabel:"YouTube: Numbers to 20: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2020%3A%20Addition%20and%20Subtraction%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7J1OkxuyLD0",
    quiz:[
      {q:"12 + 5 = ?", options:["18","16","17","15"], answer:2},
      {q:"18 - 4 = ?", options:["12","15","14","13"], answer:2},
@@ -1046,6 +1052,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Insects", summary:"Students explore characteristics of insects: 6 legs, 3 body parts (head, thorax, abdomen), and often wings. Common Ontario insects are identified.",
    resourceLabel:"YouTube: Insects", resourceUrl:"https://www.youtube.com/results?search_query=Insects%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iJlfBNyBKQA",
    quiz:[
      {q:"All insects have ___ legs.", options:["10","8","4","6"], answer:3},
      {q:"The three body parts of an insect are head, thorax, and ___.", options:["abdomen","tail","shell","wing"], answer:0},
@@ -1055,6 +1062,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Exploring Our Differences and Similarities", summary:"Students celebrate diversity by exploring how people are alike and different in appearance, language, food, and traditions.",
    resourceLabel:"YouTube: Exploring Our Differences and Similarities", resourceUrl:"https://www.youtube.com/results?search_query=Exploring%20Our%20Differences%20and%20Similarities%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1wzb-uvD_h8",
    quiz:[
      {q:"People from different cultures may have different ___.", options:["Only names","Only language","Languages, foods, and traditions","Only food"], answer:2},
      {q:"Celebrating our differences helps us ___.", options:["learn from and respect each other","feel confused","stay separate","fight more"], answer:0},

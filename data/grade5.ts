@@ -958,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade Between Canada and Other Countries", summary:"Canada trades goods and resources with countries around the world, which supports jobs and the economy.",
    resourceLabel:"YouTube: Trade Between Canada and Other Countries", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20Between%20Canada%20and%20Other%20Countries%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Why might Canada import bananas rather than growing them domestically?", options:["Canada has too many bananas already","Canada's climate can't grow bananas","Imports are illegal in Canada","Bananas cannot be transported"], answer:1},
      {q:"How does international trade generally benefit both countries involved in an exchange?", options:["Only the importing country benefits","Only the exporting country benefits","Trade never benefits either country","Each country gets what it can't make"], answer:3},
@@ -969,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Recognizing Genre", summary:"Genres like fiction, nonfiction, and poetry each have distinct features and purposes that readers can learn to identify.",
    resourceLabel:"YouTube: Recognizing Genre", resourceUrl:"https://www.youtube.com/results?search_query=Recognizing%20Genre%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dbJHOgvh7ik",
    quiz:[
      {q:"A book tells a story about talking animals solving mysteries, clearly invented by the author. Which genre is this, and why?", options:["Nonfiction, because it teaches a lesson","Poetry, because it has rhythm","Fiction — an imagined, invented story","Biography, because it's about real animals"], answer:2},
      {q:"A text uses short line breaks, rhyme, and vivid imagery to express emotion. Which genre does this describe?", options:["Nonfiction textbook","A biography","A user manual","Poetry"], answer:3},
@@ -978,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data Management: Bar and Line Graphs", summary:"Bar graphs compare quantities across categories, while line graphs show how data changes over time.",
    resourceLabel:"YouTube: Data Management: Bar and Line Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%20Management%3A%20Bar%20and%20Line%20Graphs%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hcgThf5mv38",
    quiz:[
      {q:"A researcher wants to show how a plant's height changed every week over two months. Which graph type is MOST appropriate?", options:["A line graph, since it shows change over time","A bar graph, since it compares categories","Neither works for this data","A graph is never useful for this data"], answer:0},
      {q:"A student wants to compare the favourite fruit choices of four different classes. Which graph type works best?", options:["Only a pie chart could show this","A bar graph, to compare quantities across categories","A line graph, to show change over time","Neither graph works for this"], answer:1},
@@ -987,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Adaptations of Living Things", summary:"Adaptations are special features or behaviours that help living things survive in their environment.",
    resourceLabel:"YouTube: Adaptations of Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Adaptations%20of%20Living%20Things%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m2MibjJgyjs",
    quiz:[
      {q:"A desert fox has unusually large ears compared to other foxes. What is the LIKELY purpose of this adaptation?", options:["To help release excess body heat in a hot climate","To store water","To help it hear better only, unrelated to climate","To make it look different for no reason"], answer:0},
      {q:"Why would a fish's gills NOT be useful for a land mammal?", options:["Land mammals also breathe through gills","Adaptations always transfer between environments","Gills work equally well in water and air","Gills work in water, not air"], answer:3},
@@ -996,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Local Government and Your Municipality", summary:"Local (municipal) governments make decisions about community services like roads, parks, libraries, and waste collection.",
    resourceLabel:"YouTube: Local Government and Your Municipality", resourceUrl:"https://www.youtube.com/results?search_query=Local%20Government%20and%20Your%20Municipality%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"Why might a municipal government be better suited than the federal government to decide on local speed limits?", options:["Speed limits are set internationally","Municipal governments understand and respond to specific local community needs","Local governments have no authority over roads","The federal government makes all decisions about every city"], answer:1},
      {q:"A city council votes to build a new public library. Which level of government would MOST likely make this decision?", options:["Municipal government","Federal government only","No government decides this","International organizations"], answer:0},

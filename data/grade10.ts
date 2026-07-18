@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Reading and Writing: Synthesis Task", summary:"Students read two or three related texts on a contemporary issue and write a synthesis essay that integrates ideas across sources with an original argument.",
    resourceLabel:"YouTube: Reading and Writing: Synthesis Task", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20and%20Writing%3A%20Synthesis%20Task%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SUXM8wN206E",
    quiz:[
      {q:"Synthesising sources means ___.", options:["summarising each source separately","copying from all sources equally","building an argument across sources","using only one source at a time"], answer:2},
      {q:"A synthesis essay differs from a research essay in that ___.", options:["it uses no sources","it requires original research","it connects sources, not new research","it is always shorter"], answer:2},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry Extension: Sine and Cosine Graphs", summary:"Students explore the graphs of y = sinx and y = cosx, identifying amplitude, period, phase shift, and vertical shift for transformations.",
    resourceLabel:"YouTube: Trigonometry Extension: Sine and Cosine Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Trigonometry%20Extension%3A%20Sine%20and%20Cosine%20Graphs%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=v4eUxyMip0c",
    quiz:[
      {q:"The period of y = sinx is ___.", options:["360° (or 2π radians)","720°","180°","90°"], answer:0},
      {q:"The amplitude of y = 3sin(x) is ___.", options:["3 — max displacement from midline","9","1/3","1"], answer:0},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Modern Physics Concepts", summary:"Students are introduced to key modern physics concepts: quantum theory, the photoelectric effect, the wave-particle duality of light, and relativistic effects.",
    resourceLabel:"YouTube: Physics: Modern Physics Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Physics%3A%20Modern%20Physics%20Concepts%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZAqIoDhornk",
    quiz:[
      {q:"The photoelectric effect showed that ___.", options:["light behaves as particles (photons)","electricity can produce light","light is purely a wave","electrons have no mass"], answer:0},
      {q:"Wave-particle duality means ___.", options:["only light has this duality","all objects behave this way at human scale","objects show wave and particle traits","waves and particles are unrelated"], answer:2},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Historical Thinking: Applying Concepts", summary:"Students apply the six historical thinking concepts to a contemporary Canadian issue, demonstrating the relevance of historical reasoning to present-day problems.",
    resourceLabel:"YouTube: Historical Thinking: Applying Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Historical%20Thinking%3A%20Applying%20Concepts%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=426r5-jkGnY",
    quiz:[
      {q:"Applying historical significance to a contemporary issue means asking ___.", options:["why does it matter, and who's affected?","is this in the news?","is this event recent?","how many people are affected?"], answer:0},
      {q:"Using cause and consequence thinking about climate policy means ___.", options:["assuming one cause","only considering future consequences","only looking at economic causes","tracing causes and effects broadly"], answer:3},
@@ -976,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exam Readiness: Problem Solving and Communication", summary:"Students practise explaining their mathematical reasoning clearly in writing — an essential skill for senior math assessments.",
    resourceLabel:"YouTube: Exam Readiness: Problem Solving and Communication", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Readiness%3A%20Problem%20Solving%20and%20Communication%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=utXyHKcb9GM",
    quiz:[
      {q:"Mathematical communication means ___.", options:["only showing numerical steps","explaining your reasoning in words too","avoiding words in solutions","always using symbols only"], answer:1},
      {q:"When solving a word problem, the first step is ___.", options:["checking the answer first","drawing a picture","defining variables and the question","doing the calculation immediately"], answer:2},
@@ -985,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Career Connections", summary:"Students explore STEM careers and how Grade 10 science knowledge connects to post-secondary pathways and the workforce.",
    resourceLabel:"YouTube: Science: Career Connections", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Career%20Connections%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zaJ0ZpInjEk",
    quiz:[
      {q:"Environmental science careers connect to ___.", options:["only biology from Grade 10","biology, chemistry, and physics","only physics","only laboratory work"], answer:1},
      {q:"Biomedical engineering connects to ___.", options:["biology, physics, and chemistry","only physics","only chemistry","only medicine"], answer:0},
@@ -994,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Reflection: My Canada", summary:"Students write a personal reflection on what Canada means to them, connecting historical learning to personal identity and future citizenship commitments.",
    resourceLabel:"YouTube: Reflection: My Canada", resourceUrl:"https://www.youtube.com/results?search_query=Reflection%3A%20My%20Canada%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"A thoughtful reflection on Canadian identity should ___.", options:["remain neutral on all issues","only celebrate Canada","only criticise Canada","acknowledge achievements and failures"], answer:3},
      {q:"Canada's history of Indigenous dispossession, Japanese-Canadian internment, and racial exclusion in immigration policy teaches ___.", options:["that intentions don't stop injustice","that only some Canadians are responsible for the past","that these were unavoidable","that Canada has always been perfect"], answer:0},

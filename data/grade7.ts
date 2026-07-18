@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Analyzing Advertisements and Persuasive Media", summary:"Advertisements use persuasive techniques such as emotional appeals, testimonials, and bandwagon appeal to influence consumer choices.",
    resourceLabel:"YouTube: Analyzing Advertisements and Persuasive Media", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20Advertisements%20and%20Persuasive%20Media%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qQTrTiFbdSI",
    quiz:[
      {q:"Bandwagon appeal in advertising suggests that...", options:["No one else uses the product","The product has no benefits","The product is scientifically proven","You should buy something because everyone else is"], answer:3},
      {q:"A testimonial in an ad typically features...", options:["No people at all","Only statistics","A celebrity praising the product","A list of ingredients only"], answer:2},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Interest, Discounts, and Sales Tax Combined", summary:"Real-world financial calculations often require combining percentage concepts like discounts, sales tax, and interest in multi-step problems.",
    resourceLabel:"YouTube: Financial Literacy: Interest, Discounts, and Sales Tax Combined", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Interest%2C%20Discounts%2C%20and%20Sales%20Tax%20Combined%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RCSWEzr0H6o",
    quiz:[
      {q:"A $50 item is 20% off, then 13% sales tax is added. What is the final price (rounded)?", options:["$40.00","$56.50","$45.20","$50.00"], answer:2},
      {q:"If you borrow $200 at 4% simple interest for 2 years, how much interest will you pay?", options:["$80","$16","$8","$800"], answer:1},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetics and Inherited Traits (Intro)", summary:"Living things inherit traits from their parents through genes, which are passed down and combined in offspring.",
    resourceLabel:"YouTube: Genetics and Inherited Traits (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%20and%20Inherited%20Traits%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2reevjoVn6c",
    quiz:[
      {q:"Genes are passed from...", options:["Parents to offspring","Nowhere; they are random","Only mothers","The environment only"], answer:0},
      {q:"An inherited trait is a characteristic that is...", options:["Learned through practice","Random with no biological basis","Passed down genetically from parents","Always changed by environment alone"], answer:2},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Map Projections and Their Distortions", summary:"Map projections translate the curved surface of the Earth onto a flat map, which always introduces some distortion in shape, size, or distance.",
    resourceLabel:"YouTube: Map Projections and Their Distortions", resourceUrl:"https://www.youtube.com/results?search_query=Map%20Projections%20and%20Their%20Distortions%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IBYzeT2O97g",
    quiz:[
      {q:"Map projections are necessary because...", options:["The Earth is flat","The Earth is curved and maps are flat","Distances never matter","Maps need colour"], answer:1},
      {q:"The Mercator projection is known for distorting...", options:["Country names","The size of landmasses near the poles","Only ocean colours","Nothing at all"], answer:1},
@@ -966,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Using Active vs. Passive Voice", summary:"In active voice, the subject performs the action; in passive voice, the subject receives the action, which can make writing less direct.",
    resourceLabel:"YouTube: Using Active vs. Passive Voice", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Active%20vs.%20Passive%20Voice%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=W1_IRU6zx9g",
    quiz:[
      {q:"In active voice, the subject...", options:["Receives the action","Is always missing","Performs the action","Is never mentioned"], answer:2},
      {q:"'The ball was thrown by Sam' is an example of...", options:["Active voice","A command","Passive voice","A question"], answer:2},
@@ -975,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Venn Diagrams and Set Notation (Intro)", summary:"Venn diagrams visually represent sets and their relationships, including unions, intersections, and elements unique to each set.",
    resourceLabel:"YouTube: Venn Diagrams and Set Notation (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Venn%20Diagrams%20and%20Set%20Notation%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WHfef-NghN8",
    quiz:[
      {q:"The intersection of two sets includes...", options:["Elements found in both sets","Only elements in the first set","All elements everywhere","Elements found in neither set"], answer:0},
      {q:"The union of two sets includes...", options:["No elements","All elements from both sets combined","Only shared elements","Only elements not in either set"], answer:1},
@@ -984,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"States of Matter and Changes of State (Particle Model)", summary:"The particle model explains how particles behave differently in solids, liquids, and gases, and how energy causes changes of state.",
    resourceLabel:"YouTube: States of Matter and Changes of State (Particle Model)", resourceUrl:"https://www.youtube.com/results?search_query=States%20of%20Matter%20and%20Changes%20of%20State%20%28Particle%20Model%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2i0gv8btYBM",
    quiz:[
      {q:"In a solid, particles are...", options:["Nonexistent","Tightly packed and vibrate in place","Always moving randomly with no pattern","Far apart and moving freely"], answer:1},
      {q:"In a gas, particles...", options:["Cannot move at all","Are tightly packed","Move freely and are far apart","Are arranged in a fixed pattern"], answer:2},
@@ -993,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Economic Systems: Needs, Wants, Resources, and Trade", summary:"Economic systems organize how societies use limited resources to meet needs and wants, often relying on trade to access goods they cannot produce themselves.",
    resourceLabel:"YouTube: Economic Systems: Needs, Wants, Resources, and Trade", resourceUrl:"https://www.youtube.com/results?search_query=Economic%20Systems%3A%20Needs%2C%20Wants%2C%20Resources%2C%20and%20Trade%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5DJ7-d8zF_8",
    quiz:[
      {q:"A need is something...", options:["Required for survival","Never important","The same as a want","Always a luxury item"], answer:0},
      {q:"A want is something that...", options:["Is required for survival","Desired but not essential","Cannot be purchased","Is illegal to have"], answer:1},

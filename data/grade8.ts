@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Writing: Publishing and Sharing", summary:"Students select, polish, and present a piece of writing to a real or simulated audience. They understand the writing-to-publish process.",
    resourceLabel:"YouTube: Writing: Publishing and Sharing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Publishing%20and%20Sharing%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7x2e9DXYufM",
    quiz:[
      {q:"Publishing writing means ___.", options:["only digital publication","sharing completed work with an audience","submitting to a professional editor only","printing a book only"], answer:1},
      {q:"Choosing which piece to publish involves ___.", options:["always picking the longest piece","picking randomly","picking the first piece you wrote","picking what best shows your growth"], answer:3},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Solving Quadratic Equations (Introduction)", summary:"Students are introduced to quadratic equations in standard form (ax² + bx + c = 0). They solve simple cases by factoring.",
    resourceLabel:"YouTube: Algebra: Solving Quadratic Equations (Introduction)", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Solving%20Quadratic%20Equations%20%28Introduction%29%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PDIudNFEoGw",
    quiz:[
      {q:"A quadratic equation has a degree of ___.", options:["3","2","4","1"], answer:1},
      {q:"The standard form of a quadratic equation is ___.", options:["ax + b = 0","x² = c only","y = mx + b","ax² + bx + c = 0"], answer:3},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Climate Change Science", summary:"Students examine the evidence for climate change, the greenhouse effect, tipping points, and current mitigation and adaptation strategies.",
    resourceLabel:"YouTube: Environmental Science: Climate Change Science", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20Change%20Science%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Y1mPWVzaGQY",
    quiz:[
      {q:"The enhanced greenhouse effect refers to ___.", options:["glass buildings trapping heat","farmers growing more in greenhouses","humans amplifying the greenhouse effect","the natural greenhouse effect that makes Earth habitable"], answer:2},
      {q:"Climate tipping points are ___.", options:["thresholds for irreversible change","minor fluctuations","easily reversible changes","political decisions about emissions"], answer:0},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Future: Challenges and Opportunities", summary:"Students examine key challenges Canada faces in the 21st century: reconciliation, climate change, economic inequality, and democratic participation.",
    resourceLabel:"YouTube: Canada's Future: Challenges and Opportunities", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Challenges%20and%20Opportunities%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The most significant unresolved challenge in Canadian history for Indigenous peoples is ___.", options:["language differences only","already completely resolved","the ongoing legacy of colonialism","economic development only"], answer:2},
      {q:"Canada's climate commitments face challenges because ___.", options:["oil exports clash with climate targets","Canada already met all targets","Canada is too small to matter","climate change is not real"], answer:0},
@@ -966,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Reading: Poetry Analysis", summary:"Students closely analyse poems from different traditions and periods. They examine structure, diction, imagery, figurative language, and theme.",
    resourceLabel:"YouTube: Reading: Poetry Analysis", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Poetry%20Analysis%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-RqwPj_J_IU",
    quiz:[
      {q:"Close reading of a poem means ___.", options:["memorising it","examining words and structure closely","reading it as fast as possible","only identifying rhyme scheme"], answer:1},
      {q:"Enjambment in poetry is ___.", options:["a sentence spilling past the line's end","a type of metaphor","rhyming every two lines","a pause at the end of a line"], answer:0},
@@ -975,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Systems: Square Roots and Irrational Numbers", summary:"Students distinguish rational from irrational numbers, estimate square roots, and place them on a number line.",
    resourceLabel:"YouTube: Number Systems: Square Roots and Irrational Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Systems%3A%20Square%20Roots%20and%20Irrational%20Numbers%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wg4YXMe5ccs",
    quiz:[
      {q:"A rational number is ___.", options:["any number expressible as p/q","any square root","only whole numbers","a number that CANNOT be written as a fraction"], answer:0},
      {q:"An irrational number is ___.", options:["any large number","a fraction with an irrational denominator","any decimal","a decimal that never ends or repeats"], answer:3},
@@ -984,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems: Connecting Science Strands", summary:"Students explore how the four Grade 8 science strands connect — cells and systems, fluids and pressure, mechanical advantage, optics — within real engineering contexts.",
    resourceLabel:"YouTube: Systems: Connecting Science Strands", resourceUrl:"https://www.youtube.com/results?search_query=Systems%3A%20Connecting%20Science%20Strands%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7EtiXrJlh5c",
    quiz:[
      {q:"A kidney dialysis machine demonstrates ___.", options:["only electrical principles","fluid dynamics and cell biology","only optics","only mechanical advantage"], answer:1},
      {q:"A car's braking system demonstrates ___.", options:["cell biology","fluid dynamics and mechanical systems","genetic engineering","optics"], answer:1},
@@ -993,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Digital History: Canada's Information Age", summary:"Students examine how digital technology has transformed Canadian society, economy, and governance since the 1980s.",
    resourceLabel:"YouTube: Digital History: Canada's Information Age", resourceUrl:"https://www.youtube.com/results?search_query=Digital%20History%3A%20Canada%27s%20Information%20Age%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"The World Wide Web, invented by Tim Berners-Lee in 1989, transformed Canada by ___.", options:["reducing communication speed","having no major impact","enabling instant global communication","eliminating all printed media"], answer:2},
      {q:"Social media has affected Canadian democracy by ___.", options:["having no effect","enabling voice, but also misinformation","completely replacing traditional media","only improving political participation"], answer:1},

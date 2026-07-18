@@ -928,6 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Oral Literacy: Debate and Discussion", summary:"Students participate in structured debates and discussions. They learn to present arguments clearly, listen actively, ask probing questions, and respond respectfully to opposing views.",
    resourceLabel:"YouTube: Oral Literacy: Debate and Discussion", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Literacy%3A%20Debate%20and%20Discussion%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1TSkkxu8on0",
    quiz:[
      {q:"In a formal debate, the proposition side ___.", options:["argues in favour of the resolution","opposes the resolution","only listens","asks questions only"], answer:0},
      {q:"Listening actively during a debate means ___.", options:["attending closely to reply well","planning your rebuttal only","ignoring opposing points","waiting for your turn to speak only"], answer:0},
@@ -937,6 +938,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Mean, Median, Mode, Range", summary:"Students calculate and interpret mean, median, mode, and range for data sets and understand which measure is most appropriate in different contexts.",
    resourceLabel:"YouTube: Data: Mean, Median, Mode, Range", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Mean%2C%20Median%2C%20Mode%2C%20Range%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=e3uY2LraXts",
    quiz:[
      {q:"The mean is ___.", options:["the difference between the highest and lowest values","the most frequent value","the sum of all values divided by the number of values","the middle value"], answer:2},
      {q:"For the data set 3, 7, 7, 10, 13, the mode is ___.", options:["7","10","3","8"], answer:0},
@@ -946,6 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Optics: Lenses and the Eye", summary:"Students explore how convex and concave lenses refract light to form images, and how the eye uses a convex lens (the cornea and lens) to focus images on the retina.",
    resourceLabel:"YouTube: Optics: Lenses and the Eye", resourceUrl:"https://www.youtube.com/results?search_query=Optics%3A%20Lenses%20and%20the%20Eye%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XuDZdE_XrQM",
    quiz:[
      {q:"A convex lens ___.", options:["absorbs light only","diverges light rays outward","converges light rays to a focal point","has no effect on light"], answer:2},
      {q:"A concave lens ___.", options:["only reflects light","converges light rays","diverges light rays outward","has no effect"], answer:2},
@@ -955,6 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade and Economic Systems", summary:"Students explore mercantilism, the triangular trade, the Industrial Revolution's economic impact, and how trade systems shaped world history.",
    resourceLabel:"YouTube: Trade and Economic Systems", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Economic%20Systems%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5DJ7-d8zF_8",
    quiz:[
      {q:"Mercantilism was the belief that ___.", options:["trade benefits all countries equally","free trade is best","colonies exist for the mother country","industrial production should be shared"], answer:2},
      {q:"The Triangular Trade involved ___.", options:["only food and clothing","only European countries","trading enslaved Africans and goods","three equal partners trading peacefully"], answer:2},
@@ -966,6 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"Language", title:"Writing: Memoir", summary:"Students write a personal memoir — a piece of narrative non-fiction drawn from their own life experiences. They use vivid detail, reflection, and a clear focus.",
    resourceLabel:"YouTube: Writing: Memoir", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Memoir%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3gBbTamB9aM",
    quiz:[
      {q:"A memoir is ___.", options:["a fictional story about a historical figure","a true story reflecting on one's life","a report on current events","a biography written by someone else"], answer:1},
      {q:"What distinguishes a memoir from an autobiography?", options:["They are identical","A memoir covers one's entire life; an autobiography focuses on one event","An autobiography is fiction","A memoir focuses on a particular theme or period in the author's life, while an autobiography covers the whole life story"], answer:1},
@@ -975,6 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Area of Triangles and Parallelograms", summary:"Students apply the formulas for area of triangles (A = ½bh) and parallelograms (A = bh), and understand how these relate to rectangles.",
    resourceLabel:"YouTube: Geometry: Area of Triangles and Parallelograms", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Area%20of%20Triangles%20and%20Parallelograms%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=l9ZagUlu8T4",
    quiz:[
      {q:"The area formula for a parallelogram is ___.", options:["A = ½ × b × h","A = b × h","A = l × w","A = π × r²"], answer:1},
      {q:"The area formula for a triangle is ___.", options:["A = b × h","A = ½ × b × h","A = 2 × b × h","A = b + h"], answer:1},
@@ -984,6 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple and Complex Machines", summary:"Students revisit simple machines (lever, inclined plane, wheel-and-axle, pulley, wedge, screw) and examine how they combine in compound machines.",
    resourceLabel:"YouTube: Simple and Complex Machines", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20and%20Complex%20Machines%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"A screw is essentially ___.", options:["a type of pulley","a wheel-and-axle","an inclined plane wrapped in a spiral","a type of lever"], answer:2},
      {q:"A wedge is ___.", options:["a fixed pulley","a screw without threads","two inclined planes joined together","a type of wheel"], answer:2},
@@ -993,6 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Causes of World War I", summary:"Students explore the long- and short-term causes of WWI: militarism, alliances, imperialism, nationalism (MAIN), and the assassination of Archduke Franz Ferdinand.",
    resourceLabel:"YouTube: Causes of World War I", resourceUrl:"https://www.youtube.com/results?search_query=Causes%20of%20World%20War%20I%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BYmj1HXvU44",
    quiz:[
      {q:"The acronym MAIN summarises the long-term causes of WWI. It stands for ___.", options:["Military, Alliances, Imperialism, Nationalism","Motivation, Army, Industry, Nations","Manufacturing, Alliances, International, Nationalism","Military, Aggression, Independence, Neutrality"], answer:0},
      {q:"The immediate trigger for WWI was ___.", options:["Germany invading France","the sinking of the Lusitania","the Archduke's assassination","Britain declaring war on Germany"], answer:2},
