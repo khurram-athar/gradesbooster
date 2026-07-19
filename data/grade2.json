@@ -24223,5 +24223,3283 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compound Sentences: Joining Ideas with Or and So",
+        "summary": "Students learn that two related sentences can be joined into one compound sentence using the joining words or or so, such as combining You can walk and You can bike into You can walk or you can bike.",
+        "resourceLabel": "YouTube: Compound Sentences: Joining Ideas with Or and So",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Sentences%3A%20Joining%20Ideas%20with%20Or%20and%20So%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word can join two sentences to show a choice?",
+            "options": [
+              "A",
+              "Or",
+              "The",
+              "An"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word can join two sentences to show a result?",
+            "options": [
+              "So",
+              "Or",
+              "A",
+              "The"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly joins two ideas with so?",
+            "options": [
+              "It was cold wore I a coat so.",
+              "It was cold, so I wore a coat.",
+              "It was cold I wore a coat so.",
+              "So cold it was, I wore a coat."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer combine two short sentences into one compound sentence?",
+            "options": [
+              "It can make writing flow more smoothly",
+              "This concept has no connection to writing",
+              "Short sentences should never be combined",
+              "Combining sentences always makes writing confusing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly joins two ideas with or?",
+            "options": [
+              "Or juice milk have can you.",
+              "Juice milk or you can have you can have.",
+              "You can have juice or you can have milk.",
+              "You can have juice you can have milk or."
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a joining word that can combine two sentences, like or or so.",
+            "answers": [
+              "or",
+              "so"
+            ]
+          },
+          {
+            "prompt": "Join these ideas with so: It was raining. We stayed inside.",
+            "answers": [
+              "It was raining, so we stayed inside.",
+              "It was raining so we stayed inside"
+            ]
+          },
+          {
+            "prompt": "Does joining two related sentences with or or so make one longer sentence?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication Facts: 6s and 7s",
+        "summary": "Students practise and memorize multiplication facts for the 6 and 7 times tables, building on earlier work with the 2s, 3s, 4s, 5s, and 10s times tables.",
+        "resourceLabel": "YouTube: Multiplication Facts: 6s and 7s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%206s%20and%207s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 6 times 4?",
+            "options": [
+              "24",
+              "28",
+              "20",
+              "18"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 7 times 3?",
+            "options": [
+              "24",
+              "21",
+              "14",
+              "18"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 6 times 5?",
+            "options": [
+              "35",
+              "30",
+              "25",
+              "20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 7 times 5?",
+            "options": [
+              "35",
+              "25",
+              "40",
+              "30"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 6 times 7?",
+            "options": [
+              "35",
+              "42",
+              "48",
+              "36"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 6 times 3?",
+            "answers": [
+              "18",
+              "eighteen"
+            ]
+          },
+          {
+            "prompt": "What is 7 times 2?",
+            "answers": [
+              "14",
+              "fourteen"
+            ]
+          },
+          {
+            "prompt": "What is 6 times 6?",
+            "answers": [
+              "36",
+              "thirty-six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Skeleton and Joints: How We Bend and Move",
+        "summary": "Students learn that our skeleton is made of bones that support our body, and that joints, such as our elbows and knees, are the places where two bones meet and allow us to bend and move.",
+        "resourceLabel": "YouTube: Our Skeleton and Joints: How We Bend and Move",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Skeleton%20and%20Joints%3A%20How%20We%20Bend%20and%20Move%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the places where two bones meet?",
+            "options": [
+              "Veins",
+              "Muscles",
+              "Joints",
+              "Nerves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a joint in the body?",
+            "options": [
+              "The hair",
+              "The knee",
+              "The skin",
+              "The tongue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are joints important for how our body moves?",
+            "options": [
+              "Joints only exist to hold blood",
+              "Bones can bend anywhere without joints",
+              "They allow our bones to bend at certain points",
+              "Joints have no connection to movement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is our skeleton made of?",
+            "options": [
+              "Only blood",
+              "Bones",
+              "Only muscle",
+              "Only skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Our skeleton is best described as the structure that ___ our body.",
+            "options": [
+              "Feeds",
+              "Supports",
+              "Colours",
+              "Waters"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the places where two bones meet and allow us to bend?",
+            "answers": [
+              "joints"
+            ]
+          },
+          {
+            "prompt": "Name one joint in your body, like your elbow or knee.",
+            "answers": [
+              "elbow",
+              "knee"
+            ]
+          },
+          {
+            "prompt": "Does our skeleton help support our whole body?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Laws Are Made and Enforced",
+        "summary": "Students learn that laws are made by elected governments to keep people safe and treated fairly, and that police and courts help make sure laws are followed and enforced.",
+        "resourceLabel": "YouTube: How Laws Are Made and Enforced",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Laws%20Are%20Made%20and%20Enforced%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Who is responsible for making laws?",
+            "options": [
+              "Only children",
+              "Elected governments",
+              "No one at all",
+              "A single random citizen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these helps enforce laws in a community?",
+            "options": [
+              "Police officers",
+              "Bakers",
+              "Artists",
+              "Farmers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are laws important for a community?",
+            "options": [
+              "Laws have no real purpose",
+              "Laws only benefit one single person",
+              "They help keep people safe and treated fairly",
+              "Communities function better without any laws"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if a community had no laws at all?",
+            "options": [
+              "Nothing would change at all",
+              "People could be treated unfairly or unsafely",
+              "Laws have no connection to safety",
+              "Communities always run better without laws"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Courts help make sure that laws are ___.",
+            "options": [
+              "Followed fairly",
+              "Ignored completely",
+              "Written by only one person",
+              "Never enforced"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who helps make laws for a country or province?",
+            "answers": [
+              "government",
+              "elected government"
+            ]
+          },
+          {
+            "prompt": "Name one group that helps make sure laws are followed, like police or courts.",
+            "answers": [
+              "police",
+              "courts"
+            ]
+          },
+          {
+            "prompt": "Do laws help keep people safe and treated fairly?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Metaphors",
+        "summary": "Students learn that a metaphor describes one thing by saying it is another thing, without using like or as, such as saying the classroom was a zoo to describe a noisy room.",
+        "resourceLabel": "YouTube: Figurative Language: Metaphors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Figurative%20Language%3A%20Metaphors%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a metaphor?",
+            "options": [
+              "A sentence with no comparison at all",
+              "A comparison that always uses like or as",
+              "A type of punctuation mark",
+              "A comparison that says one thing is another thing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these sentences is a metaphor?",
+            "options": [
+              "The playground was a beehive of activity.",
+              "The playground was empty today.",
+              "The playground was as busy as a beehive.",
+              "The playground had many students."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the metaphor time is money suggest?",
+            "options": [
+              "Time can be spent like real coins",
+              "Time has no value at all",
+              "Money and time have no connection",
+              "Time is valuable, like money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a metaphor different from a simile?",
+            "options": [
+              "A simile never makes any comparison",
+              "A metaphor and a simile are exactly the same thing",
+              "A metaphor does not use like or as, while a simile does",
+              "A metaphor always uses like or as"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a metaphor in their writing?",
+            "options": [
+              "Metaphors are never used by authors",
+              "Metaphors make writing less interesting",
+              "Metaphors have no purpose in writing",
+              "To create a vivid picture in the readers mind"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does a metaphor use the words like or as?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What does the metaphor the classroom was a zoo suggest about the classroom?",
+            "answers": [
+              "it was noisy or chaotic",
+              "noisy"
+            ]
+          },
+          {
+            "prompt": "Is the sentence Her smile was as bright as the sun a metaphor or a simile?",
+            "answers": [
+              "simile"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Division Facts: Related to Multiplication",
+        "summary": "Students learn that division facts are closely related to multiplication facts, such as knowing that if 6 times 4 equals 24, then 24 divided by 6 equals 4.",
+        "resourceLabel": "YouTube: Division Facts: Related to Multiplication",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Division%20Facts%3A%20Related%20to%20Multiplication%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If 4 times 5 equals 20, what does 20 divided by 4 equal?",
+            "options": [
+              "5",
+              "20",
+              "10",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 3 times 6 equals 18, what does 18 divided by 3 equal?",
+            "options": [
+              "18",
+              "9",
+              "3",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 8 times 2 equals 16, what does 16 divided by 8 equal?",
+            "options": [
+              "8",
+              "4",
+              "2",
+              "16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing multiplication facts can help us solve ___ facts.",
+            "options": [
+              "Only fraction",
+              "Subtraction",
+              "Division",
+              "Addition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 9 times 3 equals 27, what does 27 divided by 9 equal?",
+            "options": [
+              "27",
+              "3",
+              "9",
+              "6"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If 6 times 4 equals 24, what does 24 divided by 6 equal?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If 5 times 3 equals 15, what does 15 divided by 5 equal?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If 7 times 2 equals 14, what does 14 divided by 7 equal?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Deserts: Life in a Dry Habitat",
+        "summary": "Students learn that a desert is a very dry habitat that gets little rain, and that plants and animals living there, such as cacti and camels, have special features to survive with little water.",
+        "resourceLabel": "YouTube: Deserts: Life in a Dry Habitat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Deserts%3A%20Life%20in%20a%20Dry%20Habitat%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of habitat is a desert?",
+            "options": [
+              "A very dry habitat with little rain",
+              "A cold, icy habitat",
+              "A very wet habitat with lots of rain",
+              "An underwater habitat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which plant is well known for surviving in the desert?",
+            "options": [
+              "Seaweed",
+              "Fern",
+              "Water lily",
+              "Cactus"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal is well known for surviving in the desert?",
+            "options": [
+              "Penguin",
+              "Polar bear",
+              "Camel",
+              "Whale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can cacti survive with very little water?",
+            "options": [
+              "This concept has no connection to desert survival",
+              "Cacti absorb water only from the air",
+              "Cacti never need any water at all",
+              "They can store water inside their thick stems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A desert is best described as a habitat that is ___.",
+            "options": [
+              "Underwater",
+              "Frozen year-round",
+              "Dry with little rainfall",
+              "Wet with lots of rainfall"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a desert habitat usually very dry or very wet?",
+            "answers": [
+              "very dry",
+              "dry"
+            ]
+          },
+          {
+            "prompt": "Name one plant that can survive in a desert, like a cactus.",
+            "answers": [
+              "cactus"
+            ]
+          },
+          {
+            "prompt": "Name one animal that can survive in a desert, like a camel.",
+            "answers": [
+              "camel"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Trade Between Countries: Imports and Exports",
+        "summary": "Students learn that countries trade goods with each other, sending exports to other countries and receiving imports from other countries, so people can access products not made locally.",
+        "resourceLabel": "YouTube: Trade Between Countries: Imports and Exports",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trade%20Between%20Countries%3A%20Imports%20and%20Exports%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are exports?",
+            "options": [
+              "Money a country never uses",
+              "Goods a country never sells",
+              "Goods a country only keeps for itself",
+              "Goods a country sends to another country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are imports?",
+            "options": [
+              "Money with no real value",
+              "Goods a country only sends away",
+              "Goods a country receives from another country",
+              "Goods that are never traded"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do countries trade goods with each other?",
+            "options": [
+              "To access products that may not be made locally",
+              "Countries never need goods from elsewhere",
+              "This concept has no connection to daily life",
+              "Trade has no benefit to any country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If Canada sends maple syrup to another country, is that an import or an export for Canada?",
+            "options": [
+              "Neither",
+              "Both at the same time",
+              "An export",
+              "An import"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Trading goods between countries is an example of ___.",
+            "options": [
+              "Ignoring other countries needs",
+              "Something that never actually happens",
+              "Working together to share resources",
+              "Countries refusing to work together"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call goods a country sends to another country?",
+            "answers": [
+              "exports"
+            ]
+          },
+          {
+            "prompt": "What do we call goods a country receives from another country?",
+            "answers": [
+              "imports"
+            ]
+          },
+          {
+            "prompt": "Does trade help countries access products not made locally?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Analogies: Comparing Word Relationships",
+        "summary": "Students learn that an analogy compares two pairs of words that share a similar relationship, such as hot is to cold as up is to down, both showing opposite pairs.",
+        "resourceLabel": "YouTube: Analogies: Comparing Word Relationships",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Analogies%3A%20Comparing%20Word%20Relationships%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an analogy?",
+            "options": [
+              "A single word with two meanings",
+              "A word with no meaning at all",
+              "A comparison of two pairs of words that share a relationship",
+              "A punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Complete the analogy: bird is to nest as bee is to ___.",
+            "options": [
+              "Burrow",
+              "Web",
+              "Hive",
+              "Den"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Complete the analogy: finger is to hand as toe is to ___.",
+            "options": [
+              "Arm",
+              "Foot",
+              "Ear",
+              "Head"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What relationship do the words puppy and dog share in an analogy about baby animals and adult animals?",
+            "options": [
+              "A puppy and dog are the same age",
+              "A puppy is unrelated to a dog",
+              "A puppy is bigger than a dog",
+              "A puppy is a baby dog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solving analogies helps students understand ___.",
+            "options": [
+              "Only how to spell words correctly",
+              "Only how to count numbers",
+              "Nothing useful about language",
+              "How words and ideas relate to each other"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the analogy hot is to cold as up is to ___, what word completes the pattern?",
+            "answers": [
+              "down"
+            ]
+          },
+          {
+            "prompt": "What kind of relationship do hot/cold and up/down share?",
+            "answers": [
+              "opposites",
+              "they are opposites"
+            ]
+          },
+          {
+            "prompt": "Is an analogy a way of comparing word relationships?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fact Family Triangles: Multiplication and Division",
+        "summary": "Students learn to use a fact family triangle, showing three related numbers, to see how one multiplication fact and its related division facts connect, such as 3, 4, and 12.",
+        "resourceLabel": "YouTube: Fact Family Triangles: Multiplication and Division",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20Family%20Triangles%3A%20Multiplication%20and%20Division%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In the fact family with 5, 6, and 30, what is 5 times 6?",
+            "options": [
+              "11",
+              "25",
+              "36",
+              "30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the fact family with 5, 6, and 30, what is 30 divided by 5?",
+            "options": [
+              "5",
+              "30",
+              "6",
+              "25"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the fact family with 7, 8, and 56, what is 56 divided by 8?",
+            "options": [
+              "56",
+              "7",
+              "48",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A fact family triangle shows how many related number facts?",
+            "options": [
+              "Four",
+              "Ten",
+              "Two",
+              "One"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fact family triangle uses three numbers to show connected ___ and ___ facts.",
+            "options": [
+              "Addition and subtraction",
+              "Time and money",
+              "Multiplication and division",
+              "Fraction and decimal"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the fact family with 3, 4, and 12, what is 3 times 4?",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "In the fact family with 3, 4, and 12, what is 12 divided by 4?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "In the fact family with 3, 4, and 12, what is 12 divided by 3?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rainforests: A Warm, Wet Habitat",
+        "summary": "Students learn that a rainforest is a warm, wet habitat that gets a huge amount of rain each year, supporting a great variety of plants and animals such as monkeys, parrots, and frogs.",
+        "resourceLabel": "YouTube: Rainforests: A Warm, Wet Habitat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rainforests%3A%20A%20Warm%2C%20Wet%20Habitat%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of habitat is a rainforest?",
+            "options": [
+              "A dry, sandy habitat",
+              "An underwater habitat only",
+              "A cold, icy habitat",
+              "A warm, wet habitat with lots of rain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal is well known for living in the rainforest?",
+            "options": [
+              "Polar bear",
+              "Monkey",
+              "Camel",
+              "Penguin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do rainforests support so many different plants and animals?",
+            "options": [
+              "Rainforests have no food or shelter at all",
+              "Very few living things can survive there",
+              "The warm, wet climate provides lots of food and shelter",
+              "Rainforests are always frozen solid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a feature of a rainforest?",
+            "options": [
+              "Deep ocean water covering the land",
+              "Ice covering the ground year-round",
+              "Sand dunes with almost no rain",
+              "Tall trees and lots of rainfall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A rainforest is best described as a habitat with a huge amount of ___.",
+            "options": [
+              "Sand",
+              "Snow",
+              "Ice",
+              "Rainfall"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a rainforest habitat usually warm and wet or cold and dry?",
+            "answers": [
+              "warm and wet",
+              "warm, wet"
+            ]
+          },
+          {
+            "prompt": "Name one animal that lives in the rainforest, like a monkey or parrot.",
+            "answers": [
+              "monkey",
+              "parrot",
+              "frog"
+            ]
+          },
+          {
+            "prompt": "Do rainforests support a great variety of plants and animals?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Confederation: How Canada Became a Country",
+        "summary": "Students learn that Canadian Confederation was the joining together of separate colonies in 1867 to form the country of Canada, with its own government to make decisions.",
+        "resourceLabel": "YouTube: Canadian Confederation: How Canada Became a Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What was Canadian Confederation?",
+            "options": [
+              "A war between two countries",
+              "A type of sporting event",
+              "A single citys founding",
+              "Separate colonies joining together to form the country of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year did Canadian Confederation take place?",
+            "options": [
+              "1900",
+              "1812",
+              "1867",
+              "1776"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happened to Canadas government after Confederation?",
+            "options": [
+              "Canada lost its ability to make any decisions",
+              "Canada gained its own government to make decisions",
+              "No government existed after Confederation",
+              "Another country took over completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Confederation an important event in Canadian history?",
+            "options": [
+              "It happened in a different country entirely",
+              "It only affected one small town",
+              "It has no connection to Canadian history",
+              "It marks when Canada became its own country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Confederation is best described as colonies joining to form ___.",
+            "options": [
+              "Two separate countries",
+              "No country at all",
+              "One country",
+              "A single small city"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In what year did Canadian Confederation happen?",
+            "answers": [
+              "1867"
+            ]
+          },
+          {
+            "prompt": "What word describes separate colonies joining together to form one country?",
+            "answers": [
+              "confederation"
+            ]
+          },
+          {
+            "prompt": "Did Canada gain its own government to make decisions after Confederation?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Proofreading Symbols: Marking Up Writing",
+        "summary": "Students learn simple proofreading symbols, such as a caret to add a missing word or a line through a word to remove it, used to mark corrections in a piece of writing.",
+        "resourceLabel": "YouTube: Proofreading Symbols: Marking Up Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Proofreading%20Symbols%3A%20Marking%20Up%20Writing%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a proofreading symbol used for?",
+            "options": [
+              "Colouring in a word",
+              "Marking corrections in a piece of writing",
+              "Erasing an entire page",
+              "Drawing a picture on a page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a caret symbol usually show in proofreading?",
+            "options": [
+              "A sentence should be deleted entirely",
+              "A missing word should be added there",
+              "A word should be made bigger",
+              "A word should be coloured"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does drawing a line through a word usually mean?",
+            "options": [
+              "The word should be repeated twice",
+              "The word should be removed",
+              "The word is spelled correctly",
+              "The word should be kept exactly as is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are proofreading symbols useful when editing writing?",
+            "options": [
+              "They are only used for drawing pictures",
+              "They have no real purpose in writing",
+              "They make writing harder to understand",
+              "They help writers quickly mark exact corrections"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using proofreading symbols is part of the writing step called ___.",
+            "options": [
+              "Ignoring mistakes",
+              "Publishing only",
+              "Drawing",
+              "Editing"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What symbol is often used to show a missing word should be added?",
+            "answers": [
+              "caret"
+            ]
+          },
+          {
+            "prompt": "What can a line through a word show a writer should do?",
+            "answers": [
+              "remove it",
+              "delete it"
+            ]
+          },
+          {
+            "prompt": "Do proofreading symbols help writers mark corrections in their writing?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Angles: Right, Acute, and Obtuse",
+        "summary": "Students learn to identify three kinds of angles: a right angle, which looks like the corner of a square, an acute angle, which is smaller than a right angle, and an obtuse angle, which is larger.",
+        "resourceLabel": "YouTube: Measuring Angles: Right, Acute, and Obtuse",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Angles%3A%20Right%2C%20Acute%2C%20and%20Obtuse%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a right angle?",
+            "options": [
+              "An angle that looks like the corner of a square",
+              "An angle only found in circles",
+              "An angle that is always curved",
+              "An angle with no size at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these describes an acute angle?",
+            "options": [
+              "The same as a straight line",
+              "Smaller than a right angle",
+              "Exactly equal to a right angle",
+              "Larger than a right angle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these describes an obtuse angle?",
+            "options": [
+              "Larger than a right angle",
+              "Exactly equal to a right angle",
+              "The same as no angle at all",
+              "Smaller than a right angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shapes has four right angles?",
+            "options": [
+              "A triangle with all different angles",
+              "A circle",
+              "A square",
+              "A curved line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning to identify angles helps us describe ___.",
+            "options": [
+              "The smell of shapes",
+              "The corners of shapes",
+              "The weight of shapes",
+              "The colour of shapes"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of angle looks like the corner of a square?",
+            "answers": [
+              "right angle"
+            ]
+          },
+          {
+            "prompt": "Is an acute angle smaller or larger than a right angle?",
+            "answers": [
+              "smaller"
+            ]
+          },
+          {
+            "prompt": "Is an obtuse angle smaller or larger than a right angle?",
+            "answers": [
+              "larger"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Zones: Sunlight, Twilight, and Midnight",
+        "summary": "Students learn that the ocean has different zones based on depth and light, with the sunlit zone near the top, the twilight zone getting dim light, and the dark midnight zone far below.",
+        "resourceLabel": "YouTube: Ocean Zones: Sunlight, Twilight, and Midnight",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Zones%3A%20Sunlight%2C%20Twilight%2C%20and%20Midnight%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the sunlit zone of the ocean?",
+            "options": [
+              "The deepest, darkest zone",
+              "The top zone that gets the most sunlight",
+              "A zone with no water at all",
+              "A zone found only on land"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the twilight zone of the ocean?",
+            "options": [
+              "A middle zone that gets only dim light",
+              "A zone found only near the shore",
+              "The top zone with bright sunlight",
+              "The very deepest, completely dark zone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the midnight zone of the ocean?",
+            "options": [
+              "A zone that never has any water",
+              "The top zone with the brightest sunlight",
+              "A zone found only near the surface",
+              "The deepest zone, which is completely dark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does light decrease as you go deeper into the ocean?",
+            "options": [
+              "Water makes light brighter the deeper you go",
+              "The ocean has no connection to sunlight at all",
+              "Sunlight cannot travel very far through deep water",
+              "Sunlight always reaches every part of the ocean equally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The three ocean zones are organized based on their depth and ___.",
+            "options": [
+              "Amount of light",
+              "Water temperature only",
+              "Amount of sand",
+              "Number of fish"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the top ocean zone that gets the most sunlight?",
+            "answers": [
+              "sunlit zone"
+            ]
+          },
+          {
+            "prompt": "Does the twilight zone get bright sunlight or dim light?",
+            "answers": [
+              "dim light",
+              "dim"
+            ]
+          },
+          {
+            "prompt": "Is the midnight zone bright or completely dark?",
+            "answers": [
+              "completely dark",
+              "dark"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Non-Profit Organizations: Helping Communities in Need",
+        "summary": "Students learn that a non-profit organization is a group that works to help people or causes, such as a food bank or animal shelter, using donations instead of trying to earn a profit.",
+        "resourceLabel": "YouTube: Non-Profit Organizations: Helping Communities in Need",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Non-Profit%20Organizations%3A%20Helping%20Communities%20in%20Need%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a non-profit organization?",
+            "options": [
+              "A type of school subject",
+              "A store that only tries to earn money",
+              "A government building",
+              "A group that uses donations to help people or causes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a non-profit organization?",
+            "options": [
+              "A grocery store",
+              "A food bank",
+              "A car dealership",
+              "A toy factory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a non-profit organization usually get the resources it needs?",
+            "options": [
+              "By taking money from the government only",
+              "Non-profits never need any resources",
+              "Through donations from people in the community",
+              "By selling products for the highest possible price"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a community value having a non-profit organization like a food bank?",
+            "options": [
+              "Non-profits have no connection to community needs",
+              "Food banks never actually help anyone",
+              "This concept has no relevance to social studies",
+              "It helps people in the community who need food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Non-profit organizations are focused on helping others rather than ___.",
+            "options": [
+              "Earning a profit for themselves",
+              "Working together with volunteers",
+              "Serving their community",
+              "Collecting donations"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a group that helps people or causes using donations?",
+            "answers": [
+              "non-profit organization",
+              "non-profit"
+            ]
+          },
+          {
+            "prompt": "Name one example of a non-profit organization, like a food bank.",
+            "answers": [
+              "food bank",
+              "animal shelter"
+            ]
+          },
+          {
+            "prompt": "Does a non-profit organization try to earn money for itself, or help others?",
+            "answers": [
+              "help others"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Conflict: The Problem in a Story",
+        "summary": "Students learn that most stories have a conflict, a problem the main character must face and try to solve, which often drives the events of the story forward.",
+        "resourceLabel": "YouTube: Story Conflict: The Problem in a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Conflict%3A%20The%20Problem%20in%20a%20Story%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a story conflict?",
+            "options": [
+              "The colour of the book cover",
+              "The problem a main character must face and try to solve",
+              "The name of the illustrator",
+              "The title of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a story conflict?",
+            "options": [
+              "A character eats breakfast with no problems",
+              "A character is lost and must find their way home",
+              "A character reads a book quietly",
+              "A character has a calm, uneventful day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is conflict an important part of most stories?",
+            "options": [
+              "Conflict has no connection to how a story unfolds",
+              "Conflict only appears in the very last page",
+              "It often drives the events of the story forward",
+              "Stories are always better with no conflict at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "At the end of a story, what usually happens to the conflict?",
+            "options": [
+              "It has no ending at all",
+              "It disappears with no explanation at all",
+              "It always stays exactly the same",
+              "It is often solved or resolved"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Recognizing a storys conflict helps readers understand ___.",
+            "options": [
+              "Only the number of pages",
+              "Nothing about the story",
+              "Only the books price",
+              "What problem the character is trying to solve"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the problem a main character must face in a story?",
+            "answers": [
+              "conflict"
+            ]
+          },
+          {
+            "prompt": "Does a storys conflict often drive the events of the story forward?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If a character is lost in a forest and must find their way home, is that a story conflict?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Choosing the Best Graph to Show Information",
+        "summary": "Students learn to think about which type of graph, such as a bar graph, pictograph, or line plot, best shows a certain kind of information clearly.",
+        "resourceLabel": "YouTube: Data: Choosing the Best Graph to Show Information",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Choosing%20the%20Best%20Graph%20to%20Show%20Information%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which graph type uses pictures to show data?",
+            "options": [
+              "A number line",
+              "A pictograph",
+              "A line plot",
+              "A bar graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which graph type uses bars to compare different amounts?",
+            "options": [
+              "A pictograph",
+              "A bar graph",
+              "A calendar",
+              "A Venn diagram"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone choose a bar graph over a pictograph?",
+            "options": [
+              "A bar graph can more precisely show exact amounts",
+              "Bar graphs are never useful for showing data",
+              "The type of graph never actually matters",
+              "Pictographs always show more precise data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you wanted to show how many students chose each favourite colour, which graph could help?",
+            "options": [
+              "A bar graph",
+              "A blank page",
+              "A calendar",
+              "A single number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Choosing the best graph for data helps information become ___.",
+            "options": [
+              "Impossible to read",
+              "Completely hidden",
+              "Clearer and easier to understand",
+              "More confusing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which type of graph uses pictures to represent data?",
+            "answers": [
+              "pictograph"
+            ]
+          },
+          {
+            "prompt": "Which type of graph uses bars to compare amounts?",
+            "answers": [
+              "bar graph"
+            ]
+          },
+          {
+            "prompt": "Should the type of graph chosen depend on the kind of information being shown?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Compound Machines: Combining Simple Machines",
+        "summary": "Students learn that a compound machine is made by combining two or more simple machines, such as a wheelbarrow, which uses a wheel and axle together with a lever.",
+        "resourceLabel": "YouTube: Compound Machines: Combining Simple Machines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Machines%3A%20Combining%20Simple%20Machines%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a compound machine?",
+            "options": [
+              "A machine that never actually works",
+              "A type of animal",
+              "A machine with only one single part",
+              "A machine made by combining two or more simple machines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a compound machine?",
+            "options": [
+              "A single nail",
+              "A wheelbarrow",
+              "A single wheel with nothing else",
+              "A plain rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which simple machines combine to make a wheelbarrow work?",
+            "options": [
+              "Only a single pulley",
+              "A wheel and axle with a lever",
+              "Only a single screw",
+              "A magnet and a spring"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might combining simple machines create a more useful tool?",
+            "options": [
+              "Combining them can make certain tasks even easier to do",
+              "This concept has no connection to tools",
+              "Simple machines can never be combined",
+              "Combining machines always makes tasks harder"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A pair of scissors is a compound machine made of two combined ___.",
+            "options": [
+              "Wheels",
+              "Screws",
+              "Levers",
+              "Pulleys"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a machine made by combining two or more simple machines?",
+            "answers": [
+              "compound machine"
+            ]
+          },
+          {
+            "prompt": "Name one example of a compound machine, like a wheelbarrow.",
+            "answers": [
+              "wheelbarrow"
+            ]
+          },
+          {
+            "prompt": "Does a wheelbarrow combine a wheel and axle with a lever?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Natural Resources: What Canada Provides",
+        "summary": "Students learn that Canada has many natural resources, such as forests, fresh water, and minerals, which provide materials that people use and that support many jobs.",
+        "resourceLabel": "YouTube: Natural Resources: What Canada Provides",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Natural%20Resources%3A%20What%20Canada%20Provides%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are natural resources?",
+            "options": [
+              "Only objects made in a factory",
+              "Only items found in a store",
+              "Materials from nature that people use",
+              "Materials that do not exist in nature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a Canadian natural resource?",
+            "options": [
+              "Video games",
+              "Paved roads",
+              "Forests",
+              "Plastic toys"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do natural resources support jobs in Canada?",
+            "options": [
+              "Natural resources have no connection to any jobs",
+              "Many people work in industries that use these resources",
+              "No jobs exist because of natural resources",
+              "Natural resources only exist in other countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to use natural resources carefully?",
+            "options": [
+              "Careful use of resources has no benefit",
+              "Natural resources can never run out",
+              "So they remain available for the future",
+              "This concept has no relevance to Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Natural resources like forests and fresh water come directly from ___.",
+            "options": [
+              "Nature",
+              "Factories only",
+              "Imagination only",
+              "Stores only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes materials from nature that people use, like forests or water?",
+            "answers": [
+              "natural resources"
+            ]
+          },
+          {
+            "prompt": "Name one natural resource found in Canada, like forests or fresh water.",
+            "answers": [
+              "forests",
+              "fresh water",
+              "minerals"
+            ]
+          },
+          {
+            "prompt": "Do natural resources support many jobs in Canada?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Endings: Adding -tion and -ness",
+        "summary": "Students learn that adding -tion to some words can turn an action into a noun, like adding to inform to make information, and adding -ness can turn an adjective into a noun, like kind into kindness.",
+        "resourceLabel": "YouTube: Word Endings: Adding -tion and -ness",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Endings%3A%20Adding%20-tion%20and%20-ness%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does adding -ness to a word like kind create?",
+            "options": [
+              "No real word at all",
+              "Kindly, a different adjective",
+              "Kindness, a noun",
+              "Kinding, a verb"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does adding -tion to a word like inform create?",
+            "options": [
+              "Informed, a different verb form only",
+              "Information, a noun",
+              "No real word at all",
+              "Informly, an adverb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word means the state of being happy?",
+            "options": [
+              "Happiness",
+              "Happier",
+              "Happied",
+              "Happily"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Add -tion to the word educate. What new word do you make?",
+            "options": [
+              "Education",
+              "Educative",
+              "Educated",
+              "Educately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Adding endings like -tion and -ness often changes a word into a ___.",
+            "options": [
+              "Verb",
+              "Number",
+              "Noun",
+              "Question"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Add -ness to the word kind. What new word do you make?",
+            "answers": [
+              "kindness"
+            ]
+          },
+          {
+            "prompt": "Add -tion to the word inform. What new word do you make?",
+            "answers": [
+              "information"
+            ]
+          },
+          {
+            "prompt": "Does adding -ness to an adjective usually turn it into a noun?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Different Combinations for the Same Total",
+        "summary": "Students practise finding different combinations of coins and bills that add up to the same total amount of money, such as making 50 cents using different sets of coins.",
+        "resourceLabel": "YouTube: Money: Different Combinations for the Same Total",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Different%20Combinations%20for%20the%20Same%20Total%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which combination of coins could make exactly 25 cents?",
+            "options": [
+              "Two dimes",
+              "One penny",
+              "One nickel",
+              "One quarter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which combination of coins could make exactly 15 cents?",
+            "options": [
+              "One dime and one nickel",
+              "One nickel only",
+              "One quarter",
+              "Two pennies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you have 3 dimes, how many cents do you have in total?",
+            "options": [
+              "30",
+              "3",
+              "10",
+              "13"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might it be useful to know different ways to make the same total?",
+            "options": [
+              "There is never more than one way to make a total",
+              "This concept has no connection to money",
+              "Coins can only ever be combined in one way",
+              "It helps when paying with the coins you actually have"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Finding different coin combinations for the same total is an example of ___.",
+            "options": [
+              "Ignoring numbers completely",
+              "Flexible thinking with numbers",
+              "ForgETting how coins work",
+              "Avoiding math altogether"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name two different ways to make 10 cents using coins, like two nickels or ten pennies.",
+            "answers": [
+              "two nickels",
+              "ten pennies"
+            ]
+          },
+          {
+            "prompt": "If a nickel is 5 cents, how many nickels make 25 cents?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "Can two different combinations of coins add up to the exact same total?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Rock Cycle: Igneous, Sedimentary, and Metamorphic",
+        "summary": "Students learn that rocks can slowly change from one type to another over a very long time, forming igneous rock from cooled melted rock, sedimentary rock from layers of sediment, and metamorphic rock from heat and pressure.",
+        "resourceLabel": "YouTube: The Rock Cycle: Igneous, Sedimentary, and Metamorphic",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rock%20Cycle%3A%20Igneous%2C%20Sedimentary%2C%20and%20Metamorphic%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is igneous rock?",
+            "options": [
+              "Rock formed only from sand blowing in wind",
+              "Rock that never actually forms",
+              "Rock formed only underwater",
+              "Rock formed from cooled melted rock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is sedimentary rock?",
+            "options": [
+              "Rock formed only from ice",
+              "Rock that has no connection to layers",
+              "Rock formed from layers of sediment",
+              "Rock formed only from lava"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is metamorphic rock?",
+            "options": [
+              "Rock found only in the ocean",
+              "Rock that never changes at all",
+              "Rock changed by heat and pressure",
+              "Rock formed only from wind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is this process called a rock cycle?",
+            "options": [
+              "Rocks never change from one type to another",
+              "The rock cycle has no connection to time",
+              "Only one type of rock has ever existed",
+              "Rocks can slowly change from one type into another over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The rock cycle shows that rocks are always ___.",
+            "options": [
+              "Slowly changing over long periods of time",
+              "Exactly the same forever",
+              "Unrelated to one another",
+              "Disappearing completely with no trace"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one of the three main types of rock, like igneous, sedimentary, or metamorphic.",
+            "answers": [
+              "igneous",
+              "sedimentary",
+              "metamorphic"
+            ]
+          },
+          {
+            "prompt": "Does igneous rock form from cooled melted rock?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Does sedimentary rock form from layers of sediment?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Postal System: From Sender to Receiver",
+        "summary": "Students learn the steps a letter or package takes through the postal system, from being dropped off, sorted at a postal facility, and delivered by a carrier to its receiver.",
+        "resourceLabel": "YouTube: Our Postal System: From Sender to Receiver",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Postal%20System%3A%20From%20Sender%20to%20Receiver%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the postal system?",
+            "options": [
+              "A system that only sells groceries",
+              "A system that fights fires",
+              "A system with no real purpose",
+              "The system that collects, sorts, and delivers mail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a step in how mail travels?",
+            "options": [
+              "Being planted in a garden",
+              "Being sold at a store",
+              "Being cooked in an oven",
+              "Being sorted at a postal facility"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who helps deliver mail to its final receiver?",
+            "options": [
+              "A farmer",
+              "A dentist",
+              "A postal carrier",
+              "A firefighter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the postal system important for a community?",
+            "options": [
+              "It has no connection to communication",
+              "Mail never actually needs to be delivered",
+              "It helps people send and receive letters and packages",
+              "This concept has no relevance to communities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The postal system connects a sender to a ___.",
+            "options": [
+              "Receiver",
+              "A completely different country only",
+              "Random stranger",
+              "Nobody at all"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the system that collects, sorts, and delivers mail?",
+            "answers": [
+              "postal system"
+            ]
+          },
+          {
+            "prompt": "Name one step a letter takes, like being sorted or delivered.",
+            "answers": [
+              "sorted",
+              "delivered"
+            ]
+          },
+          {
+            "prompt": "Does a postal carrier help deliver mail to its receiver?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Formal and Informal Language: How We Talk in Different Places",
+        "summary": "Students learn that formal language, used in places like a classroom presentation, is more polite and careful, while informal language, used with friends, is more relaxed and casual.",
+        "resourceLabel": "YouTube: Formal and Informal Language: How We Talk in Different Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Formal%20and%20Informal%20Language%3A%20How%20We%20Talk%20in%20Different%20Places%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is formal language?",
+            "options": [
+              "Language only used with close friends",
+              "Polite and careful language used in serious situations",
+              "Language with no rules at all",
+              "A type of punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is informal language?",
+            "options": [
+              "Language only used in a courtroom",
+              "Relaxed, casual language used with friends",
+              "A kind of math equation",
+              "Language that is always written, never spoken"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which situation calls for formal language?",
+            "options": [
+              "Giving a presentation to the whole class",
+              "Joking around with a close friend",
+              "Playing a game with a sibling",
+              "Chatting with a best friend at recess"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which situation calls for informal language?",
+            "options": [
+              "Presenting a report to the class",
+              "Speaking at a formal event",
+              "Writing a serious letter to a mayor",
+              "Talking with a close friend at recess"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Choosing formal or informal language depends on ___.",
+            "options": [
+              "Only the time of day",
+              "Nothing at all",
+              "The situation and who you are talking to",
+              "Only the weather outside"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Would you use formal or informal language during a classroom presentation?",
+            "answers": [
+              "formal"
+            ]
+          },
+          {
+            "prompt": "Would you use formal or informal language chatting with a close friend?",
+            "answers": [
+              "informal"
+            ]
+          },
+          {
+            "prompt": "Is formal language usually more polite and careful than informal language?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Converting Hours to Minutes",
+        "summary": "Students learn that one hour is equal to 60 minutes, and practise converting between hours and minutes, such as figuring out that 2 hours equals 120 minutes.",
+        "resourceLabel": "YouTube: Time: Converting Hours to Minutes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Converting%20Hours%20to%20Minutes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many minutes are in 1 hour?",
+            "options": [
+              "60",
+              "30",
+              "100",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many minutes are in 3 hours?",
+            "options": [
+              "180",
+              "150",
+              "190",
+              "160"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many minutes are in half an hour?",
+            "options": [
+              "15",
+              "45",
+              "30",
+              "60"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an activity lasts 90 minutes, how many hours and minutes is that?",
+            "options": [
+              "1 hour and 30 minutes",
+              "90 hours",
+              "2 hours",
+              "1 hour and 90 minutes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Converting hours to minutes means multiplying the number of hours by ___.",
+            "options": [
+              "100",
+              "60",
+              "24",
+              "30"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many minutes are in 1 hour?",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          },
+          {
+            "prompt": "How many minutes are in 2 hours?",
+            "answers": [
+              "120",
+              "one hundred twenty"
+            ]
+          },
+          {
+            "prompt": "How many minutes are in half an hour?",
+            "answers": [
+              "30",
+              "thirty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Immune System: Fighting Off Germs",
+        "summary": "Students learn that our immune system is a team of body parts and cells that work together to fight off germs, helping us recover when we get sick.",
+        "resourceLabel": "YouTube: Our Immune System: Fighting Off Germs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Immune%20System%3A%20Fighting%20Off%20Germs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is our immune system?",
+            "options": [
+              "A part of our skeleton only",
+              "A single bone in our body",
+              "A type of food we eat",
+              "A team of body parts and cells that fight off germs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does our immune system help us do?",
+            "options": [
+              "Taste our food better",
+              "Grow taller every day",
+              "Fight off germs and recover when we get sick",
+              "See colours more clearly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these helps support a healthy immune system?",
+            "options": [
+              "Never washing our hands at all",
+              "Ignoring germs completely",
+              "Washing our hands and eating healthy food",
+              "Avoiding all healthy food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it helpful to rest when we are sick?",
+            "options": [
+              "Rest makes germs multiply faster",
+              "Resting helps our immune system fight off germs",
+              "Resting has no connection to getting better",
+              "Our immune system never needs any help"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Our immune system is best described as our bodys ___.",
+            "options": [
+              "Defense against germs",
+              "Least important system",
+              "Only decoration",
+              "System for tasting food"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the team of body parts and cells that fight off germs?",
+            "answers": [
+              "immune system"
+            ]
+          },
+          {
+            "prompt": "Does our immune system help us recover when we get sick?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Can washing our hands help stop germs from making us sick?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "City Planning: Designing Where We Live",
+        "summary": "Students learn that city planning involves deciding where to build homes, roads, parks, and schools, so that a community is organized and works well for the people who live there.",
+        "resourceLabel": "YouTube: City Planning: Designing Where We Live",
+        "resourceUrl": "https://www.youtube.com/results?search_query=City%20Planning%3A%20Designing%20Where%20We%20Live%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is city planning?",
+            "options": [
+              "A type of sport played outdoors",
+              "A rule about how to bake bread",
+              "A story written by an author",
+              "Deciding where to build homes, roads, parks, and schools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might a city planner help decide?",
+            "options": [
+              "Where a new park should be built",
+              "What clothes a person should wear",
+              "What a family should eat for dinner",
+              "What book a student should read"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is city planning important for a community?",
+            "options": [
+              "It helps organize a community so it works well for its people",
+              "Communities work better with absolutely no planning",
+              "City planning has no benefit to a community",
+              "This concept has no connection to daily life"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a city planner wants to reduce traffic near a school, what might they plan?",
+            "options": [
+              "A safer road design near the school",
+              "A brand new ocean nearby",
+              "A taller building far away",
+              "Nothing at all needs to be planned"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "City planning helps make sure a community has enough ___.",
+            "options": [
+              "Only roads and nothing else",
+              "Only homes and nothing else",
+              "No buildings of any kind",
+              "Homes, roads, parks, and schools"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call deciding where to build homes, roads, and parks in a community?",
+            "answers": [
+              "city planning"
+            ]
+          },
+          {
+            "prompt": "Name one thing city planners might decide the location of, like a park or school.",
+            "answers": [
+              "park",
+              "school",
+              "road"
+            ]
+          },
+          {
+            "prompt": "Does city planning help a community work well for the people who live there?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Skimming and Scanning: Reading Strategies for Finding Information",
+        "summary": "Students learn two reading strategies: skimming, which means quickly looking over a text to get its general idea, and scanning, which means quickly searching for a specific piece of information.",
+        "resourceLabel": "YouTube: Skimming and Scanning: Reading Strategies for Finding Information",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skimming%20and%20Scanning%3A%20Reading%20Strategies%20for%20Finding%20Information%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is skimming?",
+            "options": [
+              "Reading every single word very slowly",
+              "Quickly looking over a text to get its general idea",
+              "Memorizing an entire book word for word",
+              "Ignoring a text completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is scanning?",
+            "options": [
+              "Reading a book from cover to cover slowly",
+              "Colouring in the pictures of a book",
+              "Quickly searching for a specific piece of information",
+              "Writing a brand new story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which strategy would help you quickly find a phone number in a long list?",
+            "options": [
+              "Skimming",
+              "Scanning",
+              "Memorizing the entire list",
+              "Ignoring the list completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which strategy would help you get a general idea of what an article is about before reading it fully?",
+            "options": [
+              "Scanning",
+              "Skimming",
+              "Reading only the very last word",
+              "Skipping the article entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Skimming and scanning are useful reading strategies because they help readers ___.",
+            "options": [
+              "Make reading take much longer",
+              "Forget the topic of a text",
+              "Avoid reading altogether",
+              "Find information quickly and efficiently"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What reading strategy means quickly looking over a text to get its general idea?",
+            "answers": [
+              "skimming"
+            ]
+          },
+          {
+            "prompt": "What reading strategy means quickly searching for one specific piece of information?",
+            "answers": [
+              "scanning"
+            ]
+          },
+          {
+            "prompt": "Would scanning help you quickly find a specific date in a long article?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterns: Finding the Rule",
+        "summary": "Students learn to look at a number pattern, such as 3, 6, 9, 12, and figure out the rule that explains how each number connects to the next, such as add 3 each time.",
+        "resourceLabel": "YouTube: Patterns: Finding the Rule",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%3A%20Finding%20the%20Rule%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the rule for the pattern 2, 4, 6, 8?",
+            "options": [
+              "Add 2 each time",
+              "Add 4 each time",
+              "Subtract 2 each time",
+              "Multiply by 2 each time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the rule for the pattern 10, 20, 30, 40?",
+            "options": [
+              "Multiply by 10 each time",
+              "Add 10 each time",
+              "Add 5 each time",
+              "Subtract 10 each time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the rule add 4, what comes after 16 in the pattern 4, 8, 12, 16?",
+            "options": [
+              "18",
+              "24",
+              "22",
+              "20"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Finding the rule of a pattern helps us ___.",
+            "options": [
+              "Ignore the numbers entirely",
+              "Forget the whole pattern",
+              "Make the pattern completely random",
+              "Predict what number comes next"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the rule for the pattern 20, 17, 14, 11?",
+            "options": [
+              "Add 7 each time",
+              "Subtract 7 each time",
+              "Add 3 each time",
+              "Subtract 3 each time"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the pattern 3, 6, 9, 12, what is the rule?",
+            "answers": [
+              "add 3",
+              "add 3 each time"
+            ]
+          },
+          {
+            "prompt": "In the pattern 5, 10, 15, 20, what is the rule?",
+            "answers": [
+              "add 5",
+              "add 5 each time"
+            ]
+          },
+          {
+            "prompt": "Using the rule add 3, what comes after 12 in the pattern 3, 6, 9, 12?",
+            "answers": [
+              "15",
+              "fifteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemical and Physical Changes: How Matter Can Change",
+        "summary": "Students learn that a physical change, like tearing paper, changes how something looks without making a new substance, while a chemical change, like burning wood, creates a new substance entirely.",
+        "resourceLabel": "YouTube: Chemical and Physical Changes: How Matter Can Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chemical%20and%20Physical%20Changes%3A%20How%20Matter%20Can%20Change%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a physical change?",
+            "options": [
+              "A change only found in outer space",
+              "A change that never actually happens",
+              "A change that always creates a brand new substance",
+              "A change in how something looks, without creating a new substance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a chemical change?",
+            "options": [
+              "A change that never creates anything new",
+              "A change that only happens to liquids",
+              "A change that only affects the colour of an object",
+              "A change that creates a brand new substance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a physical change?",
+            "options": [
+              "Burning a piece of paper",
+              "Baking a cake",
+              "Tearing a piece of paper",
+              "Rusting metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a chemical change?",
+            "options": [
+              "Burning wood",
+              "Cutting a piece of string",
+              "Bending a paperclip",
+              "Folding paper"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Chemical changes are different from physical changes because they ___.",
+            "options": [
+              "Only change the size of an object",
+              "Only happen once a year",
+              "Create an entirely new substance",
+              "Never actually change anything"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does tearing a piece of paper create a new substance, or just change its shape?",
+            "answers": [
+              "just change its shape",
+              "change its shape"
+            ]
+          },
+          {
+            "prompt": "Does burning wood create a new substance?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What kind of change creates a brand new substance?",
+            "answers": [
+              "chemical change"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Global Citizenship: Being a Responsible World Citizen",
+        "summary": "Students learn that a global citizen thinks beyond their own community and considers how their actions, such as recycling or being kind to others, can affect people around the world.",
+        "resourceLabel": "YouTube: Global Citizenship: Being a Responsible World Citizen",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Global%20Citizenship%3A%20Being%20a%20Responsible%20World%20Citizen%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a global citizen?",
+            "options": [
+              "A person with no connection to other people",
+              "Someone who only thinks about their own street",
+              "Someone who considers how their actions affect people around the world",
+              "Someone who ignores every other country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an action a responsible global citizen might take?",
+            "options": [
+              "Ignoring people in other countries completely",
+              "Recycling to help protect the environment",
+              "Refusing to help anyone at all",
+              "Wasting resources on purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might recycling in your own community help the whole world?",
+            "options": [
+              "Recycling only ever affects one single street",
+              "This concept has no relevance to global citizenship",
+              "Recycling has no connection to the environment",
+              "Protecting the environment can benefit people everywhere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can being kind to newcomers show global citizenship?",
+            "options": [
+              "It shows care for people no matter where they come from",
+              "Global citizens should never be kind to newcomers",
+              "This concept only applies within one single country",
+              "Kindness has no connection to global citizenship"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Being a global citizen means caring about people ___.",
+            "options": [
+              "Only in your own house",
+              "Around the world, not just in your own community",
+              "Nowhere at all",
+              "Only in your own school"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes someone who thinks about how their actions affect the whole world?",
+            "answers": [
+              "global citizen"
+            ]
+          },
+          {
+            "prompt": "Name one action a global citizen might take, like recycling.",
+            "answers": [
+              "recycling",
+              "being kind to others"
+            ]
+          },
+          {
+            "prompt": "Can our actions in our own community affect people in other parts of the world?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing a Book Review: Sharing Your Opinion of a Book",
+        "summary": "Students learn to write a simple book review, sharing their opinion about a book they read, along with reasons for their opinion, such as liking the characters or the exciting plot.",
+        "resourceLabel": "YouTube: Writing a Book Review: Sharing Your Opinion of a Book",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Book%20Review%3A%20Sharing%20Your%20Opinion%20of%20a%20Book%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a book review?",
+            "options": [
+              "A list of every word in a book",
+              "A summary with no opinions at all",
+              "Writing that shares your opinion about a book, with reasons",
+              "A drawing of the book cover only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should a book review include reasons for your opinion?",
+            "options": [
+              "It helps explain why you feel that way about the book",
+              "Reasons are never needed in a review",
+              "This concept has no connection to writing",
+              "A review should never include any opinions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a reason in a book review?",
+            "options": [
+              "The book has one hundred pages",
+              "The book was published last year",
+              "I liked how brave the main character was",
+              "The book has a blue cover"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A book review is different from a summary because a review also includes ___.",
+            "options": [
+              "Only the exact same words from the book",
+              "Only the title of the book",
+              "Nothing extra at all",
+              "Your opinion and reasons"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Writing a book review can help other readers decide whether to ___.",
+            "options": [
+              "Read the book themselves",
+              "Avoid reading altogether",
+              "Never read any book again",
+              "Ignore the book completely"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of writing shares your opinion about a book you read?",
+            "answers": [
+              "book review"
+            ]
+          },
+          {
+            "prompt": "Should a book review include reasons that support your opinion?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one reason you might like a book, like exciting characters or an exciting plot.",
+            "answers": [
+              "exciting characters",
+              "exciting plot",
+              "interesting characters"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Products: Rounding Before Multiplying",
+        "summary": "Students learn to estimate the product of a multiplication problem by rounding one or both numbers to a friendly number first, making the multiplication easier to do quickly.",
+        "resourceLabel": "YouTube: Estimating Products: Rounding Before Multiplying",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Products%3A%20Rounding%20Before%20Multiplying%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "To estimate 4 times 11, what friendly number could 11 be rounded to?",
+            "options": [
+              "10",
+              "15",
+              "11",
+              "20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Using 4 times 10 as an estimate, what is a reasonable estimate for 4 times 11?",
+            "options": [
+              "40",
+              "44",
+              "400",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a reasonable estimate for 5 times 21?",
+            "options": [
+              "About 10",
+              "About 1000",
+              "About 100",
+              "About 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone estimate a product before finding the exact answer?",
+            "options": [
+              "Estimating has no connection to multiplication",
+              "An estimate is always exactly the same as the real answer",
+              "Estimating a product is never useful",
+              "An estimate can help check whether the exact answer is reasonable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Estimating products is a useful skill because it can help us ___.",
+            "options": [
+              "Replace the need for exact answers completely",
+              "Solve problems more quickly and check our work",
+              "Avoid learning multiplication facts",
+              "Make multiplication impossible to understand"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "To estimate 6 times 9, what friendly number could 9 be rounded to?",
+            "answers": [
+              "10"
+            ]
+          },
+          {
+            "prompt": "Using 6 times 10 as an estimate, what is a reasonable estimate for 6 times 9?",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          },
+          {
+            "prompt": "Is an estimate an exact answer or an approximate answer?",
+            "answers": [
+              "approximate answer",
+              "approximate"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biomes of the World: Comparing Different Habitats",
+        "summary": "Students learn that a biome is a large natural area with its own climate, plants, and animals, and that comparing biomes, like deserts, rainforests, and grasslands, shows how living things adapt to different conditions.",
+        "resourceLabel": "YouTube: Biomes of the World: Comparing Different Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biomes%20of%20the%20World%3A%20Comparing%20Different%20Habitats%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a biome?",
+            "options": [
+              "A kind of rock formation only",
+              "A type of ocean wave",
+              "A large natural area with its own climate, plants, and animals",
+              "A single tree found in a forest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a biome?",
+            "options": [
+              "A grocery store",
+              "A rainforest",
+              "A single classroom",
+              "A birthday party"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do animals in a desert biome look different from animals in an Arctic biome?",
+            "options": [
+              "Each biome has different conditions that animals must adapt to",
+              "Animals never adapt to their biome at all",
+              "All biomes have the exact same conditions",
+              "This concept has no connection to biomes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing different biomes helps scientists understand ___.",
+            "options": [
+              "How living things adapt to different environments",
+              "Only how one single biome works",
+              "Nothing useful about the natural world",
+              "Only the weather in one single place"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A biomes climate, plants, and animals are all closely ___.",
+            "options": [
+              "Impossible to compare",
+              "Completely unrelated",
+              "Connected to each other",
+              "Chosen at random"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes a large natural area with its own climate, plants, and animals?",
+            "answers": [
+              "biome"
+            ]
+          },
+          {
+            "prompt": "Name one example of a biome, like a desert or rainforest.",
+            "answers": [
+              "desert",
+              "rainforest",
+              "grassland"
+            ]
+          },
+          {
+            "prompt": "Do living things adapt differently depending on the biome they live in?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Comparing Rural, Urban, and Suburban Jobs",
+        "summary": "Students learn that the kinds of jobs people do can differ between rural areas, such as farming, urban areas, such as office work, and suburban areas, which often blend both kinds of jobs.",
+        "resourceLabel": "YouTube: Comparing Rural, Urban, and Suburban Jobs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Rural%2C%20Urban%2C%20and%20Suburban%20Jobs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which job is most common in a rural area?",
+            "options": [
+              "Farming",
+              "Skyscraper construction",
+              "Office work in a skyscraper",
+              "Subway operator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which job is more common in a busy urban area?",
+            "options": [
+              "Farming large fields",
+              "Herding livestock",
+              "Office work",
+              "Fishing on a small lake"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might job types differ between rural and urban areas?",
+            "options": [
+              "Each area has different land, resources, and population needs",
+              "This concept has no connection to communities",
+              "Rural and urban areas never have any differences",
+              "Job types are always exactly the same everywhere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might make suburban jobs unique compared to rural or urban jobs?",
+            "options": [
+              "Suburban areas never have any jobs at all",
+              "Suburban jobs are always identical to rural jobs",
+              "Suburban jobs have no connection to communities",
+              "They often blend features of both rural and urban work"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comparing jobs across rural, urban, and suburban areas helps us understand ___.",
+            "options": [
+              "That location has no effect on community life",
+              "That jobs never change based on location",
+              "How communities and their needs can differ",
+              "That every community is exactly the same"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one job common in a rural area, like farming.",
+            "answers": [
+              "farming"
+            ]
+          },
+          {
+            "prompt": "Name one job common in an urban area, like office work.",
+            "answers": [
+              "office work"
+            ]
+          },
+          {
+            "prompt": "Do suburban areas often blend jobs from both rural and urban areas?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Sentences, Figurative Language, and Reading Strategies",
+        "summary": "Students review recent Language skills: compound sentences, metaphors, analogies, proofreading symbols, story conflict, word endings, formal and informal language, skimming and scanning, and book reviews.",
+        "resourceLabel": "YouTube: Language Review: Sentences, Figurative Language, and Reading Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Sentences%2C%20Figurative%20Language%2C%20and%20Reading%20Strategies%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word can join two sentences to show a result?",
+            "options": [
+              "So",
+              "Or",
+              "The",
+              "A"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences is a metaphor?",
+            "options": [
+              "The playground had many students.",
+              "The playground was empty today.",
+              "The playground was as busy as a beehive.",
+              "The playground was a beehive of activity."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a caret symbol usually show in proofreading?",
+            "options": [
+              "A word should be coloured",
+              "A missing word should be added there",
+              "A word should be made bigger",
+              "A sentence should be deleted entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which situation calls for formal language?",
+            "options": [
+              "Chatting with a best friend at recess",
+              "Joking around with a close friend",
+              "Playing a game with a sibling",
+              "Giving a presentation to the whole class"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is skimming?",
+            "options": [
+              "Reading every single word very slowly",
+              "Quickly looking over a text to get its general idea",
+              "Ignoring a text completely",
+              "Memorizing an entire book word for word"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which word can join two sentences to show a choice?",
+            "answers": [
+              "or"
+            ]
+          },
+          {
+            "prompt": "What is a metaphor?",
+            "answers": [
+              "a comparison that says one thing is another thing",
+              "a comparison"
+            ]
+          },
+          {
+            "prompt": "What is a story conflict?",
+            "answers": [
+              "the problem a main character must face and try to solve",
+              "a problem"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Multiplication, Division, and Measurement",
+        "summary": "Students review recent Math skills: multiplication facts for 6s and 7s, division facts, fact family triangles, measuring angles, choosing graphs, coin combinations, converting time, patterns, and estimating products.",
+        "resourceLabel": "YouTube: Math Review: Multiplication, Division, and Measurement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Division%2C%20and%20Measurement%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 7 times 3?",
+            "options": [
+              "24",
+              "14",
+              "18",
+              "21"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the fact family with 5, 6, and 30, what is 30 divided by 5?",
+            "options": [
+              "30",
+              "25",
+              "6",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these describes an acute angle?",
+            "options": [
+              "Exactly equal to a right angle",
+              "Larger than a right angle",
+              "The same as a straight line",
+              "Smaller than a right angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the rule for the pattern 2, 4, 6, 8?",
+            "options": [
+              "Add 2 each time",
+              "Add 4 each time",
+              "Multiply by 2 each time",
+              "Subtract 2 each time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a reasonable estimate for 5 times 21?",
+            "options": [
+              "About 100",
+              "About 5",
+              "About 10",
+              "About 1000"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 6 times 3?",
+            "answers": [
+              "18",
+              "eighteen"
+            ]
+          },
+          {
+            "prompt": "If 6 times 4 equals 24, what does 24 divided by 6 equal?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "How many minutes are in 1 hour?",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Bodies, Habitats, and Matter",
+        "summary": "Students review recent Science topics: our skeleton and joints, deserts, rainforests, ocean zones, compound machines, the rock cycle, our immune system, chemical and physical changes, and biomes.",
+        "resourceLabel": "YouTube: Science Review: Bodies, Habitats, and Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Matter%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a joint in the body?",
+            "options": [
+              "The skin",
+              "The knee",
+              "The tongue",
+              "The hair"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is well known for living in the rainforest?",
+            "options": [
+              "Penguin",
+              "Monkey",
+              "Polar bear",
+              "Camel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is sedimentary rock?",
+            "options": [
+              "Rock that has no connection to layers",
+              "Rock formed from layers of sediment",
+              "Rock formed only from ice",
+              "Rock formed only from lava"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a chemical change?",
+            "options": [
+              "Burning wood",
+              "Folding paper",
+              "Cutting a piece of string",
+              "Bending a paperclip"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a biome?",
+            "options": [
+              "A kind of rock formation only",
+              "A single tree found in a forest",
+              "A type of ocean wave",
+              "A large natural area with its own climate, plants, and animals"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the places where two bones meet?",
+            "answers": [
+              "joints"
+            ]
+          },
+          {
+            "prompt": "What kind of habitat is a desert?",
+            "answers": [
+              "a very dry habitat with little rain",
+              "a dry habitat"
+            ]
+          },
+          {
+            "prompt": "What is our immune system?",
+            "answers": [
+              "a team of body parts and cells that fight off germs",
+              "fights off germs"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Laws, Trade, and Community Planning",
+        "summary": "Students review recent Social Studies topics: how laws are made, trade between countries, Canadian Confederation, non-profit organizations, natural resources, our postal system, city planning, global citizenship, and comparing jobs.",
+        "resourceLabel": "YouTube: Social Studies Review: Laws, Trade, and Community Planning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Laws%2C%20Trade%2C%20and%20Community%20Planning%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are exports?",
+            "options": [
+              "Goods a country never sells",
+              "Money a country never uses",
+              "Goods a country only keeps for itself",
+              "Goods a country sends to another country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a Canadian natural resource?",
+            "options": [
+              "Paved roads",
+              "Plastic toys",
+              "Video games",
+              "Forests"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is city planning?",
+            "options": [
+              "Deciding where to build homes, roads, parks, and schools",
+              "A rule about how to bake bread",
+              "A story written by an author",
+              "A type of sport played outdoors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a global citizen?",
+            "options": [
+              "Someone who only thinks about their own street",
+              "Someone who considers how their actions affect people around the world",
+              "A person with no connection to other people",
+              "Someone who ignores every other country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which job is most common in a rural area?",
+            "options": [
+              "Office work in a skyscraper",
+              "Farming",
+              "Skyscraper construction",
+              "Subway operator"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who is responsible for making laws?",
+            "answers": [
+              "elected governments",
+              "governments"
+            ]
+          },
+          {
+            "prompt": "What was Canadian Confederation?",
+            "answers": [
+              "separate colonies joining together to form the country of Canada",
+              "colonies joining together"
+            ]
+          },
+          {
+            "prompt": "What is a non-profit organization?",
+            "answers": [
+              "a group that uses donations to help people or causes",
+              "a group that helps people"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
