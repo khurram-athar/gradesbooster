@@ -24180,5 +24180,3283 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: oo in Book and Moon",
+        "summary": "Students learn that the letters oo can make two different sounds, a short sound as in book and foot, and a long sound as in moon and spoon.",
+        "resourceLabel": "YouTube: Vowel Teams: oo in Book and Moon",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oo%20in%20Book%20and%20Moon%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the short oo sound, like in book?",
+            "options": [
+              "Moon",
+              "Foot",
+              "Zoo",
+              "Spoon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the long oo sound, like in moon?",
+            "options": [
+              "Spoon",
+              "Foot",
+              "Wood",
+              "Book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The letters oo can make how many different sounds?",
+            "options": [
+              "One",
+              "Four",
+              "Three",
+              "Two"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the same oo sound as book?",
+            "options": [
+              "Room",
+              "Good",
+              "Food",
+              "Zoo"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing that oo can sound two different ways helps readers ___.",
+            "options": [
+              "Always guess without trying either sound",
+              "Skip every word with oo in it",
+              "Only ever use the long sound",
+              "Try both sounds until a word makes sense"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does the oo in book make a short sound or a long sound?",
+            "answers": [
+              "short sound",
+              "short"
+            ]
+          },
+          {
+            "prompt": "Does the oo in moon make a short sound or a long sound?",
+            "answers": [
+              "long sound",
+              "long"
+            ]
+          },
+          {
+            "prompt": "Name one more word with the long oo sound, like moon or spoon.",
+            "answers": [
+              "moon",
+              "spoon",
+              "soon",
+              "zoo"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 8s and 9s",
+        "summary": "Students practise skip counting forward by 8s and by 9s, extending earlier skip-counting work with smaller numbers to these larger jumps.",
+        "resourceLabel": "YouTube: Skip Counting by 8s and 9s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%208s%20and%209s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If you skip count by 8s, what comes after 8?",
+            "options": [
+              "9",
+              "10",
+              "18",
+              "16"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you skip count by 9s, what comes after 9?",
+            "options": [
+              "16",
+              "18",
+              "10",
+              "19"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you skip count by 8s starting at 8, what comes after 24?",
+            "options": [
+              "30",
+              "32",
+              "28",
+              "34"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Skip counting by 9s means adding ___ each time.",
+            "options": [
+              "9",
+              "1",
+              "10",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these numbers would you say while skip counting by 8s?",
+            "options": [
+              "32",
+              "30",
+              "34",
+              "33"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you skip count by 8s starting at 8, what comes after 16?",
+            "answers": [
+              "24",
+              "twenty-four"
+            ]
+          },
+          {
+            "prompt": "If you skip count by 9s starting at 9, what comes after 18?",
+            "answers": [
+              "27",
+              "twenty-seven"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 8 when skip counting by 8s?",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Layers of Soil: What Is Underground",
+        "summary": "Students learn that soil is made of different layers, with topsoil near the surface holding nutrients for plants, and deeper layers made mostly of rock and minerals.",
+        "resourceLabel": "YouTube: The Layers of Soil: What Is Underground",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Layers%20of%20Soil%3A%20What%20Is%20Underground%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is topsoil?",
+            "options": [
+              "A layer found only in the ocean",
+              "A kind of cloud",
+              "A type of animal",
+              "The top layer of soil where plants get nutrients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is topsoil usually found?",
+            "options": [
+              "Inside a volcano only",
+              "High in the sky",
+              "Deep in the ocean",
+              "Near the surface of the ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the deeper layers of soil mostly made of?",
+            "options": [
+              "Rock and minerals",
+              "Leaves and branches only",
+              "Clouds and rain",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is topsoil important for plants?",
+            "options": [
+              "It holds nutrients that plants need to grow",
+              "Topsoil has no connection to plants",
+              "Topsoil removes nutrients from plants",
+              "Plants never need soil to grow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Soil is best described as being made of ___.",
+            "options": [
+              "Only one single layer",
+              "Air only",
+              "Different layers",
+              "Water only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the top layer of soil where plants get nutrients?",
+            "answers": [
+              "topsoil"
+            ]
+          },
+          {
+            "prompt": "Is topsoil found near the surface or very deep underground?",
+            "answers": [
+              "near the surface",
+              "surface"
+            ]
+          },
+          {
+            "prompt": "Do the deeper layers of soil contain mostly rock and minerals?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Fire Department: Firefighters Keeping Us Safe",
+        "summary": "Students learn about the fire department, a community building where firefighters work, train, and keep their trucks and equipment ready to respond to emergencies.",
+        "resourceLabel": "YouTube: Our Fire Department: Firefighters Keeping Us Safe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Fire%20Department%3A%20Firefighters%20Keeping%20Us%20Safe%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a fire department?",
+            "options": [
+              "A place with no purpose in a community",
+              "A place where firefighters work and keep equipment ready",
+              "A place that delivers mail",
+              "A place that sells bread"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might you find at a fire department?",
+            "options": [
+              "A fire truck",
+              "A library book",
+              "A cash register",
+              "A mailbox"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do firefighters practise and train regularly?",
+            "options": [
+              "Practising has no connection to safety",
+              "So they are ready to respond quickly to emergencies",
+              "Firefighters never need to train",
+              "Training is not useful for firefighters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a fire department help a community?",
+            "options": [
+              "It only sells baked goods",
+              "It only delivers packages",
+              "It has no effect on community safety",
+              "It keeps people safe by responding to fires and emergencies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A fire department is an example of a place that provides ___ for a community.",
+            "options": [
+              "Entertainment only",
+              "Groceries",
+              "Safety",
+              "Mail service"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where do firefighters work, train, and keep their trucks ready?",
+            "answers": [
+              "fire department",
+              "firehall"
+            ]
+          },
+          {
+            "prompt": "Name one piece of equipment firefighters might use, like a hose or truck.",
+            "answers": [
+              "hose",
+              "truck",
+              "ladder"
+            ]
+          },
+          {
+            "prompt": "Do firefighters help keep our community safe?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Titles, Headings, and Bold Words",
+        "summary": "Students learn that non-fiction books often use text features, such as a title, headings, and bold words, to help readers find and understand important information.",
+        "resourceLabel": "YouTube: Text Features: Titles, Headings, and Bold Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Titles%2C%20Headings%2C%20and%20Bold%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the title of a book?",
+            "options": [
+              "A picture on the last page",
+              "The name that tells what the book is about",
+              "A list of every word in the book",
+              "The name of the reader"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do headings help readers do?",
+            "options": [
+              "Ignore the important information",
+              "Find and understand different sections of a book",
+              "Skip the entire book",
+              "Colour in the pictures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a word appear in bold print in a non-fiction book?",
+            "options": [
+              "To show that it is an important word or idea",
+              "It shows the word is a mistake",
+              "It means the word should be skipped",
+              "Bold print never has any meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a text feature found in non-fiction books?",
+            "options": [
+              "A dragon",
+              "A talking animal",
+              "A heading",
+              "A fairy godmother"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Text features like titles and headings help readers ___.",
+            "options": [
+              "Find information more easily",
+              "Get confused more easily",
+              "Forget the topic of the book",
+              "Avoid reading altogether"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What text feature usually appears at the very top of a book, naming what it is about?",
+            "answers": [
+              "title"
+            ]
+          },
+          {
+            "prompt": "What text feature helps break a book into smaller sections with labels?",
+            "answers": [
+              "heading",
+              "headings"
+            ]
+          },
+          {
+            "prompt": "Do bold words in a book often show an important word or idea?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 150: Reading Larger Numbers",
+        "summary": "Students extend their number sense beyond 100, learning to read, write, and count numbers up to 150 using their knowledge of tens and ones.",
+        "resourceLabel": "YouTube: Numbers to 150: Reading Larger Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20150%3A%20Reading%20Larger%20Numbers%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 109?",
+            "options": [
+              "100",
+              "119",
+              "111",
+              "110"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right after 139?",
+            "options": [
+              "141",
+              "149",
+              "140",
+              "130"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is greater, 145 or 154?",
+            "options": [
+              "They are equal",
+              "145",
+              "154",
+              "Cannot tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The number 150 has how many tens?",
+            "options": [
+              "1",
+              "15",
+              "50",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Reading numbers up to 150 builds on our understanding of ___.",
+            "options": [
+              "Only time",
+              "Tens and ones",
+              "Only colours",
+              "Only shapes"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 119?",
+            "answers": [
+              "120",
+              "one hundred twenty"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 149?",
+            "answers": [
+              "150",
+              "one hundred fifty"
+            ]
+          },
+          {
+            "prompt": "Is 132 greater than or less than 123?",
+            "answers": [
+              "greater than",
+              "greater"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Volcanoes: Mountains That Erupt",
+        "summary": "Students learn that a volcano is a mountain with an opening that can erupt, sending hot melted rock called lava, ash, and gas up from deep inside the Earth.",
+        "resourceLabel": "YouTube: Volcanoes: Mountains That Erupt",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Volcanoes%3A%20Mountains%20That%20Erupt%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a volcano?",
+            "options": [
+              "A mountain with an opening that can erupt",
+              "A kind of cloud",
+              "A type of ocean animal",
+              "A mountain made entirely of ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is lava?",
+            "options": [
+              "A kind of plant",
+              "A type of cloud",
+              "Hot melted rock that erupts from a volcano",
+              "Cold snow found on mountains"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does lava come from?",
+            "options": [
+              "Outer space",
+              "Deep inside the Earth",
+              "The bottom of the ocean only",
+              "High up in the sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Besides lava, what else can a volcano send into the air?",
+            "options": [
+              "Ash and gas",
+              "Only rain",
+              "Only snow",
+              "Only leaves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A volcano is best described as a mountain that can ___.",
+            "options": [
+              "Never change at all",
+              "Only produce snow",
+              "Erupt with lava, ash, and gas",
+              "Float in the ocean"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a mountain with an opening that can erupt?",
+            "answers": [
+              "volcano"
+            ]
+          },
+          {
+            "prompt": "What is the name for the hot melted rock that comes out of a volcano?",
+            "answers": [
+              "lava"
+            ]
+          },
+          {
+            "prompt": "Does lava come from deep inside the Earth?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Recycling Centres: Where Our Bottles and Cans Go",
+        "summary": "Students learn that a recycling centre is a place where materials like bottles, cans, and paper are collected and processed so they can be turned into new products.",
+        "resourceLabel": "YouTube: Recycling Centres: Where Our Bottles and Cans Go",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%20Centres%3A%20Where%20Our%20Bottles%20and%20Cans%20Go%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a recycling centre?",
+            "options": [
+              "A place that delivers letters",
+              "A place where materials are collected to be turned into new products",
+              "A place that fights fires",
+              "A place that sells fresh bread"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these materials might go to a recycling centre?",
+            "options": [
+              "A puddle of rainwater",
+              "A glass bottle",
+              "A fallen leaf",
+              "A banana peel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to materials after they are processed at a recycling centre?",
+            "options": [
+              "They are always destroyed",
+              "They are turned into new products",
+              "Nothing happens to them at all",
+              "They disappear completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is recycling helpful for our community and the Earth?",
+            "options": [
+              "It reduces waste and reuses materials instead of throwing them away",
+              "Recycling harms the environment",
+              "Recycling has no real purpose",
+              "Recycling creates more waste"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sorting recyclable materials is an example of ___.",
+            "options": [
+              "Wasting valuable resources",
+              "Caring for our environment",
+              "Harming our community",
+              "Ignoring our environment"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a place called where bottles, cans, and paper are collected to be reused?",
+            "answers": [
+              "recycling centre"
+            ]
+          },
+          {
+            "prompt": "Name one material that might be sent to a recycling centre, like a bottle.",
+            "answers": [
+              "bottle",
+              "can",
+              "paper"
+            ]
+          },
+          {
+            "prompt": "Can recycled materials be turned into new products?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Mood: How a Story Makes Us Feel",
+        "summary": "Students learn that a story can have a mood, or overall feeling, such as happy, scary, or calm, created by the words an author chooses and the events that happen.",
+        "resourceLabel": "YouTube: Story Mood: How a Story Makes Us Feel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Mood%3A%20How%20a%20Story%20Makes%20Us%20Feel%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the mood of a story?",
+            "options": [
+              "The number of pages in the book",
+              "The overall feeling the story gives its reader",
+              "The colour of the book cover",
+              "The name of the main character"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words might describe a scary story mood?",
+            "options": [
+              "Sunny",
+              "Spooky",
+              "Silly",
+              "Cheerful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does an author often create a storys mood?",
+            "options": [
+              "Mood is only shown through pictures, never words",
+              "By choosing certain words and describing certain events",
+              "Mood has no connection to the words in a story",
+              "Authors never think about mood at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A story about a birthday party with balloons and cake most likely has a ___ mood.",
+            "options": [
+              "Scary",
+              "Gloomy",
+              "Frightening",
+              "Happy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Recognizing a storys mood helps readers understand ___.",
+            "options": [
+              "Nothing about the story",
+              "Only the authors name",
+              "How the story is meant to feel",
+              "Only the page numbers"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the overall feeling a story gives its reader?",
+            "answers": [
+              "mood"
+            ]
+          },
+          {
+            "prompt": "Would a story about a spooky, dark forest likely have a scary mood or a happy mood?",
+            "answers": [
+              "scary mood",
+              "scary"
+            ]
+          },
+          {
+            "prompt": "Can the words an author chooses help create a storys mood?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Recognizing a Whole",
+        "summary": "Students learn that a whole is one complete object or shape, and that understanding a whole helps them make sense of fractions like halves and quarters, which are parts of that whole.",
+        "resourceLabel": "YouTube: Fractions: Recognizing a Whole",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Recognizing%20a%20Whole%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a whole?",
+            "options": [
+              "Only a quarter of an object",
+              "Only half of an object",
+              "One complete object or shape",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a sandwich is cut into 2 equal pieces, do both pieces together make one whole sandwich?",
+            "options": [
+              "Cannot tell",
+              "Only one piece is needed",
+              "Yes",
+              "No"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is larger, a whole orange or half of that same orange?",
+            "options": [
+              "They are the same size",
+              "Half of the orange",
+              "Cannot tell",
+              "A whole orange"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Understanding a whole helps us understand fractions because fractions describe ___.",
+            "options": [
+              "Shapes with no size at all",
+              "Numbers with no connection to wholes",
+              "Only whole numbers",
+              "Equal parts of a whole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you put all the equal slices of a cut pizza back together, what do you get?",
+            "options": [
+              "Half a pizza",
+              "The whole pizza",
+              "A different food entirely",
+              "No pizza at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call one complete object or shape before it is divided?",
+            "answers": [
+              "whole",
+              "a whole"
+            ]
+          },
+          {
+            "prompt": "If a pizza is cut into 4 equal slices, do all 4 slices together make one whole pizza?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is a whole apple bigger or smaller than half an apple?",
+            "answers": [
+              "bigger"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earthquakes: When the Ground Shakes",
+        "summary": "Students learn that an earthquake happens when the ground suddenly shakes because of movement deep underground, and that scientists study earthquakes to help keep people safe.",
+        "resourceLabel": "YouTube: Earthquakes: When the Ground Shakes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earthquakes%3A%20When%20the%20Ground%20Shakes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A kind of ocean wave only",
+              "A type of rainstorm",
+              "A sudden shaking of the ground",
+              "A cloud formation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes an earthquake?",
+            "options": [
+              "Movement of clouds in the sky",
+              "Movement deep underground",
+              "Animals running on the surface",
+              "Wind blowing very hard"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study earthquakes?",
+            "options": [
+              "Studying earthquakes has no benefit",
+              "Scientists never study earthquakes",
+              "To help keep people safe",
+              "Earthquakes are not worth studying"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might happen during a strong earthquake?",
+            "options": [
+              "Buildings and the ground can shake",
+              "Every ocean disappears",
+              "Nothing at all changes",
+              "The sky always turns bright green"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Earthquakes are best described as sudden ___.",
+            "options": [
+              "Growth of new plants",
+              "Changes in ocean colour",
+              "Shaking of the ground",
+              "Rainfall from clouds"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What natural event happens when the ground suddenly shakes?",
+            "answers": [
+              "earthquake"
+            ]
+          },
+          {
+            "prompt": "Does an earthquake happen because of movement deep underground?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Do scientists study earthquakes to help keep people safe?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "City Hall: Where Local Leaders Work",
+        "summary": "Students learn that city hall is a building where local leaders, such as a mayor and council members, work together to make decisions that help their town or city.",
+        "resourceLabel": "YouTube: City Hall: Where Local Leaders Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=City%20Hall%3A%20Where%20Local%20Leaders%20Work%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is city hall?",
+            "options": [
+              "A place that delivers mail",
+              "A building where local leaders work to help their town or city",
+              "A place that sells groceries",
+              "A place with no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who might work at city hall?",
+            "options": [
+              "A mayor and council members",
+              "Only firefighters",
+              "Only bakers",
+              "Only postal workers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of decisions might leaders at city hall make?",
+            "options": [
+              "Decisions that help the whole community",
+              "Decisions about only one persons house",
+              "Decisions about outer space",
+              "No decisions of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is city hall an important building in a community?",
+            "options": [
+              "It only stores old books",
+              "It is where local leaders work to help the community",
+              "It has no real importance",
+              "It is only used for baking"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "City hall helps a community in a similar way to how a principal helps a ___.",
+            "options": [
+              "Ocean",
+              "Desert",
+              "School",
+              "Forest"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the building where local leaders work to help a town or city?",
+            "answers": [
+              "city hall"
+            ]
+          },
+          {
+            "prompt": "Name one person who might work at city hall, like a mayor.",
+            "answers": [
+              "mayor",
+              "council member"
+            ]
+          },
+          {
+            "prompt": "Do leaders at city hall make decisions that help their community?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Endings: Adding -ful and -less",
+        "summary": "Students learn that adding -ful to a word often means full of something, like helpful meaning full of help, while adding -less often means without something, like helpless meaning without help.",
+        "resourceLabel": "YouTube: Word Endings: Adding -ful and -less",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Endings%3A%20Adding%20-ful%20and%20-less%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does adding -ful to a word usually mean?",
+            "options": [
+              "After something",
+              "Before something",
+              "Full of something",
+              "Without something"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does adding -less to a word usually mean?",
+            "options": [
+              "Without something",
+              "Only a little",
+              "Full of something",
+              "Twice as much"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means full of care?",
+            "options": [
+              "Careful",
+              "Caring only",
+              "Carer",
+              "Careless"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means without care?",
+            "options": [
+              "Careful",
+              "Caring only",
+              "Carer",
+              "Careless"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Add -ful to the word joy. What new word do you make?",
+            "options": [
+              "Joyless",
+              "Joyful",
+              "Joying",
+              "Joyed"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Add -ful to the word help. What new word do you make?",
+            "answers": [
+              "helpful"
+            ]
+          },
+          {
+            "prompt": "Add -less to the word help. What new word do you make?",
+            "answers": [
+              "helpless"
+            ]
+          },
+          {
+            "prompt": "Does the ending -ful usually mean full of something or without something?",
+            "answers": [
+              "full of something",
+              "full of"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring with Non-Standard Units: Paper Clips and Cubes",
+        "summary": "Students practise measuring the length of objects using non-standard units, such as paper clips or connecting cubes, lining them up end to end and counting how many fit.",
+        "resourceLabel": "YouTube: Measuring with Non-Standard Units: Paper Clips and Cubes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20with%20Non-Standard%20Units%3A%20Paper%20Clips%20and%20Cubes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When measuring length with paper clips, how should they be placed?",
+            "options": [
+              "End to end with no gaps",
+              "Stacked on top of each other",
+              "Scattered randomly",
+              "Placed far apart"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a crayon measures 4 cubes long and a marker measures 7 cubes long, which is longer?",
+            "options": [
+              "The marker",
+              "They are equal",
+              "Cannot tell",
+              "The crayon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might two people get slightly different measurements using paper clips of different sizes?",
+            "options": [
+              "Measuring length never gives different results",
+              "All paper clips are always the exact same size",
+              "This concept has no connection to measurement",
+              "Non-standard units like paper clips can vary in size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a non-standard unit of measurement?",
+            "options": [
+              "A centimetre",
+              "A paper clip",
+              "A kilometre",
+              "A metre"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Measuring with non-standard units like cubes helps us understand the idea of ___ before using rulers.",
+            "options": [
+              "Colour",
+              "Sound",
+              "Length",
+              "Taste"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If a pencil is 6 paper clips long, how many paper clips did you count?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "When measuring with paper clips, should they be lined up end to end with no gaps?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If a book is longer than a pencil, will it need more or fewer paper clips to measure?",
+            "answers": [
+              "more"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Coral Reefs: Colourful Ocean Habitats",
+        "summary": "Students learn that a coral reef is a colourful underwater habitat built by tiny living creatures called coral, providing a home for many different kinds of fish and sea animals.",
+        "resourceLabel": "YouTube: Coral Reefs: Colourful Ocean Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Coral%20Reefs%3A%20Colourful%20Ocean%20Habitats%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a coral reef?",
+            "options": [
+              "A kind of desert",
+              "A mountain found on land",
+              "A colourful underwater habitat built by coral",
+              "A type of cloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "Trees growing underwater",
+              "Tiny living creatures called coral",
+              "Ice from the Arctic",
+              "Large rocks that fall from mountains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where is a coral reef found?",
+            "options": [
+              "In the sky",
+              "In a desert",
+              "Underwater in the ocean",
+              "On top of a mountain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are coral reefs important to ocean life?",
+            "options": [
+              "Coral reefs have no connection to ocean animals",
+              "No animals ever live near a coral reef",
+              "They provide a home for many different fish and sea animals",
+              "Coral reefs only exist on dry land"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A coral reef is best described as a colourful ___.",
+            "options": [
+              "Cloud formation",
+              "Underwater habitat",
+              "Mountain habitat",
+              "Desert habitat"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tiny living creatures build a coral reef?",
+            "answers": [
+              "coral"
+            ]
+          },
+          {
+            "prompt": "Is a coral reef found on land or underwater?",
+            "answers": [
+              "underwater"
+            ]
+          },
+          {
+            "prompt": "Do coral reefs provide a home for many fish and sea animals?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Indigenous Traditions: Storytelling and the Land",
+        "summary": "Students learn that Indigenous Peoples in Canada have long traditions of storytelling passed down through generations, along with deep knowledge and respect for the land.",
+        "resourceLabel": "YouTube: Indigenous Traditions: Storytelling and the Land",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Indigenous%20Traditions%3A%20Storytelling%20and%20the%20Land%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is storytelling?",
+            "options": [
+              "A rule about traffic safety",
+              "A type of building",
+              "A kind of food",
+              "Sharing stories, often passed down through generations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do storytelling traditions often help pass down?",
+            "options": [
+              "Nothing of importance",
+              "Rules about driving cars",
+              "Only made-up nonsense",
+              "Knowledge, history, and values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do many Indigenous cultures view the land?",
+            "options": [
+              "With deep knowledge and respect",
+              "With no connection at all",
+              "As unimportant",
+              "As something to ignore completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable to learn about Indigenous storytelling traditions?",
+            "options": [
+              "This concept has no relevance to Canada",
+              "Storytelling has no connection to culture",
+              "These traditions have no value to learn about",
+              "It helps us understand and respect Indigenous history and culture"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Indigenous Peoples have lived in Canada for a very long time, with traditions that connect them to ___.",
+            "options": [
+              "The land and their communities",
+              "Only modern cities",
+              "Only other countries",
+              "Nothing at all"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes stories passed down through generations?",
+            "answers": [
+              "storytelling",
+              "traditions"
+            ]
+          },
+          {
+            "prompt": "Do Indigenous Peoples in Canada have deep knowledge and respect for the land?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Are storytelling traditions an important part of Indigenous cultures?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Comparing Two Stories: How They Are Alike and Different",
+        "summary": "Students learn to compare two stories by noticing how their characters, settings, or events are alike and different, often using a chart to organize their ideas.",
+        "resourceLabel": "YouTube: Comparing Two Stories: How They Are Alike and Different",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Two%20Stories%3A%20How%20They%20Are%20Alike%20and%20Different%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to compare two stories?",
+            "options": [
+              "To copy one story exactly",
+              "To read only one story at a time",
+              "To notice how they are alike and different",
+              "To ignore both stories completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If one story is set in a forest and another is set in a city, is that a similarity or a difference?",
+            "options": [
+              "A similarity",
+              "Neither",
+              "A difference",
+              "Impossible to tell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tool can help organize ideas when comparing two stories?",
+            "options": [
+              "A chart",
+              "A musical instrument",
+              "A cooking pan",
+              "A paintbrush"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is comparing two stories a useful reading skill?",
+            "options": [
+              "Readers should never think about more than one story",
+              "It helps readers think more deeply about both stories",
+              "Comparing stories has no benefit at all",
+              "This concept has no connection to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When comparing stories, noticing that both have a happy ending is an example of a ___.",
+            "options": [
+              "Title",
+              "Difference",
+              "Similarity",
+              "Cover"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes noticing how two stories are alike and different?",
+            "answers": [
+              "comparing"
+            ]
+          },
+          {
+            "prompt": "If two stories both have a brave main character, is that a similarity or a difference?",
+            "answers": [
+              "similarity"
+            ]
+          },
+          {
+            "prompt": "Can a chart help organize how two stories are alike and different?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Venn Diagrams for Sorting into Two Groups",
+        "summary": "Students learn to use a Venn diagram, two overlapping circles, to sort objects into two groups, showing what belongs only to one group, only to the other, or to both.",
+        "resourceLabel": "YouTube: Data: Venn Diagrams for Sorting into Two Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Venn%20Diagrams%20for%20Sorting%20into%20Two%20Groups%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a Venn diagram?",
+            "options": [
+              "Two overlapping circles used to sort objects into groups",
+              "A picture with no purpose",
+              "A list of random numbers",
+              "A single straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a Venn diagram, where does something go if it belongs to both groups?",
+            "options": [
+              "Only in the right circle",
+              "In the overlapping part where the circles meet",
+              "Only in the left circle",
+              "Outside both circles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If sorting animals into a Venn diagram of Has Fur and Can Fly, where would a bat go?",
+            "options": [
+              "In the overlapping part, since a bat has fur and can fly",
+              "Outside both circles",
+              "Only in the Has Fur circle",
+              "Only in the Can Fly circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Venn diagram helps us see which items belong to ___.",
+            "options": [
+              "Only the largest group",
+              "A completely random group",
+              "No group at all",
+              "One group, the other group, or both groups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sorting objects with a Venn diagram is a way of organizing ___.",
+            "options": [
+              "Weather",
+              "Recipes",
+              "Data",
+              "Music"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a diagram with two overlapping circles used for sorting?",
+            "answers": [
+              "Venn diagram"
+            ]
+          },
+          {
+            "prompt": "In a Venn diagram, where would something go if it belongs to both groups?",
+            "answers": [
+              "the overlapping part",
+              "the middle",
+              "where the circles overlap"
+            ]
+          },
+          {
+            "prompt": "Can a Venn diagram help us sort objects into two groups?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Hibernation: How Animals Sleep Through Winter",
+        "summary": "Students learn that some animals, like bears, go into a deep sleep called hibernation during the cold winter months, using stored body fat for energy until spring arrives.",
+        "resourceLabel": "YouTube: Hibernation: How Animals Sleep Through Winter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hibernation%3A%20How%20Animals%20Sleep%20Through%20Winter%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A kind of food animals eat",
+              "A dance that animals perform",
+              "A deep sleep some animals go into during winter",
+              "A type of summer activity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animal is well known for hibernating in winter?",
+            "options": [
+              "An insect that stays awake all winter",
+              "A bird flying south",
+              "A fish swimming in the ocean",
+              "A bear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do hibernating animals use for energy while they sleep?",
+            "options": [
+              "Fresh food they hunt every day",
+              "Nothing at all",
+              "Stored body fat",
+              "Sunlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might hibernation help an animal survive winter?",
+            "options": [
+              "Hibernating animals need more food than usual",
+              "Animals hibernate only in the summer heat",
+              "Food can be scarce in winter, so sleeping saves energy",
+              "Hibernation has no benefit to survival"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Hibernation usually ends when which season arrives?",
+            "options": [
+              "It never ends",
+              "Spring",
+              "Winter",
+              "Autumn"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the deep sleep some animals go into during winter?",
+            "answers": [
+              "hibernation"
+            ]
+          },
+          {
+            "prompt": "Name one animal that hibernates during winter, like a bear.",
+            "answers": [
+              "bear"
+            ]
+          },
+          {
+            "prompt": "Do hibernating animals use stored body fat for energy?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our National Anthem: O Canada",
+        "summary": "Students learn that O Canada is the national anthem, a special song sung to honour and celebrate the country of Canada, often heard at school and public events.",
+        "resourceLabel": "YouTube: Our National Anthem: O Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20National%20Anthem%3A%20O%20Canada%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a national anthem?",
+            "options": [
+              "A type of food",
+              "A kind of building",
+              "A special song that honours a country",
+              "A rule about traffic safety"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the name of Canadas national anthem?",
+            "options": [
+              "The Alphabet Song",
+              "Happy Birthday",
+              "Row Your Boat",
+              "O Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might you hear the national anthem sung?",
+            "options": [
+              "Only in a private home",
+              "Only inside a grocery store",
+              "Nowhere at all",
+              "At school and public events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do people sing the national anthem?",
+            "options": [
+              "To honour and celebrate their country",
+              "Singing it has no meaning at all",
+              "It is only sung by mistake",
+              "It has nothing to do with Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "O Canada is an example of a Canadian ___.",
+            "options": [
+              "Animal",
+              "Symbol",
+              "Landmark",
+              "Food"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a special song that honours a country?",
+            "answers": [
+              "national anthem"
+            ]
+          },
+          {
+            "prompt": "What is the name of Canadas national anthem?",
+            "answers": [
+              "O Canada"
+            ]
+          },
+          {
+            "prompt": "Might we hear the national anthem sung at school or public events?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Giving an Opinion: I Think, I Believe",
+        "summary": "Students learn to share an opinion, their own idea about something, using phrases like I think or I believe, and to give one reason that supports their opinion.",
+        "resourceLabel": "YouTube: Giving an Opinion: I Think, I Believe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Giving%20an%20Opinion%3A%20I%20Think%2C%20I%20Believe%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an opinion?",
+            "options": [
+              "A fact that is always true for everyone",
+              "A number in a math problem",
+              "Your own idea or feeling about something",
+              "A rule that everyone must follow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these phrases could start an opinion?",
+            "options": [
+              "Two plus two equals four",
+              "I think",
+              "Water is wet",
+              "The sky is blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should you give a reason after sharing an opinion?",
+            "options": [
+              "It helps explain why you feel that way",
+              "Reasons are never needed for opinions",
+              "Giving a reason makes an opinion less clear",
+              "Opinions never need any explanation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an opinion?",
+            "options": [
+              "A dog is a kind of animal",
+              "A dog has four legs",
+              "I believe dogs make the best pets",
+              "Some dogs have fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sharing an opinion with a reason helps other people understand ___.",
+            "options": [
+              "A completely unrelated topic",
+              "Why you feel the way you do",
+              "Nothing useful at all",
+              "Only facts, never feelings"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes your own idea about something, like whether you liked a book?",
+            "answers": [
+              "opinion"
+            ]
+          },
+          {
+            "prompt": "Name one phrase you could use to share an opinion, like I think or I believe.",
+            "answers": [
+              "I think",
+              "I believe"
+            ]
+          },
+          {
+            "prompt": "Should you give a reason to support your opinion?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition: Making Ten to Add",
+        "summary": "Students learn a mental math strategy called making ten, where they break apart one addend to complete a ten first, such as turning 8 plus 5 into 8 plus 2 plus 3.",
+        "resourceLabel": "YouTube: Addition: Making Ten to Add",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Making%20Ten%20to%20Add%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "To solve 9 plus 4 using making ten, what number completes 9 to make 10?",
+            "options": [
+              "1",
+              "0",
+              "4",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After making 10 from 9 plus 1, how many are left over from the 4?",
+            "options": [
+              "1",
+              "0",
+              "4",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 10 plus 3?",
+            "options": [
+              "13",
+              "3",
+              "10",
+              "14"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The making ten strategy helps us add by first building a ___.",
+            "options": [
+              "Hundred",
+              "Zero",
+              "Ten",
+              "One"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using making ten, what is 7 plus 5?",
+            "options": [
+              "11",
+              "10",
+              "12",
+              "13"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "To solve 8 plus 5 using making ten, what number completes 8 to make 10?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "After making 10 from 8 plus 2, how many are left over from the 5?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 10 plus 3?",
+            "answers": [
+              "13",
+              "thirteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Northern Lights: Colourful Skies",
+        "summary": "Students learn that the northern lights, also called the aurora, are colourful lights that sometimes glow and dance in the night sky, especially in places far to the north.",
+        "resourceLabel": "YouTube: The Northern Lights: Colourful Skies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Northern%20Lights%3A%20Colourful%20Skies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are the northern lights?",
+            "options": [
+              "Lights found only underwater",
+              "Streetlights found in every city",
+              "Colourful lights that glow and dance in the night sky",
+              "A kind of daytime rainbow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When are the northern lights usually seen?",
+            "options": [
+              "Only at noon",
+              "Never at all",
+              "Only during a thunderstorm",
+              "At night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where are the northern lights most commonly seen?",
+            "options": [
+              "In places far to the north",
+              "Only underwater",
+              "Only inside caves",
+              "Only near the equator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people travel far to see the northern lights?",
+            "options": [
+              "They have no connection to the sky",
+              "They can be seen every night everywhere",
+              "The northern lights are never worth seeing",
+              "They are a beautiful and rare natural sight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The northern lights are also known by the name ___.",
+            "options": [
+              "Rainbow",
+              "Aurora",
+              "Sunrise",
+              "Eclipse"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the colourful, dancing lights sometimes seen in the night sky?",
+            "answers": [
+              "northern lights",
+              "aurora"
+            ]
+          },
+          {
+            "prompt": "Are the northern lights usually seen during the day or at night?",
+            "answers": [
+              "at night",
+              "night"
+            ]
+          },
+          {
+            "prompt": "Are the northern lights more commonly seen in places far to the north?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Provincial Flag and Symbols",
+        "summary": "Students learn that in addition to national symbols, each Canadian province has its own flag and symbols, such as a special flower or animal, that represent its identity.",
+        "resourceLabel": "YouTube: Our Provincial Flag and Symbols",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Provincial%20Flag%20and%20Symbols%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Does each Canadian province have its own flag?",
+            "options": [
+              "Only cities have flags",
+              "No",
+              "Only one province has a flag",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these could be a provincial symbol?",
+            "options": [
+              "A cooking recipe",
+              "A random number",
+              "A type of car",
+              "A special flower"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a province choose a special flower or animal as a symbol?",
+            "options": [
+              "To represent something unique about that provinces identity",
+              "This concept has no relevance to Canada",
+              "Symbols have no connection to a provinces identity",
+              "Provinces are not allowed to have symbols"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are provincial symbols similar to national symbols like the maple leaf?",
+            "options": [
+              "Provincial symbols always look identical to national ones",
+              "They have no similarities at all",
+              "National symbols are the only kind that exist",
+              "Both represent identity and pride in a place"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about provincial symbols helps us understand that Canada is made up of ___.",
+            "options": [
+              "Countries outside of Canada",
+              "Only one single identity",
+              "Provinces with their own unique identities",
+              "No provinces at all"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does each Canadian province have its own flag?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one kind of provincial symbol, like a flower or animal.",
+            "answers": [
+              "flower",
+              "animal"
+            ]
+          },
+          {
+            "prompt": "Do provincial symbols help represent a provinces identity?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading with Expression: Using Our Voice When We Read",
+        "summary": "Students practise reading aloud with expression, changing their voice to match the punctuation and feeling of a sentence, such as sounding excited for an exclamation mark.",
+        "resourceLabel": "YouTube: Reading with Expression: Using Our Voice When We Read",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20with%20Expression%3A%20Using%20Our%20Voice%20When%20We%20Read%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to read with expression?",
+            "options": [
+              "Reading as quietly as possible at all times",
+              "Reading every sentence in exactly the same flat voice",
+              "Skipping every punctuation mark",
+              "Changing your voice to match a sentences feeling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might your voice sound when reading a sentence ending in an exclamation mark?",
+            "options": [
+              "Excited",
+              "Sleepy",
+              "Completely silent",
+              "Confused"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might your voice change when reading a sentence ending in a question mark?",
+            "options": [
+              "It never changes at all",
+              "It might rise at the end, like asking a question",
+              "It should always stop completely",
+              "It should always get quieter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is reading with expression helpful for listeners?",
+            "options": [
+              "Expression never affects how a story sounds",
+              "Listeners prefer a completely flat, emotionless voice",
+              "It helps bring the story to life and shows its feeling",
+              "This concept has no connection to reading aloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Reading with expression means paying attention to a sentences ___.",
+            "options": [
+              "Font colour only",
+              "Page number only",
+              "Number of words only",
+              "Punctuation and feeling"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Should your voice sound excited when reading a sentence that ends with an exclamation mark?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What word describes changing your voice to match a sentences feeling?",
+            "answers": [
+              "expression"
+            ]
+          },
+          {
+            "prompt": "Should your voice go up at the end of a sentence that ends with a question mark?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Subtraction: Counting Back Strategy",
+        "summary": "Students learn the counting back strategy for subtraction, where they start at the larger number and count backward one at a time for each number being subtracted.",
+        "resourceLabel": "YouTube: Subtraction: Counting Back Strategy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20Counting%20Back%20Strategy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "To solve 8 minus 2 using counting back, where do you start counting?",
+            "options": [
+              "At 10",
+              "At 0",
+              "At 2, and count forward",
+              "At 8, and count backward 2 times"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting back 2 from 8: 7, 6. What is 8 minus 2?",
+            "options": [
+              "7",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 10 minus 3 using counting back?",
+            "options": [
+              "8",
+              "7",
+              "6",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The counting back strategy works best for subtracting ___ numbers.",
+            "options": [
+              "Small",
+              "Very large",
+              "Fraction",
+              "Negative"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 6 minus 4 using counting back?",
+            "options": [
+              "4",
+              "3",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "To solve 9 minus 3 using counting back, do you start at 9 and count backward or forward?",
+            "answers": [
+              "backward",
+              "count backward"
+            ]
+          },
+          {
+            "prompt": "Counting back 3 from 9: 8, 7, 6. What is 9 minus 3?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What is 7 minus 2 using counting back?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable and Non-Renewable Energy: Where Our Power Comes From",
+        "summary": "Students learn that renewable energy, like sunlight and wind, can be used again and again, while non-renewable energy, like coal and oil, is limited and takes a very long time to form.",
+        "resourceLabel": "YouTube: Renewable and Non-Renewable Energy: Where Our Power Comes From",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Renewable%20and%20Non-Renewable%20Energy%3A%20Where%20Our%20Power%20Comes%20From%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is renewable energy?",
+            "options": [
+              "Energy that runs out after one single use",
+              "A kind of food",
+              "Energy that can be used again and again, like sunlight or wind",
+              "Energy that never exists at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of renewable energy?",
+            "options": [
+              "Wind",
+              "Coal",
+              "Oil",
+              "Gasoline"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of non-renewable energy?",
+            "options": [
+              "Sunlight",
+              "Water flowing in a river",
+              "Wind",
+              "Coal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is non-renewable energy considered limited?",
+            "options": [
+              "It never runs out under any circumstances",
+              "It can be remade instantly whenever needed",
+              "It takes a very long time to form and can eventually run out",
+              "This concept has no connection to energy sources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Choosing renewable energy sources, like sunlight and wind, can help ___.",
+            "options": [
+              "Has no real effect on the environment",
+              "Use up all our resources faster",
+              "Harm the environment more than other choices",
+              "Protect our limited resources for the future"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Can renewable energy, like sunlight, be used again and again?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one example of renewable energy, like sunlight or wind.",
+            "answers": [
+              "sunlight",
+              "wind",
+              "the sun"
+            ]
+          },
+          {
+            "prompt": "Is non-renewable energy, like coal, limited or unlimited?",
+            "answers": [
+              "limited"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Bake Sales and Fundraisers: Helping Our Community",
+        "summary": "Students learn that a fundraiser, such as a bake sale, is an event where a community works together to raise money for a shared goal, like helping a local charity.",
+        "resourceLabel": "YouTube: Bake Sales and Fundraisers: Helping Our Community",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bake%20Sales%20and%20Fundraisers%3A%20Helping%20Our%20Community%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a fundraiser?",
+            "options": [
+              "A rule about traffic safety",
+              "An event where a community raises money for a shared goal",
+              "A store that sells only toys",
+              "A place that delivers mail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a fundraiser?",
+            "options": [
+              "A dentist office",
+              "A grocery store",
+              "A fire hall",
+              "A bake sale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a school or community hold a fundraiser?",
+            "options": [
+              "This concept has no connection to helping others",
+              "Fundraisers never help anyone",
+              "To raise money to help a shared goal, like a local charity",
+              "Raising money is never a helpful goal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows working together as a community?",
+            "options": [
+              "Everyone ignoring a shared goal",
+              "Everyone baking treats for a bake sale",
+              "Refusing to help with a fundraiser",
+              "Working completely alone with no shared purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Fundraisers help teach us that communities can work together to ___.",
+            "options": [
+              "Avoid helping others",
+              "Waste money for no reason",
+              "Support a shared goal",
+              "Ignore people in need"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call an event where people work together to raise money for a goal?",
+            "answers": [
+              "fundraiser"
+            ]
+          },
+          {
+            "prompt": "Name one example of a fundraiser, like a bake sale.",
+            "answers": [
+              "bake sale"
+            ]
+          },
+          {
+            "prompt": "Can money raised at a fundraiser help a local charity?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Idioms: Sayings That Do Not Mean What They Say",
+        "summary": "Students learn that an idiom is a saying whose words do not mean exactly what they say, such as it is raining cats and dogs, which really means it is raining very hard.",
+        "resourceLabel": "YouTube: Idioms: Sayings That Do Not Mean What They Say",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Idioms%3A%20Sayings%20That%20Do%20Not%20Mean%20What%20They%20Say%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an idiom?",
+            "options": [
+              "A word that is spelled backward",
+              "A saying whose words do not mean exactly what they say",
+              "A kind of punctuation mark",
+              "A number used in math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the idiom raining cats and dogs really mean?",
+            "options": [
+              "Cats and dogs are outside playing",
+              "Animals are falling from the sky",
+              "It is a sunny day",
+              "It is raining very hard"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If someone says break a leg before a play, what do they likely mean?",
+            "options": [
+              "Good luck",
+              "Walk very slowly",
+              "Please hurt your leg",
+              "Stop performing immediately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can idioms be tricky for readers to understand?",
+            "options": [
+              "Their words do not match their real meaning",
+              "Idioms are never used in everyday language",
+              "Idioms always mean exactly what they say",
+              "This concept has no connection to language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning idioms helps readers understand that language can have ___.",
+            "options": [
+              "No meaning at all",
+              "Meanings beyond the literal words",
+              "Only one possible meaning ever",
+              "Meanings that never change"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a saying whose words do not mean exactly what they say?",
+            "answers": [
+              "idiom"
+            ]
+          },
+          {
+            "prompt": "Does the idiom raining cats and dogs really mean animals are falling from the sky?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What does the idiom raining cats and dogs really mean?",
+            "answers": [
+              "it is raining very hard",
+              "raining hard"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Elapsed Time and How Long Did It Take?",
+        "summary": "Students learn to figure out elapsed time, or how much time has passed between a starting time and an ending time, such as finding how long an activity lasted.",
+        "resourceLabel": "YouTube: Time: Elapsed Time and How Long Did It Take?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Elapsed%20Time%20and%20How%20Long%20Did%20It%20Take%3F%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is elapsed time?",
+            "options": [
+              "The exact time on a clock right now",
+              "A kind of number pattern",
+              "A type of calendar",
+              "The amount of time that passes between a start and end time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a movie starts at 4 oclock and ends at 6 oclock, how long is the movie?",
+            "options": [
+              "3 hours",
+              "1 hour",
+              "4 hours",
+              "2 hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If recess starts at 10 oclock and ends at 10:30, how much time passed?",
+            "options": [
+              "60 minutes",
+              "1 hour",
+              "15 minutes",
+              "30 minutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Finding elapsed time helps us answer questions like ___.",
+            "options": [
+              "How many clocks are in the room?",
+              "What colour is the clock?",
+              "What day of the week is it?",
+              "How long did an activity take?"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If school starts at 9 oclock and ends at 3 oclock, how many hours long is the school day?",
+            "options": [
+              "3 hours",
+              "6 hours",
+              "7 hours",
+              "5 hours"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the amount of time that passes between a start time and an end time?",
+            "answers": [
+              "elapsed time"
+            ]
+          },
+          {
+            "prompt": "If an activity starts at 2 oclock and ends at 3 oclock, how much time has passed?",
+            "answers": [
+              "1 hour",
+              "one hour"
+            ]
+          },
+          {
+            "prompt": "If an activity starts at 10 oclock and ends at 12 oclock, how many hours passed?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Lungs: Breathing In and Out",
+        "summary": "Students learn that our lungs are two body parts inside our chest that help us breathe, taking in air when we inhale and pushing air out when we exhale.",
+        "resourceLabel": "YouTube: Our Lungs: Breathing In and Out",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Lungs%3A%20Breathing%20In%20and%20Out%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What body part helps us breathe?",
+            "options": [
+              "Hair",
+              "Ear",
+              "Lungs",
+              "Elbow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are our lungs located?",
+            "options": [
+              "Inside our chest",
+              "Outside our body",
+              "Inside our foot",
+              "Inside our hand"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to our lungs when we inhale?",
+            "options": [
+              "They push out all the air",
+              "They shrink completely",
+              "They stop working",
+              "They take in air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to our lungs when we exhale?",
+            "options": [
+              "Nothing happens at all",
+              "They disappear",
+              "They take in more air",
+              "They push air out"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Our lungs are best described as the body parts that help us ___.",
+            "options": [
+              "Breathe",
+              "Taste food",
+              "See colours",
+              "Hear sounds"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part helps us breathe, taking in and pushing out air?",
+            "answers": [
+              "lungs"
+            ]
+          },
+          {
+            "prompt": "Where are our lungs located?",
+            "answers": [
+              "chest",
+              "inside our chest"
+            ]
+          },
+          {
+            "prompt": "Do our lungs take in air when we inhale?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Weather Emergencies: Staying Safe in a Storm",
+        "summary": "Students learn simple safety steps to follow during a weather emergency, such as a thunderstorm or snowstorm, like staying indoors and listening to a trusted adult.",
+        "resourceLabel": "YouTube: Weather Emergencies: Staying Safe in a Storm",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Emergencies%3A%20Staying%20Safe%20in%20a%20Storm%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What should you do during a strong thunderstorm?",
+            "options": [
+              "Stay indoors and listen to a trusted adult",
+              "Go outside and play",
+              "Stand under a tall tree",
+              "Ignore the storm completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a weather emergency?",
+            "options": [
+              "A calm evening",
+              "A snowstorm",
+              "A sunny afternoon",
+              "A light breeze"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to listen to a trusted adult during a weather emergency?",
+            "options": [
+              "This concept has no connection to safety",
+              "Trusted adults never know how to help",
+              "They can help keep you safe with the right instructions",
+              "Listening to adults is never necessary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a safe choice during a weather emergency?",
+            "options": [
+              "Wandering far from home alone",
+              "Staying inside away from windows",
+              "Ignoring any safety warnings",
+              "Standing outside in the open"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing what to do during a weather emergency helps keep our community ___.",
+            "options": [
+              "Safe",
+              "Unprepared",
+              "Confused",
+              "In danger"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Should we stay indoors during a strong thunderstorm?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one weather emergency, like a thunderstorm or snowstorm.",
+            "answers": [
+              "thunderstorm",
+              "snowstorm"
+            ]
+          },
+          {
+            "prompt": "Should we listen to a trusted adult during a weather emergency?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Building Vocabulary: Learning New Words While Reading",
+        "summary": "Students practise noticing new or unfamiliar words while reading, using pictures and nearby sentences to make a good guess about what the new word might mean.",
+        "resourceLabel": "YouTube: Building Vocabulary: Learning New Words While Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Building%20Vocabulary%3A%20Learning%20New%20Words%20While%20Reading%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What can help you figure out a new words meaning while reading?",
+            "options": [
+              "Ignoring the word completely",
+              "Skipping to the very last page",
+              "Closing the book immediately",
+              "Pictures and nearby sentences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful to notice new words while reading?",
+            "options": [
+              "New words should always be ignored",
+              "Noticing new words is never helpful",
+              "It helps build your vocabulary and understanding",
+              "This concept has no connection to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you see an unfamiliar word next to a picture of a large animal with a trunk, what might that word mean?",
+            "options": [
+              "Goldfish",
+              "Ladybug",
+              "Butterfly",
+              "Elephant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Building vocabulary means growing your knowledge of ___.",
+            "options": [
+              "Words and their meanings",
+              "Only colours",
+              "Only numbers",
+              "Only shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which strategy helps most when you find a word you do not know?",
+            "options": [
+              "Guessing with no clues at all",
+              "Immediately stopping all reading forever",
+              "Using clues from pictures and nearby sentences",
+              "Ignoring the rest of the sentence"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What can help you guess the meaning of a new word while reading, like a picture?",
+            "answers": [
+              "picture",
+              "pictures"
+            ]
+          },
+          {
+            "prompt": "Should you look at the sentences around a new word to help guess its meaning?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What do we call learning and collecting new words while reading?",
+            "answers": [
+              "building vocabulary",
+              "vocabulary"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Making Change from a Dollar",
+        "summary": "Students learn how to figure out how much change they should receive back after paying with a dollar for something that costs less than a dollar.",
+        "resourceLabel": "YouTube: Money: Making Change from a Dollar",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20from%20a%20Dollar%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If something costs 70 cents and you pay with a dollar, how much change should you get?",
+            "options": [
+              "70 cents",
+              "10 cents",
+              "100 cents",
+              "30 cents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If something costs 45 cents and you pay with a dollar, how much change should you get?",
+            "options": [
+              "45 cents",
+              "65 cents",
+              "35 cents",
+              "55 cents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A dollar is worth how many cents?",
+            "options": [
+              "50",
+              "10",
+              "1000",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If something costs exactly one dollar, how much change should you get?",
+            "options": [
+              "10 cents",
+              "0 cents",
+              "50 cents",
+              "100 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Figuring out change helps us understand ___.",
+            "options": [
+              "How to multiply large numbers",
+              "How to measure length",
+              "How to tell time",
+              "How to subtract the cost from the amount paid"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If something costs 60 cents and you pay with a dollar, how much change should you get back?",
+            "answers": [
+              "40 cents",
+              "40"
+            ]
+          },
+          {
+            "prompt": "If something costs 25 cents and you pay with a dollar, how much change should you get back?",
+            "answers": [
+              "75 cents",
+              "75"
+            ]
+          },
+          {
+            "prompt": "A dollar is worth how many cents?",
+            "answers": [
+              "100",
+              "one hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Nose and Taste Buds: Smelling and Tasting Together",
+        "summary": "Students learn that our sense of smell and sense of taste work closely together, and that our nose can help us notice flavours we might not fully taste with our tongue alone.",
+        "resourceLabel": "YouTube: Our Nose and Taste Buds: Smelling and Tasting Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Nose%20and%20Taste%20Buds%3A%20Smelling%20and%20Tasting%20Together%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which two senses work closely together when we eat food?",
+            "options": [
+              "Sight and hearing",
+              "Touch and hearing",
+              "Smell and taste",
+              "Sight and touch"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What body part helps us smell?",
+            "options": [
+              "Nose",
+              "Ear",
+              "Tongue",
+              "Elbow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might food taste different when your nose is blocked, like during a cold?",
+            "options": [
+              "Taste and smell are never related at all",
+              "A blocked nose never changes how food tastes",
+              "Smell has no connection to how food tastes",
+              "Smell helps us notice flavours, so a blocked nose can change how food tastes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might our nose help us notice about food?",
+            "options": [
+              "Its exact price",
+              "Its shape only",
+              "Its smell and some of its flavour",
+              "Its exact weight"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Our sense of smell and sense of taste working together help us ___.",
+            "options": [
+              "Only see our food, never taste it",
+              "Have no connection to eating at all",
+              "Fully enjoy the flavour of our food",
+              "Ignore our food completely"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name the two senses that work closely together to help us enjoy food.",
+            "answers": [
+              "smell and taste",
+              "smelling and tasting"
+            ]
+          },
+          {
+            "prompt": "What body part helps us smell?",
+            "answers": [
+              "nose"
+            ]
+          },
+          {
+            "prompt": "Can our nose help us notice flavours in food?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Being a Good Neighbour: Kindness Close to Home",
+        "summary": "Students learn what it means to be a good neighbour, such as being friendly, respecting others property, and offering to help when someone nearby needs it.",
+        "resourceLabel": "YouTube: Being a Good Neighbour: Kindness Close to Home",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Being%20a%20Good%20Neighbour%3A%20Kindness%20Close%20to%20Home%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to be a good neighbour?",
+            "options": [
+              "Being friendly, respectful, and helpful to people who live nearby",
+              "Never speaking to anyone in the neighbourhood",
+              "Ignoring everyone who lives nearby",
+              "Being unkind to people close to home"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shows being a good neighbour?",
+            "options": [
+              "Ignoring a neighbour who waves hello",
+              "Making loud noise late at night on purpose",
+              "Damaging a neighbours garden on purpose",
+              "Helping an elderly neighbour carry groceries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is respecting a neighbours property important?",
+            "options": [
+              "Neighbours do not deserve any consideration",
+              "It shows care and consideration for the people around us",
+              "This concept has no connection to community life",
+              "Property never needs to be respected"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might being a good neighbour help build a stronger community?",
+            "options": [
+              "It helps everyone feel safe, respected, and cared for",
+              "Kindness never affects a community",
+              "Good neighbours make communities weaker",
+              "It has no effect on the community at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Being a good neighbour is an example of showing ___ close to home.",
+            "options": [
+              "Kindness",
+              "Disrespect",
+              "Carelessness",
+              "Rudeness"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes someone who lives near you, like next door?",
+            "answers": [
+              "neighbour"
+            ]
+          },
+          {
+            "prompt": "Name one way to be a good neighbour, like being friendly or helpful.",
+            "answers": [
+              "friendly",
+              "helpful"
+            ]
+          },
+          {
+            "prompt": "Should we respect a neighbours property, like not stepping on their garden?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Vowel Teams, Text Features, and Word Meaning",
+        "summary": "Students review recent Language skills: the oo vowel team, text features, story mood, word endings, comparing stories, giving opinions, reading with expression, idioms, and building vocabulary.",
+        "resourceLabel": "YouTube: Language Review: Vowel Teams, Text Features, and Word Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Vowel%20Teams%2C%20Text%20Features%2C%20and%20Word%20Meaning%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the long oo sound, like in moon?",
+            "options": [
+              "Wood",
+              "Spoon",
+              "Book",
+              "Foot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the mood of a story?",
+            "options": [
+              "The number of pages in the book",
+              "The name of the main character",
+              "The colour of the book cover",
+              "The overall feeling the story gives its reader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word means full of care?",
+            "options": [
+              "Careful",
+              "Caring only",
+              "Carer",
+              "Careless"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the idiom raining cats and dogs really mean?",
+            "options": [
+              "It is raining very hard",
+              "Cats and dogs are outside playing",
+              "It is a sunny day",
+              "Animals are falling from the sky"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can help you figure out a new words meaning while reading?",
+            "options": [
+              "Skipping to the very last page",
+              "Ignoring the word completely",
+              "Pictures and nearby sentences",
+              "Closing the book immediately"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does the oo in moon make a short sound or a long sound?",
+            "answers": [
+              "long sound",
+              "long"
+            ]
+          },
+          {
+            "prompt": "What is the mood of a story?",
+            "answers": [
+              "the overall feeling the story gives its reader",
+              "overall feeling"
+            ]
+          },
+          {
+            "prompt": "What do we call a saying whose words do not mean exactly what they say?",
+            "answers": [
+              "idiom"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Numbers, Fractions, and Time",
+        "summary": "Students review recent Math skills: skip counting by 8s and 9s, numbers to 150, recognizing a whole, non-standard measurement, Venn diagrams, making ten, counting back, elapsed time, and making change.",
+        "resourceLabel": "YouTube: Math Review: Numbers, Fractions, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Fractions%2C%20and%20Time%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If you skip count by 9s, what comes after 9?",
+            "options": [
+              "16",
+              "10",
+              "18",
+              "19"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is greater, 145 or 154?",
+            "options": [
+              "Cannot tell",
+              "154",
+              "They are equal",
+              "145"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a crayon measures 4 cubes long and a marker measures 7 cubes long, which is longer?",
+            "options": [
+              "The crayon",
+              "Cannot tell",
+              "They are equal",
+              "The marker"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 10 plus 3?",
+            "options": [
+              "14",
+              "13",
+              "10",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If something costs 70 cents and you pay with a dollar, how much change should you get?",
+            "options": [
+              "30 cents",
+              "100 cents",
+              "70 cents",
+              "10 cents"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you skip count by 8s, what comes after 8?",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 119?",
+            "answers": [
+              "120",
+              "one hundred twenty"
+            ]
+          },
+          {
+            "prompt": "A dollar is worth how many cents?",
+            "answers": [
+              "100",
+              "one hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Earth, Habitats, and Our Bodies",
+        "summary": "Students review recent Science topics: soil layers, volcanoes, earthquakes, coral reefs, hibernation, the northern lights, renewable energy, our lungs, and our nose and taste buds.",
+        "resourceLabel": "YouTube: Science Review: Earth, Habitats, and Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Earth%2C%20Habitats%2C%20and%20Our%20Bodies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A sudden shaking of the ground",
+              "A type of rainstorm",
+              "A kind of ocean wave only",
+              "A cloud formation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a coral reef?",
+            "options": [
+              "A kind of desert",
+              "A colourful underwater habitat built by coral",
+              "A mountain found on land",
+              "A type of cloud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A deep sleep some animals go into during winter",
+              "A dance that animals perform",
+              "A type of summer activity",
+              "A kind of food animals eat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the northern lights?",
+            "options": [
+              "Colourful lights that glow and dance in the night sky",
+              "Streetlights found in every city",
+              "Lights found only underwater",
+              "A kind of daytime rainbow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two senses work closely together when we eat food?",
+            "options": [
+              "Sight and hearing",
+              "Touch and hearing",
+              "Sight and touch",
+              "Smell and taste"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is topsoil?",
+            "answers": [
+              "the top layer of soil where plants get nutrients",
+              "top layer of soil"
+            ]
+          },
+          {
+            "prompt": "What is lava?",
+            "answers": [
+              "hot melted rock that erupts from a volcano",
+              "hot melted rock"
+            ]
+          },
+          {
+            "prompt": "What body part helps us breathe?",
+            "answers": [
+              "lungs"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Leaders, Traditions, and Community Care",
+        "summary": "Students review recent Social Studies topics: fire departments, recycling centres, city hall, Indigenous traditions, our national anthem, provincial symbols, fundraisers, weather emergencies, and being a good neighbour.",
+        "resourceLabel": "YouTube: Social Studies Review: Leaders, Traditions, and Community Care",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Traditions%2C%20and%20Community%20Care%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is city hall?",
+            "options": [
+              "A building where local leaders work to help their town or city",
+              "A place that sells groceries",
+              "A place with no real purpose",
+              "A place that delivers mail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do many Indigenous cultures view the land?",
+            "options": [
+              "As unimportant",
+              "With no connection at all",
+              "As something to ignore completely",
+              "With deep knowledge and respect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a fundraiser?",
+            "options": [
+              "A rule about traffic safety",
+              "An event where a community raises money for a shared goal",
+              "A store that sells only toys",
+              "A place that delivers mail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should you do during a strong thunderstorm?",
+            "options": [
+              "Go outside and play",
+              "Stay indoors and listen to a trusted adult",
+              "Ignore the storm completely",
+              "Stand under a tall tree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shows being a good neighbour?",
+            "options": [
+              "Damaging a neighbours garden on purpose",
+              "Ignoring a neighbour who waves hello",
+              "Helping an elderly neighbour carry groceries",
+              "Making loud noise late at night on purpose"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a fire department?",
+            "answers": [
+              "a place where firefighters work and keep equipment ready",
+              "a place where firefighters work"
+            ]
+          },
+          {
+            "prompt": "What is the name of Canadas national anthem?",
+            "answers": [
+              "O Canada"
+            ]
+          },
+          {
+            "prompt": "What word describes someone who lives near you, like next door?",
+            "answers": [
+              "neighbour"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
