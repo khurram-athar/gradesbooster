@@ -24018,5 +24018,3310 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -ig Words",
+        "summary": "Students explore the -ig word family, learning that changing the first letter of words like big, pig, and dig creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -ig Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ig%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with big?",
+            "options": [
+              "Cup",
+              "Pig",
+              "Dog",
+              "Sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Change the b in big to d. What new word do you make?",
+            "options": [
+              "Dog",
+              "Dig",
+              "Dad",
+              "Din"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words is part of the -ig word family?",
+            "options": [
+              "Wig",
+              "Wag",
+              "Win",
+              "Wet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Words in the -ig family all end with the same ___.",
+            "options": [
+              "Sound",
+              "Picture",
+              "Colour",
+              "Number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word does not belong in the -ig word family?",
+            "options": [
+              "Big",
+              "Pig",
+              "Dig",
+              "Sun"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the b in big to p. What new word do you make?",
+            "answers": [
+              "pig"
+            ]
+          },
+          {
+            "prompt": "Change the p in pig to d. What new word do you make?",
+            "answers": [
+              "dig"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with big, pig, and dig.",
+            "answers": [
+              "wig",
+              "fig",
+              "jig"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Place Value: Grouping into Tens and Ones",
+        "summary": "Students learn that a two-digit number can be broken into a group of ten and some extra ones, such as seeing 14 as one group of ten plus four more ones.",
+        "resourceLabel": "YouTube: Place Value: Grouping into Tens and Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Place%20Value%3A%20Grouping%20into%20Tens%20and%20Ones%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many tens are in the number 12?",
+            "options": [
+              "0",
+              "3",
+              "2",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many ones are left over in the number 12?",
+            "options": [
+              "2",
+              "3",
+              "1",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you have 1 group of ten and 8 ones, what number do you have?",
+            "options": [
+              "80",
+              "18",
+              "8",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The number 20 is made of how many groups of ten?",
+            "options": [
+              "0",
+              "20",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Breaking a number into tens and ones helps us ___.",
+            "options": [
+              "Forget the number",
+              "Change the number completely",
+              "Make the number smaller",
+              "Understand what the number means"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many tens are in the number 14?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "How many extra ones are in the number 14?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you have 1 group of ten and 6 ones, what number do you have?",
+            "answers": [
+              "16",
+              "sixteen"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Skin: Protecting Our Body",
+        "summary": "Students learn that skin covers our whole body and helps protect us from germs, dirt, and the sun, and that keeping skin clean helps us stay healthy.",
+        "resourceLabel": "YouTube: Our Skin: Protecting Our Body",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Skin%3A%20Protecting%20Our%20Body%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part covers our whole body?",
+            "options": [
+              "Teeth",
+              "Hair",
+              "Eyes",
+              "Skin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does our skin help protect us from?",
+            "options": [
+              "Only loud noises",
+              "Nothing at all",
+              "Only bright light",
+              "Germs and dirt"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to wash our skin?",
+            "options": [
+              "Washing skin has no benefit",
+              "Skin does not need care",
+              "Skin never gets dirty",
+              "It helps keep us clean and healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these helps protect our skin outside on a sunny day?",
+            "options": [
+              "Wearing sunscreen or a hat",
+              "Staying dirty all day",
+              "Ignoring the sun completely",
+              "Removing all clothing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Our skin is best described as our bodys ___.",
+            "options": [
+              "Food source",
+              "Least important part",
+              "Protective covering",
+              "Only decoration"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part covers our whole body and protects us?",
+            "answers": [
+              "skin"
+            ]
+          },
+          {
+            "prompt": "Name one thing our skin protects us from, like germs or dirt.",
+            "answers": [
+              "germs",
+              "dirt",
+              "the sun"
+            ]
+          },
+          {
+            "prompt": "Does washing our skin help keep us healthy?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Librarian: Helping Us Find and Borrow Books",
+        "summary": "Students learn about the job of a librarian, a community helper who works at the library, helps people find books, and teaches us how to borrow and return them.",
+        "resourceLabel": "YouTube: Our Librarian: Helping Us Find and Borrow Books",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Librarian%3A%20Helping%20Us%20Find%20and%20Borrow%20Books%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who helps people find books at the library?",
+            "options": [
+              "A baker",
+              "A firefighter",
+              "A librarian",
+              "A postal worker"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can you do with a library book after reading it?",
+            "options": [
+              "Throw it away",
+              "Give it to a stranger",
+              "Keep it forever without asking",
+              "Return it to the library"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a librarian a helpful community member?",
+            "options": [
+              "They cook food",
+              "They help people find and borrow books",
+              "They deliver mail",
+              "They fix cars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a librarian teach you?",
+            "options": [
+              "How to fix a pipe",
+              "How to find a book you want to read",
+              "How to fly a plane",
+              "How to bake bread"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A library is a place where books are ___.",
+            "options": [
+              "Never allowed to be read",
+              "Shared with the whole community",
+              "Only for one family",
+              "Always thrown away"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who works at the library and helps people find books?",
+            "answers": [
+              "librarian"
+            ]
+          },
+          {
+            "prompt": "Name one thing you can borrow from the library, like a book.",
+            "answers": [
+              "book",
+              "a book"
+            ]
+          },
+          {
+            "prompt": "Should we return library books after we finish reading them?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -ug Words",
+        "summary": "Students explore the -ug word family, learning that changing the first letter of words like bug, rug, and hug creates new rhyming words that share the same ending sound.",
+        "resourceLabel": "YouTube: Word Families: -ug Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ug%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with bug?",
+            "options": [
+              "Rug",
+              "Sun",
+              "Pen",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Change the b in bug to h. What new word do you make?",
+            "options": [
+              "Hop",
+              "Hit",
+              "Hug",
+              "Hat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these words is part of the -ug word family?",
+            "options": [
+              "Mug",
+              "Man",
+              "Map",
+              "Mad"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Words in the same word family share the same ending ___.",
+            "options": [
+              "Author",
+              "Meaning",
+              "Sound",
+              "Colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word does not belong in the -ug word family?",
+            "options": [
+              "Top",
+              "Bug",
+              "Rug",
+              "Hug"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the b in bug to r. What new word do you make?",
+            "answers": [
+              "rug"
+            ]
+          },
+          {
+            "prompt": "Change the r in rug to h. What new word do you make?",
+            "answers": [
+              "hug"
+            ]
+          },
+          {
+            "prompt": "Name one more word that rhymes with bug, rug, and hug.",
+            "answers": [
+              "mug",
+              "jug",
+              "tug"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fact Families: Related Addition and Subtraction",
+        "summary": "Students learn that three numbers, such as 3, 4, and 7, can form a fact family, showing how the same numbers connect two addition facts and two subtraction facts.",
+        "resourceLabel": "YouTube: Fact Families: Related Addition and Subtraction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20Families%3A%20Related%20Addition%20and%20Subtraction%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If 2 plus 5 equals 7, what does 7 minus 5 equal?",
+            "options": [
+              "2",
+              "0",
+              "7",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 6 plus 2 equals 8, what does 8 minus 6 equal?",
+            "options": [
+              "8",
+              "2",
+              "6",
+              "0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which numbers form a fact family with 4, 5, and 9?",
+            "options": [
+              "9 plus 5 equals 4",
+              "4 plus 5 equals 9",
+              "5 minus 9 equals 4",
+              "4 plus 9 equals 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A fact family uses the same ___ numbers in different addition and subtraction sentences.",
+            "options": [
+              "Two",
+              "Three",
+              "Ten",
+              "Five"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing a fact family helps us see how addition and subtraction are ___.",
+            "options": [
+              "Never related",
+              "Impossible to compare",
+              "Always the same number",
+              "Connected to each other"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 4 equal?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 3 equal?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "Name the three numbers in the fact family with 3, 4, and 7.",
+            "answers": [
+              "3, 4, 7",
+              "3 4 7"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Babies: Born Live or Hatched from Eggs",
+        "summary": "Students learn that some animal babies, like puppies and kittens, are born live, while other animal babies, like chicks and turtles, hatch from eggs.",
+        "resourceLabel": "YouTube: Animal Babies: Born Live or Hatched from Eggs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Babies%3A%20Born%20Live%20or%20Hatched%20from%20Eggs%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which animal baby is born live?",
+            "options": [
+              "Chick",
+              "Turtle",
+              "Puppy",
+              "Snake"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animal baby hatches from an egg?",
+            "options": [
+              "Chick",
+              "Cow",
+              "Kitten",
+              "Puppy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A baby bird grows and hatches from ___.",
+            "options": [
+              "Its mothers fur",
+              "A nest of leaves only",
+              "Nothing at all",
+              "An egg"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals hatches from an egg?",
+            "options": [
+              "A turtle",
+              "A cow",
+              "A dog",
+              "A cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing how animal babies are born helps us learn that animals ___.",
+            "options": [
+              "Never grow at all",
+              "All grow in the exact same way",
+              "Are not connected to their parents",
+              "Grow and are born in different ways"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one animal baby that is born live, like a puppy.",
+            "answers": [
+              "puppy",
+              "kitten"
+            ]
+          },
+          {
+            "prompt": "Name one animal baby that hatches from an egg, like a chick.",
+            "answers": [
+              "chick",
+              "turtle",
+              "a chick"
+            ]
+          },
+          {
+            "prompt": "Does a chick hatch from an egg or get born live?",
+            "answers": [
+              "hatch from an egg",
+              "from an egg"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Mayor: Leading Our Town or City",
+        "summary": "Students learn about the job of a mayor, a person chosen to help lead a town or city and make decisions that help the whole community.",
+        "resourceLabel": "YouTube: Our Mayor: Leading Our Town or City",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Mayor%3A%20Leading%20Our%20Town%20or%20City%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the person chosen to help lead a town or city?",
+            "options": [
+              "Librarian",
+              "Dentist",
+              "Baker",
+              "Mayor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of decisions might a mayor help make?",
+            "options": [
+              "No decisions at all",
+              "Decisions about only one persons house",
+              "Decisions that help the whole community",
+              "Decisions about outer space"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a mayor an important community leader?",
+            "options": [
+              "They only bake bread",
+              "They help lead and make decisions for the town or city",
+              "They fix broken pipes",
+              "They deliver mail every day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a mayor help with?",
+            "options": [
+              "Baking a birthday cake",
+              "Fixing a leaky faucet",
+              "Deciding to build a new park",
+              "Delivering a package"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A mayor leads a community similar to how a principal leads a ___.",
+            "options": [
+              "School",
+              "Desert",
+              "Forest",
+              "Ocean"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the person chosen to help lead a town or city?",
+            "answers": [
+              "mayor"
+            ]
+          },
+          {
+            "prompt": "Does a mayor help make decisions for a whole community?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing a mayor might help decide, like building a new park.",
+            "answers": [
+              "a new park",
+              "building a park",
+              "community decisions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Beginning Blends: Two Sounds Together at the Start",
+        "summary": "Students learn that some words begin with two consonant sounds blended together, such as bl in black, st in stop, and gr in green, with both sounds heard clearly.",
+        "resourceLabel": "YouTube: Beginning Blends: Two Sounds Together at the Start",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Beginning%20Blends%3A%20Two%20Sounds%20Together%20at%20the%20Start%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the blend bl?",
+            "options": [
+              "Cat",
+              "Black",
+              "Sun",
+              "Top"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word begins with the blend st?",
+            "options": [
+              "Pig",
+              "Stop",
+              "Dog",
+              "Man"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the word green, which two letters blend together at the start?",
+            "options": [
+              "En",
+              "Re",
+              "Gr",
+              "Ee"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A beginning blend is when two letters ___.",
+            "options": [
+              "Make one totally silent sound",
+              "Are always at the end of a word",
+              "Never appear together",
+              "Are both heard together at the start of a word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the blend gr?",
+            "options": [
+              "Green",
+              "Wet",
+              "Big",
+              "Red"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What two letters blend together at the start of the word black?",
+            "answers": [
+              "bl"
+            ]
+          },
+          {
+            "prompt": "What two letters blend together at the start of the word stop?",
+            "answers": [
+              "st"
+            ]
+          },
+          {
+            "prompt": "Say the word green. What two letters blend together at the start?",
+            "answers": [
+              "gr"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Composing Shapes: Making Bigger Shapes from Smaller Ones",
+        "summary": "Students explore how smaller shapes, like two triangles, can be put together to make a new, bigger shape, such as combining two triangles to form a square.",
+        "resourceLabel": "YouTube: Composing Shapes: Making Bigger Shapes from Smaller Ones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composing%20Shapes%3A%20Making%20Bigger%20Shapes%20from%20Smaller%20Ones%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you put two triangles together carefully, what shape can you make?",
+            "options": [
+              "A square",
+              "A single dot",
+              "Nothing at all",
+              "A circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is it called when we combine smaller shapes to build a bigger shape?",
+            "options": [
+              "Ignoring shapes",
+              "Composing shapes",
+              "Hiding shapes",
+              "Erasing shapes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which two shapes could combine to make a rectangle?",
+            "options": [
+              "One triangle",
+              "Two dots",
+              "Two squares",
+              "Two circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Building a new shape out of smaller shapes helps us understand that shapes can be ___.",
+            "options": [
+              "Only taken apart",
+              "Put together in different ways",
+              "Impossible to build",
+              "Never combined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Composing shapes is a skill that helps us later understand ___.",
+            "options": [
+              "How to spell words",
+              "How to sing songs",
+              "How to bake bread",
+              "How bigger shapes are built from smaller parts"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you put two triangles together, what new shape can you make?",
+            "answers": [
+              "square",
+              "a square"
+            ]
+          },
+          {
+            "prompt": "What do we call it when we put small shapes together to make a bigger shape?",
+            "answers": [
+              "composing shapes",
+              "composing"
+            ]
+          },
+          {
+            "prompt": "Can two smaller shapes ever combine to make one bigger shape?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Inside a Seed: How a Plant Begins",
+        "summary": "Students learn that a tiny seed holds everything a new plant needs to begin growing, and that with soil, water, and sunlight, a seed can sprout into a plant.",
+        "resourceLabel": "YouTube: Inside a Seed: How a Plant Begins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Inside%20a%20Seed%3A%20How%20a%20Plant%20Begins%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What tiny object holds everything a new plant needs to grow?",
+            "options": [
+              "A cloud",
+              "A seed",
+              "A shell",
+              "A rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these does a seed need to sprout?",
+            "options": [
+              "Water",
+              "Darkness only",
+              "Loud noise",
+              "Sand only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to a seed when it gets soil, water, and sunlight?",
+            "options": [
+              "Nothing happens at all",
+              "It turns into a rock",
+              "It sprouts and grows into a plant",
+              "It disappears completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a seed an important part of a plants life cycle?",
+            "options": [
+              "Seeds have no connection to plants",
+              "Plants never start from seeds",
+              "It is where a brand new plant begins to grow",
+              "Seeds only exist after a plant dies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A seed is best described as the ___ of a plant.",
+            "options": [
+              "Middle only",
+              "Beginning",
+              "Shadow",
+              "Ending"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tiny object holds everything a new plant needs to begin growing?",
+            "answers": [
+              "seed",
+              "a seed"
+            ]
+          },
+          {
+            "prompt": "Name one thing a seed needs to sprout, like water or sunlight.",
+            "answers": [
+              "water",
+              "sunlight",
+              "soil"
+            ]
+          },
+          {
+            "prompt": "Can a seed grow into a plant if it gets soil, water, and sunlight?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Gardens: Growing Food Together",
+        "summary": "Students learn that a community garden is a shared space where neighbours can plant, grow, and take care of vegetables and flowers together.",
+        "resourceLabel": "YouTube: Community Gardens: Growing Food Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Gardens%3A%20Growing%20Food%20Together%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a community garden?",
+            "options": [
+              "A store that sells toys",
+              "A place with no plants at all",
+              "A shared space where neighbours grow food together",
+              "A garden owned by only one family"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might you find in a community garden?",
+            "options": [
+              "Vegetables and flowers",
+              "Books and pencils",
+              "Televisions",
+              "Cars and trucks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might neighbours enjoy working in a community garden together?",
+            "options": [
+              "Community gardens have no benefit",
+              "Gardens are never shared with anyone",
+              "Working together is never helpful",
+              "It lets them share the work and enjoy fresh food together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A community garden helps teach us that neighbours can ___.",
+            "options": [
+              "Ignore their shared spaces",
+              "Only work completely alone",
+              "Work together to grow something helpful",
+              "Never help each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Taking care of a community garden together is an example of ___.",
+            "options": [
+              "Wasting food on purpose",
+              "Teamwork and cooperation",
+              "Ignoring the community",
+              "Arguing and disagreement"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a shared space where neighbours grow food together?",
+            "answers": [
+              "community garden"
+            ]
+          },
+          {
+            "prompt": "Name one thing that might grow in a community garden, like a vegetable.",
+            "answers": [
+              "vegetable",
+              "flower",
+              "tomato"
+            ]
+          },
+          {
+            "prompt": "Do neighbours work together to take care of a community garden?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Rhyming or Not: Does It Rhyme?",
+        "summary": "Students practise listening to pairs of words and deciding whether the words rhyme, meaning they end with the same sound, like cat and hat, or do not rhyme, like cat and dog.",
+        "resourceLabel": "YouTube: Rhyming or Not: Does It Rhyme?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rhyming%20or%20Not%3A%20Does%20It%20Rhyme%3F%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Do the words sun and fun rhyme?",
+            "options": [
+              "Only sometimes",
+              "Yes",
+              "No",
+              "Cannot tell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do the words sun and cup rhyme?",
+            "options": [
+              "Yes",
+              "No",
+              "Cannot tell",
+              "Always"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Two words rhyme when they ___.",
+            "options": [
+              "Mean the exact same thing",
+              "End with the same sound",
+              "Have the same number of letters",
+              "Start with the same letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word rhymes with tree?",
+            "options": [
+              "Dog",
+              "Bee",
+              "Cup",
+              "Sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair of words does NOT rhyme?",
+            "options": [
+              "Sun and fun",
+              "Tree and bee",
+              "Dog and star",
+              "Cat and hat"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do the words cat and hat rhyme?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Do the words cat and dog rhyme?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "Name a word that rhymes with the word sun.",
+            "answers": [
+              "fun",
+              "run",
+              "bun"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Sorting Objects into a Chart",
+        "summary": "Students learn to sort a group of objects, such as toys or shapes, into a simple chart based on one shared feature, like colour or type, and then count each group.",
+        "resourceLabel": "YouTube: Data: Sorting Objects into a Chart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Objects%20into%20a%20Chart%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you sort blocks by colour, where would a blue block go?",
+            "options": [
+              "With every colour at once",
+              "With the red blocks",
+              "With the other blue blocks",
+              "Nowhere at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call grouping objects that share the same feature?",
+            "options": [
+              "Ignoring",
+              "Erasing",
+              "Sorting",
+              "Hiding"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "After sorting toys into a chart, how can we tell which group has the most?",
+            "options": [
+              "Ignore the chart completely",
+              "Throw the toys away",
+              "Count each group and compare",
+              "Guess without counting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a chart shows 5 red toys and 3 blue toys, which colour has more?",
+            "options": [
+              "They are equal",
+              "Blue",
+              "Cannot tell",
+              "Red"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sorting objects into a chart helps us ___ information easily.",
+            "options": [
+              "Organize and compare",
+              "Forget",
+              "Hide",
+              "Waste"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you sort toys by colour, do red toys go with other red toys?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What do we call it when we group objects that share a feature?",
+            "answers": [
+              "sorting"
+            ]
+          },
+          {
+            "prompt": "After sorting toys into a chart, what can we do to see which group has more?",
+            "answers": [
+              "count them",
+              "counting"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Machines: Levers and Pulleys",
+        "summary": "Students learn that a lever is a simple machine that helps lift heavy things using a bar and a support point, and a pulley uses a wheel and rope to help lift objects up.",
+        "resourceLabel": "YouTube: Simple Machines: Levers and Pulleys",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Levers%20and%20Pulleys%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What simple machine uses a bar and a support point to lift things?",
+            "options": [
+              "A pulley",
+              "A ramp",
+              "A wheel only",
+              "A lever"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What simple machine uses a wheel and rope?",
+            "options": [
+              "A lever",
+              "A wedge",
+              "A ramp",
+              "A pulley"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone use a lever or pulley?",
+            "options": [
+              "To make lifting harder",
+              "To make lifting heavy things easier",
+              "To make objects heavier",
+              "They have no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a pulley in real life?",
+            "options": [
+              "Drawing a picture",
+              "Raising a flag on a flagpole",
+              "Reading a book",
+              "Eating lunch"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Simple machines like levers and pulleys help people ___.",
+            "options": [
+              "Do work more easily",
+              "Avoid all work forever",
+              "Create more mess",
+              "Make work harder"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What simple machine uses a bar to help lift heavy things?",
+            "answers": [
+              "lever",
+              "a lever"
+            ]
+          },
+          {
+            "prompt": "What simple machine uses a wheel and rope to lift objects?",
+            "answers": [
+              "pulley",
+              "a pulley"
+            ]
+          },
+          {
+            "prompt": "Do levers and pulleys make lifting heavy things easier?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Riding the Bus: Being Safe and Polite",
+        "summary": "Students learn safe and polite behaviour when riding a school bus or public bus, such as staying seated, using a quiet voice, and waiting for a turn to get on and off.",
+        "resourceLabel": "YouTube: Riding the Bus: Being Safe and Polite",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Riding%20the%20Bus%3A%20Being%20Safe%20and%20Polite%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Why should riders stay seated on a moving bus?",
+            "options": [
+              "Standing is always safer",
+              "Sitting down is never important",
+              "To stay safe while the bus is moving",
+              "Buses never move"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these shows polite behaviour on a bus?",
+            "options": [
+              "Yelling loudly the whole ride",
+              "Using a quiet voice",
+              "Pushing other riders",
+              "Ignoring the bus driver completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do bus riders wait for their turn to get on and off?",
+            "options": [
+              "Waiting is never necessary",
+              "Turns are not important on a bus",
+              "Only the first rider matters",
+              "So everyone can board and exit safely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should you do if the bus driver gives an instruction?",
+            "options": [
+              "Cover your ears",
+              "Argue with the driver",
+              "Ignore it completely",
+              "Listen and follow it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Being safe and polite on a bus helps keep everyone ___.",
+            "options": [
+              "Upset with each other",
+              "Comfortable and safe",
+              "Confused",
+              "In danger"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Should we stay seated while riding on a bus?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one polite behaviour to show on a bus, like using a quiet voice.",
+            "answers": [
+              "quiet voice",
+              "waiting your turn"
+            ]
+          },
+          {
+            "prompt": "Is it safe to walk around while the bus is moving?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Punctuation: Question Marks for Asking",
+        "summary": "Students learn that a question mark is used at the end of a sentence that asks something, such as What is your name?, instead of a calm period.",
+        "resourceLabel": "YouTube: Punctuation: Question Marks for Asking",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Punctuation%3A%20Question%20Marks%20for%20Asking%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What punctuation mark ends a sentence that asks something?",
+            "options": [
+              "Period",
+              "Question mark",
+              "Exclamation mark",
+              "Comma"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these sentences would end with a question mark?",
+            "options": [
+              "Watch out!",
+              "The sky is blue.",
+              "Where is my hat?",
+              "I like apples."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A sentence that asks something is called a ___.",
+            "options": [
+              "Exclamation",
+              "Command",
+              "Question",
+              "Statement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which punctuation mark would best end the sentence Do you like pizza",
+            "options": [
+              "Question mark",
+              "Exclamation mark only",
+              "Nothing at all",
+              "Period"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Question marks help readers know a sentence is ___.",
+            "options": [
+              "Asking something",
+              "Giving a command",
+              "Telling a plain fact",
+              "Shouting loudly"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What punctuation mark is used at the end of a sentence that asks something?",
+            "answers": [
+              "question mark"
+            ]
+          },
+          {
+            "prompt": "Does the sentence What is your name? ask a question or tell a fact?",
+            "answers": [
+              "ask a question",
+              "asks a question"
+            ]
+          },
+          {
+            "prompt": "Which punctuation mark ends a sentence that tells a fact instead of asking?",
+            "answers": [
+              "period"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 5s to 100",
+        "summary": "Students practise counting forward by 5s, such as 5, 10, 15, 20, all the way up to 100, building on earlier skip-counting skills.",
+        "resourceLabel": "YouTube: Skip Counting by 5s to 100",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%205s%20to%20100%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you skip count by 5s starting at 5, what comes after 15?",
+            "options": [
+              "25",
+              "10",
+              "20",
+              "16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you skip count by 5s, what comes after 45?",
+            "options": [
+              "40",
+              "50",
+              "46",
+              "55"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right before 100 when skip counting by 5s?",
+            "options": [
+              "95",
+              "85",
+              "90",
+              "99"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip counting by 5s means counting forward by adding ___ each time.",
+            "options": [
+              "5",
+              "2",
+              "10",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these numbers would you say while skip counting by 5s?",
+            "options": [
+              "28",
+              "33",
+              "32",
+              "30"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you skip count by 5s, what comes after 5?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "If you skip count by 5s, what comes after 20?",
+            "answers": [
+              "25",
+              "twenty-five"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 100 when skip counting by 5s?",
+            "answers": [
+              "95",
+              "ninety-five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "States of Matter: Solid, Liquid, and Gas",
+        "summary": "Students learn that matter can be a solid, like a rock, a liquid, like water, or a gas, like the air we breathe, and that each state looks and behaves differently.",
+        "resourceLabel": "YouTube: States of Matter: Solid, Liquid, and Gas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=States%20of%20Matter%3A%20Solid%2C%20Liquid%2C%20and%20Gas%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is an example of a solid?",
+            "options": [
+              "Water",
+              "Air",
+              "Steam",
+              "A rock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a liquid?",
+            "options": [
+              "A rock",
+              "A toy",
+              "Water",
+              "A block"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the air we breathe a solid, liquid, or gas?",
+            "options": [
+              "None of these",
+              "Solid",
+              "Liquid",
+              "Gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a solid different from a liquid?",
+            "options": [
+              "A solid can flow like water",
+              "A liquid always stays completely still",
+              "A solid keeps its shape, while a liquid can flow and change shape",
+              "There is no difference at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Matter can exist in these three states: solid, liquid, and ___.",
+            "options": [
+              "Shadow",
+              "Colour",
+              "Sound",
+              "Gas"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one example of a solid, like a rock or a block.",
+            "answers": [
+              "rock",
+              "block",
+              "a rock"
+            ]
+          },
+          {
+            "prompt": "Name one example of a liquid, like water or juice.",
+            "answers": [
+              "water",
+              "juice",
+              "a liquid"
+            ]
+          },
+          {
+            "prompt": "Is the air we breathe a solid, liquid, or gas?",
+            "answers": [
+              "gas"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Grandparents: Learning from Our Elders",
+        "summary": "Students learn that grandparents and other elders in a family often share stories, wisdom, and traditions that help younger family members learn about the past.",
+        "resourceLabel": "YouTube: Grandparents: Learning from Our Elders",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grandparents%3A%20Learning%20from%20Our%20Elders%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Who are grandparents?",
+            "options": [
+              "People with no connection to our family",
+              "Strangers we never know",
+              "Only characters in books",
+              "Older family members who can share stories and wisdom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a grandparent share with a younger family member?",
+            "options": [
+              "Nothing at all",
+              "Random facts about strangers",
+              "Stories and family traditions",
+              "Only silence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to listen to our elders, like grandparents?",
+            "options": [
+              "Elders never have anything useful to share",
+              "Listening to elders is not important",
+              "Grandparents know nothing about our family",
+              "They can teach us about the past and share helpful wisdom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shows respect for a grandparent?",
+            "options": [
+              "Listening carefully to their stories",
+              "Walking away while they speak",
+              "Interrupting them constantly",
+              "Ignoring them completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning from our elders helps us understand our familys ___.",
+            "options": [
+              "Future only",
+              "Least important details",
+              "Nothing important",
+              "History and traditions"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a family member who is often older, like a grandparent.",
+            "answers": [
+              "grandparent",
+              "grandma",
+              "grandpa"
+            ]
+          },
+          {
+            "prompt": "Can grandparents share stories about the past with us?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What word describes learning from someone older and wiser, like a grandparent?",
+            "answers": [
+              "learning from elders",
+              "wisdom"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Print Concepts: Spaces Between Words",
+        "summary": "Students learn that in written sentences, small spaces separate one word from the next, helping readers know where one word ends and another begins.",
+        "resourceLabel": "YouTube: Print Concepts: Spaces Between Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Spaces%20Between%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What separates one written word from the next?",
+            "options": [
+              "A picture",
+              "A number",
+              "A colour",
+              "A space"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are spaces between words important for readers?",
+            "options": [
+              "They show where one word ends and the next begins",
+              "Spaces are only used in pictures",
+              "Spaces have no purpose at all",
+              "Spaces make reading harder"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a sentence had no spaces between its words, what would happen?",
+            "options": [
+              "It would be easier to read",
+              "Nothing would change at all",
+              "It would be exactly the same to read",
+              "It would be much harder to read"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these correctly shows spaces between words?",
+            "options": [
+              "Iseeacat",
+              "I see a cat",
+              "I  see    a cat",
+              "Isee acat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Print concepts, like spaces between words, help beginning readers ___.",
+            "options": [
+              "Understand how written language works",
+              "Avoid reading altogether",
+              "Forget how to read",
+              "Only look at pictures"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the small gaps that separate one written word from the next?",
+            "answers": [
+              "spaces"
+            ]
+          },
+          {
+            "prompt": "Do spaces help readers know where one word ends and another begins?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If there were no spaces between words, would reading be easier or harder?",
+            "answers": [
+              "harder"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Morning, Afternoon, and Night",
+        "summary": "Students learn to describe parts of the day as morning, afternoon, or night, and connect daily activities, like eating breakfast or going to sleep, to the correct part of the day.",
+        "resourceLabel": "YouTube: Time: Morning, Afternoon, and Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Morning%2C%20Afternoon%2C%20and%20Night%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "When do we usually eat breakfast?",
+            "options": [
+              "Never",
+              "Only on weekends",
+              "In the morning",
+              "At night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When do we usually go to sleep?",
+            "options": [
+              "At lunchtime",
+              "In the morning",
+              "Never",
+              "At night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which activity usually happens in the afternoon?",
+            "options": [
+              "Eating lunch",
+              "Sleeping all night",
+              "Eating breakfast",
+              "Waking up for the first time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Putting the day in order, which comes first: morning, afternoon, or night?",
+            "options": [
+              "Night",
+              "Morning",
+              "They happen at the same time",
+              "Afternoon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Describing the parts of a day helps us understand ___.",
+            "options": [
+              "The order that daily events happen in",
+              "Only what happens on weekends",
+              "Nothing useful about our day",
+              "Only nighttime activities"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do we usually eat breakfast in the morning or at night?",
+            "answers": [
+              "morning"
+            ]
+          },
+          {
+            "prompt": "Do we usually go to sleep in the afternoon or at night?",
+            "answers": [
+              "night"
+            ]
+          },
+          {
+            "prompt": "Is lunchtime usually part of the morning or the afternoon?",
+            "answers": [
+              "afternoon"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Brain: The Body Control Centre",
+        "summary": "Students learn that the brain is inside our head and acts like a control centre, helping us think, move, feel, and remember things.",
+        "resourceLabel": "YouTube: Our Brain: The Body Control Centre",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Brain%3A%20The%20Body%20Control%20Centre%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What body part is like a control centre inside our head?",
+            "options": [
+              "Brain",
+              "Hair",
+              "Elbow",
+              "Toe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these does our brain help us do?",
+            "options": [
+              "Only grow taller",
+              "Nothing at all",
+              "Think and remember",
+              "Only make loud sounds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is our brain located?",
+            "options": [
+              "Inside our hand",
+              "Inside our foot",
+              "Inside our head",
+              "Outside our body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the brain an important body part?",
+            "options": [
+              "It has no real job",
+              "It only helps us taste food",
+              "It helps control thinking, moving, and feeling",
+              "It only helps us hear sounds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Our brain is best described as our bodys ___.",
+            "options": [
+              "Only decoration",
+              "Food storage",
+              "Control centre",
+              "Least useful part"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part acts like a control centre inside our head?",
+            "answers": [
+              "brain",
+              "the brain"
+            ]
+          },
+          {
+            "prompt": "Name one thing our brain helps us do, like think or move.",
+            "answers": [
+              "think",
+              "move",
+              "remember"
+            ]
+          },
+          {
+            "prompt": "Is our brain located inside our head or inside our foot?",
+            "answers": [
+              "inside our head",
+              "our head"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Cultural Celebrations Around the World",
+        "summary": "Students learn that families around the world celebrate different cultural festivals, such as Lunar New Year and Diwali, often with special foods, clothing, and traditions.",
+        "resourceLabel": "YouTube: Cultural Celebrations Around the World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Cultural%20Celebrations%20Around%20the%20World%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a cultural celebration?",
+            "options": [
+              "A random day with no meaning",
+              "A special festival that a group of people celebrates together",
+              "A day when nothing happens",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a cultural celebration?",
+            "options": [
+              "A trip to the store",
+              "Lunar New Year",
+              "A regular Tuesday",
+              "A nap time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might families wear special clothing during a cultural celebration?",
+            "options": [
+              "It is part of honouring their traditions",
+              "It is only for random reasons",
+              "Celebrations never involve clothing",
+              "Special clothing has no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How should we respond when a friend shares about their cultural celebration?",
+            "options": [
+              "By refusing to listen",
+              "By laughing unkindly",
+              "With curiosity and respect",
+              "By ignoring them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about different cultural celebrations helps us ___.",
+            "options": [
+              "Understand and respect our differences",
+              "Ignore other cultures completely",
+              "Judge people unfairly",
+              "Avoid learning anything new"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one cultural celebration families might enjoy, like Lunar New Year.",
+            "answers": [
+              "Lunar New Year",
+              "Diwali"
+            ]
+          },
+          {
+            "prompt": "Do different cultures often celebrate with special foods and clothing?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is it kind to be curious and respectful about a friends cultural celebration?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Time Order Words: Yesterday, Today, and Tomorrow",
+        "summary": "Students learn that yesterday describes a day that already happened, today describes the day happening right now, and tomorrow describes the day that is coming next.",
+        "resourceLabel": "YouTube: Time Order Words: Yesterday, Today, and Tomorrow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%20Order%20Words%3A%20Yesterday%2C%20Today%2C%20and%20Tomorrow%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What word describes a day that already happened?",
+            "options": [
+              "Tomorrow",
+              "Yesterday",
+              "Today",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes the day happening right now?",
+            "options": [
+              "Always",
+              "Tomorrow",
+              "Today",
+              "Yesterday"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes the day that is coming next?",
+            "options": [
+              "Yesterday",
+              "Today",
+              "Never",
+              "Tomorrow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Putting these in order, which comes first: yesterday, today, or tomorrow?",
+            "options": [
+              "Yesterday",
+              "They all happen at once",
+              "Today",
+              "Tomorrow"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Time order words like yesterday and tomorrow help us understand ___.",
+            "options": [
+              "When events happen in relation to today",
+              "Nothing useful at all",
+              "Only what colour something is",
+              "Only how tall something is"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does the word yesterday describe a day that already happened or one that is coming?",
+            "answers": [
+              "already happened",
+              "a day that already happened"
+            ]
+          },
+          {
+            "prompt": "Does the word today describe the day happening right now?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Does the word tomorrow describe a day that already happened or one that is coming?",
+            "answers": [
+              "one that is coming",
+              "coming next"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition: Adding Three Numbers Together",
+        "summary": "Students practise adding three small numbers together, such as 2 plus 3 plus 1, by combining any two numbers first and then adding the third.",
+        "resourceLabel": "YouTube: Addition: Adding Three Numbers Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Adding%20Three%20Numbers%20Together%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is 2 plus 2 plus 2?",
+            "options": [
+              "6",
+              "5",
+              "4",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1 plus 3 plus 2?",
+            "options": [
+              "6",
+              "4",
+              "5",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5 plus 1 plus 1?",
+            "options": [
+              "7",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding three numbers, you can add any two first and then add the ___.",
+            "options": [
+              "Same number twice",
+              "Answer again",
+              "Largest number only",
+              "Third number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3 plus 3 plus 1?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "6"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 2 plus 3 plus 1?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "What is 1 plus 1 plus 1?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 4 plus 2 plus 2?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Grassland Habitats: Wide Open Spaces",
+        "summary": "Students learn that a grassland is a habitat with wide open spaces covered mostly in grass and few trees, home to animals such as zebras, lions, and prairie dogs.",
+        "resourceLabel": "YouTube: Grassland Habitats: Wide Open Spaces",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grassland%20Habitats%3A%20Wide%20Open%20Spaces%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What covers most of a grassland habitat?",
+            "options": [
+              "Ice",
+              "Sand dunes only",
+              "Deep water",
+              "Grass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal is well known for living in a grassland?",
+            "options": [
+              "Zebra",
+              "Penguin",
+              "Polar bear",
+              "Whale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one feature of a grassland habitat?",
+            "options": [
+              "Tall dense rainforest trees",
+              "Thick snow all year",
+              "Wide open spaces with few trees",
+              "Deep ocean water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can large animals like zebras roam easily in a grassland?",
+            "options": [
+              "Zebras never move around",
+              "Grasslands are covered in solid ice",
+              "The wide open space gives them plenty of room to move",
+              "Grasslands have no open space at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A grassland is an example of a ___.",
+            "options": [
+              "Number",
+              "Habitat",
+              "Colour",
+              "Story character"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a grassland habitat covered mostly in grass or covered mostly in ice?",
+            "answers": [
+              "grass",
+              "mostly in grass"
+            ]
+          },
+          {
+            "prompt": "Name one animal that can live in a grassland, like a zebra.",
+            "answers": [
+              "zebra",
+              "lion",
+              "prairie dog"
+            ]
+          },
+          {
+            "prompt": "Does a grassland usually have wide open spaces?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Provinces and Territories: Parts of Canada",
+        "summary": "Students learn that Canada is made up of different provinces and territories, each with its own name, and that all of them together make up our whole country.",
+        "resourceLabel": "YouTube: Our Provinces and Territories: Parts of Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Provinces%20and%20Territories%3A%20Parts%20of%20Canada%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the different parts that make up Canada?",
+            "options": [
+              "Oceans",
+              "Countries",
+              "Continents",
+              "Provinces and territories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens when all the provinces and territories are put together?",
+            "options": [
+              "They disappear completely",
+              "They make up only one city",
+              "They make a different country",
+              "They make up our whole country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a province in Canada?",
+            "options": [
+              "Egypt",
+              "Ontario",
+              "Japan",
+              "France"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to learn about our provinces and territories?",
+            "options": [
+              "Provinces have nothing to do with Canada",
+              "It has no connection to our country",
+              "This concept is only about other countries",
+              "It helps us understand how our country is organized"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canada is best described as a country made up of many ___.",
+            "options": [
+              "Oceans only",
+              "Single cities only",
+              "Random unrelated places",
+              "Provinces and territories"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the different parts that make up the country of Canada?",
+            "answers": [
+              "provinces and territories",
+              "provinces",
+              "territories"
+            ]
+          },
+          {
+            "prompt": "Do all the provinces and territories together make up our whole country?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one province or territory in Canada, if you know one.",
+            "answers": [
+              "Ontario",
+              "Quebec",
+              "Alberta",
+              "British Columbia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Character Traits: How a Character Acts",
+        "summary": "Students learn that a character trait describes how a character usually behaves, such as being kind, brave, or silly, which is different from how a character feels at one moment.",
+        "resourceLabel": "YouTube: Character Traits: How a Character Acts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Character%20Traits%3A%20How%20a%20Character%20Acts%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "How a character usually behaves",
+              "The colour of a characters clothes",
+              "The title of the book",
+              "The name of the author"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a character always shares and helps friends, which trait describes them?",
+            "options": [
+              "Rude",
+              "Mean",
+              "Lazy",
+              "Kind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a character trait?",
+            "options": [
+              "Purple",
+              "Brave",
+              "Tuesday",
+              "Twelve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a character trait different from a characters feeling in one moment?",
+            "options": [
+              "A trait and a feeling are exactly the same thing",
+              "Traits only describe feelings, never actions",
+              "A trait describes how they usually act, not just one moment",
+              "Character traits have no connection to how someone acts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Recognizing character traits helps readers understand ___.",
+            "options": [
+              "Nothing about the story",
+              "What a character is usually like",
+              "Only the pictures in a book",
+              "Only the books title"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one character trait, like kind, brave, or silly.",
+            "answers": [
+              "kind",
+              "brave",
+              "silly"
+            ]
+          },
+          {
+            "prompt": "If a character always helps others, what trait might describe them?",
+            "answers": [
+              "kind",
+              "helpful"
+            ]
+          },
+          {
+            "prompt": "Is a character trait about how they usually act, or about one moment only?",
+            "answers": [
+              "how they usually act",
+              "usually act"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Length: About How Long Is It?",
+        "summary": "Students practise estimating, or making a careful guess, about how long an object is before measuring it, such as guessing how many blocks long a book might be.",
+        "resourceLabel": "YouTube: Estimating Length: About How Long Is It?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Length%3A%20About%20How%20Long%20Is%20It%3F%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to estimate the length of an object?",
+            "options": [
+              "To guess without any thought at all",
+              "To ignore the object completely",
+              "To make a careful guess before measuring exactly",
+              "To measure something perfectly every time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you estimate a pencil is about 3 blocks long, what have you done?",
+            "options": [
+              "Changed the pencils real length",
+              "Made a careful guess about its length",
+              "Measured it perfectly",
+              "Ignored the pencil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might estimating length be a useful skill?",
+            "options": [
+              "It helps us make a reasonable guess quickly before measuring exactly",
+              "Estimating always gives the exact same answer as measuring",
+              "This concept has no connection to measurement",
+              "Estimating is never useful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is more likely to be a good estimate for the length of a crayon?",
+            "options": [
+              "About 2 blocks",
+              "About 2000 blocks",
+              "About 200 blocks",
+              "About 0 blocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After estimating an objects length, what can we do to check how close our guess was?",
+            "options": [
+              "Throw the object away",
+              "Guess again without measuring",
+              "Measure the object exactly",
+              "Ignore the object forever"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes making a careful guess about how long something is?",
+            "answers": [
+              "estimating",
+              "estimate"
+            ]
+          },
+          {
+            "prompt": "If you estimate a book is about 5 blocks long, is that a careful guess or an exact answer?",
+            "answers": [
+              "a careful guess",
+              "guess"
+            ]
+          },
+          {
+            "prompt": "Should we estimate before or after we measure something exactly?",
+            "answers": [
+              "before"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Rainbows: Colours After the Rain",
+        "summary": "Students learn that a rainbow can appear in the sky when sunlight shines through raindrops, spreading the light into many colours like red, orange, yellow, green, blue, and purple.",
+        "resourceLabel": "YouTube: Rainbows: Colours After the Rain",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rainbows%3A%20Colours%20After%20the%20Rain%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What weather event often happens before we see a rainbow?",
+            "options": [
+              "A clear night",
+              "Rain",
+              "Snow",
+              "Wind only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What causes sunlight to spread into a rainbows many colours?",
+            "options": [
+              "Darkness at night",
+              "Sunlight shining through raindrops",
+              "Sunlight shining through rocks",
+              "The sound of thunder"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these colours might you see in a rainbow?",
+            "options": [
+              "Black",
+              "Brown",
+              "Red",
+              "Grey"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do rainbows often appear after it rains?",
+            "options": [
+              "Sunlight can shine through the raindrops still in the air",
+              "Rain removes all light from the sky",
+              "Rainbows only appear on cloudy nights",
+              "Rainbows have no connection to rain at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A rainbow is best described as sunlight being spread into many ___.",
+            "options": [
+              "Shapes",
+              "Smells",
+              "Sounds",
+              "Colours"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What natural event often happens right before we might see a rainbow?",
+            "answers": [
+              "rain"
+            ]
+          },
+          {
+            "prompt": "Name one colour we might see in a rainbow, like red or blue.",
+            "answers": [
+              "red",
+              "blue",
+              "yellow",
+              "green",
+              "orange",
+              "purple"
+            ]
+          },
+          {
+            "prompt": "Does sunlight shining through raindrops help create a rainbow?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Welcoming New Neighbours: Being Kind to Newcomers",
+        "summary": "Students learn that when a new family moves into the neighbourhood, being welcoming and kind, such as saying hello or offering to help, makes newcomers feel included.",
+        "resourceLabel": "YouTube: Welcoming New Neighbours: Being Kind to Newcomers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Welcoming%20New%20Neighbours%3A%20Being%20Kind%20to%20Newcomers%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a good way to make a new neighbour feel welcome?",
+            "options": [
+              "Ignoring them completely",
+              "Refusing to speak with them",
+              "Saying hello and offering to help",
+              "Being unkind to them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a new family feel nervous when they first move to a neighbourhood?",
+            "options": [
+              "New families never feel nervous",
+              "Everything and everyone around them is unfamiliar at first",
+              "This concept has no connection to being new",
+              "Moving to a new place has no effect on feelings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these shows kindness to a newcomer?",
+            "options": [
+              "Refusing to include them in games",
+              "Walking away without saying anything",
+              "Whispering unkindly about them",
+              "Introducing yourself and offering to help"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might welcoming a new neighbour help the whole community?",
+            "options": [
+              "Welcoming newcomers never helps a community",
+              "It can help the newcomer feel included and build a stronger community",
+              "This concept has no connection to community life",
+              "New neighbours should always be avoided"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being kind to newcomers helps build a community that feels ___.",
+            "options": [
+              "Unsafe",
+              "Welcoming and included",
+              "Confusing",
+              "Cold and unfriendly"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What should we do to make a new neighbour feel included, like saying hello?",
+            "answers": [
+              "say hello",
+              "be kind"
+            ]
+          },
+          {
+            "prompt": "Is it kind or unkind to ignore a new family who just moved in?",
+            "answers": [
+              "unkind"
+            ]
+          },
+          {
+            "prompt": "Can offering to help a new neighbour make them feel welcome?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Poetry: Simple Rhymes and Rhythm",
+        "summary": "Students learn that a poem often uses rhyming words and a steady rhythm, or beat, to make the words sound musical and fun to say aloud.",
+        "resourceLabel": "YouTube: Poetry: Simple Rhymes and Rhythm",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Poetry%3A%20Simple%20Rhymes%20and%20Rhythm%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What do many poems use to sound musical?",
+            "options": [
+              "Only numbers",
+              "Rhyming words and rhythm",
+              "Only silence",
+              "Only pictures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What word describes the steady beat felt in a poem?",
+            "options": [
+              "Index",
+              "Cover",
+              "Rhythm",
+              "Chapter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these lines shows rhyming words?",
+            "options": [
+              "The cat sat on a mat",
+              "The dog ran in the yard",
+              "The cat sat on a chair",
+              "The bird flew over the house"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might reading a poem aloud feel different from reading a plain sentence?",
+            "options": [
+              "Poems are always silent when read aloud",
+              "Poems and plain sentences always sound identical",
+              "Poems never use any rhythm at all",
+              "A poems rhythm and rhyme can make it sound musical and fun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Poetry often uses rhyme and rhythm to make words feel ___.",
+            "options": [
+              "Musical and fun to say",
+              "Boring and flat",
+              "Impossible to read",
+              "Completely silent"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do poems often use words that rhyme with each other?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What word describes the steady beat we hear in a poem?",
+            "answers": [
+              "rhythm"
+            ]
+          },
+          {
+            "prompt": "Is reading a poem aloud often fun because of its rhythm and rhyme?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Repeating Patterns: Predicting What Comes Next",
+        "summary": "Students practise looking at a repeating pattern, such as circle, square, circle, square, and predicting which shape or colour should come next in the sequence.",
+        "resourceLabel": "YouTube: Repeating Patterns: Predicting What Comes Next",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Repeating%20Patterns%3A%20Predicting%20What%20Comes%20Next%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "In the pattern star, moon, star, moon, what comes next?",
+            "options": [
+              "Sun",
+              "Cloud",
+              "Star",
+              "Moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the pattern 1, 2, 1, 2, 1, what comes next?",
+            "options": [
+              "0",
+              "3",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call guessing what comes next in a repeating pattern?",
+            "options": [
+              "Predicting",
+              "Ignoring",
+              "Erasing",
+              "Forgetting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the pattern green, green, yellow, green, green, yellow, what comes next?",
+            "options": [
+              "Green",
+              "Yellow",
+              "Red",
+              "Blue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Predicting what comes next in a pattern helps us understand that patterns ___.",
+            "options": [
+              "Never repeat at all",
+              "Have no order at all",
+              "Are always random",
+              "Repeat in a predictable way"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the pattern circle, square, circle, square, what comes next?",
+            "answers": [
+              "circle",
+              "a circle"
+            ]
+          },
+          {
+            "prompt": "In the pattern red, blue, red, blue, red, what comes next?",
+            "answers": [
+              "blue",
+              "a blue"
+            ]
+          },
+          {
+            "prompt": "What do we call guessing what comes next in a pattern?",
+            "answers": [
+              "predicting",
+              "prediction"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sound: Loud, Quiet, High, and Low",
+        "summary": "Students learn that sounds can be loud or quiet, and also high or low, and that different objects, like a drum or a whistle, make different kinds of sounds.",
+        "resourceLabel": "YouTube: Sound: Loud, Quiet, High, and Low",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%3A%20Loud%2C%20Quiet%2C%20High%2C%20and%20Low%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word describes a very soft sound?",
+            "options": [
+              "Quiet",
+              "Bright",
+              "Heavy",
+              "Loud"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word describes a very noisy sound?",
+            "options": [
+              "Dim",
+              "Soft",
+              "Quiet",
+              "Loud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a whistle usually make a high sound or a low sound?",
+            "options": [
+              "Cannot tell",
+              "No sound at all",
+              "High",
+              "Low"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is likely to make a loud sound?",
+            "options": [
+              "A leaf resting on grass",
+              "A feather falling",
+              "A whisper",
+              "A drum being banged"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sounds can be described using these two pairs of words: loud and quiet, high and ___.",
+            "options": [
+              "Low",
+              "Heavy",
+              "Colourful",
+              "Bright"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one word that describes a very soft sound, like a whisper.",
+            "answers": [
+              "quiet",
+              "soft"
+            ]
+          },
+          {
+            "prompt": "Name one word that describes a very noisy sound, like a shout.",
+            "answers": [
+              "loud"
+            ]
+          },
+          {
+            "prompt": "Does a whistle usually make a high sound or a low sound?",
+            "answers": [
+              "high"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Weather Around the World: Hot and Cold Places",
+        "summary": "Students learn that different places around the world have very different weather, with some places, like deserts, being very hot, and others, like the Arctic, being very cold.",
+        "resourceLabel": "YouTube: Weather Around the World: Hot and Cold Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Around%20the%20World%3A%20Hot%20and%20Cold%20Places%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these places is usually very hot?",
+            "options": [
+              "A desert",
+              "The North Pole",
+              "A snowy mountain",
+              "The Arctic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these places is usually very cold?",
+            "options": [
+              "A rainforest",
+              "The Arctic",
+              "A desert",
+              "A tropical beach"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people in hot places dress differently than people in cold places?",
+            "options": [
+              "They need clothing suited to their own local weather",
+              "Weather never changes what people wear",
+              "Everyone in the world wears the exact same clothing",
+              "Clothing has no connection to weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about weather around the world helps us understand that ___.",
+            "options": [
+              "Only one kind of weather exists on Earth",
+              "Weather never changes anywhere",
+              "Different places can have very different climates",
+              "Every place has the exact same weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing hot and cold places around the world is an example of learning about ___.",
+            "options": [
+              "Numbers and counting",
+              "Only our own neighbourhood",
+              "Our world and its different climates",
+              "A make-believe story"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one place in the world that is usually very hot, like a desert.",
+            "answers": [
+              "desert"
+            ]
+          },
+          {
+            "prompt": "Name one place in the world that is usually very cold, like the Arctic.",
+            "answers": [
+              "Arctic",
+              "the Arctic"
+            ]
+          },
+          {
+            "prompt": "Do different places around the world have different weather?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Families, Blends, and Poetry",
+        "summary": "Students review recent Language skills: the -ig and -ug word families, beginning blends, rhyming, question marks, spaces between words, time order words, character traits, and poetry.",
+        "resourceLabel": "YouTube: Language Review: Word Families, Blends, and Poetry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Blends%2C%20and%20Poetry%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word rhymes with big?",
+            "options": [
+              "Sun",
+              "Cup",
+              "Dog",
+              "Pig"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the blend st?",
+            "options": [
+              "Dog",
+              "Man",
+              "Stop",
+              "Pig"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What punctuation mark ends a sentence that asks something?",
+            "options": [
+              "Comma",
+              "Question mark",
+              "Exclamation mark",
+              "Period"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "The name of the author",
+              "How a character usually behaves",
+              "The colour of a characters clothes",
+              "The title of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do many poems use to sound musical?",
+            "options": [
+              "Only silence",
+              "Rhyming words and rhythm",
+              "Only pictures",
+              "Only numbers"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Change the b in big to p. What new word do you make?",
+            "answers": [
+              "pig"
+            ]
+          },
+          {
+            "prompt": "What two letters blend together at the start of the word black?",
+            "answers": [
+              "bl"
+            ]
+          },
+          {
+            "prompt": "What punctuation mark is used at the end of a sentence that asks something?",
+            "answers": [
+              "question mark"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Place Value, Facts, and Patterns",
+        "summary": "Students review recent Math skills: tens and ones, fact families, composing shapes, sorting data, skip counting by 5s, adding three numbers, estimating length, and repeating patterns.",
+        "resourceLabel": "YouTube: Math Review: Place Value, Facts, and Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Place%20Value%2C%20Facts%2C%20and%20Patterns%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many tens are in the number 12?",
+            "options": [
+              "0",
+              "2",
+              "3",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 2 plus 5 equals 7, what does 7 minus 5 equal?",
+            "options": [
+              "5",
+              "2",
+              "0",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you skip count by 5s starting at 5, what comes after 15?",
+            "options": [
+              "20",
+              "16",
+              "10",
+              "25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 2 plus 2 plus 2?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the pattern star, moon, star, moon, what comes next?",
+            "options": [
+              "Cloud",
+              "Moon",
+              "Sun",
+              "Star"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many tens are in the number 14?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "If 3 plus 4 equals 7, what does 7 minus 4 equal?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What is 2 plus 3 plus 1?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Bodies, Habitats, and States of Matter",
+        "summary": "Students review recent Science topics: our skin, animal babies, seeds, simple machines, states of matter, our brain, grasslands, rainbows, and sound.",
+        "resourceLabel": "YouTube: Science Review: Bodies, Habitats, and States of Matter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20States%20of%20Matter%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which animal baby is born live?",
+            "options": [
+              "Snake",
+              "Chick",
+              "Turtle",
+              "Puppy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What simple machine uses a bar and a support point to lift things?",
+            "options": [
+              "A lever",
+              "A pulley",
+              "A ramp",
+              "A wheel only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a solid?",
+            "options": [
+              "Water",
+              "Steam",
+              "A rock",
+              "Air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which animal is well known for living in a grassland?",
+            "options": [
+              "Polar bear",
+              "Whale",
+              "Zebra",
+              "Penguin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word describes a very soft sound?",
+            "options": [
+              "Loud",
+              "Heavy",
+              "Bright",
+              "Quiet"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part covers our whole body?",
+            "answers": [
+              "skin"
+            ]
+          },
+          {
+            "prompt": "What tiny object holds everything a new plant needs to grow?",
+            "answers": [
+              "seed",
+              "a seed"
+            ]
+          },
+          {
+            "prompt": "What body part is like a control centre inside our head?",
+            "answers": [
+              "brain",
+              "the brain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Helpers, Leaders, and Our World",
+        "summary": "Students review recent Social Studies topics: librarians, mayors, community gardens, bus safety, grandparents, cultural celebrations, provinces and territories, welcoming newcomers, and world weather.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Leaders, and Our World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Leaders%2C%20and%20Our%20World%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a community garden?",
+            "options": [
+              "A place with no plants at all",
+              "A garden owned by only one family",
+              "A store that sells toys",
+              "A shared space where neighbours grow food together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should riders stay seated on a moving bus?",
+            "options": [
+              "Buses never move",
+              "Standing is always safer",
+              "Sitting down is never important",
+              "To stay safe while the bus is moving"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a cultural celebration?",
+            "options": [
+              "A regular Tuesday",
+              "Lunar New Year",
+              "A nap time",
+              "A trip to the store"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a good way to make a new neighbour feel welcome?",
+            "options": [
+              "Ignoring them completely",
+              "Saying hello and offering to help",
+              "Being unkind to them",
+              "Refusing to speak with them"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these places is usually very hot?",
+            "options": [
+              "The North Pole",
+              "A snowy mountain",
+              "A desert",
+              "The Arctic"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who helps people find books at the library?",
+            "answers": [
+              "librarian"
+            ]
+          },
+          {
+            "prompt": "What do we call the person chosen to help lead a town or city?",
+            "answers": [
+              "mayor"
+            ]
+          },
+          {
+            "prompt": "What do we call the different parts that make up Canada?",
+            "answers": [
+              "provinces and territories",
+              "provinces",
+              "territories"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
