@@ -3145,6 +3145,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review physical and urban geography topics like weathering, site and situation, the Great Lakes, and housing affordability together?", options:["It reinforces how physical processes and human settlement patterns both shape the geography of a region","Each topic must be studied with no connection to the others","Review is never useful in social studies","These topics have no meaningful connections"], answer:0}
    ]},
 ]},
+{day:81, label:"Day 81 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Epistolary Narratives", summary:"Grade 9 Language strand: an epistolary narrative tells a story through letters, diary entries, or other documents, giving readers a direct, personal window into a character’s voice and perspective.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What do we call a narrative told through letters or diary entries?", options:["A recipe","A concept unrelated to reading","An epistolary narrative","A biography"], answer:2},
+     {q:"Does an epistolary narrative give readers a direct window into a character’s voice?", options:["This format only ever uses a third-person narrator","Yes","No, this format never reveals a character’s voice","A concept unrelated to epistolary narratives"], answer:1},
+     {q:"Why might an author choose an epistolary format to tell a story?", options:["Epistolary narratives never create any sense of intimacy","This format always distances readers from the characters","This concept has no connection to literature","It can create intimacy and immediacy by presenting events directly through a character’s own words"], answer:3},
+     {q:"Why might reading multiple letters from different characters in an epistolary novel be useful?", options:["This concept has no connection to reading comprehension","Only one single perspective is ever possible in this format","It can reveal multiple perspectives on the same events","Multiple letters never add any new perspective to a story"], answer:2},
+     {q:"Which of these is an example of an epistolary structure?", options:["A novel told entirely through a character’s diary entries","A newspaper weather report","A textbook chapter on chemistry","A novel narrated by an all-knowing narrator"], answer:0}
+   ]},
+  {subject:"Math", title:"Solving Systems of Equations by Substitution", summary:"Grade 9 Math strand: the substitution method solves a system of two linear equations by isolating one variable in one equation, then substituting that expression into the other equation.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"In the substitution method, what is the first step?", options:["Graph both equations immediately","Add both equations together without isolating anything","A concept unrelated to systems of equations","Isolate one variable in one equation"], answer:3},
+     {q:"After isolating a variable, what do you do with that expression?", options:["Ignore it completely","Divide it by zero","Substitute it into the other equation","A concept unrelated to substitution"], answer:2},
+     {q:"If y equals 2x plus 1, and this is substituted into another equation, what are you solving for first?", options:["A concept unrelated to substitution","Nothing at all","The value of y only","The value of x"], answer:3},
+     {q:"Why might substitution be a useful method when one equation is already solved for a variable?", options:["Substitution is never useful in this situation","It saves time by allowing direct substitution instead of additional algebraic manipulation","This concept has no connection to algebra","Substitution only works when no variable is isolated"], answer:1},
+     {q:"If x plus y equals 12 and y equals 5, what is the value of x?", options:["5","7","12","17"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Epigenetics: Gene Expression and Environment", summary:"Grade 9 Science strand: epigenetics studies how environmental factors can influence whether specific genes are turned on or off, without altering the underlying DNA sequence itself.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does epigenetics study?", options:["How cells divide during mitosis","A concept unrelated to biology","How DNA sequences are physically rewritten","How environmental factors influence whether genes are turned on or off"], answer:3},
+     {q:"Does epigenetics involve changing the underlying DNA sequence?", options:["Yes, it always changes the DNA sequence","DNA sequence has no connection to epigenetics","No","A concept unrelated to epigenetics"], answer:2},
+     {q:"Name one environmental factor that could influence gene expression, such as diet.", options:["A favourite hobby","A concept unrelated to epigenetics","Diet","A random guess with no scientific basis"], answer:2},
+     {q:"Why might identical twins, who share the same DNA, develop some different traits over their lives?", options:["This concept has no connection to epigenetics","Identical twins can never develop any different traits","DNA sequence alone always determines every trait with no other influence","Different environmental experiences could lead to different epigenetic changes affecting gene expression"], answer:3},
+     {q:"Why is epigenetics considered a valuable area of modern biological research?", options:["It helps explain how environment and genetics interact to influence health and traits","This concept has no relevance to science","Epigenetics has no connection to health or biology","Genes are the only factor that ever influences an organism’s traits"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Renewable Energy Grids", summary:"Grade 9 Social Studies strand: renewable energy grids connect power sources like wind and solar farms to homes and businesses, requiring careful geographic planning to manage energy where it is generated and used.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What do renewable energy grids connect power sources to?", options:["Only remote, unpopulated areas","A concept unrelated to geography","Nothing at all","Homes and businesses"], answer:3},
+     {q:"Name one renewable power source that might connect to an energy grid, such as wind or solar.", options:["Coal","A concept unrelated to renewable energy","Wind","Oil"], answer:2},
+     {q:"Does building a renewable energy grid require careful geographic planning?", options:["Geography has no connection to energy grids","Yes","A concept unrelated to renewable energy grids","No, energy grids require no planning at all"], answer:1},
+     {q:"Why might a region with strong, consistent winds be an ideal location for a wind farm connected to the grid?", options:["This concept has no connection to geography","Wind farms work equally well in every location regardless of wind patterns","Wind speed has no connection to how much electricity a turbine generates","Consistent wind can generate more reliable and efficient electricity"], answer:3},
+     {q:"Why might connecting renewable energy sources across a large geographic area help balance electricity supply?", options:["This concept has no relevance to geography","Connecting energy sources across regions never has any benefit","Renewable energy grids only ever work within a single small area","If one area lacks sun or wind, energy from another connected region can help meet demand"], answer:3}
+   ]},
+]},
+{day:82, label:"Day 82 — Tue", subjects:[
+  {subject:"Language", title:"Writing: The Persuasive Op-Ed Rebuttal", summary:"Grade 9 Language strand: an op-ed rebuttal responds directly to a previously published opinion piece, presenting a counterargument backed by evidence and clear reasoning.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does an op-ed rebuttal respond to?", options:["A math textbook chapter","A previously published opinion piece","A weather forecast","A concept unrelated to writing"], answer:1},
+     {q:"Should an op-ed rebuttal be backed by evidence and clear reasoning?", options:["Only vague opinions are allowed, with no reasoning at all","A concept unrelated to writing","No, rebuttals never require any evidence","Yes"], answer:3},
+     {q:"Why might a writer directly quote the original article when writing a rebuttal?", options:["It ensures the counterargument accurately addresses the original claims","This concept has no connection to writing","Quoting an article never helps strengthen a rebuttal","Rebuttals should never reference the original argument at all"], answer:0},
+     {q:"Which of these would most likely appear in an op-ed rebuttal?", options:["Add 8 and 7 to get 15.","The chemical symbol for gold is Au.","Once upon a time, in a faraway kingdom.","Contrary to the original article’s claim, recent data actually shows a different trend."], answer:3},
+     {q:"Why is tone important to consider when writing a persuasive rebuttal?", options:["Tone never affects how persuasive an argument seems","An aggressive tone always makes a rebuttal more convincing","A respectful, reasoned tone can make an argument more credible and persuasive","This concept has no connection to writing"], answer:2}
+   ]},
+  {subject:"Math", title:"Scientific Notation: Operations", summary:"Grade 9 Math strand: students multiply and divide numbers written in scientific notation by combining the exponents of 10 while multiplying or dividing the decimal coefficients.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"When multiplying two numbers in scientific notation, what happens to the exponents of 10?", options:["They are multiplied together","They are subtracted","A concept unrelated to scientific notation","They are added together"], answer:3},
+     {q:"When dividing two numbers in scientific notation, what happens to the exponents of 10?", options:["A concept unrelated to scientific notation","They are divided","They are subtracted","They are added together"], answer:2},
+     {q:"What is the result of multiplying (3 times 10 to the 4th) by (2 times 10 to the 3rd)?", options:["6 times 10 to the 12th","6 times 10 to the 7th","6 times 10 to the 1st","5 times 10 to the 7th"], answer:1},
+     {q:"Why is scientific notation useful when calculating with very large astronomical distances?", options:["Scientific notation only works with small, simple numbers","This concept has no connection to math","Scientific notation never simplifies any large numbers","It simplifies extremely large numbers into a compact, manageable form"], answer:3},
+     {q:"What is the result of dividing (9 times 10 to the 6th) by (3 times 10 to the 2nd)?", options:["3 times 10 to the 3rd","3 times 10 to the 8th","3 times 10 to the 4th","6 times 10 to the 4th"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Physics of Superconductivity", summary:"Grade 9 Science strand: a superconductor is a material that conducts electricity with zero resistance when cooled below a critical temperature, allowing electric current to flow without energy loss.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is a superconductor?", options:["A material that conducts electricity with zero resistance below a critical temperature","A concept unrelated to physics","A material that always blocks electricity completely","A material that only conducts electricity at room temperature"], answer:0},
+     {q:"Does a superconductor need to be cooled below a certain temperature to achieve zero resistance?", options:["Yes","A concept unrelated to superconductors","No, superconductors work the same at any temperature","Temperature has no connection to superconductivity"], answer:0},
+     {q:"Does electric current flow through a superconductor without losing energy?", options:["Superconductors never actually conduct any electricity","A concept unrelated to superconductors","Yes","No, superconductors always lose significant energy"], answer:2},
+     {q:"Why might superconducting magnets be used in medical MRI machines?", options:["Superconductors have no connection to medical imaging technology","This concept has no relevance to science","MRI machines never use any superconducting technology","They can generate strong, stable magnetic fields efficiently without energy loss from resistance"], answer:3},
+     {q:"Why is finding a superconductor that works at higher, more practical temperatures an active area of research?", options:["Superconductors already work perfectly at room temperature with no research needed","Cooling temperature has no connection to how superconductors are used","Current superconductors often require expensive, complex cooling systems to function","This concept has no relevance to physics"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Undersea Internet Cables", summary:"Grade 9 Social Studies strand: most global internet traffic travels through undersea fibre-optic cables laid across ocean floors, connecting continents and shaping the geography of modern communication.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What do undersea internet cables carry across ocean floors?", options:["A concept unrelated to geography","Only local phone calls within one country","Global internet traffic","Ocean water for desalination"], answer:2},
+     {q:"Do undersea cables connect different continents?", options:["No, undersea cables never connect separate continents","Undersea cables only exist within a single country’s borders","A concept unrelated to internet infrastructure","Yes"], answer:3},
+     {q:"Does most global internet traffic travel through undersea cables?", options:["A concept unrelated to internet geography","No, internet traffic only ever travels through satellites","Undersea cables have no connection to internet traffic at all","Yes"], answer:3},
+     {q:"Why might damage to an undersea internet cable significantly disrupt communication in a region?", options:["A large amount of a region’s internet traffic could depend on a limited number of cable routes","Every region has unlimited alternative routes for internet traffic","Damage to undersea cables never has any effect on internet access","This concept has no connection to geography"], answer:0},
+     {q:"Why is the geography of undersea cable routes an important consideration for global communication infrastructure?", options:["This concept has no relevance to social studies","Cable routes must navigate ocean depths, geopolitical boundaries, and geographic obstacles","Undersea cables can be placed anywhere with no geographic planning needed","Geography has no connection to how undersea cables are planned"], answer:1}
+   ]},
+]},
+{day:83, label:"Day 83 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Nominalization and Formal Register", summary:"Grade 9 Language strand: nominalization turns a verb or adjective into a noun, such as changing analyze into analysis, often used to create a more formal, academic register in writing.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does nominalization do to a verb or adjective?", options:["A concept unrelated to grammar","Turns it into a noun","Turns it into a question","Removes it from the sentence entirely"], answer:1},
+     {q:"Which word is the nominalized form of the verb analyze?", options:["Analyzed","Analytical","Analysis","Analyzing"], answer:2},
+     {q:"Is nominalization commonly associated with a formal or informal writing register?", options:["An informal register only","Neither a formal nor an informal register","A formal register","A concept unrelated to nominalization"], answer:2},
+     {q:"Which sentence uses nominalization?", options:["The team analyzed the data quickly.","They will analyze it tomorrow.","The team’s analysis revealed a surprising trend.","Analyzing takes a long time sometimes."], answer:2},
+     {q:"Why might a writer use nominalization in a formal academic essay?", options:["This concept has no connection to writing style","Nominalization always makes writing sound more casual","Formal essays never use any nominalized words","It can create a more objective, abstract, and formal tone"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Box-and-Whisker Plots and Quartiles", summary:"Grade 9 Math strand: a box-and-whisker plot displays a data set’s distribution using five key values: the minimum, first quartile, median, third quartile, and maximum.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"How many key values does a box-and-whisker plot use to display data?", options:["Three","Five","Two","Ten"], answer:1},
+     {q:"What is the middle value of a data set called, shown in a box-and-whisker plot?", options:["The median","The maximum","The minimum","A concept unrelated to data"], answer:0},
+     {q:"What does the first quartile represent in a data set?", options:["A concept unrelated to quartiles","The value below which 25 percent of the data falls","The exact average of the entire data set","The single highest value in the data set"], answer:1},
+     {q:"Why might a box-and-whisker plot be useful for comparing test scores between two different classes?", options:["Test scores can never be organized into a box-and-whisker plot","This concept has no connection to data management","It shows the spread and central values clearly, making comparison easier","Box-and-whisker plots never help with comparing data sets"], answer:2},
+     {q:"What is the highest value in a data set called, shown in a box-and-whisker plot?", options:["The maximum","The minimum","The median","The first quartile"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Marine Biology: Coral Reefs and Bleaching", summary:"Grade 9 Science strand: coral reefs are built by colonies of tiny coral organisms and support enormous marine biodiversity, but rising ocean temperatures can cause coral bleaching, threatening these ecosystems.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What builds a coral reef?", options:["A concept unrelated to marine biology","Large boulders that fall from cliffs","Colonies of tiny coral organisms","Sand deposited by ocean currents"], answer:2},
+     {q:"Do coral reefs support enormous marine biodiversity?", options:["Yes","Only one single species can ever live near a coral reef","A concept unrelated to coral reefs","No, coral reefs support no marine life at all"], answer:0},
+     {q:"What can rising ocean temperatures cause in coral reefs?", options:["No change of any kind","A concept unrelated to coral reefs","Increased coral growth with no negative effects","Coral bleaching"], answer:3},
+     {q:"Why does coral bleaching occur when ocean water becomes too warm?", options:["Heat stress causes coral to expel the colourful algae that provide them with food and colour","This concept has no connection to marine biology","Coral reefs are never affected by ocean temperature","Warmer water always makes coral healthier and more colourful"], answer:0},
+     {q:"Why is protecting coral reefs considered important for global biodiversity?", options:["Coral reefs have no connection to global biodiversity","They support a huge variety of marine species that depend on the reef ecosystem","Marine species never depend on coral reefs for survival","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Language Extinction and Preservation", summary:"Grade 9 Social Studies strand: many of the world’s languages are at risk of disappearing as fewer speakers remain, prompting geographic and cultural efforts to document and preserve endangered languages.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is happening to many of the world’s languages as fewer speakers remain?", options:["They are all becoming more widely spoken","They are being replaced instantly with no loss of any kind","A concept unrelated to geography","They are at risk of disappearing"], answer:3},
+     {q:"Are efforts being made to document and preserve endangered languages?", options:["No, no effort has ever been made to preserve any language","Preservation efforts have no connection to endangered languages","Yes","A concept unrelated to language preservation"], answer:2},
+     {q:"Can geography play a role in why certain languages become endangered?", options:["A concept unrelated to language extinction","Yes","Every language faces the exact same risk regardless of location","No, geography has no connection to language survival"], answer:1},
+     {q:"Why might a remote community’s language be at particular risk of disappearing?", options:["Smaller, more isolated populations may have fewer remaining speakers passing on the language","Remote communities never face any risk of losing their language","Language risk has no connection to the size of a speaker population","This concept has no connection to geography"], answer:0},
+     {q:"Why is language preservation considered an important cultural and geographic issue?", options:["Every language in the world carries the exact same information","Language carries unique knowledge, history, and identity tied to a specific place and people","Preserving a language never has any cultural value","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:84, label:"Day 84 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Neologisms in Modern Language", summary:"Grade 9 Language strand: a neologism is a newly coined word or phrase, often created to describe new technology, trends, or ideas, such as podcast or crowdfunding.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What do we call a newly coined word or phrase?", options:["A neologism","A homophone","A concept unrelated to vocabulary","A synonym"], answer:0},
+     {q:"Which of these is an example of a neologism related to modern technology?", options:["Apple","Tree","Book","Podcast"], answer:3},
+     {q:"Are neologisms often created to describe new technology, trends, or ideas?", options:["No, neologisms are never connected to new ideas","A concept unrelated to neologisms","Yes","Neologisms only ever describe ancient concepts"], answer:2},
+     {q:"Why might a neologism like crowdfunding become widely used in everyday language?", options:["Neologisms are never actually adopted into everyday language","New words are never created to describe modern activities","It fills a need to describe a new activity or concept that did not previously have a common name","This concept has no connection to vocabulary"], answer:2},
+     {q:"Why do dictionaries sometimes add neologisms years after they were first coined?", options:["This concept has no connection to vocabulary","Dictionaries aim to reflect language as it is actually used once a word becomes widely adopted","Dictionaries never add any new words at all","Neologisms are always immediately removed from language"], answer:1}
+   ]},
+  {subject:"Math", title:"Direct and Partial Variation Applications", summary:"Grade 9 Math strand: direct variation describes a relationship where one quantity is a constant multiple of another, while partial variation includes an additional fixed starting amount.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"In direct variation, is one quantity always a constant multiple of another?", options:["No, direct variation never involves a constant multiple","Yes","The relationship is always completely random","A concept unrelated to variation"], answer:1},
+     {q:"Does partial variation include an additional fixed starting amount?", options:["No, partial variation never includes a fixed amount","A concept unrelated to partial variation","A fixed amount only appears in direct variation, never partial","Yes"], answer:3},
+     {q:"If a taxi charges a flat fee plus a rate per kilometre, is this direct or partial variation?", options:["Partial variation","Direct variation","A concept unrelated to variation","Neither type of variation"], answer:0},
+     {q:"If the cost of apples is directly proportional to the number bought, with no flat fee, is this direct or partial variation?", options:["Direct variation","Partial variation","A concept unrelated to variation","Neither type of variation"], answer:0},
+     {q:"Why is it useful to recognize whether a real-world situation follows direct or partial variation?", options:["Recognizing the type of variation never helps with solving a problem","This concept has no connection to math","Direct and partial variation are always modelled with the exact same equation","It helps set up the correct equation to model and solve the situation"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Quantum Mechanics: An Introduction", summary:"Grade 9 Science strand: quantum mechanics is the branch of physics that studies the behaviour of extremely small particles, which can behave in ways that differ significantly from everyday, large-scale objects.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does quantum mechanics study?", options:["Only objects visible to the naked eye","The behaviour of extremely large objects only","A concept unrelated to physics","The behaviour of extremely small particles"], answer:3},
+     {q:"Can small particles studied in quantum mechanics behave differently than large, everyday objects?", options:["A concept unrelated to quantum mechanics","No, small particles always behave exactly like large objects","Particles never behave in any predictable pattern","Yes"], answer:3},
+     {q:"Why do scientists need quantum mechanics instead of only classical physics to describe particles like electrons?", options:["Classical physics rules do not fully apply at the extremely small scale of particles like electrons","Classical physics fully explains the behaviour of every particle with no exceptions","This concept has no connection to quantum mechanics","Electrons behave in exactly the same way as everyday objects like balls"], answer:0},
+     {q:"Why is quantum mechanics considered important for developing modern technology, like computer processors?", options:["This concept has no relevance to science","Understanding particle behaviour at this scale has enabled major advances in electronics","Quantum mechanics has no connection to modern technology","Computer processors are built with no reliance on quantum mechanics"], answer:1},
+     {q:"Why might quantum mechanics be considered one of the more challenging areas of physics to fully grasp?", options:["Quantum mechanics is always simpler to understand than everyday physics","Quantum mechanics involves no unusual or unexpected behaviour at all","This concept has no relevance to physics","Its behaviour can seem counterintuitive compared to everyday physical experiences"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Global Supply Chain Disruptions", summary:"Grade 9 Social Studies strand: a global supply chain connects the production, transportation, and sale of goods across many countries, and disruptions, such as extreme weather or port closures, can affect availability worldwide.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What does a global supply chain connect across many countries?", options:["Only a single country’s local farmers markets","The production, transportation, and sale of goods","A concept unrelated to geography","Nothing at all connected to goods or trade"], answer:1},
+     {q:"Name one event that could disrupt a global supply chain, such as extreme weather.", options:["Extreme weather","A calm, sunny day with no unusual events","A holiday celebrated locally","A concept unrelated to supply chains"], answer:0},
+     {q:"Can a supply chain disruption affect the availability of goods worldwide?", options:["A concept unrelated to supply chains","Yes","No, disruptions never affect availability anywhere","Only a single store is ever affected by any disruption"], answer:1},
+     {q:"Why might a port closure in one country have effects on stores in a completely different country?", options:["Port closures never have any effect beyond their own local area","Every country only ever relies on goods produced within its own borders","Goods often pass through multiple countries and ports before reaching their final destination","This concept has no connection to geography"], answer:2},
+     {q:"Why is understanding the geography of supply chains useful for predicting how global events might affect local availability of goods?", options:["Global events never have any effect on what is available in local stores","This concept has no relevance to social studies","Supply chain geography never has any connection to local availability of goods","It helps identify how disruptions in one region can ripple outward to affect other places"], answer:3}
+   ]},
+]},
+{day:85, label:"Day 85 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing the Uncanny in Gothic Literature", summary:"Grade 9 Language strand: the uncanny refers to something eerily familiar yet strange, a feeling often used in Gothic literature to create unease, such as a lifelike doll or an unusually quiet house.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does the uncanny refer to in literature?", options:["Something completely ordinary with no unusual qualities","A concept unrelated to reading","Something eerily familiar yet strange","A cheerful, comforting feeling"], answer:2},
+     {q:"Is the uncanny often used in Gothic literature to create unease?", options:["Yes","No, the uncanny is never used to create unease","The uncanny only ever creates a calm, relaxed feeling","A concept unrelated to Gothic literature"], answer:0},
+     {q:"Which of these is an example of the uncanny?", options:["A sunny park full of children playing","A calm, quiet library","A lifelike doll that seems to move on its own","A friendly conversation between neighbours"], answer:2},
+     {q:"Why might Gothic authors use the uncanny to unsettle readers?", options:["Something familiar turned strange can create deep, lingering discomfort","Familiar objects never create any sense of unease","This concept has no connection to Gothic literature","The uncanny never has any effect on how a reader feels"], answer:0},
+     {q:"Why is the uncanny considered a powerful literary tool for building suspense?", options:["It plays on the tension between what feels familiar and what feels wrong, unsettling the reader","The uncanny never contributes to suspense in a story","This concept has no relevance to reading comprehension","Suspense is never connected to feelings of familiarity or strangeness"], answer:0}
+   ]},
+  {subject:"Math", title:"Data: Correlation vs Causation", summary:"Grade 9 Math strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another, a stronger claim requiring more rigorous evidence.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does correlation describe?", options:["A concept unrelated to data","A relationship between two variables","The exact cause of an event","A single, unrelated fact"], answer:1},
+     {q:"What does causation mean?", options:["A concept unrelated to data analysis","One variable directly causes a change in another","Correlation and causation always mean the exact same thing","Two variables have absolutely no connection at all"], answer:1},
+     {q:"Does correlation alone prove that one variable causes another?", options:["Correlation and causation are identical concepts","No","A concept unrelated to data","Yes, correlation always proves causation"], answer:1},
+     {q:"If sales of umbrellas and sales of raincoats both increase on rainy days, does that mean umbrellas cause raincoat sales?", options:["This proves a direct cause-and-effect relationship","No, both are likely related to a third factor, the rainy weather","Yes, umbrellas directly cause an increase in raincoat sales","A concept unrelated to correlation and causation"], answer:1},
+     {q:"Why is it important to understand the difference between correlation and causation when interpreting statistics?", options:["The two concepts are always interchangeable with no real difference","This concept has no connection to data analysis","Correlation and causation never need to be distinguished from each other","Mistaking correlation for causation could lead to incorrect conclusions about a relationship"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Vaccines and Immunology", summary:"Grade 9 Science strand: immunology studies how the immune system protects the body from pathogens, and vaccines work by training the immune system to recognize specific pathogens before an actual infection occurs.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does immunology study?", options:["A concept unrelated to biology","How plants convert sunlight into food","How rocks form over long periods of time","How the immune system protects the body from pathogens"], answer:3},
+     {q:"What do vaccines train the immune system to recognize?", options:["Specific pathogens","A concept unrelated to vaccines","Nothing at all related to disease","Only harmless substances with no medical purpose"], answer:0},
+     {q:"Do vaccines typically work by preparing the immune system before an actual infection occurs?", options:["No, vaccines only work after a person is already infected","A concept unrelated to vaccines","Timing has no connection to how vaccines work","Yes"], answer:3},
+     {q:"Why might a vaccine include a small, harmless piece of a pathogen rather than a full, dangerous version?", options:["This concept has no connection to immunology","Vaccines always include the full, dangerous version of a pathogen","It allows the immune system to learn and build a defense safely, without causing the actual illness","A harmless piece of a pathogen provides no useful immune response"], answer:2},
+     {q:"Why is widespread vaccination in a community sometimes linked to protecting people through herd immunity?", options:["Vaccinating a community never has any effect on how a disease spreads","This concept has no relevance to science","Herd immunity has no connection to vaccination at all","When enough people are immune, a disease has a harder time spreading, protecting those who cannot be vaccinated"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Desalination", summary:"Grade 9 Social Studies strand: desalination is the process of removing salt from seawater to produce fresh water, an increasingly important technology in regions facing water scarcity.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is desalination?", options:["A process that adds salt to fresh water","The process of removing salt from seawater to produce fresh water","A concept unrelated to geography","A method of purifying air, not water"], answer:1},
+     {q:"Is desalination an increasingly important technology in regions facing water scarcity?", options:["No, desalination has no connection to water scarcity","A concept unrelated to desalination","Yes","Water scarcity never affects any region in the world"], answer:2},
+     {q:"Does desalination help produce fresh water from seawater?", options:["Yes","Desalination only ever removes fresh water from the ocean","No, desalination has no connection to producing fresh water","A concept unrelated to desalination"], answer:0},
+     {q:"Why might a coastal region facing limited fresh water resources invest in desalination technology?", options:["This concept has no connection to geography","Coastal regions never face any water scarcity challenges","It provides access to an abundant source of seawater that can be converted into usable fresh water","Desalination provides no benefit to a region facing water scarcity"], answer:2},
+     {q:"Why might the cost and energy requirements of desalination be an important consideration for a region deciding whether to build a plant?", options:["Desalination never requires any energy or cost considerations","Desalination can require significant energy and infrastructure investment, affecting its overall feasibility","Every region can build a desalination plant with no resource considerations at all","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:86, label:"Day 86 — Mon", subjects:[
+  {subject:"Language", title:"Writing: The Personal Manifesto", summary:"Grade 9 Language strand: a personal manifesto expresses an individual’s core beliefs, values, and goals, often written with a confident, declarative tone to clarify one’s own convictions.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What kind of writing expresses an individual’s core beliefs and values?", options:["A personal manifesto","A concept unrelated to writing","A grocery list","A weather report"], answer:0},
+     {q:"Is a personal manifesto often written with a confident, declarative tone?", options:["Tone never matters in a personal manifesto","No, it is always written in a hesitant, uncertain tone","A concept unrelated to writing","Yes"], answer:3},
+     {q:"Why might someone write a personal manifesto?", options:["This concept has no connection to writing","Manifestos are only ever written by famous historical figures","To clarify and express what they believe in and value most","Personal manifestos serve no real purpose"], answer:2},
+     {q:"Which of these sentences sounds most like it belongs in a personal manifesto?", options:["I believe curiosity should guide how I approach every challenge.","Add 6 and 3 to get 9.","The chemical symbol for iron is Fe.","The capital of France is Paris."], answer:0},
+     {q:"Why might writing a personal manifesto help someone clarify their goals for the future?", options:["Putting beliefs and values into words can help someone reflect on what truly matters to them","Writing a manifesto never helps clarify anyone’s goals","This concept has no connection to writing","Personal manifestos have no connection to future goals"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Comparing Loan Options", summary:"Grade 9 Math strand: students compare different loan options by examining interest rates, repayment terms, and total cost over time to determine which option is more affordable.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What is one factor to examine when comparing loan options?", options:["A concept unrelated to financial literacy","Interest rates","The lender’s office location only","The colour of the lender’s logo"], answer:1},
+     {q:"Does a higher interest rate generally mean paying more over the life of a loan?", options:["A concept unrelated to loans","Yes","A higher interest rate always means paying less overall","No, interest rates never affect total repayment cost"], answer:1},
+     {q:"What is one reason a loan with a longer repayment term might cost more overall, even with smaller monthly payments?", options:["Monthly payments have no connection to total loan cost","Interest accumulates over a longer period of time","This concept has no connection to financial literacy","Longer repayment terms never affect the total cost of a loan"], answer:1},
+     {q:"Why is comparing the total cost of a loan more useful than just comparing monthly payments alone?", options:["This concept has no connection to financial literacy","Monthly payments always give a complete picture of a loan’s true cost","A lower monthly payment could still result in a higher total cost due to a longer term or higher interest","Total cost is never affected by a loan’s length or interest rate"], answer:2},
+     {q:"Why might someone choose a loan with a shorter term despite higher monthly payments?", options:["It could result in paying less interest overall and paying off the debt sooner","This concept has no connection to financial literacy","Shorter loan terms always cost more overall than longer terms","Loan term length never affects the total amount paid"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Bioplastics and Sustainable Materials", summary:"Grade 9 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering a potential alternative to traditional plastics made from petroleum.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What are bioplastics made from?", options:["Only petroleum, just like traditional plastic","A concept unrelated to materials science","Only metal and glass","Renewable sources, such as corn starch or sugarcane"], answer:3},
+     {q:"Are bioplastics considered a potential alternative to traditional petroleum-based plastics?", options:["No, bioplastics have no connection to traditional plastics","A concept unrelated to bioplastics","Yes","Bioplastics are exactly the same as petroleum-based plastics"], answer:2},
+     {q:"Name one renewable source that can be used to make bioplastics, such as corn starch.", options:["A concept unrelated to bioplastics","Crude oil","Corn starch","Coal"], answer:2},
+     {q:"Why might bioplastics be considered a more sustainable option than some traditional plastics?", options:["This concept has no connection to materials science","Bioplastics have no environmental benefit compared to traditional plastics","Traditional plastics are always more sustainable than bioplastics","They can be made from renewable resources rather than a limited, non-renewable resource like petroleum"], answer:3},
+     {q:"Why do scientists continue researching how bioplastics break down in different environments?", options:["This concept has no relevance to science","Understanding decomposition helps evaluate whether bioplastics truly reduce environmental waste","Bioplastics never actually decompose under any circumstances","Bioplastic decomposition has already been fully studied with nothing left to learn"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Megacities and Informal Settlements", summary:"Grade 9 Social Studies strand: rapid urban growth in some regions has led to megacities with populations over 10 million, often including informal settlements that develop without official planning or infrastructure.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is a megacity?", options:["A small rural village","A city with a population over 10 million people","A city with no residents at all","A concept unrelated to geography"], answer:1},
+     {q:"What is an informal settlement?", options:["A concept unrelated to urban geography","A rural farming community","A carefully planned suburb with full infrastructure","An area that develops without official planning or infrastructure"], answer:3},
+     {q:"Can informal settlements often develop within or near megacities?", options:["No, informal settlements never occur near any megacity","Yes","A concept unrelated to megacities","Megacities always have complete, formal planning throughout"], answer:1},
+     {q:"Why might informal settlements develop as a result of rapid urban population growth?", options:["Infrastructure and housing development may not keep pace with the speed of population growth","Informal settlements only ever appear in areas with no population growth at all","This concept has no connection to geography","Rapid population growth never leads to any housing challenges"], answer:0},
+     {q:"Why might residents of informal settlements face particular challenges with access to services like clean water or electricity?", options:["These areas often lack the official infrastructure planning that formal neighbourhoods receive","Informal settlements always have exactly the same infrastructure as formal neighbourhoods","This concept has no relevance to social studies","Access to services has no connection to how a settlement developed"], answer:0}
+   ]},
+]},
+{day:87, label:"Day 87 — Tue", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing AI-Generated Content", summary:"Grade 9 Language strand: AI-generated content, including text, images, and video created by artificial intelligence, raises questions about authenticity, authorship, and how audiences can verify what they see or read.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does AI-generated content include, besides text?", options:["A concept unrelated to media literacy","Only printed newspapers","Only handwritten letters","Images and video"], answer:3},
+     {q:"Does AI-generated content raise questions about authenticity and authorship?", options:["Authenticity has no connection to AI-generated content","No, AI-generated content raises no questions at all","A concept unrelated to AI-generated content","Yes"], answer:3},
+     {q:"Why might it be difficult to tell whether an image was created by AI or a human artist?", options:["AI tools can produce highly realistic images that closely mimic human-created work","AI-generated images are always obviously different from human-created ones","This concept has no connection to media literacy","AI-generated content never resembles anything created by a person"], answer:0},
+     {q:"Why is it important for audiences to consider the source and authorship of content they encounter online?", options:["This concept has no connection to media literacy","The source of content never affects how it should be evaluated","Understanding whether content is AI-generated can affect how much they trust or verify its accuracy","All online content is always completely reliable regardless of its source"], answer:2},
+     {q:"Why might questions about authorship become more complex as AI-generated content becomes more common?", options:["It can become harder to determine who or what is truly responsible for creating a piece of content","This concept has no relevance to media literacy","Authorship has always been perfectly clear with no complexity at all","AI-generated content never raises any questions about who created it"], answer:0}
+   ]},
+  {subject:"Math", title:"Weighted Averages", summary:"Grade 9 Math strand: a weighted average accounts for the relative importance of each value, such as a final grade calculated from assignments, tests, and exams that each carry a different percentage weight.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does a weighted average account for that a simple average does not?", options:["A concept unrelated to averages","The relative importance of each value","Only the largest value in a set","Only the smallest value in a set"], answer:1},
+     {q:"If a final grade includes assignments worth 30 percent and an exam worth 70 percent, is this an example of a weighted average?", options:["Yes","Percentages are never used in weighted averages","A concept unrelated to grading","No, this has no connection to weighted averages"], answer:0},
+     {q:"If a test is worth twice as much as a quiz in a weighted average, does the test count more or less toward the final grade?", options:["More","A concept unrelated to weighted averages","Less","The same amount as the quiz"], answer:0},
+     {q:"Why might a weighted average give a more accurate reflection of a student’s overall performance than a simple average?", options:["Every assessment should always count exactly the same amount","A weighted average never gives a more accurate reflection of performance","This concept has no connection to math","It reflects that some assessments, like exams, may matter more than others, like homework"], answer:3},
+     {q:"If assignments are worth 40 percent and a final exam is worth 60 percent, which part has a greater impact on the final grade?", options:["The assignments","They always have an equal impact","The final exam","A concept unrelated to weighted averages"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Black Holes and General Relativity Basics", summary:"Grade 9 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape, and its existence is explained by Einstein’s theory of general relativity.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is a black hole?", options:["An empty area of space with no gravity at all","A region in space with gravity so strong nothing can escape it","A bright star that never changes","A concept unrelated to astronomy"], answer:1},
+     {q:"Can light escape from a black hole?", options:["No","Yes, light easily escapes a black hole","A concept unrelated to black holes","Only some types of light can escape"], answer:0},
+     {q:"Which scientific theory helps explain the existence of black holes?", options:["The theory of evolution","Einstein’s theory of general relativity","A concept unrelated to black holes","The germ theory of disease"], answer:1},
+     {q:"Why can’t scientists directly see a black hole, even with powerful telescopes?", options:["A black hole itself emits no light, since even light cannot escape its gravity","Black holes are actually very easy to see directly with the naked eye","Black holes emit extremely bright light that can always be seen","This concept has no connection to how black holes work"], answer:0},
+     {q:"Why do scientists study the effects of black holes on nearby stars and matter?", options:["This concept has no relevance to science","Black holes have no measurable effect on their surroundings","Nearby stars are never affected in any way by a black hole","Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Climate Adaptation Strategies", summary:"Grade 9 Social Studies strand: climate adaptation strategies, such as building sea walls or developing drought-resistant crops, help communities adjust to the effects of a changing climate in their specific region.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What do climate adaptation strategies help communities do?", options:["Ignore climate change completely","A concept unrelated to geography","Adjust to the effects of a changing climate","Reverse climate change entirely on their own"], answer:2},
+     {q:"Name one example of a climate adaptation strategy, such as building sea walls.", options:["Building sea walls","A concept unrelated to climate adaptation","Ignoring rising sea levels","Removing all environmental protections"], answer:0},
+     {q:"Do climate adaptation strategies often depend on a community’s specific region and needs?", options:["Region has no connection to which strategies are useful","No, every community uses the exact same strategy regardless of location","A concept unrelated to climate adaptation","Yes"], answer:3},
+     {q:"Why might a coastal community invest in sea walls as a climate adaptation strategy?", options:["Rising sea levels could threaten coastal areas, and sea walls can help reduce flooding risk","Coastal communities are never affected by rising sea levels","This concept has no connection to geography","Sea walls have no connection to protecting coastal communities"], answer:0},
+     {q:"Why might a farming region develop drought-resistant crops as part of its climate adaptation strategy?", options:["Rainfall patterns never change due to a shifting climate","Changing rainfall patterns could make traditional crops harder to grow reliably","This concept has no relevance to social studies","Drought-resistant crops have no connection to climate adaptation"], answer:1}
+   ]},
+]},
+{day:88, label:"Day 88 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Absolute Phrases and Sentence Variety", summary:"Grade 9 Language strand: an absolute phrase modifies an entire sentence rather than a single word, often combining a noun with a participle, adding descriptive detail and sentence variety.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does an absolute phrase modify?", options:["Nothing at all","Only a single word","A concept unrelated to grammar","An entire sentence"], answer:3},
+     {q:"An absolute phrase often combines a noun with what other type of word?", options:["A conjunction only","A concept unrelated to absolute phrases","A participle","A preposition only"], answer:2},
+     {q:"In the sentence Her hands trembling, she opened the letter, what is the absolute phrase?", options:["Her hands trembling","Opened","The letter","She opened the letter"], answer:0},
+     {q:"Which sentence correctly uses an absolute phrase?", options:["His voice he shaking delivered speech the.","Shaking his voice he the speech delivered.","His voice shaking, he delivered the speech.","He delivered his voice shaking the speech."], answer:2},
+     {q:"Why might a writer use an absolute phrase to add sentence variety?", options:["It can add vivid, descriptive detail while breaking up repetitive sentence patterns","This concept has no connection to grammar","Absolute phrases always make sentences less descriptive","Absolute phrases never add any variety to writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Volume of Composite Solids with Curved Surfaces", summary:"Grade 9 Math strand: students find the volume of composite solids that combine shapes with curved surfaces, such as a cylinder topped with a hemisphere, by calculating the volume of each part and adding them together.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"To find the volume of a composite solid made of a cylinder and a hemisphere, what should you do?", options:["A concept unrelated to composite solids","Only calculate the volume of the cylinder","Only calculate the volume of the hemisphere","Find the volume of each part and add them together"], answer:3},
+     {q:"If a cylinder’s volume is 50 cubic cm and a hemisphere on top has a volume of 20 cubic cm, what is the total volume?", options:["70 cubic cm","20 cubic cm","50 cubic cm","30 cubic cm"], answer:0},
+     {q:"Why is it useful to break a composite solid into simpler shapes before finding its volume?", options:["Breaking a solid into simpler shapes never helps calculate its volume","It makes the calculation more manageable by using known volume formulas for each simple shape","Composite solids can never be broken into simpler shapes","This concept has no connection to geometry"], answer:1},
+     {q:"If a composite solid is made of two cones with volumes of 12 and 8 cubic cm, what is the total volume?", options:["8 cubic cm","20 cubic cm","4 cubic cm","12 cubic cm"], answer:1},
+     {q:"Why might understanding composite solid volume be useful for designing a real object, like a storage silo?", options:["Composite solid volume never applies to any real-world object","This concept has no connection to geometry","Many real objects combine simple shapes, so this skill helps calculate their total capacity","Storage silos are always made of a single, simple shape"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Epidemiology and Disease Modelling", summary:"Grade 9 Science strand: epidemiology studies how diseases spread through populations, using mathematical models to predict outbreaks and help guide effective public health responses.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does epidemiology study?", options:["How diseases spread through populations","How plants convert sunlight into food","How rocks form over millions of years","A concept unrelated to science"], answer:0},
+     {q:"Do epidemiologists use mathematical models to predict outbreaks?", options:["Yes","No, epidemiology never uses any mathematical models","A concept unrelated to epidemiology","Disease outbreaks can never be predicted in any way"], answer:0},
+     {q:"Can disease modelling help guide effective public health responses?", options:["Yes","A concept unrelated to epidemiology","Public health responses never rely on any scientific modelling","No, disease modelling has no connection to public health decisions"], answer:0},
+     {q:"Why might epidemiologists track how quickly a disease spreads from person to person?", options:["This concept has no connection to epidemiology","Diseases always spread at the exact same rate in every situation","Tracking disease spread never provides any useful information","This information helps predict future spread and guide public health responses"], answer:3},
+     {q:"Why is epidemiology considered an important field during a public health emergency?", options:["This concept has no relevance to science","Public health emergencies never require any scientific data","It provides critical data to help guide decisions that protect public health","Epidemiology has no relevance during a public health emergency"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Commercial Spaceflight", summary:"Grade 9 Social Studies strand: commercial spaceflight companies are developing launch sites and infrastructure around the world, raising new geographic questions about location, safety, and access to space.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What are commercial spaceflight companies developing around the world?", options:["Only underwater research stations","Launch sites and infrastructure","A concept unrelated to geography","Nothing at all connected to space"], answer:1},
+     {q:"Does the growth of commercial spaceflight raise new geographic questions?", options:["Geography has no connection to spaceflight infrastructure","A concept unrelated to spaceflight","No, commercial spaceflight raises no geographic questions at all","Yes"], answer:3},
+     {q:"Might location and safety be important considerations when building a spaceflight launch site?", options:["Yes","No, location and safety are never considered for launch sites","Launch sites can be built anywhere with no special considerations","A concept unrelated to commercial spaceflight"], answer:0},
+     {q:"Why might a launch site be built near a coastline rather than in a densely populated inland area?", options:["Launch sites are never influenced by nearby population density","It can allow rockets to launch over open water, reducing risk to populated areas","This concept has no connection to geography","Coastlines have no advantage for launching spacecraft"], answer:1},
+     {q:"Why might the growth of commercial spaceflight raise questions about equitable access to space exploration opportunities?", options:["This concept has no relevance to social studies","Not every country or region has the resources or infrastructure to participate equally in space activities","Every country has exactly the same access to space exploration resources","Commercial spaceflight has no connection to global equity issues"], answer:1}
+   ]},
+]},
+{day:89, label:"Day 89 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Comparing Translations of a Text", summary:"Grade 9 Language strand: comparing different translations of the same text can reveal how word choice, tone, and cultural context shape meaning, since no translation is a perfectly neutral copy of the original.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What can comparing different translations of the same text reveal?", options:["Only the exact number of pages in each version","How word choice, tone, and cultural context shape meaning","Nothing useful about the original text","A concept unrelated to reading"], answer:1},
+     {q:"Is a translation ever a perfectly neutral copy of the original text?", options:["No","Translations never differ from one another in any way","Yes, every translation is always perfectly neutral","A concept unrelated to translation"], answer:0},
+     {q:"Why might two translators choose different words for the same original sentence?", options:["Translators always choose the exact same words with no variation","This concept has no connection to translation","Each translator may interpret tone, culture, or meaning slightly differently","Word choice never affects how a translation is understood"], answer:2},
+     {q:"Why might comparing translations deepen a reader’s understanding of a classic work of literature?", options:["This concept has no connection to reading comprehension","It can reveal different interpretive choices and highlight aspects of meaning that a single translation might miss","Comparing translations never reveals anything new about a text","Every translation of a classic work is always identical"], answer:1},
+     {q:"Why might cultural context be an important factor for a translator to consider?", options:["Cultural context never affects how a text should be translated","Every language shares identical cultural expressions with no differences","Certain words or expressions may carry meanings specific to a culture that do not directly translate","This concept has no relevance to reading comprehension"], answer:2}
+   ]},
+  {subject:"Math", title:"Introduction to Modular Arithmetic", summary:"Grade 9 Math strand: modular arithmetic involves working with remainders after division, often described as clock arithmetic, since numbers wrap around after reaching a fixed value called the modulus.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does modular arithmetic involve working with?", options:["Only whole, undivided numbers","Remainders after division","A concept unrelated to math","Only negative numbers"], answer:1},
+     {q:"Why is modular arithmetic sometimes called clock arithmetic?", options:["Clocks and modular arithmetic have never been compared to each other","Modular arithmetic has no connection to clocks or wrapping numbers","This concept has no connection to math","Numbers wrap around after reaching a fixed value, similar to how a clock resets after 12"], answer:3},
+     {q:"What is 14 mod 5, meaning the remainder when 14 is divided by 5?", options:["4","9","5","14"], answer:0},
+     {q:"What is 20 mod 6, meaning the remainder when 20 is divided by 6?", options:["6","3","2","20"], answer:2},
+     {q:"Why might modular arithmetic be useful for solving problems involving repeating cycles, like days of the week?", options:["Days of the week have no connection to modular arithmetic","It naturally models patterns that repeat after a fixed number of steps","This concept has no connection to math","Modular arithmetic never applies to any repeating or cyclical pattern"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Battery Technology and Energy Storage", summary:"Grade 9 Science strand: batteries store chemical energy and convert it into electrical energy through a reaction between two electrodes separated by an electrolyte, powering everything from phones to electric vehicles.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What type of energy do batteries store?", options:["A concept unrelated to batteries","Chemical energy","Only sound energy","Only light energy"], answer:1},
+     {q:"What are the two materials in a battery where a chemical reaction occurs, called?", options:["Electrodes","Circuits","Insulators","A concept unrelated to batteries"], answer:0},
+     {q:"What separates the two electrodes in a battery?", options:["A concept unrelated to batteries","Nothing at all","An electrolyte","A simple wire only"], answer:2},
+     {q:"Why might a rechargeable battery be able to reverse its chemical reaction?", options:["All batteries work in exactly the same non-reversible way","Applying an external electrical current can reverse the chemical process, restoring the battery’s charge","This concept has no connection to battery chemistry","Rechargeable batteries never actually reverse any chemical reaction"], answer:1},
+     {q:"Why is improving battery technology considered important for the wider adoption of electric vehicles?", options:["Electric vehicles never actually rely on any battery technology","This concept has no relevance to science","Battery technology has no connection to electric vehicle range","Better batteries could allow vehicles to store more energy and travel farther on a single charge"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Global Health Disparities", summary:"Grade 9 Social Studies strand: access to health care and health outcomes vary significantly across the world, influenced by geographic factors such as income, infrastructure, and distance to medical facilities.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"Do access to health care and health outcomes vary across the world?", options:["Health outcomes never depend on any geographic factor","Yes","A concept unrelated to global health","No, every region has exactly the same access to health care"], answer:1},
+     {q:"Name one geographic factor that could influence health outcomes, such as distance to medical facilities.", options:["A concept unrelated to health disparities","The average temperature on a random day","A community’s favourite sport","Distance to medical facilities"], answer:3},
+     {q:"Can income level in a region influence access to health care?", options:["Every region has exactly the same income level","A concept unrelated to global health","Yes","No, income has no connection to health care access"], answer:2},
+     {q:"Why might a rural community far from a hospital face greater health challenges than an urban community?", options:["Distance to a hospital never has any effect on health outcomes","This concept has no connection to geography","Longer travel times and limited infrastructure could delay access to needed medical care","Rural and urban communities always have identical access to health care"], answer:2},
+     {q:"Why is understanding the geography of global health disparities useful for organizations working to improve health outcomes?", options:["It helps identify which regions most need investment in health care infrastructure and resources","Global health disparities have no connection to geography","Every region in the world requires the exact same health resources","This concept has no relevance to social studies"], answer:0}
+   ]},
+]},
+{day:90, label:"Day 90 — Fri", subjects:[
+  {subject:"Language", title:"Review: Narrative Analysis, Grammar, and Media Literacy (Days 81-89)", summary:"Grade 9 Language strand review: students revisit epistolary narratives, op-ed rebuttals, nominalization, neologisms, the uncanny, personal manifestos, AI-generated content, absolute phrases, and comparing translations.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What do we call a narrative told through letters or diary entries?", options:["A biography","A recipe","A concept unrelated to reading","An epistolary narrative"], answer:3},
+     {q:"What does nominalization do to a verb or adjective?", options:["Removes it from the sentence entirely","A concept unrelated to grammar","Turns it into a noun","Turns it into a question"], answer:2},
+     {q:"What does the uncanny refer to in literature?", options:["A cheerful, comforting feeling","A concept unrelated to reading","Something completely ordinary with no unusual qualities","Something eerily familiar yet strange"], answer:3},
+     {q:"Does AI-generated content raise questions about authenticity and authorship?", options:["Authenticity has no connection to AI-generated content","No, AI-generated content raises no questions at all","Yes","A concept unrelated to AI-generated content"], answer:2},
+     {q:"Is a translation ever a perfectly neutral copy of the original text?", options:["Yes, every translation is always perfectly neutral","Translations never differ from one another in any way","No","A concept unrelated to translation"], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Algebra, Statistics, and Financial Literacy (Days 81-89)", summary:"Grade 9 Math strand review: students revisit solving systems by substitution, scientific notation operations, box-and-whisker plots, direct and partial variation, correlation vs causation, comparing loans, weighted averages, composite solid volume, and modular arithmetic.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"In the substitution method, what is the first step?", options:["Add both equations together without isolating anything","Graph both equations immediately","Isolate one variable in one equation","A concept unrelated to systems of equations"], answer:2},
+     {q:"How many key values does a box-and-whisker plot use to display data?", options:["Two","Five","Three","Ten"], answer:1},
+     {q:"Does partial variation include an additional fixed starting amount?", options:["A concept unrelated to partial variation","Yes","No, partial variation never includes a fixed amount","A fixed amount only appears in direct variation, never partial"], answer:1},
+     {q:"What does a weighted average account for that a simple average does not?", options:["Only the largest value in a set","A concept unrelated to averages","The relative importance of each value","Only the smallest value in a set"], answer:2},
+     {q:"What is 14 mod 5, meaning the remainder when 14 is divided by 5?", options:["9","14","5","4"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Physics, Biology, and Emerging Science (Days 81-89)", summary:"Grade 9 Science strand review: students revisit epigenetics, superconductivity, coral reef bleaching, quantum mechanics, immunology, bioplastics, black holes, epidemiology, and battery technology.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does epigenetics study?", options:["How DNA sequences are physically rewritten","A concept unrelated to biology","How environmental factors influence whether genes are turned on or off","How cells divide during mitosis"], answer:2},
+     {q:"What can rising ocean temperatures cause in coral reefs?", options:["Increased coral growth with no negative effects","Coral bleaching","No change of any kind","A concept unrelated to coral reefs"], answer:1},
+     {q:"What does quantum mechanics study?", options:["The behaviour of extremely small particles","A concept unrelated to physics","The behaviour of extremely large objects only","Only objects visible to the naked eye"], answer:0},
+     {q:"Which scientific theory helps explain the existence of black holes?", options:["The theory of evolution","A concept unrelated to black holes","Einstein’s theory of general relativity","The germ theory of disease"], answer:2},
+     {q:"What type of energy do batteries store?", options:["Chemical energy","A concept unrelated to batteries","Only sound energy","Only light energy"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Review: Global Geography and Modern Issues (Days 81-89)", summary:"Grade 9 Social Studies strand review: students revisit renewable energy grids, undersea cables, language preservation, supply chain disruptions, desalination, megacities, climate adaptation, commercial spaceflight, and global health disparities.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What do renewable energy grids connect power sources to?", options:["Only remote, unpopulated areas","Homes and businesses","Nothing at all","A concept unrelated to geography"], answer:1},
+     {q:"What do undersea internet cables carry across ocean floors?", options:["Global internet traffic","Only local phone calls within one country","Ocean water for desalination","A concept unrelated to geography"], answer:0},
+     {q:"What is desalination?", options:["A process that adds salt to fresh water","A concept unrelated to geography","A method of purifying air, not water","The process of removing salt from seawater to produce fresh water"], answer:3},
+     {q:"What is a megacity?", options:["A city with a population over 10 million people","A city with no residents at all","A small rural village","A concept unrelated to geography"], answer:0},
+     {q:"Do access to health care and health outcomes vary across the world?", options:["Health outcomes never depend on any geographic factor","A concept unrelated to global health","No, every region has exactly the same access to health care","Yes"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
