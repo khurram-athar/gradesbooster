@@ -19462,5 +19462,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Anti-Heroes in Literature",
+        "summary": "Grade 8 Language strand: an anti-hero is a main character who lacks traditional heroic qualities, such as courage or moral virtue, yet still drives the story forward in a compelling way.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an anti-hero?",
+            "options": [
+              "A minor character with no importance",
+              "A concept unrelated to reading",
+              "A main character who lacks traditional heroic qualities",
+              "A villain with no role in the main plot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does an anti-hero still play a central role in driving the story forward?",
+            "options": [
+              "No, anti-heroes never play any central role",
+              "A concept unrelated to anti-heroes",
+              "Yes",
+              "Anti-heroes only ever appear in the background"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these traits might an anti-hero lack compared to a traditional hero?",
+            "options": [
+              "A physical body",
+              "A concept unrelated to anti-heroes",
+              "Moral virtue",
+              "The ability to speak"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose to write an anti-hero instead of a traditional hero?",
+            "options": [
+              "Traditional heroes are always more interesting than anti-heroes",
+              "This concept has no connection to literature",
+              "It can create a more complex, realistic character that challenges readers’ expectations",
+              "Anti-heroes never add any complexity to a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might readers still feel sympathy for an anti-hero despite their flaws?",
+            "options": [
+              "Anti-heroes are always portrayed with absolutely no depth",
+              "Authors often show relatable struggles or reasons behind the anti-hero’s flawed choices",
+              "This concept has no relevance to reading comprehension",
+              "Readers never feel any sympathy for a flawed character"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to the Law of Sines and Cosines",
+        "summary": "Grade 8 Math strand: the law of sines and the law of cosines are formulas used to find missing sides or angles in any triangle, not just right triangles.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What can the law of sines and cosines help you find in a triangle?",
+            "options": [
+              "Only the triangle’s colour",
+              "Only the triangle’s perimeter",
+              "A concept unrelated to trigonometry",
+              "Missing sides or angles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do the law of sines and cosines apply only to right triangles, or to any triangle?",
+            "options": [
+              "Only right triangles",
+              "A concept unrelated to these laws",
+              "Any triangle",
+              "Only equilateral triangles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are the law of sines and cosines useful beyond the Pythagorean theorem?",
+            "options": [
+              "This concept has no connection to trigonometry",
+              "These laws never apply to any triangle at all",
+              "They can be applied to triangles that are not right triangles",
+              "They can only ever be used on right triangles, just like the Pythagorean theorem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you know two angles and one side of a triangle, which law could help find another side?",
+            "options": [
+              "Only the Pythagorean theorem, which requires a right angle",
+              "A concept unrelated to trigonometry",
+              "The law of sines",
+              "No law can ever help in this situation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a surveyor use the law of cosines when measuring land that forms a non-right triangle?",
+            "options": [
+              "Surveyors never need to measure any triangular shapes",
+              "The law of cosines never applies to real-world measurement problems",
+              "This concept has no relevance to math",
+              "It allows them to calculate an unknown side or angle without needing a right angle"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Epigenetics: How Environment Affects Gene Expression",
+        "summary": "Grade 8 Science strand: epigenetics studies how environmental factors, such as diet or stress, can influence whether certain genes are turned on or off, without changing the underlying DNA sequence.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does epigenetics study?",
+            "options": [
+              "How environmental factors influence whether genes are turned on or off",
+              "A concept unrelated to biology",
+              "How genes are physically removed from an organism",
+              "How DNA sequences are permanently rewritten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one environmental factor that might influence gene expression, such as diet.",
+            "options": [
+              "A favourite colour",
+              "Diet",
+              "A random guess with no scientific basis",
+              "A concept unrelated to epigenetics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does epigenetics involve changing the underlying DNA sequence itself?",
+            "options": [
+              "No",
+              "Epigenetics has no connection to genes at all",
+              "A concept unrelated to epigenetics",
+              "Yes, it always changes the DNA sequence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might scientists be interested in how stress affects gene expression?",
+            "options": [
+              "Gene expression is never affected by any outside factor",
+              "This concept has no relevance to science",
+              "Stress has no connection to gene expression",
+              "Understanding these effects could reveal connections between environment and health outcomes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is epigenetics considered a relatively new and evolving area of scientific study?",
+            "options": [
+              "Gene expression was fully explained centuries ago",
+              "Epigenetics has already been completely understood with nothing left to discover",
+              "Scientists are still working to understand the full range of factors that can influence gene expression",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Chinese Immigration Act Repeal and Reconciliation",
+        "summary": "Grade 8 History strand: after decades of restrictive immigration laws targeting Chinese immigrants, Canada repealed the Chinese Immigration Act in 1947, a step toward addressing past discrimination.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Chinese Immigration Act repealed?",
+            "options": [
+              "1867",
+              "1988",
+              "1947",
+              "2001"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did the Chinese Immigration Act restrict Chinese immigration to Canada?",
+            "options": [
+              "No, it encouraged unlimited Chinese immigration",
+              "A concept unrelated to Canadian history",
+              "It had no connection to immigration at all",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was the repeal of this act a step toward addressing past discrimination?",
+            "options": [
+              "No, the repeal had no connection to discrimination",
+              "Yes",
+              "A concept unrelated to Canadian history",
+              "The act was never actually repealed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the repeal of the Chinese Immigration Act considered an important moment in Canadian history?",
+            "options": [
+              "It marked a significant shift away from a discriminatory immigration policy",
+              "The repeal had no real significance in Canadian history",
+              "This concept has no connection to history",
+              "Immigration policy in Canada has never changed over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable for students to learn about historical policies like the Chinese Immigration Act?",
+            "options": [
+              "Past discrimination never has any connection to modern Canadian society",
+              "This concept has no relevance to History",
+              "It helps build understanding of how discrimination has shaped Canadian history and policy",
+              "Historical immigration policies have no relevance to understanding Canada today"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Rhetorical Analysis Essay",
+        "summary": "Grade 8 Language strand: a rhetorical analysis essay examines how a writer or speaker uses persuasive techniques, such as ethos, pathos, and logos, to influence an audience.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a rhetorical analysis essay examine?",
+            "options": [
+              "Only the length of a text",
+              "A concept unrelated to writing",
+              "Only the punctuation used in a text",
+              "How a writer or speaker uses persuasive techniques"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one persuasive technique a rhetorical analysis might examine, such as ethos or pathos.",
+            "options": [
+              "A math formula",
+              "A grocery list",
+              "Ethos",
+              "A concept unrelated to rhetorical analysis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does ethos refer to an appeal based on credibility and trustworthiness?",
+            "options": [
+              "No, ethos refers only to emotion",
+              "Ethos has no connection to persuasion",
+              "Yes",
+              "A concept unrelated to rhetorical analysis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does pathos refer to an appeal based on emotion?",
+            "options": [
+              "Yes",
+              "No, pathos refers only to logic",
+              "A concept unrelated to rhetorical analysis",
+              "Pathos has no connection to persuasion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a rhetorical analysis essay be useful for understanding a political speech?",
+            "options": [
+              "This concept has no connection to writing",
+              "Political speeches never use any persuasive techniques",
+              "It can reveal the specific techniques used to persuade or influence listeners",
+              "Rhetorical analysis never reveals anything useful about a speech"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Matrices: An Introduction",
+        "summary": "Grade 8 Math strand: a matrix is a rectangular arrangement of numbers organized into rows and columns, used to represent and solve certain types of mathematical problems.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is a matrix?",
+            "options": [
+              "A type of geometric shape only",
+              "A rectangular arrangement of numbers in rows and columns",
+              "A concept unrelated to math",
+              "A single number with no structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the two directions a matrix is organized by?",
+            "options": [
+              "A concept unrelated to matrices",
+              "Only rows, with no columns",
+              "Only diagonals",
+              "Rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a matrix with 2 rows and 3 columns, how many total numbers does it contain?",
+            "options": [
+              "3",
+              "5",
+              "2",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a matrix be useful for organizing data, like scores from multiple games and players?",
+            "options": [
+              "This concept has no connection to math",
+              "It provides a clear, organized way to display data across two categories at once",
+              "Matrices never help organize any kind of data",
+              "Rows and columns never actually represent meaningful data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the size of a matrix with 3 rows and 2 columns often written as?",
+            "options": [
+              "A concept unrelated to matrices",
+              "3 by 2",
+              "2 by 3",
+              "5 by 5"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Physics of Superconductors",
+        "summary": "Grade 8 Science strand: a superconductor is a material that can conduct electricity with zero resistance when cooled to extremely low temperatures, allowing electric current to flow without losing energy.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a superconductor?",
+            "options": [
+              "A concept unrelated to physics",
+              "A material that conducts electricity with zero resistance at low temperatures",
+              "A material that only works at very high temperatures",
+              "A material that always blocks electricity completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a superconductor need to be cooled to extremely low temperatures to work?",
+            "options": [
+              "Temperature has no connection to superconductivity",
+              "Yes",
+              "No, superconductors work best at room temperature only",
+              "A concept unrelated to superconductors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does electric current flow through a superconductor without losing energy?",
+            "options": [
+              "Superconductors never actually conduct any electricity",
+              "A concept unrelated to superconductors",
+              "Yes",
+              "No, superconductors always lose a large amount of energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might superconductors be useful for technologies like maglev trains?",
+            "options": [
+              "Maglev trains never use any superconducting technology",
+              "They can create powerful magnetic fields efficiently, without energy loss from resistance",
+              "Superconductors have no connection to magnetic technology",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the requirement for extremely low temperatures a current challenge for using superconductors widely?",
+            "options": [
+              "Cooling materials to such low temperatures can be expensive and difficult to maintain",
+              "Cooling has no connection to how superconductors are used",
+              "This concept has no relevance to physics",
+              "Superconductors work at any temperature with no special cooling needed"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Just Society and Pierre Trudeau’s Legacy",
+        "summary": "Grade 8 History strand: Prime Minister Pierre Trudeau promoted the idea of a Just Society in the late 1960s, aiming to expand human rights, bilingualism, and social equality across Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "Which prime minister promoted the idea of a Just Society?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A prime minister from a different country",
+              "A fictional political figure",
+              "Pierre Trudeau"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Around what decade did Pierre Trudeau promote the Just Society?",
+            "options": [
+              "The 2020s",
+              "The 1800s",
+              "The late 1960s",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did the Just Society aim to expand human rights and social equality?",
+            "options": [
+              "No, it aimed to reduce human rights protections",
+              "It had no connection to social equality at all",
+              "Yes",
+              "A concept unrelated to the Just Society"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Just Society be considered an influential vision in Canadian political history?",
+            "options": [
+              "It shaped policies related to rights, bilingualism, and equality that influenced later governments",
+              "This vision was never discussed by any government",
+              "This concept has no connection to Canadian history",
+              "The Just Society had no lasting influence on Canadian policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable for students to study political visions like the Just Society?",
+            "options": [
+              "The Just Society has no connection to Canadian identity",
+              "It helps show how political ideas can shape a country’s laws and values over time",
+              "This concept has no relevance to History",
+              "Political visions never have any effect on a country’s policies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Correlative Conjunctions and Parallelism",
+        "summary": "Grade 8 Language strand: correlative conjunctions, such as either/or and not only/but also, must be paired with parallel grammatical structures to sound clear and balanced.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Name one pair of correlative conjunctions, such as either/or.",
+            "options": [
+              "Run/jump",
+              "Either/or",
+              "A concept unrelated to grammar",
+              "Cat/dog"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must correlative conjunctions be paired with to sound clear and balanced?",
+            "options": [
+              "A concept unrelated to correlative conjunctions",
+              "Parallel grammatical structures",
+              "Random, mismatched structures",
+              "No structure at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses parallel structure with correlative conjunctions?",
+            "options": [
+              "She sings not only but also dances she.",
+              "Not only she sings but also dancing.",
+              "She not only sings but also to dance.",
+              "She not only sings but also dances."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a sentence using either/or sound awkward if it lacks parallel structure?",
+            "options": [
+              "This concept has no connection to grammar",
+              "Parallel structure never affects how clear a sentence sounds",
+              "Correlative conjunctions never require any specific structure",
+              "Mismatched structures can make a sentence confusing or grammatically incorrect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses correlative conjunctions with correct parallel structure?",
+            "options": [
+              "Ready neither the teacher nor students were.",
+              "Neither the teacher nor were the students ready.",
+              "Neither ready nor the teacher the students were.",
+              "Neither the teacher nor the students were ready."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Normal Distribution",
+        "summary": "Grade 8 Math strand: a normal distribution is a symmetric, bell-shaped pattern of data where most values cluster near the mean, with fewer values appearing farther from the average.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What shape does a normal distribution typically form?",
+            "options": [
+              "A completely flat line",
+              "A concept unrelated to statistics",
+              "A symmetric, bell shape",
+              "A perfectly straight diagonal line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a normal distribution, do most values cluster near the mean or far from it?",
+            "options": [
+              "A concept unrelated to normal distribution",
+              "Values never cluster anywhere in particular",
+              "Far from the mean",
+              "Near the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might test scores from a large group of students often form a roughly normal distribution?",
+            "options": [
+              "Test scores never form any kind of predictable pattern",
+              "Most students tend to perform near an average level, with fewer scoring extremely high or low",
+              "This concept has no connection to statistics",
+              "A normal distribution never applies to real-world data like test scores"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a bell-shaped normal distribution, where is the peak of the curve typically located?",
+            "options": [
+              "At the mean",
+              "A concept unrelated to normal distribution",
+              "At the very lowest value",
+              "At the very highest value only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding normal distribution useful for interpreting large data sets?",
+            "options": [
+              "It helps identify what values are typical versus unusually high or low",
+              "This concept has no relevance to statistics",
+              "Normal distribution never helps with interpreting any data",
+              "All data sets always form the exact same shape regardless of pattern"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Marine Biology: Coral Reef Ecosystems",
+        "summary": "Grade 8 Science strand: coral reefs are diverse marine ecosystems built by colonies of tiny coral organisms, supporting a huge variety of fish and other sea life, but are highly sensitive to changes in ocean temperature.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "A concept unrelated to marine biology",
+              "Sand carried by ocean currents",
+              "Large rocks that fall from cliffs",
+              "Colonies of tiny coral organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do coral reefs support a huge variety of fish and other sea life?",
+            "options": [
+              "Yes",
+              "Only one single species can live near a coral reef",
+              "No, coral reefs support no living things at all",
+              "A concept unrelated to coral reefs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Are coral reefs highly sensitive to changes in ocean temperature?",
+            "options": [
+              "No, coral reefs are unaffected by any ocean temperature change",
+              "Yes",
+              "A concept unrelated to coral reefs",
+              "Ocean temperature has no connection to marine ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might rising ocean temperatures cause coral bleaching, harming reef ecosystems?",
+            "options": [
+              "Coral reefs are never affected by changes in their environment",
+              "This concept has no connection to marine biology",
+              "Warmer water can stress coral, causing them to expel the algae that give them colour and nutrients",
+              "Ocean temperature has no connection to coral health"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are coral reefs sometimes called the rainforests of the sea?",
+            "options": [
+              "Like rainforests, they support an extremely high level of biodiversity in a relatively small area",
+              "Coral reefs have no connection to biodiversity at all",
+              "Rainforests and coral reefs share no similarities whatsoever",
+              "This concept has no relevance to science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Fall of the Berlin Wall: A Canadian Perspective",
+        "summary": "Grade 8 History strand: the fall of the Berlin Wall in 1989 marked the symbolic end of the Cold War, an event that Canada, as a NATO member, watched closely given its own Cold War alliances and policies.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Berlin Wall fall?",
+            "options": [
+              "1945",
+              "1867",
+              "2001",
+              "1989"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the fall of the Berlin Wall mark the symbolic end of the Cold War?",
+            "options": [
+              "No, it had no connection to the Cold War",
+              "A concept unrelated to the Berlin Wall",
+              "The Cold War ended long before the wall fell",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was Canada a member of NATO during the Cold War?",
+            "options": [
+              "Yes",
+              "NATO did not exist during the Cold War",
+              "A concept unrelated to Canadian history",
+              "No, Canada had no connection to NATO"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might Canada, as a NATO member, have closely followed the events surrounding the fall of the Berlin Wall?",
+            "options": [
+              "Canada’s alliances and policies were closely tied to the broader Cold War tensions between East and West",
+              "Canada had no interest in or connection to Cold War events",
+              "This concept has no connection to Canadian history",
+              "NATO membership had no effect on how Canada viewed world events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the fall of the Berlin Wall considered a major turning point in 20th-century world history?",
+            "options": [
+              "The wall’s fall had no connection to the wider Cold War",
+              "The fall of the Berlin Wall had no lasting significance on world history",
+              "It represented the collapse of a major political and physical divide between two opposing global powers",
+              "This concept has no relevance to History"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Portmanteau Words and Blends",
+        "summary": "Grade 8 Language strand: a portmanteau word combines the sounds and meanings of two existing words to create a new one, such as combining internet and etiquette to form netiquette.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a portmanteau word combine to create a new word?",
+            "options": [
+              "Only the sounds of one single word",
+              "The sounds and meanings of two existing words",
+              "A concept unrelated to vocabulary",
+              "Two completely unrelated random sounds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a portmanteau made from internet and etiquette?",
+            "options": [
+              "Network",
+              "Internet",
+              "Etiquette",
+              "Netiquette"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is a portmanteau made from motor and hotel?",
+            "options": [
+              "Motorcycle",
+              "Motel",
+              "Hotelier",
+              "Automobile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a portmanteau word be created to describe a new concept or technology?",
+            "options": [
+              "New concepts never need any new words to describe them",
+              "Portmanteau words never actually describe anything meaningful",
+              "It efficiently combines two familiar ideas into one convenient word",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might portmanteau words become widely adopted into everyday language over time?",
+            "options": [
+              "This concept has no relevance to vocabulary",
+              "New words are always immediately rejected by most speakers",
+              "Portmanteau words are never actually adopted into common usage",
+              "They can capture a useful or popular idea in a memorable, catchy way"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Completing the Square",
+        "summary": "Grade 8 Math strand: completing the square is a method for rewriting a quadratic expression into a perfect square trinomial plus a constant, useful for solving quadratic equations.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does completing the square help rewrite a quadratic expression into?",
+            "options": [
+              "A simple linear expression",
+              "A completely different type of equation",
+              "A perfect square trinomial plus a constant",
+              "A concept unrelated to algebra"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is completing the square a method useful for solving quadratic equations?",
+            "options": [
+              "Yes",
+              "A concept unrelated to algebra",
+              "No, it has no connection to quadratic equations",
+              "It only works for linear equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the expression x squared plus 6x, what number would you add to complete the square?",
+            "options": [
+              "36",
+              "9",
+              "3",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might completing the square be useful for finding the vertex of a parabola?",
+            "options": [
+              "Rewriting the equation in vertex form directly reveals the coordinates of the vertex",
+              "This concept has no connection to algebra",
+              "Parabolas never actually have a vertex to find",
+              "Completing the square never helps identify a parabola’s vertex"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the expression x squared plus 10x, what number would you add to complete the square?",
+            "options": [
+              "25",
+              "10",
+              "5",
+              "100"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Introduction to Quantum Physics",
+        "summary": "Grade 8 Science strand: quantum physics studies the behaviour of extremely small particles, such as electrons, which can behave differently than larger objects described by everyday physics.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does quantum physics study?",
+            "options": [
+              "Only objects that are visible to the naked eye",
+              "The behaviour of extremely small particles",
+              "A concept unrelated to science",
+              "The behaviour of extremely large objects only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one example of a particle studied in quantum physics, such as an electron.",
+            "options": [
+              "A planet",
+              "A concept unrelated to quantum physics",
+              "A mountain",
+              "An electron"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can extremely small particles behave differently than larger, everyday objects?",
+            "options": [
+              "A concept unrelated to quantum physics",
+              "Particles never behave in any predictable pattern",
+              "No, small particles always behave exactly like large objects",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists need special theories, like quantum physics, to describe particles like electrons?",
+            "options": [
+              "The rules that govern everyday large objects do not fully apply at such a tiny scale",
+              "Everyday physics fully explains the behaviour of every particle",
+              "This concept has no connection to quantum physics",
+              "Electrons behave in exactly the same way as basketballs or cars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is quantum physics considered important for modern technology, like computer chips?",
+            "options": [
+              "Understanding particle behaviour at this scale has enabled advances in electronics and computing",
+              "Quantum physics has no connection to modern technology",
+              "This concept has no relevance to science",
+              "Computer chips are built with no reliance on quantum physics concepts"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Vimy Ridge and Canadian War Remembrance",
+        "summary": "Grade 8 History strand: the Battle of Vimy Ridge in 1917, where Canadian troops fought together as a unified force, is remembered as a significant moment in the development of Canadian identity.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Battle of Vimy Ridge take place?",
+            "options": [
+              "1917",
+              "1945",
+              "1812",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did Canadian troops fight together as a unified force at Vimy Ridge?",
+            "options": [
+              "Yes",
+              "Only troops from other countries fought at Vimy Ridge",
+              "A concept unrelated to Canadian history",
+              "No, Canadian troops did not participate in this battle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is the Battle of Vimy Ridge remembered as significant to the development of Canadian identity?",
+            "options": [
+              "Yes",
+              "No, it has no connection to Canadian identity",
+              "A concept unrelated to Vimy Ridge",
+              "This battle has been completely forgotten in Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Battle of Vimy Ridge be seen as a turning point in how Canada saw itself as a nation?",
+            "options": [
+              "This concept has no connection to Canadian history",
+              "The battle had no effect on how Canadians viewed their country",
+              "Canadian troops were not recognized for any achievement at Vimy Ridge",
+              "The victory demonstrated Canadian troops’ capability and unity as a distinct fighting force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do Canadians continue to commemorate the Battle of Vimy Ridge today?",
+            "options": [
+              "It honours the sacrifices made and reflects an important part of Canadian identity and history",
+              "This event has no ongoing significance to Canadians today",
+              "This concept has no relevance to History",
+              "Vimy Ridge is remembered only in a different country, not Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Stream-of-Consciousness Narration",
+        "summary": "Grade 8 Language strand: stream-of-consciousness narration presents a character’s continuous flow of thoughts and feelings as they occur, often without traditional sentence structure or clear organization.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does stream-of-consciousness narration present?",
+            "options": [
+              "A concept unrelated to reading",
+              "Only a strict, formal summary of events",
+              "A list of characters with no thoughts included",
+              "A character’s continuous flow of thoughts and feelings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does stream-of-consciousness narration often follow traditional sentence structure?",
+            "options": [
+              "No",
+              "This style never includes any thoughts at all",
+              "Yes, it always follows strict traditional structure",
+              "A concept unrelated to narration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use stream-of-consciousness narration to portray a character’s inner experience?",
+            "options": [
+              "This concept has no connection to literature",
+              "Stream-of-consciousness narration always feels distant and impersonal",
+              "It can create an intimate, realistic sense of how thoughts naturally occur",
+              "This style never reveals anything about a character’s inner experience"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might stream-of-consciousness writing be more challenging for readers to follow?",
+            "options": [
+              "Its lack of traditional structure can make the flow of ideas harder to track",
+              "Stream-of-consciousness writing never actually presents any complex ideas",
+              "This style is always easier to read than traditional narration",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes stream-of-consciousness narration?",
+            "options": [
+              "A perfectly organized list of events in chronological order",
+              "A formal essay with a clear thesis and structured paragraphs",
+              "A dictionary definition of a single word",
+              "A character’s thoughts flowing freely, jumping between ideas as they occur"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Vectors",
+        "summary": "Grade 8 Math strand: a vector is a quantity that has both magnitude, or size, and direction, such as a force applied at a specific angle, often represented visually as an arrow.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What two things does a vector have?",
+            "options": [
+              "Only a single number with no direction",
+              "Magnitude and direction",
+              "Only a colour",
+              "A concept unrelated to math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a vector often represented visually?",
+            "options": [
+              "As an arrow",
+              "As a random squiggle with no meaning",
+              "A concept unrelated to vectors",
+              "As a single dot only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the length of a vector’s arrow typically represent its magnitude?",
+            "options": [
+              "A concept unrelated to vectors",
+              "The colour of the arrow always shows magnitude instead",
+              "Yes",
+              "No, length has no connection to magnitude"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a vector be a more useful way to describe a force than just a single number?",
+            "options": [
+              "A vector captures both how strong the force is and which direction it is applied",
+              "This concept has no connection to vectors",
+              "Vectors never actually describe any real-world quantity",
+              "A single number always fully describes a force with no need for direction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a vector quantity, since it includes both size and direction?",
+            "options": [
+              "The temperature of a room",
+              "The price of an item at a store",
+              "Wind blowing at 20 kilometres per hour toward the north",
+              "The number of students in a class"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Science of Vaccines and Immunology",
+        "summary": "Grade 8 Science strand: immunology studies how the immune system protects the body, and vaccines work by training this system to recognize specific pathogens before a real infection occurs.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does immunology study?",
+            "options": [
+              "How the immune system protects the body",
+              "How rocks are formed over time",
+              "How plants create their own food",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do vaccines train the immune system to do?",
+            "options": [
+              "Become permanently weaker",
+              "A concept unrelated to vaccines",
+              "Ignore all pathogens completely",
+              "Recognize specific pathogens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do vaccines typically work before a real infection occurs?",
+            "options": [
+              "Vaccines have no connection to timing at all",
+              "A concept unrelated to vaccines",
+              "Yes",
+              "No, vaccines only work after a person is already sick"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a vaccine include a small, harmless piece of a pathogen rather than the full, dangerous version?",
+            "options": [
+              "It allows the immune system to learn and respond safely, without causing the actual illness",
+              "Vaccines always include the full, dangerous version of a pathogen",
+              "A harmless piece of a pathogen provides no useful immune response",
+              "This concept has no connection to immunology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is community-wide vaccination sometimes described as helping protect vulnerable individuals through herd immunity?",
+            "options": [
+              "Herd immunity has no connection to vaccination at all",
+              "This concept has no relevance to science",
+              "When enough people are immune, it becomes harder for a disease to spread, protecting those who cannot be vaccinated",
+              "Vaccinating a community never has any effect on how a disease spreads"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the CBC and Canadian Broadcasting",
+        "summary": "Grade 8 History strand: the Canadian Broadcasting Corporation, founded in 1936, was created to provide national radio and later television programming that reflected Canadian stories and identity.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Canadian Broadcasting Corporation founded?",
+            "options": [
+              "1867",
+              "1989",
+              "1936",
+              "1945"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does CBC stand for?",
+            "options": [
+              "Canadian Broadcasting Corporation",
+              "Canadian Business Council",
+              "A concept unrelated to Canadian history",
+              "Central Broadcasting Committee"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Was the CBC created to provide national radio and television programming?",
+            "options": [
+              "The CBC has never provided any programming",
+              "Yes",
+              "A concept unrelated to the CBC",
+              "No, it was created only to sell products"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a national broadcaster like the CBC be considered important for Canadian identity?",
+            "options": [
+              "A national broadcaster has no connection to a country’s identity",
+              "It helps share stories and perspectives that reflect Canadian culture and experiences",
+              "The CBC has never broadcast anything related to Canada",
+              "This concept has no connection to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country choose to fund a public broadcaster instead of relying only on private companies?",
+            "options": [
+              "Private companies always better represent a country’s identity",
+              "A public broadcaster can prioritize national content and public interest over profit alone",
+              "Public broadcasters never provide any benefit over private companies",
+              "This concept has no relevance to History"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Op-Ed Rebuttal",
+        "summary": "Grade 8 Language strand: an op-ed rebuttal responds directly to another published opinion piece, presenting a counterargument supported by evidence and reasoning.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does an op-ed rebuttal respond to?",
+            "options": [
+              "A math textbook",
+              "A concept unrelated to writing",
+              "A recipe for baking bread",
+              "Another published opinion piece"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does an op-ed rebuttal present a counterargument supported by evidence?",
+            "options": [
+              "Yes",
+              "A rebuttal only ever repeats the original argument",
+              "No, it never includes any evidence",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose to write a rebuttal instead of ignoring an opposing opinion piece?",
+            "options": [
+              "Rebuttals never actually engage with the original argument",
+              "This concept has no connection to writing",
+              "It allows them to directly challenge and respond to specific points made by the other writer",
+              "Ignoring an opposing viewpoint is always the better strategy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would most likely appear in an op-ed rebuttal?",
+            "options": [
+              "Add 9 and 3 to get 12.",
+              "Once upon a time, there was a princess.",
+              "The chemical symbol for helium is He.",
+              "While the original article claims X, the evidence actually suggests Y."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for an op-ed rebuttal to directly address the original argument’s points?",
+            "options": [
+              "Readers never care whether a rebuttal actually responds to the original piece",
+              "It makes the response more focused, credible, and persuasive to readers",
+              "This concept has no connection to writing",
+              "Rebuttals are always more effective when they ignore the original argument completely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Amortization and Mortgages",
+        "summary": "Grade 8 Math strand: amortization describes how a loan, such as a mortgage, is gradually paid off over time through regular payments that cover both interest and part of the original amount borrowed.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does amortization describe?",
+            "options": [
+              "A concept unrelated to finance",
+              "How a loan is gradually paid off over time",
+              "A one-time payment with no ongoing schedule",
+              "A type of savings account with no payments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do regular loan payments typically cover both interest and part of the original amount borrowed?",
+            "options": [
+              "No, payments only ever cover interest",
+              "Yes",
+              "A concept unrelated to amortization",
+              "Payments never actually reduce the original loan amount"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a mortgage?",
+            "options": [
+              "A type of car repair",
+              "A loan used to purchase property, like a house",
+              "A concept unrelated to finance",
+              "A savings account for retirement only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might early payments on a mortgage go mostly toward interest rather than the loan’s principal?",
+            "options": [
+              "This concept has no connection to amortization",
+              "Interest and principal are always paid in exactly equal amounts every month",
+              "Interest is often calculated based on the remaining balance, which is highest at the start of the loan",
+              "Early payments never include any interest at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding amortization useful when considering a major purchase, like a home?",
+            "options": [
+              "This concept has no relevance to financial literacy",
+              "It helps someone understand the total cost and time it will take to pay off a loan",
+              "Loans never need to be paid back over time",
+              "Amortization never affects how someone plans a major purchase"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Renewable Materials: Bioplastics",
+        "summary": "Grade 8 Science strand: bioplastics are materials made from renewable sources, such as corn starch or sugarcane, offering an alternative to traditional plastics made from petroleum.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are bioplastics made from?",
+            "options": [
+              "Only metal and glass",
+              "A concept unrelated to materials science",
+              "Renewable sources, such as corn starch or sugarcane",
+              "Only petroleum, just like traditional plastic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Are bioplastics considered an alternative to traditional plastics made from petroleum?",
+            "options": [
+              "No, bioplastics have no connection to traditional plastics",
+              "Bioplastics are exactly the same as petroleum-based plastics",
+              "Yes",
+              "A concept unrelated to bioplastics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one renewable source that can be used to make bioplastics, such as corn starch.",
+            "options": [
+              "Crude oil",
+              "A concept unrelated to bioplastics",
+              "Corn starch",
+              "Coal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might bioplastics be considered a more environmentally friendly option than some traditional plastics?",
+            "options": [
+              "This concept has no connection to materials science",
+              "They can be made from renewable resources and may break down more easily in some cases",
+              "Bioplastics have no environmental benefit compared to traditional plastics",
+              "Traditional plastics are always more sustainable than bioplastics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might researchers continue working to improve bioplastic technology?",
+            "options": [
+              "This concept has no relevance to science",
+              "Bioplastics never have any limitations to address",
+              "Bioplastic technology has already been perfected with no room for improvement",
+              "Some bioplastics still face challenges, like cost or how well they break down in different environments"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1995 Quebec Referendum",
+        "summary": "Grade 8 History strand: the 1995 Quebec referendum asked Quebec voters whether the province should become sovereign, resulting in a very close vote to remain part of Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Quebec referendum on sovereignty take place?",
+            "options": [
+              "1982",
+              "1867",
+              "1970",
+              "1995"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What question did the 1995 Quebec referendum ask voters?",
+            "options": [
+              "Whether Canada should adopt a new flag",
+              "Whether Canada should join a new trade agreement",
+              "A concept unrelated to Canadian history",
+              "Whether Quebec should become sovereign"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was the result of the 1995 referendum a close vote?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the referendum",
+              "There was no vote at all",
+              "No, it was an overwhelming landslide vote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the closeness of the 1995 referendum result be considered historically significant?",
+            "options": [
+              "This concept has no connection to Canadian history",
+              "The result had no significance at all in Canadian history",
+              "The vote was never close and had an obvious outcome",
+              "It highlighted deep and closely divided opinions about Quebec’s place within Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the 1995 Quebec referendum an important topic for understanding Canadian federalism?",
+            "options": [
+              "This concept has no relevance to History",
+              "Quebec has never had any unique relationship with the rest of Canada",
+              "This event has no connection to Canadian federalism",
+              "It reflects ongoing questions about national unity and provincial identity within Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Deepfakes and Digital Manipulation",
+        "summary": "Grade 8 Language strand: a deepfake is a digitally altered video or image, often created using artificial intelligence, that can make it appear someone said or did something they never actually did.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a deepfake?",
+            "options": [
+              "A completely unedited, original recording",
+              "A traditional printed newspaper article",
+              "A concept unrelated to media literacy",
+              "A digitally altered video or image"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is artificial intelligence often used to create deepfakes?",
+            "options": [
+              "Deepfakes are always created without any digital tools",
+              "A concept unrelated to deepfakes",
+              "Yes",
+              "No, deepfakes are never created using any technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a deepfake make it appear someone said or did something they never actually did?",
+            "options": [
+              "Deepfakes only ever show completely accurate events",
+              "No, deepfakes never alter what appears to happen in a video",
+              "Yes",
+              "A concept unrelated to deepfakes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might deepfakes pose a challenge for evaluating the reliability of online video content?",
+            "options": [
+              "They can convincingly fabricate events, making it harder to know what is real",
+              "This concept has no connection to media literacy",
+              "Deepfakes are always obviously fake and easy to identify",
+              "Deepfakes have no effect on how believable a video seems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for people to critically evaluate videos before believing or sharing them?",
+            "options": [
+              "Digitally manipulated content, like deepfakes, can spread false information convincingly",
+              "Every video seen online is always completely authentic",
+              "Sharing unverified content never has any negative consequences",
+              "This concept has no relevance to media literacy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Z-Scores and Standardization",
+        "summary": "Grade 8 Math strand: a z-score describes how many standard deviations a data point is from the mean, allowing different data sets to be compared on a standardized scale.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does a z-score describe?",
+            "options": [
+              "A concept unrelated to statistics",
+              "The exact value of a data point with no comparison",
+              "The total number of data points in a set",
+              "How many standard deviations a data point is from the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can z-scores be used to compare data points from different data sets?",
+            "options": [
+              "A concept unrelated to z-scores",
+              "Yes",
+              "No, z-scores can never be used to compare different data sets",
+              "Z-scores only apply to a single, specific data set with no comparison possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a data point has a z-score of 0, what does that tell you?",
+            "options": [
+              "A concept unrelated to z-scores",
+              "It is far above the mean",
+              "It is far below the mean",
+              "It is exactly at the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a data point has a positive z-score, is it above or below the mean?",
+            "options": [
+              "Above the mean",
+              "Below the mean",
+              "A concept unrelated to z-scores",
+              "Exactly at the mean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a z-score be useful for comparing a student’s test score to two different tests with different scoring scales?",
+            "options": [
+              "This concept has no connection to statistics",
+              "Test scores can never be meaningfully compared to each other",
+              "Z-scores never help with comparing different tests",
+              "It standardizes both scores so they can be fairly compared on the same scale"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Physics of Black Holes",
+        "summary": "Grade 8 Science strand: a black hole is a region in space with gravity so strong that nothing, not even light, can escape it, formed when a massive star collapses at the end of its life.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a black hole?",
+            "options": [
+              "A bright star that never changes",
+              "A region in space with gravity so strong nothing can escape it",
+              "A concept unrelated to astronomy",
+              "An empty area of space with no gravity at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can light escape from a black hole?",
+            "options": [
+              "No",
+              "Only some types of light can escape",
+              "A concept unrelated to black holes",
+              "Yes, light easily escapes a black hole"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a black hole typically form?",
+            "options": [
+              "When a planet cools down over time",
+              "A concept unrelated to black holes",
+              "When a massive star collapses at the end of its life",
+              "When a star is first formed from gas and dust"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can’t scientists directly see a black hole, even with powerful telescopes?",
+            "options": [
+              "This concept has no connection to how black holes work",
+              "A black hole itself emits no light, since even light cannot escape its gravity",
+              "Black holes are actually very easy to see directly with the naked eye",
+              "Black holes emit extremely bright light that can always be seen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study the effects of black holes on nearby stars and matter?",
+            "options": [
+              "Black holes have no measurable effect on their surroundings",
+              "This concept has no relevance to science",
+              "Nearby stars are never affected in any way by a black hole",
+              "Observing these effects can provide indirect evidence about black holes since they cannot be seen directly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in Afghanistan",
+        "summary": "Grade 8 History strand: Canada participated in the international military and humanitarian mission in Afghanistan beginning in 2001, contributing troops, aid, and reconstruction support over more than a decade.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "Around what year did Canada begin its involvement in Afghanistan?",
+            "options": [
+              "1970",
+              "1945",
+              "2001",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did Canada contribute troops to the mission in Afghanistan?",
+            "options": [
+              "No, Canada had no military involvement in Afghanistan",
+              "Yes",
+              "Only humanitarian aid was ever provided, with no troops at all",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did Canada’s involvement in Afghanistan include reconstruction support?",
+            "options": [
+              "Reconstruction support was provided by a completely different country only",
+              "No, reconstruction was never part of Canada’s role",
+              "Yes",
+              "A concept unrelated to Canada’s role in Afghanistan"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada’s mission in Afghanistan be considered a significant chapter in its modern military history?",
+            "options": [
+              "This mission had no impact on Canada’s military history",
+              "It was one of Canada’s largest and longest military commitments in recent history",
+              "Canada has never participated in any international military missions",
+              "This concept has no connection to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might learning about Canada’s international missions, like the one in Afghanistan, help students understand Canada’s global role?",
+            "options": [
+              "International missions have no connection to a country’s global identity",
+              "This concept has no relevance to History",
+              "Canada has no role in any international affairs",
+              "It shows how Canada engages with international conflicts and humanitarian efforts abroad"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: The Passive Voice in Scientific Writing",
+        "summary": "Grade 8 Language strand: scientific writing often uses the passive voice, such as the solution was heated, to emphasize the process or results rather than who performed the action.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "Does scientific writing often use the passive voice?",
+            "options": [
+              "Yes",
+              "Only fiction writing uses the passive voice",
+              "No, scientific writing never uses the passive voice",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the passive voice sentence the solution was heated, what is emphasized?",
+            "options": [
+              "Neither the process nor who performed it",
+              "The process or result",
+              "A concept unrelated to passive voice",
+              "Who performed the action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "They are collecting data now.",
+              "I collected the data quickly.",
+              "The data was collected over three weeks.",
+              "We collected the data over three weeks."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a scientist choose the passive voice when describing an experiment’s procedure?",
+            "options": [
+              "It keeps the focus on the scientific process rather than on the individual researcher",
+              "The passive voice always makes scientific writing less clear",
+              "This concept has no connection to grammar",
+              "Scientific writing should never focus on a process or result"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might overusing the passive voice in writing sometimes make sentences feel less direct?",
+            "options": [
+              "The passive voice never has any effect on how direct a sentence feels",
+              "The passive voice always makes writing more direct and clear",
+              "This concept has no connection to writing style",
+              "It can obscure who or what is responsible for an action"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Spherical Geometry",
+        "summary": "Grade 8 Math strand: spherical geometry studies shapes and distances on the surface of a sphere, where the shortest path between two points is a curved arc rather than a straight line.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What surface does spherical geometry study shapes and distances on?",
+            "options": [
+              "A sphere",
+              "A cube",
+              "A flat plane only",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a sphere, is the shortest path between two points a straight line or a curved arc?",
+            "options": [
+              "A concept unrelated to spherical geometry",
+              "A straight line, just like on a flat plane",
+              "There is no shortest path on a sphere",
+              "A curved arc"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the rules of spherical geometry differ from the geometry learned on a flat plane?",
+            "options": [
+              "This concept has no connection to geometry",
+              "A curved surface changes how distances and angles behave compared to a flat surface",
+              "Spheres have no connection to geometry at all",
+              "Spherical geometry and flat-plane geometry always follow the exact same rules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is spherical geometry useful for navigation, such as planning airplane flight paths?",
+            "options": [
+              "The shape of the Earth has no effect on how flights are planned",
+              "Earth is roughly spherical, so the shortest real-world routes follow curved paths",
+              "This concept has no connection to navigation",
+              "Flight paths are always planned using flat-plane geometry only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a globe, would the shortest route between two distant cities usually look like a straight line on a flat map?",
+            "options": [
+              "There is never a shortest route between two cities",
+              "No, it usually appears as a curved line on a flat map",
+              "Yes, it always appears as a perfectly straight line",
+              "A concept unrelated to spherical geometry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Epidemiology: Tracking the Spread of Disease",
+        "summary": "Grade 8 Science strand: epidemiology is the study of how diseases spread through populations, helping scientists identify patterns, causes, and effective ways to control outbreaks.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does epidemiology study?",
+            "options": [
+              "How rocks form over millions of years",
+              "How plants convert sunlight into food",
+              "A concept unrelated to science",
+              "How diseases spread through populations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can epidemiology help scientists identify patterns in how a disease spreads?",
+            "options": [
+              "No, epidemiology has no connection to identifying patterns",
+              "Yes",
+              "Diseases never spread in any identifiable pattern",
+              "A concept unrelated to epidemiology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does epidemiology help find effective ways to control disease outbreaks?",
+            "options": [
+              "A concept unrelated to epidemiology",
+              "No, epidemiology has no connection to controlling outbreaks",
+              "Yes",
+              "Outbreaks can never be controlled in any way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might epidemiologists track how quickly a disease spreads from person to person?",
+            "options": [
+              "This concept has no connection to epidemiology",
+              "Diseases always spread at the exact same rate in every situation",
+              "Tracking disease spread never provides any useful information",
+              "This information helps predict future spread and guide public health responses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is epidemiology considered an important field during a public health emergency?",
+            "options": [
+              "Epidemiology has no relevance during a public health emergency",
+              "It provides critical data to help guide decisions that protect public health",
+              "Public health emergencies never require any scientific data",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Nisga’a Treaty and Modern Land Claims",
+        "summary": "Grade 8 History strand: the Nisga’a Treaty, finalized in 2000, was a landmark modern land claims agreement that recognized Nisga’a self-government and land rights in British Columbia.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Nisga’a Treaty finalized?",
+            "options": [
+              "1867",
+              "1945",
+              "2000",
+              "1970"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which Canadian province is associated with the Nisga’a Treaty?",
+            "options": [
+              "British Columbia",
+              "Ontario",
+              "Nova Scotia",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the Nisga’a Treaty recognize self-government and land rights?",
+            "options": [
+              "The treaty removed all existing land rights",
+              "A concept unrelated to the Nisga’a Treaty",
+              "No, it had no connection to self-government or land rights",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Nisga’a Treaty considered a landmark modern land claims agreement?",
+            "options": [
+              "It was one of the first modern treaties to formally recognize Indigenous self-government in Canada",
+              "The treaty had no historical significance at all",
+              "This concept has no connection to Canadian history",
+              "Land claims agreements had never been discussed before this treaty"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable for students to learn about modern treaties like the Nisga’a Treaty?",
+            "options": [
+              "This treaty has no ongoing relevance in Canada today",
+              "It helps show how Indigenous rights and governance continue to evolve through modern agreements",
+              "This concept has no relevance to History",
+              "Modern treaties have no connection to understanding Indigenous history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Bildungsroman: Coming-of-Age Stories",
+        "summary": "Grade 8 Language strand: a bildungsroman is a story that follows a character’s psychological and moral growth from youth to adulthood, often centred on key formative experiences.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a bildungsroman?",
+            "options": [
+              "A story following a character’s growth from youth to adulthood",
+              "A story with no central character at all",
+              "A concept unrelated to reading",
+              "A collection of unrelated short poems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a bildungsroman often focus on a character’s psychological and moral growth?",
+            "options": [
+              "No, it never focuses on any character growth",
+              "This type of story only focuses on physical setting, never growth",
+              "Yes",
+              "A concept unrelated to bildungsroman"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Might a bildungsroman include key formative experiences that shape the main character?",
+            "options": [
+              "Yes",
+              "No, formative experiences are never included",
+              "These stories never include any meaningful events",
+              "A concept unrelated to bildungsroman"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might readers relate to a bildungsroman even if the story is set in a different time or place?",
+            "options": [
+              "The themes of growth, identity, and self-discovery can feel universal across different experiences",
+              "Coming-of-age themes are never relatable to any reader",
+              "This concept has no connection to reading comprehension",
+              "Readers can never relate to a story about a character’s growth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes the focus of a bildungsroman?",
+            "options": [
+              "A young character’s journey toward maturity and self-understanding",
+              "A step-by-step recipe for baking bread",
+              "A detailed description of a fictional city’s architecture",
+              "A scientific report on a chemical reaction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Systems of Three Variables",
+        "summary": "Grade 8 Math strand: a system of three variables involves three equations with three unknowns, solved by combining equations to eliminate variables one at a time until each unknown is found.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "How many equations are typically needed to solve a system with three variables?",
+            "options": [
+              "One",
+              "Three",
+              "Five",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common strategy for solving a system of three variables?",
+            "options": [
+              "Guessing the answer with no calculation at all",
+              "A concept unrelated to systems of equations",
+              "Combining equations to eliminate variables one at a time",
+              "Ignoring two of the three equations completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you eliminate one variable from two equations in a system of three, how many variables remain in that new equation?",
+            "options": [
+              "Two",
+              "Three",
+              "Zero",
+              "One"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might solving a system of three variables take more steps than solving a system of two variables?",
+            "options": [
+              "There are more unknowns and equations to work through before finding each value",
+              "Three-variable systems are always simpler to solve than two-variable systems",
+              "Systems of three variables never actually require any extra steps",
+              "This concept has no connection to algebra"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a system of three variables be useful for solving a real-world problem involving three unknown quantities?",
+            "options": [
+              "Real-world problems never involve more than one unknown quantity",
+              "It allows all three unknowns to be determined at once using the given relationships",
+              "This concept has no connection to math",
+              "Three-variable systems can never be applied to any real situation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Chemistry of Batteries and Energy Storage",
+        "summary": "Grade 8 Science strand: batteries store chemical energy and convert it into electrical energy through a chemical reaction between two different materials, called electrodes, separated by an electrolyte.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy do batteries store?",
+            "options": [
+              "Only light energy",
+              "Chemical energy",
+              "Only sound energy",
+              "A concept unrelated to batteries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the two different materials in a battery, where the chemical reaction occurs, called?",
+            "options": [
+              "Electrodes",
+              "Insulators",
+              "Circuits",
+              "A concept unrelated to batteries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What separates the two electrodes in a battery?",
+            "options": [
+              "A simple wire only",
+              "An electrolyte",
+              "Nothing at all",
+              "A concept unrelated to batteries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a rechargeable battery be able to reverse its chemical reaction?",
+            "options": [
+              "Rechargeable batteries never actually reverse any chemical reaction",
+              "This concept has no connection to battery chemistry",
+              "All batteries work in exactly the same non-reversible way",
+              "Applying an external electrical current can reverse the chemical process, restoring the battery’s charge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding battery chemistry important for developing better electric vehicles?",
+            "options": [
+              "Battery chemistry has no connection to electric vehicle technology",
+              "Electric vehicles never actually rely on any battery technology",
+              "This concept has no relevance to science",
+              "Improved battery technology could allow vehicles to store more energy and travel farther"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Truth and Reconciliation Commission’s 94 Calls to Action",
+        "summary": "Grade 8 History strand: the Truth and Reconciliation Commission released 94 Calls to Action in 2015, recommending steps for governments, institutions, and Canadians to address the legacy of residential schools.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Truth and Reconciliation Commission release its Calls to Action?",
+            "options": [
+              "1867",
+              "1945",
+              "2015",
+              "1970"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many Calls to Action did the Truth and Reconciliation Commission release?",
+            "options": [
+              "10",
+              "94",
+              "150",
+              "50"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do the Calls to Action address the legacy of residential schools?",
+            "options": [
+              "Yes",
+              "No, they have no connection to residential schools",
+              "They only address unrelated economic policies",
+              "A concept unrelated to the Truth and Reconciliation Commission"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Calls to Action involve recommendations for governments, institutions, and individual Canadians?",
+            "options": [
+              "Reconciliation efforts never require any action from institutions or individuals",
+              "Addressing a legacy of harm requires action and change at multiple levels of society",
+              "The Calls to Action are only relevant to a single government department",
+              "This concept has no connection to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding the 94 Calls to Action important for students learning about reconciliation in Canada?",
+            "options": [
+              "Reconciliation in Canada has already been fully completed with nothing left to do",
+              "It provides concrete steps that reflect ongoing efforts to address historical harms and build a better future",
+              "The Calls to Action have no relevance to reconciliation efforts today",
+              "This concept has no relevance to History"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Literary Analysis and Grammar (Days 81-89)",
+        "summary": "Grade 8 Language strand review: students revisit anti-heroes, rhetorical analysis, correlative conjunctions, portmanteau words, stream-of-consciousness narration, op-ed rebuttals, deepfakes, passive voice, and bildungsroman.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an anti-hero?",
+            "options": [
+              "A villain with no role in the main plot",
+              "A concept unrelated to reading",
+              "A main character who lacks traditional heroic qualities",
+              "A minor character with no importance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a rhetorical analysis essay examine?",
+            "options": [
+              "A concept unrelated to writing",
+              "How a writer or speaker uses persuasive techniques",
+              "Only the length of a text",
+              "Only the punctuation used in a text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does stream-of-consciousness narration present?",
+            "options": [
+              "A list of characters with no thoughts included",
+              "A character’s continuous flow of thoughts and feelings",
+              "Only a strict, formal summary of events",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a deepfake?",
+            "options": [
+              "A completely unedited, original recording",
+              "A concept unrelated to media literacy",
+              "A digitally altered video or image",
+              "A traditional printed newspaper article"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a bildungsroman?",
+            "options": [
+              "A concept unrelated to reading",
+              "A story with no central character at all",
+              "A collection of unrelated short poems",
+              "A story following a character’s growth from youth to adulthood"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Advanced Algebra, Geometry, and Statistics (Days 81-89)",
+        "summary": "Grade 8 Math strand review: students revisit the law of sines and cosines, matrices, normal distribution, completing the square, vectors, amortization, z-scores, spherical geometry, and systems of three variables.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What can the law of sines and cosines help you find in a triangle?",
+            "options": [
+              "Only the triangle’s perimeter",
+              "Only the triangle’s colour",
+              "Missing sides or angles",
+              "A concept unrelated to trigonometry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a matrix?",
+            "options": [
+              "A type of geometric shape only",
+              "A single number with no structure",
+              "A concept unrelated to math",
+              "A rectangular arrangement of numbers in rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two things does a vector have?",
+            "options": [
+              "Only a colour",
+              "Only a single number with no direction",
+              "A concept unrelated to math",
+              "Magnitude and direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a z-score describe?",
+            "options": [
+              "A concept unrelated to statistics",
+              "The total number of data points in a set",
+              "The exact value of a data point with no comparison",
+              "How many standard deviations a data point is from the mean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many equations are typically needed to solve a system with three variables?",
+            "options": [
+              "One",
+              "Five",
+              "Two",
+              "Three"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Physics, Biology, and Chemistry (Days 81-89)",
+        "summary": "Grade 8 Science strand review: students revisit epigenetics, superconductors, coral reefs, quantum physics, immunology, bioplastics, black holes, epidemiology, and battery chemistry.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does epigenetics study?",
+            "options": [
+              "How genes are physically removed from an organism",
+              "A concept unrelated to biology",
+              "How environmental factors influence whether genes are turned on or off",
+              "How DNA sequences are permanently rewritten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "Colonies of tiny coral organisms",
+              "Large rocks that fall from cliffs",
+              "A concept unrelated to marine biology",
+              "Sand carried by ocean currents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does quantum physics study?",
+            "options": [
+              "The behaviour of extremely large objects only",
+              "A concept unrelated to science",
+              "Only objects that are visible to the naked eye",
+              "The behaviour of extremely small particles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a black hole?",
+            "options": [
+              "A concept unrelated to astronomy",
+              "An empty area of space with no gravity at all",
+              "A region in space with gravity so strong nothing can escape it",
+              "A bright star that never changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does epidemiology study?",
+            "options": [
+              "How plants convert sunlight into food",
+              "A concept unrelated to science",
+              "How rocks form over millions of years",
+              "How diseases spread through populations"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Modern Canadian History and Reconciliation (Days 81-89)",
+        "summary": "Grade 8 History strand review: students revisit the Chinese Immigration Act repeal, the Just Society, the fall of the Berlin Wall, Vimy Ridge, the CBC, the 1995 Quebec referendum, Afghanistan, the Nisga’a Treaty, and the 94 Calls to Action.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Chinese Immigration Act repealed?",
+            "options": [
+              "1988",
+              "1867",
+              "1947",
+              "2001"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which prime minister promoted the idea of a Just Society?",
+            "options": [
+              "A prime minister from a different country",
+              "A fictional political figure",
+              "Pierre Trudeau",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the Battle of Vimy Ridge take place?",
+            "options": [
+              "1917",
+              "1812",
+              "1945",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did the Quebec referendum on sovereignty take place?",
+            "options": [
+              "1995",
+              "1982",
+              "1867",
+              "1970"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many Calls to Action did the Truth and Reconciliation Commission release?",
+            "options": [
+              "10",
+              "94",
+              "50",
+              "150"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
