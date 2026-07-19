@@ -19460,5 +19460,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Foreshadowing",
+        "summary": "Grade 3 Language strand: foreshadowing is when an author gives a small hint early in a story about something that will happen later, building suspense for the reader.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
+            "options": [
+              "Hint",
+              "Summary of the whole ending",
+              "Concept unrelated to storytelling",
+              "List of every character’s name"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does foreshadowing help build for the reader?",
+            "options": [
+              "Confusion with no purpose",
+              "A list of unrelated facts",
+              "Suspense",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a story mentions dark storm clouds before a scary event, this is an example of ___.",
+            "options": [
+              "A math pattern",
+              "Foreshadowing",
+              "A grammar rule",
+              "A concept unrelated to storytelling"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use foreshadowing instead of simply stating what will happen next?",
+            "options": [
+              "It builds suspense and keeps readers curious about what comes next",
+              "This concept has no connection to storytelling",
+              "Foreshadowing never adds anything to a story",
+              "Authors should always reveal every event immediately"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for readers to notice foreshadowing while reading?",
+            "options": [
+              "Readers should ignore every hint an author gives",
+              "Noticing foreshadowing never helps a reader understand a story",
+              "Foreshadowing has no connection to predicting events",
+              "It helps them make predictions and feel more engaged with the story"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Multiplying by 11 and 12",
+        "summary": "Grade 3 Math strand: students learn multiplication facts for the 11 and 12 times tables, building on earlier facts up to 10, using patterns to help memorize them.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 11 times 4?",
+            "options": [
+              "40",
+              "54",
+              "48",
+              "44"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 12 times 3?",
+            "options": [
+              "32",
+              "40",
+              "36",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 11 times 6?",
+            "options": [
+              "66",
+              "72",
+              "56",
+              "60"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What pattern helps with multiplying single digits by 11, like 11 times 4?",
+            "options": [
+              "There is no pattern at all for multiplying by 11",
+              "The answer is always an odd number",
+              "The digit repeats twice, like 4 and 4 making 44",
+              "The digit is always cut in half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 12 times 8?",
+            "options": [
+              "84",
+              "108",
+              "96",
+              "88"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Adaptations for Winter Survival",
+        "summary": "Grade 3 Science strand: animals survive cold winters using adaptations such as growing thicker fur, storing body fat, migrating to warmer places, or hibernating until spring.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one adaptation animals use to survive winter, such as growing thicker fur.",
+            "options": [
+              "Ignoring winter completely",
+              "A concept unrelated to survival",
+              "Growing thicker fur",
+              "Losing all their fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call animals traveling to a warmer place for the winter?",
+            "options": [
+              "Hibernating",
+              "Photosynthesizing",
+              "Migrating",
+              "A concept unrelated to winter survival"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call animals going into a deep sleep for the winter?",
+            "options": [
+              "Migrating",
+              "Evaporating",
+              "A concept unrelated to winter survival",
+              "Hibernating"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might storing body fat help an animal survive winter?",
+            "options": [
+              "Body fat has no connection to surviving winter",
+              "Storing fat makes animals colder",
+              "This concept has no relevance to winter survival",
+              "The fat provides stored energy when food is harder to find"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different animals use different winter survival strategies, such as migrating versus hibernating?",
+            "options": [
+              "All animals use the exact same winter strategy",
+              "This concept has no relevance to biology",
+              "Winter survival strategies have no connection to a species’ needs",
+              "Different species have different needs and abilities suited to their environment"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ontario’s Manufacturing Industry",
+        "summary": "Grade 3 Social Studies strand: manufacturing is an important industry in Ontario, where factories produce goods such as cars, food products, and machinery that are sold across Canada and the world.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call factories producing goods like cars and machinery?",
+            "options": [
+              "A concept unrelated to industry",
+              "Mining",
+              "Manufacturing",
+              "Farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one good that might be produced by Ontario manufacturing, such as cars.",
+            "options": [
+              "Wild animals",
+              "Cars",
+              "A concept unrelated to manufacturing",
+              "Ocean water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are goods made in Ontario manufacturing sold across Canada and the world?",
+            "options": [
+              "Only sold to one single person",
+              "No, they are never sold anywhere",
+              "A concept unrelated to manufacturing",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is manufacturing an important industry for Ontario’s economy?",
+            "options": [
+              "Manufacturing never creates any jobs",
+              "It creates jobs and produces goods that can be sold locally and internationally",
+              "Manufacturing has no connection to Ontario’s economy",
+              "This concept has no relevance to Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a manufacturing plant choose to locate near a major highway or port?",
+            "options": [
+              "This concept has no relevance to industry",
+              "Location has no connection to how goods are shipped",
+              "Manufacturing plants never need to ship goods anywhere",
+              "It makes shipping goods to other places easier and faster"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Interjections and Exclamations",
+        "summary": "Grade 3 Language strand: an interjection is a short word or phrase that shows strong feeling, such as Wow! or Oh no!, often followed by an exclamation mark.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "An interjection is a short word or phrase that shows ___.",
+            "options": [
+              "Strong feeling",
+              "A silent letter",
+              "A math equation",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of an interjection?",
+            "options": [
+              "Cat",
+              "Run",
+              "The",
+              "Wow!"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An interjection is often followed by which punctuation mark?",
+            "options": [
+              "An exclamation mark",
+              "A comma only",
+              "A concept unrelated to punctuation",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use an interjection like Oh no! in a story?",
+            "options": [
+              "Interjections never add any meaning to writing",
+              "This concept has no connection to storytelling",
+              "It quickly shows a character’s strong feeling or reaction",
+              "Interjections always confuse the reader"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses an interjection?",
+            "options": [
+              "That hurt really Ouch.",
+              "Hurt that Ouch really.",
+              "That really Ouch hurt.",
+              "Ouch! That really hurt."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Finding Missing Side Lengths",
+        "summary": "Grade 3 Math strand: if you know the perimeter of a shape and the length of some of its sides, you can find a missing side length by subtracting the known sides from the total perimeter.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If a rectangle has a perimeter of 20 cm and three known sides add up to 14 cm, what is the missing side?",
+            "options": [
+              "34 cm",
+              "14 cm",
+              "20 cm",
+              "6 cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a square has a perimeter of 24 cm, what is the length of each side?",
+            "options": [
+              "6 cm",
+              "4 cm",
+              "24 cm",
+              "12 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape’s perimeter is 30 cm and one side is missing while the rest total 22 cm, what is the missing side?",
+            "options": [
+              "8 cm",
+              "22 cm",
+              "52 cm",
+              "30 cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find a missing side length, you can subtract the known side lengths from the ___.",
+            "options": [
+              "Number of vertices",
+              "Area of the shape",
+              "Number of angles",
+              "Total perimeter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is finding a missing side length a useful real-world skill?",
+            "options": [
+              "This concept has no real-world use at all",
+              "This concept only applies to circles",
+              "It helps figure out unknown measurements when building or designing something",
+              "Missing side lengths can never be figured out"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Plants Make Their Own Food",
+        "summary": "Grade 3 Science strand: plants make their own food through a process called photosynthesis, using sunlight, water, and air to produce the energy they need to grow.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the process called when plants make their own food using sunlight?",
+            "options": [
+              "Hibernation",
+              "Migration",
+              "A concept unrelated to plants",
+              "Photosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one thing a plant needs for photosynthesis, such as sunlight.",
+            "options": [
+              "Sunlight",
+              "Only sand",
+              "A concept unrelated to photosynthesis",
+              "Only darkness"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does photosynthesis give a plant the energy it needs to grow?",
+            "options": [
+              "A concept unrelated to plants",
+              "It only affects animals",
+              "Yes",
+              "No, it has no connection to growth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do plants need sunlight for photosynthesis?",
+            "options": [
+              "Sunlight has no connection to how plants make food",
+              "This concept has no relevance to plant biology",
+              "Sunlight provides the energy plants use to make their own food",
+              "Plants never actually need sunlight to grow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is photosynthesis important not just for plants, but for other living things too?",
+            "options": [
+              "Only plants benefit from photosynthesis in any way",
+              "This concept has no relevance to ecosystems",
+              "Photosynthesis has no connection to other living things",
+              "Photosynthesis produces oxygen that many living things need to breathe"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Municipal Budgets Are Spent",
+        "summary": "Grade 3 Social Studies strand: a municipal budget is a plan for how a local government spends the tax money it collects, often on services like roads, parks, libraries, and emergency services.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a plan for how a local government spends its money?",
+            "options": [
+              "A grocery list",
+              "A municipal budget",
+              "A weather forecast",
+              "A concept unrelated to government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one service a municipal budget might fund, such as parks or libraries.",
+            "options": [
+              "Parks",
+              "Video games",
+              "A concept unrelated to municipal budgets",
+              "Private vacations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a municipal government use tax money to plan its budget?",
+            "options": [
+              "Yes",
+              "No, budgets never use tax money",
+              "Only businesses use budgets",
+              "A concept unrelated to government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must a municipal government carefully plan how it spends its budget?",
+            "options": [
+              "This concept has no relevance to local government",
+              "Budgets have no connection to community needs",
+              "So tax money is used fairly and effectively for shared community needs",
+              "Municipal governments never need to plan spending"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if a municipal government spent its whole budget on only one single service?",
+            "options": [
+              "Municipal budgets have no effect on services",
+              "Every other service would automatically get more funding instead",
+              "Other important services, like roads or libraries, might not get enough funding",
+              "This concept has no connection to how communities are run"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Prefixes re- and pre-",
+        "summary": "Grade 3 Language strand: the prefix re- often means again, as in rewrite meaning to write again, while the prefix pre- often means before, as in preview meaning to view before.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "The prefix re- often means ___.",
+            "options": [
+              "A concept unrelated to prefixes",
+              "Before",
+              "Again",
+              "Never"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The prefix pre- often means ___.",
+            "options": [
+              "A concept unrelated to prefixes",
+              "Before",
+              "Never",
+              "Again"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Add the prefix re- to the word write. What new word do you make?",
+            "options": [
+              "Writing",
+              "Written",
+              "Prewrite",
+              "Rewrite"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Add the prefix pre- to the word view. What new word do you make?",
+            "options": [
+              "Viewed",
+              "Viewing",
+              "Preview",
+              "Review"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to know that pre- means before?",
+            "options": [
+              "Prefixes never help with understanding new words",
+              "The prefix pre- always means the opposite of before",
+              "It helps you figure out the meaning of new words, like predict or prepare",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Making a Survey and Analyzing Results",
+        "summary": "Grade 3 Math strand: students learn to create a simple survey question, collect answers from classmates, organize the results in a chart or graph, and then analyze what the data shows.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in conducting a survey?",
+            "options": [
+              "Creating a survey question",
+              "Throwing away all the answers",
+              "A concept unrelated to data collection",
+              "Analyzing the results before asking anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After collecting survey answers, what should you do next?",
+            "options": [
+              "Organize the results in a chart or graph",
+              "Ask the exact same question again with no purpose",
+              "Ignore all the answers completely",
+              "A concept unrelated to data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a survey shows 12 students prefer apples and 8 prefer oranges, which fruit is more popular?",
+            "options": [
+              "Oranges",
+              "Apples",
+              "Cannot tell from the data",
+              "They are equally popular"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might organizing survey results in a graph be helpful?",
+            "options": [
+              "Graphs never help with understanding data",
+              "This concept has no connection to surveys",
+              "Organizing data always makes it more confusing",
+              "It makes the data easier to compare and understand at a glance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to analyze survey results?",
+            "options": [
+              "To look closely at the data and figure out what it shows",
+              "To ignore every answer collected",
+              "To immediately throw away the results",
+              "A concept unrelated to data collection"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Symbiosis: How Living Things Help Each Other",
+        "summary": "Grade 3 Science strand: symbiosis is a close relationship between two different living things, such as a bee and a flower, where both may benefit from helping each other survive.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call a close relationship between two different living things?",
+            "options": [
+              "Photosynthesis",
+              "Migration",
+              "A concept unrelated to living things",
+              "Symbiosis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one example of two living things helping each other, such as bees and flowers.",
+            "options": [
+              "Rocks and sand",
+              "Clouds and rain",
+              "A concept unrelated to symbiosis",
+              "Bees and flowers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a symbiotic relationship, can both living things benefit from helping each other?",
+            "options": [
+              "Living things never interact with each other",
+              "Yes",
+              "A concept unrelated to symbiosis",
+              "No, only one living thing ever benefits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a bee help a flower in their symbiotic relationship?",
+            "options": [
+              "The bee has no connection to how flowers grow",
+              "This concept has no relevance to plant biology",
+              "The bee helps pollinate the flower as it collects nectar",
+              "Bees never interact with flowers at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is symbiosis an important concept for understanding ecosystems?",
+            "options": [
+              "Living things in an ecosystem never depend on each other",
+              "Symbiosis has no connection to how ecosystems work",
+              "This concept has no relevance to science",
+              "It shows how living things depend on and support one another"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Comparing Ontario to Other Provinces",
+        "summary": "Grade 3 Social Studies strand: comparing Ontario to other Canadian provinces, such as British Columbia or Nova Scotia, shows differences in geography, industries, and population size.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one Canadian province other than Ontario, such as British Columbia.",
+            "options": [
+              "A city in another country",
+              "British Columbia",
+              "A concept unrelated to Canadian provinces",
+              "An ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do different provinces have different geography and industries?",
+            "options": [
+              "Yes",
+              "Provinces never have any industries",
+              "A concept unrelated to provinces",
+              "No, every province is identical"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is Ontario one of the provinces that make up Canada?",
+            "options": [
+              "No, Ontario is a separate country",
+              "A concept unrelated to Canada",
+              "Yes",
+              "Ontario is a city in another province"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might comparing Ontario to another province help students understand Canada better?",
+            "options": [
+              "Every province in Canada is exactly the same in every way",
+              "It highlights how diverse Canada’s geography and communities really are",
+              "Comparing provinces never teaches anything useful",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could be a reason two provinces have different major industries?",
+            "options": [
+              "Industries have no connection to geography",
+              "Every province has the exact same natural resources",
+              "Differences in natural resources and geography",
+              "This concept has no relevance to Canada"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Invitation",
+        "summary": "Grade 3 Language strand: an invitation is a short piece of writing that tells the reader about an event, including the date, time, location, and what the event is for.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What kind of writing tells the reader about an event, including the date and time?",
+            "options": [
+              "An invitation",
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one detail an invitation should include, such as the date or location.",
+            "options": [
+              "The date",
+              "A concept unrelated to invitations",
+              "A random unrelated fact",
+              "A math equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should an invitation clearly explain what the event is for?",
+            "options": [
+              "Yes",
+              "Only the guest’s name matters",
+              "No, invitations should never explain anything",
+              "A concept unrelated to invitations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for an invitation to include the exact time and location of an event?",
+            "options": [
+              "Guests should always guess the details themselves",
+              "This concept has no connection to writing an invitation",
+              "Time and location never matter for an invitation",
+              "So guests know exactly when and where to go"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these would most likely appear in an invitation?",
+            "options": [
+              "The water cycle has three main stages.",
+              "A triangle has three sides.",
+              "You are invited to a birthday party on Saturday at 2 p.m.",
+              "Add 4 and 5 to get 9."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Numbers to 10 000",
+        "summary": "Grade 3 Math strand: students extend their understanding of place value to read, write, and compare numbers up to 10 000, using knowledge of thousands, hundreds, tens, and ones.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What number comes right after 9 999?",
+            "options": [
+              "10 000",
+              "1 000",
+              "9 998",
+              "10 100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What digit is in the thousands place in the number 4 652?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is greater, 8 245 or 8 425?",
+            "options": [
+              "They are equal",
+              "Cannot tell",
+              "8 425",
+              "8 245"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many hundreds are in the number 3 720?",
+            "options": [
+              "7",
+              "0",
+              "3",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Reading numbers up to 10 000 builds on our understanding of ___.",
+            "options": [
+              "Only colours",
+              "Only shapes",
+              "Only time",
+              "Place value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Renewable Building Materials and Sustainable Design",
+        "summary": "Grade 3 Science strand: sustainable design uses renewable or recycled materials, such as bamboo or reclaimed wood, to build things in ways that reduce harm to the environment.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call design that uses renewable or recycled materials to reduce harm to the environment?",
+            "options": [
+              "A weather pattern",
+              "A math formula",
+              "Sustainable design",
+              "A concept unrelated to building"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one renewable building material, such as bamboo.",
+            "options": [
+              "A concept unrelated to sustainable design",
+              "A rare metal that never regrows",
+              "A liquid found only in oceans",
+              "Bamboo"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does sustainable design try to reduce harm to the environment?",
+            "options": [
+              "No, it tries to increase harm to the environment",
+              "A concept unrelated to building materials",
+              "It has no connection to the environment",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might builders choose bamboo instead of a slower-growing tree for building materials?",
+            "options": [
+              "Bamboo grows back quickly, making it a more renewable resource",
+              "This concept has no connection to sustainable design",
+              "Bamboo takes hundreds of years to regrow",
+              "Slow-growing trees are always more renewable than bamboo"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is sustainable design becoming more important for builders today?",
+            "options": [
+              "Builders never need to consider the environment",
+              "Sustainable design has no benefit to the environment",
+              "It helps protect natural resources and reduce environmental harm",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Indigenous Place Names in Ontario",
+        "summary": "Grade 3 Social Studies strand: many places in Ontario, including lakes, rivers, and towns, have names that come from Indigenous languages and reflect a long history of Indigenous presence on the land.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Do many places in Ontario have names that come from Indigenous languages?",
+            "options": [
+              "Yes",
+              "Only cities in other countries have this feature",
+              "A concept unrelated to Ontario",
+              "No, no places have Indigenous names"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one type of place that might have an Indigenous name, such as a lake or river.",
+            "options": [
+              "A lake",
+              "A concept unrelated to place names",
+              "A cartoon character",
+              "A planet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do Indigenous place names reflect a long history of Indigenous presence on the land?",
+            "options": [
+              "No, they have no connection to history",
+              "They were created only last year",
+              "A concept unrelated to Indigenous Peoples",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it valuable to learn the meanings behind Indigenous place names?",
+            "options": [
+              "Place names never have any real meaning",
+              "It helps us understand and respect the deep history of the land",
+              "Learning place names is not worthwhile at all",
+              "This concept has no connection to Ontario’s history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might an Indigenous place name for a lake tell us about that location?",
+            "options": [
+              "Indigenous place names are always chosen randomly",
+              "It might describe a feature of the land or its importance to the people who named it",
+              "This concept has no connection to geography",
+              "Place names never describe anything about a location"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Character Motivation — Why Characters Act",
+        "summary": "Grade 3 Language strand: character motivation is the reason behind a character’s actions in a story, helping readers understand why a character makes certain choices.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What do we call the reason behind a character’s actions in a story?",
+            "options": [
+              "Character motivation",
+              "A concept unrelated to reading",
+              "The illustrator’s name",
+              "The book’s title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does understanding character motivation help readers know why a character makes certain choices?",
+            "options": [
+              "No, motivation has no connection to choices",
+              "A concept unrelated to stories",
+              "Motivation only applies to real people, never characters",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a character shares their lunch because they are kind, what is their motivation?",
+            "options": [
+              "A concept unrelated to motivation",
+              "The book’s page number",
+              "The weather in the story",
+              "Kindness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might two characters react differently to the same problem in a story?",
+            "options": [
+              "They may have different motivations or feelings driving their actions",
+              "This concept has no connection to storytelling",
+              "All characters always react in exactly the same way",
+              "Motivation never affects how a character behaves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does understanding character motivation deepen a reader’s enjoyment of a story?",
+            "options": [
+              "Motivation never adds anything to a story",
+              "It helps readers connect with why characters do what they do",
+              "This concept has no relevance to reading comprehension",
+              "Readers should never think about why characters act"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Fraction Word Problems",
+        "summary": "Grade 3 Math strand: students solve word problems involving fractions, such as figuring out how much pizza is left after a fraction of it has been eaten.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If a pizza is cut into 8 slices and 3 slices are eaten, what fraction of the pizza is left?",
+            "options": [
+              "1 eighth",
+              "5 eighths",
+              "8 eighths",
+              "3 eighths"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a class has 12 students and 1 fourth of them wear glasses, how many students wear glasses?",
+            "options": [
+              "4",
+              "12",
+              "3",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a garden has 10 flowers and 2 tenths of them are red, how many flowers are red?",
+            "options": [
+              "5",
+              "10",
+              "2",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solving fraction word problems helps us understand fractions as ___.",
+            "options": [
+              "Parts of a real, whole amount",
+              "A concept unrelated to math",
+              "Only decimals, never fractions",
+              "Numbers with no real meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a ribbon is cut into 6 equal pieces and 4 pieces are used, what fraction of the ribbon is left?",
+            "options": [
+              "4 sixths",
+              "1 sixth",
+              "6 sixths",
+              "2 sixths"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Layers of the Atmosphere",
+        "summary": "Grade 3 Science strand: Earth’s atmosphere has different layers, including the troposphere near the ground where weather happens, and higher layers that stretch into space.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the name of the atmosphere’s layer closest to the ground, where weather happens?",
+            "options": [
+              "A concept unrelated to the atmosphere",
+              "The rock cycle",
+              "The water cycle",
+              "The troposphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the atmosphere have more than one layer?",
+            "options": [
+              "Yes",
+              "A concept unrelated to Earth",
+              "The atmosphere does not exist",
+              "No, it is a single layer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do the higher layers of the atmosphere stretch into space?",
+            "options": [
+              "Yes",
+              "No, the atmosphere never reaches space",
+              "A concept unrelated to layers",
+              "Only the ocean reaches space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does most of our weather happen in the troposphere?",
+            "options": [
+              "It is the lowest layer, closest to Earth’s surface and its water and heat",
+              "Weather never happens in the troposphere",
+              "The troposphere is the layer farthest from Earth",
+              "This concept has no connection to Earth’s atmosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for scientists to study the different layers of the atmosphere?",
+            "options": [
+              "The atmosphere has no connection to weather or climate",
+              "It helps them understand weather, climate, and conditions in space",
+              "Studying atmosphere layers has no scientific value",
+              "This concept has no relevance to Earth science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of Non-Profits and Charities Locally",
+        "summary": "Grade 3 Social Studies strand: local non-profits and charities work to help people in the community, such as providing food, shelter, or support, often relying on volunteers and donations.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call organizations that help people in the community using donations, not profit?",
+            "options": [
+              "Non-profits or charities",
+              "Banks",
+              "A concept unrelated to community help",
+              "Grocery stores"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one thing a local charity might provide, such as food or shelter.",
+            "options": [
+              "Sports cars",
+              "Food",
+              "Video games",
+              "A concept unrelated to charities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do non-profits and charities often rely on volunteers and donations?",
+            "options": [
+              "No, they never need any help",
+              "Yes",
+              "They only rely on selling products",
+              "A concept unrelated to charities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a community rely on local charities to help people in need?",
+            "options": [
+              "Communities never need any extra support",
+              "This concept has no connection to community support",
+              "Charities never actually help anyone",
+              "Charities can provide support that fills gaps in the community"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can volunteering at a local charity benefit both the volunteer and the community?",
+            "options": [
+              "Volunteering never benefits anyone involved",
+              "This concept has no relevance to community life",
+              "The volunteer helps others while also building skills and connections",
+              "Charities never accept help from volunteers"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Comparative and Superlative Adjectives",
+        "summary": "Grade 3 Language strand: a comparative adjective, like taller, compares two things, while a superlative adjective, like tallest, compares three or more things to show the most extreme.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "A comparative adjective, like taller, compares how many things?",
+            "options": [
+              "Zero",
+              "Two",
+              "Three or more",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A superlative adjective, like tallest, compares how many things?",
+            "options": [
+              "Only two",
+              "A concept unrelated to grammar",
+              "Three or more",
+              "Zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is the comparative form of tall?",
+            "options": [
+              "Tall",
+              "Taller",
+              "Talling",
+              "Tallest"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is the superlative form of tall?",
+            "options": [
+              "Tallest",
+              "Taller",
+              "Tall",
+              "Talling"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use the superlative biggest instead of the comparative bigger?",
+            "options": [
+              "Comparatives always compare more things than superlatives",
+              "Superlatives and comparatives always mean the exact same thing",
+              "This concept has no connection to grammar",
+              "Superlatives compare three or more things to show the most extreme"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Multiplying by Powers of Ten",
+        "summary": "Grade 3 Math strand: students learn a pattern for multiplying whole numbers by 10 or 100, noticing that one or two zeros are added to the original number.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 5 times 10?",
+            "options": [
+              "500",
+              "15",
+              "5",
+              "50"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 5 times 100?",
+            "options": [
+              "15",
+              "500",
+              "50",
+              "5 000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 23 times 10?",
+            "options": [
+              "233",
+              "230",
+              "23",
+              "2 300"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When multiplying a whole number by 10, what pattern happens to the digits?",
+            "options": [
+              "One zero is added to the end of the number",
+              "The digits are rearranged randomly",
+              "The number is cut in half",
+              "A concept unrelated to multiplication patterns"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 40 times 100?",
+            "options": [
+              "440",
+              "40 000",
+              "400",
+              "4 000"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tides and the Moon’s Pull",
+        "summary": "Grade 3 Science strand: tides are the rise and fall of ocean water levels, caused mostly by the pull of the Moon’s gravity on Earth’s oceans.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the rise and fall of ocean water levels?",
+            "options": [
+              "Tides",
+              "A concept unrelated to oceans",
+              "Erosion",
+              "Precipitation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What mostly causes tides to happen?",
+            "options": [
+              "A concept unrelated to tides",
+              "The colour of the ocean",
+              "The pull of the Moon’s gravity",
+              "The temperature of the sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the Moon’s gravity pull on Earth’s oceans?",
+            "options": [
+              "Yes",
+              "A concept unrelated to tides",
+              "No, the Moon has no gravity at all",
+              "Only the Sun affects tides"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do coastal communities need to understand the timing of tides?",
+            "options": [
+              "Tides never affect anything near the coast",
+              "Tides only happen once a year",
+              "This concept has no connection to coastal communities",
+              "It can affect activities like fishing, boating, and beach safety"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it the Moon, rather than a nearby mountain, that has the biggest effect on ocean tides?",
+            "options": [
+              "Gravity has no connection to the Moon at all",
+              "The Moon’s gravity, though it is far away, is strong enough and close enough to pull on the huge mass of ocean water",
+              "This concept has no relevance to science",
+              "Mountains have a much stronger gravitational pull than the Moon"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ontario’s Role in the Underground Railroad",
+        "summary": "Grade 3 Social Studies strand: the Underground Railroad was a network of secret routes and safe houses that helped freedom seekers escape enslavement, with many settling in communities across Ontario.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call the secret network of routes that helped freedom seekers escape enslavement?",
+            "options": [
+              "A type of farm equipment",
+              "A modern subway system",
+              "The Underground Railroad",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did many freedom seekers settle in communities across Ontario?",
+            "options": [
+              "Yes",
+              "No, none ever settled in Ontario",
+              "A concept unrelated to history",
+              "They only settled in a different country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Was the Underground Railroad an actual railroad with trains?",
+            "options": [
+              "No, it was a network of secret routes and safe houses",
+              "It was a type of highway",
+              "A concept unrelated to history",
+              "Yes, it used real trains and tracks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Underground Railroad an important part of Ontario’s history?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "It shows how communities in Ontario provided safety and new beginnings for freedom seekers",
+              "The Underground Railroad has no connection to Ontario",
+              "This event never actually affected Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might learning about the Underground Railroad help students understand Ontario’s diversity today?",
+            "options": [
+              "It helps explain part of the history behind some communities in Ontario",
+              "This history has no connection to Ontario’s communities today",
+              "Ontario’s diversity has no connection to its history",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Antonyms in Context",
+        "summary": "Grade 3 Language strand: an antonym is a word that means the opposite of another word, and understanding antonyms in context can help readers understand contrasts within a sentence.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What do we call a word that means the opposite of another word?",
+            "options": [
+              "A homophone",
+              "An antonym",
+              "A concept unrelated to vocabulary",
+              "A synonym"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an antonym for the word happy?",
+            "options": [
+              "Cheerful",
+              "Sad",
+              "Glad",
+              "Joyful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an antonym for the word fast?",
+            "options": [
+              "Speedy",
+              "Quick",
+              "Slow",
+              "Rapid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence The weather was hot yesterday but cold today, which two words are antonyms?",
+            "options": [
+              "Weather and today",
+              "Was and but",
+              "Yesterday and today",
+              "Hot and cold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding antonyms useful when reading a sentence with the word but?",
+            "options": [
+              "The word but often signals a contrast, which antonyms can help show",
+              "Antonyms never appear near the word but",
+              "The word but never signals any kind of contrast",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Understanding Range in a Data Set",
+        "summary": "Grade 3 Math strand: the range of a data set is the difference between the highest and lowest values, found by subtracting the smallest number from the largest number.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call the difference between the highest and lowest values in a data set?",
+            "options": [
+              "The average",
+              "A concept unrelated to data",
+              "The range",
+              "The mode"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a data set has a highest value of 15 and a lowest value of 5, what is the range?",
+            "options": [
+              "15",
+              "10",
+              "5",
+              "20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a data set has a highest value of 30 and a lowest value of 12, what is the range?",
+            "options": [
+              "30",
+              "42",
+              "18",
+              "12"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the range, you subtract the ___ value from the ___ value.",
+            "options": [
+              "Middle, largest",
+              "Smallest, middle",
+              "Smallest, largest",
+              "Largest, smallest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might knowing the range of a data set be useful?",
+            "options": [
+              "The range never tells us anything useful",
+              "It shows how spread out the data values are",
+              "This concept has no connection to data",
+              "The range only applies to fractions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Migration Patterns of Canadian Birds",
+        "summary": "Grade 3 Science strand: many Canadian birds migrate, or travel long distances, each year to find warmer weather and more available food during the winter months.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call birds traveling long distances each year to find warmer weather?",
+            "options": [
+              "Hibernating",
+              "Migrating",
+              "A concept unrelated to birds",
+              "Photosynthesizing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many Canadian birds migrate during the winter?",
+            "options": [
+              "To find colder weather with less food",
+              "Birds never actually migrate",
+              "To find warmer weather and more available food",
+              "A concept unrelated to migration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do birds migrate the same route every single year?",
+            "options": [
+              "Birds never repeat any behaviour",
+              "A concept unrelated to migration",
+              "Often, yes, many birds follow similar migration routes",
+              "No, migration routes are always completely random"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might migrating long distances be a risky journey for birds?",
+            "options": [
+              "Migration is never risky for any bird",
+              "They may face bad weather, predators, or a lack of food along the way",
+              "This concept has no connection to bird migration",
+              "Birds never face any challenges while migrating"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding bird migration patterns helpful for conservation efforts?",
+            "options": [
+              "This concept has no relevance to science",
+              "It helps scientists protect the habitats birds depend on throughout their journey",
+              "Birds never need any habitats to be protected",
+              "Migration patterns have no connection to conservation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Water Conservation in Ontario Communities",
+        "summary": "Grade 3 Social Studies strand: water conservation means using fresh water carefully and avoiding waste, an important practice for Ontario communities to protect this valuable resource.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What word describes using fresh water carefully and avoiding waste?",
+            "options": [
+              "Water pollution",
+              "Water evaporation",
+              "A concept unrelated to resources",
+              "Water conservation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one way a community might practise water conservation, such as fixing leaky pipes.",
+            "options": [
+              "A concept unrelated to water conservation",
+              "Wasting water on purpose",
+              "Leaving taps running all day",
+              "Fixing leaky pipes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is fresh water a valuable resource that Ontario communities should protect?",
+            "options": [
+              "Fresh water can never run low",
+              "Yes",
+              "No, fresh water has no value at all",
+              "A concept unrelated to resources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for communities to conserve water even though Ontario has many lakes?",
+            "options": [
+              "Ontario has no lakes at all",
+              "This concept has no relevance to Ontario communities",
+              "Water conservation is never necessary near lakes",
+              "Clean, usable fresh water still requires careful management and can become limited"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of good water conservation?",
+            "options": [
+              "Leaving a hose running all day for no reason",
+              "Turning off the tap while brushing your teeth",
+              "Ignoring a leaking pipe for as long as possible",
+              "Wasting water on purpose to see what happens"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Supporting Interpretations with Evidence from the Text",
+        "summary": "Grade 3 Language strand: when readers share an idea about a story, they should support it with evidence, specific details or quotes from the text that back up their thinking.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "When sharing an idea about a story, what should readers use to support it?",
+            "options": [
+              "Evidence from the text",
+              "A concept unrelated to reading",
+              "Their own made-up facts with no connection to the story",
+              "A completely unrelated topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call specific details or quotes from a text used to support an idea?",
+            "options": [
+              "A math formula",
+              "A concept unrelated to reading",
+              "A grammar rule",
+              "Evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you think a character is brave, what should you do to support that idea?",
+            "options": [
+              "Ignore the story completely",
+              "Make up a fact with no connection to the story",
+              "Point to a specific action or detail from the story",
+              "A concept unrelated to reading comprehension"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to support an interpretation with evidence from the text?",
+            "options": [
+              "Evidence never helps explain an idea about a story",
+              "Interpretations never need any support at all",
+              "It shows the idea is based on what actually happens in the story",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of using evidence to support an idea?",
+            "options": [
+              "The character is kind because kindness is a nice word",
+              "The character must be kind because she shared her lunch with a hungry classmate",
+              "The character is kind because the story is five pages long",
+              "The character is kind because the book has a blue cover"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Converting Between Units of Time",
+        "summary": "Grade 3 Math strand: students learn to convert between units of time, such as figuring out how many days are in two weeks or how many months are in a year.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "5",
+              "7",
+              "30",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many days are in two weeks?",
+            "options": [
+              "10",
+              "14",
+              "21",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many months are in one year?",
+            "options": [
+              "10",
+              "365",
+              "52",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a project takes 3 weeks, how many days is that?",
+            "options": [
+              "14",
+              "7",
+              "21",
+              "28"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Converting between units of time, like weeks and days, helps us understand ___.",
+            "options": [
+              "How different measures of time relate to each other",
+              "Only how to read a calendar",
+              "Only how to tell time on a clock",
+              "A concept unrelated to time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Sound Travels Through Different Materials",
+        "summary": "Grade 3 Science strand: sound can travel through solids, liquids, and gases, but it travels at different speeds depending on the material, often moving fastest through solids.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Can sound travel through solids, liquids, and gases?",
+            "options": [
+              "Sound cannot travel at all",
+              "No, sound can only travel through air",
+              "A concept unrelated to sound",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does sound often travel fastest through solids, liquids, or gases?",
+            "options": [
+              "Solids",
+              "Sound travels at the same speed everywhere",
+              "Gases",
+              "A concept unrelated to sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you put your ear against a table, might you hear a tap on the other end travel through the solid wood?",
+            "options": [
+              "No, sound cannot travel through solids at all",
+              "Yes",
+              "Only liquids can carry sound",
+              "A concept unrelated to sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might sound travel differently through water compared to air?",
+            "options": [
+              "This concept has no connection to how sound works",
+              "Water and air are exactly identical for sound travel",
+              "Water and air have different properties that affect how sound waves move through them",
+              "Sound never travels through water at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for scientists to understand how sound travels through different materials?",
+            "options": [
+              "This concept has no relevance to science",
+              "It helps with technology like sonar, hearing aids, and soundproofing",
+              "This concept has no real-world use at all",
+              "Sound never actually needs to travel through anything"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Weather Affects Ontario’s Economy",
+        "summary": "Grade 3 Social Studies strand: weather can affect Ontario’s economy in many ways, such as impacting farming harvests, winter tourism, and how goods are transported.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Name one part of Ontario’s economy that weather can affect, such as farming.",
+            "options": [
+              "A concept unrelated to weather",
+              "The alphabet",
+              "A math equation",
+              "Farming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can weather impact how goods are transported across Ontario?",
+            "options": [
+              "Yes",
+              "Transportation never depends on weather",
+              "A concept unrelated to the economy",
+              "No, weather never affects transportation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Might winter weather affect tourism in Ontario, such as ski resorts?",
+            "options": [
+              "Weather has no connection to tourism",
+              "Yes",
+              "A concept unrelated to weather",
+              "No, tourism is never affected by weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a poor harvest season due to bad weather affect Ontario’s economy?",
+            "options": [
+              "Harvests are never affected by weather at all",
+              "This concept has no connection to the economy",
+              "Farmers may produce and sell less, affecting jobs and food supply",
+              "Weather never has any effect on farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for businesses to plan for different kinds of weather?",
+            "options": [
+              "This concept has no relevance to the economy",
+              "Weather can affect how goods are made, transported, and sold",
+              "Weather never has any impact on businesses",
+              "Businesses never need to plan for anything"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Newspaper Article",
+        "summary": "Grade 3 Language strand: a newspaper article reports facts about a real event, usually answering who, what, when, where, and why, often starting with the most important information first.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What kind of writing reports facts about a real event?",
+            "options": [
+              "A concept unrelated to writing",
+              "A newspaper article",
+              "A birthday invitation",
+              "A grocery list"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one question a newspaper article often answers, such as who or what.",
+            "options": [
+              "A random unrelated question",
+              "A math question",
+              "Who",
+              "A concept unrelated to newspaper articles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a newspaper article usually start with the most important information first?",
+            "options": [
+              "Yes",
+              "A concept unrelated to writing",
+              "No, it always starts with the least important detail",
+              "It never has any order at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a newspaper article put the most important information at the very beginning?",
+            "options": [
+              "Order has no effect on how an article is understood",
+              "So readers can quickly learn the key facts even if they stop reading early",
+              "This concept has no connection to writing a newspaper article",
+              "Important information should always be hidden until the very end"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these questions would most likely be answered in a newspaper article about a local event?",
+            "options": [
+              "What is two plus two?",
+              "How do you spell the word cat?",
+              "What is your favourite colour?",
+              "Who attended the event and why did it happen?"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Simple Profit and Loss in a Lemonade Stand",
+        "summary": "Grade 3 Math strand: students learn that profit is the money left over after subtracting the cost of supplies from the money earned, while a loss happens if costs are higher than earnings.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call the money left over after subtracting costs from earnings?",
+            "options": [
+              "A loss",
+              "Profit",
+              "Interest",
+              "A concept unrelated to money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a lemonade stand earns 20 dollars and supplies cost 8 dollars, what is the profit?",
+            "options": [
+              "20 dollars",
+              "28 dollars",
+              "12 dollars",
+              "8 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a lemonade stand earns 10 dollars but supplies cost 15 dollars, is that a profit or a loss?",
+            "options": [
+              "Cannot tell",
+              "Neither a profit nor a loss",
+              "A profit",
+              "A loss"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To find profit, you subtract the cost of supplies from the ___.",
+            "options": [
+              "Price of one single lemonade",
+              "Number of customers",
+              "Number of cups sold",
+              "Money earned"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for someone running a lemonade stand to track their costs and earnings?",
+            "options": [
+              "It helps them see whether they made a profit or a loss",
+              "This concept has no connection to running a stand",
+              "Tracking money never helps anyone understand a business",
+              "Profit and loss have no connection to money"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Investigating Density: Why Some Things Float",
+        "summary": "Grade 3 Science strand: density describes how tightly packed the matter is inside an object, and objects less dense than water will float, while denser objects will sink.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What word describes how tightly packed the matter is inside an object?",
+            "options": [
+              "Friction",
+              "A concept unrelated to matter",
+              "Density",
+              "Gravity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Will an object less dense than water float or sink?",
+            "options": [
+              "Sink",
+              "It disappears completely",
+              "A concept unrelated to density",
+              "Float"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Will an object denser than water float or sink?",
+            "options": [
+              "A concept unrelated to density",
+              "Sink",
+              "Float",
+              "It disappears completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does a large, heavy boat make of metal float, even though metal itself can sink?",
+            "options": [
+              "The boat’s shape spreads out its weight so its overall density is less than water",
+              "Metal always floats no matter its shape",
+              "This concept has no connection to density",
+              "Boats never actually float on water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding density a useful science concept?",
+            "options": [
+              "This concept has no relevance to science",
+              "Density has no connection to floating or sinking",
+              "It helps explain why some objects float and others sink",
+              "Every object has the exact same density"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Volunteering and Civic Participation",
+        "summary": "Grade 3 Social Studies strand: civic participation means taking an active part in your community, such as volunteering, voting when old enough, or attending community meetings.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What word describes taking an active part in your community?",
+            "options": [
+              "A concept unrelated to community",
+              "A weather pattern",
+              "A math term",
+              "Civic participation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one example of civic participation, such as volunteering.",
+            "options": [
+              "Ignoring your community",
+              "Volunteering",
+              "Refusing to help others",
+              "A concept unrelated to civic participation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is voting when old enough considered a form of civic participation?",
+            "options": [
+              "Only adults can ever participate in a community",
+              "A concept unrelated to community",
+              "No, voting has no connection to civic participation",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is civic participation important for a healthy community?",
+            "options": [
+              "Civic participation has no benefit to a community",
+              "This concept has no relevance to social studies",
+              "Communities function better with no participation at all",
+              "It helps community members have a voice and contribute to shared decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a young person practising civic participation?",
+            "options": [
+              "Volunteering to help clean up a local park",
+              "Refusing to help with any community event",
+              "Avoiding all community activities",
+              "Ignoring opportunities to help others"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Foreshadowing, Grammar, and Vocabulary",
+        "summary": "Grade 3 Language strand review: students revisit foreshadowing, interjections, prefixes re- and pre-, invitations, character motivation, comparative and superlative adjectives, antonyms, evidence from text, and newspaper articles.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Foreshadowing is when an author gives a small ___ early in a story about something that will happen later.",
+            "options": [
+              "Summary of the whole ending",
+              "List of every character’s name",
+              "Hint",
+              "Concept unrelated to storytelling"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an interjection?",
+            "options": [
+              "The",
+              "Cat",
+              "Run",
+              "Wow!"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The prefix re- often means ___.",
+            "options": [
+              "A concept unrelated to prefixes",
+              "Again",
+              "Before",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the reason behind a character’s actions in a story?",
+            "options": [
+              "The book’s title",
+              "The illustrator’s name",
+              "Character motivation",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a word that means the opposite of another word?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A synonym",
+              "A homophone",
+              "An antonym"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Multiplication, Fractions, and Data",
+        "summary": "Grade 3 Math strand review: students revisit multiplying by 11 and 12, missing side lengths, surveys, numbers to 10 000, fraction word problems, powers of ten, range, time conversions, and profit and loss.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 11 times 4?",
+            "options": [
+              "44",
+              "48",
+              "54",
+              "40"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a rectangle has a perimeter of 20 cm and three known sides add up to 14 cm, what is the missing side?",
+            "options": [
+              "34 cm",
+              "6 cm",
+              "20 cm",
+              "14 cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right after 9 999?",
+            "options": [
+              "10 000",
+              "9 998",
+              "10 100",
+              "1 000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a pizza is cut into 8 slices and 3 slices are eaten, what fraction of the pizza is left?",
+            "options": [
+              "8 eighths",
+              "5 eighths",
+              "3 eighths",
+              "1 eighth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 5 times 100?",
+            "options": [
+              "15",
+              "500",
+              "50",
+              "5 000"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Ecosystems, Earth Science, and Physical Science",
+        "summary": "Grade 3 Science strand review: students revisit winter adaptations, photosynthesis, symbiosis, sustainable materials, atmosphere layers, tides, bird migration, sound through materials, and density.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one adaptation animals use to survive winter, such as growing thicker fur.",
+            "options": [
+              "A concept unrelated to survival",
+              "Growing thicker fur",
+              "Losing all their fur",
+              "Ignoring winter completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the process called when plants make their own food using sunlight?",
+            "options": [
+              "Hibernation",
+              "Migration",
+              "A concept unrelated to plants",
+              "Photosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a close relationship between two different living things?",
+            "options": [
+              "Photosynthesis",
+              "Migration",
+              "Symbiosis",
+              "A concept unrelated to living things"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What mostly causes tides to happen?",
+            "options": [
+              "A concept unrelated to tides",
+              "The pull of the Moon’s gravity",
+              "The temperature of the sand",
+              "The colour of the ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Will an object less dense than water float or sink?",
+            "options": [
+              "It disappears completely",
+              "Float",
+              "A concept unrelated to density",
+              "Sink"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Industry, History, and Civic Life",
+        "summary": "Grade 3 Social Studies strand review: students revisit Ontario manufacturing, municipal budgets, comparing provinces, Indigenous place names, local charities, the Underground Railroad, water conservation, weather and the economy, and civic participation.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call factories producing goods like cars and machinery?",
+            "options": [
+              "Mining",
+              "Farming",
+              "Manufacturing",
+              "A concept unrelated to industry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a plan for how a local government spends its money?",
+            "options": [
+              "A municipal budget",
+              "A concept unrelated to government",
+              "A weather forecast",
+              "A grocery list"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the secret network of routes that helped freedom seekers escape enslavement?",
+            "options": [
+              "A type of farm equipment",
+              "A modern subway system",
+              "The Underground Railroad",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes using fresh water carefully and avoiding waste?",
+            "options": [
+              "Water conservation",
+              "Water evaporation",
+              "A concept unrelated to resources",
+              "Water pollution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What word describes taking an active part in your community?",
+            "options": [
+              "Civic participation",
+              "A concept unrelated to community",
+              "A math term",
+              "A weather pattern"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
