@@ -19462,5 +19462,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Existentialist Themes in Fiction",
+        "summary": "Grade 10 English strand: existentialist fiction explores themes of individual freedom, choice, and the search for meaning in a world that offers no inherent answers.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What do existentialist themes in fiction often explore?",
+            "options": [
+              "Individual freedom, choice, and the search for meaning",
+              "Only fairy tale settings with no deeper themes",
+              "Recipes and cooking instructions",
+              "A concept unrelated to literature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does existentialist fiction often suggest the world offers no inherent, built-in meaning?",
+            "options": [
+              "Meaning is never a concern in existentialist fiction",
+              "No, existentialist fiction always presents a clear, given meaning",
+              "Yes",
+              "A concept unrelated to existentialism"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a character in an existentialist novel struggle with the weight of their own choices?",
+            "options": [
+              "If no external force dictates meaning, characters must create their own purpose through their choices",
+              "This concept has no connection to literature",
+              "Existentialist novels always provide characters with a predetermined purpose",
+              "Characters in existentialist novels never face any struggle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences reflects an existentialist theme?",
+            "options": [
+              "The recipe called for two cups of flour and one egg.",
+              "The train departs the station at exactly nine o’clock.",
+              "She realized that no one could tell her who to become; she alone would decide.",
+              "The chemical formula for water is H2O."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might existentialist fiction appeal to readers wrestling with questions about purpose and identity?",
+            "options": [
+              "This concept has no connection to literature",
+              "Readers never relate to characters who question their own purpose",
+              "It directly engages with the challenge of creating meaning without relying on predetermined answers",
+              "Existentialist fiction never engages with questions of purpose or identity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Functions: Inverse of Quadratic Functions",
+        "summary": "Grade 10 Math strand: finding the inverse of a quadratic function involves switching the roles of x and y and solving for y, often restricting the domain so the inverse remains a function.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "When finding the inverse of a function, what roles are switched?",
+            "options": [
+              "Nothing is switched at all",
+              "The roles of x and y",
+              "The roles of the slope and intercept",
+              "A concept unrelated to inverse functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the domain of a quadratic function often restricted before finding its inverse?",
+            "options": [
+              "A full parabola fails the horizontal line test, so restricting the domain keeps the inverse a true function",
+              "This concept has no connection to inverse functions",
+              "The domain is restricted only for linear functions, never quadratics",
+              "Quadratic functions never need any domain restriction for their inverse"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a function passes through the point (2, 5), what point must its inverse pass through?",
+            "options": [
+              "(5, 2)",
+              "(2, 5)",
+              "(-2, -5)",
+              "(5, -2)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to graph a function and its inverse together on the same axes?",
+            "options": [
+              "It shows the reflective symmetry between the two graphs across the line y equals x",
+              "This concept has no connection to math",
+              "A function and its inverse never share any graphical relationship",
+              "Graphing a function with its inverse never reveals any useful pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the inverse relationship of y equals x squared, before restricting the domain?",
+            "options": [
+              "x equals y squared",
+              "x equals negative y",
+              "y equals the square root of x only",
+              "y equals negative x squared"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Le Chatelier’s Principle",
+        "summary": "Grade 10 Science strand: Le Chatelier’s principle states that when a system at equilibrium is disturbed, it shifts to counteract the disturbance and establish a new equilibrium.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does Le Chatelier’s principle describe?",
+            "options": [
+              "How light travels through a vacuum",
+              "A concept unrelated to chemistry",
+              "How atoms are structured inside a nucleus",
+              "How a system at equilibrium shifts to counteract a disturbance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a system at equilibrium respond to a disturbance by shifting to a new equilibrium?",
+            "options": [
+              "No, systems at equilibrium never respond to any disturbance",
+              "A concept unrelated to Le Chatelier’s principle",
+              "Yes",
+              "Equilibrium always remains completely unchanged no matter what happens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If more reactant is added to a reaction at equilibrium, which direction does the reaction shift?",
+            "options": [
+              "Toward the reactants, away from the products",
+              "The reaction does not shift in any direction",
+              "Toward the products, to use up the added reactant",
+              "A concept unrelated to equilibrium"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might increasing the temperature of an exothermic reaction at equilibrium shift it toward the reactants?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Exothermic reactions never reach any state of equilibrium",
+              "Added heat acts like an extra product, so the system shifts to counteract that increase",
+              "Temperature changes never have any effect on a reaction at equilibrium"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Le Chatelier’s principle useful for industrial chemists producing a specific chemical?",
+            "options": [
+              "It helps them adjust conditions like pressure and temperature to maximize the yield of a desired product",
+              "Le Chatelier’s principle has no practical industrial application",
+              "Industrial processes never rely on chemical equilibrium at all",
+              "This concept has no relevance to chemistry"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada and the Vietnam War Era: Draft Dodgers",
+        "summary": "Grade 10 History strand: during the Vietnam War, Canada did not join the conflict and became a destination for thousands of American draft resisters and deserters seeking refuge.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Did Canada officially join the Vietnam War?",
+            "options": [
+              "Canada declared war on Vietnam directly",
+              "A concept unrelated to Canadian history",
+              "No",
+              "Yes, Canada sent combat troops to fight in Vietnam"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did Canada become for many American draft resisters during the Vietnam War?",
+            "options": [
+              "A concept unrelated to the Vietnam War era",
+              "A country that sent its own citizens to fight in Vietnam",
+              "A place that actively rejected all American immigrants",
+              "A destination seeking refuge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did thousands of Americans move to Canada to avoid being drafted into the Vietnam War?",
+            "options": [
+              "Yes",
+              "Draft resisters were all turned away at the border",
+              "No, no Americans ever moved to Canada during this era",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might Canada’s decision not to join the Vietnam War have shaped its identity separate from the United States?",
+            "options": [
+              "This concept has no relevance to history",
+              "Canada’s foreign policy was always identical to that of the United States",
+              "It reflected an independent foreign policy stance distinct from its powerful neighbour",
+              "This decision had no connection to Canadian identity or independence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the arrival of draft resisters have influenced Canadian society and culture in the following decades?",
+            "options": [
+              "All draft resisters returned to the United States within a few months",
+              "Many resisters settled permanently, contributing to communities and cultural life across the country",
+              "Draft resisters never had any lasting impact on Canadian society",
+              "This concept has no relevance to history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Rhetorical Analysis Essay",
+        "summary": "Grade 10 English strand: a rhetorical analysis essay examines how a speaker or writer uses appeals to ethos, pathos, and logos, along with stylistic devices, to persuade an audience.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a rhetorical analysis essay examine?",
+            "options": [
+              "How a speaker or writer uses appeals and devices to persuade an audience",
+              "Only the biography of the author",
+              "A list of unrelated grammar rules",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one of the three classical appeals examined in rhetorical analysis, such as ethos.",
+            "options": [
+              "Ethos",
+              "A concept unrelated to rhetorical analysis",
+              "Photosynthesis",
+              "Osmosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does pathos refer to an appeal to emotion?",
+            "options": [
+              "No, pathos refers only to an appeal to credibility",
+              "Pathos has no connection to persuasive appeals",
+              "A concept unrelated to rhetorical analysis",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a rhetorical analysis essay focus on how an argument is made rather than whether it is correct?",
+            "options": [
+              "This concept has no connection to writing",
+              "The goal is to understand the persuasive techniques used, not to judge the argument’s validity",
+              "Persuasive techniques are never relevant to rhetorical analysis",
+              "Rhetorical analysis only ever evaluates whether an argument is factually true"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is identifying an author’s intended audience important in a rhetorical analysis essay?",
+            "options": [
+              "Every audience responds to persuasive techniques in exactly the same way",
+              "The intended audience never affects how a speech or text is analyzed",
+              "Understanding the audience helps explain why certain appeals or strategies were chosen",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Box-and-Whisker Plots and Quartiles",
+        "summary": "Grade 10 Math strand: a box-and-whisker plot displays a data set’s distribution using the minimum, first quartile, median, third quartile, and maximum.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "How many key values does a box-and-whisker plot display?",
+            "options": [
+              "Ten",
+              "Two",
+              "Three",
+              "Five"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the middle value of an ordered data set called?",
+            "options": [
+              "The minimum",
+              "The median",
+              "The maximum",
+              "A concept unrelated to data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the first quartile represent in a data set?",
+            "options": [
+              "The exact average of the entire data set",
+              "The value below which 25 percent of the data falls",
+              "A concept unrelated to quartiles",
+              "The single highest value in the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a box-and-whisker plot be useful for comparing two data sets, like exam scores from two classes?",
+            "options": [
+              "It visually shows the spread and central tendency, making comparison straightforward",
+              "Box-and-whisker plots never help with comparing data sets",
+              "Exam scores can never be represented in a box-and-whisker plot",
+              "This concept has no connection to data management"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the range between the first and third quartiles called?",
+            "options": [
+              "The standard deviation",
+              "The interquartile range",
+              "A concept unrelated to quartiles",
+              "The mean absolute deviation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Photosynthesis in Depth: Light and Dark Reactions",
+        "summary": "Grade 10 Science strand: photosynthesis consists of two stages, the light-dependent reactions that capture solar energy, and the light-independent (dark) reactions that use that energy to build sugars.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "How many main stages does photosynthesis consist of?",
+            "options": [
+              "One",
+              "Two",
+              "Five",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do the light-dependent reactions of photosynthesis capture?",
+            "options": [
+              "Solar energy",
+              "Nothing at all related to energy",
+              "A concept unrelated to photosynthesis",
+              "Only carbon dioxide from the air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do the light-independent, or dark, reactions use energy captured earlier to build sugars?",
+            "options": [
+              "A concept unrelated to photosynthesis",
+              "Sugars are never produced during photosynthesis",
+              "Yes",
+              "No, the dark reactions never use any captured energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are the light-independent reactions sometimes called dark reactions, even though they can occur during the day?",
+            "options": [
+              "The dark reactions only ever occur at night, never during the day",
+              "This concept has no connection to photosynthesis",
+              "Dark reactions require intense direct sunlight at all times",
+              "They do not directly require light, unlike the light-dependent reactions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding both stages of photosynthesis important for understanding plant growth?",
+            "options": [
+              "The two stages of photosynthesis have no connection to how plants grow",
+              "Only one of the two stages actually contributes to a plant’s growth",
+              "This concept has no relevance to biology",
+              "Both stages work together to convert light energy into the chemical energy plants use to grow"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the Canada Pension Plan",
+        "summary": "Grade 10 History strand: the Canada Pension Plan was established in 1965 to provide retirement, disability, and survivor benefits, forming a key part of Canada’s social safety net.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what decade was the Canada Pension Plan established?",
+            "options": [
+              "The 1960s",
+              "The 1990s",
+              "A concept unrelated to Canadian history",
+              "The 1920s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one type of benefit the Canada Pension Plan provides, such as retirement benefits.",
+            "options": [
+              "Retirement benefits",
+              "Unlimited paid vacation days",
+              "Free university tuition",
+              "A concept unrelated to the Canada Pension Plan"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is the Canada Pension Plan considered a key part of Canada’s social safety net?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Yes",
+              "No, the Canada Pension Plan has no connection to Canada’s social safety net",
+              "Social safety nets never include any pension programs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the introduction of the Canada Pension Plan have been significant for older Canadians?",
+            "options": [
+              "The Canada Pension Plan never provided any income security for Canadians",
+              "Older Canadians had no need for any retirement income support",
+              "This concept has no relevance to Canadian history",
+              "It provided a more reliable source of income security for people after they stopped working"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a national pension program be considered an important part of a country’s approach to social welfare?",
+            "options": [
+              "Social welfare programs never include any form of retirement support",
+              "National pension programs never have any effect on poverty or financial stability",
+              "This concept has no relevance to history",
+              "It can help reduce poverty among retirees and provide financial stability across the population"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Nominalization and Formal Register",
+        "summary": "Grade 10 English strand: nominalization turns a verb or adjective into a noun, such as changing decide into decision, often used to create a more formal, academic register in writing.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does nominalization do to a verb or adjective?",
+            "options": [
+              "Turns it into a noun",
+              "A concept unrelated to grammar",
+              "Turns it into a question",
+              "Removes it from the sentence entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is the nominalized form of the verb decide?",
+            "options": [
+              "Decision",
+              "Deciding",
+              "Decided",
+              "Decisive"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is nominalization commonly associated with a formal or informal writing register?",
+            "options": [
+              "Neither a formal nor an informal register",
+              "A concept unrelated to nominalization",
+              "A formal register",
+              "An informal register only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses nominalization?",
+            "options": [
+              "Deciding takes a long time sometimes.",
+              "They will decide tomorrow.",
+              "The committee’s decision surprised everyone in the room.",
+              "The committee decided quickly."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use nominalization in a formal academic essay?",
+            "options": [
+              "It can create a more objective, abstract, and formal tone",
+              "Nominalization always makes writing sound more casual",
+              "Formal essays never use any nominalized words",
+              "This concept has no connection to writing style"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of Composite Solids",
+        "summary": "Grade 10 Math strand: students find the volume of composite solids by breaking the shape into simpler solids, such as prisms, cylinders, cones, and spheres, then adding their individual volumes.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "To find the volume of a composite solid, what should you do first?",
+            "options": [
+              "Ignore the individual parts entirely",
+              "Break the shape into simpler solids",
+              "Only measure the outer surface area",
+              "A concept unrelated to composite solids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a composite solid is made of a cone with volume 15 cubic cm and a cylinder with volume 40 cubic cm, what is the total volume?",
+            "options": [
+              "55 cubic cm",
+              "40 cubic cm",
+              "25 cubic cm",
+              "15 cubic cm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to identify simple shapes within a composite solid before calculating volume?",
+            "options": [
+              "This concept has no connection to geometry",
+              "Composite solids can never be broken into simpler shapes",
+              "Identifying simple shapes never helps calculate the volume of a composite solid",
+              "It allows the use of known volume formulas for each individual shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a composite solid is made of two rectangular prisms with volumes of 24 and 18 cubic cm, what is the total volume?",
+            "options": [
+              "24 cubic cm",
+              "18 cubic cm",
+              "6 cubic cm",
+              "42 cubic cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding composite solid volume be useful for architects designing a building?",
+            "options": [
+              "Composite solid volume never applies to any real-world architectural design",
+              "This concept has no connection to geometry",
+              "Many buildings combine simple geometric shapes, so this skill helps calculate total material or space needs",
+              "Buildings are always made of a single, simple geometric shape"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Torque and Rotational Equilibrium",
+        "summary": "Grade 10 Science strand: torque measures the turning effect of a force around a pivot point, and an object is in rotational equilibrium when the net torque acting on it is zero.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does torque measure?",
+            "options": [
+              "A concept unrelated to physics",
+              "The turning effect of a force around a pivot point",
+              "The temperature of an object",
+              "The total mass of an object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When is an object in rotational equilibrium?",
+            "options": [
+              "When it is moving at a constant speed in a straight line",
+              "When the net torque acting on it is zero",
+              "When no force acts on it at all",
+              "A concept unrelated to torque"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does increasing the distance from the pivot point increase the torque produced by a given force?",
+            "options": [
+              "No, distance from the pivot has no effect on torque",
+              "Torque only depends on the mass of an object",
+              "A concept unrelated to torque",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a longer wrench make it easier to loosen a tight bolt compared to a shorter one?",
+            "options": [
+              "This concept has no connection to physics",
+              "Wrench length never has any effect on the torque applied to a bolt",
+              "A shorter wrench always produces more torque than a longer one",
+              "A longer wrench increases the distance from the pivot, producing greater torque for the same applied force"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding rotational equilibrium important when designing a seesaw or balance scale?",
+            "options": [
+              "This concept has no relevance to physics",
+              "It helps ensure the torques on each side balance so the object remains stable and level",
+              "Rotational equilibrium has no connection to how a seesaw or balance scale works",
+              "Seesaws and balance scales never rely on any torque balance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Berlin Wall and Canadian Cold War Diplomacy",
+        "summary": "Grade 10 History strand: the construction and eventual fall of the Berlin Wall shaped global Cold War tensions, with Canada playing a supporting diplomatic role within NATO throughout the period.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What structure divided the city of Berlin during the Cold War?",
+            "options": [
+              "The Great Wall",
+              "The Iron Curtain railway",
+              "A concept unrelated to Canadian history",
+              "The Berlin Wall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did Canada play a diplomatic role within NATO during the Cold War period?",
+            "options": [
+              "Canada left NATO entirely during this period",
+              "No, Canada had no involvement in NATO during the Cold War",
+              "A concept unrelated to the Berlin Wall",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the Berlin Wall eventually fall, symbolizing the end of Cold War divisions?",
+            "options": [
+              "No, the Berlin Wall still stands today",
+              "A concept unrelated to Canadian history",
+              "The Berlin Wall was never actually removed",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada’s NATO membership have connected it to events surrounding the Berlin Wall, even though it was not physically in Europe?",
+            "options": [
+              "Canada’s foreign policy was completely disconnected from its NATO membership",
+              "NATO alliance commitments linked member countries’ security and diplomatic interests across the Atlantic",
+              "This concept has no relevance to Canadian history",
+              "NATO membership never connected Canada to any European Cold War events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the fall of the Berlin Wall often seen as a significant turning point in twentieth-century history?",
+            "options": [
+              "It symbolized the collapse of Cold War divisions between Eastern and Western Europe",
+              "This concept has no relevance to history",
+              "The fall of the Berlin Wall had no broader historical significance",
+              "Cold War tensions actually increased immediately after the wall fell"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Podcast Journalism",
+        "summary": "Grade 10 English strand: podcast journalism uses audio storytelling techniques, such as interviews, narration, and sound design, to investigate and report on real events and issues.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does podcast journalism use to investigate and report on real events?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Silent, text-only reports",
+              "Audio storytelling techniques",
+              "Only printed newspaper articles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one audio storytelling technique used in podcast journalism, such as narration.",
+            "options": [
+              "A silent film reel",
+              "A concept unrelated to podcast journalism",
+              "Narration",
+              "A printed photograph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can sound design help shape the mood or emphasis of a podcast story?",
+            "options": [
+              "Yes",
+              "No, sound design never affects how a podcast story feels",
+              "Sound design has no connection to storytelling",
+              "A concept unrelated to podcast journalism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a podcast journalist include a direct interview clip rather than only paraphrasing what someone said?",
+            "options": [
+              "A direct clip preserves the speaker’s own voice, tone, and exact words, adding authenticity",
+              "This concept has no connection to media literacy",
+              "Paraphrasing always conveys more meaning than an original recording",
+              "Direct interview clips never add anything valuable to a podcast story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is critically evaluating sources important when listening to investigative podcast journalism?",
+            "options": [
+              "This concept has no connection to media literacy",
+              "All podcasts are always completely unbiased and equally reliable",
+              "Source evaluation never matters when listening to a podcast",
+              "Understanding who is speaking and their potential bias helps listeners assess the reliability of the reporting"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Systems by Combined Substitution and Elimination",
+        "summary": "Grade 10 Math strand: some systems of equations are most efficiently solved using a combination of substitution and elimination, choosing whichever method suits the structure of each equation.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "When solving a system of equations, is it possible to combine substitution and elimination methods?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "Yes",
+              "No, only one single method can ever be used",
+              "Combining methods always produces an incorrect answer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one equation is already solved for a variable, which method might be most efficient to use first?",
+            "options": [
+              "Substitution",
+              "A concept unrelated to solving systems",
+              "Elimination only",
+              "Neither method would ever apply here"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two equations have matching coefficients for one variable, which method might be most efficient to use first?",
+            "options": [
+              "A concept unrelated to solving systems",
+              "Substitution only",
+              "Neither method would ever apply here",
+              "Elimination"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a student choose to eliminate one variable first, then substitute to find the second?",
+            "options": [
+              "This concept has no connection to math",
+              "Eliminating a variable simplifies the system, making it easier to substitute back and solve for the remaining variable",
+              "Combining elimination and substitution never simplifies a system of equations",
+              "Substitution and elimination always require completely separate systems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If x plus y equals 10 and 2x minus y equals 2, what is the value of x after adding the equations together?",
+            "options": [
+              "2",
+              "10",
+              "8",
+              "4"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Ocean Currents and Climate",
+        "summary": "Grade 10 Science strand: ocean currents circulate warm and cold water around the globe, significantly influencing regional climate patterns, such as keeping coastal areas milder than inland regions.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What do ocean currents circulate around the globe?",
+            "options": [
+              "Only sand and sediment",
+              "A concept unrelated to earth science",
+              "Warm and cold water",
+              "Nothing at all connected to climate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can ocean currents significantly influence regional climate patterns?",
+            "options": [
+              "No, ocean currents have no connection to regional climate",
+              "Climate is never affected by any ocean process",
+              "Yes",
+              "A concept unrelated to ocean currents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Might a coastal region tend to have a milder climate than an inland region at a similar latitude?",
+            "options": [
+              "Ocean currents never affect coastal temperatures",
+              "A concept unrelated to ocean currents",
+              "Yes",
+              "No, coastal and inland regions always have identical climates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a warm ocean current flowing along a coastline lead to milder winters in that region?",
+            "options": [
+              "Ocean currents only affect temperatures far out at sea, never along coastlines",
+              "The warm water can transfer heat to the nearby air, moderating the local temperature",
+              "This concept has no connection to earth science",
+              "Warm ocean currents never have any effect on nearby air temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is studying ocean currents considered important for understanding long-term climate patterns?",
+            "options": [
+              "Global climate patterns are entirely unrelated to ocean processes",
+              "This concept has no relevance to earth science",
+              "Currents help distribute heat around the planet, playing a major role in shaping global climate systems",
+              "Ocean currents have no connection to global climate systems"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Green Revolution and Canadian Agricultural Policy",
+        "summary": "Grade 10 History strand: the Green Revolution introduced high-yield crop varieties and modern farming techniques worldwide in the mid-twentieth century, influencing Canadian agricultural policy and food production.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Green Revolution introduce worldwide in the mid-twentieth century?",
+            "options": [
+              "A worldwide halt to food production",
+              "A ban on all agricultural technology",
+              "A concept unrelated to Canadian history",
+              "High-yield crop varieties and modern farming techniques"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the Green Revolution influence Canadian agricultural policy and food production?",
+            "options": [
+              "A concept unrelated to the Green Revolution",
+              "Canadian agriculture was never affected by any global agricultural trend",
+              "No, the Green Revolution had no connection to Canadian agriculture",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Were modern farming techniques part of the changes introduced during the Green Revolution?",
+            "options": [
+              "The Green Revolution had no connection to farming methods",
+              "A concept unrelated to the Green Revolution",
+              "Yes",
+              "No, farming techniques remained completely unchanged during this period"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might higher-yield crop varieties have allowed farmers to produce more food using the same amount of land?",
+            "options": [
+              "These varieties were bred to produce a greater quantity of crop per plant or per acre",
+              "Crop yield has no connection to how food production changed over time",
+              "Higher-yield crops never produce more food than traditional varieties",
+              "This concept has no connection to agricultural history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Green Revolution have raised questions about the environmental effects of intensive modern farming?",
+            "options": [
+              "Modern farming techniques have no connection to environmental impact",
+              "Practices like heavy fertilizer and pesticide use raised new concerns about soil and water impacts",
+              "The Green Revolution never raised any environmental questions or concerns",
+              "This concept has no relevance to history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Unreliable Framing in Memoir",
+        "summary": "Grade 10 English strand: memoirists shape their own life stories through selective memory and personal perspective, meaning readers must consider how this framing affects the reliability of the account.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What do memoirists shape their life stories through?",
+            "options": [
+              "A completely objective, unfiltered record of events",
+              "A concept unrelated to reading",
+              "Only facts checked by an outside historian",
+              "Selective memory and personal perspective"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should readers consider how a memoirist’s framing might affect the reliability of their account?",
+            "options": [
+              "No, memoirs should always be treated as entirely objective",
+              "Yes",
+              "Reliability is never a consideration when reading memoir",
+              "A concept unrelated to memoir"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might two people who experienced the same event write very different memoirs about it?",
+            "options": [
+              "Memoirs are never influenced by personal perspective",
+              "Personal perspective and memory can shape how each person interprets and recalls the same experience",
+              "Two people always remember and describe an event in exactly the same way",
+              "This concept has no connection to memoir writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a memoirist choose to include some memories and leave out others?",
+            "options": [
+              "They may select details that best serve the story or message they want to convey",
+              "Selective memory never plays a role in how a memoir is written",
+              "Memoirists always include every single detail from their life with no selection at all",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is critical reading important when studying a memoir as a historical or personal source?",
+            "options": [
+              "Critical reading never matters when studying a memoir",
+              "This concept has no relevance to reading comprehension",
+              "Every memoir is always a perfectly objective account of events",
+              "It helps readers recognize that a memoir reflects one person’s shaped perspective, not an absolute record"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Sequences: Recursive Formulas",
+        "summary": "Grade 10 Math strand: a recursive formula defines each term of a sequence based on the value of one or more previous terms, rather than directly from the term’s position.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a recursive formula use to define each term of a sequence?",
+            "options": [
+              "A concept unrelated to sequences",
+              "A completely random number each time",
+              "Only the term’s position number",
+              "The value of one or more previous terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sequence defined by a(n) equals a(n-1) plus 3, with a(1) equals 2, what is a(2)?",
+            "options": [
+              "3",
+              "2",
+              "5",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sequence defined by a(n) equals a(n-1) plus 3, with a(1) equals 2, what is a(3)?",
+            "options": [
+              "2",
+              "8",
+              "9",
+              "5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a recursive formula be a natural way to describe a savings account that grows by a fixed amount each month?",
+            "options": [
+              "This concept has no connection to sequences",
+              "Each month’s balance depends directly on the previous month’s balance plus the fixed deposit",
+              "Recursive formulas never apply to situations that grow over time",
+              "A savings account balance never depends on any previous value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it take longer to find the 50th term of a sequence using a recursive formula compared to an explicit formula?",
+            "options": [
+              "Explicit and recursive formulas always require exactly the same number of steps",
+              "Recursive formulas always calculate any term faster than an explicit formula",
+              "This concept has no connection to sequences",
+              "A recursive formula requires calculating every earlier term in order, while an explicit formula can be evaluated directly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Solubility Rules and Precipitation Reactions",
+        "summary": "Grade 10 Science strand: solubility rules predict whether an ionic compound will dissolve in water, and a precipitation reaction occurs when two soluble solutions combine to form an insoluble solid.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What do solubility rules help predict?",
+            "options": [
+              "The exact colour of every chemical compound",
+              "A concept unrelated to chemistry",
+              "The temperature at which water boils",
+              "Whether an ionic compound will dissolve in water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is formed in a precipitation reaction?",
+            "options": [
+              "Only a colourless gas",
+              "An insoluble solid",
+              "A concept unrelated to precipitation reactions",
+              "Nothing at all is formed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a precipitation reaction typically occur when two soluble solutions are combined?",
+            "options": [
+              "A concept unrelated to precipitation reactions",
+              "No, precipitation reactions never involve combining two solutions",
+              "Yes",
+              "Precipitation reactions only occur with solid reactants, never solutions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might chemists use solubility rules before mixing two solutions in the laboratory?",
+            "options": [
+              "These rules help predict whether a solid precipitate will form, guiding safe and informed experimentation",
+              "Mixing solutions always produces the exact same result regardless of the substances used",
+              "This concept has no connection to chemistry",
+              "Solubility rules never provide any useful prediction about a reaction’s outcome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a precipitation reaction be used to test for the presence of a specific ion in a water sample?",
+            "options": [
+              "This concept has no relevance to chemistry",
+              "Precipitation reactions can never be used to detect ions in a water sample",
+              "Water samples never contain any dissolved ions that could react",
+              "If a known reagent forms a visible precipitate with a particular ion, its formation can confirm that ion is present"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of VIA Rail and National Transportation",
+        "summary": "Grade 10 History strand: VIA Rail was created in the 1970s to operate Canada’s intercity passenger rail service, reflecting the federal government’s role in connecting communities across a vast country.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what decade was VIA Rail created?",
+            "options": [
+              "The 1990s",
+              "The 1920s",
+              "The 1970s",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of transportation service does VIA Rail operate?",
+            "options": [
+              "A concept unrelated to VIA Rail",
+              "Intercity passenger rail service",
+              "Air travel between provinces",
+              "Only local city bus routes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does VIA Rail reflect the federal government’s role in connecting communities across Canada?",
+            "options": [
+              "A concept unrelated to Canadian transportation history",
+              "Yes",
+              "No, VIA Rail has no connection to connecting Canadian communities",
+              "Passenger rail service has no connection to national infrastructure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a national passenger rail service have been considered important for a country as large and geographically spread out as Canada?",
+            "options": [
+              "This concept has no relevance to Canadian history",
+              "A national rail service has no benefit for a large, spread-out country",
+              "It could connect distant communities that might otherwise lack convenient transportation options",
+              "Distance between communities never affects the need for transportation infrastructure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might government involvement in a passenger rail service be considered different from a private airline network?",
+            "options": [
+              "Passenger rail and airline networks are never compared in terms of their priorities",
+              "This concept has no relevance to history",
+              "A government-run service can prioritize connecting smaller or less profitable communities over pure profit",
+              "Government and private transportation services always operate with the exact same priorities"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Op-Ed Rebuttal",
+        "summary": "Grade 10 English strand: an op-ed rebuttal responds directly to a previously published opinion piece, presenting a counterargument backed by evidence and clear reasoning.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does an op-ed rebuttal respond to?",
+            "options": [
+              "A previously published opinion piece",
+              "A weather forecast",
+              "A math textbook chapter",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should an op-ed rebuttal be backed by evidence and clear reasoning?",
+            "options": [
+              "Yes",
+              "No, rebuttals never require any evidence",
+              "A concept unrelated to writing",
+              "Only vague opinions are allowed, with no reasoning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer directly quote the original article when writing a rebuttal?",
+            "options": [
+              "It ensures the counterargument accurately addresses the original claims",
+              "Rebuttals should never reference the original argument at all",
+              "This concept has no connection to writing",
+              "Quoting an article never helps strengthen a rebuttal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would most likely appear in an op-ed rebuttal?",
+            "options": [
+              "The chemical symbol for gold is Au.",
+              "Once upon a time, in a faraway kingdom.",
+              "Contrary to the original article’s claim, recent data actually shows a different trend.",
+              "Add 8 and 7 to get 15."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is tone important to consider when writing a persuasive rebuttal?",
+            "options": [
+              "An aggressive tone always makes a rebuttal more convincing",
+              "Tone never affects how persuasive an argument seems",
+              "A respectful, reasoned tone can make an argument more credible and persuasive",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Trigonometry: The Ambiguous Case of the Sine Law",
+        "summary": "Grade 10 Math strand: the ambiguous case of the sine law occurs when given information about a triangle produces two possible triangles, one, or no valid triangle at all.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the ambiguous case of the sine law describe?",
+            "options": [
+              "A situation where only one triangle is ever possible",
+              "A rule that never applies to real triangles",
+              "A concept unrelated to trigonometry",
+              "A situation where given information can produce two, one, or no valid triangles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can the ambiguous case sometimes result in zero valid triangles?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the ambiguous case",
+              "No, a valid triangle can always be formed no matter the given information",
+              "Every set of given measurements always produces exactly one triangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the ambiguous case typically arise when given two sides and a non-included angle?",
+            "options": [
+              "Yes",
+              "The ambiguous case only arises when given three sides",
+              "No, the ambiguous case never arises from two sides and a non-included angle",
+              "A concept unrelated to trigonometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to check for the ambiguous case when solving a triangle using the sine law?",
+            "options": [
+              "The ambiguous case never affects how a triangle problem should be solved",
+              "Failing to check could lead to missing a valid second triangle or assuming an impossible one exists",
+              "This concept has no connection to trigonometry",
+              "Every triangle problem produces the exact same single answer regardless of the case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a real-world surveying problem require checking for the ambiguous case of the sine law?",
+            "options": [
+              "Surveying problems never involve solving triangles using the sine law",
+              "Real-world measurements always eliminate the possibility of an ambiguous case",
+              "This concept has no relevance to trigonometry",
+              "Multiple valid triangle configurations could represent different possible locations or distances"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Lymphatic System",
+        "summary": "Grade 10 Science strand: the lymphatic system drains excess fluid from body tissues, transports immune cells, and plays a key role in defending the body against infection.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the lymphatic system drain from body tissues?",
+            "options": [
+              "Only oxygenated blood",
+              "Solid waste from digestion",
+              "A concept unrelated to biology",
+              "Excess fluid"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the lymphatic system transport immune cells throughout the body?",
+            "options": [
+              "A concept unrelated to the lymphatic system",
+              "Immune cells are only ever found in the bloodstream, never the lymphatic system",
+              "Yes",
+              "No, the lymphatic system never transports any immune cells"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the lymphatic system play a role in defending the body against infection?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the lymphatic system",
+              "Infection defense is handled only by the digestive system",
+              "No, the lymphatic system has no connection to fighting infection"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might swollen lymph nodes be a sign that the body is fighting an infection?",
+            "options": [
+              "This concept has no connection to biology",
+              "Swollen lymph nodes never have any connection to fighting an infection",
+              "Lymph nodes contain immune cells that multiply and become active when responding to a threat",
+              "Lymph nodes never change in size or activity for any reason"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the lymphatic system sometimes described as working alongside the circulatory system?",
+            "options": [
+              "Both systems help move fluids through the body, though they serve different specific roles",
+              "The circulatory and lymphatic systems never interact in the human body",
+              "This concept has no relevance to biology",
+              "The lymphatic system operates completely independently with no connection to circulation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1980 Quebec Referendum",
+        "summary": "Grade 10 History strand: in 1980, Quebec voters rejected a referendum question on pursuing sovereignty-association with Canada, setting the stage for further constitutional debate in the following decades.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did Quebec hold this early referendum on sovereignty-association?",
+            "options": [
+              "1980",
+              "1995",
+              "1970",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did Quebec voters approve or reject the 1980 referendum question?",
+            "options": [
+              "They approved it overwhelmingly",
+              "They rejected it",
+              "No vote actually took place",
+              "A concept unrelated to the 1980 referendum"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did the outcome of the 1980 referendum set the stage for further constitutional debate?",
+            "options": [
+              "No, the 1980 referendum ended all future debate on the topic",
+              "Constitutional debate had no connection to this referendum",
+              "Yes",
+              "A concept unrelated to the 1980 referendum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the 1980 referendum result have been significant for Canada’s constitutional discussions in the years that followed?",
+            "options": [
+              "It highlighted ongoing questions about Quebec’s place within Confederation that continued to shape national politics",
+              "The 1980 referendum had no lasting effect on Canadian constitutional discussions",
+              "Quebec’s role within Confederation was completely settled after this vote",
+              "This concept has no relevance to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might comparing the 1980 and 1995 Quebec referendums help students understand shifts in public opinion over time?",
+            "options": [
+              "Examining both votes shows how support for sovereignty-related questions changed across a fifteen-year period",
+              "This concept has no relevance to history",
+              "Comparing these two referendums never reveals any useful historical information",
+              "Public opinion on this issue never changed between 1980 and 1995"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Role of the Chorus in Greek Tragedy",
+        "summary": "Grade 10 English strand: the chorus in Greek tragedy comments on the action, offers moral perspective, and helps guide the audience’s emotional response to events on stage.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does the chorus do in a Greek tragedy?",
+            "options": [
+              "Performs the entire play alone with no other actors",
+              "Comments on the action and offers moral perspective",
+              "A concept unrelated to literature",
+              "Sells tickets to the audience before the show"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can the chorus help guide the audience’s emotional response to events on stage?",
+            "options": [
+              "No, the chorus never has any effect on the audience’s response",
+              "Yes",
+              "A concept unrelated to Greek tragedy",
+              "The chorus is always completely silent throughout the play"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a playwright use the chorus to comment on a character’s actions rather than having another character do so?",
+            "options": [
+              "This concept has no connection to literature",
+              "Only the main characters are ever allowed to comment on the plot",
+              "The chorus never comments on any character’s actions in a Greek tragedy",
+              "The chorus can offer a broader, communal perspective that stands somewhat outside the main plot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes a function of the chorus in Greek tragedy?",
+            "options": [
+              "Building the physical sets used in the theatre",
+              "Providing background information and reflecting on the moral significance of events",
+              "Selling refreshments during intermission",
+              "Writing reviews of the play after it ends"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might modern readers find studying the role of the chorus useful for understanding classical Greek theatre conventions?",
+            "options": [
+              "The chorus has no connection to how ancient Greek theatre worked",
+              "It reveals how ancient audiences experienced a play differently than audiences do today",
+              "Greek theatre conventions have remained completely unchanged since ancient times",
+              "This concept has no relevance to literature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: The Complement Rule",
+        "summary": "Grade 10 Math strand: the complement rule states that the probability of an event not happening equals one minus the probability of the event happening.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the complement rule calculate?",
+            "options": [
+              "Only the probability of an event definitely happening",
+              "A concept unrelated to probability",
+              "The average of two unrelated probabilities",
+              "The probability of an event not happening"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the probability of rain tomorrow is 0.3, what is the probability it does not rain, using the complement rule?",
+            "options": [
+              "1.3",
+              "0.7",
+              "0.0",
+              "0.3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the complement rule require subtracting a probability from the number one?",
+            "options": [
+              "No, the complement rule never involves subtracting from one",
+              "The complement rule only involves adding two probabilities together",
+              "Yes",
+              "A concept unrelated to probability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the complement rule be useful for calculating the probability of at least one success in multiple trials?",
+            "options": [
+              "The complement rule is never useful for problems involving multiple trials",
+              "At least one success can only ever be calculated by listing every possible outcome",
+              "This concept has no connection to math",
+              "It can be easier to first find the probability of no successes at all, then subtract from one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the probability of winning a game is 0.25, what is the probability of not winning?",
+            "options": [
+              "1.25",
+              "0.25",
+              "0.75",
+              "0.5"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Sound Waves and the Doppler Effect",
+        "summary": "Grade 10 Science strand: the Doppler effect describes how the pitch of a sound wave appears to change as its source moves toward or away from an observer.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the Doppler effect describe?",
+            "options": [
+              "How solid objects melt when heated",
+              "How light bends when passing through water",
+              "How the pitch of a sound appears to change as its source moves",
+              "A concept unrelated to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a sound’s pitch appear higher as its source moves toward an observer?",
+            "options": [
+              "A concept unrelated to the Doppler effect",
+              "No, pitch never changes based on the motion of a sound source",
+              "Yes",
+              "Pitch only changes when the observer moves, never the source"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a sound’s pitch appear lower as its source moves away from an observer?",
+            "options": [
+              "No, moving away from an observer never lowers a sound’s apparent pitch",
+              "Pitch remains completely unchanged regardless of motion",
+              "A concept unrelated to the Doppler effect",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does an ambulance siren sound higher in pitch as it approaches and lower as it moves away?",
+            "options": [
+              "The siren’s actual frequency changes based on the driver’s speed",
+              "An ambulance siren’s pitch never actually changes regardless of its motion",
+              "The sound waves compress as the source approaches and stretch out as it recedes, changing the perceived pitch",
+              "This concept has no connection to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Doppler effect useful for astronomers studying the movement of distant stars and galaxies?",
+            "options": [
+              "This concept has no relevance to physics",
+              "Astronomers never use wave behaviour to study the motion of celestial objects",
+              "Shifts in the light or sound waves from an object can reveal whether it is moving toward or away from Earth",
+              "The Doppler effect has no application in studying distant stars or galaxies"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the Gulf War",
+        "summary": "Grade 10 History strand: Canada contributed naval and air forces to the multinational coalition that responded to Iraq’s invasion of Kuwait in the early 1990s Gulf War.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did Canada contribute to the multinational coalition during the Gulf War?",
+            "options": [
+              "Only humanitarian food aid",
+              "Naval and air forces",
+              "No forces of any kind",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What event triggered the multinational coalition’s response during the Gulf War?",
+            "options": [
+              "Iraq’s invasion of Kuwait",
+              "An earthquake in the Middle East",
+              "A trade dispute between Canada and the United States",
+              "A concept unrelated to the Gulf War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the Gulf War take place in the early 1990s?",
+            "options": [
+              "A concept unrelated to the Gulf War",
+              "No, it took place in the 1960s",
+              "The Gulf War never actually occurred",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada’s participation in the Gulf War coalition reflect its broader approach to international conflicts?",
+            "options": [
+              "Canada has never participated in any multinational military coalition",
+              "This concept has no relevance to Canadian history",
+              "Canada often contributes to multinational efforts rather than acting alone in international conflicts",
+              "Canada’s foreign policy never involves cooperating with other countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might studying Canada’s role in the Gulf War help students understand the country’s modern military involvement abroad?",
+            "options": [
+              "This concept has no relevance to history",
+              "Canada has never contributed forces to any international coalition effort",
+              "Canada’s military history has no connection to understanding its modern involvement abroad",
+              "It shows an example of Canada balancing military contribution with a broader coalition-based approach"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Storytelling Techniques in Public Speaking",
+        "summary": "Grade 10 English strand: effective public speakers often use storytelling techniques, such as vivid detail, a clear narrative arc, and personal connection, to engage and persuade an audience.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What technique do effective public speakers often use to engage an audience?",
+            "options": [
+              "Reading directly from a textbook with no eye contact",
+              "Storytelling techniques",
+              "Speaking as quietly as possible",
+              "A concept unrelated to oral communication"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one storytelling technique a speaker might use, such as vivid detail.",
+            "options": [
+              "A blank, expressionless face",
+              "Complete silence throughout the entire speech",
+              "A concept unrelated to public speaking",
+              "Vivid detail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a clear narrative arc help an audience follow and stay engaged with a speech?",
+            "options": [
+              "A concept unrelated to storytelling",
+              "Yes",
+              "No, a narrative arc never affects audience engagement",
+              "Audiences are never affected by how a story is structured"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speaker share a brief personal story before making a broader persuasive point?",
+            "options": [
+              "Personal stories never help build any connection with an audience",
+              "A persuasive point is always more effective without any personal story",
+              "A relatable personal story can build an emotional connection before presenting a larger argument",
+              "This concept has no connection to public speaking"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is storytelling considered a powerful tool in speeches meant to inspire or motivate an audience?",
+            "options": [
+              "This concept has no relevance to oral communication",
+              "Stories can make abstract ideas feel concrete and emotionally resonant for listeners",
+              "Storytelling has no effect on how an audience receives a speech",
+              "Motivational speeches never rely on any storytelling techniques"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Functions: Transformations of Absolute Value Functions",
+        "summary": "Grade 10 Math strand: transformations of the absolute value function shift, stretch, compress, or reflect its characteristic V-shaped graph.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is the characteristic shape of the graph of an absolute value function?",
+            "options": [
+              "A straight diagonal line",
+              "A concept unrelated to functions",
+              "A circle",
+              "A V-shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does adding a constant outside the absolute value expression shift the graph vertically?",
+            "options": [
+              "A concept unrelated to transformations",
+              "No, adding a constant outside never shifts the graph vertically",
+              "Yes",
+              "Vertical shifts are never possible for absolute value functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does adding a constant inside the absolute value expression shift the graph horizontally?",
+            "options": [
+              "A concept unrelated to transformations",
+              "Yes",
+              "Horizontal shifts only apply to quadratic functions, never absolute value functions",
+              "No, adding a constant inside never shifts the graph horizontally"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the coefficient in front of the absolute value expression is negative, what happens to the graph?",
+            "options": [
+              "It reflects over the x-axis, opening downward",
+              "A concept unrelated to transformations",
+              "The graph disappears completely",
+              "The graph becomes a straight horizontal line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding transformations of the absolute value function useful for graphing more complex functions quickly?",
+            "options": [
+              "Understanding transformations never helps graph a function more efficiently",
+              "This concept has no connection to math",
+              "Every absolute value function must be graphed by plotting each point individually with no shortcuts",
+              "Recognizing the base shape and its shifts allows a graph to be sketched without plotting every point"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Groundwater and Aquifers",
+        "summary": "Grade 10 Science strand: groundwater is stored underground in aquifers, permeable rock or sediment layers that supply wells and springs and can become depleted or contaminated over time.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Where is groundwater stored?",
+            "options": [
+              "Nowhere; groundwater does not actually exist",
+              "Only in visible surface lakes",
+              "A concept unrelated to earth science",
+              "In aquifers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of material makes up an aquifer, such as permeable rock or sediment?",
+            "options": [
+              "Permeable rock or sediment layers",
+              "A concept unrelated to aquifers",
+              "Only ice and snow",
+              "Solid, impermeable granite only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can an aquifer become depleted if water is withdrawn faster than it is naturally replenished?",
+            "options": [
+              "Yes",
+              "A concept unrelated to groundwater",
+              "Aquifers are always replenished instantly regardless of usage",
+              "No, aquifers can never be depleted under any circumstances"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might overpumping groundwater from an aquifer cause long-term problems for a community that relies on it?",
+            "options": [
+              "Aquifers refill at the exact same rate no matter how much water is removed",
+              "Overpumping groundwater never has any long-term effect on an aquifer’s supply",
+              "If water is removed faster than it naturally recharges, the aquifer’s supply could decline over time",
+              "This concept has no connection to earth science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is protecting aquifers from contamination considered important for communities that rely on well water?",
+            "options": [
+              "Aquifer contamination never affects the safety of well water",
+              "This concept has no relevance to earth science",
+              "Groundwater contamination is always immediately and easily reversed",
+              "Contamination can make groundwater unsafe to drink and difficult to clean up once it enters the aquifer"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canada-US Free Trade Agreement Debate of 1988",
+        "summary": "Grade 10 History strand: the 1988 federal election became a referendum on the proposed Canada-US Free Trade Agreement, sparking national debate over economic sovereignty and integration.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What proposed agreement was central to the 1988 federal election debate?",
+            "options": [
+              "An agreement to abolish the Canadian dollar",
+              "A concept unrelated to Canadian history",
+              "A treaty ending Canada’s membership in NATO",
+              "The Canada-US Free Trade Agreement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the 1988 election spark national debate over economic sovereignty and integration?",
+            "options": [
+              "Economic sovereignty was never a topic of discussion in 1988",
+              "No, the 1988 election generated no public debate at all",
+              "A concept unrelated to the Free Trade Agreement debate",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was the proposed Free Trade Agreement a major issue in the 1988 federal election?",
+            "options": [
+              "Yes",
+              "No, trade policy was never discussed during that election",
+              "The 1988 election focused only on unrelated environmental policy",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might some Canadians have opposed the Free Trade Agreement out of concern for economic sovereignty?",
+            "options": [
+              "Every Canadian citizen agreed completely on this issue with no opposition at all",
+              "This concept has no relevance to Canadian history",
+              "They worried that closer economic ties with the United States could reduce Canada’s independent control over its own economy",
+              "Concerns about economic sovereignty had no connection to the Free Trade Agreement debate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might supporters of the Free Trade Agreement have argued it would benefit the Canadian economy?",
+            "options": [
+              "This concept has no relevance to history",
+              "Supporters of the agreement believed it would have no effect on the Canadian economy at all",
+              "Trade agreements never have any connection to a country’s economic growth",
+              "They believed easier access to the large American market could boost Canadian trade and economic growth"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Comparing Book-to-Film Adaptations",
+        "summary": "Grade 10 English strand: comparing a novel to its film adaptation reveals how different mediums make distinct choices about pacing, visual detail, and which parts of a story to emphasize or cut.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What can comparing a novel to its film adaptation reveal?",
+            "options": [
+              "A concept unrelated to reading",
+              "How different mediums make distinct choices about pacing and emphasis",
+              "Nothing useful about either the book or the film",
+              "Only the release date of each version"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a film adaptation cut certain scenes or details found in the original novel?",
+            "options": [
+              "No, film adaptations always include every single detail from the novel",
+              "A concept unrelated to book-to-film adaptations",
+              "Yes",
+              "Films are always identical in length and content to the original novel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a director choose to condense several chapters of a novel into a single film scene?",
+            "options": [
+              "Every novel translates into a film with no need for any changes",
+              "Film has time constraints that require careful choices about which details to prioritize",
+              "This concept has no connection to reading comprehension",
+              "Directors never make any changes when adapting a novel into a film"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might visual imagery in a film adaptation differ from a reader’s own imagination while reading the novel?",
+            "options": [
+              "This concept has no connection to reading comprehension",
+              "A film presents one specific visual interpretation, while a novel allows each reader to imagine details differently",
+              "Film adaptations always match every reader’s imagined version exactly",
+              "Visual imagery has no connection to how a story is experienced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is comparing a novel and its film adaptation a valuable exercise for studying storytelling techniques?",
+            "options": [
+              "Comparing a novel and its film adaptation never reveals anything about storytelling techniques",
+              "This concept has no relevance to reading comprehension",
+              "It highlights how different mediums use distinct tools to convey meaning, pacing, and emotion",
+              "Novels and films always use identical storytelling techniques with no differences"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Currency Exchange and International Finance",
+        "summary": "Grade 10 Math strand: currency exchange rates determine how much one country’s currency is worth in terms of another, affecting the cost of international travel, trade, and investment.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What do currency exchange rates determine?",
+            "options": [
+              "How much one country’s currency is worth in terms of another",
+              "A concept unrelated to financial literacy",
+              "The exact weather conditions in a foreign country",
+              "The population size of a country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 1 Canadian dollar equals 0.75 US dollars, how many US dollars would 100 Canadian dollars be worth?",
+            "options": [
+              "25 US dollars",
+              "100 US dollars",
+              "75 US dollars",
+              "133 US dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can exchange rates affect the cost of international travel?",
+            "options": [
+              "A concept unrelated to currency exchange",
+              "Yes",
+              "No, exchange rates never affect the cost of travelling to another country",
+              "Travel costs are never influenced by currency values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a Canadian traveller pay more for the same hotel room if the Canadian dollar weakens against the local currency?",
+            "options": [
+              "Currency strength never affects how much a traveller pays for goods or services",
+              "A weaker currency always makes purchases cheaper when travelling abroad",
+              "This concept has no connection to financial literacy",
+              "A weaker Canadian dollar buys less of the foreign currency, increasing the cost when converted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding currency exchange important for a business that imports goods from another country?",
+            "options": [
+              "Exchange rate changes can directly affect how much the business pays for imported goods over time",
+              "International businesses never need to consider currency values at all",
+              "Currency exchange rates never affect the cost of importing goods",
+              "This concept has no connection to financial literacy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Catalysts and Reaction Rates",
+        "summary": "Grade 10 Science strand: a catalyst speeds up a chemical reaction by providing an alternative pathway with lower activation energy, without being consumed in the reaction itself.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does a catalyst do to a chemical reaction?",
+            "options": [
+              "Speeds it up",
+              "A concept unrelated to chemistry",
+              "Always slows it down significantly",
+              "Stops the reaction from occurring at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is a catalyst consumed during the chemical reaction it speeds up?",
+            "options": [
+              "No",
+              "A concept unrelated to catalysts",
+              "Yes, a catalyst is always fully consumed",
+              "Catalysts are never involved in any chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a catalyst provide an alternative pathway with lower activation energy?",
+            "options": [
+              "Activation energy has no connection to how catalysts work",
+              "A concept unrelated to catalysts",
+              "No, catalysts always increase the activation energy required",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might enzymes in the human body be considered a type of biological catalyst?",
+            "options": [
+              "Enzymes have no connection to speeding up chemical reactions in the body",
+              "Enzymes always slow down every biochemical reaction they are involved in",
+              "They speed up biochemical reactions in the body without being permanently changed or used up",
+              "This concept has no connection to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are catalysts widely used in industrial chemical processes?",
+            "options": [
+              "Industrial processes never make use of any catalysts",
+              "They can make reactions proceed faster and more efficiently, often reducing energy costs",
+              "Catalysts have no practical benefit in industrial chemical processes",
+              "This concept has no relevance to chemistry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Peacekeeping Mission in Rwanda",
+        "summary": "Grade 10 History strand: Canadian general Roméo Dallaire led the United Nations peacekeeping mission in Rwanda during the 1994 genocide, drawing attention to the limits and challenges of international intervention.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What role did Canadian general Roméo Dallaire hold in Rwanda in 1994?",
+            "options": [
+              "He led the United Nations peacekeeping mission",
+              "He served only as a diplomatic translator",
+              "He had no involvement in Rwanda at all",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the events in Rwanda in 1994 draw attention to challenges facing international intervention?",
+            "options": [
+              "A concept unrelated to peacekeeping history",
+              "International intervention has no connection to the Rwanda mission",
+              "Yes",
+              "No, the events in Rwanda raised no questions about international intervention"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Was the mission Dallaire led part of a United Nations peacekeeping effort?",
+            "options": [
+              "No, it had no connection to the United Nations",
+              "The mission was organized entirely by Canada alone with no UN involvement",
+              "A concept unrelated to Canadian history",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Dallaire’s experience in Rwanda have shaped later discussions about the limits of peacekeeping missions?",
+            "options": [
+              "Peacekeeping missions were never discussed or reconsidered after these events",
+              "His accounts highlighted how peacekeeping forces sometimes lacked the resources or mandate to prevent mass violence",
+              "His experience in Rwanda had no influence on later peacekeeping discussions",
+              "This concept has no relevance to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is studying Canada’s peacekeeping history, including difficult missions like Rwanda, valuable for understanding the country’s international role?",
+            "options": [
+              "This concept has no relevance to history",
+              "It shows both the contributions and the real limitations of peacekeeping as a tool for international conflict response",
+              "Peacekeeping missions have no connection to how a country is perceived internationally",
+              "Studying difficult historical missions provides no insight into a country’s international role"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Rhetoric, Media, and Literary Analysis (Days 81-89)",
+        "summary": "Grade 10 English strand review: students revisit existentialist themes, rhetorical analysis, nominalization, podcast journalism, unreliable memoir framing, op-ed rebuttals, the Greek chorus, storytelling in public speaking, and comparing adaptations.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What do existentialist themes in fiction often explore?",
+            "options": [
+              "Individual freedom, choice, and the search for meaning",
+              "A concept unrelated to literature",
+              "Recipes and cooking instructions",
+              "Only fairy tale settings with no deeper themes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a rhetorical analysis essay examine?",
+            "options": [
+              "A list of unrelated grammar rules",
+              "Only the biography of the author",
+              "A concept unrelated to writing",
+              "How a speaker or writer uses appeals and devices to persuade an audience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does nominalization do to a verb or adjective?",
+            "options": [
+              "Removes it from the sentence entirely",
+              "Turns it into a noun",
+              "A concept unrelated to grammar",
+              "Turns it into a question"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the chorus do in a Greek tragedy?",
+            "options": [
+              "Comments on the action and offers moral perspective",
+              "A concept unrelated to literature",
+              "Performs the entire play alone with no other actors",
+              "Sells tickets to the audience before the show"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can comparing a novel to its film adaptation reveal?",
+            "options": [
+              "Only the release date of each version",
+              "Nothing useful about either the book or the film",
+              "A concept unrelated to reading",
+              "How different mediums make distinct choices about pacing and emphasis"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Functions, Geometry, and Probability (Days 81-89)",
+        "summary": "Grade 10 Math strand review: students revisit inverse quadratic functions, box-and-whisker plots, composite solid volume, combined systems methods, recursive sequences, the ambiguous case, the complement rule, absolute value transformations, and currency exchange.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "When finding the inverse of a function, what roles are switched?",
+            "options": [
+              "The roles of the slope and intercept",
+              "Nothing is switched at all",
+              "The roles of x and y",
+              "A concept unrelated to inverse functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many key values does a box-and-whisker plot display?",
+            "options": [
+              "Three",
+              "Five",
+              "Two",
+              "Ten"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a recursive formula use to define each term of a sequence?",
+            "options": [
+              "Only the term’s position number",
+              "The value of one or more previous terms",
+              "A concept unrelated to sequences",
+              "A completely random number each time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the complement rule calculate?",
+            "options": [
+              "Only the probability of an event definitely happening",
+              "The average of two unrelated probabilities",
+              "A concept unrelated to probability",
+              "The probability of an event not happening"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the characteristic shape of the graph of an absolute value function?",
+            "options": [
+              "A circle",
+              "A V-shape",
+              "A concept unrelated to functions",
+              "A straight diagonal line"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Chemistry, Biology, Physics, and Earth Science (Days 81-89)",
+        "summary": "Grade 10 Science strand review: students revisit Le Chatelier’s principle, photosynthesis stages, torque, ocean currents, precipitation reactions, the lymphatic system, the Doppler effect, aquifers, and catalysts.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does Le Chatelier’s principle describe?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "How a system at equilibrium shifts to counteract a disturbance",
+              "How atoms are structured inside a nucleus",
+              "How light travels through a vacuum"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many main stages does photosynthesis consist of?",
+            "options": [
+              "Two",
+              "Five",
+              "One",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does torque measure?",
+            "options": [
+              "The total mass of an object",
+              "The temperature of an object",
+              "A concept unrelated to physics",
+              "The turning effect of a force around a pivot point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is formed in a precipitation reaction?",
+            "options": [
+              "Nothing at all is formed",
+              "An insoluble solid",
+              "A concept unrelated to precipitation reactions",
+              "Only a colourless gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a catalyst do to a chemical reaction?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Always slows it down significantly",
+              "Speeds it up",
+              "Stops the reaction from occurring at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Cold War Era to Modern Canada (Days 81-89)",
+        "summary": "Grade 10 History strand review: students revisit draft dodgers, the Canada Pension Plan, the Berlin Wall, the Green Revolution, VIA Rail, the 1980 referendum, the Gulf War, the Free Trade Agreement debate, and the Rwanda peacekeeping mission.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did Canada become for many American draft resisters during the Vietnam War?",
+            "options": [
+              "A place that actively rejected all American immigrants",
+              "A concept unrelated to the Vietnam War era",
+              "A destination seeking refuge",
+              "A country that sent its own citizens to fight in Vietnam"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what decade was the Canada Pension Plan established?",
+            "options": [
+              "The 1990s",
+              "A concept unrelated to Canadian history",
+              "The 1960s",
+              "The 1920s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure divided the city of Berlin during the Cold War?",
+            "options": [
+              "The Berlin Wall",
+              "The Iron Curtain railway",
+              "The Great Wall",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What proposed agreement was central to the 1988 federal election debate?",
+            "options": [
+              "The Canada-US Free Trade Agreement",
+              "A treaty ending Canada’s membership in NATO",
+              "A concept unrelated to Canadian history",
+              "An agreement to abolish the Canadian dollar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role did Canadian general Roméo Dallaire hold in Rwanda in 1994?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "He led the United Nations peacekeeping mission",
+              "He had no involvement in Rwanda at all",
+              "He served only as a diplomatic translator"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
