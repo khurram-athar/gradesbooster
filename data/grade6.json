@@ -19462,5 +19462,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Allegory in Literature",
+        "summary": "Grade 6 Language strand: an allegory is a story in which characters and events represent broader ideas or morals, often used to comment on political or social issues indirectly.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do we call a story where characters and events represent broader ideas?",
+            "options": [
+              "A concept unrelated to reading",
+              "A recipe",
+              "A biography",
+              "An allegory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can an allegory be used to comment indirectly on political or social issues?",
+            "options": [
+              "A concept unrelated to allegory",
+              "Allegories only ever describe literal events",
+              "No, allegories never comment on any issues",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an allegory, do characters often represent something beyond themselves?",
+            "options": [
+              "No, characters in an allegory only represent themselves",
+              "Characters never have any symbolic meaning",
+              "Yes",
+              "A concept unrelated to allegory"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose to write an allegory instead of directly stating an opinion?",
+            "options": [
+              "This concept has no connection to literature",
+              "It allows readers to draw their own conclusions while still conveying a deeper message",
+              "Allegories never convey any deeper message",
+              "Direct statements are always more effective than allegory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can reading an allegory sometimes require more careful thought than reading a straightforward story?",
+            "options": [
+              "An allegory is always exactly the same as a straightforward story",
+              "Readers must recognize the symbolic meaning behind the characters and events",
+              "Allegories never require any careful thought to understand",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Scale Factor and Enlargement or Reduction",
+        "summary": "Grade 6 Math strand: a scale factor describes how much a shape is enlarged or reduced, such as a scale factor of 2 doubling every side length of a shape.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scale factor describe?",
+            "options": [
+              "How much a shape is enlarged or reduced",
+              "A concept unrelated to geometry",
+              "The colour of a shape",
+              "The number of sides a shape has"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape has a scale factor of 2 applied, what happens to its side lengths?",
+            "options": [
+              "They double",
+              "They stay exactly the same",
+              "A concept unrelated to scale factor",
+              "They are cut in half"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape has a scale factor of one half applied, what happens to its side lengths?",
+            "options": [
+              "They double",
+              "A concept unrelated to scale factor",
+              "They are cut in half",
+              "They stay exactly the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a rectangle with a side of 4 cm is enlarged with a scale factor of 3, what is the new side length?",
+            "options": [
+              "3 cm",
+              "4 cm",
+              "12 cm",
+              "7 cm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is scale factor an important concept for creating a scale drawing, like a map?",
+            "options": [
+              "Scale factor has no connection to scale drawings",
+              "Maps never use any kind of scale factor",
+              "It helps represent real-world sizes accurately at a smaller or larger scale",
+              "This concept has no connection to geometry"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Renewable vs Fossil Fuel Power Plants Compared",
+        "summary": "Grade 6 Science strand: renewable power plants, like solar and wind farms, generate electricity from sources that naturally replenish, while fossil fuel power plants burn coal, oil, or natural gas, which are limited resources.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one example of a renewable power source, such as solar or wind.",
+            "options": [
+              "Solar",
+              "Oil",
+              "Coal",
+              "A concept unrelated to renewable energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one example of a fossil fuel, such as coal or oil.",
+            "options": [
+              "Wind",
+              "A concept unrelated to fossil fuels",
+              "Coal",
+              "Solar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do renewable energy sources naturally replenish over time?",
+            "options": [
+              "Yes",
+              "Only fossil fuels replenish naturally",
+              "A concept unrelated to renewable energy",
+              "No, renewable sources never replenish"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are fossil fuels considered a limited resource compared to renewable energy sources?",
+            "options": [
+              "Fossil fuels are actually more renewable than solar or wind power",
+              "Fossil fuels take millions of years to form and can eventually run out",
+              "Fossil fuels can be instantly remade whenever needed",
+              "This concept has no connection to energy sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country choose to invest more in renewable energy over time?",
+            "options": [
+              "Investing in renewable energy always increases fossil fuel use",
+              "Renewable sources can provide power without depleting limited natural resources",
+              "Renewable energy has no benefit over fossil fuels",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Green Revolution and Global Food Security",
+        "summary": "Grade 6 Social Studies strand: the Green Revolution was a period of major agricultural advancement in the mid-1900s that increased crop yields worldwide, helping address global food security concerns.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Green Revolution?",
+            "options": [
+              "A type of environmental protest movement",
+              "A period of major agricultural advancement that increased crop yields",
+              "A concept unrelated to history",
+              "A political revolution that overthrew a government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Around what time period did the Green Revolution mainly take place?",
+            "options": [
+              "The 1600s",
+              "The 2020s",
+              "A concept unrelated to the Green Revolution",
+              "The mid-1900s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the Green Revolution help increase crop yields worldwide?",
+            "options": [
+              "Yes",
+              "A concept unrelated to agriculture",
+              "No, it decreased crop yields worldwide",
+              "It had no effect on crop yields at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was increasing crop yields important for addressing global food security?",
+            "options": [
+              "Global food security has no connection to crop production",
+              "Increasing crop yields never affects food security",
+              "More food production could help feed growing populations around the world",
+              "This concept has no connection to global food security"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might some critics point out downsides to the methods used during the Green Revolution?",
+            "options": [
+              "The Green Revolution had no downsides of any kind",
+              "Some farming methods, like heavy fertilizer and pesticide use, can have environmental costs",
+              "This concept has no relevance to social studies",
+              "Fertilizers and pesticides are never used in modern farming"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Modal Verbs and Their Uses",
+        "summary": "Grade 6 Language strand: modal verbs, such as can, should, must, and might, express ability, permission, obligation, or possibility, changing the meaning of the main verb in a sentence.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "Name one modal verb, such as can or should.",
+            "options": [
+              "Run",
+              "A concept unrelated to grammar",
+              "Happy",
+              "Can"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the modal verb must often express obligation?",
+            "options": [
+              "Yes",
+              "A concept unrelated to modal verbs",
+              "No, must never expresses obligation",
+              "Must only expresses possibility"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the modal verb might often express possibility?",
+            "options": [
+              "Yes",
+              "Might only expresses obligation",
+              "A concept unrelated to modal verbs",
+              "No, might never expresses possibility"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence You must finish your homework, what does the modal verb must express?",
+            "options": [
+              "Obligation",
+              "A concept unrelated to grammar",
+              "Permission",
+              "Ability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose might instead of must in a sentence?",
+            "options": [
+              "Might always expresses a stronger meaning than must",
+              "Might expresses a weaker possibility, while must expresses a stronger obligation",
+              "This concept has no connection to grammar",
+              "Might and must always mean exactly the same thing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Multi-Step Equations with Variables on Both Sides",
+        "summary": "Grade 6 Math strand: students learn to solve equations with a variable on both sides, such as 3n plus 2 equals n plus 10, by first combining variable terms on one side.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "To solve 3n plus 2 equals n plus 10, what is a good first step?",
+            "options": [
+              "Add n to both sides",
+              "Subtract n from both sides",
+              "A concept unrelated to solving equations",
+              "Multiply both sides by n"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "After subtracting n from both sides of 3n plus 2 equals n plus 10, what do you get?",
+            "options": [
+              "n plus 2 equals 10",
+              "3n equals 10",
+              "2n plus 2 equals n",
+              "2n plus 2 equals 10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 2n plus 2 equals 10, what is the value of n?",
+            "options": [
+              "2",
+              "8",
+              "4",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to combine variable terms on one side before solving an equation?",
+            "options": [
+              "This concept has no connection to solving equations",
+              "It simplifies the equation into a form that is easier to solve",
+              "Combining variable terms never simplifies an equation",
+              "Variables should always stay on both sides forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 5n minus 3 equals 2n plus 9, what is the value of n?",
+            "options": [
+              "6",
+              "3",
+              "4",
+              "2"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Plate Tectonics and Continental Drift",
+        "summary": "Grade 6 Science strand: continental drift is the theory that Earth’s continents slowly move over time due to the motion of tectonic plates beneath them, gradually changing the shape of Earth’s surface.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is continental drift?",
+            "options": [
+              "The theory that continents slowly move over time",
+              "A theory that continents never move at all",
+              "A weather pattern found only in the ocean",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes continents to slowly move over time?",
+            "options": [
+              "The rotation of the Moon",
+              "The motion of tectonic plates",
+              "The motion of ocean waves only",
+              "A concept unrelated to plate tectonics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the shape of Earth’s surface gradually change due to plate tectonics?",
+            "options": [
+              "A concept unrelated to plate tectonics",
+              "No, Earth’s surface never changes",
+              "Only the ocean floor changes, never land",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists believe that continents were once joined together in the past?",
+            "options": [
+              "Continents have always been in their exact current positions",
+              "This concept has no connection to plate tectonics",
+              "The shapes of continents seem to fit together like puzzle pieces, and matching fossils have been found on different continents",
+              "There is no evidence at all suggesting continents were ever joined"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding plate tectonics useful for predicting natural events like earthquakes?",
+            "options": [
+              "This concept has no relevance to science",
+              "Earthquakes often occur along the boundaries where tectonic plates meet",
+              "Earthquakes never occur near tectonic plate boundaries",
+              "Plate tectonics has no connection to earthquakes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Space Race: Cold War Competition",
+        "summary": "Grade 6 Social Studies strand: the Space Race was a period of intense competition during the Cold War between the United States and the Soviet Union to achieve milestones in space exploration.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Space Race?",
+            "options": [
+              "A concept unrelated to history",
+              "A modern car racing competition",
+              "A sporting event held on the Moon",
+              "A period of competition to achieve milestones in space exploration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which two countries were the main competitors during the Space Race?",
+            "options": [
+              "Canada and Mexico",
+              "The United States and the Soviet Union",
+              "France and Germany",
+              "A concept unrelated to the Space Race"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did the Space Race take place during the Cold War?",
+            "options": [
+              "Yes",
+              "No, it took place during a completely different era",
+              "A concept unrelated to history",
+              "The Space Race and Cold War have no connection"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might achieving a space milestone, like landing on the Moon, have been important during the Cold War?",
+            "options": [
+              "It served as a symbol of technological and political strength between rival countries",
+              "This concept has no connection to the Cold War",
+              "The Space Race had no connection to competition between countries",
+              "Space milestones never had any political significance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might studying the Space Race help students understand how competition can drive innovation?",
+            "options": [
+              "The Space Race never resulted in any new technology",
+              "This concept has no relevance to social studies",
+              "It shows how rivalry between countries pushed rapid advances in science and technology",
+              "Competition never leads to any scientific advancement"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Satirical Piece",
+        "summary": "Grade 6 Language strand: a satirical piece uses humour, irony, or exaggeration to criticize a real issue or behaviour, aiming to entertain readers while making a thoughtful point.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What kind of writing uses humour or exaggeration to criticize a real issue?",
+            "options": [
+              "A concept unrelated to writing",
+              "A weather report",
+              "A grocery list",
+              "A satirical piece"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a satirical piece aim to entertain readers while making a point?",
+            "options": [
+              "A concept unrelated to writing",
+              "No, satire never entertains readers",
+              "Satire only ever states facts with no humour",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is most likely an example of satire?",
+            "options": [
+              "A recipe for making bread",
+              "A list of math homework problems",
+              "A factual report on weather patterns",
+              "An exaggerated news article mocking excessive gadget spending"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose satire to address a serious issue?",
+            "options": [
+              "Serious issues can never be discussed through humour",
+              "Humour can make readers think about an issue without feeling lectured",
+              "This concept has no connection to writing",
+              "Satire never actually addresses any serious issue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for readers to recognize when a text is satirical rather than factual?",
+            "options": [
+              "Readers never need to consider whether a text is satirical",
+              "Mistaking satire for a factual report could lead to misunderstanding the writer’s real message",
+              "This concept has no connection to reading comprehension",
+              "Satire and factual reporting are always exactly the same"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to Slope",
+        "summary": "Grade 6 Math strand: slope describes the steepness of a line, calculated by dividing the vertical change, or rise, by the horizontal change, or run, between two points.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does slope describe about a line?",
+            "options": [
+              "Its steepness",
+              "A concept unrelated to geometry",
+              "Its exact length",
+              "Its colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Slope is calculated by dividing what two measurements?",
+            "options": [
+              "Run by rise",
+              "Height by width only, with no division",
+              "A concept unrelated to slope",
+              "Rise by run"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a line rises 4 units and runs 2 units, what is its slope?",
+            "options": [
+              "0.5",
+              "6",
+              "4",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a line rises 6 units and runs 3 units, what is its slope?",
+            "options": [
+              "9",
+              "2",
+              "6",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding slope useful for describing real-world situations, like a wheelchair ramp?",
+            "options": [
+              "Ramps are never measured using slope",
+              "This concept has no connection to math",
+              "It helps measure how steep or gradual an incline is",
+              "Slope has no connection to real-world inclines"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Cell Division and Growth",
+        "summary": "Grade 6 Science strand: cell division is the process by which a cell splits into two new cells, allowing living things to grow, repair damaged tissue, and replace old cells.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is cell division?",
+            "options": [
+              "A concept unrelated to biology",
+              "A process that only happens in plants",
+              "The process by which a cell splits into two new cells",
+              "A process where cells disappear completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does cell division allow living things to grow?",
+            "options": [
+              "Yes",
+              "A concept unrelated to biology",
+              "No, cell division has no connection to growth",
+              "Growth never involves any cell division"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can cell division help repair damaged tissue?",
+            "options": [
+              "Yes",
+              "No, damaged tissue can never be repaired",
+              "A concept unrelated to cell division",
+              "Only broken bones can be repaired, never tissue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is cell division important for healing a cut on your skin?",
+            "options": [
+              "This concept has no relevance to biology",
+              "Cuts heal without any new cells being made",
+              "New cells created through cell division help replace and repair the damaged skin",
+              "Cell division has no connection to healing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do living things need cell division throughout their entire lives, not just during childhood?",
+            "options": [
+              "Adult bodies never need any new cells",
+              "Cell division only ever happens once, during birth",
+              "Cells continue to wear out and need replacing, and tissues need repair throughout life",
+              "This concept has no connection to biology"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Refugee Crises in the Modern World",
+        "summary": "Grade 6 Social Studies strand: a refugee crisis occurs when large numbers of people are forced to flee their homes due to conflict, disaster, or persecution, often requiring international humanitarian support.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a situation where large numbers of people are forced to flee their homes?",
+            "options": [
+              "A concept unrelated to global issues",
+              "A sporting event",
+              "A refugee crisis",
+              "A trade agreement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one reason people might be forced to flee their homes, such as conflict.",
+            "options": [
+              "A fun vacation",
+              "A school field trip",
+              "Conflict",
+              "A concept unrelated to refugee crises"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a refugee crisis often require international humanitarian support?",
+            "options": [
+              "Only one single country is ever affected by a refugee crisis",
+              "Yes",
+              "No, refugee crises never require any support",
+              "A concept unrelated to global issues"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might neighbouring countries be significantly affected by a refugee crisis?",
+            "options": [
+              "This concept has no connection to global issues",
+              "Refugee crises never cross any international borders",
+              "Neighbouring countries are never affected by a refugee crisis",
+              "They often receive large numbers of people needing shelter, food, and support"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is international cooperation often necessary to respond to a refugee crisis?",
+            "options": [
+              "The scale of need can be too large for a single country to manage alone",
+              "This concept has no relevance to social studies",
+              "Refugee crises always resolve on their own without help",
+              "International cooperation is never needed for humanitarian crises"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Words Borrowed from Other Languages",
+        "summary": "Grade 6 Language strand: a loanword is a word borrowed from another language and adopted into English, such as ballet from French or sushi from Japanese, often keeping its original meaning.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do we call a word borrowed from another language and adopted into English?",
+            "options": [
+              "A homophone",
+              "A concept unrelated to vocabulary",
+              "A loanword",
+              "A synonym"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "From which language does the word ballet come?",
+            "options": [
+              "Japanese",
+              "French",
+              "Spanish",
+              "A concept unrelated to loanwords"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "From which language does the word sushi come?",
+            "options": [
+              "French",
+              "A concept unrelated to loanwords",
+              "Japanese",
+              "German"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a loanword often keep its original meaning when adopted into English?",
+            "options": [
+              "No, loanwords always lose their original meaning",
+              "Loanwords never have any original meaning",
+              "A concept unrelated to loanwords",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might English contain so many loanwords from other languages?",
+            "options": [
+              "Loanwords are always invented, never actually borrowed",
+              "This concept has no connection to vocabulary",
+              "English has never interacted with any other language or culture",
+              "English has historically interacted with many cultures through trade, migration, and exchange"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Two-Way Frequency Tables",
+        "summary": "Grade 6 Math strand: a two-way frequency table organizes data by two categories at once, such as showing how many students of each grade prefer different subjects, making it easier to compare groups.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a two-way frequency table organize data by?",
+            "options": [
+              "A concept unrelated to data management",
+              "Two categories at once",
+              "No categories at all",
+              "Only one single category"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a two-way frequency table be useful for comparing groups?",
+            "options": [
+              "This concept has no connection to data management",
+              "Two-way tables only show one number with no comparison",
+              "Two-way tables never help with comparing groups",
+              "It allows for easy comparison between two different sets of categories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a two-way frequency table shows subject preference by grade level, what two categories are being compared?",
+            "options": [
+              "Subject preference and grade level",
+              "Only subject preference, with no other category",
+              "A concept unrelated to two-way tables",
+              "Only grade level, with no other category"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a two-way table shows 15 students in Grade 6 prefer math and 10 prefer science, which subject is more popular for Grade 6?",
+            "options": [
+              "They are equally popular",
+              "Math",
+              "Science",
+              "Cannot tell from the table"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a school use a two-way frequency table to plan its course offerings?",
+            "options": [
+              "Two-way tables have no use in planning school courses",
+              "It could show patterns in student interest across multiple factors, like grade and subject",
+              "This concept has no relevance to data management",
+              "Course planning never requires looking at any data"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Bioluminescence: Living Things That Glow",
+        "summary": "Grade 6 Science strand: bioluminescence is the ability of some living things, such as fireflies and certain deep-sea fish, to produce their own light through a chemical reaction inside their bodies.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the ability of some living things to produce their own light?",
+            "options": [
+              "Photosynthesis",
+              "Bioluminescence",
+              "Migration",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one living thing known for bioluminescence, such as a firefly.",
+            "options": [
+              "A concept unrelated to bioluminescence",
+              "A cloud",
+              "A firefly",
+              "A rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does bioluminescence happen through a chemical reaction inside an organism’s body?",
+            "options": [
+              "Yes",
+              "Bioluminescent light comes from an outside light source only",
+              "No, bioluminescence has no connection to chemical reactions",
+              "A concept unrelated to bioluminescence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a deep-sea fish benefit from bioluminescence in the dark ocean depths?",
+            "options": [
+              "This concept has no connection to biology",
+              "Deep-sea fish never actually need any light at all",
+              "It could help attract prey, find a mate, or avoid predators in a dark environment",
+              "Bioluminescence provides no benefit to a deep-sea fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists find bioluminescent organisms interesting to study?",
+            "options": [
+              "Bioluminescent organisms have no scientific value at all",
+              "This concept has no relevance to science",
+              "Understanding how they produce light could inspire new technologies or medical tools",
+              "Bioluminescence has already been completely understood with no more to learn"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of International Trade Agreements",
+        "summary": "Grade 6 Social Studies strand: international trade agreements, such as those between Canada, the United States, and Mexico, set shared rules that make trading goods and services between countries easier and more predictable.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What do international trade agreements set between countries?",
+            "options": [
+              "Rules about school curriculum only",
+              "A concept unrelated to global trade",
+              "Shared rules for trading goods and services",
+              "Rules about a single country’s local traffic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one country that has a trade agreement involving Canada, such as the United States.",
+            "options": [
+              "A country with no connection to Canada",
+              "A concept unrelated to trade agreements",
+              "A fictional country",
+              "The United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can trade agreements make trading between countries more predictable?",
+            "options": [
+              "A concept unrelated to trade",
+              "No, trade agreements make trading less predictable",
+              "Yes",
+              "Trade agreements have no effect on predictability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might countries negotiate a trade agreement instead of trading with no shared rules at all?",
+            "options": [
+              "Countries never need any rules to trade with each other",
+              "Shared rules can reduce confusion and make trade fairer for everyone involved",
+              "Trade agreements never actually help with trading goods",
+              "This concept has no connection to global trade"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a trade agreement affect the prices of goods in a country?",
+            "options": [
+              "Rules about tariffs and trade can change how much it costs to buy or sell goods internationally",
+              "Prices of goods are never affected by international trade",
+              "Trade agreements never have any effect on prices",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Unreliable Narrators",
+        "summary": "Grade 6 Language strand: an unreliable narrator is a storyteller whose account of events may be inaccurate or biased, requiring readers to question and look for clues about what is really happening.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do we call a storyteller whose account of events may be inaccurate or biased?",
+            "options": [
+              "The author of the book",
+              "The main character always",
+              "An unreliable narrator",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Should readers question the events described by an unreliable narrator?",
+            "options": [
+              "Every narrator is always completely reliable",
+              "No, readers should never question a narrator",
+              "A concept unrelated to reading comprehension",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a story use an unreliable narrator instead of a completely trustworthy one?",
+            "options": [
+              "Reliable narrators are always more interesting to read",
+              "This concept has no connection to literature",
+              "Unreliable narrators never add anything interesting to a story",
+              "It can create suspense and encourage readers to think critically about the story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might be a clue that a narrator is unreliable?",
+            "options": [
+              "Unreliable narrators never contradict themselves",
+              "This concept has no connection to reading comprehension",
+              "Other characters or events in the story contradict what the narrator says",
+              "Every detail the narrator shares is always completely accurate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recognizing an unreliable narrator an important reading skill?",
+            "options": [
+              "This concept has no relevance to reading comprehension",
+              "It helps readers form their own judgment about what is really happening in the story",
+              "This concept never actually helps with understanding a story",
+              "Readers should always trust every detail a narrator provides"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Percent Increase and Decrease",
+        "summary": "Grade 6 Math strand: percent increase and decrease describe how much a quantity has grown or shrunk compared to its original amount, expressed as a percentage.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "If a price increases from 20 dollars to 25 dollars, what is the amount of increase?",
+            "options": [
+              "5 dollars",
+              "45 dollars",
+              "25 dollars",
+              "20 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a price increases from 20 dollars to 25 dollars, what is the percent increase?",
+            "options": [
+              "25 percent",
+              "5 percent",
+              "20 percent",
+              "45 percent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a price decreases from 50 dollars to 40 dollars, what is the percent decrease?",
+            "options": [
+              "50 percent",
+              "10 percent",
+              "20 percent",
+              "40 percent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To calculate percent increase, you divide the amount of increase by the ___.",
+            "options": [
+              "Number 100 only, with no other step",
+              "A concept unrelated to percent",
+              "Final amount only",
+              "Original amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding percent increase and decrease useful for shopping during a sale?",
+            "options": [
+              "This concept has no connection to math",
+              "Sales prices are never calculated using percentages",
+              "Percent increase and decrease never apply to shopping",
+              "It helps calculate exactly how much money is saved or spent"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Vaccines and How They Work",
+        "summary": "Grade 6 Science strand: a vaccine trains the immune system to recognize and fight a specific germ by introducing a small, safe piece of it, helping the body build protection before facing a real infection.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a vaccine train the immune system to do?",
+            "options": [
+              "Become weaker over time",
+              "Ignore all germs completely",
+              "Recognize and fight a specific germ",
+              "A concept unrelated to the immune system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a vaccine introduce a small, safe piece of a germ into the body?",
+            "options": [
+              "Vaccines introduce a fully dangerous germ into the body",
+              "A concept unrelated to vaccines",
+              "No, vaccines never contain any part of a germ",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a vaccine help the body build protection before facing a real infection?",
+            "options": [
+              "Vaccines only work after an infection has already occurred",
+              "No, vaccines provide no protection at all",
+              "A concept unrelated to vaccines",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might building immunity through a vaccine be safer than getting sick with the actual disease first?",
+            "options": [
+              "Getting the actual illness is always the safer option",
+              "This concept has no connection to how vaccines work",
+              "Vaccines are always more dangerous than the actual disease",
+              "A vaccine exposes the body to a controlled, safe version rather than the full illness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are vaccines considered an important tool in public health?",
+            "options": [
+              "This concept has no relevance to science",
+              "Vaccines only affect a single individual, never a community",
+              "Vaccines have no effect on public health",
+              "They can help prevent the spread of diseases within a community"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada’s Relationship with Indigenous Self-Government Today",
+        "summary": "Grade 6 Social Studies strand: today, many Indigenous communities in Canada are working toward greater self-government, making their own decisions about governance, land, and resources within their communities.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What are many Indigenous communities in Canada working toward today?",
+            "options": [
+              "No changes of any kind",
+              "Greater self-government",
+              "A concept unrelated to Indigenous communities",
+              "Complete disconnection from Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does self-government involve communities making their own decisions about governance and land?",
+            "options": [
+              "No, self-government has no connection to decision-making",
+              "Yes",
+              "A concept unrelated to Indigenous self-government",
+              "Self-government only applies to decisions made by the federal government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is Indigenous self-government a modern, ongoing process in Canada?",
+            "options": [
+              "Self-government has never been discussed in Canada",
+              "A concept unrelated to Canadian history",
+              "Yes",
+              "No, this process ended many years ago with no more changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might greater self-government be important to Indigenous communities?",
+            "options": [
+              "Communities never need to make their own decisions",
+              "It allows communities to make decisions that reflect their own needs, values, and traditions",
+              "This concept has no connection to social studies",
+              "Self-government has no benefit to any community"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable for students to learn about Indigenous self-government as an ongoing, modern topic?",
+            "options": [
+              "This topic is only relevant to distant history with no modern connection",
+              "Indigenous self-government has no connection to Canada today",
+              "It helps show that Indigenous history and rights continue to evolve today, not just in the past",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Appositive Phrases",
+        "summary": "Grade 6 Language strand: an appositive phrase renames or gives more information about a nearby noun, such as in Mr. Lee, our science teacher, explained the experiment, where our science teacher describes Mr. Lee.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does an appositive phrase do to a nearby noun?",
+            "options": [
+              "Replaces it completely with a new meaning",
+              "Renames or gives more information about it",
+              "A concept unrelated to grammar",
+              "Removes it from the sentence entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence Mr. Lee, our science teacher, explained the experiment, what is the appositive phrase?",
+            "options": [
+              "Explained the experiment",
+              "Mr. Lee",
+              "The experiment",
+              "Our science teacher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should an appositive phrase usually be set off with commas?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Only question marks should be used, never commas",
+              "Yes",
+              "No, appositive phrases should never use commas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses an appositive phrase?",
+            "options": [
+              "My sister, a talented painter, sold her first artwork.",
+              "My sister sold a talented painter her first artwork.",
+              "My sister a talented painter sold her first artwork she did.",
+              "A talented painter my sister sold her first artwork."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use an appositive phrase instead of writing a separate sentence?",
+            "options": [
+              "Appositive phrases never combine any information",
+              "Separate sentences are always clearer than an appositive phrase",
+              "It combines related information smoothly and efficiently into one sentence",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Surface Area of Cylinders",
+        "summary": "Grade 6 Math strand: the surface area of a cylinder is found by adding the areas of its two circular ends to the area of its curved side, which unrolls into a rectangle.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "How many circular ends does a cylinder have?",
+            "options": [
+              "Three",
+              "Two",
+              "Zero",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape does the curved side of a cylinder unroll into?",
+            "options": [
+              "A concept unrelated to cylinders",
+              "A triangle",
+              "A circle",
+              "A rectangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To find the surface area of a cylinder, you add the areas of its two circular ends to the area of its ___.",
+            "options": [
+              "A concept unrelated to surface area",
+              "Only its top",
+              "Only its bottom",
+              "Curved side"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to know how to calculate a cylinder’s surface area?",
+            "options": [
+              "It can help determine how much material is needed to make or wrap a cylindrical object",
+              "Cylinders never actually have any surface area",
+              "This concept has no connection to geometry",
+              "Surface area calculations never apply to real objects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a cylinder’s two circular ends have a combined area of 20 square cm and its curved side has an area of 30 square cm, what is its total surface area?",
+            "options": [
+              "50 square cm",
+              "10 square cm",
+              "30 square cm",
+              "20 square cm"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Physics of Roller Coasters",
+        "summary": "Grade 6 Science strand: roller coasters use potential and kinetic energy, converting stored energy at the top of a hill into motion energy as the coaster speeds down, following the law of conservation of energy.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy does a roller coaster have at the top of a hill, before it moves?",
+            "options": [
+              "Potential energy",
+              "A concept unrelated to energy",
+              "No energy at all",
+              "Kinetic energy only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of energy does a roller coaster have as it speeds down a hill?",
+            "options": [
+              "Potential energy only",
+              "No energy at all",
+              "A concept unrelated to energy",
+              "Kinetic energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a roller coaster follow the law of conservation of energy?",
+            "options": [
+              "Energy is created out of nothing on a roller coaster",
+              "No, roller coasters do not follow any energy laws",
+              "Yes",
+              "A concept unrelated to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a roller coaster need a tall first hill to build up potential energy?",
+            "options": [
+              "Roller coasters generate their own energy with no need for hills",
+              "That stored energy converts into the motion energy needed for the rest of the ride",
+              "The height of the first hill has no connection to the ride’s energy",
+              "This concept has no connection to physics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a roller coaster gradually lose speed and height as the ride continues?",
+            "options": [
+              "Some energy is lost to friction and air resistance along the track",
+              "This concept has no relevance to science",
+              "Energy is only ever gained, never lost, throughout a ride",
+              "Roller coasters never lose any energy during a ride"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The History of the Olympic Games",
+        "summary": "Grade 6 Social Studies strand: the modern Olympic Games began in 1896, reviving an ancient Greek tradition, and today bring together athletes from around the world to compete and celebrate international friendship.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the modern Olympic Games begin?",
+            "options": [
+              "1776",
+              "1945",
+              "1896",
+              "2000"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did the modern Olympic Games revive a tradition from ancient Greece?",
+            "options": [
+              "The Olympics began in ancient Rome instead",
+              "A concept unrelated to the Olympics",
+              "Yes",
+              "No, the Olympics have no connection to ancient Greece"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do the Olympic Games bring together athletes from around the world?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the Olympics",
+              "The Olympics only include local athletes from one city",
+              "No, only one single country ever participates"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Olympic Games be seen as an event that promotes international friendship?",
+            "options": [
+              "The Olympics only ever involve conflict between countries",
+              "It brings together athletes and spectators from many countries to compete and connect",
+              "The Olympics have no connection to international relationships",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might hosting the Olympic Games be both an opportunity and a challenge for a city?",
+            "options": [
+              "Cities never need to prepare anything to host the Olympics",
+              "Hosting the Olympics never has any effect on a host city",
+              "It can boost tourism and pride, but also requires significant planning and resources",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Editorial",
+        "summary": "Grade 6 Language strand: an editorial expresses a newspaper’s or writer’s opinion on a current issue, using a clear argument, supporting evidence, and often a call to action for readers.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What kind of writing expresses an opinion on a current issue in a newspaper?",
+            "options": [
+              "An editorial",
+              "A weather report",
+              "A grocery list",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should an editorial include supporting evidence for its argument?",
+            "options": [
+              "No, editorials never include any evidence",
+              "Yes",
+              "A concept unrelated to writing",
+              "Only opinions are allowed, with no evidence at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does an editorial often end with a call to action for readers?",
+            "options": [
+              "A concept unrelated to writing",
+              "Yes",
+              "A call to action is only found in fiction stories",
+              "No, editorials never suggest any action to readers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a newspaper publish an editorial about a local issue?",
+            "options": [
+              "Editorials never discuss any real issues",
+              "This concept has no connection to writing",
+              "Editorials are always about fictional topics only",
+              "To share an opinion and encourage public discussion or action on the issue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is most likely a call to action found at the end of an editorial?",
+            "options": [
+              "We urge our city council to fund more public transportation.",
+              "Once upon a time, in a faraway kingdom.",
+              "The chemical symbol for gold is Au.",
+              "Add 4 and 5 to get 9."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Introduction to the Pythagorean Theorem",
+        "summary": "Grade 6 Math strand: the Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the two other sides, written as a squared plus b squared equals c squared.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "In a right triangle, what does the Pythagorean theorem relate?",
+            "options": [
+              "The lengths of the three sides",
+              "A concept unrelated to geometry",
+              "The colour of the triangle",
+              "The three angles only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the longest side of a right triangle called?",
+            "options": [
+              "The height only",
+              "The base",
+              "A concept unrelated to right triangles",
+              "The hypotenuse"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a right triangle has legs of 3 and 4, what is the length of the hypotenuse?",
+            "options": [
+              "5",
+              "12",
+              "25",
+              "7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Pythagorean theorem is written as a squared plus b squared equals ___.",
+            "options": [
+              "D squared",
+              "A squared",
+              "C squared",
+              "B squared"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Pythagorean theorem useful for solving real-world problems, like finding the shortest distance across a park?",
+            "options": [
+              "This concept has no connection to geometry",
+              "Right triangles never appear in real-world problems",
+              "The Pythagorean theorem never applies to any real-world situation",
+              "It helps calculate an unknown side length when two other sides of a right triangle are known"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Ocean Currents and Their Effect on Climate",
+        "summary": "Grade 6 Science strand: ocean currents are large-scale movements of seawater that help distribute heat around the planet, influencing climate patterns in coastal regions.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are ocean currents?",
+            "options": [
+              "A kind of rock formation",
+              "A type of cloud formation",
+              "Large-scale movements of seawater",
+              "A concept unrelated to oceans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do ocean currents help distribute heat around the planet?",
+            "options": [
+              "No, ocean currents have no connection to heat distribution",
+              "A concept unrelated to ocean currents",
+              "Ocean currents only affect the deepest parts of the ocean",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can ocean currents influence the climate of coastal regions?",
+            "options": [
+              "Only mountains affect coastal climate, never oceans",
+              "A concept unrelated to ocean currents",
+              "Yes",
+              "No, ocean currents never affect climate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a coastal city have milder winters than an inland city at the same latitude?",
+            "options": [
+              "This concept has no connection to climate",
+              "Coastal cities are always colder than inland cities",
+              "Nearby ocean currents can help moderate the temperature of coastal areas",
+              "Ocean currents never have any effect on nearby land temperatures"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study ocean currents when researching climate change?",
+            "options": [
+              "Ocean currents never change over time",
+              "This concept has no relevance to science",
+              "Ocean currents have no connection to climate change research",
+              "Changes in ocean currents could significantly affect global weather patterns"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Urbanization: The Growth of Megacities",
+        "summary": "Grade 6 Social Studies strand: urbanization is the growth of cities as more people move from rural areas to urban centres, sometimes creating megacities, cities with populations over 10 million people.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is urbanization?",
+            "options": [
+              "The growth of cities as more people move from rural areas",
+              "The shrinking of cities over time",
+              "A concept unrelated to geography",
+              "The growth of rural farmland only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a city with a population over 10 million people?",
+            "options": [
+              "A small town",
+              "A rural village",
+              "A concept unrelated to urbanization",
+              "A megacity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does urbanization involve people moving from rural areas to urban centres?",
+            "options": [
+              "No, urbanization involves no movement of people at all",
+              "Yes",
+              "Urbanization only involves moving from cities to rural areas",
+              "A concept unrelated to urbanization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people choose to move from rural areas to cities?",
+            "options": [
+              "Cities often offer more job opportunities, services, and education options",
+              "Rural areas always offer more opportunities than cities",
+              "People never have any reason to move to a city",
+              "This concept has no connection to urbanization"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might rapid urbanization create challenges for a city’s infrastructure?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Cities never need to plan for population growth",
+              "Urbanization never creates any challenges for a city",
+              "A fast-growing population can strain housing, transportation, and public services"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Podcast and Audio Media",
+        "summary": "Grade 6 Language strand: podcasts and audio media use sound, tone of voice, and pacing to convey information or opinions, requiring listeners to critically evaluate the content just as they would written text.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do podcasts and audio media use to convey information, besides words?",
+            "options": [
+              "Tone of voice and pacing",
+              "A concept unrelated to audio media",
+              "Only silence",
+              "Only written text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should listeners critically evaluate podcast content, just as they would written text?",
+            "options": [
+              "Only written text requires critical evaluation",
+              "Yes",
+              "No, audio content never needs to be evaluated critically",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a podcast host’s tone of voice affect how a listener perceives the information?",
+            "options": [
+              "A concept unrelated to podcasts",
+              "Yes",
+              "No, tone of voice has no effect on how information is perceived",
+              "Tone of voice only matters in written text, not audio"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a listener need to check the accuracy of claims made in a podcast?",
+            "options": [
+              "Podcasts, like any media, can include opinions or information that is not fully verified",
+              "Every podcast is always completely accurate with no need for checking",
+              "Audio media is never used to share information or opinions",
+              "This concept has no connection to media literacy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding pacing important when analyzing a podcast?",
+            "options": [
+              "This concept has no relevance to media literacy",
+              "Podcasts never use any kind of pacing at all",
+              "Pacing can be used to build suspense or emphasize certain points, shaping the listener’s reaction",
+              "Pacing never has any effect on how a listener understands a podcast"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Compound Probability with Tree Diagrams",
+        "summary": "Grade 6 Math strand: a tree diagram organizes all possible outcomes of two or more events, such as flipping a coin and rolling a die, making it easier to calculate compound probability.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a tree diagram help organize?",
+            "options": [
+              "A concept unrelated to probability",
+              "No outcomes at all",
+              "Only a single outcome",
+              "All possible outcomes of two or more events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you flip a coin and roll a die, how many total outcomes would a tree diagram show?",
+            "options": [
+              "8",
+              "6",
+              "12",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a tree diagram be helpful for calculating compound probability?",
+            "options": [
+              "It visually organizes every possible combination of outcomes",
+              "This concept has no connection to math",
+              "Tree diagrams only show a single outcome, never combinations",
+              "Tree diagrams never help with calculating probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a tree diagram shows 4 equally likely outcomes and only 1 matches what you want, what is the probability?",
+            "options": [
+              "1 fourth",
+              "1 half",
+              "1 third",
+              "4 fourths"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Compound probability involves finding the likelihood of ___.",
+            "options": [
+              "A concept unrelated to probability",
+              "Two or more events happening together",
+              "Only a single event happening",
+              "An event that can never happen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Genetic Engineering: An Introduction",
+        "summary": "Grade 6 Science strand: genetic engineering is a technology that allows scientists to directly modify an organism’s genes, used in areas such as agriculture and medicine to create desired traits.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does genetic engineering allow scientists to do?",
+            "options": [
+              "A concept unrelated to biology",
+              "Only observe an organism from a distance",
+              "Nothing at all related to genes",
+              "Directly modify an organism’s genes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one area where genetic engineering is used, such as agriculture or medicine.",
+            "options": [
+              "Agriculture",
+              "A concept unrelated to genetic engineering",
+              "Cooking recipes",
+              "Weather forecasting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can genetic engineering be used to create desired traits in organisms?",
+            "options": [
+              "No, genetic engineering has no connection to traits",
+              "Traits can never be influenced by genetic engineering",
+              "A concept unrelated to genetic engineering",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists use genetic engineering to help crops resist certain diseases?",
+            "options": [
+              "Genetic engineering never affects how a crop grows",
+              "Crops can never be modified in any way",
+              "This concept has no connection to agriculture",
+              "It can directly modify a plant’s genes to build in disease resistance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do some people have questions or concerns about genetic engineering?",
+            "options": [
+              "No one has ever raised any questions about genetic engineering",
+              "Changing genes can raise ethical and safety questions that need careful consideration",
+              "This concept has no relevance to science",
+              "Genetic engineering has no possible risks or considerations at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Renewable Energy Policy Around the World",
+        "summary": "Grade 6 Social Studies strand: many countries have created renewable energy policies, such as goals for reducing fossil fuel use, to encourage the shift toward cleaner energy sources like solar and wind power.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is a renewable energy policy?",
+            "options": [
+              "A rule about how much homework students must do",
+              "A concept unrelated to energy",
+              "A government plan encouraging cleaner energy sources",
+              "A private company’s advertising strategy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one goal a renewable energy policy might set, such as reducing fossil fuel use.",
+            "options": [
+              "A concept unrelated to renewable energy",
+              "Banning all forms of energy",
+              "Increasing fossil fuel use",
+              "Reducing fossil fuel use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do many countries around the world have renewable energy policies?",
+            "options": [
+              "Renewable energy policies do not exist anywhere",
+              "A concept unrelated to renewable energy",
+              "No, only a single country has ever created such a policy",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might governments create policies encouraging renewable energy?",
+            "options": [
+              "This concept has no connection to social studies",
+              "Governments never create any policies about energy",
+              "To help reduce environmental harm and support cleaner, more sustainable energy use",
+              "Renewable energy policies never have any environmental purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might renewable energy policies differ from one country to another?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Energy policy never depends on a country’s resources or needs",
+              "Every country in the world has the exact same energy policy",
+              "Countries have different resources, needs, and priorities that shape their energy policies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Comparing Book and Film Adaptations",
+        "summary": "Grade 6 Language strand: comparing a book to its film adaptation involves examining what details, characters, or events were kept, changed, or removed, and considering why those choices might have been made.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does comparing a book to its film adaptation involve examining?",
+            "options": [
+              "Only the film’s runtime",
+              "What details were kept, changed, or removed",
+              "Only the book’s cover design",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a film adaptation change or remove some details from the original book?",
+            "options": [
+              "A concept unrelated to adaptations",
+              "Films can only ever add new details, never remove any",
+              "Yes",
+              "No, film adaptations are always identical to the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a filmmaker choose to remove a minor subplot from a book when adapting it into a film?",
+            "options": [
+              "Books and films always have the exact same length",
+              "Filmmakers never make any changes when adapting a book",
+              "This concept has no connection to comparing adaptations",
+              "Film has a limited runtime, so some details may need to be cut for pacing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might comparing a book and its film adaptation deepen a reader’s understanding of both?",
+            "options": [
+              "Comparing adaptations never reveals anything useful",
+              "This concept has no connection to reading comprehension",
+              "A book and its film adaptation are always exactly the same",
+              "It can reveal different storytelling choices and how each medium conveys a story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a reasonable question to ask when comparing a book to its film adaptation?",
+            "options": [
+              "What colour is the actor’s shirt?",
+              "What time was the movie released in theatres?",
+              "How many pages does the book have?",
+              "Why might the filmmakers have changed the ending?"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Comparing Loan and Savings Options",
+        "summary": "Grade 6 Math strand: students compare loan options, where interest is paid to a lender, with savings options, where interest is earned, to understand how borrowing and saving money affect finances differently.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When you take out a loan, do you pay interest or earn interest?",
+            "options": [
+              "A concept unrelated to loans",
+              "Neither pay nor earn any interest",
+              "Pay interest",
+              "Earn interest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When you put money into a savings account, do you pay interest or earn interest?",
+            "options": [
+              "Neither pay nor earn any interest",
+              "A concept unrelated to savings",
+              "Pay interest",
+              "Earn interest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a loan has a higher interest rate, will you likely pay more or less over time?",
+            "options": [
+              "Less",
+              "More",
+              "The interest rate never affects total cost",
+              "A concept unrelated to loans"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone compare interest rates before choosing a savings account?",
+            "options": [
+              "A higher interest rate means their savings could grow more over time",
+              "Interest rates never affect how much money grows in a savings account",
+              "This concept has no connection to financial literacy",
+              "Savings accounts never earn any interest at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to understand the difference between paying and earning interest?",
+            "options": [
+              "It helps people make informed decisions about borrowing and saving money",
+              "Loans and savings accounts always work in exactly the same way",
+              "Interest has no connection to borrowing or saving money",
+              "This concept has no relevance to financial literacy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Space Debris and Satellite Safety",
+        "summary": "Grade 6 Science strand: space debris consists of old satellites, rocket parts, and other objects left in orbit around Earth, posing a safety risk to active satellites and spacecraft.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is space debris made up of?",
+            "options": [
+              "Old satellites, rocket parts, and other objects left in orbit",
+              "Only natural objects like asteroids",
+              "Nothing at all, since space is always empty",
+              "A concept unrelated to space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can space debris pose a safety risk to active satellites?",
+            "options": [
+              "A concept unrelated to space debris",
+              "Yes",
+              "Space debris only affects objects on Earth, never in orbit",
+              "No, space debris has no connection to satellite safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where is space debris typically found?",
+            "options": [
+              "A concept unrelated to space debris",
+              "In orbit around Earth",
+              "Only inside a spacecraft",
+              "Only on the surface of the Moon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might scientists track the location of space debris carefully?",
+            "options": [
+              "Space debris never poses any risk to spacecraft",
+              "Collisions with debris could damage or destroy working satellites and spacecraft",
+              "Tracking space debris serves no useful purpose",
+              "This concept has no connection to space safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is space debris becoming a growing concern as more satellites are launched?",
+            "options": [
+              "The number of satellites in orbit never changes",
+              "More objects in orbit increases the chances of collisions and further debris",
+              "This concept has no relevance to science",
+              "More satellites in orbit always reduces the risk of collisions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of Social Media in Modern Activism",
+        "summary": "Grade 6 Social Studies strand: social media has become a tool for modern activism, allowing people to quickly share information, organize events, and raise awareness about social or environmental causes.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What has social media become a tool for in recent years?",
+            "options": [
+              "Nothing beyond casual conversation",
+              "Modern activism",
+              "Only entertainment, with no other use",
+              "A concept unrelated to social issues"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can social media help people organize events and raise awareness about causes?",
+            "options": [
+              "Yes",
+              "No, social media has no connection to organizing events",
+              "A concept unrelated to activism",
+              "Social media can only ever be used for entertainment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does social media allow information to be shared quickly?",
+            "options": [
+              "Yes",
+              "No, information spreads very slowly through social media",
+              "Social media has no connection to sharing information",
+              "A concept unrelated to social media"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might social media be an effective tool for raising awareness about an environmental cause?",
+            "options": [
+              "It can quickly reach large numbers of people and encourage them to take action",
+              "This concept has no connection to activism",
+              "Social media never actually reaches very many people",
+              "Environmental causes are never discussed on social media"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to verify information shared on social media before acting on it?",
+            "options": [
+              "Information on social media is always completely accurate",
+              "Verifying information is never necessary before sharing it further",
+              "This concept has no relevance to social studies",
+              "Not all information shared online is accurate or verified"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Literary Devices, Grammar, and Media Literacy (Days 81-89)",
+        "summary": "Grade 6 Language strand review: students revisit allegory, modal verbs, satire, loanwords, unreliable narrators, appositive phrases, editorials, podcast media literacy, and book-to-film adaptations.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What do we call a story where characters and events represent broader ideas?",
+            "options": [
+              "A concept unrelated to reading",
+              "A biography",
+              "An allegory",
+              "A recipe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one modal verb, such as can or should.",
+            "options": [
+              "Happy",
+              "Run",
+              "A concept unrelated to grammar",
+              "Can"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a word borrowed from another language and adopted into English?",
+            "options": [
+              "A synonym",
+              "A concept unrelated to vocabulary",
+              "A loanword",
+              "A homophone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a storyteller whose account of events may be inaccurate or biased?",
+            "options": [
+              "A concept unrelated to reading",
+              "The main character always",
+              "The author of the book",
+              "An unreliable narrator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of writing expresses an opinion on a current issue in a newspaper?",
+            "options": [
+              "An editorial",
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Geometry, Equations, and Probability (Days 81-89)",
+        "summary": "Grade 6 Math strand review: students revisit scale factor, multi-step equations, slope, two-way frequency tables, cylinder surface area, percent increase and decrease, the Pythagorean theorem, tree diagrams, and financial literacy.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scale factor describe?",
+            "options": [
+              "The number of sides a shape has",
+              "How much a shape is enlarged or reduced",
+              "A concept unrelated to geometry",
+              "The colour of a shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 2n plus 2 equals 10, what is the value of n?",
+            "options": [
+              "4",
+              "5",
+              "8",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does slope describe about a line?",
+            "options": [
+              "Its steepness",
+              "A concept unrelated to geometry",
+              "Its exact length",
+              "Its colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the longest side of a right triangle called?",
+            "options": [
+              "A concept unrelated to right triangles",
+              "The hypotenuse",
+              "The height only",
+              "The base"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When you take out a loan, do you pay interest or earn interest?",
+            "options": [
+              "Pay interest",
+              "Earn interest",
+              "A concept unrelated to loans",
+              "Neither pay nor earn any interest"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Earth Science, Biology, and Space (Days 81-89)",
+        "summary": "Grade 6 Science strand review: students revisit renewable vs fossil fuel power, plate tectonics, cell division, bioluminescence, vaccines, roller coaster physics, ocean currents, genetic engineering, and space debris.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one example of a renewable power source, such as solar or wind.",
+            "options": [
+              "Coal",
+              "Solar",
+              "A concept unrelated to renewable energy",
+              "Oil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is continental drift?",
+            "options": [
+              "A theory that continents never move at all",
+              "The theory that continents slowly move over time",
+              "A weather pattern found only in the ocean",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a vaccine train the immune system to do?",
+            "options": [
+              "Ignore all germs completely",
+              "Recognize and fight a specific germ",
+              "Become weaker over time",
+              "A concept unrelated to the immune system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are ocean currents?",
+            "options": [
+              "Large-scale movements of seawater",
+              "A kind of rock formation",
+              "A type of cloud formation",
+              "A concept unrelated to oceans"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is space debris made up of?",
+            "options": [
+              "Only natural objects like asteroids",
+              "A concept unrelated to space",
+              "Old satellites, rocket parts, and other objects left in orbit",
+              "Nothing at all, since space is always empty"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Global History and Modern Global Issues (Days 81-89)",
+        "summary": "Grade 6 Social Studies strand review: students revisit the Green Revolution, the Space Race, refugee crises, trade agreements, Indigenous self-government, the Olympic Games, urbanization, renewable energy policy, and social media activism.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Green Revolution?",
+            "options": [
+              "A type of environmental protest movement",
+              "A concept unrelated to history",
+              "A period of major agricultural advancement that increased crop yields",
+              "A political revolution that overthrew a government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the Space Race?",
+            "options": [
+              "A concept unrelated to history",
+              "A sporting event held on the Moon",
+              "A period of competition to achieve milestones in space exploration",
+              "A modern car racing competition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are many Indigenous communities in Canada working toward today?",
+            "options": [
+              "Greater self-government",
+              "No changes of any kind",
+              "A concept unrelated to Indigenous communities",
+              "Complete disconnection from Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is urbanization?",
+            "options": [
+              "A concept unrelated to geography",
+              "The growth of cities as more people move from rural areas",
+              "The growth of rural farmland only",
+              "The shrinking of cities over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What has social media become a tool for in recent years?",
+            "options": [
+              "Modern activism",
+              "Only entertainment, with no other use",
+              "Nothing beyond casual conversation",
+              "A concept unrelated to social issues"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
