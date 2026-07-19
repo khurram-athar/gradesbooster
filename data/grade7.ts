@@ -3145,6 +3145,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review Canadian history, women’s rights, demographics, and global organizations together?", options:["Review is never useful when studying history and demographics","A reason unrelated to reviewing social studies","It reinforces how these interconnected historical and civic topics shape Canadian and global society","These topics have no connection to one another"], answer:2}
    ]},
 ]},
+{day:81, label:"Day 81 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Motifs in Literature", summary:"Grade 7 Language strand: a motif is a recurring element, such as an image, phrase, or idea, that appears throughout a text and reinforces its central themes.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What do we call a recurring element, like an image or idea, that reinforces a text’s themes?", options:["A citation","A motif","A concept unrelated to reading","A footnote"], answer:1},
+     {q:"Does a motif appear once in a text, or repeatedly throughout it?", options:["Only in the final chapter","Only once, at the very beginning","Repeatedly throughout it","A concept unrelated to motifs"], answer:2},
+     {q:"Can a recurring image, like birds appearing throughout a novel, function as a motif?", options:["A concept unrelated to reading","Yes","Motifs can only ever be single words","No, images can never function as a motif"], answer:1},
+     {q:"Why might an author repeat a specific image or phrase throughout a story?", options:["To reinforce a central theme or idea across the narrative","Repetition never adds any meaning to a story","This concept has no connection to literature","Authors never intentionally repeat any elements"], answer:0},
+     {q:"Why is identifying a motif a useful skill when analyzing a novel’s deeper meaning?", options:["This concept has no relevance to reading comprehension","A motif only ever appears in poetry, never in novels","Motifs never connect to a story’s themes","It can reveal patterns that connect to the story’s central themes"], answer:3}
+   ]},
+  {subject:"Math", title:"Solving Systems of Equations by Substitution", summary:"Grade 7 Math strand: the substitution method solves a system of two equations by solving one equation for a variable, then substituting that expression into the other equation.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"In the substitution method, what do you do first with one of the equations?", options:["A concept unrelated to systems of equations","Solve it for a single variable","Multiply both equations together","Graph both equations immediately"], answer:1},
+     {q:"After solving one equation for a variable, what do you do with that expression?", options:["Ignore it completely","A concept unrelated to substitution","Substitute it into the other equation","Divide it by zero"], answer:2},
+     {q:"If y equals x plus 2, and you substitute this into another equation, what are you solving for?", options:["Nothing at all","The value of x","The value of y only, ignoring x","A concept unrelated to substitution"], answer:1},
+     {q:"Why might substitution be a useful method for solving a system of equations?", options:["Substitution only works when equations have no variables at all","It can turn two equations with two variables into one equation with a single variable","This concept has no connection to algebra","Substitution never simplifies a system of equations"], answer:1},
+     {q:"If x plus y equals 10 and y equals 4, what is the value of x after substitution?", options:["10","4","6","14"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Ecosystem Succession: How Ecosystems Change Over Time", summary:"Grade 7 Science strand: ecosystem succession is the gradual process by which an ecosystem changes over time, such as a bare patch of land slowly developing into a forest through different stages.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is ecosystem succession?", options:["A single, instant event with no stages","A concept unrelated to ecology","The gradual process by which an ecosystem changes over time","A process where ecosystems never change at all"], answer:2},
+     {q:"Can a bare patch of land eventually develop into a forest through succession?", options:["Succession only happens in the ocean","No, bare land can never develop into anything else","Yes","A concept unrelated to succession"], answer:2},
+     {q:"Does ecosystem succession happen through different stages over time?", options:["A concept unrelated to succession","Yes","Succession has no connection to time at all","No, succession happens all at once with no stages"], answer:1},
+     {q:"Why might small plants, like grasses, often appear before large trees during succession?", options:["Small plants can often survive in poor soil conditions and help prepare the way for larger plants","Small plants never grow before larger ones","Large trees always appear before any other plants","This concept has no connection to ecosystem succession"], answer:0},
+     {q:"Why is understanding ecosystem succession useful for restoring a damaged habitat?", options:["Succession has no connection to habitat restoration","It helps scientists predict how an ecosystem might naturally recover over time","Damaged habitats never go through any stages of recovery","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Berlin Airlift and Cold War Tensions", summary:"Grade 7 Social Studies strand: the Berlin Airlift was a major Cold War event in which Western countries flew supplies into West Berlin after the Soviet Union blocked land routes into the city.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Berlin Airlift?", options:["A concept unrelated to history","A modern airline company","An operation flying supplies into West Berlin after a Soviet blockade","A type of sporting event"], answer:2},
+     {q:"Which country blocked land routes into West Berlin, leading to the airlift?", options:["A concept unrelated to the Berlin Airlift","Canada","France","The Soviet Union"], answer:3},
+     {q:"Did Western countries respond to the blockade by flying supplies into West Berlin?", options:["A concept unrelated to the Berlin Airlift","Yes","No, they did nothing in response to the blockade","They only responded by sending supplies over land"], answer:1},
+     {q:"Why might the Berlin Airlift be seen as an important moment in Cold War history?", options:["The airlift caused immediate war between the two sides","The Berlin Airlift had no connection to the Cold War","It showed how far countries would go to support allies without direct military conflict","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might delivering supplies by air, rather than by land, have been a significant challenge?", options:["Airlifts require careful planning and resources to move large amounts of supplies quickly and safely","This concept has no connection to the Berlin Airlift","Delivering supplies by air was never any more difficult than by land","Airplanes were never involved in the Berlin Airlift at all"], answer:0}
+   ]},
+]},
+{day:82, label:"Day 82 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Personal Manifesto", summary:"Grade 7 Language strand: a personal manifesto is a piece of writing that expresses an individual’s core beliefs, values, and goals, often written with a confident and declarative tone.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What kind of writing expresses an individual’s core beliefs and values?", options:["A weather report","A grocery list","A concept unrelated to writing","A personal manifesto"], answer:3},
+     {q:"Is a personal manifesto often written with a confident, declarative tone?", options:["A concept unrelated to writing","Tone never matters in a personal manifesto","Yes","No, it is always written in a hesitant, uncertain tone"], answer:2},
+     {q:"Might a personal manifesto include a person’s goals for the future?", options:["Goals are only found in business documents, never manifestos","Yes","No, manifestos never include any future goals","A concept unrelated to personal manifestos"], answer:1},
+     {q:"Why might someone write a personal manifesto?", options:["To clarify and express what they believe in and value most","Manifestos are only ever written by famous historical figures","This concept has no connection to writing","Personal manifestos serve no real purpose"], answer:0},
+     {q:"Which of these sentences sounds most like it belongs in a personal manifesto?", options:["The capital of France is Paris.","I believe kindness should guide every decision I make.","The chemical symbol for iron is Fe.","Add 6 and 3 to get 9."], answer:1}
+   ]},
+  {subject:"Math", title:"Scientific Notation: Operations", summary:"Grade 7 Math strand: students learn to multiply and divide numbers written in scientific notation, keeping track of the exponent of 10 while multiplying or dividing the decimal parts.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"When multiplying two numbers in scientific notation, what happens to the exponents of 10?", options:["They are multiplied together","They are subtracted","They are added together","A concept unrelated to scientific notation"], answer:2},
+     {q:"When dividing two numbers in scientific notation, what happens to the exponents of 10?", options:["They are added together","They are divided","They are subtracted","A concept unrelated to scientific notation"], answer:2},
+     {q:"What is the result of multiplying (2 times 10 to the 3rd) by (3 times 10 to the 2nd)?", options:["5 times 10 to the 5th","6 times 10 to the 6th","6 times 10 to the 1st","6 times 10 to the 5th"], answer:3},
+     {q:"Why is scientific notation useful when multiplying very large or very small numbers?", options:["This concept has no connection to math","It simplifies the process by separating the exponent work from the decimal work","Scientific notation never simplifies any calculations","Scientific notation only works with small, simple numbers"], answer:1},
+     {q:"What is the result of dividing (8 times 10 to the 5th) by (2 times 10 to the 2nd)?", options:["4 times 10 to the 3rd","6 times 10 to the 3rd","4 times 10 to the 2nd","4 times 10 to the 7th"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Physics of Sound in Musical Instruments", summary:"Grade 7 Science strand: musical instruments produce sound through vibrations, with the length, tension, or thickness of a vibrating string or column of air determining the pitch of the sound.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"How do musical instruments produce sound?", options:["Without any physical movement at all","Through vibrations","Through complete silence","A concept unrelated to sound"], answer:1},
+     {q:"Name one factor that can determine the pitch of a vibrating string, such as its length.", options:["Its length","Its colour","Its smell","A concept unrelated to sound"], answer:0},
+     {q:"Does a shorter, tighter string typically produce a higher or lower pitch?", options:["A lower pitch","No pitch at all","A concept unrelated to sound","A higher pitch"], answer:3},
+     {q:"Why might a guitar player press down on different parts of a string to change the note?", options:["Only the guitar’s colour affects its pitch","Pressing on a string never changes the pitch of a note","This concept has no connection to sound physics","Shortening the vibrating length of the string changes its pitch"], answer:3},
+     {q:"Why do wind instruments, like flutes, use columns of air rather than strings to produce sound?", options:["The vibrating air column inside the instrument creates the sound, and its length affects pitch","Wind instruments never actually produce any sound","Wind instruments rely on strings just like guitars","This concept has no connection to physics"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Suez Crisis and Canadian Peacekeeping Origins", summary:"Grade 7 Social Studies strand: the Suez Crisis of 1956 was an international conflict that led Canadian diplomat Lester B. Pearson to propose the first large-scale United Nations peacekeeping force.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year did the Suez Crisis occur?", options:["1956","1945","1867","2001"], answer:0},
+     {q:"Which Canadian diplomat proposed the first large-scale UN peacekeeping force during the Suez Crisis?", options:["A fictional diplomat","A diplomat from a different country","A concept unrelated to Canadian history","Lester B. Pearson"], answer:3},
+     {q:"Did the Suez Crisis lead to the creation of a UN peacekeeping force?", options:["A concept unrelated to the Suez Crisis","No, peacekeeping has no connection to the Suez Crisis","The crisis had no resolution of any kind","Yes"], answer:3},
+     {q:"Why might Canada’s role in resolving the Suez Crisis be considered historically significant?", options:["Canada played no role at all in resolving the Suez Crisis","This concept has no relevance to Canadian history","It marked the beginning of Canada’s long tradition of international peacekeeping","Peacekeeping began in a completely different country"], answer:2},
+     {q:"Why might peacekeeping forces be useful for resolving international conflicts?", options:["Peacekeeping forces only ever make conflicts worse","They can help maintain stability and prevent further conflict between opposing sides","Peacekeeping forces never actually help resolve any conflict","This concept has no connection to international relations"], answer:1}
+   ]},
+]},
+{day:83, label:"Day 83 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Nominalization and Sentence Complexity", summary:"Grade 7 Language strand: nominalization turns a verb or adjective into a noun, such as changing decide into decision, often used in formal writing to create more complex, abstract sentences.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does nominalization do to a verb or adjective?", options:["Turns it into a question","Removes it from the sentence","A concept unrelated to grammar","Turns it into a noun"], answer:3},
+     {q:"Which word is the nominalized form of the verb decide?", options:["Decided","Deciding","Decision","Decisive"], answer:2},
+     {q:"Is nominalization often used in formal or informal writing?", options:["Neither formal nor informal writing","A concept unrelated to nominalization","Formal writing","Informal writing only"], answer:2},
+     {q:"Which sentence uses nominalization?", options:["The committee decided quickly.","The committee’s decision surprised everyone.","Deciding is hard sometimes.","They will decide tomorrow."], answer:1},
+     {q:"Why might a writer use nominalization in an academic essay?", options:["Nominalization always makes writing simpler and less formal","Academic essays never use nominalized words","This concept has no connection to writing style","It can create a more formal, abstract, and complex tone"], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: Simulations and Random Sampling", summary:"Grade 7 Math strand: a simulation models a real-world situation using repeated random trials, such as flipping a coin many times, to estimate the probability of an event.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a simulation use to model a real-world situation?", options:["A concept unrelated to probability","A single guess with no trials","Repeated random trials","Only historical data with no trials at all"], answer:2},
+     {q:"Can flipping a coin many times be an example of a simulation?", options:["Simulations never involve any random trials","A concept unrelated to simulations","No, coin flips can never be used in a simulation","Yes"], answer:3},
+     {q:"Why might running more trials in a simulation give a more accurate estimate of probability?", options:["Fewer trials always give a more accurate estimate","This concept has no connection to probability","Running more trials never improves the accuracy of an estimate","More trials can better reflect the true likelihood of an event over time"], answer:3},
+     {q:"What is random sampling used for in a simulation?", options:["Ignoring all randomness completely","Choosing only the outcomes you want to see","Selecting outcomes without bias to represent real possibilities","A concept unrelated to sampling"], answer:2},
+     {q:"Why might scientists use a simulation instead of testing something in real life?", options:["A simulation can model a situation quickly, safely, or when real-life testing is impractical","Real-life testing is always easier than running a simulation","This concept has no connection to probability","Simulations never provide any useful information"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Green Architecture and Sustainable Building", summary:"Grade 7 Science strand: green architecture designs buildings to reduce environmental impact, using strategies such as solar panels, efficient insulation, and materials that reduce energy use.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does green architecture aim to reduce?", options:["Environmental impact","The size of a building only","The number of windows in a building","A concept unrelated to architecture"], answer:0},
+     {q:"Name one strategy used in green architecture, such as solar panels.", options:["Wasting as much energy as possible","Ignoring insulation completely","Solar panels","A concept unrelated to green architecture"], answer:2},
+     {q:"Can efficient insulation help reduce a building’s energy use?", options:["A concept unrelated to green architecture","Insulation always increases energy use","No, insulation has no connection to energy use","Yes"], answer:3},
+     {q:"Why might a building with solar panels use less energy from traditional power sources?", options:["Solar panels can generate their own electricity from sunlight","Solar panels only work at night","This concept has no connection to green architecture","Solar panels never generate any usable electricity"], answer:0},
+     {q:"Why is green architecture becoming more common in new construction projects?", options:["This concept has no relevance to science","Green architecture always costs more with no benefits at all","It can help reduce environmental impact and lower long-term energy costs","Green architecture has no real benefit to builders or the environment"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of Canadian Health Care", summary:"Grade 7 Social Studies strand: Canada’s public health care system, often called Medicare, developed over the mid-1900s to provide medical coverage for all Canadians, regardless of their ability to pay.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is Canada’s public health care system often called?", options:["Medicare","A private insurance company","A concept unrelated to Canadian history","A hospital chain"], answer:0},
+     {q:"Does Medicare provide medical coverage for all Canadians, regardless of ability to pay?", options:["No, only wealthy citizens are covered","Yes","A concept unrelated to health care","Medicare has no connection to medical coverage"], answer:1},
+     {q:"Around what time period did Canada’s public health care system develop?", options:["The mid-1900s","A concept unrelated to Canadian history","The 1600s","The 2020s"], answer:0},
+     {q:"Why might a public health care system be considered important for a country’s citizens?", options:["This concept has no relevance to social studies","It can provide access to medical care regardless of a person’s income","Health care access never depends on a person’s income in any country","Public health care has no benefit to citizens"], answer:1},
+     {q:"Why might the development of Medicare be considered a significant milestone in Canadian history?", options:["It reflects a major shift toward ensuring health care access for all Canadians","This concept has no connection to Canadian history","Health care in Canada has never changed over time","Medicare had no significant impact on Canadian society"], answer:0}
+   ]},
+]},
+{day:84, label:"Day 84 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Neologisms and Newly Coined Words", summary:"Grade 7 Language strand: a neologism is a newly coined word or phrase, often created to describe new technology, culture, or ideas, such as selfie or blog.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What do we call a newly coined word or phrase?", options:["A concept unrelated to vocabulary","A synonym","A homophone","A neologism"], answer:3},
+     {q:"Which of these is an example of a neologism created to describe new technology?", options:["Apple","Book","Tree","Blog"], answer:3},
+     {q:"Are neologisms often created to describe new technology, culture, or ideas?", options:["Yes","A concept unrelated to neologisms","Neologisms only describe ancient concepts","No, neologisms are never connected to new ideas"], answer:0},
+     {q:"Why might a neologism like selfie become widely used in everyday language?", options:["This concept has no connection to vocabulary","It fills a need to describe a new behaviour or object that did not previously have a common name","Neologisms are never actually adopted into everyday language","New words are never created to describe modern technology"], answer:1},
+     {q:"Why do dictionaries sometimes add neologisms after they become widely used?", options:["This concept has no connection to vocabulary","Neologisms are removed from language once they are created","Dictionaries aim to reflect how language is actually used by people","Dictionaries never add any new words at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Constructing Perpendicular Bisectors", summary:"Grade 7 Math strand: a perpendicular bisector is a line that crosses a segment at its midpoint, forming right angles, and can be constructed using a compass and straightedge.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a perpendicular bisector cross a segment at?", options:["One of its endpoints","Its midpoint","A concept unrelated to geometry","A random point outside the segment"], answer:1},
+     {q:"Does a perpendicular bisector form right angles with the segment it crosses?", options:["Yes","It always forms a straight line with no angle at all","A concept unrelated to perpendicular bisectors","No, it never forms right angles"], answer:0},
+     {q:"What tools can be used to construct a perpendicular bisector?", options:["A compass and straightedge","A protractor alone, with no other tool","Only a ruler with no compass","A concept unrelated to construction"], answer:0},
+     {q:"Why might a perpendicular bisector be useful for finding the exact centre of a circle?", options:["The centre of a circle can never be found using construction","Perpendicular bisectors of chords in a circle intersect at the circle’s centre","This concept has no connection to geometry","Perpendicular bisectors have no connection to circles"], answer:1},
+     {q:"If a segment is 10 cm long, where would its perpendicular bisector cross it?", options:["At the 10 cm mark","At the very start of the segment","At the very end of the segment","At the 5 cm mark"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Chemistry of Combustion", summary:"Grade 7 Science strand: combustion is a chemical reaction where a fuel reacts with oxygen, releasing energy as heat and light, such as when wood burns in a campfire.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is combustion?", options:["A chemical reaction where fuel reacts with oxygen, releasing energy","A process that only involves ice melting","A concept unrelated to chemistry","A reaction that never releases any energy"], answer:0},
+     {q:"What two things react together during combustion?", options:["Only water","Fuel and oxygen","A concept unrelated to combustion","Only ice and snow"], answer:1},
+     {q:"Does combustion release energy as heat and light?", options:["No, combustion never releases any energy","Yes","A concept unrelated to combustion","Combustion only absorbs energy, never releases it"], answer:1},
+     {q:"Why does a campfire need a steady supply of oxygen to keep burning?", options:["Oxygen prevents combustion from happening at all","Combustion requires oxygen to react with the fuel and sustain the reaction","This concept has no connection to combustion","Fires never actually need any oxygen to keep burning"], answer:1},
+     {q:"Why is understanding combustion important for fire safety?", options:["Fires can never actually be prevented or put out","This concept has no relevance to science","Combustion has no connection to fire safety","Knowing what fuels a fire can help people prevent or safely extinguish it"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Water Rights and Access Around the World", summary:"Grade 7 Social Studies strand: access to clean, safe drinking water varies greatly around the world, with some regions facing water scarcity while others have widespread water infrastructure.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Does access to clean drinking water vary around the world?", options:["A concept unrelated to global issues","No, every region has exactly the same access to water","Water access has no connection to different regions","Yes"], answer:3},
+     {q:"What do we call a situation where a region does not have enough available water?", options:["A trade agreement","Water abundance","Water scarcity","A concept unrelated to water access"], answer:2},
+     {q:"Can widespread water infrastructure help provide reliable access to clean water?", options:["No, infrastructure never affects water access","A concept unrelated to water rights","Yes","Infrastructure only affects electricity, never water"], answer:2},
+     {q:"Why might a region with limited rainfall face greater challenges with water access?", options:["Rainfall has no connection to a region’s water access","Less rainfall can mean less available fresh water for drinking, farming, and other uses","Every region receives the exact same amount of rainfall","This concept has no relevance to social studies"], answer:1},
+     {q:"Why might international organizations work to improve water access in regions facing scarcity?", options:["Water access has no connection to health or daily life","International organizations never focus on water access at all","Reliable access to clean water is essential for health, agriculture, and daily life","This concept has no relevance to global issues"], answer:2}
+   ]},
+]},
+{day:85, label:"Day 85 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Evaluating Logical Fallacies in Arguments", summary:"Grade 7 Language strand: a logical fallacy is a flaw in reasoning that weakens an argument, such as a hasty generalization, which draws a broad conclusion from very limited evidence.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What do we call a flaw in reasoning that weakens an argument?", options:["A logical fallacy","A concept unrelated to reading","A footnote","A citation"], answer:0},
+     {q:"What is a hasty generalization?", options:["Drawing a careful conclusion from extensive evidence","A conclusion that always uses complete and thorough evidence","A concept unrelated to logical fallacies","Drawing a broad conclusion from very limited evidence"], answer:3},
+     {q:"Can identifying logical fallacies help readers evaluate the strength of an argument?", options:["A concept unrelated to reading","No, logical fallacies never affect how strong an argument is","Yes","Fallacies always make an argument stronger"], answer:2},
+     {q:"Which of these is an example of a hasty generalization?", options:["The data was collected over several years from multiple regions.","The study included a large, diverse sample of participants.","I met two rude people from that city, so everyone there must be rude.","I researched many sources before forming my opinion."], answer:2},
+     {q:"Why is it important for readers to recognize logical fallacies in persuasive writing?", options:["Recognizing fallacies never helps with evaluating an argument","This concept has no connection to reading comprehension","Every argument in persuasive writing is always completely valid","It helps them evaluate whether an argument is actually well-supported"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Correlation vs Causation", summary:"Grade 7 Math strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another, a stronger claim that requires more evidence.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does correlation describe?", options:["A concept unrelated to data","A relationship between two variables","The exact cause of an event","A single, unrelated fact"], answer:1},
+     {q:"What does causation mean?", options:["A concept unrelated to data analysis","Two variables have absolutely no connection at all","Correlation and causation always mean the exact same thing","One variable directly causes a change in another"], answer:3},
+     {q:"Does correlation alone prove that one variable causes another?", options:["No","Correlation and causation are identical concepts","Yes, correlation always proves causation","A concept unrelated to data"], answer:0},
+     {q:"If ice cream sales and drowning incidents both increase in the summer, does that mean ice cream causes drowning?", options:["This proves a direct cause-and-effect relationship","Yes, ice cream directly causes drowning","No, both are likely related to a third factor, like warmer weather","A concept unrelated to correlation and causation"], answer:2},
+     {q:"Why is it important to understand the difference between correlation and causation when interpreting data?", options:["This concept has no connection to data analysis","Mistaking correlation for causation could lead to incorrect conclusions","The two concepts are always interchangeable with no difference","Correlation and causation never need to be distinguished"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Bioluminescence and Deep-Sea Life", summary:"Grade 7 Science strand: bioluminescence, the ability to produce light through a chemical reaction, is common among deep-sea organisms, helping them survive in an environment with little to no sunlight.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is bioluminescence?", options:["A process that only happens on land","The ability to produce light through a chemical reaction","A process where organisms absorb sunlight only","A concept unrelated to biology"], answer:1},
+     {q:"Is bioluminescence common among deep-sea organisms?", options:["Yes","A concept unrelated to deep-sea life","Bioluminescence only occurs in shallow, sunny waters","No, bioluminescence is never found in the deep sea"], answer:0},
+     {q:"Does the deep sea receive little to no sunlight?", options:["Yes","No, the deep sea receives the same sunlight as the surface","The deep sea is always brightly lit by the sun","A concept unrelated to ocean zones"], answer:0},
+     {q:"Why might a deep-sea organism use bioluminescence to attract prey?", options:["This concept has no connection to biology","A glowing light could lure curious prey close enough to catch in the dark","Bioluminescence never helps attract any prey","Deep-sea organisms never need to attract prey"], answer:1},
+     {q:"Why do scientists find studying bioluminescent deep-sea organisms valuable?", options:["This concept has no relevance to science","Bioluminescent organisms have no scientific value at all","Understanding how they produce light could lead to new scientific or medical discoveries","Everything about bioluminescence has already been fully discovered"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Rise of E-Commerce and Its Economic Impact", summary:"Grade 7 Social Studies strand: e-commerce, the buying and selling of goods online, has rapidly grown in recent decades, changing how businesses operate and how consumers shop.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is e-commerce?", options:["A concept unrelated to the economy","A type of in-person farmers market only","A government program with no connection to shopping","The buying and selling of goods online"], answer:3},
+     {q:"Has e-commerce grown rapidly in recent decades?", options:["A concept unrelated to e-commerce","No, e-commerce has stayed exactly the same size for centuries","E-commerce has actually decreased over time","Yes"], answer:3},
+     {q:"Has e-commerce changed how consumers shop?", options:["A concept unrelated to e-commerce","No, e-commerce has had no effect on shopping habits","Yes","Consumers only ever shop in physical stores today"], answer:2},
+     {q:"Why might a small local business choose to sell products online through e-commerce?", options:["It can reach a much larger group of potential customers beyond their local area","Small businesses are never allowed to sell products online","Selling online never helps a business reach more customers","This concept has no connection to e-commerce"], answer:0},
+     {q:"Why might the growth of e-commerce create challenges for traditional brick-and-mortar stores?", options:["This concept has no relevance to social studies","Traditional stores are never affected by online competition","E-commerce has no effect on how customers choose to shop","Some customers may prefer the convenience of shopping online instead of visiting in person"], answer:3}
+   ]},
+]},
+{day:86, label:"Day 86 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter of Recommendation", summary:"Grade 7 Language strand: a letter of recommendation describes a person’s strengths and qualifications, often written to support their application for a job, program, or opportunity.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What kind of letter describes a person’s strengths to support an application?", options:["A grocery list","A letter of recommendation","A weather report","A concept unrelated to writing"], answer:1},
+     {q:"Might a letter of recommendation be written to support someone’s job application?", options:["Yes","A concept unrelated to writing","Job applications never require any supporting letters","No, letters of recommendation are never used for job applications"], answer:0},
+     {q:"Should a letter of recommendation include specific examples of a person’s strengths?", options:["Yes","No, specific examples are never included","Only vague, general statements should be included","A concept unrelated to writing"], answer:0},
+     {q:"Why might a specific example strengthen a letter of recommendation more than a general statement?", options:["General statements are always more convincing than specific examples","Specific examples never add any value to a recommendation","This concept has no connection to writing","A specific example provides concrete evidence of a person’s abilities"], answer:3},
+     {q:"Which of these is most likely a sentence from a letter of recommendation?", options:["I have seen her consistently lead group projects with confidence and care.","Add 7 and 8 to get 15.","The chemical symbol for sodium is Na.","Once upon a time, in a faraway kingdom."], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplying a Binomial by a Binomial", summary:"Grade 7 Math strand: students learn to multiply two binomials, such as (x plus 2) times (x plus 3), by multiplying each term in the first binomial by each term in the second.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is (x plus 2) times (x plus 3) equal to?", options:["x squared plus 2x plus 3","2x plus 6","x squared plus 5x plus 6","x squared plus 6x plus 5"], answer:2},
+     {q:"When multiplying two binomials, how many multiplications are needed in total?", options:["Four","A concept unrelated to multiplying binomials","Two","One"], answer:0},
+     {q:"What is (x plus 1) times (x plus 4) equal to?", options:["x squared plus 1x plus 4","2x plus 5","x squared plus 5x plus 4","x squared plus 4x plus 1"], answer:2},
+     {q:"Why is it important to combine like terms after multiplying two binomials?", options:["It simplifies the expression into its most compact and clear form","Like terms should always be kept separate and never combined","Combining like terms never simplifies an expression","This concept has no connection to algebra"], answer:0},
+     {q:"What is (x minus 2) times (x plus 5) equal to?", options:["x squared minus 3x plus 10","x squared plus 7x minus 10","x squared plus 3x minus 10","x squared plus 10x minus 3"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Antibiotic Resistance: A Modern Challenge", summary:"Grade 7 Science strand: antibiotic resistance occurs when bacteria evolve to survive medicines designed to kill them, making some infections harder to treat and posing a growing public health challenge.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is antibiotic resistance?", options:["When bacteria evolve to survive medicines designed to kill them","A process where bacteria are instantly destroyed by every medicine","A type of vaccine","A concept unrelated to biology"], answer:0},
+     {q:"Can antibiotic resistance make some infections harder to treat?", options:["No, antibiotic resistance never affects how infections are treated","A concept unrelated to antibiotic resistance","Yes","Resistant bacteria are always easier to treat"], answer:2},
+     {q:"Is antibiotic resistance considered a growing public health challenge?", options:["No, it has never been considered a challenge at all","Antibiotic resistance was solved long ago with no remaining concern","A concept unrelated to public health","Yes"], answer:3},
+     {q:"Why might overusing antibiotics contribute to antibiotic resistance?", options:["Using antibiotics less often always increases resistance instead","Frequent use gives bacteria more opportunities to evolve and survive the medicine","This concept has no connection to biology","Overusing antibiotics has no connection to resistance"], answer:1},
+     {q:"Why is it important for people to finish a full course of prescribed antibiotics?", options:["Finishing a course of antibiotics has no effect on resistance","Stopping early might allow surviving, potentially resistant bacteria to multiply","This concept has no relevance to science","Antibiotics work exactly the same whether or not the full course is finished"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Auto Industry and Manufacturing History", summary:"Grade 7 Social Studies strand: Canada’s auto industry, centred largely in Ontario, has played a major role in the country’s manufacturing economy since the early 1900s.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In which province has Canada’s auto industry largely been centred?", options:["British Columbia","A concept unrelated to Canada","Nova Scotia","Ontario"], answer:3},
+     {q:"Has Canada’s auto industry played a major role in the country’s economy?", options:["No, the auto industry has no connection to Canada’s economy","Yes","A concept unrelated to Canadian industry","The auto industry has never existed in Canada"], answer:1},
+     {q:"Around what time period did Canada’s auto industry begin to grow significantly?", options:["The 1600s","The 2020s","The early 1900s","A concept unrelated to Canadian history"], answer:2},
+     {q:"Why might a strong auto manufacturing industry benefit a region’s economy?", options:["Manufacturing industries never create any jobs","This concept has no connection to social studies","A strong auto industry always harms the local economy","It can create many jobs and support related industries, like parts suppliers"], answer:3},
+     {q:"Why might changes in global manufacturing trends affect Canada’s auto industry today?", options:["Global manufacturing trends never affect any single country’s industry","This concept has no relevance to social studies","Shifts in technology, trade, and competition can change where and how vehicles are produced","Canada’s auto industry has never changed since it began"], answer:2}
+   ]},
+]},
+{day:87, label:"Day 87 — Tue", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Algorithmic Content Curation", summary:"Grade 7 Language strand: many apps and websites use algorithms to decide what content to show users, often based on their past activity, which can shape what information and opinions someone sees.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What do many apps and websites use to decide what content to show users?", options:["A concept unrelated to media literacy","A single employee choosing manually for every user","Algorithms","Random guessing with no pattern"], answer:2},
+     {q:"Is content shown to users often based on their past activity?", options:["Yes","A concept unrelated to algorithms","Content shown to users is always completely random","No, past activity never affects what content is shown"], answer:0},
+     {q:"Can algorithms shape what information and opinions someone is exposed to?", options:["A concept unrelated to media literacy","No, algorithms have no effect on what a person sees","Every user sees the exact same content regardless of any algorithm","Yes"], answer:3},
+     {q:"Why might two people searching the same topic online see very different results?", options:["Algorithms never take into account any personal activity","Search results are always identical for every single user","Algorithms may personalize results based on each person’s past online activity","This concept has no connection to algorithmic curation"], answer:2},
+     {q:"Why is it important for people to be aware of how algorithms curate the content they see?", options:["This concept has no relevance to media literacy","It can help them understand that their online experience may be shaped by personalized filtering","Algorithms have no influence on what people believe or see online","Awareness of algorithms never changes how someone understands their online experience"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Credit Scores", summary:"Grade 7 Math strand: a credit score is a number that reflects how reliably a person has repaid borrowed money in the past, affecting their ability to get loans or lower interest rates in the future.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a credit score reflect?", options:["A person’s exact age","How reliably a person has repaid borrowed money in the past","A person’s favourite hobbies","A concept unrelated to finance"], answer:1},
+     {q:"Can a credit score affect a person’s ability to get a loan?", options:["Yes","No, credit scores have no connection to loans","A concept unrelated to credit scores","Loans are never affected by a person’s financial history"], answer:0},
+     {q:"Might a higher credit score help someone qualify for a lower interest rate?", options:["Yes","A higher credit score always leads to a higher interest rate","No, interest rates are never affected by credit scores","A concept unrelated to credit scores"], answer:0},
+     {q:"Why might paying bills on time help build a strong credit score?", options:["Consistent, reliable repayment history is a key factor in calculating a credit score","This concept has no connection to financial literacy","Credit scores are calculated completely at random","Paying bills on time never affects a credit score"], answer:0},
+     {q:"Why is understanding credit scores useful knowledge for planning future major purchases, like a car?", options:["This concept has no relevance to financial literacy","Credit scores have no connection to major purchases","A good credit score can make it easier and cheaper to borrow money when needed","Major purchases never require any borrowed money"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Physics of Flight: Lift and Drag", summary:"Grade 7 Science strand: an airplane stays in the air due to four forces: lift, which pushes it upward, and drag, which slows it down, working together with thrust and gravity.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What force pushes an airplane upward, keeping it in the air?", options:["Drag","Gravity only","Lift","A concept unrelated to flight"], answer:2},
+     {q:"What force slows an airplane down as it moves through the air?", options:["Thrust only","Drag","Lift","A concept unrelated to flight"], answer:1},
+     {q:"Besides lift and drag, name one other force involved in flight, such as thrust or gravity.", options:["A concept unrelated to flight","Thrust","Sound","Light"], answer:1},
+     {q:"Why is the shape of an airplane’s wing important for generating lift?", options:["Wing shape has no connection to how lift is generated","This concept has no connection to physics","Airplanes generate lift with no need for any specific wing shape","The wing’s curved shape helps create differences in air pressure that produce lift"], answer:3},
+     {q:"Why must an airplane’s thrust be strong enough to overcome drag during flight?", options:["This concept has no relevance to science","Thrust and drag have no connection to each other","Drag always helps an airplane move faster, never slower","Thrust needs to push the plane forward against the resistance created by drag"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of Daylight Saving Time", summary:"Grade 7 Social Studies strand: daylight saving time is the practice of moving clocks forward in spring and back in fall, originally intended to make better use of daylight hours and save energy.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is daylight saving time?", options:["A rule requiring everyone to wake up at the same time","The practice of moving clocks forward in spring and back in fall","A type of holiday celebrated worldwide","A concept unrelated to timekeeping"], answer:1},
+     {q:"When are clocks typically moved forward for daylight saving time?", options:["In spring","A concept unrelated to daylight saving time","In fall","Only in winter"], answer:0},
+     {q:"Was daylight saving time originally intended to help save energy?", options:["A concept unrelated to daylight saving time","Yes","No, it was never connected to energy savings","It was created only for entertainment purposes"], answer:1},
+     {q:"Why might some regions choose not to observe daylight saving time?", options:["Daylight saving time has no effect on daily schedules at all","This concept has no connection to daylight saving time","Every region in the world is required to observe daylight saving time","They may feel the time change does not provide enough benefit for their location or climate"], answer:3},
+     {q:"Why might daylight saving time be a topic of ongoing debate in some countries?", options:["Every country in the world has always agreed on this issue","Daylight saving time has never been debated by anyone","People have different opinions about whether the practice still provides meaningful benefits today","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:88, label:"Day 88 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Absolute Phrases", summary:"Grade 7 Language strand: an absolute phrase modifies an entire sentence rather than a single word, often combining a noun with a participle, such as in Her arms crossed, she waited by the door.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an absolute phrase modify?", options:["Only a single word","A concept unrelated to grammar","Nothing at all","An entire sentence"], answer:3},
+     {q:"An absolute phrase often combines a noun with what other type of word?", options:["A concept unrelated to absolute phrases","A conjunction only","A participle","A preposition only"], answer:2},
+     {q:"In the sentence Her arms crossed, she waited by the door, what is the absolute phrase?", options:["Waited","Her arms crossed","She waited by the door","By the door"], answer:1},
+     {q:"Which sentence correctly uses an absolute phrase?", options:["His eyes closed, he listened carefully to the music.","He listened his eyes closed carefully to the music closed.","His eyes he closed listened carefully the music to.","Closed his eyes he to the music listened."], answer:0},
+     {q:"Why might a writer use an absolute phrase to add detail to a sentence?", options:["It can add vivid, descriptive detail without creating a separate sentence","This concept has no connection to grammar","Absolute phrases always make a sentence less descriptive","Absolute phrases never add any detail to a sentence"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Volume of Composite Solids with Curved Surfaces", summary:"Grade 7 Math strand: students find the volume of composite solids that combine shapes with curved surfaces, such as a cylinder topped with a cone, by finding the volume of each part and adding them together.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"To find the volume of a composite solid made of a cylinder and a cone, what should you do?", options:["A concept unrelated to composite solids","Only calculate the volume of the cone","Only calculate the volume of the cylinder","Find the volume of each part and add them together"], answer:3},
+     {q:"If a cylinder’s volume is 40 cubic cm and a cone on top has a volume of 10 cubic cm, what is the total volume?", options:["50 cubic cm","10 cubic cm","30 cubic cm","40 cubic cm"], answer:0},
+     {q:"Why is it useful to break a composite solid into simpler shapes before finding its volume?", options:["Composite solids can never be broken into simpler shapes","This concept has no connection to geometry","Breaking a solid into simpler shapes never helps calculate its volume","It makes the calculation more manageable by using known volume formulas for each simple shape"], answer:3},
+     {q:"If a composite solid is made of two cylinders with volumes of 25 and 15 cubic cm, what is the total volume?", options:["25 cubic cm","10 cubic cm","40 cubic cm","15 cubic cm"], answer:2},
+     {q:"Why might understanding composite solid volume be useful for designing a real object, like a water tank?", options:["This concept has no connection to geometry","Water tanks are always made of a single, simple shape","Many real objects are made of combined shapes, so this skill helps calculate their total capacity","Composite solid volume never applies to any real-world object"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Genetic Variation and Biodiversity", summary:"Grade 7 Science strand: genetic variation refers to the differences in genes among individuals of a species, contributing to biodiversity and helping populations adapt to changing environments.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does genetic variation refer to?", options:["Differences in genes among individuals of a species","A single, identical gene shared by every individual","A process where genes never change at all","A concept unrelated to biology"], answer:0},
+     {q:"Does genetic variation contribute to biodiversity?", options:["No, genetic variation has no connection to biodiversity","A concept unrelated to genetics","Biodiversity is only affected by habitat, never genetics","Yes"], answer:3},
+     {q:"Can genetic variation help a population adapt to a changing environment?", options:["A concept unrelated to genetic variation","Yes","Populations never need to adapt to any environment","No, genetic variation never helps with adaptation"], answer:1},
+     {q:"Why might a population with high genetic variation be more likely to survive a sudden environmental change, like a new disease?", options:["Some individuals may already have traits that help them resist the new challenge","This concept has no connection to biology","Genetic variation has no connection to surviving environmental changes","Every individual in a population always has identical genes"], answer:0},
+     {q:"Why is protecting genetic variation important for conservation efforts?", options:["This concept has no relevance to science","Genetic variation has no relevance to conservation efforts","Species never actually need genetic variation to survive","It helps ensure species have the best chance of adapting to future environmental changes"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Space Law and International Treaties on Space", summary:"Grade 7 Social Studies strand: space law includes international treaties, such as the Outer Space Treaty of 1967, that establish rules for how countries can explore and use outer space peacefully.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is space law?", options:["International treaties that establish rules for exploring and using outer space","A concept unrelated to space exploration","A private company’s internal policy","A rule about airplane travel on Earth"], answer:0},
+     {q:"What is the name of a major international treaty on space, established in 1967?", options:["The Suez Agreement","The Berlin Treaty","The Outer Space Treaty","A concept unrelated to space law"], answer:2},
+     {q:"Does space law aim to ensure countries use outer space peacefully?", options:["Space law has no connection to how countries use space","Yes","No, space law encourages conflict in space","A concept unrelated to space law"], answer:1},
+     {q:"Why might countries agree to international treaties about space exploration?", options:["Countries never need any agreements about space exploration","Space exploration has no connection to international relations","Shared rules can help prevent conflict and encourage peaceful cooperation in space","This concept has no connection to social studies"], answer:2},
+     {q:"Why might space law become an increasingly important topic as more countries and companies explore space?", options:["This concept has no relevance to social studies","Only one single country is ever involved in exploring space","More activity in space increases the need for clear rules to avoid conflicts or unsafe practices","Space law will never need to be updated or discussed further"], answer:2}
+   ]},
+]},
+{day:89, label:"Day 89 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Frame Narratives", summary:"Grade 7 Language strand: a frame narrative is a story structure where one story is told within another, such as a character telling a story to another character, adding layers of meaning to the text.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a frame narrative?", options:["A concept unrelated to reading","A story told with no dialogue at all","A story with only one single character","A story structure where one story is told within another"], answer:3},
+     {q:"Can a frame narrative add layers of meaning to a text?", options:["A concept unrelated to frame narratives","Yes","No, frame narratives never add any meaning","Frame narratives always simplify a story completely"], answer:1},
+     {q:"If a character tells a story to another character within a novel, is that an example of a frame narrative?", options:["A concept unrelated to reading","No, this is not an example of a frame narrative","This can never happen within a novel","Yes"], answer:3},
+     {q:"Why might an author use a frame narrative instead of telling a single, straightforward story?", options:["It can add complexity and multiple perspectives to how the story is understood","Frame narratives never add any complexity to a story","A frame narrative always makes a story less interesting","This concept has no connection to literature"], answer:0},
+     {q:"Why might readers need to pay close attention to the different layers within a frame narrative?", options:["This concept has no relevance to reading comprehension","Frame narratives never actually contain more than one layer","The layers of a frame narrative never affect how a story is interpreted","Understanding who is telling each part of the story can affect how the events are interpreted"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Theory: Divisibility and Prime Numbers Deeper Dive", summary:"Grade 7 Math strand: students deepen their understanding of divisibility rules and prime numbers, exploring how prime factorization can be used to simplify fractions and find common factors.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is a prime number?", options:["A concept unrelated to number theory","A number that can be divided evenly by any number","A number greater than 1 with exactly two factors, 1 and itself","A number with no factors at all"], answer:2},
+     {q:"What is the prime factorization of 12?", options:["2 times 6","2 times 2 times 3","3 times 4","1 times 12"], answer:1},
+     {q:"Why is prime factorization useful for simplifying a fraction?", options:["It helps identify common factors that can be cancelled out between the numerator and denominator","Prime factorization never helps with simplifying a fraction","This concept has no connection to fractions","Fractions can never be simplified using prime factorization"], answer:0},
+     {q:"Is the number 7 a prime number?", options:["Yes","7 is neither prime nor composite","No, 7 has more than two factors","A concept unrelated to prime numbers"], answer:0},
+     {q:"Why might understanding divisibility rules help you quickly check if a number is prime?", options:["This concept has no connection to number theory","Every number is automatically prime unless proven otherwise","Divisibility rules can quickly rule out certain factors without long division","Divisibility rules never help with checking prime numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Space Weather and Solar Flares", summary:"Grade 7 Science strand: space weather refers to conditions in space, such as solar flares, bursts of energy from the Sun that can affect satellites, power grids, and communication systems on Earth.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does space weather refer to?", options:["Only weather patterns found on Earth","Conditions found only on the Moon","Conditions in space, such as solar flares","A concept unrelated to space"], answer:2},
+     {q:"What is a solar flare?", options:["A burst of energy from the Moon","A type of cloud found on Earth","A concept unrelated to space weather","A burst of energy from the Sun"], answer:3},
+     {q:"Can solar flares affect satellites and power grids on Earth?", options:["No, solar flares never affect anything on Earth","Yes","Solar flares only affect objects on the Moon","A concept unrelated to solar flares"], answer:1},
+     {q:"Why might scientists closely monitor solar flares?", options:["Monitoring solar flares serves no useful purpose","Strong solar flares could disrupt communication systems or damage satellites","Solar flares have no effect on any technology on Earth","This concept has no connection to space weather"], answer:1},
+     {q:"Why is understanding space weather becoming more important as society relies more on satellite technology?", options:["Satellite technology has no connection to space weather","This concept has no relevance to science","Space weather has no effect on modern technology","More reliance on satellites means more potential impact if space weather disrupts them"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Credit Unions and Cooperatives", summary:"Grade 7 Social Studies strand: a credit union is a cooperative financial institution owned by its members, often offering banking services with a focus on community benefit rather than maximizing profit.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is a credit union?", options:["A private company owned by a single wealthy investor","A cooperative financial institution owned by its members","A concept unrelated to finance","A government tax office"], answer:1},
+     {q:"Is a credit union owned by its members?", options:["Yes","No, a credit union is owned by a single distant shareholder","Credit unions have no owners at all","A concept unrelated to credit unions"], answer:0},
+     {q:"Does a credit union often focus on community benefit rather than maximizing profit?", options:["Community benefit has no connection to credit unions","A concept unrelated to credit unions","No, credit unions only focus on maximizing profit","Yes"], answer:3},
+     {q:"Why might someone choose to bank with a credit union instead of a large traditional bank?", options:["They may prefer an institution that is owned by its members and focused on community benefit","This concept has no connection to social studies","There is never any difference between a credit union and a bank","Credit unions never offer any banking services at all"], answer:0},
+     {q:"Why might cooperative financial institutions like credit unions be considered beneficial for local communities?", options:["This concept has no relevance to social studies","Credit unions never provide any benefit to communities","Cooperative institutions always operate exactly like large corporations","Profits are often reinvested into member services or the local community rather than outside shareholders"], answer:3}
+   ]},
+]},
+{day:90, label:"Day 90 — Fri", subjects:[
+  {subject:"Language", title:"Review: Motifs, Grammar, and Media Literacy (Days 81-89)", summary:"Grade 7 Language strand review: students revisit motifs, personal manifestos, nominalization, neologisms, logical fallacies, letters of recommendation, algorithmic content curation, absolute phrases, and frame narratives.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What do we call a recurring element, like an image or idea, that reinforces a text’s themes?", options:["A footnote","A citation","A concept unrelated to reading","A motif"], answer:3},
+     {q:"What does nominalization do to a verb or adjective?", options:["Removes it from the sentence","Turns it into a noun","Turns it into a question","A concept unrelated to grammar"], answer:1},
+     {q:"What do we call a newly coined word or phrase?", options:["A homophone","A synonym","A concept unrelated to vocabulary","A neologism"], answer:3},
+     {q:"What do we call a flaw in reasoning that weakens an argument?", options:["A logical fallacy","A citation","A footnote","A concept unrelated to reading"], answer:0},
+     {q:"What is a frame narrative?", options:["A story structure where one story is told within another","A story told with no dialogue at all","A story with only one single character","A concept unrelated to reading"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Algebra, Geometry, and Data (Days 81-89)", summary:"Grade 7 Math strand review: students revisit solving systems by substitution, scientific notation operations, perpendicular bisectors, correlation vs causation, multiplying binomials, credit scores, composite solid volume, and prime factorization.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"In the substitution method, what do you do first with one of the equations?", options:["Solve it for a single variable","Graph both equations immediately","A concept unrelated to systems of equations","Multiply both equations together"], answer:0},
+     {q:"What does a perpendicular bisector cross a segment at?", options:["One of its endpoints","Its midpoint","A concept unrelated to geometry","A random point outside the segment"], answer:1},
+     {q:"What does causation mean?", options:["A concept unrelated to data analysis","Correlation and causation always mean the exact same thing","Two variables have absolutely no connection at all","One variable directly causes a change in another"], answer:3},
+     {q:"What is (x plus 2) times (x plus 3) equal to?", options:["x squared plus 6x plus 5","x squared plus 2x plus 3","x squared plus 5x plus 6","2x plus 6"], answer:2},
+     {q:"What is a prime number?", options:["A number that can be divided evenly by any number","A concept unrelated to number theory","A number with no factors at all","A number greater than 1 with exactly two factors, 1 and itself"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Ecology, Chemistry, and Physical Science (Days 81-89)", summary:"Grade 7 Science strand review: students revisit ecosystem succession, sound in instruments, green architecture, combustion, bioluminescence, antibiotic resistance, lift and drag, genetic variation, and space weather.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is ecosystem succession?", options:["A process where ecosystems never change at all","The gradual process by which an ecosystem changes over time","A concept unrelated to ecology","A single, instant event with no stages"], answer:1},
+     {q:"What is combustion?", options:["A reaction that never releases any energy","A chemical reaction where fuel reacts with oxygen, releasing energy","A concept unrelated to chemistry","A process that only involves ice melting"], answer:1},
+     {q:"What is antibiotic resistance?", options:["When bacteria evolve to survive medicines designed to kill them","A type of vaccine","A concept unrelated to biology","A process where bacteria are instantly destroyed by every medicine"], answer:0},
+     {q:"What force pushes an airplane upward, keeping it in the air?", options:["Gravity only","Drag","A concept unrelated to flight","Lift"], answer:3},
+     {q:"What is a solar flare?", options:["A type of cloud found on Earth","A burst of energy from the Sun","A concept unrelated to space weather","A burst of energy from the Moon"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Global History and Economics (Days 81-89)", summary:"Grade 7 Social Studies strand review: students revisit the Berlin Airlift, the Suez Crisis, Canadian health care history, global water rights, e-commerce, the auto industry, daylight saving time, space law, and credit unions.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Berlin Airlift?", options:["A type of sporting event","A concept unrelated to history","An operation flying supplies into West Berlin after a Soviet blockade","A modern airline company"], answer:2},
+     {q:"Which Canadian diplomat proposed the first large-scale UN peacekeeping force during the Suez Crisis?", options:["A diplomat from a different country","A fictional diplomat","Lester B. Pearson","A concept unrelated to Canadian history"], answer:2},
+     {q:"What is Canada’s public health care system often called?", options:["Medicare","A hospital chain","A concept unrelated to Canadian history","A private insurance company"], answer:0},
+     {q:"What is e-commerce?", options:["A concept unrelated to the economy","A government program with no connection to shopping","A type of in-person farmers market only","The buying and selling of goods online"], answer:3},
+     {q:"What is a credit union?", options:["A private company owned by a single wealthy investor","A government tax office","A cooperative financial institution owned by its members","A concept unrelated to finance"], answer:2}
+   ]},
+]},
 ];
 
 export default curriculum;
