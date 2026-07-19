@@ -19462,5 +19462,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 81,
+    "label": "Day 81 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Portmanteau Words and Blends",
+        "summary": "Grade 4 Language strand: a portmanteau word blends the sounds and meanings of two words into one new word, such as combining breakfast and lunch to make brunch.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A portmanteau word blends the sounds and meanings of how many words?",
+            "options": [
+              "Two",
+              "A concept unrelated to vocabulary",
+              "Zero",
+              "Three"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a portmanteau made from breakfast and lunch?",
+            "options": [
+              "Meal",
+              "Brunch",
+              "Snack",
+              "Dinner"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a portmanteau made from smoke and fog?",
+            "options": [
+              "Fogsmoke",
+              "Mist",
+              "Smog",
+              "Cloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might people create portmanteau words instead of using two separate words?",
+            "options": [
+              "Portmanteau words are always longer than using two words",
+              "This concept has no connection to vocabulary",
+              "They can quickly describe something new by combining familiar ideas",
+              "Portmanteau words never have any real meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a portmanteau word?",
+            "options": [
+              "Rewrite, a word with a prefix",
+              "Motel, from motor and hotel",
+              "Sunlight, a compound word",
+              "Happiness, a word with a suffix"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying Decimals by Whole Numbers",
+        "summary": "Grade 4 Math strand: students learn to multiply a decimal number by a whole number, such as finding 0.4 times 3, by thinking of the decimal as tenths or hundredths.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is 0.4 times 3?",
+            "options": [
+              "12",
+              "0.7",
+              "1.4",
+              "1.2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 0.2 times 5?",
+            "options": [
+              "1.0",
+              "0.7",
+              "2.5",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1.5 times 2?",
+            "options": [
+              "3.0",
+              "1.7",
+              "15",
+              "2.5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When multiplying a decimal by a whole number, why is it helpful to think of the decimal as tenths?",
+            "options": [
+              "This concept has no connection to multiplication",
+              "Tenths always make multiplication impossible",
+              "It helps keep track of the correct place value in the answer",
+              "Decimals have no connection to place value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 0.6 times 4?",
+            "options": [
+              "0.24",
+              "24",
+              "2.0",
+              "2.4"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Ecosystems: Food Webs vs Food Chains",
+        "summary": "Grade 4 Science strand: a food chain shows a single path of energy from one living thing to the next, while a food web shows many connected food chains, illustrating an ecosystem’s more complex feeding relationships.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Does a food chain show a single path of energy, or many connected paths?",
+            "options": [
+              "A single path",
+              "Many connected paths",
+              "A concept unrelated to ecosystems",
+              "No path at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a food web show a single path of energy, or many connected food chains?",
+            "options": [
+              "A single path only",
+              "Many connected food chains",
+              "A concept unrelated to ecosystems",
+              "No connections at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shows a more complete picture of an ecosystem’s feeding relationships, a food chain or a food web?",
+            "options": [
+              "A food chain",
+              "They are exactly the same thing",
+              "A food web",
+              "Neither shows any feeding relationships"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists prefer using a food web instead of a single food chain to study an ecosystem?",
+            "options": [
+              "A single food chain always shows more information than a food web",
+              "A food web shows how many different species are connected through feeding relationships",
+              "Food webs have no connection to ecosystems",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might happen to a food web if one species disappeared from the ecosystem?",
+            "options": [
+              "Removing one species would never affect any other species",
+              "Food webs never change no matter what happens",
+              "This concept has no connection to ecosystems",
+              "Other species connected to it could also be affected"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ancient Aztec Civilization",
+        "summary": "Grade 4 Social Studies strand: the Aztec civilization built a powerful empire in what is now Mexico, known for its capital city Tenochtitlan, advanced farming methods, and detailed calendar system.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "In what area did the Aztec civilization build its empire?",
+            "options": [
+              "What is now Canada",
+              "What is now Mexico",
+              "A concept unrelated to ancient civilizations",
+              "What is now Australia"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the name of the Aztec capital city?",
+            "options": [
+              "Rome",
+              "Tenochtitlan",
+              "A concept unrelated to the Aztecs",
+              "Athens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Were the Aztecs known for advanced farming methods?",
+            "options": [
+              "A concept unrelated to the Aztecs",
+              "They never grew any food",
+              "Yes",
+              "No, they had no farming methods at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Aztecs’ detailed calendar system have been important to their society?",
+            "options": [
+              "Calendars have no connection to ancient societies",
+              "This concept has no relevance to social studies",
+              "It likely helped them plan farming, festivals, and other important events",
+              "The Aztecs never used any kind of calendar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians study ancient civilizations like the Aztecs?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Ancient civilizations have no connection to history",
+              "Studying past societies has no value at all",
+              "To understand how past societies lived, built cities, and organized their communities"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "label": "Day 82 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Active and Passive Voice",
+        "summary": "Grade 4 Language strand: in the active voice, the subject performs the action, such as The dog chased the ball, while in the passive voice, the subject receives the action, such as The ball was chased by the dog.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "In the active voice, does the subject perform the action or receive it?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Neither perform nor receive it",
+              "Receive it",
+              "Perform it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the passive voice, does the subject perform the action or receive it?",
+            "options": [
+              "Receive it",
+              "Perform it",
+              "Neither perform nor receive it",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is written in the active voice?",
+            "options": [
+              "A concept unrelated to grammar",
+              "The ball chased itself.",
+              "The ball was chased by the dog.",
+              "The dog chased the ball."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is written in the passive voice?",
+            "options": [
+              "A concept unrelated to grammar",
+              "The ball was chased by the dog.",
+              "The dog is fast.",
+              "The dog chased the ball."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose the active voice over the passive voice?",
+            "options": [
+              "This concept has no connection to writing style",
+              "Active voice often sounds clearer and more direct",
+              "Passive voice always sounds clearer than active voice",
+              "The active voice is never used by writers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Dividing Decimals by Whole Numbers",
+        "summary": "Grade 4 Math strand: students learn to divide a decimal number by a whole number, such as finding 6.4 divided by 2, keeping careful track of the decimal point in the answer.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is 6.4 divided by 2?",
+            "options": [
+              "2.2",
+              "3.2",
+              "32",
+              "3.4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 8.4 divided by 4?",
+            "options": [
+              "4.2",
+              "2.1",
+              "84",
+              "2.4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 9.0 divided by 3?",
+            "options": [
+              "90",
+              "3.0",
+              "2.7",
+              "3.9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When dividing a decimal by a whole number, what should you carefully keep track of?",
+            "options": [
+              "The position of the decimal point",
+              "Only the colour of the numbers",
+              "Only the size of the whole number",
+              "A concept unrelated to division"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5.5 divided by 5?",
+            "options": [
+              "1.1",
+              "5.5",
+              "1.5",
+              "11"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Comets and Asteroids",
+        "summary": "Grade 4 Science strand: a comet is a ball of ice and dust that develops a glowing tail as it nears the Sun, while an asteroid is a rocky object that orbits the Sun, often found in a belt between Mars and Jupiter.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "A concept unrelated to space",
+              "Only solid rock",
+              "Ice and dust",
+              "Only metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an asteroid mostly made of?",
+            "options": [
+              "Rock",
+              "A concept unrelated to space",
+              "Only gas",
+              "Only ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a comet develop a glowing tail as it nears the Sun?",
+            "options": [
+              "No, comets never develop a tail",
+              "Only asteroids develop tails",
+              "A concept unrelated to comets",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is a well-known belt of asteroids located in our solar system?",
+            "options": [
+              "A concept unrelated to the solar system",
+              "Beyond Pluto only",
+              "Between Mars and Jupiter",
+              "Between Earth and the Moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists study comets and asteroids?",
+            "options": [
+              "They can teach us about the early materials that formed our solar system",
+              "This concept has no relevance to space science",
+              "Comets and asteroids have no connection to the solar system",
+              "Studying comets and asteroids has no scientific value"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of Museums in Preserving History",
+        "summary": "Grade 4 Social Studies strand: museums collect, preserve, and display historical artifacts and stories, helping communities learn about and remember important parts of their past.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do museums do with historical artifacts, besides displaying them?",
+            "options": [
+              "Collect and preserve them",
+              "Ignore them completely",
+              "Throw them away",
+              "A concept unrelated to museums"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do museums help communities learn about and remember their past?",
+            "options": [
+              "No, museums have no connection to the past",
+              "A concept unrelated to history",
+              "Yes",
+              "Museums only display modern objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one thing you might find preserved in a museum, such as an old artifact.",
+            "options": [
+              "A brand new smartphone",
+              "An old artifact",
+              "A concept unrelated to museums",
+              "A fresh loaf of bread"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for museums to carefully preserve historical artifacts?",
+            "options": [
+              "Historical artifacts never need any care at all",
+              "Preserving artifacts has no value to a community",
+              "So future generations can learn about and understand the past",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might visiting a museum help a student understand a historical event better than just reading about it?",
+            "options": [
+              "Museums never help anyone understand history",
+              "Reading and visiting a museum are always exactly the same experience",
+              "Seeing real artifacts and exhibits can make history feel more real and memorable",
+              "This concept has no connection to learning about the past"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "label": "Day 83 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Symbolism in Stories",
+        "summary": "Grade 4 Language strand: symbolism is when an author uses an object, colour, or image to represent a deeper idea, such as a dove often symbolizing peace.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What do we call it when an author uses an object to represent a deeper idea?",
+            "options": [
+              "A grammar rule",
+              "A math pattern",
+              "A concept unrelated to reading",
+              "Symbolism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a dove often symbolize in stories?",
+            "options": [
+              "Anger",
+              "War",
+              "A concept unrelated to symbolism",
+              "Peace"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a colour, like the colour black, be used as a symbol in a story?",
+            "options": [
+              "Only objects can be symbols, never colours",
+              "No, colours are never used as symbols",
+              "Yes",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use symbolism instead of directly stating an idea?",
+            "options": [
+              "Authors should always state ideas directly and never use symbols",
+              "It can add deeper meaning and invite readers to think more carefully",
+              "Symbolism never adds meaning to a story",
+              "This concept has no connection to storytelling"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a story repeatedly shows a wilting flower as a character grows sadder, what might the flower symbolize?",
+            "options": [
+              "The flower has no symbolic meaning",
+              "A concept unrelated to the character’s feelings",
+              "Nothing at all connected to the story",
+              "The character’s fading hope or happiness"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Quadrilaterals by Properties",
+        "summary": "Grade 4 Math strand: quadrilaterals can be classified by their properties, such as a parallelogram having two pairs of parallel sides, and a rhombus having four equal sides.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "How many pairs of parallel sides does a parallelogram have?",
+            "options": [
+              "Four",
+              "Two",
+              "Zero",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many equal sides does a rhombus have?",
+            "options": [
+              "Three",
+              "Four",
+              "Two",
+              "Zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is a square a special type of rhombus with four right angles?",
+            "options": [
+              "A concept unrelated to quadrilaterals",
+              "A square has no right angles",
+              "No, a square is never a rhombus",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What property must a shape have to be classified as a quadrilateral?",
+            "options": [
+              "No sides at all",
+              "Five sides",
+              "Three sides",
+              "Four sides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these shapes always has four equal sides?",
+            "options": [
+              "A rectangle that is not a square",
+              "A trapezoid",
+              "A rhombus",
+              "A triangle"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Weather Fronts and Air Masses",
+        "summary": "Grade 4 Science strand: an air mass is a large body of air with a similar temperature and moisture, and a front is where two different air masses meet, often causing changes in the weather.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call a large body of air with a similar temperature and moisture?",
+            "options": [
+              "A rock formation",
+              "A type of soil",
+              "An air mass",
+              "A concept unrelated to weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the place where two different air masses meet?",
+            "options": [
+              "A rock cycle",
+              "A tide",
+              "A front",
+              "A concept unrelated to weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a front cause changes in the weather?",
+            "options": [
+              "Yes",
+              "No, fronts never affect the weather",
+              "A concept unrelated to weather",
+              "Fronts only occur in the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might meteorologists track air masses and fronts to predict weather?",
+            "options": [
+              "Weather never actually changes because of fronts",
+              "This concept has no relevance to science",
+              "Air masses and fronts have no connection to weather prediction",
+              "Where air masses meet can signal upcoming changes, like rain or temperature shifts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might happen when a cold air mass meets a warm air mass?",
+            "options": [
+              "This concept has no connection to weather patterns",
+              "Weather changes can occur, such as clouds or precipitation forming",
+              "Nothing at all happens when air masses meet",
+              "The two air masses always instantly become identical"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada’s Peacekeeping Role Internationally",
+        "summary": "Grade 4 Social Studies strand: Canada has a history of contributing peacekeepers, often through the United Nations, to help maintain peace and stability in regions experiencing conflict.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call soldiers sent to help maintain peace in a conflict region?",
+            "options": [
+              "A concept unrelated to international relations",
+              "Firefighters",
+              "Postal workers",
+              "Peacekeepers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Has Canada historically contributed peacekeepers to international efforts?",
+            "options": [
+              "Only other countries send peacekeepers",
+              "A concept unrelated to Canada",
+              "Yes",
+              "No, Canada has never contributed peacekeepers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Through what international organization has Canada often sent peacekeepers?",
+            "options": [
+              "A local town council",
+              "A single private company",
+              "The United Nations",
+              "A concept unrelated to peacekeeping"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country choose to send peacekeepers to a conflict region?",
+            "options": [
+              "This concept has no connection to international relations",
+              "Peacekeepers never help with maintaining peace",
+              "Sending peacekeepers always increases conflict",
+              "To help maintain peace and stability where conflict is occurring"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada’s peacekeeping role be an important part of its national identity?",
+            "options": [
+              "Peacekeeping has no connection to national identity",
+              "This concept has no relevance to Canadian history",
+              "It reflects Canada’s values of cooperation and supporting global peace",
+              "Canada has no international role at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "label": "Day 84 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Speech",
+        "summary": "Grade 4 Language strand: a speech is a piece of writing meant to be spoken aloud to an audience, often including a strong opening, clear main points, and a memorable closing.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What kind of writing is meant to be spoken aloud to an audience?",
+            "options": [
+              "A weather report",
+              "A grocery list",
+              "A concept unrelated to writing",
+              "A speech"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should a speech include a strong opening to capture the audience’s attention?",
+            "options": [
+              "Yes",
+              "Only the closing matters in a speech",
+              "A concept unrelated to writing",
+              "No, openings are never important in a speech"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should a speech include clear main points for the audience to follow?",
+            "options": [
+              "Main points are only needed in essays, never speeches",
+              "Yes",
+              "A concept unrelated to writing",
+              "No, speeches should never have any main points"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speech benefit from a memorable closing?",
+            "options": [
+              "A speech should never have any kind of ending",
+              "This concept has no connection to writing a speech",
+              "It helps the message stick with the audience after the speech ends",
+              "Closings never affect how an audience remembers a speech"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is most likely the opening line of a speech about kindness?",
+            "options": [
+              "Have you ever wondered how one small act of kindness can change someone’s whole day?",
+              "Add 3 and 4 to get 7.",
+              "The chemical symbol for water is H2O.",
+              "A triangle has three sides."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Stem-and-Leaf Plots",
+        "summary": "Grade 4 Math strand: a stem-and-leaf plot organizes numerical data by splitting each number into a stem, its leading digit or digits, and a leaf, its final digit, making patterns in the data easier to see.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "In a stem-and-leaf plot, what does the stem usually represent?",
+            "options": [
+              "The leading digit or digits of a number",
+              "A concept unrelated to data",
+              "The colour of the data",
+              "The final digit of a number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a stem-and-leaf plot, what does the leaf usually represent?",
+            "options": [
+              "A concept unrelated to data",
+              "The leading digit of a number",
+              "The average of the data",
+              "The final digit of a number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the number 42, if 4 is the stem, what is the leaf?",
+            "options": [
+              "24",
+              "4",
+              "42",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a stem-and-leaf plot be useful for organizing a set of test scores?",
+            "options": [
+              "It can show patterns in the data, like where most scores cluster",
+              "This concept has no connection to organizing data",
+              "Stem-and-leaf plots never show any patterns",
+              "Test scores can never be organized in a plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a key benefit of a stem-and-leaf plot compared to just a list of numbers?",
+            "options": [
+              "Lists of numbers are always clearer than a stem-and-leaf plot",
+              "A stem-and-leaf plot always hides the exact values",
+              "It keeps the exact values while also showing the data’s overall shape",
+              "This concept has no benefit at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Air Pollution and Clean Air Initiatives",
+        "summary": "Grade 4 Science strand: air pollution happens when harmful substances, such as smoke or chemicals, enter the air, and clean air initiatives, like reducing car emissions, help protect air quality.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens when harmful substances like smoke enter the air?",
+            "options": [
+              "Photosynthesis",
+              "A concept unrelated to air quality",
+              "Air pollution",
+              "Clean air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one example of a clean air initiative, such as reducing car emissions.",
+            "options": [
+              "A concept unrelated to air quality",
+              "Ignoring air quality completely",
+              "Increasing pollution on purpose",
+              "Reducing car emissions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can air pollution be harmful to people and the environment?",
+            "options": [
+              "No, air pollution is never harmful",
+              "Air pollution only affects plants, never people",
+              "A concept unrelated to air quality",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a city encourage people to use public transportation instead of cars?",
+            "options": [
+              "It can help reduce air pollution from car emissions",
+              "Using cars always improves air quality",
+              "Public transportation has no connection to air quality",
+              "This concept has no relevance to science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is monitoring air quality important for a community’s health?",
+            "options": [
+              "This concept has no relevance to science",
+              "Poor air quality can affect breathing and overall health",
+              "Air pollution never actually affects anyone’s health",
+              "Air quality has no connection to health"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Comparing Monarchy, Democracy, and Dictatorship",
+        "summary": "Grade 4 Social Studies strand: countries can be governed in different ways, including a monarchy led by a king or queen, a democracy where citizens vote for leaders, and a dictatorship led by one person with total control.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "In a monarchy, who typically leads the country?",
+            "options": [
+              "Citizens who vote",
+              "No one leads at all",
+              "A king or queen",
+              "A concept unrelated to government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a democracy, how are leaders typically chosen?",
+            "options": [
+              "Citizens vote for them",
+              "A concept unrelated to government",
+              "A single king or queen decides",
+              "Leaders are chosen at random"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a dictatorship, how much control does typically one single leader have?",
+            "options": [
+              "A concept unrelated to government",
+              "No control at all",
+              "Total control",
+              "Equal control shared among all citizens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might citizens in a democracy have more say in their government compared to a dictatorship?",
+            "options": [
+              "This concept has no relevance to government systems",
+              "Democracies and dictatorships work in exactly the same way",
+              "Citizens in a democracy can vote for their leaders and influence decisions",
+              "Citizens never have any say in a democracy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to compare different systems of government, like monarchy, democracy, and dictatorship?",
+            "options": [
+              "Comparing government systems has no educational value",
+              "It helps us understand how power and decisions are organized differently around the world",
+              "All systems of government are always identical",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "label": "Day 85 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Oxymorons",
+        "summary": "Grade 4 Language strand: an oxymoron combines two contradictory words for effect, such as jumbo shrimp or deafening silence, creating an interesting or thought-provoking phrase.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What do we call a phrase that combines two contradictory words, like jumbo shrimp?",
+            "options": [
+              "A homophone",
+              "An oxymoron",
+              "A synonym",
+              "A concept unrelated to figurative language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an oxymoron?",
+            "options": [
+              "A quiet library",
+              "A loud concert",
+              "A silent night",
+              "Deafening silence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do the two words in an oxymoron seem to contradict each other?",
+            "options": [
+              "This concept has no connection to figurative language",
+              "They have opposite or conflicting meanings",
+              "The two words always mean the exact same thing",
+              "Oxymorons never actually combine two words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use an oxymoron like bittersweet in their writing?",
+            "options": [
+              "Oxymorons never add any meaning to writing",
+              "It can capture a complex feeling that a single word cannot fully express",
+              "A bittersweet feeling can always be described with just one simple word",
+              "This concept has no connection to figurative language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these phrases is an oxymoron?",
+            "options": [
+              "Bright sunshine",
+              "Fast car",
+              "Original copy",
+              "Tall building"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Adding Mixed Numbers",
+        "summary": "Grade 4 Math strand: students learn to add two mixed numbers, such as 2 and 1 fourth plus 1 and 2 fourths, by adding the whole numbers and the fractions separately, then combining the results.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is 2 and 1 fourth plus 1 and 2 fourths?",
+            "options": [
+              "3 and 2 fourths",
+              "4 and 3 fourths",
+              "3 and 1 fourth",
+              "3 and 3 fourths"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1 and 1 third plus 1 and 1 third?",
+            "options": [
+              "1 and 2 thirds",
+              "3 and 2 thirds",
+              "2 and 1 third",
+              "2 and 2 thirds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 3 and 1 fifth plus 2 and 2 fifths?",
+            "options": [
+              "5 and 1 fifth",
+              "5 and 2 fifths",
+              "5 and 3 fifths",
+              "6 and 3 fifths"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When adding mixed numbers, what should you add first?",
+            "options": [
+              "Only the fractions, ignoring the whole numbers completely",
+              "Only the whole numbers, ignoring the fractions completely",
+              "Neither part should ever be added",
+              "The whole numbers and the fractions can each be added separately"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 4 and 2 sixths plus 1 and 3 sixths?",
+            "options": [
+              "5 and 6 sixths",
+              "6 and 5 sixths",
+              "5 and 2 sixths",
+              "5 and 5 sixths"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Desert Survival Strategies",
+        "summary": "Grade 4 Science strand: desert plants and animals have special adaptations for survival, such as storing water, being active at night to avoid heat, and having features that reduce water loss.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one adaptation of a desert plant, such as storing water.",
+            "options": [
+              "Storing water",
+              "A concept unrelated to desert survival",
+              "Growing in deep snow",
+              "Living underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do some desert animals stay active at night to avoid daytime heat?",
+            "options": [
+              "No, all desert animals are active only during the hottest part of the day",
+              "Desert animals are never affected by heat",
+              "A concept unrelated to adaptations",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a desert animal have features that reduce water loss?",
+            "options": [
+              "Water is scarce in the desert, so conserving it helps the animal survive",
+              "This concept has no relevance to adaptations",
+              "Water loss has no connection to desert survival",
+              "Deserts always have plenty of available water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many desert animals rest during the hottest part of the day?",
+            "options": [
+              "Desert animals never need to avoid the heat",
+              "To avoid losing too much water and overheating",
+              "Resting has no connection to surviving desert heat",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a cactus’s thick, waxy skin help it survive in the desert?",
+            "options": [
+              "Cacti never need to store any water",
+              "Thick skin has no connection to water loss",
+              "It helps the plant hold onto its stored water longer",
+              "This concept has no relevance to desert adaptations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the United Nations",
+        "summary": "Grade 4 Social Studies strand: the United Nations is an international organization where countries work together on issues like peace, human rights, and humanitarian aid.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call the international organization where countries work together on global issues?",
+            "options": [
+              "A concept unrelated to international relations",
+              "A single country’s government",
+              "A local town council",
+              "The United Nations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one issue the United Nations works on, such as peace or human rights.",
+            "options": [
+              "Peace",
+              "A backyard garden",
+              "A local school rule",
+              "A concept unrelated to the United Nations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do many different countries work together as part of the United Nations?",
+            "options": [
+              "No, only one single country is involved",
+              "Yes",
+              "A concept unrelated to the United Nations",
+              "The United Nations has no members at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might countries choose to work together through an organization like the United Nations?",
+            "options": [
+              "Countries never benefit from working together",
+              "This concept has no connection to international relations",
+              "Global issues never require cooperation between countries",
+              "Cooperating can help solve problems that affect many countries at once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might humanitarian aid be an important part of the United Nations’ work?",
+            "options": [
+              "People affected by disasters never need any help",
+              "Humanitarian aid has no connection to the United Nations",
+              "It can help people affected by disasters or conflict around the world",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "label": "Day 86 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Correlative Conjunctions",
+        "summary": "Grade 4 Language strand: correlative conjunctions are pairs of words that work together to join related ideas, such as either/or, neither/nor, and both/and.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Correlative conjunctions are pairs of words that work together to do what?",
+            "options": [
+              "End every sentence",
+              "Join related ideas",
+              "A concept unrelated to grammar",
+              "Replace all nouns in a sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a pair of correlative conjunctions?",
+            "options": [
+              "Cat/dog",
+              "Run/jump",
+              "Blue/red",
+              "Either/or"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a pair of correlative conjunctions?",
+            "options": [
+              "Neither/nor",
+              "Fast/slow",
+              "Up/down",
+              "Happy/sad"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses correlative conjunctions?",
+            "options": [
+              "Either you can walk, or you can bike.",
+              "Bike or you can either walk you can.",
+              "Either walk you can, bike or you can.",
+              "You either can walk bike or you can."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use both/and to join two ideas?",
+            "options": [
+              "This concept has no connection to grammar",
+              "Both/and can never be used to join ideas",
+              "To show that both ideas are true or included together",
+              "Both/and always shows a choice between two ideas"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Converting Between Metric Units of Mass",
+        "summary": "Grade 4 Math strand: students learn to convert between metric units of mass, knowing that 1 kilogram equals 1000 grams, to solve problems involving weight.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "How many grams are in 1 kilogram?",
+            "options": [
+              "10000",
+              "100",
+              "10",
+              "1000"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many grams are in 2 kilograms?",
+            "options": [
+              "2000",
+              "20000",
+              "20",
+              "200"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an object has a mass of 500 grams, is that more or less than half a kilogram?",
+            "options": [
+              "Cannot tell",
+              "Less than half a kilogram",
+              "More than half a kilogram",
+              "Exactly half a kilogram"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Converting 3000 grams into kilograms gives you how many kilograms?",
+            "options": [
+              "3000",
+              "3",
+              "300",
+              "30"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to convert between grams and kilograms?",
+            "options": [
+              "This concept has no connection to measurement",
+              "It helps compare or combine measurements given in different units",
+              "Converting units never has any real use",
+              "Grams and kilograms can never be compared"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Chemical Reactions: Signs That a New Substance Formed",
+        "summary": "Grade 4 Science strand: signs that a chemical reaction has occurred include a colour change, bubbles forming, a new smell, or heat being given off, showing that a new substance was created.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one sign that a chemical reaction may have occurred, such as bubbles forming.",
+            "options": [
+              "The object staying exactly the same",
+              "A concept unrelated to chemical reactions",
+              "Nothing happening at all",
+              "Bubbles forming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a colour change be a sign that a chemical reaction has occurred?",
+            "options": [
+              "No, colour changes never indicate a reaction",
+              "Yes",
+              "Colour changes only happen during physical changes",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can heat being given off be a sign of a chemical reaction?",
+            "options": [
+              "No, heat is never connected to chemical reactions",
+              "Yes",
+              "A concept unrelated to chemistry",
+              "Heat only occurs during freezing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists look for signs like bubbles or colour changes when studying a reaction?",
+            "options": [
+              "This concept has no relevance to science",
+              "These signs can indicate that a new substance has formed",
+              "A new substance never actually forms during a reaction",
+              "These signs have no connection to chemical reactions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might baking a cake be considered an example of a chemical reaction?",
+            "options": [
+              "This concept has no connection to chemical reactions",
+              "The ingredients combine and change to form a completely new substance",
+              "A cake is exactly the same as its raw ingredients",
+              "Baking a cake never actually changes the ingredients at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada’s Immigration Policies Today",
+        "summary": "Grade 4 Social Studies strand: Canada has immigration policies today that determine how people from other countries can come to live, work, or study in Canada, contributing to the country’s diversity.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call the rules that determine how people can come to live in Canada?",
+            "options": [
+              "School rules",
+              "A concept unrelated to government",
+              "Traffic laws",
+              "Immigration policies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can people come to Canada to work or study through immigration policies?",
+            "options": [
+              "Yes",
+              "A concept unrelated to immigration",
+              "No one is ever allowed to come to Canada",
+              "No, immigration policies only apply to tourists"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do immigrants contribute to Canada’s diversity?",
+            "options": [
+              "No, immigrants have no effect on Canada’s diversity",
+              "Diversity has no connection to immigration",
+              "A concept unrelated to immigration",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada have specific policies for immigration rather than no rules at all?",
+            "options": [
+              "This concept has no connection to government",
+              "Policies help organize and manage how people come to live, work, or study in the country",
+              "Countries never need any immigration policies",
+              "Immigration policies serve no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might immigration contribute to Canada’s economy and culture?",
+            "options": [
+              "Immigrants never contribute anything to a country",
+              "This concept has no relevance to social studies",
+              "Immigrants can bring new skills, ideas, and traditions that enrich communities",
+              "Immigration never affects a country’s economy or culture"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "label": "Day 87 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Evaluating an Author’s Credibility",
+        "summary": "Grade 4 Language strand: evaluating an author’s credibility means considering whether the author is a trustworthy source, such as checking their expertise or whether their information can be verified.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does it mean to evaluate an author’s credibility?",
+            "options": [
+              "Assuming every author is always correct with no evidence",
+              "Considering whether the author is a trustworthy source",
+              "Ignoring the author completely",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one way to check an author’s credibility, such as checking their expertise.",
+            "options": [
+              "Checking their expertise",
+              "Ignoring the topic entirely",
+              "Guessing without any evidence",
+              "A concept unrelated to credibility"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should readers consider whether information can be verified when evaluating credibility?",
+            "options": [
+              "No, verification is never important",
+              "Yes",
+              "A concept unrelated to reading",
+              "Only the length of a text matters for credibility"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to evaluate an author’s credibility before trusting their claims?",
+            "options": [
+              "Credibility never affects how reliable information is",
+              "It helps readers judge whether information is accurate and reliable",
+              "All authors are always completely trustworthy no matter what",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might suggest an author is credible on a science topic?",
+            "options": [
+              "The author has never studied the topic at all",
+              "The author’s book has a colourful cover",
+              "The author has expertise or training in that scientific field",
+              "The author wrote the book very quickly"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Calculating Simple Probability as a Fraction",
+        "summary": "Grade 4 Math strand: students learn to express the probability of an event as a fraction, such as the chance of rolling a 4 on a 6-sided die being 1 out of 6.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is the probability, as a fraction, of rolling a 4 on a 6-sided die?",
+            "options": [
+              "1 sixth",
+              "1 half",
+              "4 sixths",
+              "1 fourth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the probability, as a fraction, of flipping heads on a coin?",
+            "options": [
+              "1 third",
+              "1 fourth",
+              "1 half",
+              "1 sixth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a bag has 3 red marbles and 2 blue marbles, what is the probability of picking a red marble?",
+            "options": [
+              "3 halves",
+              "3 fifths",
+              "1 fifth",
+              "2 fifths"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To express probability as a fraction, what goes in the denominator?",
+            "options": [
+              "The number of favourable outcomes only",
+              "A concept unrelated to probability",
+              "Always the number 100",
+              "The total number of possible outcomes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a spinner has 4 equal sections and only 1 is red, what is the probability of landing on red?",
+            "options": [
+              "1 half",
+              "1 third",
+              "1 fourth",
+              "4 fourths"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Eclipses — Solar and Lunar",
+        "summary": "Grade 4 Science strand: a solar eclipse happens when the Moon passes between the Sun and Earth, blocking sunlight, while a lunar eclipse happens when Earth passes between the Sun and Moon.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "The Moon passes between the Sun and Earth",
+              "A concept unrelated to eclipses",
+              "Earth passes between the Sun and Moon",
+              "Nothing happens in the sky at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during a lunar eclipse?",
+            "options": [
+              "A concept unrelated to eclipses",
+              "The Sun disappears completely",
+              "The Moon passes between the Sun and Earth",
+              "Earth passes between the Sun and Moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During a solar eclipse, what does the Moon block?",
+            "options": [
+              "Sunlight",
+              "Nothing at all",
+              "A concept unrelated to eclipses",
+              "Moonlight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do solar and lunar eclipses not happen every single month?",
+            "options": [
+              "This concept has no connection to the Sun, Earth, and Moon",
+              "The Moon never moves in any predictable pattern",
+              "The Sun, Earth, and Moon must align in a very specific way, which does not happen every month",
+              "Eclipses actually happen every single day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should people avoid looking directly at a solar eclipse without proper eye protection?",
+            "options": [
+              "Solar eclipses are never harmful to look at directly",
+              "Eclipses always make the Sun completely safe to view directly",
+              "Looking directly at the Sun, even during an eclipse, can damage the eyes",
+              "This concept has no connection to eye safety"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Indigenous Land Acknowledgements: Why They Matter",
+        "summary": "Grade 4 Social Studies strand: a land acknowledgement recognizes the Indigenous Peoples who have traditionally lived on and cared for the land, showing respect for their history and ongoing connection to it.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a statement recognizing the Indigenous Peoples connected to a piece of land?",
+            "options": [
+              "A land acknowledgement",
+              "A concept unrelated to Indigenous history",
+              "A grocery list",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a land acknowledgement show respect for Indigenous history and connection to the land?",
+            "options": [
+              "No, it shows no respect at all",
+              "Yes",
+              "A concept unrelated to Indigenous Peoples",
+              "It has no connection to history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a land acknowledgement be shared at the start of a school event or meeting?",
+            "options": [
+              "They are only shared in private",
+              "A concept unrelated to Indigenous Peoples",
+              "Yes",
+              "No, land acknowledgements are never shared publicly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might communities choose to share a land acknowledgement?",
+            "options": [
+              "To honour and recognize Indigenous Peoples’ long history and connection to the land",
+              "This concept has no connection to Indigenous history",
+              "Communities never need to recognize any history at all",
+              "Land acknowledgements have no real purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the meaning behind a land acknowledgement more valuable than simply reading it aloud?",
+            "options": [
+              "Understanding its meaning helps build genuine respect and awareness, not just repetition",
+              "The meaning behind a land acknowledgement never matters at all",
+              "Reading it aloud without understanding has the exact same value as understanding it",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "label": "Day 88 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Etymology — Where Words Come From",
+        "summary": "Grade 4 Language strand: etymology is the study of where words come from and how their meanings have changed over time, often tracing English words back to Latin, Greek, or other languages.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What do we call the study of where words come from?",
+            "options": [
+              "Geography",
+              "A concept unrelated to vocabulary",
+              "Geometry",
+              "Etymology"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do word meanings sometimes change over time?",
+            "options": [
+              "No, word meanings never change",
+              "Yes",
+              "Words are never studied by anyone",
+              "A concept unrelated to etymology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one language that many English words can be traced back to, such as Latin.",
+            "options": [
+              "Latin",
+              "A computer programming language",
+              "A made-up language with no real speakers",
+              "A concept unrelated to etymology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might learning about a word’s etymology help with understanding its meaning?",
+            "options": [
+              "A word’s origin always has the opposite meaning of the word itself",
+              "This concept has no connection to vocabulary",
+              "Etymology never provides any useful information about words",
+              "Knowing a word’s origin can reveal clues about its meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might studying etymology help someone learn new vocabulary more easily?",
+            "options": [
+              "Every word has a completely unrelated, random origin",
+              "This concept has no relevance to vocabulary study",
+              "Etymology never helps with learning new words",
+              "Recognizing common word origins can help predict the meaning of unfamiliar words"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Algebraic Expressions with a Variable",
+        "summary": "Grade 4 Math strand: students learn to write simple algebraic expressions using a variable, such as letting n represent an unknown number in the expression n plus 5.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "In the expression n plus 5, what does the letter n represent?",
+            "options": [
+              "Always the number 5",
+              "An unknown number",
+              "A concept unrelated to algebra",
+              "The answer to the expression"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If n equals 3, what is the value of n plus 5?",
+            "options": [
+              "5",
+              "15",
+              "3",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If n equals 10, what is the value of n minus 4?",
+            "options": [
+              "14",
+              "6",
+              "10",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a letter used to represent an unknown number in an expression?",
+            "options": [
+              "A constant",
+              "A concept unrelated to algebra",
+              "A variable",
+              "An operation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a expression is written as 2 times n, and n equals 4, what is the value?",
+            "options": [
+              "8",
+              "4",
+              "6",
+              "2"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Invasive Species and Their Effects",
+        "summary": "Grade 4 Science strand: an invasive species is a plant or animal introduced to a new environment where it can spread quickly and harm native species by competing for food or space.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call a plant or animal that spreads quickly in a new environment and can cause harm?",
+            "options": [
+              "A concept unrelated to ecosystems",
+              "A domesticated species",
+              "A native species",
+              "An invasive species"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can an invasive species compete with native species for food or space?",
+            "options": [
+              "Yes",
+              "Invasive species always help native species",
+              "No, invasive species never affect native species",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is an invasive species originally from the environment it is found in, or introduced from elsewhere?",
+            "options": [
+              "Neither, it appears from nowhere",
+              "Introduced from elsewhere",
+              "A concept unrelated to invasive species",
+              "Originally from that environment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can invasive species be harmful to an ecosystem?",
+            "options": [
+              "Invasive species always help balance an ecosystem perfectly",
+              "They can outcompete native species for resources, disrupting the balance of the ecosystem",
+              "This concept has no connection to ecosystems",
+              "Invasive species never have any effect on an ecosystem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people be asked not to release aquarium fish into local lakes or rivers?",
+            "options": [
+              "The fish could become an invasive species and harm the local ecosystem",
+              "This concept has no relevance to science",
+              "Aquarium fish can never survive outside a tank",
+              "Releasing aquarium fish never has any effect on an ecosystem"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The History of Canadian Currency",
+        "summary": "Grade 4 Social Studies strand: Canadian currency has changed over time, from early trade using items like fur pelts, to coins and paper bills, to today’s polymer bank notes.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Name one early form of trade used before coins existed, such as fur pelts.",
+            "options": [
+              "A concept unrelated to currency",
+              "Fur pelts",
+              "Modern credit cards",
+              "Digital currency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Has Canadian currency changed over time?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Currency never changes in any country",
+              "Yes",
+              "No, currency has always been exactly the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What material are today’s Canadian bank notes often made from?",
+            "options": [
+              "A concept unrelated to currency",
+              "Polymer",
+              "Only cotton",
+              "Only paper"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country update its currency over time, such as moving to polymer bank notes?",
+            "options": [
+              "This concept has no connection to Canadian history",
+              "New materials or designs can improve durability and security",
+              "Currency changes have no real purpose",
+              "Countries never update their currency for any reason"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding the history of currency helpful for understanding a country’s economy?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "The history of currency has no connection to the economy",
+              "Currency has never changed in any meaningful way",
+              "It shows how trade and money have evolved to meet the needs of a growing society"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "label": "Day 89 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Persuasive Letter to a Local Leader",
+        "summary": "Grade 4 Language strand: a persuasive letter to a local leader states a clear opinion about a community issue, supported by reasons and evidence, aiming to convince the leader to take action.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What kind of writing states a clear opinion to convince a local leader to take action?",
+            "options": [
+              "A grocery list",
+              "A concept unrelated to writing",
+              "A persuasive letter",
+              "A weather report"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Should a persuasive letter include reasons and evidence to support its opinion?",
+            "options": [
+              "Only the opinion matters, with no support at all",
+              "No, reasons and evidence are never needed",
+              "Yes",
+              "A concept unrelated to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of a persuasive letter to a local leader?",
+            "options": [
+              "To convince the leader to take action on an issue",
+              "To simply describe a random unrelated topic",
+              "A concept unrelated to persuasive writing",
+              "To confuse the reader with no clear point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a student write a persuasive letter about adding a crosswalk near their school?",
+            "options": [
+              "This concept has no connection to writing",
+              "A crosswalk has no connection to community safety",
+              "To convince a local leader that the crosswalk would improve safety",
+              "Persuasive letters are never used for community issues"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would strengthen a persuasive letter about protecting a local park?",
+            "options": [
+              "Evidence showing how the park benefits the community",
+              "A drawing with no connection to the topic",
+              "A random fact about a different country entirely",
+              "A completely unrelated math equation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Simple Interest Basics",
+        "summary": "Grade 4 Math strand: simple interest is extra money earned or owed based on a percentage of an original amount, such as earning interest on money kept in a savings account.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call extra money earned based on a percentage of an original amount?",
+            "options": [
+              "A concept unrelated to money",
+              "Simple interest",
+              "A discount",
+              "A tax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a savings account earn simple interest over time?",
+            "options": [
+              "Interest is only ever owed, never earned",
+              "No, savings accounts never earn any interest",
+              "Yes",
+              "A concept unrelated to finance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you have 100 dollars in an account earning 5 dollars in interest, how much money do you have in total?",
+            "options": [
+              "100 dollars",
+              "95 dollars",
+              "105 dollars",
+              "5 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone want to save money in an account that earns interest?",
+            "options": [
+              "Interest never actually adds any money to an account",
+              "This concept has no connection to saving money",
+              "Savings accounts always lose money over time",
+              "Their money can grow over time without any extra effort"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Simple interest is usually calculated as a percentage of the ___.",
+            "options": [
+              "Original amount",
+              "Weather forecast",
+              "Number of coins in a piggy bank",
+              "Time of day"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How a Generator Makes Electricity",
+        "summary": "Grade 4 Science strand: a generator produces electricity by using motion, such as spinning magnets near coils of wire, to convert mechanical energy into electrical energy.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a generator produce?",
+            "options": [
+              "Sunlight",
+              "A concept unrelated to energy",
+              "Electricity",
+              "Fresh water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a generator use motion, such as spinning magnets, to produce electricity?",
+            "options": [
+              "Yes",
+              "A concept unrelated to generators",
+              "No, generators never use any motion",
+              "Generators only use sunlight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of energy does a generator convert into electrical energy?",
+            "options": [
+              "Only light energy",
+              "Mechanical energy",
+              "Only sound energy",
+              "A concept unrelated to energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a generator be useful during a power outage?",
+            "options": [
+              "Generators can only be used when regular power is already working",
+              "Generators are never useful during a power outage",
+              "This concept has no connection to electricity",
+              "It can produce electricity when the regular power supply is unavailable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding how a generator works helpful for understanding renewable energy, like wind power?",
+            "options": [
+              "Many renewable energy sources, like wind turbines, also use motion to generate electricity",
+              "Wind power never actually produces any electricity",
+              "This concept has no relevance to science",
+              "Generators have no connection to renewable energy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Global Trade Organizations and Agreements",
+        "summary": "Grade 4 Social Studies strand: countries often join trade organizations or sign agreements to set shared rules for buying and selling goods internationally, helping trade run smoothly.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do countries often join to set shared rules for international trade?",
+            "options": [
+              "A single school club",
+              "A local sports league",
+              "A concept unrelated to global trade",
+              "Trade organizations or agreements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do trade agreements help set rules for buying and selling goods between countries?",
+            "options": [
+              "Trade agreements only apply within one single country",
+              "A concept unrelated to trade",
+              "No, trade agreements have no connection to buying and selling goods",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can trade organizations help trade run more smoothly between countries?",
+            "options": [
+              "Trade organizations have no connection to trade at all",
+              "Yes",
+              "A concept unrelated to international relations",
+              "No, trade organizations always make trade more difficult"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might countries want shared rules for international trade instead of each having completely different rules?",
+            "options": [
+              "Shared rules can make trading goods more predictable and fair for everyone involved",
+              "This concept has no connection to global trade",
+              "Countries never actually trade goods with each other",
+              "Shared trade rules never actually help anyone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might joining a trade organization benefit a country’s economy?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Trade organizations only exist to limit a country’s economy",
+              "Joining a trade organization never benefits a country’s economy",
+              "It can open up new markets and opportunities to sell and buy goods"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "label": "Day 90 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Vocabulary, Grammar, and Reading Skills (Days 81-89)",
+        "summary": "Grade 4 Language strand review: students revisit portmanteau words, active and passive voice, symbolism, speech writing, oxymorons, correlative conjunctions, author credibility, etymology, and persuasive letters.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "A portmanteau word blends the sounds and meanings of how many words?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "Two",
+              "Zero",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the active voice, does the subject perform the action or receive it?",
+            "options": [
+              "Neither perform nor receive it",
+              "Receive it",
+              "A concept unrelated to grammar",
+              "Perform it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call it when an author uses an object to represent a deeper idea?",
+            "options": [
+              "Symbolism",
+              "A grammar rule",
+              "A concept unrelated to reading",
+              "A math pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a phrase that combines two contradictory words, like jumbo shrimp?",
+            "options": [
+              "An oxymoron",
+              "A homophone",
+              "A synonym",
+              "A concept unrelated to figurative language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the study of where words come from?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "Geography",
+              "Etymology",
+              "Geometry"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Decimals, Fractions, and Data (Days 81-89)",
+        "summary": "Grade 4 Math strand review: students revisit multiplying and dividing decimals, classifying quadrilaterals, stem-and-leaf plots, adding mixed numbers, converting mass, probability as a fraction, algebraic expressions, and simple interest.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is 0.4 times 3?",
+            "options": [
+              "1.2",
+              "0.7",
+              "12",
+              "1.4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 6.4 divided by 2?",
+            "options": [
+              "3.2",
+              "3.4",
+              "2.2",
+              "32"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many equal sides does a rhombus have?",
+            "options": [
+              "Zero",
+              "Four",
+              "Two",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 2 and 1 fourth plus 1 and 2 fourths?",
+            "options": [
+              "3 and 3 fourths",
+              "4 and 3 fourths",
+              "3 and 1 fourth",
+              "3 and 2 fourths"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the probability, as a fraction, of flipping heads on a coin?",
+            "options": [
+              "1 half",
+              "1 sixth",
+              "1 fourth",
+              "1 third"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Ecosystems, Earth and Space, and Physical Science (Days 81-89)",
+        "summary": "Grade 4 Science strand review: students revisit food webs, comets and asteroids, weather fronts, air pollution, desert adaptations, chemical reactions, eclipses, invasive species, and generators.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Does a food web show a single path of energy, or many connected food chains?",
+            "options": [
+              "Many connected food chains",
+              "A single path only",
+              "No connections at all",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "A concept unrelated to space",
+              "Only solid rock",
+              "Ice and dust",
+              "Only metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the place where two different air masses meet?",
+            "options": [
+              "A front",
+              "A tide",
+              "A rock cycle",
+              "A concept unrelated to weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "Nothing happens in the sky at all",
+              "Earth passes between the Sun and Moon",
+              "The Moon passes between the Sun and Earth",
+              "A concept unrelated to eclipses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a generator produce?",
+            "options": [
+              "Sunlight",
+              "A concept unrelated to energy",
+              "Fresh water",
+              "Electricity"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Ancient Societies, Government, and Global Connections (Days 81-89)",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Aztec civilization, museums, Canadian peacekeeping, comparing government systems, the United Nations, immigration policy, land acknowledgements, currency history, and global trade.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What was the name of the Aztec capital city?",
+            "options": [
+              "Athens",
+              "A concept unrelated to the Aztecs",
+              "Tenochtitlan",
+              "Rome"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call soldiers sent to help maintain peace in a conflict region?",
+            "options": [
+              "Postal workers",
+              "A concept unrelated to international relations",
+              "Peacekeepers",
+              "Firefighters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a democracy, how are leaders typically chosen?",
+            "options": [
+              "A single king or queen decides",
+              "A concept unrelated to government",
+              "Citizens vote for them",
+              "Leaders are chosen at random"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a statement recognizing the Indigenous Peoples connected to a piece of land?",
+            "options": [
+              "A concept unrelated to Indigenous history",
+              "A grocery list",
+              "A weather report",
+              "A land acknowledgement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do countries often join to set shared rules for international trade?",
+            "options": [
+              "Trade organizations or agreements",
+              "A local sports league",
+              "A concept unrelated to global trade",
+              "A single school club"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
