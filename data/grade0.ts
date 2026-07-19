@@ -1074,6 +1074,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Letter Z", summary:"Explore uppercase and lowercase Z. Students identify the letter, practise its /z/ sound, and name Z words such as zebra, zero, and zip.",
    resourceLabel:"YouTube: Letter Z", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Z%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Y2i9i5pb--M",
    quiz:[
      {q:"Which word starts with Z?", options:["Dog","Animal","Bee","Zebra"], answer:3},
      {q:"What sound does Z make?", options:["Tuh","Shh","Zzz","Sss"], answer:2},
@@ -1083,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Sorting 3D Shapes", summary:"Students identify and sort 3D shapes: sphere, cube, cylinder, and cone. They describe them using faces, edges, and vertices.",
    resourceLabel:"YouTube: Sorting 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Sorting%203D%20Shapes%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=guNdJ5MtX1A",
    quiz:[
      {q:"A sphere looks like ___.", options:["a can","a cone","a box","a ball"], answer:3},
      {q:"A cube has ___ flat faces.", options:["4","8","5","6"], answer:3},
@@ -1092,6 +1094,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Taking Care of Our Environment", summary:"Students learn about littering and waste, and simple actions to protect the environment: picking up litter, reducing waste, and recycling.",
    resourceLabel:"YouTube: Taking Care of Our Environment", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Environment%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=V0lQ3ljjl40",
    quiz:[
      {q:"Litter means ___.", options:["a bed for kittens only","recycled material","waste thrown on the ground","a type of animal home"], answer:2},
      {q:"Recycling means ___.", options:["ignoring waste","using objects again in new ways","throwing everything away","burning waste"], answer:1},
@@ -1101,6 +1104,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"All About Me: Reflection", summary:"Students reflect on their learning through the year, identifying what they have learned, how they have grown, and what they are proud of.",
    resourceLabel:"YouTube: All About Me: Reflection", resourceUrl:"https://www.youtube.com/results?search_query=All%20About%20Me%3A%20Reflection%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FBobpclZlZg",
    quiz:[
      {q:"Reflecting on your learning means ___.", options:["copying someone else","ignoring what happened","only thinking about bad things","thinking about what you learned"], answer:3},
      {q:"I am most proud when ___.", options:["I try my best and do not give up","I do nothing","I copy others","I give up"], answer:0},

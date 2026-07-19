@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Research: Ethics in Writing and Citation", summary:"Students deepen their understanding of academic integrity. They distinguish paraphrase, summary, and quotation, and practise ethical source integration.",
    resourceLabel:"YouTube: Research: Ethics in Writing and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Research%3A%20Ethics%20in%20Writing%20and%20Citation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mtLPd2u4DiA",
    quiz:[
      {q:"Academic integrity means ___.", options:["always getting high grades","honesty in all academic work","submitting others' work without attribution","using AI to write for you"], answer:1},
      {q:"A summary differs from a paraphrase because ___.", options:["they are identical","a summary is longer","summaries shrink; paraphrases restate","a paraphrase is shorter"], answer:2},
@@ -1031,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science and Society: Ethics of Technology", summary:"Students examine the ethical dimensions of emerging technologies — AI, genetic engineering, space exploration — and practise ethical reasoning.",
    resourceLabel:"YouTube: Science and Society: Ethics of Technology", resourceUrl:"https://www.youtube.com/results?search_query=Science%20and%20Society%3A%20Ethics%20of%20Technology%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mHuzEYGLwnk",
    quiz:[
      {q:"Ethical reasoning about technology involves ___.", options:["only celebrating new inventions","only asking if it works","only opposing all new technology","asking who benefits and who bears risks"], answer:3},
      {q:"Artificial intelligence raises ethical concerns including ___.", options:["bias, job loss, and accountability","AI is not real yet","only questions of speed","none — AI only helps"], answer:0},
@@ -1040,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Year-End History Synthesis", summary:"Students synthesise Canadian history from New France to the present, examining recurring themes and their relevance to contemporary Canada.",
    resourceLabel:"YouTube: Year-End History Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20History%20Synthesis%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lF0NeBtLFqg",
    quiz:[
      {q:"Which recurring theme links Indigenous history from colonial times to today?", options:["Only economic issues","Sovereignty and self-determination","Complete resolution of all issues","No significant connection between periods"], answer:1},
      {q:"How has Canada's relationship with Britain evolved from 1867 to today?", options:["Canada broke all ties with Britain","It has not changed","From a Dominion to full independence","Canada became less independent over time"], answer:2},
@@ -1051,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Language Arts: Consolidation and Celebration", summary:"Students reflect on their growth as readers, writers, and communicators in Grade 8. They celebrate achievements and set goals for high school.",
    resourceLabel:"YouTube: Language Arts: Consolidation and Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Arts%3A%20Consolidation%20and%20Celebration%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=95J8E0C-RhA",
    quiz:[
      {q:"Growth as a writer means ___.", options:["never making mistakes","only writing longer pieces","only getting perfect grades","growing vocabulary and sharper thinking"], answer:3},
      {q:"The most important skill developed in Grade 8 Language Arts is arguably ___.", options:["memorising literary terms","critical thinking","perfect spelling","fast reading speed"], answer:1},
@@ -1060,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Grade 8 Math: Comprehensive Review", summary:"Students review all major Grade 8 math strands.",
    resourceLabel:"YouTube: Grade 8 Math: Comprehensive Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Comprehensive%20Review%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9B2Xt7nwqNE",
    quiz:[
      {q:"Solve: 5(x − 2) = 3x + 6", options:["x = 2","x = 4","x = 16","x = 8"], answer:3},
      {q:"A cylinder has r = 5 cm, h = 12 cm. Volume = ? (π ≈ 3.14)", options:["188.4 cm³","940.0 cm³","314.0 cm³","942.0 cm³"], answer:3},
@@ -1069,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Looking Ahead to Grade 9", summary:"Students preview the Grade 9 science curriculum (biology, chemistry, physics, earth science) and connect Grade 8 learning to what comes next.",
    resourceLabel:"YouTube: Science: Looking Ahead to Grade 9", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Ahead%20to%20Grade%209%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=D2TFM3v5rwI",
    quiz:[
      {q:"Grade 9 Science includes which four broad areas?", options:["Math, History, Language, PE","Only biology and chemistry","Cells, Fluids, Optics, Mechanics","Biology, chemistry, physics, and Earth"], answer:3},
      {q:"Which Grade 8 topic connects most directly to Grade 9 chemistry?", options:["Optics","Genetics","Fluid power","Cells lead into atomic theory later"], answer:3},
@@ -1078,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History: Becoming an Informed Citizen", summary:"Students reflect on how studying history prepares them for democratic participation and lifelong civic engagement.",
    resourceLabel:"YouTube: History: Becoming an Informed Citizen", resourceUrl:"https://www.youtube.com/results?search_query=History%3A%20Becoming%20an%20Informed%20Citizen%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JVXQvJvfuGw",
    quiz:[
      {q:"Studying history prepares you for citizenship by ___.", options:["developing skills to evaluate sources","only teaching you about Canadian government","having no connection to the present","teaching you only memorised dates"], answer:0},
      {q:"Historical empathy means ___.", options:["agreeing with historical actors","grasping the past without endorsing it","judging the past harshly always","only feeling sad about past tragedies"], answer:1},

@@ -1074,6 +1074,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Story Structure Review", summary:"Ontario Grade 1 Reading and Writing strands review: students apply understanding of story structure (characters, setting, problem, solution) to read and write stories.",
    resourceLabel:"YouTube: Story Structure Review", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Structure%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CthhGIti2og",
    quiz:[
      {q:"What are the five main story elements?", options:["Nouns, verbs, adjectives, adverbs, pronouns","Beginning, ending, middle, pictures, words","Characters, setting, problem, events, solution","Title, pages, words, pictures, cover"], answer:2},
      {q:"The setting tells us ___.", options:["The characters' feelings","Where and when the story takes place","The main problem","The lesson"], answer:1},
@@ -1083,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Addition and Subtraction", summary:"Ontario Grade 1 Number strand review: students apply addition and subtraction strategies to solve problems within 20.",
    resourceLabel:"YouTube: Review: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Addition%20and%20Subtraction%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7J1OkxuyLD0",
    quiz:[
      {q:"14 + 5 = ?", options:["21","19","20","18"], answer:1},
      {q:"17 - 8 = ?", options:["10","9","7","8"], answer:1},
@@ -1092,6 +1094,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Review", summary:"Ontario Grade 1 Life Systems strand review: students review key concepts about animals including needs, habitats, young, and adaptations.",
    resourceLabel:"YouTube: Animal Review", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=waZDwj9myhk",
    quiz:[
      {q:"What do all animals need to survive?", options:["Money","Only food","Food, water, air, and shelter","Television"], answer:2},
      {q:"An adaptation is ___.", options:["A feature that helps an animal survive","A life cycle stage","A kind of food","A type of habitat"], answer:0},
@@ -1101,6 +1104,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Heritage Review", summary:"Ontario Grade 1 Social Studies strand A review: students review concepts of heritage, identity, family, traditions, and cultural celebrations.",
    resourceLabel:"YouTube: Heritage Review", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Heritage includes ___.", options:["Only money","Traditions and culture passed down","Only food","Only buildings"], answer:1},
      {q:"How does learning about our heritage help us?", options:["It helps us understand who we are","It is boring","Only adults need to learn heritage","It does not"], answer:0},

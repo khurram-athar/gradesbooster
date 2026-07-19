@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Vocabulary Review and Word Study", summary:"Grade 4 Language strand review: students apply knowledge of synonyms, antonyms, prefixes, suffixes, context clues, and figurative language.",
    resourceLabel:"YouTube: Vocabulary Review and Word Study", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20Review%20and%20Word%20Study%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3pfjRgIKn7Q",
    quiz:[
      {q:"The prefix 'un-' in 'unhappy' means ___.", options:["very","not","again","before"], answer:1},
      {q:"The suffix '-less' in 'hopeless' means ___.", options:["before","full of","again","not/without"], answer:3},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Coordinate Grid", summary:"Grade 4 Geometry strand: students locate and plot points on a coordinate grid using ordered pairs (x, y). The x-axis is horizontal; y-axis is vertical.",
    resourceLabel:"YouTube: Coordinate Grid", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Grid%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5NyuamsbLMo",
    quiz:[
      {q:"In an ordered pair (3, 5), which number is the x-coordinate?", options:["Neither","Both","5","3"], answer:3},
      {q:"The x-axis is ___.", options:["diagonal","curved","vertical","horizontal"], answer:3},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Ecosystems and Life Systems", summary:"Grade 4 Science review: habitats, communities, adaptations, biodiversity, human impact, and conservation.",
    resourceLabel:"YouTube: Review: Ecosystems and Life Systems", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ecosystems%20and%20Life%20Systems%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SNF8b7KKJ2I",
    quiz:[
      {q:"All the organisms in a shared habitat form a ___.", options:["food chain","ecosystem only","population","community"], answer:3},
      {q:"An adaptation helps an organism ___.", options:["stay sick","survive in its environment","leave its habitat","avoid reproduction"], answer:1},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Government and Citizenship", summary:"Grade 4 Social Studies review: types of government, rights, responsibilities, Canadian law, and civic participation.",
    resourceLabel:"YouTube: Review: Government and Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Government%20and%20Citizenship%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S2bxkt3Nbpk",
    quiz:[
      {q:"A democracy is a government where ___.", options:["the military runs everything","leaders are chosen through elections","the monarch holds all power","religious leaders rule"], answer:1},
      {q:"The Canadian Charter of Rights and Freedoms protects ___.", options:["rights of everyone in Canada","only English Canadians","only the rights of the government","only French Canadians"], answer:0},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Reading: Author's Purpose", summary:"Grade 4 Reading strand: the author's purpose is the reason for writing — to persuade, inform, or entertain (PIE). Identifying it helps comprehension.",
    resourceLabel:"YouTube: Reading: Author's Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Author%27s%20Purpose%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=enm4afX-izA",
    quiz:[
      {q:"The three common author's purposes are ___.", options:["beginning, middle, end","past, present, future","fact, fiction, opinion","persuade, inform, entertain"], answer:3},
      {q:"A newspaper article about a hurricane has the purpose to ___.", options:["persuade","only describe","entertain","inform"], answer:3},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Measurement", summary:"Grade 4 Measurement review: length, mass, volume, elapsed time, area, and perimeter.",
    resourceLabel:"YouTube: Review: Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AVC-426M6V0",
    quiz:[
      {q:"Area of a rectangle 9 cm × 5 cm = ?", options:["40 cm²","50 cm²","45 cm²","14 cm²"], answer:2},
      {q:"Perimeter of a square with side 8 cm = ?", options:["16 cm","32 cm","64 cm","8 cm"], answer:1},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Energy Forms and Changes", summary:"Grade 4 Science Energy review: light, sound, electricity, circuits, forces, simple machines.",
    resourceLabel:"YouTube: Review: Energy Forms and Changes", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Energy%20Forms%20and%20Changes%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VhIBReUVSk8",
    quiz:[
      {q:"Which is an example of electrical energy converting to light?", options:["Burning a candle","A light bulb glowing","A fan spinning","Falling water"], answer:1},
      {q:"Friction creates ___.", options:["cold","static only","more gravity","heat and slows objects"], answer:3},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Ancient Civilizations", summary:"Grade 4 Social Studies review: Egypt, Greece, Rome, and their contributions to modern society.",
    resourceLabel:"YouTube: Review: Ancient Civilizations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Ancient%20Civilizations%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wX6J0Gd2EC8",
    quiz:[
      {q:"Hieroglyphics were used in ___.", options:["China","Egypt","Greece","Rome"], answer:1},
      {q:"Democracy was developed in ___.", options:["Athens, Greece","Egypt","Mesopotamia","Rome"], answer:0},

@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"English", title:"Research Essay Workshop: Drafting and Peer Review", summary:"Students workshop research essay drafts in a peer-review setting, applying structured feedback protocols and revising for argument, evidence, and style.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=8eB7SSNC5ys",
+   videoUrl:"https://www.youtube.com/watch?v=yt6zuQbETMI",
    quiz:[
      {q:"Peer review is most valuable when ___.", options:["reviewers respond as genuine readers","reviewers focus only on grammar","reviewers are lenient to encourage the writer","reviewers only praise the essay"], answer:0},
      {q:"The most important question to ask about a research essay draft is ___.", options:["does the evidence support each claim?","are there enough quotations?","is the essay long enough?","is the Works Cited formatted correctly?"], answer:0},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Probability: Conditional Probability and Independence", summary:"Students apply conditional probability, Bayes' Theorem, and independence to complex probability problems.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=H02B3aMNKzE",
+   videoUrl:"https://www.youtube.com/watch?v=94AmzeR9n2w",
    quiz:[
      {q:"Conditional probability P(A|B) = ___.", options:["P(A) + P(B)","P(A∩B)/P(B)","P(A) × P(B)","P(A)/P(B)"], answer:1},
      {q:"Events A and B are independent if and only if ___.", options:["P(A|B) = P(A)","P(A∩B) = 0","P(A) = P(B)","P(A) + P(B) = 1"], answer:0},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Arc Length and Surface Area", summary:"Students calculate arc lengths of curves and surface areas of solids of revolution using integration.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=PwmqebSqc_s",
+   videoUrl:"https://www.youtube.com/watch?v=DNDAwWIL5FY",
    quiz:[
      {q:"The arc length of y = f(x) from a to b is ___.", options:["∫[a to b]√(1+[f(x)]²) dx","∫[a to b]f(x) dx","∫[a to b]√(1+[f'(x)]²) dx","∫[a to b](1+f(x)) dx"], answer:2},
      {q:"Find the arc length of y = x³/² from x=0 to x=4.", options:["∫√(1+x³) dx","4³/² = 8","∫[0,4]√(1+9x/4) dx","4 × √(1+9) = 4√10"], answer:2},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Medical and Applied Physics", summary:"Students see how physics principles apply to medicine — X-rays, MRI, PET scans, ultrasound, and radiation therapy.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=cMJpFjmJZ9s",
+   videoUrl:"https://www.youtube.com/watch?v=i_CijGuk7fw",
    quiz:[
      {q:"X-rays penetrate soft tissue but are absorbed by bone because ___.", options:["X-rays cannot travel through any material","X-rays are repelled by calcium","bone is harder than soft tissue","bone is denser and absorbs X-rays more"], answer:3},
      {q:"MRI (Magnetic Resonance Imaging) uses ___.", options:["radioactive tracers","X-rays with computer processing","the magnetism of hydrogen protons","ultrasound at very high frequencies"], answer:2},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Oral Communication: Seminar and Academic Discussion", summary:"Students prepare for and participate in a formal Socratic seminar, developing skills in academic discussion, active listening, and building on others' ideas.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=bPkHcTk55Vc",
+   videoUrl:"https://www.youtube.com/watch?v=YY2yjEEoB3U",
    quiz:[
      {q:"A Socratic seminar is characterised by ___.", options:["competitive debate with winners","open, collaborative inquiry","the teacher asking all the questions","only one student speaking at a time"], answer:1},
      {q:"Effective academic discussion requires ___.", options:["never asking questions during someone's turn","active listening","talking as much as possible","always agreeing with the previous speaker"], answer:1},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Advanced Functions: Comprehensive Review", summary:"Students review the full MHF4U course with examination-level practice problems spanning all strands.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=MKQR_acrFOA",
+   videoUrl:"https://www.youtube.com/watch?v=5NadGZg4lfI",
    quiz:[
      {q:"A function f has an inverse f⁻¹ if and only if ___.", options:["f is continuous","f is differentiable","f is defined for all x","f is one-to-one"], answer:3},
      {q:"Solve: log₂(x+1) − log₂(x−1) = 3.", options:["x = 9","x = 9/7","x = 3","x = 7"], answer:1},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Comprehensive Review", summary:"Students review the full calculus course with examination-level problems on limits, derivatives, and integrals.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=HEH_oKNLgUU",
+   videoUrl:"https://www.youtube.com/watch?v=WsQQvHm4lSw",
    quiz:[
      {q:"Find the derivative of f(x) = x²·sin(3x).", options:["f'(x) = x²·3cos(3x)","f'(x) = 2x sin(3x) + 3x²cos(3x)","f'(x) = 2x·sin(3x) + x²·cos(3x)","f'(x) = 2x·cos(3x)"], answer:1},
      {q:"A box with square base (side x) and no top has surface area 108 cm². Maximise volume. V = x²h, 4xh+x² = 108 → h = (108−x²)/(4x). V(x) = ___.", options:["V_max = 108 cm³ at x = 6","V = x³/4","V = 108x","V = 27x²"], answer:0},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Comprehensive Review", summary:"Students review the full SPH4U course with examination-level multi-concept problems.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
+   videoUrl:"https://www.youtube.com/watch?v=b1t41Q3xRM8",
    quiz:[
      {q:"A 1500 kg car accelerates from 0 to 25 m/s in 10 s up a 10° incline (μₖ = 0.1). Net force required:", options:["F_net ≈ 7754 N","F = mg sinθ only","F = 1500 × 2.5 = 3750 N","F = ma only"], answer:0},
      {q:"A spring (k=400 N/m) is compressed 0.2 m and launches a 0.1 kg ball. Speed at launch:", options:["v = 0.2 m/s","v = √(kx) = √80 ≈ 8.9 m/s","v = kx/m = 0.2×400/0.1 = 800 m/s","v ≈ 12.6 m/s (energy conservation)"], answer:3},

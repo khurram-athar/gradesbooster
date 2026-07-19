@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"English", title:"Writing: The Reflective Essay and Self-Assessment", summary:"Students write a reflective essay examining their intellectual growth over the year, practising metacognitive awareness as a writing and thinking skill.",
    resourceLabel:"YouTube: Writing: The Reflective Essay and Self-Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20The%20Reflective%20Essay%20and%20Self-Assessment%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=whKSAKSMFs8",
    quiz:[
      {q:"Metacognition in academic writing means ___.", options:["only planning before writing","only proofreading","thinking about your own thinking","thinking about the reader"], answer:2},
      {q:"Intellectual growth is best demonstrated in a reflective essay by ___.", options:["quoting your previous essays","listing what topics you covered","showing your thinking has grown","describing how confused you used to be"], answer:2},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Exploring Connections and Preparing for Grade 12", summary:"Students reflect on the coherence of the Grade 11 Functions course and preview Grade 12 Advanced Functions.",
    resourceLabel:"YouTube: Functions: Exploring Connections and Preparing for Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Exploring%20Connections%20and%20Preparing%20for%20Grade%2012%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=52tpYl2tTqk",
    quiz:[
      {q:"The most important thing Grade 11 Functions teaches beyond specific techniques is ___.", options:["how to use a graphing calculator","only exponential growth formulas","how to think about relationships between variables","only polynomial factoring"], answer:2},
      {q:"Grade 12 Advanced Functions (MHF4U) extends Grade 11 by ___.", options:["avoiding exponential functions","more rigour across all function types","being easier overall","only reviewing Grade 11 content"], answer:1},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Looking Ahead to Grade 12", summary:"Students preview Grade 12 Biology (SBI4U) and understand how Grade 11 knowledge connects to advanced study.",
    resourceLabel:"YouTube: Biology: Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-qU1mQ0ilxo",
    quiz:[
      {q:"Grade 12 Biology extends genetics to ___.", options:["deeper molecular genetics","no advanced concepts","only repeating Mendelian genetics","an easier version of Grade 11"], answer:0},
      {q:"Grade 12 metabolic processes extend Grade 11 by examining ___.", options:["only cellular respiration","only photosynthesis in more detail","only enzyme structure","biochemical detail and enzyme kinetics"], answer:3},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Looking Ahead to Grade 12", summary:"Students preview Grade 12 Chemistry (SCH4U) and understand how Grade 11 knowledge is extended.",
    resourceLabel:"YouTube: Chemistry: Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
    quiz:[
      {q:"Grade 12 Chemistry extends stoichiometry to ___.", options:["simpler problems only","only gas law stoichiometry","solutions and electrochemistry","no new concepts"], answer:2},
      {q:"Organic chemistry in Grade 12 extends to ___.", options:["eliminating all Grade 11 organic content","no reaction mechanisms","mechanisms and functional group changes","only naming more compounds"], answer:2},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Literature: Examining Power Through Fiction", summary:"Students read and analyse texts that examine power dynamics — colonialism, class, race, gender — through literary form.",
    resourceLabel:"YouTube: Literature: Examining Power Through Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Examining%20Power%20Through%20Fiction%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OY2zPFQsKSI",
    quiz:[
      {q:"Literature about power is most effective when ___.", options:["it ignores aesthetics","it only celebrates resistance","it directly states its political message","it shows power through relationships"], answer:3},
      {q:"Post-colonial literary theory examines ___.", options:["only literature from former colonies","colonialism's effect on lives and form","only the theme of violence","no connection to colonialism in Canadian literature"], answer:1},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Enrichment: Mathematical Thinking and Problem Solving", summary:"Students tackle challenging multi-step problems requiring creative mathematical thinking, preparing for senior mathematics and mathematical competitions.",
    resourceLabel:"YouTube: Enrichment: Mathematical Thinking and Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Enrichment%3A%20Mathematical%20Thinking%20and%20Problem%20Solving%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
    quiz:[
      {q:"When facing an unfamiliar math problem, the most effective first step is ___.", options:["trying random techniques","only guessing","representing the problem multiple ways","immediately seeking help"], answer:2},
      {q:"Mathematical proof by contradiction assumes ___.", options:["only prime numbers apply","the problem has no solution","the conclusion is true","the opposite, leading to contradiction"], answer:3},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Environmental Health and Toxicology", summary:"Students examine how environmental toxins affect biological systems, examining dose-response, bioaccumulation, and links to cancer and endocrine disruption.",
    resourceLabel:"YouTube: Biology: Environmental Health and Toxicology", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Environmental%20Health%20and%20Toxicology%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=x8tdD1m3MjQ",
    quiz:[
      {q:"The dose-response relationship in toxicology means ___.", options:["only synthetic chemicals are toxic","no chemical is toxic at low doses","the dose determines the effect","all chemicals are toxic at any dose"], answer:2},
      {q:"An endocrine disruptor is ___.", options:["only naturally occurring","a chemical interfering with hormones","a substance that destroys the endocrine glands","only produced by nuclear reactors"], answer:1},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Solutions and Buffers", summary:"Students examine buffer systems — how they work, their biological importance, and Henderson-Hasselbalch calculations.",
    resourceLabel:"YouTube: Chemistry: Solutions and Buffers", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20Solutions%20and%20Buffers%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9h2f1Bjr0p4",
    quiz:[
      {q:"A buffer solution resists pH changes because ___.", options:["it has a very high volume","it pairs a weak acid and conjugate base","it neutralises all acids and bases completely","it has no acid-base equilibrium"], answer:1},
      {q:"The Henderson-Hasselbalch equation is ___.", options:["pH = pKa − log([acid]/[base])","pH = pKa × [acid]/[base]","pH = pKa + log([base]/[acid])","pH = Ka + log([base]/[acid])"], answer:2},

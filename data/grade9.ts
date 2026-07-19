@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", summary:"Mixed review of agreement rules, poetry analysis, satire/parody, and annotation strategies.",
    resourceLabel:"YouTube: Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Subject-Verb%20Agreement%2C%20Symbolism%2C%20Satire%2C%20and%20Close%20Reading%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gubPH3WEurg",
    quiz:[
      {q:"Which sentence is correct?", options:["Everyone were responsible for their own work.","Everyone are responsible for their own work.","Everyone is responsible for their own work.","Everyones is responsible for their own work."], answer:2},
      {q:"In poetry, a symbol represents...", options:["A rhyme scheme","Only its literal physical object","The title of the poem","Something beyond its literal meaning"], answer:3},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Rate of Change, Simple/Compound Interest, Scatter Plots, and Probability", summary:"Mixed review of direct variation, interest calculations, scatter plot interpretation, and combined probability.",
    resourceLabel:"YouTube: Review: Rate of Change, Simple/Compound Interest, Scatter Plots, and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Rate%20of%20Change%2C%20Simple%2FCompound%20Interest%2C%20Scatter%20Plots%2C%20and%20Probability%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=11c9cs6WpJU",
    quiz:[
      {q:"In a direct variation y = kx, the graph passes through...", options:["The origin (0, 0)","Any arbitrary point","The point (k, 0)","The y-axis at y = k"], answer:0},
      {q:"Simple interest on $400 at 5% per year for 2 years is...", options:["$40","$80","$400","$20"], answer:0},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", summary:"Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
    resourceLabel:"YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
    quiz:[
      {q:"Continental drift theory proposes that continents were once joined in a supercontinent called...", options:["Laurasia only","Atlantis","Gondwana only","Pangaea"], answer:3},
      {q:"Which rock type would most likely contain fossils?", options:["None — rocks cannot contain fossils","Metamorphic","Sedimentary","Igneous"], answer:2},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", summary:"Mixed review of language/religion distribution, push/pull migration factors, resource tensions, and GPS/GIS tools.",
    resourceLabel:"YouTube: Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cultural%20Geography%2C%20Migration%2C%20Resources%2FTensions%2C%20and%20Geospatial%20Tech%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tFr5rtkX2JU",
    quiz:[
      {q:"A lingua franca is a language used as...", options:["Only used in the United Nations","The most common native language in the world","Only a written language, never spoken","A common tongue across languages"], answer:3},
      {q:"A push factor in migration motivates a person to...", options:["Stay permanently in their home","Increase their income without moving","Leave their current location","Move to a specific attractive destination"], answer:2},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Compare-and-Contrast Essay Writing", summary:"Plan and write a compare-and-contrast essay using either a block or point-by-point structure, with clear transitions and a thesis that conveys the significance of the comparison (ENL1W Strand B).",
    resourceLabel:"YouTube: Compare-and-Contrast Essay Writing", resourceUrl:"https://www.youtube.com/results?search_query=Compare-and-Contrast%20Essay%20Writing%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2m0wWi1UCGk",
    quiz:[
      {q:"In a block structure compare-and-contrast essay, you...", options:["Discuss all points about Subject A first, then all points about Subject B","Only discuss similarities, never differences","Alternate point by point between the two subjects in each paragraph","Only discuss differences, never similarities"], answer:0},
      {q:"In a point-by-point structure, each paragraph...", options:["Covers only one subject fully","Has no structure requirement","Covers only similarities","Compares both on one criterion"], answer:3},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Midpoint and Length of a Line Segment", summary:"Calculate the midpoint and length (distance) of a line segment given two endpoints using formulas, and apply these in coordinate geometry contexts (MTH1W Analytic Geometry strand).",
    resourceLabel:"YouTube: Midpoint and Length of a Line Segment", resourceUrl:"https://www.youtube.com/results?search_query=Midpoint%20and%20Length%20of%20a%20Line%20Segment%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vZZD43NlDwE",
    quiz:[
      {q:"The midpoint of a line segment with endpoints (x₁, y₁) and (x₂, y₂) is...", options:["((x₁+x₂)/2, (y₁+y₂)/2)","(x₁-x₂, y₁-y₂)","(x₁×x₂, y₁×y₂)","(x₁+y₁, x₂+y₂)"], answer:0},
      {q:"Find the midpoint of the segment with endpoints (2, 4) and (8, 10).", options:["(3, 5)","(6, 8)","(5, 7)","(10, 14)"], answer:2},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"DNA Structure and Heredity Basics", summary:"Describe the structure of DNA (double helix, base pairs) and explain how genetic information is inherited from parents (SNC1W Biology strand).",
    resourceLabel:"YouTube: DNA Structure and Heredity Basics", resourceUrl:"https://www.youtube.com/results?search_query=DNA%20Structure%20and%20Heredity%20Basics%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8m6hHRlKwxY",
    quiz:[
      {q:"DNA is organized in a shape called a...", options:["Triple helix","Double helix","Single strand only","Flat circular ring"], answer:1},
      {q:"The four nitrogen bases in DNA are adenine, thymine, guanine, and cytosine. Adenine always pairs with...", options:["Thymine","Itself","Cytosine","Guanine"], answer:0},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Conservation Areas and Protected Ecosystems", summary:"Examine the purpose and geographic distribution of protected areas (national parks, biosphere reserves, marine protected areas) and their role in conserving biodiversity (CGC1W).",
    resourceLabel:"YouTube: Conservation Areas and Protected Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20Areas%20and%20Protected%20Ecosystems%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ur13eMfF024",
    quiz:[
      {q:"A national park is a protected area established primarily to...", options:["Only provide recreation with no conservation goal","Preserve ecosystems long-term","Allow unlimited industrial development","Maximize resource extraction"], answer:1},
      {q:"A biosphere reserve is a UNESCO-designated area that...", options:["Bans all human activity within its boundary","Only exists in tropical rainforests","Balances conservation and human use","Only protects marine environments"], answer:2},

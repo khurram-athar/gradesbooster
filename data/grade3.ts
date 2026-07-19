@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Spelling: Prefixes and Suffixes", summary:"Students learn how prefixes (un-, re-, pre-) and suffixes (-ful, -less, -ness) change a word's meaning. They build vocabulary by applying these patterns.",
    resourceLabel:"YouTube: Spelling: Prefixes and Suffixes", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%3A%20Prefixes%20and%20Suffixes%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=uc8AgRPyFe8",
    quiz:[
      {q:"A prefix is added to the ___ of a base word.", options:["random position","beginning","end","middle"], answer:1},
      {q:"What does the prefix 'un-' mean?", options:["Again","After","Not or the opposite","Before"], answer:2},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Pictographs and Surveys", summary:"Students conduct simple surveys, organise data in a pictograph, and draw conclusions.",
    resourceLabel:"YouTube: Data: Pictographs and Surveys", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Pictographs%20and%20Surveys%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=V4vijfX-3u0",
    quiz:[
      {q:"A pictograph uses ___ to represent data.", options:["only lines","only numbers","only bars","pictures or symbols"], answer:3},
      {q:"In a pictograph where each symbol = 2, four symbols represent ___.", options:["10","6","4","8"], answer:3},
@@ -1050,6 +1052,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Book Report Writing", summary:"Students write a structured book report including: title and author, brief plot summary, favourite part, and a recommendation.",
    resourceLabel:"YouTube: Book Report Writing", resourceUrl:"https://www.youtube.com/results?search_query=Book%20Report%20Writing%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_OBvqvCVDI8",
    quiz:[
      {q:"A book report begins with ___.", options:["your opinion only","the title, author, and genre of the book","only a recommendation","only a summary"], answer:1},
      {q:"A plot summary in a book report ___.", options:["only describes characters","is never included","spoils everything in detail","tells events without spoiling it"], answer:3},
@@ -1059,6 +1062,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition and Subtraction Review: 3-Digit Numbers", summary:"Students solve multi-step word problems using addition and subtraction of 3-digit numbers.",
    resourceLabel:"YouTube: Addition and Subtraction Review: 3-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Review%3A%203-Digit%20Numbers%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8_X680JiWDc",
    quiz:[
      {q:"345 + 278 = ?", options:["613","623","643","633"], answer:1},
      {q:"800 − 356 = ?", options:["444","344","454","464"], answer:0},
@@ -1068,6 +1072,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces Review and Engineering Design", summary:"Students review forces and apply engineering design principles: identify a problem, brainstorm, design, build, test, and improve.",
    resourceLabel:"YouTube: Forces Review and Engineering Design", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Review%20and%20Engineering%20Design%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=C-FEVzI8oe8",
    quiz:[
      {q:"The engineering design process begins with ___.", options:["testing the solution","evaluating results only","identifying and defining the problem","building immediately"], answer:2},
      {q:"After brainstorming solutions you ___.", options:["stop the process","start over","test without designing","pick the best design and build it"], answer:3},
@@ -1077,6 +1082,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario's Geography: Lakes and Rivers", summary:"Students identify Ontario's major lakes (Great Lakes) and rivers (Ottawa, St. Lawrence, Thames) and their importance.",
    resourceLabel:"YouTube: Ontario's Geography: Lakes and Rivers", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Geography%3A%20Lakes%20and%20Rivers%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ynCxYFTWig4",
    quiz:[
      {q:"Which are the five Great Lakes?", options:["Superior, Huron, Michigan, Erie, Ontario","Superior, Michigan, Erie, Ontario, Simcoe","Superior, Huron, Ontario, Georgian, Erie","Superior, Huron, Erie, Ontario, Nipigon"], answer:0},
      {q:"The St. Lawrence River connects the Great Lakes to ___.", options:["the Atlantic Ocean","the Pacific Ocean","Hudson Bay","the Arctic Ocean"], answer:0},

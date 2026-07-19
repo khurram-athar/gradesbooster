@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Novel Study: Character Development", summary:"Students track and analyse how the protagonist and key supporting characters change over the course of a novel, identifying motivations, conflicts, and growth.",
    resourceLabel:"YouTube: Novel Study: Character Development", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Character%20Development%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NRhteCMgYoU",
    quiz:[
      {q:"Character development (or 'character arc') refers to ___.", options:["the physical description of characters","the list of characters in a novel","the number of times a character appears","how a character changes over the story"], answer:3},
      {q:"A character's motivation is ___.", options:["their name only","what drives their actions and decisions","where they live","how they look"], answer:1},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Graphing and Interpreting", summary:"Students create and interpret various graphs (bar, line, circle/pie) and draw conclusions from data, considering bias and sample size.",
    resourceLabel:"YouTube: Data: Graphing and Interpreting", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Graphing%20and%20Interpreting%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hcgThf5mv38",
    quiz:[
      {q:"A line graph is most useful for showing ___.", options:["how data changes over time (trends)","comparisons between categories at one point in time","parts of a whole","individual values only"], answer:0},
      {q:"A circle (pie) graph is most useful for showing ___.", options:["data trends over time","comparisons of categories","how parts relate to a whole","exact values"], answer:2},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth's Systems: Rock Cycle and Plate Tectonics", summary:"Students explore the rock cycle (igneous, sedimentary, metamorphic), plate tectonics, and how Earth's internal processes shape the surface.",
    resourceLabel:"YouTube: Earth's Systems: Rock Cycle and Plate Tectonics", resourceUrl:"https://www.youtube.com/results?search_query=Earth%27s%20Systems%3A%20Rock%20Cycle%20and%20Plate%20Tectonics%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=j_EUeYCxIaQ",
    quiz:[
      {q:"The rock cycle describes ___.", options:["only weathering and erosion","rocks cycling among the three types","only how rocks fall down hills","how rocks grow"], answer:1},
      {q:"Plate tectonics theory explains that ___.", options:["moving plates cause quakes, volcanoes","continents are fixed forever","only volcanoes","only earthquakes"], answer:0},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada in World War I", summary:"Students study Canada's contributions to WWI (Vimy Ridge, Passchendaele), the impact on the home front, conscription crisis, and how the war shaped Canadian identity.",
    resourceLabel:"YouTube: Canada in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20World%20War%20I%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BYmj1HXvU44",
    quiz:[
      {q:"Canada's most celebrated WWI military achievement is ___.", options:["the liberation of Paris","the naval blockade of Germany","the Battle of Vimy Ridge (1917)","the invasion of Germany"], answer:2},
      {q:"The conscription crisis of 1917 caused ___.", options:["only economic problems","a deep English-French divide","French and English Canadians to unite completely","no controversy"], answer:1},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Writing: Research Essay — Drafting", summary:"Students draft a multi-paragraph research essay: introduction with thesis, body paragraphs with topic sentences and evidence, and a conclusion that synthesises findings.",
    resourceLabel:"YouTube: Writing: Research Essay — Drafting", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Research%20Essay%20%E2%80%94%20Drafting%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UuOWNNvupik",
    quiz:[
      {q:"A thesis statement in a research essay ___.", options:["is the writer's central claim","is only in the conclusion","asks a question","summarises the entire essay in a single sentence"], answer:0},
      {q:"Each body paragraph in a research essay should begin with ___.", options:["a new thesis","a topic sentence with the main point","a conclusion","a quotation"], answer:1},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume: Rectangular Prisms", summary:"Students calculate the volume of rectangular prisms (V = l × w × h) and solve real-world problems involving volume.",
    resourceLabel:"YouTube: Volume: Rectangular Prisms", resourceUrl:"https://www.youtube.com/results?search_query=Volume%3A%20Rectangular%20Prisms%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=By7sVb2IhFs",
    quiz:[
      {q:"Volume measures ___.", options:["the perimeter of a shape","the area of a flat surface","the 3D space enclosed by a solid","the weight of an object"], answer:2},
      {q:"The formula for the volume of a rectangular prism is ___.", options:["V = 2(lw + lh + wh)","V = l + w + h","V = l × w","V = l × w × h"], answer:3},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Body Systems", summary:"Students explore body systems and how they interrelate: digestive, circulatory, respiratory, nervous, and musculoskeletal systems.",
    resourceLabel:"YouTube: Human Body Systems", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=i5aXwiC3wWc",
    quiz:[
      {q:"The digestive system breaks food into ___.", options:["nutrients small enough to be absorbed","bones","only sugars","only protein"], answer:0},
      {q:"The main function of the circulatory system is ___.", options:["digesting food","breathing","controlling movement","transporting oxygen through the blood"], answer:3},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"World War I: Impact and Consequences", summary:"Students examine the human cost of WWI, the Treaty of Versailles, and the seeds of future conflict.",
    resourceLabel:"YouTube: World War I: Impact and Consequences", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20I%3A%20Impact%20and%20Consequences%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-GsolnXOiBg",
    quiz:[
      {q:"WWI resulted in approximately ___.", options:["1 million deaths","50 million deaths","10 000 deaths","17 million total deaths"], answer:3},
      {q:"The Treaty of Versailles (1919) punished Germany by ___.", options:["offering Germany generous aid","reparations, blame, and lost territory","only restricting trade","rewarding Germany with new territory"], answer:1},

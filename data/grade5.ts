@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Description, Point of View, Transitions, and Genre", summary:"Mixed review of descriptive writing, point of view, transition words, and genre.",
    resourceLabel:"YouTube: Review: Description, Point of View, Transitions, and Genre", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Description%2C%20Point%20of%20View%2C%20Transitions%2C%20and%20Genre%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B5vEfuLS2Qc",
    quiz:[
      {q:"Which revision adds the MOST effective sensory detail to 'The kitchen smelled good'?", options:["The kitchen smelled, which was nice.","It smelled of fresh cinnamon rolls.","The kitchen existed.","The kitchen smelled nice and good."], answer:1},
      {q:"A story reads 'Maria squinted at the map, unsure which trail to take.' Which point of view is this?", options:["No person","Second person","Third person","First person"], answer:2},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Probability, Shapes, Transformations, and Graphs", summary:"Mixed review of probability, 2D shape properties, transformations, and data graphs.",
    resourceLabel:"YouTube: Review: Probability, Shapes, Transformations, and Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Probability%2C%20Shapes%2C%20Transformations%2C%20and%20Graphs%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3ioBM9PMBI0",
    quiz:[
      {q:"A spinner has 8 sections: 5 yellow, 3 purple. Which best describes the probability of landing on purple?", options:["Impossible","Certain","Unlikely — under half are purple","Likely, but not certain"], answer:2},
      {q:"A shape has 4 equal sides but its angles are not all equal. Is it a square?", options:["Yes","Cannot be determined","No — a square needs four right angles","Yes, always"], answer:2},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Circuits, Digestion, Food Chains, and Adaptations", summary:"Mixed review of electrical circuits, the digestive system, food chains, and adaptations.",
    resourceLabel:"YouTube: Review: Circuits, Digestion, Food Chains, and Adaptations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Circuits%2C%20Digestion%2C%20Food%20Chains%2C%20and%20Adaptations%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CeOhB87DEeU",
    quiz:[
      {q:"A light bulb doesn't light up even though the battery is connected. Which problem would MOST likely explain this?", options:["The wire is made of copper","The circuit path is open or broken somewhere","The switch is closed","Too much electricity is flowing"], answer:1},
      {q:"Why is the small intestine the main site of nutrient absorption rather than the stomach?", options:["The stomach absorbs everything first","The small intestine doesn't touch food","Absorption happens in the mouth","It's built for absorbing nutrients"], answer:3},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Voting, Great Lakes, Trade, and Local Government", summary:"Mixed review of voting and elections, the Great Lakes, international trade, and local government.",
    resourceLabel:"YouTube: Review: Voting, Great Lakes, Trade, and Local Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Voting%2C%20Great%20Lakes%2C%20Trade%2C%20and%20Local%20Government%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BjdF8WAza5U",
    quiz:[
      {q:"Why might low voter turnout be a concern for a democracy?", options:["Elections need no voters to be valid","Decisions may not reflect most views","Fewer voters give fairer results","It has no effect on outcomes"], answer:1},
      {q:"Why are the Great Lakes vital to both Canada's and the United States' economies?", options:["They provide shipping and fresh water","They have no economic significance","They are located in one country only","They only benefit Canada"], answer:0},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Comparing Two Texts on the Same Topic", summary:"Comparing two texts on the same topic helps readers notice different perspectives, details, and ways of presenting information.",
    resourceLabel:"YouTube: Comparing Two Texts on the Same Topic", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Two%20Texts%20on%20the%20Same%20Topic%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TSPz9YOpLgU",
    quiz:[
      {q:"Two articles describe the same wildfire — one focuses on economic losses, the other on environmental impact. What does this reveal?", options:["Authors can focus on different aspects","Both articles must be describing different events","The event only happened one way and one article is wrong","Comparing texts is unnecessary here"], answer:0},
      {q:"If one article calls a historical event a 'necessary decision' and another calls it a 'tragic mistake,' what does this show?", options:["Both texts describe different events","A factual error in one of the articles","A difference in perspective or interpretation of the same event","Nothing meaningful can be learned"], answer:2},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Making Change and Budgets", summary:"Financial literacy includes calculating change from a purchase and creating a simple budget that balances income and expenses.",
    resourceLabel:"YouTube: Financial Literacy: Making Change and Budgets", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Making%20Change%20and%20Budgets%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cYGiipJOiLg",
    quiz:[
      {q:"An item costs $14.75. You pay with a $20 bill. How much change should you receive?", options:["$4.25","$6.25","$5.75","$5.25"], answer:3},
      {q:"A student earns $30 allowance, spends $12 on a toy, and saves the rest. What fraction of their allowance did they save?", options:["3/5","1/2","2/5","1/3"], answer:0},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable vs. Non-Renewable Resources Revisited", summary:"A deeper look at how renewable resources like wind and solar are managed sustainably, while non-renewable resources like fossil fuels are limited and impact the environment.",
    resourceLabel:"YouTube: Renewable vs. Non-Renewable Resources Revisited", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20vs.%20Non-Renewable%20Resources%20Revisited%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-HjYmlGZwuU",
    quiz:[
      {q:"Why might a country invest heavily in solar and wind energy despite higher upfront installation costs?", options:["Non-renewable resources are unlimited","They don't run out and pollute less","Renewable energy has no environmental benefit","Solar and wind are always cheaper immediately"], answer:1},
      {q:"A power plant burns coal to generate electricity. What is a likely long-term consequence of relying on this method?", options:["This method has no downsides","Coal will regenerate within days","Depleting a resource and polluting air","No environmental impact at all"], answer:2},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Environmental Issues Affecting Canada", summary:"Canada faces environmental issues such as climate change, melting Arctic ice, and the need for conservation of natural resources.",
    resourceLabel:"YouTube: Environmental Issues Affecting Canada", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Issues%20Affecting%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YwiTKzbF85c",
    quiz:[
      {q:"Why is melting Arctic ice a concern that affects more than just the Arctic region itself?", options:["It has no effect beyond the Arctic","It only affects animals living in the Arctic","It raises sea levels worldwide","Melting ice has no connection to climate"], answer:2},
      {q:"How might conservation efforts in one province indirectly benefit a different province's environment?", options:["There is no environmental connection between provinces","Ecosystems, water systems, and air quality can be interconnected across regions","Provinces are entirely disconnected environmentally","Conservation only affects the province doing it"], answer:1},

@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Motivation, Perspectives, Ads, and Voice", summary:"Mixed review of character motivation, comparing perspectives, analyzing ads, and active/passive voice.",
    resourceLabel:"YouTube: Review: Motivation, Perspectives, Ads, and Voice", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Motivation%2C%20Perspectives%2C%20Ads%2C%20and%20Voice%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4xS2BgkjsFg",
    quiz:[
      {q:"Character motivation refers to...", options:["The reason a character acts that way","The book's cover","The author's name","The story's setting"], answer:0},
      {q:"Comparing two texts on the same topic reveals differences in...", options:["Viewpoint, tone, and emphasis","Only spelling","Font size","Page count"], answer:0},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", summary:"Mixed review of two-step equations, mean/median/mode with outliers, Venn diagrams, and combined financial literacy.",
    resourceLabel:"YouTube: Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Two-Step%20Equations%2C%20Central%20Tendency%2C%20Venn%20Diagrams%2C%20Finance%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Bv6SBIoLvZI",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=8","x=5","x=7","x=6"], answer:3},
      {q:"An outlier is a value that is...", options:["Typical of the data","Always the mode","Always zero","Much higher or lower than the rest"], answer:3},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Energy, Earth's Layers, Genetics, States of Matter", summary:"Mixed review of renewable energy, Earth's layers, inherited traits, and the particle model.",
    resourceLabel:"YouTube: Review: Energy, Earth's Layers, Genetics, States of Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Energy%2C%20Earth%27s%20Layers%2C%20Genetics%2C%20States%20of%20Matter%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2j-Z3AZ_hwU",
    quiz:[
      {q:"Solar panels convert sunlight into...", options:["Electricity","Heat from the ground","Wind","Sound"], answer:0},
      {q:"The outermost layer of Earth is the...", options:["Inner core","Crust","Mantle","Outer core"], answer:1},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Globalization, Natural Disasters, Map Projections, Economics", summary:"Mixed review of trade/globalization, natural disasters, map projections, and economic systems.",
    resourceLabel:"YouTube: Review: Globalization, Natural Disasters, Map Projections, Economics", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Globalization%2C%20Natural%20Disasters%2C%20Map%20Projections%2C%20Economics%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JJ0nFD19eT8",
    quiz:[
      {q:"Globalization refers to...", options:["Total isolation of countries","The end of all trade","Increasing connections between countries","A single government"], answer:2},
      {q:"Earthquakes most commonly occur along...", options:["Polar caps only","Tectonic plate boundaries","The equator only","River deltas only"], answer:1},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Analyzing a Short Story's Setting and Mood", summary:"Setting (time and place) often shapes a story's mood, the emotional atmosphere a reader experiences.",
    resourceLabel:"YouTube: Analyzing a Short Story's Setting and Mood", resourceUrl:"https://www.youtube.com/results?search_query=Analyzing%20a%20Short%20Story%27s%20Setting%20and%20Mood%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SQq7XZ_Im34",
    quiz:[
      {q:"Setting refers to...", options:["The title of the book","The time and place of a story","The main character's name only","The number of chapters"], answer:1},
      {q:"Mood refers to...", options:["The emotional atmosphere of a text","The book's price","The author's biography","The font used"], answer:0},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Coordinate Geometry: Distance Between Points (Intro)", summary:"The distance between two points on a coordinate grid can be found using the Pythagorean relationship or simple counting on horizontal/vertical lines.",
    resourceLabel:"YouTube: Coordinate Geometry: Distance Between Points (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Coordinate%20Geometry%3A%20Distance%20Between%20Points%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rpMu98yRk40",
    quiz:[
      {q:"The distance between points (2,3) and (2,7) on a grid is...", options:["4","10","5","7"], answer:0},
      {q:"The distance between points (1,1) and (5,1) is...", options:["5","1","4","6"], answer:2},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"pH and Acids/Bases (Intro)", summary:"The pH scale measures how acidic or basic a substance is, ranging from 0 (strongly acidic) to 14 (strongly basic), with 7 being neutral.",
    resourceLabel:"YouTube: pH and Acids/Bases (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=pH%20and%20Acids%2FBases%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Xeuyc55LqiY",
    quiz:[
      {q:"A pH of 7 is considered...", options:["Strongly basic","Undefined","Strongly acidic","Neutral"], answer:3},
      {q:"A substance with a pH of 2 is...", options:["Pure water","Strongly basic","Strongly acidic","Neutral"], answer:2},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Structure of Canadian Government", summary:"Canada has three levels of government — federal, provincial, and municipal — each responsible for different areas like national defence, education, and local services.",
    resourceLabel:"YouTube: The Structure of Canadian Government", resourceUrl:"https://www.youtube.com/results?search_query=The%20Structure%20of%20Canadian%20Government%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7C8uDuhLqvg",
    quiz:[
      {q:"Which level of government is responsible for national defence?", options:["None of these","Provincial","Federal","Municipal"], answer:2},
      {q:"Provincial governments are typically responsible for...", options:["Education and healthcare","National defence only","Foreign treaties only","Currency printing only"], answer:0},

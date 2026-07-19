@@ -1012,6 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"English", title:"Language Conventions: Grammar for Academic Writing", summary:"Students master advanced grammar for academic writing: subordination, parallelism, active vs. passive voice, avoiding wordiness, and punctuation (semicolons, colons, dashes).",
    resourceLabel:"YouTube: Language Conventions: Grammar for Academic Writing", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Conventions%3A%20Grammar%20for%20Academic%20Writing%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zVu-XvULZNg",
    quiz:[
      {q:"A semicolon can join ___.", options:["a list of only two items","any two phrases","two related independent clauses","a dependent and independent clause"], answer:2},
      {q:"A colon is used to ___.", options:["end a sentence","introduce a list or explanation","before every quotation","separate subjects from verbs"], answer:1},
@@ -1021,6 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Functions and Graphs: Transformations", summary:"Students apply transformations (stretch, compress, reflect, shift) to parent functions, building intuition for Grade 11 Functions.",
    resourceLabel:"YouTube: Functions and Graphs: Transformations", resourceUrl:"https://www.youtube.com/results?search_query=Functions%20and%20Graphs%3A%20Transformations%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ctVr9NpSiL4",
    quiz:[
      {q:"The transformation y = f(x) + 3 shifts the graph ___.", options:["up 3 units","down 3 units","left 3 units","right 3 units"], answer:0},
      {q:"The transformation y = f(x − 2) shifts the graph ___.", options:["right 2 units","left 2 units","down 2 units","up 2 units"], answer:0},
@@ -1030,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Human Reproduction and Development", summary:"Students examine human reproduction, the menstrual cycle, fertilisation, prenatal development, and related health topics.",
    resourceLabel:"YouTube: Biology: Human Reproduction and Development", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Human%20Reproduction%20and%20Development%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BtsSbZ85yiQ",
    quiz:[
      {q:"Fertilisation occurs when ___.", options:["sperm meets egg to form a zygote","implantation occurs in the uterus","the embryo develops all its organs","the ovum is released from the ovary"], answer:0},
      {q:"The placenta's function is ___.", options:["to produce testosterone","to swap nutrients without mixing blood","to produce eggs","to contract during birth"], answer:1},
@@ -1039,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Media and History: How History is Represented", summary:"Students examine how films, television, novels, and social media represent historical events, and how to critically evaluate historical representation in popular media.",
    resourceLabel:"YouTube: Media and History: How History is Represented", resourceUrl:"https://www.youtube.com/results?search_query=Media%20and%20History%3A%20How%20History%20is%20Represented%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JtoHdjhsVtY",
    quiz:[
      {q:"Historical films and television often ___.", options:["have no influence on public understanding of history","perfectly represent historical events","are always based entirely on primary sources","prioritise dramatic narrative over historical accuracy"], answer:3},
      {q:"The danger of Hollywood historical films is ___.", options:["they can spread inaccuracies widely","they are always good for education","only that they use old footage","they are too long"], answer:0},
@@ -1050,6 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Year-End Celebration: Reading and Writing Portfolio", summary:"Students curate and present a portfolio of their best reading and writing work from Grade 10, reflecting on their development.",
    resourceLabel:"YouTube: Year-End Celebration: Reading and Writing Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Writing%20Portfolio%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vS7Yw6M3KMY",
    quiz:[
      {q:"A portfolio of best work shows ___.", options:["only your first piece","only your longest piece","a curated selection showing your range","only error-free work"], answer:2},
      {q:"Selecting pieces for a portfolio involves ___.", options:["choosing pieces that show your growth","choosing based on teacher preference","taking the highest-graded pieces only","random selection"], answer:0},
@@ -1059,6 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Looking Ahead: Grade 11 Mathematics Pathways", summary:"Students learn about the three Grade 11 math pathways — Functions (MCR3U), Functions and Applications (MCF3M), and Foundations for College (MBF3C) — and make informed choices.",
    resourceLabel:"YouTube: Looking Ahead: Grade 11 Mathematics Pathways", resourceUrl:"https://www.youtube.com/results?search_query=Looking%20Ahead%3A%20Grade%2011%20Mathematics%20Pathways%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=j3jRpnJT_Ic",
    quiz:[
      {q:"MCR3U (Grade 11 Functions) is the pathway for students planning ___.", options:["a direct path to the workforce","programs needing advanced math","all Grade 12 courses equally","college-level programs not requiring advanced math"], answer:1},
      {q:"Functions in Grade 11 extend Grade 10 quadratics to ___.", options:["polynomial and trig functions","geometry only","financial math only","linear equations only"], answer:0},
@@ -1068,6 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Looking Forward to Grade 11", summary:"Students preview Grade 11 science pathways — Biology, Chemistry, Physics — and understand how Grade 10 learning connects.",
    resourceLabel:"YouTube: Science: Looking Forward to Grade 11", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Forward%20to%20Grade%2011%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tGqPl-wfueE",
    quiz:[
      {q:"Grade 11 Biology extends Grade 10 knowledge of ___.", options:["only evolution","atomic theory","only cells","cellular topics into greater depth"], answer:3},
      {q:"Grade 11 Chemistry builds directly on ___.", options:["only physics concepts","atomic theory, chemical bonding, and reaction types from Grade 10 — extending to stoichiometry (quantitative reactions), solution chemistry, and gas laws","only biology","no Grade 10 content"], answer:3},
@@ -1077,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History Final Reflection: What Did We Learn?", summary:"Students write a final synthesis on the most significant lessons from Grade 10 History for their identity and future as Canadian citizens.",
    resourceLabel:"YouTube: History Final Reflection: What Did We Learn?", resourceUrl:"https://www.youtube.com/results?search_query=History%20Final%20Reflection%3A%20What%20Did%20We%20Learn%3F%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lTTvKwCylFY",
    quiz:[
      {q:"The most significant lesson from WWII for democratic citizens is ___.", options:["democracies always win wars","only military power matters","history has no lessons","democracies can commit injustices too"], answer:3},
      {q:"The Charter of Rights and Freedoms matters to Grade 10 students because ___.", options:["only lawyers need to know it","it protects your rights right now","it only applies to adults","it is already fully implemented"], answer:1},

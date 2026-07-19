@@ -1062,6 +1062,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Transportation, Celebrations, Canadian Communities & Environment", summary:"Mixed review of transportation history, world celebrations, Canadian communities, and caring for the environment.",
    resourceLabel:"YouTube: Review: Transportation, Celebrations, Canadian Communities & Environment", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Transportation%2C%20Celebrations%2C%20Canadian%20Communities%20%26%20Environment%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NR7z9FbUf5k",
    quiz:[
      {q:"Long ago, how did most people travel on land?", options:["By car","By subway","By horse or foot","By airplane"], answer:2},
      {q:"Diwali is called the Festival of...", options:["Snow","Water","Lights","Harvest"], answer:2},
@@ -1073,6 +1074,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Retelling a Story in Your Own Words", summary:"Retelling a story means explaining what happened in your own words — including the main characters, the setting, the problem, and the solution.",
    resourceLabel:"YouTube: Retelling a Story in Your Own Words", resourceUrl:"https://www.youtube.com/results?search_query=Retelling%20a%20Story%20in%20Your%20Own%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JNemQATWt2E",
    quiz:[
      {q:"When retelling a story, you should include...", options:["Only the title","Random details","The characters and what happened","Only the last event"], answer:2},
      {q:"What does 'in your own words' mean?", options:["Rewrite every single word differently","Not speak at all","Say it in your own words, not copied","Copy the book exactly"], answer:2},
@@ -1082,6 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Within 100 (Review and Challenge)", summary:"Practice adding two-digit numbers. Remember to add the ones first, then the tens. Some questions will challenge your thinking!",
    resourceLabel:"YouTube: Addition Within 100 (Review and Challenge)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28Review%20and%20Challenge%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lPOJeo3qj48",
    quiz:[
      {q:"45 + 32 = ?", options:["67","76","77","78"], answer:2},
      {q:"63 + 15 = ?", options:["77","79","88","78"], answer:3},
@@ -1091,6 +1094,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"What Plants Need: Deeper Exploration", summary:"Plants make their own food using sunlight, water, and air (carbon dioxide) — this process is called photosynthesis. Roots absorb water and nutrients; leaves capture sunlight.",
    resourceLabel:"YouTube: What Plants Need: Deeper Exploration", resourceUrl:"https://www.youtube.com/results?search_query=What%20Plants%20Need%3A%20Deeper%20Exploration%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=u46A0WKp2nk",
    quiz:[
      {q:"What is photosynthesis?", options:["How plants eat insects","How plants use sunlight to make food","How plants move around","How plants sleep at night"], answer:1},
      {q:"Which part of the plant absorbs water from the soil?", options:["Stem only","Leaves","Flowers","Roots"], answer:3},
@@ -1100,6 +1104,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"People and the Environment: Making a Difference", summary:"People can both harm and help the environment. Pollution harms nature, but acts like planting trees, picking up litter, and saving energy help protect it for future generations.",
    resourceLabel:"YouTube: People and the Environment: Making a Difference", resourceUrl:"https://www.youtube.com/results?search_query=People%20and%20the%20Environment%3A%20Making%20a%20Difference%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
    quiz:[
      {q:"Which human action HARMS the environment?", options:["Picking up litter","Planting trees","Dumping garbage in a river","Using reusable bags"], answer:2},
      {q:"Which action helps protect the environment for future generations?", options:["Wasting electricity","Burning waste in the open air","Littering","Planting trees and gardens"], answer:3},

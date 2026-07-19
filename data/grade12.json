@@ -5913,6 +5913,7 @@
         "summary": "Students workshop research essay drafts in a peer-review setting, applying structured feedback protocols and revising for argument, evidence, and style.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=8eB7SSNC5ys",
+        "videoUrl": "https://www.youtube.com/watch?v=yt6zuQbETMI",
         "quiz": [
           {
             "q": "Peer review is most valuable when ___.",
@@ -5972,6 +5973,7 @@
         "summary": "Students apply conditional probability, Bayes' Theorem, and independence to complex probability problems.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=H02B3aMNKzE",
+        "videoUrl": "https://www.youtube.com/watch?v=94AmzeR9n2w",
         "quiz": [
           {
             "q": "Conditional probability P(A|B) = ___.",
@@ -6031,6 +6033,7 @@
         "summary": "Students calculate arc lengths of curves and surface areas of solids of revolution using integration.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=PwmqebSqc_s",
+        "videoUrl": "https://www.youtube.com/watch?v=DNDAwWIL5FY",
         "quiz": [
           {
             "q": "The arc length of y = f(x) from a to b is ___.",
@@ -6090,6 +6093,7 @@
         "summary": "Students see how physics principles apply to medicine — X-rays, MRI, PET scans, ultrasound, and radiation therapy.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=cMJpFjmJZ9s",
+        "videoUrl": "https://www.youtube.com/watch?v=i_CijGuk7fw",
         "quiz": [
           {
             "q": "X-rays penetrate soft tissue but are absorbed by bone because ___.",
@@ -6155,6 +6159,7 @@
         "summary": "Students prepare for and participate in a formal Socratic seminar, developing skills in academic discussion, active listening, and building on others' ideas.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=bPkHcTk55Vc",
+        "videoUrl": "https://www.youtube.com/watch?v=YY2yjEEoB3U",
         "quiz": [
           {
             "q": "A Socratic seminar is characterised by ___.",
@@ -6214,6 +6219,7 @@
         "summary": "Students review the full MHF4U course with examination-level practice problems spanning all strands.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=MKQR_acrFOA",
+        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "A function f has an inverse f⁻¹ if and only if ___.",
@@ -6273,6 +6279,7 @@
         "summary": "Students review the full calculus course with examination-level problems on limits, derivatives, and integrals.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=HEH_oKNLgUU",
+        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "Find the derivative of f(x) = x²·sin(3x).",
@@ -6332,6 +6339,7 @@
         "summary": "Students review the full SPH4U course with examination-level multi-concept problems.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
+        "videoUrl": "https://www.youtube.com/watch?v=b1t41Q3xRM8",
         "quiz": [
           {
             "q": "A 1500 kg car accelerates from 0 to 25 m/s in 10 s up a 10° incline (μₖ = 0.1). Net force required:",
