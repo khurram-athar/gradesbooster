@@ -3145,6 +3145,386 @@ const curriculum: DayContent[] = [
      {q:"Why is it useful to review these events and roles in Canadian history and government together?", options:["These topics have no connection to each other","A reason unrelated to reviewing social studies","Review never helps strengthen understanding of a subject","It reinforces how these Social Studies concepts connect to build understanding of Canada"], answer:3}
    ]},
 ]},
+{day:81, label:"Day 81 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Tone in a Text", summary:"Grade 5 Language strand: tone is the author’s attitude toward a subject, expressed through word choice, such as a playful tone, a serious tone, or a sarcastic tone.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call the author’s attitude toward a subject, shown through word choice?", options:["The plot","A concept unrelated to reading","The setting","Tone"], answer:3},
+     {q:"Which of these words could describe a serious tone?", options:["Solemn","Goofy","Silly","Playful"], answer:0},
+     {q:"Which of these words could describe a playful tone?", options:["Lighthearted","Grim","Mournful","Solemn"], answer:0},
+     {q:"Why might an author’s word choice reveal their tone toward a topic?", options:["Word choice never has any connection to tone","Every word in every text carries the exact same tone","Certain words carry feelings that hint at the author’s attitude","This concept has no connection to reading comprehension"], answer:2},
+     {q:"Why is recognizing tone helpful when reading a persuasive article?", options:["This concept has no relevance to reading comprehension","Tone and persuasion have no connection to each other","Tone never affects how a persuasive article should be understood","It can reveal how the author truly feels about the topic, beyond the facts alone"], answer:3}
+   ]},
+  {subject:"Math", title:"Proportional Reasoning: Scaling Recipes Up and Down", summary:"Grade 5 Math strand: students use proportional reasoning to scale a recipe up or down, such as doubling every ingredient amount to serve twice as many people.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"If a recipe needs 2 cups of flour to serve 4 people, how much flour is needed to serve 8 people?", options:["2 cups","4 cups","8 cups","1 cup"], answer:1},
+     {q:"If a recipe needs 3 eggs to serve 6 people, how many eggs are needed to serve 3 people?", options:["3 eggs","1 and a half eggs","2 eggs","6 eggs"], answer:1},
+     {q:"If doubling a recipe means doubling every ingredient, what happens if you triple a recipe?", options:["Every ingredient amount is tripled","Only one ingredient changes","The recipe stays exactly the same","A concept unrelated to proportional reasoning"], answer:0},
+     {q:"Why is proportional reasoning useful when adjusting a recipe for a different number of people?", options:["This concept has no connection to math","Recipes never need any ingredient adjustments","It helps keep the same ratio between ingredients so the recipe still works","Proportional reasoning never helps with adjusting recipes"], answer:2},
+     {q:"If a recipe needs 1 cup of sugar to serve 2 people, how much sugar is needed to serve 10 people?", options:["5 cups","10 cups","1 cup","2 cups"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Genetics Basics: Why Offspring Resemble Parents", summary:"Grade 5 Science strand: offspring often resemble their parents because they inherit traits, such as eye colour or height tendencies, through genetic information passed down from both parents.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Why do offspring often resemble their parents?", options:["Offspring never resemble their parents at all","They inherit traits through genetic information","A concept unrelated to genetics","Resemblance is always completely random"], answer:1},
+     {q:"Name one trait that can be inherited from parents, such as eye colour.", options:["Eye colour","A favourite food","A concept unrelated to genetics","A learned skill like riding a bike"], answer:0},
+     {q:"Is genetic information passed down from both parents?", options:["Yes","No, only one parent ever passes down genetic information","A concept unrelated to genetics","Genetic information is never passed down at all"], answer:0},
+     {q:"Why might siblings look similar to each other but not identical?", options:["Siblings never share any inherited traits","This concept has no connection to genetics","They inherit a similar, but not identical, mix of traits from their parents","Siblings always look completely identical"], answer:2},
+     {q:"Why is understanding genetics useful for studying how living things are related?", options:["This concept has no relevance to science","It helps explain why traits are passed down between generations","Traits are never passed down between generations","Genetics has no connection to how living things are related"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Space Program and Astronauts", summary:"Grade 5 Social Studies strand: Canada has its own space program, the Canadian Space Agency, which has trained astronauts, such as Chris Hadfield, who have travelled to the International Space Station.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of Canada’s space agency?", options:["A concept unrelated to Canada","A branch of a different country’s space program","The Canadian Space Agency","A private space company only"], answer:2},
+     {q:"Name one Canadian astronaut, such as Chris Hadfield.", options:["Chris Hadfield","A historical explorer from centuries ago","A concept unrelated to space exploration","A fictional character"], answer:0},
+     {q:"Have Canadian astronauts travelled to the International Space Station?", options:["Only astronauts from one other country can travel to space","No, Canadian astronauts have never travelled to space","A concept unrelated to Canada","Yes"], answer:3},
+     {q:"Why might Canada’s participation in space exploration be a source of national pride?", options:["It shows Canada’s contributions to scientific achievement on a global stage","This concept has no relevance to Canadian identity","Space exploration has no connection to national pride","Canada has never contributed anything to space exploration"], answer:0},
+     {q:"Why might studying space exploration help students understand international cooperation?", options:["Countries never work together on space missions","Space missions often involve astronauts and scientists from many countries working together","This concept has no connection to international cooperation","Space exploration is always done by a single country alone"], answer:1}
+   ]},
+]},
+{day:82, label:"Day 82 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Gerunds and Participles", summary:"Grade 5 Language strand: a gerund is a verb form ending in -ing that acts as a noun, such as swimming in I enjoy swimming, while a participle is a verb form used as an adjective, such as running in the running water.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"A gerund is a verb form ending in -ing that acts as a ___.", options:["Adverb","Preposition","Adjective","Noun"], answer:3},
+     {q:"A participle is a verb form that can act as a ___.", options:["Noun only","A concept unrelated to grammar","Adjective","A conjunction"], answer:2},
+     {q:"In the sentence I enjoy swimming, what role does swimming play?", options:["A noun, the gerund","A concept unrelated to grammar","An adjective describing water","A verb showing action right now"], answer:0},
+     {q:"In the phrase the running water, what role does running play?", options:["A noun, a gerund","A preposition","An adjective, a participle","A concept unrelated to grammar"], answer:2},
+     {q:"Why might a writer use a gerund like reading as the subject of a sentence?", options:["Gerunds can never act as the subject of a sentence","It allows an action to be discussed as a thing, like a noun","This concept has no connection to grammar","Gerunds are always used only as adjectives"], answer:1}
+   ]},
+  {subject:"Math", title:"Geometry: Volume of Cylinders", summary:"Grade 5 Math strand: students learn to find the volume of a cylinder by multiplying the area of its circular base by its height.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"To find the volume of a cylinder, you multiply the area of its base by its ___.", options:["Height","Radius only","Circumference","Diameter"], answer:0},
+     {q:"What shape is the base of a cylinder?", options:["A triangle","A square","A pentagon","A circle"], answer:3},
+     {q:"If a cylinder’s base area is 10 square cm and its height is 5 cm, what is its volume?", options:["5 cubic cm","50 cubic cm","10 cubic cm","15 cubic cm"], answer:1},
+     {q:"If a cylinder’s base area is 20 square cm and its height is 3 cm, what is its volume?", options:["23 cubic cm","20 cubic cm","17 cubic cm","60 cubic cm"], answer:3},
+     {q:"Why is it useful to know how to calculate the volume of a cylinder?", options:["It helps figure out how much a cylindrical container, like a can, can hold","Cylinders never have any measurable volume","Volume calculations never apply to real objects","This concept has no connection to geometry"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Lymphatic System", summary:"Grade 5 Science strand: the lymphatic system is a network of vessels and nodes that helps fight infection and remove waste from the body, working closely with the immune system.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What body system helps fight infection and remove waste, working with the immune system?", options:["The lymphatic system","The digestive system","The skeletal system","A concept unrelated to the body"], answer:0},
+     {q:"Does the lymphatic system work closely with the immune system?", options:["A concept unrelated to the body","No, they have no connection to each other","Yes","They are exactly the same system"], answer:2},
+     {q:"What does the lymphatic system help remove from the body?", options:["Nothing at all","A concept unrelated to the lymphatic system","Waste","Only food"], answer:2},
+     {q:"Why might swollen lymph nodes be a sign that your body is fighting an infection?", options:["Swollen lymph nodes never indicate anything about the body","The lymphatic system becomes more active when fighting off germs","Lymph nodes never change no matter what is happening in the body","This concept has no connection to the lymphatic system"], answer:1},
+     {q:"Why is the lymphatic system considered an important part of the body’s defense against illness?", options:["This concept has no relevance to science","It helps filter out harmful substances and supports the immune response","The body has no natural defenses against illness","The lymphatic system has no connection to fighting illness"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Football League and National Sports Culture", summary:"Grade 5 Social Studies strand: the Canadian Football League, or CFL, is a professional sports league that plays a role in Canadian culture, bringing communities together through shared national pride in sports.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does CFL stand for?", options:["Canadian Football League","Canadian Fishing League","Canadian Farming League","A concept unrelated to sports"], answer:0},
+     {q:"Is the CFL a professional sports league?", options:["A concept unrelated to Canadian culture","Yes","No, it is only for amateur players","It is not a real organization"], answer:1},
+     {q:"Can sports leagues like the CFL bring communities together?", options:["Sports only divide communities","No, sports never bring communities together","A concept unrelated to national culture","Yes"], answer:3},
+     {q:"Why might a national sports league be considered part of a country’s culture?", options:["National pride never has any connection to sports","It reflects shared traditions and can build a sense of national pride","This concept has no relevance to social studies","Sports leagues have no connection to culture at all"], answer:1},
+     {q:"Why might cities across Canada be excited to host a CFL championship game?", options:["Sports events never attract any visitors","It can bring economic activity, tourism, and community excitement","Hosting a sports championship never benefits a city","This concept has no connection to social studies"], answer:1}
+   ]},
+]},
+{day:83, label:"Day 83 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Compare-and-Contrast Essay", summary:"Grade 5 Language strand: a compare-and-contrast essay examines the similarities and differences between two subjects, often organizing ideas point-by-point or subject-by-subject.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What kind of essay examines the similarities and differences between two subjects?", options:["A grocery list","A persuasive essay only","A concept unrelated to writing","A compare-and-contrast essay"], answer:3},
+     {q:"Name one way a compare-and-contrast essay can be organized, such as point-by-point.", options:["Point-by-point","Randomly with no organization","Alphabetically by author name","A concept unrelated to essay structure"], answer:0},
+     {q:"Does a compare-and-contrast essay look at both similarities and differences?", options:["A concept unrelated to writing","Yes","No, it only looks at similarities","It only looks at differences, never similarities"], answer:1},
+     {q:"Why might a writer choose the subject-by-subject method for a compare-and-contrast essay?", options:["This method never helps organize an essay","Subject-by-subject essays never mention any differences","This concept has no connection to writing","It allows the writer to fully discuss one subject before moving to the next"], answer:3},
+     {q:"Which of these is an example of a compare-and-contrast topic?", options:["Writing a story about a dragon","Comparing life in a city versus life in the countryside","Making a simple grocery list","Describing your favourite meal"], answer:1}
+   ]},
+  {subject:"Math", title:"Data: Box-and-Whisker Plots", summary:"Grade 5 Math strand: a box-and-whisker plot displays a data set’s spread using five key values: the minimum, first quartile, median, third quartile, and maximum.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How many key values does a box-and-whisker plot use to display data?", options:["Five","Three","Two","Ten"], answer:0},
+     {q:"What is the middle value of a data set called, shown in a box-and-whisker plot?", options:["A concept unrelated to data","The median","The minimum","The maximum"], answer:1},
+     {q:"What does the whisker part of a box-and-whisker plot usually show?", options:["Only the exact average of the data","The range toward the minimum and maximum values","Nothing meaningful about the data","A concept unrelated to data"], answer:1},
+     {q:"Why might a box-and-whisker plot be useful for comparing two data sets?", options:["Box-and-whisker plots never help with comparing data","This concept has no connection to data management","Data sets can never be compared to each other","It shows the spread and middle values clearly, making comparison easier"], answer:3},
+     {q:"What is the highest value in a data set called, shown in a box-and-whisker plot?", options:["The minimum","The first quartile","The median","The maximum"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Sustainable Forestry Practices", summary:"Grade 5 Science strand: sustainable forestry practices, such as replanting trees and selective logging, aim to harvest wood while maintaining a healthy forest ecosystem for the future.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is one goal of sustainable forestry practices?", options:["Maintaining a healthy forest ecosystem for the future","Ignoring the health of a forest completely","A concept unrelated to forestry","Removing every tree from a forest permanently"], answer:0},
+     {q:"Name one sustainable forestry practice, such as replanting trees.", options:["Cutting down every tree with no replanting","Burning an entire forest","A concept unrelated to sustainable forestry","Replanting trees"], answer:3},
+     {q:"What is selective logging?", options:["Cutting down every single tree in a forest at once","A concept unrelated to forestry","Never harvesting any trees at all","Carefully choosing which trees to harvest, rather than cutting down everything"], answer:3},
+     {q:"Why might replanting trees be an important part of sustainable forestry?", options:["This concept has no connection to sustainability","It helps ensure the forest can regrow and continue supporting wildlife","Replanting trees has no effect on a forest’s health","Forests never actually need any trees replanted"], answer:1},
+     {q:"Why do forestry companies today often use sustainable practices instead of just cutting down as many trees as possible?", options:["Sustainable practices have no benefit to a forest","Cutting down every tree at once always benefits a forest","This concept has no relevance to science","Sustainable practices help protect forests for future generations and industries"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Comparing Time Zones Around the World", summary:"Grade 5 Social Studies strand: the world is divided into time zones based on longitude, meaning it can be a different time of day in different countries at the exact same moment.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the world divided into, based on longitude, that affects the time of day?", options:["Oceans only","Provinces only","Time zones","A concept unrelated to geography"], answer:2},
+     {q:"Can it be a different time of day in different countries at the exact same moment?", options:["A concept unrelated to time zones","Time zones do not actually exist","No, it is always the same time everywhere","Yes"], answer:3},
+     {q:"Are time zones based on longitude or on population size?", options:["Population size","Neither, time zones are chosen randomly","Longitude","A concept unrelated to time zones"], answer:2},
+     {q:"Why might someone need to know about time zones before scheduling an international video call?", options:["This concept has no connection to time zones","So both people can find a time that works for their own local time of day","Time zones never matter for scheduling a call","International calls never require any time zone planning"], answer:1},
+     {q:"Why is understanding time zones useful for understanding global communication and travel?", options:["Time zones have no connection to travel or communication","It helps explain why the time can differ so much between countries","This concept has no relevance to social studies","Every country in the world shares the exact same time zone"], answer:1}
+   ]},
+]},
+{day:84, label:"Day 84 — Thu", subjects:[
+  {subject:"Language", title:"Figurative Language: Allusion", summary:"Grade 5 Language strand: an allusion is a brief reference to a well-known person, event, or work, such as calling someone a Scrooge to suggest they are stingy, without fully explaining the reference.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call a brief reference to a well-known person, event, or work?", options:["An allusion","A metaphor","A concept unrelated to figurative language","A homophone"], answer:0},
+     {q:"If someone is called a Scrooge, what quality does this allusion suggest?", options:["A concept unrelated to allusion","Being generous","Being stingy","Being extremely cheerful"], answer:2},
+     {q:"Does an allusion usually fully explain the reference it is making?", options:["Allusions never reference anything at all","A concept unrelated to allusion","No, it assumes the reader already understands the reference","Yes, it always explains everything in full detail"], answer:2},
+     {q:"Why might a writer use an allusion instead of directly describing something in detail?", options:["Allusions always make writing less meaningful","Allusions never add any meaning to writing","This concept has no connection to figurative language","It can quickly convey a complex idea using a familiar reference"], answer:3},
+     {q:"Why might an allusion be confusing to a reader who does not recognize the reference?", options:["Recognizing a reference never changes how a reader understands a text","Allusions are always understood by every single reader","The reader may not understand the meaning the writer intended","This concept has no connection to figurative language"], answer:2}
+   ]},
+  {subject:"Math", title:"Algebra: Solving Two-Step Equations", summary:"Grade 5 Math strand: students learn to solve a two-step equation, such as 2n plus 3 equals 11, by first undoing addition or subtraction, then undoing multiplication or division.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"To solve 2n plus 3 equals 11, what should you do first?", options:["A concept unrelated to solving equations","Add 3 to both sides","Divide both sides by 2 first","Subtract 3 from both sides"], answer:3},
+     {q:"After subtracting 3 from both sides of 2n plus 3 equals 11, what equation do you have?", options:["2n equals 8","2n equals 14","n equals 8","n equals 3"], answer:0},
+     {q:"If 2n equals 8, what is the value of n?", options:["8","4","2","16"], answer:1},
+     {q:"To solve a two-step equation, in what order should you typically undo the operations?", options:["Undo addition or subtraction first, then multiplication or division","Undo multiplication or division first, then addition or subtraction only","The order never matters at all","A concept unrelated to solving equations"], answer:0},
+     {q:"If 3n minus 2 equals 13, what is the value of n?", options:["3","15","11","5"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Satellites and Their Uses", summary:"Grade 5 Science strand: satellites orbit Earth and are used for purposes such as weather forecasting, communication, and navigation systems like GPS.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do satellites orbit?", options:["Earth","The Moon only","Nothing at all","A concept unrelated to space"], answer:0},
+     {q:"Name one use of satellites, such as weather forecasting.", options:["Baking bread","A concept unrelated to satellites","Growing plants","Weather forecasting"], answer:3},
+     {q:"Do satellites help power navigation systems like GPS?", options:["Yes","A concept unrelated to satellites","Satellites have no practical uses","No, GPS has no connection to satellites"], answer:0},
+     {q:"Why might satellites be especially useful for forecasting weather over large areas?", options:["This concept has no connection to satellites","They can observe wide areas of Earth from high above, tracking storms and patterns","Weather can only be observed from the ground","Satellites can never observe weather patterns"], answer:1},
+     {q:"Why has satellite technology become important for everyday communication, like phone calls and internet access?", options:["Communication never relies on any satellite technology","Satellites have no connection to communication technology","Satellites can relay signals across long distances, including remote areas","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Refugees and Canada’s Humanitarian Role", summary:"Grade 5 Social Studies strand: a refugee is someone who has fled their home country due to danger, such as war or persecution, and Canada has a history of welcoming refugees seeking safety.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What do we call someone who has fled their home country due to danger?", options:["A concept unrelated to migration","A tourist","A refugee","A student on vacation"], answer:2},
+     {q:"Name one reason a person might become a refugee, such as war.", options:["War","Visiting family for a holiday","Going on a fun vacation","A concept unrelated to refugees"], answer:0},
+     {q:"Has Canada historically welcomed refugees seeking safety?", options:["No, Canada has never welcomed any refugees","Only tourists are ever welcomed into Canada","Yes","A concept unrelated to Canada"], answer:2},
+     {q:"Why might a country like Canada choose to welcome refugees?", options:["Refugees are never actually in any danger","This concept has no connection to Canada’s history","Welcoming refugees never has any humanitarian purpose","To offer safety and support to people facing danger in their home country"], answer:3},
+     {q:"Why might communities benefit from welcoming refugees and helping them settle?", options:["This concept has no relevance to social studies","New community members can bring diverse skills, perspectives, and contributions","Welcoming refugees always harms a community","Refugees never contribute anything to a community"], answer:1}
+   ]},
+]},
+{day:85, label:"Day 85 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Understanding Satire", summary:"Grade 5 Language strand: satire uses humour, irony, or exaggeration to criticize or point out flaws in people, society, or ideas, often found in cartoons or comedic writing.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What literary technique uses humour or exaggeration to criticize flaws in society?", options:["A concept unrelated to reading","A recipe","A biography","Satire"], answer:3},
+     {q:"Where might satire commonly be found, such as in cartoons?", options:["A dictionary","A phone book","Cartoons","A concept unrelated to satire"], answer:2},
+     {q:"Does satire often use exaggeration to make its point?", options:["No, satire never uses exaggeration","A concept unrelated to reading","Yes","Satire only uses plain, literal facts"], answer:2},
+     {q:"Why might a writer use satire instead of directly stating criticism?", options:["Direct criticism is always more effective than satire","Humour and exaggeration can make a criticism more memorable and engaging","Satire never actually criticizes anything","This concept has no connection to writing"], answer:1},
+     {q:"Why can satire sometimes be misunderstood by readers?", options:["Satire is always understood exactly the same way by everyone","Satire never contains any exaggeration or irony at all","This concept has no connection to reading comprehension","Readers might take the exaggerated or ironic statements literally"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Imperial and Metric Units", summary:"Grade 5 Math strand: students learn approximate conversions between imperial and metric units, such as knowing that 1 inch is about 2.5 centimetres and 1 mile is about 1.6 kilometres.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"About how many centimetres are in 1 inch?", options:["2.5","100","1","10"], answer:0},
+     {q:"About how many kilometres are in 1 mile?", options:["10","1.6","0.5","1"], answer:1},
+     {q:"About how many centimetres are in 4 inches?", options:["2.5","4","10","40"], answer:2},
+     {q:"Why is it useful to know approximate conversions between imperial and metric units?", options:["Some countries use different systems, so conversions help compare measurements","Imperial and metric units can never be compared to each other","This concept has no connection to measurement","Every country in the world uses the exact same measurement system"], answer:0},
+     {q:"If a recipe from another country uses cups instead of millilitres, why might a Canadian cook need a conversion?", options:["Canada primarily uses the metric system, so a conversion helps measure ingredients correctly","Conversions are never needed when following a recipe","This concept has no connection to measurement","Cups and millilitres are always exactly the same amount"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Acids and Bases", summary:"Grade 5 Science strand: acids and bases are two types of chemical substances that can be measured on the pH scale, with acids like lemon juice below 7 and bases like baking soda above 7.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What scale is used to measure whether a substance is an acid or a base?", options:["The pH scale","A concept unrelated to chemistry","The Richter scale","The Celsius scale"], answer:0},
+     {q:"Is lemon juice an example of an acid or a base?", options:["An acid","A concept unrelated to chemistry","A base","Neither an acid nor a base"], answer:0},
+     {q:"Is baking soda an example of an acid or a base?", options:["A concept unrelated to chemistry","An acid","Neither an acid nor a base","A base"], answer:3},
+     {q:"On the pH scale, do acids typically measure above or below 7?", options:["Exactly at 7 always","Above 7","Below 7","A concept unrelated to pH"], answer:2},
+     {q:"Why might scientists use the pH scale to classify substances?", options:["Acids and bases can never actually be measured","It gives a standard way to measure and compare how acidic or basic something is","This concept has no relevance to science","The pH scale has no connection to classifying substances"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of Canadian Postal Services", summary:"Grade 5 Social Studies strand: Canada Post has a long history of connecting communities across the country, evolving from horse-drawn mail delivery to modern sorting facilities and delivery trucks.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of Canada’s national postal service?", options:["A branch of a different country’s postal system","Canada Post","A private courier company only","A concept unrelated to Canadian history"], answer:1},
+     {q:"Did early mail delivery in Canada sometimes rely on horse-drawn transportation?", options:["Yes","Only airplanes have ever delivered mail in Canada","A concept unrelated to postal history","No, horses were never used for mail delivery"], answer:0},
+     {q:"Has Canada’s postal system changed over time?", options:["Yes","No, it has always been exactly the same","A concept unrelated to Canadian history","Postal systems never change in any country"], answer:0},
+     {q:"Why might it have been especially challenging to deliver mail across Canada in its early history?", options:["Canada’s vast size and rugged geography made transportation difficult","Delivering mail across Canada was never a challenge","This concept has no connection to Canadian history","Canada has always had a very small land area"], answer:0},
+     {q:"Why is a reliable postal service important for connecting communities across a large country like Canada?", options:["A postal service has no connection to connecting communities","Communities never need to send or receive mail","This concept has no relevance to social studies","It helps people and businesses across distant regions stay connected"], answer:3}
+   ]},
+]},
+{day:86, label:"Day 86 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Appositives", summary:"Grade 5 Language strand: an appositive is a noun or phrase placed next to another noun to rename or explain it, such as in my friend Maria, the artist, painted a mural, where the artist explains Maria.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call a noun or phrase placed next to another noun to rename or explain it?", options:["A verb","A preposition","An appositive","A concept unrelated to grammar"], answer:2},
+     {q:"In the sentence Maria, the artist, painted a mural, what is the appositive?", options:["Maria","The artist","Painted","A mural"], answer:1},
+     {q:"Does an appositive usually rename or explain the noun next to it?", options:["A concept unrelated to grammar","No, it always changes the noun’s meaning completely","Yes","An appositive never has any connection to the noun beside it"], answer:2},
+     {q:"Which sentence correctly uses an appositive?", options:["My dog loves golden retriever to swim.","My dog, a golden retriever, loves to swim.","A golden retriever my dog loves to swim.","My dog a golden retriever loves to swim she is happy."], answer:1},
+     {q:"Why might a writer use an appositive instead of writing two separate sentences?", options:["This concept has no connection to writing","Two separate sentences are always clearer than using an appositive","It can combine related information smoothly into one sentence","Appositives never combine any information"], answer:2}
+   ]},
+  {subject:"Math", title:"Patterning: Fibonacci-like Sequences", summary:"Grade 5 Math strand: in a Fibonacci-like sequence, each number is the sum of the two numbers before it, such as 1, 1, 2, 3, 5, 8, where 5 is the sum of 2 and 3.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"In the sequence 1, 1, 2, 3, 5, 8, what number comes next?", options:["11","9","10","13"], answer:3},
+     {q:"In a Fibonacci-like sequence, how is each number found?", options:["By multiplying the two numbers before it","By subtracting the two numbers before it","By adding the two numbers before it","A concept unrelated to patterns"], answer:2},
+     {q:"In the sequence 2, 2, 4, 6, 10, what number comes next?", options:["10","14","12","16"], answer:3},
+     {q:"Why might this type of sequence be called Fibonacci-like?", options:["This concept has no connection to patterns","It follows the same rule as the famous Fibonacci sequence, adding the two previous numbers","It has no connection to the Fibonacci sequence at all","Every number sequence is automatically Fibonacci-like"], answer:1},
+     {q:"In the sequence 1, 3, 4, 7, 11, what number comes next?", options:["14","10","15","18"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Wetlands and Their Importance", summary:"Grade 5 Science strand: wetlands are areas of land covered in water for part or all of the year, providing important habitats for wildlife and helping filter and store water.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call an area of land covered in water for part or all of the year?", options:["A desert","A concept unrelated to ecosystems","A wetland","A mountain range"], answer:2},
+     {q:"Do wetlands provide important habitats for wildlife?", options:["Wetlands are completely empty of living things","A concept unrelated to ecosystems","No, wetlands provide no habitat for any wildlife","Yes"], answer:3},
+     {q:"Can wetlands help filter and store water?", options:["No, wetlands have no connection to water filtration","Wetlands only ever release polluted water","A concept unrelated to wetlands","Yes"], answer:3},
+     {q:"Why might wetlands be especially important during periods of heavy rain?", options:["They can absorb and store excess water, helping to reduce flooding","Wetlands have no effect on flooding at all","This concept has no connection to wetlands","Wetlands always cause more flooding during heavy rain"], answer:0},
+     {q:"Why is it important to protect wetlands from being drained or developed?", options:["Wetlands provide no value to protect","This concept has no relevance to science","They provide valuable habitat and environmental benefits that are hard to replace","Draining wetlands never has any negative effect"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s National Anthem and Its History", summary:"Grade 5 Social Studies strand: O Canada became Canada’s official national anthem in 1980, though the song was first performed over a century earlier and has been translated into both English and French.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of Canada’s national anthem?", options:["A concept unrelated to Canadian symbols","A concept with no real name","The Maple Leaf Song","O Canada"], answer:3},
+     {q:"In what year did O Canada officially become Canada’s national anthem?", options:["1980","1867","1950","1900"], answer:0},
+     {q:"Has O Canada been translated into both English and French?", options:["It has never been translated at all","A concept unrelated to Canada’s anthem","No, it exists only in one single language","Yes"], answer:3},
+     {q:"Why might a national anthem be an important symbol for a country?", options:["This concept has no relevance to social studies","National anthems serve no purpose at all","National anthems have no connection to a country’s identity","It represents shared identity, history, and pride among citizens"], answer:3},
+     {q:"Why might it be significant that O Canada existed for many years before officially becoming the national anthem?", options:["O Canada was written the same year it became the anthem","It shows how a song can become an important national symbol over time","This concept has no connection to Canadian history","The timing of when a song became an anthem never matters"], answer:1}
+   ]},
+]},
+{day:87, label:"Day 87 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Words with Greek and Latin Roots", summary:"Grade 5 Language strand: many English words come from Greek and Latin roots, such as the root bio, meaning life, found in words like biology and biography.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does the root bio mean, found in words like biology?", options:["Light","Water","Life","A concept unrelated to roots"], answer:2},
+     {q:"Which word contains the root bio, meaning life?", options:["Telephone","Geography","Automobile","Biography"], answer:3},
+     {q:"Do many English words come from Greek and Latin roots?", options:["No, English words never come from other languages","English has no connection to Greek or Latin","Yes","A concept unrelated to vocabulary"], answer:2},
+     {q:"Why might knowing that the root aqua means water help you understand new words?", options:["Root words never provide any clues about a word’s meaning","The root aqua always means fire, not water","You could guess that a word with aqua relates to water, like aquarium","This concept has no connection to vocabulary"], answer:2},
+     {q:"Which of these words likely contains a root related to writing, based on graph meaning to write?", options:["Autograph","Aquarium","Telephone","Bicycle"], answer:0}
+   ]},
+  {subject:"Math", title:"Data: Interpreting Misleading Graphs", summary:"Grade 5 Math strand: students learn to spot misleading graphs, such as ones with a truncated y-axis or an uneven scale, which can make differences in data look larger or smaller than they really are.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a truncated y-axis on a graph?", options:["A y-axis that does not start at zero","A y-axis that always starts at zero","A graph with no y-axis at all","A concept unrelated to graphs"], answer:0},
+     {q:"Can a truncated y-axis make differences in data appear larger than they really are?", options:["A truncated y-axis always makes data look smaller only","A concept unrelated to misleading graphs","No, it never affects how data appears","Yes"], answer:3},
+     {q:"Why might someone intentionally create a misleading graph?", options:["To make their argument or data appear more dramatic than it really is","Misleading graphs are never created on purpose","Graphs can never be used to mislead anyone","This concept has no connection to data management"], answer:0},
+     {q:"What should you check on a graph to see if its scale might be misleading?", options:["Whether the axis starts at zero and uses even intervals","A concept unrelated to reading graphs","Only the colour of the bars","Only the title of the graph"], answer:0},
+     {q:"Why is it important to critically examine graphs in the news or advertisements?", options:["This concept has no relevance to data literacy","Graphs never appear in the news or advertisements","All graphs in the news are always completely accurate","Some graphs may be designed to mislead or exaggerate the data"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Earthquake-Resistant Design", summary:"Grade 5 Science strand: engineers use earthquake-resistant design, such as flexible foundations and reinforced materials, to help buildings withstand the shaking caused by earthquakes.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do engineers use to help buildings withstand earthquakes?", options:["A concept unrelated to structures","Only decorative features","No special design at all","Earthquake-resistant design"], answer:3},
+     {q:"Name one feature of earthquake-resistant design, such as a flexible foundation.", options:["A completely rigid structure with no flexibility","A building made only of glass","A flexible foundation","A concept unrelated to earthquake-resistant design"], answer:2},
+     {q:"Can reinforced materials help a building withstand shaking during an earthquake?", options:["A concept unrelated to structures","Reinforced materials always make buildings weaker","No, reinforced materials have no effect on earthquake resistance","Yes"], answer:3},
+     {q:"Why might a flexible foundation help a building survive an earthquake better than a rigid one?", options:["A flexible foundation always makes a building collapse faster","Flexibility can allow a building to absorb and adjust to shaking rather than crack","Rigid foundations always survive earthquakes better than flexible ones","This concept has no connection to earthquake-resistant design"], answer:1},
+     {q:"Why is earthquake-resistant design especially important for cities located near fault lines?", options:["These areas have a higher risk of experiencing earthquakes","Cities near fault lines never actually experience earthquakes","Earthquake-resistant design has no connection to fault lines","This concept has no relevance to science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Non-Governmental Organizations", summary:"Grade 5 Social Studies strand: a non-governmental organization, or NGO, is a group that works independently from government to address issues like poverty, health, or the environment, often across many countries.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does NGO stand for?", options:["New government order","A concept unrelated to organizations","National government office","Non-governmental organization"], answer:3},
+     {q:"Does an NGO work independently from government?", options:["No, an NGO is always run directly by a government","NGOs do not actually exist","Yes","A concept unrelated to NGOs"], answer:2},
+     {q:"Name one issue an NGO might address, such as poverty or health.", options:["A concept unrelated to NGOs","A single family’s vacation plans","Poverty","A local school’s lunch menu"], answer:2},
+     {q:"Why might an NGO choose to work across many different countries?", options:["Global issues never require any international cooperation","Global issues, like poverty or health crises, often require cooperation beyond one country","This concept has no connection to social studies","NGOs never work in more than one country"], answer:1},
+     {q:"Why might NGOs sometimes be able to respond to a crisis more quickly than a government?", options:["They may have specialized resources and can act independently of government processes","Governments always respond faster than NGOs in every situation","This concept has no relevance to social studies","NGOs are never able to respond to any crisis"], answer:0}
+   ]},
+]},
+{day:88, label:"Day 88 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter to the Editor", summary:"Grade 5 Language strand: a letter to the editor expresses an opinion about a current issue, often published in a newspaper, and typically includes a clear position along with supporting reasons.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What kind of letter expresses an opinion about a current issue, often published in a newspaper?", options:["A grocery list","A letter to the editor","A concept unrelated to writing","A birthday invitation"], answer:1},
+     {q:"Should a letter to the editor include a clear position along with supporting reasons?", options:["No, it should never include any reasons","Only facts are allowed, with no opinion at all","Yes","A concept unrelated to writing"], answer:2},
+     {q:"Where is a letter to the editor often published?", options:["It is never published anywhere","In a newspaper","In a private diary only","A concept unrelated to letters to the editor"], answer:1},
+     {q:"Why might someone write a letter to the editor about a local issue?", options:["Letters to the editor are always about fictional topics","To share their opinion and try to influence public discussion on the issue","Letters to the editor never discuss any real issues","This concept has no connection to writing"], answer:1},
+     {q:"Which of these would most likely appear in a letter to the editor?", options:["Add 5 and 6 to get 11.","Once upon a time, there was a dragon.","The chemical symbol for oxygen is O.","I believe our town needs more sidewalks for pedestrian safety."], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: Independent vs Dependent Events", summary:"Grade 5 Math strand: an independent event, like flipping a coin twice, does not affect the outcome of another event, while a dependent event, like drawing cards without replacement, changes the probability of what happens next.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"Does flipping a coin twice count as an independent or dependent event?", options:["Independent","Dependent","A concept unrelated to probability","Neither independent nor dependent"], answer:0},
+     {q:"Does drawing a card and not replacing it before drawing again count as an independent or dependent event?", options:["Dependent","Independent","A concept unrelated to probability","Neither independent nor dependent"], answer:0},
+     {q:"In an independent event, does the first outcome affect the probability of the second outcome?", options:["No","Only sometimes, with no clear rule","A concept unrelated to probability","Yes, always"], answer:0},
+     {q:"Why is drawing cards without replacement considered a dependent event?", options:["This concept has no connection to probability","Removing a card changes the number and type of cards left, affecting the next probability","Removing a card never changes any future probability","Dependent events never involve any changes in probability"], answer:1},
+     {q:"If you roll a die and then flip a coin, are these two events independent or dependent?", options:["Independent","A concept unrelated to probability","Dependent","Neither independent nor dependent"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: How a Battery Stores and Releases Energy", summary:"Grade 5 Science strand: a battery stores chemical energy and converts it into electrical energy when connected in a circuit, powering devices like flashlights and remote controls.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What type of energy does a battery store?", options:["Only sound energy","A concept unrelated to batteries","Chemical energy","Only light energy"], answer:2},
+     {q:"What does a battery convert its stored energy into when connected in a circuit?", options:["Nothing at all","Electrical energy","A concept unrelated to batteries","Only heat energy"], answer:1},
+     {q:"Name one device that a battery might power, such as a flashlight.", options:["A flashlight","A glass of water","A concept unrelated to batteries","A wooden chair"], answer:0},
+     {q:"Why might a battery eventually stop working and need to be replaced or recharged?", options:["Its stored chemical energy gradually runs out as it is used","Batteries never run out of energy","This concept has no connection to how batteries work","Batteries generate infinite energy with no limit"], answer:0},
+     {q:"Why are batteries an important part of many portable devices, like remote controls?", options:["This concept has no relevance to science","Batteries have no connection to portable devices","They allow devices to work without being plugged directly into a wall outlet","Portable devices never actually need any power source"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Mining Industry and Its Impact", summary:"Grade 5 Social Studies strand: Canada’s mining industry extracts valuable resources, such as nickel, gold, and potash, supporting jobs and the economy while also raising environmental considerations.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Name one resource extracted by Canada’s mining industry, such as nickel or gold.", options:["A concept unrelated to mining","Ocean water","Nickel","Fresh fruit"], answer:2},
+     {q:"Does Canada’s mining industry support jobs and the economy?", options:["Mining never provides any economic benefit","A concept unrelated to Canada","Yes","No, mining has no connection to jobs or the economy"], answer:2},
+     {q:"Can mining raise environmental considerations that communities must think about?", options:["A concept unrelated to mining","Environmental considerations are never relevant to mining","Yes","No, mining never has any environmental impact"], answer:2},
+     {q:"Why might a mining company need to plan carefully to reduce its environmental impact?", options:["This concept has no connection to social studies","Environmental impact never needs to be considered in industry","Mining can affect land, water, and wildlife, so careful planning helps minimize harm","Mining never has any effect on the environment"], answer:2},
+     {q:"Why is Canada’s mining industry considered an important part of its economy?", options:["Mining has no connection to Canada’s economy","This concept has no relevance to social studies","It provides valuable resources and jobs across many regions of the country","Mining provides no resources of any real value"], answer:2}
+   ]},
+]},
+{day:89, label:"Day 89 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Multiple Perspectives in a Text", summary:"Grade 5 Language strand: some texts present multiple perspectives, showing an issue or event from more than one point of view, helping readers understand a fuller, more balanced picture.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does it mean for a text to present multiple perspectives?", options:["It only ever shows one single point of view","A concept unrelated to reading","It shows no point of view at all","It shows an issue from more than one point of view"], answer:3},
+     {q:"Can analyzing multiple perspectives help readers understand a more balanced picture of an issue?", options:["No, multiple perspectives never help with understanding","Yes","A concept unrelated to reading comprehension","Balanced understanding never requires multiple perspectives"], answer:1},
+     {q:"If a text discusses a historical event from both sides involved, is that an example of multiple perspectives?", options:["This has no connection to perspectives at all","A concept unrelated to reading","Yes","No, this would only be a single perspective"], answer:2},
+     {q:"Why might reading only one perspective on a controversial issue be limiting?", options:["Perspectives never affect how well a reader understands an issue","It could leave out important viewpoints needed for a full understanding","Reading one perspective always provides a complete understanding","This concept has no connection to reading comprehension"], answer:1},
+     {q:"Why is it valuable for students to practise identifying multiple perspectives in what they read?", options:["It builds critical thinking skills and a more thoughtful understanding of issues","There is always only one correct perspective on every issue","Identifying perspectives never builds any useful skills","This concept has no relevance to reading comprehension"], answer:0}
+   ]},
+  {subject:"Math", title:"Review Preparation: Applying Ratios, Volume, and Probability", summary:"Grade 5 Math strand: students apply recent skills, including scaling recipes, finding cylinder volume, and probability of independent events, to solve multi-part problems that combine these ideas.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"If a recipe is scaled from serving 4 people to serving 12 people, by what factor was it scaled?", options:["3","2","12","4"], answer:0},
+     {q:"If a cylinder’s base area is 15 square cm and height is 4 cm, what is its volume?", options:["4 cubic cm","19 cubic cm","60 cubic cm","15 cubic cm"], answer:2},
+     {q:"Is rolling a die twice in a row an example of independent or dependent events?", options:["Neither independent nor dependent","Independent","Dependent","A concept unrelated to probability"], answer:1},
+     {q:"If a recipe needs 4 cups of water to serve 8 people, how much water is needed for 4 people?", options:["1 cup","8 cups","4 cups","2 cups"], answer:3},
+     {q:"Why is it useful to combine multiple math skills, like ratios and volume, to solve a real-world problem?", options:["This concept has no connection to math","Combining skills never helps solve any problem","Every real-world problem only ever needs one single skill","Real-world problems often require more than one math concept to solve completely"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Hurricanes and Tornadoes", summary:"Grade 5 Science strand: hurricanes are large, rotating storms that form over warm ocean water, while tornadoes are smaller, fast-spinning columns of air that can form quickly over land during severe thunderstorms.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Where do hurricanes typically form?", options:["Over warm ocean water","Only over deserts","A concept unrelated to weather","Over cold mountain peaks"], answer:0},
+     {q:"Are tornadoes generally larger or smaller than hurricanes?", options:["A concept unrelated to storms","Exactly the same size","Larger","Smaller"], answer:3},
+     {q:"Can tornadoes form quickly over land during severe thunderstorms?", options:["A concept unrelated to tornadoes","Tornadoes only ever form over the ocean","No, tornadoes never form quickly","Yes"], answer:3},
+     {q:"Why do hurricanes need warm ocean water to form and grow stronger?", options:["This concept has no relevance to science","Hurricanes actually form over cold ocean water instead","Warm water provides the heat and moisture that fuel the storm’s energy","Warm ocean water has no connection to hurricanes"], answer:2},
+     {q:"Why is it important for communities in tornado-prone areas to have a safety plan?", options:["This concept has no connection to severe weather safety","Tornadoes can form and strike with very little warning","Communities never need any plan for severe weather","Tornadoes are never dangerous to any community"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of Canadian Universities and Education", summary:"Grade 5 Social Studies strand: Canada’s system of higher education has grown over time, from its earliest universities in the 1800s to today’s wide network of colleges and universities across the country.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Has Canada’s system of higher education grown and changed over time?", options:["Yes","A concept unrelated to Canadian history","Canada has never had any universities","No, it has always been exactly the same"], answer:0},
+     {q:"Around what century did Canada’s earliest universities begin?", options:["The 1800s","The 1600s","A concept unrelated to Canadian history","The 2000s"], answer:0},
+     {q:"Does Canada today have a wide network of colleges and universities?", options:["No, Canada has only ever had one single university","Higher education does not exist in Canada","A concept unrelated to education","Yes"], answer:3},
+     {q:"Why might access to higher education be important for a country’s development?", options:["Higher education has no connection to a country’s development","Higher education never benefits a country in any way","It can help build a skilled workforce and support innovation","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might studying the history of education help students understand how opportunities have changed over time?", options:["The history of education never changes over time","This concept has no connection to social studies","It shows how access to schooling and universities has expanded for more people over the years","Educational opportunities have always been identical throughout history"], answer:2}
+   ]},
+]},
+{day:90, label:"Day 90 — Fri", subjects:[
+  {subject:"Language", title:"Review: Tone, Grammar, and Figurative Language (Days 81-89)", summary:"Grade 5 Language strand review: students revisit tone, gerunds and participles, compare-and-contrast essays, allusion, satire, appositives, Greek and Latin roots, letters to the editor, and multiple perspectives.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call the author’s attitude toward a subject, shown through word choice?", options:["The setting","A concept unrelated to reading","Tone","The plot"], answer:2},
+     {q:"A gerund is a verb form ending in -ing that acts as a ___.", options:["Adverb","Noun","Adjective","Preposition"], answer:1},
+     {q:"What do we call a brief reference to a well-known person, event, or work?", options:["An allusion","A metaphor","A homophone","A concept unrelated to figurative language"], answer:0},
+     {q:"What literary technique uses humour or exaggeration to criticize flaws in society?", options:["A concept unrelated to reading","Satire","A biography","A recipe"], answer:1},
+     {q:"What do we call a noun or phrase placed next to another noun to rename or explain it?", options:["A verb","An appositive","A preposition","A concept unrelated to grammar"], answer:1}
+   ]},
+  {subject:"Math", title:"Review: Proportions, Geometry, and Probability (Days 81-89)", summary:"Grade 5 Math strand review: students revisit scaling recipes, cylinder volume, box-and-whisker plots, two-step equations, unit conversions, Fibonacci-like sequences, misleading graphs, and independent versus dependent events.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"If a recipe needs 2 cups of flour to serve 4 people, how much flour is needed to serve 8 people?", options:["2 cups","4 cups","1 cup","8 cups"], answer:1},
+     {q:"To find the volume of a cylinder, you multiply the area of its base by its ___.", options:["Diameter","Circumference","Height","Radius only"], answer:2},
+     {q:"How many key values does a box-and-whisker plot use to display data?", options:["Two","Ten","Five","Three"], answer:2},
+     {q:"If 2n equals 8, what is the value of n?", options:["16","2","8","4"], answer:3},
+     {q:"Does drawing a card and not replacing it before drawing again count as an independent or dependent event?", options:["Neither independent nor dependent","Dependent","Independent","A concept unrelated to probability"], answer:1}
+   ]},
+  {subject:"Science", title:"Review: Body Systems, Earth Science, and Physical Science (Days 81-89)", summary:"Grade 5 Science strand review: students revisit genetics, the lymphatic system, sustainable forestry, satellites, acids and bases, wetlands, earthquake-resistant design, batteries, and hurricanes and tornadoes.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Why do offspring often resemble their parents?", options:["Offspring never resemble their parents at all","Resemblance is always completely random","They inherit traits through genetic information","A concept unrelated to genetics"], answer:2},
+     {q:"What body system helps fight infection and remove waste, working with the immune system?", options:["The digestive system","The skeletal system","The lymphatic system","A concept unrelated to the body"], answer:2},
+     {q:"Is lemon juice an example of an acid or a base?", options:["Neither an acid nor a base","An acid","A concept unrelated to chemistry","A base"], answer:1},
+     {q:"What do engineers use to help buildings withstand earthquakes?", options:["Only decorative features","A concept unrelated to structures","No special design at all","Earthquake-resistant design"], answer:3},
+     {q:"Where do hurricanes typically form?", options:["Over cold mountain peaks","Over warm ocean water","Only over deserts","A concept unrelated to weather"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Canadian Identity, Global Roles, and Education (Days 81-89)", summary:"Grade 5 Social Studies strand review: students revisit Canada’s space program, the CFL, world time zones, refugees, postal history, the national anthem, NGOs, mining, and Canadian higher education.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of Canada’s space agency?", options:["A concept unrelated to Canada","A private space company only","A branch of a different country’s space program","The Canadian Space Agency"], answer:3},
+     {q:"What do we call someone who has fled their home country due to danger?", options:["A student on vacation","A refugee","A concept unrelated to migration","A tourist"], answer:1},
+     {q:"In what year did O Canada officially become Canada’s national anthem?", options:["1867","1950","1900","1980"], answer:3},
+     {q:"What does NGO stand for?", options:["National government office","Non-governmental organization","A concept unrelated to organizations","New government order"], answer:1},
+     {q:"Around what century did Canada’s earliest universities begin?", options:["The 1600s","The 2000s","A concept unrelated to Canadian history","The 1800s"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
