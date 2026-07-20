@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Audience and Purpose in Writing", summary:"Analyze how audience and purpose shape every choice a writer makes — from tone and vocabulary to format and evidence — and apply this to your own writing (ENL1W Strand B).",
    resourceLabel:"YouTube: Audience and Purpose in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Audience%20and%20Purpose%20in%20Writing%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=h9S6-2vqYsY",
    quiz:[
      {q:"Identifying your audience before writing helps you choose...", options:["Only the font size","Vocabulary and tone for that reader","The number of paragraphs regardless of content","Only the page margins"], answer:1},
      {q:"The purpose of a piece of writing might be to...", options:["Never use the first person","Only use the longest words possible","Inform, persuade, entertain, or reflect","Only reach exactly 500 words"], answer:2},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Proportions and Rates", summary:"Set up and solve proportions and use unit rates to solve real-world problems involving ratios and comparisons (MTH1W Number Sense/Proportional Reasoning strand).",
    resourceLabel:"YouTube: Solving Proportions and Rates", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Proportions%20and%20Rates%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=em7jSY16_NY",
    quiz:[
      {q:"A proportion states that two ratios are...", options:["Added together","Subtracted","Multiplied","Equal"], answer:3},
      {q:"Solve the proportion: 3/4 = x/12", options:["x = 6","x = 9","x = 4","x = 16"], answer:1},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Carbon and Nitrogen Cycles", summary:"Describe how carbon and nitrogen cycle through living organisms and the environment, and explain the impact of human activity on these cycles (SNC1W Biology/Environment strand).",
    resourceLabel:"YouTube: The Carbon and Nitrogen Cycles", resourceUrl:"https://www.youtube.com/results?search_query=The%20Carbon%20and%20Nitrogen%20Cycles%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NHqEthRCqQ4",
    quiz:[
      {q:"The carbon cycle describes how carbon moves between...", options:["Only living organisms, with no role for rocks or water","The atmosphere, life, oceans, and crust","Only the atmosphere and the ocean","Only plants and animals"], answer:1},
      {q:"Human burning of fossil fuels affects the carbon cycle by...", options:["Only affecting ocean carbon, not the atmosphere","Having no measurable effect on the cycle","Releasing stored carbon as CO₂","Removing CO₂ from the atmosphere"], answer:2},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Public Health and Disease Spread (General)", summary:"Examine how geographic factors — climate, density, mobility, access to healthcare — influence the spread of disease and public health outcomes (CGC1W — general and factual).",
    resourceLabel:"YouTube: Geography of Public Health and Disease Spread (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Public%20Health%20and%20Disease%20Spread%20%28General%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MtlReVQjc9Y",
    quiz:[
      {q:"Geographic factors that can influence how a disease spreads include...", options:["Only the temperature of a region","Only urban land use with no connection to healthcare access","Only the political system of a country","Density, transport, and climate"], answer:3},
      {q:"A pandemic is defined as a disease outbreak that...", options:["Only occurs in tropical climates","Spreads across countries worldwide","Only affects wildlife","Only affects one city"], answer:1},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Revising for Clarity and Conciseness", summary:"Apply revision strategies to eliminate wordiness, awkward phrasing, and redundancy, and to ensure every sentence clearly communicates its intended meaning (ENL1W Strand B).",
    resourceLabel:"YouTube: Revising for Clarity and Conciseness", resourceUrl:"https://www.youtube.com/results?search_query=Revising%20for%20Clarity%20and%20Conciseness%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hhVic18H4u4",
    quiz:[
      {q:"Concise writing means...", options:["Using as many words as possible to fill space","Expressing ideas clearly, briefly","Avoiding all descriptive language","Only writing one-sentence paragraphs"], answer:1},
      {q:"Which revision improves clarity and conciseness? Original: 'Due to the fact that it was raining, we decided to go inside.'", options:["'Because it was raining, we went inside.'","'Due to rain, a decision was made by us to proceed inside.'","'We went inside.' (removing all reason)","'The rain caused us to make the decision that we should go inside the building.'"], answer:0},
@@ -1161,6 +1166,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Circular Economy and Waste Management Geography", summary:"Describe the principles of the circular economy (reduce, reuse, recycle, recover) and examine the geographic dimensions of waste generation and management (CGC1W).",
    resourceLabel:"YouTube: Circular Economy and Waste Management Geography", resourceUrl:"https://www.youtube.com/results?search_query=Circular%20Economy%20and%20Waste%20Management%20Geography%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=K6ppCC3lboU",
    quiz:[
      {q:"A circular economy differs from a linear economy ('take, make, dispose') in that it aims to...", options:["Only recycle plastics, not other materials","Extract and dispose of resources as quickly as possible","Keeping materials in use longer","Have no economic activity"], answer:2},
      {q:"E-waste (discarded electronic devices) is a growing geographic issue because...", options:["It is always safely recycled in the country of origin","It has no toxic components","It's often toxic and shipped abroad","It only affects wealthy countries"], answer:2},

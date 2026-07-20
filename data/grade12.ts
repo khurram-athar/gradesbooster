@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Writing Workshop: Style, Voice, and the Sentence", summary:"Students examine prose style at the level of the sentence — rhythm, syntax, diction — and revise their own writing for greater clarity, precision, and voice.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=kLJE8IYIQEM",
+   videoUrl:"https://www.youtube.com/watch?v=N70D6xP0aQo",
    quiz:[
      {q:"Prose style at the sentence level includes ___.", options:["only grammar and spelling","only sentence length","only vocabulary choice","rhythm, syntax, and diction together"], answer:3},
      {q:"Varying sentence length in academic prose ___.", options:["shows inconsistent style","has no effect on the reader","should be avoided in formal writing","creates rhythm and emphasis"], answer:3},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Advanced Functions: Final Exam Preparation", summary:"Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=LkwT1GQVJP8",
+   videoUrl:"https://www.youtube.com/watch?v=5NadGZg4lfI",
    quiz:[
      {q:"Determine all values of k for which x³ + 5x² + kx + 2 has (x+2) as a factor.", options:["k = 3","k = 5","P(−2) = 0: −8+20−2k+2=0 → 14−2k=0 → k=7","k = −7"], answer:2},
      {q:"Find the scalar equation of the plane through P(1,2,3), Q(2,−1,0), R(4,1,2).", options:["3x+4y+4z = 6","3x−4y+4z = 0","x+y+z = 6","3x+4y−4z = −1"], answer:3},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Final Exam Preparation", summary:"Rigorous examination-level problems for Calculus and Vectors.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=6HkBGVPWIXA",
+   videoUrl:"https://www.youtube.com/watch?v=WsQQvHm4lSw",
    quiz:[
      {q:"Find the area between y=e^x, y=x, x=0, x=1.", options:["e − 1","e − 3/2 ≈ 1.218","1/2","e"], answer:1},
      {q:"A particle has velocity v(t) = 3t² − 6t. Find the displacement from t=0 to t=3.", options:["3","0 (returns to start)","−9","9"], answer:1},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Final Exam Preparation", summary:"Comprehensive examination-level physics problems spanning all SPH4U topics.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+   videoUrl:"https://www.youtube.com/watch?v=CwkhvFlNFp0",
    quiz:[
      {q:"A 0.5 kg ball on a 1 m string moves in a horizontal circle at 3 m/s. Tension in string (ignore gravity):", options:["T = mv²/r = 0.5×9/1 = 4.5 N","T = 1.5/1 = 1.5 N","T = 5 N","T = 0.5 × 3 = 1.5 N"], answer:0},
      {q:"Two parallel plates 0.01 m apart with potential difference 100 V. Electric field between plates:", options:["E = 1000 V/m","E = 100 V/m","E = 10 V/m","E = V/d = 100/0.01 = 10,000 V/m"], answer:3},

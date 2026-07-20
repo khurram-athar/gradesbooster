@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Grade 4 Writing strand: editing focuses on content and organization; proofreading focuses on spelling, grammar, and punctuation. Both improve the final piece.",
    resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nkAT7uUKQ2U",
    quiz:[
      {q:"Editing involves ___.", options:["improving content and structure","only punctuation","fixing spelling mistakes","copying neatly"], answer:0},
      {q:"Proofreading involves ___.", options:["only capitals","rewriting the whole piece","checking for spelling, grammar, and punctuation errors","adding new ideas"], answer:3},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Grade 4 Data review: tally charts, bar graphs, line graphs, pictographs, and probability.",
    resourceLabel:"YouTube: Review: Data and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Data%20and%20Probability%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"Which graph is BEST for showing change over time?", options:["Pictograph","Line graph","Tally chart","Bar graph"], answer:1},
      {q:"Which graph is BEST for comparing categories at one time?", options:["Bar graph","Scatter plot","None","Line graph"], answer:0},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Materials and Earth", summary:"Grade 4 Science review: rocks, minerals, soil, mixtures, solutions, physical/chemical changes, and the rock cycle.",
    resourceLabel:"YouTube: Review: Materials and Earth", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Materials%20and%20Earth%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
    quiz:[
      {q:"The three rock types are ___.", options:["volcanic, beach, mountain","hard, soft, medium","granite, marble, slate","igneous, sedimentary, metamorphic"], answer:3},
      {q:"A solution differs from a mixture because ___.", options:["the solute dissolves completely","mixtures are permanent","solutions always involve water","they are the same"], answer:0},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Canada's History and Geography", summary:"Grade 4 Social Studies review: Canadian geography, exploration, Indigenous peoples, Confederation, and citizenship.",
    resourceLabel:"YouTube: Review: Canada's History and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canada%27s%20History%20and%20Geography%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Confederation year?", options:["1914","1776","1867","1759"], answer:2},
      {q:"Canada has ___ official languages.", options:["4","1","2","3"], answer:2},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Grammar Review", summary:"Grade 4 Language strand comprehensive grammar review: parts of speech, sentence types, punctuation, and sentence construction.",
    resourceLabel:"YouTube: Grammar Review", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%20Review%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=askbs77a_zI",
    quiz:[
      {q:"Which sentence is a compound sentence?", options:["She is happy.","Running fast.","The dog runs.","I wanted to go, but it was raining."], answer:3},
      {q:"A complex sentence contains ___.", options:["only a dependent clause","two independent clauses","no verbs","an independent and a dependent clause"], answer:3},
@@ -1143,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Math Review: All Strands", summary:"Grade 4 Mathematics comprehensive review covering number, geometry, measurement, patterning, and data.",
    resourceLabel:"YouTube: Math Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20All%20Strands%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PaUSCmA06Hk",
    quiz:[
      {q:"7 × 9 = ?", options:["56","54","63","64"], answer:2},
      {q:"Area of 6 cm × 8 cm rectangle = ?", options:["14 cm²","28 cm²","48 cm²","42 cm²"], answer:2},
@@ -1152,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: All Strands", summary:"Grade 4 Science comprehensive review across life, earth, materials, and energy strands.",
    resourceLabel:"YouTube: Science Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
    quiz:[
      {q:"What is biodiversity?", options:["A food chain","A weather pattern","A type of rock","The variety of life in an ecosystem"], answer:3},
      {q:"Which rock forms from cooled magma?", options:["Igneous","Limestone","Metamorphic","Sedimentary"], answer:0},
@@ -1161,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Review: All Topics", summary:"Grade 4 Social Studies comprehensive review across heritage, identity, government, and geography strands.",
    resourceLabel:"YouTube: Social Studies Review: All Topics", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20All%20Topics%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
    quiz:[
      {q:"Which ancient civilization developed the Olympic Games?", options:["Egypt","Greece","Rome","China"], answer:1},
      {q:"Canada became a country through ___.", options:["a revolution","winning a war","Confederation in 1867","being given independence"], answer:2},

@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Varying Sentence Length for Effect", summary:"Skilled writers vary sentence length and structure to control pacing, build tension, and emphasize key ideas.",
    resourceLabel:"YouTube: Varying Sentence Length for Effect", resourceUrl:"https://www.youtube.com/results?search_query=Varying%20Sentence%20Length%20for%20Effect%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IgEN9iKcZ5s",
    quiz:[
      {q:"Using several short sentences in a row can create a feeling of...", options:["Urgency or tension","Slow, relaxed pacing","Nothing in particular","Confusion only"], answer:0},
      {q:"A long, flowing sentence can be used to...", options:["Make text harder to read with no purpose","End an essay abruptly","Create a calm or descriptive effect","Always confuse the reader"], answer:2},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Negative Number Applications", summary:"Negative numbers represent values below a reference point, such as temperatures below zero or elevations below sea level.",
    resourceLabel:"YouTube: Negative Number Applications", resourceUrl:"https://www.youtube.com/results?search_query=Negative%20Number%20Applications%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OAoLCXpao6s",
    quiz:[
      {q:"A temperature of -5°C is...", options:["5 degrees below 0°C","5 degrees above freezing","The same as 5°C","Impossible"], answer:0},
      {q:"An elevation of -100 m means a location is...", options:["At sea level exactly","100 m below sea level","100 km below sea level","100 m above sea level"], answer:1},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems and Energy Flow (Food Pyramids)", summary:"Energy flows through an ecosystem from producers to consumers, with less energy available at each higher level of a food pyramid.",
    resourceLabel:"YouTube: Ecosystems and Energy Flow (Food Pyramids)", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Energy%20Flow%20%28Food%20Pyramids%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-oVavgmveyY",
    quiz:[
      {q:"In a food pyramid, producers are typically located...", options:["At the bottom, as the base","Outside the pyramid","At the top","Nowhere; they aren't included"], answer:0},
      {q:"As energy moves up a food pyramid, the amount of available energy...", options:["Decreases at each level","Stays exactly the same","Disappears completely","Increases at each level"], answer:0},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Relationship with the United States", summary:"Canada and the United States share the world's longest border and a close relationship built on trade, culture, and cooperation.",
    resourceLabel:"YouTube: Canada's Relationship with the United States", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Relationship%20with%20the%20United%20States%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Canada and the United States share...", options:["A border only in the Arctic","The same government","No border at all","The world's longest international border"], answer:3},
      {q:"Trade between Canada and the U.S. involves...", options:["A large daily flow of goods","No exchange of goods","Illegal activity only","Only Canadian exports with no U.S. exports"], answer:0},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Peer Editing and Feedback Strategies", summary:"Effective peer editors give specific, constructive feedback focused on both strengths and areas for improvement in a piece of writing.",
    resourceLabel:"YouTube: Peer Editing and Feedback Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Peer%20Editing%20and%20Feedback%20Strategies%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dvxEoW2waac",
    quiz:[
      {q:"Constructive feedback should be...", options:["Only about spelling","Specific and helpful","Only negative","Vague and general"], answer:1},
      {q:"A good peer editing strategy is to...", options:["Only point out everything wrong","Rewrite the whole piece yourself","Ignore the writer's intent","Point out strengths and suggest fixes"], answer:3},
@@ -1143,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Independent Events and Tree Diagrams", summary:"Independent events don't affect each other's outcomes; tree diagrams help visualize and calculate probabilities of combined events.",
    resourceLabel:"YouTube: Probability: Independent Events and Tree Diagrams", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Independent%20Events%20and%20Tree%20Diagrams%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jcggUGY3vIg",
    quiz:[
      {q:"Two events are independent if...", options:["One event's outcome affects the other","They always happen together","They can never both happen","One event doesn't affect the other"], answer:3},
      {q:"A tree diagram is useful for...", options:["Calculating area","Measuring distance","Visualizing outcomes of combined events","Graphing linear relations"], answer:2},
@@ -1152,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Technological Design Process Applied to a Real Problem", summary:"Engineers and designers apply a structured process — identifying a problem, brainstorming, prototyping, testing, and improving — to solve real-world challenges.",
    resourceLabel:"YouTube: Technological Design Process Applied to a Real Problem", resourceUrl:"https://www.youtube.com/results?search_query=Technological%20Design%20Process%20Applied%20to%20a%20Real%20Problem%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=W-eqjMc1Efs",
    quiz:[
      {q:"The first step in solving a design problem is usually to...", options:["Skip planning","Define the problem and success criteria","Build the final product","Sell the idea"], answer:1},
      {q:"Brainstorming multiple solutions before building helps designers...", options:["Waste time with no benefit","Compare different approaches before committing","Eliminate the need for testing","Avoid considering options"], answer:1},
@@ -1161,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Sustainable Development Goals (Intro)", summary:"The United Nations' Sustainable Development Goals are a shared global framework aiming to address issues like poverty, inequality, and environmental protection by 2030.",
    resourceLabel:"YouTube: Sustainable Development Goals (Intro)", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Development%20Goals%20%28Intro%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7dzFbP2AgFo",
    quiz:[
      {q:"The Sustainable Development Goals were created by...", options:["A private company","A single country acting alone","The United Nations and member countries","No organization at all"], answer:2},
      {q:"The SDGs aim to address global issues such as...", options:["Poverty, inequality, and environment","Only space exploration","Only sports development","Nothing related to people's lives"], answer:0},

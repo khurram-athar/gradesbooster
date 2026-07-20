@@ -1116,6 +1116,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Using Describing Words in Writing", summary:"Describing words (adjectives and adverbs) make writing more interesting and detailed. Instead of 'The cat ran,' you could write 'The small, fluffy cat ran quickly.'",
    resourceLabel:"YouTube: Using Describing Words in Writing", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Describing%20Words%20in%20Writing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MofJXWoGOdY",
    quiz:[
      {q:"Which sentence uses the BEST describing words?", options:["The cat ran.","Something happened.","A thing moved.","The small fluffy cat ran quickly."], answer:3},
      {q:"Which word is an adjective (describes a noun)?", options:["Fluffy","Jumped","Run","Quickly"], answer:0},
@@ -1125,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction Within 100 (Review and Challenge)", summary:"Practice subtracting two-digit numbers. Remember to subtract the ones first, then the tens.",
    resourceLabel:"YouTube: Subtraction Within 100 (Review and Challenge)", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28Review%20and%20Challenge%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ds226Vh7epg",
    quiz:[
      {q:"87 - 34 = ?", options:["53","52","54","63"], answer:0},
      {q:"69 - 25 = ?", options:["43","44","45","54"], answer:1},
@@ -1134,6 +1136,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather and How We Measure It", summary:"Scientists called meteorologists study weather. They use thermometers to measure temperature, rain gauges to measure rainfall, and wind vanes to find wind direction.",
    resourceLabel:"YouTube: Weather and How We Measure It", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20How%20We%20Measure%20It%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fPneyo-KiZo",
    quiz:[
      {q:"What is a meteorologist?", options:["A geologist","An astronaut","A doctor","A scientist who studies weather"], answer:3},
      {q:"What tool measures how much rain has fallen?", options:["Rain gauge","Magnifying glass","Thermometer","Wind vane"], answer:0},
@@ -1143,6 +1146,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Regions and Geography", summary:"Canada is a huge country with many different regions — the mountains of British Columbia, the prairies of Alberta and Saskatchewan, the Great Lakes area, and the Atlantic coast all have different landscapes and ways of life.",
    resourceLabel:"YouTube: Canada's Regions and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Regions%20and%20Geography%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"Which province is known for the Rocky Mountains?", options:["Ontario","Prince Edward Island","British Columbia","Nova Scotia"], answer:2},
      {q:"The prairies in Canada are known for...", options:["Tropical beaches","Tall mountains","Deep oceans","Flat farmland and wheat fields"], answer:3},
@@ -1154,6 +1158,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Reading for Details", summary:"When we read for details, we look for specific information — who, what, where, when, and how. Details support the main idea and help us understand the story better.",
    resourceLabel:"YouTube: Reading for Details", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20for%20Details%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OHuJWfpsRrM",
    quiz:[
      {q:"What are 'details' in a text?", options:["The title only","The main idea only","Facts that support the main idea","Random words"], answer:2},
      {q:"If a story says 'Maya walked her golden dog to the sunny park,' what detail tells us WHAT the dog looks like?", options:["Walked","Maya","Park","Golden"], answer:3},
@@ -1163,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting Coins and Making Change", summary:"We can add different coins together to make a total. We can also figure out how much change we receive when we pay for something.",
    resourceLabel:"YouTube: Counting Coins and Making Change", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Coins%20and%20Making%20Change%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MbtmucV-U2c",
    quiz:[
      {q:"What is the total value of 1 quarter, 1 dime, and 1 nickel?", options:["40¢","45¢","35¢","30¢"], answer:0},
      {q:"If something costs 20¢ and you pay with a quarter (25¢), how much change do you get?", options:["5¢","10¢","15¢","4¢"], answer:0},
@@ -1172,6 +1178,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines Around Us", summary:"Simple machines make work easier. We have learned about levers, ramps (inclined planes), and wheels. Other simple machines include pulleys and wedges. They help us lift, move, or cut things.",
    resourceLabel:"YouTube: Simple Machines Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%20Around%20Us%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"Which simple machine is a ramp also known as?", options:["Inclined plane","Wedge","Lever","Pulley"], answer:0},
      {q:"A door stopper that holds a door open is an example of a...", options:["Wedge","Lever","Pulley","Wheel"], answer:0},
@@ -1181,6 +1188,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Why Rules and Laws are Important", summary:"Communities use rules and laws to make sure everyone is treated fairly and can stay safe. Laws are made by governments, and everyone in a community must follow them.",
    resourceLabel:"YouTube: Why Rules and Laws are Important", resourceUrl:"https://www.youtube.com/results?search_query=Why%20Rules%20and%20Laws%20are%20Important%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5dtuZkposkk",
    quiz:[
      {q:"Who creates laws for a community or country?", options:["Children only","Nobody","The government","One person alone"], answer:2},
      {q:"Why are traffic laws like traffic lights important?", options:["They are optional","They just look nice","They keep drivers and walkers safe","They are only for trucks"], answer:2},

@@ -6405,6 +6405,7 @@
         "summary": "Students examine prose style at the level of the sentence — rhythm, syntax, diction — and revise their own writing for greater clarity, precision, and voice.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=kLJE8IYIQEM",
+        "videoUrl": "https://www.youtube.com/watch?v=N70D6xP0aQo",
         "quiz": [
           {
             "q": "Prose style at the sentence level includes ___.",
@@ -6464,6 +6465,7 @@
         "summary": "Rigorous examination-level practice with full worked solutions for all Advanced Functions topics.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=LkwT1GQVJP8",
+        "videoUrl": "https://www.youtube.com/watch?v=5NadGZg4lfI",
         "quiz": [
           {
             "q": "Determine all values of k for which x³ + 5x² + kx + 2 has (x+2) as a factor.",
@@ -6523,6 +6525,7 @@
         "summary": "Rigorous examination-level problems for Calculus and Vectors.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=6HkBGVPWIXA",
+        "videoUrl": "https://www.youtube.com/watch?v=WsQQvHm4lSw",
         "quiz": [
           {
             "q": "Find the area between y=e^x, y=x, x=0, x=1.",
@@ -6582,6 +6585,7 @@
         "summary": "Comprehensive examination-level physics problems spanning all SPH4U topics.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
+        "videoUrl": "https://www.youtube.com/watch?v=CwkhvFlNFp0",
         "quiz": [
           {
             "q": "A 0.5 kg ball on a 1 m string moves in a horizontal circle at 3 m/s. Tension in string (ignore gravity):",

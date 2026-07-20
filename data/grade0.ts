@@ -1116,6 +1116,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading: Simple Sentences", summary:"Students read and understand simple sentences. They identify the naming part (who or what) and the action part (what they do).",
    resourceLabel:"YouTube: Reading: Simple Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Simple%20Sentences%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PEYlyt7C94E",
    quiz:[
      {q:"A sentence has a naming part and an ___ part.", options:["action","describing","eating","colouring"], answer:0},
      {q:"In 'The cat runs fast,' the naming part is ___.", options:["fast and runs","runs","The cat","fast"], answer:2},
@@ -1125,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting Back: Subtraction", summary:"Students use counting back as a strategy for subtraction within 20.",
    resourceLabel:"YouTube: Counting Back: Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Back%3A%20Subtraction%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QhR1SEK49qM",
    quiz:[
      {q:"To subtract 3 from 9, count back 3 from 9. Answer = ?", options:["5","7","8","6"], answer:3},
      {q:"10 - 4: count back 4 from 10. Answer = ?", options:["8","7","6","5"], answer:2},
@@ -1134,6 +1136,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Materials Around Us", summary:"Students explore everyday materials (wood, plastic, metal, fabric, glass) and their properties such as hard, soft, bendy, and transparent.",
    resourceLabel:"YouTube: Materials Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Materials%20Around%20Us%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=340MmuY_osY",
    quiz:[
      {q:"Wood is usually described as ___.", options:["transparent","hard and solid","liquid","soft and bendy"], answer:1},
      {q:"Which material lets light through (is transparent)?", options:["Fabric","Wood","Metal","Glass"], answer:3},
@@ -1143,6 +1146,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Special Days and Celebrations", summary:"Students explore special days celebrated in their community and around the world, recognising that different cultures celebrate in unique ways.",
    resourceLabel:"YouTube: Special Days and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Special%20Days%20and%20Celebrations%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
    quiz:[
      {q:"A celebration is ___.", options:["a special occasion people mark","a type of building","a type of food","a school subject"], answer:0},
      {q:"Which is a Canadian celebration?", options:["Canada Day (July 1)","Chinese New Year","Eid al-Fitr (Islamic)","Diwali (Hindu/Sikh)"], answer:0},
@@ -1154,6 +1158,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: My Favourite Thing", summary:"Students practise simple sentence writing about a personal favourite topic, using a capital letter, words, and a period.",
    resourceLabel:"YouTube: Writing: My Favourite Thing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Favourite%20Thing%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DahZQg1YwQI",
    quiz:[
      {q:"A sentence starts with a ___ letter.", options:["capital (uppercase)","lowercase","number","random"], answer:0},
      {q:"A sentence ends with a ___.", options:["slash","comma","an ending punctuation mark","capital letter"], answer:2},
@@ -1163,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Stories", summary:"Students create and solve simple addition and subtraction number stories using pictures and equations.",
    resourceLabel:"YouTube: Number Stories", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Stories%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nRVRFmAZD-Q",
    quiz:[
      {q:"A number story is ___.", options:["a book about numbers","a fairy tale","a maths problem described in words","only about counting"], answer:2},
      {q:"There are 3 birds on a branch. 2 more land. How many now?", options:["3","5","4","6"], answer:1},
@@ -1172,6 +1178,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Living and Non-Living Review", summary:"Students review the differences between living things (grow, breathe, reproduce, respond) and non-living things (do not do these things).",
    resourceLabel:"YouTube: Living and Non-Living Review", resourceUrl:"https://www.youtube.com/results?search_query=Living%20and%20Non-Living%20Review%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kBL9-RFhnbM",
    quiz:[
      {q:"Living things can ___.", options:["never change","grow, breathe, and reproduce","glow in the dark","fly always"], answer:1},
      {q:"A rock is non-living because it ___.", options:["grows","does not grow, breathe, or reproduce","reproduces","breathes"], answer:1},
@@ -1181,6 +1188,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Caring for the Earth", summary:"Students review environmental responsibility: conserving water, reducing waste, protecting animals and plants, and making choices that help the planet.",
    resourceLabel:"YouTube: Caring for the Earth", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20the%20Earth%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=belXC_IoW4o",
    quiz:[
      {q:"Conserving water means ___.", options:["using as much water as possible","only drinking water","wasting water daily","using water carefully and not wasting it"], answer:3},
      {q:"Which action helps protect the Earth?", options:["Leaving taps running","Throwing litter in parks","Turning off lights when leaving a room","Buying more plastic bags"], answer:2},

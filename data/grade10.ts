@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Media: Social Media and Identity", summary:"Students analyse how social media platforms construct and perform identity, and examine the mental health, social, and political implications.",
    resourceLabel:"YouTube: Media: Social Media and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Social%20Media%20and%20Identity%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z1BpYDkGoAs",
    quiz:[
      {q:"Social media platforms are ___.", options:["only entertainment","neutral tools that reflect real life","shaped by algorithms and monetisation","always harmful"], answer:2},
      {q:"The 'performance of self' on social media means ___.", options:["everyone acts completely natural online","social media shows the real you always","only celebrities perform identity online","users curate a self for their audience"], answer:3},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Personal Finance: Practical Mathematics", summary:"Students apply math to real personal finance scenarios — tax filing, credit, mortgages, insurance — relevant to their near future.",
    resourceLabel:"YouTube: Personal Finance: Practical Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Personal%20Finance%3A%20Practical%20Mathematics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ytVneQUA5-c",
    quiz:[
      {q:"A credit score measures ___.", options:["your income","your creditworthiness","how much money you have","your tax bracket"], answer:1},
      {q:"Compound interest on debt (like a credit card at 20% APR) is ___.", options:["easy to pay off","irrelevant if you make minimum payments","extremely expensive over time","beneficial to the borrower"], answer:2},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Environmental Decision Making", summary:"Students apply scientific knowledge to make and justify environmental decisions, practising evidence-based reasoning and ethical analysis.",
    resourceLabel:"YouTube: Science: Environmental Decision Making", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Environmental%20Decision%20Making%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5hrWtoD3XWk",
    quiz:[
      {q:"A life cycle assessment (LCA) ___.", options:["only considers manufacturing cost","only measures CO₂","examines a product's whole-life impact","evaluates only the end-of-life disposal"], answer:2},
      {q:"Greenwashing refers to ___.", options:["misleading green claims, no real change","genuine environmental improvement","reducing a company's carbon footprint","government environmental regulation"], answer:0},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Year-End Exam Preparation: Canadian History and Civics", summary:"Students review key concepts and practise historical thinking skills for assessment.",
    resourceLabel:"YouTube: Year-End Exam Preparation: Canadian History and Civics", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Exam%20Preparation%3A%20Canadian%20History%20and%20Civics%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"The most testable skill in Canadian history is ___.", options:["memorising dates and names","historical thinking","only knowing WWII","only understanding the Constitution"], answer:1},
      {q:"When answering a source-analysis question in history, you should ___.", options:["describe what you see only","ignore the source's context","copy the source text","identify and evaluate the source"], answer:3},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Writing: Reflecting on Grade 10 English", summary:"Students write a final metacognitive reflection on their development as readers, writers, and thinkers in Grade 10.",
    resourceLabel:"YouTube: Writing: Reflecting on Grade 10 English", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Reflecting%20on%20Grade%2010%20English%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YuTZjnMYa9o",
    quiz:[
      {q:"Metacognitive reflection means ___.", options:["only writing what you enjoyed","summarising essay grades","listing all the books read","thinking about your own learning"], answer:3},
      {q:"The most important growth in Grade 10 English is ___.", options:["writing speed","the development of analytical thinking","perfect grammar","vocabulary size"], answer:1},
@@ -1143,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mathematics: Year-End Summary and Growth Reflection", summary:"Students reflect on their mathematical growth in Grade 10 and the role of mathematical thinking in their lives.",
    resourceLabel:"YouTube: Mathematics: Year-End Summary and Growth Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Mathematics%3A%20Year-End%20Summary%20and%20Growth%20Reflection%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4H0Kv9gesDM",
    quiz:[
      {q:"The key mathematical concept connecting all Grade 10 topics is ___.", options:["functions — relating quantities","only geometry","only trigonometry","only algebra"], answer:0},
      {q:"Mathematical persistence means ___.", options:["only doing easy problems","giving up when confused","getting every answer right immediately","not giving up on hard problems"], answer:3},

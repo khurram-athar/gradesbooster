@@ -1105,6 +1105,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Pre-High-School Math: Review and Extensions", summary:"Students consolidate all Grade 8 math and preview Grade 9 topics: linear equations, quadratics, and analytic geometry extensions.",
    resourceLabel:"YouTube: Pre-High-School Math: Review and Extensions", resourceUrl:"https://www.youtube.com/results?search_query=Pre-High-School%20Math%3A%20Review%20and%20Extensions%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1MmhAq-XVN0",
    quiz:[
      {q:"In Grade 9 Math, students will extend linear equations to ___.", options:["only simple equations","only factoring","systems with a range of valid answers","only graphing"], answer:2},
      {q:"The quadratic y = x² produces a ___.", options:["hyperbola","circle","parabola","straight line"], answer:2},
@@ -1114,6 +1115,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Lab Skills and Safety Review", summary:"Students review scientific inquiry, lab safety, equipment use, and how to write effective lab reports.",
    resourceLabel:"YouTube: Science: Lab Skills and Safety Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Lab%20Skills%20and%20Safety%20Review%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_X6cCpONibE",
    quiz:[
      {q:"A hypothesis is ___.", options:["a proven fact","the conclusion of an experiment","a random guess","an educated, testable prediction"], answer:3},
      {q:"The independent variable in an experiment is ___.", options:["always temperature","kept constant","the variable the experimenter deliberately changes","what you measure as output"], answer:3},
@@ -1123,6 +1125,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History: The Power of Narrative", summary:"Students examine how the stories we tell about history shape national identity, and whose voices have historically been left out of official narratives.",
    resourceLabel:"YouTube: History: The Power of Narrative", resourceUrl:"https://www.youtube.com/results?search_query=History%3A%20The%20Power%20of%20Narrative%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"Historical narrative refers to ___.", options:["only fiction","only dates and facts","only textbook history","the stories we tell about the past"], answer:3},
      {q:"Dominant historical narratives in Canada have historically ___.", options:["been fully inclusive since Confederation","included all voices equally","been only negative","marginalised or erased Indigenous, Black, and other minority perspectives, presenting European settler experiences as the default Canadian story"], answer:0},
@@ -1134,6 +1137,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: Letter to Future Self", summary:"Students write a formal reflective letter to their future high-school self, synthesising their growth, expressing hopes, and setting intentions.",
    resourceLabel:"YouTube: Writing: Letter to Future Self", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Letter%20to%20Future%20Self%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q6jGzaJjTK8",
    quiz:[
      {q:"A letter to your future self is a form of ___.", options:["news writing","argumentative essay","reflective writing for your future self","formal business writing"], answer:2},
      {q:"Effective reflective writing ___.", options:["lists facts without interpretation","is analytical and honest","avoids personal voice","only summarises events"], answer:1},
@@ -1161,6 +1165,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History Exam Preparation and Reflection", summary:"Students review key concepts, practise historical thinking skills, and reflect on the significance of Grade 8 history for their lives as citizens.",
    resourceLabel:"YouTube: History Exam Preparation and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%20Preparation%20and%20Reflection%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"The historical thinking concepts taught in Grade 8 History include ___.", options:["only reading textbooks","several historical thinking skills","only memorisation of dates","only map skills"], answer:1},
      {q:"Historical significance means ___.", options:["everything that happened is equally important","only sad events are significant","only recent events matter","some events matter more than others"], answer:3},

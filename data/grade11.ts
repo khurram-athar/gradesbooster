@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"English", title:"Culminating Task: Literary Analysis or Creative Piece", summary:"Students complete a major culminating literary analysis essay or creative writing piece that demonstrates the full range of Grade 11 English skills.",
    resourceLabel:"YouTube: Culminating Task: Literary Analysis or Creative Piece", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Task%3A%20Literary%20Analysis%20or%20Creative%20Piece%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sFIVrfTz2jM",
    quiz:[
      {q:"The culminating analytical essay should be different from earlier essays because ___.", options:["it requires less revision","it shows more independence and rigor","it is longer and covers more material","it has fewer paragraphs"], answer:1},
      {q:"A creative writing culminating task at Grade 11 requires ___.", options:["deliberate use of form and voice","only plot and characters","only correct grammar","any topic and no planning"], answer:0},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Culminating Activity and Reflection", summary:"Students complete a culminating problem-solving or application task and reflect on their mathematical development in Grade 11.",
    resourceLabel:"YouTube: Functions: Culminating Activity and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Culminating%20Activity%20and%20Reflection%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zEfzxz21MW4",
    quiz:[
      {q:"A functions culminating task might ask you to ___.", options:["only describe a function without calculating","only graph without analysing","modelling a real-world situation","only compute a single answer"], answer:2},
      {q:"The most important thing you can communicate in your mathematical work is ___.", options:["only a diagram","only a formula","only the correct answer","your reasoning behind each step"], answer:3},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology Culminating: Final Assessment and Reflection", summary:"Students complete their final assessment and reflect on their growth as biologists.",
    resourceLabel:"YouTube: Biology Culminating: Final Assessment and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2046MMjLhMY",
    quiz:[
      {q:"The most important thing about the tree of life (phylogeny) for a Grade 11 biologist is ___.", options:["understanding life's shared ancestry","only the five kingdoms","memorising all species names","only the human branch"], answer:0},
      {q:"Biology's most powerful unifying theory is ___.", options:["germ theory","evolution by natural selection","cell theory","Mendel's laws"], answer:1},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry Culminating: Final Assessment and Reflection", summary:"Students complete their final chemistry assessment and reflect on the year.",
    resourceLabel:"YouTube: Chemistry Culminating: Final Assessment and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
    quiz:[
      {q:"The central insight of chemistry is ___.", options:["that chemistry is only about industry","that only inorganic chemistry matters","that all matter is made of elements","that matter transforms and changes"], answer:3},
      {q:"The most important safety principle in chemistry is ___.", options:["only using chemicals rated 'safe'","only reading the MSDS after an incident","wearing lab coats always","knowing a substance's hazards first"], answer:3},

@@ -1116,6 +1116,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading Fluency", summary:"Ontario Grade 1 Reading strand: reading fluency means reading smoothly, at an appropriate pace, with expression. Practice with familiar texts builds fluency.",
    resourceLabel:"YouTube: Reading Fluency", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Fluency%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jy7OOAy8a-E",
    quiz:[
      {q:"Reading fluency means ___.", options:["Reading only short books","Reading smoothly and with expression","Reading as fast as possible","Reading silently only"], answer:1},
      {q:"Which practice builds reading fluency?", options:["Only reading alone","Reading a new book every day only","Re-reading familiar texts and reading aloud","Only reading in your head"], answer:2},
@@ -1125,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Measurement", summary:"Ontario Grade 1 Measurement strand review: students apply understanding of length, mass, capacity, and time to solve problems.",
    resourceLabel:"YouTube: Review: Measurement", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Measurement%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2wUsdsae0ro",
    quiz:[
      {q:"Which tool measures length?", options:["Clock","Thermometer","Ruler","Scale"], answer:2},
      {q:"Which measures how heavy something is?", options:["Ruler","Scale","Thermometer","Clock"], answer:1},
@@ -1134,6 +1136,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plant Review", summary:"Ontario Grade 1 Life Systems and Earth strand review: students review plant parts, plant needs, life cycles, and the importance of plants to the environment.",
    resourceLabel:"YouTube: Plant Review", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yTzSIXUU_ds",
    quiz:[
      {q:"Which part of a plant makes food?", options:["Root","Seed","Stem","Leaf (through photosynthesis)"], answer:3},
      {q:"What are the four things plants need to grow?", options:["Money, toys, television, games","Electricity, heat, noise, colour","Sunlight, water, air, and nutrients from soil","Books, pencils, chairs, desks"], answer:2},
@@ -1143,6 +1146,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Culture Review", summary:"Ontario Grade 1 Social Studies strand A review: students review key vocabulary and concepts related to culture, including traditions, celebrations, language, and respect for diversity.",
    resourceLabel:"YouTube: Culture Review", resourceUrl:"https://www.youtube.com/results?search_query=Culture%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
    quiz:[
      {q:"Culture includes ___.", options:["Language, traditions, and values","Only clothing","Only food","Only music"], answer:0},
      {q:"How do we show respect for different cultures?", options:["Ignoring them","Copying everything","Learning about them and being fair","Making fun of them"], answer:2},
@@ -1154,6 +1158,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Spelling Patterns: -ight, -ake, -ine", summary:"Ontario Grade 1 Reading strand: spelling patterns help students decode and spell new words. Word families like night, sight, light; cake, lake, make; mine, fine, pine share patterns.",
    resourceLabel:"YouTube: Spelling Patterns: -ight, -ake, -ine", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Patterns%3A%20-ight%2C%20-ake%2C%20-ine%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=B-E3vOwBbqs",
    quiz:[
      {q:"Which word belongs to the -IGHT family?", options:["Cake","Lake","Mine","Night"], answer:3},
      {q:"Which word belongs to the -AKE family?", options:["Night","Right","Light","Cake"], answer:3},
@@ -1163,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Data and Probability", summary:"Ontario Grade 1 Data strand review: students collect, organise, and interpret data using tally charts and pictographs, and explore basic probability.",
    resourceLabel:"YouTube: Review: Data and Probability", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Data%20and%20Probability%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7XuNVVlD98g",
    quiz:[
      {q:"A tally chart uses ___ to count data.", options:["Tally marks","Coins","Pictures","Numbers only"], answer:0},
      {q:"A pictograph uses ___ to show data.", options:["Only numbers","Pictures or symbols","Letters","Only tally marks"], answer:1},
@@ -1172,6 +1178,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth and Weather Review", summary:"Ontario Grade 1 Earth and Space Systems review: students review weather patterns, the water cycle, rocks, soil, and the Sun's role in Earth's systems.",
    resourceLabel:"YouTube: Earth and Weather Review", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Weather%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YbAWny7FV3w",
    quiz:[
      {q:"What causes day and night?", options:["The Moon blocking the Sun","Clouds covering the sky","Earth moving around the Sun","Earth rotating on its axis"], answer:3},
      {q:"The water cycle involves ___.", options:["Only clouds forming","Only rain falling","Evaporation, condensation, precipitation","Only rivers flowing"], answer:2},
@@ -1181,6 +1188,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Citizenship and Community", summary:"Ontario Grade 1 Social Studies review: students review civic concepts including rights, responsibilities, community participation, and environmental stewardship.",
    resourceLabel:"YouTube: Citizenship and Community", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%20and%20Community%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GwU2677jGBA",
    quiz:[
      {q:"What does it mean to be a good citizen?", options:["Doing whatever you want","Following only favourite rules","Ignoring community issues","Being responsible and helping others"], answer:3},
      {q:"Why is voting important in a democracy?", options:["Only important people vote","Citizens choose leaders and have a say","Votes do not count","It is not"], answer:1},

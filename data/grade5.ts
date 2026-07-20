@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Sequence and Chronological Order in Nonfiction", summary:"Nonfiction texts often present events or steps in chronological (time) order, using signal words like 'first,' 'then,' and 'after.'",
    resourceLabel:"YouTube: Sequence and Chronological Order in Nonfiction", resourceUrl:"https://www.youtube.com/results?search_query=Sequence%20and%20Chronological%20Order%20in%20Nonfiction%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_B_ZHOjUrDs",
    quiz:[
      {q:"A recipe lists steps out of order: 'Bake for 20 minutes. Mix the batter. Preheat the oven.' Why does this order cause a problem?", options:["It doesn't matter what order cooking steps are in","This order is actually correct","Baking should come last, not first","Recipes never need a specific order"], answer:2},
      {q:"Which text would MOST likely use chronological order as its main structure?", options:["A comparison of two animals' habitats","A dictionary entry","A biography of someone's whole life","A persuasive essay about school rules"], answer:2},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning with Tables of Values", summary:"A table of values shows how one quantity changes in relation to another, helping you find and describe a pattern's rule.",
    resourceLabel:"YouTube: Patterning with Tables of Values", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%20with%20Tables%20of%20Values%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z2IBSAuImyk",
    quiz:[
      {q:"A pattern rule is 'multiply by 3, then subtract 1,' starting at 2. What is the second term?", options:["7","6","5","8"], answer:2},
      {q:"A table shows: position 1→4, position 2→7, position 3→10. What is the pattern rule?", options:["Add 4 each time","Multiply by 2","Subtract 3 each time","Add 3 to the previous term"], answer:3},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Stewardship Projects", summary:"Environmental stewardship means taking action to protect and care for the environment, such as through recycling, planting trees, or reducing waste.",
    resourceLabel:"YouTube: Environmental Stewardship Projects", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Stewardship%20Projects%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QSM5N5R9PP4",
    quiz:[
      {q:"A school starts a composting program for cafeteria food waste. How does this support environmental stewardship?", options:["It has no environmental benefit","It cuts landfill waste and feeds soil","It only affects the school's budget","It increases pollution"], answer:1},
      {q:"Why might reducing consumption be considered even more effective than recycling alone?", options:["Reducing consumption has no environmental benefit","Recycling always uses fewer resources than reducing consumption","Preventing waste avoids recycling costs","Recycling and reducing have identical effects"], answer:2},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Historical Figures in Canadian History", summary:"Canadian history includes notable figures, such as Laura Secord and Terry Fox, whose actions had a lasting impact on the country.",
    resourceLabel:"YouTube: Historical Figures in Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Historical%20Figures%20in%20Canadian%20History%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=J04aoVjtsBo",
    quiz:[
      {q:"Why is Laura Secord remembered as significant in Canadian history despite not being a soldier?", options:["Her warning helped prepare defenders","She led an army into battle personally","She has no historical significance","She was a formal government official"], answer:0},
      {q:"Terry Fox's Marathon of Hope is often cited as an example of what kind of impact?", options:["An impact limited only to sports","An event with no lasting significance","A purely local, forgotten event","How determination can inspire change"], answer:3},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Revising and Editing a Paragraph", summary:"Revising improves ideas and organization, while editing fixes spelling, grammar, and punctuation errors in a paragraph.",
    resourceLabel:"YouTube: Revising and Editing a Paragraph", resourceUrl:"https://www.youtube.com/results?search_query=Revising%20and%20Editing%20a%20Paragraph%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cqebXUsZShU",
    quiz:[
      {q:"A paragraph has correct spelling and punctuation, but its ideas are disorganized and hard to follow. What does it need?", options:["Revising, to improve organization and clarity","Editing only, since spelling is correct","A completely new topic","Nothing, since spelling and punctuation are fine"], answer:0},
      {q:"Which change is an example of EDITING rather than revising?", options:["Correcting a subject-verb agreement error","Reorganizing paragraphs so ideas flow logically","Strengthening a weak thesis statement","Adding a new supporting example"], answer:0},
@@ -1143,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rounding Decimals", summary:"Rounding decimals means simplifying a number to a given place value, like the nearest tenth or whole number.",
    resourceLabel:"YouTube: Rounding Decimals", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20Decimals%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=m41qWPjSUdw",
    quiz:[
      {q:"A store advertises '$4.99, rounded to the nearest dollar is $5.' Which rounding rule explains this?", options:["0.99 is closer to 1.00, so it rounds up","This rounding is incorrect","0.99 always rounds down","Prices are never rounded"], answer:0},
      {q:"Round 8.995 to the nearest hundredth.", options:["9.00","8.90","9.10","8.99"], answer:0},
@@ -1152,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Moon's Phases", summary:"The moon appears to change shape over about a month due to its orbit around Earth and how sunlight reflects off it.",
    resourceLabel:"YouTube: The Moon's Phases", resourceUrl:"https://www.youtube.com/results?search_query=The%20Moon%27s%20Phases%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ie2WRraxdPs",
    quiz:[
      {q:"A person sees a moon that is exactly half-lit, appearing as a semicircle. Approximately how far into the lunar cycle might this be?", options:["Exactly halfway between two full moons only","About one week (a quarter phase)","The very start of the cycle (new moon)","The very end, right before a new full moon"], answer:1},
      {q:"Why does the moon appear to change shape throughout the month, even though the moon itself doesn't physically change?", options:["Varying views of its sunlit half","Clouds cause the moon to look different","The moon actually changes shape each night","The moon creates its own changing light"], answer:0},

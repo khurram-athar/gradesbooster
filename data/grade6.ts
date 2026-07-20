@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading: Independent Novel Study", summary:"Students read a self-selected novel and demonstrate comprehension through journal responses, tracking plot structure, character development, and thematic connections.",
    resourceLabel:"YouTube: Reading: Independent Novel Study", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Independent%20Novel%20Study%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vjCDisQElZA",
    quiz:[
      {q:"A reading journal helps you ___.", options:["avoid rereading","track your thoughts while reading","only count pages","only write summaries"], answer:1},
      {q:"The climax of a novel is ___.", options:["the peak of the central conflict","the very beginning","the resolution","the falling action"], answer:0},
@@ -1105,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning and Algebra: Graphing Relationships", summary:"Students represent and analyse linear relationships using tables of values, graphs (on a coordinate plane), and equations.",
    resourceLabel:"YouTube: Patterning and Algebra: Graphing Relationships", resourceUrl:"https://www.youtube.com/results?search_query=Patterning%20and%20Algebra%3A%20Graphing%20Relationships%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9Uc62CuQjc4",
    quiz:[
      {q:"A linear relationship produces points that ___.", options:["curve unpredictably","scatter randomly","form a straight line when graphed","always go through the origin only"], answer:2},
      {q:"A table of values shows ___.", options:["only addition facts","only one pair of values","only random numbers","matching input and output values"], answer:3},
@@ -1114,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems and Environmental Stewardship", summary:"Students examine ecosystem services, the impact of pollution, and what students and communities can do to protect natural environments.",
    resourceLabel:"YouTube: Ecosystems and Environmental Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%20and%20Environmental%20Stewardship%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SNF8b7KKJ2I",
    quiz:[
      {q:"Ecosystem services are ___.", options:["benefits humans get from ecosystems","only services provided by animals","products sold in nature stores","only recreational benefits"], answer:0},
      {q:"The main cause of freshwater pollution in Ontario is ___.", options:["runoff and sewage contamination","natural processes only","only oil spills","only littering"], answer:0},
@@ -1123,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada Between the Wars (1919–1939)", summary:"Students examine Canada's political maturation (Statute of Westminster 1931), economic boom and crash (1929), and rise of Social Credit and Co-operative Commonwealth Federation.",
    resourceLabel:"YouTube: Canada Between the Wars (1919–1939)", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Between%20the%20Wars%20%281919%E2%80%931939%29%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vrYhLNQMRro",
    quiz:[
      {q:"The Statute of Westminster (1931) ___.", options:["made Canada fully independent from Britain overnight","gave Canada control of its own laws","dissolved the British Empire","gave Quebec independence"], answer:1},
      {q:"The Great Depression (1929–1939) in Canada caused ___.", options:["only minor disruptions","only stock market issues","economic prosperity","unemployment, drought, and unrest"], answer:3},
@@ -1134,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: Editing and Proofreading", summary:"Students refine their writing through systematic editing (content, organisation, style) and proofreading (grammar, spelling, punctuation), using editing marks and checklists.",
    resourceLabel:"YouTube: Writing: Editing and Proofreading", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Editing%20and%20Proofreading%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=nkAT7uUKQ2U",
    quiz:[
      {q:"Editing focuses on ___.", options:["only finding typos","only punctuation","improving content, clarity, and style","only spelling errors"], answer:2},
      {q:"Proofreading focuses on ___.", options:["changing the thesis","content and ideas","fixing spelling and grammar errors","paragraph structure"], answer:2},
@@ -1143,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions, Decimals, and Percents: Connecting", summary:"Students convert fluently between fractions, decimals, and percentages, and apply these conversions to real-world problems.",
    resourceLabel:"YouTube: Fractions, Decimals, and Percents: Connecting", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%2C%20Decimals%2C%20and%20Percents%3A%20Connecting%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2vjbNZaFz3c",
    quiz:[
      {q:"Convert 3/5 to a decimal.", options:["0.3","0.35","0.53","0.6"], answer:3},
      {q:"Convert 0.45 to a percentage.", options:["0.45%","4.5%","450%","45%"], answer:3},
@@ -1152,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light: Colour and the Electromagnetic Spectrum", summary:"Students explore how white light splits into the visible spectrum, how objects absorb/reflect/transmit light to produce colour, and the broader electromagnetic spectrum.",
    resourceLabel:"YouTube: Light: Colour and the Electromagnetic Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=Light%3A%20Colour%20and%20the%20Electromagnetic%20Spectrum%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9Vsl0Iom3S0",
    quiz:[
      {q:"White light is ___.", options:["only yellow and white","a mix of all visible colours","not actually light","a single colour"], answer:1},
      {q:"A red object appears red because ___.", options:["it is transparent to red only","it produces red light","it contains red pigment only","it reflects red, absorbs the rest"], answer:3},
@@ -1161,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"World War II: Causes and Canada's Role", summary:"Students examine the rise of fascism, appeasement, and Canada's significant contributions to WWII on land, sea, and air.",
    resourceLabel:"YouTube: World War II: Causes and Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=World%20War%20II%3A%20Causes%20and%20Canada%27s%20Role%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IicFIxmRroQ",
    quiz:[
      {q:"The main ideological forces driving WWII were ___.", options:["only nationalism","communism vs. democracy only","only economic disputes","fascism and militarism vs. democracies"], answer:3},
      {q:"Appeasement in the 1930s meant ___.", options:["giving in to Hitler to avoid war","only economic sanctions","helping Germany rebuild","fighting back aggressively"], answer:0},

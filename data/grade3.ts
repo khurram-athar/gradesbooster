@@ -1032,6 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Light", summary:"Students explore reflection, refraction, and absorption of light, and how prisms separate white light into the visible spectrum.",
    resourceLabel:"YouTube: Properties of Light", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Light%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kkwgPwBKyl4",
    quiz:[
      {q:"A prism separates white light into ___.", options:["only two colours","the colours of the visible spectrum","sound waves","radio waves"], answer:1},
      {q:"The colours of the visible spectrum in order are ___.", options:["Only three colours","Red to Violet (ROYGBIV)","Random","Blue, Green, Yellow, Orange, Red, Purple"], answer:1},
@@ -1041,6 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Making a Difference: Local Action", summary:"Students explore how individuals and groups make positive changes in their communities through volunteering, activism, and sustainable choices.",
    resourceLabel:"YouTube: Making a Difference: Local Action", resourceUrl:"https://www.youtube.com/results?search_query=Making%20a%20Difference%3A%20Local%20Action%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=H0bU-4Y958c",
    quiz:[
      {q:"Volunteering means ___.", options:["freely giving your time to help others","only for adults","only cleaning up","being paid to work"], answer:0},
      {q:"A community garden is an example of ___.", options:["a government project always","only for farmers","a negative action","people growing food together"], answer:3},
@@ -1094,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Writing: Letters (Formal and Informal)", summary:"Students learn to write friendly (informal) letters and formal letters. They practise letter format: greeting, body, and closing.",
    resourceLabel:"YouTube: Writing: Letters (Formal and Informal)", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Letters%20%28Formal%20and%20Informal%29%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PgwmAUJx248",
    quiz:[
      {q:"A friendly letter is written to ___.", options:["someone you know personally","a company or official","only strangers","only government officials"], answer:0},
      {q:"A formal letter is written to ___.", options:["only neighbours","a family member","a company or someone you don't know","a best friend"], answer:2},
@@ -1103,6 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication and Division: Word Problems", summary:"Students solve two-step word problems using multiplication and division.",
    resourceLabel:"YouTube: Multiplication and Division: Word Problems", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20and%20Division%3A%20Word%20Problems%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=i9iGu_gDOU0",
    quiz:[
      {q:"There are 4 boxes with 12 crayons each. How many crayons in all?", options:["44","40","52","48"], answer:3},
      {q:"A bag has 24 apples divided equally into 6 boxes. How many apples per box?", options:["3","6","4","5"], answer:2},
@@ -1112,6 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Soil Review and Composting", summary:"Students revisit soil types and learn about composting as a way to enrich soil and reduce organic waste.",
    resourceLabel:"YouTube: Properties of Soil Review and Composting", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Soil%20Review%20and%20Composting%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=sVnkT6nJYzA",
    quiz:[
      {q:"Composting is ___.", options:["waste decomposing into rich soil","mixing soil with plastic","only for farms","burning organic waste"], answer:0},
      {q:"What goes in a compost bin?", options:["Fruit and vegetable scraps, leaves","Only grass clippings","Old electronics","Metal and plastic"], answer:0},
@@ -1121,6 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Charter of Rights and Freedoms", summary:"Students learn about the Charter (1982) and key rights it protects: fundamental freedoms, democratic rights, equality rights.",
    resourceLabel:"YouTube: Canadian Charter of Rights and Freedoms", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Charter%20of%20Rights%20and%20Freedoms%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YAIM1qzO9_w",
    quiz:[
      {q:"The Canadian Charter of Rights and Freedoms was signed in ___.", options:["1982","1965","1867","1945"], answer:0},
      {q:"Which freedom is protected by the Charter?", options:["Freedom from all taxes","Freedom of expression (speech, writing, art)","Freedom to ignore others' rights","Freedom to break laws"], answer:1},
@@ -1132,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Reading Long Texts: Chapter Books", summary:"Students develop strategies for reading longer texts: using chapter titles, making predictions, tracking characters and plot, and taking notes.",
    resourceLabel:"YouTube: Reading Long Texts: Chapter Books", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Long%20Texts%3A%20Chapter%20Books%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UYs6rouLRxs",
    quiz:[
      {q:"Before reading a chapter, reading the chapter title helps you ___.", options:["skip the chapter","write the ending","only look at pictures","predict what the chapter will be about"], answer:3},
      {q:"Tracking character changes throughout a chapter book means ___.", options:["noting how a character changes","ignoring the plot","only listing characters","memorising every word"], answer:0},
@@ -1141,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: All Strands", summary:"Students review and consolidate key Grade 3 math concepts: number sense, measurement, geometry, patterning, and data.",
    resourceLabel:"YouTube: Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20All%20Strands%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ytVneQUA5-c",
    quiz:[
      {q:"256 + 399 = ?", options:["675","645","665","655"], answer:3},
      {q:"7 × 9 = ?", options:["72","63","56","81"], answer:1},
@@ -1150,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Year Review", summary:"Students review all Grade 3 science strands: growth and changes in animals, soils, forces, and structures.",
    resourceLabel:"YouTube: Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Year%20Review%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yzERkBasAf4",
    quiz:[
      {q:"The four stages of complete metamorphosis are ___.", options:["seed, sprout, plant, fruit","birth, growth, reproduction, death","egg, nymph, adult, elder","egg, larva, pupa, adult"], answer:3},
      {q:"Which soil is best for most plant growth?", options:["Clay","Gravel","Sand","Loam"], answer:0},
@@ -1159,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Students review Ontario communities, government, economy, natural resources, and citizenship.",
    resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KxqHQ1ZNbc4",
    quiz:[
      {q:"Which level of government runs local parks and garbage collection?", options:["Federal","Provincial","International","Municipal"], answer:3},
      {q:"What are Ontario's two major physical regions?", options:["Ocean coast and tundra","Canadian Shield & Great Lakes Lowlands","Prairies and mountains","Desert and rainforest"], answer:1},
