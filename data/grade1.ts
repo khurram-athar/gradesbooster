@@ -558,7 +558,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Land and Water in Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify landforms and bodies of water in Canada including lakes, rivers, mountains, and plains.",
    resourceLabel:"YouTube: Land and Water in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Land%20and%20Water%20in%20Canada%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=BsqKTJtK_vw",
    quiz:[
      {q:"Which of these is a body of water?", options:["Prairie","Forest","Lake Superior","Mountain"], answer:2},
      {q:"Which is a landform?", options:["Atlantic Ocean","Lake Ontario","Rocky Mountain","St. Lawrence River"], answer:2},
@@ -852,7 +852,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada Day and National Holidays", summary:"Ontario Grade 1 Social Studies strand B: students learn about Canada Day and other national holidays, understanding what they celebrate and why they are important.",
    resourceLabel:"YouTube: Canada Day and National Holidays", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Day%20and%20National%20Holidays%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=6phjeZ88oX0",
    quiz:[
      {q:"Canada Day is celebrated on ___.", options:["July 1","November 11","July 4","October 1"], answer:0},
      {q:"What does Canada Day celebrate?", options:["Canada's birthday as a nation","Christmas","Thanksgiving","Halloween"], answer:0},
@@ -936,7 +936,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Provinces of Canada", summary:"Ontario Grade 1 Social Studies strand B: students identify the ten provinces of Canada and some facts about each, locating them on a map.",
    resourceLabel:"YouTube: Provinces of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provinces%20of%20Canada%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=WEGw4IdHEqQ",
    quiz:[
      {q:"Which province is on the west coast of Canada?", options:["Manitoba","Ontario","Quebec","British Columbia"], answer:3},
      {q:"Which province is Canada's largest by area?", options:["British Columbia","Alberta","Quebec","Ontario"], answer:2},
@@ -1104,7 +1104,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Heritage Review", summary:"Ontario Grade 1 Social Studies strand A review: students review concepts of heritage, identity, family, traditions, and cultural celebrations.",
    resourceLabel:"YouTube: Heritage Review", resourceUrl:"https://www.youtube.com/results?search_query=Heritage%20Review%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=BYA4k3eB7OQ",
    quiz:[
      {q:"Heritage includes ___.", options:["Only money","Traditions and culture passed down","Only food","Only buildings"], answer:1},
      {q:"How does learning about our heritage help us?", options:["It helps us understand who we are","It is boring","Only adults need to learn heritage","It does not"], answer:0},
