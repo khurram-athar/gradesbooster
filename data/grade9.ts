@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Geography and Resources", summary:"Mixed review of geographic inquiry, natural resources, land use, and Indigenous perspectives.",
    resourceLabel:"YouTube: Review: Geography and Resources", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Geography%20and%20Resources%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xBB_O37bhnE",
+   videoUrl:"https://www.youtube.com/watch?v=vyhs6rbgGVM",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Skipping research","Avoiding data","Memorizing only","Asking a geographic question"], answer:3},
      {q:"Canada's forestry industry depends on...", options:["Forest resources","Tropical climates","Ocean fisheries only","Desert land"], answer:0},
@@ -244,7 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Careers Related to Geography", summary:"CGC1W links geographic skills to potential career paths, such as urban planning, environmental science, and resource management.",
    resourceLabel:"YouTube: Careers Related to Geography", resourceUrl:"https://www.youtube.com/results?search_query=Careers%20Related%20to%20Geography%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=iNhdFVSCVEM",
+   videoUrl:"https://www.youtube.com/watch?v=tVp0eFx_zSs",
    quiz:[
      {q:"An urban planner is involved in...", options:["Only mining","Only weather forecasting","Only farming","Designing how land and cities are used"], answer:3},
      {q:"An environmental scientist studies...", options:["Human-environment interactions","Only sports statistics","Only stock markets","Only ancient history"], answer:0},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Public Health and Disease Spread (General)", summary:"Examine how geographic factors — climate, density, mobility, access to healthcare — influence the spread of disease and public health outcomes (CGC1W — general and factual).",
    resourceLabel:"YouTube: Geography of Public Health and Disease Spread (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Public%20Health%20and%20Disease%20Spread%20%28General%29%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=MtlReVQjc9Y",
+   videoUrl:"https://www.youtube.com/watch?v=DaHTOFphlMY",
    quiz:[
      {q:"Geographic factors that can influence how a disease spreads include...", options:["Only the temperature of a region","Only urban land use with no connection to healthcare access","Only the political system of a country","Density, transport, and climate"], answer:3},
      {q:"A pandemic is defined as a disease outbreak that...", options:["Only occurs in tropical climates","Spreads across countries worldwide","Only affects wildlife","Only affects one city"], answer:1},
@@ -1148,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Unit Rates in Real-World Contexts", summary:"Calculate and apply unit rates (cost per item, speed, pay per hour) to compare options and solve practical problems (MTH1W Number Sense/Proportional Reasoning strand).",
    resourceLabel:"YouTube: Unit Rates in Real-World Contexts", resourceUrl:"https://www.youtube.com/results?search_query=Unit%20Rates%20in%20Real-World%20Contexts%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jC1K7fM91sE",
    quiz:[
      {q:"To find a unit rate, divide the quantity by...", options:["The numerator","The total cost","1 unit, so the denominator becomes 1","The number of categories"], answer:2},
      {q:"Store A sells 5 apples for $3.00. Store B sells 8 apples for $4.40. Which has the better unit price?", options:["Cannot be determined","Store A","They are identical","Store B (55¢/apple vs. 60¢ at Store A)"], answer:3},
@@ -1157,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pollution Types and Environmental Effects", summary:"Identify major types of pollution (air, water, soil, noise, light) and describe their sources, mechanisms, and effects on ecosystems and human health (SNC1W Environment strand).",
    resourceLabel:"YouTube: Pollution Types and Environmental Effects", resourceUrl:"https://www.youtube.com/results?search_query=Pollution%20Types%20and%20Environmental%20Effects%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
    quiz:[
      {q:"Acid rain is primarily caused by...", options:["Volcanic activity alone with no human contribution","Evaporation of ocean water","Sulfur and nitrogen oxides in the air","Natural forest fires only"], answer:2},
      {q:"Eutrophication in lakes and rivers is caused by...", options:["Too little sunlight reaching the water","Only industrial chemical discharge","Very cold water temperatures","Fertilizer runoff causing algal blooms"], answer:3},
@@ -1178,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Structuring an Argument with Counter-Arguments", summary:"Build a well-structured argument that acknowledges and refutes counter-arguments (concession and rebuttal), strengthening the overall case (ENL1W Strand B).",
    resourceLabel:"YouTube: Structuring an Argument with Counter-Arguments", resourceUrl:"https://www.youtube.com/results?search_query=Structuring%20an%20Argument%20with%20Counter-Arguments%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PvhQ-eNuJ8I",
    quiz:[
      {q:"A counter-argument is...", options:["Another supporting point for the same argument","Only used in speeches, not essays","A type of transition word","An opposing view to the argument being made in the essay"], answer:3},
      {q:"A concession in an argument is when the writer...", options:["Acknowledges the opposing view's merit","Ignores the opposition entirely","Completely abandons their own argument","Ends the essay early"], answer:0},
@@ -1187,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Integer and Fraction Operations Applied to Algebra", summary:"Apply operations with integers and fractions within algebraic expressions and equations, including solving equations that contain fractions (MTH1W Number Sense/Algebra strand).",
    resourceLabel:"YouTube: Integer and Fraction Operations Applied to Algebra", resourceUrl:"https://www.youtube.com/results?search_query=Integer%20and%20Fraction%20Operations%20Applied%20to%20Algebra%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NybHckSEQBI",
    quiz:[
      {q:"Solve: x/3 = 5", options:["x = 8","x = 15","x = 5/3","x = 2"], answer:1},
      {q:"Simplify: (1/2)x + (1/4)x", options:["(3/4)x","(2/6)x","x","(1/6)x"], answer:0},
@@ -1196,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Experimental Design and Scientific Method Review", summary:"Apply the steps of the scientific method to design a controlled experiment, identifying variables, hypothesis, controls, and how to analyze results (SNC1W Science Practices strand).",
    resourceLabel:"YouTube: Experimental Design and Scientific Method Review", resourceUrl:"https://www.youtube.com/results?search_query=Experimental%20Design%20and%20Scientific%20Method%20Review%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xOLcZMw0hd4",
    quiz:[
      {q:"A hypothesis is...", options:["The final conclusion of an experiment","A testable, evidence-based prediction","A list of materials needed","A proven scientific fact"], answer:1},
      {q:"The independent variable in an experiment is...", options:["The variable the experimenter changes","The control group","A variable that is kept constant","The variable that is measured as the outcome"], answer:0},
@@ -1205,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geographic Inquiry Project Design (Capstone Skill)", summary:"Apply the geographic inquiry process to design a mini-project: identify a geographic question, select appropriate data sources and tools, plan an investigation, and outline how to communicate findings (CGC1W capstone).",
    resourceLabel:"YouTube: Geographic Inquiry Project Design (Capstone Skill)", resourceUrl:"https://www.youtube.com/results?search_query=Geographic%20Inquiry%20Project%20Design%20%28Capstone%20Skill%29%20grade%209%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XccYJvOL4to",
    quiz:[
      {q:"The first step in a geographic inquiry project is to...", options:["Write the final report before gathering evidence","Formulate a clear, focused geographic question that can be investigated with evidence","Choose a presentation format before identifying a topic","Collect all data before forming a question"], answer:1},
      {q:"Primary geographic data sources a student might collect include...", options:["Only government statistics published online","Field data they collect themselves","Only information from encyclopedias","Only textbook content"], answer:1},
