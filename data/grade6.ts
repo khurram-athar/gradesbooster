@@ -1180,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Media: Creating a Documentary Script", summary:"Students plan and write a short documentary script, incorporating research, narration, interview questions, and visual descriptions.",
    resourceLabel:"YouTube: Media: Creating a Documentary Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%3A%20Creating%20a%20Documentary%20Script%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-3uO0Qqfklo",
    quiz:[
      {q:"A documentary is a type of ___.", options:["animation","fiction film","only a school project","non-fiction media about real events"], answer:3},
      {q:"A script for a documentary includes ___.", options:["only visuals","narration and visual directions","only music","only facts and statistics"], answer:1},
@@ -1189,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Theoretical and Experimental", summary:"Students distinguish theoretical probability (what should happen) from experimental probability (what does happen). They run probability experiments and compare results.",
    resourceLabel:"YouTube: Probability: Theoretical and Experimental", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Theoretical%20and%20Experimental%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Q5rgQXAf1rk",
    quiz:[
      {q:"Theoretical probability is based on ___.", options:["only computer simulations","what should mathematically happen","only past experiments","what actually happens in a trial"], answer:1},
      {q:"Experimental probability is based on ___.", options:["actual results from repeated trials","mathematical calculation only","only paper calculations","only one trial"], answer:0},
@@ -1198,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Science Connections", summary:"Students connect the science strands studied in Grade 6 — biodiversity, flight, electricity, optics, and Earth systems — and see how they relate to real-world issues and careers.",
    resourceLabel:"YouTube: Review: Science Connections", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Connections%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YGeOwKo6blQ",
    quiz:[
      {q:"Which science strand explains why an eagle can be seen as a keystone species?", options:["Biodiversity and ecosystems","Flight","Optics","Electricity"], answer:0},
      {q:"Engineers who design aircraft apply principles from which science topic?", options:["Flight and aerodynamics","Biodiversity","Rock cycle","Electricity"], answer:0},
@@ -1207,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada After WWII: Social and Political Change", summary:"Students explore Canada's post-WWII social changes: the baby boom, immigration, multiculturalism, the welfare state (Medicare, CPP), and the growth of suburbs.",
    resourceLabel:"YouTube: Canada After WWII: Social and Political Change", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20After%20WWII%3A%20Social%20and%20Political%20Change%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
    quiz:[
      {q:"The 'baby boom' after WWII referred to ___.", options:["a government housing program","a decline in birth rates","an immigration wave","a birth-rate spike after WWII (1946-64)"], answer:3},
      {q:"Multiculturalism became official Canadian policy in ___.", options:["1971, under Prime Minister Trudeau","1919","1867","1999"], answer:0},
