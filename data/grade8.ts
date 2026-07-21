@@ -1096,6 +1096,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Exam Preparation: Close Reading Practice", summary:"Students practise close reading and analytical response to unseen texts — a key skill for high school and standardised assessments.",
    resourceLabel:"YouTube: Exam Preparation: Close Reading Practice", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Close%20Reading%20Practice%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=J2KHX1Pm5co",
    quiz:[
      {q:"When approaching an unseen text on a test, you should ___.", options:["only look at the questions","read it twice, then closely","only skim for key words","read it once very fast"], answer:1},
      {q:"RACES (or a similar response framework) helps structure exam answers by ___.", options:["only for multiple choice","avoiding personal pronouns","making answers longer","Restate, Answer, Cite, and Explain"], answer:3},
@@ -1147,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebra: Inequalities", summary:"Students solve one- and two-step inequalities in one variable, graph solutions on a number line, and understand how multiplying/dividing by a negative reverses the inequality sign.",
    resourceLabel:"YouTube: Algebra: Inequalities", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Inequalities%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DrZJKdXlZ3I",
    quiz:[
      {q:"An inequality shows ___.", options:["only negative numbers","that two expressions are equal","that two expressions are not equal","an exact value"], answer:2},
      {q:"Solve: x + 4 > 10", options:["x > 6","x = 6","x > 14","x > 4"], answer:0},
@@ -1156,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Environmental Science and Stewardship", summary:"Students synthesise environmental learning — climate, biodiversity, fluid systems — and develop a personal stewardship plan.",
    resourceLabel:"YouTube: Review: Environmental Science and Stewardship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Environmental%20Science%20and%20Stewardship%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QLGUScF8AvA",
    quiz:[
      {q:"The most direct action individuals can take to reduce their carbon footprint is ___.", options:["only recycling plastic","buying a second car","doing nothing — only governments can help","using less energy, meat, and transit"], answer:3},
      {q:"Environmental stewardship means ___.", options:["only protesting","ignoring environmental issues","leaving all problems to government","responsible management of natural resources"], answer:3},
@@ -1177,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Culminating Activity: Oral Presentation", summary:"Students deliver a culminating oral presentation on a significant Canadian historical or contemporary issue, demonstrating research, analysis, and communication skills.",
    resourceLabel:"YouTube: Culminating Activity: Oral Presentation", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Activity%3A%20Oral%20Presentation%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VkxITaIUqfU",
    quiz:[
      {q:"A culminating presentation differs from a regular presentation because ___.", options:["it synthesises the year's learning","it is always longer","it requires no research","it has no requirements"], answer:0},
      {q:"To prepare an effective culminating presentation, you should ___.", options:["practice once only","research, organise, and rehearse well","avoid visual aids","write and read every word"], answer:1},
@@ -1186,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Culminating Math: Problem Solving Challenge", summary:"Students apply all Grade 8 math concepts to multi-step real-world problems.",
    resourceLabel:"YouTube: Culminating Math: Problem Solving Challenge", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Math%3A%20Problem%20Solving%20Challenge%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qRRDNGcImGQ",
    quiz:[
      {q:"A cylindrical water tank has r = 2 m and h = 5 m. Volume = ? (π ≈ 3.14)", options:["125.6 m³","31.4 m³","94.2 m³","62.8 m³"], answer:3},
      {q:"You invest $2000 at 4% compound interest for 3 years. Approximate value = ?", options:["$2249.73","$2400","$2240","$2253"], answer:0},
@@ -1195,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Year Review and Looking Forward", summary:"Students review all four Grade 8 science strands and connect learning to Grade 9 and beyond.",
    resourceLabel:"YouTube: Science: Year Review and Looking Forward", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Year%20Review%20and%20Looking%20Forward%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KeSyKl7zHG0",
    quiz:[
      {q:"Which Grade 8 science topic is most directly extended in Grade 9 biology?", options:["Mechanical systems","Fluids","Cells, reproduction, and genetics","Optics"], answer:2},
      {q:"Fluid dynamics connects to Grade 9 physics through ___.", options:["chemistry","forces, pressure, and energy","optics","genetics"], answer:1},
@@ -1204,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Grade 8 History: Final Reflection", summary:"Students write a final historical reflection, identifying the most significant idea they will carry forward from Grade 8 History.",
    resourceLabel:"YouTube: Grade 8 History: Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20History%3A%20Final%20Reflection%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"The most important question in historical thinking is ___.", options:["What year did it happen?","How many people were involved?","So what? Why does it matter today?","Where exactly did it occur?"], answer:2},
      {q:"If you had to identify the single most significant event in Canadian history studied this year, it would require ___.", options:["simply picking the biggest battle","looking it up","arguing your choice with clear evidence","no justification"], answer:2},
