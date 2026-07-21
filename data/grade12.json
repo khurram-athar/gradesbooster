@@ -6651,6 +6651,7 @@
         "summary": "Students practise writing a full analytical essay under timed conditions, applying all skills developed throughout the year.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=kLJE8IYIQEM",
+        "videoUrl": "https://www.youtube.com/watch?v=kW3NBBZQMi0",
         "quiz": [
           {
             "q": "The most important 5 minutes of a timed literary essay are ___.",
@@ -6710,6 +6711,7 @@
         "summary": "Students complete a culminating task integrating multiple strands of the MHF4U course.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=jKrEFOTScwU",
+        "videoUrl": "https://www.youtube.com/watch?v=DtcRb21-jbk",
         "quiz": [
           {
             "q": "Part 1: Identify all features of f(x) = (x²−4)/(x²−x−2) and sketch.",
@@ -6769,6 +6771,7 @@
         "summary": "Students complete a culminating task integrating limits, derivatives, and integrals.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=9vgCMNHPScU",
+        "videoUrl": "https://www.youtube.com/watch?v=sIQgEVKL3_4",
         "quiz": [
           {
             "q": "Part 1: lim(x→0) (e^x − 1 − x)/x².",
@@ -6828,6 +6831,7 @@
         "summary": "Students complete a multi-concept physics culminating task.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=aY8z2qO44WA",
+        "videoUrl": "https://www.youtube.com/watch?v=tDpf68C5C-s",
         "quiz": [
           {
             "q": "A projectile is launched at 50 m/s at 37° above horizontal. Find max height and range.",
@@ -6893,6 +6897,7 @@
         "summary": "Students deliver oral culminating presentations and reflect on their growth as readers, writers, and thinkers across Grade 12.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=MSYw502dJNY",
+        "videoUrl": "https://www.youtube.com/watch?v=KnW1VAUY4ak",
         "quiz": [
           {
             "q": "An oral culminating in Grade 12 English demonstrates ___.",
@@ -6952,6 +6957,7 @@
         "summary": "Students reflect on the year's learning in Advanced Functions and its significance for future study.",
         "resourceLabel": "Khan Academy",
         "resourceUrl": "https://www.youtube.com/watch?v=nRmBsxBpTjs",
+        "videoUrl": "https://www.youtube.com/watch?v=fDmjiV_Tx-E",
         "quiz": [
           {
             "q": "The central organising concept of Advanced Functions is ___.",
@@ -7011,6 +7017,7 @@
         "summary": "Students reflect on Calculus learning and prepare for university calculus courses.",
         "resourceLabel": "Khan Academy Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
+        "videoUrl": "https://www.youtube.com/watch?v=Fv1K2IVd1pE",
         "quiz": [
           {
             "q": "The two most important ideas in Calculus are ___.",
@@ -7070,6 +7077,7 @@
         "summary": "Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
         "resourceLabel": "Crash Course Physics",
         "resourceUrl": "https://www.youtube.com/watch?v=aY8z2qO44WA",
+        "videoUrl": "https://www.youtube.com/watch?v=yscrBkfPRyc",
         "quiz": [
           {
             "q": "The most important conceptual development in Grade 12 Physics is ___.",

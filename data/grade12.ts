@@ -1138,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Culminating Essay: Writing Under Examination Conditions", summary:"Students practise writing a full analytical essay under timed conditions, applying all skills developed throughout the year.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=kLJE8IYIQEM",
+   videoUrl:"https://www.youtube.com/watch?v=kW3NBBZQMi0",
    quiz:[
      {q:"The most important 5 minutes of a timed literary essay are ___.", options:["the first 5 minutes of planning","the conclusion","the middle of the essay","the last 5 minutes of writing"], answer:0},
      {q:"In a timed essay, the most common weakness is ___.", options:["insufficient analytical development","writing too slowly","knowing the text too well","writing in too formal a register"], answer:0},
@@ -1147,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Advanced Functions: Culminating Task", summary:"Students complete a culminating task integrating multiple strands of the MHF4U course.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=jKrEFOTScwU",
+   videoUrl:"https://www.youtube.com/watch?v=DtcRb21-jbk",
    quiz:[
      {q:"Part 1: Identify all features of f(x) = (x²−4)/(x²−x−2) and sketch.", options:["VA at x=2 and x=1 only","x-int at x = ±2 with no hole","Hole x=2; VA x=−1; HA y=1; x-int −2","HA at y = 0"], answer:2},
      {q:"Part 2: Solve 2^(x+1) = 3^(x−1) algebraically.", options:["x = ln6/(ln3−ln2) ≈ 3.82","x = 1","x = 2","x = ln(3/2)"], answer:0},
@@ -1156,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Culminating Task", summary:"Students complete a culminating task integrating limits, derivatives, and integrals.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=9vgCMNHPScU",
+   videoUrl:"https://www.youtube.com/watch?v=sIQgEVKL3_4",
    quiz:[
      {q:"Part 1: lim(x→0) (e^x − 1 − x)/x².", options:["the limit is 0","L'Hôpital once: e^x − 1","the limit is 1","L'Hôpital twice: limit = 1/2"], answer:3},
      {q:"Part 2: Differentiate f(x) = arctan(√x) and find f'(1).", options:["f'(1) = 1/4 via chain rule","f'(x) = 1/(1+x) × 1/(2√x) = 1/(2√x(1+x)); f'(1) = 1/(2×1×2) = 1/4","f'(x) = 1/(2√x)","f'(1) = 1/2"], answer:0},
@@ -1165,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Culminating Task", summary:"Students complete a multi-concept physics culminating task.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
+   videoUrl:"https://www.youtube.com/watch?v=tDpf68C5C-s",
    quiz:[
      {q:"A projectile is launched at 50 m/s at 37° above horizontal. Find max height and range.", options:["H=50 m; R=200 m","H=40 m; R=250 m","H=30 m; R=300 m","H≈45.9 m, R≈245 m (v₀y=30, v₀x=40)"], answer:3},
      {q:"A 2 kg block slides down a 30° ramp (μₖ=0.2) of length 5 m from rest. Speed at bottom:", options:["v≈5.66 m/s (a=3.2 m/s² down the ramp)","v = 5 m/s","v = 10 m/s","v = √(2gh) = √(2×9.8×2.5) ≈ 7 m/s"], answer:0},
@@ -1176,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"English", title:"Grade 12 English: Oral Culminating and Reflection", summary:"Students deliver oral culminating presentations and reflect on their growth as readers, writers, and thinkers across Grade 12.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=MSYw502dJNY",
+   videoUrl:"https://www.youtube.com/watch?v=KnW1VAUY4ak",
    quiz:[
      {q:"An oral culminating in Grade 12 English demonstrates ___.", options:["only knowledge of plot","integrating all your analytical skills","only public speaking skill","only the ability to memorise"], answer:1},
      {q:"Reflecting on your development as a reader across Grade 12 means ___.", options:["only counting books read","articulating what has changed in how you read","only recognising what you found difficult","only identifying your favourite text"], answer:1},
@@ -1185,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Advanced Functions: Final Reflection and Looking Forward", summary:"Students reflect on the year's learning in Advanced Functions and its significance for future study.",
    resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=nRmBsxBpTjs",
+   videoUrl:"https://www.youtube.com/watch?v=fDmjiV_Tx-E",
    quiz:[
      {q:"The central organising concept of Advanced Functions is ___.", options:["the function as a general math object","only polynomial equations","the derivative of a function","only trigonometric functions"], answer:0},
      {q:"A student who has mastered Advanced Functions can ___.", options:["only work in Ontario high schools","only solve textbook problems","never need mathematics again","analyse a function's type and features"], answer:3},
@@ -1194,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Final Reflection and University Preparation", summary:"Students reflect on Calculus learning and prepare for university calculus courses.",
    resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
+   videoUrl:"https://www.youtube.com/watch?v=Fv1K2IVd1pE",
    quiz:[
      {q:"The two most important ideas in Calculus are ___.", options:["the product rule and chain rule","derivatives and integrals as separate topics","the derivative and integral (inverses)","limits and power rule"], answer:2},
      {q:"University calculus (Calculus I, II) will build on your Grade 12 learning by ___.", options:["not requiring any Grade 12 preparation","being much easier","adding multivariable calc and series","starting completely from scratch"], answer:2},
@@ -1203,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Final Reflection and Looking to University", summary:"Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
    resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
+   videoUrl:"https://www.youtube.com/watch?v=yscrBkfPRyc",
    quiz:[
      {q:"The most important conceptual development in Grade 12 Physics is ___.", options:["understanding the SI unit system","moving from Newtonian to quantum ideas","learning to use complex formulas","knowing all fundamental constants"], answer:1},
      {q:"University physics (mechanics, E&M, waves/optics, modern physics) builds on Grade 12 by ___.", options:["deepening and mathematising every concept","repeating the same material","being completely different in content","being much easier"], answer:0},
