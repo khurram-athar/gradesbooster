@@ -634,7 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Reading: Dystopian Fiction and Social Critique", summary:"Students read and analyse a dystopian novel (e.g., 1984, Brave New World, The Handmaid's Tale), examining how dystopian fiction uses speculative worlds to critique contemporary society.",
    resourceLabel:"YouTube: Reading: Dystopian Fiction and Social Critique", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Dystopian%20Fiction%20and%20Social%20Critique%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lF0NeBtLFqg",
+   videoUrl:"https://www.youtube.com/watch?v=rKfa_Y3UmuU",
    quiz:[
      {q:"Dystopian fiction extrapolates from ___.", options:["real present-day trends and fears","historical events only","only fantasy worlds","pure imagination"], answer:0},
      {q:"The surveillance state in dystopian fiction (e.g., Orwell's Oceania) critiques ___.", options:["only Soviet communism in 1949","surveillance that only existed in fiction","any political system","only historical authoritarian regimes"], answer:2},
@@ -718,7 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Social Realism in Literature", summary:"Students read and analyse a socially realistic novel or play that engages directly with class, race, gender, or economic injustice.",
    resourceLabel:"YouTube: Independent Reading: Social Realism in Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Social%20Realism%20in%20Literature%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=WMvtXlPilbo",
+   videoUrl:"https://www.youtube.com/watch?v=fJzlE-DEmXE",
    quiz:[
      {q:"Social realism in literature aims to ___.", options:["entertain through melodrama","only describe working class life","avoid political content","depict social conditions"], answer:3},
      {q:"Charles Dickens's novels (and their Canadian equivalents) work as social realism because ___.", options:["they use only upper-class characters","they dramatise poverty's human costs","they are purely entertaining","they avoid all social comment"], answer:1},
@@ -770,7 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Graphing Technology: Exploring Functions with Technology", summary:"Students use graphing technology (Desmos/GDC) to explore function families, transformations, and connections between algebraic and graphical representations.",
    resourceLabel:"YouTube: Graphing Technology: Exploring Functions with Technology", resourceUrl:"https://www.youtube.com/results?search_query=Graphing%20Technology%3A%20Exploring%20Functions%20with%20Technology%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
+   videoUrl:"https://www.youtube.com/watch?v=AkeZ79GyAlk",
    quiz:[
      {q:"Graphing technology is most useful for ___.", options:["exploring patterns and making conjectures","only checking multiple-choice answers","hiding mathematical understanding","replacing all algebraic work"], answer:0},
      {q:"Using Desmos to graph y = asin(bx + c) + d while varying parameters develops understanding of ___.", options:["only how to use Desmos","only the formula","no useful mathematical insight","how each parameter affects the graph"], answer:3},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Reproduction: Reproductive Technologies", summary:"Students examine assisted reproductive technologies (IVF, IUI, surrogacy) and their biological basis, success rates, and ethical dimensions.",
    resourceLabel:"YouTube: Human Reproduction: Reproductive Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Reproduction%3A%20Reproductive%20Technologies%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=als-gv_D7bc",
+   videoUrl:"https://www.youtube.com/watch?v=P27waC05Hdk",
    quiz:[
      {q:"IVF (In Vitro Fertilisation) involves ___.", options:["fertilisation occurring inside the uterus","only natural fertilisation outside the body","lab fertilisation, then embryo transfer","no hormonal treatment"], answer:2},
      {q:"Pre-implantation Genetic Testing (PGT) in IVF allows ___.", options:["eliminating all genetic disease","creating designer babies easily","screening embryos for genetic disorders","selecting physical traits like eye colour"], answer:2},
@@ -948,7 +948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Biology: Reproductive System and Development Review", summary:"Students consolidate understanding of the human reproductive system, development, and reproductive health.",
    resourceLabel:"YouTube: Human Biology: Reproductive System and Development Review", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Biology%3A%20Reproductive%20System%20and%20Development%20Review%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=als-gv_D7bc",
+   videoUrl:"https://www.youtube.com/watch?v=iVyRKkYGCgk",
    quiz:[
      {q:"Oogenesis (egg cell production) differs from spermatogenesis in that ___.", options:["both produce 4 functional gametes","only oogenesis involves meiosis","spermatogenesis produces eggs","it makes 1 egg, not 4 like sperm cells"], answer:3},
      {q:"The embryonic period (weeks 3-8 of development) is critical because ___.", options:["it is when sex is determined","no development occurs during this time","it is only important for heart development","all major organs and body systems are forming"], answer:3},
@@ -1138,6 +1138,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Exam Skills: Timed Essay Writing", summary:"Students practise writing strong analytical essays under timed examination conditions.",
    resourceLabel:"YouTube: Exam Skills: Timed Essay Writing", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20Timed%20Essay%20Writing%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DsJ6bMBLUs8",
    quiz:[
      {q:"In a timed essay exam (50-75 minutes), you should spend the first 10 minutes ___.", options:["writing the conclusion first","reading, brainstorming, and outlining","only reading the question twice","writing as fast as possible"], answer:1},
      {q:"If you run out of time in a timed essay, prioritise ___.", options:["adding more quotations","only fixing spelling errors","starting over","finishing a clear, well-argued essay"], answer:3},
@@ -1147,6 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions Exam: Comprehensive Review", summary:"Final exam review across all Grade 11 Functions topics.",
    resourceLabel:"YouTube: Functions Exam: Comprehensive Review", resourceUrl:"https://www.youtube.com/results?search_query=Functions%20Exam%3A%20Comprehensive%20Review%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0Gjlzpgtrk8",
    quiz:[
      {q:"Find all x where f(x) = x³ − 4x² + x + 6 = 0. Use the factor theorem.", options:["x = −1, 2, 3 (factor theorem)","x = −2, 3, 1","x = 1, 2, −3","x = 2, 3, −2"], answer:0},
      {q:"log₃(81) − log₃(3) = ___.", options:["2","4","3 (log₃(81/3) = log₃(27) = 3)","1"], answer:2},
@@ -1156,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology Final Exam", summary:"Final exam review questions across all Grade 11 Biology content.",
    resourceLabel:"YouTube: Biology Final Exam", resourceUrl:"https://www.youtube.com/results?search_query=Biology%20Final%20Exam%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=icQAkF1yxTE",
    quiz:[
      {q:"The three domains of life and their key distinguishing features are: Bacteria ___.", options:["are eukaryotic; Archaea are prokaryotic; Eukarya are both","are the same as Archaea","prokaryotic; Archaea are prokaryotic but distinct; Eukarya are eukaryotic","have a nucleus; Archaea have no nucleus; Eukarya have cell walls"], answer:2},
      {q:"The central dogma: transcription occurs in the ___ and translation in the ___.", options:["cytoplasm; nucleus","nucleus; cytoplasm (ribosome)","ribosome; nucleus","nucleus; mitochondria"], answer:1},
@@ -1165,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry Final Exam", summary:"Final exam review questions across all Grade 11 Chemistry content.",
    resourceLabel:"YouTube: Chemistry Final Exam", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Final%20Exam%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5yw1YH7YA7c",
    quiz:[
      {q:"How many grams of CO₂ (molar mass = 44 g/mol) are produced by burning 88 g of propane C₃H₈ (molar mass = 44)? (C₃H₈ + 5O₂ → 3CO₂ + 4H₂O)", options:["44 g","88 g","264 g","132 g (2 mol propane × 3 mol CO₂/mol propane = 6 mol CO₂; 6 × 44 = 264 g)"], answer:2},
      {q:"A solution has [OH⁻] = 1×10⁻¹¹ M. Its pH is ___.", options:["pH = 14 − pOH = 14 − 11 = 3","3","11","1×10⁻³"], answer:0},
@@ -1176,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"English", title:"Year-End Celebration: Reading and Literary Portfolio", summary:"Students curate and present their best reading and writing from Grade 11, celebrating their intellectual growth.",
    resourceLabel:"YouTube: Year-End Celebration: Reading and Literary Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Literary%20Portfolio%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vvc0gg0symU",
    quiz:[
      {q:"A Grade 11 literary portfolio should demonstrate ___.", options:["only creative writing","the arc of your intellectual development","only the highest-graded piece","only the most recent work"], answer:1},
      {q:"Sharing your intellectual work with peers demonstrates ___.", options:["courage — it makes thinking visible","that you have no original ideas","competition rather than collaboration","that you are not actually interested in private learning"], answer:0},
@@ -1185,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: End-of-Year Celebration and Next Steps", summary:"Students celebrate their mathematical achievement and set goals for Grade 12 mathematics.",
    resourceLabel:"YouTube: Functions: End-of-Year Celebration and Next Steps", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20End-of-Year%20Celebration%20and%20Next%20Steps%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9mcxdaZMlB8",
    quiz:[
      {q:"Finishing Grade 11 Functions means ___.", options:["you know more mathematics than you'll ever use","all mathematics is now complete","only calculus remains","you've built fluency in functions"], answer:3},
      {q:"The most important mathematical habit to develop over summer is ___.", options:["staying curious about patterns and relationships","solving problems every day (impractical)","reading only about mathematics","forgetting all of Grade 11"], answer:0},
@@ -1194,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: End-of-Year Celebration", summary:"Students celebrate their learning in Grade 11 Biology.",
    resourceLabel:"YouTube: Biology: End-of-Year Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20End-of-Year%20Celebration%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=F5WL2lnTHME",
    quiz:[
      {q:"The most surprising thing about life at the molecular level is ___.", options:["that the chemistry of life is extraordinarily conserved","that molecular biology has no connection to ecology","that DNA is too small to be important","that all cells are the same"], answer:0},
      {q:"The most important ecological insight from Grade 11 Biology is ___.", options:["that biodiversity doesn't affect ecosystem stability","that food chains are simple and linear","that ecosystems are deeply connected","that species are separable from their ecosystems"], answer:2},
@@ -1203,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: End-of-Year Celebration", summary:"Students celebrate their learning in Grade 11 Chemistry.",
    resourceLabel:"YouTube: Chemistry: End-of-Year Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20End-of-Year%20Celebration%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=R60QoJxrfDg",
    quiz:[
      {q:"The most astonishing fact about atoms is ___.", options:["that the matter around you","they are perfectly solid","they are very large","they are only found in metals"], answer:0},
      {q:"The periodic table is astonishing because ___.", options:["it was created without any underlying theory","it is purely a memorisation tool","it was invented recently","it predates yet fits quantum theory"], answer:3},
