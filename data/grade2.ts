@@ -138,7 +138,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities Around the World", summary:"Ontario People & Environment strand: communities around the world look different based on climate, land, and culture, but all communities help meet people's needs.",
    resourceLabel:"YouTube: Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20Around%20the%20World%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=XINLtbiRCcw",
+   videoUrl:"https://www.youtube.com/watch?v=lPS7OBjgOdk",
    quiz:[
      {q:"Why do communities around the world look different?", options:["Random chance only","No reason","Different climates, land, and cultures","They are all the same"], answer:2},
      {q:"A community near the ocean might rely on...", options:["Fishing","Desert farming only","Nothing special","Snowplowing year round"], answer:0},
@@ -642,7 +642,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Canada Symbols, Indigenous Peoples, Change & Needs", summary:"Mixed review of Canadian symbols, Indigenous peoples, how communities change, and needs vs. wants.",
    resourceLabel:"YouTube: Review: Canada Symbols, Indigenous Peoples, Change & Needs", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Canada%20Symbols%2C%20Indigenous%20Peoples%2C%20Change%20%26%20Needs%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=_y9-ymLpO58",
+   videoUrl:"https://www.youtube.com/watch?v=glSIDAyyPJA",
    quiz:[
      {q:"What leaf is on the Canadian flag?", options:["Pine needle","Maple leaf","Fern","Oak leaf"], answer:1},
      {q:"Who were the first people to live in Canada?", options:["American explorers","Indigenous peoples","British settlers","French settlers"], answer:1},
@@ -852,7 +852,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Money, Continents, Environment & Citizenship", summary:"Mixed review of money and trading, continents and oceans, caring for the environment, and good citizenship.",
    resourceLabel:"YouTube: Review: Money, Continents, Environment & Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=HV3qN-YHKT8",
+   videoUrl:"https://www.youtube.com/watch?v=wqZRGHva1iE",
    quiz:[
      {q:"What is bartering?", options:["Saving coins","Trading goods without money","Buying things with money","Spending all money"], answer:1},
      {q:"How many continents are there?", options:["8","7","6","5"], answer:1},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24", subjects:[
   {subject:"Language", title:"Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", summary:"Mixed review of alphabetical order, punctuation marks, types of sentences, and making predictions.",
    resourceLabel:"YouTube: Review: Alphabetical Order, Punctuation, Sentence Types & Predictions", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Alphabetical%20Order%2C%20Punctuation%2C%20Sentence%20Types%20%26%20Predictions%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=_QbTB8EtEz8",
+   videoUrl:"https://www.youtube.com/watch?v=o3zwyUbBi6w",
    quiz:[
      {q:"Which word comes first in alphabetical order: dog, ant, cat?", options:["All the same","Dog","Ant","Cat"], answer:2},
      {q:"A question ends with a...", options:["Period","Exclamation mark","Question mark","Comma"], answer:2},
@@ -1042,7 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Position Words, Doubles, Estimation & Capacity", summary:"Mixed review of position words, doubles facts, estimating, and comparing capacity and mass.",
    resourceLabel:"YouTube: Review: Position Words, Doubles, Estimation & Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Position%20Words%2C%20Doubles%2C%20Estimation%20%26%20Capacity%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=TqKYb5QdVvU",
+   videoUrl:"https://www.youtube.com/watch?v=joHaCejRnmo",
    quiz:[
      {q:"Which word describes where something is below another object?", options:["In front","Over","Under","Beside"], answer:2},
      {q:"What is 5 + 5?", options:["8","11","9","10"], answer:3},
@@ -1272,7 +1272,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Environment, Geography, Laws & Children's Rights", summary:"Mixed review of protecting the environment, Canada's regions, rules and laws, and children's rights.",
    resourceLabel:"YouTube: Final Review: Environment, Geography, Laws & Children's Rights", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Geography%2C%20Laws%20%26%20Children%27s%20Rights%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=iW9v2A3K_5Y",
+   videoUrl:"https://www.youtube.com/watch?v=TyP09S0UEzA",
    quiz:[
      {q:"Which action protects the environment?", options:["Wasting electricity","Planting trees and recycling","Littering","Pouring chemicals into lakes"], answer:1},
      {q:"Which province is known for the Rocky Mountains?", options:["Quebec","Ontario","Nova Scotia","British Columbia"], answer:3},
