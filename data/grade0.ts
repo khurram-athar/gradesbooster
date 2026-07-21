@@ -1200,6 +1200,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Rhyming Words", summary:"Students identify and generate rhyming words. Rhyming words have the same ending sound (e.g., cat/hat, dog/log, play/day).",
    resourceLabel:"YouTube: Rhyming Words", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cY7JggN5M-U",
    quiz:[
      {q:"Rhyming words have the same ___.", options:["beginning sound","middle sound","ending sound","number of letters"], answer:2},
      {q:"Which word rhymes with CAT?", options:["Hat","Dog","Sun","Cup"], answer:0},
@@ -1209,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting to 100 by 2s and 5s", summary:"Students count forward by 2s and 5s to 100, building number sense and a foundation for multiplication.",
    resourceLabel:"YouTube: Counting to 100 by 2s and 5s", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%20100%20by%202s%20and%205s%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DS3W9WLIxlQ",
    quiz:[
      {q:"Count by 2s: 2, 4, 6, ___, 10", options:["8","9","11","7"], answer:0},
      {q:"Count by 5s: 5, 10, 15, ___", options:["20","25","18","16"], answer:0},
@@ -1218,6 +1220,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: All Strands", summary:"Students review life science (plants, animals), earth science (seasons, weather), and physical science (forces, materials).",
    resourceLabel:"YouTube: Science Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yPqRqjM8MOQ",
    quiz:[
      {q:"Plants make food using ___, water, and carbon dioxide.", options:["Soil","Sunlight","Fertilizer","Rain"], answer:1},
      {q:"Animals need food, water, shelter, and ___ to survive.", options:["Money","Television","Toys","Air"], answer:3},
@@ -1227,6 +1230,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Review", summary:"Students review communities, Canadian geography, symbols, seasons, and citizenship topics covered through the year.",
    resourceLabel:"YouTube: Social Studies Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=puarPOoJUy8",
    quiz:[
      {q:"What is the capital city of Canada?", options:["Vancouver","Ottawa","Montreal","Toronto"], answer:1},
      {q:"A community is ___.", options:["only a village","people living and working together","only a city","a type of animal"], answer:1},
@@ -1238,6 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Alphabet Review and Simple Reading", summary:"Students review all 26 letters, their sounds, and demonstrate early reading of simple CVC (consonant-vowel-consonant) words.",
    resourceLabel:"YouTube: Alphabet Review and Simple Reading", resourceUrl:"https://www.youtube.com/results?search_query=Alphabet%20Review%20and%20Simple%20Reading%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RiYzD1h-YVQ",
    quiz:[
      {q:"How many letters are in the English alphabet?", options:["24","26","25","27"], answer:1},
      {q:"Which is a vowel?", options:["B","C","D","E"], answer:3},
@@ -1247,6 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Year Review: Math", summary:"Students review all Kindergarten math concepts: counting, shapes, patterns, measurement, and addition/subtraction.",
    resourceLabel:"YouTube: Year Review: Math", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Math%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7J1OkxuyLD0",
    quiz:[
      {q:"Count: How many in 3 + 4?", options:["6","5","8","7"], answer:3},
      {q:"What shape has 4 equal sides?", options:["Square","Triangle","Circle","Rectangle"], answer:0},
@@ -1256,6 +1262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Students review all Kindergarten science: living and non-living, plants, animals, seasons, weather, forces, and materials.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
    quiz:[
      {q:"A plant is a ___ thing.", options:["both","living","non-living","neither"], answer:1},
      {q:"Animals need food, water, shelter, and air. These are called ___.", options:["Extras","Options","Wants","Needs"], answer:3},
@@ -1265,6 +1272,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies and Citizenship", summary:"Students review community helpers, Canadian symbols, rights and responsibilities, celebrations, and caring for the Earth.",
    resourceLabel:"YouTube: Year Review: Social Studies and Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20and%20Citizenship%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bxTWLZK5gU0",
    quiz:[
      {q:"Who helps keep you healthy by giving check-ups?", options:["Doctor","Caretaker","Teacher","Librarian"], answer:0},
      {q:"What symbol appears on the Canadian flag?", options:["Beaver","Maple leaf","Moose","Eagle"], answer:1},
