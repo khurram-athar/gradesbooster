@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Spelling Patterns: -ight, -ake, -ine", summary:"Ontario Grade 1 Reading strand: spelling patterns help students decode and spell new words. Word families like night, sight, light; cake, lake, make; mine, fine, pine share patterns.",
    resourceLabel:"YouTube: Spelling Patterns: -ight, -ake, -ine", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Patterns%3A%20-ight%2C%20-ake%2C%20-ine%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=B-E3vOwBbqs",
+   videoUrl:"https://www.youtube.com/watch?v=WSuVLbS8uV4",
    quiz:[
      {q:"Which word belongs to the -IGHT family?", options:["Cake","Lake","Mine","Night"], answer:3},
      {q:"Which word belongs to the -AKE family?", options:["Night","Right","Light","Cake"], answer:3},
@@ -1200,6 +1200,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Reading Skills Review", summary:"Ontario Grade 1 Reading strand review: students review key reading strategies including predicting, retelling, identifying main idea, making connections, and using text features.",
    resourceLabel:"YouTube: Reading Skills Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Skills%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=852gD9dpVqk",
    quiz:[
      {q:"Which reading strategy helps you guess what happens next?", options:["Connecting","Predicting","Retelling","Summarising"], answer:1},
      {q:"Retelling a story means ___.", options:["Telling events in your own words","Changing the ending","Drawing pictures","Reading it again"], answer:0},
@@ -1209,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Number Sense", summary:"Ontario Grade 1 Number strand review: students review counting, place value, addition, subtraction, fractions, and money.",
    resourceLabel:"YouTube: Review: Number Sense", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Number%20Sense%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LcSTTVmIUus",
    quiz:[
      {q:"4 tens + 7 ones = ?", options:["17","47","40","74"], answer:1},
      {q:"18 + 5 = ?", options:["21","22","23","24"], answer:2},
@@ -1218,6 +1220,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Science Review", summary:"Ontario Grade 1 Life Systems strand review: students review living vs non-living, needs of living things, plants, animals, food chains, and habitats.",
    resourceLabel:"YouTube: Life Science Review", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Science%20Review%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ldt5WT5fduQ",
    quiz:[
      {q:"What are the four needs of all living things?", options:["Books, toys, music, games","Air, water, food, and shelter","Sun, moon, stars, planets","Electricity, light, heat, money"], answer:1},
      {q:"Name two parts of a plant.", options:["Wheel and pedal","Root and leaf","Door and window","Lens and frame"], answer:1},
@@ -1227,6 +1230,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Communities and Canada", summary:"Ontario Grade 1 Social Studies review: students demonstrate understanding of communities, Canadian geography, symbols, and civic values.",
    resourceLabel:"YouTube: Review: Communities and Canada", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Communities%20and%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
      {q:"Which Canadian symbol has a maple leaf?", options:["The flag","The dollar bill","The coat of arms","All three"], answer:3},
      {q:"What is the capital city of Canada?", options:["Montreal","Vancouver","Ottawa","Toronto"], answer:2},
@@ -1238,6 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Ontario Grade 1 Language strand comprehensive review: students demonstrate reading, writing, and oral communication skills developed throughout the year.",
    resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=A_nM65em1mQ",
    quiz:[
      {q:"A noun names a ___.", options:["Connecting word","Action","Person, place, or thing","Describing word"], answer:2},
      {q:"A verb shows ___.", options:["A connection","A name","A description","An action or state of being"], answer:3},
@@ -1247,6 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Year Review: Mathematics", summary:"Ontario Grade 1 Mathematics comprehensive review covering number sense, geometry, measurement, patterning, and data.",
    resourceLabel:"YouTube: Year Review: Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8WJ64t8ekEk",
    quiz:[
      {q:"3 tens + 5 ones = ?", options:["35","30","53","45"], answer:0},
      {q:"9 + 8 = ?", options:["15","18","16","17"], answer:3},
@@ -1256,6 +1262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Ontario Grade 1 Science comprehensive review covering life systems, earth and space, matter, and physical science.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=znQpuWR7PS4",
    quiz:[
      {q:"Living things need ___.", options:["Money and toys","Books and pencils","Air, water, food, and shelter","Electricity and television"], answer:2},
      {q:"Earth has ___ seasons.", options:["2","4","5","3"], answer:1},
@@ -1265,6 +1272,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies", summary:"Ontario Grade 1 Social Studies comprehensive review covering family, community, Canada, and civic values.",
    resourceLabel:"YouTube: Year Review: Social Studies", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=puarPOoJUy8",
    quiz:[
      {q:"What is the capital of Canada?", options:["Vancouver","Toronto","Ottawa","Montreal"], answer:2},
      {q:"Community workers ___.", options:["Provide services that help people","Are not important","Only work for money","Create problems"], answer:0},
