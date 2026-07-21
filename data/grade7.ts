@@ -1180,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Oral Presentation Delivery Skills", summary:"Effective oral presentations rely on clear speech, eye contact, appropriate pacing, and engaging body language, in addition to strong content.",
    resourceLabel:"YouTube: Oral Presentation Delivery Skills", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Presentation%20Delivery%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=swIWHuIpubI",
    quiz:[
      {q:"Maintaining eye contact during a presentation helps...", options:["Confuse the audience","Make the speech shorter","Hide nervousness completely","Engage the audience"], answer:3},
      {q:"Speaking too quickly during a presentation can cause the audience to...", options:["Feel more engaged","Struggle to follow your points","Remember everything perfectly","Understand better"], answer:1},
@@ -1189,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Unit Conversions (Metric)", summary:"The metric system uses prefixes like kilo-, centi-, and milli- to scale units of length, mass, and volume by powers of 10.",
    resourceLabel:"YouTube: Unit Conversions (Metric)", resourceUrl:"https://www.youtube.com/results?search_query=Unit%20Conversions%20%28Metric%29%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TY4Yoyur3X4",
    quiz:[
      {q:"How many centimetres are in 1 metre?", options:["1000","10000","10","100"], answer:3},
      {q:"How many grams are in 1 kilogram?", options:["1000","10","100","10000"], answer:0},
@@ -1198,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Impact Assessment Basics", summary:"Before major projects are built, environmental impact assessments evaluate how the project might affect ecosystems, water, air, and communities.",
    resourceLabel:"YouTube: Environmental Impact Assessment Basics", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Impact%20Assessment%20Basics%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=co9G_-L3_7U",
    quiz:[
      {q:"An environmental impact assessment is conducted to...", options:["Check a project's environmental effects","Guarantee no environmental effects exist","Ignore potential environmental effects","Replace the need for construction"], answer:0},
      {q:"Assessments often examine effects on...", options:["Only the building's appearance","Ecosystems, water, air, and nearby communities","Nothing related to nature","Only the construction budget"], answer:1},
