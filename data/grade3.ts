@@ -214,7 +214,7 @@ const curriculum: DayContent[] = [
 {day:6, label:"Day 6 — Mon", subjects:[
   {subject:"Language", title:"Punctuation: Commas and Apostrophes", summary:"Students use commas in lists (I have a cat, a dog, and a bird) and apostrophes for contractions (don't, can't) and possessives (Tom's book).",
    resourceLabel:"YouTube: Punctuation: Commas and Apostrophes", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Commas%20and%20Apostrophes%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=4IqlgGLV1XQ",
+   videoUrl:"https://www.youtube.com/watch?v=LHHdMj-XUy8",
    quiz:[
      {q:"In a list of three items, where do commas go?", options:["Between each item","Only after the last item","Only at the start","Nowhere"], answer:0},
      {q:"Which sentence uses commas correctly in a list?", options:["I bought apples, oranges and, bananas.","I bought, apples, oranges and bananas.","I bought apples, oranges, and bananas.","I bought apples oranges and bananas."], answer:2},
@@ -276,7 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Air and Water in the Environment", summary:"Students explore the properties of air (invisible but real, exerts pressure) and water in its three states. They learn about the water cycle.",
    resourceLabel:"YouTube: Air and Water in the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Air%20and%20Water%20in%20the%20Environment%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
+   videoUrl:"https://www.youtube.com/watch?v=kVO4UeqwQlg",
    quiz:[
      {q:"Air is ___.", options:["only found in balloons","visible like smoke","only oxygen","invisible but takes up space"], answer:3},
      {q:"The water cycle includes ___.", options:["evaporation and condensation","only the ocean","only rain","only rivers and lakes"], answer:0},
@@ -298,7 +298,7 @@ const curriculum: DayContent[] = [
 {day:8, label:"Day 8 — Wed", subjects:[
   {subject:"Language", title:"Writing: Narrative — Beginning, Middle, End", summary:"Students write short narratives (personal or fictional) with a clear beginning that introduces characters and setting, a middle with the main event/problem, and an end that resolves it.",
    resourceLabel:"YouTube: Writing: Narrative — Beginning, Middle, End", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20%E2%80%94%20Beginning%2C%20Middle%2C%20End%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=M7jmKm5EuRs",
+   videoUrl:"https://www.youtube.com/watch?v=VDeD1SAvDZ4",
    quiz:[
      {q:"The beginning of a narrative should ___.", options:["solve the problem","summarize everything","introduce characters and setting","be the longest part"], answer:2},
      {q:"The middle of a narrative contains ___.", options:["the resolution","the main events and problem","the title","the credits"], answer:1},
@@ -328,7 +328,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Trading and Economy in Ontario", summary:"Students explore how early Indigenous and settler communities traded goods and how the fur trade shaped Ontario's early economy.",
    resourceLabel:"YouTube: Early Trading and Economy in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Early%20Trading%20and%20Economy%20in%20Ontario%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
+   videoUrl:"https://www.youtube.com/watch?v=dL2mvcydRYQ",
    quiz:[
      {q:"The fur trade was important in early Ontario because ___.", options:["it had no lasting effects","it provided animal companions","it only helped Indigenous peoples","furs were highly valued in Europe"], answer:3},
      {q:"Early Indigenous peoples traded ___.", options:["furs, food, and knowledge of the land","electronics","manufactured goods","cars"], answer:0},
@@ -370,7 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration and Cultural Diversity in Ontario", summary:"Students learn how immigration has shaped Ontario's diverse population and culture throughout history and today.",
    resourceLabel:"YouTube: Immigration and Cultural Diversity in Ontario", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Cultural%20Diversity%20in%20Ontario%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"Immigration means ___.", options:["moving to another city in the same country","moving to a new country to live permanently","going to school in a different province","travelling for vacation"], answer:1},
      {q:"Why do people immigrate to Ontario?", options:["Only for bad reasons","Only for the weather","They are forced to always","For opportunity and a better life"], answer:3},
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario's Relationship with the Rest of Canada", summary:"Students explore how Ontario is connected to other provinces through trade, shared government, geography, and culture.",
    resourceLabel:"YouTube: Ontario's Relationship with the Rest of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%27s%20Relationship%20with%20the%20Rest%20of%20Canada%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=vlMWbP9bkXE",
+   videoUrl:"https://www.youtube.com/watch?v=vCfqg9GrB_0",
    quiz:[
      {q:"Ontario is connected to other provinces through ___.", options:["only weather","trade, government, and transportation","no connections","only highways"], answer:1},
      {q:"Which province borders Ontario to the west?", options:["Quebec","Manitoba","British Columbia","Nova Scotia"], answer:1},
@@ -466,7 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the 'look-cover-write-check' strategy to spell words accurately.",
    resourceLabel:"YouTube: Spelling Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Strategies%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Jf_RzTqwnNY",
+   videoUrl:"https://www.youtube.com/watch?v=_YxhShvlFCo",
    quiz:[
      {q:"The 'look, cover, write, check' strategy helps you ___.", options:["draw pictures","do maths","read faster","practise spelling by seeing, hiding, writing, and verifying the word"], answer:1},
      {q:"A word family shares the same ___.", options:["number of syllables","first letter","the same spelling pattern (e.g., -at)","only vowels"], answer:2},
@@ -508,7 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Asking Questions", summary:"Students learn to ask questions before, during, and after reading to monitor comprehension and engage deeply with texts.",
    resourceLabel:"YouTube: Reading: Asking Questions", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Asking%20Questions%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=DsJ6bMBLUs8",
+   videoUrl:"https://www.youtube.com/watch?v=zdAAdXUneEY",
    quiz:[
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","write better","skip the hard parts","set a purpose for reading"], answer:3},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","copy the text","check your understanding as you go","avoid the confusing parts"], answer:2},
@@ -580,7 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship", summary:"Students learn what it means to be a responsible citizen: following laws, voting, contributing to the community, and respecting others.",
    resourceLabel:"YouTube: Canadian Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
+   videoUrl:"https://www.youtube.com/watch?v=FDUJLmbrewg",
    quiz:[
      {q:"A citizen is ___.", options:["only a government official","a legal member with rights and duties","only a voter","only an adult"], answer:1},
      {q:"Which right do Canadian citizens have?", options:["To vote in federal elections","To ignore community rules","To break any law","To be exempt from taxes"], answer:0},
@@ -780,7 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Static and Current", summary:"Students explore static electricity (build-up of charge) and current electricity (flowing charge that powers devices). They identify conductors and insulators.",
    resourceLabel:"YouTube: Electricity: Static and Current", resourceUrl:"https://www.youtube.com/results?search_query=Electricity%3A%20Static%20and%20Current%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=yc2-363MIQs",
+   videoUrl:"https://www.youtube.com/watch?v=YPBrQfCGvxk",
    quiz:[
      {q:"Static electricity is caused by ___.", options:["flowing electrons in a wire","magnetism only","sound waves","a build-up of charge from friction"], answer:3},
      {q:"Current electricity is ___.", options:["stationary charge","a flow of electrons through a wire","only for large machines","only from batteries"], answer:1},
@@ -802,7 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Writing: Opinion", summary:"Students write opinion paragraphs stating a clear position, giving reasons supported by evidence or examples, and using opinion language.",
    resourceLabel:"YouTube: Writing: Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Opinion%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-J2SL7Et99k",
+   videoUrl:"https://www.youtube.com/watch?v=UCJu8TWGnfg",
    quiz:[
      {q:"An opinion is ___.", options:["a proven fact","only a complaint","a personal belief, not a fact","only a question"], answer:2},
      {q:"Opinion writing should include ___.", options:["only facts with no personal stance","a clear position with reasons","only questions","random information"], answer:1},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Cultural Practices in Ontario Communities", summary:"Students explore how cultural practices — food, clothing, music, art, language — contribute to the identity of Ontario's diverse communities.",
    resourceLabel:"YouTube: Cultural Practices in Ontario Communities", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Practices%20in%20Ontario%20Communities%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=61bTEgGNN-E",
+   videoUrl:"https://www.youtube.com/watch?v=zOe0OfG9XIc",
    quiz:[
      {q:"Cultural practices are ___.", options:["only for elderly people","only found in other countries","traditions and customs of a group","only government rules"], answer:2},
      {q:"How do different cultural practices enrich Ontario communities?", options:["They do not","They cause confusion","Only if everyone agrees","They make communities more vibrant"], answer:3},
@@ -874,7 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Communities Around the World", summary:"Students compare communities in different countries with Ontario communities, exploring similarities and differences in climate, culture, economy, and geography.",
    resourceLabel:"YouTube: Comparing Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20Around%20the%20World%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=BdCn4ztrw6k",
+   videoUrl:"https://www.youtube.com/watch?v=zI2l6a6088M",
    quiz:[
      {q:"Comparing communities from different countries helps us ___.", options:["feel superior","appreciate diverse ways of living","only find differences","avoid learning about others"], answer:1},
      {q:"A community in a desert region would face ___ challenges compared to one in Ontario.", options:["no challenges","easier challenges","challenges like scarce water and heat","the same"], answer:2},
@@ -928,7 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Research Skills: Finding Information", summary:"Students practise using books, encyclopedias, and reliable websites to find information. They evaluate source reliability.",
    resourceLabel:"YouTube: Research Skills: Finding Information", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Skills%3A%20Finding%20Information%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=pDPlFRwMc1Y",
+   videoUrl:"https://www.youtube.com/watch?v=84nDQvBfg60",
    quiz:[
      {q:"A reliable source of information is one that ___.", options:["written by experts and fact-checked","is only on social media","anyone can edit without verification","only contains pictures"], answer:0},
      {q:"An index in a non-fiction book helps you ___.", options:["find topics alphabetically","draw pictures","find the author's biography","read faster"], answer:0},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities in the Past vs Today", summary:"Students compare life in an Ontario community 100 years ago with life today, focusing on changes in transportation, communication, and daily life.",
    resourceLabel:"YouTube: Communities in the Past vs Today", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20in%20the%20Past%20vs%20Today%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=04lO0ISBT40",
+   videoUrl:"https://www.youtube.com/watch?v=nQRyAFEeGo0",
    quiz:[
      {q:"One hundred years ago, most Ontarians communicated over long distances by ___.", options:["email","text message","telegraph and letter","video call"], answer:2},
      {q:"Transportation in Ontario has changed from ___.", options:["cars to horses","horses and trains to cars and planes","exactly the same","random changes"], answer:1},
@@ -1042,7 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Making a Difference: Local Action", summary:"Students explore how individuals and groups make positive changes in their communities through volunteering, activism, and sustainable choices.",
    resourceLabel:"YouTube: Making a Difference: Local Action", resourceUrl:"https://www.youtube.com/results?search_query=Making%20a%20Difference%3A%20Local%20Action%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=H0bU-4Y958c",
+   videoUrl:"https://www.youtube.com/watch?v=rVmTbCo-oOc",
    quiz:[
      {q:"Volunteering means ___.", options:["freely giving your time to help others","only for adults","only cleaning up","being paid to work"], answer:0},
      {q:"A community garden is an example of ___.", options:["a government project always","only for farmers","a negative action","people growing food together"], answer:3},
@@ -1074,7 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces Review and Engineering Design", summary:"Students review forces and apply engineering design principles: identify a problem, brainstorm, design, build, test, and improve.",
    resourceLabel:"YouTube: Forces Review and Engineering Design", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Review%20and%20Engineering%20Design%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=C-FEVzI8oe8",
+   videoUrl:"https://www.youtube.com/watch?v=fxJWin195kU",
    quiz:[
      {q:"The engineering design process begins with ___.", options:["testing the solution","evaluating results only","identifying and defining the problem","building immediately"], answer:2},
      {q:"After brainstorming solutions you ___.", options:["stop the process","start over","test without designing","pick the best design and build it"], answer:3},
@@ -1148,7 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: All Strands", summary:"Students review and consolidate key Grade 3 math concepts: number sense, measurement, geometry, patterning, and data.",
    resourceLabel:"YouTube: Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20All%20Strands%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ytVneQUA5-c",
+   videoUrl:"https://www.youtube.com/watch?v=ZXESkVVMOwY",
    quiz:[
      {q:"256 + 399 = ?", options:["675","645","665","655"], answer:3},
      {q:"7 × 9 = ?", options:["72","63","56","81"], answer:1},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Students review Ontario communities, government, economy, natural resources, and citizenship.",
    resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=KxqHQ1ZNbc4",
+   videoUrl:"https://www.youtube.com/watch?v=BlrI_nb96X8",
    quiz:[
      {q:"Which level of government runs local parks and garbage collection?", options:["Federal","Provincial","International","Municipal"], answer:3},
      {q:"What are Ontario's two major physical regions?", options:["Ocean coast and tundra","Canadian Shield & Great Lakes Lowlands","Prairies and mountains","Desert and rainforest"], answer:1},
@@ -1180,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Creative Writing: Narrative Revision", summary:"Students revise a narrative draft by improving word choice, adding sensory details, varying sentence structure, and ensuring the story makes sense.",
    resourceLabel:"YouTube: Creative Writing: Narrative Revision", resourceUrl:"https://www.youtube.com/results?search_query=Creative%20Writing%3A%20Narrative%20Revision%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HLcjb0t6SRI",
    quiz:[
      {q:"Revising a piece of writing means ___.", options:["rewriting the whole text from scratch","only fixing punctuation","improving content and style","correcting only spelling errors"], answer:2},
      {q:"Sensory details appeal to the ___.", options:["only visual sense","only hearing","the five senses","only imagination"], answer:2},
@@ -1189,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Saving and Spending", summary:"Students learn the basics of saving, spending, and the concept of earning money through work.",
    resourceLabel:"YouTube: Financial Literacy: Saving and Spending", resourceUrl:"https://www.youtube.com/results?search_query=Financial%20Literacy%3A%20Saving%20and%20Spending%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=oBb3noS_jcI",
    quiz:[
      {q:"Saving money means ___.", options:["only putting money in a bank","only for adults","setting money aside for later","spending everything you earn"], answer:2},
      {q:"The difference between a need and a want is ___.", options:["they are the same","needs are for survival; wants are extra","wants are more important","needs are optional"], answer:1},
@@ -1198,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Climate and Ecosystems", summary:"Students explore how climate affects ecosystems, and how climate change is altering habitats and biodiversity globally and in Ontario.",
    resourceLabel:"YouTube: Environmental Science: Climate and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20and%20Ecosystems%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9TFTsLWtY34",
    quiz:[
      {q:"Climate is ___.", options:["only temperature","only rainfall","today's weather","average weather patterns over time"], answer:3},
      {q:"Climate change is causing ___.", options:["more extreme weather worldwide","only ocean changes","only desert expansion","no changes"], answer:0},
@@ -1218,6 +1221,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year End Celebration: Favourite Books and Reading Reflections", summary:"Students share favourite books, reflect on their reading growth, and set reading goals for Grade 4.",
    resourceLabel:"YouTube: Year End Celebration: Favourite Books and Reading Reflections", resourceUrl:"https://www.youtube.com/results?search_query=Year%20End%20Celebration%3A%20Favourite%20Books%20and%20Reading%20Reflections%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2VAv52l1728",
    quiz:[
      {q:"Reflecting on your reading means ___.", options:["forgetting everything","copying a book report","thinking about your growth as a reader","only choosing new books"], answer:2},
      {q:"A reading goal for Grade 4 might be ___.", options:["never reading again","giving up on hard books","trying a new genre or longer books","only reading the same books"], answer:2},
@@ -1227,6 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Grade 3 Math Celebration: Challenge Problems", summary:"Students tackle fun, mixed challenge problems drawing on all Grade 3 math concepts.",
    resourceLabel:"YouTube: Grade 3 Math Celebration: Challenge Problems", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Math%20Celebration%3A%20Challenge%20Problems%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6glibvaWomw",
    quiz:[
      {q:"A rectangle has a perimeter of 28 cm and a length of 9 cm. What is its width?", options:["4 cm","7 cm","5 cm","6 cm"], answer:2},
      {q:"If 8 students each have 7 stickers and share equally in 4 groups, how many stickers per group?", options:["12","18","14","16"], answer:2},
@@ -1236,6 +1241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Grade 3 Science Celebration: Science All Around Us", summary:"Students connect science learning to everyday life and explore how curiosity and observation drive scientific discovery.",
    resourceLabel:"YouTube: Grade 3 Science Celebration: Science All Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Science%20Celebration%3A%20Science%20All%20Around%20Us%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4WxKZ79klTc",
    quiz:[
      {q:"A simple machine that helps you open a paint can lid with a coin is a ___.", options:["pulley","inclined plane","lever","wheel-and-axle"], answer:2},
      {q:"Which soil type is best for growing vegetables?", options:["Clay","Loam","Gravel","Sand"], answer:1},
@@ -1245,6 +1251,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Grade 3 Social Studies Celebration: Our Community, Our World", summary:"Students celebrate their learning by connecting Ontario communities to communities around the world and to the future.",
    resourceLabel:"YouTube: Grade 3 Social Studies Celebration: Our Community, Our World", resourceUrl:"https://www.youtube.com/results?search_query=Grade%203%20Social%20Studies%20Celebration%3A%20Our%20Community%2C%20Our%20World%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NR7z9FbUf5k",
    quiz:[
      {q:"What do all communities around the world have in common?", options:["Exact same food","Same language","People working together to meet needs","Same government"], answer:2},
      {q:"How is Ontario connected to communities around the world?", options:["Only through the internet","It is not","Through trade and cultural exchange","Only through geography"], answer:2},
