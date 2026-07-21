@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"Language", title:"Writing: My Favourite Thing", summary:"Students practise simple sentence writing about a personal favourite topic, using a capital letter, words, and a period.",
    resourceLabel:"YouTube: Writing: My Favourite Thing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Favourite%20Thing%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=DahZQg1YwQI",
+   videoUrl:"https://www.youtube.com/watch?v=ysnRmRRAMcA",
    quiz:[
      {q:"A sentence starts with a ___ letter.", options:["capital (uppercase)","lowercase","number","random"], answer:0},
      {q:"A sentence ends with a ___.", options:["slash","comma","an ending punctuation mark","capital letter"], answer:2},
