@@ -118,7 +118,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Patterns in a Changing World", summary:"Ontario Grade 7 Geography strand: physical patterns like landforms, climate zones, and natural vegetation shape where and how people live.",
    resourceLabel:"YouTube: Physical Patterns in a Changing World", resourceUrl:"https://www.youtube.com/results?search_query=Physical%20Patterns%20in%20a%20Changing%20World%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=UKmXhK4ZFoc",
+   videoUrl:"https://www.youtube.com/watch?v=oYS2Xo2vsb8",
    quiz:[
      {q:"A landform is a...", options:["A type of weather","A natural feature like a mountain","Type of government","A political boundary"], answer:1},
      {q:"Climate zones are influenced by factors like...", options:["Population size only","Latitude and proximity to water","Language spoken","Government type"], answer:1},
