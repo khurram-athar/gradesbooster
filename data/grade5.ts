@@ -1168,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rural and Urban Life in Canada", summary:"Rural areas are less densely populated and often focus on agriculture, while urban areas are densely populated cities with more services and infrastructure.",
    resourceLabel:"YouTube: Rural and Urban Life in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Rural%20and%20Urban%20Life%20in%20Canada%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YRxNQPmj1-8",
    quiz:[
      {q:"Why might a rural community have fewer public transit options than an urban city?", options:["Population has no connection to transit availability","Urban areas never have transit either","Low density makes transit less practical","Rural areas are legally prohibited from having transit"], answer:2},
      {q:"A family moves from a large city to a small farming town. Which lifestyle change would they MOST likely experience?", options:["Access to more skyscrapers and subways","Immediate loss of all modern conveniences","More space, slower pace, fewer services","No change in lifestyle at all"], answer:2},
@@ -1179,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Dictionary and Thesaurus Skills", summary:"A dictionary gives word meanings, pronunciations, and parts of speech, while a thesaurus provides synonyms and antonyms.",
    resourceLabel:"YouTube: Dictionary and Thesaurus Skills", resourceUrl:"https://www.youtube.com/results?search_query=Dictionary%20and%20Thesaurus%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qDTTJ_udQno",
    quiz:[
      {q:"A writer wants to avoid repeating the word 'said' too many times in a story. Which resource would help most?", options:["A dictionary, to find the definition of 'said'","An atlas","A calendar","A thesaurus, for varied synonyms"], answer:3},
      {q:"Why might a dictionary entry include a word's part of speech alongside its definition?", options:["Dictionaries never include part of speech","Part of speech has no connection to meaning","This information is unrelated to word usage","Meaning can depend on grammatical use"], answer:3},
@@ -1188,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Perimeter and Area of Composite Shapes", summary:"Composite shapes are made of two or more simple shapes; you find their area and perimeter by breaking them into smaller, familiar parts.",
    resourceLabel:"YouTube: Perimeter and Area of Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%20and%20Area%20of%20Composite%20Shapes%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rBpsauKXPfs",
    quiz:[
      {q:"A composite shape is a 5×4 rectangle with a 2×2 square removed from one corner. What is its area?", options:["16 units²","20 units²","24 units²","12 units²"], answer:0},
      {q:"An L-shaped garden is made of a 6×3 rectangle and a 3×2 rectangle attached to it. What is its total area?", options:["24 units²","18 units²","20 units²","26 units²"], answer:0},
@@ -1197,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy Pyramids and Ecosystem Balance", summary:"Energy pyramids show that less energy is available at each higher level of a food chain, which limits how many organisms an ecosystem can support.",
    resourceLabel:"YouTube: Energy Pyramids and Ecosystem Balance", resourceUrl:"https://www.youtube.com/results?search_query=Energy%20Pyramids%20and%20Ecosystem%20Balance%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-oVavgmveyY",
    quiz:[
      {q:"An ecosystem has 10,000 units of energy at the producer level, and only about 10% transfers between levels. What would you expect at the top predator level?", options:["Exactly 10,000, since energy never changes","More than 10,000, since energy increases upward","Significantly less than 10,000, since energy decreases at each level","Zero, since predators use no energy"], answer:2},
      {q:"If a disease wiped out most of the producers (plants) in an ecosystem, what would likely happen to the rest of the food chain?", options:["Predators would have more food than ever","Consumers would face food shortages","Nothing would change for any other organism","Energy would increase at higher levels"], answer:1},
@@ -1206,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Role in World Organizations", summary:"Canada participates in international organizations like the United Nations to cooperate with other countries on issues like peace, health, and human rights.",
    resourceLabel:"YouTube: Canada's Role in World Organizations", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Role%20in%20World%20Organizations%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=aBH3QjGLBhw",
    quiz:[
      {q:"Why might a country like Canada choose to participate in international organizations rather than act entirely alone?", options:["Global issues need cooperation","Canada is legally required to join every organization","International organizations have no benefits","Acting alone is always more effective"], answer:0},
      {q:"How do Canadian peacekeepers contribute to global stability?", options:["By creating conflicts abroad","By supporting peace in conflict regions","By only participating in domestic issues","By avoiding all international involvement"], answer:1},
@@ -1255,6 +1260,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Evaluating Sources for Reliability", summary:"Ontario Grade 5 Reading and Media Literacy strands: evaluating a source means checking who wrote it, when it was published, and whether it is supported by evidence, before deciding whether to trust it.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=q1k8rcYUmbQ",
    quiz:[
      {q:"Which is a key question when evaluating a source’s reliability?", options:["What colour is the website?","Does it have pictures?","How long is the article?","Who wrote it, and are they a credible authority on the topic?"], answer:3},
      {q:"A reliable source is generally one that ___.", options:["Is the first result in any search","Has no author listed at all","Is supported by evidence and comes from a credible author or organization","Contains only opinions with no facts"], answer:2},

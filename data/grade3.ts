@@ -1263,6 +1263,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Media Literacy: Advertising and Persuasion", summary:"Ontario Grade 3 Media Literacy strand: advertisements are created to persuade people to buy or believe something, often using bright colours, catchy slogans, and famous people or characters.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=VXhLmkrN0-I",
    quiz:[
      {q:"An advertisement is mainly created to ___.", options:["Tell a fictional story only","Persuade people to buy or believe something","Inform without any goal","Report the weather"], answer:1},
      {q:"Which is a common technique used in ads?", options:["Only black and white text","Catchy slogans and bright colours","Long boring paragraphs","No pictures at all"], answer:1},
@@ -1272,6 +1273,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rounding to the Nearest 10 and 100", summary:"Ontario Grade 3 Number strand: rounding means changing a number to the nearest ten or hundred to make it easier to work with, based on whether the next digit is 5 or more.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=DCi4gIaY-S4",
    quiz:[
      {q:"Round 47 to the nearest 10.", options:["45","50","40","47"], answer:1},
      {q:"Round 82 to the nearest 10.", options:["82","85","90","80"], answer:3},
@@ -1281,6 +1283,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Growth and Changes in Plants: The Life Cycle", summary:"Ontario Grade 3 Science Life Systems strand: plants grow through a life cycle -- seed, germination, seedling, mature plant, flower, and new seeds -- repeating the pattern.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=2SBVz4MgeIE",
    quiz:[
      {q:"What is the first stage of a plant's life cycle?", options:["Seed","Flower","Mature plant","Fruit"], answer:0},
      {q:"Germination means ___.", options:["A plant dying","A flower blooming","A seed beginning to sprout and grow","Leaves falling off"], answer:2},
@@ -1290,6 +1293,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The Canadian Shield", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Canadian Shield is a huge region of ancient rock, forests, and lakes that covers much of central and northern Canada, including most of Ontario.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=lQ0VSa6XLlo",
    quiz:[
      {q:"The Canadian Shield is mostly made of ___.", options:["Ocean water","Ice sheets only","Ancient rock","Sand dunes"], answer:2},
      {q:"Which is a common feature of the Canadian Shield?", options:["Coral reefs","Tropical rainforests","Deserts","Forests and lakes"], answer:3},

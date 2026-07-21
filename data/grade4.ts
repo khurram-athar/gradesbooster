@@ -1264,6 +1264,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Fact and Opinion", summary:"Ontario Grade 4 Reading strand: a fact can be proven true or false with evidence, while an opinion expresses a personal belief or judgement that cannot be proven.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=nKBzdtADTiY",
    quiz:[
      {q:"Which of these is a fact?", options:["Blue is the nicest colour.","Hockey is the most exciting sport.","Winter is the best season.","Canada has ten provinces."], answer:3},
      {q:"Which of these is an opinion?", options:["A triangle has three sides.","Water boils at 100 degrees Celsius.","Toronto is in Ontario.","Chocolate ice cream is the best flavour."], answer:3},
@@ -1291,6 +1292,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient Mesopotamia", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient Mesopotamia, located between the Tigris and Euphrates rivers, is considered one of the earliest civilizations, known for early writing, cities, and irrigation systems.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=EHkAGKgoyGo",
    quiz:[
      {q:"Ancient Mesopotamia developed between which two rivers?", options:["The Amazon and Mississippi","The Ganges and Indus","The Nile and Congo","The Tigris and Euphrates"], answer:3},
      {q:"Mesopotamia is often called one of the earliest ___.", options:["Mountain ranges","Civilizations","Oceans","Deserts"], answer:1},
