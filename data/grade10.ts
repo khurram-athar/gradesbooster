@@ -1158,6 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Science and Society — A Final Reflection", summary:"Students reflect on the role of science in society and their responsibilities as scientifically literate citizens.",
    resourceLabel:"YouTube: Science: Science and Society — A Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Science%20and%20Society%20%E2%80%94%20A%20Final%20Reflection%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cbeYfFb8yFY",
    quiz:[
      {q:"Scientific literacy means ___.", options:["reading and judging scientific claims","only being good at labs","being a scientist","knowing all scientific facts"], answer:0},
      {q:"The relationship between science and policy is ___.", options:["science has no role in policy","science informs policy, not decides it","science automatically determines policy","scientists should make all decisions"], answer:1},
@@ -1178,6 +1179,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"English", title:"Exam Skills: The Unseen Poem", summary:"Students practise analysing an unseen poem under exam conditions — applying close reading, identifying form and content, and writing a focused analytical response.",
    resourceLabel:"YouTube: Exam Skills: The Unseen Poem", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20The%20Unseen%20Poem%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rnyZzmjIm6c",
    quiz:[
      {q:"Approaching an unseen poem for the first time, you should ___.", options:["guess the theme from the title","read the whole poem at least twice","write immediately","read only the first stanza"], answer:1},
      {q:"In an unseen poem analysis, you should prioritise ___.", options:["analysing HOW specific craft choices create meaning and effect","identifying the rhyme scheme before anything else","proving you know many techniques","memorising all literary terms"], answer:0},
@@ -1187,6 +1189,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exam Skills: Mathematical Problem Solving Strategies", summary:"Students practise multi-step problem solving strategies for exam conditions.",
    resourceLabel:"YouTube: Exam Skills: Mathematical Problem Solving Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Skills%3A%20Mathematical%20Problem%20Solving%20Strategies%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0OobMub0bAg",
    quiz:[
      {q:"When a math problem seems impossible, the best strategy is ___.", options:["panic","write what you know: diagram and define","leave it blank immediately","only try one approach"], answer:1},
      {q:"Working backwards in a problem means ___.", options:["only for simple problems","starting from the goal and working back","guessing the answer","never used in real math"], answer:1},
@@ -1196,6 +1199,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Exam Preparation and Review", summary:"Students review key concepts from all three Grade 10 science strands for assessment readiness.",
    resourceLabel:"YouTube: Science: Exam Preparation and Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Exam%20Preparation%20and%20Review%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=EjbSulQogIA",
    quiz:[
      {q:"The difference between ionic and covalent bonding is ___.", options:["only in crystal structure","ionic transfers; covalent shares","only in state at room temperature","no difference"], answer:1},
      {q:"Natural selection requires ___.", options:["a single generation to produce new species","no genetic variation","directed change by an organism","variation, selection, and inheritance"], answer:3},
@@ -1205,6 +1209,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History Exam: Practise Essay", summary:"Students practise a 45-minute historical essay, applying all historical thinking skills to a significant Canadian history question.",
    resourceLabel:"YouTube: History Exam: Practise Essay", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%3A%20Practise%20Essay%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
    quiz:[
      {q:"A strong history essay begins with ___.", options:["a question restated verbatim","a clear thesis stating your argument","a general statement about history","a list of facts"], answer:1},
      {q:"Historical evidence in an essay should ___.", options:["include only dates","only come from memory","be specific and support your argument","be as general as possible"], answer:2},
