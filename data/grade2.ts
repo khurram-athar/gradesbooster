@@ -402,7 +402,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of vowels, nouns, verbs, adjectives, main idea, sequencing, and rhyming.",
    resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=E6588DlZW-c",
+   videoUrl:"https://www.youtube.com/watch?v=o73GnZotE_Y",
    quiz:[
      {q:"Which word is an adjective?", options:["Jump","Big","Run","Quickly"], answer:1},
      {q:"What is the main idea of a story?", options:["The title only","A small detail","What it's mostly about","The last word"], answer:2},
@@ -1200,6 +1200,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Simple Poetry and Rhythm", summary:"Poems often use rhythm (a beat) and rhyming words to make them fun to read aloud. Each line in a poem has a pattern of sounds. Poetry helps us play with language!",
    resourceLabel:"YouTube: Simple Poetry and Rhythm", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Poetry%20and%20Rhythm%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4rOnRJlevmI",
    quiz:[
      {q:"What is rhythm in a poem?", options:["Rhyming words at the end","The number of words","The title of the poem","The beat or pattern of sounds aloud"], answer:3},
      {q:"Which pair of words RHYMES?", options:["Sing / blue","Tree / table","Cat / dog","Moon / spoon"], answer:3},
@@ -1209,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 200: Counting and Comparing", summary:"We can count, read, and write numbers past 100 — all the way to 200. A number like 134 has 1 hundred, 3 tens, and 4 ones.",
    resourceLabel:"YouTube: Numbers to 200: Counting and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20200%3A%20Counting%20and%20Comparing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Vvu-_yXnh14",
    quiz:[
      {q:"What number comes right after 109?", options:["110","120","100","108"], answer:0},
      {q:"Which number is greater: 145 or 154?", options:["154","Cannot tell","They are equal","145"], answer:0},
@@ -1218,6 +1220,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth and Space: The Sun, Moon, and Stars", summary:"The sun is a star that gives Earth light and warmth. The moon orbits Earth and reflects sunlight. Stars are very far away and look small in the night sky because of the distance.",
    resourceLabel:"YouTube: Earth and Space: The Sun, Moon, and Stars", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Space%3A%20The%20Sun%2C%20Moon%2C%20and%20Stars%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pZkFWD1oRh8",
    quiz:[
      {q:"What is the sun?", options:["A moon","A very large cloud","A planet","A star that gives Earth light and heat"], answer:3},
      {q:"Why does the moon seem to glow at night?", options:["It is on fire","It reflects light from the sun","It is very close to Earth","It makes its own light"], answer:1},
@@ -1227,6 +1230,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our Rights and the Rights of Children", summary:"Every child has rights — things they are entitled to, like the right to safety, education, a family, and to be treated with respect. The United Nations Convention on the Rights of the Child protects these rights.",
    resourceLabel:"YouTube: Our Rights and the Rights of Children", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Rights%20and%20the%20Rights%20of%20Children%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=puarPOoJUy8",
    quiz:[
      {q:"What is a 'right'?", options:["A school subject","Something everyone is entitled to","Something you must give away","A type of direction"], answer:1},
      {q:"Which of these is a right that every child should have?", options:["The right to never follow rules","The right to have the most toys","The right to stay up all night","The right to education and to be safe"], answer:3},
@@ -1238,6 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Day 30 Final Review — mixed questions from Days 26–29", subjects:[
   {subject:"Language", title:"Final Review: Retelling, Describing Words, Details & Poetry", summary:"Mixed review of retelling stories, using describing words, reading for details, and simple poetry.",
    resourceLabel:"YouTube: Final Review: Retelling, Describing Words, Details & Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Retelling%2C%20Describing%20Words%2C%20Details%20%26%20Poetry%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xcizQGHb1DI",
    quiz:[
      {q:"When retelling a story, what should you include?", options:["Characters, setting, and solution","Only the title","Random details","Only the last event"], answer:0},
      {q:"Which word is a describing word (adjective)?", options:["Jump","Fluffy","Run","Quickly"], answer:1},
@@ -1247,6 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Coins, Subtraction, Numbers to 200 & Capacity", summary:"Mixed review of counting coins, two-digit subtraction, numbers to 200, and comparing capacity and mass.",
    resourceLabel:"YouTube: Final Review: Coins, Subtraction, Numbers to 200 & Capacity", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Coins%2C%20Subtraction%2C%20Numbers%20to%20200%20%26%20Capacity%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MbtmucV-U2c",
    quiz:[
      {q:"What is the total of 1 quarter and 1 dime?", options:["40¢","35¢","30¢","25¢"], answer:1},
      {q:"87 - 54 = ?", options:["34","43","33","32"], answer:2},
@@ -1256,6 +1262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Plants, Simple Machines, Weather Tools & Space", summary:"Mixed review of plant needs and photosynthesis, simple machines, measuring weather, and the sun, moon, and stars.",
    resourceLabel:"YouTube: Final Review: Plants, Simple Machines, Weather Tools & Space", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Plants%2C%20Simple%20Machines%2C%20Weather%20Tools%20%26%20Space%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YqtPrEb3yOY",
    quiz:[
      {q:"What do plants use to make their own food?", options:["Darkness and salt","Sunlight, water, and carbon dioxide","Soil only","Nothing — they eat insects"], answer:1},
      {q:"A pulley helps lift...", options:["Light brighter","Temperature","Sound louder","A flag up a flagpole"], answer:3},
@@ -1265,6 +1272,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Environment, Geography, Laws & Children's Rights", summary:"Mixed review of protecting the environment, Canada's regions, rules and laws, and children's rights.",
    resourceLabel:"YouTube: Final Review: Environment, Geography, Laws & Children's Rights", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Geography%2C%20Laws%20%26%20Children%27s%20Rights%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iW9v2A3K_5Y",
    quiz:[
      {q:"Which action protects the environment?", options:["Wasting electricity","Planting trees and recycling","Littering","Pouring chemicals into lakes"], answer:1},
      {q:"Which province is known for the Rocky Mountains?", options:["Quebec","Ontario","Nova Scotia","British Columbia"], answer:3},
