@@ -14,7 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication Facts to 10×10", summary:"Grade 4 Number strand: students recall multiplication facts to 10×10 fluently and use them to solve problems.",
    resourceLabel:"YouTube: Multiplication Facts to 10×10", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20to%2010%C3%9710%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=6owKqFWej-w",
+   videoUrl:"https://www.youtube.com/watch?v=EI2qZC1vUGk",
    quiz:[
      {q:"7 × 8 = ?", options:["54","48","56","64"], answer:2},
      {q:"6 × 9 = ?", options:["48","56","54","63"], answer:2},
@@ -256,7 +256,7 @@ const curriculum: DayContent[] = [
 {day:7, label:"Day 7 — Tue", subjects:[
   {subject:"Language", title:"Writing: Paragraphs", summary:"Grade 4 Writing strand: a well-organized paragraph has a topic sentence, supporting details, and a concluding sentence. All sentences relate to one main idea.",
    resourceLabel:"YouTube: Writing: Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Paragraphs%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=hhyMVd-tISU",
+   videoUrl:"https://www.youtube.com/watch?v=FYKDIUCnHpk",
    quiz:[
      {q:"The topic sentence in a paragraph ___.", options:["ends the paragraph","is unrelated to the other sentences","gives a detail","states the main idea of the paragraph"], answer:3},
      {q:"Supporting sentences in a paragraph ___.", options:["end the paragraph","are optional","support the topic sentence with details","introduce new topics"], answer:2},
@@ -370,7 +370,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade and Commerce in History", summary:"Grade 4 Social Studies: trade is the exchange of goods and services. Ancient and early modern civilizations developed trade routes that spread culture and ideas.",
    resourceLabel:"YouTube: Trade and Commerce in History", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20and%20Commerce%20in%20History%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=HfN8BnRJryQ",
+   videoUrl:"https://www.youtube.com/watch?v=67Yu7xerHi0",
    quiz:[
      {q:"Trade is the exchange of ___.", options:["animals only","soldiers","goods and services","land only"], answer:2},
      {q:"The Silk Road connected ___.", options:["Europe, the Middle East, and Asia","North and South America","Canada and the USA","Africa and Australia"], answer:0},
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Human Rights", summary:"Grade 4 Social Studies: human rights are basic rights all people deserve. The Universal Declaration of Human Rights (UDHR, 1948) protects these rights globally.",
    resourceLabel:"YouTube: Human Rights", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Rights%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=FWwEMFSY1r0",
+   videoUrl:"https://www.youtube.com/watch?v=AGcy-tP3YOQ",
    quiz:[
      {q:"Human rights are rights that ___.", options:["all people have equally","only adults have","only citizens have","only wealthy people have"], answer:0},
      {q:"The Universal Declaration of Human Rights was adopted in ___.", options:["1867","2000","1948","1776"], answer:2},
@@ -454,7 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Geography: Provinces and Territories", summary:"Grade 4 Social Studies: Canada has 10 provinces and 3 territories. Each has a capital city and distinct geographic features.",
    resourceLabel:"YouTube: Canadian Geography: Provinces and Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Geography%3A%20Provinces%20and%20Territories%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=WEGw4IdHEqQ",
    quiz:[
      {q:"How many provinces does Canada have?", options:["12","10","9","8"], answer:1},
      {q:"How many territories does Canada have?", options:["2","4","3","1"], answer:2},
@@ -496,7 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario Geography", summary:"Grade 4 Social Studies: Ontario is Canada's most populous province with diverse geography including the Great Lakes, Canadian Shield, and Great Lakes–St. Lawrence Lowlands.",
    resourceLabel:"YouTube: Ontario Geography", resourceUrl:"https://www.youtube.com/results?search_query=Ontario%20Geography%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QBQ5ZhHlkkY",
+   videoUrl:"https://www.youtube.com/watch?v=SfxS985xD_c",
    quiz:[
      {q:"Ontario borders how many of the Great Lakes?", options:["2","3","5","4"], answer:3},
      {q:"The Canadian Shield in Ontario is characterized by ___.", options:["ancient rock, forests, and lakes","mountain ranges","dry desert","flat prairies"], answer:0},
@@ -538,7 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Maps: Physical Features", summary:"Grade 4 Social Studies: physical maps show natural features like mountains, rivers, lakes, and plains. They use colour and symbols to represent terrain.",
    resourceLabel:"YouTube: Maps: Physical Features", resourceUrl:"https://www.youtube.com/results?search_query=Maps%3A%20Physical%20Features%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=mSugSh7z8MM",
+   videoUrl:"https://www.youtube.com/watch?v=DYaWXkEwDRs",
    quiz:[
      {q:"A physical map shows ___.", options:["natural features like mountains","population density","roads and cities","political boundaries"], answer:0},
      {q:"On most physical maps, blue represents ___.", options:["water (rivers, lakes, oceans)","land","grasslands","mountains"], answer:0},
@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Gravity and Friction", summary:"Grade 4 Science Energy strand: gravity is the force that pulls objects toward Earth. Friction is the force that resists movement between surfaces in contact.",
    resourceLabel:"YouTube: Forces: Gravity and Friction", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20and%20Friction%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=8wXWraHglVM",
+   videoUrl:"https://www.youtube.com/watch?v=I0XeLVK9p0I",
    quiz:[
      {q:"Gravity is a force that ___.", options:["stops all motion","only exists in space","pulls objects toward each other","pushes objects upward"], answer:2},
      {q:"Friction is a force that ___.", options:["resists sliding motion between surfaces","speeds objects up","pulls objects down","pushes objects sideways"], answer:0},
@@ -634,7 +634,7 @@ const curriculum: DayContent[] = [
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"Language", title:"Reading: Sequencing", summary:"Grade 4 Reading strand: sequence is the order in which events happen. Signal words: first, then, next, after, finally, before.",
    resourceLabel:"YouTube: Reading: Sequencing", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Sequencing%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=4Iz5Gmkz8BQ",
+   videoUrl:"https://www.youtube.com/watch?v=4AMptAmS_xM",
    quiz:[
      {q:"Sequence means ___.", options:["a cause-and-effect relationship","the main idea","the order in which events occur","a comparison"], answer:2},
      {q:"Which signal word shows a sequence?", options:["In contrast","Next","However","Because"], answer:1},
@@ -676,7 +676,7 @@ const curriculum: DayContent[] = [
 {day:17, label:"Day 17 — Tue", subjects:[
   {subject:"Language", title:"Writing: Narrative Writing", summary:"Grade 4 Writing strand: narrative writing tells a story with a clear beginning (characters/setting), middle (problem/rising action), and end (resolution).",
    resourceLabel:"YouTube: Writing: Narrative Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Narrative%20Writing%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=M7jmKm5EuRs",
+   videoUrl:"https://www.youtube.com/watch?v=LoRPU4RxFts",
    quiz:[
      {q:"Narrative writing tells a ___.", options:["fact-based report","story with characters and events","persuasive argument","set of instructions"], answer:1},
      {q:"The beginning of a narrative should introduce ___.", options:["the characters and setting","the conclusion","the climax","the solution"], answer:0},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Writing: Procedural Texts", summary:"Grade 4 Writing strand: a procedural text (how-to) explains how to do something in step-by-step order. It uses numbered steps, imperative verbs, and clear language.",
    resourceLabel:"YouTube: Writing: Procedural Texts", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Procedural%20Texts%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=dDIZM9Ky_aM",
+   videoUrl:"https://www.youtube.com/watch?v=bvUh3FrhFY8",
    quiz:[
      {q:"The purpose of a procedural text is to ___.", options:["persuade the reader","entertain with a story","explain how to do or make something","compare two ideas"], answer:2},
      {q:"Procedural texts use ___ verbs.", options:["passive","past tense","imperative (command)","subjunctive"], answer:2},
@@ -1012,7 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri", subjects:[
   {subject:"Language", title:"Vocabulary Review and Word Study", summary:"Grade 4 Language strand review: students apply knowledge of synonyms, antonyms, prefixes, suffixes, context clues, and figurative language.",
    resourceLabel:"YouTube: Vocabulary Review and Word Study", resourceUrl:"https://www.youtube.com/results?search_query=Vocabulary%20Review%20and%20Word%20Study%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=3pfjRgIKn7Q",
+   videoUrl:"https://www.youtube.com/watch?v=YLyakGWuwhU",
    quiz:[
      {q:"The prefix 'un-' in 'unhappy' means ___.", options:["very","not","again","before"], answer:1},
      {q:"The suffix '-less' in 'hopeless' means ___.", options:["before","full of","again","not/without"], answer:3},
@@ -1180,6 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Language Arts: Oral Communication", summary:"Grade 4 Language strand: oral communication includes speaking clearly, listening actively, presenting ideas, and participating respectfully in discussions.",
    resourceLabel:"YouTube: Language Arts: Oral Communication", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Arts%3A%20Oral%20Communication%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xn3wE3Gw_18",
    quiz:[
      {q:"Active listening means ___.", options:["looking away","waiting for your turn to talk only","interrupting to add ideas","paying attention and eye contact"], answer:3},
      {q:"When presenting to a class, you should ___.", options:["speak very quietly","speak clearly, make eye contact, and organize your ideas","go as fast as possible","read directly from notes without looking up"], answer:3},
@@ -1189,6 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Math: Problem Solving Strategies", summary:"Grade 4 Mathematics: students apply strategies like drawing diagrams, making tables, working backwards, and looking for patterns to solve multi-step problems.",
    resourceLabel:"YouTube: Math: Problem Solving Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Math%3A%20Problem%20Solving%20Strategies%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=p_ANRNgKTc8",
    quiz:[
      {q:"Working backwards is a useful strategy when you know ___.", options:["a middle step","nothing about the problem","the starting conditions","the end result and need the start"], answer:3},
      {q:"Making a table helps to ___.", options:["organize data to find a pattern","draw a picture","multiply numbers","avoid solving a problem"], answer:0},
@@ -1198,6 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Inquiry and STEM Connections", summary:"Grade 4 Science: scientific inquiry involves asking questions, making hypotheses, testing, recording, and forming conclusions. STEM connects science, technology, engineering, and math.",
    resourceLabel:"YouTube: Science: Inquiry and STEM Connections", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Inquiry%20and%20STEM%20Connections%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qAJ8IF4HI20",
    quiz:[
      {q:"A hypothesis is ___.", options:["a proven fact","a conclusion","an educated guess based on knowledge","a question"], answer:2},
      {q:"In an experiment, the variable you change is the ___.", options:["constant","dependent variable","controlled variable","independent variable"], answer:3},
@@ -1207,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Culminating Task: Community Action Plan", summary:"Grade 4 Social Studies: students apply knowledge of communities, environment, rights, and citizenship to develop a local action plan addressing a community issue.",
    resourceLabel:"YouTube: Culminating Task: Community Action Plan", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Task%3A%20Community%20Action%20Plan%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=e6BxcdbI5Ws",
    quiz:[
      {q:"A community action plan addresses ___.", options:["a local issue with realistic solutions","only school issues","only global issues","only government problems"], answer:0},
      {q:"When presenting a community plan, you should include ___.", options:["only historical information","only pictures","only problems with no solutions","the problem and proposed solutions"], answer:3},
@@ -1218,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Grade 4 Language Arts comprehensive review covering reading, writing, oral communication, grammar, and media literacy.",
    resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FYPKcI6J3uY",
    quiz:[
      {q:"The main idea is ___.", options:["the last sentence","what the whole text is mostly about","a small detail","the title only"], answer:1},
      {q:"A simile uses ___ to compare.", options:["is/was","adjective","metaphor","like or as"], answer:3},
@@ -1227,6 +1232,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Year Review: Mathematics", summary:"Grade 4 Mathematics comprehensive review: all strands.",
    resourceLabel:"YouTube: Year Review: Mathematics", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Mathematics%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pbhzG-6BIsU",
    quiz:[
      {q:"7 × 8 + 4 = ?", options:["56","55","60","52"], answer:2},
      {q:"3/4 is equivalent to ___.", options:["6/10","5/6","6/8","9/16"], answer:2},
@@ -1236,6 +1242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Grade 4 Science comprehensive review across all strands.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
    quiz:[
      {q:"The three rock types are ___.", options:["volcanic, riverbed, mountain","granite, marble, sandstone","igneous, sedimentary, metamorphic","hard, soft, medium"], answer:2},
      {q:"A food chain starts with a ___.", options:["herbivore","decomposer","producer (plant)","carnivore"], answer:2},
@@ -1245,6 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies", summary:"Grade 4 Social Studies comprehensive review.",
    resourceLabel:"YouTube: Year Review: Social Studies", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%204%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
    quiz:[
      {q:"Confederation year = ?", options:["1867","1931","1776","1900"], answer:0},
      {q:"Ancient civilization that developed democracy = ?", options:["China","Greece","Egypt","Rome"], answer:1},
