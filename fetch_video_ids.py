@@ -60,6 +60,58 @@ API_KEY = os.environ.get('YOUTUBE_API_KEY')
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
 SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
 
+# 2026-07-20: a Grade 7 parent reported that the Social Studies Day 3 video
+# ("Physical Patterns in a Changing World") was an unrelated Hindi-language
+# video about NCERT textbook changes. Root cause: search_video() always
+# accepted YouTube's #1 result with no check on title/channel language or
+# topical relevance, and the query embedded the raw camelCase subject key
+# (e.g. "SocialStudies") instead of a readable label, which weakened
+# match quality. Generic "grade N <subject>" queries are dominated by
+# high-volume Indian CBSE/NCERT/ICSE "Class N" content on YouTube, so
+# without a filter, that's often what search.list's top result actually is.
+#
+# Fixes below: readable subject labels in the query, a banned-keyword
+# filter on title+description (catches CBSE/NCERT/ICSE/board-exam/Hindi
+# and similar off-curriculum content), a regionCode hint, and multiple
+# candidates scored by keyword overlap with the lesson title instead of
+# blindly trusting result #1. If nothing passes the filter, we leave
+# videoUrl blank and let a future run try again rather than write a risky
+# guess -- a missing video (falls back to a live search embed) is a much
+# smaller problem than a wrong, non-English video playing for a kid.
+SUBJECT_LABELS = {
+    'SocialStudies': 'Social Studies',
+    'AdvancedFunctions': 'Advanced Functions',
+}
+
+BANNED_KEYWORDS = [
+    'ncert', 'cbse', 'icse', 'board exam', 'boards exam', 'entrance exam',
+    'jee', 'neet', 'upsc', 'ssc', 'byju', 'hindi medium', 'हिंदी', 'हिन्दी',
+    'में पढ़ें', 'class 6th', 'class 7th', 'class 8th', 'class 9th', 'class 10th',
+    'class 11th', 'class 12th', "what's changed", 'must watch',
+]
+
+STOPWORDS = {
+    'the', 'a', 'an', 'and', 'or', 'of', 'in', 'on', 'to', 'for', 'with',
+    'is', 'are', 'part', 'introduction', 'review', 'grade', 'educational',
+}
+
+
+def readable_subject(subject):
+    return SUBJECT_LABELS.get(subject, subject)
+
+
+def is_banned(text):
+    lowered = text.lower()
+    return any(term in lowered for term in BANNED_KEYWORDS)
+
+
+def relevance_score(lesson_title, candidate_title):
+    lesson_words = {w for w in re.findall(r"[a-z']+", lesson_title.lower()) if w not in STOPWORDS and len(w) > 2}
+    candidate_words = {w for w in re.findall(r"[a-z']+", candidate_title.lower())}
+    if not lesson_words:
+        return 0
+    return len(lesson_words & candidate_words)
+
 # Splits a whole file into: [header_before_day1, day1_block_text, day2_block_text, ...]
 # Each day_block_text starts at "{day:N," and runs up to (not including) the next "{day:".
 DAY_SPLIT_RE = re.compile(r'(?=\{day:\d+,)')
@@ -80,24 +132,45 @@ def gradestr(g):
     return 'kindergarten' if g == 0 else f'grade {g}'
 
 
-def search_video(query):
+def search_video(query, lesson_title):
+    """Fetches several candidates (not just #1), drops anything matching a
+    banned keyword in its title/description or channel name, then returns
+    the surviving candidate whose title shares the most keywords with the
+    lesson title. Returns None if nothing passes -- callers should leave
+    videoUrl blank rather than accept a low-confidence match."""
     params = {
         'part': 'snippet',
         'q': query,
         'type': 'video',
-        'maxResults': 1,
+        'maxResults': 8,
         'safeSearch': 'strict',
         'videoEmbeddable': 'true',
         'relevanceLanguage': 'en',
+        'regionCode': 'CA',
         'key': API_KEY,
     }
     url = f'{SEARCH_URL}?{urllib.parse.urlencode(params)}'
     with urllib.request.urlopen(url, timeout=15) as resp:
         data = json.loads(resp.read().decode())
     items = data.get('items', [])
-    if not items:
+
+    candidates = []
+    for item in items:
+        snippet = item.get('snippet', {})
+        title = snippet.get('title', '')
+        description = snippet.get('description', '')
+        channel = snippet.get('channelTitle', '')
+        if is_banned(title) or is_banned(description) or is_banned(channel):
+            continue
+        score = relevance_score(lesson_title, title)
+        if score == 0:
+            continue
+        candidates.append((score, item['id']['videoId'], title))
+
+    if not candidates:
         return None
-    return items[0]['id']['videoId']
+    candidates.sort(key=lambda c: c[0], reverse=True)
+    return candidates[0][1]
 
 
 def load_day_chunks(path):
@@ -121,14 +194,14 @@ def process_day_chunk(chunk, grade, day, remaining, dry_run):
         if remaining[0] <= 0:
             return m.group(0)
 
-        query = f'{title} {gradestr(grade)} {subject} educational'
+        query = f'{title} {gradestr(grade)} {readable_subject(subject)} educational'
         if dry_run:
             remaining[0] -= 1
             print(f'    [dry-run] grade{grade} day{day} "{title}" ({subject}) -> would search: {query}')
             return m.group(0)
 
         try:
-            vid = search_video(query)
+            vid = search_video(query, title)
         except urllib.error.HTTPError as e:
             body = e.read().decode(errors='replace')
             print(f'    ERROR grade{grade} day{day} "{title}": HTTP {e.code} {body[:200]}', file=sys.stderr)
