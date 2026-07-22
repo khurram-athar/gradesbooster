@@ -1300,14 +1300,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:32, label:"Day 32 — Tue", subjects:[
-  {subject:"Language", title:"Writing: The Personal Statement", summary:"Grade 8 Writing strand: a personal statement highlights a writer’s experiences, values, and goals, often used in applications, and requires clear, authentic, and well-organized writing.",
+  {subject:"Language", title:"Writing: The Personal Narrative", summary:"Grade 8 Writing strand: a personal narrative tells a true story from the writer's own life, focusing on one meaningful moment rather than an entire life story, and uses narrative techniques like sensory detail, dialogue, and reflection to convey why that moment matters.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=iU3x40B0FP8",
    quiz:[
-     {q:"A personal statement is meant to highlight a writer’s ___.", options:["Experiences, values, and goals","A completely unrelated topic","Only their favourite foods","Someone else’s achievements"], answer:0},
-     {q:"Why is authenticity important in a personal statement?", options:["It replaces the need for clear organization","It helps the writing genuinely reflect who the writer is","Authenticity has no value in this type of writing","Personal statements should never reflect the actual writer"], answer:1},
-     {q:"A well-organized personal statement typically includes ___.", options:["No structure of any kind","Information about someone other than the writer","Only a list of unrelated random facts","A clear structure connecting experiences to goals or values"], answer:3},
-     {q:"Why might a personal statement include specific examples from the writer’s life?", options:["Specific examples always make writing weaker","Specific examples make the writing more genuine and memorable","Examples are unnecessary in a personal statement","Personal statements should avoid all specific details"], answer:1},
-     {q:"What is one purpose of writing a personal statement?", options:["To describe an entirely fictional character","To communicate who the writer is and what matters to them","To avoid any self-reflection","To copy someone else’s writing style exactly"], answer:1}
+     {q:"A strong personal narrative usually focuses on ___.", options:["Someone else's life story, not the writer's own","An entire life story from birth to present","One meaningful, specific moment rather than a whole life story","A completely unrelated topic"], answer:2},
+     {q:"Why do writers use sensory details (sight, sound, smell) in a personal narrative?", options:["Sensory details always make writing weaker","They help the reader experience the moment vividly, as if they were there","Sensory details are unnecessary in this type of writing","Personal narratives should avoid all specific details"], answer:1},
+     {q:"A well-structured personal narrative typically includes ___.", options:["No structure of any kind","Only a list of unrelated random facts","Information about someone other than the writer","A clear beginning, middle, and end built around the moment and its significance"], answer:3},
+     {q:"What role does reflection play at the end of a personal narrative?", options:["It explains why the moment mattered or what the writer learned from it","Reflection has no place in a personal narrative","It should introduce an entirely new, unrelated story","It replaces the need for any narrative detail"], answer:0},
+     {q:"What is one purpose of writing a personal narrative?", options:["To describe an entirely fictional character with no basis in real life","To communicate a true experience and what it reveals about the writer","To avoid any self-reflection","To copy someone else's writing style exactly"], answer:1}
    ]},
   {subject:"Math", title:"Introduction to Trigonometric Ratios (SOH-CAH-TOA)", summary:"Grade 8 Geometry strand (pre-high-school extension): the trigonometric ratios sine, cosine, and tangent relate the angles of a right triangle to the ratios of its side lengths, often remembered using SOH-CAH-TOA.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",

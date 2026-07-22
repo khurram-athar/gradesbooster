@@ -7380,10 +7380,11 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Reading: Analyzing Postcolonial Literature",
-        "summary": "Grade 10 English strand: postcolonial literature explores the experiences, identities, and perspectives of people and cultures affected by colonialism, often examining themes of power, identity, and voice.",
+        "title": "Reading Postcolonial Literature: Chinua Achebe's Things Fall Apart",
+        "summary": "Grade 10 English strand: postcolonial literature explores the experiences, identities, and perspectives of people and cultures affected by colonialism. Chinua Achebe's Things Fall Apart, set in pre-colonial and colonial Igbo Nigeria, is a foundational example, examining themes of power, identity, and voice.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=w1Kw94qjdQA",
         "quiz": [
           {
             "q": "Postcolonial literature often explores themes related to ___.",
@@ -7406,11 +7407,11 @@
             "answer": 3
           },
           {
-            "q": "Which is an example of a theme commonly explored in postcolonial literature?",
+            "q": "In Things Fall Apart, Okonkwo's story is often read as an allegory for ___.",
             "options": [
-              "Grammar and punctuation rules exclusively",
               "A topic entirely unrelated to identity or history",
-              "The complexity of cultural identity after colonial rule",
+              "Grammar and punctuation rules exclusively",
+              "The disruption of Igbo society and identity by colonial rule",
               "Only fictional fantasy worlds with no historical grounding"
             ],
             "answer": 2

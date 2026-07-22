@@ -1258,8 +1258,9 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:31, label:"Day 31 — Mon", subjects:[
-  {subject:"English", title:"Media Literacy: Analyzing Algorithmic Bias in News Feeds", summary:"Grade 12 English strand: algorithmic bias occurs when the systems that curate content for social media and news feeds systematically favour certain perspectives, shaping what audiences see without their explicit awareness.",
+  {subject:"English", title:"Media Literacy: How Recommendation Algorithms Shape What You See", summary:"Grade 12 English strand: recommendation algorithms curate content for social media, news feeds, and platforms like YouTube by predicting what will keep a viewer engaged, which can systematically favour certain perspectives and shape what audiences see without their explicit awareness.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=kiInh5STnyQ",
    quiz:[
      {q:"Algorithmic bias occurs when content-curating systems ___.", options:["Have no influence on what audiences see","Are entirely random with no underlying pattern","Present every perspective with perfectly equal weight","Systematically favour certain perspectives"], answer:3},
      {q:"Why might users be unaware that an algorithm is shaping the content they see?", options:["These systems often operate in the background without an obvious explanation of their choices","Users are always fully aware of every algorithmic choice made","This concept has no connection to how content feeds function","Algorithms always clearly explain every content decision to users"], answer:0},
@@ -1267,8 +1268,9 @@ const curriculum: DayContent[] = [
      {q:"Why is media literacy around algorithmic bias considered increasingly important?", options:["This topic has no relevance to modern media consumption","Algorithmic curation has no real impact on the information landscape","So much of the information people encounter today is shaped by automated curation systems","People today receive information through no automated systems at all"], answer:2},
      {q:"Which is a strategy for reducing the effects of algorithmic bias on one’s own understanding of an issue?", options:["Relying exclusively on a single automatically curated feed","Assuming every recommended article is fully representative of all views","Avoiding any conscious evaluation of where information comes from","Deliberately seeking out sources with differing perspectives"], answer:3}
    ]},
-  {subject:"AdvancedFunctions", title:"Introduction to Matrices", summary:"Grade 12 Advanced Functions strand: a matrix is a rectangular array of numbers organized in rows and columns, commonly used to represent and solve systems of equations efficiently.",
+  {subject:"AdvancedFunctions", title:"Introduction to Matrices: Matrices as Transformations", summary:"Grade 12 Advanced Functions strand: a matrix is a rectangular array of numbers organized in rows and columns, commonly used to represent and solve systems of equations efficiently. Matrices can also be understood visually as linear transformations that move, rotate, or scale space.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=kYB8IZa5AuE",
    quiz:[
      {q:"A matrix is best described as ___.", options:["A single number with no organized structure","A concept unrelated to organizing numerical data","Only a graph with no numerical values","A rectangular array of numbers organized in rows and columns"], answer:3},
      {q:"Matrices are commonly used to represent and solve ___.", options:["Systems of equations","A concept unrelated to equations","Data with no mathematical structure at all","Only single, isolated equations with no system involved"], answer:0},

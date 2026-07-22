@@ -1257,12 +1257,13 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:31, label:"Day 31 — Mon", subjects:[
-  {subject:"English", title:"Reading: Analyzing Postcolonial Literature", summary:"Grade 10 English strand: postcolonial literature explores the experiences, identities, and perspectives of people and cultures affected by colonialism, often examining themes of power, identity, and voice.",
+  {subject:"English", title:"Reading Postcolonial Literature: Chinua Achebe's Things Fall Apart", summary:"Grade 10 English strand: postcolonial literature explores the experiences, identities, and perspectives of people and cultures affected by colonialism. Chinua Achebe's Things Fall Apart, set in pre-colonial and colonial Igbo Nigeria, is a foundational example, examining themes of power, identity, and voice.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=w1Kw94qjdQA",
    quiz:[
      {q:"Postcolonial literature often explores themes related to ___.", options:["Only fictional worlds with no connection to real history","Grammar rules with no thematic content","A topic entirely unrelated to colonialism","Power, identity, and voice in relation to colonialism"], answer:3},
      {q:"Why might postcolonial literature give voice to perspectives historically underrepresented in mainstream literature?", options:["Postcolonial literature avoids any connection to real experiences","Underrepresented perspectives have no place in this genre","This genre never addresses historical perspectives","It centres the experiences of people and cultures affected by colonial history"], answer:3},
-     {q:"Which is an example of a theme commonly explored in postcolonial literature?", options:["Grammar and punctuation rules exclusively","A topic entirely unrelated to identity or history","The complexity of cultural identity after colonial rule","Only fictional fantasy worlds with no historical grounding"], answer:2},
+     {q:"In Things Fall Apart, Okonkwo's story is often read as an allegory for ___.", options:["A topic entirely unrelated to identity or history","Grammar and punctuation rules exclusively","The disruption of Igbo society and identity by colonial rule","Only fictional fantasy worlds with no historical grounding"], answer:2},
      {q:"Why is studying postcolonial literature valuable for readers?", options:["Postcolonial literature has no connection to real-world history","This genre has no educational value","Studying this genre narrows a reader’s perspective","It broadens understanding of diverse global perspectives and historical experiences"], answer:3},
      {q:"Postcolonial authors often write from perspectives shaped by ___.", options:["A completely fictional, invented history","Perspectives unrelated to identity or culture","Their own or their community’s experience with colonialism","No connection to any historical or cultural context"], answer:2}
    ]},

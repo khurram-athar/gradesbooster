@@ -7381,10 +7381,11 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Media Literacy: Analyzing Algorithmic Bias in News Feeds",
-        "summary": "Grade 12 English strand: algorithmic bias occurs when the systems that curate content for social media and news feeds systematically favour certain perspectives, shaping what audiences see without their explicit awareness.",
+        "title": "Media Literacy: How Recommendation Algorithms Shape What You See",
+        "summary": "Grade 12 English strand: recommendation algorithms curate content for social media, news feeds, and platforms like YouTube by predicting what will keep a viewer engaged, which can systematically favour certain perspectives and shape what audiences see without their explicit awareness.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=kiInh5STnyQ",
         "quiz": [
           {
             "q": "Algorithmic bias occurs when content-curating systems ___.",
@@ -7440,10 +7441,11 @@
       },
       {
         "subject": "AdvancedFunctions",
-        "title": "Introduction to Matrices",
-        "summary": "Grade 12 Advanced Functions strand: a matrix is a rectangular array of numbers organized in rows and columns, commonly used to represent and solve systems of equations efficiently.",
+        "title": "Introduction to Matrices: Matrices as Transformations",
+        "summary": "Grade 12 Advanced Functions strand: a matrix is a rectangular array of numbers organized in rows and columns, commonly used to represent and solve systems of equations efficiently. Matrices can also be understood visually as linear transformations that move, rotate, or scale space.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=kYB8IZa5AuE",
         "quiz": [
           {
             "q": "A matrix is best described as ___.",

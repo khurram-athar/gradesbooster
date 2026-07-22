@@ -1320,8 +1320,9 @@ const curriculum: DayContent[] = [
      {q:"Solve for n: 4n + 8 = 24.", options:["n = 6","n = 4","n = 16","n = 8"], answer:1},
      {q:"Solve for m: 5m minus 2 = 18.", options:["m = 4","m = 16","m = 3.2","m = 20"], answer:0}
    ]},
-  {subject:"Science", title:"Sustainable Technologies and Innovation", summary:"Ontario Grade 6 Science and Technology strand: sustainable technologies are designed to meet human needs while minimizing environmental impact, such as energy-efficient appliances, electric vehicles, and green building design.",
+  {subject:"Science", title:"Renewable Energy and Clean Technology", summary:"Ontario Grade 6 Science and Technology strand: renewable energy technologies like solar, wind, and hydro power are designed to meet human energy needs while minimizing environmental impact, unlike non-renewable sources such as fossil fuels.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=gcTBEiUTyXE",
    quiz:[
      {q:"Sustainable technology is designed to ___.", options:["Ignore environmental concerns entirely","Use only non-renewable resources","Maximize environmental harm","Meet human needs while minimizing environmental impact"], answer:3},
      {q:"Which is an example of a sustainable technology?", options:["A machine designed to waste as much energy as possible","A technology banned for excessive pollution","A device with no consideration for resource use","An energy-efficient appliance"], answer:3},

@@ -7747,10 +7747,11 @@
       },
       {
         "subject": "Science",
-        "title": "Sustainable Technologies and Innovation",
-        "summary": "Ontario Grade 6 Science and Technology strand: sustainable technologies are designed to meet human needs while minimizing environmental impact, such as energy-efficient appliances, electric vehicles, and green building design.",
+        "title": "Renewable Energy and Clean Technology",
+        "summary": "Ontario Grade 6 Science and Technology strand: renewable energy technologies like solar, wind, and hydro power are designed to meet human energy needs while minimizing environmental impact, unlike non-renewable sources such as fossil fuels.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=gcTBEiUTyXE",
         "quiz": [
           {
             "q": "Sustainable technology is designed to ___.",
