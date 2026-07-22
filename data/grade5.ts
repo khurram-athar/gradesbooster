@@ -14,7 +14,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplication Facts and Strategies", summary:"Ontario Number strand: by the end of Grade 5, students should have multiplication/division facts mastered. Review times tables and strategies.",
    resourceLabel:"YouTube: Multiplication Facts and Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%20and%20Strategies%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=piTln4g_tYo",
+   videoUrl:"https://www.youtube.com/watch?v=0MqP7aeTszM",
    quiz:[
      {q:"A box holds 8 rows of 7 apples. If 2 apples are removed, how many are left?", options:["52","58","56","54"], answer:3},
      {q:"Which strategy correctly finds 9 × 6 using known facts?", options:["(9 × 5) + 9 = 54","(10 × 6) − 6 = 54","(10 × 6) + 6 = 66","Both the first and second"], answer:3},
@@ -244,7 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Citizenship and Identity", summary:"Canadian identity is shaped by diverse cultures, languages, and experiences, and citizens have both rights and responsibilities.",
    resourceLabel:"YouTube: Canadian Citizenship and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Citizenship%20and%20Identity%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=2yqxF-AcGMY",
+   videoUrl:"https://www.youtube.com/watch?v=UYElf0rSEvc",
    quiz:[
      {q:"Which best describes rights and responsibilities for Canadian citizens?", options:["Citizens only have rights, no responsibilities","Both rights and responsibilities apply","Citizens only have responsibilities, no rights","Neither applies to citizens"], answer:1},
      {q:"Why is Canada often described as a 'mosaic' rather than a 'melting pot'?", options:["Cultures keep their distinct identities","There is no difference between the two models","Canada encourages cultures to blend into one single identity","Canada has no cultural diversity"], answer:0},
@@ -664,7 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Territories", summary:"Canada has three territories — Yukon, Northwest Territories, and Nunavut — located in the north, each with unique geography and peoples.",
    resourceLabel:"YouTube: Canada's Territories", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Territories%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
+   videoUrl:"https://www.youtube.com/watch?v=vCfqg9GrB_0",
    quiz:[
      {q:"Why do Canada's territories receive certain powers directly from the federal government rather than functioning exactly like provinces?", options:["Territories relate differently to Ottawa","There is no difference between them","Territories have more power than provinces","This is not actually true"], answer:0},
      {q:"Nunavut has a large Inuit population and was created as its own territory in 1999. Why might this matter for the Inuit?", options:["It merges Inuit lands with a province","It eliminates all Inuit traditions","It gives Inuit more self-governance","It has no significance for Inuit people"], answer:2},
@@ -1074,7 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable vs. Non-Renewable Resources Revisited", summary:"A deeper look at how renewable resources like wind and solar are managed sustainably, while non-renewable resources like fossil fuels are limited and impact the environment.",
    resourceLabel:"YouTube: Renewable vs. Non-Renewable Resources Revisited", resourceUrl:"https://www.youtube.com/results?search_query=Renewable%20vs.%20Non-Renewable%20Resources%20Revisited%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-HjYmlGZwuU",
+   videoUrl:"https://www.youtube.com/watch?v=tUmZ9djDHh8",
    quiz:[
      {q:"Why might a country invest heavily in solar and wind energy despite higher upfront installation costs?", options:["Non-renewable resources are unlimited","They don't run out and pollute less","Renewable energy has no environmental benefit","Solar and wind are always cheaper immediately"], answer:1},
      {q:"A power plant burns coal to generate electricity. What is a likely long-term consequence of relying on this method?", options:["This method has no downsides","Coal will regenerate within days","Depleting a resource and polluting air","No environmental impact at all"], answer:2},
