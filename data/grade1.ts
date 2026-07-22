@@ -76,7 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 50", summary:"Ontario Grade 1 Number strand: students count, read, write, and represent whole numbers to 50, and describe their positions on a number line.",
    resourceLabel:"YouTube: Numbers to 50", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2050%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=mKSNQuQrsm0",
+   videoUrl:"https://www.youtube.com/watch?v=bGetqbqDVaA",
    quiz:[
      {q:"What number comes after 39?", options:["38","41","40","37"], answer:2},
      {q:"Which is greater: 27 or 32?", options:["Equal","27","Cannot tell","32"], answer:3},
@@ -108,7 +108,7 @@ const curriculum: DayContent[] = [
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"Language", title:"Consonant Blends: bl, cl, fl, pl", summary:"Ontario Grade 1 Reading strand: consonant blends are two or more consonants together where each sound is heard, such as bl in black and cl in clap.",
    resourceLabel:"YouTube: Consonant Blends: bl, cl, fl, pl", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20bl%2C%20cl%2C%20fl%2C%20pl%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QZ1Uu2MRXTY",
+   videoUrl:"https://www.youtube.com/watch?v=Xewb655nQcg",
    quiz:[
      {q:"Which word starts with the BL blend?", options:["Floor","Play","Clock","Black"], answer:3},
      {q:"Which word starts with the CL blend?", options:["Floor","Plane","Blue","Clap"], answer:3},
@@ -150,7 +150,7 @@ const curriculum: DayContent[] = [
 {day:4, label:"Day 4 — Thu", subjects:[
   {subject:"Language", title:"Sight Words", summary:"Ontario Grade 1 Reading strand: students recognize high-frequency Dolch sight words automatically, supporting reading fluency. Examples: the, and, a, to, said, is, you, in, was.",
    resourceLabel:"YouTube: Sight Words", resourceUrl:"https://www.youtube.com/results?search_query=Sight%20Words%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=U8t9Jg1r6G0",
+   videoUrl:"https://www.youtube.com/watch?v=gIZjrcG9pW0",
    quiz:[
      {q:"Which of these is a common sight word?", options:["the","Elephant","umbrella","xylophone"], answer:0},
      {q:"Why do we practise sight words?", options:["They are hard to spell","We see them very often in reading","They are long words","They are nouns only"], answer:1},
@@ -254,7 +254,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animals and Their Young", summary:"Ontario Grade 1 Life Systems strand: animals reproduce and care for their young; baby animals resemble their parents and grow to look like them.",
    resourceLabel:"YouTube: Animals and Their Young", resourceUrl:"https://www.youtube.com/results?search_query=Animals%20and%20Their%20Young%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=s37MDCK2bpM",
+   videoUrl:"https://www.youtube.com/watch?v=F5C-rRvaQVQ",
    quiz:[
      {q:"A baby dog is called a ___.", options:["Kitten","Calf","Puppy","Foal"], answer:2},
      {q:"A baby cat is called a ___.", options:["Puppy","Kitten","Lamb","Cub"], answer:1},
@@ -338,7 +338,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seeds and How Plants Grow", summary:"Ontario Grade 1 Life Systems strand: students investigate how seeds germinate and grow into plants when given water, warmth, air, and light.",
    resourceLabel:"YouTube: Seeds and How Plants Grow", resourceUrl:"https://www.youtube.com/results?search_query=Seeds%20and%20How%20Plants%20Grow%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ro8Z9qIlWjM",
+   videoUrl:"https://www.youtube.com/watch?v=tkFPyue5X3Q",
    quiz:[
      {q:"What do seeds need to germinate (sprout)?", options:["Only sunlight","Ice and darkness","Only soil","Water, warmth, and air"], answer:3},
      {q:"What is germination?", options:["When flowers bloom","When a seed starts to grow into a plant","When a plant dies","When leaves fall off"], answer:1},
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"3D Shapes", summary:"Ontario Grade 1 Geometry strand: students identify and describe 3D figures: sphere, cube, cylinder, and cone, relating them to everyday objects.",
    resourceLabel:"YouTube: 3D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=REjfX9cDavw",
+   videoUrl:"https://www.youtube.com/watch?v=guNdJ5MtX1A",
    quiz:[
      {q:"Which 3D shape looks like a ball?", options:["Cylinder","Cube","Cone","Sphere"], answer:3},
      {q:"Which 3D shape looks like a box?", options:["Cube","Cone","Sphere","Cylinder"], answer:0},
@@ -548,7 +548,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Patterns", summary:"Ontario Grade 1 Earth and Space Systems strand: students observe and record daily weather conditions including temperature, precipitation, and cloud cover, identifying patterns over time.",
    resourceLabel:"YouTube: Weather Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Patterns%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=oPq42NB2aTA",
+   videoUrl:"https://www.youtube.com/watch?v=Uo8lbeVVb4M",
    quiz:[
      {q:"Which tool measures air temperature?", options:["Scale","Ruler","Thermometer","Clock"], answer:2},
      {q:"What type of precipitation falls as solid flakes?", options:["Hail","Rain","Snow","Sleet"], answer:2},
@@ -684,7 +684,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Global Communities", summary:"Ontario Grade 1 Social Studies strand B: students compare communities around the world, identifying similarities and differences in how people meet their basic needs.",
    resourceLabel:"YouTube: Global Communities", resourceUrl:"https://www.youtube.com/results?search_query=Global%20Communities%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-84U1EsZCbY",
+   videoUrl:"https://www.youtube.com/watch?v=A96dvMFqxk4",
    quiz:[
      {q:"Communities around the world are ___.", options:["Only similar","All different with nothing in common","Exactly the same","Different in some, similar in others"], answer:3},
      {q:"What basic need do all communities around the world share?", options:["Food, shelter, and water","Electricity","The same language","The same food"], answer:0},
@@ -726,7 +726,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Helping Others in the Community", summary:"Ontario Grade 1 Social Studies strand A: students explore ways they can contribute to their community through volunteering, kindness, and helping neighbours.",
    resourceLabel:"YouTube: Helping Others in the Community", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20Others%20in%20the%20Community%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9Wzqrp4iMrg",
+   videoUrl:"https://www.youtube.com/watch?v=2B8FWLIa3y4",
    quiz:[
      {q:"How can you help your community?", options:["Taking things","Volunteering and being kind to others","Ignoring others","Littering"], answer:1},
      {q:"Why is volunteering important?", options:["It is not","Only adults volunteer","It helps others and the community","It earns money"], answer:2},
@@ -758,7 +758,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plants and the Environment", summary:"Ontario Grade 1 Life Systems strand: plants are producers that provide food and oxygen for other living things; they also prevent soil erosion and provide habitats.",
    resourceLabel:"YouTube: Plants and the Environment", resourceUrl:"https://www.youtube.com/results?search_query=Plants%20and%20the%20Environment%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=yTzSIXUU_ds",
+   videoUrl:"https://www.youtube.com/watch?v=SNF8b7KKJ2I",
    quiz:[
      {q:"Plants produce oxygen through a process called ___.", options:["Hibernation","Digestion","Respiration","Photosynthesis"], answer:3},
      {q:"Why are plants important for animals?", options:["They provide money","They provide food and oxygen for animals","They are not","They provide electricity"], answer:1},
@@ -948,7 +948,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"Language", title:"Poetry", summary:"Ontario Grade 1 Reading and Writing strands: students read and write simple poems, identifying rhyme, rhythm, and descriptive language, and appreciating how poets choose words carefully.",
    resourceLabel:"YouTube: Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Poetry%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=LYN_typ45K4",
+   videoUrl:"https://www.youtube.com/watch?v=-Lk9SYjHEb4",
    quiz:[
      {q:"Poetry often uses ___.", options:["Only facts","Rhyme, rhythm, and descriptive language","Only long sentences","Lots of numbers"], answer:1},
      {q:"Which lines rhyme?", options:["The cat sat on the mat / The dog ran to school","She ran fast / He jumped high","Today is Monday / I ate my lunch","Roses are red / Violets are blue"], answer:3},
@@ -1116,7 +1116,7 @@ const curriculum: DayContent[] = [
 {day:27, label:"Day 27 — Tue", subjects:[
   {subject:"Language", title:"Reading Fluency", summary:"Ontario Grade 1 Reading strand: reading fluency means reading smoothly, at an appropriate pace, with expression. Practice with familiar texts builds fluency.",
    resourceLabel:"YouTube: Reading Fluency", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Fluency%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=jy7OOAy8a-E",
+   videoUrl:"https://www.youtube.com/watch?v=i0cQu7vnDzs",
    quiz:[
      {q:"Reading fluency means ___.", options:["Reading only short books","Reading smoothly and with expression","Reading as fast as possible","Reading silently only"], answer:1},
      {q:"Which practice builds reading fluency?", options:["Only reading alone","Reading a new book every day only","Re-reading familiar texts and reading aloud","Only reading in your head"], answer:2},
@@ -1188,7 +1188,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Citizenship and Community", summary:"Ontario Grade 1 Social Studies review: students review civic concepts including rights, responsibilities, community participation, and environmental stewardship.",
    resourceLabel:"YouTube: Citizenship and Community", resourceUrl:"https://www.youtube.com/results?search_query=Citizenship%20and%20Community%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=GwU2677jGBA",
+   videoUrl:"https://www.youtube.com/watch?v=qe8NOm-HIgQ",
    quiz:[
      {q:"What does it mean to be a good citizen?", options:["Doing whatever you want","Following only favourite rules","Ignoring community issues","Being responsible and helping others"], answer:3},
      {q:"Why is voting important in a democracy?", options:["Only important people vote","Citizens choose leaders and have a say","Votes do not count","It is not"], answer:1},
@@ -1200,7 +1200,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Reading Skills Review", summary:"Ontario Grade 1 Reading strand review: students review key reading strategies including predicting, retelling, identifying main idea, making connections, and using text features.",
    resourceLabel:"YouTube: Reading Skills Review", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Skills%20Review%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=852gD9dpVqk",
+   videoUrl:"https://www.youtube.com/watch?v=UbYpfxrkqHo",
    quiz:[
      {q:"Which reading strategy helps you guess what happens next?", options:["Connecting","Predicting","Retelling","Summarising"], answer:1},
      {q:"Retelling a story means ___.", options:["Telling events in your own words","Changing the ending","Drawing pictures","Reading it again"], answer:0},
@@ -1220,7 +1220,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Science Review", summary:"Ontario Grade 1 Life Systems strand review: students review living vs non-living, needs of living things, plants, animals, food chains, and habitats.",
    resourceLabel:"YouTube: Life Science Review", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Science%20Review%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Ldt5WT5fduQ",
+   videoUrl:"https://www.youtube.com/watch?v=40B2IjLWfTQ",
    quiz:[
      {q:"What are the four needs of all living things?", options:["Books, toys, music, games","Air, water, food, and shelter","Sun, moon, stars, planets","Electricity, light, heat, money"], answer:1},
      {q:"Name two parts of a plant.", options:["Wheel and pedal","Root and leaf","Door and window","Lens and frame"], answer:1},
@@ -1242,7 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Ontario Grade 1 Language strand comprehensive review: students demonstrate reading, writing, and oral communication skills developed throughout the year.",
    resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=A_nM65em1mQ",
+   videoUrl:"https://www.youtube.com/watch?v=U2l3BFthsD0",
    quiz:[
      {q:"A noun names a ___.", options:["Connecting word","Action","Person, place, or thing","Describing word"], answer:2},
      {q:"A verb shows ___.", options:["A connection","A name","A description","An action or state of being"], answer:3},
@@ -1262,7 +1262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Ontario Grade 1 Science comprehensive review covering life systems, earth and space, matter, and physical science.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%201%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=znQpuWR7PS4",
+   videoUrl:"https://www.youtube.com/watch?v=H9YMgx5T9Sk",
    quiz:[
      {q:"Living things need ___.", options:["Money and toys","Books and pencils","Air, water, food, and shelter","Electricity and television"], answer:2},
      {q:"Earth has ___ seasons.", options:["2","4","5","3"], answer:1},
