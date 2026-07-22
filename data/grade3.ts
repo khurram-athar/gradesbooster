@@ -466,7 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"Language", title:"Spelling Strategies", summary:"Students apply phonics, word patterns, and the 'look-cover-write-check' strategy to spell words accurately.",
    resourceLabel:"YouTube: Spelling Strategies", resourceUrl:"https://www.youtube.com/results?search_query=Spelling%20Strategies%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=_YxhShvlFCo",
+   videoUrl:"https://www.youtube.com/watch?v=msJIy_f_Xsw",
    quiz:[
      {q:"The 'look, cover, write, check' strategy helps you ___.", options:["draw pictures","do maths","read faster","practise spelling by seeing, hiding, writing, and verifying the word"], answer:1},
      {q:"A word family shares the same ___.", options:["number of syllables","first letter","the same spelling pattern (e.g., -at)","only vowels"], answer:2},
@@ -508,7 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Reading: Asking Questions", summary:"Students learn to ask questions before, during, and after reading to monitor comprehension and engage deeply with texts.",
    resourceLabel:"YouTube: Reading: Asking Questions", resourceUrl:"https://www.youtube.com/results?search_query=Reading%3A%20Asking%20Questions%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zdAAdXUneEY",
+   videoUrl:"https://www.youtube.com/watch?v=I_4AreWn2_Q",
    quiz:[
      {q:"Asking questions before reading helps you ___.", options:["finish the book faster","write better","skip the hard parts","set a purpose for reading"], answer:3},
      {q:"Asking questions DURING reading helps you ___.", options:["read faster","copy the text","check your understanding as you go","avoid the confusing parts"], answer:2},
@@ -622,7 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Celebrations and Heritage", summary:"Students explore how Ontario communities celebrate cultural heritage through festivals, traditions, and public holidays.",
    resourceLabel:"YouTube: Community Celebrations and Heritage", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Celebrations%20and%20Heritage%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=FOEB87B0Zas",
+   videoUrl:"https://www.youtube.com/watch?v=wWpbjpmZZ9U",
    quiz:[
      {q:"Heritage is ___.", options:["only food","traditions and history passed down","only museums","only old buildings"], answer:1},
      {q:"Canada Day (July 1) celebrates ___.", options:["the end of winter","Canada's founding in 1867","Ontario's founding only","a sports victory"], answer:1},
@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Year Review", summary:"Students review all Grade 3 science strands: growth and changes in animals, soils, forces, and structures.",
    resourceLabel:"YouTube: Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Year%20Review%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=yzERkBasAf4",
+   videoUrl:"https://www.youtube.com/watch?v=F2SV-aI9EbQ",
    quiz:[
      {q:"The four stages of complete metamorphosis are ___.", options:["seed, sprout, plant, fruit","birth, growth, reproduction, death","egg, nymph, adult, elder","egg, larva, pupa, adult"], answer:3},
      {q:"Which soil is best for most plant growth?", options:["Clay","Gravel","Sand","Loam"], answer:0},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Students review Ontario communities, government, economy, natural resources, and citizenship.",
    resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=BlrI_nb96X8",
+   videoUrl:"https://www.youtube.com/watch?v=a8hDKU_bAec",
    quiz:[
      {q:"Which level of government runs local parks and garbage collection?", options:["Federal","Provincial","International","Municipal"], answer:3},
      {q:"What are Ontario's two major physical regions?", options:["Ocean coast and tundra","Canadian Shield & Great Lakes Lowlands","Prairies and mountains","Desert and rainforest"], answer:1},
@@ -1200,7 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Climate and Ecosystems", summary:"Students explore how climate affects ecosystems, and how climate change is altering habitats and biodiversity globally and in Ontario.",
    resourceLabel:"YouTube: Environmental Science: Climate and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Science%3A%20Climate%20and%20Ecosystems%20grade%203%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9TFTsLWtY34",
+   videoUrl:"https://www.youtube.com/watch?v=SNF8b7KKJ2I",
    quiz:[
      {q:"Climate is ___.", options:["only temperature","only rainfall","today's weather","average weather patterns over time"], answer:3},
      {q:"Climate change is causing ___.", options:["more extreme weather worldwide","only ocean changes","only desert expansion","no changes"], answer:0},
@@ -1210,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Looking Forward: My Community in 2050", summary:"Students use their learning to imagine what their community might look like in 2050 given current trends in technology, population, and environment.",
    resourceLabel:"YouTube: Looking Forward: My Community in 2050", resourceUrl:"https://www.youtube.com/results?search_query=Looking%20Forward%3A%20My%20Community%20in%202050%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wlBC2ljoGAk",
    quiz:[
      {q:"In 2050, Ontario's population will likely ___.", options:["shrink to zero","move to the Moon","grow, needing more housing and services","stay exactly the same"], answer:2},
      {q:"Technology in 2050 might help communities by ___.", options:["causing more problems","doing nothing new","only creating entertainment","solving challenges like clean energy"], answer:3},
