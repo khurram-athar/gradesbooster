@@ -76,7 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Conflict and Challenges, 1800–1850", summary:"This period in Canadian history includes the War of 1812, immigration waves, and political rebellions like the Rebellions of 1837–38.",
    resourceLabel:"YouTube: Conflict and Challenges, 1800–1850", resourceUrl:"https://www.youtube.com/results?search_query=Conflict%20and%20Challenges%2C%201800%E2%80%931850%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
+   videoUrl:"https://www.youtube.com/watch?v=fSMzawssykE",
    quiz:[
      {q:"The War of 1812 was fought between Britain (with its colonies) and...", options:["Spain","France","The United States","Russia"], answer:2},
      {q:"The Rebellions of 1837–38 were partly about demands for...", options:["Ending all trade","More responsible/representative government","Less government accountability","Joining the United States"], answer:1},
@@ -286,7 +286,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Connection to the World", summary:"Canada's geography, trade, and history connect it to global patterns of migration, resources, and international relationships.",
    resourceLabel:"YouTube: Canada's Connection to the World", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Connection%20to%20the%20World%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
+   videoUrl:"https://www.youtube.com/watch?v=aBH3QjGLBhw",
    quiz:[
      {q:"Canada's location with three oceans affects its...", options:["Only its flag design","Nothing","Population size only","Trade and geography"], answer:3},
      {q:"Immigration has shaped Canada by...", options:["Having no impact","Isolating its provinces","Decreasing its population","Adding to its cultural diversity"], answer:3},
@@ -454,7 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Canadian Pacific Railway and Westward Expansion", summary:"The CPR linked Canada from coast to coast, encouraging settlement and helping fulfill the promise made to British Columbia at Confederation.",
    resourceLabel:"YouTube: The Canadian Pacific Railway and Westward Expansion", resourceUrl:"https://www.youtube.com/results?search_query=The%20Canadian%20Pacific%20Railway%20and%20Westward%20Expansion%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Q16OZkgSXfM",
+   videoUrl:"https://www.youtube.com/watch?v=tWVWgDZZ1qo",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1812","1867","1885","1920"], answer:2},
      {q:"One major reason for building the CPR was to...", options:["Stop all immigration","Create a new capital city","End the fur trade","Connect BC to the rest of Canada"], answer:3},
@@ -496,7 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration and Settlement of the Prairies", summary:"In the late 1800s and early 1900s, the Canadian government encouraged immigration to settle the Prairie provinces.",
    resourceLabel:"YouTube: Immigration and Settlement of the Prairies", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%20and%20Settlement%20of%20the%20Prairies%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=Hf7EMpSnHSo",
    quiz:[
      {q:"The Canadian government encouraged Prairie settlement mainly to...", options:["Discourage agriculture","Avoid building railways","Reduce the population","Develop farmland and populate the West"], answer:3},
      {q:"Many settlers on the Prairies came from...", options:["Only the United States","Nowhere outside Canada","Europe and other parts of the world","Only Ontario"], answer:2},
@@ -580,7 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Role in World War I", summary:"Canada, as part of the British Empire, played a significant role in World War I, with major battles like Vimy Ridge shaping national identity.",
    resourceLabel:"YouTube: Canada's Role in World War I", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Role%20in%20World%20War%20I%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=oLUyKrXwVKo",
+   videoUrl:"https://www.youtube.com/watch?v=-SZXndAdcbw",
    quiz:[
      {q:"World War I took place mainly during which years?", options:["1939–1945","1914–1918","1812–1815","1867–1871"], answer:1},
      {q:"The Battle of Vimy Ridge is significant in Canadian history because...", options:["It had no impact on Canada","It's seen as shaping Canadian identity","It took place in Canada","It ended the war immediately"], answer:1},
@@ -592,7 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Letters, Poetry, Debate, and Note-Taking", summary:"Mixed review of formal/informal writing, poetry elements, debate skills, and summarizing strategies.",
    resourceLabel:"YouTube: Review: Letters, Poetry, Debate, and Note-Taking", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Letters%2C%20Poetry%2C%20Debate%2C%20and%20Note-Taking%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=007P3HSf5vg",
+   videoUrl:"https://www.youtube.com/watch?v=p3pT44Y0RhY",
    quiz:[
      {q:"A formal letter should begin with...", options:["An emoji","A polite greeting","Slang","No greeting"], answer:1},
      {q:"A stanza in a poem is like a...", options:["Index","Title","Footnote","Paragraph in prose"], answer:3},
@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Cells, Classification, Carbon Cycle, Matter", summary:"Mixed review of cell theory, classification of organisms, the carbon cycle, and chemical vs. physical properties.",
    resourceLabel:"YouTube: Review: Cells, Classification, Carbon Cycle, Matter", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Classification%2C%20Carbon%20Cycle%2C%20Matter%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=kw0_zEBf6CY",
+   videoUrl:"https://www.youtube.com/watch?v=srpl5YRw-_U",
    quiz:[
      {q:"All living things are made of...", options:["Water only","Air","Cells","Minerals"], answer:2},
      {q:"Which kingdom includes mushrooms?", options:["Plant","Fungi","Bacteria","Animal"], answer:1},
@@ -622,7 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Railway, Settlement, Reconciliation, World War I", summary:"Mixed review of the CPR, Prairie settlement, Truth and Reconciliation, and Canada's role in World War I.",
    resourceLabel:"YouTube: Review: Railway, Settlement, Reconciliation, World War I", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Railway%2C%20Settlement%2C%20Reconciliation%2C%20World%20War%20I%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QYS8IK77TPI",
+   videoUrl:"https://www.youtube.com/watch?v=07MuNspzhpQ",
    quiz:[
      {q:"The Canadian Pacific Railway was completed in...", options:["1867","1885","1812","1920"], answer:1},
      {q:"The National Day for Truth and Reconciliation is on...", options:["October 31","September 30","December 25","July 1"], answer:1},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Simple Machines, Rocks, Weather, Biodiversity", summary:"Mixed review of mechanical efficiency, the rock cycle, weather systems, and biodiversity.",
    resourceLabel:"YouTube: Review: Simple Machines, Rocks, Weather, Biodiversity", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Simple%20Machines%2C%20Rocks%2C%20Weather%2C%20Biodiversity%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=_WYjWUBXU-Y",
+   videoUrl:"https://www.youtube.com/watch?v=7Bxw4kkeHJ8",
    quiz:[
      {q:"An inclined plane makes work easier by...", options:["Reducing force over more distance","Eliminating friction","Increasing weight","Doing nothing useful"], answer:0},
      {q:"Igneous rock forms from...", options:["Cooled magma or lava","Ocean water","Extreme cold","Compressed sediment"], answer:0},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Suffrage, Urbanization, Climate Regions, Population", summary:"Mixed review of women's suffrage, urbanization, climate regions, and population distribution/density.",
    resourceLabel:"YouTube: Review: Suffrage, Urbanization, Climate Regions, Population", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Suffrage%2C%20Urbanization%2C%20Climate%20Regions%2C%20Population%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RRhjqqe750A",
+   videoUrl:"https://www.youtube.com/watch?v=MaibJd-I5bo",
    quiz:[
      {q:"Suffrage refers to the right to...", options:["Attend school","Work","Vote","Own property"], answer:2},
      {q:"Urbanization refers to...", options:["Cities disappearing","People moving from rural areas to cities","Farming expansion","Population decrease"], answer:1},
@@ -1022,7 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", summary:"Mixed review of two-step equations, mean/median/mode with outliers, Venn diagrams, and combined financial literacy.",
    resourceLabel:"YouTube: Review: Two-Step Equations, Central Tendency, Venn Diagrams, Finance", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Two-Step%20Equations%2C%20Central%20Tendency%2C%20Venn%20Diagrams%2C%20Finance%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Bv6SBIoLvZI",
+   videoUrl:"https://www.youtube.com/watch?v=LDIiYKYvvdA",
    quiz:[
      {q:"Solve: 2x + 5 = 17", options:["x=8","x=5","x=7","x=6"], answer:3},
      {q:"An outlier is a value that is...", options:["Typical of the data","Always the mode","Always zero","Much higher or lower than the rest"], answer:3},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Relationship with the United States", summary:"Canada and the United States share the world's longest border and a close relationship built on trade, culture, and cooperation.",
    resourceLabel:"YouTube: Canada's Relationship with the United States", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Relationship%20with%20the%20United%20States%20grade%207%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=wyS5-hSfx8o",
    quiz:[
      {q:"Canada and the United States share...", options:["A border only in the Arctic","The same government","No border at all","The world's longest international border"], answer:3},
      {q:"Trade between Canada and the U.S. involves...", options:["A large daily flow of goods","No exchange of goods","Illegal activity only","Only Canadian exports with no U.S. exports"], answer:0},
@@ -1210,6 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Current Geographic Issues: Inquiry Skills", summary:"Geographic inquiry involves asking questions, gathering evidence from multiple sources, and analyzing patterns to understand real-world issues.",
    resourceLabel:"YouTube: Current Geographic Issues: Inquiry Skills", resourceUrl:"https://www.youtube.com/results?search_query=Current%20Geographic%20Issues%3A%20Inquiry%20Skills%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8N-dn6tQFgM",
    quiz:[
      {q:"Geographic inquiry begins with...", options:["Skipping straight to conclusions","Asking a clear, focused question","Avoiding research","Ignoring the topic"], answer:1},
      {q:"Reliable geographic research uses...", options:["Multiple credible sources and evidence","No evidence at all","A single unverified source","Only personal opinion"], answer:0},
@@ -1221,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Final review day: mixed questions from Days 26–29, getting ready for Grade 7 in September.", subjects:[
   {subject:"Language", title:"Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation", summary:"Mixed review of setting and mood, varying sentence length, peer editing, and oral presentation skills.",
    resourceLabel:"YouTube: Final Review: Setting/Mood, Sentence Variety, Feedback, Presentation", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Setting%2FMood%2C%20Sentence%20Variety%2C%20Feedback%2C%20Presentation%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wtl5UrrgU8c",
    quiz:[
      {q:"Setting refers to...", options:["The number of chapters","The book's title","The main character's name","The time and place of a story"], answer:3},
      {q:"Short sentences in a row often create a feeling of...", options:["Nothing in particular","Slow, relaxed pacing","Confusion with no purpose","Urgency or tension"], answer:3},
@@ -1230,6 +1232,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions", summary:"Mixed review of distance between points, negative number applications, independent events, and metric conversions.",
    resourceLabel:"YouTube: Final Review: Coordinate Geometry, Negative Numbers, Probability, Unit Conversions", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Negative%20Numbers%2C%20Probability%2C%20Unit%20Conversions%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KzfWUEJjG18",
    quiz:[
      {q:"The distance between (2,3) and (2,7) is...", options:["5","10","4","7"], answer:2},
      {q:"A temperature of -5°C is...", options:["Impossible","5 degrees above freezing","5 degrees below 0°C","The same as 5°C"], answer:2},
@@ -1239,6 +1242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: pH, Energy Flow, Design Process, Environmental Assessment", summary:"Mixed review of acids/bases, food pyramids and energy flow, the technological design process, and environmental impact assessments.",
    resourceLabel:"YouTube: Final Review: pH, Energy Flow, Design Process, Environmental Assessment", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20pH%2C%20Energy%20Flow%2C%20Design%20Process%2C%20Environmental%20Assessment%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=EhUpsq2i6k0",
    quiz:[
      {q:"A pH of 7 is considered...", options:["Strongly basic","Strongly acidic","Neutral","Undefined"], answer:2},
      {q:"As energy moves up a food pyramid, the available energy...", options:["Disappears completely","Increases at each level","Stays the same","Decreases at each level"], answer:3},
@@ -1248,6 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry", summary:"Mixed review of Canadian government levels, Canada's relationship with the U.S., the Sustainable Development Goals, and geographic inquiry skills.",
    resourceLabel:"YouTube: Final Review: Government Structure, Canada-US Relations, SDGs, Geographic Inquiry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Government%20Structure%2C%20Canada-US%20Relations%2C%20SDGs%2C%20Geographic%20Inquiry%20grade%207%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WYhqg3VVmQw",
    quiz:[
      {q:"Which level of government is responsible for national defence?", options:["Provincial","None of these","Federal","Municipal"], answer:2},
      {q:"Canada and the United States share...", options:["No border at all","The world's longest international border","A border only in the Arctic","The same government"], answer:1},
